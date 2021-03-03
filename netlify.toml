@@ -1,0 +1,15 @@
+[build]
+  command = "npm run build"
+  publish = "_site"
+
+[[redirects]]
+  from = "https://pack11ty.netlify.com"
+  to = "https://pack11ty.dev"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://pack11ty.netlify.app"
+  to = "https://pack11ty.dev"
+  status = 301
+  force = true

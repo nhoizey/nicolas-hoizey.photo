@@ -1,0 +1,12 @@
+<nav role="navigation" class="cluster">
+  <ul>
+    {% for item in collections.navigation %}
+      <li
+        {% if item.url == '/' and page.url == '/' or (item.url != '/' and item.url in page.url) %}
+          class="current"
+        {% endif %}>
+        <a href="{{ item.data.nav.away or item.url }}">{{ item.data.nav.title or item.data.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
