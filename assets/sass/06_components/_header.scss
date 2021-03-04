@@ -7,17 +7,21 @@
   padding: 0.2rem 1rem;
   font-size: 2rem;
   font-weight: bold;
-  color: var(--theme-color-contrast);
-  background-color: var(--theme-color);
-  border-bottom: 2px solid var(--theme-color);
+  line-height: 1.1;
+  color: var(--logo-color);
+
+  span {
+    font-size: 1.65em;
+  }
 
   a {
-    // text-decoration: none;
-    color: var(--theme-color-contrast);
+    text-decoration: none;
+    color: var(--logo-color);
   }
 
   a:hover {
     text-decoration: underline;
+    color: #fff;
   }
 }
 
@@ -31,33 +35,22 @@ nav {
 
   li {
     flex-grow: 1;
-    text-align: center;
   }
 
   a {
     display: block;
     padding: 0.1em 0.5em;
-    color: var(--theme-color);
-    background-color: #ddd;
-    border: 2px solid #ddd;
-  }
-
-  .githubstars {
-    padding: 0.1em;
-    line-height: 1;
+    color: #ccc;
   }
 
   a:hover {
-    color: var(--theme-color-contrast);
-    background-color: var(--theme-color);
-    border-color: var(--theme-color);
+    color: #fff;
   }
 
   .current {
     a {
       text-decoration: none;
       font-weight: bold;
-      border-color: var(--theme-color);
     }
 
     a:hover {
