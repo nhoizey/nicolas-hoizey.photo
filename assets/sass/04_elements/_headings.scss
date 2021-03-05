@@ -3,7 +3,6 @@ h1 {
   padding-top: 0.2rem;
   padding-bottom: 0.2rem;
   font-size: 2rem;
-  border-bottom: 2px solid var(--theme-color);
 }
 
 h2,
@@ -13,5 +12,4 @@ h5,
 h6 {
   margin-top: calc(2 * var(--gap));
   margin-bottom: 0;
-  border-bottom: 1px solid var(--theme-color);
 }
