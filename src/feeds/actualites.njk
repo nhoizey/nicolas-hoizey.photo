@@ -1,19 +1,19 @@
 ---
-permalink: feeds/news.xml
+permalink: feeds/actualites.xml
 layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>News from {{ site.title }}</title>
-  <link href="{{ site.url }}/feeds/news.xml" rel="self"/>
+  <link href="{{ site.url }}/feeds/actualites.xml" rel="self"/>
   <link href="{{ site.url }}/"/>
-  <updated>{{ collections.news | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.actualites | rssLastUpdatedDate }}</updated>
   <id>{{ site.url }}</id>
   <author>
     <name>{{ site.author.name }}</name>
     <email>{{ site.author.email }}</email>
   </author>
-  {% for entry in collections.news | limit(20) %}
+  {% for entry in collections.actualites | limit(20) %}
     {% set absoluteEntryUrl %}{{ entry.url | url | absoluteUrl(site.url) }}{% endset %}
     {% set readableDate = entry.date | date("Do MMMM YYYY") %}
     <entry>

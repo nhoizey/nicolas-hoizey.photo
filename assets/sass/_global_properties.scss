@@ -2,13 +2,19 @@
   --gap: 1.5rem;
   --page-padding: var(--gap);
 
-  --sidebar: 20ch;
+  --sidebar: 15ch;
   --notsidebar: 75%;
 
   --maxcontent: 80ch;
 
-  --theme-color: yellow;
-  --theme-color-contrast: #222;
+  --theme-color: #222;
+  --theme-color-contrast: #eee;
+  --logo-color: #ccc;
+
+  --link-color: #ccc;
+  --link-hover-color: #fff;
+
+  --heading-color: #fff;
 
   --font-family-serif: Georgia, 'Times New Roman', Times, serif;
 
