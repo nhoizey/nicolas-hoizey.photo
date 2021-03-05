@@ -1,14 +1,14 @@
 ---
-title: News
+title: Actualités
 nav:
-  order: 3
+  order: 2
 ---
 
-These are latest news from [Pack11ty]{.pack11ty} :
+Voici les dernières actualités :
 
 <div class="stack">
 
-{% for entry in collections.news %}
+{% for entry in collections.actualites %}
 
   <article class="news">
     <h2 class="news__title"><a href="{{ entry.url }}">{{ entry.data.title }}</a></h2>
