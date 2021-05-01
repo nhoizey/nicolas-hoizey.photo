@@ -35,7 +35,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "@babel/core": "^7.13.8",
+    "@babel/core": "^7.14.0",
     "@babel/preset-env": "^7.13.9",
     "@jlengstorf/get-share-image": "^0.8.0",
     "@rollup/plugin-node-resolve": "^11.2.1",
