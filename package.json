@@ -33,7 +33,7 @@
     "debug:build": "DEBUG=Eleventy* npm run build"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@babel/core": "^7.13.8",
     "@babel/preset-env": "^7.13.9",
