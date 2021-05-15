@@ -11,7 +11,11 @@ module.exports = {
       }
 
       // Default layout is a page
-      let layout = 'pages';
+      let layout = 'page';
+
+      if (data.photo !== undefined) {
+        return 'photo';
+      }
 
       // Let's find if this content is in a collection folder
       // (a root folder without a '_' prefix)

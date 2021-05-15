@@ -1,35 +1,34 @@
 {
-  "name": "pack11ty",
-  "version": "1.0.0-alpha.7",
-  "title": "Pack11ty",
-  "description": "an heavily opinionated Eleventy template project",
-  "homepage": "https://pack11ty.dev/",
+  "name": "nho-photo",
+  "version": "1.0.0-alpha.1",
+  "title": "Nicolas Hoizey photo",
+  "description": "The photography portfolio of Nicolas Hoizey",
+  "homepage": "https://nicolas-hoizey.photo/",
   "author": {
     "name": "Nicolas Hoizey",
     "url": "https://nicolas-hoizey.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhoizey/pack11ty.git"
+    "url": "git+https://github.com/nhoizey/nicolas-hoizey.photo.git"
   },
   "bugs": {
-    "url": "https://github.com/nhoizey/pack11ty/issues"
+    "url": "https://github.com/nhoizey/nicolas-hoizey.photo/issues"
   },
   "license": "MIT",
   "scripts": {
     "clean": "rimraf _site",
-    "sass": "sass --no-source-map assets/sass:_site/css",
-    "postcss": "postcss _site/css/*.css --no-map --replace",
+    "sass": "sass --no-source-map assets/sass:_site/ui/css",
+    "postcss": "postcss _site/ui/css/*.css --no-map --replace",
     "build:sass": "npm-run-all --sequential sass postcss",
-    "watch:sass": "sass --source-map-urls=absolute --watch assets/sass:_site/css",
+    "watch:sass": "sass --source-map-urls=absolute --watch assets/sass:_site/ui/css",
     "build:js": "rollup -c",
     "watch:js": "rollup -c --watch",
     "build:eleventy": "eleventy",
     "watch:eleventy": "eleventy --serve",
-    "serviceworker": "workbox injectManifest workbox.config.js",
     "start": "cross-env NODE_ENV=development npm-run-all --sequential clean build:js --parallel watch:*",
     "debug:start": "DEBUG=Eleventy* npm start",
-    "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy serviceworker",
+    "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy",
     "debug:build": "DEBUG=Eleventy* npm run build"
   },
   "devDependencies": {
@@ -75,20 +74,10 @@
     "rollup": "^2.40.0",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-commonjs": "^10.1.0",
-    "rollup-plugin-entrypoint-hashmanifest": "^0.1.2",
     "rollup-plugin-terser": "^7.0.2",
     "sanitize-html": "^2.3.3",
     "sass": "~1.32.8",
     "truncate-html": "^1.0.3",
-    "twitter-text": "^3.1.0",
-    "workbox-broadcast-update": "6.1.2",
-    "workbox-cacheable-response": "6.1.1",
-    "workbox-cli": "^6.0.2",
-    "workbox-core": "6.1.2",
-    "workbox-expiration": "6.1.1",
-    "workbox-google-analytics": "6.1.2",
-    "workbox-precaching": "6.1.1",
-    "workbox-routing": "6.1.5",
-    "workbox-strategies": "6.1.1"
+    "twitter-text": "^3.1.0"
   }
 }

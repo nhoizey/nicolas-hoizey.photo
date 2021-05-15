@@ -1,0 +1,8 @@
+{% macro js(javascript, path) %}
+  {% set criticalJs %}
+  {% include_raw path + "/ui/js/" + javascript + ".js" %}
+  {% endset %}
+  <script>
+    {{ criticalJs | replace('//# sourceMappingURL=', '//# sourceMappingURL=/ui/js/') | safe }}
+  </script>
+{% endmacro %}

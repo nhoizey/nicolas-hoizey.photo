@@ -1,20 +1,22 @@
+@use '../variables' as *;
+
 /*
 Every Layout's cluster layout:
 https://absolutely.every-layout.dev/layouts/cluster/
 */
 
-.cluster {
+%cluster {
   overflow: hidden;
 }
 
-.cluster > * {
+%cluster > * {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: center;
-  margin: calc(var(--gap) / 2 * -1);
+  margin: $gap / 2 * -1;
 }
 
-.cluster > * > * {
-  margin: calc(var(--gap) / 2);
+%cluster > * > * {
+  margin: $gap / 2;
 }

@@ -1,8 +1,5 @@
 ---
-title: Bienvenue !
-nav:
-  order: 1
-  title: Accueil
+title: Welcome!
 ---
 
-Bienvenue dans le portfolio photographique de Nicolas Hoizey.
+Welcome to Nicolas Hoizey photography portfolio

@@ -1,42 +1,62 @@
-@import 'every_layout/sidebar';
-@import 'every_layout/cluster';
-@import 'every_layout/stack';
+@use './variables' as *;
+@use "sass:map";
 
-// Box sizing:
-// http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
-html {
-  box-sizing: border-box;
-  text-size-adjust: 100%;
-  // https://twitter.com/TimVereecke/status/1239454788116533248
-  // https://twitter.com/lfredolo/status/1240301405325361152
-  overflow-y: scroll;
-}
+/* ********************************************
+* LAYOUT
+* ********************************************/
 
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
-
-// container for the whole page
-.page {
-  margin: var(--gap);
-
+body {
+  margin: 0;
+  padding: $gap;
   display: flex;
   flex-direction: column;
+  gap: 0;
+  min-height: 100vh;
+}
 
-  min-height: calc(100vh - 2 * var(--gap));
+.page {
+  flex-grow: 1;
+
+  display: grid;
+  gap: 2vw;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    'logo'
+    'navigation'
+    'main';
+  grid-auto-rows: min-content min-content auto;
+
+  @media (min-width: $breakpoint-m) {
+    // 4+5 compound grid from https://stuffandnonsense.co.uk/layoutlove/
+    grid-template-columns: 6fr 1fr 4fr 3fr 3fr 4fr 1fr 6fr;
+    grid-template-areas:
+      'logo navigation navigation navigation navigation navigation navigation navigation'
+      'main main main main main main main main';
+    grid-auto-rows: min-content auto;
+  }
+
+  @media (min-width: $breakpoint-l) {
+    grid-template-areas:
+      'logo main main main main main main main'
+      'navigation main main main main main main main';
+  }
+
+  @media (min-width: $breakpoint-xl) {
+    grid-template-areas:
+      'logo . main main main main main main'
+      'navigation . main main main main main main';
+  }
+}
+
+.logo {
+  grid-area: logo;
+  align-self: start;
+}
+
+nav {
+  grid-area: navigation;
 }
 
 main {
-  max-width: var(--maxcontent);
-}
-
-// Lobotomized owl
-main > * + * {
-  margin-top: var(--gap);
-}
-
-header > * {
-  align-items: baseline;
+  grid-area: main;
 }

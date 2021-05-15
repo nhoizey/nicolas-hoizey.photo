@@ -5,59 +5,25 @@
   </head>
 
   <body
-  data-img-src="{{ page.inputPath | dirname }}/"
-  data-img-dist="{{ page.outputPath | dirname }}/"
->
+    data-img-src="{{ page.inputPath | dirname }}/"
+    data-img-dist="{{ page.outputPath | dirname }}/"
+  >
     <div class="page">
-      {#
-  Use Every Layout's sidebar layout:
-  https://absolutely.every-layout.dev/layouts/sidebar/
-  #}
-      <div class="with-sidebar">
-        <div>
-          <div class="sidebar">
-
-            <header role="banner" class="cluster">
-              <div>
-                <div class="sitelogo-parent">
-                  {% if page.url == '/' %}
-                    <h1 class="sitelogo">Synthèse <span>photo</span></h1>
-                  {% else %}
-                    <p class="sitelogo">
-                      <a href="/">Synthèse <span>photo</span></a>
-                    </p>
-                  {% endif %}
-                </div>
-                <div>
-                  {% include "components/navigation.njk" %}
-                </div>
-              </div>
-            </header>
-
-          </div>
-          <div class="not-sidebar">
-            <main role="main">
-              {% block content %}
-                {{ content | safe }}
-              {% endblock %}
-            </main>
-          </div>
-        </div>
+      <div class="logo">
+        {% include 'components/logo.njk' %}
       </div>
-      {% include "components/footer.njk" %}
+      <nav role="navigation">
+        {% include 'components/navigation.njk' %}
+      </nav>
+      <main role="main">
+        {% block content %}
+          {{ content | safe }}
+        {% endblock %}
+      </main>
     </div>
-    {% if build.env == 'production' %}
-      <link rel="stylesheet" href="/css/{{ hashes_css['additional.css'] }}" />
-    {% else %}
-      <link rel="stylesheet" href="/css/additional.css" />
-    {% endif %}
-
-    {#
-https://buzut.net/configurer-rollup-bundles-esm-cjs/
-https://v8.dev/features/modules#browser
-#}
-    <script async type="module" src="/js/{{ hashes_additional_es[config.dir.assets + '/js/additional.js']}}"></script>
-    <script async nomodule src="/js/{{ hashes_additional_iife[config.dir.assets + '/js/additional.js']}}"></script>
+    <footer class="footer">
+      {% include 'components/footer.njk' %}
+    </footer>
   </body>
 
 </html>

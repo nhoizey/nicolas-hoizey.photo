@@ -1,0 +1,41 @@
+@use '../variables' as *;
+
+nav {
+  justify-self: end;
+  align-self: start;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+
+    display: flex;
+    gap: $gap;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  li {
+    flex-grow: 1;
+  }
+
+  a:link,
+  a:visited {
+    text-decoration: none;
+  }
+
+  @media (min-width: $breakpoint-m) {
+    justify-self: end;
+  }
+
+  @media (min-width: $breakpoint-l) {
+    margin-top: $gap;
+
+    justify-self: start;
+
+    ul {
+      flex-direction: column;
+      padding-left: $gap;
+    }
+  }
+}

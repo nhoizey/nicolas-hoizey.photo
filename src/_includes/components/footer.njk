@@ -1,3 +1,9 @@
-<footer>
-  <p>Built by Nicolas Hoizey (<a href="https://github.com/nhoizey" rel="me">on github</a>) with <a href="https://www.11ty.dev/">Eleventy</a> and hosted by <a href="https://netlify.com/">Netlify</a>.</p>
-</footer>
+{% from "macros/css.njk" import css %}
+{{ css('components/footer', config.dir.dist) }}
+
+<div class="social">
+  <p><a href="https://flickr.com/people/nicolas-hoizey/">Flickr</a></p>
+</div>
+<div class="builtwith">
+  <p>Built by <a href="https://nicolas-hoizey.com/" rel="me">Nicolas Hoizey</a> with <a href="https://www.11ty.dev/">Eleventy</a> and hosted on <a href="https://netlify.com/">Netlify</a>.</p>
+</div>
