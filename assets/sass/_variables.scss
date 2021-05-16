@@ -1,14 +1,29 @@
 /* ********************************************
-* VARIABLES
-* ********************************************/
+  * VARIABLES
+  * ********************************************/
 
 $gap: 1.5rem;
 
-$color-theme: rebeccapurple;
-$color-surface: #050308;
+/* Colors palette:
+ * https://hihayk.github.io/scale/#5/5/95/95/0/0/0/0/663399/102/51/153/white
+ */
+$color-theme-darker-5: #050308;
+$color-theme-darker-4: #190c25;
+$color-theme-darker-3: #2c1642;
+$color-theme-darker-2: #3f205f;
+$color-theme-darker-1: #53297c;
+$color-theme: rebeccapurple; // #663399
+$color-theme-lighter-1: #835aac;
+$color-theme-lighter-2: #a081c0;
+$color-theme-lighter-3: #bda7d3;
+$color-theme-lighter-4: #dacee7;
+$color-theme-lighter-5: #f7f5fa;
+
+$color-surface: $color-theme-darker-5;
 $color-text: #ccc;
 $color-link: #fff;
 $color-logo: $color-theme;
 
+/* Main breakpoints */
 $breakpoint-s: 50em;
 $breakpoint-m: 60em;
