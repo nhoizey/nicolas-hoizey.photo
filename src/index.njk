@@ -2,14 +2,15 @@
 title: Welcome!
 ---
 
-<p>Welcome to Nicolas Hoizey photography portfolio</p>
+<p>Welcome to Nicolas Hoizey's photography portfolio!</p>
+<p>Here are the latest photos published here:</p>
 
 <div class="gallery">
   {% for item in collections.photos | limit(6) %}
     <figure>
       <a href="{{ item.url }}">
-        <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title | safe}}" />
-        <figcaption>{{ item.data.title | safe }}, {{ item.date | date("Do MMMM YYYY") }}</figcaption>
+        <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title}}" />
+        <figcaption>{{ item.data.title }}</figcaption>
       </a>
     </figure>
   {% endfor %}

@@ -4,7 +4,8 @@ layout: page
 
 {{ content | safe }}
 
-{% set subgalleries = collections.photos | subgalleries(page.url) %}
+{% set subgalleries = collections.galleries | subgalleries(page.url) %}
+
 {% if subgalleries | length %}
 
 <h2>Galleries</h2>
@@ -23,7 +24,7 @@ layout: page
       <figure>
         <a href="{{ item.url }}">
           <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
-          <figcaption>{{ item.data.title }}, {{ item.date | date("Do MMMM YYYY") }}</figcaption>
+          <figcaption>{{ item.data.title }}</figcaption>
         </a>
       </figure>
     {% endfor %}
@@ -37,7 +38,7 @@ layout: page
       <figure>
         <a href="{{ item.url }}">
           <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
-          <figcaption>{{ item.data.title }}, {{ item.date | date("Do MMMM YYYY") }}</figcaption>
+          <figcaption>{{ item.data.title }}</figcaption>
         </a>
       </figure>
     {% endfor %}

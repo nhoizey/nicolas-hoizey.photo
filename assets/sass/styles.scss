@@ -79,6 +79,13 @@ img {
 * GALLERY
 * ********************************************/
 
+.gallery {
+  display: grid;
+  column-gap: $gap;
+  row-gap: $gap * 2;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+}
+
 figure {
   margin: 0;
 
@@ -87,10 +94,10 @@ figure {
     padding: 4px;
     border: 4px solid white;
   }
-}
 
-.gallery {
-  display: grid;
-  gap: $gap;
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  figcaption {
+    margin-left: $gap;
+    font-size: 0.9em;
+    color: #ccc;
+  }
 }

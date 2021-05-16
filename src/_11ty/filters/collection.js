@@ -14,9 +14,10 @@ module.exports = {
     });
   },
   subgalleries: (collection, url) => {
-    return collection.filter((page) => {
+    const sub = collection.filter((page) => {
       const r = new RegExp(`^${url}[^/]+\/$`);
       return page.data.photo === undefined && r.test(page.url);
     });
+    return sub;
   },
 };
