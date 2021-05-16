@@ -31,10 +31,10 @@ layout: page
   </div>
 {% endif %}
 
-{% set photos_bellow = collections.photos | photos_bellow(page.url) %}
-{% if photos_bellow | length %}
+{% set photos_below = collections.photos | photos_below(page.url) %}
+{% if photos_below | length %}
   <div class="gallery">
-    {% for item in photos_bellow %}
+    {% for item in photos_below %}
       <figure>
         <a href="{{ item.url }}">
           <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
