@@ -5,22 +5,36 @@
 * ********************************************/
 
 .logo {
-  --logo: clamp(0.4rem, 0.2rem + 1.2vw, 0.9rem);
   font-family: Coniferous, sans-serif;
-
-  & h1,
-  & a {
-    margin: 0;
-    padding: 0;
-  }
-
-  line-height: 1.2;
+  font-size: clamp(1.2rem, 1rem + 5vw, 3rem);
+  line-height: 1;
+  vertical-align: baseline;
 
   color: $color-logo;
 
+  h1,
+  a {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+
+    display: grid;
+    gap: 0.5ch;
+    grid-template-areas: 'n h p';
+    grid-template-columns: min-content min-content auto;
+
+    @media (min-width: $breakpoint-m) {
+      grid-template-areas:
+        'n'
+        'h'
+        'p';
+      grid-template-columns: 1fr;
+      gap: 0;
+    }
+  }
+
   a:link,
   a:visited {
-    display: inline-block;
     text-decoration: none;
     color: $color-logo;
   }
@@ -32,23 +46,34 @@
     text-decoration-color: $color-logo;
     text-decoration-thickness: 3px;
   }
-}
 
-.logo__n {
-  font-size: calc(3.3 * var(--logo));
-  font-weight: 300;
-}
+  .n {
+    grid-area: n;
+    align-self: end;
 
-.logo__h {
-  font-size: calc(3 * var(--logo));
-  font-weight: 700;
-}
+    font-weight: 200;
 
-.logo__photo {
-  font-size: calc(1.9 * var(--logo));
-  font-weight: 300;
-}
+    @media (min-width: $breakpoint-m) {
+      font-size: 1.2em;
+    }
+  }
 
-.logo__graphy {
-  display: none;
+  .h {
+    grid-area: h;
+    align-self: end;
+
+    font-weight: 700;
+  }
+
+  .p {
+    grid-area: p;
+    align-self: end;
+
+    @media (min-width: $breakpoint-m) {
+      font-size: 0.7em;
+    }
+
+    font-weight: 200;
+    color: lighten($color-logo, 20%);
+  }
 }

@@ -2,7 +2,9 @@
 layout: page
 ---
 
-{% set subgalleries = collections.travel | subgalleries(page.url) %}
+{{ content | safe }}
+
+{% set subgalleries = collections.photos | subgalleries(page.url) %}
 {% if subgalleries | length %}
 
 <h2>Galleries</h2>
@@ -14,7 +16,7 @@ layout: page
 </ul>
 {% endif %}
 
-{% set photos_here = collections.travel | photos_here(page.url) %}
+{% set photos_here = collections.photos | photos_here(page.url) %}
 {% if photos_here | length %}
   <div class="gallery">
     {% for item in photos_here %}
@@ -28,7 +30,7 @@ layout: page
   </div>
 {% endif %}
 
-{% set photos_bellow = collections.travel | photos_bellow(page.url) %}
+{% set photos_bellow = collections.photos | photos_bellow(page.url) %}
 {% if photos_bellow | length %}
   <div class="gallery">
     {% for item in photos_bellow %}

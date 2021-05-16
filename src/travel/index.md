@@ -1,7 +1,7 @@
 ---
 title: Travel
 nav:
-  order: 1
+  order: 2
 ---
 
-{{ layout }}
+blah blah

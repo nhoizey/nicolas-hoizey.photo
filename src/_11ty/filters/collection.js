@@ -6,6 +6,8 @@ module.exports = {
     });
   },
   photos_bellow: (collection, url) => {
+    // Inspired by @tylersticka
+    // https://github.com/11ty/eleventy/issues/399#issuecomment-466514166
     return collection.filter((page) => {
       const r = new RegExp(`^${url}[^/]+\/([^/]+\/)+$`);
       return page.data.photo !== undefined && r.test(page.url);

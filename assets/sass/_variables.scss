@@ -4,13 +4,11 @@
 
 $gap: 1.5rem;
 
-$color-surface: #190c25;
+$color-theme: rebeccapurple;
+$color-surface: #050308;
+$color-text: #ccc;
+$color-link: #fff;
+$color-logo: $color-theme;
 
-$color-text: #f7f5fa;
-
-$color-logo: rebeccapurple;
-
-$breakpoint-s: 20em;
-$breakpoint-m: 30em;
-$breakpoint-l: 50em;
-$breakpoint-xl: 60em;
+$breakpoint-s: 50em;
+$breakpoint-m: 60em;

@@ -1,0 +1,57 @@
+/* ********************************************
+* FONTS
+* ********************************************/
+
+@font-face {
+  font-family: 'Coniferous';
+  src: url(/ui/fonts/Coniferous-Thin) format('woff2'),
+    url(/ui/fonts/Coniferous-Thin.woff) format('woff');
+  font-weight: 200;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Coniferous';
+  src: url(/ui/fonts/Coniferous-Light) format('woff2'),
+    url(/ui/fonts/Coniferous-Light.woff) format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Coniferous';
+  src: url(/ui/fonts/Coniferous-Regular) format('woff2'),
+    url(/ui/fonts/Coniferous-Regular.woff) format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Coniferous';
+  src: url(/ui/fonts/Coniferous-Medium.woff2) format('woff2'),
+    url(/ui/fonts/Coniferous-Medium.woff) format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Coniferous';
+  src: url(/ui/fonts/Coniferous-Bold.woff2) format('woff2'),
+    url(/ui/fonts/Coniferous-Bold.woff) format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Coniferous';
+  src: url(/ui/fonts/Coniferous-Black.woff2) format('woff2'),
+    url(/ui/fonts/Coniferous-Black.woff) format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+}

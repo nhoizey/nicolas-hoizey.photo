@@ -1,5 +1,4 @@
 @use './variables' as *;
-@use "sass:map";
 
 /* ********************************************
 * LAYOUT
@@ -8,55 +7,43 @@
 body {
   margin: 0;
   padding: $gap;
+  min-height: 100vh;
+
   display: flex;
   flex-direction: column;
-  gap: 0;
-  min-height: 100vh;
+  gap: $gap;
 }
 
 .page {
   flex-grow: 1;
 
-  display: grid;
-  gap: 2vw;
-  grid-template-columns: 1fr;
-  grid-template-areas:
-    'logo'
-    'navigation'
-    'main';
-  grid-auto-rows: min-content min-content auto;
+  display: flex;
+  flex-direction: column;
+  gap: $gap * 2;
+
+  main {
+    flex-grow: 1;
+  }
 
   @media (min-width: $breakpoint-m) {
-    // 4+5 compound grid from https://stuffandnonsense.co.uk/layoutlove/
-    grid-template-columns: 6fr 1fr 4fr 3fr 3fr 4fr 1fr 6fr;
-    grid-template-areas:
-      'logo navigation navigation navigation navigation navigation navigation navigation'
-      'main main main main main main main main';
-    grid-auto-rows: min-content auto;
-  }
-
-  @media (min-width: $breakpoint-l) {
-    grid-template-areas:
-      'logo main main main main main main main'
-      'navigation main main main main main main main';
-  }
-
-  @media (min-width: $breakpoint-xl) {
-    grid-template-areas:
-      'logo . main main main main main main'
-      'navigation . main main main main main main';
+    flex-direction: row;
+    gap: $gap * 4;
   }
 }
 
-.logo {
-  grid-area: logo;
-  align-self: start;
-}
+header {
+  display: flex;
+  flex-direction: column;
+  gap: $gap;
 
-nav {
-  grid-area: navigation;
-}
+  @media (min-width: $breakpoint-s) {
+    flex-direction: row;
+    align-items: flex-end;
+  }
 
-main {
-  grid-area: main;
+  @media (min-width: $breakpoint-m) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: $gap * 2;
+  }
 }

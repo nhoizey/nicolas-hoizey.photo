@@ -1,7 +1,7 @@
 ---
 title: Blog
 nav:
-  order: 3
+  order: 4
 ---
 
 Voici les dernières actualités :

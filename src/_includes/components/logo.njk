@@ -1,6 +1,8 @@
 {% from "macros/css.njk" import css %}
 {{ css('components/logo', config.dir.dist) }}
 
-{% if page.url == '/' %}<h1>{% else %}<a href="/">{% endif %}
-  <span class="logo__n">Nicolas</span> <span class="logo__h">Hoizey</span> <span class="logo__photo">photography</span>
-{% if page.url == '/' %}</h1>{% else %}</a>{% endif %}
+<div class="logo">
+  {%- if page.url == '/' -%}<h1>{%- else -%}<a href="/">{%- endif -%}
+    <span class="n">Nicolas</span> <span class="h">Hoizey</span> <span class="p">photography</span>
+  {%- if page.url == '/' -%}</h1>{%- else -%}</a>{%- endif -%}
+</div>
