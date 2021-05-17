@@ -17,4 +17,10 @@ module.exports = {
       const r = new RegExp(`^${url}[^/]+\/$`);
       return page.data.photo === undefined && r.test(page.url);
     }),
+  breadcrumb: (collection, url) => {
+    return collection.filter((page) => {
+      const r = new RegExp(`^${page.url}[^/]+\/`);
+      return page.data.photo === undefined && r.test(url);
+    });
+  },
 };

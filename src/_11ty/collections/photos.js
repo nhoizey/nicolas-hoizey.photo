@@ -12,5 +12,5 @@ module.exports = {
         (item) =>
           item.url.match(/^\/(travel|people)\//) && !('photo' in item.data)
       )
-      .sort((a, b) => b.data.title.localeCompare(a.data.title), 'en'),
+      .sort((a, b) => b.data.title.localeCompare(a.data.title, 'en')),
 };

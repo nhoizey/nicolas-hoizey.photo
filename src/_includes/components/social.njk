@@ -2,7 +2,12 @@
 {{ css('components/social', config.dir.dist) }}
 
 <div id="social">
+  <p>Find me also on</p>
   <ul>
-    <li>{% icon "flickr", "Flickr" %} <a href="https://flickr.com/people/nicolas-hoizey/">Flickr</a></li>
+    <li>{% icon 'flickr', 'Flickr' %} <a href="https://flickr.com/people/nicolas-hoizey/" rel="me">Flickr</a></li>
+    <li>{% icon 'unsplash', 'Unsplash' %} <a href="https://unsplash.com/@nhoizey" rel="me">Unsplash</a></li>
+    <li>{% icon 'twitter', 'Twitter' %} <a href="https://twitter.com/nhoizey" rel="me">Twitter</a></li>
+    <li><a href="https://pixelfed.social/nhoizey" rel="me">pixelfed</a></li>
+    <li><a href="https://www.locationscout.net/@nhoizey" rel="me">Locationscout</a></li>
   </ul>
 </div>

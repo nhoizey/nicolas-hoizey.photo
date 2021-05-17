@@ -22,12 +22,23 @@ nav {
     }
   }
 
+  svg {
+    display: none;
+
+    @media (min-width: $breakpoint-m) {
+      display: inline-block;
+      margin-left: calc(-1 * var(--space-s));
+    }
+  }
+
   a:link,
   a:visited {
+    display: inline-block;
     text-decoration: none;
   }
 
   a:hover {
+    color: $color-theme-lighter-5;
     text-decoration-line: underline;
     text-decoration-color: $color-link;
     text-decoration-thickness: 3px;

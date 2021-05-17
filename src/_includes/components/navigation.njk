@@ -4,11 +4,16 @@
 <nav id="nav" role="navigation">
   <ul>
     {% for item in collections.navigation %}
+      {% set targetUrl = item.data.nav.away or item.url %}
+      {% set targetLabel = item.data.nav.title or item.data.title %}
       <li
         {% if item.url == '/' and page.url == '/' or (item.url != '/' and item.url in page.url) %}
           class="current"
         {% endif %}>
-        <a href="{{ item.data.nav.away or item.url }}">{{ item.data.nav.title or item.data.title }}</a>
+        {% if item.data.nav.icon %}
+          {% icon item.data.nav.icon, targetLabel %}
+        {% endif %}
+        <a href="{{ targetUrl }}">{{ targetLabel }}</a>
       </li>
     {% endfor %}
   </ul>
