@@ -64,6 +64,10 @@ h2 {
   font-size: var(--step-2);
 }
 
+main > h2 {
+  margin-top: 0;
+}
+
 h3 {
   font-size: var(--step-1);
 }
