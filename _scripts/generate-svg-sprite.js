@@ -13,19 +13,26 @@ const ICONS_FOLDERS = {
 // icon filename + title for accessibility
 const ICONS_LIST = {
   feather: {
-    anchor: { title: 'Anchor' },
-    calendar: { name: 'date', title: 'Date' },
-    info: { title: 'Info' },
-    'map-pin': { name: 'location', title: 'Location' },
-    rss: { name: 'feeds', title: 'Feeds' },
-    search: { title: 'Search' },
-    tag: { name: 'tags', title: 'Tag' },
-    twitter: { title: 'Twitter' },
+    aperture: {},
+    calendar: { name: 'date' },
+    camera: {},
+    download: {},
+    'file-text': { name: 'blog' },
+    folder: {},
+    globe: { name: 'travel' },
+    home: {},
+    inbox: { name: 'contact' },
+    info: {},
+    map: { name: 'location' },
+    rss: { name: 'feeds' },
+    star: { name: 'favorite' },
+    twitter: {},
+    users: { name: 'people' },
+    watch: { name: 'exposition' },
   },
   simple: {
-    flickr: { title: 'Flickr' },
-    // github: { title: 'GitHub' },
-    // mastodon: { title: 'Mastodon' },
+    flickr: {},
+    unsplash: {},
   },
   local: {
     // older: { title: 'Older' },
@@ -45,7 +52,6 @@ let sprite = svgstore({
 Object.entries(ICONS_LIST).forEach(([source, icons]) => {
   Object.entries(icons).forEach(([icon, properties]) => {
     // Log the name of the icon and its title to the console
-    console.log(`${icon}.svg -> ${properties.title}`);
     const svgFile = fs
       // Load the content of the icon SVG file
       .readFileSync(path.join(ICONS_FOLDERS[source], `${icon}.svg`), 'utf8')
@@ -56,11 +62,19 @@ Object.entries(ICONS_LIST).forEach(([source, icons]) => {
         / fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-[^"]+">/,
         ' >'
       );
+    const name = properties.name || icon;
+    const title =
+      properties.title || name.charAt(0).toUpperCase() + name.slice(1);
+
+    console.log(`${icon}.svg
+-> #${name} : ${title}
+`);
+
     // Add the new symbol to the sprite
-    sprite.add(`symbol-${properties.name || icon}`, svgFile, {
+    sprite.add(`symbol-${name}`, svgFile, {
       // Add attributes for accessibility
       symbolAttrs: {
-        'aria-label': properties.title,
+        'aria-label': title,
         role: 'img',
       },
     });
@@ -72,3 +86,7 @@ fs.writeFileSync(
   'src/_includes/svg-sprite.svg',
   sprite.toString({ inline: true })
 );
+
+// Also generate an external SVG for not critical loading
+// Would require https://github.com/svgstore/svgstore/issues/24
+// fs.writeFileSync('src/ui/svg-sprite.svg', sprite.toString({ inline: false }));
