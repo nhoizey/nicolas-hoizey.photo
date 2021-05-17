@@ -1,7 +1,7 @@
 {% from "macros/css.njk" import css %}
 {{ css('components/navigation', config.dir.dist) }}
 
-<nav role="navigation">
+<nav id="nav" role="navigation">
   <ul>
     {% for item in collections.navigation %}
       <li
@@ -12,4 +12,5 @@
       </li>
     {% endfor %}
   </ul>
+  {% include 'components/social.njk' %}
 </nav>

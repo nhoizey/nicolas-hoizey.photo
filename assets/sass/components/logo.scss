@@ -18,12 +18,8 @@
     padding: 0;
     font-size: 1em;
 
-    display: grid;
-    gap: 0.5ch;
-    grid-template-areas: 'n h p';
-    grid-template-columns: min-content min-content auto;
-
     @media (min-width: $breakpoint-m) {
+      display: grid;
       grid-template-areas:
         'n'
         'h'

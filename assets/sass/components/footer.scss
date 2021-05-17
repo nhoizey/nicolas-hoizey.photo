@@ -1,5 +1,6 @@
 @use '../variables' as *;
 
-footer {
-  margin-top: $gap;
+#footer {
+  margin-top: var(--space-m);
+  font-size: var(--step--1);
 }

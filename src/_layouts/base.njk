@@ -9,17 +9,18 @@
     data-img-dist="{{ page.outputPath | dirname }}/"
   >
     <div class="page">
-      <header>
+      <header id="header" role="banner">
         {% include 'components/logo.njk' %}
         {% include 'components/navigation.njk' %}
       </header>
-      <main role="main">
+      <main id="main" role="main">
         {% block content %}
           {{ content | safe }}
         {% endblock %}
       </main>
     </div>
     {% include 'components/footer.njk' %}
+    {% include "svg-sprite.svg" %}
   </body>
 
 </html>

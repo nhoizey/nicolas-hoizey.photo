@@ -1,0 +1,22 @@
+{% macro meta(item) %}
+  <ul class="meta">
+    {% if item.date %}
+      <li class="date meta__item meta__date">
+        {% icon "date", "Date" %}
+        <time class="dt-published" datetime="{{ item.date | date("YYYY-MM-DD") }}">
+          {{ item.date | date("Do MMMM YYYY") }}
+        </time>
+      </li>
+    {% endif %}
+    {% if item.data.location %}
+      <li class="date meta__item meta__location">
+        {% icon "location", "Location" %}
+        {% if item.data.location.url %}
+          <a href="{{ item.data.location.url }}">{{ item.data.location.name }}</a>
+        {% else %}
+          {{ item.data.location.name }}
+        {% endif %}
+      </li>
+    {% endif %}
+  </ul>
+{% endmacro %}

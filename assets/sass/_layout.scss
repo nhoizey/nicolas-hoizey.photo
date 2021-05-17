@@ -6,12 +6,12 @@
 
 body {
   margin: 0;
-  padding: $gap;
+  padding: var(--space-m);
   min-height: 100vh;
 
   display: flex;
   flex-direction: column;
-  gap: $gap;
+  gap: var(--space-m);
 }
 
 .page {
@@ -19,7 +19,7 @@ body {
 
   display: flex;
   flex-direction: column;
-  gap: $gap * 2;
+  gap: var(--space-l);
 
   main {
     flex-grow: 1;
@@ -27,14 +27,14 @@ body {
 
   @media (min-width: $breakpoint-m) {
     flex-direction: row;
-    gap: $gap * 4;
+    gap: var(--space-2xl);
   }
 }
 
-header {
+#header {
   display: flex;
   flex-direction: column;
-  gap: $gap;
+  gap: var(--space-m);
 
   @media (min-width: $breakpoint-s) {
     flex-direction: row;
@@ -44,6 +44,6 @@ header {
   @media (min-width: $breakpoint-m) {
     flex-direction: column;
     align-items: flex-start;
-    gap: $gap * 2;
+    gap: var(--space-l);
   }
 }

@@ -1,5 +1,8 @@
 @use './variables' as *;
+@use './utopia';
 @use './layout';
+@use './components/blog';
+@use './components/meta';
 
 /* ********************************************
 * UTILITIES
@@ -7,7 +10,7 @@
 
 // Lobotomized owl
 .owl > * + * {
-  margin-top: $gap;
+  margin-top: var(--space-m);
 }
 
 // Box sizing:
@@ -32,7 +35,7 @@ body {
 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  font-size: clamp(1rem, 0.8rem + 1vw, 1.5rem);
+  font-size: var(--step-0);
   line-height: 1.5;
 }
 
@@ -48,10 +51,21 @@ h5,
 h6 {
   font-family: Coniferous, sans-serif;
   font-weight: 200;
+  line-height: 1.2;
 }
 
 h1 {
   margin-top: 0;
+  font-size: var(--step-3);
+  font-weight: 700;
+}
+
+h2 {
+  font-size: var(--step-2);
+}
+
+h3 {
+  font-size: var(--step-1);
 }
 
 /* ********************************************
@@ -75,14 +89,23 @@ img {
   height: auto;
 }
 
+svg {
+  margin: 0;
+  padding: 0;
+
+  width: 1em;
+  height: 1em;
+  vertical-align: text-bottom;
+}
+
 /* ********************************************
 * GALLERY
 * ********************************************/
 
 .gallery {
   display: grid;
-  column-gap: $gap;
-  row-gap: $gap * 2;
+  column-gap: var(--space-m);
+  row-gap: var(--space-l);
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
 }
 
@@ -96,8 +119,8 @@ figure {
   }
 
   figcaption {
-    margin-left: $gap;
-    font-size: 0.9em;
+    margin-left: var(--space-m);
+    font-size: var(--step--1);
     color: #ccc;
   }
 }

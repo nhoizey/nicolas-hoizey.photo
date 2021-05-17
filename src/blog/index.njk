@@ -1,0 +1,21 @@
+---
+title: Blog
+layout: page
+nav:
+  order: 4
+---
+
+{% from "macros/blog/meta.njk" import meta %}
+
+Here are the latest news:
+
+<div class="blog">
+
+{% for entry in collections.blog %}
+  <article>
+    <h2><a href="{{ entry.url }}">{{ entry.data.title }}</a></h2>
+    {{ meta(entry) }}
+  </article>
+{% endfor %}
+
+</div>

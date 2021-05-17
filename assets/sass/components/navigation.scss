@@ -9,7 +9,7 @@ nav {
     padding-left: 0;
 
     display: flex;
-    gap: $gap;
+    gap: var(--space-s);
     flex-direction: row;
     flex-wrap: wrap;
 
@@ -17,8 +17,8 @@ nav {
 
     @media (min-width: $breakpoint-m) {
       flex-direction: column;
-      gap: $gap / 2;
-      margin-left: $gap;
+      gap: var(--space-s);
+      margin-left: var(--space-s);
     }
   }
 

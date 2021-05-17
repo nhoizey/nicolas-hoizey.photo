@@ -29,7 +29,8 @@
     "start": "cross-env NODE_ENV=development npm-run-all --sequential clean build:js --parallel watch:*",
     "debug:start": "DEBUG=Eleventy* npm start",
     "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy",
-    "debug:build": "DEBUG=Eleventy* npm run build"
+    "debug:build": "DEBUG=Eleventy* npm run build",
+    "sprite": "node ./_scripts/generate-svg-sprite.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
@@ -51,6 +52,7 @@
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-prettier": "3.3.1",
     "fast-glob": "^3.2.5",
+    "feather-icons": "~4.28.0",
     "html-entities": "^2.3.2",
     "html-minifier": "^4.0.0",
     "image-size": "^0.9.4",
@@ -77,6 +79,8 @@
     "rollup-plugin-terser": "^7.0.2",
     "sanitize-html": "^2.3.3",
     "sass": "~1.32.8",
+    "simple-icons": "~4.24.0",
+    "svgstore": "*",
     "truncate-html": "^1.0.3",
     "twitter-text": "^3.1.0"
   }

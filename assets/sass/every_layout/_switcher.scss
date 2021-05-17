@@ -13,6 +13,6 @@ https://absolutely.every-layout.dev/layouts/switcher/
 
 %switcher > * > * {
   flex-grow: 1;
-  flex-basis: calc((var(--switch, 15rem) - (100% - #{$gap})) * 999);
+  flex-basis: calc((var(--switch, 15rem) - (100% - var(--space-m))) * 999);
   margin: $gap / 2;
 }

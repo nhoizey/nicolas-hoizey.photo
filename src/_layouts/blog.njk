@@ -1,0 +1,11 @@
+---
+layout: base
+---
+
+{% from "macros/blog/meta.njk" import meta %}
+
+<article>
+  <h1>{{ title }}</h1>
+  {{ meta(page) }}
+  {{ content | safe }}
+</article>

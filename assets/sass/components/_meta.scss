@@ -1,0 +1,49 @@
+@use '../variables' as *;
+
+/* ********************************************
+* META
+* ********************************************/
+
+.meta {
+  margin: var(--space-2xs) 0;
+  padding: 0;
+
+  font-size: var(--step--1);
+  color: $color-theme-lighter-2;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  list-style-type: none;
+}
+
+.meta__item {
+  margin-left: 1.5em;
+
+  &:not(:last-child) {
+    margin-right: 1em;
+  }
+
+  a:link,
+  a:visited {
+    color: $color-theme-lighter-1;
+    text-decoration-color: $color-theme-lighter-2;
+    text-decoration-thickness: 1px;
+    padding: 0.2em 0.1em;
+  }
+
+  svg {
+    margin-left: -1.5em;
+
+    fill: none;
+    stroke: $color-theme-lighter-1;
+    stroke-width: 2px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+}
+
+.meta__date,
+.meta__count {
+  white-space: nowrap;
+}
