@@ -51,7 +51,6 @@ h4,
 h5,
 h6 {
   font-family: Coniferous, sans-serif;
-  font-weight: 200;
   line-height: 1.2;
   color: $color-theme-lighter-5;
 }
@@ -64,6 +63,7 @@ h1 {
 
 h2 {
   font-size: var(--step-2);
+  font-weight: 200;
 }
 
 main > h2 {
@@ -72,6 +72,7 @@ main > h2 {
 
 h3 {
   font-size: var(--step-1);
+  font-weight: 200;
 }
 
 /* ********************************************
