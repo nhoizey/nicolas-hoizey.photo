@@ -10,8 +10,6 @@
   line-height: 1;
   vertical-align: baseline;
 
-  color: $color-logo;
-
   h1,
   a {
     margin: 0;
@@ -27,50 +25,48 @@
         'p';
       grid-template-columns: 1fr;
       gap: 0;
+      align-items: end;
+      justify-items: center;
     }
   }
 
   a:link,
   a:visited {
     text-decoration: none;
-    color: $color-logo;
   }
 
   a:hover {
-    color: $color-logo;
-    background-color: transparent;
     text-decoration-line: underline;
-    text-decoration-color: $color-logo;
     text-decoration-thickness: 3px;
+    text-decoration-color: $color-logo-1;
   }
 
   .n {
     grid-area: n;
-    align-self: end;
 
     font-weight: 200;
+    color: $color-logo-1;
 
     @media (min-width: $breakpoint-m) {
-      font-size: 1.2em;
+      font-size: 1.35em;
     }
   }
 
   .h {
     grid-area: h;
-    align-self: end;
 
     font-weight: 700;
+    color: $color-logo-1;
   }
 
   .p {
     grid-area: p;
-    align-self: end;
 
     @media (min-width: $breakpoint-m) {
-      font-size: 0.7em;
+      font-size: 0.8em;
     }
 
     font-weight: 200;
-    color: $color-theme-lighter-1;
+    color: $color-logo-2;
   }
 }
