@@ -20,8 +20,8 @@ $color-theme-lighter-4: #dacee7;
 $color-theme-lighter-5: #f7f5fa;
 
 $color-surface: $color-theme-darker-5;
-$color-text: #ccc;
-$color-link: #fff;
+$color-text: $color-theme-lighter-4;
+$color-link: $color-theme-lighter-5;
 $color-logo: $color-theme;
 
 /* Main breakpoints */
