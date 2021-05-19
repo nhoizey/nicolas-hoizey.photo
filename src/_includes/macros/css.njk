@@ -1,7 +1,5 @@
-{% macro css(stylesheet, path) %}
-  {% set criticalCss %}
-  {% include_raw path + "/ui/css/" + stylesheet + ".css" %}
-  {% endset %}
+{% macro css(stylesheet) %}
+  {% set criticalCss %}{% include_raw "_tmp/css/" + stylesheet + ".css" %}{% endset %}
   <style>
     {{criticalCss | replace('//# sourceMappingURL=', '//# sourceMappingURL=/ui/css/') | safe}}
   </style>

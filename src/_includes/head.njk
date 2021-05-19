@@ -4,10 +4,10 @@
 <link rel="preload" href="/ui/fonts/Coniferous-Thin.woff2" as="font" crossorigin/>
 
 {% from "macros/css.njk" import css %}
-{{ css('styles', config.dir.dist) }}
+{{ css('styles') }}
 
 {% from "macros/js.njk" import js %}
-{{ js('critical', config.dir.dist) }}
+{{ js('critical') }}
 
 {% block title %}
   {% if page.url == '/' %}

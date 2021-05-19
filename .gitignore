@@ -3,6 +3,7 @@ node_modules
 
 # generated files
 _site
+_tmp
 hashes_*.json
 
 # secret data

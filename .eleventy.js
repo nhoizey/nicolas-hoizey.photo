@@ -189,13 +189,15 @@ module.exports = function (eleventyConfig) {
     .addPassthroughCopy(path.join(config.dir.src, 'favicon.ico'))
     .addPassthroughCopy(path.join(config.dir.src, '_headers'));
 
+  eleventyConfig.setUseGitIgnore(false);
+  eleventyConfig.addWatchTarget('./_tmp/');
+
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.setQuietMode(true);
 
   eleventyConfig.setBrowserSyncConfig({
     ui: false,
     ghostMode: false,
-    files: ['_site/css/*.css'],
   });
 
   return {
