@@ -1,12 +1,8 @@
 {% macro css(stylesheet, path) %}
-  {% if build.env == 'production' %}
-    {% set criticalCss %}
-    {% include_raw path + "/ui/css/" + stylesheet + ".css" %}
-    {% endset %}
-    <style>
-      {{criticalCss | replace('//# sourceMappingURL=', '//# sourceMappingURL=/ui/css/') | safe}}
-    </style>
-  {% else %}
-    <link rel="stylesheet" href="/ui/css/{{ stylesheet }}.css" />
-  {% endif %}
+  {% set criticalCss %}
+  {% include_raw path + "/ui/css/" + stylesheet + ".css" %}
+  {% endset %}
+  <style>
+    {{criticalCss | replace('//# sourceMappingURL=', '//# sourceMappingURL=/ui/css/') | safe}}
+  </style>
 {% endmacro %}
