@@ -185,22 +185,19 @@ figure {
 * SVG ICONS
 * ********************************************/
 
-svg {
-  margin: 0;
-  padding: 0;
+.icon {
+  padding-left: 1.2em;
 
-  width: 1em;
-  height: 1em;
-  // vertical-align: text-bottom;
+  background-size: 1em 1em;
+  background-position: left center;
+  background-repeat: no-repeat;
 
-  display: inline-block;
-  vertical-align: middle;
-  position: relative;
-  top: -0.125em;
+}
 
-  fill: none;
-  stroke: $color-theme-lighter-2;
-  stroke-width: 2px;
-  stroke-linecap: round;
-  stroke-linejoin: round;
+$iconNames: aperture,date,camera,download,blog,folder,travel,home,contact,info,location,feeds,favorite,twitter,people,exposition,flickr,unsplash;
+
+@each $icon in $iconNames {
+  .icon--#{$icon} {
+    background-image: url('/ui/svg-sprite.svg##{$icon}');
+  }
 }

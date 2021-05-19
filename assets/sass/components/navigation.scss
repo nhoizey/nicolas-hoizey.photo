@@ -22,12 +22,11 @@ nav {
     }
   }
 
-  svg {
-    display: none;
-
-    @media (min-width: $breakpoint-m) {
-      display: inline-block;
-      margin-left: calc(-1 * var(--space-s));
+  @media (max-width: $breakpoint-m) {
+    // show icons only on larger viewports
+    .icon.icon {
+      background-image: none;
+      padding-left: 0;
     }
   }
 

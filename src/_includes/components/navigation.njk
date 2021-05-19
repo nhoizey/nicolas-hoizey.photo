@@ -10,10 +10,7 @@
         {% if item.url == '/' and page.url == '/' or (item.url != '/' and item.url in page.url) %}
           class="current"
         {% endif %}>
-        {% if item.data.nav.icon %}
-          {% icon item.data.nav.icon, targetLabel %}
-        {% endif %}
-        <a href="{{ targetUrl }}">{{ targetLabel }}</a>
+        <a href="{{ targetUrl }}" {% if item.data.nav.icon %} class="icon icon--{{ item.data.nav.icon}}"{% endif %}>{{ targetLabel }}</a>
       </li>
     {% endfor %}
   </ul>

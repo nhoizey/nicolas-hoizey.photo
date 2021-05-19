@@ -21,7 +21,7 @@ layout: page
   <p>You can navigate in these sub galleries to find photos:</p>
   <ul class="galleries">
     {% for item in sub_galleries %}
-      <li>{% icon 'folder', 'Folder' %} <a href="{{ item.url }}">{{ item.data.title }}</a></li>
+      <li><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></li>
     {% endfor %}
   </ul>
 {% endif %}

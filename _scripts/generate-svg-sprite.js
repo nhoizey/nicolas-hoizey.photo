@@ -43,50 +43,81 @@ const ICONS_LIST = {
 // Initiate the sprite with svgstore
 let sprite = svgstore({
   // Add these attributes to the sprite SVG
-  svgAttrs: { style: 'display: none;', 'aria-hidden': 'true' },
-  // Copy these attributes from the icon source SVG to the symbol in the sprite
-  copyAttrs: ['width', 'height'],
+  svgAttrs: { width: '24', height: '24', viewBox: '0 0 24 24' },
 });
+
+let cssClasses = [];
 
 // Loop through each icon in the list
 Object.entries(ICONS_LIST).forEach(([source, icons]) => {
   Object.entries(icons).forEach(([icon, properties]) => {
-    // Log the name of the icon and its title to the console
-    const svgFile = fs
-      // Load the content of the icon SVG file
-      .readFileSync(path.join(ICONS_FOLDERS[source], `${icon}.svg`), 'utf8')
-      // Remove dimensions from Feather icons
-      .replace('width="24" height="24"', '')
-      // Clean useless Feather attributes
-      .replace(
-        / fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-[^"]+">/,
-        ' >'
-      );
+    // Load the content of the icon SVG file
+    const svgFile = fs.readFileSync(path.join(ICONS_FOLDERS[source], `${icon}.svg`), 'utf8');
     const name = properties.name || icon;
-    const title =
-      properties.title || name.charAt(0).toUpperCase() + name.slice(1);
 
+    // Add the icon name to the CSS classes list
+    cssClasses.push(name);
+
+    // Log the name of the icon and its title to the console
     console.log(`${icon}.svg
--> #${name} : ${title}
+-> #${name}
 `);
 
     // Add the new symbol to the sprite
-    sprite.add(`symbol-${name}`, svgFile, {
-      // Add attributes for accessibility
-      symbolAttrs: {
-        'aria-label': title,
-        role: 'img',
-      },
+    sprite.add(name, svgFile, {
+      cleanDefs: [
+        'width',
+        'height',
+        'fill',
+        'stroke',
+        'stroke-width',
+        'stroke-linecap',
+        'stroke-linejoin',
+        'class',
+      ],
     });
   });
 });
+const styles = `
+g {
+  display: none;
+}
+g:target {
+  display: inline;
+  fill: none;
+  stroke: #a081c0;
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+`;
 
-// Finally, store the sprite in a file Eleventy will be able to include
-fs.writeFileSync(
-  'src/_includes/svg-sprite.svg',
-  sprite.toString({ inline: true })
-);
+const spriteString = sprite.toString({ inline: false }).replaceAll('<symbol ', '<g ').replaceAll('</symbol>', '</g>').replace('<defs/>', `<defs><style>${styles}</style></defs>`);
 
-// Also generate an external SVG for not critical loading
-// Would require https://github.com/svgstore/svgstore/issues/24
-// fs.writeFileSync('src/ui/svg-sprite.svg', sprite.toString({ inline: false }));
+const cssClassesString = cssClasses.join(',');
+
+// Generate an external SVG
+fs.writeFileSync('src/ui/svg-sprite.svg', spriteString);
+
+console.log(`Here's the list of classes to add to your CSS:
+
+${cssClassesString}
+
+For example with Sass:
+
+.icon {
+  padding-left: 1.2em;
+
+  background-size: 1em 1em;
+  background-position: left center;
+  background-repeat: no-repeat;
+
+}
+
+$iconNames: ${cssClassesString};
+
+@each $icon in $iconNames {
+  .icon--#{$icon} {
+    background-image: url('/ui/svg-sprite.svg##{$icon}');
+  }
+}`);
