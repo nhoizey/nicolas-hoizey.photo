@@ -191,10 +191,11 @@ figure {
   background-size: 1em 1em;
   background-position: left center;
   background-repeat: no-repeat;
-
 }
 
-$iconNames: aperture,date,camera,download,blog,folder,travel,home,contact,info,location,feeds,favorite,twitter,people,exposition,flickr,unsplash;
+$iconNames: aperture, date, camera, download, blog, folder, travel, home,
+  contact, info, location, feeds, favorite, twitter, people, exposition, flickr,
+  unsplash;
 
 @each $icon in $iconNames {
   .icon--#{$icon} {
