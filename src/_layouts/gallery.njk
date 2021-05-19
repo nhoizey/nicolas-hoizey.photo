@@ -3,13 +3,14 @@ layout: page
 ---
 
 {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
-{% if breadcrumb | length %}
-  <ul class="breadcrumb">
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  {% if breadcrumb | length %}
     {% for item in breadcrumb | sort_by_url_length %}
       <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
-  </ul>
-{% endif %}
+  {% endif %}
+</ul>
 
 <h1>{{ title }}</h1>
 
@@ -40,7 +41,7 @@ layout: page
     {% endfor %}
   </div>
 {% endif %}
-
+{#
 {% set photos_below = collections.photos | photos_below(page.url) %}
 {% if photos_below | length %}
   <h2>Latest photos in sub galleries</h2>
@@ -55,3 +56,4 @@ layout: page
     {% endfor %}
   </div>
 {% endif %}
+#}
