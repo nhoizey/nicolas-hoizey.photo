@@ -13,17 +13,12 @@
 
   display: flex;
   flex-wrap: wrap;
+  gap: var(--space-s);
 
   list-style-type: none;
 }
 
 .meta__item {
-  margin-left: 1.5em;
-
-  &:not(:last-child) {
-    margin-right: 1em;
-  }
-
   a:link,
   a:visited {
     color: $color-theme-lighter-1;
@@ -31,19 +26,8 @@
     text-decoration-thickness: 1px;
     padding: 0.2em 0.1em;
   }
-
-  svg {
-    margin-left: -1.5em;
-
-    fill: none;
-    stroke: $color-theme-lighter-1;
-    stroke-width: 2px;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-  }
 }
 
-.meta__date,
-.meta__count {
+.meta__date {
   white-space: nowrap;
 }
