@@ -10,11 +10,11 @@
       #wide {
         visibility: hidden;
       }
-      @media all and (min-aspect-ratio: 3/1) {
+      @media all and (min-aspect-ratio: 5/1) {
         #wide {
           visibility: visible;
         }
-        #tall {
+        #square {
           visibility: hidden;
         }
       }
@@ -34,7 +34,7 @@
     <use xlink:href="#hoizey" width="30" height="11" x="31" y="0" />
     <use xlink:href="#photography" width="30" height="10" x="62" y="1.5" />
   </svg>
-  <svg id="tall" viewBox="0 0 30 30" preserveAspectRatio="xMidYMin meet">
+  <svg id="square" viewBox="0 0 30 30" preserveAspectRatio="xMidYMin meet">
     <use xlink:href="#nicolas" width="30" x="0" y="-9" />
     <use xlink:href="#hoizey" width="30" y="0" />
     <use xlink:href="#photography" width="30" y="9" />

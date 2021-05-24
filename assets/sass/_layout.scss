@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  padding: var(--space-m);
+  padding: var(--space-s);
   min-height: 100vh;
 
   display: flex;
@@ -35,8 +35,8 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: var(--space-m);
-  align-items: flex-end;
+  gap: var(--space-s);
+  align-items: center;
 
   @media (min-width: $breakpoint-m) {
     flex-direction: column;

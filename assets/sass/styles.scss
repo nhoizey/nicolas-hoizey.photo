@@ -6,6 +6,15 @@
 @use './components/meta';
 
 /* ********************************************
+* CUSTOM PROPERTIES
+* ********************************************/
+
+:root {
+  --logo-wide: calc(13.5rem + 18vw);
+  --logo-square: calc(9rem + 2vw);
+}
+
+/* ********************************************
 * UTILITIES
 * ********************************************/
 
@@ -151,6 +160,7 @@ figure {
 
 .breadcrumb {
   list-style: none;
+  margin: 0;
   padding-left: 0;
   font-size: var(--step--1);
   color: $color-theme-lighter-4;
