@@ -5,19 +5,22 @@
 * ********************************************/
 
 .logo {
-  font-family: Coniferous, cursive, sans-serif;
-  font-size: clamp(1.2rem, 1rem + 5vw, 3rem);
+  font-family: Coniferous, Arial, sans-serif;
+  font-size: clamp(1.2rem, 1rem + 5vw, 3.5rem);
   line-height: 1;
   vertical-align: baseline;
 
   h1,
   a {
     margin: 0;
-    padding: 0;
+    padding: 0.1em;
     font-size: 1em;
     line-height: 1;
 
     @media (min-width: $breakpoint-m) {
+      max-width: 14rem;
+      overflow: hidden;
+
       display: grid;
       grid-template-areas:
         'n'
