@@ -1,8 +1,12 @@
-{% macro js(javascript) %}
-  {% set criticalJs %}
-  {% include_raw "_tmp/js/" + javascript + ".js" %}
-  {% endset %}
-  <script>
-    {{ criticalJs | replace('//# sourceMappingURL=', '//# sourceMappingURL=/ui/js/') | safe }}
-  </script>
+{% macro js(javascript, env) %}
+  {% if env == 'production' %}
+    {% set criticalJs %}
+    {% include_raw "_site/ui/js/" + javascript + ".js" %}
+    {% endset %}
+    <script>
+      {{ criticalJs | replace('//# sourceMappingURL=', '//# sourceMappingURL=/ui/js/') | safe }}
+    </script>
+  {% else %}
+    <script src="/ui/js/{{ javascript }}.js"></script>
+  {% endif %}
 {% endmacro %}

@@ -1,5 +1,5 @@
 {% from "macros/css.njk" import css %}
-{{ css('components/logo') }}
+{{ css('components/logo', build.env) }}
 
 <div class="logo">
   {%- if page.url == '/' -%}<h1>{%- else -%}<a href="/">{%- endif -%}
