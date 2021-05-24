@@ -1,6 +1,6 @@
 @use '../variables' as *;
 
 #footer {
-  margin-top: var(--space-m);
+  margin-block-start: var(--space-m);
   font-size: var(--step--1);
 }
