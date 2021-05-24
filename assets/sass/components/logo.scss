@@ -69,3 +69,11 @@
     color: $color-logo-2;
   }
 }
+
+.js .logo img {
+  opacity: 0;
+
+  transition-property: opacity;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-out;
+}
