@@ -8,3 +8,12 @@
   Accept-CH: Downlink,RTT,Device-Memory,Save-Data,DPR,Width
   Link: <https://res.cloudinary.com>; rel=preconnect; crossorigin
   Content-Security-Policy: upgrade-insecure-requests; base-uri 'self'; script-src 'self' data: 'unsafe-inline' 'unsafe-eval'; object-src 'self'; connect-src 'self'; report-uri https://nhocom.report-uri.com/r/d/csp/enforce
+
+/ui/svg-sprite.svg
+  Cache-Control: public, max-age=604800, immutable
+
+/images/logo-192px.jpg
+  Cache-Control: public, max-age=604800, immutable
+
+/images/logo-192px.png
+  Cache-Control: public, max-age=604800, immutable
