@@ -190,7 +190,7 @@ module.exports = function (eleventyConfig) {
     .addPassthroughCopy(path.join(config.dir.src, '_headers'));
 
   eleventyConfig.setUseGitIgnore(false);
-  eleventyConfig.addWatchTarget('./_tmp/');
+  eleventyConfig.addWatchTarget('./ui/');
 
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.setQuietMode(true);
@@ -198,6 +198,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     ui: false,
     ghostMode: false,
+    files: ['_site/ui/css/**/*.css', '_site/ui/js/**/*.js'],
   });
 
   return {

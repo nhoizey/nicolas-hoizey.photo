@@ -6,7 +6,7 @@ import { terser } from 'rollup-plugin-terser';
 import path from 'path';
 
 const JS_SRC = 'assets/js';
-const JS_DIST = '_tmp/js';
+const JS_DIST = '_site/ui/js';
 
 const plugins_critical = [
   commonjs(),
