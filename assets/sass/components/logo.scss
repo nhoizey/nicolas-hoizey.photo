@@ -5,32 +5,28 @@
 * ********************************************/
 
 .logo {
-  font-family: Coniferous, Arial, sans-serif;
   font-size: clamp(1.2rem, 1rem + 5vw, 3.5rem);
   line-height: 1;
   vertical-align: baseline;
 
+  img {
+    width: 9em;
+    height: 1em;
+    aspect-ratio: 9 / 1;
+
+    @media (min-width: $breakpoint-m) {
+      width: 3.5em;
+      height: 3.5em;
+      aspect-ratio: 1 / 1;
+    }
+  }
+
   h1,
   a {
     margin: 0;
-    padding: 0.1em;
+    padding: 0;
     font-size: 1em;
     line-height: 1;
-
-    @media (min-width: $breakpoint-m) {
-      max-width: 14rem;
-      overflow: hidden;
-
-      display: grid;
-      grid-template-areas:
-        'n'
-        'h'
-        'p';
-      grid-template-columns: 1fr;
-      gap: 0;
-      align-items: end;
-      justify-items: center;
-    }
   }
 
   a:link,
