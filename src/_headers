@@ -12,6 +12,9 @@
 /ui/svg-sprite.svg
   Cache-Control: public, max-age=604800, immutable
 
+/ui/logo.svg
+  Cache-Control: public, max-age=604800, immutable
+
 /images/logo-192px.jpg
   Cache-Control: public, max-age=604800, immutable
 
