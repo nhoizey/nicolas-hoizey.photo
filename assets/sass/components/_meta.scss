@@ -5,15 +5,14 @@
 * ********************************************/
 
 .meta {
-  margin: var(--space-2xs) 0;
-  padding: 0;
+  padding-inline-start: 0;
 
   font-size: var(--step--1);
-  color: $color-theme-lighter-2;
+  color: $color-theme-lighter-3;
 
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-s);
+  gap: 0 var(--space-s);
 
   list-style-type: none;
 }

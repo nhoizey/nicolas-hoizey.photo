@@ -2,6 +2,8 @@
 layout: page
 ---
 
+{% from "macros/photo.njk" import photo %}
+
 {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>
@@ -30,22 +32,17 @@ layout: page
 {% set photos_here = collections.photos | photos_here(page.url) %}
 {% if photos_here | length %}
   <h2>Latest photos in this gallery</h2>
-  <div class="gallery">
+  <ul class="gallery">
     {% for item in photos_here %}
-      <figure>
-        <a href="{{ item.url }}">
-          <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
-          <figcaption>{{ item.data.title }}</figcaption>
-        </a>
-      </figure>
+      {{ photo(item) }}
     {% endfor %}
-  </div>
+  </ul>
 {% endif %}
 {#
 {% set photos_below = collections.photos | photos_below(page.url) %}
 {% if photos_below | length %}
   <h2>Latest photos in sub galleries</h2>
-  <div class="gallery">
+  <ul class="gallery">
     {% for item in photos_below %}
       <figure>
         <a href="{{ item.url }}">
@@ -54,6 +51,6 @@ layout: page
         </a>
       </figure>
     {% endfor %}
-  </div>
+  </ul>
 {% endif %}
 #}

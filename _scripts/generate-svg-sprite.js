@@ -52,7 +52,10 @@ let cssClasses = [];
 Object.entries(ICONS_LIST).forEach(([source, icons]) => {
   Object.entries(icons).forEach(([icon, properties]) => {
     // Load the content of the icon SVG file
-    const svgFile = fs.readFileSync(path.join(ICONS_FOLDERS[source], `${icon}.svg`), 'utf8');
+    const svgFile = fs.readFileSync(
+      path.join(ICONS_FOLDERS[source], `${icon}.svg`),
+      'utf8'
+    );
     const name = properties.name || icon;
 
     // Add the icon name to the CSS classes list
@@ -85,14 +88,18 @@ g {
 g:target {
   display: inline;
   fill: none;
-  stroke: #a081c0;
+  stroke: #835aac;
   stroke-width: 2px;
   stroke-linecap: round;
   stroke-linejoin: round;
 }
 `;
 
-const spriteString = sprite.toString({ inline: false }).replaceAll('<symbol ', '<g ').replaceAll('</symbol>', '</g>').replace('<defs/>', `<defs><style>${styles}</style></defs>`);
+const spriteString = sprite
+  .toString({ inline: false })
+  .replaceAll('<symbol ', '<g ')
+  .replaceAll('</symbol>', '</g>')
+  .replace('<defs/>', `<defs><style>${styles}</style></defs>`);
 
 const cssClassesString = cssClasses.join(',');
 

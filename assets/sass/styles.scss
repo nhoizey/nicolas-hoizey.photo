@@ -105,7 +105,8 @@ a:visited {
 }
 
 a:hover,
-a:focus {
+a:focus,
+a:active {
   color: $color-theme-lighter-5;
   background-color: $color-theme-darker-2;
   text-decoration-line: none;
@@ -139,10 +140,13 @@ img {
 * ********************************************/
 
 .gallery {
+  list-style: none;
+  padding-inline-start: 0;
+
   display: grid;
   column-gap: var(--space-m);
   row-gap: var(--space-l);
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
 
   figure {
     max-width: 30rem;
@@ -151,17 +155,39 @@ img {
 
 figure {
   margin: 0;
+  position: relative;
 
   img {
-    background-color: darken($color-surface, 10%);
-    padding: 4px;
+    background-color: black;
+    padding: 2px;
     border: 4px solid white;
   }
 
+  &:hover,
+  &:focus-within {
+    img {
+      border: 4px solid $color-theme-darker-2;
+    }
+  }
+
   figcaption {
-    margin-left: var(--space-m);
-    font-size: var(--step--1);
-    color: #ccc;
+    padding-block-start: 4px;
+    padding-block-end: 4px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  a::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
   }
 }
 
