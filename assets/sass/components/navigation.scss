@@ -24,7 +24,7 @@ nav {
   a:hover {
     color: $color-theme-lighter-5;
     text-decoration-line: underline;
-    text-decoration-color: $color-link;
+    text-decoration-color: $link-color;
     text-decoration-thickness: 3px;
   }
 
@@ -37,7 +37,7 @@ nav {
     }
 
     a:hover {
-      text-decoration-color: $color-link;
+      text-decoration-color: $link-color;
     }
   }
 }

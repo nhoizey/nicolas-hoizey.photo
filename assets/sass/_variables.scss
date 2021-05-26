@@ -21,10 +21,13 @@ $color-theme-lighter-5: #f7f5fa;
 
 $color-surface: $color-theme-darker-5;
 $color-text: $color-theme-lighter-5;
-$color-link: $color-theme-lighter-3;
+$color-meta: #ddd;
 
-$color-logo-1: $color-theme;
-$color-logo-2: $color-theme-lighter-2;
+$link-color: $color-theme-lighter-2;
+$link-color-decoration: $color-theme-lighter-4;
+
+$link-hover-color: $color-theme-lighter-4;
+$link-hover-background: $color-theme-darker-2;
 
 /* Main breakpoints */
 $breakpoint-m: 60em;

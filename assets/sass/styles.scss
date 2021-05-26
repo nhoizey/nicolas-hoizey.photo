@@ -98,16 +98,16 @@ a:link,
 a:visited {
   padding-inline-end: 0.1em;
   border-radius: 0.2em;
-  color: $color-theme-lighter-3;
-  text-decoration-color: $color-theme-lighter-5;
+  color: $link-color;
+  text-decoration-color: $link-color-decoration;
   text-decoration-thickness: 0.1em;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: $color-theme-lighter-5;
-  background-color: $color-theme-darker-2;
+  color: $link-hover-color;
+  background-color: $link-hover-background;
   text-decoration-line: none;
 }
 
@@ -159,25 +159,24 @@ figure {
   img {
     background-color: black;
     padding: 2px;
-    border: 4px solid white;
+    border: solid 4px white;
   }
 
   &:hover,
   &:focus-within {
     img {
-      border: 4px solid $color-theme-darker-2;
+      border: 4px solid $link-hover-background;
     }
   }
 
   figcaption {
-    padding-block-start: 4px;
-    padding-block-end: 4px;
+    padding-inline-start: 4px;
+    padding-inline-end: 4px;
 
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
   }
 
   a::after {
