@@ -7,10 +7,19 @@
 .logo {
   h1,
   a {
+    display: block;
     margin: 0;
+    padding: 0;
+
+    font-family: serif; // prevents loading of the web font just for that
     font-size: 1em;
-    font-weight: 200; // prevents loading of 700 weight on homepage
     line-height: 1;
+  }
+
+  a:hover,
+  a:focus,
+  a:active {
+    background-color: $color-theme-lighter-4;
   }
 
   img {

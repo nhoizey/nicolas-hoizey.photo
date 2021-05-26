@@ -2,14 +2,14 @@
 * FONTS
 * ********************************************/
 
-@font-face {
-  font-family: 'Coniferous';
-  src: url(/ui/fonts/Coniferous-Thin.woff2) format('woff2'),
-    url(/ui/fonts/Coniferous-Thin.woff) format('woff');
-  font-weight: 200;
-  font-style: normal;
-  font-display: optional;
-}
+// @font-face {
+//   font-family: 'Coniferous';
+//   src: url(/ui/fonts/Coniferous-Thin.woff2) format('woff2'),
+//     url(/ui/fonts/Coniferous-Thin.woff) format('woff');
+//   font-weight: 200;
+//   font-style: normal;
+//   font-display: optional;
+// }
 
 // @font-face {
 //   font-family: 'Coniferous';
@@ -20,14 +20,14 @@
 //   font-display: block;
 // }
 
-// @font-face {
-//   font-family: 'Coniferous';
-//   src: url(/ui/fonts/Coniferous-Regular.woff2) format('woff2'),
-//     url(/ui/fonts/Coniferous-Regular.woff) format('woff');
-//   font-weight: 400;
-//   font-style: normal;
-//   font-display: block;
-// }
+@font-face {
+  font-family: 'Coniferous';
+  src: url(/ui/fonts/Coniferous-Regular.woff2) format('woff2'),
+    url(/ui/fonts/Coniferous-Regular.woff) format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
 
 // @font-face {
 //   font-family: 'Coniferous';
@@ -47,11 +47,11 @@
 //   font-display: block;
 // }
 
-@font-face {
-  font-family: 'Coniferous';
-  src: url(/ui/fonts/Coniferous-Black.woff2) format('woff2'),
-    url(/ui/fonts/Coniferous-Black.woff) format('woff');
-  font-weight: 700;
-  font-style: normal;
-  font-display: optional;
-}
+// @font-face {
+//   font-family: 'Coniferous';
+//   src: url(/ui/fonts/Coniferous-Black.woff2) format('woff2'),
+//     url(/ui/fonts/Coniferous-Black.woff) format('woff');
+//   font-weight: 700;
+//   font-style: normal;
+//   font-display: optional;
+// }
