@@ -8,7 +8,7 @@
     url(/ui/fonts/Coniferous-Thin.woff) format('woff');
   font-weight: 200;
   font-style: normal;
-  font-display: block;
+  font-display: optional;
 }
 
 // @font-face {
@@ -53,5 +53,5 @@
     url(/ui/fonts/Coniferous-Black.woff) format('woff');
   font-weight: 700;
   font-style: normal;
-  font-display: block;
+  font-display: optional;
 }
