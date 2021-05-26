@@ -1,7 +1,4 @@
 (function (window) {
-  // Change the `no-js` class on <html> to `js`
-  window.document.documentElement.className = window.document.documentElement.className.replace(
-    'no-js',
-    'js'
-  );
+  // Add a 'js-available' data attribute on <html>
+  window.document.documentElement.dataset.jsAvailable = true;
 })(window);
