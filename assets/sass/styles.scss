@@ -2,6 +2,7 @@
 @use './utopia';
 @use './fonts';
 @use './layout';
+@use './links';
 @use './components/blog';
 @use './components/meta';
 
@@ -94,23 +95,6 @@ h3 {
 * INLINE ELEMENTS
 * ********************************************/
 
-a:link,
-a:visited {
-  padding-inline-end: 0.1em;
-  border-radius: 0.2em;
-  color: $link-color;
-  text-decoration-color: $link-color-decoration;
-  text-decoration-thickness: 0.1em;
-}
-
-a:hover,
-a:focus,
-a:active {
-  color: $link-hover-color;
-  background-color: $link-hover-background;
-  text-decoration-line: none;
-}
-
 img {
   max-width: 100%;
   height: auto;
@@ -165,7 +149,7 @@ figure {
   &:hover,
   &:focus-within {
     img {
-      border: 4px solid $link-hover-background;
+      border: 4px solid $color-theme;
     }
   }
 

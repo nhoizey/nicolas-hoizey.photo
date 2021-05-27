@@ -1,0 +1,20 @@
+@use './variables' as *;
+
+/* ********************************************
+* LINKS
+* ********************************************/
+
+a:link,
+a:visited {
+  color: $color-theme-lighter-2;
+  text-decoration-color: $color-theme-lighter-4;
+  text-decoration-thickness: 1px;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: $color-theme-lighter-5;
+  text-decoration-color: $color-theme;
+  text-decoration-thickness: 3px;
+}
