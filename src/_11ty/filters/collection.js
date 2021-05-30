@@ -20,7 +20,7 @@ module.exports = {
   sub_galleries: (collection, url) =>
     collection.filter((page) => {
       const r = new RegExp(`^${url}[^/]+\/$`);
-      return page.data.photo === undefined && r.test(page.url);
+      return r.test(page.url);
     }),
   breadcrumb: (collection, url) => {
     return collection.filter((page) => {
