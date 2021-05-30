@@ -8,18 +8,6 @@ import path from 'path';
 const JS_SRC = 'assets/js';
 const JS_DIST = '_site/ui/js';
 
-const plugins_critical = [
-  commonjs(),
-  resolve(),
-  replace({
-    'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV),
-  }),
-  babel({
-    exclude: 'node_modules/**',
-  }),
-  process.env.NODE_ENV === 'production' && terser(),
-];
-
 export default [
   {
     input: path.join(JS_SRC, 'critical.js'),
@@ -30,6 +18,16 @@ export default [
       name: 'critical',
       sourcemap: true,
     },
-    plugins: plugins_critical,
+    plugins: [
+      commonjs(),
+      resolve(),
+      replace({
+        'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV),
+      }),
+      babel({
+        exclude: 'node_modules/**',
+      }),
+      process.env.NODE_ENV === 'production' && terser(),
+    ],
   },
 ];
