@@ -10,7 +10,8 @@ module.exports = {
       .getAll()
       .filter(
         (item) =>
-          item.url.match(/^\/(travel|people)\//) && !('photo' in item.data)
+          item.url.match(/^\/(travel|people|nature)\//) &&
+          !('photo' in item.data)
       )
       .sort((a, b) => b.data.title.localeCompare(a.data.title, 'en')),
 };
