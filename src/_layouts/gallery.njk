@@ -8,7 +8,7 @@ layout: page
 <ul class="breadcrumb">
   <li><a href="/">Home</a></li>
   {% if breadcrumb | length %}
-    {% for item in breadcrumb | sort_by_url_length %}
+    {% for item in breadcrumb %}
       <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
     {% endfor %}
   {% endif %}
@@ -20,11 +20,19 @@ layout: page
 
 {% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
 {% if sub_galleries | length %}
-  <h2>Galleries</h2>
-  <p>You can navigate in these sub galleries to find photos:</p>
   <ul class="galleries">
     {% for item in sub_galleries %}
-      <li><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></li>
+      <li>
+        <figure>
+          {% set photos_below = collections.photos | photos_here_and_below(item.url) | shuffle | limit(3) %}
+          {% if photos_below | length %}
+            {% for photo in photos_below %}
+              <img src="{{ photo.url }}{{ photo.data.photo }}" alt="" />
+            {% endfor %}
+          {% endif %}
+          <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
+        </figure>
+      </li>
     {% endfor %}
   </ul>
 {% endif %}
