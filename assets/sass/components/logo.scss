@@ -14,6 +14,12 @@
     font-family: serif; // prevents loading of the web font just for that
     font-size: 1em;
     line-height: 1;
+
+    border-radius: 1rem;
+
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
   }
 
   a:hover,
