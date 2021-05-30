@@ -21,11 +21,4 @@ module.exports = {
     }
     return array;
   },
-  sort_by_url_length: (array) => {
-    const copy = [...array];
-    copy.sort((a, b) => {
-      return b.url.length <= a.url.length;
-    });
-    return [...copy];
-  },
 };
