@@ -1,6 +1,6 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 20
   icon: contact
 ---
