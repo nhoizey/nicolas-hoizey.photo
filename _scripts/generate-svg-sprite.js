@@ -5,6 +5,7 @@ const path = require('path');
 // Where are Feather icons available from the npm package?
 const ICONS_FOLDERS = {
   feather: 'node_modules/feather-icons/dist/icons/',
+  majesticons: 'node_modules/majesticons/icons/',
   simple: 'node_modules/simple-icons/icons/',
   local: 'assets/svg/',
 };
@@ -14,20 +15,23 @@ const ICONS_FOLDERS = {
 const ICONS_LIST = {
   feather: {
     aperture: {},
-    calendar: { name: 'date' },
-    camera: {},
     download: {},
-    'file-text': { name: 'blog' },
-    folder: {},
-    globe: { name: 'travel' },
-    home: {},
-    inbox: { name: 'contact' },
-    info: {},
-    map: { name: 'location' },
     rss: { name: 'feeds' },
     star: { name: 'favorite' },
     twitter: {},
-    users: { name: 'people' },
+  },
+  majesticons: {
+    article: { name: 'blog' },
+    calendar: { name: 'date' },
+    camera: {},
+    'flower-2': { name: 'nature' },
+    folder: {},
+    'globe-earth': { name: 'travel' },
+    home: {},
+    'info-circle': { name: 'info' },
+    mail: { name: 'contact' },
+    'map-simple-marker': { name: 'location' },
+    incognito: { name: 'people' },
     watch: { name: 'exposition' },
   },
   simple: {
@@ -40,10 +44,26 @@ const ICONS_LIST = {
   },
 };
 
+const attributesToClean = [
+  'width',
+  'height',
+  'fill',
+  'stroke',
+  'stroke-width',
+  'stroke-linecap',
+  'stroke-linejoin',
+  'class',
+];
+
 // Initiate the sprite with svgstore
 let sprite = svgstore({
   // Add these attributes to the sprite SVG
-  svgAttrs: { width: '24', height: '24', viewBox: '0 0 24 24' },
+  svgAttrs: {
+    width: '24',
+    height: '24',
+    viewBox: '0 0 24 24',
+    vectorEffect: 'non-scaling-stroke',
+  },
 });
 
 let cssClasses = [];
@@ -68,16 +88,8 @@ Object.entries(ICONS_LIST).forEach(([source, icons]) => {
 
     // Add the new symbol to the sprite
     sprite.add(name, svgFile, {
-      cleanDefs: [
-        'width',
-        'height',
-        'fill',
-        'stroke',
-        'stroke-width',
-        'stroke-linecap',
-        'stroke-linejoin',
-        'class',
-      ],
+      cleanDefs: attributesToClean,
+      cleanSymbols: attributesToClean,
     });
   });
 });
@@ -92,6 +104,9 @@ g:target {
   stroke-width: 2px;
   stroke-linecap: round;
   stroke-linejoin: round;
+}
+path {
+  vector-effect: non-scaling-stroke;
 }
 `;
 
