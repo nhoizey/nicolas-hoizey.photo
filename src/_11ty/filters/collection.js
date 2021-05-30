@@ -29,7 +29,7 @@ module.exports = {
         return r.test(url);
       })
       .sort((a, b) => {
-        return a.url.length >= b.url.length;
+        return a.url.length - b.url.length;
       });
   },
 };
