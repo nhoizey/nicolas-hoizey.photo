@@ -71,12 +71,11 @@ h6 {
   font-family: Coniferous, sans-serif;
   font-weight: 400;
   line-height: 1.2;
-  color: $color-theme-lighter-5;
+  color: white;
 }
 
 h1 {
   font-size: var(--step-3);
-  color: $color-theme-lighter-3;
 
   .breadcrumb + & {
     margin-block-start: 0;
@@ -160,12 +159,16 @@ img {
   display: grid;
   column-gap: var(--space-m);
   row-gap: var(--space-l);
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
 
-  figure {
-    max-width: 30rem;
+  li {
+    max-width: 20rem;
   }
 }
+
+/* ********************************************
+* PHOTO
+* ********************************************/
 
 figure {
   margin: 0;
@@ -177,6 +180,10 @@ figure {
     border-style: solid;
     border-width: 4px;
     border-color: white;
+
+    transition-property: border-color;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
   }
 
   &:hover,

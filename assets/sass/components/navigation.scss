@@ -19,12 +19,14 @@ nav {
   a:visited {
     display: inline-block;
     text-decoration: none;
+    color: white;
   }
 
-  a:hover {
+  a:hover,
+  a:focus {
     color: $color-theme-lighter-5;
     text-decoration-line: underline;
-    text-decoration-color: $link-color;
+    text-decoration-color: $color-theme;
     text-decoration-thickness: 3px;
   }
 
@@ -34,10 +36,6 @@ nav {
       text-decoration-line: underline;
       text-decoration-color: $color-theme;
       text-decoration-thickness: 3px;
-    }
-
-    a:hover {
-      text-decoration-color: $link-color;
     }
   }
 }

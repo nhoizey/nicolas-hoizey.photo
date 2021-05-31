@@ -6,15 +6,19 @@
 
 a:link,
 a:visited {
-  color: $color-theme-lighter-2;
-  text-decoration-color: $color-theme-lighter-4;
+  color: white;
+  text-decoration-color: $color-theme-lighter-2;
   text-decoration-thickness: 1px;
+
+  transition-property: text-decoration-color;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in-out;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: $color-theme-lighter-5;
+  color: $color-theme-lighter-4;
   text-decoration-color: $color-theme;
   text-decoration-thickness: 3px;
 }
