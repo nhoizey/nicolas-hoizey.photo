@@ -121,10 +121,6 @@ img {
     grid-template-columns: repeat(9, 1fr);
     grid-template-rows: repeat(6, 1fr);
 
-    img {
-      padding: 1px;
-      border-width: 2px;
-    }
     img:nth-of-type(1) {
       grid-column: 2 / span 7;
       grid-row: -5 / span 4;
@@ -176,13 +172,13 @@ figure {
 
   img {
     background-color: black;
-    padding: 2px;
+    padding: 1px;
     border-style: solid;
-    border-width: 4px;
+    border-width: 2px;
     border-color: white;
 
     transition-property: border-color;
-    transition-duration: 0.3s;
+    transition-duration: $timing-transition;
     transition-timing-function: ease-in-out;
   }
 

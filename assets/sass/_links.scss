@@ -8,10 +8,10 @@ a:link,
 a:visited {
   color: white;
   text-decoration-color: $color-theme-lighter-2;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: 2px;
 
   transition-property: text-decoration-color;
-  transition-duration: 0.3s;
+  transition-duration: $timing-transition;
   transition-timing-function: ease-in-out;
 }
 
@@ -20,5 +20,4 @@ a:focus,
 a:active {
   color: $color-theme-lighter-4;
   text-decoration-color: $color-theme;
-  text-decoration-thickness: 3px;
 }

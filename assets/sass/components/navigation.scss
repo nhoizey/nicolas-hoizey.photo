@@ -18,16 +18,18 @@ nav {
   a:link,
   a:visited {
     display: inline-block;
-    text-decoration: none;
     color: white;
+    text-decoration-line: underline;
+    text-decoration-color: $color-surface;
+    text-decoration-thickness: 3px;
   }
 
   a:hover,
-  a:focus {
+  a:focus,
+  a:active {
     color: $color-theme-lighter-5;
     text-decoration-line: underline;
     text-decoration-color: $color-theme;
-    text-decoration-thickness: 3px;
   }
 
   .current {
@@ -35,7 +37,6 @@ nav {
     a:visited {
       text-decoration-line: underline;
       text-decoration-color: $color-theme;
-      text-decoration-thickness: 3px;
     }
   }
 }
