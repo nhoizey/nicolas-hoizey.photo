@@ -45,7 +45,7 @@
     "babel-loader": "^8.2.2",
     "cheerio": "~1.0.0-rc.9",
     "cross-env": "^7.0.3",
-    "cssnano": "~5.0.2",
+    "cssnano": "~5.0.5",
     "dotenv": "^8.2.0",
     "eleventy-plugin-images-responsiver": "^1.8.2",
     "eslint": "7.23.0",
