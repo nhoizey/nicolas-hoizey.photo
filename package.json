@@ -74,7 +74,7 @@
     "require-dir": "^1.2.0",
     "res": "~0.4.0",
     "rimraf": "^3.0.2",
-    "rollup": "^2.40.0",
+    "rollup": "^2.50.5",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-terser": "^7.0.2",
