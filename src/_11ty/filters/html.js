@@ -35,4 +35,14 @@ module.exports = {
       ellipsis: '…',
     });
   },
+  extractHeadingsText: (html) => {
+    let headingsText = '';
+    const matches = html.matchAll(/<(h[1-6])>(?<heading>.*)<\/\1>/g);
+    if (matches) {
+      for (const match of matches) {
+        headingsText += match.groups.heading;
+      }
+    }
+    return headingsText;
+  },
 };
