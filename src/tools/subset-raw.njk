@@ -1,21 +1,13 @@
 ---
-layout: base
+layout: false
 title: Every characters in headings
 eleventyExcludeFromCollections: true
 ---
 
-<h1>Every characters from headings</h1>
-
 {% set every_char = '' %}
-<dl>
 {% for item in collections.all %}
-  <dt><a href="{{ item.url }}">{{ item.data.title or "title missing…" }}</a></dt>
   {% set item_chars %}{{ item.data.title | safe }}{{ item.templateContent | extractHeadingsText | striptags | safe }}{% endset %}
   {% set new_every_char %}{{ every_char | safe }}{{ item_chars | split("") | uniq | join("") | safe }}{% endset %}
-  <dd><code style="font-size: .8em">{{ item_chars }}</code></dd>
   {% set every_char = new_every_char %}
 {% endfor %}
-</dl>
-<textarea cols="60" rows="10" style="font-family: reset">
 {{ every_char | split("") | uniq | sort | join("") | safe }}
-</textarea>
