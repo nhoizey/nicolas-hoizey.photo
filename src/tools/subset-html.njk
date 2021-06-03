@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: false
 permalink: /tools/subset.html
 title: Every characters in headings
 eleventyExcludeFromCollections: true
@@ -11,4 +11,24 @@ eleventyExcludeFromCollections: true
   {%- set new_every_char -%}{{ every_char | safe }}{{ item_chars | split("") | uniq | join("") | safe }}{%- endset -%}
   {%- set every_char = new_every_char -%}
 {%- endfor -%}
+<html>
+<head>
+<style>
+@font-face {
+  font-family: 'Coniferous';
+  src: url(/ui/fonts/Coniferous-Regular.woff2) format('woff2'),
+    url(/ui/fonts/Coniferous-Regular.woff) format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+h1 {
+  font-family: Coniferous;
+  font-style: normal;
+  font-weight: 400;
+}
+</style>
+<body>
 <h1>{{- every_char | split("") | uniq | sort | join("") | safe -}}</h1>
+</body>
+</html>
