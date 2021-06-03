@@ -1,13 +1,14 @@
 ---
 layout: false
+permalink: /tools/subset.txt
 title: Every characters in headings
 eleventyExcludeFromCollections: true
 ---
 
-{% set every_char = '' %}
-{% for item in collections.all %}
-  {% set item_chars %}{{ item.data.title | safe }}{{ item.templateContent | extractHeadingsText | striptags | safe }}{% endset %}
-  {% set new_every_char %}{{ every_char | safe }}{{ item_chars | split("") | uniq | join("") | safe }}{% endset %}
-  {% set every_char = new_every_char %}
-{% endfor %}
-{{ every_char | split("") | uniq | sort | join("") | safe }}
+{%- set every_char = '' -%}
+{%- for item in collections.all -%}
+  {%- set item_chars -%}{{ item.data.title | safe }}{{ item.templateContent | extractHeadingsText | striptags | safe }}{%- endset -%}
+  {%- set new_every_char -%}{{ every_char | safe }}{{ item_chars | split("") | uniq | join("") | safe }}{%- endset -%}
+  {%- set every_char = new_every_char -%}
+{%- endfor -%}
+{{- every_char | split("") | uniq | sort | join("") | safe -}}
