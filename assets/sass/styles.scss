@@ -20,8 +20,10 @@
 * ********************************************/
 
 // Lobotomized owl
-%owl > * + * {
-  margin-block-start: var(--space-m);
+%owl {
+  & > :not(:is(link, style)) + * {
+    margin-block-start: var(--space-m);
+  }
 }
 
 // Box sizing:
@@ -129,6 +131,8 @@ img {
       transition-property: transform;
       transition-duration: $timing-transition-visible;
       transition-timing-function: ease-in-out;
+
+      max-height: 10rem;
     }
 
     img:nth-of-type(1) {
@@ -197,6 +201,10 @@ img {
 
   li {
     max-width: 20rem;
+  }
+
+  img {
+    max-height: 10rem;
   }
 }
 

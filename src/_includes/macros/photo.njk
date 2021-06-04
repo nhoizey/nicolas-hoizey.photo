@@ -1,7 +1,7 @@
 {% from "macros/meta.njk" import meta %}
 
 {% macro photo(item) %}
-  <li class="photo">
+  <li>
     <figure>
       <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
       <figcaption>

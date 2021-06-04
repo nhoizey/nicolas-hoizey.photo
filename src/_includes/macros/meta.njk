@@ -1,4 +1,4 @@
-{% macro meta(item) %}
+{% macro meta(item, location) %}
   <ul class="meta">
     {% if item.date %}
       <li class="date meta__item meta__date">
@@ -7,9 +7,9 @@
         </time>
       </li>
     {% endif %}
-    {% if item.data.location %}
+    {% if item.data.location or location %}
       <li class="date meta__item meta__location">
-        <span class="icon icon--location">{{ item.data.location.name }}</span>
+        <span class="icon icon--location">{{ item.data.location.name or location.name }}</span>
       </li>
     {% endif %}
   </ul>

@@ -2,7 +2,29 @@
 layout: page
 ---
 
-<figure>
+{% from "macros/css.njk" import css %}
+{{ css('components/photo', build.env) }}
+<div class="photo {{ ratio or 'landscape' }}">
+  <header>
+    {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
+    <ul class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      {% for item in breadcrumb %}
+        <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+      {% endfor %}
+    </ul>
+    <h1>{{ title }}</h1>
+  </header>
+
   <img src="{{ photo }}" alt="{{ title }}" />
-  <figcaption>{{ date | date("Do MMMM YYYY") }}</figcaption>
-</figure>
+
+  {% from "macros/meta.njk" import meta %}
+  {{ meta(page, location) }}
+
+  <div class="description">
+    {{ content | safe }}
+  </div>
+</div>
+<script>
+
+</script>
