@@ -133,6 +133,7 @@ img {
       transition-timing-function: ease-in-out;
 
       max-height: 10rem;
+      width: auto;
     }
 
     img:nth-of-type(1) {
@@ -205,6 +206,7 @@ img {
 
   img {
     max-height: 10rem;
+    width: auto;
   }
 }
 
