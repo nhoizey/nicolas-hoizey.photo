@@ -27,6 +27,37 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  const exifr = require('exifr');
+  const Fraction = require('fraction.js');
+  eleventyConfig.addNunjucksAsyncFilter('exif', async (image, callback) => {
+    const exifData = await exifr.parse(image);
+
+    // Add exposure time as a fraction
+    if (exifData.ExposureTime) {
+      let t = new Fraction(exifData.ExposureTime);
+      exifData.ExposureTimeFraction = t.toFraction(true);
+    }
+
+    // Clean description
+    if (exifData.ImageDescription) {
+      exifData.ImageDescription = `<p>${exifData.ImageDescription.trim().replaceAll(
+        '\n\n',
+        '</p><p>'
+      )}</p>`;
+    }
+
+    // clean model if make in it (Canon for example)
+    if (
+      exifData.Make &&
+      exifData.Model &&
+      exifData.Model.startsWith(exifData.Make)
+    ) {
+      exifData.Model = exifData.Model.replace(exifData.Make, '');
+    }
+
+    callback(null, exifData);
+  });
+
   // ------------------------------------------------------------------------
   // Shortcodes
   // ------------------------------------------------------------------------

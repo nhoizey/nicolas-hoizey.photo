@@ -40,6 +40,7 @@ const ICONS_LIST = {
     unsplash: {},
   },
   local: {
+    iso: {},
     // older: { title: 'Older' },
     // newer: { title: 'Newer' },
   },

@@ -2,5 +2,5 @@
 
 @font-face {
   src: url(assets/font/Coniferous-Regular-subset.woff2) format("woff2"), url(assets/font/Coniferous-Regular-subset.woff) format("woff");
-  unicode-range: U+21,U+27,U+2D,U+41-43,U+45,U+46,U+48,U+4C,U+4E,U+50,U+53,U+54,U+57,U+61-69,U+6B-70,U+72-77,U+79,U+7A,U+E9,U+301;
+  unicode-range: U+21,U+27,U+2D,U+41-43,U+45,U+46,U+48,U+4C,U+4E,U+50,U+53,U+54,U+57,U+61-69,U+6B-70,U+72-77,U+79,U+7A,U+E8,U+E9,U+301;
 }

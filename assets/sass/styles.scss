@@ -300,9 +300,9 @@ figure {
   background-repeat: no-repeat;
 }
 
-$iconNames: aperture, date, camera, download, blog, folder, travel, home,
-  contact, info, location, feeds, favorite, twitter, people, exposition, nature,
-  flickr, unsplash;
+$iconNames: aperture, download, feeds, twitter, blog, date, camera, urban,
+  nature, folder, travel, like, home, info, contact, location, people,
+  exposition, flickr, unsplash, iso;
 
 @each $icon in $iconNames {
   .icon--#{$icon} {

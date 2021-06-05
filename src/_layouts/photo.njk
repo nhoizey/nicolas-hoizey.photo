@@ -2,6 +2,9 @@
 layout: page
 ---
 
+{% set photoPath = 'src' + page.filePathStem | replace('index', '') + photo %}
+{% set exifData = photoPath | exif %}
+
 {% from "macros/css.njk" import css %}
 {{ css('components/photo', build.env) }}
 <div class="photo {{ ratio or 'landscape' }}">
@@ -23,6 +26,14 @@ layout: page
 
   <div class="description">
     {{ content | safe }}
+    {{ exifData.ImageDescription | safe }}
+
+    <ul class="exif">
+      <li class="icon icon--camera">{{ exifData.Make }} {{ exifData.Model }}{% if exifData.LensModel %} + {{ exifData.LensModel }}{% endif %}</li>
+      {% if exifData.ISO %}<li class="icon icon--iso">ISO {{ exifData.ISO }}</li>{% endif %}
+      {% if exifData.FNumber %}<li class="icon icon--aperture">ƒ/{{ exifData.FNumber }}</li>{% endif %}
+      {% if exifData.ExposureTimeFraction %}<li class="icon icon--exposition">{{ exifData.ExposureTimeFraction }} s</li>{% endif %}
+    </ul>
   </div>
 </div>
 <script>
