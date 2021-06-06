@@ -29,11 +29,11 @@ const ICONS_LIST = {
     'globe-earth': { name: 'travel' },
     heart: { name: 'like' },
     home: {},
+    incognito: { name: 'people' },
     'info-circle': { name: 'info' },
     mail: { name: 'contact' },
     'map-simple-marker': { name: 'location' },
-    incognito: { name: 'people' },
-    watch: { name: 'exposition' },
+    timer: { name: 'exposition' },
   },
   simple: {
     flickr: {},
