@@ -2,7 +2,7 @@
 title: Feeds
 ---
 
-![RSS logo](/images/feed.png){.logo}
+![RSS logo](/ui/images/feed.png){.logo}
 
 You can follow new publications in the blog with this Atom feed:
 
