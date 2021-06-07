@@ -10,7 +10,3 @@ colors: [red, blue]
 elsewhere:
   flickr: https://www.flickr.com/photos/nicolas-hoizey/3921511
 ---
-
-This photo title is a play on words in French, where « mère » ("mother") and « mer » ("sea") are homophones.
-
-Here, it is the mother (of our children) dressed in red, who is on a boat on the Red Sea, which is blue… 😅

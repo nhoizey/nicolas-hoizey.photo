@@ -8,7 +8,8 @@
     'header'
     'photo'
     'meta'
-    'description';
+    'description'
+    'exif';
 
   header {
     grid-area: header;
@@ -41,6 +42,14 @@
     grid-area: meta;
     justify-self: start;
   }
+
+  .exif {
+    grid-area: exif;
+    align-self: end;
+    list-style-type: none;
+    padding-inline-start: 0;
+    font-size: var(--step--1);
+  }
 }
 
 @media (min-width: $breakpoint-m) {
@@ -49,7 +58,8 @@
       grid-template-areas:
         'header header'
         'photo meta'
-        'photo description';
+        'photo description'
+        'photo exif';
       grid-template-columns: max-content auto;
       grid-template-rows: min-content auto;
 
