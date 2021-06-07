@@ -47,20 +47,27 @@ module.exports = function (eleventyConfig) {
       )}</p>`;
     }
 
-    // clean model if make in it (Canon for example)
-    if (
-      exifData.Make &&
-      exifData.Model &&
-      exifData.Model.startsWith(exifData.Make)
-    ) {
-      exifData.Model = exifData.Model.replace(exifData.Make, '');
+    if (exifData.Make) {
+      // Simpler make
+      exifData.Make = exifData.Make.replace(
+        'Konica Corporation',
+        'Konica'
+      ).replace('FUJI PHOTO FILM CO., LTD.', 'Fujifilm');
     }
 
-    // clean UTF8 in keywords
+    if (exifData.Model) {
+      // Simpler model
+      exifData.Model = exifData.Model.replace(
+        'Konica Digital Camera ',
+        ''
+      ).replace('Canon EOS 5D Mark II', 'EOS 5D Mark II');
+    }
+
+    // clean UTF8 in keywords, and sort alphabeticaly
     if (exifData.Keywords) {
       exifData.Keywords = exifData.Keywords.map((keyword) =>
         utf8.decode(keyword)
-      );
+      ).sort((a, b) => a.localeCompare(b, 'en'));
     }
 
     callback(null, exifData);
