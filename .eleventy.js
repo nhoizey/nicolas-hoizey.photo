@@ -29,8 +29,9 @@ module.exports = function (eleventyConfig) {
 
   const exifr = require('exifr');
   const Fraction = require('fraction.js');
+  const utf8 = require('utf8');
   eleventyConfig.addNunjucksAsyncFilter('exif', async (image, callback) => {
-    const exifData = await exifr.parse(image);
+    const exifData = await exifr.parse(image, { iptc: true });
 
     // Add exposure time as a fraction
     if (exifData.ExposureTime) {
@@ -53,6 +54,13 @@ module.exports = function (eleventyConfig) {
       exifData.Model.startsWith(exifData.Make)
     ) {
       exifData.Model = exifData.Model.replace(exifData.Make, '');
+    }
+
+    // clean UTF8 in keywords
+    if (exifData.Keywords) {
+      exifData.Keywords = exifData.Keywords.map((keyword) =>
+        utf8.decode(keyword)
+      );
     }
 
     callback(null, exifData);
