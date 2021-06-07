@@ -13,3 +13,8 @@
   to = "https://nicolas-hoizey.photo"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/images/:width/*"
+  to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_:width,c_limit/https://nicolas-hoizey.photo/:splat"
+  status = 200

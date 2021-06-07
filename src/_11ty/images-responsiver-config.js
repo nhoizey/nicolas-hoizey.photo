@@ -73,7 +73,7 @@ module.exports = {
   default: {
     selector: ':not(picture) img[src]:not([srcset]):not([src*=".svg"])',
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},c_limit/${src}`,
+      src.replace(site.url, `${site}/images/${width}`),
     runBefore: runBeforeHook,
     runAfter: runAfterHook,
     fallbackWidth: 800,
