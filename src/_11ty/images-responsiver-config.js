@@ -73,7 +73,7 @@ module.exports = {
   default: {
     selector: ':not(picture) img[src]:not([srcset]):not([src*=".svg"])',
     resizedImageUrl: (src, width) =>
-      src.replace(site.url, `${site}/images/${width}`),
+      src.replace(site.url, `${site.url}/images/${width}`),
     runBefore: runBeforeHook,
     runAfter: runAfterHook,
     fallbackWidth: 800,
