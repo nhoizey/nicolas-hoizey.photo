@@ -30,9 +30,9 @@ layout: page
 
     <ul class="exif">
       <li class="icon icon--camera">{{ exifData.Make }} {{ exifData.Model }}{% if exifData.LensModel %} + {{ exifData.LensModel }}{% endif %}</li>
-      {% if exifData.ISO %}<li class="icon icon--iso">ISO&nbsp;{{ exifData.ISO }}</li>{% endif %}
+      {% if exifData.ISO %}<li class="icon icon--iso">ISO {{ exifData.ISO }}</li>{% endif %}
       {% if exifData.FNumber %}<li class="icon icon--aperture">ƒ/{{ exifData.FNumber }}</li>{% endif %}
-      {% if exifData.ExposureTimeFraction %}<li class="icon icon--exposition">{{ exifData.ExposureTimeFraction }}&nbsp;s</li>{% endif %}
+      {% if exifData.ExposureTimeFraction %}<li class="icon icon--exposition">{{ exifData.ExposureTimeFraction }} s</li>{% endif %}
     </ul>
   </div>
 </div>
