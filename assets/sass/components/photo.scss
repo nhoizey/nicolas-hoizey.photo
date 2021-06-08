@@ -9,7 +9,8 @@
     'photo'
     'meta'
     'description'
-    'exif';
+    'exif'
+    'keywords';
 
   header {
     grid-area: header;
@@ -49,6 +50,11 @@
     list-style-type: none;
     padding-inline-start: 0;
     font-size: var(--step--1);
+  }
+
+  .keywords {
+    grid-area: keywords;
+    justify-self: start;
   }
 }
 
