@@ -7,7 +7,7 @@ layout: page
 
 {% from "macros/css.njk" import css %}
 {{ css('components/photo', build.env) }}
-<div class="photo {{ ratio or 'landscape' }}" style="--ratio: {{ exifData.ImageWidth / exifData.ImageHeight }}">
+<div class="photo{% if exifData.ImageWidth < exifData.ImageHeight %} portrait{% endif %}" style="--ratio: {{ exifData.ImageWidth / exifData.ImageHeight }}">
   <header>
     {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
     <ul class="breadcrumb">
