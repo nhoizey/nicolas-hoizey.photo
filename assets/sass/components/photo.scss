@@ -32,7 +32,10 @@
     border-width: 4px;
     border-color: white;
 
-    max-height: 100vh;
+    &.portrait {
+      max-height: 100vh;
+      width: auto;
+    }
   }
 
   .description {
@@ -60,14 +63,29 @@
 
 @media (min-width: $breakpoint-m) {
   .photo {
+    --width: 100%;
+    --height: auto;
+
     &.portrait {
+      // Make the image fully visible on load without scrolling
+      // = Full height
+      // - body padding: var(--space-s)
+      // - breadcrumb: 1.5 * var(--step--1)
+      // - title: 1.2 * var(--step-3)
+      // - 3 grid gaps: 3 * var(--space-xs)
+      --height: calc(
+        100vh - var(--space-s) - 1.5rem - 1.2 * var(--step-3) - 3 *
+          var(--space-xs)
+      );
+      --width: calc(var(--height) * var(--ratio));
+
       grid-template-areas:
         'header header'
         'photo meta'
         'photo description'
-        'photo exif';
-      grid-template-columns: max-content auto;
-      grid-template-rows: min-content auto;
+        'photo exif'
+        'keywords keywords';
+      grid-template-columns: var(--width) auto;
 
       .meta {
         align-self: end;
@@ -75,17 +93,8 @@
     }
 
     img {
-      // Make the image fully visible on load without scrolling
-      // = Full height
-      // - body padding: var(--space-s)
-      // - breadcrumb: 1.5 * var(--step--1)
-      // - title: 1.2 * var(--step-3)
-      // - 2 grid gaps: 2 * var(--space-xs)
-      max-height: calc(
-        100vh - var(--space-s) - 1.5rem - 1.2 * var(--step-3) - 2 *
-          var(--space-xs)
-      );
-      width: auto;
+      width: var(--width);
+      height: var(--height);
     }
   }
 }
