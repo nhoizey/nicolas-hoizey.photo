@@ -35,7 +35,7 @@ layout: page
     {% if exifData.ISO %}<li class="icon icon--iso">ISO {{ exifData.ISO }}</li>{% endif %}
     {% if exifData.FNumber %}<li class="icon icon--aperture">ƒ/{{ exifData.FNumber }}</li>{% endif %}
     {% if exifData.ExposureTimeFraction %}<li class="icon icon--exposition">{{ exifData.ExposureTimeFraction }} s</li>{% endif %}
-    {% if exifData.latitude and exifData.longitude %}<li>lat: {{ exifData.latitude }} / long: {{ exifData.longitude }}</li>{% endif %}
+    {% if exifData.latitude and exifData.longitude %}<li class="icon icon--location">lat: {{ exifData.latitude }} / long: {{ exifData.longitude }}</li>{% endif %}
   </ul>
   {% if exifData.Keywords %}<p class="keywords icon icon--tag">{{ exifData.Keywords | join(", ") }}</p>{% endif %}
 </div>
