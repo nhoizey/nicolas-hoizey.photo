@@ -34,6 +34,7 @@ const ICONS_LIST = {
     mail: { name: 'contact' },
     'map-simple-marker': { name: 'location' },
     tag: {},
+    telescope: { name: 'focal-length' },
     timer: { name: 'exposition' },
   },
   simple: {
