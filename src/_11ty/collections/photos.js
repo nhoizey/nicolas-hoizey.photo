@@ -1,6 +1,6 @@
 // Add a "photos" collection with all photos
 module.exports = {
-  photos: (collection) =>
+  photosmd: (collection) =>
     collection
       .getAll()
       .filter((item) => 'photo' in item.data)

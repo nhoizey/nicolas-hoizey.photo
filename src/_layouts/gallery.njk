@@ -22,7 +22,7 @@ layout: page
     {% for item in sub_galleries %}
       <li>
         <figure>
-          {% set photos_below = collections.photos | photos_here_and_below(item.url) | shuffle | limit(3) %}
+          {% set photos_below = collections.photosmd | photos_here_and_below(item.url) | shuffle | limit(3) %}
           {% if photos_below | length %}
             {% for photo in photos_below %}
               <img src="{{ photo.url }}{{ photo.data.photo }}" alt="" />
@@ -35,7 +35,7 @@ layout: page
   </ul>
 {% endif %}
 
-{% set photos_here = collections.photos | photos_here(page.url) %}
+{% set photos_here = collections.photosmd | photos_here(page.url) %}
 {% if photos_here | length %}
   <h2>Latest photos in this gallery</h2>
   <ul class="gallery">
@@ -45,7 +45,7 @@ layout: page
   </ul>
 {% endif %}
 {#
-{% set photos_below = collections.photos | photos_below(page.url) %}
+{% set photos_below = collections.photosmd | photos_below(page.url) %}
 {% if photos_below | length %}
   <h2>Latest photos in sub galleries</h2>
   <ul class="gallery">
