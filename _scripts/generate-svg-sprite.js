@@ -26,7 +26,6 @@ const ICONS_LIST = {
     community: { name: 'urban' },
     'flower-2': { name: 'nature' },
     folder: {},
-    'globe-earth': { name: 'travel' },
     heart: { name: 'like' },
     home: {},
     incognito: { name: 'people' },
