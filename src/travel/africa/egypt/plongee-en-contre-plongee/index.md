@@ -10,5 +10,3 @@ colors: [blue]
 elsewhere:
   flickr: https://www.flickr.com/photos/nicolas-hoizey/31535666
 ---
-
-This photo title is a play on words in French, where « plongée » means "dive" and « contre-plongée » means "low-angle shot".
