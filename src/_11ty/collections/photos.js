@@ -10,7 +10,7 @@ module.exports = {
       .getAll()
       .filter(
         (item) =>
-          item.url.match(/^\/(travel|people|nature)\//) &&
+          item.url.match(/^\/(locations|people|nature)\//) &&
           !('photo' in item.data)
       )
       .sort((a, b) => {
