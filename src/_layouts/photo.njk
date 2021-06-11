@@ -3,41 +3,35 @@ layout: page
 ---
 
 {% set photoPath = 'src' + page.filePathStem | replace('index', '') + photo %}
-{% set exifData = photoPath | exif %}
-
+{{ exif | dump }}
 {% from "macros/css.njk" import css %}
 {{ css('components/photo', build.env) }}
-<div class="photo{% if exifData.ImageWidth < exifData.ImageHeight %} portrait{% endif %}" style="--ratio: {{ exifData.ImageWidth / exifData.ImageHeight }}">
+<div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
   <header>
-    {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
     <ul class="breadcrumb">
       <li><a href="/">Home</a></li>
-      {% for item in breadcrumb %}
-        <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-      {% endfor %}
     </ul>
     <h1>{{ title }}</h1>
   </header>
 
-  <img src="{{ photo }}" alt="{{ title }}" width="{{ exifData.ImageWidth }}" height="{{ exifData.ImageHeight }}" />
+  <img src="{{ page.fileSlug }}.jpg" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
 
   {% from "macros/meta.njk" import meta %}
   {{ meta(page, location) }}
 
   <div class="description">
-    {{ exifData.ImageDescription | safe }}
     {{ content | safe }}
   </div>
 
   <ul class="exif">
-    <li class="icon icon--camera">{{ exifData.Make }} {{ exifData.Model }}{% if exifData.LensModel %} + {{ exifData.LensModel }}{% endif %}</li>
-    {% if exifData.FocalLength %}<li class="icon icon--focal-length">{{ exifData.FocalLength }} mm{% if exifData.FocalLengthIn35mmFormat %} (eq {{ exifData.FocalLengthIn35mmFormat }} mm){% endif %}</li>{% endif %}
-    {% if exifData.ISO %}<li class="icon icon--iso">ISO {{ exifData.ISO }}</li>{% endif %}
-    {% if exifData.FNumber %}<li class="icon icon--aperture">ƒ/{{ exifData.FNumber }}</li>{% endif %}
-    {% if exifData.ExposureTimeFraction %}<li class="icon icon--exposition">{{ exifData.ExposureTimeFraction }} s</li>{% endif %}
-    {% if exifData.latitude and exifData.longitude %}<li class="icon icon--location">lat: {{ exifData.latitude }} / long: {{ exifData.longitude }}</li>{% endif %}
+    <li class="icon icon--camera">{{ gear.make }} {{ gear.model }}{% if gear.lens %} + {{ gear.lens }}{% endif %}</li>
+    {% if settings.focal_length %}<li class="icon icon--focal-length">{{ settings.focal_length }} mm{% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}</li>{% endif %}
+    {% if settings.iso %}<li class="icon icon--iso">ISO {{ settings.iso }}</li>{% endif %}
+    {% if settings.aperture %}<li class="icon icon--aperture">ƒ/{{ settings.aperture }}</li>{% endif %}
+    {% if settings.exposure_time_fraction %}<li class="icon icon--exposition">{{ settings.exposure_time_fraction }} s</li>{% endif %}
+    {% if geo.latitude and geo.longitude %}<li class="icon icon--location">lat: {{ geo.latitude }}<br />long: {{ geo.longitude }}</li>{% endif %}
   </ul>
-  {% if exifData.Keywords %}<p class="keywords icon icon--tag">{{ exifData.Keywords | join(", ") }}</p>{% endif %}
+  {% if tags %}<p class="keywords icon icon--tag">{{ tags | join(", ") }}</p>{% endif %}
 </div>
 <script>
 

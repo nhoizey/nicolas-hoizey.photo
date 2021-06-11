@@ -8,7 +8,11 @@ const getFolders = () => {
     encoding: 'utf8',
     withFileTypes: true,
   }).forEach((item) => {
-    if (item.isDirectory() && !item.name.match(/^_/)) {
+    if (
+      item.name !== 'photos' &&
+      item.isDirectory() &&
+      !item.name.match(/^_/)
+    ) {
       folders.push(item.name);
     }
   });

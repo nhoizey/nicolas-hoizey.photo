@@ -11,7 +11,7 @@ title: Welcome!
 {% from "macros/photo.njk" import photo %}
 
 <ul class="gallery">
-  {% for item in collections.photosmd | limit(6) %}
+  {% for item in collections.photos | limit(6) %}
     {{ photo(item) }}
   {% endfor %}
 </ul>

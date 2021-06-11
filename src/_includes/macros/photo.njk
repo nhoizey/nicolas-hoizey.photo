@@ -3,7 +3,7 @@
 {% macro photo(item) %}
   <li>
     <figure>
-      <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
+      <img src="{{ item.url }}{{ item.fileSlug }}.jpg" alt="{{ item.data.title }}" />
       <figcaption>
         <a href="{{ item.url }}">{{ item.data.title }}</a>
         {{ meta(item) }}

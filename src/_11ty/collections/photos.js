@@ -1,18 +1,14 @@
 // Add a "photos" collection with all photos
 module.exports = {
-  photosmd: (collection) =>
+  photos: (collection) =>
     collection
       .getAll()
-      .filter((item) => 'photo' in item.data)
+      .filter((item) => item.url.match(/^\/photos\/[^/]+\//))
       .sort((a, b) => b.date - a.date),
   galleries: (collection) =>
     collection
       .getAll()
-      .filter(
-        (item) =>
-          item.url.match(/^\/(locations|people|nature)\//) &&
-          !('photo' in item.data)
-      )
+      .filter((item) => item.url.match(/^\/(locations|people|nature)\//))
       .sort((a, b) => {
         return a.data.title.localeCompare(b.data.title, 'en', {
           ignorePunctuation: true,

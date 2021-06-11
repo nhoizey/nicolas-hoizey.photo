@@ -81,7 +81,7 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     'meta'
     'description'
     'exif'
-    'keywords';
+    'tags';
 
   header {
     grid-area: header;
@@ -124,8 +124,8 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     font-size: var(--step--1);
   }
 
-  .keywords {
-    grid-area: keywords;
+  .tags {
+    grid-area: tags;
     justify-self: start;
   }
 
@@ -176,7 +176,7 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
           'photo meta'
           'photo description'
           'photo exif'
-          'keywords keywords';
+          'tags tags';
         grid-template-columns: var(--width) auto;
 
         .meta {
