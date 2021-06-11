@@ -61,7 +61,7 @@ ${photo}`);
     // get title
     photoYFM.title = utf8.decode(exifData.ObjectName);
     console.log(`
-### ${photoYFM.title}`);
+    ${photoYFM.title}`);
 
     // get description
     let photoDescription = '';
