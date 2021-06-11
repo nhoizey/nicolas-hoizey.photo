@@ -34,7 +34,7 @@ const ICONS_LIST = {
     'map-simple-marker': { name: 'location' },
     tag: {},
     telescope: { name: 'focal-length' },
-    timer: { name: 'exposition' },
+    timer: { name: 'exposure' },
   },
   simple: {
     flickr: {},
