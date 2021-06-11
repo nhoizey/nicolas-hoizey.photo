@@ -33,142 +33,157 @@ let exifrOptions = {
   gps: {
     pick: ['latitude', 'longitude'],
   },
-  // iptc: {
-  //   pick: ['ObjectName', 'Keywords'],
-  // },
 };
 
 fs.readdirSync(SRC).forEach(async (photo) => {
-  const srcPhoto = path.join(SRC, photo);
+  const photoPath = path.join(SRC, photo);
+  const ext = path.extname(photoPath);
+  if (ext !== '.jpg') {
+    return;
+  }
   const photoYFM = {};
-
-  const exifData = await exifr.parse(srcPhoto, exifrOptions);
-  const ext = path.extname(srcPhoto);
+  const photoExif = await exifr.parse(photoPath, exifrOptions);
+  const photoIptc = await exifr.parse(photoPath, {
+    ifd0: false,
+    ifd1: false,
+    exif: false,
+    gps: false,
+    iptc: true,
+  });
 
   console.log(`
 ${photo}`);
-  console.dir(exifData.DigitalCreationTime);
-  console.dir(exifData.CreationTime);
-  if (photo.match(/Stairz/)) {
-    console.dir(exifData);
-  }
 
-  if (undefined === exifData) {
-    console.error(`  ⚠ error reading EXIF data for ${photo}`);
-  } else if (undefined === exifData.ObjectName) {
-    console.error(`  ⚠ ObjectName property missing for ${photo}`);
+  if (undefined === photoExif) {
+    console.error(`⚠ error reading EXIF data for ${photo}`);
   } else {
-    // get title
-    photoYFM.title = utf8.decode(exifData.ObjectName);
-    console.log(`
-    ${photoYFM.title}`);
+    if (undefined === photoIptc.ObjectName) {
+      console.error('  ⚠ "iptc.ObjectName" missing');
+      photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, '$1');
+    } else {
+      // Get title
+      photoYFM.title = utf8.decode(photoIptc.ObjectName);
+    }
 
-    // get description
+    // Get description
     let photoDescription = '';
-    if (exifData.ImageDescription) {
-      photoDescription = exifData.ImageDescription.trim();
+    if (photoExif.ImageDescription) {
+      photoDescription = photoExif.ImageDescription.trim();
     }
 
     // get photo date
-    if (exifData.DateTimeOriginal && exifData.OffsetTime) {
-      const gmt = exifData.DateTimeOriginal.toGMTString();
-      const tz = exifData.OffsetTime;
+    if (photoExif.DateTimeOriginal && photoExif.OffsetTime) {
+      const gmt = photoExif.DateTimeOriginal.toGMTString();
+      const tz = photoExif.OffsetTime;
       photoYFM.date = moment
         .utc(gmt)
         .utcOffset(tz)
         .format('YYYY-MM-DD HH:MM:SS Z');
-    } else if (exifData.DigitalCreationDate && exifData.DigitalCreationTime) {
-      photoYFM.date = `${exifData.DigitalCreationDate.replace(
-        /([0-9]{4})([0-9]{2})([0-9]{2})/,
-        '$1-$2-$3'
-      )}`;
     } else {
-      console.error(`  ⚠ date missing for ${photo}`);
-      photoYFM.date = photo.slice(0, 10);
+      console.error('  ⚠ exif.DateTimeOriginal missing');
+      if (photoIptc.DigitalCreationDate && photoIptc.DigitalCreationTime) {
+        photoYFM.date = `${photoIptc.DigitalCreationDate.replace(
+          /([0-9]{4})([0-9]{2})([0-9]{2})/,
+          '$1-$2-$3'
+        )} ${photoIptc.DigitalCreationTime.replace(
+          /([0-9]{2})([0-9]{2})([0-9]{2})([-+][0-9]{2})([0-9]{2})/,
+          '$1:$2:$3 $4:$5'
+        )}`;
+      } else {
+        console.error('  ⚠ iptc.DigitalCreationDate missing');
+        photoYFM.date = photo.slice(0, 10);
+      }
     }
-    console.log(`   ${photoYFM.date}`);
 
-    let make = '';
-    if (exifData.Make) {
+    // Get gear
+    photoYFM.gear = {};
+    if (photoExif.Make) {
       // Simpler make
-      make = exifData.Make.replace('Konica Corporation', 'Konica').replace(
-        'FUJI PHOTO FILM CO., LTD.',
-        'Fujifilm'
-      );
+      photoYFM.gear.make = photoExif.Make.replace(
+        'Konica Corporation',
+        'Konica'
+      ).replace('FUJI PHOTO FILM CO., LTD.', 'Fujifilm');
     }
-
-    let model = '';
-    if (exifData.Model) {
+    if (photoExif.Model) {
       // Simpler model
-      model = exifData.Model.replace('Konica Digital Camera ', '').replace(
-        'Canon EOS 5D Mark II',
-        'EOS 5D Mark II'
-      );
+      photoYFM.gear.model = photoExif.Model.replace(
+        'Konica Digital Camera ',
+        ''
+      ).replace('Canon EOS 5D Mark II', 'EOS 5D Mark II');
+    }
+    if (photoExif.LensModel) {
+      photoYFM.gear.lens = photoExif.LensModel;
     }
 
-    if (exifData.Keywords) {
-      photoYFM.tags = exifData.Keywords.map((keyword) => utf8.decode(keyword))
+    if (photoIptc.Keywords) {
+      photoYFM.tags = photoIptc.Keywords.map((keyword) => utf8.decode(keyword))
         .sort((a, b) => a.localeCompare(b, 'en'))
         .join(', ');
     }
 
-    let exposureTimeFraction = '';
-    // Add exposure time as a fraction
-    if (exifData.ExposureTime) {
-      let t = new Fraction(exifData.ExposureTime);
-      exposureTimeFraction = t.toFraction(true);
+    if (
+      photoExif.FocalLength ||
+      photoExif.FocalLengthIn35mmFormat ||
+      photoExif.ISO ||
+      photoExif.FNumber ||
+      photoExif.ExposureTime
+    ) {
+      photoYFM.settings = {};
+      if (photoExif.FocalLength) {
+        photoYFM.settings.focal_length = photoExif.FocalLength;
+      }
+      if (photoExif.FocalLengthIn35mmFormat) {
+        photoYFM.settings.focal_length_35mm = photoExif.FocalLengthIn35mmFormat;
+      }
+      if (photoExif.ISO) {
+        photoYFM.settings.iso = photoExif.ISO;
+      }
+      if (photoExif.FNumber) {
+        photoYFM.settings.aperture = photoExif.FNumber;
+      }
+      if (photoExif.ExposureTime) {
+        // Add exposure time as a fraction
+        let t = new Fraction(photoExif.ExposureTime);
+        photoYFM.settings.exposure_time = t.toFraction(true);
+      }
     }
 
     // Get image dimensions
-    let imageDimensions = imageSize(srcPhoto);
+    const dimensions = imageSize(photoPath);
+    photoYFM.dimensions = {
+      width: dimensions.width,
+      height: dimensions.height,
+    };
+
+    // Get coordinates
+    photoYFM.geo = {};
+    if (photoExif.latitude) {
+      photoYFM.geo.latitude = photoExif.latitude;
+    }
+    if (photoExif.longitude) {
+      photoYFM.geo.longitude = photoExif.longitude;
+    }
+    if (photoIptc.Country) {
+      photoYFM.geo.country = utf8.decode(photoIptc.Country);
+    }
+    if (photoIptc.City) {
+      photoYFM.geo.city = utf8.decode(photoIptc.City);
+    }
 
     // Manage folder and file
     const slug = slugify(photoYFM.title);
+    photoYFM.file = `${slug}${ext}`;
     const distDir = path.join(DIST, slug);
+    const distPhoto = path.join(distDir, `${slug}${ext}`);
+
     if (!fs.existsSync(distDir)) {
       fs.mkdirSync(distDir);
     }
-    const distPhoto = path.join(distDir, `${slug}${ext}`);
-    fs.copyFileSync(srcPhoto, distPhoto);
+    fs.copyFileSync(photoPath, distPhoto);
 
     // Manage index file
     let mdContent = `---
-${YAML.stringify(photoYFM)}
-dimensions:
-  width: ${imageDimensions.width}
-  height: ${imageDimensions.height}
-gear:${
-      make
-        ? `
-  make: ${make}`
-        : ''
-    }${
-      model
-        ? `
-  model: ${model}`
-        : ''
-    }${
-      exifData.LensModel
-        ? `
-  lens: ${exifData.LensModel}`
-        : ''
-    }
-settings:
-  focal_length: ${exifData.FocalLength}${
-      exifData.FocalLengthIn35mmFormat
-        ? `
-  focal_length_35mm: ${exifData.FocalLengthIn35mmFormat}`
-        : ''
-    }
-  iso: ${exifData.ISO}
-  aperture: ${exifData.FNumber}
-  exposition: ${exposureTimeFraction}
-  exposure_time: ${exifData.ExposureTime}
-  exposure_time_fraction: ${exposureTimeFraction}
-geo:
-  latitude: ${exifData.latitude}
-  longitude: ${exifData.longitude}
----
+${YAML.stringify(photoYFM)}---
 
 ${photoDescription}
 `;
