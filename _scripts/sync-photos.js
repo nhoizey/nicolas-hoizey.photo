@@ -65,8 +65,8 @@ ${photo}`);
 
     // get description
     let photoDescription = '';
-    if (exifData.Caption) {
-      photoDescription = utf8.decode(exifData.Caption).trim();
+    if (exifData.ImageDescription) {
+      photoDescription = exifData.ImageDescription.trim();
     }
 
     // get photo date
