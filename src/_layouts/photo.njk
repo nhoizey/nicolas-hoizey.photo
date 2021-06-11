@@ -6,6 +6,8 @@ layout: page
 {{ exif | dump }}
 {% from "macros/css.njk" import css %}
 {{ css('components/photo', build.env) }}
+{# <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' /> #}
+
 <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
   <header>
     <ul class="breadcrumb">
@@ -14,25 +16,27 @@ layout: page
     <h1>{{ title }}</h1>
   </header>
 
-  <img src="{{ page.fileSlug }}.jpg" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
-
-  {% from "macros/meta.njk" import meta %}
-  {{ meta(page, location) }}
+  <img src="{{ file }}" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
 
   <div class="description">
     {{ content | safe }}
   </div>
 
   <ul class="exif">
-    <li class="icon icon--camera">{{ gear.make }} {{ gear.model }}{% if gear.lens %} + {{ gear.lens }}{% endif %}</li>
-    {% if settings.focal_length %}<li class="icon icon--focal-length">{{ settings.focal_length }} mm{% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}</li>{% endif %}
-    {% if settings.iso %}<li class="icon icon--iso">ISO {{ settings.iso }}</li>{% endif %}
-    {% if settings.aperture %}<li class="icon icon--aperture">ƒ/{{ settings.aperture }}</li>{% endif %}
-    {% if settings.exposure_time_fraction %}<li class="icon icon--exposition">{{ settings.exposure_time_fraction }} s</li>{% endif %}
-    {% if geo.latitude and geo.longitude %}<li class="icon icon--location">lat: {{ geo.latitude }}<br />long: {{ geo.longitude }}</li>{% endif %}
+    <li class="date icon icon--date"><time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
+    <li class="gear icon icon--camera">{{ gear.make }} {{ gear.model }}</li>
+    {% if settings.focal_length or gear.lens %}<li class="lens icon icon--focal-length">{% if gear.lens %}{{ gear.lens }}<br />{% endif %}{{ settings.focal_length }} mm{% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}</li>{% endif %}
+    {% if settings.iso %}<li class="iso icon icon--iso">ISO {{ settings.iso }}</li>{% endif %}
+    {% if settings.aperture %}<li class="aperture icon icon--aperture">ƒ/{{ settings.aperture }}</li>{% endif %}
+    {% if settings.exposure_time %}<li class="exposure icon icon--exposure">{{ settings.exposure_time }} s</li>{% endif %}
+    {% if geo.latitude and geo.longitude %}
+      <li class="geo">
+        {# <div id="map" data-latitude="{{ geo.latitude }}" data-longitude="{{ geo.longitude }}"></div> #}
+        <img src="https://api.mapbox.com/styles/v1/mapbox/dark-v10/static/geojson(%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B{{ geo.longitude }}%2C{{ geo.latitude }}%5D%7D)/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" />
+        {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
+      </li>
+    {% endif %}
   </ul>
-  {% if tags %}<p class="keywords icon icon--tag">{{ tags | join(", ") }}</p>{% endif %}
-</div>
-<script>
+  {% if tags %}<p class="tags icon icon--tag">{{ tags | join(", ") }}</p>{% endif %}
 
-</script>
+</div>

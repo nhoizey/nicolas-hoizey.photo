@@ -20,6 +20,9 @@
       </main>
     </div>
     {% include 'components/footer.njk' %}
+
+    {% from "macros/js.njk" import js %}
+    {{ js('additional', build.env) }}
   </body>
 
 </html>

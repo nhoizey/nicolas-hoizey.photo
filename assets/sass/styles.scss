@@ -53,7 +53,7 @@ body {
 }
 
 main {
-  *:first-child {
+  & > *:first-child {
     margin-block-start: 0;
   }
 
@@ -302,7 +302,7 @@ figure {
 }
 
 $iconNames: aperture, download, feeds, twitter, blog, date, camera, urban,
-  nature, folder, like, home, info, contact, location, people, tag, exposition,
+  nature, folder, like, home, info, contact, location, people, tag, exposure,
   flickr, unsplash, iso, focal-length;
 
 @each $icon in $iconNames {

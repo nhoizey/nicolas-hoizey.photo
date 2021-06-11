@@ -73,12 +73,11 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
   --height: auto;
 
   display: grid;
-  gap: var(--space-xs);
+  gap: var(--space-xs) var(--space-l);
 
   grid-template-areas:
     'header'
     'photo'
-    'meta'
     'description'
     'exif'
     'tags';
@@ -109,24 +108,83 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
 
   .description {
     grid-area: description;
-  }
-
-  .meta {
-    grid-area: meta;
-    justify-self: start;
+    font-size: var(--step-1);
   }
 
   .exif {
     grid-area: exif;
-    align-self: end;
+    align-self: start;
+    justify-self: start;
+
     list-style-type: none;
     padding-inline-start: 0;
     font-size: var(--step--1);
+
+    display: grid;
+    gap: var(--space-xs);
+    grid-template-areas:
+      'date date date'
+      'gear gear gear'
+      'lens lens lens'
+      'iso aperture exposure'
+      'geo geo geo';
+
+    .date {
+      grid-area: date;
+    }
+
+    .gear {
+      grid-area: gear;
+    }
+
+    .lens {
+      grid-area: lens;
+    }
+
+    .iso {
+      grid-area: iso;
+    }
+
+    .aperture {
+      grid-area: aperture;
+    }
+
+    .exposure {
+      grid-area: exposure;
+    }
+
+    .geo {
+      grid-area: geo;
+
+      img {
+        width: 300px;
+        height: 200px;
+        background-color: black;
+        padding: 1px;
+        border: 1px solid white;
+      }
+
+      p {
+        margin-block-start: 0;
+        margin-block-end: 0;
+      }
+    }
   }
 
   .tags {
     grid-area: tags;
     justify-self: start;
+    font-size: var(--step--1);
+    color: $color-theme-lighter-2;
+  }
+
+  @media (min-aspect-ratio: 1) {
+    grid-template-areas:
+      'header header'
+      'photo photo'
+      'description exif'
+      'tags exif';
+    grid-template-columns: 2fr 1fr;
   }
 
   @media (min-aspect-ratio: 3/2) {
@@ -173,7 +231,6 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
       @media (min-aspect-ratio: 5/4) {
         grid-template-areas:
           'header header'
-          'photo meta'
           'photo description'
           'photo exif'
           'tags tags';
@@ -190,4 +247,8 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
       }
     }
   }
+}
+
+#map {
+  aspect-ratio: 3/2;
 }
