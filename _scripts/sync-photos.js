@@ -168,7 +168,6 @@ settings:
 geo:
   latitude: ${exifData.latitude}
   longitude: ${exifData.longitude}
-tags: [${keywords}]
 ---
 
 ${photoDescription}
