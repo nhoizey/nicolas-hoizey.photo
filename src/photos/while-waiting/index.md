@@ -1,0 +1,31 @@
+---
+title: While waiting
+date: 2014-06-14 16:06:00 +02:00
+gear:
+  make: Canon
+  model: EOS 5D Mark II
+  lens: EF135mm f/2L USM
+tags: 135mm f/2, 5D Mark II, 5D2, 5DII, adult, adulte, B&W, black and white,
+  Canon, Canon 135mm, Canon EF 135mm f/2L USM, Canon EOS 5D Mark II, dress,
+  Europa, Europe, France, Lyon, musée, Musée des Beaux-Arts de Lyon, noir et
+  blanc, outdoor, personne, portrait, Rhône, Rhône-Alpes, robe, Sandrine, tenue,
+  type de photo
+settings:
+  focal_length: 135
+  iso: 1600
+  aperture: 2.8
+  exposure_time: 1/800
+dimensions:
+  width: 3500
+  height: 1969
+geo:
+  latitude: 45.76687777833333
+  longitude: 4.833141666666666
+  country: France
+  city: Lyon
+file: while-waiting.jpg
+---
+
+This portrait was taken during the Flou Sentimental workshop.
+
+Model : Sandrynn De ( http://www.facebook.com/Sandrynn.D )

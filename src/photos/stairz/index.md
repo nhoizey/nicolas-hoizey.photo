@@ -17,8 +17,8 @@ settings:
   aperture: 22
   exposure_time: "30"
 dimensions:
-  width: 5498
-  height: 3665
+  width: 3500
+  height: 2333
 geo:
   latitude: 48.86082685666667
   longitude: 2.3518115516666667
