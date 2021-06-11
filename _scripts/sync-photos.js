@@ -106,9 +106,11 @@ ${photo}`);
       );
     }
 
-    const keywords = exifData.Keywords.map((keyword) => utf8.decode(keyword))
-      .sort((a, b) => a.localeCompare(b, 'en'))
-      .join(', ');
+    if (exifData.Keywords) {
+      photoYFM.tags = exifData.Keywords.map((keyword) => utf8.decode(keyword))
+        .sort((a, b) => a.localeCompare(b, 'en'))
+        .join(', ');
+    }
 
     let exposureTimeFraction = '';
     // Add exposure time as a fraction
