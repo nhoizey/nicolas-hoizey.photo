@@ -7,7 +7,7 @@
   Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'
   Accept-CH: Downlink,RTT,Device-Memory,Save-Data,DPR,Width
   Link: <https://res.cloudinary.com>; rel=preconnect; crossorigin
-  Content-Security-Policy: upgrade-insecure-requests; base-uri 'self'; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com; img-src 'self' data.nicolas-hoizey.com res.cloudinary.com; object-src 'self'; connect-src 'self' data.nicolas-hoizey.com; report-uri https://nhocom.report-uri.com/r/d/csp/enforce
+  Content-Security-Policy: upgrade-insecure-requests; base-uri 'self'; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com; img-src 'self' data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com; object-src 'self'; connect-src 'self' data.nicolas-hoizey.com; report-uri https://nhocom.report-uri.com/r/d/csp/enforce
 
 /ui/svg-sprite.svg
   Cache-Control: public, max-age=604800, immutable
