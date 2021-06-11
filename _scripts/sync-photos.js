@@ -15,7 +15,9 @@ const SRC =
 const DIST = './src/photos/';
 
 let exifrOptions = {
-  ifd0: { pick: ['Make', 'Model'] },
+  ifd0: {
+    pick: ['Make', 'Model', 'ImageDescription'],
+  },
   exif: {
     pick: [
       'DateTimeOriginal',
@@ -25,13 +27,15 @@ let exifrOptions = {
       'FNumber',
       'FocalLength',
       'FocalLengthIn35mmFormat',
-      'ImageDescription',
-
       'LensModel',
     ],
   },
-  gps: { pick: ['latitude', 'longitude'] },
-  iptc: { pick: ['ObjectName', 'Keywords'] },
+  gps: {
+    pick: ['latitude', 'longitude'],
+  },
+  // iptc: {
+  //   pick: ['ObjectName', 'Keywords'],
+  // },
 };
 
 fs.readdirSync(SRC).forEach(async (photo) => {
