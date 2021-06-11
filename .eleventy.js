@@ -27,59 +27,6 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  const exifr = require('exifr');
-  const Fraction = require('fraction.js');
-  const utf8 = require('utf8');
-  const imageSize = require('image-size');
-
-  eleventyConfig.addNunjucksAsyncFilter('exif', async (image, callback) => {
-    const exifData = await exifr.parse(image, { iptc: true });
-
-    // Add exposure time as a fraction
-    if (exifData.ExposureTime) {
-      let t = new Fraction(exifData.ExposureTime);
-      exifData.ExposureTimeFraction = t.toFraction(true);
-    }
-
-    // Clean description
-    if (exifData.ImageDescription) {
-      exifData.ImageDescription = `<p>${exifData.ImageDescription.trim().replaceAll(
-        '\n\n',
-        '</p><p>'
-      )}</p>`;
-    }
-
-    if (exifData.Make) {
-      // Simpler make
-      exifData.Make = exifData.Make.replace(
-        'Konica Corporation',
-        'Konica'
-      ).replace('FUJI PHOTO FILM CO., LTD.', 'Fujifilm');
-    }
-
-    if (exifData.Model) {
-      // Simpler model
-      exifData.Model = exifData.Model.replace(
-        'Konica Digital Camera ',
-        ''
-      ).replace('Canon EOS 5D Mark II', 'EOS 5D Mark II');
-    }
-
-    // clean UTF8 in keywords, and sort alphabeticaly
-    if (exifData.Keywords) {
-      exifData.Keywords = exifData.Keywords.map((keyword) =>
-        utf8.decode(keyword)
-      ).sort((a, b) => a.localeCompare(b, 'en'));
-    }
-
-    // Get image dimensions
-    let imageDimensions = imageSize(image);
-    exifData.ImageWidth = imageDimensions.width;
-    exifData.ImageHeight = imageDimensions.height;
-
-    callback(null, exifData);
-  });
-
   // ------------------------------------------------------------------------
   // Shortcodes
   // ------------------------------------------------------------------------

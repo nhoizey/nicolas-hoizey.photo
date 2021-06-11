@@ -13,7 +13,8 @@ module.exports = {
       // Default layout is a page
       let layout = 'page';
 
-      if (data.photo !== undefined) {
+      // Photos have their own layout
+      if (data.page.url.match(/^\/photos\/[^/]+\//)) {
         return 'photo';
       }
 
