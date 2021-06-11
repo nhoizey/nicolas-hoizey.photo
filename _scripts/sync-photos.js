@@ -51,14 +51,11 @@ fs.readdirSync(SRC).forEach(async (photo) => {
     iptc: true,
   });
 
-  console.log(`
-${photo}`);
-
   if (undefined === photoExif) {
     console.error(`⚠ error reading EXIF data for ${photo}`);
   } else {
     if (undefined === photoIptc.ObjectName) {
-      console.error('  ⚠ "iptc.ObjectName" missing');
+      console.error(`⚠ "iptc.ObjectName" missing in ${photo}`);
       photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, '$1');
     } else {
       // Get title
@@ -80,7 +77,7 @@ ${photo}`);
         .utcOffset(tz)
         .format('YYYY-MM-DD HH:MM:SS Z');
     } else {
-      console.error('  ⚠ exif.DateTimeOriginal missing');
+      console.error(`⚠ exif.DateTimeOriginal missing in ${photo}`);
       if (photoIptc.DigitalCreationDate && photoIptc.DigitalCreationTime) {
         photoYFM.date = `${photoIptc.DigitalCreationDate.replace(
           /([0-9]{4})([0-9]{2})([0-9]{2})/,
@@ -90,7 +87,7 @@ ${photo}`);
           '$1:$2:$3 $4:$5'
         )}`;
       } else {
-        console.error('  ⚠ iptc.DigitalCreationDate missing');
+        console.error(`⚠ iptc.DigitalCreationDate missing in ${photo}`);
         photoYFM.date = photo.slice(0, 10);
       }
     }
