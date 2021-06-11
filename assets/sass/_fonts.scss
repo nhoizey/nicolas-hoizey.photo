@@ -35,8 +35,9 @@
   font-family: 'Coniferous-subset';
   src: url(/ui/fonts/Coniferous-Regular-subset.woff2) format('woff2'),
     url(/ui/fonts/Coniferous-Regular-subset.woff) format('woff');
-  unicode-range: U+21, U+27, U+2D, U+41-43, U+45, U+46, U+48, U+4C, U+4E, U+50,
-    U+53, U+54, U+57, U+61-69, U+6B-70, U+72-77, U+79, U+7A, U+E8, U+E9, U+301;
+  unicode-range: U+21, U+26-29, U+2C-2E, U+30, U+31, U+34, U+38, U+3F, U+41-57,
+    U+59, U+5A, U+61-7A, U+B0, U+C0, U+C9, U+D6, U+E4, U+E8, U+E9, U+ED, U+F3,
+    U+FB, U+301, U+2026, U+52D5, U+62F3, U+6CE2;
   font-weight: 400;
   font-style: normal;
   font-display: block;
