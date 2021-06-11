@@ -1,3 +1,31 @@
 ---
-title: "Stairz"
+title: Stairz
+date: 2009-01-30 23:01:00 +02:00
+gear:
+  make: Canon
+  model: EOS 5D Mark II
+  lens: EF24-70mm f/2.8L USM
+tags: 24-70mm, 5D Mark II, 5D2, 5DII, architecture, Beaubourg, bleu, blue,
+  Canon, Canon EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II, Centre Beaubourg,
+  Centre Georges-Pompidou, Centre national d’art et de culture Georges-Pompidou,
+  Centre Pompidou, city, escalier, Europa, Europe, France, green, Ile de France,
+  néon, neon lamp, neon light, night, nuit, Paris, red, rouge, stair, staircase,
+  stairway, urbain, urban, vert, ville
+settings:
+  focal_length: 58
+  iso: 100
+  aperture: 22
+  exposure_time: "30"
+dimensions:
+  width: 5498
+  height: 3665
+geo:
+  latitude: 48.86082685666667
+  longitude: 2.3518115516666667
+  country: France
+file: stairz.jpg
 ---
+
+I tried several shots of the Center, with various angles and longer or shorter exposures, and all of a sudden I saw these areas of color that stood out well from where I was (blue in the upper left, yellow in the lower left, red in the lower right), and I gave it a shot. I then enhanced the effect a bit in Lightroom, but the main thing came from the shot.
+
+My main regret is that the staircase should be more centered, but there was if I remember correctly no color reminder further to the right, and cropping to center would reduce the colored areas on the left.
