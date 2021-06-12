@@ -96,7 +96,7 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     max-height: var(--height);
 
     grid-area: photo;
-    justify-self: center;
+    justify-self: start;
     align-self: start;
 
     background-color: black;
@@ -157,7 +157,8 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
 
       img {
         width: 300px;
-        height: 200px;
+        max-width: 100%;
+        height: auto;
         background-color: black;
         padding: 1px;
         border: 1px solid white;
@@ -177,18 +178,35 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     color: $color-theme-lighter-2;
   }
 
-  @media (min-aspect-ratio: 1) {
+  @media (min-width: $breakpoint-m) {
+    // Make the image fully visible on load without scrolling
+    // = Full height
+    // - body padding: var(--space-s)
+    // - breadcrumb: 1.5 * var(--step--1)
+    // - title: 1.2 * var(--step-3)
+    // - 2 grid gaps: 2 * var(--space-xs)
+    --base: 100vh;
+    --height: calc(
+      var(--base) - var(--space-s) - 1.5rem - 1.2 * var(--step-3) - 2 *
+        var(--space-xs)
+    );
+    --width: calc(var(--height) * var(--ratio));
+
+    @media (max-height: 30em) {
+      --base: 30rem;
+    }
+  }
+
+  @media (min-width: $breakpoint-l) {
+    // debug
+    // background-color: red;
+
     grid-template-areas:
       'header header'
       'photo photo'
       'description exif'
       'tags exif';
     grid-template-columns: 2fr 1fr;
-  }
-
-  @media (min-aspect-ratio: 3/2) {
-    --height: calc(100vh - var(--space-s));
-    --width: auto;
   }
 
   &.portrait {
@@ -214,36 +232,25 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
       --width: auto;
     }
 
-    @media (min-width: $breakpoint-m) {
-      // Make the image fully visible on load without scrolling
-      // = Full height
-      // - body padding: var(--space-s)
-      // - breadcrumb: 1.5 * var(--step--1)
-      // - title: 1.2 * var(--step-3)
-      // - 3 grid gaps: 3 * var(--space-xs)
-      --height: calc(
-        100vh - var(--space-s) - 1.5rem - 1.2 * var(--step-3) - 3 *
-          var(--space-xs)
-      );
-      --width: calc(var(--height) * var(--ratio));
+    @media (min-aspect-ratio: 5/4) {
+      // debug
+      background-color: green;
 
-      @media (min-aspect-ratio: 5/4) {
-        grid-template-areas:
-          'header header'
-          'photo description'
-          'photo exif'
-          'tags tags';
-        grid-template-columns: var(--width) auto;
+      grid-template-areas:
+        'header header'
+        'photo description'
+        'photo exif'
+        'tags tags';
+      grid-template-columns: var(--width) auto;
 
-        .meta {
-          align-self: end;
-        }
+      .meta {
+        align-self: end;
       }
+    }
 
-      @media (min-aspect-ratio: 2/1) {
-        --height: calc(100vh - var(--space-s));
-        --width: auto;
-      }
+    @media (min-aspect-ratio: 2/1) {
+      --height: calc(100vh - var(--space-s));
+      --width: auto;
     }
   }
 }
