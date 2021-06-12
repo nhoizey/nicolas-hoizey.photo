@@ -110,70 +110,10 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     grid-area: description;
   }
 
-  .exif {
-    grid-area: exif;
-    align-self: start;
-    justify-self: start;
-
-    list-style-type: none;
-    padding-inline-start: 0;
-    font-size: var(--step--1);
-
-    display: grid;
-    gap: var(--space-xs);
-    grid-template-areas:
-      'date date date'
-      'gear gear gear'
-      'lens lens lens'
-      'iso aperture exposure'
-      'geo geo geo';
-
-    .date {
-      grid-area: date;
-    }
-
-    .gear {
-      grid-area: gear;
-    }
-
-    .lens {
-      grid-area: lens;
-    }
-
-    .iso {
-      grid-area: iso;
-    }
-
-    .aperture {
-      grid-area: aperture;
-    }
-
-    .exposure {
-      grid-area: exposure;
-    }
-
-    .geo {
-      grid-area: geo;
-
-      img {
-        width: 300px;
-        max-width: 100%;
-        height: auto;
-        background-color: black;
-        padding: 1px;
-        border: 1px solid white;
-      }
-
-      p {
-        margin-block-start: 0;
-        margin-block-end: 0;
-      }
-    }
-  }
-
   .tags {
     grid-area: tags;
     justify-self: start;
+    align-self: end;
     font-size: var(--step--1);
     color: $color-theme-lighter-2;
   }
@@ -257,4 +197,80 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
 
 #map {
   aspect-ratio: 3/2;
+}
+
+.exif {
+  grid-area: exif;
+  align-self: start;
+  justify-self: start;
+
+  list-style-type: none;
+  padding-inline-start: 0;
+  font-size: var(--step--1);
+
+  display: grid;
+  gap: var(--space-xs);
+  grid-template-areas:
+    'date date date'
+    'gear gear gear'
+    'lens lens lens'
+    'iso aperture exposure'
+    'geo geo geo';
+
+  @media (min-width: $breakpoint-s) and (max-width: $breakpoint-l) {
+    width: 100%;
+
+    grid-template-areas:
+      'date date date geo'
+      'gear gear gear geo'
+      'lens lens lens geo'
+      'iso aperture exposure geo'
+      '. . . geo';
+
+    .geo {
+      justify-self: end;
+    }
+  }
+
+  .date {
+    grid-area: date;
+  }
+
+  .gear {
+    grid-area: gear;
+  }
+
+  .lens {
+    grid-area: lens;
+  }
+
+  .iso {
+    grid-area: iso;
+  }
+
+  .aperture {
+    grid-area: aperture;
+  }
+
+  .exposure {
+    grid-area: exposure;
+  }
+
+  .geo {
+    grid-area: geo;
+
+    img {
+      width: 300px;
+      max-width: 100%;
+      height: auto;
+      background-color: black;
+      padding: 1px;
+      border: 1px solid white;
+    }
+
+    p {
+      margin-block-start: 0;
+      margin-block-end: 0;
+    }
+  }
 }
