@@ -48,7 +48,7 @@ layout: page
   https://web.dev/publish-modern-javascript/#rollup
   #}
   {% if build.env == 'production' %}
-    <script defer type="module" src="/js/{{ hashes_photo['assets/js/photo.js']}}"></script>
+    <script defer type="module" src="/ui/js/{{ hashes_photo['assets/js/photo.js']}}"></script>
   {% else %}
-    <script defer type="module" src="/js/photo-es.js"></script>
+    <script defer type="module" src="/ui/js/photo-es.js"></script>
   {% endif %}
