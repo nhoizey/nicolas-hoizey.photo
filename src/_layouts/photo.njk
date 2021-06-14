@@ -41,5 +41,14 @@ layout: page
     {% endif %}
   </ul>
   {% if tags %}<p class="tags icon icon--tag">{{ tags | join(", ") }}</p>{% endif %}
-
 </div>
+
+  {#
+  Load Mapbox only in modern browsers
+  https://web.dev/publish-modern-javascript/#rollup
+  #}
+  {% if build.env == 'production' %}
+    <script defer type="module" src="/js/{{ hashes_archives['assets/js/photo.js']}}"></script>
+  {% else %}
+    <script defer type="module" src="/js/photo-es.js"></script>
+  {% endif %}

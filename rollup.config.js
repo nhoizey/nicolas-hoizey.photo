@@ -7,9 +7,16 @@ import replace from '@rollup/plugin-replace';
 import { nodeResolve } from '@rollup/plugin-node-resolve';
 import { terser } from 'rollup-plugin-terser';
 import path from 'path';
+import entrypointHashmanifest from 'rollup-plugin-entrypoint-hashmanifest';
 
 const JS_SRC = 'assets/js';
 const JS_DIST = '_site/ui/js';
+const HASH = 'src/_data';
+
+const JS_NAME =
+  process.env.NODE_ENV === 'production'
+    ? '[name]-[format].[hash].js'
+    : '[name]-[format].js';
 
 export default [
   {
@@ -45,7 +52,6 @@ export default [
     plugins: [
       replace({
         'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV),
-        MAPBOX_ACCESS_TOKEN: JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
       }),
       commonjs(),
       nodeResolve({ browser: true }),
@@ -53,6 +59,44 @@ export default [
         exclude: 'node_modules/**',
       }),
       process.env.NODE_ENV === 'production' && terser(),
+    ],
+  },
+  {
+    input: path.join(JS_SRC, 'photo.js'),
+    output: {
+      dir: JS_DIST,
+      entryFileNames: JS_NAME,
+      format: 'es',
+      sourcemap: true,
+      globals: {
+        // events: 'events',
+      },
+    },
+    plugins: [
+      replace({
+        MAPBOX_ACCESS_TOKEN: JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
+      }),
+      nodeResolve({ browser: true, preferBuiltins: false }),
+      commonjs(),
+      babel({
+        exclude: 'node_modules/**',
+        presets: [
+          [
+            '@babel/preset-env',
+            {
+              targets: { esmodules: true },
+              bugfixes: true,
+              loose: true,
+            },
+          ],
+        ],
+      }),
+      process.env.NODE_ENV === 'production' && terser(),
+      process.env.NODE_ENV === 'production' &&
+        entrypointHashmanifest({
+          manifestName: path.join(HASH, 'hashes_photo.json'),
+        }),
+      // visualizer(),
     ],
   },
 ];
