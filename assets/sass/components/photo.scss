@@ -91,7 +91,7 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     margin-block-end: 0;
   }
 
-  img {
+  .image {
     width: var(--width);
     max-height: var(--height);
 
@@ -255,15 +255,6 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
   .geo {
     grid-area: geo;
 
-    img {
-      width: 300px;
-      max-width: 100%;
-      height: auto;
-      background-color: black;
-      padding: 1px;
-      border: 1px solid white;
-    }
-
     p {
       margin-block-start: 0;
       margin-block-end: 0;
@@ -279,4 +270,37 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
   background-color: black;
   padding: 1px;
   border: 1px solid white;
+
+  img {
+    border: none;
+    background-color: transparent;
+    padding: 1px;
+
+    width: 298;
+    max-width: 100%;
+    height: 198px;
+  }
+
+  .marker {
+    background-image: url('/ui/images/camera.svg');
+    background-size: cover;
+    width: 2em;
+    height: 2em;
+
+    animation-name: pulse;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+}
+
+@keyframes pulse {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0.3;
+  }
 }

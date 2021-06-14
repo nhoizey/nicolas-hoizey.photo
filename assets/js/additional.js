@@ -29,12 +29,13 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
     });
     map.dragRotate.disable();
     map.touchZoomRotate.disableRotation();
-    var marker = new mapboxgl.Marker({
-      color: '#a081c0',
-      draggable: false,
-    })
+
+    let marker = document.createElement('div');
+    marker.className = 'marker';
+    new mapboxgl.Marker({ element: marker, draggable: false })
       .setLngLat([mapLongitude, mapLatitude])
       .addTo(map);
+
     map.addControl(
       new mapboxgl.NavigationControl({ showCompass: false }),
       'top-right'

@@ -16,7 +16,7 @@ layout: page
     <h1>{{ title }}</h1>
   </header>
 
-  <img src="{{ file }}" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
+  <img src="{{ file }}" class="image" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
 
   <div class="description">
     {{ content | safe }}
@@ -31,8 +31,11 @@ layout: page
     {% if settings.exposure_time %}<li class="exposure icon icon--exposure">{{ settings.exposure_time }} s</li>{% endif %}
     {% if geo.latitude and geo.longitude %}
       <li class="geo">
-        <div id="map" data-latitude="{{ geo.latitude }}" data-longitude="{{ geo.longitude }}"></div>
-        {# <img src="https://api.mapbox.com/styles/v1/mapbox/dark-v10/static/geojson(%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B{{ geo.longitude }}%2C{{ geo.latitude }}%5D%7D)/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" /> #}
+        <div id="map" data-latitude="{{ geo.latitude }}" data-longitude="{{ geo.longitude }}">
+          <noscript>
+            <img src="https://api.mapbox.com/styles/v1/nhoizey/cjese953v0peh2spcgq64caff/static/url-https%3A%2F%2Fnicolas-hoizey.photo%2Fui%2Fimages%2Fcamera.png({{ geo.longitude }}%2C{{ geo.latitude }})/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" />
+          </noscript>
+        </div>
         {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
       </li>
     {% endif %}
