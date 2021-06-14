@@ -167,15 +167,19 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     );
     --width: calc(var(--height) * var(--ratio));
 
-    @media (min-aspect-ratio: 3/2) {
-      --height: calc(100vh - var(--space-s));
-      --width: auto;
+    @media (min-width: $breakpoint-m) {
+      // = Full height: 100vh
+      // - body padding: var(--space-s)
+      // - breadcrumb: 1.5 * var(--step--1)
+      // - title: 1.2 * var(--step-3)
+      // - 2 grid gaps: 2 * var(--space-xs)
+      --height: calc(
+        100vh - var(--space-s) - 1.5 * var(--step--1) - 1.2 * var(--step-3) - 2 *
+          var(--space-xs)
+      );
     }
 
-    @media (min-aspect-ratio: 5/4) {
-      // debug
-      // background-color: green;
-
+    @media (min-width: $breakpoint-l) {
       grid-template-areas:
         'header header'
         'photo description'
@@ -188,8 +192,8 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
       }
     }
 
-    @media (min-aspect-ratio: 2/1) {
-      --height: calc(100vh - var(--space-s));
+    @media (min-aspect-ratio: 2) {
+      --height: calc(100vh - 2 * var(--space-s));
       --width: auto;
     }
   }
