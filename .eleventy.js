@@ -60,14 +60,14 @@ module.exports = function (eleventyConfig) {
   // Transforms
   // ------------------------------------------------------------------------
 
-  if (process.env.NODE_ENV === 'production') {
-    const imagesResponsiver = require('eleventy-plugin-images-responsiver');
-    const imagesResponsiverConfig = require(path.join(
-      __dirname,
-      config.dir.src,
-      '_11ty/images-responsiver-config.js'
-    ));
-    eleventyConfig.addPlugin(imagesResponsiver, imagesResponsiverConfig);
+  // if (process.env.NODE_ENV === 'production') {
+  //   const imagesResponsiver = require('eleventy-plugin-images-responsiver');
+  //   const imagesResponsiverConfig = require(path.join(
+  //     __dirname,
+  //     config.dir.src,
+  //     '_11ty/images-responsiver-config.js'
+  //   ));
+  //   eleventyConfig.addPlugin(imagesResponsiver, imagesResponsiverConfig);
 
     const htmlMinTransform = require(path.join(
       __dirname,
