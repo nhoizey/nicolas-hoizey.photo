@@ -13,7 +13,7 @@ settings:
   focal_length: 54
   iso: 50
   aperture: 2.8
-  exposure_time: "30"
+  shutter_speed: "30"
 dimensions:
   width: 3500
   height: 1524

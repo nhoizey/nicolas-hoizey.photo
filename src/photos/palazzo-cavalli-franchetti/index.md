@@ -12,7 +12,7 @@ settings:
   focal_length: 17
   iso: 800
   aperture: 18
-  exposure_time: 1/640
+  shutter_speed: 1/640
 dimensions:
   width: 3393
   height: 2262

@@ -12,7 +12,7 @@ settings:
   focal_length: 26
   iso: 100
   aperture: 10
-  exposure_time: 1/200
+  shutter_speed: 1/200
 dimensions:
   width: 3456
   height: 2304

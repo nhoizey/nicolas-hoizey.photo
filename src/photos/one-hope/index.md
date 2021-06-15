@@ -13,7 +13,7 @@ settings:
   focal_length_35mm: 84
   iso: 200
   aperture: 1.2
-  exposure_time: 1/200
+  shutter_speed: 1/200
 dimensions:
   width: 3500
   height: 3500

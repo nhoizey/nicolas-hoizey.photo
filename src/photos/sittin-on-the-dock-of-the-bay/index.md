@@ -7,7 +7,7 @@ gear:
 tags: DMC-GM1, GM1, Panasonic
 settings:
   iso: 200
-  exposure_time: 1/16000
+  shutter_speed: 1/16000
 dimensions:
   width: 3500
   height: 2335

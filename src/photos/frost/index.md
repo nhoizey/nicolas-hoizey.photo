@@ -12,7 +12,7 @@ settings:
   focal_length: 70
   iso: 400
   aperture: 2.8
-  exposure_time: 1/400
+  shutter_speed: 1/400
 dimensions:
   width: 3500
   height: 3500

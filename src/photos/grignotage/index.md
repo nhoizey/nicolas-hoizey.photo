@@ -11,7 +11,7 @@ settings:
   focal_length: 50
   iso: 100
   aperture: 8
-  exposure_time: 1/25
+  shutter_speed: 1/25
 dimensions:
   width: 3447
   height: 3447

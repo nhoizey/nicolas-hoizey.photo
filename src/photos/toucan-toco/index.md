@@ -15,7 +15,7 @@ settings:
   focal_length: 300
   iso: 400
   aperture: 5.6
-  exposure_time: 1/50
+  shutter_speed: 1/50
 dimensions:
   width: 3456
   height: 2304
