@@ -22,24 +22,26 @@ layout: page
     {{ content | safe }}
   </div>
 
-  <ul class="exif">
-    <li class="date icon icon--date"><time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
-    <li class="gear icon icon--camera">{{ gear.make }} {{ gear.model }}</li>
-    {% if settings.focal_length or gear.lens %}<li class="lens icon icon--focal-length">{% if gear.lens %}{{ gear.lens }}<br />{% endif %}{{ settings.focal_length }} mm{% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}</li>{% endif %}
-    {% if settings.iso %}<li class="iso icon icon--iso">ISO {{ settings.iso }}</li>{% endif %}
-    {% if settings.aperture %}<li class="aperture icon icon--aperture">ƒ/{{ settings.aperture }}</li>{% endif %}
-    {% if settings.exposure_time %}<li class="exposure icon icon--exposure">{{ settings.exposure_time }} s</li>{% endif %}
-    {% if geo.latitude and geo.longitude %}
-      <li class="geo">
+  <div class="meta">
+    <ul class="exif">
+      <li class="date icon icon--date"><time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
+      <li class="gear icon icon--camera">{{ gear.make }} {{ gear.model }}</li>
+      {% if settings.focal_length or gear.lens %}<li class="lens icon icon--focal-length">{% if gear.lens %}{{ gear.lens }}<br />{% endif %}{{ settings.focal_length }} mm{% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}</li>{% endif %}
+      {% if settings.iso %}<li class="iso icon icon--iso">ISO {{ settings.iso }}</li>{% endif %}
+      {% if settings.aperture %}<li class="aperture icon icon--aperture">ƒ/{{ settings.aperture }}</li>{% endif %}
+      {% if settings.exposure_time %}<li class="exposure icon icon--exposure">{{ settings.exposure_time }} s</li>{% endif %}
+    </ul>
+    <div class="geo">
+      {% if geo.latitude and geo.longitude %}
         <div id="map" data-latitude="{{ geo.latitude }}" data-longitude="{{ geo.longitude }}">
           <noscript>
             <img src="https://api.mapbox.com/styles/v1/nhoizey/cjese953v0peh2spcgq64caff/static/url-https%3A%2F%2Fnicolas-hoizey.photo%2Fui%2Fimages%2Fcamera.png({{ geo.longitude }}%2C{{ geo.latitude }})/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" />
           </noscript>
         </div>
         {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
-      </li>
-    {% endif %}
-  </ul>
+      {% endif %}
+    </div>
+  </div>
   {% if tags %}<p class="tags icon icon--tag">{{ tags | join(", ") }}</p>{% endif %}
 </div>
 

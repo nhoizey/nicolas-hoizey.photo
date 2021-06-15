@@ -1,4 +1,5 @@
 @use '../variables' as *;
+@use '../every_layout/sidebar' as *;
 
 /*
 https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3Lsm%2FRx%2BnT%2BCR1TWuM5sdotDsEicnM980kM0mOkAQxATf5iKIFRMGBpODCEUOOwb1zlgsMh7J34zhlLyN5Vv5gKL6%2BjRpCyNRkBiiMk%2FK7WXnoaeX5HkIUm34bw0mwD9%2BCLNwmPaYpKOKktkJC0U8zUEZWW%2FmP%2FvpBDiqdntBTnpNZGW1zb1OjuLr6CpWqF5MsaIP3CkFJSlGlpKKIuAktgSaqF%2FL%2BnI4ioAj%2FF8EkBPIcI3n4apdOKJbArbRBjtB1Gh3G4ELr2TpM7V3otUlGze7O0GYLUJ0C%2FB0pT1mlMLXzJVYNie4mY7Tfu9d0dWVcbeaOau29XtUAlYvCGuo0vl6W6vgtF0gxqMIHVNcf4T4kn7ttmqF75FyTeLYC1zpY6MpfsGgaPYGB8kiwwlAXmHHKqPklyaqOUmjEHprjmZrRdo2qp1u4oyqTxiQxGsQ0gRF71NllsplgailmOai0p0TTpfSce%2BU5try6xXCC0w%2FOLB7k)
@@ -79,7 +80,7 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     'header'
     'photo'
     'description'
-    'exif'
+    'meta'
     'tags';
 
   header {
@@ -144,7 +145,7 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
     grid-template-areas:
       'header header'
       'photo photo'
-      'description exif'
+      'description meta'
       'tags exif';
     grid-template-columns: 2fr 1fr;
   }
@@ -183,7 +184,7 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
       grid-template-areas:
         'header header'
         'photo description'
-        'photo exif'
+        'photo meta'
         'tags tags';
       grid-template-columns: var(--width) auto;
 
@@ -199,12 +200,18 @@ https://asciiflow.com/#/share/eJzNVs1qhDAQfpUw54WW0hXqobfCFpa1B4%2B5SJsWQd3F2q3L
   }
 }
 
-.exif {
-  grid-area: exif;
+.meta {
+  @extend %sidebar;
+
+  grid-area: meta;
   align-self: start;
   justify-self: start;
+}
 
+.exif {
   list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
   padding-inline-start: 0;
   font-size: var(--step--1);
 
