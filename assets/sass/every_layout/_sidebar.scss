@@ -10,6 +10,7 @@ https://absolutely.every-layout.dev/layouts/sidebar/
 
   & > :first-child {
     /* ↓ The width when the sidebar _is_ a sidebar */
+    flex-basis: var(--sidebar-basis, 15rem);
     flex-grow: 1;
   }
 
@@ -18,6 +19,26 @@ https://absolutely.every-layout.dev/layouts/sidebar/
     flex-basis: 0;
     flex-grow: 999;
     /* ↓ Wrap when the elements are of equal width */
-    min-width: 40%;
+    min-width: 50%;
+  }
+}
+
+%sidebar-right {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-s);
+
+  & > :first-child {
+    /* ↓ Grow from nothing */
+    flex-basis: 0;
+    flex-grow: 999;
+    /* ↓ Wrap when the elements are of equal width */
+    min-width: 50%;
+  }
+
+  & > :last-child {
+    /* ↓ The width when the sidebar _is_ a sidebar */
+    flex-basis: var(--sidebar-basis, 15rem);
+    flex-grow: 1;
   }
 }

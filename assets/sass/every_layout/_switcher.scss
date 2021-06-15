@@ -5,14 +5,13 @@ Every Layout's switcher layout:
 https://absolutely.every-layout.dev/layouts/switcher/
 */
 
-%switcher > * {
+%switcher {
   display: flex;
   flex-wrap: wrap;
-  margin: $gap / 2 * -1;
+  gap: var(--switcher-gap, 1rem);
 }
 
-%switcher > * > * {
+%switcher > * {
   flex-grow: 1;
-  flex-basis: calc((var(--switch, 15rem) - (100% - var(--space-m))) * 999);
-  margin: $gap / 2;
+  flex-basis: calc((var(--switcher-threshold, 15rem) - 100%) * 999);
 }

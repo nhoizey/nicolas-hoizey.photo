@@ -141,7 +141,7 @@ fs.readdirSync(SRC).forEach(async (photo) => {
       if (photoExif.ExposureTime) {
         // Add exposure time as a fraction
         let t = new Fraction(photoExif.ExposureTime);
-        photoYFM.settings.exposure_time = t.toFraction(true);
+        photoYFM.settings.shutter_speed = t.toFraction(true);
       }
     }
 

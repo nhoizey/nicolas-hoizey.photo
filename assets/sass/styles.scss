@@ -303,8 +303,8 @@ figure {
 }
 
 $iconNames: aperture, download, feeds, twitter, blog, date, camera, urban,
-  nature, folder, like, home, info, contact, location, people, tag, exposure,
-  flickr, unsplash, iso, focal-length;
+  nature, folder, like, home, info, contact, location, people, tag,
+  shutter_speed, flickr, unsplash, iso, focal-length;
 
 @each $icon in $iconNames {
   .icon--#{$icon} {

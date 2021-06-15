@@ -26,10 +26,16 @@ layout: page
     <ul class="exif">
       <li class="date icon icon--date"><time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
       <li class="gear icon icon--camera">{{ gear.make }} {{ gear.model }}</li>
-      {% if settings.focal_length or gear.lens %}<li class="lens icon icon--focal-length">{% if gear.lens %}{{ gear.lens }}<br />{% endif %}{{ settings.focal_length }} mm{% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}</li>{% endif %}
-      {% if settings.iso %}<li class="iso icon icon--iso">ISO {{ settings.iso }}</li>{% endif %}
-      {% if settings.aperture %}<li class="aperture icon icon--aperture">ƒ/{{ settings.aperture }}</li>{% endif %}
-      {% if settings.exposure_time %}<li class="exposure icon icon--exposure">{{ settings.exposure_time }} s</li>{% endif %}
+      {% if settings.focal_length or gear.lens %}
+        <li class="lens icon icon--focal-length">
+          {% if gear.lens %}{{ gear.lens }}<br />{% endif %}
+          {{ settings.focal_length }} mm
+          {% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}
+        </li>
+      {% endif %}
+      {% if settings.iso %}<li class="iso icon icon--iso"><span>ISO {{ settings.iso }}</span></li>{% endif %}
+      {% if settings.aperture %}<li class="aperture icon icon--aperture"><span>ƒ/{{ settings.aperture }}</span></li>{% endif %}
+      {% if settings.shutter_speed %}<li class="shutter_speed icon icon--shutter_speed"><span>{{ settings.shutter_speed }} s</span></li>{% endif %}
     </ul>
     <div class="geo">
       {% if geo.latitude and geo.longitude %}
