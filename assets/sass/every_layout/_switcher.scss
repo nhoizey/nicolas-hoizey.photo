@@ -13,5 +13,5 @@ https://absolutely.every-layout.dev/layouts/switcher/
 
 %switcher > * {
   flex-grow: 1;
-  flex-basis: calc((var(--switcher-threshold, 15rem) - 100%) * 999);
+  flex-basis: calc((var(--switcher-threshold) - 100%) * 999);
 }
