@@ -1,4 +1,3 @@
-const cheerio = require('cheerio');
 const truncateHtml = require('truncate-html');
 
 module.exports = {
