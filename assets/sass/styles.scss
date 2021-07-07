@@ -200,8 +200,11 @@ img {
   row-gap: var(--space-l);
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
 
+  justify-items: center;
+
   li {
     max-width: 20rem;
+    text-align: center;
   }
 
   img {
@@ -244,7 +247,7 @@ figure {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
   }
 
   a::after {
