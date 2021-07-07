@@ -9,13 +9,28 @@ const isPhoto = (data) =>
 module.exports = {
   lang: config.defaultLang || 'en',
   eleventyComputed: {
+    origin: (data) => {
+      if (isPhoto(data)) {
+        return getPhotoData(data.page.fileSlug);
+      } else {
+        return null;
+      }
+    },
+    date: (data) => {
+      if (isPhoto(data)) {
+        const photoData = getPhotoData(data.page.fileSlug);
+        return photoData.data.date;
+      } else {
+        return data.date;
+      }
+    },
     title: (data) => {
       if (data.title !== undefined && data.title !== '') {
         // A title has been set in the content Front Matter
         return data.title;
       }
       if (isPhoto(data)) {
-        photoData = getPhotoData(data);
+        const photoData = getPhotoData(data.page.fileSlug);
         return photoData.data.title;
       }
     },
