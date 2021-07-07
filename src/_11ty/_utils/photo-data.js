@@ -2,16 +2,14 @@ const matter = require('gray-matter');
 
 let photoDataMemoization = {};
 
-const getPhotoData = (data) => {
-  const filePathStemParts = data.page.filePathStem.split('/');
-  const photoSlug = filePathStemParts[filePathStemParts.length - 1];
-  if (photoSlug in photoDataMemoization) {
+const getPhotoData = (slug) => {
+  if (slug in photoDataMemoization) {
     // This photo already exists in memoization
-    return photoDataMemoization[photoSlug];
+    return photoDataMemoization[slug];
   } else {
-    let photoDataCollection = matter.read(`src/photos/${photoSlug}/index.md`);
+    let photoDataCollection = matter.read(`src/photos/${slug}/index.md`);
     // Keep a copy of this collection in memoization for later reuse
-    photoDataMemoization[photoSlug] = photoDataCollection;
+    photoDataMemoization[slug] = photoDataCollection;
 
     return photoDataCollection;
   }

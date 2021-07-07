@@ -2,14 +2,9 @@
   <ul class="meta">
     {% if item.date %}
       <li class="date meta__item meta__date">
-        <time class="dt-published icon icon--date" datetime="{{ item.date | date("YYYY-MM-DD") }}">
-          {{ item.date | date("Do MMMM YYYY") }}
+        <time class="dt-published icon icon--date" datetime="{{ item.data.date | date("YYYY-MM-DD") }}">
+          {{ item.data.date | date("Do MMMM YYYY") }}
         </time>
-      </li>
-    {% endif %}
-    {% if item.data.location or location %}
-      <li class="date meta__item meta__location">
-        <span class="icon icon--location">{{ item.data.location.name or location.name }}</span>
       </li>
     {% endif %}
   </ul>
