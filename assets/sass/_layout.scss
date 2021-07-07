@@ -56,10 +56,20 @@ body {
 
     justify-content: flex-end;
 
+    ul {
+      display: none;
+    }
+
     @media (min-width: $breakpoint-m) {
       flex-direction: column;
       gap: var(--space-s);
       margin-left: var(--space-s);
+
+      ul {
+        margin-block: var(--space-2xs) var(--space-s);
+        display: flex;
+        gap: var(--space-2xs);
+      }
     }
   }
 }

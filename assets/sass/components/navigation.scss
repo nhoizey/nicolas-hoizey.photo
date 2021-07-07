@@ -4,7 +4,12 @@ nav {
   ul {
     list-style: none;
     margin: 0;
-    padding-left: 0;
+    padding-inline-start: 0;
+
+    ul {
+      font-size: var(--step--1);
+      padding-inline-start: 1em;
+    }
   }
 
   .icon {
@@ -37,8 +42,8 @@ nav {
   }
 
   .current {
-    a:link,
-    a:visited {
+    > a:link,
+    > a:visited {
       text-decoration-line: underline;
       text-decoration-color: $color-theme;
     }

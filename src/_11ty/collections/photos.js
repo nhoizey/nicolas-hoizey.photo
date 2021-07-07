@@ -1,4 +1,7 @@
 // Add a "photos" collection with all photos
+
+const sortOrderThenAlpha = require('../_utils/sort-order-then-alpha');
+
 module.exports = {
   photos: (collection) =>
     collection
@@ -8,13 +11,6 @@ module.exports = {
   galleries: (collection) =>
     collection
       .getAll()
-      .filter((item) =>
-        item.url.match(/^\/(locations|nature|urban|portraits|animals)\//)
-      )
-      .sort((a, b) => {
-        return a.data.title.localeCompare(b.data.title, 'en', {
-          ignorePunctuation: true,
-          sensitivity: 'base',
-        });
-      }),
+      .filter((item) => item.url.match(/^\/(travels|wanderings|portraits)\//))
+      .sort((a, b) => sortOrderThenAlpha(a, b)),
 };
