@@ -195,14 +195,14 @@
   }
 
   .marker {
-    background-image: url('/ui/images/camera.svg');
+    background-image: url('/ui/images/marker.svg');
     background-size: cover;
     width: 2em;
     height: 2em;
 
     animation-name: pulse;
-    animation-duration: 1s;
-    animation-timing-function: ease-in-out;
+    animation-duration: 0.7s;
+    animation-timing-function: ease-out;
     animation-iteration-count: infinite;
     animation-direction: alternate;
   }
@@ -211,9 +211,11 @@
 @keyframes pulse {
   from {
     opacity: 1;
+    margin-block-start: -0.3em;
   }
 
   to {
-    opacity: 0.3;
+    opacity: 0.2;
+    margin-block-start: -2em;
   }
 }

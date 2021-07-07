@@ -40,7 +40,7 @@ layout: page
       {% if geo.latitude and geo.longitude %}
         <div id="map" data-latitude="{{ geo.latitude }}" data-longitude="{{ geo.longitude }}">
           <noscript>
-            <img src="https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/url-https%3A%2F%2Fnicolas-hoizey.photo%2Fui%2Fimages%2Fcamera.png({{ geo.longitude }}%2C{{ geo.latitude }})/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" />
+            <img src="https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/url-https%3A%2F%2Fnicolas-hoizey.photo%2Fui%2Fimages%2Fmarker.png({{ geo.longitude }}%2C{{ geo.latitude }})/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" />
           </noscript>
         </div>
         {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
