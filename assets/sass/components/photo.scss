@@ -1,6 +1,7 @@
 @use '../variables' as *;
 @use '../every_layout/sidebar' as *;
 @use '../every_layout/switcher' as *;
+@use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 
 .photo {
   --width: 100%;

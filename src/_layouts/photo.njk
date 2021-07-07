@@ -6,7 +6,6 @@ layout: page
 
 {% from "macros/css.njk" import css %}
 {{ css('components/photo', build.env) }}
-<link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
 
 <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
   <header>
