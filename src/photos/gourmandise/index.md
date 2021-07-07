@@ -5,8 +5,22 @@ gear:
   make: Canon
   model: Canon EOS 5D Mark IV
   lens: EF100mm f/2.8L Macro IS USM
-tags: beverage, bleu, blue, boisson, brown, café, chocolat, chocolate, coffee,
-  donut, drink, food photography, gâteau, marron, photographie culinaire
+tags:
+  - beverage
+  - bleu
+  - blue
+  - boisson
+  - brown
+  - café
+  - chocolat
+  - chocolate
+  - coffee
+  - donut
+  - drink
+  - food photography
+  - gâteau
+  - marron
+  - photographie culinaire
 settings:
   focal_length: 100
   iso: 100

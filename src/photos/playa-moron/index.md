@@ -5,11 +5,42 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, America, Amérique, arbre, beach, bleu, blue, Caraïbe, Caraïbes,
-  Caribbean, Dominican Republic, Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF
-  10-24mm f/4.0 R OIS, green, Hispaniola, mer, ombre, palm tree, palmier,
-  péninsule de Samaná, plage, plant, Playa Morón, República Dominicana,
-  République dominicaine, Samana, Samaná, sea, shadow, tree, végétal, vert, X-T2
+tags:
+  - 10-24mm
+  - America
+  - Amérique
+  - arbre
+  - beach
+  - bleu
+  - blue
+  - Caraïbe
+  - Caraïbes
+  - Caribbean
+  - Dominican Republic
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - green
+  - Hispaniola
+  - mer
+  - ombre
+  - palm tree
+  - palmier
+  - péninsule de Samaná
+  - plage
+  - plant
+  - Playa Morón
+  - República Dominicana
+  - République dominicaine
+  - Samana
+  - Samaná
+  - sea
+  - shadow
+  - tree
+  - végétal
+  - vert
+  - X-T2
 settings:
   focal_length: 10
   focal_length_35mm: 15

@@ -5,13 +5,45 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
-tags: ×2.0, 100-400mm, Africa, Afrique, animal, animal sauvage, animalière,
-  animaux sauvages, autruche d'Afrique, bird, birds, Common Ostrich, converter,
-  Fujifilm, Fujifilm X-T3, Fujinon, Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR,
-  Fujinon XF2.0× TC WR, Kenya, lens, Maasai, Maasai Mara National Reserve,
-  Masai, Masai Mara, Narok County, oiseau, Oiseaux, reserve, sauvage, Struthio
-  camelus, Struthionidés, Struthioniformes, télé-convertisseur, teleconverter,
-  wild animal, wild animals, X-T3, x2.0
+tags:
+  - ×2.0
+  - 100-400mm
+  - Africa
+  - Afrique
+  - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
+  - autruche d'Afrique
+  - bird
+  - birds
+  - Common Ostrich
+  - converter
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Fujinon XF2.0× TC WR
+  - Kenya
+  - lens
+  - Maasai
+  - Maasai Mara National Reserve
+  - Masai
+  - Masai Mara
+  - Narok County
+  - oiseau
+  - Oiseaux
+  - reserve
+  - sauvage
+  - Struthio camelus
+  - Struthionidés
+  - Struthioniformes
+  - télé-convertisseur
+  - teleconverter
+  - wild animal
+  - wild animals
+  - X-T3
+  - x2.0
 settings:
   focal_length: 624
   focal_length_35mm: 936

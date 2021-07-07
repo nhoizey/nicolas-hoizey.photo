@@ -5,14 +5,54 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, bateau, boat, boats, building, Canon,
-  Canon EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II, city, color, coloré,
-  colorful, colors, colour, colourful, colours, couleur, couleurs, Écosse,
-  Europa, Europe, fishing boats, Grande-Bretagne, Great Britain, harbor,
-  harbour, Hébrides intérieures, hills, Ile de Skye, immeuble, Inner Hebrides,
-  Isle of Skye, paint, pier, Portree, Royaume Uni, Royaume-Uni, Royaume-Uni de
-  Grande-Bretagne et d'Irlande du Nord, Scotland, sea, UK, United Kingdom,
-  United Kingdom of Great Britain and Northern Ireland, ville
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - bateau
+  - boat
+  - boats
+  - building
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - city
+  - color
+  - coloré
+  - colorful
+  - colors
+  - colour
+  - colourful
+  - colours
+  - couleur
+  - couleurs
+  - Écosse
+  - Europa
+  - Europe
+  - fishing boats
+  - Grande-Bretagne
+  - Great Britain
+  - harbor
+  - harbour
+  - Hébrides intérieures
+  - hills
+  - Ile de Skye
+  - immeuble
+  - Inner Hebrides
+  - Isle of Skye
+  - paint
+  - pier
+  - Portree
+  - Royaume Uni
+  - Royaume-Uni
+  - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+  - Scotland
+  - sea
+  - UK
+  - United Kingdom
+  - United Kingdom of Great Britain and Northern Ireland
+  - ville
 settings:
   focal_length: 32
   iso: 200

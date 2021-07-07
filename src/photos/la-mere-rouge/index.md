@@ -4,9 +4,28 @@ date: 2004-05-14 09:05:00 +02:00
 gear:
   make: Konica
   model: KD-400Z
-tags: Africa, Afrique, bateau, bikini, bleu, blue, boat, Egypt, Égypte, femme,
-  KD-400Z, Konica, maillot de bain, mer, Mer Rouge, red, red sea, Red Sea,
-  rouge, sea, woman
+tags:
+  - Africa
+  - Afrique
+  - bateau
+  - bikini
+  - bleu
+  - blue
+  - boat
+  - Egypt
+  - Égypte
+  - femme
+  - KD-400Z
+  - Konica
+  - maillot de bain
+  - mer
+  - Mer Rouge
+  - red
+  - red sea
+  - Red Sea
+  - rouge
+  - sea
+  - woman
 settings:
   focal_length: 8
   focal_length_35mm: 39

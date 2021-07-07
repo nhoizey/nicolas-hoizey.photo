@@ -5,10 +5,35 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, bleu, blue, Canon, Canon EF 24-70mm f/2.8L
-  USM, Canon EOS 5D Mark II, color, coloré, colorful, colors, colour, colourful,
-  colours, couleur, couleurs, feather, feathers, green, Indian peacock,
-  iridescence, iridescent, paon, peacock, peafowl, vert
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - bleu
+  - blue
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - color
+  - coloré
+  - colorful
+  - colors
+  - colour
+  - colourful
+  - colours
+  - couleur
+  - couleurs
+  - feather
+  - feathers
+  - green
+  - Indian peacock
+  - iridescence
+  - iridescent
+  - paon
+  - peacock
+  - peafowl
+  - vert
 settings:
   focal_length: 50
   iso: 200

@@ -5,11 +5,39 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, bleu, blue, Bretagne, Britany, Canon,
-  Canon EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II, Côtes d'Armor, coucher de
-  soleil, eau, Europa, Europe, evening, France, granite, lighthouse, long
-  exposure, nightscape, Perros-Guirec, Ploumanac'h, rocher, rock, sea, sky,
-  soir, soleil, sunset, water
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - bleu
+  - blue
+  - Bretagne
+  - Britany
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - Côtes d'Armor
+  - coucher de soleil
+  - eau
+  - Europa
+  - Europe
+  - evening
+  - France
+  - granite
+  - lighthouse
+  - long exposure
+  - nightscape
+  - Perros-Guirec
+  - Ploumanac'h
+  - rocher
+  - rock
+  - sea
+  - sky
+  - soir
+  - soleil
+  - sunset
+  - water
 settings:
   focal_length: 34
   iso: 200

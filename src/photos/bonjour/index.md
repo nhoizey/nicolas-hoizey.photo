@@ -5,10 +5,33 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: Asia, Asie, Bonjour, building, China, Chine, cosmetics, fenêtre, Hong
-  Kong, Hong Kong City, immeuble, light, néon, neon lamp, neon light, night,
-  nuit, red, rouge, RX100 Mark 3, RX100 Mark III, RX100mk3, sign, Sony, Sony
-  RX100 Mark III, window
+tags:
+  - Asia
+  - Asie
+  - Bonjour
+  - building
+  - China
+  - Chine
+  - cosmetics
+  - fenêtre
+  - Hong Kong
+  - Hong Kong City
+  - immeuble
+  - light
+  - néon
+  - neon lamp
+  - neon light
+  - night
+  - nuit
+  - red
+  - rouge
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - sign
+  - Sony
+  - Sony RX100 Mark III
+  - window
 settings:
   focal_length: 25.7
   focal_length_35mm: 70

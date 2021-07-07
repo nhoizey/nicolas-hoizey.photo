@@ -5,7 +5,10 @@ gear:
   make: Panasonic
   model: DMC-GM1
   lens: LUMIX G VARIO 12-32/F3.5-5.6
-tags: DMC-GM1, GM1, Panasonic
+tags:
+  - DMC-GM1
+  - GM1
+  - Panasonic
 settings:
   focal_length: 32
   focal_length_35mm: 66

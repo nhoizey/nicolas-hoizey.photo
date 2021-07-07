@@ -5,9 +5,33 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: 50mm
-tags: 5D Mark II, 5D2, 5DII, Africa, Afrique, bleu, blue, Canon, Canon EOS 5D
-  Mark II, ciel, city, clay, house, Maroc, Marocco, pur, pure, riad, sky,
-  Souss-Massa, Taroudannt, Taroudant, urbain, urban, ville, تارودانت
+tags:
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Africa
+  - Afrique
+  - bleu
+  - blue
+  - Canon
+  - Canon EOS 5D Mark II
+  - ciel
+  - city
+  - clay
+  - house
+  - Maroc
+  - Marocco
+  - pur
+  - pure
+  - riad
+  - sky
+  - Souss-Massa
+  - Taroudannt
+  - Taroudant
+  - urbain
+  - urban
+  - ville
+  - تارودانت
 settings:
   focal_length: 50
   iso: 100

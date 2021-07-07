@@ -4,9 +4,24 @@ date: 2008-09-02 16:09:00 +02:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
-tags: 350D, Amérique du Nord, B&W, baigneur, bather, black and white, Canada,
-  Canon, Canon EOS 350D, lac, lake, noir et blanc, North America, onde, Québec,
-  vague, wave
+tags:
+  - 350D
+  - Amérique du Nord
+  - B&W
+  - baigneur
+  - bather
+  - black and white
+  - Canada
+  - Canon
+  - Canon EOS 350D
+  - lac
+  - lake
+  - noir et blanc
+  - North America
+  - onde
+  - Québec
+  - vague
+  - wave
 settings:
   focal_length: 17
   iso: 1600

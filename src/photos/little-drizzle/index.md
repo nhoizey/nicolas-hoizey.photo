@@ -5,9 +5,29 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: bleu, blue, Draveil, eau, Essonne, Europa, Europe, France, Fujifilm,
-  Fujifilm X-T2, grey, gris, Ile de France, lac, lake, outdoor, parapluie, Port
-  aux Cerises, portrait, umbrella, water, X-T2
+tags:
+  - bleu
+  - blue
+  - Draveil
+  - eau
+  - Essonne
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - grey
+  - gris
+  - Ile de France
+  - lac
+  - lake
+  - outdoor
+  - parapluie
+  - Port aux Cerises
+  - portrait
+  - umbrella
+  - water
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

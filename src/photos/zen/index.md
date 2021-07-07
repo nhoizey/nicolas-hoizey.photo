@@ -5,9 +5,30 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: 50mm
-tags: 5D Mark II, 5D2, 5DII, adult, adulte, Canon, Canon EOS 5D Mark II, Europa,
-  Europe, France, Goulven, Lyon, musée, Musée des Beaux-Arts de Lyon, outdoor,
-  pantalon, pants, personne, portrait, Rhône, Rhône-Alpes, tenue, type de photo
+tags:
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - adult
+  - adulte
+  - Canon
+  - Canon EOS 5D Mark II
+  - Europa
+  - Europe
+  - France
+  - Goulven
+  - Lyon
+  - musée
+  - Musée des Beaux-Arts de Lyon
+  - outdoor
+  - pantalon
+  - pants
+  - personne
+  - portrait
+  - Rhône
+  - Rhône-Alpes
+  - tenue
+  - type de photo
 settings:
   focal_length: 50
   iso: 800

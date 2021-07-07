@@ -5,9 +5,23 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF56mmF1.2 R
-tags: Africa, Afrique, flood, Fujifilm, Fujifilm X-T3, inondation, Kenya, lac,
-  Lac Nakuru, lake, Lake Nakuru, Lake Nakuru National Park, Nakuru, Nakuru
-  County, Parc national du lac Nakuru, X-T3
+tags:
+  - Africa
+  - Afrique
+  - flood
+  - Fujifilm
+  - Fujifilm X-T3
+  - inondation
+  - Kenya
+  - lac
+  - Lac Nakuru
+  - lake
+  - Lake Nakuru
+  - Lake Nakuru National Park
+  - Nakuru
+  - Nakuru County
+  - Parc national du lac Nakuru
+  - X-T3
 settings:
   focal_length: 56
   focal_length_35mm: 84

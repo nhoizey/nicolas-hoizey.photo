@@ -5,12 +5,38 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: America, Amérique du Nord, cadre, encadré, États-Unis, États-Unis
-  d'Amérique, frame, framed, grey, gris, liberté, liberty, Liberty Island,
-  Manhattan, New-York, New-York City, North America, NYC, RX100 Mark 3, RX100
-  Mark III, RX100mk3, silhouette, Sony, Sony RX100 Mark III, Statue de la
-  Liberté, Statue of Liberty, United States, United States of America, USA,
-  xenophobia, xénophobie
+tags:
+  - America
+  - Amérique du Nord
+  - cadre
+  - encadré
+  - États-Unis
+  - États-Unis d'Amérique
+  - frame
+  - framed
+  - grey
+  - gris
+  - liberté
+  - liberty
+  - Liberty Island
+  - Manhattan
+  - New-York
+  - New-York City
+  - North America
+  - NYC
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - silhouette
+  - Sony
+  - Sony RX100 Mark III
+  - Statue de la Liberté
+  - Statue of Liberty
+  - United States
+  - United States of America
+  - USA
+  - xenophobia
+  - xénophobie
 settings:
   focal_length: 22.77
   focal_length_35mm: 62

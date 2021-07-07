@@ -5,10 +5,29 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: acacia, Africa, Afrique, Amboseli, Amboseli National Park, arbre,
-  Fujifilm, Fujifilm X-T2, Kajiado, Kenya, Kilimanjaro, montagne, Mount
-  Kilimanjaro, mountain, National Park, Parc national d'Amboseli, plant, tree,
-  végétal, volcan, volcano, X-T2
+tags:
+  - acacia
+  - Africa
+  - Afrique
+  - Amboseli
+  - Amboseli National Park
+  - arbre
+  - Fujifilm
+  - Fujifilm X-T2
+  - Kajiado
+  - Kenya
+  - Kilimanjaro
+  - montagne
+  - Mount Kilimanjaro
+  - mountain
+  - National Park
+  - Parc national d'Amboseli
+  - plant
+  - tree
+  - végétal
+  - volcan
+  - volcano
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

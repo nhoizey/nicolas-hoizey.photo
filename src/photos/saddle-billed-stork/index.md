@@ -5,13 +5,46 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
-tags: ×2.0, 100-400mm, Africa, Afrique, Amboseli, Amboseli National Park,
-  animal, animalière, bird, birds, blanc, Ciconiidés, Ciconiiformes, converter,
-  Ephippiorhynchus senegalensis, Fujifilm, Fujifilm X-T3, Fujinon, Fujinon XF
-  100-400mm f/4.5-5.6 R LM OIS WR, Fujinon XF2.0× TC WR, Jabiru d'Afrique,
-  jaune, Kajiado, Kenya, lens, National Park, noir, oiseau, Oiseaux, Parc
-  national d'Amboseli, red, rouge, Saddle-billed Stork, télé-convertisseur,
-  teleconverter, white, X-T3, x2.0, yellow
+tags:
+  - ×2.0
+  - 100-400mm
+  - Africa
+  - Afrique
+  - Amboseli
+  - Amboseli National Park
+  - animal
+  - animalière
+  - bird
+  - birds
+  - blanc
+  - Ciconiidés
+  - Ciconiiformes
+  - converter
+  - Ephippiorhynchus senegalensis
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Fujinon XF2.0× TC WR
+  - Jabiru d'Afrique
+  - jaune
+  - Kajiado
+  - Kenya
+  - lens
+  - National Park
+  - noir
+  - oiseau
+  - Oiseaux
+  - Parc national d'Amboseli
+  - red
+  - rouge
+  - Saddle-billed Stork
+  - télé-convertisseur
+  - teleconverter
+  - white
+  - X-T3
+  - x2.0
+  - yellow
 settings:
   focal_length: 306.6
   focal_length_35mm: 460

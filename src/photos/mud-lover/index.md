@@ -4,10 +4,32 @@ date: 2008-05-11 13:05:00 +02:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
-tags: 350D, animal, boue, Canon, Canon EOS 350D, dierenpark, elephant, éléphant,
-  Elephantidae, Éléphantidés, Europa, Europe, mammal, Mammalia, mammals,
-  mammifère, Mammifères, mud, Nederland, Ouwehands Dierenpark, Pays-Bas, Rhenen,
-  The Netherlands, Utrecht, zoo
+tags:
+  - 350D
+  - animal
+  - boue
+  - Canon
+  - Canon EOS 350D
+  - dierenpark
+  - elephant
+  - éléphant
+  - Elephantidae
+  - Éléphantidés
+  - Europa
+  - Europe
+  - mammal
+  - Mammalia
+  - mammals
+  - mammifère
+  - Mammifères
+  - mud
+  - Nederland
+  - Ouwehands Dierenpark
+  - Pays-Bas
+  - Rhenen
+  - The Netherlands
+  - Utrecht
+  - zoo
 settings:
   focal_length: 210
   iso: 400

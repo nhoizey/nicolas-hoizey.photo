@@ -5,11 +5,31 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, architecture, Beaubourg, Canon, Canon EF
-  24-70mm f/2.8L USM, Canon EOS 5D Mark II, Centre Beaubourg, Centre
-  Georges-Pompidou, Centre national d’art et de culture Georges-Pompidou, Centre
-  Pompidou, escalier, Europa, Europe, France, Ile de France, night, nuit, Paris,
-  stair, staircase, stairway
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - architecture
+  - Beaubourg
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - Centre Beaubourg
+  - Centre Georges-Pompidou
+  - Centre national d’art et de culture Georges-Pompidou
+  - Centre Pompidou
+  - escalier
+  - Europa
+  - Europe
+  - France
+  - Ile de France
+  - night
+  - nuit
+  - Paris
+  - stair
+  - staircase
+  - stairway
 settings:
   focal_length: 70
   iso: 3200

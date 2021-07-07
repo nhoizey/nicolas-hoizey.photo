@@ -5,8 +5,17 @@ gear:
   make: NIKON CORPORATION
   model: NIKON D700
   lens: TAMRON SP 24-70mm F2.8 Di VC USD A007N
-tags: beverage, boisson, brown, coing, drink, food photography, fruit, marron,
-  photographie culinaire, thé
+tags:
+  - beverage
+  - boisson
+  - brown
+  - coing
+  - drink
+  - food photography
+  - fruit
+  - marron
+  - photographie culinaire
+  - thé
 settings:
   focal_length: 70
   focal_length_35mm: 70

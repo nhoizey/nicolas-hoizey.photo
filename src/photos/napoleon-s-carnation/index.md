@@ -5,15 +5,55 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF80mmF2.8 R LM OIS WR Macro
-tags: animal, Arachnid, Arachnida, Arachnides, araignée, Araignée Napoléon,
-  araignée-crabe, araignées, araignées-crabes, Araneae, Aranéides,
-  Araneomorphae, Aranéomorphes, Arthropoda, Arthropodes, carnation,
-  Caryophyllaceae, Chelicerata, Chélicérates, Chélicérés, crab spider, dianthus,
-  Essonne, Étiolles, Europa, Europe, fleur, focus stacking, France, Fujifilm,
-  Fujifilm X-T3, Fujinon, Fujinon XF 80 mm f/2.8 LM OIS WR Macro, Ile de France,
-  Labidognatha, Labidognathes, macro, Napoleon spider, œillet, plant, spider,
-  spiders, Synema globosum, Thomise globuleuse, Thomise globuleux, Thomisidae,
-  végétal, X-T3
+tags:
+  - animal
+  - Arachnid
+  - Arachnida
+  - Arachnides
+  - araignée
+  - Araignée Napoléon
+  - araignée-crabe
+  - araignées
+  - araignées-crabes
+  - Araneae
+  - Aranéides
+  - Araneomorphae
+  - Aranéomorphes
+  - Arthropoda
+  - Arthropodes
+  - carnation
+  - Caryophyllaceae
+  - Chelicerata
+  - Chélicérates
+  - Chélicérés
+  - crab spider
+  - dianthus
+  - Essonne
+  - Étiolles
+  - Europa
+  - Europe
+  - fleur
+  - focus stacking
+  - France
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
+  - Ile de France
+  - Labidognatha
+  - Labidognathes
+  - macro
+  - Napoleon spider
+  - œillet
+  - plant
+  - spider
+  - spiders
+  - Synema globosum
+  - Thomise globuleuse
+  - Thomise globuleux
+  - Thomisidae
+  - végétal
+  - X-T3
 settings:
   focal_length: 80
   focal_length_35mm: 120

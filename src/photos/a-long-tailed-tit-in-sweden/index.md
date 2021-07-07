@@ -5,13 +5,43 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF56mmF1.2 R
-tags: Aegithalidae, Aegithalidés, Aegithalos caudatus, Aegithalos caudatus
-  caudatus, animal, animal sauvage, animalière, animaux sauvages, bird, birds,
-  bushtits, Comté de Stockholm, Europa, Europe, Fujifilm, Fujifilm X-T3, Hagby
-  Ekopark, Kingdom of Sweden, Konungariket Sverige, Long-tailed Tit, long-tailed
-  tits, Mésange à longue queue, oiseau, Oiseaux, Orite à longue queue, sauvage,
-  Stjärtmes, Stockholm County, Stockholms län, Suède, Sverige, Sweden, Täby,
-  wild animal, wild animals, X-T3
+tags:
+  - Aegithalidae
+  - Aegithalidés
+  - Aegithalos caudatus
+  - Aegithalos caudatus caudatus
+  - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
+  - bird
+  - birds
+  - bushtits
+  - Comté de Stockholm
+  - Europa
+  - Europe
+  - Fujifilm
+  - Fujifilm X-T3
+  - Hagby Ekopark
+  - Kingdom of Sweden
+  - Konungariket Sverige
+  - Long-tailed Tit
+  - long-tailed tits
+  - Mésange à longue queue
+  - oiseau
+  - Oiseaux
+  - Orite à longue queue
+  - sauvage
+  - Stjärtmes
+  - Stockholm County
+  - Stockholms län
+  - Suède
+  - Sverige
+  - Sweden
+  - Täby
+  - wild animal
+  - wild animals
+  - X-T3
 settings:
   focal_length: 56
   focal_length_35mm: 84

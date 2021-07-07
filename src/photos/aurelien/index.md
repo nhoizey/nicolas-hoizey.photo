@@ -5,9 +5,26 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
-tags: 135mm f/2, 5D Mark II, 5D2, 5DII, barbe, beard, brun, Canon, Canon 135mm,
-  Canon EF 135mm f/2L USM, Canon EOS 5D Mark II, eye, gros plan, homme, œil,
-  portrait, studio, visage, yeux
+tags:
+  - 135mm f/2
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - barbe
+  - beard
+  - brun
+  - Canon
+  - Canon 135mm
+  - Canon EF 135mm f/2L USM
+  - Canon EOS 5D Mark II
+  - eye
+  - gros plan
+  - homme
+  - œil
+  - portrait
+  - studio
+  - visage
+  - yeux
 settings:
   focal_length: 135
   iso: 3200

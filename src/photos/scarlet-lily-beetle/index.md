@@ -5,10 +5,34 @@ gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 100.0 mm
-tags: 100mm, 350D, animal, At home, Canon, Canon EF 100mm f/2.8 Macro USM, Canon
-  EOS 350D, Chez nous, Coleoptera, coléoptère, Criocère, Criocère du Lys,
-  Draveil, Essonne, Europa, Europe, France, Ile de France, insect, insecte,
-  Insectes, insects, Lilioceris lilii, Lily Leaf Beetle, macro, red, rouge
+tags:
+  - 100mm
+  - 350D
+  - animal
+  - At home
+  - Canon
+  - Canon EF 100mm f/2.8 Macro USM
+  - Canon EOS 350D
+  - Chez nous
+  - Coleoptera
+  - coléoptère
+  - Criocère
+  - Criocère du Lys
+  - Draveil
+  - Essonne
+  - Europa
+  - Europe
+  - France
+  - Ile de France
+  - insect
+  - insecte
+  - Insectes
+  - insects
+  - Lilioceris lilii
+  - Lily Leaf Beetle
+  - macro
+  - red
+  - rouge
 settings:
   focal_length: 100
   iso: 1600

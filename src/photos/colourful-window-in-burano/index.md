@@ -4,10 +4,39 @@ date: 2008-04-26 17:04:00 +02:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
-tags: 350D, blanc, Burano, Canon, Canon EOS 350D, city, color, colour, couleur,
-  Europa, Europe, fence, fences, fenêtre, Italia, Italie, Italy, red, rouge,
-  urbain, urban, venezia, Venezia, venice, Venice, venise, Venise, ville, volet,
-  volets, white, window
+tags:
+  - 350D
+  - blanc
+  - Burano
+  - Canon
+  - Canon EOS 350D
+  - city
+  - color
+  - colour
+  - couleur
+  - Europa
+  - Europe
+  - fence
+  - fences
+  - fenêtre
+  - Italia
+  - Italie
+  - Italy
+  - red
+  - rouge
+  - urbain
+  - urban
+  - venezia
+  - Venezia
+  - venice
+  - Venice
+  - venise
+  - Venise
+  - ville
+  - volet
+  - volets
+  - white
+  - window
 settings:
   focal_length: 68
   iso: 100

@@ -5,17 +5,72 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, America, Amérique du Nord, architecture,
-  Brooklyn, Brooklyn Bridge, building, Canon, Canon EF 24-70mm f/2.8L USM, Canon
-  EOS 5D Mark II, city, cityscape, coucher de soleil, downtown, East River, eau,
-  Empire State Building, États-Unis, États-Unis d'Amérique, evening, financial
-  district, immeuble, Liberty Island, light, lights, long exposure, Lower
-  Manhattan, Manhattan, Manhattan Bridge, New-York, New-York City, night,
-  nightscape, North America, nuit, NYC, panorama, panoramic, panoramique,
-  reflection, reflet, river, rivière, sky, skyline, skyscrapers, soir, soleil,
-  Statue de la Liberté, Statue of Liberty, sunset, tourism, tourisme, travel,
-  United States, United States of America, urbain, urban, USA, ville, voyage,
-  water
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - America
+  - Amérique du Nord
+  - architecture
+  - Brooklyn
+  - Brooklyn Bridge
+  - building
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - city
+  - cityscape
+  - coucher de soleil
+  - downtown
+  - East River
+  - eau
+  - Empire State Building
+  - États-Unis
+  - États-Unis d'Amérique
+  - evening
+  - financial district
+  - immeuble
+  - Liberty Island
+  - light
+  - lights
+  - long exposure
+  - Lower Manhattan
+  - Manhattan
+  - Manhattan Bridge
+  - New-York
+  - New-York City
+  - night
+  - nightscape
+  - North America
+  - nuit
+  - NYC
+  - panorama
+  - panoramic
+  - panoramique
+  - reflection
+  - reflet
+  - river
+  - rivière
+  - sky
+  - skyline
+  - skyscrapers
+  - soir
+  - soleil
+  - Statue de la Liberté
+  - Statue of Liberty
+  - sunset
+  - tourism
+  - tourisme
+  - travel
+  - United States
+  - United States of America
+  - urbain
+  - urban
+  - USA
+  - ville
+  - voyage
+  - water
 settings:
   focal_length: 24
   iso: 200

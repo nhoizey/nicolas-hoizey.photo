@@ -5,12 +5,38 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
-tags: 135mm f/2, 5D Mark II, 5D2, 5DII, 5th Avenue, America, Amérique du Nord,
-  B&W, black and white, Broadway, Canon, Canon 135mm, Canon EF 135mm f/2L USM,
-  Canon EOS 5D Mark II, États-Unis, États-Unis d'Amérique, Flatiron Building,
-  Madison Square, Manhattan, New-York, New-York City, noir et blanc, North
-  America, NYC, road, route, rue, street, United States, United States of
-  America, USA
+tags:
+  - 135mm f/2
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - 5th Avenue
+  - America
+  - Amérique du Nord
+  - B&W
+  - black and white
+  - Broadway
+  - Canon
+  - Canon 135mm
+  - Canon EF 135mm f/2L USM
+  - Canon EOS 5D Mark II
+  - États-Unis
+  - États-Unis d'Amérique
+  - Flatiron Building
+  - Madison Square
+  - Manhattan
+  - New-York
+  - New-York City
+  - noir et blanc
+  - North America
+  - NYC
+  - road
+  - route
+  - rue
+  - street
+  - United States
+  - United States of America
+  - USA
 settings:
   focal_length: 189
   iso: 100

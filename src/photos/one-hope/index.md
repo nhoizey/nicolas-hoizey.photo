@@ -5,9 +5,27 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: B&W, black and white, contrast, contraste, Europa, Europe, femme, France,
-  Fujifilm, Fujifilm X-T2, Lyon, mur, noir et blanc, portrait, Rhône,
-  Rhône-Alpes, studio, wall, woman, X-T2
+tags:
+  - B&W
+  - black and white
+  - contrast
+  - contraste
+  - Europa
+  - Europe
+  - femme
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - Lyon
+  - mur
+  - noir et blanc
+  - portrait
+  - Rhône
+  - Rhône-Alpes
+  - studio
+  - wall
+  - woman
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

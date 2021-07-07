@@ -5,11 +5,34 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, architecture, Charente-Maritime, circle, escalier, escalier en
-  colimaçon, escalier hélicoïdal, Europa, Europe, France, Fujifilm, Fujifilm
-  X-T2, Fujinon, Fujinon XF 10-24mm f/4.0 R OIS, Île de Ré, lighthouse,
-  Nouvelle-Aquitaine, phare, Phare des Baleines, Saint-Clément-des-Baleines,
-  spiral, spiral staircase, spirale, stair, staircase, stairway, X-T2
+tags:
+  - 10-24mm
+  - architecture
+  - Charente-Maritime
+  - circle
+  - escalier
+  - escalier en colimaçon
+  - escalier hélicoïdal
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - Île de Ré
+  - lighthouse
+  - Nouvelle-Aquitaine
+  - phare
+  - Phare des Baleines
+  - Saint-Clément-des-Baleines
+  - spiral
+  - spiral staircase
+  - spirale
+  - stair
+  - staircase
+  - stairway
+  - X-T2
 settings:
   focal_length: 10
   focal_length_35mm: 15

@@ -5,8 +5,17 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, Canon, Canon EF 24-70mm f/2.8L USM, Canon
-  EOS 5D Mark II, Méribel, ski, vacances
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - Méribel
+  - ski
+  - vacances
 settings:
   focal_length: 68
   iso: 200

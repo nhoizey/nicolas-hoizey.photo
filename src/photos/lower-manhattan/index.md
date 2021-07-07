@@ -5,14 +5,58 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, America, Amérique du Nord, architecture,
-  Brooklyn, building, Canon, Canon EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II,
-  city, cityscape, downtown, eau, États-Unis, États-Unis d'Amérique, evening,
-  financial district, Hudson, immeuble, light, lights, long exposure, Lower
-  Manhattan, Manhattan, New-York, New-York City, night, nightscape, North
-  America, nuit, NYC, reflection, reflet, river, rivière, skyline, skyscrapers,
-  tourism, tourisme, travel, United States, United States of America, urbain,
-  urban, USA, ville, voyage, water
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - America
+  - Amérique du Nord
+  - architecture
+  - Brooklyn
+  - building
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - city
+  - cityscape
+  - downtown
+  - eau
+  - États-Unis
+  - États-Unis d'Amérique
+  - evening
+  - financial district
+  - Hudson
+  - immeuble
+  - light
+  - lights
+  - long exposure
+  - Lower Manhattan
+  - Manhattan
+  - New-York
+  - New-York City
+  - night
+  - nightscape
+  - North America
+  - nuit
+  - NYC
+  - reflection
+  - reflet
+  - river
+  - rivière
+  - skyline
+  - skyscrapers
+  - tourism
+  - tourisme
+  - travel
+  - United States
+  - United States of America
+  - urbain
+  - urban
+  - USA
+  - ville
+  - voyage
+  - water
 settings:
   focal_length: 24
   iso: 200

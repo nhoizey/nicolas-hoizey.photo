@@ -5,11 +5,38 @@ gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
-tags: 350D, ardoise, beverage, blackboard, boisson, bottle, bouteille, Canon,
-  Canon EF-S 17-85mm, Canon EF-S 17-85mm f/4-5.6 IS USM, Canon EOS 350D, cave,
-  cellar, dirty, drink, dust, Europa, Europe, France, Grand Est, Marne,
-  millésime, old, poussière, Reims, sale, vieux, vin, vintage, Vranken-Pommery
-  Monopole, wine
+tags:
+  - 350D
+  - ardoise
+  - beverage
+  - blackboard
+  - boisson
+  - bottle
+  - bouteille
+  - Canon
+  - Canon EF-S 17-85mm
+  - Canon EF-S 17-85mm f/4-5.6 IS USM
+  - Canon EOS 350D
+  - cave
+  - cellar
+  - dirty
+  - drink
+  - dust
+  - Europa
+  - Europe
+  - France
+  - Grand Est
+  - Marne
+  - millésime
+  - old
+  - poussière
+  - Reims
+  - sale
+  - vieux
+  - vin
+  - vintage
+  - Vranken-Pommery Monopole
+  - wine
 settings:
   focal_length: 17
   iso: 1600

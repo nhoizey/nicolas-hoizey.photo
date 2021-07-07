@@ -5,8 +5,17 @@ gear:
   make: Canon
   model: Canon EOS 7D
   lens: EF50mm f/1.8 II
-tags: bread, charcuterie, cheese, couteau, food photography, fromage, knife,
-  pain, photographie culinaire, saucisson
+tags:
+  - bread
+  - charcuterie
+  - cheese
+  - couteau
+  - food photography
+  - fromage
+  - knife
+  - pain
+  - photographie culinaire
+  - saucisson
 settings:
   focal_length: 50
   iso: 100

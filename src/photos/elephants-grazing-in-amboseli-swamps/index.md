@@ -5,11 +5,36 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: Africa, Afrique, Amboseli, Amboseli National Park, animal, animal sauvage,
-  animalière, animaux sauvages, elephant, éléphant, Elephantidae, Éléphantidés,
-  Fujifilm, Fujifilm X-T2, Kajiado, Kenya, mammal, Mammalia, mammals, mammifère,
-  Mammifères, marécage, National Park, Parc national d'Amboseli, sauvage, swamp,
-  wild animal, wild animals, X-T2
+tags:
+  - Africa
+  - Afrique
+  - Amboseli
+  - Amboseli National Park
+  - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
+  - elephant
+  - éléphant
+  - Elephantidae
+  - Éléphantidés
+  - Fujifilm
+  - Fujifilm X-T2
+  - Kajiado
+  - Kenya
+  - mammal
+  - Mammalia
+  - mammals
+  - mammifère
+  - Mammifères
+  - marécage
+  - National Park
+  - Parc national d'Amboseli
+  - sauvage
+  - swamp
+  - wild animal
+  - wild animals
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

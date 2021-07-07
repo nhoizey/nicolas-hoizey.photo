@@ -5,8 +5,19 @@ gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 100.0 mm
-tags: 100mm, 350D, bolt, boulon, Canon, Canon EF 100mm f/2.8 Macro USM, Canon
-  EOS 350D, écrou, macro, nut, rouille, rusty
+tags:
+  - 100mm
+  - 350D
+  - bolt
+  - boulon
+  - Canon
+  - Canon EF 100mm f/2.8 Macro USM
+  - Canon EOS 350D
+  - écrou
+  - macro
+  - nut
+  - rouille
+  - rusty
 settings:
   focal_length: 100
   iso: 800

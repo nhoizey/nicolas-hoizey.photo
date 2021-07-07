@@ -5,9 +5,24 @@ gear:
   make: Apple
   model: iPhone 6s
   lens: iPhone 6s back camera 4.15mm f/2.2
-tags: aéroport, Aeroporto de Lisboa, Aeroporto Humberto Delgado, airport, bleu,
-  blue, Europa, Europe, Lisboa, Lisbon, Lisbon Humberto Delgado Airport,
-  Lisbonne, Portugal, red, rouge, travel, voyage
+tags:
+  - aéroport
+  - Aeroporto de Lisboa
+  - Aeroporto Humberto Delgado
+  - airport
+  - bleu
+  - blue
+  - Europa
+  - Europe
+  - Lisboa
+  - Lisbon
+  - Lisbon Humberto Delgado Airport
+  - Lisbonne
+  - Portugal
+  - red
+  - rouge
+  - travel
+  - voyage
 settings:
   focal_length: 4.15
   focal_length_35mm: 29

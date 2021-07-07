@@ -5,10 +5,33 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
-tags: 100-400mm, animal, arbre, bird, birds, ciel, Dendrocopos major, feuille,
-  forêt, Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF 100-400mm f/4.5-5.6 R LM
-  OIS WR, Great Spotted Woodpecker, oiseau, Oiseaux, Pic, Pic épeiche, Picidés,
-  Piciformes, plant, sky, tree, végétal, Woodpecker, X-T2
+tags:
+  - 100-400mm
+  - animal
+  - arbre
+  - bird
+  - birds
+  - ciel
+  - Dendrocopos major
+  - feuille
+  - forêt
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Great Spotted Woodpecker
+  - oiseau
+  - Oiseaux
+  - Pic
+  - Pic épeiche
+  - Picidés
+  - Piciformes
+  - plant
+  - sky
+  - tree
+  - végétal
+  - Woodpecker
+  - X-T2
 settings:
   focal_length: 400
   focal_length_35mm: 600

@@ -5,9 +5,25 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: Europa, Europe, Fujifilm, Fujifilm X-T2, instrument, Italia, Italie,
-  Italy, music, musician, musicien, musique, pavé, Roma, Rome, violin, violon,
-  X-T2
+tags:
+  - Europa
+  - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - instrument
+  - Italia
+  - Italie
+  - Italy
+  - music
+  - musician
+  - musicien
+  - musique
+  - pavé
+  - Roma
+  - Rome
+  - violin
+  - violon
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

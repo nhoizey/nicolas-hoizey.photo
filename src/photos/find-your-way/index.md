@@ -5,12 +5,42 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, architecture, circle, Città del Vaticano, dive, diving, escalier,
-  escalier en colimaçon, escalier hélicoïdal, Europa, Europe, Fujifilm, Fujifilm
-  X-T2, Fujinon, Fujinon XF 10-24mm f/4.0 R OIS, Italia, Italie, Italy, Musée
-  Pio-Clementino, Musées du Vatican, Musei Vaticani, Museo Pio-Clementino,
-  plongée, Roma, Rome, spiral, spiral staircase, sport, stair, staircase,
-  stairway, Vatican, Vatican City, Vatican Museums, X-T2
+tags:
+  - 10-24mm
+  - architecture
+  - circle
+  - Città del Vaticano
+  - dive
+  - diving
+  - escalier
+  - escalier en colimaçon
+  - escalier hélicoïdal
+  - Europa
+  - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - Italia
+  - Italie
+  - Italy
+  - Musée Pio-Clementino
+  - Musées du Vatican
+  - Musei Vaticani
+  - Museo Pio-Clementino
+  - plongée
+  - Roma
+  - Rome
+  - spiral
+  - spiral staircase
+  - sport
+  - stair
+  - staircase
+  - stairway
+  - Vatican
+  - Vatican City
+  - Vatican Museums
+  - X-T2
 settings:
   focal_length: 10
   focal_length_35mm: 15

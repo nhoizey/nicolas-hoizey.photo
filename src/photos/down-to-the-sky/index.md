@@ -5,11 +5,37 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, chinese, chinese garden, chinois, ciel, eau, Europa, Europe,
-  fleur, France, Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF 10-24mm f/4.0 R
-  OIS, garden, Ile de France, jardin, jardin chinois, jardin traditionnel
-  chinois, Jardin Yili, nénuphar, plant, reflection, reflet, sky, toit, végétal,
-  water, X-T2, Yvelines
+tags:
+  - 10-24mm
+  - chinese
+  - chinese garden
+  - chinois
+  - ciel
+  - eau
+  - Europa
+  - Europe
+  - fleur
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - garden
+  - Ile de France
+  - jardin
+  - jardin chinois
+  - jardin traditionnel chinois
+  - Jardin Yili
+  - nénuphar
+  - plant
+  - reflection
+  - reflet
+  - sky
+  - toit
+  - végétal
+  - water
+  - X-T2
+  - Yvelines
 settings:
   focal_length: 24
   focal_length_35mm: 36

@@ -5,11 +5,38 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: anvil, Arnhem, artisan, barbe, beard, blacksmith, craftsman, enclume,
-  Europa, Europe, fer, forgeron, Gelderland, hammer, iron, marteau, metal,
-  métal, Nederland, Nederlands Openluchtmuseum, Netherlands Open Air Museum,
-  Openluchtmuseum, outil, Pays-Bas, RX100 Mark 3, RX100 Mark III, RX100mk3,
-  Sony, Sony RX100 Mark III, The Netherlands, tool
+tags:
+  - anvil
+  - Arnhem
+  - artisan
+  - barbe
+  - beard
+  - blacksmith
+  - craftsman
+  - enclume
+  - Europa
+  - Europe
+  - fer
+  - forgeron
+  - Gelderland
+  - hammer
+  - iron
+  - marteau
+  - metal
+  - métal
+  - Nederland
+  - Nederlands Openluchtmuseum
+  - Netherlands Open Air Museum
+  - Openluchtmuseum
+  - outil
+  - Pays-Bas
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - Sony
+  - Sony RX100 Mark III
+  - The Netherlands
+  - tool
 settings:
   focal_length: 25.7
   focal_length_35mm: 70

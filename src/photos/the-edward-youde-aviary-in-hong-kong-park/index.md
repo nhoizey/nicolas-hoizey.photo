@@ -5,9 +5,23 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: Asia, Asie, aviary, China, Chine, Edward Youde Aviary, Hong Kong, Hong
-  Kong City, Hong Kong Island, Hong Kong Park, RX100 Mark 3, RX100 Mark III,
-  RX100mk3, Sony, Sony RX100 Mark III, volière
+tags:
+  - Asia
+  - Asie
+  - aviary
+  - China
+  - Chine
+  - Edward Youde Aviary
+  - Hong Kong
+  - Hong Kong City
+  - Hong Kong Island
+  - Hong Kong Park
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - Sony
+  - Sony RX100 Mark III
+  - volière
 settings:
   focal_length: 8.8
   focal_length_35mm: 24

@@ -5,12 +5,49 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, America, Amérique du Nord, blanc, bleu,
-  blue, building, Canon, Canon EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II,
-  city, Empire State Building, États-Unis, États-Unis d'Amérique, immeuble,
-  light, lumière, Manhattan, New-York, New-York City, night, North America,
-  nuit, NYC, red, rouge, skyline, skyscrapers, tourism, tourisme, travel, United
-  States, United States of America, urbain, urban, USA, ville, voyage, white
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - America
+  - Amérique du Nord
+  - blanc
+  - bleu
+  - blue
+  - building
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - city
+  - Empire State Building
+  - États-Unis
+  - États-Unis d'Amérique
+  - immeuble
+  - light
+  - lumière
+  - Manhattan
+  - New-York
+  - New-York City
+  - night
+  - North America
+  - nuit
+  - NYC
+  - red
+  - rouge
+  - skyline
+  - skyscrapers
+  - tourism
+  - tourisme
+  - travel
+  - United States
+  - United States of America
+  - urbain
+  - urban
+  - USA
+  - ville
+  - voyage
+  - white
 settings:
   focal_length: 24
   iso: 3200

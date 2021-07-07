@@ -5,9 +5,20 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: Africa, Afrique, Amboseli, Amboseli National Park, football, Fujifilm,
-  Fujifilm X-T2, Kajiado, Kenya, National Park, Parc national d'Amboseli, sport,
-  X-T2
+tags:
+  - Africa
+  - Afrique
+  - Amboseli
+  - Amboseli National Park
+  - football
+  - Fujifilm
+  - Fujifilm X-T2
+  - Kajiado
+  - Kenya
+  - National Park
+  - Parc national d'Amboseli
+  - sport
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

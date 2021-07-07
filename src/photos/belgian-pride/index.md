@@ -5,11 +5,46 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, arc-en-ciel, België, Belgique, Belgium, bleu, blue, Brussel,
-  Bruxelles, ciel, Europa, Europe, Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF
-  10-24mm f/4.0 R OIS, Grand-Place, green, jaune, LGBT, light, lumière,
-  monument, night, nuit, orange, pavé, place, pride, purple, rainbow, red,
-  regenboog, rouge, sky, vert, violet, X-T2, yellow
+tags:
+  - 10-24mm
+  - arc-en-ciel
+  - België
+  - Belgique
+  - Belgium
+  - bleu
+  - blue
+  - Brussel
+  - Bruxelles
+  - ciel
+  - Europa
+  - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - Grand-Place
+  - green
+  - jaune
+  - LGBT
+  - light
+  - lumière
+  - monument
+  - night
+  - nuit
+  - orange
+  - pavé
+  - place
+  - pride
+  - purple
+  - rainbow
+  - red
+  - regenboog
+  - rouge
+  - sky
+  - vert
+  - violet
+  - X-T2
+  - yellow
 settings:
   focal_length: 10.5
   focal_length_35mm: 16

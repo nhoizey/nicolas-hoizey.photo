@@ -5,9 +5,28 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: bleu, blue, ciel, cloud, Europa, Europe, France, Fujifilm, Fujifilm X-T2,
-  grey, gris, Ile de France, Île Saint-Louis, lamp post, lampadaire, nuage,
-  Paris, réverbère, sky, street light, X-T2
+tags:
+  - bleu
+  - blue
+  - ciel
+  - cloud
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - grey
+  - gris
+  - Ile de France
+  - Île Saint-Louis
+  - lamp post
+  - lampadaire
+  - nuage
+  - Paris
+  - réverbère
+  - sky
+  - street light
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

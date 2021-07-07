@@ -5,12 +5,38 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF80mmF2.8 R LM OIS WR Macro
-tags: animal, animal captif, animalière, animaux captifs, bird, birds, captif,
-  captivité, captivity, Center Parcs Het Heijderbos, Choucador superbe,
-  Driekleurige Glansspreeuw, Europa, Europe, Fujifilm, Fujifilm X-T2, Fujinon,
-  Fujinon XF 80 mm f/2.8 LM OIS WR Macro, Heijen, Lamprotornis superbus,
-  Limbourg, Limburg, Nederland, oiseau, Oiseaux, Passériformes, Pays-Bas,
-  Sturnidés, Superb Starling, The Netherlands, X-T2
+tags:
+  - animal
+  - animal captif
+  - animalière
+  - animaux captifs
+  - bird
+  - birds
+  - captif
+  - captivité
+  - captivity
+  - Center Parcs Het Heijderbos
+  - Choucador superbe
+  - Driekleurige Glansspreeuw
+  - Europa
+  - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
+  - Heijen
+  - Lamprotornis superbus
+  - Limbourg
+  - Limburg
+  - Nederland
+  - oiseau
+  - Oiseaux
+  - Passériformes
+  - Pays-Bas
+  - Sturnidés
+  - Superb Starling
+  - The Netherlands
+  - X-T2
 settings:
   focal_length: 80
   focal_length_35mm: 120

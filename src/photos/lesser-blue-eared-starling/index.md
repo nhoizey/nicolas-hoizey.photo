@@ -5,12 +5,40 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF80mmF2.8 R LM OIS WR Macro
-tags: animal, animal captif, animalière, animaux captifs, bird, birds, bleu,
-  blue, captif, captivité, captivity, Center Parcs Het Heijderbos, Choucador de
-  Swainson, Europa, Europe, Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF 80 mm
-  f/2.8 LM OIS WR Macro, Heijen, Lamprotornis chloropterus, Lesser Blue-eared
-  Starling, Limbourg, Limburg, Nederland, Noordelijke blauwoorglansspreeuw,
-  oiseau, Oiseaux, Passériformes, Pays-Bas, Sturnidés, The Netherlands, X-T2
+tags:
+  - animal
+  - animal captif
+  - animalière
+  - animaux captifs
+  - bird
+  - birds
+  - bleu
+  - blue
+  - captif
+  - captivité
+  - captivity
+  - Center Parcs Het Heijderbos
+  - Choucador de Swainson
+  - Europa
+  - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
+  - Heijen
+  - Lamprotornis chloropterus
+  - Lesser Blue-eared Starling
+  - Limbourg
+  - Limburg
+  - Nederland
+  - Noordelijke blauwoorglansspreeuw
+  - oiseau
+  - Oiseaux
+  - Passériformes
+  - Pays-Bas
+  - Sturnidés
+  - The Netherlands
+  - X-T2
 settings:
   focal_length: 80
   focal_length_35mm: 120

@@ -4,7 +4,10 @@ date: 2014-03-14 15:03:00 +02:00
 gear:
   make: Panasonic
   model: DMC-GM1
-tags: DMC-GM1, GM1, Panasonic
+tags:
+  - DMC-GM1
+  - GM1
+  - Panasonic
 settings:
   iso: 200
   shutter_speed: 1/16000

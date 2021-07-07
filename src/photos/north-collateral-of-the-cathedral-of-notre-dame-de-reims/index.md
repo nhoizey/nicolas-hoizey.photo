@@ -5,10 +5,29 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF27mmF2.8
-tags: 27mm, arcade, cathédrale, Cathédrale Notre-Dame de Reims, church,
-  Collatéral nord, église, Europa, Europe, France, Fujifilm, Fujifilm X-T3,
-  Fujinon, Fujinon XF 27 mm f/2.8, Grand Est, Marne, ogive, pancake, Reims,
-  voûte, X-T3, XF27mmF2.8
+tags:
+  - 27mm
+  - arcade
+  - cathédrale
+  - Cathédrale Notre-Dame de Reims
+  - church
+  - Collatéral nord
+  - église
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 27 mm f/2.8
+  - Grand Est
+  - Marne
+  - ogive
+  - pancake
+  - Reims
+  - voûte
+  - X-T3
+  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

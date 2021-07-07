@@ -5,10 +5,35 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, Asia, Asie, Canon, Canon EF 24-70mm f/2.8L
-  USM, Canon EOS 5D Mark II, China, Chine, coil, faith, Hong Kong, incense,
-  incense coil, incense spiral, light, light beam, Man Mo, religion, Sheung Wan,
-  smoke, spiral, spirale, steam, temple, worship
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Asia
+  - Asie
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - China
+  - Chine
+  - coil
+  - faith
+  - Hong Kong
+  - incense
+  - incense coil
+  - incense spiral
+  - light
+  - light beam
+  - Man Mo
+  - religion
+  - Sheung Wan
+  - smoke
+  - spiral
+  - spirale
+  - steam
+  - temple
+  - worship
 settings:
   focal_length: 45
   iso: 200

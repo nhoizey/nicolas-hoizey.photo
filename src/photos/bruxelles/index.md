@@ -5,8 +5,24 @@ gear:
   make: Canon
   model: Canon DIGITAL IXUS 800 IS
   lens: 5.8-23.2 mm
-tags: bâtiment, België, Belgique, Belgium, Brussel, Bruxelles, ciel, city,
-  cloud, Europa, Europe, nuage, sky, toit, urbain, urban, ville
+tags:
+  - bâtiment
+  - België
+  - Belgique
+  - Belgium
+  - Brussel
+  - Bruxelles
+  - ciel
+  - city
+  - cloud
+  - Europa
+  - Europe
+  - nuage
+  - sky
+  - toit
+  - urbain
+  - urban
+  - ville
 settings:
   focal_length: 14.333
   iso: 82

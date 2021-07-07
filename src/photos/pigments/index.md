@@ -4,10 +4,28 @@ date: 2015-04-27 15:04:00 +02:00
 gear:
   make: Panasonic
   model: DMC-LX100
-tags: bocal, bocaux, Centre-Val de Loire, Chaumont sur Loire, coloré, colorful,
-  colourful, DMC-LX100, Domaine de Chaumont-sur-Loire, Europa, Europe, France,
-  light, lumière, LX100, mur, nature morte, Panasonic, still life, still-life,
-  wall
+tags:
+  - bocal
+  - bocaux
+  - Centre-Val de Loire
+  - Chaumont sur Loire
+  - coloré
+  - colorful
+  - colourful
+  - DMC-LX100
+  - Domaine de Chaumont-sur-Loire
+  - Europa
+  - Europe
+  - France
+  - light
+  - lumière
+  - LX100
+  - mur
+  - nature morte
+  - Panasonic
+  - still life
+  - still-life
+  - wall
 settings:
   focal_length: 10.9
   focal_length_35mm: 24

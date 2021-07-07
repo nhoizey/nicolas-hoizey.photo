@@ -5,8 +5,25 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: bateau, boat, bridge, eau, Europa, Europe, fleuve, Fujifilm, Fujifilm
-  X-T2, Italia, Italie, Italy, pont, river, Roma, Rome, water, X-T2
+tags:
+  - bateau
+  - boat
+  - bridge
+  - eau
+  - Europa
+  - Europe
+  - fleuve
+  - Fujifilm
+  - Fujifilm X-T2
+  - Italia
+  - Italie
+  - Italy
+  - pont
+  - river
+  - Roma
+  - Rome
+  - water
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

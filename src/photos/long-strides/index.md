@@ -5,10 +5,28 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
-tags: 100-400mm, athétisme, athletics, Essonne, Europa, Europe, France,
-  Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR,
-  Ile de France, Montgeron, piste, piste de course, running track, sport, Stade
-  Pierre de Coubertin, track, track and field, X-T2
+tags:
+  - 100-400mm
+  - athétisme
+  - athletics
+  - Essonne
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Ile de France
+  - Montgeron
+  - piste
+  - piste de course
+  - running track
+  - sport
+  - Stade Pierre de Coubertin
+  - track
+  - track and field
+  - X-T2
 settings:
   focal_length: 400
   focal_length_35mm: 600

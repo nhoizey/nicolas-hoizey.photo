@@ -5,9 +5,25 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF56mmF1.2 R
-tags: Africa, Afrique, bleu, blue, camion, eau, Fujifilm, Fujifilm X-T3, Kenya,
-  Kiambu County, Limuru, transportation, truck, vehicle, vehicles, véhicule,
-  water, X-T3
+tags:
+  - Africa
+  - Afrique
+  - bleu
+  - blue
+  - camion
+  - eau
+  - Fujifilm
+  - Fujifilm X-T3
+  - Kenya
+  - Kiambu County
+  - Limuru
+  - transportation
+  - truck
+  - vehicle
+  - vehicles
+  - véhicule
+  - water
+  - X-T3
 settings:
   focal_length: 56
   focal_length_35mm: 84

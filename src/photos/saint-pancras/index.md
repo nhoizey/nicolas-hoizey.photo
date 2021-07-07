@@ -5,12 +5,36 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, Angleterre, England, Europa, Europe, Fujifilm, Fujifilm X-T2,
-  Fujinon, Fujinon XF 10-24mm f/4.0 R OIS, gare, Grande-Bretagne, Great Britain,
-  London, Londres, passage piéton, pedestrian crossing, railway station, Royaume
-  Uni, Royaume-Uni, Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, rue,
-  Saint-Pancras, station, street, train station, UK, United Kingdom, United
-  Kingdom of Great Britain and Northern Ireland, X-T2
+tags:
+  - 10-24mm
+  - Angleterre
+  - England
+  - Europa
+  - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - gare
+  - Grande-Bretagne
+  - Great Britain
+  - London
+  - Londres
+  - passage piéton
+  - pedestrian crossing
+  - railway station
+  - Royaume Uni
+  - Royaume-Uni
+  - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+  - rue
+  - Saint-Pancras
+  - station
+  - street
+  - train station
+  - UK
+  - United Kingdom
+  - United Kingdom of Great Britain and Northern Ireland
+  - X-T2
 settings:
   focal_length: 10
   focal_length_35mm: 15

@@ -5,10 +5,33 @@ gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 100.0 mm
-tags: 100mm, 350D, abeille, animal, animal sauvage, animalière, animaux
-  sauvages, bee, bluebells, campanule, Canon, Canon EF 100mm f/2.8 Macro USM,
-  Canon EOS 350D, fleur, insect, insecte, Insectes, insects, macro, plant,
-  purple, sauvage, végétal, violet, wild animal, wild animals
+tags:
+  - 100mm
+  - 350D
+  - abeille
+  - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
+  - bee
+  - bluebells
+  - campanule
+  - Canon
+  - Canon EF 100mm f/2.8 Macro USM
+  - Canon EOS 350D
+  - fleur
+  - insect
+  - insecte
+  - Insectes
+  - insects
+  - macro
+  - plant
+  - purple
+  - sauvage
+  - végétal
+  - violet
+  - wild animal
+  - wild animals
 settings:
   focal_length: 100
   iso: 100

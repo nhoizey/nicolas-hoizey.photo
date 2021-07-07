@@ -5,10 +5,33 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
-tags: 100mm, 5D Mark II, 5D2, 5DII, animal, aquarium, bleu, blue, Brest,
-  Bretagne, Britany, Canon, Canon EF 100mm f/2.8 Macro USM, Canon EOS 5D Mark
-  II, Europa, Europe, eye, Finistère, fish, fishes, France, macro, Océanopolis,
-  œil, poisson, Poissons
+tags:
+  - 100mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - animal
+  - aquarium
+  - bleu
+  - blue
+  - Brest
+  - Bretagne
+  - Britany
+  - Canon
+  - Canon EF 100mm f/2.8 Macro USM
+  - Canon EOS 5D Mark II
+  - Europa
+  - Europe
+  - eye
+  - Finistère
+  - fish
+  - fishes
+  - France
+  - macro
+  - Océanopolis
+  - œil
+  - poisson
+  - Poissons
 settings:
   focal_length: 100
   iso: 6400

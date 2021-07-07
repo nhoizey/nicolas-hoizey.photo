@@ -5,13 +5,59 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
-tags: 135mm f/2, 5D Mark II, 5D2, 5DII, America, Amérique du Nord, beret, blanc,
-  bleu, blue, Canon, Canon 135mm, Canon EF 135mm f/2L USM, Canon EOS 5D Mark II,
-  color, coloré, colorful, colors, colour, colourful, colours, couleur,
-  couleurs, couple, drawing, États-Unis, États-Unis d'Amérique, green, kiss,
-  Kobra, lovers, man, Manhattan, marine, navy, New-York, New-York City, North
-  America, NYC, orange, paint, painting, red, rouge, United States, United
-  States of America, USA, vert, wall, white, woman, yellow
+tags:
+  - 135mm f/2
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - America
+  - Amérique du Nord
+  - beret
+  - blanc
+  - bleu
+  - blue
+  - Canon
+  - Canon 135mm
+  - Canon EF 135mm f/2L USM
+  - Canon EOS 5D Mark II
+  - color
+  - coloré
+  - colorful
+  - colors
+  - colour
+  - colourful
+  - colours
+  - couleur
+  - couleurs
+  - couple
+  - drawing
+  - États-Unis
+  - États-Unis d'Amérique
+  - green
+  - kiss
+  - Kobra
+  - lovers
+  - man
+  - Manhattan
+  - marine
+  - navy
+  - New-York
+  - New-York City
+  - North America
+  - NYC
+  - orange
+  - paint
+  - painting
+  - red
+  - rouge
+  - United States
+  - United States of America
+  - USA
+  - vert
+  - wall
+  - white
+  - woman
+  - yellow
 settings:
   focal_length: 189
   iso: 100

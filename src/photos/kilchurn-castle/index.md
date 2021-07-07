@@ -5,11 +5,29 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, Argyll and Bute, Canon, Canon EF 24-70mm
-  f/2.8L USM, Canon EOS 5D Mark II, Château de Kilchurn, Écosse, Europa, Europe,
-  Grande-Bretagne, Great Britain, Kilchurn Castle, Royaume Uni, Royaume-Uni,
-  Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, Scotland, UK, United
-  Kingdom, United Kingdom of Great Britain and Northern Ireland
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Argyll and Bute
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - Château de Kilchurn
+  - Écosse
+  - Europa
+  - Europe
+  - Grande-Bretagne
+  - Great Britain
+  - Kilchurn Castle
+  - Royaume Uni
+  - Royaume-Uni
+  - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+  - Scotland
+  - UK
+  - United Kingdom
+  - United Kingdom of Great Britain and Northern Ireland
 settings:
   focal_length: 70
   iso: 200

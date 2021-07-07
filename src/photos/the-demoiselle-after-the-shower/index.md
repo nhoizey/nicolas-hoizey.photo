@@ -5,10 +5,38 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: animal, aube, damselfly, demoiselle, eau, Essonne, Europa, Europe, France,
-  Fujifilm, Fujifilm X-T2, goutte, Ile de France, insect, insecte, Insectes,
-  insects, levé de soleil, matin, morning, rosée, soleil, sun, sunrise, Tigery,
-  toile, water, web, X-T2, zygoptera, zygoptères
+tags:
+  - animal
+  - aube
+  - damselfly
+  - demoiselle
+  - eau
+  - Essonne
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - goutte
+  - Ile de France
+  - insect
+  - insecte
+  - Insectes
+  - insects
+  - levé de soleil
+  - matin
+  - morning
+  - rosée
+  - soleil
+  - sun
+  - sunrise
+  - Tigery
+  - toile
+  - water
+  - web
+  - X-T2
+  - zygoptera
+  - zygoptères
 settings:
   focal_length: 56
   focal_length_35mm: 84

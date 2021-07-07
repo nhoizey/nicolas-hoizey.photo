@@ -5,15 +5,56 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
-tags: ×2.0, 100-400mm, Africa, Afrique, animal, animalière, Anubis baboon,
-  baboon, babouin, babouin olive, branche, Cercopithecidae, cercopithécidés,
-  converter, coucher de soleil, evening, Fujifilm, Fujifilm X-T3, Fujinon,
-  Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR, Fujinon XF2.0× TC WR, Kenya, lac,
-  Lac Nakuru, lake, Lake Nakuru, Lake Nakuru National Park, lens, mammal,
-  Mammalia, mammals, mammifère, Mammifères, Nakuru, Nakuru County, Old World
-  monkey, olive baboon, papio, Papio anubis, Parc national du lac Nakuru,
-  primate, primates, soir, soleil, sunset, télé-convertisseur, teleconverter,
-  X-T3, x2.0
+tags:
+  - ×2.0
+  - 100-400mm
+  - Africa
+  - Afrique
+  - animal
+  - animalière
+  - Anubis baboon
+  - baboon
+  - babouin
+  - babouin olive
+  - branche
+  - Cercopithecidae
+  - cercopithécidés
+  - converter
+  - coucher de soleil
+  - evening
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Fujinon XF2.0× TC WR
+  - Kenya
+  - lac
+  - Lac Nakuru
+  - lake
+  - Lake Nakuru
+  - Lake Nakuru National Park
+  - lens
+  - mammal
+  - Mammalia
+  - mammals
+  - mammifère
+  - Mammifères
+  - Nakuru
+  - Nakuru County
+  - Old World monkey
+  - olive baboon
+  - papio
+  - Papio anubis
+  - Parc national du lac Nakuru
+  - primate
+  - primates
+  - soir
+  - soleil
+  - sunset
+  - télé-convertisseur
+  - teleconverter
+  - X-T3
+  - x2.0
 settings:
   focal_length: 407.4
   focal_length_35mm: 611

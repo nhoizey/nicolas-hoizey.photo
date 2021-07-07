@@ -5,11 +5,41 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: Asia, Asie, Blue House, China, Chine, city, cityscape, color, coloré,
-  colorful, colorful buildings, colors, colour, colourful, colours, couleur,
-  couleurs, Hong Kong, Hong Kong City, Hong Kong Island, RX100 Mark 3, RX100
-  Mark III, RX100mk3, skyscrapers, Sony, Sony RX100 Mark III, tourism, tourisme,
-  travel, urbain, urban, ville, voyage, Wan Chai
+tags:
+  - Asia
+  - Asie
+  - Blue House
+  - China
+  - Chine
+  - city
+  - cityscape
+  - color
+  - coloré
+  - colorful
+  - colorful buildings
+  - colors
+  - colour
+  - colourful
+  - colours
+  - couleur
+  - couleurs
+  - Hong Kong
+  - Hong Kong City
+  - Hong Kong Island
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - skyscrapers
+  - Sony
+  - Sony RX100 Mark III
+  - tourism
+  - tourisme
+  - travel
+  - urbain
+  - urban
+  - ville
+  - voyage
+  - Wan Chai
 settings:
   focal_length: 8.8
   focal_length_35mm: 24

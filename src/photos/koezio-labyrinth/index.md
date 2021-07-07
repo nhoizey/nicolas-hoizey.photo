@@ -5,8 +5,18 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: anniversaire, Essonne, Europa, Europe, France, Fujifilm, Fujifilm X-T2,
-  Ile de France, Koezio, Lieusaint, X-T2
+tags:
+  - anniversaire
+  - Essonne
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - Ile de France
+  - Koezio
+  - Lieusaint
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

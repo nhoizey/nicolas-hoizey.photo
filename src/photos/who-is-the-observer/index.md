@@ -5,14 +5,53 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF27mmF2.8
-tags: 27mm, 4x4, Africa, Afrique, All-terrain, animal, animalière,
-  Cetartiodactyla, Cétartiodactyles, Even-toed ungulate, Fujifilm, Fujifilm
-  X-T2, Fujinon, Fujinon XF 27 mm f/2.8, Girafe, girafe du Kilimandjaro, Girafe
-  Masaï, Giraffa camelopardalis, Giraffa camelopardalis tippelskirchii, Giraffa
-  tippelskirchi, giraffe, Kenya, Kilimanjaro giraffe, landscape, Maasai, Maasai
-  giraffe, Maasai Mara National Reserve, mammal, Mammalia, mammals, mammifère,
-  Mammifères, Masai, Masai giraffe, Masai Mara, Narok County, pancake, paysage,
-  reserve, safari, sauvage, Tout terrain, voiture, wild, X-T2, XF27mmF2.8
+tags:
+  - 27mm
+  - 4x4
+  - Africa
+  - Afrique
+  - All-terrain
+  - animal
+  - animalière
+  - Cetartiodactyla
+  - Cétartiodactyles
+  - Even-toed ungulate
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 27 mm f/2.8
+  - Girafe
+  - girafe du Kilimandjaro
+  - Girafe Masaï
+  - Giraffa camelopardalis
+  - Giraffa camelopardalis tippelskirchii
+  - Giraffa tippelskirchi
+  - giraffe
+  - Kenya
+  - Kilimanjaro giraffe
+  - landscape
+  - Maasai
+  - Maasai giraffe
+  - Maasai Mara National Reserve
+  - mammal
+  - Mammalia
+  - mammals
+  - mammifère
+  - Mammifères
+  - Masai
+  - Masai giraffe
+  - Masai Mara
+  - Narok County
+  - pancake
+  - paysage
+  - reserve
+  - safari
+  - sauvage
+  - Tout terrain
+  - voiture
+  - wild
+  - X-T2
+  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

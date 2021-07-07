@@ -5,13 +5,54 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: 50mm
-tags: 50mm, 50mm f/1.4, 5D Mark II, 5D2, 5DII, America, Amérique du Nord, bass,
-  basse, batterie, bleu, blue, Blue Note, Blue Note Jazz Club, Canon, Canon EOS
-  5D Mark II, Club, concert, drum kit, États-Unis, États-Unis d'Amérique, f1/4,
-  Greenwich Village, group, groupe, guitar, guitare, instrument, Jazz, Jazz
-  Club, light, lumière, Manhattan, musique, New-York, New-York City, North
-  America, NYC, piano, purple, Sigma, Sigma 50mm, Sigma 50mm F1.4 EX DG HSM,
-  United States, United States of America, USA, violet
+tags:
+  - 50mm
+  - 50mm f/1.4
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - America
+  - Amérique du Nord
+  - bass
+  - basse
+  - batterie
+  - bleu
+  - blue
+  - Blue Note
+  - Blue Note Jazz Club
+  - Canon
+  - Canon EOS 5D Mark II
+  - Club
+  - concert
+  - drum kit
+  - États-Unis
+  - États-Unis d'Amérique
+  - f1/4
+  - Greenwich Village
+  - group
+  - groupe
+  - guitar
+  - guitare
+  - instrument
+  - Jazz
+  - Jazz Club
+  - light
+  - lumière
+  - Manhattan
+  - musique
+  - New-York
+  - New-York City
+  - North America
+  - NYC
+  - piano
+  - purple
+  - Sigma
+  - Sigma 50mm
+  - Sigma 50mm F1.4 EX DG HSM
+  - United States
+  - United States of America
+  - USA
+  - violet
 settings:
   focal_length: 50
   iso: 160

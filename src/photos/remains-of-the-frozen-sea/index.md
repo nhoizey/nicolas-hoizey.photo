@@ -5,11 +5,30 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, Comté de Stockholm, Europa, Europe, Fujifilm, Fujifilm X-T3,
-  Fujinon, Fujinon XF 10-24mm f/4.0 R OIS, Kingdom of Sweden, Konungariket
-  Sverige, landscape, Näsuddens naturreservat, Österåker, Österåker
-  Municipality, Österåkers kommun, Österskär, paysage, Stockholm County,
-  Stockholms län, Suède, Sverige, Sweden, X-T3
+tags:
+  - 10-24mm
+  - Comté de Stockholm
+  - Europa
+  - Europe
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - Kingdom of Sweden
+  - Konungariket Sverige
+  - landscape
+  - Näsuddens naturreservat
+  - Österåker
+  - Österåker Municipality
+  - Österåkers kommun
+  - Österskär
+  - paysage
+  - Stockholm County
+  - Stockholms län
+  - Suède
+  - Sverige
+  - Sweden
+  - X-T3
 settings:
   focal_length: 24
   focal_length_35mm: 36

@@ -5,11 +5,43 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, arbre, bleu, blue, Bretagne, Britany,
-  Canon, Canon EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II, ciel, coast, côte,
-  Côtes d'Armor, eau, Europa, Europe, France, green, home, house, maison, mer,
-  Perros-Guirec, plant, Ploumanac'h, rocher, rock, sea, sky, tree, végétal,
-  vert, water
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - arbre
+  - bleu
+  - blue
+  - Bretagne
+  - Britany
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - ciel
+  - coast
+  - côte
+  - Côtes d'Armor
+  - eau
+  - Europa
+  - Europe
+  - France
+  - green
+  - home
+  - house
+  - maison
+  - mer
+  - Perros-Guirec
+  - plant
+  - Ploumanac'h
+  - rocher
+  - rock
+  - sea
+  - sky
+  - tree
+  - végétal
+  - vert
+  - water
 settings:
   focal_length: 24
   iso: 200

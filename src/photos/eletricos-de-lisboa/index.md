@@ -5,11 +5,39 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, Canon, Canon EF 24-70mm f/2.8L USM, Canon
-  EOS 5D Mark II, Europa, Europe, Lisboa, Lisbon, Lisbonne, photo de rue,
-  Portugal, rail, road, route, street, street photography, tourism, tourisme,
-  train, tramway, transport, transportation, travel, urbain, urban, vehicle,
-  vehicles, véhicule, voyage
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - Europa
+  - Europe
+  - Lisboa
+  - Lisbon
+  - Lisbonne
+  - photo de rue
+  - Portugal
+  - rail
+  - road
+  - route
+  - street
+  - street photography
+  - tourism
+  - tourisme
+  - train
+  - tramway
+  - transport
+  - transportation
+  - travel
+  - urbain
+  - urban
+  - vehicle
+  - vehicles
+  - véhicule
+  - voyage
 settings:
   focal_length: 24
   iso: 100

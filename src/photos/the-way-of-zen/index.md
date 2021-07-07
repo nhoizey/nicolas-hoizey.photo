@@ -5,10 +5,31 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: arbre, Asia, Asie, chemin, China, Chine, door, garden, Hong Kong, Hong
-  Kong City, Hong Kong Island, Hong Kong Park, jardin, pathway, plant, porte,
-  RX100 Mark 3, RX100 Mark III, RX100mk3, Sony, Sony RX100 Mark III, tree,
-  végétal, zen
+tags:
+  - arbre
+  - Asia
+  - Asie
+  - chemin
+  - China
+  - Chine
+  - door
+  - garden
+  - Hong Kong
+  - Hong Kong City
+  - Hong Kong Island
+  - Hong Kong Park
+  - jardin
+  - pathway
+  - plant
+  - porte
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - Sony
+  - Sony RX100 Mark III
+  - tree
+  - végétal
+  - zen
 settings:
   focal_length: 8.8
   focal_length_35mm: 24

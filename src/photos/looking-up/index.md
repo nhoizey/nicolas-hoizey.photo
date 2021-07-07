@@ -5,10 +5,31 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, architecture, blanc, blue sky, building,
-  Canon, Canon EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II, Europa, Europe,
-  immeuble, Lisboa, Lisbon, Lisbonne, Palace of Sintra, Palácio Nacional de
-  Sintra, Palais national de Sintra, Portugal, Sintra, white, yellow
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - architecture
+  - blanc
+  - blue sky
+  - building
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - Europa
+  - Europe
+  - immeuble
+  - Lisboa
+  - Lisbon
+  - Lisbonne
+  - Palace of Sintra
+  - Palácio Nacional de Sintra
+  - Palais national de Sintra
+  - Portugal
+  - Sintra
+  - white
+  - yellow
 settings:
   focal_length: 24
   iso: 100

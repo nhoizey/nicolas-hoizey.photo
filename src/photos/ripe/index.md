@@ -5,10 +5,34 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
-tags: 100mm, 5D Mark II, 5D2, 5DII, abimé, bokeh, book, Canon, Canon EF 100mm
-  f/2.8 Macro USM, Canon EOS 5D Mark II, Centre-Val de Loire, Chaumont sur
-  Loire, écriture, Europa, Europe, flou, France, livre, macro, nature morte,
-  old, paper, papier, still life, still-life, vieux, writing
+tags:
+  - 100mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - abimé
+  - bokeh
+  - book
+  - Canon
+  - Canon EF 100mm f/2.8 Macro USM
+  - Canon EOS 5D Mark II
+  - Centre-Val de Loire
+  - Chaumont sur Loire
+  - écriture
+  - Europa
+  - Europe
+  - flou
+  - France
+  - livre
+  - macro
+  - nature morte
+  - old
+  - paper
+  - papier
+  - still life
+  - still-life
+  - vieux
+  - writing
 settings:
   focal_length: 100
   iso: 100

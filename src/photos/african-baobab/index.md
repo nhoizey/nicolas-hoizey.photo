@@ -5,9 +5,27 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF27mmF2.8
-tags: 27mm, Adansonia digitata, Africa, African baobab, Afrique, arbre, baobab,
-  Baobab africain, Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF 27 mm f/2.8,
-  Kenya, pancake, plant, Taita–Taveta County, tree, végétal, X-T2, XF27mmF2.8
+tags:
+  - 27mm
+  - Adansonia digitata
+  - Africa
+  - African baobab
+  - Afrique
+  - arbre
+  - baobab
+  - Baobab africain
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 27 mm f/2.8
+  - Kenya
+  - pancake
+  - plant
+  - Taita–Taveta County
+  - tree
+  - végétal
+  - X-T2
+  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

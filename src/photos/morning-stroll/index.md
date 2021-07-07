@@ -5,14 +5,51 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x
-tags: ×1.4, 100-400mm, Africa, Afrique, Amboseli, Amboseli National Park,
-  animal, animalière, converter, défense, défense d'éléphant, elephant,
-  éléphant, elephant tusk, Elephantidae, Éléphantidés, Fujifilm, Fujifilm X-T3,
-  Fujinon, Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR, Fujinon XF1.4× TC WR,
-  ivoire, ivory, Kajiado, Kenya, lens, levé de soleil, mammal, Mammalia,
-  mammals, mammifère, Mammifères, National Park, Parc national d'Amboseli,
-  sauvage, soleil, sun, sunrise, télé-convertisseur, teleconverter, tusk, wild,
-  X-T3, x1.4
+tags:
+  - ×1.4
+  - 100-400mm
+  - Africa
+  - Afrique
+  - Amboseli
+  - Amboseli National Park
+  - animal
+  - animalière
+  - converter
+  - défense
+  - défense d'éléphant
+  - elephant
+  - éléphant
+  - elephant tusk
+  - Elephantidae
+  - Éléphantidés
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Fujinon XF1.4× TC WR
+  - ivoire
+  - ivory
+  - Kajiado
+  - Kenya
+  - lens
+  - levé de soleil
+  - mammal
+  - Mammalia
+  - mammals
+  - mammifère
+  - Mammifères
+  - National Park
+  - Parc national d'Amboseli
+  - sauvage
+  - soleil
+  - sun
+  - sunrise
+  - télé-convertisseur
+  - teleconverter
+  - tusk
+  - wild
+  - X-T3
+  - x1.4
 settings:
   focal_length: 378.8
   focal_length_35mm: 568

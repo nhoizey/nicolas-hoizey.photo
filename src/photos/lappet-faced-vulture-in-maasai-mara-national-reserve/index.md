@@ -5,13 +5,43 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
-tags: ×2.0, 100-400mm, Accipitridés, Accipitriformes, Africa, Afrique, animal,
-  animalière, bird, birds, converter, Fujifilm, Fujifilm X-T3, Fujinon, Fujinon
-  XF 100-400mm f/4.5-5.6 R LM OIS WR, Fujinon XF2.0× TC WR, Kenya, Lappet-faced
-  Vulture, lens, Maasai, Maasai Mara National Reserve, Masai, Masai Mara, Narok
-  County, Nubian vulture, oiseau, Oiseaux, reserve, télé-convertisseur,
-  teleconverter, Torgos tracheliotos, vautour, Vautour oricou, vulture, X-T3,
-  x2.0
+tags:
+  - ×2.0
+  - 100-400mm
+  - Accipitridés
+  - Accipitriformes
+  - Africa
+  - Afrique
+  - animal
+  - animalière
+  - bird
+  - birds
+  - converter
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Fujinon XF2.0× TC WR
+  - Kenya
+  - Lappet-faced Vulture
+  - lens
+  - Maasai
+  - Maasai Mara National Reserve
+  - Masai
+  - Masai Mara
+  - Narok County
+  - Nubian vulture
+  - oiseau
+  - Oiseaux
+  - reserve
+  - télé-convertisseur
+  - teleconverter
+  - Torgos tracheliotos
+  - vautour
+  - Vautour oricou
+  - vulture
+  - X-T3
+  - x2.0
 settings:
   focal_length: 800
   focal_length_35mm: 1200

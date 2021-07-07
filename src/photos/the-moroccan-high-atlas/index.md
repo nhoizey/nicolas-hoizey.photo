@@ -5,11 +5,41 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: 50mm
-tags: 5D Mark II, 5D2, 5DII, Africa, Afrique, arbre, Atlas, blanc, bleu, blue,
-  Canon, Canon EOS 5D Mark II, ciel, Haut Atlas, High Atlas, Jbel Tinergwet,
-  Jebel Tinergwet, Maroc, Marocco, montagne, mountain, neige, plant, sky, snow,
-  Souss-Massa, Taroudannt, Taroudant, travel, tree, végétal, voyage, white,
-  تارودانت
+tags:
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Africa
+  - Afrique
+  - arbre
+  - Atlas
+  - blanc
+  - bleu
+  - blue
+  - Canon
+  - Canon EOS 5D Mark II
+  - ciel
+  - Haut Atlas
+  - High Atlas
+  - Jbel Tinergwet
+  - Jebel Tinergwet
+  - Maroc
+  - Marocco
+  - montagne
+  - mountain
+  - neige
+  - plant
+  - sky
+  - snow
+  - Souss-Massa
+  - Taroudannt
+  - Taroudant
+  - travel
+  - tree
+  - végétal
+  - voyage
+  - white
+  - تارودانت
 settings:
   focal_length: 50
   iso: 50

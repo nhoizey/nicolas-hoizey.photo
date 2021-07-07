@@ -5,11 +5,41 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: 50mm
-tags: 5D Mark II, 5D2, 5DII, America, Amérique du Nord, arbre, camion, Canon,
-  Canon EOS 5D Mark II, États-Unis, États-Unis d'Amérique, Hell's Kitchen,
-  Manhattan, New-York, New-York City, North America, NYC, ouvrier, panneau,
-  plant, road, route, rue, sign, street, tourism, tourisme, tree, truck, United
-  States, United States of America, USA, végétal, worker
+tags:
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - America
+  - Amérique du Nord
+  - arbre
+  - camion
+  - Canon
+  - Canon EOS 5D Mark II
+  - États-Unis
+  - États-Unis d'Amérique
+  - Hell's Kitchen
+  - Manhattan
+  - New-York
+  - New-York City
+  - North America
+  - NYC
+  - ouvrier
+  - panneau
+  - plant
+  - road
+  - route
+  - rue
+  - sign
+  - street
+  - tourism
+  - tourisme
+  - tree
+  - truck
+  - United States
+  - United States of America
+  - USA
+  - végétal
+  - worker
 settings:
   focal_length: 50
   iso: 100

@@ -5,11 +5,43 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: Asia, Asie, China, Chine, chinese, chinois, city, dashboard, Hong Kong,
-  Hong Kong City, light, lumière, néon, neon lamp, neon light, night, nocturne,
-  nuit, panneau, road, route, RX100 Mark 3, RX100 Mark III, RX100mk3, sign,
-  signage, signalisation, Sony, Sony RX100 Mark III, steering wheel, tableau de
-  bord, taxi, Tsim Sha Tsui, ville, voiture, volant
+tags:
+  - Asia
+  - Asie
+  - China
+  - Chine
+  - chinese
+  - chinois
+  - city
+  - dashboard
+  - Hong Kong
+  - Hong Kong City
+  - light
+  - lumière
+  - néon
+  - neon lamp
+  - neon light
+  - night
+  - nocturne
+  - nuit
+  - panneau
+  - road
+  - route
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - sign
+  - signage
+  - signalisation
+  - Sony
+  - Sony RX100 Mark III
+  - steering wheel
+  - tableau de bord
+  - taxi
+  - Tsim Sha Tsui
+  - ville
+  - voiture
+  - volant
 settings:
   focal_length: 8.8
   focal_length_35mm: 24

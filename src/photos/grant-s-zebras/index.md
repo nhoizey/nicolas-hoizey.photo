@@ -5,13 +5,47 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: Africa, Afrique, Amboseli, Amboseli National Park, animal, animalière,
-  Equidae, Équidés, Equus quagga, Equus quagga bohemi, Fujifilm, Fujifilm X-T2,
-  Grant's zebra, horse family, Imparidigités, Kajiado, Kenya, Kilimanjaro,
-  landscape, mammal, Mammalia, mammals, mammifère, Mammifères, montagne, Mount
-  Kilimanjaro, mountain, National Park, Odd-toed ungulate, Parc national
-  d'Amboseli, paysage, Perissodactyla, Périssodactyles, plains zebra, volcan,
-  volcano, X-T2, zèbre de Burchell, Zèbre de Grant, Zèbre des plaines
+tags:
+  - Africa
+  - Afrique
+  - Amboseli
+  - Amboseli National Park
+  - animal
+  - animalière
+  - Equidae
+  - Équidés
+  - Equus quagga
+  - Equus quagga bohemi
+  - Fujifilm
+  - Fujifilm X-T2
+  - Grant's zebra
+  - horse family
+  - Imparidigités
+  - Kajiado
+  - Kenya
+  - Kilimanjaro
+  - landscape
+  - mammal
+  - Mammalia
+  - mammals
+  - mammifère
+  - Mammifères
+  - montagne
+  - Mount Kilimanjaro
+  - mountain
+  - National Park
+  - Odd-toed ungulate
+  - Parc national d'Amboseli
+  - paysage
+  - Perissodactyla
+  - Périssodactyles
+  - plains zebra
+  - volcan
+  - volcano
+  - X-T2
+  - zèbre de Burchell
+  - Zèbre de Grant
+  - Zèbre des plaines
 settings:
   focal_length: 56
   focal_length_35mm: 84

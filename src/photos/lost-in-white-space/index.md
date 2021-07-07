@@ -4,8 +4,23 @@ date: 2005-04-23 16:04:00 +02:00
 gear:
   make: Konica
   model: KD-400Z
-tags: blanc, bleu, blue, ciel, contrast, contraste, Europa, Europe, France, Ile
-  de France, KD-400Z, Konica, minimaliste, Paris, sky, white
+tags:
+  - blanc
+  - bleu
+  - blue
+  - ciel
+  - contrast
+  - contraste
+  - Europa
+  - Europe
+  - France
+  - Ile de France
+  - KD-400Z
+  - Konica
+  - minimaliste
+  - Paris
+  - sky
+  - white
 settings:
   focal_length: 11.3
   focal_length_35mm: 55

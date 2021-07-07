@@ -4,9 +4,28 @@ date: 2004-12-27 18:12:00 +02:00
 gear:
   make: Konica
   model: KD-400Z
-tags: Arnhem, brouillard, city, effrayant, Europa, Europe, fear, fog, KD-400Z,
-  Konica, light, lumière, Nederland, night, nuit, Pays-Bas, peur, scary, statue,
-  The Netherlands, ville
+tags:
+  - Arnhem
+  - brouillard
+  - city
+  - effrayant
+  - Europa
+  - Europe
+  - fear
+  - fog
+  - KD-400Z
+  - Konica
+  - light
+  - lumière
+  - Nederland
+  - night
+  - nuit
+  - Pays-Bas
+  - peur
+  - scary
+  - statue
+  - The Netherlands
+  - ville
 settings:
   focal_length: 8
   focal_length_35mm: 39

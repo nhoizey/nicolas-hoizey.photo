@@ -5,9 +5,29 @@ gear:
   make: Canon
   model: Canon EOS 5D Mark IV
   lens: EF100mm f/2.8L Macro IS USM
-tags: biscuit, bleu, blue, brown, color, colors, colour, colours, couleur,
-  couleurs, crayon, food photography, gâteau, green, macaron, marron,
-  photographie culinaire, pink, red, rose, rouge, vert
+tags:
+  - biscuit
+  - bleu
+  - blue
+  - brown
+  - color
+  - colors
+  - colour
+  - colours
+  - couleur
+  - couleurs
+  - crayon
+  - food photography
+  - gâteau
+  - green
+  - macaron
+  - marron
+  - photographie culinaire
+  - pink
+  - red
+  - rose
+  - rouge
+  - vert
 settings:
   focal_length: 100
   iso: 100

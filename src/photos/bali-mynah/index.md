@@ -5,13 +5,48 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
-tags: 135mm f/2, 5D Mark II, 5D2, 5DII, animal, animal captif, animalière,
-  animaux captifs, Asia, Asie, aviary, Bali Myna, Bali mynah, Bali starling,
-  bird, birds, Canon, Canon 135mm, Canon EF 135mm f/2L USM, Canon EOS 5D Mark
-  II, captif, captivité, captivity, China, Chine, Edward Youde Aviary, Étourneau
-  de Bali, Étourneau de Rothschild, Hong Kong, Hong Kong City, Hong Kong Island,
-  Hong Kong Park, jalak Bali, Leucopsar rothschildi, Martin de Rothschild,
-  oiseau, Oiseaux, Passériformes, Rothschild's mynah, Sturnidés, volière
+tags:
+  - 135mm f/2
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - animal
+  - animal captif
+  - animalière
+  - animaux captifs
+  - Asia
+  - Asie
+  - aviary
+  - Bali Myna
+  - Bali mynah
+  - Bali starling
+  - bird
+  - birds
+  - Canon
+  - Canon 135mm
+  - Canon EF 135mm f/2L USM
+  - Canon EOS 5D Mark II
+  - captif
+  - captivité
+  - captivity
+  - China
+  - Chine
+  - Edward Youde Aviary
+  - Étourneau de Bali
+  - Étourneau de Rothschild
+  - Hong Kong
+  - Hong Kong City
+  - Hong Kong Island
+  - Hong Kong Park
+  - jalak Bali
+  - Leucopsar rothschildi
+  - Martin de Rothschild
+  - oiseau
+  - Oiseaux
+  - Passériformes
+  - Rothschild's mynah
+  - Sturnidés
+  - volière
 settings:
   focal_length: 135
   iso: 100

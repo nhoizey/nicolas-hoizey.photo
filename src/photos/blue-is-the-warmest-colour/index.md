@@ -5,9 +5,31 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: Asia, Asie, bleu, blue, China, Chine, gas, gaz, Hong Kong, Hong Kong City,
-  Hong Kong Island, jaune, rail, road, route, rue, RX100 Mark 3, RX100 Mark III,
-  RX100mk3, Sony, Sony RX100 Mark III, street, Wan Chai, yellow
+tags:
+  - Asia
+  - Asie
+  - bleu
+  - blue
+  - China
+  - Chine
+  - gas
+  - gaz
+  - Hong Kong
+  - Hong Kong City
+  - Hong Kong Island
+  - jaune
+  - rail
+  - road
+  - route
+  - rue
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - Sony
+  - Sony RX100 Mark III
+  - street
+  - Wan Chai
+  - yellow
 settings:
   focal_length: 14.5
   focal_length_35mm: 40

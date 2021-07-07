@@ -5,11 +5,39 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF27mmF2.8
-tags: 27mm, Africa, Afrique, animal, animalière, arbre, elephant, éléphant,
-  Elephantidae, Éléphantidés, Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF 27 mm
-  f/2.8, Kenya, Maasai, Maasai Mara National Reserve, mammal, Mammalia, mammals,
-  mammifère, Mammifères, Masai, Masai Mara, Narok County, pancake, plant,
-  reserve, tree, végétal, X-T2, XF27mmF2.8
+tags:
+  - 27mm
+  - Africa
+  - Afrique
+  - animal
+  - animalière
+  - arbre
+  - elephant
+  - éléphant
+  - Elephantidae
+  - Éléphantidés
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 27 mm f/2.8
+  - Kenya
+  - Maasai
+  - Maasai Mara National Reserve
+  - mammal
+  - Mammalia
+  - mammals
+  - mammifère
+  - Mammifères
+  - Masai
+  - Masai Mara
+  - Narok County
+  - pancake
+  - plant
+  - reserve
+  - tree
+  - végétal
+  - X-T2
+  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

@@ -5,9 +5,25 @@ gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
-tags: 350D, bateau, boat, canal, Canon, Canon EF-S 17-85mm, Canon EF-S 17-85mm
-  f/4-5.6 IS USM, Canon EOS 350D, eau, Europa, Europe, Italia, Italie, Italy,
-  Venezia, Venice, Venise, water
+tags:
+  - 350D
+  - bateau
+  - boat
+  - canal
+  - Canon
+  - Canon EF-S 17-85mm
+  - Canon EF-S 17-85mm f/4-5.6 IS USM
+  - Canon EOS 350D
+  - eau
+  - Europa
+  - Europe
+  - Italia
+  - Italie
+  - Italy
+  - Venezia
+  - Venice
+  - Venise
+  - water
 settings:
   focal_length: 17
   iso: 100

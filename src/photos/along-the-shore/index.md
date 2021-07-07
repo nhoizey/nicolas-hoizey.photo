@@ -5,10 +5,35 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, Benodet, Bretagne, Britany, Canon, Canon
-  EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II, ciel, écume, Europa, Europe,
-  Finistère, France, light, long exposure, lumière, mer, night, nuit, pose
-  longue, rocher, rock, sea, sky, vague
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Benodet
+  - Bretagne
+  - Britany
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - ciel
+  - écume
+  - Europa
+  - Europe
+  - Finistère
+  - France
+  - light
+  - long exposure
+  - lumière
+  - mer
+  - night
+  - nuit
+  - pose longue
+  - rocher
+  - rock
+  - sea
+  - sky
+  - vague
 settings:
   focal_length: 54
   iso: 50

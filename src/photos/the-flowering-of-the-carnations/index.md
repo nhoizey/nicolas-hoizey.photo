@@ -5,9 +5,25 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: 1:87, carnation, Caryophyllaceae, dianthus, figurine, fleur, Fujifilm,
-  Fujifilm X-T2, HO, macro, miniature, œillet, plant, Preiser, red, rouge,
-  végétal, X-T2
+tags:
+  - 1:87
+  - carnation
+  - Caryophyllaceae
+  - dianthus
+  - figurine
+  - fleur
+  - Fujifilm
+  - Fujifilm X-T2
+  - HO
+  - macro
+  - miniature
+  - œillet
+  - plant
+  - Preiser
+  - red
+  - rouge
+  - végétal
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

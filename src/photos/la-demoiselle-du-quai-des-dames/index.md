@@ -5,10 +5,32 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: aile, animal, bleu, blue, damselfly, demoiselle, Draveil, Essonne, Europa,
-  Europe, France, Fujifilm, Fujifilm X-T2, green, Ile de France, insect,
-  insecte, Insectes, insects, Quai des Dames, vert, wing, X-T2, zygoptera,
-  zygoptères
+tags:
+  - aile
+  - animal
+  - bleu
+  - blue
+  - damselfly
+  - demoiselle
+  - Draveil
+  - Essonne
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - green
+  - Ile de France
+  - insect
+  - insecte
+  - Insectes
+  - insects
+  - Quai des Dames
+  - vert
+  - wing
+  - X-T2
+  - zygoptera
+  - zygoptères
 settings:
   focal_length: 56
   focal_length_35mm: 84

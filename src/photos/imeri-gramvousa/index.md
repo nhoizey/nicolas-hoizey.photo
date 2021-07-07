@@ -5,10 +5,36 @@ gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
-tags: 350D, bateau, boat, Canon, Canon EF-S 17-85mm, Canon EF-S 17-85mm f/4-5.6
-  IS USM, Canon EOS 350D, Crete, Crète, eau, épave, Europa, Europe, Grèce,
-  Greece, île, Imeri Gramvousa, island, mer, montagne, mountain, panorama, sea,
-  shipwreck, vacances, water, Ελλάδα, Ήμερη Γραμβούσα, Κρήτη
+tags:
+  - 350D
+  - bateau
+  - boat
+  - Canon
+  - Canon EF-S 17-85mm
+  - Canon EF-S 17-85mm f/4-5.6 IS USM
+  - Canon EOS 350D
+  - Crete
+  - Crète
+  - eau
+  - épave
+  - Europa
+  - Europe
+  - Grèce
+  - Greece
+  - île
+  - Imeri Gramvousa
+  - island
+  - mer
+  - montagne
+  - mountain
+  - panorama
+  - sea
+  - shipwreck
+  - vacances
+  - water
+  - Ελλάδα
+  - Ήμερη Γραμβούσα
+  - Κρήτη
 settings:
   focal_length: 17
   iso: 200

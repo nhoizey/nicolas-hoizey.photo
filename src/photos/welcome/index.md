@@ -5,9 +5,29 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
-tags: 135mm f/2, 5D Mark II, 5D2, 5DII, België, Belgique, Belgium, bienvenue,
-  blur, bokeh, Canon, Canon 135mm, Canon EF 135mm f/2L USM, Canon EOS 5D Mark
-  II, Europa, Europe, flou, mariage, out of focus, panneau, sign, welcome
+tags:
+  - 135mm f/2
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - België
+  - Belgique
+  - Belgium
+  - bienvenue
+  - blur
+  - bokeh
+  - Canon
+  - Canon 135mm
+  - Canon EF 135mm f/2L USM
+  - Canon EOS 5D Mark II
+  - Europa
+  - Europe
+  - flou
+  - mariage
+  - out of focus
+  - panneau
+  - sign
+  - welcome
 settings:
   focal_length: 135
   iso: 100

@@ -5,9 +5,30 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
-tags: 100mm, 5D Mark II, 5D2, 5DII, blanc, blur, Canon, Canon EF 100mm f/2.8
-  Macro USM, Canon EOS 5D Mark II, color, colored pencil, colors, colour,
-  colours, couleur, couleurs, crayon, drop, eau, macro, rainbow, water, white
+tags:
+  - 100mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - blanc
+  - blur
+  - Canon
+  - Canon EF 100mm f/2.8 Macro USM
+  - Canon EOS 5D Mark II
+  - color
+  - colored pencil
+  - colors
+  - colour
+  - colours
+  - couleur
+  - couleurs
+  - crayon
+  - drop
+  - eau
+  - macro
+  - rainbow
+  - water
+  - white
 settings:
   focal_length: 100
   iso: 6400

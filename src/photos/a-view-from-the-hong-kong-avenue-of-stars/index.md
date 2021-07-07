@@ -5,11 +5,42 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, Asia, Asie, Avenue of Stars, Canon, Canon
-  EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II, China, Chine, city, cityscape,
-  color, coloré, colorful, colorful buildings, colour, colourful, couleur, Hong
-  Kong, Hong Kong City, Hong Kong Island, long exposure, night, nightscape,
-  nuit, panorama, panoramic, panoramique, Tsim Sha Tsui, urbain, urban, ville
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Asia
+  - Asie
+  - Avenue of Stars
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - China
+  - Chine
+  - city
+  - cityscape
+  - color
+  - coloré
+  - colorful
+  - colorful buildings
+  - colour
+  - colourful
+  - couleur
+  - Hong Kong
+  - Hong Kong City
+  - Hong Kong Island
+  - long exposure
+  - night
+  - nightscape
+  - nuit
+  - panorama
+  - panoramic
+  - panoramique
+  - Tsim Sha Tsui
+  - urbain
+  - urban
+  - ville
 settings:
   focal_length: 24
   iso: 100

@@ -4,9 +4,30 @@ date: 2008-05-11 10:05:00 +02:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
-tags: 350D, animal, aquarium, bleu, blue, Canon, Canon EOS 350D, dierenpark,
-  eau, Europa, Europe, jellyfish, jellyfishes, macro, Nederland, Ouwehands
-  Dierenpark, Pays-Bas, Rhenen, sea, The Netherlands, Utrecht, water, zoo
+tags:
+  - 350D
+  - animal
+  - aquarium
+  - bleu
+  - blue
+  - Canon
+  - Canon EOS 350D
+  - dierenpark
+  - eau
+  - Europa
+  - Europe
+  - jellyfish
+  - jellyfishes
+  - macro
+  - Nederland
+  - Ouwehands Dierenpark
+  - Pays-Bas
+  - Rhenen
+  - sea
+  - The Netherlands
+  - Utrecht
+  - water
+  - zoo
 settings:
   focal_length: 100
   iso: 1600

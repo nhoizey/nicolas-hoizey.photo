@@ -5,9 +5,26 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: Cathédrale Notre-Dame, Cathédrale Notre-Dame de Paris, ciel, cloud, Eiffel
-  Tower, Europa, Europe, France, Fujifilm, Fujifilm X-T2, Ile de France, Île de
-  la Cité, Notre-Dame, Notre-Dame de Paris, nuage, Paris, sky, Tour Eiffel, X-T2
+tags:
+  - Cathédrale Notre-Dame
+  - Cathédrale Notre-Dame de Paris
+  - ciel
+  - cloud
+  - Eiffel Tower
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - Ile de France
+  - Île de la Cité
+  - Notre-Dame
+  - Notre-Dame de Paris
+  - nuage
+  - Paris
+  - sky
+  - Tour Eiffel
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

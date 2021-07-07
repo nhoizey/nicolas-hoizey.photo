@@ -5,12 +5,36 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, bridge, Canon, Canon EF 24-70mm f/2.8L
-  USM, Canon EOS 5D Mark II, castle, château, eau, Écosse, Eilean Donan Castle,
-  Europa, Europe, Grande-Bretagne, Great Britain, Highland, mer, pont, Royaume
-  Uni, Royaume-Uni, Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,
-  Scotland, sea, UK, United Kingdom, United Kingdom of Great Britain and
-  Northern Ireland, water
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - bridge
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - castle
+  - château
+  - eau
+  - Écosse
+  - Eilean Donan Castle
+  - Europa
+  - Europe
+  - Grande-Bretagne
+  - Great Britain
+  - Highland
+  - mer
+  - pont
+  - Royaume Uni
+  - Royaume-Uni
+  - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+  - Scotland
+  - sea
+  - UK
+  - United Kingdom
+  - United Kingdom of Great Britain and Northern Ireland
+  - water
 settings:
   focal_length: 27
   iso: 200

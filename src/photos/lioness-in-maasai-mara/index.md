@@ -5,12 +5,47 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
-tags: ×2.0, 100-400mm, Africa, Afrique, animal, animalière, converter, Felidae,
-  Félidés, Félins, female, femelle, Fujifilm, Fujifilm X-T3, Fujinon, Fujinon XF
-  100-400mm f/4.5-5.6 R LM OIS WR, Fujinon XF2.0× TC WR, grass, herbe, Kenya,
-  lens, lion, lioness, lionne, Maasai, Maasai Mara National Reserve, mammal,
-  Mammalia, mammals, mammifère, Mammifères, Masai, Masai Mara, Narok County,
-  Panthera leo, reserve, télé-convertisseur, teleconverter, X-T3, x2.0
+tags:
+  - ×2.0
+  - 100-400mm
+  - Africa
+  - Afrique
+  - animal
+  - animalière
+  - converter
+  - Felidae
+  - Félidés
+  - Félins
+  - female
+  - femelle
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Fujinon XF2.0× TC WR
+  - grass
+  - herbe
+  - Kenya
+  - lens
+  - lion
+  - lioness
+  - lionne
+  - Maasai
+  - Maasai Mara National Reserve
+  - mammal
+  - Mammalia
+  - mammals
+  - mammifère
+  - Mammifères
+  - Masai
+  - Masai Mara
+  - Narok County
+  - Panthera leo
+  - reserve
+  - télé-convertisseur
+  - teleconverter
+  - X-T3
+  - x2.0
 settings:
   focal_length: 800
   focal_length_35mm: 1200

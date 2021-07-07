@@ -5,9 +5,20 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF80mmF2.8 R LM OIS WR Macro
-tags: encens, Fujifilm, Fujifilm X-T3, Fujinon, Fujinon XF 80 mm f/2.8 LM OIS WR
-  Macro, fumée, incense, macro, Photo Club de Draveil, smoke, studio, volute,
-  X-T3
+tags:
+  - encens
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
+  - fumée
+  - incense
+  - macro
+  - Photo Club de Draveil
+  - smoke
+  - studio
+  - volute
+  - X-T3
 settings:
   focal_length: 80
   focal_length_35mm: 120

@@ -5,12 +5,48 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, A Symphony of Lights, above, Asia, Asie,
-  au dessus, Avenue of Stars, Canon, Canon EF 24-70mm f/2.8L USM, Canon EOS 5D
-  Mark II, China, Chine, city, color, coloré, colorful, colour, colourful,
-  couleur, from above, high angle, high angle view, HK, Hong Kong, Hong Kong
-  City, laser, light, lights, night, nuit, plongée, sea, show, The Peak, urbain,
-  urban, ville, vue d'en haut
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - A Symphony of Lights
+  - above
+  - Asia
+  - Asie
+  - au dessus
+  - Avenue of Stars
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - China
+  - Chine
+  - city
+  - color
+  - coloré
+  - colorful
+  - colour
+  - colourful
+  - couleur
+  - from above
+  - high angle
+  - high angle view
+  - HK
+  - Hong Kong
+  - Hong Kong City
+  - laser
+  - light
+  - lights
+  - night
+  - nuit
+  - plongée
+  - sea
+  - show
+  - The Peak
+  - urbain
+  - urban
+  - ville
+  - vue d'en haut
 settings:
   focal_length: 24
   iso: 800

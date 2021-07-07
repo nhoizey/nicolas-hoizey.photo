@@ -5,9 +5,29 @@ gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
-tags: 350D, Burano, Canon, Canon EF-S 17-85mm, Canon EF-S 17-85mm f/4-5.6 IS
-  USM, Canon EOS 350D, course à pied, Europa, Europe, fenêtre, footing, green,
-  Italia, Italie, Italy, red, rouge, Venezia, Venice, Venise, vert, window
+tags:
+  - 350D
+  - Burano
+  - Canon
+  - Canon EF-S 17-85mm
+  - Canon EF-S 17-85mm f/4-5.6 IS USM
+  - Canon EOS 350D
+  - course à pied
+  - Europa
+  - Europe
+  - fenêtre
+  - footing
+  - green
+  - Italia
+  - Italie
+  - Italy
+  - red
+  - rouge
+  - Venezia
+  - Venice
+  - Venise
+  - vert
+  - window
 settings:
   focal_length: 85
   iso: 100

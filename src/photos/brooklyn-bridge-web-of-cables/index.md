@@ -5,13 +5,53 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, America, Amérique du Nord, architecture,
-  Brooklyn, Brooklyn Bridge, cable, Canon, Canon EF 24-70mm f/2.8L USM, Canon
-  EOS 5D Mark II, city, cityscape, coucher de soleil, downtown, East River,
-  États-Unis, États-Unis d'Amérique, evening, financial district, flag, Lower
-  Manhattan, Manhattan, New-York, New-York City, North America, NYC, sky,
-  skyline, skyscrapers, soir, soleil, sunset, tourism, tourisme, travel, United
-  States, United States of America, urbain, urban, USA, ville, voyage, web
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - America
+  - Amérique du Nord
+  - architecture
+  - Brooklyn
+  - Brooklyn Bridge
+  - cable
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - city
+  - cityscape
+  - coucher de soleil
+  - downtown
+  - East River
+  - États-Unis
+  - États-Unis d'Amérique
+  - evening
+  - financial district
+  - flag
+  - Lower Manhattan
+  - Manhattan
+  - New-York
+  - New-York City
+  - North America
+  - NYC
+  - sky
+  - skyline
+  - skyscrapers
+  - soir
+  - soleil
+  - sunset
+  - tourism
+  - tourisme
+  - travel
+  - United States
+  - United States of America
+  - urbain
+  - urban
+  - USA
+  - ville
+  - voyage
+  - web
 settings:
   focal_length: 50
   iso: 100

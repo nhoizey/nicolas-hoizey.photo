@@ -5,11 +5,42 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, architecture, Avenue Pierre Mendès-France, bleu, blue, bottom
-  view, building, ciel, cloud, contre-plongée, Europa, Europe, façade, fenêtre,
-  France, Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF 10-24mm f/4.0 R OIS,
-  grey, gris, Ile de France, immeuble, metal, métal, métalique, minimaliste,
-  moderne, motif, nuage, Paris, sky, tube, window, X-T2
+tags:
+  - 10-24mm
+  - architecture
+  - Avenue Pierre Mendès-France
+  - bleu
+  - blue
+  - bottom view
+  - building
+  - ciel
+  - cloud
+  - contre-plongée
+  - Europa
+  - Europe
+  - façade
+  - fenêtre
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - grey
+  - gris
+  - Ile de France
+  - immeuble
+  - metal
+  - métal
+  - métalique
+  - minimaliste
+  - moderne
+  - motif
+  - nuage
+  - Paris
+  - sky
+  - tube
+  - window
+  - X-T2
 settings:
   focal_length: 10
   focal_length_35mm: 15

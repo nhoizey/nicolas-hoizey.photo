@@ -5,10 +5,34 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, Bretagne, Britany, Canon, Canon EF 24-70mm
-  f/2.8L USM, Canon EOS 5D Mark II, cloud, Côtes d'Armor, eau, Europa, Europe,
-  France, lighthouse, mer, nuage, phare, Ploumanac'h, rive, rocher, rock, sea,
-  shore, vague, water
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Bretagne
+  - Britany
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - cloud
+  - Côtes d'Armor
+  - eau
+  - Europa
+  - Europe
+  - France
+  - lighthouse
+  - mer
+  - nuage
+  - phare
+  - Ploumanac'h
+  - rive
+  - rocher
+  - rock
+  - sea
+  - shore
+  - vague
+  - water
 settings:
   focal_length: 24
   iso: 200

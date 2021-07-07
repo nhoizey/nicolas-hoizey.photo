@@ -5,12 +5,48 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
-tags: 135mm f/2, 5D Mark II, 5D2, 5DII, America, Amérique du Nord, architecture,
-  Canon, Canon 135mm, Canon EF 135mm f/2L USM, Canon EOS 5D Mark II, city,
-  escalier, États-Unis, États-Unis d'Amérique, façade, green, jaune, lamp post,
-  lampadaire, Little Italy, Manhattan, New-York, New-York City, North America,
-  NYC, red, réverbère, rouge, stair, staircase, stairway, street light, United
-  States, United States of America, urbain, urban, USA, vert, ville, yellow
+tags:
+  - 135mm f/2
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - America
+  - Amérique du Nord
+  - architecture
+  - Canon
+  - Canon 135mm
+  - Canon EF 135mm f/2L USM
+  - Canon EOS 5D Mark II
+  - city
+  - escalier
+  - États-Unis
+  - États-Unis d'Amérique
+  - façade
+  - green
+  - jaune
+  - lamp post
+  - lampadaire
+  - Little Italy
+  - Manhattan
+  - New-York
+  - New-York City
+  - North America
+  - NYC
+  - red
+  - réverbère
+  - rouge
+  - stair
+  - staircase
+  - stairway
+  - street light
+  - United States
+  - United States of America
+  - urbain
+  - urban
+  - USA
+  - vert
+  - ville
+  - yellow
 settings:
   focal_length: 189
   iso: 100

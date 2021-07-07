@@ -5,14 +5,51 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
-tags: 100-400mm, Africa, Afrique, animal, animal sauvage, animalière, animaux
-  sauvages, Arachnid, Arachnida, Arachnides, araignée, araignées, Araneae,
-  Araneidae, Aranéides, Araneomorphae, Aranéomorphes, Arthropoda, Arthropodes,
-  Chelicerata, Chélicérates, Chélicérés, Diani Beach, Fujifilm, Fujifilm X-T3,
-  Fujinon, Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR, Kenya, Kwale County,
-  Labidognatha, Labidognathes, Néphile dorée, red-legged golden orb-weaver
-  spider, red-legged nephila, sauvage, spider, spiders, The Baobab Hotel, toile,
-  Trichonephila inaurata, web, wild animal, wild animals, X-T3
+tags:
+  - 100-400mm
+  - Africa
+  - Afrique
+  - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
+  - Arachnid
+  - Arachnida
+  - Arachnides
+  - araignée
+  - araignées
+  - Araneae
+  - Araneidae
+  - Aranéides
+  - Araneomorphae
+  - Aranéomorphes
+  - Arthropoda
+  - Arthropodes
+  - Chelicerata
+  - Chélicérates
+  - Chélicérés
+  - Diani Beach
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Kenya
+  - Kwale County
+  - Labidognatha
+  - Labidognathes
+  - Néphile dorée
+  - red-legged golden orb-weaver spider
+  - red-legged nephila
+  - sauvage
+  - spider
+  - spiders
+  - The Baobab Hotel
+  - toile
+  - Trichonephila inaurata
+  - web
+  - wild animal
+  - wild animals
+  - X-T3
 settings:
   focal_length: 400
   focal_length_35mm: 600

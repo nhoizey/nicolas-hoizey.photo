@@ -5,9 +5,30 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
-tags: 10-24mm, ancien, bar, chair, chaise, Europa, Europe, France, Fujifilm,
-  Fujifilm X-T2, Fujinon, Fujinon XF 10-24mm f/4.0 R OIS, HDR, Ile de France,
-  lampe, light, lumière, old, Paris, Place de Clichy, table, vintage, X-T2
+tags:
+  - 10-24mm
+  - ancien
+  - bar
+  - chair
+  - chaise
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - HDR
+  - Ile de France
+  - lampe
+  - light
+  - lumière
+  - old
+  - Paris
+  - Place de Clichy
+  - table
+  - vintage
+  - X-T2
 settings:
   focal_length: 18.2
   focal_length_35mm: 27

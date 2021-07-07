@@ -5,10 +5,39 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
-tags: bust, buste, color, coloré, colorful, colors, colour, colourful, colours,
-  couleur, couleurs, épaule, fashion, femme, Fujifilm, Fujifilm X-T2, mackeup,
-  make up, maquillage, mode, model, modèle, peau, pink, portrait, rose,
-  shoulder, skin, studio, torso, woman, X-T2
+tags:
+  - bust
+  - buste
+  - color
+  - coloré
+  - colorful
+  - colors
+  - colour
+  - colourful
+  - colours
+  - couleur
+  - couleurs
+  - épaule
+  - fashion
+  - femme
+  - Fujifilm
+  - Fujifilm X-T2
+  - mackeup
+  - make up
+  - maquillage
+  - mode
+  - model
+  - modèle
+  - peau
+  - pink
+  - portrait
+  - rose
+  - shoulder
+  - skin
+  - studio
+  - torso
+  - woman
+  - X-T2
 settings:
   focal_length: 56
   focal_length_35mm: 84

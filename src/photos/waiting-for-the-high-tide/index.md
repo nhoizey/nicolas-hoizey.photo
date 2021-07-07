@@ -5,10 +5,31 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, bateau, bleu, blue, boat, Bretagne,
-  Britany, Canon, Canon EF 24-70mm f/2.8L USM, Canon EOS 5D Mark II, ciel, Côtes
-  d'Armor, Europa, Europe, France, long exposure, marée, mer, Ploumanac'h, sea,
-  sky
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - bateau
+  - bleu
+  - blue
+  - boat
+  - Bretagne
+  - Britany
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - ciel
+  - Côtes d'Armor
+  - Europa
+  - Europe
+  - France
+  - long exposure
+  - marée
+  - mer
+  - Ploumanac'h
+  - sea
+  - sky
 settings:
   focal_length: 24
   iso: 200

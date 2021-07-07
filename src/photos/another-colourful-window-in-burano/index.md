@@ -4,9 +4,29 @@ date: 2008-04-26 16:04:00 +02:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
-tags: 350D, bleu, blue, Burano, Canon, Canon EOS 350D, city, Europa, Europe,
-  Italia, Italie, Italy, jaune, red, rouge, urbain, urban, Venezia, Venice,
-  Venise, ville, yellow
+tags:
+  - 350D
+  - bleu
+  - blue
+  - Burano
+  - Canon
+  - Canon EOS 350D
+  - city
+  - Europa
+  - Europe
+  - Italia
+  - Italie
+  - Italy
+  - jaune
+  - red
+  - rouge
+  - urbain
+  - urban
+  - Venezia
+  - Venice
+  - Venise
+  - ville
+  - yellow
 settings:
   focal_length: 59
   iso: 100

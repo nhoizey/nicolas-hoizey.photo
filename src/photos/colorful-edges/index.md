@@ -2,9 +2,28 @@
 title: Colorful edges
 date: 2015-01-21 00:01:00 +02:00
 gear: {}
-tags: 5D Mark II, 5D2, 5DII, Canon, Canon EOS 5D Mark II, color, colors, colour,
-  colours, couleur, couleurs, edge, glass, glasses, light, lights, nature morte,
-  still life, still-life, studio, transparency
+tags:
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Canon
+  - Canon EOS 5D Mark II
+  - color
+  - colors
+  - colour
+  - colours
+  - couleur
+  - couleurs
+  - edge
+  - glass
+  - glasses
+  - light
+  - lights
+  - nature morte
+  - still life
+  - still-life
+  - studio
+  - transparency
 dimensions:
   width: 3420
   height: 2826

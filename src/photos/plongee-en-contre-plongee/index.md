@@ -4,8 +4,26 @@ date: 2004-05-17 18:52:04 +02:00
 gear:
   make: Fujifilm
   model: SLP1000SE
-tags: Africa, Afrique, bateau, bleu, blue, boat, dive, diving, eau, Egypt,
-  Égypte, mer, Mer Rouge, palme, plongée, Red Sea, sea, sport, water
+tags:
+  - Africa
+  - Afrique
+  - bateau
+  - bleu
+  - blue
+  - boat
+  - dive
+  - diving
+  - eau
+  - Egypt
+  - Égypte
+  - mer
+  - Mer Rouge
+  - palme
+  - plongée
+  - Red Sea
+  - sea
+  - sport
+  - water
 dimensions:
   width: 1232
   height: 1840

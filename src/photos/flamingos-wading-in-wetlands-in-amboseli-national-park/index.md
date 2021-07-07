@@ -5,13 +5,45 @@ gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
-tags: ×2.0, 100-400mm, Africa, Afrique, Amboseli, Amboseli National Park,
-  animal, animalière, bird, birds, converter, eau, Flamant rose, Fujifilm,
-  Fujifilm X-T3, Fujinon, Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR, Fujinon
-  XF2.0× TC WR, Greater Flamingo, Kajiado, Kenya, lac, lake, landscape, lens,
-  National Park, oiseau, Oiseaux, Parc national d'Amboseli, paysage,
-  Phoenicoptéridés, Phoenicoptériformes, Phoenicopterus roseus,
-  télé-convertisseur, teleconverter, water, X-T3, x2.0
+tags:
+  - ×2.0
+  - 100-400mm
+  - Africa
+  - Afrique
+  - Amboseli
+  - Amboseli National Park
+  - animal
+  - animalière
+  - bird
+  - birds
+  - converter
+  - eau
+  - Flamant rose
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - Fujinon XF2.0× TC WR
+  - Greater Flamingo
+  - Kajiado
+  - Kenya
+  - lac
+  - lake
+  - landscape
+  - lens
+  - National Park
+  - oiseau
+  - Oiseaux
+  - Parc national d'Amboseli
+  - paysage
+  - Phoenicoptéridés
+  - Phoenicoptériformes
+  - Phoenicopterus roseus
+  - télé-convertisseur
+  - teleconverter
+  - water
+  - X-T3
+  - x2.0
 settings:
   focal_length: 200
   focal_length_35mm: 300

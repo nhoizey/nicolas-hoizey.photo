@@ -5,10 +5,35 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
-tags: 135mm f/2, 5D Mark II, 5D2, 5DII, bokeh, boy, Canon, Canon 135mm, Canon EF
-  135mm f/2L USM, Canon EOS 5D Mark II, Den Haag, Europa, Europe, flou, girl, La
-  Haye, madurodam, Madurodam, man, miniature, Nederland, netherlands, Pays-Bas,
-  scooter, The Hague, The Netherlands, woman, Zuid-Holland
+tags:
+  - 135mm f/2
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - bokeh
+  - boy
+  - Canon
+  - Canon 135mm
+  - Canon EF 135mm f/2L USM
+  - Canon EOS 5D Mark II
+  - Den Haag
+  - Europa
+  - Europe
+  - flou
+  - girl
+  - La Haye
+  - madurodam
+  - Madurodam
+  - man
+  - miniature
+  - Nederland
+  - netherlands
+  - Pays-Bas
+  - scooter
+  - The Hague
+  - The Netherlands
+  - woman
+  - Zuid-Holland
 settings:
   focal_length: 135
   iso: 100

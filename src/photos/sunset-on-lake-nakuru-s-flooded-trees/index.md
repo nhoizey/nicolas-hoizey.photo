@@ -5,12 +5,46 @@ gear:
   make: FUJIFILM
   model: X-T2
   lens: XF27mmF2.8
-tags: 27mm, Africa, Afrique, arbre, cloud, coucher de soleil, eau, evening,
-  Fujifilm, Fujifilm X-T2, Fujinon, Fujinon XF 27 mm f/2.8, Kenya, lac, Lac
-  Nakuru, lake, Lake Nakuru, Lake Nakuru National Park, landscape, Nakuru,
-  Nakuru County, nuage, orange, pancake, Parc national du lac Nakuru, paysage,
-  plant, purple, silhouette, soir, soleil, sun, sunset, tree, végétal, violet,
-  water, X-T2, XF27mmF2.8
+tags:
+  - 27mm
+  - Africa
+  - Afrique
+  - arbre
+  - cloud
+  - coucher de soleil
+  - eau
+  - evening
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 27 mm f/2.8
+  - Kenya
+  - lac
+  - Lac Nakuru
+  - lake
+  - Lake Nakuru
+  - Lake Nakuru National Park
+  - landscape
+  - Nakuru
+  - Nakuru County
+  - nuage
+  - orange
+  - pancake
+  - Parc national du lac Nakuru
+  - paysage
+  - plant
+  - purple
+  - silhouette
+  - soir
+  - soleil
+  - sun
+  - sunset
+  - tree
+  - végétal
+  - violet
+  - water
+  - X-T2
+  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

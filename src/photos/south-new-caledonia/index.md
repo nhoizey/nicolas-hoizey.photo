@@ -5,9 +5,29 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, arbre, beach, Canon, Canon EF 24-70mm
-  f/2.8L USM, Canon EOS 5D Mark II, landscape, mer, Nouvelle Calédonie, Oceania,
-  Océanie, paysage, plage, plant, sable, sand, sea, tree, végétal
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - arbre
+  - beach
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - landscape
+  - mer
+  - Nouvelle Calédonie
+  - Oceania
+  - Océanie
+  - paysage
+  - plage
+  - plant
+  - sable
+  - sand
+  - sea
+  - tree
+  - végétal
 settings:
   focal_length: 30
   iso: 100

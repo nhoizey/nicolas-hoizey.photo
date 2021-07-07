@@ -5,10 +5,33 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, Bretagne, Britany, Canon, Canon EF 24-70mm
-  f/2.8L USM, Canon EOS 5D Mark II, ciel, cloud, eau, Europa, Europe, Finistère,
-  France, Le Guilvinec, long exposure, mer, night, nuage, nuit, pose longue,
-  sea, sky, water
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Bretagne
+  - Britany
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - ciel
+  - cloud
+  - eau
+  - Europa
+  - Europe
+  - Finistère
+  - France
+  - Le Guilvinec
+  - long exposure
+  - mer
+  - night
+  - nuage
+  - nuit
+  - pose longue
+  - sea
+  - sky
+  - water
 settings:
   focal_length: 24
   iso: 400

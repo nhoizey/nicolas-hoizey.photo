@@ -4,8 +4,17 @@ date: 2008-10-12 14:10:00 +02:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
-tags: 350D, animal, animal sauvage, animalière, animaux sauvages, Canon, Canon
-  EOS 350D, sauvage, wild animal, wild animals
+tags:
+  - 350D
+  - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
+  - Canon
+  - Canon EOS 350D
+  - sauvage
+  - wild animal
+  - wild animals
 settings:
   focal_length: 100
   iso: 400

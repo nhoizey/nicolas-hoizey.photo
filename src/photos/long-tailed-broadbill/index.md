@@ -5,12 +5,43 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
-tags: 135mm f/2, 5D Mark II, 5D2, 5DII, animal, animal captif, animalière,
-  animaux captifs, Asia, Asie, aviary, bird, birds, Canon, Canon 135mm, Canon EF
-  135mm f/2L USM, Canon EOS 5D Mark II, captif, captivité, captivity, China,
-  Chine, Edward Youde Aviary, Eurylaime psittacin, Eurylaimidae, Eurylaimidés,
-  Hong Kong, Hong Kong City, Hong Kong Island, Hong Kong Park, Long-tailed
-  Broadbill, oiseau, Oiseaux, Passériformes, Psarisomus dalhousiae, volière
+tags:
+  - 135mm f/2
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - animal
+  - animal captif
+  - animalière
+  - animaux captifs
+  - Asia
+  - Asie
+  - aviary
+  - bird
+  - birds
+  - Canon
+  - Canon 135mm
+  - Canon EF 135mm f/2L USM
+  - Canon EOS 5D Mark II
+  - captif
+  - captivité
+  - captivity
+  - China
+  - Chine
+  - Edward Youde Aviary
+  - Eurylaime psittacin
+  - Eurylaimidae
+  - Eurylaimidés
+  - Hong Kong
+  - Hong Kong City
+  - Hong Kong Island
+  - Hong Kong Park
+  - Long-tailed Broadbill
+  - oiseau
+  - Oiseaux
+  - Passériformes
+  - Psarisomus dalhousiae
+  - volière
 settings:
   focal_length: 135
   iso: 320

@@ -5,12 +5,43 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: America, Amérique du Nord, baiser, bâtiment, bleu, blue, Chelsea, coloré,
-  colorful, colourful, couple, États-Unis, États-Unis d'Amérique, green, kiss,
-  Manhattan, New-York, New-York City, North America, NYC, orange, peinture,
-  pink, purple, rose, RX100 Mark 3, RX100 Mark III, RX100mk3, Sony, Sony RX100
-  Mark III, street art, United States, United States of America, USA, vert,
-  violet
+tags:
+  - America
+  - Amérique du Nord
+  - baiser
+  - bâtiment
+  - bleu
+  - blue
+  - Chelsea
+  - coloré
+  - colorful
+  - colourful
+  - couple
+  - États-Unis
+  - États-Unis d'Amérique
+  - green
+  - kiss
+  - Manhattan
+  - New-York
+  - New-York City
+  - North America
+  - NYC
+  - orange
+  - peinture
+  - pink
+  - purple
+  - rose
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - Sony
+  - Sony RX100 Mark III
+  - street art
+  - United States
+  - United States of America
+  - USA
+  - vert
+  - violet
 settings:
   focal_length: 11.69
   focal_length_35mm: 32

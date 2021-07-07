@@ -5,10 +5,31 @@ gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
-tags: America, Amérique du Nord, blanc, Brooklyn, Challenger, Dodge, États-Unis,
-  États-Unis d'Amérique, New-York, New-York City, North America, NYC, red,
-  rouge, RX100 Mark 3, RX100 Mark III, RX100mk3, Sony, Sony RX100 Mark III,
-  United States, United States of America, USA, voiture, white
+tags:
+  - America
+  - Amérique du Nord
+  - blanc
+  - Brooklyn
+  - Challenger
+  - Dodge
+  - États-Unis
+  - États-Unis d'Amérique
+  - New-York
+  - New-York City
+  - North America
+  - NYC
+  - red
+  - rouge
+  - RX100 Mark 3
+  - RX100 Mark III
+  - RX100mk3
+  - Sony
+  - Sony RX100 Mark III
+  - United States
+  - United States of America
+  - USA
+  - voiture
+  - white
 settings:
   focal_length: 8.8
   focal_length_35mm: 24

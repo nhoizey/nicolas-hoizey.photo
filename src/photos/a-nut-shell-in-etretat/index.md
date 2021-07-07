@@ -5,11 +5,39 @@ gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
-tags: 24-70mm, 5D Mark II, 5D2, 5DII, bateau, bleu, blue, boat, Canon, Canon EF
-  24-70mm f/2.8L USM, Canon EOS 5D Mark II, cliff, Côte d’Albâtre, eau, Étretat,
-  Europa, Europe, falaise, France, La Manneporte, landscape, mer, Normandie,
-  Normandy, paysage, pink, Pisseuses de Valaine, Pointe de la Courtine, rose,
-  sea, Seine-Maritime, water
+tags:
+  - 24-70mm
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - bateau
+  - bleu
+  - blue
+  - boat
+  - Canon
+  - Canon EF 24-70mm f/2.8L USM
+  - Canon EOS 5D Mark II
+  - cliff
+  - Côte d’Albâtre
+  - eau
+  - Étretat
+  - Europa
+  - Europe
+  - falaise
+  - France
+  - La Manneporte
+  - landscape
+  - mer
+  - Normandie
+  - Normandy
+  - paysage
+  - pink
+  - Pisseuses de Valaine
+  - Pointe de la Courtine
+  - rose
+  - sea
+  - Seine-Maritime
+  - water
 settings:
   focal_length: 34
   iso: 100
