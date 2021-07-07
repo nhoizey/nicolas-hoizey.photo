@@ -3,7 +3,7 @@ layout: page
 ---
 
 {% set photoPath = 'src' + page.filePathStem | replace('index', '') + photo %}
-{{ exif | dump }}
+
 {% from "macros/css.njk" import css %}
 {{ css('components/photo', build.env) }}
 <link href='https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css' rel='stylesheet' />
