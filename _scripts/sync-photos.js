@@ -107,9 +107,9 @@ fs.readdirSync(SRC).forEach(async (photo) => {
     }
 
     if (photoExif.Keywords) {
-      photoYFM.tags = photoExif.Keywords.map((keyword) => utf8.decode(keyword))
-        .sort((a, b) => a.localeCompare(b, 'en'))
-        .join(', ');
+      photoYFM.tags = photoExif.Keywords.map((keyword) =>
+        utf8.decode(keyword)
+      ).sort((a, b) => a.localeCompare(b, 'en'));
     }
 
     if (
