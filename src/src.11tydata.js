@@ -24,9 +24,15 @@ module.exports = {
       let matches = data.page.inputPath.match(folderRegex);
 
       if (matches) {
-        folder = matches[1];
-        if (fs.existsSync(`${config.dir.src}/_layouts/${folder}.njk`)) {
-          layout = folder;
+        if (!data.page.filePathStem.endsWith('/index')) {
+          // This content is a photo
+          layout = 'photo';
+        } else {
+          // This is a folder, use the layout of the collection if it exists
+          folder = matches[1];
+          if (fs.existsSync(`${config.dir.src}/_layouts/${folder}.njk`)) {
+            layout = folder;
+          }
         }
       }
       return layout;
