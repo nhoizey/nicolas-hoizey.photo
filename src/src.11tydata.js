@@ -1,9 +1,24 @@
 const fs = require('fs');
 const config = require('../pack11ty.config.js');
+const getPhotoData = require('./_11ty/_utils/photo-data');
+
+const isPhoto = (data) =>
+  data.page.filePathStem.match(/\/(travels|wanderings|portraits)\/[^\/]+/) &&
+  !data.page.filePathStem.endsWith('/index');
 
 module.exports = {
   lang: config.defaultLang || 'en',
   eleventyComputed: {
+    title: (data) => {
+      if (data.title !== undefined && data.title !== '') {
+        // A title has been set in the content Front Matter
+        return data.title;
+      }
+      if (isPhoto(data)) {
+        photoData = getPhotoData(data);
+        return photoData.data.title;
+      }
+    },
     layout: (data) => {
       if (data.layout !== undefined && data.layout !== '') {
         // A layout has been set in the content Front Matter
@@ -24,7 +39,7 @@ module.exports = {
       let matches = data.page.inputPath.match(folderRegex);
 
       if (matches) {
-        if (!data.page.filePathStem.endsWith('/index')) {
+        if (isPhoto(data)) {
           // This content is a photo
           layout = 'photo';
         } else {
