@@ -1,6 +1,6 @@
 ---
 title: Nature
 nav:
-  order: 3
+  order: 1
   icon: nature
 ---

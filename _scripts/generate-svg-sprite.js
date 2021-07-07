@@ -21,6 +21,7 @@ const ICONS_LIST = {
   },
   majesticons: {
     article: { name: 'blog' },
+    'bug-2': { name: 'animal' },
     calendar: { name: 'date' },
     camera: {},
     community: { name: 'urban' },
@@ -28,7 +29,7 @@ const ICONS_LIST = {
     folder: {},
     heart: { name: 'like' },
     home: {},
-    incognito: { name: 'people' },
+    incognito: { name: 'portrait' },
     'info-circle': { name: 'info' },
     mail: { name: 'contact' },
     'map-simple-marker': { name: 'location' },
@@ -42,8 +43,6 @@ const ICONS_LIST = {
   },
   local: {
     iso: {},
-    // older: { title: 'Older' },
-    // newer: { title: 'Newer' },
   },
 };
 

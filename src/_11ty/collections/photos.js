@@ -8,7 +8,9 @@ module.exports = {
   galleries: (collection) =>
     collection
       .getAll()
-      .filter((item) => item.url.match(/^\/(locations|people|nature)\//))
+      .filter((item) =>
+        item.url.match(/^\/(locations|nature|urban|portraits|animals)\//)
+      )
       .sort((a, b) => {
         return a.data.title.localeCompare(b.data.title, 'en', {
           ignorePunctuation: true,

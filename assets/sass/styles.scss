@@ -301,8 +301,8 @@ figure {
   background-repeat: no-repeat;
 }
 
-$iconNames: aperture, download, feeds, twitter, blog, date, camera, urban,
-  nature, folder, like, home, info, contact, location, people, tag,
+$iconNames: animal, aperture, download, feeds, twitter, blog, date, camera,
+  urban, nature, folder, like, home, info, contact, location, portrait, tag,
   shutter_speed, flickr, unsplash, iso, focal-length;
 
 @each $icon in $iconNames {
