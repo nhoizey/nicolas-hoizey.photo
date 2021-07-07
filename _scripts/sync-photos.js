@@ -33,6 +33,7 @@ let exifrOptions = {
   gps: {
     pick: ['latitude', 'longitude'],
   },
+  iptc: true,
 };
 
 fs.readdirSync(SRC).forEach(async (photo) => {
@@ -43,23 +44,16 @@ fs.readdirSync(SRC).forEach(async (photo) => {
   }
   const photoYFM = {};
   const photoExif = await exifr.parse(photoPath, exifrOptions);
-  const photoIptc = await exifr.parse(photoPath, {
-    ifd0: false,
-    ifd1: false,
-    exif: false,
-    gps: false,
-    iptc: true,
-  });
 
   if (undefined === photoExif) {
     console.error(`⚠ error reading EXIF data for ${photo}`);
   } else {
-    if (undefined === photoIptc.ObjectName) {
+    if (undefined === photoExif.ObjectName) {
       console.error(`⚠ "iptc.ObjectName" missing in ${photo}`);
       photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, '$1');
     } else {
       // Get title
-      photoYFM.title = utf8.decode(photoIptc.ObjectName);
+      photoYFM.title = utf8.decode(photoExif.ObjectName);
     }
 
     // Get description
@@ -78,11 +72,11 @@ fs.readdirSync(SRC).forEach(async (photo) => {
         .format('YYYY-MM-DD HH:MM:SS Z');
     } else {
       console.error(`⚠ exif.DateTimeOriginal missing in ${photo}`);
-      if (photoIptc.DigitalCreationDate && photoIptc.DigitalCreationTime) {
-        photoYFM.date = `${photoIptc.DigitalCreationDate.replace(
+      if (photoExif.DigitalCreationDate && photoExif.DigitalCreationTime) {
+        photoYFM.date = `${photoExif.DigitalCreationDate.replace(
           /([0-9]{4})([0-9]{2})([0-9]{2})/,
           '$1-$2-$3'
-        )} ${photoIptc.DigitalCreationTime.replace(
+        )} ${photoExif.DigitalCreationTime.replace(
           /([0-9]{2})([0-9]{2})([0-9]{2})([-+][0-9]{2})([0-9]{2})/,
           '$1:$2:$3 $4:$5'
         )}`;
@@ -112,8 +106,8 @@ fs.readdirSync(SRC).forEach(async (photo) => {
       photoYFM.gear.lens = photoExif.LensModel;
     }
 
-    if (photoIptc.Keywords) {
-      photoYFM.tags = photoIptc.Keywords.map((keyword) => utf8.decode(keyword))
+    if (photoExif.Keywords) {
+      photoYFM.tags = photoExif.Keywords.map((keyword) => utf8.decode(keyword))
         .sort((a, b) => a.localeCompare(b, 'en'))
         .join(', ');
     }
@@ -160,11 +154,11 @@ fs.readdirSync(SRC).forEach(async (photo) => {
     if (photoExif.longitude) {
       photoYFM.geo.longitude = photoExif.longitude;
     }
-    if (photoIptc.Country) {
-      photoYFM.geo.country = utf8.decode(photoIptc.Country);
+    if (photoExif.Country) {
+      photoYFM.geo.country = utf8.decode(photoExif.Country);
     }
-    if (photoIptc.City) {
-      photoYFM.geo.city = utf8.decode(photoIptc.City);
+    if (photoExif.City) {
+      photoYFM.geo.city = utf8.decode(photoExif.City);
     }
 
     // Manage folder and file
