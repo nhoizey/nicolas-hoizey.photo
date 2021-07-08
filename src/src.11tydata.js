@@ -44,7 +44,7 @@ module.exports = {
       let layout = 'page';
 
       // Photos have their own layout
-      if (data.page.url.match(/^\/photos\/[^/]+\//)) {
+      if (data.page.url.match(/^\/photos\/[^/]+\//) || isPhoto(data)) {
         return 'photo';
       }
 
@@ -54,15 +54,10 @@ module.exports = {
       let matches = data.page.inputPath.match(folderRegex);
 
       if (matches) {
-        if (isPhoto(data)) {
-          // This content is a photo
-          layout = 'photo';
-        } else {
-          // This is a folder, use the layout of the collection if it exists
-          folder = matches[1];
-          if (fs.existsSync(`${config.dir.src}/_layouts/${folder}.njk`)) {
-            layout = folder;
-          }
+        // This is a folder, use the layout of the collection if it exists
+        folder = matches[1];
+        if (fs.existsSync(`${config.dir.src}/_layouts/${folder}.njk`)) {
+          layout = folder;
         }
       }
       return layout;
