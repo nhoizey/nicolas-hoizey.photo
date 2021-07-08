@@ -1,9 +1,25 @@
 {% from "macros/meta.njk" import meta %}
 
 {% macro photo(item) %}
+
+  {% if item.data.origin %}
+    {% set dimensions = item.data.origin.data.dimensions %}
+  {% else %}
+    {% set dimensions = item.data.dimensions %}
+  {% endif %}
+
   <li>
     <figure>
-      <img src="/photos/{{ item.data.page.fileSlug }}/{{ item.data.page.fileSlug }}.jpg" alt="{{ item.data.title }}" />
+      <img
+        src="/photos/{{ item.data.page.fileSlug }}/{{ item.data.page.fileSlug }}.jpg"
+        alt="{{ item.data.title }}"
+        {% if dimensions.width %}
+          width="{{ dimensions.width }}"
+        {% endif %}
+        {% if dimensions.height %}
+          height="{{ dimensions.height }}"
+        {% endif %}
+      />
       <figcaption>
         <a href="{{ item.url }}">{{ item.data.title }}</a>
         {{ meta(item) }}
