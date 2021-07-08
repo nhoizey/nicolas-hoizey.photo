@@ -3,6 +3,7 @@ const imageSize = require('image-size');
 const markdownIt = require('markdown-it');
 const md = new markdownIt();
 const config = require('../../pack11ty.config.js');
+const path = require('path');
 
 const runBeforeHook = (image, document) => {
   let documentBody = document.querySelector('body');
@@ -15,7 +16,6 @@ const runBeforeHook = (image, document) => {
     .replace(distRegex, '');
 
   let imageSrc = image.getAttribute('src');
-
   let imageUrl = '';
 
   if (imageSrc.match(/^(https?:)?\/\//)) {
@@ -26,10 +26,10 @@ const runBeforeHook = (image, document) => {
     if (!image.getAttribute('width') || !image.getAttribute('height')) {
       let imageDimensions;
       if (imageSrc[0] === '/') {
-        imageDimensions = imageSize(config.dir.src + imageSrc);
+        imageDimensions = imageSize(path.join(config.dir.src + imageSrc));
       } else {
         // This is a relative URL
-        imageDimensions = imageSize(srcPath + imageSrc);
+        imageDimensions = imageSize(path.join(srcPath + imageSrc));
       }
       image.setAttribute('width', imageDimensions.width);
       image.setAttribute('height', imageDimensions.height);
