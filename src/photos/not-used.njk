@@ -1,0 +1,14 @@
+---
+layout: page
+title: Photos that are not yet used
+---
+
+{% from "macros/photo.njk" import photo %}
+
+<h1>{{ title }}</h1>
+
+<ul class="gallery">
+  {% for item in collections.photos_not_in_galleries %}
+    {{ photo(item) }}
+  {% endfor %}
+</ul>
