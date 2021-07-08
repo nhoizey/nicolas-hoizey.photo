@@ -37,7 +37,7 @@ layout: page
 
 {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
 {% if photos_here | length %}
-  <h2>Latest photos in this gallery</h2>
+  <h2>Latest photos</h2>
   <ul class="gallery">
     {% for item in photos_here %}
       {{ photo(item) }}
