@@ -25,7 +25,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
     new mapboxgl.Marker({
       element: markerShadow,
       draggable: false,
-      offset: [0, 0],
+      offset: [0, -4],
     })
       .setLngLat([mapLongitude, mapLatitude])
       .addTo(map);
