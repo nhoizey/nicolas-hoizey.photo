@@ -2,7 +2,14 @@
 layout: page
 ---
 
-{% set photoPath = 'src' + page.filePathStem | replace('index', '') + photo %}
+{% if origin %}
+  {% set dimensions = origin.data.dimensions %}
+  {% set gear = origin.data.gear %}
+  {% set settings = origin.data.settings %}
+  {% set geo = origin.data.geo %}
+  {% set content = content or origin.content %}
+  {% set tags = origin.data.tags %}
+{% endif %}
 
 {% from "macros/css.njk" import css %}
 {{ css('components/photo', build.env) }}
@@ -15,7 +22,7 @@ layout: page
     <h1>{{ title }}</h1>
   </header>
 
-  <img src="{{ file }}" class="image" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
+  <img src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg" class="image" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
 
   <div class="description">
     {{ content | safe }}
