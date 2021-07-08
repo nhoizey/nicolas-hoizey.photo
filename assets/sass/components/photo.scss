@@ -229,15 +229,11 @@
 
 @keyframes marker-shadow-pulse {
   from {
-    width: 2px;
-    height: 2px;
     box-shadow: 0 0 0 0 $color-theme;
     opacity: 0.5;
   }
 
   to {
-    width: 2px;
-    height: 2px;
     box-shadow: 0 0 0 24px $color-theme;
     opacity: 0;
   }
