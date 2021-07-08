@@ -61,12 +61,14 @@ layout: page
   {% if tags %}<p class="tags icon icon--tag">{{ tags | join(", ") }}</p>{% endif %}
 </div>
 
-  {#
-  Load Mapbox only in modern browsers
-  https://web.dev/publish-modern-javascript/#rollup
-  #}
+{#
+Load Mapbox only in modern browsers
+https://web.dev/publish-modern-javascript/#rollup
+#}
+{% if geo.latitude and geo.longitude %}
   {% if build.env == 'production' %}
     <script defer type="module" src="/ui/js/{{ hashes_photo['assets/js/photo.js']}}"></script>
   {% else %}
     <script defer type="module" src="/ui/js/photo-es.js"></script>
   {% endif %}
+{% endif %}
