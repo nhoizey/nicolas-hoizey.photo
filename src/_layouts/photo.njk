@@ -16,8 +16,12 @@ layout: page
 
 <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
   <header>
+    {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
     <ul class="breadcrumb">
       <li><a href="/">Home</a></li>
+      {% for item in breadcrumb %}
+        <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+      {% endfor %}
     </ul>
     <h1>{{ title }}</h1>
   </header>
