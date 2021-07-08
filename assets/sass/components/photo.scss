@@ -197,25 +197,54 @@
   .marker {
     background-image: url('/ui/images/marker.svg');
     background-size: cover;
-    width: 2em;
-    height: 2em;
+    width: 24px;
+    height: 24px;
 
-    animation-name: pulse;
+    animation-name: marker-pulse;
     animation-duration: 0.7s;
     animation-timing-function: ease-out;
     animation-iteration-count: infinite;
     animation-direction: alternate;
   }
+
+  .marker-shadow {
+    background-color: transparent;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+
+    animation-name: marker-shadow-pulse;
+    animation-duration: 1.4s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+  }
 }
 
-@keyframes pulse {
+@keyframes marker-pulse {
   from {
     opacity: 1;
-    margin-block-start: -0.3em;
+    margin-block-start: 0;
   }
 
   to {
     opacity: 0.2;
-    margin-block-start: -2em;
+    margin-block-start: -24px;
+  }
+}
+
+@keyframes marker-shadow-pulse {
+  from {
+    width: 0;
+    height: 0;
+    box-shadow: 0 0 0 0 $color-theme;
+    opacity: 0.5;
+  }
+
+  to {
+    width: 24px;
+    height: 24px;
+    box-shadow: 0 0 0 12px $color-theme;
+    opacity: 0;
   }
 }

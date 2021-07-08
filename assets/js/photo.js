@@ -22,7 +22,21 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
 
     let marker = document.createElement('div');
     marker.className = 'marker';
-    new mapboxgl.Marker({ element: marker, draggable: false })
+    new mapboxgl.Marker({
+      element: marker,
+      draggable: false,
+      offset: [-12, -24],
+    })
+      .setLngLat([mapLongitude, mapLatitude])
+      .addTo(map);
+
+    let markerShadow = document.createElement('div');
+    markerShadow.className = 'marker-shadow';
+    new mapboxgl.Marker({
+      element: markerShadow,
+      draggable: false,
+      offset: [-12, -12],
+    })
       .setLngLat([mapLongitude, mapLatitude])
       .addTo(map);
 
