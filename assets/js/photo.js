@@ -20,22 +20,22 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
     map.dragRotate.disable();
     map.touchZoomRotate.disableRotation();
 
-    let marker = document.createElement('div');
-    marker.className = 'marker';
-    new mapboxgl.Marker({
-      element: marker,
-      draggable: false,
-      offset: [0, -12],
-    })
-      .setLngLat([mapLongitude, mapLatitude])
-      .addTo(map);
-
     let markerShadow = document.createElement('div');
     markerShadow.className = 'marker-shadow';
     new mapboxgl.Marker({
       element: markerShadow,
       draggable: false,
       offset: [0, 0],
+    })
+      .setLngLat([mapLongitude, mapLatitude])
+      .addTo(map);
+
+    let marker = document.createElement('div');
+    marker.className = 'marker';
+    new mapboxgl.Marker({
+      element: marker,
+      draggable: false,
+      offset: [0, -12],
     })
       .setLngLat([mapLongitude, mapLatitude])
       .addTo(map);

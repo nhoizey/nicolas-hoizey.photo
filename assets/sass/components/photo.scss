@@ -176,14 +176,8 @@
 }
 
 #map {
-  aspect-ratio: 3/2;
-  width: 100%;
-  max-width: 20rem;
-  height: auto;
-
-  background-color: black;
-  padding: 1px;
-  border: 1px solid white;
+  width: 300px;
+  height: 200px;
 
   img,
   canvas {
@@ -224,27 +218,27 @@
 @keyframes marker-pulse {
   from {
     opacity: 1;
-    margin-block-start: 0;
+    margin-top: 0;
   }
 
   to {
     opacity: 0.2;
-    margin-block-start: -24px;
+    margin-top: -24px;
   }
 }
 
 @keyframes marker-shadow-pulse {
   from {
-    width: 0;
-    height: 0;
+    width: 2px;
+    height: 2px;
     box-shadow: 0 0 0 0 $color-theme;
     opacity: 0.5;
   }
 
   to {
-    width: 24px;
-    height: 24px;
-    box-shadow: 0 0 0 12px $color-theme;
+    width: 36px;
+    height: 36px;
+    box-shadow: 0 0 0 36px $color-theme;
     opacity: 0;
   }
 }
