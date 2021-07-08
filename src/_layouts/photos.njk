@@ -1,5 +1,13 @@
 ---
-layout: gallery
+layout: page
 ---
 
 {{ content | safe }}
+
+{% from "macros/photo.njk" import photo %}
+
+<ul class="gallery">
+  {% for item in collections.all_photos %}
+    {{ photo(item) }}
+  {% endfor %}
+</ul>
