@@ -36,7 +36,11 @@ settings:
 dimensions:
   width: 2333
   height: 3500
-geo: {}
+geo:
+  latitude: 49.425637546666664
+  longitude: 0.22933463666666667
+  country: France
+  city: Honfleur
 file: butterfly.jpg
 ---
 

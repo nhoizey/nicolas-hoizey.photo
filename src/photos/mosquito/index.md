@@ -35,7 +35,11 @@ settings:
 dimensions:
   width: 3500
   height: 2333
-geo: {}
+geo:
+  latitude: 48.018102371666664
+  longitude: 3.702400643333333
+  country: France
+  city: Venizy
 file: mosquito.jpg
 ---
 
