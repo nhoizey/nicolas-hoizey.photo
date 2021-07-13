@@ -99,4 +99,42 @@ export default [
       // visualizer(),
     ],
   },
+  {
+    input: path.join(JS_SRC, 'travels.js'),
+    output: {
+      dir: JS_DIST,
+      entryFileNames: JS_NAME,
+      format: 'es',
+      sourcemap: true,
+      globals: {
+        // events: 'events',
+      },
+    },
+    plugins: [
+      replace({
+        MAPBOX_ACCESS_TOKEN: JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
+      }),
+      nodeResolve({ browser: true, preferBuiltins: false }),
+      commonjs(),
+      babel({
+        exclude: 'node_modules/**',
+        presets: [
+          [
+            '@babel/preset-env',
+            {
+              targets: { esmodules: true },
+              bugfixes: true,
+              loose: true,
+            },
+          ],
+        ],
+      }),
+      process.env.NODE_ENV === 'production' && terser(),
+      process.env.NODE_ENV === 'production' &&
+        entrypointHashmanifest({
+          manifestName: path.join(HASH, 'hashes_travels.json'),
+        }),
+      // visualizer(),
+    ],
+  },
 ];

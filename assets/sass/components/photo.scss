@@ -1,7 +1,6 @@
 @use '../variables' as *;
 @use '../every_layout/sidebar' as *;
 @use '../every_layout/switcher' as *;
-@use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 
 .photo {
   --width: 100%;
@@ -172,75 +171,5 @@
       margin-block-start: 0;
       margin-block-end: 0;
     }
-  }
-}
-
-#map {
-  width: 300px;
-  height: 200px;
-
-  img,
-  canvas {
-    border: none;
-    background-color: transparent;
-
-    width: 100% !important;
-    height: auto !important;
-  }
-
-  .marker {
-    background-image: url('/ui/images/marker.svg');
-    background-size: cover;
-    width: 24px;
-    height: 24px;
-
-    animation-name: marker-pulse;
-    animation-duration: 0.7s;
-    animation-timing-function: ease-out;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-  }
-
-  .marker-shadow {
-    background-color: transparent;
-    width: 2px;
-    height: 2px;
-    border-radius: 50%;
-
-    animation-name: marker-shadow-pulse;
-    animation-duration: 1.4s;
-    animation-timing-function: ease-out;
-    animation-iteration-count: infinite;
-    animation-direction: normal;
-  }
-}
-
-@keyframes marker-pulse {
-  0% {
-    opacity: 1;
-    margin-top: 0;
-  }
-
-  100% {
-    opacity: 0.2;
-    margin-top: -24px;
-  }
-}
-
-@keyframes marker-shadow-pulse {
-  0% {
-    box-shadow: 0 0 0 0 $color-theme;
-    opacity: 0.5;
-  }
-
-  95% {
-    box-shadow: 0 0 0 24px $color-theme;
-    opacity: 0;
-  }
-
-  // hack just for Safari… 😭
-  100% {
-    box-shadow: 0 0 0 0 $color-theme;
-    opacity: 0;
   }
 }

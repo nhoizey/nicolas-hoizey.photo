@@ -1,0 +1,17 @@
+@use '../variables' as *;
+@use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
+
+#map {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3/2;
+
+  img,
+  canvas {
+    border: none;
+    background-color: transparent;
+
+    width: 100% !important;
+    height: auto !important;
+  }
+}

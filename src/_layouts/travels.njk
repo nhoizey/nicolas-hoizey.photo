@@ -2,4 +2,15 @@
 layout: gallery
 ---
 
+{% from "macros/css.njk" import css %}
+{{ css('components/travels-map', build.env) }}
+
+<div id="map"></div>
+
 {{ content | safe }}
+
+{% if build.env == 'production' %}
+  <script defer type="module" src="/ui/js/{{ hashes_travels['assets/js/travels.js']}}"></script>
+{% else %}
+  <script defer type="module" src="/ui/js/travels-es.js"></script>
+{% endif %}
