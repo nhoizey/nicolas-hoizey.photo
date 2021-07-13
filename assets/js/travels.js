@@ -11,7 +11,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
       container: mapElementId,
       // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
       style: 'mapbox://styles/mapbox/outdoors-v11',
-      center: [0, 0],
+      center: [0, 5],
       zoom: 1,
       attributionControl: false,
       hash: true,
@@ -25,5 +25,23 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
       'top-right'
     );
     map.addControl(new mapboxgl.FullscreenControl());
+
+    map.on('load', function () {
+      map.addSource('photos', {
+        type: 'geojson',
+        data: '/photos.geojson',
+      });
+      map.addLayer({
+        id: 'photos-layer',
+        type: 'circle',
+        source: 'photos',
+        paint: {
+          'circle-radius': 5,
+          'circle-stroke-width': 1,
+          'circle-color': 'rebeccapurple',
+          'circle-stroke-color': 'white',
+        },
+      });
+    });
   }
 })(window);

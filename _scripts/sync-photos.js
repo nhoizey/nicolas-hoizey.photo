@@ -36,7 +36,12 @@ let exifrOptions = {
   iptc: true,
 };
 
-fs.readdirSync(SRC).forEach(async (photo) => {
+let geojsonFeatures = {
+  type: 'FeatureCollection',
+  features: [],
+};
+
+async function syncOnePhoto(photo) {
   const photoPath = path.join(SRC, photo);
   const ext = path.extname(photoPath);
   if (ext !== '.jpg') {
@@ -180,5 +185,29 @@ ${photoDescription}
 `;
 
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
+
+    // Add photo to geojson file
+    if (photoYFM.geo.latitude && photoYFM.geo.longitude) {
+      geojsonFeatures.features.push({
+        type: 'Feature',
+        geometry: {
+          type: 'Point',
+          coordinates: [photoYFM.geo.longitude, photoYFM.geo.latitude],
+        },
+        properties: {
+          title: photoYFM.title,
+        },
+      });
+    }
+  }
+}
+
+const allPromises = [];
+fs.readdirSync(SRC).forEach(async (photo) => {
+  allPromises.push(syncOnePhoto(photo));
+});
+Promise.all(allPromises).then(() => {
+  if (geojsonFeatures.features.length > 0) {
+    fs.writeFileSync('./src/photos.geojson', JSON.stringify(geojsonFeatures));
   }
 });
