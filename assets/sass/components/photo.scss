@@ -216,25 +216,31 @@
 }
 
 @keyframes marker-pulse {
-  from {
+  0% {
     opacity: 1;
     margin-top: 0;
   }
 
-  to {
+  100% {
     opacity: 0.2;
     margin-top: -24px;
   }
 }
 
 @keyframes marker-shadow-pulse {
-  from {
+  0% {
     box-shadow: 0 0 0 0 $color-theme;
     opacity: 0.5;
   }
 
-  to {
+  95% {
     box-shadow: 0 0 0 24px $color-theme;
+    opacity: 0;
+  }
+
+  // hack just for Safari… 😭
+  100% {
+    box-shadow: 0 0 0 0 $color-theme;
     opacity: 0;
   }
 }
