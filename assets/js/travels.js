@@ -32,10 +32,10 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
         type: 'geojson',
         data: '/photos.geojson',
         cluster: true,
-        clusterMaxZoom: 14, // Max zoom to cluster points on
         clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
       });
 
+      const steps = [5, 10];
       map.addLayer({
         id: 'clusters',
         type: 'circle',
@@ -44,20 +44,28 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
         paint: {
           // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
           // with three steps to implement three types of circles:
-          //   * Blue, 20px circles when point count is less than 100
-          //   * Yellow, 30px circles when point count is between 100 and 750
-          //   * Pink, 40px circles when point count is greater than or equal to 750
+          //   * #53297c 10px circles when point count is less than steps[0]
+          //   * #3f205f 15px circles when point count is between steps[0] and steps[1]
+          //   * #2c1642 20px circles when point count is greater than or equal to steps[1]
           'circle-color': [
             'step',
             ['get', 'point_count'],
             '#53297c',
-            5,
+            steps[0],
             '#3f205f',
-            15,
+            steps[1],
             '#2c1642',
           ],
-          'circle-radius': ['step', ['get', 'point_count'], 10, 5, 15, 15, 20],
-          'circle-stroke-width': 1,
+          'circle-radius': [
+            'step',
+            ['get', 'point_count'],
+            8,
+            steps[0],
+            11,
+            steps[1],
+            14,
+          ],
+          'circle-stroke-width': 2,
           'circle-stroke-color': '#2c1642',
         },
       });
@@ -69,7 +77,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
         filter: ['has', 'point_count'],
         layout: {
           'text-field': '{point_count_abbreviated}',
-          'text-size': 12,
+          'text-size': 10,
         },
         paint: {
           'text-color': '#ffffff',
@@ -84,9 +92,62 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
         paint: {
           'circle-color': '#663399',
           'circle-radius': 5,
-          'circle-stroke-width': 1,
+          'circle-stroke-width': 2,
           'circle-stroke-color': '#2c1642',
         },
+      });
+
+      map.on('click', 'clusters', function (e) {
+        let features = map.queryRenderedFeatures(e.point, {
+          layers: ['clusters'],
+        });
+        let clusterId = features[0].properties.cluster_id;
+        map
+          .getSource('photos')
+          .getClusterExpansionZoom(clusterId, function (err, zoom) {
+            if (err) return;
+
+            map.easeTo({
+              center: features[0].geometry.coordinates,
+              zoom: zoom,
+            });
+          });
+      });
+
+      map.on('click', 'unclustered-point', function (e) {
+        let coordinates = e.features[0].geometry.coordinates.slice();
+        let image = e.features[0].properties.image;
+        let width = e.features[0].properties.width;
+        let height = e.features[0].properties.height;
+        let title = e.features[0].properties.title;
+        let url = e.features[0].properties.url;
+
+        // Ensure that if the map is zoomed out such that
+        // multiple copies of the feature are visible, the
+        // popup appears over the copy being pointed to.
+        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+          coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        }
+
+        new mapboxgl.Popup({ className: 'map-popup' })
+          .setLngLat(coordinates)
+          .setHTML(
+            `<a href="${url}"><img src="${image}" width="${width}" height="${height}" alt="">${title}</a>`
+          )
+          .addTo(map);
+      });
+
+      map.on('mouseenter', 'clusters', function () {
+        map.getCanvas().style.cursor = 'pointer';
+      });
+      map.on('mouseleave', 'clusters', function () {
+        map.getCanvas().style.cursor = '';
+      });
+      map.on('mouseenter', 'unclustered-point', function () {
+        map.getCanvas().style.cursor = 'pointer';
+      });
+      map.on('mouseleave', 'unclustered-point', function () {
+        map.getCanvas().style.cursor = '';
       });
     });
   }
