@@ -31,16 +31,61 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
       map.addSource('photos', {
         type: 'geojson',
         data: '/photos.geojson',
+        cluster: true,
+        clusterMaxZoom: 14, // Max zoom to cluster points on
+        clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
       });
+
       map.addLayer({
-        id: 'photos-layer',
+        id: 'clusters',
         type: 'circle',
         source: 'photos',
+        filter: ['has', 'point_count'],
         paint: {
+          // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
+          // with three steps to implement three types of circles:
+          //   * Blue, 20px circles when point count is less than 100
+          //   * Yellow, 30px circles when point count is between 100 and 750
+          //   * Pink, 40px circles when point count is greater than or equal to 750
+          'circle-color': [
+            'step',
+            ['get', 'point_count'],
+            '#53297c',
+            5,
+            '#3f205f',
+            15,
+            '#2c1642',
+          ],
+          'circle-radius': ['step', ['get', 'point_count'], 10, 5, 15, 15, 20],
+          'circle-stroke-width': 1,
+          'circle-stroke-color': '#2c1642',
+        },
+      });
+
+      map.addLayer({
+        id: 'cluster-count',
+        type: 'symbol',
+        source: 'photos',
+        filter: ['has', 'point_count'],
+        layout: {
+          'text-field': '{point_count_abbreviated}',
+          'text-size': 12,
+        },
+        paint: {
+          'text-color': '#ffffff',
+        },
+      });
+
+      map.addLayer({
+        id: 'unclustered-point',
+        type: 'circle',
+        source: 'photos',
+        filter: ['!', ['has', 'point_count']],
+        paint: {
+          'circle-color': '#663399',
           'circle-radius': 5,
           'circle-stroke-width': 1,
-          'circle-color': 'rebeccapurple',
-          'circle-stroke-color': 'white',
+          'circle-stroke-color': '#2c1642',
         },
       });
     });
