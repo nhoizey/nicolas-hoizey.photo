@@ -46,4 +46,13 @@
       border-bottom-color: $color-surface;
     }
   }
+
+  .mapboxgl-popup-close-button {
+    padding: 0;
+    line-height: 1;
+    right: 1px;
+    top: -3px;
+    font-size: 14px;
+    color: #ffffff;
+  }
 }
