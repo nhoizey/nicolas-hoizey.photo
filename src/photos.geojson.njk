@@ -1,0 +1,23 @@
+---
+permalink: photos.geojson
+layout: null
+eleventyExcludeFromCollections: true
+---
+{
+  "type": "FeatureCollection",
+  "features": [
+{%- for item in collections.photos_in_galleries %}
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [{{ item.data.origin.data.geo.longitude }}, {{ item.data.origin.data.geo.latitude }}]
+      },
+      "properties": {
+        "title": "{{ item.data.title }}",
+        "image": "https://nicolas-hoizey.photo/images/100/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg"
+      }
+    }{%- if not loop.last -%},{%- endif -%}
+{% endfor %}
+  ]
+}
