@@ -7,12 +7,12 @@ import polylabel from 'polylabel';
   const mapElement = window.document.querySelector(`#${mapElementId}`);
   const maxZoomLevel = 18;
   const clusterSteps = [
-    { count: 5, color: '#a081c0', radius: 7 },
-    { count: 10, color: '#835aac', radius: 8 },
-    { count: 20, color: '#663399', radius: 10 },
+    { count: 5, color: '#835aac', radius: 7 },
+    { count: 10, color: '#663399', radius: 8 },
+    { count: 20, color: '#53297c', radius: 10 },
     { count: 100, color: '#53297c', radius: 13 },
   ];
-  const markerColor = '#a081c0';
+  const markerColor = '#835aac';
   const markerStroke = '#53297c';
 
   if (mapElement) {
@@ -171,7 +171,7 @@ import polylabel from 'polylabel';
           coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
         }
 
-        new mapboxgl.Popup({ className: 'map-popup' })
+        new mapboxgl.Popup()
           .setLngLat(coordinates)
           .setHTML(
             `<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a>`

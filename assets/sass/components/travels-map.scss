@@ -15,8 +15,13 @@
     height: auto !important;
   }
 
+  .mapboxgl-popup {
+    width: 220px;
+  }
+
   .mapboxgl-popup-content {
     background-color: $color-surface;
+    width: calc(200px + 2 + 2 * var(--space-3xs));
 
     img {
       border: 1px solid #fff;
