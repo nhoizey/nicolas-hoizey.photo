@@ -14,6 +14,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
       style: 'mapbox://styles/mapbox/outdoors-v11',
       center: [10, 20],
       zoom: 1,
+      minZoom: 1,
       maxZoom: maxZoomLevel,
       scrollZoom: false,
       attributionControl: false,
@@ -115,10 +116,10 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
             clusterId,
             point_count,
             0,
-            function (err, aFeatures) {
+            function (err, clusterFeatures) {
               var popupString = '';
-              var childrenCount = Object.keys(aFeatures).length;
-              aFeatures.forEach((feature) => {
+              var childrenCount = Object.keys(clusterFeatures).length;
+              clusterFeatures.forEach((feature) => {
                 let imageProperties = feature.properties;
                 popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a></p>`;
               });
@@ -137,9 +138,10 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
             .getClusterExpansionZoom(clusterId, function (err, zoom) {
               if (err) return;
 
-              map.easeTo({
+              map.flyTo({
                 center: features[0].geometry.coordinates,
                 zoom: zoom,
+                speed: 0.3,
               });
             });
         }
