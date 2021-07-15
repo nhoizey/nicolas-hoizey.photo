@@ -6,7 +6,14 @@ import polylabel from 'polylabel';
   const mapElementId = 'map';
   const mapElement = window.document.querySelector(`#${mapElementId}`);
   const maxZoomLevel = 18;
-  const clusterSteps = [5, 10];
+  const clusterSteps = [
+    { count: 5, color: '#a081c0', radius: 7 },
+    { count: 10, color: '#835aac', radius: 8 },
+    { count: 20, color: '#663399', radius: 10 },
+    { count: 100, color: '#53297c', radius: 13 },
+  ];
+  const markerColor = '#a081c0';
+  const markerStroke = '#53297c';
 
   if (mapElement) {
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
@@ -48,30 +55,30 @@ import polylabel from 'polylabel';
         filter: ['has', 'point_count'],
         paint: {
           // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
-          // with three steps to implement three types of circles:
-          //   * #53297c 10px circles when point count is less than steps[0]
-          //   * #3f205f 15px circles when point count is between steps[0] and steps[1]
-          //   * #2c1642 20px circles when point count is greater than or equal to steps[1]
           'circle-color': [
             'step',
             ['get', 'point_count'],
-            '#53297c',
-            clusterSteps[0],
-            '#3f205f',
-            clusterSteps[1],
-            '#2c1642',
+            clusterSteps[0].color,
+            clusterSteps[0].count,
+            clusterSteps[1].color,
+            clusterSteps[1].count,
+            clusterSteps[2].color,
+            clusterSteps[2].count,
+            clusterSteps[3].color,
           ],
           'circle-radius': [
             'step',
             ['get', 'point_count'],
-            8,
-            clusterSteps[0],
-            11,
-            clusterSteps[1],
-            14,
+            clusterSteps[0].radius,
+            clusterSteps[0].count,
+            clusterSteps[1].radius,
+            clusterSteps[1].count,
+            clusterSteps[2].radius,
+            clusterSteps[2].count,
+            clusterSteps[3].radius,
           ],
           'circle-stroke-width': 2,
-          'circle-stroke-color': '#2c1642',
+          'circle-stroke-color': markerStroke,
         },
       });
 
@@ -95,10 +102,10 @@ import polylabel from 'polylabel';
         source: 'photos',
         filter: ['!', ['has', 'point_count']],
         paint: {
-          'circle-color': '#663399',
+          'circle-color': markerColor,
           'circle-radius': 5,
           'circle-stroke-width': 2,
-          'circle-stroke-color': '#2c1642',
+          'circle-stroke-color': markerStroke,
         },
       });
 
