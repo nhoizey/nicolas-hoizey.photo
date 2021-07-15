@@ -6,6 +6,7 @@ import polylabel from 'polylabel';
   const mapElementId = 'map';
   const mapElement = window.document.querySelector(`#${mapElementId}`);
   const maxZoomLevel = 18;
+  const clusterSteps = [5, 10];
 
   if (mapElement) {
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
@@ -40,7 +41,6 @@ import polylabel from 'polylabel';
         clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
       });
 
-      const steps = [5, 10];
       map.addLayer({
         id: 'clusters',
         type: 'circle',
@@ -56,18 +56,18 @@ import polylabel from 'polylabel';
             'step',
             ['get', 'point_count'],
             '#53297c',
-            steps[0],
+            clusterSteps[0],
             '#3f205f',
-            steps[1],
+            clusterSteps[1],
             '#2c1642',
           ],
           'circle-radius': [
             'step',
             ['get', 'point_count'],
             8,
-            steps[0],
+            clusterSteps[0],
             11,
-            steps[1],
+            clusterSteps[1],
             14,
           ],
           'circle-stroke-width': 2,
