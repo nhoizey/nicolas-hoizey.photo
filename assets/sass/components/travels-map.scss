@@ -23,6 +23,20 @@
     }
   }
 
+  .mapboxgl-popup-photos {
+    padding: var(--space-3xs);
+    max-height: 300px;
+    overflow-y: scroll;
+
+    p {
+      margin-block-start: 0;
+    }
+
+    p + p {
+      margin-block-start: var(--space-xs);
+    }
+  }
+
   .mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
     border-right-color: $color-surface;
   }

@@ -17,7 +17,7 @@ eleventyExcludeFromCollections: true
         "title": "{{ item.data.title }}",
         "image": "https://nicolas-hoizey.photo/images/200/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg",
         "width": "{{ item.data.origin.data.dimensions.width }}",
-        "heigth": "{{ item.data.origin.data.dimensions.height }}",
+        "height": "{{ item.data.origin.data.dimensions.height }}",
         "url": "{{ item.url }}"
       }
     }{%- if not loop.last -%},{%- endif -%}

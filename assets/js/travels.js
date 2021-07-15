@@ -4,6 +4,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
   // Load Mapbox map if necessary
   const mapElementId = 'map';
   const mapElement = window.document.querySelector(`#${mapElementId}`);
+  const maxZoomLevel = 18;
 
   if (mapElement) {
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
@@ -13,6 +14,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
       style: 'mapbox://styles/mapbox/outdoors-v11',
       center: [10, 20],
       zoom: 1,
+      maxZoom: maxZoomLevel,
       scrollZoom: false,
       attributionControl: false,
       hash: true,
@@ -32,6 +34,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
         type: 'geojson',
         data: '/photos.geojson',
         cluster: true,
+        clusterMaxZoom: maxZoomLevel,
         clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
       });
 
@@ -102,25 +105,49 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
           layers: ['clusters'],
         });
         let clusterId = features[0].properties.cluster_id;
-        map
-          .getSource('photos')
-          .getClusterExpansionZoom(clusterId, function (err, zoom) {
-            if (err) return;
 
-            map.easeTo({
-              center: features[0].geometry.coordinates,
-              zoom: zoom,
+        if (map.getZoom() === maxZoomLevel) {
+          // Show photos from cluster
+          let coordinates = features[0].geometry.coordinates.slice();
+          let clusterSource = map.getSource('photos');
+          let point_count = features[0].properties.point_count;
+          clusterSource.getClusterLeaves(
+            clusterId,
+            point_count,
+            0,
+            function (err, aFeatures) {
+              var popupString = '';
+              var childrenCount = Object.keys(aFeatures).length;
+              aFeatures.forEach((feature) => {
+                let imageProperties = feature.properties;
+                popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a></p>`;
+              });
+              new mapboxgl.Popup()
+                .setLngLat(coordinates)
+                .setHTML(
+                  `<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`
+                )
+                .addTo(map);
+            }
+          );
+        } else {
+          // Zoom in cluster
+          map
+            .getSource('photos')
+            .getClusterExpansionZoom(clusterId, function (err, zoom) {
+              if (err) return;
+
+              map.easeTo({
+                center: features[0].geometry.coordinates,
+                zoom: zoom,
+              });
             });
-          });
+        }
       });
 
       map.on('click', 'unclustered-point', function (e) {
         let coordinates = e.features[0].geometry.coordinates.slice();
-        let image = e.features[0].properties.image;
-        let width = e.features[0].properties.width;
-        let height = e.features[0].properties.height;
-        let title = e.features[0].properties.title;
-        let url = e.features[0].properties.url;
+        let imageProperties = e.features[0].properties;
 
         // Ensure that if the map is zoomed out such that
         // multiple copies of the feature are visible, the
@@ -132,7 +159,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
         new mapboxgl.Popup({ className: 'map-popup' })
           .setLngLat(coordinates)
           .setHTML(
-            `<a href="${url}"><img src="${image}" width="${width}" height="${height}" alt="">${title}</a>`
+            `<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a>`
           )
           .addTo(map);
       });
