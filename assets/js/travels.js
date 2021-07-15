@@ -1,4 +1,5 @@
 import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
+import polylabel from 'polylabel';
 
 (function (window) {
   // Load Mapbox map if necessary
@@ -107,44 +108,49 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
         });
         let clusterId = features[0].properties.cluster_id;
 
-        if (map.getZoom() === maxZoomLevel) {
-          // Show photos from cluster
-          let coordinates = features[0].geometry.coordinates.slice();
-          let clusterSource = map.getSource('photos');
-          let point_count = features[0].properties.point_count;
-          clusterSource.getClusterLeaves(
+        let coordinates = features[0].geometry.coordinates.slice();
+        let point_count = features[0].properties.point_count;
+        map
+          .getSource('photos')
+          .getClusterLeaves(
             clusterId,
             point_count,
             0,
             function (err, clusterFeatures) {
-              var popupString = '';
-              var childrenCount = Object.keys(clusterFeatures).length;
-              clusterFeatures.forEach((feature) => {
-                let imageProperties = feature.properties;
-                popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a></p>`;
-              });
-              new mapboxgl.Popup()
-                .setLngLat(coordinates)
-                .setHTML(
-                  `<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`
-                )
-                .addTo(map);
+              if (map.getZoom() === maxZoomLevel) {
+                // Show photos from cluster
+                var popupString = '';
+                var childrenCount = Object.keys(clusterFeatures).length;
+                clusterFeatures.forEach((feature) => {
+                  let imageProperties = feature.properties;
+                  popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a></p>`;
+                });
+                new mapboxgl.Popup()
+                  .setLngLat(coordinates)
+                  .setHTML(
+                    `<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`
+                  )
+                  .addTo(map);
+              } else {
+                // Zoom in cluster
+                let clusterMarkers = [];
+                clusterFeatures.forEach((feature) => {
+                  clusterMarkers.push(feature.geometry.coordinates);
+                });
+                map
+                  .getSource('photos')
+                  .getClusterExpansionZoom(clusterId, function (err, zoom) {
+                    if (err) return;
+
+                    map.flyTo({
+                      center: polylabel([clusterMarkers]),
+                      zoom: zoom,
+                      speed: 0.5,
+                    });
+                  });
+              }
             }
           );
-        } else {
-          // Zoom in cluster
-          map
-            .getSource('photos')
-            .getClusterExpansionZoom(clusterId, function (err, zoom) {
-              if (err) return;
-
-              map.flyTo({
-                center: features[0].geometry.coordinates,
-                zoom: zoom,
-                speed: 0.3,
-              });
-            });
-        }
       });
 
       map.on('click', 'unclustered-point', function (e) {
