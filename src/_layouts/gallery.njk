@@ -35,6 +35,19 @@ layout: page
   </ul>
 {% endif %}
 
+{% if page.filePathStem == '/travels/index' %}
+  {% from "macros/css.njk" import css %}
+  {{ css('components/travels-map', build.env) }}
+
+  <div id="map"></div>
+
+  {% if build.env == 'production' %}
+    <script defer type="module" src="/ui/js/{{ hashes_travels['assets/js/travels.js']}}"></script>
+  {% else %}
+    <script defer type="module" src="/ui/js/travels-es.js"></script>
+  {% endif %}
+{% endif %}
+
 {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
 {% if photos_here | length %}
   <h2>Latest photos</h2>
@@ -44,6 +57,7 @@ layout: page
     {% endfor %}
   </ul>
 {% endif %}
+
 {#
 {% set photos_below = collections.photos_in_galleries | photos_below(page.url) %}
 {% if photos_below | length %}
