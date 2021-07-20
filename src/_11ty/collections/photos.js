@@ -17,11 +17,10 @@ module.exports = {
   photos_not_in_galleries: (collection) => {
     const used_photos = collection
       .getFilteredByGlob([
-        'src/travels/**/*.md',
-        'src/wanderings/**/*.md',
-        'src/portraits/**/*.md',
+        'src/travels/**/index.md',
+        'src/wanderings/**/index.md',
+        'src/portraits/**/index.md',
       ])
-      .filter((item) => !item.filePathStem.endsWith('/index'))
       .map((item) => item.fileSlug);
     return collection
       .getFilteredByGlob('src/photos/*/index.md')
