@@ -28,8 +28,8 @@ dimensions:
   width: 1232
   height: 1840
 geo:
-  latitude: 26.321260001666666
-  longitude: 34.76396767833333
+  latitude: 26.00801542
+  longitude: 34.54992182
 file: plongee-en-contre-plongee.jpg
 ---
 

@@ -31,8 +31,8 @@ dimensions:
   width: 1232
   height: 1840
 geo:
-  latitude: 26.321260001666666
-  longitude: 34.76396767833333
+  latitude: 26.03208027333333
+  longitude: 34.562968085
 file: split-level-photography.jpg
 ---
 

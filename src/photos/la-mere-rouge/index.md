@@ -36,8 +36,8 @@ dimensions:
   width: 2222
   height: 1643
 geo:
-  latitude: 26.321260001666666
-  longitude: 34.76396767833333
+  latitude: 26.022825145
+  longitude: 34.52726251833333
 file: la-mere-rouge.jpg
 ---
 

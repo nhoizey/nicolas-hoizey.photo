@@ -39,8 +39,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 59.45706133833333
-  longitude: 18.29953088
+  latitude: 59.45737805833333
+  longitude: 18.299656023333334
   country: Suède
   city: Åkersberga
 file: remains-of-the-frozen-sea.jpg
