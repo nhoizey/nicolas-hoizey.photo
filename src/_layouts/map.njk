@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+<ul class="breadcrumb">
+  <li><a href="/">Home</a></li>
+</ul>
+
+<h1>{{ title }}</h1>
+
+{{ content | safe }}
+
+
+  {% from "macros/css.njk" import css %}
+  {{ css('components/travels-map', build.env) }}
+
+  <div id="map"></div>
+
+  {% if build.env == 'production' %}
+    <script defer type="module" src="/ui/js/{{ hashes_travels['assets/js/map.js']}}"></script>
+  {% else %}
+    <script defer type="module" src="/ui/js/map-es.js"></script>
+  {% endif %}

@@ -1,6 +1,6 @@
 ---
 title: Portraits
 nav:
-  order: 3
+  order: 4
   icon: portraits
 ---

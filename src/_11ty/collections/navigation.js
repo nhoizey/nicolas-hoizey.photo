@@ -11,8 +11,9 @@ module.exports = {
   navigation2: (collection) =>
     collection
       .getFilteredByGlob([
+        'src/nature/*/index.md',
+        'src/urban/*/index.md',
         'src/travels/*/index.md',
-        'src/wanderings/*/index.md',
         'src/portraits/*/index.md',
       ])
       .sort((a, b) => sortOrderThenAlpha(a, b)),

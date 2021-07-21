@@ -100,7 +100,7 @@ export default [
     ],
   },
   {
-    input: path.join(JS_SRC, 'travels.js'),
+    input: path.join(JS_SRC, 'map.js'),
     output: {
       dir: JS_DIST,
       entryFileNames: JS_NAME,
@@ -132,7 +132,7 @@ export default [
       process.env.NODE_ENV === 'production' && terser(),
       process.env.NODE_ENV === 'production' &&
         entrypointHashmanifest({
-          manifestName: path.join(HASH, 'hashes_travels.json'),
+          manifestName: path.join(HASH, 'hashes_map.json'),
         }),
       // visualizer(),
     ],

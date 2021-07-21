@@ -1,9 +1,11 @@
 const fs = require('fs');
 const config = require('../pack11ty.config.js');
 const getPhotoData = require('./_11ty/_utils/photo-data');
+const photoCollections = require('./_11ty/_utils/photo-collections');
 
+// TODO: use photoCollections
 const isPhoto = (data) =>
-  data.page.filePathStem.match(/\/(travels|wanderings|portraits)\/[^\/]+/) &&
+  data.page.filePathStem.match(/\/(nature|urban|travels|portraits)\/[^\/]+/) &&
   !data.page.filePathStem.endsWith('/index');
 
 module.exports = {

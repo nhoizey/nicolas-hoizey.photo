@@ -1,6 +1,6 @@
 ---
 title: Animals
 nav:
-  order: 3
+  order: 2
   icon: animal
 ---

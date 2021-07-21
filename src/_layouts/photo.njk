@@ -37,7 +37,7 @@ layout: page
       <li class="date icon icon--date"><time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
       <li class="gear icon icon--camera">{{ gear.make }} {{ gear.model }}</li>
       {% if settings.focal_length or gear.lens %}
-        <li class="lens icon icon--focal-length">
+        <li class="lens icon icon--focal_length">
           {% if gear.lens %}{{ gear.lens }}<br />{% endif %}
           {{ settings.focal_length }} mm
           {% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}
