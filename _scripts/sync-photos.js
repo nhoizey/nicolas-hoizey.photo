@@ -187,18 +187,18 @@ ${photoDescription}
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
 
     // Add photo to geojson file
-    if (photoYFM.geo.latitude && photoYFM.geo.longitude) {
-      geojsonFeatures.features.push({
-        type: 'Feature',
-        geometry: {
-          type: 'Point',
-          coordinates: [photoYFM.geo.longitude, photoYFM.geo.latitude],
-        },
-        properties: {
-          title: photoYFM.title,
-        },
-      });
-    }
+    // if (photoYFM.geo.latitude && photoYFM.geo.longitude) {
+    //   geojsonFeatures.features.push({
+    //     type: 'Feature',
+    //     geometry: {
+    //       type: 'Point',
+    //       coordinates: [photoYFM.geo.longitude, photoYFM.geo.latitude],
+    //     },
+    //     properties: {
+    //       title: photoYFM.title,
+    //     },
+    //   });
+    // }
   }
 }
 
