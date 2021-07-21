@@ -45,7 +45,7 @@ import polylabel from 'polylabel';
         data: '/photos.geojson',
         cluster: true,
         clusterMaxZoom: maxZoomLevel,
-        clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
+        clusterRadius: 30, // Radius of each cluster when clustering points (defaults to 50)
       });
 
       map.addLayer({
