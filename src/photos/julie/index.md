@@ -48,8 +48,8 @@ dimensions:
   width: 3500
   height: 3500
 geo:
-  latitude: 48.68746388833333
-  longitude: 2.398458333333333
+  latitude: 48.68742891666667
+  longitude: 2.398488508333333
   country: France
   city: Draveil
 file: julie.jpg

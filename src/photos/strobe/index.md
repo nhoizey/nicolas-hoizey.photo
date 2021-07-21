@@ -30,8 +30,8 @@ dimensions:
   width: 3140
   height: 3140
 geo:
-  latitude: 48.68739166666667
-  longitude: 2.3985138883333335
+  latitude: 48.68742891666667
+  longitude: 2.398488508333333
   country: France
   city: Draveil
 file: strobe.jpg
