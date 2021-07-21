@@ -39,8 +39,8 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 48.764527511666664
-  longitude: 1.8883957516666667
+  latitude: 48.764519555
+  longitude: 1.8883139450000002
   country: France
   city: Saint-Rémy-l'Honoré
 file: quietness.jpg

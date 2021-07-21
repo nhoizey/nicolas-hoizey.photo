@@ -43,4 +43,6 @@ geo:
 file: one-hope.jpg
 ---
 
-Super aperitif / shooting improvised by Thanh and Pierre with some others during my brief passage in Lyon.   Thanks to Marie for the pose.  You can find Marie on Instagram (<a href="https://www.instagram.com/marie.gallee/">@marie.gallee</a>) or on her website <a href="https://lescarnetsdemarie.jimdo.com/">Les Carnets de Marie</a>.
+Super aperitif / shooting improvised by Thanh and Pierre with some others during my brief passage in Lyon.
+
+Thanks to Marie for the pose.
