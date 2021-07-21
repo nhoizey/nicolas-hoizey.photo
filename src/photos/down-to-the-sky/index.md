@@ -46,8 +46,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.764519555
-  longitude: 1.8883139450000002
+  latitude: 48.764518671666664
+  longitude: 1.8882535950000001
   country: France
   city: Saint-Rémy-l'Honoré
 file: down-to-the-sky.jpg
