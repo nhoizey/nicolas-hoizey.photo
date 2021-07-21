@@ -22,7 +22,7 @@ import polylabel from 'polylabel';
       // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
       style: 'mapbox://styles/mapbox/outdoors-v11',
       center: [10, 20],
-      zoom: 1,
+      zoom: 1.5,
       minZoom: 1,
       maxZoom: maxZoomLevel,
       scrollZoom: false,
