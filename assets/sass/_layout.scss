@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  padding: var(--space-s);
+  padding: 0;
   min-height: 100vh;
 
   display: flex;
@@ -19,7 +19,7 @@ body {
 
   display: flex;
   flex-direction: column;
-  gap: var(--space-l);
+  gap: 0;
 
   main {
     flex-grow: 1;
@@ -27,11 +27,15 @@ body {
 
   @media (min-width: $breakpoint-m) {
     flex-direction: row;
-    gap: var(--space-2xl);
   }
 }
 
 #header {
+  padding: var(--space-s);
+  background-color: $color-header;
+  border-bottom: 2px solid #111;
+  box-shadow: 0px 0px 2rem 0.5rem rgba(0, 0, 0, 0.5);
+
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -39,6 +43,9 @@ body {
   align-items: center;
 
   @media (min-width: $breakpoint-m) {
+    border-bottom: none;
+    border-right: 2px solid #111;
+
     flex-direction: column;
     align-items: flex-start;
     gap: var(--space-l);
@@ -50,9 +57,9 @@ body {
 
   ul {
     display: flex;
-    gap: var(--space-s);
+    gap: var(--space-xs);
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 
     justify-content: flex-end;
 
@@ -71,5 +78,13 @@ body {
         gap: var(--space-2xs);
       }
     }
+  }
+}
+
+#main {
+  padding: var(--space-s);
+
+  @media (min-width: $breakpoint-m) {
+    padding-inline: var(--space-xl);
   }
 }

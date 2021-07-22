@@ -21,4 +21,10 @@ module.exports = {
     }
     return array;
   },
+  push: (array, item) => {
+    return [...array, item];
+  },
+  jsonify: (array) => {
+    return JSON.stringify(array);
+  },
 };

@@ -15,7 +15,7 @@
     font-size: 1em;
     line-height: 1;
 
-    border-radius: 1rem;
+    border-radius: 0.5rem;
 
     transition-property: background-color;
     transition-duration: $timing-transition;
@@ -25,7 +25,7 @@
   a:hover,
   a:focus,
   a:active {
-    background-color: $color-theme-lighter-5;
+    background-color: $color-theme-darker-3;
   }
 
   img {

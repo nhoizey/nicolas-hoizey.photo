@@ -17,9 +17,9 @@
         {% block content %}
           {{ content | safe }}
         {% endblock %}
+        {% include 'components/footer.njk' %}
       </main>
     </div>
-    {% include 'components/footer.njk' %}
 
     {% from "macros/js.njk" import js %}
     {{ js('additional', build.env) }}

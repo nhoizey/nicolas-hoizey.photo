@@ -23,6 +23,13 @@ import polylabel from 'polylabel';
       style: 'mapbox://styles/mapbox/outdoors-v11',
       center: [10, 20],
       zoom: 1.5,
+      bounds: [
+        [-120, -65],
+        [150, 80],
+      ],
+      // fitBoundsOptions: {
+      //   padding: 100,
+      // },
       minZoom: 1,
       maxZoom: maxZoomLevel,
       scrollZoom: false,

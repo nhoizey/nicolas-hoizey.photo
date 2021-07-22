@@ -6,6 +6,7 @@ nav {
     list-style: none;
     margin: 0;
     padding-inline-start: 0;
+    font-size: var(--step-0);
 
     ul {
       color: $color-theme-lighter-3;
@@ -15,7 +16,9 @@ nav {
   }
 
   .blog {
-    margin-block-start: var(--space-l);
+    @media (min-width: $breakpoint-m) {
+      margin-block-start: var(--space-l);
+    }
   }
 
   .icon {
