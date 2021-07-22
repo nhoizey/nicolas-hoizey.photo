@@ -6,10 +6,7 @@
     {% for item in collections.navigation %}
       {% set targetUrl = item.data.nav.away or item.url %}
       {% set targetLabel = item.data.nav.title or item.data.title %}
-      <li
-        {% if item.url != '/' and item.url in page.url %}
-          class="current"
-        {% endif %}>
+      <li class="{{ item.data.nav.icon}}{% if item.url != '/' and item.url in page.url %} current{% endif %}">
         <a href="{{ targetUrl }}" {% if item.data.nav.icon %} class="icon icon--{{ item.data.nav.icon}}"{% endif %}>{{ targetLabel }}</a>
         {% if item.url != '/' and item.url in page.url %}
           <ul>

@@ -111,7 +111,7 @@ img {
   padding-left: 0;
 
   display: grid;
-  column-gap: var(--space-m);
+  column-gap: var(--space-xl);
   row-gap: var(--space-l);
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 
@@ -132,7 +132,7 @@ img {
       transition-duration: $timing-transition;
       transition-timing-function: ease-in-out;
 
-      max-height: 10rem;
+      max-height: 8rem;
       width: auto;
     }
 
