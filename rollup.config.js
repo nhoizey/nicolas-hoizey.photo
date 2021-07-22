@@ -113,6 +113,7 @@ export default [
     plugins: [
       replace({
         MAPBOX_ACCESS_TOKEN: JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
+        MAP_BBOX: JSON.stringify(process.env.MAP_BBOX),
       }),
       nodeResolve({ browser: true, preferBuiltins: false }),
       commonjs(),

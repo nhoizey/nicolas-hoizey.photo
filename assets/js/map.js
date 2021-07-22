@@ -17,6 +17,8 @@ import polylabel from 'polylabel';
 
   if (mapElement) {
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
+    const bbox = JSON.parse(MAP_BBOX);
+
     let map = new mapboxgl.Map({
       container: mapElementId,
       // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
