@@ -102,7 +102,7 @@ g {
 g:target {
   display: inline;
   fill: none;
-  stroke: #835aac;
+  stroke: #a081c0;
   stroke-width: 2px;
   stroke-linecap: round;
   stroke-linejoin: round;
