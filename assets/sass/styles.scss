@@ -129,7 +129,7 @@ img {
 
     img {
       transition-property: transform;
-      transition-duration: $timing-transition-visible;
+      transition-duration: $timing-transition;
       transition-timing-function: ease-in-out;
 
       max-height: 10rem;
@@ -177,11 +177,11 @@ img {
       }
 
       img:nth-of-type(2) {
-        transform: rotateZ(10deg) translateX(1rem) translateY(-1rem);
+        transform: rotateZ(5deg) translateX(0.5rem) translateY(-0.5rem);
       }
 
       img:nth-of-type(3) {
-        transform: rotateZ(-10deg) translateX(-1rem);
+        transform: rotateZ(-5deg) translateX(-0.5rem);
       }
     }
   }
@@ -226,7 +226,7 @@ figure {
     border-color: white;
 
     transition-property: border-color;
-    transition-duration: $timing-transition-subtle;
+    transition-duration: $timing-transition;
     transition-timing-function: ease-in-out;
   }
 
