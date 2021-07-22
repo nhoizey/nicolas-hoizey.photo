@@ -18,3 +18,8 @@
   from = "/images/:width/*"
   to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_:width,c_limit/https://nicolas-hoizey.photo/:splat"
   status = 200
+
+[[headers]]
+  for = "/ui/*"
+    [headers.values]
+    Cache-Control = "public, max-age=86400"
