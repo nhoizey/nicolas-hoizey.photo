@@ -40,10 +40,10 @@ dimensions:
   width: 3500
   height: 3247
 geo:
-  latitude: 22.276885
-  longitude: 114.16066666666667
+  latitude: 22.276853305
+  longitude: 114.16071278333334
   country: Hong Kong
-  city: Hong-Kong
+  city: Central and Western
 file: the-way-of-zen.jpg
 ---
 

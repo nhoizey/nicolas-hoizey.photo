@@ -44,4 +44,4 @@ geo:
 file: tone-on-tone.jpg
 ---
 
-
+Near the colorful Burano, Mazzorbo is one of the other various islands in the northern part of the Lagoon of Venice.

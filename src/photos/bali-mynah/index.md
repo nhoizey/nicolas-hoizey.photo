@@ -56,10 +56,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 22.276695
-  longitude: 114.16089166666667
+  latitude: 22.276657225
+  longitude: 114.16060013166667
   country: Hong Kong
-  city: 中環
+  city: Central and Western
 file: bali-mynah.jpg
 ---
 

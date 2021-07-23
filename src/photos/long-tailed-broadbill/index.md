@@ -51,10 +51,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 22.277596666666668
-  longitude: 114.160635
+  latitude: 22.276678943333334
+  longitude: 114.16045059833333
   country: Hong Kong
-  city: Hong-Kong
+  city: Central and Western
 file: long-tailed-broadbill.jpg
 ---
 
