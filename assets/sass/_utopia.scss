@@ -2,7 +2,21 @@
 * UTOPIA
 * ********************************************/
 
-/* Global settings */
+/* Fluid type */
+
+/* @link https://utopia.fyi/type/calculator?c=320,16,1.25,1140,20,1.5,4,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+
+:root {
+  --step--1: clamp(0.8rem, 0.79rem + 0.06vw, 0.83rem);
+  --step-0: clamp(1rem, 0.9rem + 0.49vw, 1.25rem);
+  --step-1: clamp(1.25rem, 1.01rem + 1.22vw, 1.88rem);
+  --step-2: clamp(1.56rem, 1.07rem + 2.44vw, 2.81rem);
+  --step-3: clamp(1.95rem, 1.07rem + 4.42vw, 4.22rem);
+  --step-4: clamp(2.44rem, 0.92rem + 7.58vw, 6.33rem);
+}
+/* Fluid space */
+
+/* @link https://utopia.fyi/space/calculator?c=320,16,1.25,1140,20,1.5,4,1,&s=0.75|0.5|0.25,1.5|2|3|4|6, */
 
 :root {
   --fluid-min-width: 320;
@@ -20,58 +34,6 @@
     --fluid-screen: calc(var(--fluid-max-width) * 1px);
   }
 }
-
-/* Fluid type */
-
-/* @link https://utopia.fyi/type/calculator?c=320,16,1.25,1140,24,1.5,4,1,&s=0.75|0.5|0.25,1.5|2|3|4|6, */
-
-:root {
-  --f--1-min: 12.8;
-  --f--1-max: 16;
-  --step--1: calc(
-    ((var(--f--1-min) / 16) * 1rem) + (var(--f--1-max) - var(--f--1-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-0-min: 16;
-  --f-0-max: 24;
-  --step-0: calc(
-    ((var(--f-0-min) / 16) * 1rem) + (var(--f-0-max) - var(--f-0-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-1-min: 20;
-  --f-1-max: 36;
-  --step-1: calc(
-    ((var(--f-1-min) / 16) * 1rem) + (var(--f-1-max) - var(--f-1-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-2-min: 25;
-  --f-2-max: 54;
-  --step-2: calc(
-    ((var(--f-2-min) / 16) * 1rem) + (var(--f-2-max) - var(--f-2-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-3-min: 31.25;
-  --f-3-max: 81;
-  --step-3: calc(
-    ((var(--f-3-min) / 16) * 1rem) + (var(--f-3-max) - var(--f-3-min)) *
-      var(--fluid-bp)
-  );
-
-  --f-4-min: 39.06;
-  --f-4-max: 121.5;
-  --step-4: calc(
-    ((var(--f-4-min) / 16) * 1rem) + (var(--f-4-max) - var(--f-4-min)) *
-      var(--fluid-bp)
-  );
-}
-
-/* Fluid space */
-
-/* @link https://utopia.fyi/space/calculator/?c=320,16,1.25,1140,20,1.5,4,1,&s=0.75|0.5|0.25,1.5|2|3|4|6, */
 
 :root {
   --fc-3xs-min: (var(--fc-s-min) * 0.25);
