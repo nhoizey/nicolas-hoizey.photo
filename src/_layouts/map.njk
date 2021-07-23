@@ -17,7 +17,7 @@ layout: page
   <div id="map"></div>
 
   {% if build.env == 'production' %}
-    <script defer type="module" src="/ui/js/{{ hashes_travels['assets/js/map.js']}}"></script>
+    <script defer type="module" src="/ui/js/{{ hashes_map['assets/js/map.js']}}"></script>
   {% else %}
     <script defer type="module" src="/ui/js/map-es.js"></script>
   {% endif %}
