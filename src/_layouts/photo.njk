@@ -59,6 +59,7 @@ layout: page
           </noscript>
         </div>
         {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
+        <p class="locate icon icon--map">Locate it <a href="/map/#15/{{ geo.latitude }}/{{ geo.longitude }}">on the global map</a></p>
       {% endif %}
     </div>
   </div>
