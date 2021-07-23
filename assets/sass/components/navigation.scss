@@ -42,23 +42,23 @@ nav {
     display: inline-block;
     color: currentColor;
     text-decoration-line: underline;
-    text-decoration-color: $color-surface;
-    text-decoration-thickness: 3px;
+    text-decoration-color: $color-header;
+    text-decoration-thickness: 2px;
   }
 
   a:hover,
   a:focus,
   a:active {
-    color: $color-theme-lighter-5;
-    text-decoration-line: underline;
-    text-decoration-color: $color-theme;
+    color: $color-theme-lighter-3;
+    // text-decoration-line: underline;
+    text-decoration-color: $color-theme-lighter-3;
   }
 
   .current {
     > a:link,
     > a:visited {
-      text-decoration-line: underline;
-      text-decoration-color: $color-theme;
+      // text-decoration-line: underline;
+      text-decoration-color: $color-theme-lighter-2;
     }
   }
 }
