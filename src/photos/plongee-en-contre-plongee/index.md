@@ -16,11 +16,13 @@ tags:
   - eau
   - Egypt
   - Égypte
+  - Gouvernorat de la Mer-Rouge
   - mer
   - Mer Rouge
   - palme
   - plongée
   - Red Sea
+  - Red Sea Governorate
   - sea
   - sport
   - water

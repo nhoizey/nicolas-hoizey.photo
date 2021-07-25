@@ -18,11 +18,13 @@ tags:
   - échelle
   - Egypt
   - Égypte
+  - Gouvernorat de la Mer-Rouge
   - ladder
   - mer
   - Mer Rouge
   - plongée
   - Red Sea
+  - Red Sea Governorate
   - sea
   - sky
   - sport

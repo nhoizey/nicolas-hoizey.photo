@@ -15,6 +15,7 @@ tags:
   - Egypt
   - Égypte
   - femme
+  - Gouvernorat de la Mer-Rouge
   - KD-400Z
   - Konica
   - maillot de bain
@@ -23,6 +24,7 @@ tags:
   - red
   - red sea
   - Red Sea
+  - Red Sea Governorate
   - rouge
   - sea
   - woman

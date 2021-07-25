@@ -40,7 +40,11 @@ settings:
 dimensions:
   width: 2237
   height: 2237
-geo: {}
+geo:
+  latitude: 48.69037432166667
+  longitude: 2.4228543533333333
+  country: France
+  city: Draveil
 file: harvesting-on-bluebells.jpg
 ---
 
