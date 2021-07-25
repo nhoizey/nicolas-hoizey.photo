@@ -32,7 +32,7 @@
   },
   "center": [0, 20],
   "zoom": 2,
-  "sprite": "http://localhost:8080/ui/thumbnails/sprite",
+  "sprite": "https://nicolas-hoizey.photo/ui/thumbnails/sprite",
   "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
   "layers": [
     {

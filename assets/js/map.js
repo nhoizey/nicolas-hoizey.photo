@@ -24,7 +24,7 @@ import polylabel from 'polylabel';
       container: mapElementId,
       // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
       // style: 'mapbox://styles/mapbox/outdoors-v11',
-      style: 'http://localhost:8080/ui/mapbox-style.json',
+      style: 'https://nicolas-hoizey.photo/ui/mapbox-style.json',
       center: [10, 20],
       zoom: 1.5,
       bounds: [
@@ -125,7 +125,7 @@ import polylabel from 'polylabel';
         type: 'symbol',
         source: 'photos',
         filter: ['!', ['has', 'point_count']],
-        sprite: 'http://localhost:8080/ui/thumbnails/sprite',
+        sprite: 'https://nicolas-hoizey.photo/ui/thumbnails/sprite',
         layout: {
           'icon-image': '{slug}',
           'icon-allow-overlap': true,
