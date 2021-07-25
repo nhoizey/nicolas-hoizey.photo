@@ -39,8 +39,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.86082685666667
-  longitude: 2.3518115516666667
+  latitude: 48.8607182
+  longitude: 2.3518114
   country: France
 file: zig-zag.jpg
 ---

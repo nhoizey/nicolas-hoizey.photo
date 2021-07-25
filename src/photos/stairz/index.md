@@ -52,8 +52,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.86082685666667
-  longitude: 2.3518115516666667
+  latitude: 48.860899185
+  longitude: 2.351757158333333
   country: France
 file: stairz.jpg
 ---
