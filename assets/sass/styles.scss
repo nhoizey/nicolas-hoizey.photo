@@ -3,6 +3,7 @@
 @use './fonts';
 @use './layout';
 @use './links';
+@use './icons-sprite';
 @use './components/blog';
 @use './components/meta';
 
@@ -285,28 +286,5 @@ figure {
   a:hover,
   a:focus {
     color: $color-theme-lighter-5;
-  }
-}
-
-/* ********************************************
-* SVG ICONS
-* ********************************************/
-
-.icon {
-  padding-left: 1.2em;
-
-  background-size: 1em 1em;
-  background-position-x: 0;
-  background-position-y: 0.2em;
-  background-repeat: no-repeat;
-}
-
-$iconNames: aperture, download, feeds, twitter, blog, date, camera, urban,
-  nature, folder, travels, like, home, portraits, info, contact, map, tag,
-  focal_length, shutter_speed, flickr, unsplash, iso;
-
-@each $icon in $iconNames {
-  .icon--#{$icon} {
-    background-image: url('/ui/svg-sprite.svg##{$icon}');
   }
 }
