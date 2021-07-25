@@ -25,8 +25,8 @@ dimensions:
   width: 3103
   height: 2069
 geo:
-  latitude: 51.95771708833333
-  longitude: 5.590241996666666
+  latitude: 51.957509853333335
+  longitude: 5.59121836
   country: Pays-Bas
   city: Rhenen
 file: colorful-feathers.jpg

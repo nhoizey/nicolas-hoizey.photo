@@ -39,8 +39,8 @@ dimensions:
   width: 2132
   height: 2131
 geo:
-  latitude: 51.95771708833333
-  longitude: 5.590241996666666
+  latitude: 51.958405813333336
+  longitude: 5.589261265
   country: Pays-Bas
   city: Rhenen
 file: mud-lover.jpg

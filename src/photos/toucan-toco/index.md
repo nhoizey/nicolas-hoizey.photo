@@ -52,8 +52,8 @@ dimensions:
   width: 3456
   height: 2304
 geo:
-  latitude: 51.95771708833333
-  longitude: 5.590241996666666
+  latitude: 51.95707945
+  longitude: 5.591682956666666
   country: Pays-Bas
   city: Rhenen
 file: toucan-toco.jpg

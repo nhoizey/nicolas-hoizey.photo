@@ -36,8 +36,8 @@ dimensions:
   width: 3456
   height: 2304
 geo:
-  latitude: 51.95771708833333
-  longitude: 5.590241996666666
+  latitude: 51.956985275
+  longitude: 5.5909801366666665
   country: Pays-Bas
   city: Rhenen
 file: coco.jpg
