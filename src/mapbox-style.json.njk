@@ -1,3 +1,8 @@
+---
+permalink: mapbox-style.json
+layout: null
+eleventyExcludeFromCollections: true
+---
 {
   "version": 8,
   "name": "Mapbox Outdoors",
@@ -32,7 +37,7 @@
   },
   "center": [0, 20],
   "zoom": 2,
-  "sprite": "https://nicolas-hoizey.photo/ui/thumbnails/sprite",
+  "sprite": "{{ site.url }}/ui/thumbnails/sprite",
   "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
   "layers": [
     {

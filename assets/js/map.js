@@ -1,4 +1,3 @@
-import slugify from '@sindresorhus/slugify';
 import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
 import polylabel from 'polylabel';
 
@@ -18,13 +17,11 @@ import polylabel from 'polylabel';
 
   if (mapElement) {
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
-    // const bbox = JSON.parse(MAP_BBOX);
-
     let map = new mapboxgl.Map({
       container: mapElementId,
       // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
       // style: 'mapbox://styles/mapbox/outdoors-v11',
-      style: 'https://nicolas-hoizey.photo/ui/mapbox-style.json',
+      style: `${window.location.origin}/mapbox-style.json`,
       center: [10, 20],
       zoom: 1.5,
       bounds: [
@@ -125,7 +122,7 @@ import polylabel from 'polylabel';
         type: 'symbol',
         source: 'photos',
         filter: ['!', ['has', 'point_count']],
-        sprite: 'https://nicolas-hoizey.photo/ui/thumbnails/sprite',
+        sprite: `${window.location.origin}/ui/thumbnails/sprite`,
         layout: {
           'icon-image': '{slug}',
           'icon-allow-overlap': true,
@@ -208,10 +205,10 @@ import polylabel from 'polylabel';
       map.on('mouseleave', 'clusters', function () {
         map.getCanvas().style.cursor = '';
       });
-      map.on('mouseenter', 'unclustered-point', function () {
+      map.on('mouseenter', 'unclustered-point-photo', function () {
         map.getCanvas().style.cursor = 'pointer';
       });
-      map.on('mouseleave', 'unclustered-point', function () {
+      map.on('mouseleave', 'unclustered-point-photo', function () {
         map.getCanvas().style.cursor = '';
       });
     });
