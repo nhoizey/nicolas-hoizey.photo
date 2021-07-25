@@ -32,7 +32,8 @@ const ICONS_LIST = {
     incognito: { name: 'portraits' },
     'info-circle': { name: 'info' },
     mail: { name: 'contact' },
-    'map-simple': { name: 'map' },
+    'map-simple-marker': { name: 'map' },
+    share: {},
     tag: {},
     telescope: { name: 'focal_length' },
     timer: { name: 'shutter_speed' },
@@ -123,19 +124,14 @@ const cssClassesString = cssClasses.join(',');
 // Generate an external SVG
 fs.writeFileSync('src/ui/svg-sprite.svg', spriteString);
 
-console.log(`Here's the list of classes to add to your CSS:
-
-${cssClassesString}
-
-For example with Sass:
-
-.icon {
+// Generate the Sass file
+const sass = `.icon {
   padding-left: 1.2em;
 
   background-size: 1em 1em;
-  background-position: left center;
+  background-position-x: 0;
+  background-position-y: 0.2em;
   background-repeat: no-repeat;
-
 }
 
 $iconNames: ${cssClassesString};
@@ -144,4 +140,6 @@ $iconNames: ${cssClassesString};
   .icon--#{$icon} {
     background-image: url('/ui/svg-sprite.svg##{$icon}');
   }
-}`);
+}`;
+
+fs.writeFileSync('assets/sass/_icons-sprite.scss', sass);

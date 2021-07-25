@@ -1,3 +1,4 @@
+import slugify from '@sindresorhus/slugify';
 import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
 import polylabel from 'polylabel';
 
@@ -22,7 +23,8 @@ import polylabel from 'polylabel';
     let map = new mapboxgl.Map({
       container: mapElementId,
       // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
-      style: 'mapbox://styles/mapbox/outdoors-v11',
+      // style: 'mapbox://styles/mapbox/outdoors-v11',
+      style: 'http://localhost:8080/ui/mapbox-style.json',
       center: [10, 20],
       zoom: 1.5,
       bounds: [
@@ -105,16 +107,28 @@ import polylabel from 'polylabel';
         },
       });
 
+      // map.addLayer({
+      //   id: 'unclustered-point',
+      //   type: 'circle',
+      //   source: 'photos',
+      //   filter: ['!', ['has', 'point_count']],
+      //   paint: {
+      //     'circle-color': markerColor,
+      //     'circle-radius': 5,
+      //     'circle-stroke-width': 2,
+      //     'circle-stroke-color': markerStroke,
+      //   },
+      // });
+
       map.addLayer({
-        id: 'unclustered-point',
-        type: 'circle',
+        id: 'unclustered-point-photo',
+        type: 'symbol',
         source: 'photos',
         filter: ['!', ['has', 'point_count']],
-        paint: {
-          'circle-color': markerColor,
-          'circle-radius': 5,
-          'circle-stroke-width': 2,
-          'circle-stroke-color': markerStroke,
+        sprite: 'http://localhost:8080/ui/thumbnails/sprite',
+        layout: {
+          'icon-image': '{slug}',
+          'icon-allow-overlap': true,
         },
       });
 
@@ -169,7 +183,7 @@ import polylabel from 'polylabel';
           );
       });
 
-      map.on('click', 'unclustered-point', function (e) {
+      map.on('click', 'unclustered-point-photo', function (e) {
         let coordinates = e.features[0].geometry.coordinates.slice();
         let imageProperties = e.features[0].properties;
 

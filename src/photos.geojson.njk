@@ -14,6 +14,7 @@ eleventyExcludeFromCollections: true
         "coordinates": [{{ item.data.origin.data.geo.longitude }}, {{ item.data.origin.data.geo.latitude }}]
       },
       "properties": {
+        "slug": "{{ item.fileSlug }}",
         "title": "{{ item.data.title }}",
         "image": "https://nicolas-hoizey.photo/images/200/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg",
         "width": "{{ item.data.origin.data.dimensions.width }}",

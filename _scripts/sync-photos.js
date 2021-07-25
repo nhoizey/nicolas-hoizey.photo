@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const exifr = require('exifr');
+const sharp = require('sharp');
 const slugify = require('../src/_11ty/_utils/slugify.js');
 const moment = require('moment');
 const Fraction = require('fraction.js');
@@ -13,6 +14,15 @@ const path = require('path');
 const SRC =
   '/Users/nhoizey/Synology/Personnel/Photographie/nicolas-hoizey.photo/';
 const DIST = './src/photos/';
+const THUMBNAILS = './_temp/thumbnails/';
+
+// Create folders for thumbnails
+if (!fs.existsSync(path.join(THUMBNAILS, 'icons'))) {
+  fs.mkdirSync(path.join(THUMBNAILS, 'icons'));
+}
+if (!fs.existsSync(path.join(THUMBNAILS, 'icons@2x'))) {
+  fs.mkdirSync(path.join(THUMBNAILS, 'icons@2x'));
+}
 
 let exifrOptions = {
   ifd0: {
@@ -185,6 +195,53 @@ ${photoDescription}
 `;
 
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
+
+    // Generate thumbnails
+    const mask = Buffer.from(
+      '<svg><circle cx="15" cy="15" r="14" fill="black"/></svg>'
+    );
+    const border = Buffer.from(
+      '<svg><circle cx="15" cy="15" r="14" fill="none" stroke="rebeccapurple" stroke-width="2" /></svg>'
+    );
+    sharp(photoPath)
+      .resize(30, 30, {
+        fit: sharp.fit.cover,
+        position: sharp.strategy.cover,
+        position: sharp.strategy.entropy,
+        // background: { r: 0, g: 0, b: 0, alpha: 0 },
+      })
+      .composite([
+        { input: mask, left: 0, top: 0, blend: 'dest-in' },
+        { input: border, left: 0, top: 0, blend: 'over' },
+      ])
+      .toFile(path.join(THUMBNAILS, 'icons', `${slug}.png`), function (err) {
+        if (err) {
+          console.error(`Error while creating thumbnail for ${slug}`, err);
+        }
+      });
+
+    const mask2x = Buffer.from(
+      '<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>'
+    );
+    const border2 = Buffer.from(
+      '<svg><circle cx="30" cy="30" r="28" fill="none" stroke="rebeccapurple" stroke-width="3" /></svg>'
+    );
+    sharp(photoPath)
+      .resize(60, 60, {
+        fit: sharp.fit.cover,
+        position: sharp.strategy.cover,
+        position: sharp.strategy.entropy,
+        // background: { r: 0, g: 0, b: 0, alpha: 0 },
+      })
+      .composite([
+        { input: mask2x, left: 0, top: 0, blend: 'dest-in' },
+        { input: border2, left: 0, top: 0, blend: 'over' },
+      ])
+      .toFile(path.join(THUMBNAILS, 'icons@2x', `${slug}.png`), function (err) {
+        if (err) {
+          console.error(`Error while creating @2x thumbnail for ${slug}`, err);
+        }
+      });
 
     // Add photo to geojson file
     // if (photoYFM.geo.latitude && photoYFM.geo.longitude) {
