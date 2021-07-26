@@ -72,7 +72,8 @@ body {
       margin-left: var(--space-s);
 
       ul {
-        margin-block: var(--space-2xs) var(--space-s);
+        margin-block-start: var(--space-2xs);
+        margin-block-end: var(--space-s);
         display: flex;
         gap: var(--space-2xs);
       }
@@ -84,6 +85,7 @@ body {
   padding: var(--space-s);
 
   @media (min-width: $breakpoint-m) {
-    padding-inline: var(--space-xl);
+    padding-inline-start: var(--space-xl);
+    padding-inline-end: var(--space-xl);
   }
 }

@@ -3,17 +3,7 @@
 
 #map {
   width: 100%;
-  height: auto;
-  aspect-ratio: 3/2;
-
-  img,
-  canvas {
-    border: none;
-    background-color: transparent;
-
-    width: 100% !important;
-    height: auto !important;
-  }
+  height: 70vh;
 
   .mapboxgl-popup {
     width: 220px;
