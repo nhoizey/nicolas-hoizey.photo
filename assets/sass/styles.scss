@@ -116,6 +116,8 @@ img {
   row-gap: var(--space-l);
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 
+  align-items: end;
+
   li {
     max-width: 20rem;
   }
@@ -123,7 +125,7 @@ img {
   figure {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
-    grid-template-rows: repeat(6, 1fr);
+    grid-template-rows: repeat(6, min-content);
 
     perspective: 15rem;
     perspective-origin: bottom center;
