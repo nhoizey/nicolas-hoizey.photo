@@ -9,6 +9,6 @@ title: Photos that are not yet used
 
 <ul class="gallery">
   {% for item in collections.photos_not_in_galleries %}
-    {{ photo(item) }}
+    {{ photo(item, true) }}
   {% endfor %}
 </ul>

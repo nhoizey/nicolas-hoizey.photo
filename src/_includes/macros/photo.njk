@@ -1,6 +1,6 @@
 {% from "macros/meta.njk" import meta %}
 
-{% macro photo(item) %}
+{% macro photo(item, slug=false) %}
 
   {% if item.data.origin %}
     {% set dimensions = item.data.origin.data.dimensions %}
@@ -25,5 +25,8 @@
         {{ meta(item) }}
       </figcaption>
     </figure>
+    {% if slug %}
+      <input type="text" size="20" value="{{ item.fileSlug }}.md" style="font-size: .6em" onclick="this.select();document.execCommand('copy')"/>
+    {% endif %}
   </li>
 {% endmacro %}
