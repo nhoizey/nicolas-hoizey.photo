@@ -15,6 +15,7 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
       style: 'mapbox://styles/mapbox/outdoors-v11',
       center: [mapLongitude, mapLatitude],
       zoom: 6,
+      scrollZoom: false,
       attributionControl: false,
     });
     map.dragRotate.disable();
