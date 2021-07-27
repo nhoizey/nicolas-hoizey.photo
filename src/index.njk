@@ -2,37 +2,41 @@
 title: Welcome!
 ---
 
-<h2>Welcome to my photography portfolio!</h2>
+<section class="welcome">
+  <h2>Welcome to my photography portfolio!</h2>
 
-<p>I’m a French self-taught amateur photographer. I love to <a href="/travels/">travel</a> to discover new horizons and people, shooting both <a href="/nature/">nature</a> and <a href="/urban/">urban</a> scenery, and taking <a href="/portraits/">portraits</a>.</p>
+  <p>I’m a French self-taught amateur photographer. I love to <a href="/travels/">travel</a> to discover new horizons and people, shooting both <a href="/nature/">nature</a> and <a href="/urban/">urban</a> scenery, and taking <a href="/portraits/">portraits</a>.</p>
+</section>
 
-{% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
-{% if sub_galleries | length %}
-  <ul class="galleries">
-    {% for item in sub_galleries %}
-      <li>
-        <figure>
-          {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | shuffle | limit(3) %}
-          {% if photos_below | length %}
-            {% for photo in photos_below %}
-              <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="{{ photo.data.origin.data.dimensions.width }}" height="{{ photo.data.origin.data.dimensions.height }}"/>
-            {% endfor %}
-          {% endif %}
-          <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
-        </figure>
-      </li>
+<section class="topics">
+  {% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
+  {% if sub_galleries | length %}
+    <ul class="galleries">
+      {% for item in sub_galleries %}
+        <li>
+          <figure>
+            {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | shuffle | limit(3) %}
+            {% if photos_below | length %}
+              {% for photo in photos_below %}
+                <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="{{ photo.data.origin.data.dimensions.width }}" height="{{ photo.data.origin.data.dimensions.height }}"/>
+              {% endfor %}
+            {% endif %}
+            <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
+          </figure>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</section>
+
+<section class="latest">
+  <p>Here are my latest photos:</p>
+
+  {% from "macros/photo.njk" import photo %}
+
+  <ul class="gallery">
+    {% for item in collections.photos_in_galleries | limit(6) %}
+      {{ photo(item) }}
     {% endfor %}
   </ul>
-{% endif %}
-
-<p>Here are my latest photos:</p>
-
-{% from "macros/photo.njk" import photo %}
-
-<ul class="gallery">
-  {% for item in collections.photos_in_galleries | limit(6) %}
-    {{ photo(item) }}
-  {% endfor %}
-</ul>
-
-
+</section>

@@ -22,8 +22,9 @@
 
 // Lobotomized owl
 %owl {
-  & > :not(:is(link, style)) + * {
-    margin-top: var(--space-m);
+  & > :not(link) + *,
+  & > :not(style) + * {
+    margin-top: var(--space-xl);
   }
 }
 
