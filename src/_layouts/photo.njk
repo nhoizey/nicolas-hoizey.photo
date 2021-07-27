@@ -29,7 +29,7 @@ layout: page
   <img src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg" class="image" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
 
   <div class="description">
-    {{ content | safe }}
+    {{ content | markdownify | safe }}
   </div>
 
   <div class="meta">
