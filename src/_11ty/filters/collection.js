@@ -1,6 +1,14 @@
 // Inspired by @tylersticka
 // https://github.com/11ty/eleventy/issues/399#issuecomment-466514166
 
+const shuffle = (array) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+};
+
 module.exports = {
   photos_here: (collection, url) =>
     collection.filter((page) => {
@@ -17,7 +25,19 @@ module.exports = {
       const r = new RegExp(`^${url}[^/]+\/`);
       return r.test(page.url);
     }),
-  featured: (collection) => collection.filter((page) => page.data.featured),
+  featured: (collection, number) => {
+    const allFeatured = collection.filter((page) => page.data.featured);
+    const featured = shuffle(allFeatured).slice(0, number);
+    if (featured.length < number) {
+      const allNotFeatured = collection.filter((page) => !page.data.featured);
+      const notFeatured = shuffle(allNotFeatured).slice(
+        0,
+        number - featured.length
+      );
+      return [...featured, ...notFeatured];
+    }
+    return featured;
+  },
   not_featured: (collection) =>
     collection.filter((page) => !page.data.featured),
   sub_galleries: (collection, url) =>
