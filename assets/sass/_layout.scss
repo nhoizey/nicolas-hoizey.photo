@@ -40,6 +40,8 @@ header {
 }
 
 nav {
+  margin-top: var(--space-s-m);
+
   ul {
     display: flex;
     flex-direction: row;
