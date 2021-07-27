@@ -21,7 +21,7 @@ layout: page
 {% if sub_galleries | length %}
   <ul class="galleries">
     {% for item in sub_galleries %}
-      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | shuffle | limit(3) %}
+      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured | shuffle | limit(4) %}
       {% if photos_below | length %}
         <li>
           <figure>

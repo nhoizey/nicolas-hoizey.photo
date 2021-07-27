@@ -143,7 +143,8 @@ img {
     }
 
     .diaporama__2,
-    .diaporama__3 {
+    .diaporama__3,
+    .diaporama__4 {
       img {
         object-fit: cover;
         transform-origin: 50% 50%;
@@ -177,6 +178,25 @@ img {
 
       img:nth-of-type(3) {
         animation-delay: $diaporama-timing * 2;
+      }
+    }
+
+    .diaporama__4 {
+      img {
+        animation-name: diaporama__4;
+        animation-duration: $diaporama-timing * 4;
+      }
+
+      img:nth-of-type(2) {
+        animation-delay: $diaporama-timing;
+      }
+
+      img:nth-of-type(3) {
+        animation-delay: $diaporama-timing * 2;
+      }
+
+      img:nth-of-type(4) {
+        animation-delay: $diaporama-timing * 3;
       }
     }
   }
@@ -222,6 +242,31 @@ img {
   }
 
   46.66% {
+    opacity: 0;
+    transform: scale(1) translate(0, 0);
+  }
+
+  100% {
+    opacity: 0;
+    transform: scale($diaporama-scale) translate(-5%, 5%);
+  }
+}
+
+@keyframes diaporama__4 {
+  0% {
+    opacity: 0;
+    transform: scale($diaporama-scale) translate(-5%, 5%);
+  }
+
+  10% {
+    opacity: 1;
+  }
+
+  25% {
+    opacity: 1;
+  }
+
+  35% {
     opacity: 0;
     transform: scale(1) translate(0, 0);
   }

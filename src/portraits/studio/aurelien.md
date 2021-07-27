@@ -1,2 +1,3 @@
 ---
+featured: true
 ---

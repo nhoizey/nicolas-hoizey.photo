@@ -17,6 +17,9 @@ module.exports = {
       const r = new RegExp(`^${url}[^/]+\/`);
       return r.test(page.url);
     }),
+  featured: (collection) => collection.filter((page) => page.data.featured),
+  not_featured: (collection) =>
+    collection.filter((page) => !page.data.featured),
   sub_galleries: (collection, url) =>
     collection.filter((page) => {
       const r = new RegExp(`^${url}[^/]+\/$`);
