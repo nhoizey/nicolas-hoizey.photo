@@ -8,17 +8,17 @@
     data-img-src="{{ page.inputPath | dirname }}/"
     data-img-dist="{{ page.outputPath | dirname }}/"
   >
+    <header role="banner">
+      {% include 'components/logo.njk' %}
+      {% include 'components/navigation.njk' %}
+    </header>
     <div class="page">
-      <header id="header" role="banner">
-        {% include 'components/logo.njk' %}
-        {% include 'components/navigation.njk' %}
-      </header>
       <main id="main" role="main">
         {% block content %}
           {{ content | safe }}
         {% endblock %}
-        {% include 'components/footer.njk' %}
       </main>
+      {% include 'components/footer.njk' %}
     </div>
 
     {% from "macros/js.njk" import js %}

@@ -24,11 +24,11 @@
     overflow-y: scroll;
 
     p {
-      margin-block-start: 0;
+      margin-top: 0;
     }
 
     p + p {
-      margin-block-start: var(--space-xs);
+      margin-top: var(--space-xs);
     }
   }
 

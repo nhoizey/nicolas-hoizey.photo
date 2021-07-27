@@ -11,26 +11,13 @@ body {
 
   display: flex;
   flex-direction: column;
-  gap: var(--space-m);
-}
-
-.page {
-  flex-grow: 1;
-
-  display: flex;
-  flex-direction: column;
-  gap: 0;
-
-  main {
-    flex-grow: 1;
-  }
 
   @media (min-width: $breakpoint-m) {
     flex-direction: row;
   }
 }
 
-#header {
+header {
   padding: var(--space-s);
 
   display: flex;
@@ -51,16 +38,17 @@ body {
   }
 }
 
-#nav {
-  flex-grow: 1;
-
+nav {
   ul {
     display: flex;
-    gap: var(--space-xs);
     flex-direction: row;
     flex-wrap: wrap;
 
     justify-content: flex-end;
+
+    li + li {
+      margin-left: var(--space-xs);
+    }
 
     ul {
       display: none;
@@ -68,24 +56,48 @@ body {
 
     @media (min-width: $breakpoint-m) {
       flex-direction: column;
-      gap: var(--space-s);
       margin-left: var(--space-s);
 
+      li + li {
+        margin-left: 0;
+        margin-top: var(--space-s);
+      }
+
+      li + .blog {
+        margin-top: var(--space-l);
+      }
+
       ul {
-        margin-block-start: var(--space-2xs);
-        margin-block-end: var(--space-s);
+        margin-top: var(--space-2xs);
+        margin-bottom: var(--space-s);
+        padding-left: 1em;
         display: flex;
-        gap: var(--space-2xs);
+
+        li + li {
+          margin-top: var(--space-2xs);
+        }
       }
     }
   }
 }
 
-#main {
-  padding: var(--space-s);
+.page {
+  flex-grow: 1;
+
+  display: flex;
+  flex-direction: column;
 
   @media (min-width: $breakpoint-m) {
-    padding-inline-start: var(--space-xl);
-    padding-inline-end: var(--space-xl);
+    min-height: 100vh;
+  }
+}
+
+main {
+  padding: var(--space-s);
+  flex-grow: 1;
+
+  @media (min-width: $breakpoint-m) {
+    padding-left: var(--space-xl);
+    padding-right: var(--space-xl);
   }
 }

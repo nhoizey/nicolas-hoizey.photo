@@ -4,5 +4,5 @@ https://absolutely.every-layout.dev/layouts/stack/
 */
 
 .stack > * + * {
-  margin-block-start: var(--gap);
+  margin-top: var(--gap);
 }

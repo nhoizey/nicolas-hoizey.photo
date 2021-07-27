@@ -1,7 +1,7 @@
 {% from "macros/css.njk" import css %}
 {{ css('components/navigation', build.env) }}
 
-<nav id="nav" role="navigation">
+<nav role="navigation">
   <ul>
     {% for item in collections.navigation %}
       {% set targetUrl = item.data.nav.away or item.url %}
@@ -27,5 +27,4 @@
       </li>
     {% endfor %}
   </ul>
-  {% include 'components/social.njk' %}
 </nav>
