@@ -92,15 +92,15 @@ module.exports = {
       loading: 'lazy',
     },
   },
-  mosaic: {
+  diaporama: {
     resizedImageUrl: (src, width) =>
-      src.replace(site.url, `${site.url}/square-images/${width}`),
+      src.replace(site.url, `${site.url}/diaporama/${width}`),
     fallbackWidth: 200,
     minWidth: 100,
     maxWidth: 400,
     sizes:
       '(max-width: 20rem) 45vw, (max-width: 30rem) 30vw, (max-width: 67rem) 22.5vw, 15rem',
     figure: 'never',
-    classes: ['mosaic'],
+    classes: ['diaporama'],
   },
 };
