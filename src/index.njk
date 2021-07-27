@@ -10,23 +10,21 @@ title: Welcome!
 
 <section class="topics">
   {% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
-  {% if sub_galleries | length %}
-    <ul class="galleries">
-      {% for item in sub_galleries %}
-        <li>
-          <figure>
-            {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | shuffle | limit(3) %}
-            {% if photos_below | length %}
-              {% for photo in photos_below %}
-                <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="{{ photo.data.origin.data.dimensions.width }}" height="{{ photo.data.origin.data.dimensions.width }}" data-responsiver="mosaic" />
-              {% endfor %}
-            {% endif %}
-            <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
-          </figure>
-        </li>
-      {% endfor %}
-    </ul>
-  {% endif %}
+  <ul class="galleries">
+    {% for item in sub_galleries %}
+      <li>
+        <figure>
+          {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | shuffle | limit(3) %}
+          <div class="diaporama diaporama__{{ photos_below | length }}">
+            {% for photo in photos_below %}
+              <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="{{ photo.data.origin.data.dimensions.width }}" height="{{ photo.data.origin.data.dimensions.width }}" data-responsiver="mosaic" />
+            {% endfor %}
+          </div>
+          <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
+        </figure>
+      </li>
+    {% endfor %}
+  </ul>
 </section>
 
 <section class="latest">

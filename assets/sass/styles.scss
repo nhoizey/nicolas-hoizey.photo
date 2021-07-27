@@ -144,7 +144,7 @@ img {
   align-items: end;
 
   li {
-    max-width: 30rem;
+    max-width: 20rem;
   }
 
   figure {
@@ -164,11 +164,6 @@ img {
         display: block;
         padding-bottom: 100%;
       }
-    }
-
-    img {
-      // TODO: remove?
-      max-height: 12rem;
     }
 
     .diaporama__2 {
