@@ -19,6 +19,11 @@
   to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_:width,c_limit/https://nicolas-hoizey.photo/:splat"
   status = 200
 
+[[redirects]]
+  from = "/images/square/:width/*"
+  to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_:width,h_:width,c_fill/https://nicolas-hoizey.photo/:splat"
+  status = 200
+
 [[headers]]
   for = "/ui/*"
     [headers.values]
