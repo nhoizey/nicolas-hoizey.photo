@@ -71,7 +71,6 @@
   }
 
   @media (min-width: $breakpoint-m) {
-    background: green;
     // Make the image fully visible on load without scrolling
     // = Full height
     // - body padding: var(--space-s)
@@ -91,7 +90,6 @@
   }
 
   @media (min-width: $breakpoint-l) {
-    background: red;
     grid-template-areas:
       'header header'
       'photo photo'

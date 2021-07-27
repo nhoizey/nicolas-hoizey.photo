@@ -263,18 +263,8 @@ figure {
   margin: 0;
   position: relative;
 
-  > img,
-  > .diaporama {
-  }
-
   figcaption {
     line-height: 1.3;
-
-    padding-left: 4px;
-    padding-right: 4px;
-
-    display: flex;
-    flex-direction: column;
   }
 
   a::after {
