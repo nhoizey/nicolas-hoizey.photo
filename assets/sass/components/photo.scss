@@ -26,6 +26,15 @@
 
   .description {
     grid-area: description;
+
+    p {
+      margin: 0;
+    }
+
+    // TODO: use %owl
+    p + p {
+      margin-top: 1em;
+    }
   }
 
   .tags {
@@ -62,6 +71,7 @@
   }
 
   @media (min-width: $breakpoint-m) {
+    background: green;
     // Make the image fully visible on load without scrolling
     // = Full height
     // - body padding: var(--space-s)
@@ -78,6 +88,16 @@
     @media (max-height: 30em) {
       --base: 30rem;
     }
+  }
+
+  @media (min-width: $breakpoint-l) {
+    background: red;
+    grid-template-areas:
+      'header header'
+      'photo photo'
+      'description meta'
+      'tags meta';
+    grid-template-columns: 2fr 1fr;
   }
 
   &.portrait {
