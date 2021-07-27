@@ -22,8 +22,7 @@
 
 // Lobotomized owl
 %owl {
-  & > :not(link) + *,
-  & > :not(style) + * {
+  & > :not(link):not(style) + * {
     margin-top: var(--space-xl);
   }
 }
@@ -294,15 +293,6 @@ figure {
   border-style: solid;
   border-width: 2px;
   border-color: white;
-
-  transition-property: border-color;
-  transition-duration: $transition-timing;
-  transition-timing-function: ease-in-out;
-
-  &:hover,
-  &:focus-within {
-    border-color: $color-theme;
-  }
 }
 
 /* ********************************************
