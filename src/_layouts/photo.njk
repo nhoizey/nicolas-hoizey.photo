@@ -15,7 +15,7 @@ layout: page
 {{ css('components/photo', build.env) }}
 
 <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
-  <header>
+  <div class="header">
     {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
     <ul class="breadcrumb">
       <li><a href="/">Home</a></li>
@@ -24,7 +24,7 @@ layout: page
       {% endfor %}
     </ul>
     <h1>{{ title }}</h1>
-  </header>
+  </div>
 
   <img src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg" class="image" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
 
