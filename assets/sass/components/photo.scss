@@ -37,8 +37,7 @@
   }
 
   h1 {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0;
   }
 
   .image {
@@ -79,18 +78,6 @@
     @media (max-height: 30em) {
       --base: 30rem;
     }
-  }
-
-  @media (min-width: $breakpoint-l) {
-    // debug
-    // background-color: red;
-
-    grid-template-areas:
-      'header header'
-      'photo photo'
-      'description meta'
-      'tags meta';
-    grid-template-columns: 2fr 1fr;
   }
 
   &.portrait {
