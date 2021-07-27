@@ -1,9 +1,16 @@
 @use '../variables' as *;
 @use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 
+.map {
+  h1 {
+    margin-bottom: var(--space-xs);
+  }
+}
 #map {
   width: 100%;
-  height: 70vh;
+  height: calc(
+    100vh - var(--space-s) - 1.5rem - 1.2 * var(--step-3) - 2 * var(--space-xs)
+  );
 
   .mapboxgl-popup {
     width: 220px;

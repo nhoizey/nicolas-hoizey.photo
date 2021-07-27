@@ -2,22 +2,24 @@
 layout: page
 ---
 
-<ul class="breadcrumb">
-  <li><a href="/">Home</a></li>
-</ul>
+<div class="map">
+  <div class="header">
+    <ul class="breadcrumb">
+      <li><a href="/">Home</a></li>
+    </ul>
+    <h1>{{ title }}</h1>
+  </div>
 
-<h1>{{ title }}</h1>
-
-{{ content | safe }}
-
+  {{ content | safe }}
 
   {% from "macros/css.njk" import css %}
   {{ css('components/map', build.env) }}
 
   <div id="map"></div>
+</div>
 
-  {% if build.env == 'production' %}
-    <script defer type="module" src="/ui/js/{{ hashes_map['assets/js/map.js']}}"></script>
-  {% else %}
-    <script defer type="module" src="/ui/js/map-es.js"></script>
-  {% endif %}
+{% if build.env == 'production' %}
+  <script defer type="module" src="/ui/js/{{ hashes_map['assets/js/map.js']}}"></script>
+{% else %}
+  <script defer type="module" src="/ui/js/map-es.js"></script>
+{% endif %}
