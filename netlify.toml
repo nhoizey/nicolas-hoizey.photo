@@ -21,7 +21,7 @@
 
 [[redirects]]
   from = "/images/square/:width/*"
-  to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_:width,h_:width,c_fill/https://nicolas-hoizey.photo/:splat"
+  to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_:width,ar_1:1,c_fill/https://nicolas-hoizey.photo/:splat"
   status = 200
 
 [[headers]]
