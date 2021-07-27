@@ -20,6 +20,22 @@
     grid-area: header;
   }
 
+  .image {
+    grid-area: photo;
+  }
+
+  .description {
+    grid-area: description;
+  }
+
+  .tags {
+    grid-area: tags;
+  }
+
+  .meta {
+    grid-area: meta;
+  }
+
   h1 {
     margin-top: 0;
     margin-bottom: 0;
@@ -29,7 +45,6 @@
     width: var(--width);
     max-height: var(--height);
 
-    grid-area: photo;
     justify-self: start;
     align-self: start;
 
@@ -40,12 +55,7 @@
     border-color: white;
   }
 
-  .description {
-    grid-area: description;
-  }
-
   .tags {
-    grid-area: tags;
     justify-self: start;
     align-self: end;
     font-size: var(--step--1);
@@ -79,7 +89,7 @@
       'header header'
       'photo photo'
       'description meta'
-      'tags exif';
+      'tags meta';
     grid-template-columns: 2fr 1fr;
   }
 
@@ -134,7 +144,6 @@
 }
 
 .meta {
-  grid-area: meta;
   align-self: start;
   justify-self: stretch;
   width: 100%;
