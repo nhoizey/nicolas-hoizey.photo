@@ -94,7 +94,7 @@ module.exports = {
   },
   mosaic: {
     resizedImageUrl: (src, width) =>
-      src.replace(site.url, `${site.url}/images/square/${width}`),
+      src.replace(site.url, `${site.url}/square-images/${width}`),
     fallbackWidth: 200,
     minWidth: 100,
     maxWidth: 400,
