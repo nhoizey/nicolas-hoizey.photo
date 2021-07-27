@@ -28,30 +28,6 @@
   }
 }
 
-// Acpect ratio padding hack
-[style*='--aspect-ratio'] > :first-child {
-  width: 100%;
-}
-[style*='--aspect-ratio'] > img {
-  height: auto;
-}
-@supports (--custom: property) {
-  [style*='--aspect-ratio'] {
-    position: relative;
-  }
-  [style*='--aspect-ratio']::before {
-    content: '';
-    display: block;
-    padding-bottom: calc(100% / (var(--aspect-ratio)));
-  }
-  [style*='--aspect-ratio'] > :first-child {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-  }
-}
-
 // Box sizing:
 // http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
 html {
@@ -150,13 +126,14 @@ img {
   figure {
     .diaporama {
       position: relative;
+      overflow: hidden;
 
       > img {
         position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
+        top: 1px;
+        left: 1px;
+        width: calc(100% - 2px);
+        height: calc(100% - 2px);
       }
 
       &::before {
@@ -169,6 +146,9 @@ img {
     .diaporama__2,
     .diaporama__3 {
       img {
+        object-fit: cover;
+        transform-origin: 50% 50%;
+        transform: scale($diaporama-scale) translate(-5%, -5%);
         opacity: 0;
         animation-timing-function: linear;
         animation-iteration-count: infinite;
@@ -178,26 +158,26 @@ img {
     .diaporama__2 {
       img {
         animation-name: diaporama__2;
-        animation-duration: $timing-diaporama * 2;
+        animation-duration: $diaporama-timing * 2;
       }
 
       img:nth-of-type(2) {
-        animation-delay: $timing-diaporama;
+        animation-delay: $diaporama-timing;
       }
     }
 
     .diaporama__3 {
       img {
         animation-name: diaporama__3;
-        animation-duration: $timing-diaporama * 3;
+        animation-duration: $diaporama-timing * 3;
       }
 
       img:nth-of-type(2) {
-        animation-delay: $timing-diaporama;
+        animation-delay: $diaporama-timing;
       }
 
       img:nth-of-type(3) {
-        animation-delay: $timing-diaporama * 2;
+        animation-delay: $diaporama-timing * 2;
       }
     }
   }
@@ -206,6 +186,7 @@ img {
 @keyframes diaporama__2 {
   0% {
     opacity: 0;
+    transform: scale($diaporama-scale) translate(-5%, 5%);
   }
 
   20% {
@@ -218,16 +199,19 @@ img {
 
   70% {
     opacity: 0;
+    transform: scale(1) translate(0, 0);
   }
 
   100% {
     opacity: 0;
+    transform: scale($diaporama-scale) translate(-5%, 5%);
   }
 }
 
 @keyframes diaporama__3 {
   0% {
     opacity: 0;
+    transform: scale($diaporama-scale) translate(-5%, 5%);
   }
 
   13.33% {
@@ -240,10 +224,12 @@ img {
 
   46.66% {
     opacity: 0;
+    transform: scale(1) translate(0, 0);
   }
 
   100% {
     opacity: 0;
+    transform: scale($diaporama-scale) translate(-5%, 5%);
   }
 }
 
@@ -278,23 +264,8 @@ figure {
   margin: 0;
   position: relative;
 
-  img {
-    background-color: black;
-    padding: 1px;
-    border-style: solid;
-    border-width: 2px;
-    border-color: white;
-
-    transition-property: border-color;
-    transition-duration: $timing-transition;
-    transition-timing-function: ease-in-out;
-  }
-
-  &:hover,
-  &:focus-within {
-    img {
-      border-color: $color-theme;
-    }
+  > img,
+  > .diaporama {
   }
 
   figcaption {
@@ -314,6 +285,23 @@ figure {
     right: 0;
     bottom: 0;
     left: 0;
+  }
+}
+
+.frame {
+  background-color: black;
+  padding: 1px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+
+  transition-property: border-color;
+  transition-duration: $transition-timing;
+  transition-timing-function: ease-in-out;
+
+  &:hover,
+  &:focus-within {
+    border-color: $color-theme;
   }
 }
 

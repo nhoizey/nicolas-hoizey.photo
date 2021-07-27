@@ -11,7 +11,7 @@ a:visited {
   text-decoration-thickness: 2px;
 
   transition-property: text-decoration-color;
-  transition-duration: $timing-transition;
+  transition-duration: $transition-timing;
   transition-timing-function: ease-in-out;
 
   // https://twitter.com/argyleink/status/1405881231695302659

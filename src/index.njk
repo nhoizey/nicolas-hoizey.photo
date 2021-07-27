@@ -15,10 +15,12 @@ title: Welcome!
       <li>
         <figure>
           {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | shuffle | limit(3) %}
-          <div class="diaporama diaporama__{{ photos_below | length }}">
-            {% for photo in photos_below %}
-              <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="{{ photo.data.origin.data.dimensions.width }}" height="{{ photo.data.origin.data.dimensions.width }}" data-responsiver="mosaic" />
-            {% endfor %}
+          <div class="frame">
+            <div class="diaporama diaporama__{{ photos_below | length }}">
+              {% for photo in photos_below %}
+                <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="{{ photo.data.origin.data.dimensions.width }}" height="{{ photo.data.origin.data.dimensions.width }}" data-responsiver="mosaic" />
+              {% endfor %}
+            </div>
           </div>
           <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
         </figure>
