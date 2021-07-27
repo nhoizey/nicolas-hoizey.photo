@@ -43,7 +43,9 @@ const runBeforeHook = (image, document) => {
     image.setAttribute('src', imageUrl);
   }
 
-  image.dataset.responsiver = image.className;
+  if (!('responsiver' in image.dataset) && image.className) {
+    image.dataset.responsiver = image.className;
+  }
 };
 
 const runAfterHook = (image, document) => {
