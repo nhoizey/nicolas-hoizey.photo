@@ -73,7 +73,7 @@ nav {
       ul {
         margin-top: var(--space-2xs);
         margin-bottom: var(--space-s);
-        padding-left: 1em;
+        padding-left: var(--space-m);
         display: flex;
 
         li + li {
