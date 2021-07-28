@@ -39,9 +39,9 @@
       }
     }
 
-    .diaporama__2,
-    .diaporama__3,
-    .diaporama__4 {
+    .diaporama_2,
+    .diaporama_3,
+    .diaporama_4 {
       img {
         object-fit: cover;
         transform-origin: 50% 50%;
@@ -52,9 +52,9 @@
       }
     }
 
-    .diaporama__2 {
+    .diaporama_2 {
       img {
-        animation-name: diaporama__2;
+        animation-name: fade_2;
         animation-duration: $diaporama-timing * 2;
       }
 
@@ -63,9 +63,9 @@
       }
     }
 
-    .diaporama__3 {
+    .diaporama_3 {
       img {
-        animation-name: diaporama__3;
+        animation-name: fade_3;
         animation-duration: $diaporama-timing * 3;
       }
 
@@ -78,9 +78,9 @@
       }
     }
 
-    .diaporama__4 {
+    .diaporama_4 {
       img {
-        animation-name: diaporama__4;
+        animation-name: fade_4;
         animation-duration: $diaporama-timing * 4;
       }
 
@@ -99,7 +99,7 @@
   }
 }
 
-@keyframes diaporama__2 {
+@keyframes fade_2 {
   0% {
     opacity: 0;
     transform: scale($diaporama-scale) translate(-5%, 5%);
@@ -124,7 +124,7 @@
   }
 }
 
-@keyframes diaporama__3 {
+@keyframes fade_3 {
   0% {
     opacity: 0;
     transform: scale($diaporama-scale) translate(-5%, 5%);
@@ -149,7 +149,7 @@
   }
 }
 
-@keyframes diaporama__4 {
+@keyframes fade_4 {
   0% {
     opacity: 0;
     transform: scale($diaporama-scale) translate(-5%, 5%);

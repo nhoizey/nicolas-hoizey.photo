@@ -13,7 +13,7 @@
       <img
         src="/photos/{{ item.data.page.fileSlug }}/{{ item.data.page.fileSlug }}.jpg"
         alt="{{ item.data.title }}"
-        class="frame"
+        class="frame{% if dimensions.width < dimensions.height %} portrait{% endif %}"
         {% if dimensions.width %}
           width="{{ dimensions.width }}"
         {% endif %}

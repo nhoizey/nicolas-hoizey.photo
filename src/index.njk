@@ -19,9 +19,9 @@ title: Welcome!
         <figure>
           <div class="frame">
             {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
-            <div class="diaporama diaporama__{{ photos_below | length }}">
+            <div class="diaporama diaporama_{{ photos_below | length }}">
               {% for photo in photos_below %}
-                <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="{{ photo.data.origin.data.dimensions.width }}" height="{{ photo.data.origin.data.dimensions.width }}" data-responsiver="diaporama" />
+                <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="3000" height="2000" data-responsiver="diaporama" />
               {% endfor %}
             </div>
           </div>

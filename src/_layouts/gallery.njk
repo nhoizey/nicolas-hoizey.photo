@@ -29,9 +29,10 @@ layout: page
         <li>
           <figure>
             <div class="frame">
-              <div class="diaporama diaporama__{{ photos_below | length }}">
+              <div class="diaporama diaporama_{{ photos_below | length }}">
                 {% for photo in photos_below %}
-                  <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="{{ photo.data.origin.data.dimensions.width }}" height="{{ photo.data.origin.data.dimensions.width }}" data-responsiver="diaporama" />
+                  {% set dimensions = photo.data.origin.data.dimensions %}
+                  <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="3000" height="2000" {% if dimensions.width < dimensions.height %}class="portrait"{% endif %} data-responsiver="diaporama" />
                 {% endfor %}
               </div>
             </div>
