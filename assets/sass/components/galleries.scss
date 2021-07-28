@@ -45,8 +45,6 @@
       img {
         object-fit: cover;
         transform-origin: 50% 50%;
-        transform: scale($diaporama-scale) translate(-5%, -5%);
-        opacity: 0;
         animation-timing-function: linear;
         animation-iteration-count: infinite;
       }
