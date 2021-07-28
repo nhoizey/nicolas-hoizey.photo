@@ -32,7 +32,7 @@ layout: page
               <div class="diaporama diaporama_{{ photos_below | length }}">
                 {% for photo in photos_below %}
                   {% set dimensions = photo.data.origin.data.dimensions %}
-                  <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="3000" height="2000" {% if dimensions.width < dimensions.height %}class="portrait"{% endif %} data-responsiver="diaporama" />
+                  <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="3000" height="2000" {% if dimensions.width < dimensions.height %}class="portrait"{% endif %} data-responsiver="diaporama" style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%" />
                 {% endfor %}
               </div>
             </div>

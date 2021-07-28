@@ -7,6 +7,7 @@
 .galleries {
   list-style: none;
   padding-left: 0;
+  font-size: var(--step-1);
 
   display: grid;
   column-gap: var(--space-2xl);
@@ -19,80 +20,79 @@
     max-width: 30rem;
   }
 
-  figure {
-    .diaporama {
-      position: relative;
-      overflow: hidden;
+  .diaporama {
+    position: relative;
+    overflow: hidden;
 
-      > img {
-        position: absolute;
-        top: 1px;
-        left: 1px;
-        width: calc(100% - 2px);
-        height: calc(100% - 2px);
-      }
-
-      &::before {
-        content: '';
-        display: block;
-        padding-bottom: 66.666%;
-      }
+    > img {
+      position: absolute;
+      top: 1px;
+      left: 1px;
+      width: calc(100% - 2px);
+      height: calc(100% - 2px);
     }
 
-    .diaporama_2,
-    .diaporama_3,
-    .diaporama_4 {
-      img {
-        object-fit: cover;
-        transform-origin: 50% 50%;
-        animation-timing-function: linear;
-        animation-iteration-count: infinite;
-      }
+    &::before {
+      content: '';
+      display: block;
+      padding-bottom: 66.666%;
+    }
+  }
+
+  .diaporama_2,
+  .diaporama_3,
+  .diaporama_4 {
+    img {
+      opacity: 0;
+      object-fit: cover;
+      transform-origin: 50% 50%;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  }
+
+  .diaporama_2 {
+    img {
+      animation-name: fade_2;
+      animation-duration: $diaporama-timing * 2;
     }
 
-    .diaporama_2 {
-      img {
-        animation-name: fade_2;
-        animation-duration: $diaporama-timing * 2;
-      }
+    img:nth-of-type(2) {
+      animation-delay: $diaporama-timing;
+    }
+  }
 
-      img:nth-of-type(2) {
-        animation-delay: $diaporama-timing;
-      }
+  .diaporama_3 {
+    img {
+      animation-name: fade_3;
+      animation-duration: $diaporama-timing * 3;
     }
 
-    .diaporama_3 {
-      img {
-        animation-name: fade_3;
-        animation-duration: $diaporama-timing * 3;
-      }
-
-      img:nth-of-type(2) {
-        animation-delay: $diaporama-timing;
-      }
-
-      img:nth-of-type(3) {
-        animation-delay: $diaporama-timing * 2;
-      }
+    img:nth-of-type(2) {
+      animation-delay: $diaporama-timing;
     }
 
-    .diaporama_4 {
-      img {
-        animation-name: fade_4;
-        animation-duration: $diaporama-timing * 4;
-      }
+    img:nth-of-type(3) {
+      animation-delay: $diaporama-timing * 2;
+    }
+  }
 
-      img:nth-of-type(2) {
-        animation-delay: $diaporama-timing;
-      }
+  .diaporama_4 {
+    img {
+      animation-name: fade_4;
+      animation-duration: $diaporama-timing * 4;
+    }
 
-      img:nth-of-type(3) {
-        animation-delay: $diaporama-timing * 2;
-      }
+    img:nth-of-type(2) {
+      animation-delay: $diaporama-timing;
+    }
 
-      img:nth-of-type(4) {
-        animation-delay: $diaporama-timing * 3;
-      }
+    img:nth-of-type(3) {
+      animation-delay: $diaporama-timing * 2;
+    }
+
+    img:nth-of-type(4) {
+      animation-delay: $diaporama-timing * 3;
     }
   }
 }
@@ -100,7 +100,8 @@
 @keyframes fade_2 {
   0% {
     opacity: 0;
-    transform: scale($diaporama-scale) translate(-5%, 5%);
+    transform: scale($diaporama-scale)
+      translate(var(--pan-x-start), var(--pan-y-start));
   }
 
   20% {
@@ -118,14 +119,16 @@
 
   100% {
     opacity: 0;
-    transform: scale($diaporama-scale) translate(-5%, 5%);
+    transform: scale($diaporama-scale)
+      translate(var(--pan-x-start), var(--pan-y-start));
   }
 }
 
 @keyframes fade_3 {
   0% {
     opacity: 0;
-    transform: scale($diaporama-scale) translate(-5%, 5%);
+    transform: scale($diaporama-scale)
+      translate(var(--pan-x-start), var(--pan-y-start));
   }
 
   13.33% {
@@ -143,14 +146,16 @@
 
   100% {
     opacity: 0;
-    transform: scale($diaporama-scale) translate(-5%, 5%);
+    transform: scale($diaporama-scale)
+      translate(var(--pan-x-start), var(--pan-y-start));
   }
 }
 
 @keyframes fade_4 {
   0% {
     opacity: 0;
-    transform: scale($diaporama-scale) translate(-5%, 5%);
+    transform: scale($diaporama-scale)
+      translate(var(--pan-x-start), var(--pan-y-start));
   }
 
   10% {
@@ -168,6 +173,7 @@
 
   100% {
     opacity: 0;
-    transform: scale($diaporama-scale) translate(-5%, 5%);
+    transform: scale($diaporama-scale)
+      translate(var(--pan-x-start), var(--pan-y-start));
   }
 }

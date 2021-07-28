@@ -21,7 +21,7 @@ title: Welcome!
             {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
             <div class="diaporama diaporama_{{ photos_below | length }}">
               {% for photo in photos_below %}
-                <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="3000" height="2000" data-responsiver="diaporama" />
+                <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="3000" height="2000" data-responsiver="diaporama" style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%" />
               {% endfor %}
             </div>
           </div>
