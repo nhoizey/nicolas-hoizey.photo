@@ -1,6 +1,6 @@
 ---
 title: Travels
 nav:
-  order: 3
+  order: 1
   icon: travels
 ---
