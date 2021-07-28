@@ -33,6 +33,7 @@ const ICONS_LIST = {
     'info-circle': { name: 'info' },
     mail: { name: 'contact' },
     'map-simple-marker': { name: 'map' },
+    puzzle: { name: 'misc' },
     share: {},
     tag: {},
     telescope: { name: 'focal_length' },

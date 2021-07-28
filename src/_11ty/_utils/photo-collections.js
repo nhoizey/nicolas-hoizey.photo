@@ -1,1 +1,1 @@
-module.exports = ['nature', 'urban', 'travels', 'portraits'];
+module.exports = ['nature', 'urban', 'travels', 'portraits', 'misc'];

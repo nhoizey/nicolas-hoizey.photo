@@ -15,6 +15,7 @@ module.exports = {
         'src/urban/*/index.md',
         'src/travels/*/index.md',
         'src/portraits/*/index.md',
+        'src/misc/*/index.md',
       ])
       .sort((a, b) => sortOrderThenAlpha(a, b)),
 };
