@@ -5,6 +5,9 @@ title: Photos that are not yet used
 
 {% from "macros/photo.njk" import photo %}
 
+{% from "macros/css.njk" import css %}
+{{ css('components/gallery', build.env) }}
+
 <h1>{{ title }}</h1>
 
 <ul class="gallery">

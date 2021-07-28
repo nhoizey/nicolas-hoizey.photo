@@ -17,6 +17,9 @@ layout: page
 
 {{ content | safe }}
 
+{% from "macros/css.njk" import css %}
+{{ css('components/galleries', build.env) }}
+
 {% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
 {% if sub_galleries | length %}
   <ul class="galleries">
@@ -42,12 +45,18 @@ layout: page
 
 {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
 {% if photos_here | length %}
-  <h2>Photos</h2>
-  <ul class="gallery">
-    {% for item in photos_here %}
-      {{ photo(item) }}
-    {% endfor %}
-  </ul>
+
+  {% from "macros/css.njk" import css %}
+  {{ css('components/gallery', build.env) }}
+
+  <section>
+    <h2>Photos</h2>
+    <ul class="gallery">
+      {% for item in photos_here %}
+        {{ photo(item) }}
+      {% endfor %}
+    </ul>
+  </section>
 {% endif %}
 
 {#
