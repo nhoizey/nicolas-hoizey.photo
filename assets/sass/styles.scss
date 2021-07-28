@@ -20,17 +20,9 @@
 }
 
 /* ********************************************
-* UTILITIES
+* BOX SIZING
 * ********************************************/
 
-// Lobotomized owl
-%owl {
-  & > :not(link):not(style) + * {
-    margin-top: var(--space-xl);
-  }
-}
-
-// Box sizing:
 // http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
 html {
   box-sizing: border-box;
@@ -46,6 +38,10 @@ html {
   box-sizing: inherit;
 }
 
+/* ********************************************
+* COMMON STYLES
+* ********************************************/
+
 body {
   background-color: $color-surface;
   color: $color-text;
@@ -60,8 +56,6 @@ main {
   & > *:first-child {
     margin-top: 0;
   }
-
-  // @extend %owl;
 }
 
 section {
@@ -169,5 +163,24 @@ figure {
   a:hover,
   a:focus {
     color: $color-theme-lighter-5;
+  }
+}
+
+/* ********************************************
+* MISC
+* ********************************************/
+
+blockquote {
+  margin: 0;
+
+  font-style: italic;
+  color: $color-theme-lighter-3;
+
+  em {
+    font-style: normal;
+  }
+
+  cite {
+    font-size: var(--step--1);
   }
 }
