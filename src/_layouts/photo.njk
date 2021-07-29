@@ -63,7 +63,15 @@ layout: page
       {% endif %}
     </div>
   </div>
-  {% if tags %}<p class="tags icon icon--tag">{{ tags | join(", ") }}</p>{% endif %}
+  {% if tags %}
+  <p class="tags icon icon--tag">
+    {% set comma = joiner(", ") %}
+    {%- for tag in tags -%}
+      {{ comma() }}
+      <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category">{{ tag }}</a>
+    {%- endfor -%}
+  </p>
+  {% endif %}
 </div>
 
 {#

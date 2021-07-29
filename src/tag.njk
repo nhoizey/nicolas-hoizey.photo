@@ -1,0 +1,44 @@
+---
+pagination:
+  data: collections.tags
+  size: 1
+  alias: tag
+  filter:
+    - all
+  addAllPagesToCollections: true
+layout: page
+eleventyComputed:
+  title: Photos tagged “{{ tag.tag }}”
+permalink: /tags/{{ tag.slug }}/
+---
+
+<h1>{{ title }}</h1>
+
+{% if tag.logo or tag.description %}
+  {% if tag.logo %}
+    <img src="/{{ tag.logo }}" class="logo" />
+  {% endif %}
+
+  {% if tag.description %}
+    {{ tag.description | markdownify | safe }}
+  {% endif %}
+{% endif %}
+
+{% from "macros/css.njk" import css %}
+{{ css('components/gallery', build.env) }}
+
+{% from "macros/photo.njk" import photo %}
+
+{% if tag.number > 1 %}
+  <p>There are {{ tag.number }} photos with this tag:</p>
+{% else %}
+  <p>There is only one photo with this tag:</p>
+{% endif %}
+
+<ul class="gallery">
+  {% set photos = collections.photos_in_galleries | taggued(tag.tag) %}
+  {% for item in photos %}
+    {{ item.filePathStem }}<br>
+    {{ photo(item) }}
+  {% endfor %}
+</ul>

@@ -10,6 +10,10 @@ const shuffle = (array) => {
 };
 
 module.exports = {
+  taggued: (collection, tag) =>
+    collection.filter((page) => {
+      return page.data.origin.data.tags?.includes(tag);
+    }),
   photos_here: (collection, url) =>
     collection.filter((page) => {
       const r = new RegExp(`^${url}[^/]+\/$`);

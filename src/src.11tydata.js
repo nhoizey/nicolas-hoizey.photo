@@ -6,7 +6,7 @@ const photoCollections = require('./_11ty/_utils/photo-collections');
 // TODO: use photoCollections
 const isPhoto = (data) =>
   data.page.filePathStem.match(
-    /\/(nature|urban|travels|portraits|misc)\/[^\/]+/
+    /^\/(nature|urban|travels|portraits|misc)\/[^\/]+/
   ) && !data.page.filePathStem.endsWith('/index');
 
 module.exports = {
