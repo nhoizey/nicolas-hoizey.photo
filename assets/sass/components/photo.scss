@@ -68,6 +68,10 @@
     align-self: end;
     font-size: var(--step--1);
     color: $color-theme-lighter-2;
+
+    a {
+      text-decoration-thickness: 1px;
+    }
   }
 
   @media (min-width: $breakpoint-m) {
