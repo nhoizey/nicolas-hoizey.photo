@@ -38,7 +38,6 @@ permalink: /tags/{{ tag.slug }}/
 <ul class="gallery">
   {% set photos = collections.photos_in_galleries | taggued(tag.tag) %}
   {% for item in photos %}
-    {{ item.filePathStem }}<br>
     {{ photo(item) }}
   {% endfor %}
 </ul>
