@@ -10,10 +10,17 @@ const shuffle = (array) => {
 };
 
 module.exports = {
-  taggued: (collection, tag) =>
-    collection.filter((page) => {
-      return page.data.origin.data.tags?.includes(tag);
-    }),
+  taggued: (collection, tag) => {
+    const slugs = [];
+    return collection.filter((page) => {
+      if (slugs.includes(page.fileSlug)) {
+        return false;
+      } else {
+        slugs.push(page.fileSlug);
+        return page.data.origin.data.tags?.includes(tag);
+      }
+    });
+  },
   photos_here: (collection, url) =>
     collection.filter((page) => {
       const r = new RegExp(`^${url}[^/]+\/$`);

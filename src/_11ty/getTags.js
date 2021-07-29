@@ -10,17 +10,22 @@ const usedPhotosGlob = photoCollections.map(
 module.exports = function (collection) {
   let tagsCollection = new Map();
   let max = 0;
+  const fileSlugs = [];
 
   collection
     .getFilteredByGlob(usedPhotosGlob)
     .filter((item) => !item.filePathStem.endsWith('/index'))
     .forEach(function (item) {
       const data = item.data.origin.data;
-      if ('tags' in data) {
-        for (const tag of data.tags) {
-          let number = (tagsCollection.get(tag) || 0) + 1;
-          max = Math.max(max, number);
-          tagsCollection.set(tag, number);
+      if (!fileSlugs.includes(item.fileSlug)) {
+        // Don't count multiple times the same photo in multiple folders
+        fileSlugs.push(item.fileSlug);
+        if ('tags' in data) {
+          for (const tag of data.tags) {
+            let number = (tagsCollection.get(tag) || 0) + 1;
+            max = Math.max(max, number);
+            tagsCollection.set(tag, number);
+          }
         }
       }
     });
