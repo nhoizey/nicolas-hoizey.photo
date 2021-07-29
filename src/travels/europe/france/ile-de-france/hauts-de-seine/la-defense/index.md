@@ -6,4 +6,4 @@ title: La Défense
 >
 > La Défense is Europe's largest purpose-built business district, covering 560 hectares (1,400 acres), with 72 glass and steel buildings (of which 19 are completed skyscrapers), 180,000 daily workers, and 3,500,000 square metres (38,000,000 sq ft) of office space.
 >
-> — <cite>[Wikipedia](https://en.wikipedia.org/wiki/La_D%C3%A9fense)</cite>
+> {% wikipedia "La Défense", "https://en.wikipedia.org/wiki/La_D%C3%A9fense" %}

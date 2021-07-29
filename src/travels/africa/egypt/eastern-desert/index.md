@@ -8,4 +8,4 @@ title: Eastern Desert
 >
 > The Desert consists of a mountain range which runs parallel to the coast, wide sedimentary plateaus extending from either side of the mountains and the Red Sea coast.
 >
-> — <cite>[Wikipedia](https://en.wikipedia.org/wiki/Eastern_Desert)</cite>
+> {% wikipedia "Eastern Desert", "https://en.wikipedia.org/wiki/Eastern_Desert" %}

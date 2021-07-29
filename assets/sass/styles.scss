@@ -176,11 +176,13 @@ blockquote {
   font-style: italic;
   color: $color-theme-lighter-3;
 
-  em {
+  em,
+  cite {
     font-style: normal;
   }
 
   cite {
     font-size: var(--step--1);
+    color: $color-theme-lighter-4;
   }
 }

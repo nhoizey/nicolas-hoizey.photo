@@ -6,4 +6,4 @@ title: Crete
 >
 > Humans have inhabited the island since at least 130,000 years ago, during the Paleolithic age. Crete was the centre of Europe's first advanced civilization, the Minoans, from 2700 to 1420 BC.
 >
-> — <cite>[Wikipedia](https://en.wikipedia.org/wiki/Crete)</cite>
+> {% wikipedia "Crete", "https://en.wikipedia.org/wiki/Crete" %}
