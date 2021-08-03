@@ -12,16 +12,9 @@ eleventyExcludeFromCollections: true
     <Style id="{{ item.fileSlug }}">
       <IconStyle>
         <Icon>
-          <href>https://nicolas-hoizey.photo/photos/{{ item.fileSlug }}/kml.png</href>
-          <scale>3.0</scale>
+          <href>https://nicolas-hoizey.photo/images/300/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg</href>
         </Icon>
       </IconStyle>
-      <ListStyle>
-        <ItemIcon>
-          <state>open</state>
-          <href>https://nicolas-hoizey.photo/photos/{{ item.fileSlug }}/kml.png</href>
-        </ItemIcon>
-      </ListStyle>
       <BalloonStyle>
         <bgColor>ff292929</bgColor>
         <textColor>ffffffff</textColor>
@@ -38,14 +31,28 @@ eleventyExcludeFromCollections: true
       <TimeSpam>
         <begin>{{ item.date | iso }}</begin>
       </TimeSpam>
+      <LookAt>
+        <longitude>{{ item.data.origin.data.geo.longitude }}</longitude>
+        <latitude>{{ item.data.origin.data.geo.latitude }}</latitude>
+        <altitude>0</altitude>
+        <range>1000</range>
+        <tilt>10</tilt>
+        <heading>0</heading>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LookAt>
       <styleUrl>#{{ item.fileSlug }}</styleUrl>
+      <Style>
+        <IconStyle>
+          <scale>5.0</scale>
+        </IconStyle>
+  		</Style>
       <description>
         <![CDATA[
           <p>
             <strong style="font-size: larger; font-weight: bold">{{ item.data.title }}</strong>
             (<a href="{{ site.url }}{{ item.url }}" target="_blank">details</a>)
           </p>
-          <p><img src="https://nicolas-hoizey.photo/images/400/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg" /></p>
+          <p><img src="https://nicolas-hoizey.photo/images/300/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg" style="width: 300px; height: auto" /></p>
         ]]>
       </description>
       <Point>
