@@ -196,7 +196,7 @@ ${photoDescription}
 
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
 
-    // Generate thumbnails
+    // Generate thumbnails for 1x screens
     const mask = Buffer.from(
       '<svg><circle cx="15" cy="15" r="14" fill="black"/></svg>'
     );
@@ -220,6 +220,7 @@ ${photoDescription}
         }
       });
 
+    // Generate thumbnails for 1x screens
     const mask2x = Buffer.from(
       '<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>'
     );
@@ -240,6 +241,23 @@ ${photoDescription}
       .toFile(path.join(THUMBNAILS, 'icons@2x', `${slug}.png`), function (err) {
         if (err) {
           console.error(`Error while creating @2x thumbnail for ${slug}`, err);
+        }
+      });
+
+    // Generate icon for KML
+    // https://github.com/lovell/sharp/issues/2819#issuecomment-891077462
+    const firstStep = await sharp(photoPath)
+      .resize(300, 300, {
+        fit: sharp.fit.inside,
+      })
+      .extend({ top: 1, bottom: 1, left: 1, right: 1, background: 'black' })
+      .toBuffer();
+
+    sharp(firstStep)
+      .extend({ top: 2, bottom: 2, left: 2, right: 2, background: 'white' })
+      .toFile(path.join(distDir, 'kml.jpg'), function (err) {
+        if (err) {
+          console.error(`Error while creating KML icon for ${slug}`, err);
         }
       });
 
