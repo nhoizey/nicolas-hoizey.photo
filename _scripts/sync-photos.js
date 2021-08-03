@@ -247,7 +247,7 @@ ${photoDescription}
     // Generate icon for KML
     // https://github.com/lovell/sharp/issues/2819#issuecomment-891077462
     const firstStep = await sharp(photoPath)
-      .resize(300, 300, {
+      .resize(320, 320, {
         fit: sharp.fit.inside,
       })
       .extend({ top: 1, bottom: 1, left: 1, right: 1, background: 'black' })
