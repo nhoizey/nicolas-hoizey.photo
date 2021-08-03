@@ -12,18 +12,40 @@ eleventyExcludeFromCollections: true
     <Style id="{{ item.fileSlug }}">
       <IconStyle>
         <Icon>
-          <href>https://nicolas-hoizey.photo/photos/{{ item.fileSlug }}/kml.jpg</href>
-          <scale>10.0</scale>
+          <href>https://nicolas-hoizey.photo/photos/{{ item.fileSlug }}/kml.png</href>
+          <scale>3.0</scale>
         </Icon>
       </IconStyle>
+      <ListStyle>
+        <ItemIcon>
+          <state>open</state>
+          <href>https://nicolas-hoizey.photo/photos/{{ item.fileSlug }}/kml.png</href>
+        </ItemIcon>
+      </ListStyle>
+      <BalloonStyle>
+        <bgColor>ff292929</bgColor>
+        <textColor>ffffffff</textColor>
+        <text><![CDATA[
+          $[description]
+        ]]></text>
+      </BalloonStyle>
     </Style>
     <Placemark>
       <name>{{ item.data.title }}</name>
+      <TimeStamp>
+        <when>{{ item.date | iso }}</when>
+      </TimeStamp>
+      <TimeSpam>
+        <begin>{{ item.date | iso }}</begin>
+      </TimeSpam>
       <styleUrl>#{{ item.fileSlug }}</styleUrl>
       <description>
         <![CDATA[
+          <p>
+            <strong style="font-size: larger; font-weight: bold">{{ item.data.title }}</strong>
+            (<a href="{{ site.url }}{{ item.url }}" target="_blank">details</a>)
+          </p>
           <p><img src="https://nicolas-hoizey.photo/images/400/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg" /></p>
-          <p><a href="{{ item.url }}">Go to the photo page!</a></p>
         ]]>
       </description>
       <Point>

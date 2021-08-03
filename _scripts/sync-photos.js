@@ -227,6 +227,7 @@ ${photoDescription}
     const border2 = Buffer.from(
       '<svg><circle cx="30" cy="30" r="28" fill="none" stroke="rebeccapurple" stroke-width="3" /></svg>'
     );
+    const thumb2File = path.join(THUMBNAILS, 'icons@2x', `${slug}.png`);
     sharp(photoPath)
       .resize(60, 60, {
         fit: sharp.fit.cover,
@@ -238,28 +239,31 @@ ${photoDescription}
         { input: mask2x, left: 0, top: 0, blend: 'dest-in' },
         { input: border2, left: 0, top: 0, blend: 'over' },
       ])
-      .toFile(path.join(THUMBNAILS, 'icons@2x', `${slug}.png`), function (err) {
+      .toFile(thumb2File, function (err) {
         if (err) {
           console.error(`Error while creating @2x thumbnail for ${slug}`, err);
+        } else {
+          // Copy as icon for KML
+          fs.copyFileSync(thumb2File, path.join(distDir, 'kml.png'));
         }
       });
 
     // Generate icon for KML
     // https://github.com/lovell/sharp/issues/2819#issuecomment-891077462
-    const firstStep = await sharp(photoPath)
-      .resize(320, 320, {
-        fit: sharp.fit.inside,
-      })
-      .extend({ top: 1, bottom: 1, left: 1, right: 1, background: 'black' })
-      .toBuffer();
+    // const firstStep = await sharp(photoPath)
+    //   .resize(320, 320, {
+    //     fit: sharp.fit.inside,
+    //   })
+    //   .extend({ top: 1, bottom: 1, left: 1, right: 1, background: 'black' })
+    //   .toBuffer();
 
-    sharp(firstStep)
-      .extend({ top: 2, bottom: 2, left: 2, right: 2, background: 'white' })
-      .toFile(path.join(distDir, 'kml.jpg'), function (err) {
-        if (err) {
-          console.error(`Error while creating KML icon for ${slug}`, err);
-        }
-      });
+    // sharp(firstStep)
+    //   .extend({ top: 2, bottom: 2, left: 2, right: 2, background: 'white' })
+    //   .toFile(path.join(distDir, 'kml.jpg'), function (err) {
+    //     if (err) {
+    //       console.error(`Error while creating KML icon for ${slug}`, err);
+    //     }
+    //   });
 
     // Add photo to geojson file
     // if (photoYFM.geo.latitude && photoYFM.geo.longitude) {
