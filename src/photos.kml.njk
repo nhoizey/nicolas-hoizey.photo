@@ -1,0 +1,35 @@
+---
+permalink: kml/photos.kml
+layout: null
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nicolas Hoizey photography</name>
+    <description>The photography portfolio of Nicolas Hoizey</description>
+{%- for item in collections.photos_for_map %}
+    <Style id="{{ item.fileSlug }}">
+      <IconStyle>
+        <Icon>
+          <href>https://nicolas-hoizey.photo/kml-icon/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg</href>
+          <scale>1.0</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>{{ item.data.title }}</name>
+      <styleUrl>#{{ item.fileSlug }}</styleUrl>
+      <description>
+        <![CDATA[
+          <p><img src="https://nicolas-hoizey.photo/images/400/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg" /></p>
+          <p><a href="{{ item.url }}">Go to the photo page!</a></p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>{{ item.data.origin.data.geo.longitude }},{{ item.data.origin.data.geo.latitude }}</coordinates>
+      </Point>
+    </Placemark>
+{% endfor %}
+  </Document>
+</kml>
