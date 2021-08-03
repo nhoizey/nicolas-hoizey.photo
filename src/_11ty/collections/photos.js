@@ -39,7 +39,8 @@ module.exports = {
           distinctPhotos.push(item.fileSlug);
           return true;
         }
-      });
+      })
+      .sort((a, b) => b.data.date - a.data.date);
   },
   galleries: (collection) =>
     collection
