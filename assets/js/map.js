@@ -21,7 +21,7 @@ import polylabel from 'polylabel';
       container: mapElementId,
       // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
       // style: 'mapbox://styles/mapbox/outdoors-v11',
-      style: `${window.location.origin}/mapbox-style.json`,
+      style: `${window.location.origin}/map/mapbox-style.json`,
       center: [10, 20],
       zoom: 1.5,
       bounds: [
@@ -50,7 +50,7 @@ import polylabel from 'polylabel';
     map.on('load', function () {
       map.addSource('photos', {
         type: 'geojson',
-        data: '/photos.geojson',
+        data: '/map/photos.geojson',
         cluster: true,
         clusterMaxZoom: maxZoomLevel,
         clusterRadius: 30, // Radius of each cluster when clustering points (defaults to 50)

@@ -286,7 +286,7 @@ fs.readdirSync(SRC).forEach(async (photo) => {
   allPromises.push(syncOnePhoto(photo));
 });
 Promise.all(allPromises).then(() => {
-  if (geojsonFeatures.features.length > 0) {
-    fs.writeFileSync('./src/photos.geojson', JSON.stringify(geojsonFeatures));
-  }
+  // if (geojsonFeatures.features.length > 0) {
+  //   fs.writeFileSync('./src/photos.geojson', JSON.stringify(geojsonFeatures));
+  // }
 });
