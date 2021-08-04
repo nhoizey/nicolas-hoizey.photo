@@ -46,10 +46,10 @@ let exifrOptions = {
   iptc: true,
 };
 
-let geojsonFeatures = {
-  type: 'FeatureCollection',
-  features: [],
-};
+// let geojsonFeatures = {
+//   type: 'FeatureCollection',
+//   features: [],
+// };
 
 async function syncOnePhoto(photo) {
   const photoPath = path.join(SRC, photo);
