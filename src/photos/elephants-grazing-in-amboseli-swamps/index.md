@@ -45,10 +45,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6522733333333335
-  longitude: 37.27453833333333
+  latitude: -2.6526416166666666
+  longitude: 37.27443772833333
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: elephants-grazing-in-amboseli-swamps.jpg
 ---
 

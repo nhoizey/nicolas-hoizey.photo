@@ -1,6 +1,6 @@
 ---
 title: Hong Kong planet
-date: 2015-09-16
+date: 2015-08-08 23:08:00 +02:00
 gear: {}
 tags:
   - 24-70mm

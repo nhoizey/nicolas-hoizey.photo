@@ -38,10 +38,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.7111816666666666
-  longitude: 37.333758333333336
+  latitude: -2.7113088183333334
+  longitude: 37.333799633333335
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg
 ---
 

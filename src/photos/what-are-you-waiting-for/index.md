@@ -50,10 +50,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6522733333333335
-  longitude: 37.27453833333333
+  latitude: -2.6520775666666667
+  longitude: 37.27483906333333
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: what-are-you-waiting-for.jpg
 ---
 

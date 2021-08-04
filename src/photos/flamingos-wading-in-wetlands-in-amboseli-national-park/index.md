@@ -54,10 +54,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.660515
-  longitude: 37.269216666666665
+  latitude: -2.6604482
+  longitude: 37.269340645
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: flamingos-wading-in-wetlands-in-amboseli-national-park.jpg
 ---
 

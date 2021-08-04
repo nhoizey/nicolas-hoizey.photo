@@ -67,10 +67,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.660503333333333
-  longitude: 37.269353333333335
+  latitude: -2.660558695
+  longitude: 37.26950779333333
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: waiting-for-dusk.jpg
 ---
 

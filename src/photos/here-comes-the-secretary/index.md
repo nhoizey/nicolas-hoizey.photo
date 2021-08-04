@@ -49,10 +49,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.71186209
-  longitude: 37.3447785
+  latitude: -2.711758905
+  longitude: 37.34467424
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: here-comes-the-secretary.jpg
 ---
 

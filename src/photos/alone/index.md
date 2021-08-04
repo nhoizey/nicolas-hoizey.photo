@@ -48,10 +48,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6563
-  longitude: 37.28823833333333
+  latitude: -2.6561877183333333
+  longitude: 37.28814150833333
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: alone.jpg
 ---
 

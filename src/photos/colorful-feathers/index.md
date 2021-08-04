@@ -6,6 +6,11 @@ gear:
   model: Canon EOS 350D DIGITAL
   lens: 70.0-300.0 mm
 tags:
+  - 350D
+  - 70-300mm
+  - Canon
+  - Canon EF 70-300mm f/4-5.6 IS USM
+  - Canon EOS 350D
   - dierenpark
   - Europa
   - Europe

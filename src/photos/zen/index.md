@@ -6,6 +6,8 @@ gear:
   model: EOS 5D Mark II
   lens: 50mm
 tags:
+  - 50mm
+  - 50mm f/1.4
   - 5D Mark II
   - 5D2
   - 5DII
@@ -15,6 +17,7 @@ tags:
   - Canon EOS 5D Mark II
   - Europa
   - Europe
+  - f1/4
   - France
   - Goulven
   - Lyon
@@ -27,6 +30,9 @@ tags:
   - portrait
   - Rhône
   - Rhône-Alpes
+  - Sigma
+  - Sigma 50mm
+  - Sigma 50mm F1.4 EX DG HSM
   - tenue
   - type de photo
 settings:

@@ -20,6 +20,8 @@ tags:
   - France
   - Fujifilm
   - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 18-55mm f/2.8-4.0R LM OIS
   - Ile de France
   - jaune
   - magasin

@@ -17,6 +17,7 @@ tags:
   - Canon EOS 5D Mark II
   - landscape
   - mer
+  - New Caledonia
   - Nouvelle Calédonie
   - Oceania
   - Océanie

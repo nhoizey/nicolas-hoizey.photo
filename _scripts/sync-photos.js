@@ -244,7 +244,7 @@ ${photoDescription}
           console.error(`Error while creating @2x thumbnail for ${slug}`, err);
         } else {
           // Copy as icon for KML
-          fs.copyFileSync(thumb2File, path.join(distDir, 'kml.png'));
+          // fs.copyFileSync(thumb2File, path.join(distDir, 'kml.png'));
         }
       });
 

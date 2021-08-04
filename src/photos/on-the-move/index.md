@@ -45,10 +45,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.71089
-  longitude: 37.33139833333333
+  latitude: -2.71078194
+  longitude: 37.33135027833333
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: on-the-move.jpg
 ---
 

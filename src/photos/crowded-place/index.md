@@ -42,10 +42,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.7111816666666666
-  longitude: 37.333758333333336
+  latitude: -2.7111768400000003
+  longitude: 37.333191621666664
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: crowded-place.jpg
 ---
 

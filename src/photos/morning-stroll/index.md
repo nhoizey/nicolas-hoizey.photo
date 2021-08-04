@@ -60,10 +60,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.71191
-  longitude: 37.354288333333336
+  latitude: -2.7119634433333335
+  longitude: 37.35462055333333
   country: Kenya
-  city: Kajiado
+  city: Entonet
 file: morning-stroll.jpg
 ---
 

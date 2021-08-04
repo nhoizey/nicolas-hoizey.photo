@@ -7,8 +7,15 @@ gear:
   lens: LUMIX G VARIO 12-32/F3.5-5.6
 tags:
   - DMC-GM1
+  - Europa
+  - Europe
+  - France
   - GM1
+  - Grande Arche de La Défense
+  - Ile de France
+  - La Défense
   - Panasonic
+  - Paris
 settings:
   focal_length: 32
   focal_length_35mm: 66
