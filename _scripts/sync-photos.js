@@ -242,7 +242,7 @@ ${photoDescription}
       .toFile(thumb2File, function (err) {
         if (err) {
           console.error(`Error while creating @2x thumbnail for ${slug}`, err);
-        } else {
+          // } else {
           // Copy as icon for KML
           // fs.copyFileSync(thumb2File, path.join(distDir, 'kml.png'));
         }
