@@ -80,4 +80,8 @@ Theme color: https://developers.google.com/web/updates/2014/11/Support-for-theme
 {% include 'components/monetization.njk' %}
 {% include 'components/matomo.njk' %}
 
+<script>
+window.mapboxStyle="{{ map.mapbox.style }}";
+</script>
+
 {% block morehead %}{% endblock %}
