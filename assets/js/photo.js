@@ -11,8 +11,6 @@ import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
     let map = new mapboxgl.Map({
       container: mapElementId,
-      // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
-      // style: 'mapbox://styles/mapbox/outdoors-v11',
       style: `mapbox://styles/${window.mapboxStyle}`,
       center: [mapLongitude, mapLatitude],
       zoom: 6,

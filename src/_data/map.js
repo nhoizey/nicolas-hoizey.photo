@@ -1,3 +1,3 @@
 module.exports = {
-  mapbox: { style: 'mapbox/satellite-streets-v11' },
+  mapbox: { style: 'mapbox/outdoors-v11' },
 };

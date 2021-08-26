@@ -19,18 +19,13 @@ import polylabel from 'polylabel';
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
     let map = new mapboxgl.Map({
       container: mapElementId,
-      // style: 'mapbox://styles/nhoizey/cjese953v0peh2spcgq64caff',
-      // style: 'mapbox://styles/mapbox/outdoors-v11',
-      style: `${window.location.origin}/map/mapbox-style.json`,
+      style: `${window.location.origin}/map/mapbox-style-terrain.json`,
       center: [10, 20],
       zoom: 1.5,
       bounds: [
         [-120, -65],
         [150, 80],
       ],
-      // fitBoundsOptions: {
-      //   padding: 100,
-      // },
       minZoom: 1,
       maxZoom: maxZoomLevel,
       scrollZoom: false,
