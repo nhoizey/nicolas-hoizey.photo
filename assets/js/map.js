@@ -8,13 +8,12 @@ import polylabel from 'polylabel';
   const mapElement = window.document.querySelector(`#${mapElementId}`);
   const maxZoomLevel = 18;
   const clusterSteps = [
-    { count: 5, color: '#835aac', radius: 7 },
-    { count: 10, color: '#663399', radius: 8 },
-    { count: 20, color: '#53297c', radius: 10 },
-    { count: 100, color: '#53297c', radius: 13 },
+    { count: 5, color: '#835aac', radius: 8 },
+    { count: 10, color: '#663399', radius: 10 },
+    { count: 20, color: '#53297c', radius: 12 },
+    { count: 100, color: '#53297c', radius: 15 },
   ];
-  const markerColor = '#835aac';
-  const markerStroke = '#53297c';
+  const markerStroke = '#ffffff';
 
   if (mapElement) {
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
@@ -150,7 +149,7 @@ import polylabel from 'polylabel';
           filter: ['has', 'point_count'],
           layout: {
             'text-field': '{point_count_abbreviated}',
-            'text-size': 10,
+            'text-size': 12,
           },
           paint: {
             'text-color': '#ffffff',
@@ -220,7 +219,7 @@ import polylabel from 'polylabel';
         defaultStyle: 'Terrain',
         eventListeners: {
           onChange: () => {
-            // TODO: manage a cookie to keep track of chosen style
+            // TODO: manage localStorage or a cookie to keep track of chosen style
           },
         },
       })
