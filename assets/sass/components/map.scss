@@ -1,5 +1,6 @@
 @use '../variables' as *;
 @use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
+@use '../../../node_modules/mapbox-gl-style-switcher/styles.css';
 
 .map {
   h1 {
