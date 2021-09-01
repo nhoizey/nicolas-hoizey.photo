@@ -37,8 +37,8 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 48.698858611666665
-  longitude: 2.45236075
+  latitude: 48.699504241666666
+  longitude: 2.45176097
   country: France
   city: Montgeron
 file: in-the-starting-blocks-for-the-men-s-110m-hurdles.jpg

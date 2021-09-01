@@ -37,8 +37,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.698858611666665
-  longitude: 2.45236075
+  latitude: 48.69907798166667
+  longitude: 2.451776965
   country: France
   city: Montgeron
 file: long-strides.jpg

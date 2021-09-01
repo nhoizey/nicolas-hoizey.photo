@@ -37,8 +37,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.698858611666665
-  longitude: 2.45236075
+  latitude: 48.69822939833333
+  longitude: 2.4519665083333333
   country: France
   city: Montgeron
 file: women-s-800m.jpg
