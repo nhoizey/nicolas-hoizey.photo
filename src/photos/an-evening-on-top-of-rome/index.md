@@ -30,10 +30,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 41.89767166666667
-  longitude: 12.477715
+  latitude: 41.89773955
+  longitude: 12.477814515
   country: Italie
-  city: Roma
+  city: Rome
 file: an-evening-on-top-of-rome.jpg
 ---
 

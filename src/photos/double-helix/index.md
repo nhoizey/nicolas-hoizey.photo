@@ -59,10 +59,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 41.90605166666667
-  longitude: 12.453708333333333
+  latitude: 41.90653931666667
+  longitude: 12.455145353333334
   country: Italie
-  city: Roma
 file: double-helix.jpg
 ---
 

@@ -47,10 +47,9 @@ dimensions:
   width: 2334
   height: 3500
 geo:
-  latitude: 41.90682
-  longitude: 12.453451666666666
+  latitude: 41.906585228333334
+  longitude: 12.455174858333333
   country: Italie
-  city: Roma
 file: find-your-way.jpg
 ---
 
