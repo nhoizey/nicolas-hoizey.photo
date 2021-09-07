@@ -6,7 +6,7 @@
   Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'
   Accept-CH: Downlink,RTT,Device-Memory,Save-Data,DPR,Width
   Link: <https://res.cloudinary.com>; rel=preconnect; crossorigin
-  Content-Security-Policy: upgrade-insecure-requests; base-uri 'self'; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com; img-src 'self' data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com blob: data:; object-src 'self'; connect-src 'self' data.nicolas-hoizey.com https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com; worker-src blob:; child-src blob:; frame-ancestors 'none'; report-uri https://nhocom.report-uri.com/r/d/csp/enforce
+  Content-Security-Policy: upgrade-insecure-requests; base-uri 'self'; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com; img-src 'self' nicolas-hoizey.photo data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com blob: data:; object-src 'self'; connect-src 'self' data.nicolas-hoizey.com https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com; worker-src blob:; child-src blob:; frame-ancestors 'none'; report-uri https://nhocom.report-uri.com/r/d/csp/enforce
 
 /ui/svg-sprite.svg
   Cache-Control: public, max-age=604800, immutable
