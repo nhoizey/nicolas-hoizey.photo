@@ -1,19 +1,19 @@
 {% extends "./base.njk" %}
 
-{% if origin %}
-  {% set dimensions = origin.data.dimensions %}
-  {% set gear = origin.data.gear %}
-  {% set settings = origin.data.settings %}
-  {% set geo = origin.data.geo %}
-  {% set content = content or origin.content %}
-  {% set tags = origin.data.tags %}
-{% endif %}
-
 {% block styles %}
-style="background-color: rgb({{ origin.data.colors.darkMuted }} / 50%)"
+  style="background-color: rgb({{ origin.data.colors.darkMuted }} / 50%)"
 {% endblock %}
 
 {% block content %}
+  {% if origin %}
+    {% set dimensions = origin.data.dimensions %}
+    {% set gear = origin.data.gear %}
+    {% set settings = origin.data.settings %}
+    {% set geo = origin.data.geo %}
+    {% set content = content or origin.content %}
+    {% set tags = origin.data.tags %}
+  {% endif %}
+
   {% from "macros/css.njk" import css %}
   {{ css('components/photo', build.env) }}
 
