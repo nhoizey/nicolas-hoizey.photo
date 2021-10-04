@@ -60,6 +60,13 @@ geo:
   longitude: -73.99883
   country: États-Unis
   city: New York
+colors:
+  vibrant: 189 131 43
+  darkVibrant: 14 120 118
+  lightVibrant: 230 196 167
+  muted: 118 155 173
+  darkMuted: 45 71 82
+  lightMuted: 198 183 165
 file: colors-of-little-italy.jpg
 ---
 

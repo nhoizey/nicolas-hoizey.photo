@@ -51,6 +51,13 @@ geo:
   longitude: -9.142921666666666
   country: Portugal
   city: Lisboa
+colors:
+  vibrant: 4 100 220
+  darkVibrant: 107 76 14
+  lightVibrant: 133 184 236
+  muted: 156 126 112
+  darkMuted: 48 69 93
+  lightMuted: 186 200 212
 file: eletricos-de-lisboa.jpg
 ---
 

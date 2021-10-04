@@ -49,6 +49,13 @@ geo:
   longitude: 37.27443772833333
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 76 138 180
+  darkVibrant: 62 72 4
+  lightVibrant: 109 159 196
+  muted: 100 141 172
+  darkMuted: 90 97 46
+  lightMuted: 142 166 186
 file: elephants-grazing-in-amboseli-swamps.jpg
 ---
 

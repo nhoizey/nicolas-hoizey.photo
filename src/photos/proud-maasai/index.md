@@ -46,6 +46,13 @@ geo:
   longitude: 35.38950166666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 208 16 54
+  darkVibrant: 117 7 24
+  lightVibrant: 240 208 110
+  muted: 164 118 90
+  darkMuted: 72 59 47
+  lightMuted: 209 215 229
 file: proud-maasai.jpg
 ---
 

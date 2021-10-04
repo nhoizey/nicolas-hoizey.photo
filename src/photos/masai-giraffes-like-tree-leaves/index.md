@@ -62,6 +62,13 @@ geo:
   longitude: 35.29284666666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 185 152 104
+  darkVibrant: 94 103 34
+  lightVibrant: 244 214 164
+  muted: 171 145 90
+  darkMuted: 91 92 50
+  lightMuted: 185 172 134
 file: masai-giraffes-like-tree-leaves.jpg
 ---
 

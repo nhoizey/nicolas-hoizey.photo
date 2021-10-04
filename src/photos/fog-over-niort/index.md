@@ -47,6 +47,13 @@ geo:
   longitude: -0.466844355
   country: France
   city: Niort
+colors:
+  vibrant: 230 155 13
+  darkVibrant: 132 60 4
+  lightVibrant: 249 209 121
+  muted: 147 122 101
+  darkMuted: 75 55 43
+  lightMuted: 173 176 188
 file: fog-over-niort.jpg
 ---
 

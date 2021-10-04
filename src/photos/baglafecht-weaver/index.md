@@ -57,6 +57,13 @@ geo:
   longitude: 35.31023833333333
   country: Kenya
   city: Narok
+colors:
+  vibrant: 220 192 60
+  darkVibrant: 87 84 31
+  lightVibrant: 177 193 93
+  muted: 148 160 97
+  darkMuted: 86 79 55
+  lightMuted: 164 164 172
 file: baglafecht-weaver.jpg
 ---
 

@@ -34,6 +34,13 @@ geo:
   longitude: 2.405349703333333
   country: France
   city: Draveil
+colors:
+  vibrant: 182 129 56
+  darkVibrant: 127 84 19
+  lightVibrant: 230 217 184
+  muted: 119 156 163
+  darkMuted: 85 65 37
+  lightMuted: 180 201 207
 file: gourmandise.jpg
 ---
 

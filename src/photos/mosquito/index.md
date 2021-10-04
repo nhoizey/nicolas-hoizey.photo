@@ -40,6 +40,13 @@ geo:
   longitude: 3.702400643333333
   country: France
   city: Venizy
+colors:
+  vibrant: 180 116 65
+  darkVibrant: 58 34 19
+  lightVibrant: 240 244 252
+  muted: 92 116 172
+  darkMuted: 62 54 53
+  lightMuted: 205 185 157
 file: mosquito.jpg
 ---
 

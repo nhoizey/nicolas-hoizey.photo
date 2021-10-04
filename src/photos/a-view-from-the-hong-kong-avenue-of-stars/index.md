@@ -54,6 +54,13 @@ geo:
   longitude: 114.17083333333333
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 93 104 177
+  darkVibrant: 17 36 96
+  lightVibrant: 129 155 221
+  muted: 54 61 108
+  darkMuted: 38 40 67
+  lightMuted: 185 172 203
 file: a-view-from-the-hong-kong-avenue-of-stars.jpg
 ---
 

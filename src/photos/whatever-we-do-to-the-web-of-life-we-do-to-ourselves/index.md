@@ -68,6 +68,13 @@ geo:
   longitude: -73.993505
   country: États-Unis
   city: New York
+colors:
+  vibrant: 76 148 182
+  darkVibrant: 41 69 105
+  lightVibrant: 212 179 152
+  muted: 95 126 159
+  darkMuted: 45 55 72
+  lightMuted: 133 156 182
 file: whatever-we-do-to-the-web-of-life-we-do-to-ourselves.jpg
 ---
 

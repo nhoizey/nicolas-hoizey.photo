@@ -54,6 +54,13 @@ geo:
   longitude: 37.27483906333333
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 112 130 30
+  darkVibrant: 79 107 16
+  lightVibrant: 208 183 149
+  muted: 164 149 93
+  darkMuted: 82 79 52
+  lightMuted: 193 196 134
 file: what-are-you-waiting-for.jpg
 ---
 

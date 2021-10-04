@@ -73,6 +73,13 @@ geo:
   longitude: -73.99695833333334
   country: États-Unis
   city: New York
+colors:
+  vibrant: 127.5 127.5 127.5
+  darkVibrant: 66.3 66.3 66.3
+  lightVibrant: 188.7 188.7 188.7
+  muted: 117 117 117
+  darkMuted: 68 68 68
+  lightMuted: 192 192 192
 file: lower-manhattan-b-and-w-edition.jpg
 ---
 

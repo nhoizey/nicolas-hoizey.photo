@@ -75,6 +75,13 @@ geo:
   longitude: 36.120135
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 140 132 47
+  darkVibrant: 132 60 4
+  lightVibrant: 221.6727272727273 216.00000000000003 155.7272727272727
+  muted: 141 126 104
+  darkMuted: 76 74 49
+  lightMuted: 200 194 195
 file: so-you-re-still-ok-for-this.jpg
 ---
 

@@ -38,6 +38,13 @@ geo:
   longitude: 36.63648333333333
   country: Kenya
   city: Kiambu
+colors:
+  vibrant: 5 89 182
+  darkVibrant: 5 73 149
+  lightVibrant: 119 168 228
+  muted: 163 119 91
+  darkMuted: 87 59 45
+  lightMuted: 146 163 190
 file: drinking-water-does-not-reach-the-tap.jpg
 ---
 

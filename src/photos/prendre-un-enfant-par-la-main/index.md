@@ -47,6 +47,13 @@ geo:
   longitude: 4.833141666666666
   country: France
   city: Lyon
+colors:
+  vibrant: 66 108 180
+  darkVibrant: 23 31 51
+  lightVibrant: 196 215 251
+  muted: 122 122 146
+  darkMuted: 44 54 76
+  lightMuted: 195 188 201
 file: prendre-un-enfant-par-la-main.jpg
 ---
 

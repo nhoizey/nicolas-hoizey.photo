@@ -45,6 +45,13 @@ geo:
   longitude: 5.907791666666666
   country: Pays-Bas
   city: Arnhem
+colors:
+  vibrant: 44 132 172
+  darkVibrant: 122 136 42
+  lightVibrant: 195 124 149
+  muted: 98 147 181
+  darkMuted: 64 86 52
+  lightMuted: 146 181 186
 file: the-mirror.jpg
 ---
 

@@ -55,6 +55,13 @@ geo:
   longitude: 114.16045059833333
   country: Hong Kong
   city: Central and Western
+colors:
+  vibrant: 147 140 6
+  darkVibrant: 14 102 64
+  lightVibrant: 130 204 145
+  muted: 91 158 141
+  darkMuted: 51 77 88
+  lightMuted: 208 189 175
 file: long-tailed-broadbill.jpg
 ---
 

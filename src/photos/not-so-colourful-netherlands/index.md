@@ -63,6 +63,13 @@ geo:
   longitude: 6.523519445
   country: Pays-Bas
   city: Groningen
+colors:
+  vibrant: 127.5 127.5 127.5
+  darkVibrant: 66.3 66.3 66.3
+  lightVibrant: 188.7 188.7 188.7
+  muted: 124 124 124
+  darkMuted: 68 68 68
+  lightMuted: 188 188 188
 file: not-so-colourful-netherlands.jpg
 ---
 

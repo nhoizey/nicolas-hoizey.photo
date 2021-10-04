@@ -31,6 +31,13 @@ geo:
   longitude: 2.5426980283333336
   country: France
   city: Lieusaint
+colors:
+  vibrant: 250 128 43
+  darkVibrant: 121 16 39
+  lightVibrant: 251 176 99
+  muted: 87 161 160
+  darkMuted: 80 46 82
+  lightMuted: 170 151 117
 file: koezio-labyrinth.jpg
 ---
 

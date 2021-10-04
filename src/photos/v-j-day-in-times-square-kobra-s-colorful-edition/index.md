@@ -56,6 +56,13 @@ geo:
   longitude: -74.00317222166667
   country: États-Unis
   city: New York
+colors:
+  vibrant: 206 126 38
+  darkVibrant: 85 94 17
+  lightVibrant: 189 134 93
+  muted: 131 120 106
+  darkMuted: 92 74 61
+  lightMuted: 187 171 167
 file: v-j-day-in-times-square-kobra-s-colorful-edition.jpg
 ---
 

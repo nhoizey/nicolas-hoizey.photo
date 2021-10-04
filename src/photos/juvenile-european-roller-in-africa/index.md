@@ -55,6 +55,13 @@ geo:
   longitude: 38.251866666666665
   country: Kenya
   city: Taita
+colors:
+  vibrant: 198 161 112
+  darkVibrant: 88 77 31
+  lightVibrant: 217.20899999999997 192.678 160.19100000000003
+  muted: 156 123 88
+  darkMuted: 94 83 50
+  lightMuted: 179 185 160
 file: juvenile-european-roller-in-africa.jpg
 ---
 

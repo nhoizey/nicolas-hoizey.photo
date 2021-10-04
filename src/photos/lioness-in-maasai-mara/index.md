@@ -60,6 +60,13 @@ geo:
   longitude: 35.39015333333333
   country: Kenya
   city: Narok
+colors:
+  vibrant: 180 165 71
+  darkVibrant: 103 114 22
+  lightVibrant: 231 213 152
+  muted: 144 127 89
+  darkMuted: 75 93 54
+  lightMuted: 202 177 140
 file: lioness-in-maasai-mara.jpg
 ---
 

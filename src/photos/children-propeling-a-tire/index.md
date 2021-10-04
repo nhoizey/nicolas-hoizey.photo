@@ -33,6 +33,13 @@ geo:
   longitude: 35.896523333333334
   country: Kenya
   city: Narok
+colors:
+  vibrant: 179 93 108
+  darkVibrant: 28 70 104
+  lightVibrant: 189 208 226
+  muted: 129 118 111
+  darkMuted: 52 65 86
+  lightMuted: 168 193 213
 file: children-propeling-a-tire.jpg
 ---
 

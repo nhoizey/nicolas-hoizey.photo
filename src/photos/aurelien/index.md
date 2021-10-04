@@ -38,6 +38,13 @@ geo:
   longitude: 2.3984945316666666
   country: France
   city: Draveil
+colors:
+  vibrant: 59 111 145
+  darkVibrant: 32 70 95
+  lightVibrant: 228 208 195
+  muted: 172 100 141
+  darkMuted: 102 52 76
+  lightMuted: 208 194 181
 file: aurelien.jpg
 ---
 

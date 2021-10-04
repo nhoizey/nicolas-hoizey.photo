@@ -60,6 +60,13 @@ geo:
   longitude: 37.29114
   country: Kenya
   city: Kajiado
+colors:
+  vibrant: 4 129 190
+  darkVibrant: 4 120 178
+  lightVibrant: 125 162 193
+  muted: 98 138 172
+  darkMuted: 95 80 50
+  lightMuted: 152 180 203
 file: grant-s-zebras.jpg
 ---
 

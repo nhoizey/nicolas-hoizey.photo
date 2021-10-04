@@ -55,6 +55,13 @@ geo:
   longitude: -3.4753271249999997
   country: France
   city: Perros-Guirec
+colors:
+  vibrant: 31 121 188
+  darkVibrant: 5 37 51
+  lightVibrant: 124 180 220
+  muted: 88 136 168
+  darkMuted: 96 74 56
+  lightMuted: 194 182 172
 file: laherez.jpg
 ---
 

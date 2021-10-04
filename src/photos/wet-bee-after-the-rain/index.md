@@ -34,6 +34,13 @@ geo:
   longitude: 1.044283405
   country: France
   city: Senonches
+colors:
+  vibrant: 135 88 176
+  darkVibrant: 45 75 10
+  lightVibrant: 164 135 220
+  muted: 121 107 130
+  darkMuted: 74 49 82
+  lightMuted: 179 149 201
 file: wet-bee-after-the-rain.jpg
 ---
 

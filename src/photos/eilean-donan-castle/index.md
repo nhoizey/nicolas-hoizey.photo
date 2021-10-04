@@ -48,6 +48,13 @@ geo:
   longitude: -5.5137194449999996
   country: Royaume-Uni
   city: Dornie
+colors:
+  vibrant: 143 105 37
+  darkVibrant: 113 132 60
+  lightVibrant: 227.7433333333333 199.74999999999997 149.65666666666667
+  muted: 156 156 92
+  darkMuted: 80 86 42
+  lightMuted: 179 188 194
 file: eilean-donan-castle.jpg
 ---
 

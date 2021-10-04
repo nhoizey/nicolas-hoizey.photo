@@ -46,6 +46,13 @@ geo:
   longitude: 2.4227722216666665
   country: France
   city: Draveil
+colors:
+  vibrant: 197 56 17
+  darkVibrant: 108 138 11
+  lightVibrant: 220 154 182
+  muted: 145 166 91
+  darkMuted: 103 106 55
+  lightMuted: 199 193 185
 file: scarlet-lily-beetle.jpg
 ---
 

@@ -41,6 +41,13 @@ geo:
   longitude: 35.332193333333336
   country: Kenya
   city: Narok
+colors:
+  vibrant: 84 139 185
+  darkVibrant: 130 122 17
+  lightVibrant: 160 192 219
+  muted: 154 129 85
+  darkMuted: 87 72 40
+  lightMuted: 188 202 207
 file: follow-the-path-around.jpg
 ---
 

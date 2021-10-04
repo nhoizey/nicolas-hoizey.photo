@@ -47,6 +47,13 @@ geo:
   longitude: -1.56115
   country: France
   city: Saint-Clément-des-Baleines
+colors:
+  vibrant: 108 76 52
+  darkVibrant: 62 32 20
+  lightVibrant: 211.90499999999997 185.385 165.49500000000003
+  muted: 142 117 109
+  darkMuted: 79 56 44
+  lightMuted: 187 172 168
 file: phare-des-baleines.jpg
 ---
 

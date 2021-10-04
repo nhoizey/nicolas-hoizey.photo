@@ -37,6 +37,13 @@ geo:
   longitude: 12.341188888333333
   country: Italie
   city: Venezia
+colors:
+  vibrant: 74 143 191
+  darkVibrant: 89 38 11
+  lightVibrant: 133 180 210
+  muted: 155 134 100
+  darkMuted: 101 74 54
+  lightMuted: 155 175 191
 file: a-peaceful-canal-in-venice.jpg
 ---
 

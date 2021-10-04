@@ -32,6 +32,13 @@ geo:
   longitude: 2.3984945316666666
   country: France
   city: Draveil
+colors:
+  vibrant: 4 242 4
+  darkVibrant: 4 132 44
+  lightVibrant: 109 133 252
+  muted: 2.4878048780487543 150.51219512195124 2.4878048780487543
+  darkMuted: 4 4 4
+  lightMuted: 3.0805369127516506 27.724832214765026 149.91946308724835
 file: colorful-edges.jpg
 ---
 

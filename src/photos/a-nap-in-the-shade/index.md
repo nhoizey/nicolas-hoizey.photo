@@ -54,6 +54,13 @@ geo:
   longitude: 35.24989166666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 197 203 43
+  darkVibrant: 141 151 33
+  lightVibrant: 236 231 140
+  muted: 159 159 100
+  darkMuted: 79 68 58
+  lightMuted: 188 168 134
 file: a-nap-in-the-shade.jpg
 ---
 

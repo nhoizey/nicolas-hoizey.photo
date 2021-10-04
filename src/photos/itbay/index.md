@@ -42,6 +42,13 @@ geo:
   longitude: 34.24826244166667
   country: Égypte
   city: Al Qusir
+colors:
+  vibrant: 180 116 60
+  darkVibrant: 98 57 15
+  lightVibrant: 236 212 203
+  muted: 136 95 68
+  darkMuted: 130 89 60
+  lightMuted: 204 188 172
 file: itbay.jpg
 ---
 

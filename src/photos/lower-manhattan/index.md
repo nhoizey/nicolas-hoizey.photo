@@ -70,6 +70,13 @@ geo:
   longitude: -73.99695833333334
   country: États-Unis
   city: New York
+colors:
+  vibrant: 160 69 42
+  darkVibrant: 44 89 7
+  lightVibrant: 156 172 244
+  muted: 162 143 101
+  darkMuted: 92 77 49
+  lightMuted: 188 184 142
 file: lower-manhattan.jpg
 ---
 

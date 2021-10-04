@@ -53,6 +53,13 @@ geo:
   longitude: 37.34467424
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 38 108 165
+  darkVibrant: 36 80 122
+  lightVibrant: 147.22167487684726 192.94581280788177 230.17832512315272
+  muted: 163 130 84
+  darkMuted: 66 64 38
+  lightMuted: 168 184 205
 file: here-comes-the-secretary.jpg
 ---
 

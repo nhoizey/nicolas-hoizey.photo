@@ -45,6 +45,13 @@ geo:
   longitude: 35.38941666666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 180 68 68
+  darkVibrant: 125 132 24
+  lightVibrant: 144 184 218
+  muted: 159 112 82
+  darkMuted: 102 71 53
+  lightMuted: 179 200 219
 file: travel-dreams.jpg
 ---
 

@@ -45,6 +45,13 @@ geo:
   longitude: 39.314975
   country: Kenya
   city: Kwale
+colors:
+  vibrant: 197 108 68
+  darkVibrant: 116 68 36
+  lightVibrant: 236 148 113
+  muted: 163 116 90
+  darkMuted: 89 83 60
+  lightMuted: 175 192 209
 file: on-the-dirt-track-again.jpg
 ---
 

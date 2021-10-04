@@ -54,6 +54,13 @@ geo:
   longitude: 37.323875
   country: Kenya
   city: Kajiado
+colors:
+  vibrant: 14 158 216
+  darkVibrant: 84 65 30
+  lightVibrant: 151 194 223
+  muted: 102 123 147
+  darkMuted: 75 62 53
+  lightMuted: 168 189 204
 file: majestic-kilimanjaro.jpg
 ---
 

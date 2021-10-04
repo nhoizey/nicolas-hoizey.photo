@@ -42,6 +42,13 @@ geo:
   longitude: 34.294278395
   country: Égypte
   city: Al Qusir
+colors:
+  vibrant: 232 184 108
+  darkVibrant: 110 68 19
+  lightVibrant: 223 183 135
+  muted: 166 126 95
+  darkMuted: 83 64 56
+  lightMuted: 203 184 189
 file: eastern-desert-perspective.jpg
 ---
 

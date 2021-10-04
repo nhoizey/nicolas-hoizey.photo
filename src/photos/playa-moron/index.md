@@ -55,6 +55,13 @@ geo:
   longitude: -69.41788333333334
   country: République dominicaine
   city: El Limón
+colors:
+  vibrant: 15 138 203
+  darkVibrant: 4 73 135
+  lightVibrant: 233 188 146
+  muted: 172 116 76
+  darkMuted: 83 75 50
+  lightMuted: 185 202 223
 file: playa-moron.jpg
 ---
 

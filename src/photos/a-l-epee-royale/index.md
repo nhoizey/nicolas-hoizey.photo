@@ -37,6 +37,13 @@ geo:
   longitude: 1.9630555916666665
   country: France
   city: Élancourt
+colors:
+  vibrant: 194 138 47
+  darkVibrant: 7 15 75
+  lightVibrant: 229.14024896265556 198.32863070539418 148.25975103734444
+  muted: 170 127 101
+  darkMuted: 54 63 75
+  lightMuted: 189 184 177
 file: a-l-epee-royale.jpg
 ---
 

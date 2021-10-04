@@ -38,6 +38,13 @@ geo:
   longitude: 2.3974610733333335
   country: France
   city: Draveil
+colors:
+  vibrant: 7.39130434782612 131.19565217391292 247.60869565217388
+  darkVibrant: 4 71 134
+  lightVibrant: 234 211 203
+  muted: 156 92 132
+  darkMuted: 40 65 91
+  lightMuted: 209 187 182
 file: after-the-rain.jpg
 ---
 

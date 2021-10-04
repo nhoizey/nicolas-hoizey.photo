@@ -38,6 +38,13 @@ geo:
   longitude: 12.471513333333334
   country: Italie
   city: Roma
+colors:
+  vibrant: 92 140 180
+  darkVibrant: 122 43 56
+  lightVibrant: 108 156 188
+  muted: 100 128 152
+  darkMuted: 75 77 55
+  lightMuted: 172 196 210
 file: ponte-sant-angelo.jpg
 ---
 

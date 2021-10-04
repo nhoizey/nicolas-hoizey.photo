@@ -27,6 +27,13 @@ dimensions:
   width: 3456
   height: 2304
 geo: {}
+colors:
+  vibrant: 151 81 35
+  darkVibrant: 76 44 12
+  lightVibrant: 230.04838709677418 180.14516129032256 147.35161290322583
+  muted: 150 116 92
+  darkMuted: 95 67 52
+  lightMuted: 191 156 132
 file: rusty.jpg
 ---
 

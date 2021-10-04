@@ -28,6 +28,13 @@ geo:
   longitude: 35.98392
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 63 102 139
+  darkVibrant: 76 68 12
+  lightVibrant: 163.75544554455448 189.35643564356437 213.6445544554455
+  muted: 104 123 152
+  darkMuted: 84 59 39
+  lightMuted: 141 153 185
 file: hard-manual-work-in-the-fields.jpg
 ---
 

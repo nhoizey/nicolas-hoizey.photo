@@ -28,6 +28,13 @@ geo:
   longitude: 35.97036666666666
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 194 168 11
+  darkVibrant: 158 138 4
+  lightVibrant: 247.8848780487805 231.06731707317076 129.5151219512195
+  muted: 115 135 156
+  darkMuted: 45 66 77
+  lightMuted: 167 182 195
 file: if-symptoms-persist-seek-medical-advice.jpg
 ---
 

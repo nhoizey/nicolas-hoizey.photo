@@ -40,6 +40,13 @@ geo:
   longitude: 5.139141945
   country: France
   city: Joinville
+colors:
+  vibrant: 228 36 84
+  darkVibrant: 39 51 11
+  lightVibrant: 220 228 252
+  muted: 139 138 84
+  darkMuted: 61 86 50
+  lightMuted: 188 195 218
 file: the-marne-in-joinville.jpg
 ---
 

@@ -46,6 +46,13 @@ geo:
   longitude: 114.17432666666667
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 214.9586776859504 82.1900826446281 40.041322314049594
+  darkVibrant: 102 39 19
+  lightVibrant: 234.1785123966942 165.13884297520664 143.22148760330577
+  muted: 114 135 150
+  darkMuted: 67 57 40
+  lightMuted: 190 185 167
 file: hoarding-disorder.jpg
 ---
 

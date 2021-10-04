@@ -43,6 +43,13 @@ geo:
   longitude: 2.3266722216666667
   country: France
   city: Paris-17E-Arrondissement
+colors:
+  vibrant: 184 129 91
+  darkVibrant: 100 52 12
+  lightVibrant: 214.93787234042554 183.90382978723403 162.46212765957446
+  muted: 148 132 104
+  darkMuted: 89 63 45
+  lightMuted: 106.7744680851064 70.96595744680849 46.22553191489359
 file: le-petit-poucet.jpg
 ---
 

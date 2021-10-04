@@ -54,6 +54,13 @@ geo:
   longitude: 114.17389333333334
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 187 52 134
+  darkVibrant: 91 17 34
+  lightVibrant: 244 228 214
+  muted: 129 122 110
+  darkMuted: 46 64 79
+  lightMuted: 197 173 195
 file: blue-house-and-other-colors.jpg
 ---
 

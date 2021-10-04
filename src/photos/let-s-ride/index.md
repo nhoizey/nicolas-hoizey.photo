@@ -47,6 +47,13 @@ geo:
   longitude: 4.296975
   country: Pays-Bas
   city: Den Haag
+colors:
+  vibrant: 174 183 51
+  darkVibrant: 34 46 10
+  lightVibrant: 252 236 229
+  muted: 123 137 159
+  darkMuted: 49 55 70
+  lightMuted: 210 183 181
 file: let-s-ride.jpg
 ---
 

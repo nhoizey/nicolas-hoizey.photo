@@ -35,6 +35,13 @@ geo:
   longitude: 38.203408333333336
   country: Kenya
   city: Taita
+colors:
+  vibrant: 12 151 234
+  darkVibrant: 4 112 211
+  lightVibrant: 130 191 243
+  muted: 156 110 73
+  darkMuted: 88 65 41
+  lightMuted: 211 183 161
 file: little-home.jpg
 ---
 

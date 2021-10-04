@@ -42,6 +42,13 @@ geo:
   longitude: 2.3980118783333335
   country: France
   city: Draveil
+colors:
+  vibrant: 196 131 108
+  darkVibrant: 14 27 63
+  lightVibrant: 236 164 172
+  muted: 113 121 127
+  darkMuted: 68 57 56
+  lightMuted: 176 197 209
 file: little-drizzle.jpg
 ---
 

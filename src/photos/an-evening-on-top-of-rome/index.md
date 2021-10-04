@@ -34,6 +34,13 @@ geo:
   longitude: 12.477814515
   country: Italie
   city: Rome
+colors:
+  vibrant: 68 128 181
+  darkVibrant: 4 63 118
+  lightVibrant: 142 185 223
+  muted: 77 118 157
+  darkMuted: 82 60 48
+  lightMuted: 202 181 151
 file: an-evening-on-top-of-rome.jpg
 ---
 

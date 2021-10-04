@@ -41,6 +41,13 @@ geo:
   longitude: 2.405349703333333
   country: France
   city: Draveil
+colors:
+  vibrant: 229 220 96
+  darkVibrant: 142 123 43
+  lightVibrant: 239 188 191
+  muted: 163 144 100
+  darkMuted: 102 62 51
+  lightMuted: 207 193 186
 file: gouter-d-enfant.jpg
 ---
 

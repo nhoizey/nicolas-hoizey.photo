@@ -48,6 +48,13 @@ geo:
   longitude: 37.354288333333336
   country: Kenya
   city: Kajiado
+colors:
+  vibrant: 8 179 246
+  darkVibrant: 91 61 41
+  lightVibrant: 147 212 248
+  muted: 89 112 150
+  darkMuted: 71 49 34
+  lightMuted: 171 190 209
 file: elephants-at-sunrise-in-front-of-kilimanjaro.jpg
 ---
 

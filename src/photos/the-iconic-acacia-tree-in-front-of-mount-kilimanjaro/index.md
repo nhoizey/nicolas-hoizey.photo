@@ -42,6 +42,13 @@ geo:
   longitude: 37.333799633333335
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 7 159 217
+  darkVibrant: 6 140 196
+  lightVibrant: 133 191 220
+  muted: 97 142 164
+  darkMuted: 51 65 77
+  lightMuted: 172 172 188
 file: the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg
 ---
 

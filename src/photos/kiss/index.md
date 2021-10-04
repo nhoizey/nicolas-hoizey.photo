@@ -56,6 +56,13 @@ geo:
   longitude: 5.688419555
   country: Pays-Bas
   city: Wageningue
+colors:
+  vibrant: 164 68 159
+  darkVibrant: 94 28 89
+  lightVibrant: 168 208 237
+  muted: 89 142 174
+  darkMuted: 56 90 109
+  lightMuted: 156 196 212
 file: kiss.jpg
 ---
 

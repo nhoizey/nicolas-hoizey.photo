@@ -51,6 +51,13 @@ geo:
   longitude: 0.18263888833333333
   country: France
   city: Étretat
+colors:
+  vibrant: 47 105 138
+  darkVibrant: 10 86 113
+  lightVibrant: 156.08756756756753 197.65945945945944 221.31243243243244
+  muted: 73 126 121
+  darkMuted: 47 98 84
+  lightMuted: 175 146 139
 file: a-nut-shell-in-etretat.jpg
 ---
 

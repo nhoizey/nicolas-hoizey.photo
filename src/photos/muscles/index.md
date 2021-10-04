@@ -44,6 +44,13 @@ geo:
   longitude: -73.980485
   country: États-Unis
   city: New York
+colors:
+  vibrant: 226 48 6
+  darkVibrant: 138 28 11
+  lightVibrant: 134 180 208
+  muted: 148 172 92
+  darkMuted: 76 42 47
+  lightMuted: 182 197 206
 file: muscles.jpg
 ---
 

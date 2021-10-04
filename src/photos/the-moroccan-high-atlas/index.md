@@ -58,6 +58,13 @@ geo:
   latitude: 30.417451858333333
   longitude: -8.673681001666667
   country: Maroc
+colors:
+  vibrant: 4 122 196
+  darkVibrant: 4 96 170
+  lightVibrant: 126 163 197
+  muted: 169 140 86
+  darkMuted: 49 70 60
+  lightMuted: 153 180 202
 file: the-moroccan-high-atlas.jpg
 ---
 

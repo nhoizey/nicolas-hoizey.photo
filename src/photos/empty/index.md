@@ -49,6 +49,13 @@ geo:
   longitude: 37.312715
   country: Kenya
   city: Kajiado
+colors:
+  vibrant: 5 123 175
+  darkVibrant: 8 108 164
+  lightVibrant: 99 180 218
+  muted: 63 105 130
+  darkMuted: 41 68 89
+  lightMuted: 158 186 197
 file: empty.jpg
 ---
 

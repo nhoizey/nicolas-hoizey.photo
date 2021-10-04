@@ -43,6 +43,13 @@ geo:
   longitude: 18.299222176666667
   country: Suède
   city: Åkersberga
+colors:
+  vibrant: 51 126 190
+  darkVibrant: 28.060580912863063 69.32614107883818 104.53941908713693
+  lightVibrant: 132 180 244
+  muted: 103 131 166
+  darkMuted: 55 68 94
+  lightMuted: 172 190 212
 file: an-evening-on-the-traelhavet-shore.jpg
 ---
 

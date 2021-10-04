@@ -74,6 +74,13 @@ geo:
   longitude: 36.117015
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 188 133 92
+  darkVibrant: 32 78 124
+  lightVibrant: 238 205 202
+  muted: 156 115 87
+  darkMuted: 52 80 74
+  lightMuted: 200 178 188
 file: mantled-guereza.jpg
 ---
 

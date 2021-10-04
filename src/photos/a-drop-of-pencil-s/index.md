@@ -42,6 +42,13 @@ geo:
   longitude: 2.3984945316666666
   country: France
   city: Draveil
+colors:
+  vibrant: 206 152 19
+  darkVibrant: 200 189 11
+  lightVibrant: 220 113 158
+  muted: 158 90 114
+  darkMuted: 60 107 88
+  lightMuted: 193 185 204
 file: a-drop-of-pencil-s.jpg
 ---
 

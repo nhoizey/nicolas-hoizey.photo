@@ -60,6 +60,13 @@ geo:
   longitude: 35.30825333333333
   country: Kenya
   city: Siana
+colors:
+  vibrant: 173 180 17
+  darkVibrant: 114 141 8
+  lightVibrant: 230 217 173
+  muted: 191 159 123
+  darkMuted: 63 73 40
+  lightMuted: 131 138 151
 file: beautiful-maasai-giraffe.jpg
 ---
 

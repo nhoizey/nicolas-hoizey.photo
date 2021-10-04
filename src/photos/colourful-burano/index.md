@@ -41,6 +41,13 @@ geo:
   longitude: 12.415352778333334
   country: Italie
   city: Venezia
+colors:
+  vibrant: 17 136 185
+  darkVibrant: 94 85 31
+  lightVibrant: 233 172 149
+  muted: 172 111 97
+  darkMuted: 44 68 91
+  lightMuted: 190 150 132
 file: colourful-burano.jpg
 ---
 

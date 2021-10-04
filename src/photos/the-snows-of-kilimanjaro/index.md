@@ -61,6 +61,13 @@ geo:
   longitude: 37.31807833333333
   country: Kenya
   city: Kajiado
+colors:
+  vibrant: 4 111 170
+  darkVibrant: 4 90 150
+  lightVibrant: 104 161 212
+  muted: 151 120 79
+  darkMuted: 79 64 44
+  lightMuted: 169 189 207
 file: the-snows-of-kilimanjaro.jpg
 ---
 

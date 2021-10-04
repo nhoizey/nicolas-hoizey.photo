@@ -53,6 +53,13 @@ geo:
   longitude: 2.2267861116666667
   country: France
   city: Boulogne-Billancourt
+colors:
+  vibrant: 199 128 101
+  darkVibrant: 116 92 22
+  lightVibrant: 219.64 174.80857142857144 157.76000000000002
+  muted: 120 106 71
+  darkMuted: 83 66 39
+  lightMuted: 137 154 130
 file: japanese-zen.jpg
 ---
 

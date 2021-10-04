@@ -61,6 +61,13 @@ geo:
   longitude: -73.99069166666666
   country: États-Unis
   city: New York
+colors:
+  vibrant: 233 28 40
+  darkVibrant: 6 20 161
+  lightVibrant: 244 223 91
+  muted: 154 128 96
+  darkMuted: 91 85 52
+  lightMuted: 187 183 218
 file: the-city-that-never-sleeps.jpg
 ---
 

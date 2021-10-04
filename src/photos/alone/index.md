@@ -52,6 +52,13 @@ geo:
   longitude: 37.28814150833333
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 154 172 57
+  darkVibrant: 94 106 8
+  lightVibrant: 200 177 128
+  muted: 175 157 104
+  darkMuted: 52 68 75
+  lightMuted: 163 183 204
 file: alone.jpg
 ---
 

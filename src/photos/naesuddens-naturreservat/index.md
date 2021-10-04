@@ -38,6 +38,13 @@ geo:
   longitude: 18.297828573333334
   country: Suède
   city: Åkersberga
+colors:
+  vibrant: 207 166 80
+  darkVibrant: 86 61 10
+  lightVibrant: 225 195 152
+  muted: 177 141 106
+  darkMuted: 82 62 43
+  lightMuted: 191 199 209
 file: naesuddens-naturreservat.jpg
 ---
 

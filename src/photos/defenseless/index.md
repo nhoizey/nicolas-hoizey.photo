@@ -52,6 +52,13 @@ geo:
   longitude: 2.235918805
   country: France
   city: Puteaux
+colors:
+  vibrant: 127.5 127.5 127.5
+  darkVibrant: 66.3 66.3 66.3
+  lightVibrant: 188.7 188.7 188.7
+  muted: 115 115 115
+  darkMuted: 63 63 63
+  lightMuted: 188 188 188
 file: defenseless.jpg
 ---
 

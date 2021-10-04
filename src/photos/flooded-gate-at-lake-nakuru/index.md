@@ -36,6 +36,13 @@ geo:
   longitude: 36.07194166666667
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 134 166 198
+  darkVibrant: 114 89 34
+  lightVibrant: 171 196 218
+  muted: 92 132 164
+  darkMuted: 84 74 51
+  lightMuted: 167 185 211
 file: flooded-gate-at-lake-nakuru.jpg
 ---
 

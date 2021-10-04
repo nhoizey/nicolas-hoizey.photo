@@ -53,6 +53,13 @@ geo:
   longitude: 37.32309333333333
   country: Kenya
   city: Kajiado
+colors:
+  vibrant: 190 164 68
+  darkVibrant: 127 118 52
+  lightVibrant: 220 168 116
+  muted: 155 139 96
+  darkMuted: 65 68 71
+  lightMuted: 191 168 141
 file: don-t-be-afraid-i-m-just-yawning.jpg
 ---
 

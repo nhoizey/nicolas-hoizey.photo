@@ -60,6 +60,13 @@ geo:
   longitude: 114.16060013166667
   country: Hong Kong
   city: Central and Western
+colors:
+  vibrant: 44 92 154
+  darkVibrant: 24 58 106
+  lightVibrant: 151.86666666666667 184.0121212121212 225.5333333333333
+  muted: 160 126 80
+  darkMuted: 81 64 41
+  lightMuted: 180 181 178
 file: bali-mynah.jpg
 ---
 

@@ -38,6 +38,13 @@ geo:
   longitude: 2.3984945316666666
   country: France
   city: Draveil
+colors:
+  vibrant: 223 6 43
+  darkVibrant: 91 8 16
+  lightVibrant: 249 129 180
+  muted: 108 132 144
+  darkMuted: 84 44 56
+  lightMuted: 208 183 189
 file: splash.jpg
 ---
 

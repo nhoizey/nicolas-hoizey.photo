@@ -56,6 +56,13 @@ geo:
   longitude: 18.013016666666665
   country: Suède
   city: Täby
+colors:
+  vibrant: 76.2992125984252 116.45669291338582 178.7007874015748
+  darkVibrant: 39.67559055118111 60.55748031496063 92.92440944881889
+  lightVibrant: 166 186 217
+  muted: 148 135 131
+  darkMuted: 57 70 104
+  lightMuted: 187 176 180
 file: a-long-tailed-tit-in-sweden.jpg
 ---
 

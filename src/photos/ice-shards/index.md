@@ -43,6 +43,13 @@ geo:
   longitude: 18.299465586666667
   country: Suède
   city: Åkersberga
+colors:
+  vibrant: 106 131 188
+  darkVibrant: 108 108 36
+  lightVibrant: 154 174 214
+  muted: 89 115 164
+  darkMuted: 49 66 98
+  lightMuted: 143 162 201
 file: ice-shards.jpg
 ---
 

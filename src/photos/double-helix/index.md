@@ -62,6 +62,13 @@ geo:
   latitude: 41.90653931666667
   longitude: 12.455145353333334
   country: Italie
+colors:
+  vibrant: 226 4 33
+  darkVibrant: 102 9 28
+  lightVibrant: 228 164 66
+  muted: 134 130 136
+  darkMuted: 92 60 52
+  lightMuted: 193 192 199
 file: double-helix.jpg
 ---
 

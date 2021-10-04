@@ -50,6 +50,13 @@ geo:
   latitude: 41.906585228333334
   longitude: 12.455174858333333
   country: Italie
+colors:
+  vibrant: 182 133 56
+  darkVibrant: 148 92 4
+  lightVibrant: 223.8 196.5 153.6
+  muted: 104 117 141
+  darkMuted: 66 58 53
+  lightMuted: 192 186 177
 file: find-your-way.jpg
 ---
 

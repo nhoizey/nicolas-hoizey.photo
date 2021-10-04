@@ -71,6 +71,13 @@ geo:
   longitude: -74.003730555
   country: États-Unis
   city: New York
+colors:
+  vibrant: 212 134 10
+  darkVibrant: 4 116 161
+  lightVibrant: 201 153 129
+  muted: 141 117 109
+  darkMuted: 74 37 47
+  lightMuted: 189 184 183
 file: new-york-lovers.jpg
 ---
 

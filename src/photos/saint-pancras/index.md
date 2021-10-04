@@ -49,6 +49,13 @@ geo:
   longitude: -0.124130555
   country: Royaume-Uni
   city: Londres
+colors:
+  vibrant: 76 128 160
+  darkVibrant: 90 67 20
+  lightVibrant: 164 180 212
+  muted: 113 139 168
+  darkMuted: 58 68 82
+  lightMuted: 164 179 203
 file: saint-pancras.jpg
 ---
 

@@ -66,6 +66,13 @@ geo:
   longitude: -6.191885431666667
   country: Royaume-Uni
   city: Portree
+colors:
+  vibrant: 174 133 52
+  darkVibrant: 32 32 4
+  lightVibrant: 224.49026548672563 200.4345132743363 152.90973451327437
+  muted: 170 83 140
+  darkMuted: 80 73 58
+  lightMuted: 156 180 196
 file: portree.jpg
 ---
 

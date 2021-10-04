@@ -65,6 +65,13 @@ geo:
   longitude: 35.299933333333335
   country: Kenya
   city: Narok
+colors:
+  vibrant: 212 181 16
+  darkVibrant: 74 94 7
+  lightVibrant: 125 174 228
+  muted: 96 131 142
+  darkMuted: 51 76 41
+  lightMuted: 211 197 159
 file: variable-sunbird-in-maasai-mara-national-reserve-kenya.jpg
 ---
 

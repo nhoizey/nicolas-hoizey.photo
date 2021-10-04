@@ -40,6 +40,13 @@ geo:
   longitude: 1.180830555
   country: France
   city: Chaumont-sur-Loire
+colors:
+  vibrant: 205 22 121
+  darkVibrant: 132 11 47
+  lightVibrant: 244 222 155
+  muted: 129 92 73
+  darkMuted: 97 72 56
+  lightMuted: 209 202 226
 file: pigments.jpg
 ---
 

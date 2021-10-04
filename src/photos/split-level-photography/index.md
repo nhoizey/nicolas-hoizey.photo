@@ -35,6 +35,13 @@ dimensions:
 geo:
   latitude: 26.03208027333333
   longitude: 34.562968085
+colors:
+  vibrant: 26 163 197
+  darkVibrant: 4 23 119
+  lightVibrant: 224 152 153
+  muted: 153 114 140
+  darkMuted: 56 55 85
+  lightMuted: 202 173 172
 file: split-level-photography.jpg
 ---
 

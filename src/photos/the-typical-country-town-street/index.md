@@ -28,6 +28,13 @@ geo:
   longitude: 35.935156666666664
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 221 164 44
+  darkVibrant: 117 86 18
+  lightVibrant: 214 188 169
+  muted: 152 127 110
+  darkMuted: 82 67 61
+  lightMuted: 178 189 204
 file: the-typical-country-town-street.jpg
 ---
 

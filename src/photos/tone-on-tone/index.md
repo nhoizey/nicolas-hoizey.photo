@@ -41,6 +41,13 @@ geo:
   longitude: 12.410688083333334
   country: Italie
   city: Venezia
+colors:
+  vibrant: 178 86 45
+  darkVibrant: 7 124 73
+  lightVibrant: 223 199 166
+  muted: 97 150 173
+  darkMuted: 95 64 41
+  lightMuted: 134 167 126
 file: tone-on-tone.jpg
 ---
 

@@ -37,6 +37,13 @@ geo:
   latitude: 59.460056488333336
   longitude: 18.297942645
   country: Suède
+colors:
+  vibrant: 166 66 31
+  darkVibrant: 69 19 15
+  lightVibrant: 235 209 179
+  muted: 96 127 148
+  darkMuted: 68 56 46
+  lightMuted: 164 191 208
 file: oesterskaer.jpg
 ---
 

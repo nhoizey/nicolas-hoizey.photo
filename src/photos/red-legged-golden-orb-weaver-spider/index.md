@@ -64,6 +64,13 @@ geo:
   longitude: 39.56908
   country: Kenya
   city: Kwale
+colors:
+  vibrant: 239 166 29
+  darkVibrant: 85 107 9
+  lightVibrant: 246.23305785123966 206.23388429752066 131.16694214876034
+  muted: 153 141 102
+  darkMuted: 74 76 44
+  lightMuted: 195 185 167
 file: red-legged-golden-orb-weaver-spider.jpg
 ---
 

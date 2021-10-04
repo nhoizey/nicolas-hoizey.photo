@@ -64,6 +64,13 @@ geo:
   longitude: 37.35462055333333
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 190 117 60
+  darkVibrant: 124 68 38
+  lightVibrant: 241 208 175
+  muted: 155 117 92
+  darkMuted: 86 65 56
+  lightMuted: 196 172 180
 file: morning-stroll.jpg
 ---
 

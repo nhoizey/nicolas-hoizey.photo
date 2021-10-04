@@ -45,6 +45,13 @@ geo:
   longitude: 4.833141666666666
   country: France
   city: Lyon
+colors:
+  vibrant: 127.5 127.5 127.5
+  darkVibrant: 66.3 66.3 66.3
+  lightVibrant: 188.7 188.7 188.7
+  muted: 132 132 132
+  darkMuted: 68 68 68
+  lightMuted: 184 184 184
 file: in-all-its-simplicity.jpg
 ---
 

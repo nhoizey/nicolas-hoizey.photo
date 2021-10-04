@@ -40,6 +40,13 @@ geo:
   longitude: 1.4036888883333334
   country: Espagne
   city: Sant Josep de sa Talaia
+colors:
+  vibrant: 13 4 241
+  darkVibrant: 4 4 115
+  lightVibrant: 93 77 250
+  muted: 92 132 156
+  darkMuted: 88 47 88
+  lightMuted: 178 196 199
 file: follow-the-rythm.jpg
 ---
 

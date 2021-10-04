@@ -68,6 +68,13 @@ geo:
   longitude: 35.36447666666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 172 100 44
+  darkVibrant: 92 44 12
+  lightVibrant: 227.98888888888888 183.78888888888886 149.41111111111113
+  muted: 153 150 97
+  darkMuted: 97 96 52
+  lightMuted: 211 195 179
 file: at-the-school-of-life.jpg
 ---
 

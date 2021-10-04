@@ -45,6 +45,13 @@ geo:
   longitude: 4.833358333333333
   country: France
   city: Lyon
+colors:
+  vibrant: 165 106 58
+  darkVibrant: 62 114 24
+  lightVibrant: 220.5121076233184 185.42959641255607 156.8878923766816
+  muted: 164 92 108
+  darkMuted: 44 79 42
+  lightMuted: 196 182 154
 file: dreamer.jpg
 ---
 

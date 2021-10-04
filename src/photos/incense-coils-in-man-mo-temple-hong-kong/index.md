@@ -47,6 +47,13 @@ geo:
   longitude: 114.150275
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 225 206 45
+  darkVibrant: 106 18 18
+  lightVibrant: 239 178 107
+  muted: 88 109 152
+  darkMuted: 50 59 87
+  lightMuted: 172 189 214
 file: incense-coils-in-man-mo-temple-hong-kong.jpg
 ---
 

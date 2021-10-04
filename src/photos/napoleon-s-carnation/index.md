@@ -68,6 +68,13 @@ geo:
   longitude: 2.464709945
   country: France
   city: Étiolles
+colors:
+  vibrant: 58 76 210
+  darkVibrant: 18 57 181
+  lightVibrant: 190 165 232
+  muted: 177 123 90
+  darkMuted: 44 76 36
+  lightMuted: 181 141 143
 file: napoleon-s-carnation.jpg
 ---
 

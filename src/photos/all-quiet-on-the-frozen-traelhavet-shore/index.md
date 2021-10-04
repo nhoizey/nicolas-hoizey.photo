@@ -48,6 +48,13 @@ geo:
   longitude: 18.29953088
   country: Suède
   city: Åkersberga
+colors:
+  vibrant: 79 118 167
+  darkVibrant: 43 68 95
+  lightVibrant: 145 177 220
+  muted: 103 127 166
+  darkMuted: 43 57 80
+  lightMuted: 165 175 200
 file: all-quiet-on-the-frozen-traelhavet-shore.jpg
 ---
 

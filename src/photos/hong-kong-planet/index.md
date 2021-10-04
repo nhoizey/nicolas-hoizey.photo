@@ -49,6 +49,13 @@ geo:
   longitude: 114.17085
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 21 75 181
+  darkVibrant: 76 28 94
+  lightVibrant: 93 122 225
+  muted: 76 92 175
+  darkMuted: 34 37 70
+  lightMuted: 189 187 222
 file: hong-kong-planet.jpg
 ---
 

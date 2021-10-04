@@ -56,6 +56,13 @@ geo:
   longitude: 35.39019
   country: Kenya
   city: Narok
+colors:
+  vibrant: 19 124 188
+  darkVibrant: 4 52 124
+  lightVibrant: 223 197 146
+  muted: 170 92 102
+  darkMuted: 93 83 57
+  lightMuted: 209 192 182
 file: lappet-faced-vulture-on-a-tree-in-maasai-mara-national-reserve.jpg
 ---
 

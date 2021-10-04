@@ -46,6 +46,13 @@ geo:
   longitude: 114.17033833333333
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 142 26 30
+  darkVibrant: 98 16 12
+  lightVibrant: 147 182 210
+  muted: 94 106 157
+  darkMuted: 94 49 63
+  lightMuted: 203 177 178
 file: tradition-and-modernity.jpg
 ---
 

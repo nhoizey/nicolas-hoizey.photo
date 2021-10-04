@@ -39,6 +39,13 @@ geo:
   longitude: 35.389511666666664
   country: Kenya
   city: Narok
+colors:
+  vibrant: 210 147 16
+  darkVibrant: 39 34 12
+  lightVibrant: 128 192 244
+  muted: 167 135 101
+  darkMuted: 88 75 54
+  lightMuted: 207 178 162
 file: small-break-with-the-protection-of-the-shade-of-the-tree.jpg
 ---
 

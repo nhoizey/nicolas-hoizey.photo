@@ -58,6 +58,13 @@ geo:
   longitude: 2.3539527783333334
   country: France
   city: Saint-Denis
+colors:
+  vibrant: 17 197 205
+  darkVibrant: 97 17 7
+  lightVibrant: 225 203 169
+  muted: 160 149 83
+  darkMuted: 81 69 51
+  lightMuted: 193 199 155
 file: color-patches.jpg
 ---
 

@@ -59,6 +59,13 @@ geo:
   longitude: 35.255023333333334
   country: Kenya
   city: Narok
+colors:
+  vibrant: 186 126 77
+  darkVibrant: 39 64 107
+  lightVibrant: 183 140 105
+  muted: 84 124 164
+  darkMuted: 79 61 43
+  lightMuted: 206 182 166
 file: spiderman-is-watching.jpg
 ---
 

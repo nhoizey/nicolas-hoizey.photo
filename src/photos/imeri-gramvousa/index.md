@@ -48,6 +48,13 @@ geo:
   longitude: 23.576639096666668
   country: Grèce
   city: Gramvoussa
+colors:
+  vibrant: 6 128 186
+  darkVibrant: 9 91 135
+  lightVibrant: 241 182 124
+  muted: 110 138 149
+  darkMuted: 79 62 48
+  lightMuted: 185 197 202
 file: imeri-gramvousa.jpg
 ---
 

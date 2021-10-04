@@ -31,6 +31,13 @@ geo:
   longitude: 5.13971
   country: France
   city: Joinville
+colors:
+  vibrant: 5 80 165
+  darkVibrant: 16 78 154
+  lightVibrant: 223 231 246
+  muted: 107 120 173
+  darkMuted: 57 68 73
+  lightMuted: 172 174 184
 file: joinville.jpg
 ---
 

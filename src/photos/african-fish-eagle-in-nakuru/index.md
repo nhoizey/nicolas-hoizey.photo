@@ -61,6 +61,13 @@ geo:
   longitude: 36.12001
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 182 124 44
+  darkVibrant: 20 60 92
+  lightVibrant: 252 250 247
+  muted: 147 143 123
+  darkMuted: 78 86 44
+  lightMuted: 196 190 173
 file: african-fish-eagle-in-nakuru.jpg
 ---
 

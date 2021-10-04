@@ -45,6 +45,13 @@ geo:
   longitude: -4.2852111116666665
   country: France
   city: Guilvinec
+colors:
+  vibrant: 238 146 16
+  darkVibrant: 4 68 124
+  lightVibrant: 248 224 193
+  muted: 82 117 143
+  darkMuted: 49 68 83
+  lightMuted: 185 202 210
 file: le-guilvinec-by-night.jpg
 ---
 

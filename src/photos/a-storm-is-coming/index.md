@@ -58,6 +58,13 @@ geo:
   longitude: 35.34681
   country: Kenya
   city: Narok
+colors:
+  vibrant: 174 166 26
+  darkVibrant: 18 84 132
+  lightVibrant: 214 197 123
+  muted: 148 138 78
+  darkMuted: 83 84 44
+  lightMuted: 204 190 154
 file: a-storm-is-coming.jpg
 ---
 

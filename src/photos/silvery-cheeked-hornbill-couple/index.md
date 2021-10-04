@@ -59,6 +59,13 @@ geo:
   longitude: 39.567858333333334
   country: Kenya
   city: Kwale
+colors:
+  vibrant: 174 190 31
+  darkVibrant: 93 107 8
+  lightVibrant: 156 188 228
+  muted: 171 155 121
+  darkMuted: 78 68 45
+  lightMuted: 151 176 204
 file: silvery-cheeked-hornbill-couple.jpg
 ---
 

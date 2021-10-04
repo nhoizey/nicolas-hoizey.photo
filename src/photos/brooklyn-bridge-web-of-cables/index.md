@@ -65,6 +65,13 @@ geo:
   longitude: -73.99552333333334
   country: États-Unis
   city: New York
+colors:
+  vibrant: 181 106 57
+  darkVibrant: 41 4 5
+  lightVibrant: 151 176 212
+  muted: 84 116 164
+  darkMuted: 83 58 54
+  lightMuted: 181 188 196
 file: brooklyn-bridge-web-of-cables.jpg
 ---
 

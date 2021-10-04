@@ -38,6 +38,13 @@ geo:
   longitude: 2.4230992266666664
   country: France
   city: Draveil
+colors:
+  vibrant: 168 4 45
+  darkVibrant: 128 4 28
+  lightVibrant: 217 79 129
+  muted: 139 116 109
+  darkMuted: 92 51 46
+  lightMuted: 147 196 137
 file: the-flowering-of-the-carnations.jpg
 ---
 

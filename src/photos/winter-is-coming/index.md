@@ -29,6 +29,13 @@ geo:
   longitude: 6.570693018333333
   country: France
   city: Les Allues
+colors:
+  vibrant: 116 68 44
+  darkVibrant: 94 57 38
+  lightVibrant: 212 228 244
+  muted: 156 116 93
+  darkMuted: 100 70 54
+  lightMuted: 167 178 201
 file: winter-is-coming.jpg
 ---
 

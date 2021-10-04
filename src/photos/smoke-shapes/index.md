@@ -33,6 +33,13 @@ geo:
   longitude: 2.405356628333333
   country: France
   city: Draveil
+colors:
+  vibrant: 206 132 54
+  darkVibrant: 10 70 112
+  lightVibrant: 156 204 242
+  muted: 103 121 151
+  darkMuted: 49 68 84
+  lightMuted: 167 179 202
 file: smoke-shapes.jpg
 ---
 

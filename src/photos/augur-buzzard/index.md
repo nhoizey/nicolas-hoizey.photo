@@ -55,6 +55,13 @@ geo:
   longitude: 36.088175
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 143.4375 239.0625 15.9375
+  darkVibrant: 36 60 4
+  lightVibrant: 196.98749999999998 246.7125 130.6875
+  muted: 140 132 103
+  darkMuted: 72 78 42
+  lightMuted: 169 183 206
 file: augur-buzzard.jpg
 ---
 

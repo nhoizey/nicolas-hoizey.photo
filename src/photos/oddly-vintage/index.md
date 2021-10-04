@@ -39,6 +39,13 @@ geo:
   longitude: 1.9620263066666666
   country: France
   city: Élancourt
+colors:
+  vibrant: 188.17241379310352 219.82758620689654 35.17241379310346
+  darkVibrant: 107 125 20
+  lightVibrant: 220.24965517241384 236.7103448275862 140.68965517241378
+  muted: 138 153 98
+  darkMuted: 50 65 89
+  lightMuted: 177 175 160
 file: oddly-vintage.jpg
 ---
 

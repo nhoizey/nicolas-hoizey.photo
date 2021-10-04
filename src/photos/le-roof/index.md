@@ -39,6 +39,13 @@ geo:
   longitude: 166.44731622333333
   country: Nouvelle-Calédonie
   city: Nouméa
+colors:
+  vibrant: 58 114 179
+  darkVibrant: 19 91 139
+  lightVibrant: 143 175 208
+  muted: 98 131 171
+  darkMuted: 55 79 94
+  lightMuted: 164 179 205
 file: le-roof.jpg
 ---
 

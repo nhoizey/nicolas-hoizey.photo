@@ -33,6 +33,13 @@ geo:
   longitude: 37.28133166666667
   country: Kenya
   city: Kajiado
+colors:
+  vibrant: 76 108 188
+  darkVibrant: 89 22 21
+  lightVibrant: 210 191 152
+  muted: 159 139 103
+  darkMuted: 83 75 56
+  lightMuted: 195 211 225
 file: 40-c-no-problem.jpg
 ---
 

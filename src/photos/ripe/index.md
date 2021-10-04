@@ -46,6 +46,13 @@ geo:
   longitude: 1.180830555
   country: France
   city: Chaumont-sur-Loire
+colors:
+  vibrant: 135 47 72
+  darkVibrant: 61 17 23
+  lightVibrant: 204 172 132
+  muted: 143 124 108
+  darkMuted: 76 61 54
+  lightMuted: 190 190 188
 file: ripe.jpg
 ---
 

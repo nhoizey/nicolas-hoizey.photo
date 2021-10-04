@@ -34,6 +34,13 @@ geo:
   longitude: 4.811183333333333
   country: France
   city: Lyon
+colors:
+  vibrant: 180 116 68
+  darkVibrant: 21 47 77
+  lightVibrant: 220 162 126
+  muted: 167 118 88
+  darkMuted: 94 62 49
+  lightMuted: 152 164 188
 file: uncertainty.jpg
 ---
 

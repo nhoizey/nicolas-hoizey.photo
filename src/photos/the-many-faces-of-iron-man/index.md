@@ -41,6 +41,13 @@ geo:
   longitude: 114.170255555
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 124 100 59
+  darkVibrant: 118 23 32
+  lightVibrant: 212.24918032786886 194.8590163934426 165.15081967213115
+  muted: 136 117 100
+  darkMuted: 76 40 42
+  lightMuted: 192 179 168
 file: the-many-faces-of-iron-man.jpg
 ---
 

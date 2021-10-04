@@ -53,6 +53,13 @@ geo:
   longitude: 35.346806666666666
   country: Kenya
   city: Narok
+colors:
+  vibrant: 181 196 116
+  darkVibrant: 20 4 4
+  lightVibrant: 215 200 165
+  muted: 159 124 102
+  darkMuted: 74 56 47
+  lightMuted: 199 197 158
 file: elephant-in-maasai-mara.jpg
 ---
 

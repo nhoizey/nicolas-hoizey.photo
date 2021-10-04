@@ -43,6 +43,13 @@ geo:
   longitude: 2.335366666666667
   country: France
   city: Paris
+colors:
+  vibrant: 243 176 36
+  darkVibrant: 156 102 11
+  lightVibrant: 251 234 34
+  muted: 146 113 75
+  darkMuted: 64 52 43
+  lightMuted: 164 174 180
 file: aux-couleurs-modernes.jpg
 ---
 

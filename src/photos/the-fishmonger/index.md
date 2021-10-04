@@ -46,6 +46,13 @@ geo:
   longitude: 114.17510166666666
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 189 29 31
+  darkVibrant: 105 22 16
+  lightVibrant: 230 179 152
+  muted: 138 131 125
+  darkMuted: 73 45 37
+  lightMuted: 213 196 202
 file: the-fishmonger.jpg
 ---
 

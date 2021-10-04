@@ -61,6 +61,13 @@ geo:
   longitude: 36.12001
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 121 160 205
+  darkVibrant: 36.03260869565218 64.13804347826085 96.56739130434782
+  lightVibrant: 180 212 244
+  muted: 78 114 157
+  darkMuted: 59 63 78
+  lightMuted: 175 196 216
 file: pied-kingfisher-in-lake-nakuru-national-park-kenya.jpg
 ---
 

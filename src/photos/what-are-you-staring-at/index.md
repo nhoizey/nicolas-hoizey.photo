@@ -66,6 +66,13 @@ geo:
   longitude: 36.1207
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 133 84 56
+  darkVibrant: 36 52 76
+  lightVibrant: 215.7111111111111 181.33333333333331 161.68888888888887
+  muted: 139 127 119
+  darkMuted: 79 73 56
+  lightMuted: 157 162 176
 file: what-are-you-staring-at.jpg
 ---
 

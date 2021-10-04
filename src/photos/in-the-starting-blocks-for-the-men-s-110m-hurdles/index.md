@@ -41,6 +41,13 @@ geo:
   longitude: 2.45176097
   country: France
   city: Montgeron
+colors:
+  vibrant: 52 144 210
+  darkVibrant: 153 19 20
+  lightVibrant: 235 178 75
+  muted: 165 95 91
+  darkMuted: 97 47 47
+  lightMuted: 156 181 207
 file: in-the-starting-blocks-for-the-men-s-110m-hurdles.jpg
 ---
 

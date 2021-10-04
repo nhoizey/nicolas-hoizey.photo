@@ -52,6 +52,13 @@ geo:
   longitude: 35.30606
   country: Kenya
   city: Narok
+colors:
+  vibrant: 200 199 50
+  darkVibrant: 84 140 4
+  lightVibrant: 151 194 227
+  muted: 154 153 82
+  darkMuted: 72 81 56
+  lightMuted: 123 161 184
 file: close-to-me.jpg
 ---
 

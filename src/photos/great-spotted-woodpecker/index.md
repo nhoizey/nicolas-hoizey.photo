@@ -46,6 +46,13 @@ geo:
   longitude: 2.488652255
   country: France
   city: Soisy-sur-Seine
+colors:
+  vibrant: 69 136 187
+  darkVibrant: 37 70 102
+  lightVibrant: 131 187 236
+  muted: 101 134 170
+  darkMuted: 62 44 28
+  lightMuted: 122 164 195
 file: great-spotted-woodpecker.jpg
 ---
 

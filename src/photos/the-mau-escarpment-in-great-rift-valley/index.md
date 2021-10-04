@@ -32,6 +32,13 @@ geo:
   longitude: 35.90155
   country: Kenya
   city: Narok
+colors:
+  vibrant: 212 76 76
+  darkVibrant: 85 80 19
+  lightVibrant: 156 187 228
+  muted: 134 114 96
+  darkMuted: 79 64 48
+  lightMuted: 164 185 214
 file: the-mau-escarpment-in-great-rift-valley.jpg
 ---
 

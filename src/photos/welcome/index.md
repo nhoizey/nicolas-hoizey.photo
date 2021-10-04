@@ -37,6 +37,13 @@ dimensions:
   width: 3500
   height: 2333
 geo: {}
+colors:
+  vibrant: 68 108 148
+  darkVibrant: 12 54 85
+  lightVibrant: 164.14444444444445 188.69999999999996 213.25555555555556
+  muted: 96 120 142
+  darkMuted: 32 47 68
+  lightMuted: 162 174 183
 file: welcome.jpg
 ---
 

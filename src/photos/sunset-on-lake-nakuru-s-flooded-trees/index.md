@@ -59,6 +59,13 @@ geo:
   longitude: 36.109235
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 176 117 85
+  darkVibrant: 4 45 71
+  lightVibrant: 251 203 116
+  muted: 85 117 144
+  darkMuted: 47 68 83
+  lightMuted: 121 148 168
 file: sunset-on-lake-nakuru-s-flooded-trees.jpg
 ---
 

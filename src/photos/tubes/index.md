@@ -55,6 +55,13 @@ geo:
   longitude: 2.370855
   country: France
   city: Paris
+colors:
+  vibrant: 14 125 197
+  darkVibrant: 4 88 163
+  lightVibrant: 134 175 214
+  muted: 112 131 149
+  darkMuted: 43 66 86
+  lightMuted: 180 193 206
 file: tubes.jpg
 ---
 

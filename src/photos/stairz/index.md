@@ -55,6 +55,13 @@ geo:
   latitude: 48.860899185
   longitude: 2.351757158333333
   country: France
+colors:
+  vibrant: 20 151 232
+  darkVibrant: 111 22 7
+  lightVibrant: 227 188 138
+  muted: 157 101 81
+  darkMuted: 68 54 35
+  lightMuted: 151 164 206
 file: stairz.jpg
 ---
 

@@ -41,6 +41,13 @@ geo:
   longitude: 0.22933463666666667
   country: France
   city: Honfleur
+colors:
+  vibrant: 73 142 14
+  darkVibrant: 55 118 16
+  lightVibrant: 202 126 208
+  muted: 97 167 92
+  darkMuted: 49 76 46
+  lightMuted: 140 151 172
 file: butterfly.jpg
 ---
 

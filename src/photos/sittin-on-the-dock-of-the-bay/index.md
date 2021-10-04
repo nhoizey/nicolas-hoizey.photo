@@ -18,6 +18,13 @@ geo:
   latitude: 48.85818896166667
   longitude: 2.3431397483333334
   country: France
+colors:
+  vibrant: 68 140 164
+  darkVibrant: 43 88 107
+  lightVibrant: 161.26551724137934 202.41724137931033 216.13448275862066
+  muted: 100 132 156
+  darkMuted: 73 78 59
+  lightMuted: 180 204 170
 file: sittin-on-the-dock-of-the-bay.jpg
 ---
 

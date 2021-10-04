@@ -53,6 +53,13 @@ geo:
   longitude: 0.22411388833333332
   country: France
   city: Rillé
+colors:
+  vibrant: 204 156 147
+  darkVibrant: 11 79 126
+  lightVibrant: 212.46792452830186 172.43773584905662 164.9320754716981
+  muted: 142 108 92
+  darkMuted: 63 57 71
+  lightMuted: 208 170 161
 file: egret-at-sunset.jpg
 ---
 

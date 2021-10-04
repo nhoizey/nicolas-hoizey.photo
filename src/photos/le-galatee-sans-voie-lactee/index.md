@@ -44,6 +44,13 @@ geo:
   longitude: 0.07846388833333333
   country: France
   city: Trouville-sur-Mer
+colors:
+  vibrant: 247.03125 183.28125 7.96875
+  darkVibrant: 124 92 4
+  lightVibrant: 250.85625000000002 217.70625 126.54374999999999
+  muted: 79 104 130
+  darkMuted: 34 57 72
+  lightMuted: 194 196 199
 file: le-galatee-sans-voie-lactee.jpg
 ---
 

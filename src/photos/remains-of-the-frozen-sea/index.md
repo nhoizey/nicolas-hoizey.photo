@@ -43,6 +43,13 @@ geo:
   longitude: 18.299656023333334
   country: Suède
   city: Åkersberga
+colors:
+  vibrant: 120 147 196
+  darkVibrant: 44 60 100
+  lightVibrant: 170 187 225
+  muted: 116 140 178
+  darkMuted: 49 56 74
+  lightMuted: 180 183 198
 file: remains-of-the-frozen-sea.jpg
 ---
 

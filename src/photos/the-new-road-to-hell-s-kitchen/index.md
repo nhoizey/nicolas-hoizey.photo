@@ -59,6 +59,13 @@ geo:
   longitude: -73.97897166666667
   country: États-Unis
   city: New York
+colors:
+  vibrant: 228 141 53
+  darkVibrant: 4 60 148
+  lightVibrant: 184 215 243
+  muted: 176 92 116
+  darkMuted: 54 66 93
+  lightMuted: 189 179 166
 file: the-new-road-to-hell-s-kitchen.jpg
 ---
 

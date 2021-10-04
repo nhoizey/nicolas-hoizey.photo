@@ -37,6 +37,13 @@ geo:
   longitude: 35.30692166666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 19 142 204
+  darkVibrant: 4 103 168
+  lightVibrant: 114 183 226
+  muted: 96 127 150
+  darkMuted: 80 75 46
+  lightMuted: 154 181 187
 file: maasai-mara-national-reserve.jpg
 ---
 

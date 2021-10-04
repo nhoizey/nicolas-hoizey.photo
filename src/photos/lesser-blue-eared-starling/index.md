@@ -53,6 +53,13 @@ geo:
   longitude: 5.996315938333334
   country: Pays-Bas
   city: Heijen
+colors:
+  vibrant: 96 161 6
+  darkVibrant: 65 130 8
+  lightVibrant: 220 234 245
+  muted: 109 145 170
+  darkMuted: 101 87 56
+  lightMuted: 153 196 189
 file: lesser-blue-eared-starling.jpg
 ---
 

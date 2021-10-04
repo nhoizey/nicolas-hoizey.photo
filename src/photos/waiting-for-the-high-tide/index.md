@@ -43,6 +43,13 @@ geo:
   longitude: -3.4906246916666666
   country: France
   city: Trégastel
+colors:
+  vibrant: 4 142 239
+  darkVibrant: 4 66 136
+  lightVibrant: 127 182 231
+  muted: 108 118 139
+  darkMuted: 86 65 53
+  lightMuted: 197 190 189
 file: waiting-for-the-high-tide.jpg
 ---
 

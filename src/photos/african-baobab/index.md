@@ -40,6 +40,13 @@ geo:
   longitude: 37.73237833333334
   country: Kenya
   city: Taita
+colors:
+  vibrant: 63 130 192
+  darkVibrant: 111 43 18
+  lightVibrant: 153 194 229
+  muted: 148 111 78
+  darkMuted: 75 71 39
+  lightMuted: 128 151 156
 file: african-baobab.jpg
 ---
 

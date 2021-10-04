@@ -46,6 +46,13 @@ geo:
   longitude: 37.333191621666664
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 4 119 184
+  darkVibrant: 4 108 178
+  lightVibrant: 149 185 208
+  muted: 142 106 73
+  darkMuted: 99 74 51
+  lightMuted: 182 200 211
 file: crowded-place.jpg
 ---
 

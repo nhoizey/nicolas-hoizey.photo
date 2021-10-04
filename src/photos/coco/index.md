@@ -45,6 +45,13 @@ geo:
   longitude: 5.5909801366666665
   country: Pays-Bas
   city: Rhenen
+colors:
+  vibrant: 234 104 62
+  darkVibrant: 128 35 18
+  lightVibrant: 206 182 150
+  muted: 168 130 98
+  darkMuted: 77 58 41
+  lightMuted: 185 153 125
 file: coco.jpg
 ---
 

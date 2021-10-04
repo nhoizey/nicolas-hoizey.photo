@@ -39,6 +39,13 @@ geo:
   longitude: 34.29451094666667
   country: Égypte
   city: Al Qusir
+colors:
+  vibrant: 173 125 78
+  darkVibrant: 112 56 25
+  lightVibrant: 234 186 137
+  muted: 168 123 98
+  darkMuted: 51 60 75
+  lightMuted: 205 184 173
 file: would-you-like-some-bedouin-tea.jpg
 ---
 

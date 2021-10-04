@@ -29,6 +29,13 @@ geo:
   longitude: 2.405349703333333
   country: France
   city: Draveil
+colors:
+  vibrant: 201 27 5
+  darkVibrant: 124 81 19
+  lightVibrant: 221 207 158
+  muted: 164 132 81
+  darkMuted: 90 55 39
+  lightMuted: 198 188 158
 file: grignotage.jpg
 ---
 

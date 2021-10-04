@@ -51,6 +51,13 @@ geo:
   longitude: -8.884002778333333
   country: Maroc
   city: Taroudant
+colors:
+  vibrant: 4 108 187
+  darkVibrant: 4 100 180
+  lightVibrant: 226 150 104
+  muted: 174 119 94
+  darkMuted: 86 60 54
+  lightMuted: 184 177 194
 file: a-riad-in-taroudant-morocco.jpg
 ---
 

@@ -44,6 +44,13 @@ geo:
   longitude: 114.16071278333334
   country: Hong Kong
   city: Central and Western
+colors:
+  vibrant: 165 165 62
+  darkVibrant: 108 111 43
+  lightVibrant: 218.78325991189425 218.78325991189425 158.61674008810573
+  muted: 170 148 104
+  darkMuted: 54 73 45
+  lightMuted: 181 178 171
 file: the-way-of-zen.jpg
 ---
 

@@ -43,6 +43,13 @@ geo:
   longitude: 5.589261265
   country: Pays-Bas
   city: Rhenen
+colors:
+  vibrant: 173 131 73
+  darkVibrant: 92 63 34
+  lightVibrant: 212 183 156
+  muted: 164 128 95
+  darkMuted: 98 70 49
+  lightMuted: 190 168 142
 file: mud-lover.jpg
 ---
 

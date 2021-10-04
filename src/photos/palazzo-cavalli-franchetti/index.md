@@ -40,6 +40,13 @@ geo:
   longitude: 12.329047221666666
   country: Italie
   city: Venezia
+colors:
+  vibrant: 194 123 30
+  darkVibrant: 21 117 162
+  lightVibrant: 229 192 165
+  muted: 79 144 177
+  darkMuted: 57 74 76
+  lightMuted: 197 173 146
 file: palazzo-cavalli-franchetti.jpg
 ---
 

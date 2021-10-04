@@ -48,6 +48,13 @@ geo:
   longitude: 35.346806666666666
   country: Kenya
   city: Narok
+colors:
+  vibrant: 5 99 157
+  darkVibrant: 6 79 130
+  lightVibrant: 141 178 217
+  muted: 142 143 99
+  darkMuted: 67 75 60
+  lightMuted: 196 171 142
 file: elephants-family-in-maasai-mara.jpg
 ---
 

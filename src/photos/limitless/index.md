@@ -45,6 +45,13 @@ geo:
   longitude: 4.833141666666666
   country: France
   city: Lyon
+colors:
+  vibrant: 182 100 82
+  darkVibrant: 85 48 28
+  lightVibrant: 144 183 211
+  muted: 133 114 102
+  darkMuted: 95 67 54
+  lightMuted: 209 175 158
 file: limitless.jpg
 ---
 

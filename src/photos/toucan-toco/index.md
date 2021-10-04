@@ -56,6 +56,13 @@ geo:
   longitude: 5.591682956666666
   country: Pays-Bas
   city: Rhenen
+colors:
+  vibrant: 239 177 5
+  darkVibrant: 159 42 4
+  lightVibrant: 141 189 233
+  muted: 97 153 177
+  darkMuted: 51 88 109
+  lightMuted: 212 211 163
 file: toucan-toco.jpg
 ---
 

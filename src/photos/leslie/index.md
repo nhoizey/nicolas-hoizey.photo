@@ -46,6 +46,13 @@ geo:
   longitude: 4.843352778333333
   country: France
   city: Lyon
+colors:
+  vibrant: 127.5 127.5 127.5
+  darkVibrant: 66.3 66.3 66.3
+  lightVibrant: 188.7 188.7 188.7
+  muted: 124 124 124
+  darkMuted: 68 68 68
+  lightMuted: 188 188 188
 file: leslie.jpg
 ---
 

@@ -48,6 +48,13 @@ geo:
   longitude: 2.317644445
   country: France
   city: Paris
+colors:
+  vibrant: 5 142 208
+  darkVibrant: 4 49 116
+  lightVibrant: 119 180 223
+  muted: 91 114 165
+  darkMuted: 66 41 55
+  lightMuted: 173 190 206
 file: patrouille-de-france.jpg
 ---
 

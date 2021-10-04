@@ -36,6 +36,13 @@ geo:
   longitude: 114.16076642833333
   country: Hong Kong
   city: Central and Western
+colors:
+  vibrant: 185 198 56
+  darkVibrant: 69 100 13
+  lightVibrant: 187 194 114
+  muted: 156 176 118
+  darkMuted: 54 72 46
+  lightMuted: 189 192 174
 file: the-edward-youde-aviary-in-hong-kong-park.jpg
 ---
 

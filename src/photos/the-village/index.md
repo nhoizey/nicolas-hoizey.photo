@@ -39,6 +39,13 @@ geo:
   longitude: 35.389645
   country: Kenya
   city: Narok
+colors:
+  vibrant: 113 155 189
+  darkVibrant: 92 44 12
+  lightVibrant: 164.475 191.25 212.92499999999998
+  muted: 151 116 88
+  darkMuted: 106 82 59
+  lightMuted: 155 176 191
 file: the-village.jpg
 ---
 

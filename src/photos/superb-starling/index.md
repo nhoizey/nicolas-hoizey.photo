@@ -51,6 +51,13 @@ geo:
   longitude: 5.99632914
   country: Pays-Bas
   city: Heijen
+colors:
+  vibrant: 62 185 215
+  darkVibrant: 105 41 4
+  lightVibrant: 195 149 109
+  muted: 132 115 107
+  darkMuted: 84 63 52
+  lightMuted: 108.43689320388349 74.27184466019419 44.563106796116514
 file: superb-starling.jpg
 ---
 

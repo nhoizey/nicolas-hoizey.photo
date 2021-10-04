@@ -42,6 +42,13 @@ geo:
   latitude: 48.8607182
   longitude: 2.3518114
   country: France
+colors:
+  vibrant: 226.66666666666666 179.44444444444443 28.333333333333346
+  darkVibrant: 48 38 6
+  lightVibrant: 240.26666666666665 215.71111111111108 137.13333333333333
+  muted: 157 113 83
+  darkMuted: 67 54 50
+  lightMuted: 212 209 207
 file: zig-zag.jpg
 ---
 

@@ -34,6 +34,13 @@ geo:
   longitude: 35.99901833333333
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 12 96 182
+  darkVibrant: 31 70 119
+  lightVibrant: 235 154 129
+  muted: 159 122 99
+  darkMuted: 54 63 79
+  lightMuted: 203 182 170
 file: cleaning-the-dust.jpg
 ---
 

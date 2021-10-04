@@ -49,6 +49,13 @@ geo:
   longitude: 1.3695666666666666
   country: France
   city: Le Tréport
+colors:
+  vibrant: 209 153 134
+  darkVibrant: 9 118 110
+  lightVibrant: 218.47544910179636 174.01077844311376 158.92455089820362
+  muted: 105 111 140
+  darkMuted: 84 68 44
+  lightMuted: 159 173 198
 file: wood-pier-in-sunset.jpg
 ---
 

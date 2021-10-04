@@ -34,6 +34,13 @@ geo:
   longitude: 2.398488508333333
   country: France
   city: Draveil
+colors:
+  vibrant: 196 102 92
+  darkVibrant: 87 4 9
+  lightVibrant: 215 132 156
+  muted: 158 91 91
+  darkMuted: 78 51 52
+  lightMuted: 213 161 162
 file: strobe.jpg
 ---
 

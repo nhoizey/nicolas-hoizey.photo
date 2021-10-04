@@ -51,6 +51,13 @@ geo:
   longitude: 2.5035789716666668
   country: France
   city: Étiolles
+colors:
+  vibrant: 108 62 49
+  darkVibrant: 91.21528662420383 52.36433121019108 41.38471337579618
+  lightVibrant: 213.61528662420383 174.76433121019107 163.78471337579617
+  muted: 162 89 102
+  darkMuted: 69 42 51
+  lightMuted: 178 189 211
 file: the-demoiselle-after-the-shower.jpg
 ---
 

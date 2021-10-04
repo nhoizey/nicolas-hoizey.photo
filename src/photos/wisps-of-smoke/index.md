@@ -33,6 +33,13 @@ geo:
   longitude: 2.405356628333333
   country: France
   city: Draveil
+colors:
+  vibrant: 81 132 169
+  darkVibrant: 10 74 112
+  lightVibrant: 166 200 229
+  muted: 97 129 159
+  darkMuted: 45 68 87
+  lightMuted: 156 180 204
 file: wisps-of-smoke.jpg
 ---
 

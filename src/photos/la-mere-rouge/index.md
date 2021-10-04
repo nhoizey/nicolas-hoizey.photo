@@ -40,6 +40,13 @@ dimensions:
 geo:
   latitude: 26.022825145
   longitude: 34.52726251833333
+colors:
+  vibrant: 60 164 212
+  darkVibrant: 5 40 86
+  lightVibrant: 131 188 230
+  muted: 105 120 148
+  darkMuted: 51 72 104
+  lightMuted: 180 184 204
 file: la-mere-rouge.jpg
 ---
 

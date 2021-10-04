@@ -30,6 +30,13 @@ geo:
   longitude: 2.2350025733333334
   country: France
   city: Puteaux
+colors:
+  vibrant: 19 126 137
+  darkVibrant: 4 73 79
+  lightVibrant: 129 193 207
+  muted: 111 138 153
+  darkMuted: 51 92 104
+  lightMuted: 165 186 192
 file: layered-symmetry.jpg
 ---
 

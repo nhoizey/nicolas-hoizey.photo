@@ -34,6 +34,13 @@ geo:
   longitude: 5.59121836
   country: Pays-Bas
   city: Rhenen
+colors:
+  vibrant: 233 164 9
+  darkVibrant: 131 23 4
+  lightVibrant: 232 153 53
+  muted: 150 117 86
+  darkMuted: 56 66 80
+  lightMuted: 137.35999999999999 83.64 15.640000000000004
 file: colorful-feathers.jpg
 ---
 

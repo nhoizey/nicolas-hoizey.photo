@@ -41,6 +41,13 @@ geo:
   longitude: 35.390315
   country: Kenya
   city: Narok
+colors:
+  vibrant: 29 186 188
+  darkVibrant: 140 147 17
+  lightVibrant: 135 198 241
+  muted: 154 134 82
+  darkMuted: 78 59 36
+  lightMuted: 212 180 188
 file: the-locomotion.jpg
 ---
 

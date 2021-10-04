@@ -50,6 +50,13 @@ geo:
   longitude: 4.052492393333333
   country: France
   city: Reims
+colors:
+  vibrant: 164 95 44
+  darkVibrant: 100 52 12
+  lightVibrant: 241 198 145
+  muted: 170 130 90
+  darkMuted: 87 59 44
+  lightMuted: 187 156 112
 file: bacchus-dream.jpg
 ---
 

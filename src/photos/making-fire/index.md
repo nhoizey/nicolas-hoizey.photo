@@ -41,6 +41,13 @@ geo:
   longitude: 35.39009
   country: Kenya
   city: Narok
+colors:
+  vibrant: 238 13 45
+  darkVibrant: 144 5 9
+  lightVibrant: 205 129 165
+  muted: 96 126 171
+  darkMuted: 43 45 64
+  lightMuted: 213 197 174
 file: making-fire.jpg
 ---
 

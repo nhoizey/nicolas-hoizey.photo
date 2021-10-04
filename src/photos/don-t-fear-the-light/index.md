@@ -40,6 +40,13 @@ geo:
   longitude: 5.913263333333333
   country: Pays-Bas
   city: Arnhem
+colors:
+  vibrant: 215 189 52
+  darkVibrant: 131 112 8
+  lightVibrant: 237 213 86
+  muted: 120 132 134
+  darkMuted: 44 76 62
+  lightMuted: 188 188 172
 file: don-t-fear-the-light.jpg
 ---
 

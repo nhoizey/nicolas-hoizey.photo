@@ -42,6 +42,13 @@ geo:
   longitude: 2.464709945
   country: France
   city: Étiolles
+colors:
+  vibrant: 149 158 63
+  darkVibrant: 120 136 15
+  lightVibrant: 211.79999999999998 217.20000000000002 160.2
+  muted: 146 137 109
+  darkMuted: 81 92 48
+  lightMuted: 197 181 165
 file: pollination.jpg
 ---
 

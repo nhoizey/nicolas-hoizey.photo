@@ -35,6 +35,13 @@ geo:
   longitude: -73.006345
   country: Canada
   city: 136 km N  of Montreal
+colors:
+  vibrant: 127.5 127.5 127.5
+  darkVibrant: 66.3 66.3 66.3
+  lightVibrant: 188.7 188.7 188.7
+  muted: 124 124 124
+  darkMuted: 68 68 68
+  lightMuted: 180 180 180
 file: curves.jpg
 ---
 

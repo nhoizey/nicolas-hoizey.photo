@@ -40,6 +40,13 @@ geo:
   longitude: 4.811183333333333
   country: France
   city: Lyon
+colors:
+  vibrant: 127.5 127.5 127.5
+  darkVibrant: 66.3 66.3 66.3
+  lightVibrant: 188.7 188.7 188.7
+  muted: 136 136 136
+  darkMuted: 72 72 72
+  lightMuted: 206 206 206
 file: one-hope.jpg
 ---
 

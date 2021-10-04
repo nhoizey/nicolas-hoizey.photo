@@ -58,6 +58,13 @@ geo:
   longitude: 35.27798833333333
   country: Kenya
   city: Narok
+colors:
+  vibrant: 206 171 134
+  darkVibrant: 81 75 27
+  lightVibrant: 235 208 181
+  muted: 168 145 96
+  darkMuted: 87 78 50
+  lightMuted: 179 198 212
 file: common-ostrich.jpg
 ---
 

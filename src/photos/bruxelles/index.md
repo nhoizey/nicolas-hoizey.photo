@@ -36,6 +36,13 @@ geo:
   longitude: 4.352530555
   country: Belgique
   city: Ville de Bruxelles
+colors:
+  vibrant: 69 154 212
+  darkVibrant: 107 85 45
+  lightVibrant: 149 196 236
+  muted: 143 128 82
+  darkMuted: 56 56 38
+  lightMuted: 169 187 207
 file: bruxelles.jpg
 ---
 

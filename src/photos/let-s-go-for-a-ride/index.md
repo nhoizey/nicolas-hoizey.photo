@@ -56,6 +56,13 @@ geo:
   longitude: 114.17160277833334
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 235 102 44
+  darkVibrant: 161 85 12
+  lightVibrant: 249 209 131
+  muted: 166 99 97
+  darkMuted: 89 60 55
+  lightMuted: 159 206 212
 file: let-s-go-for-a-ride.jpg
 ---
 

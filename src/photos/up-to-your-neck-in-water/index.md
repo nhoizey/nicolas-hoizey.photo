@@ -52,6 +52,13 @@ geo:
   longitude: 2.3891722216666667
   country: France
   city: Draveil
+colors:
+  vibrant: 43 95 133
+  darkVibrant: 12 76 124
+  lightVibrant: 154.7965909090909 193.9738636363636 222.6034090909091
+  muted: 115 132 151
+  darkMuted: 51 57 79
+  lightMuted: 140 153 190
 file: up-to-your-neck-in-water.jpg
 ---
 

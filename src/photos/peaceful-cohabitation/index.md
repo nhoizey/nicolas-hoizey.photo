@@ -65,6 +65,13 @@ geo:
   longitude: 36.108338333333336
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 193 153 109
+  darkVibrant: 108 60 36
+  lightVibrant: 215.47500000000002 189.975 161.92499999999998
+  muted: 167 128 90
+  darkMuted: 96 77 56
+  lightMuted: 145 150 168
 file: peaceful-cohabitation.jpg
 ---
 

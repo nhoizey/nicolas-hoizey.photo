@@ -44,6 +44,13 @@ geo:
   longitude: 114.17943166666667
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 215 154 48
+  darkVibrant: 9 85 123
+  lightVibrant: 122 194 206
+  muted: 171 137 86
+  darkMuted: 97 67 51
+  lightMuted: 154 150 137
 file: blue-is-the-warmest-colour.jpg
 ---
 

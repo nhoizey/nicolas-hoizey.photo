@@ -60,6 +60,13 @@ geo:
   longitude: 114.15049
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 188 121 20
+  darkVibrant: 107 65 18
+  lightVibrant: 238 213 137
+  muted: 161 94 76
+  darkMuted: 68 57 54
+  lightMuted: 196 177 133
 file: the-hong-kong-symphony-of-lights-from-the-peak.jpg
 ---
 

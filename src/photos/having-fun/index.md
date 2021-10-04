@@ -32,6 +32,13 @@ dimensions:
   width: 3229
   height: 2153
 geo: {}
+colors:
+  vibrant: 127.5 127.5 127.5
+  darkVibrant: 66.3 66.3 66.3
+  lightVibrant: 188.7 188.7 188.7
+  muted: 124 124 124
+  darkMuted: 68 68 68
+  lightMuted: 175 175 175
 file: having-fun.jpg
 ---
 

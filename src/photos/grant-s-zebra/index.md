@@ -67,6 +67,13 @@ geo:
   longitude: 35.34364333333333
   country: Kenya
   city: Narok
+colors:
+  vibrant: 127 141 59
+  darkVibrant: 99 76 44
+  lightVibrant: 207 180 150
+  muted: 156 156 100
+  darkMuted: 79 65 54
+  lightMuted: 194 196 172
 file: grant-s-zebra.jpg
 ---
 

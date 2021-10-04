@@ -51,6 +51,13 @@ geo:
   longitude: 5.914625
   country: Pays-Bas
   city: Arnhem
+colors:
+  vibrant: 158 101 39
+  darkVibrant: 97 62 22
+  lightVibrant: 217 196 169
+  muted: 153 123 88
+  darkMuted: 86 59 39
+  lightMuted: 145 156 185
 file: the-blacksmith.jpg
 ---
 

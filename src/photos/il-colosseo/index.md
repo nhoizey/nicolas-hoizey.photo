@@ -41,6 +41,13 @@ geo:
   longitude: 12.491434366666667
   country: Italie
   city: Rome
+colors:
+  vibrant: 157.49999999999994 217.50000000000003 37.49999999999998
+  darkVibrant: 84 116 20
+  lightVibrant: 204.29999999999995 235.5 141.89999999999998
+  muted: 131 123 116
+  darkMuted: 55 65 30
+  lightMuted: 180 192 204
 file: il-colosseo.jpg
 ---
 

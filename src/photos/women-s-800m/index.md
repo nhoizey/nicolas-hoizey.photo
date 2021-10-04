@@ -41,6 +41,13 @@ geo:
   longitude: 2.4519665083333333
   country: France
   city: Montgeron
+colors:
+  vibrant: 19 155 192
+  darkVibrant: 111 69 8
+  lightVibrant: 205 138 130
+  muted: 158 104 92
+  darkMuted: 80 46 42
+  lightMuted: 199 197 198
 file: women-s-800m.jpg
 ---
 

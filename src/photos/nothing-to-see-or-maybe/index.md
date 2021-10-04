@@ -57,6 +57,13 @@ geo:
   longitude: 35.24985
   country: Kenya
   city: Narok
+colors:
+  vibrant: 162 164 74
+  darkVibrant: 97 93 35
+  lightVibrant: 212.65714285714282 213.77142857142857 163.62857142857143
+  muted: 145 132 77
+  darkMuted: 81 78 49
+  lightMuted: 172 186 197
 file: nothing-to-see-or-maybe.jpg
 ---
 

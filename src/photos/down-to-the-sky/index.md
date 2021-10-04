@@ -50,6 +50,13 @@ geo:
   longitude: 1.8882535950000001
   country: France
   city: Saint-Rémy-l'Honoré
+colors:
+  vibrant: 6 122 187
+  darkVibrant: 4 89 143
+  lightVibrant: 57 164 228
+  muted: 74 144 134
+  darkMuted: 88 86 59
+  lightMuted: 163 152 132
 file: down-to-the-sky.jpg
 ---
 

@@ -39,6 +39,13 @@ geo:
   longitude: 36.08354166666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 44 148 164
+  darkVibrant: 23 70 101
+  lightVibrant: 216 175 151
+  muted: 140 109 92
+  darkMuted: 27 42 61
+  lightMuted: 173 187 199
 file: blue-hotel.jpg
 ---
 

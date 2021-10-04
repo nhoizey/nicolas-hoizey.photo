@@ -29,6 +29,13 @@ geo:
   longitude: 35.97557
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 62 122 167
+  darkVibrant: 108 96 36
+  lightVibrant: 176 200 227
+  muted: 165 141 100
+  darkMuted: 61 85 41
+  lightMuted: 164 180 212
 file: tetris.jpg
 ---
 

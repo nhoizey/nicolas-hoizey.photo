@@ -41,6 +41,13 @@ geo:
   longitude: 2.451776965
   country: France
   city: Montgeron
+colors:
+  vibrant: 196 75 59
+  darkVibrant: 156 10 97
+  lightVibrant: 218 142 127
+  muted: 148 98 81
+  darkMuted: 29 21 24
+  lightMuted: 118.69090909090909 48.21818181818182 34.309090909090905
 file: long-strides.jpg
 ---
 

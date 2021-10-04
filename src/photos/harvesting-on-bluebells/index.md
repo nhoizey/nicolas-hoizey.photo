@@ -45,6 +45,13 @@ geo:
   longitude: 2.4228543533333333
   country: France
   city: Draveil
+colors:
+  vibrant: 144 86 190
+  darkVibrant: 118 74 24
+  lightVibrant: 195 124 252
+  muted: 127 114 76
+  darkMuted: 83 69 47
+  lightMuted: 175 140 198
 file: harvesting-on-bluebells.jpg
 ---
 

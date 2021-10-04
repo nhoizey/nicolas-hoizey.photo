@@ -48,6 +48,13 @@ geo:
   longitude: 18.297981945
   country: Suède
   city: Åkersberga
+colors:
+  vibrant: 194 143 81
+  darkVibrant: 68 116 156
+  lightVibrant: 144 190 229
+  muted: 100 133 166
+  darkMuted: 85 78 52
+  lightMuted: 155 174 193
 file: panorama-over-traelhavet.jpg
 ---
 

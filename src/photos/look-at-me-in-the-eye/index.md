@@ -45,6 +45,13 @@ geo:
   longitude: -4.435844445
   country: France
   city: Brest
+colors:
+  vibrant: 4 140 172
+  darkVibrant: 7 95 120
+  lightVibrant: 118 201 200
+  muted: 80 142 147
+  darkMuted: 52 82 88
+  lightMuted: 182 184 161
 file: look-at-me-in-the-eye.jpg
 ---
 

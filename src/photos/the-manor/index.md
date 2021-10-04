@@ -39,6 +39,13 @@ geo:
   longitude: 1.9620263066666666
   country: France
   city: Élancourt
+colors:
+  vibrant: 60 116 158
+  darkVibrant: 26 64 97
+  lightVibrant: 158.89541284403668 192.95779816513758 218.5045871559633
+  muted: 164 164 110
+  darkMuted: 74 68 54
+  lightMuted: 164 178 205
 file: the-manor.jpg
 ---
 

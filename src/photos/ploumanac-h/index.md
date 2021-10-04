@@ -46,6 +46,13 @@ geo:
   longitude: -3.4839227283333334
   country: France
   city: Perros-Guirec
+colors:
+  vibrant: 12 118 184
+  darkVibrant: 4 52 122
+  lightVibrant: 157 197 236
+  muted: 112 146 181
+  darkMuted: 86 60 44
+  lightMuted: 183 193 209
 file: ploumanac-h.jpg
 ---
 

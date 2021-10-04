@@ -43,6 +43,13 @@ geo:
   longitude: -74.04035166666667
   country: États-Unis
   city: New York
+colors:
+  vibrant: 238 196 84
+  darkVibrant: 20 51 92
+  lightVibrant: 217 180 111
+  muted: 90 118 152
+  darkMuted: 84 49 62
+  lightMuted: 213 193 181
 file: liberty.jpg
 ---
 

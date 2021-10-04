@@ -50,6 +50,13 @@ geo:
   longitude: 12.417633333333333
   country: Italie
   city: Venezia
+colors:
+  vibrant: 212 60 52
+  darkVibrant: 148 20 4
+  lightVibrant: 218 76 67
+  muted: 139 121 101
+  darkMuted: 44 76 76
+  lightMuted: 215 213 216
 file: colourful-window-in-burano.jpg
 ---
 

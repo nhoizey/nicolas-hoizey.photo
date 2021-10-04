@@ -45,6 +45,13 @@ dimensions:
 geo:
   latitude: 56.77447179166667
   longitude: -3.8568842266666667
+colors:
+  vibrant: 55 135 189
+  darkVibrant: 16 137 134
+  lightVibrant: 152.28934426229503 195.76475409836064 225.11065573770495
+  muted: 149 141 102
+  darkMuted: 72 71 56
+  lightMuted: 192 187 164
 file: did-i-go-over-the-top.jpg
 ---
 

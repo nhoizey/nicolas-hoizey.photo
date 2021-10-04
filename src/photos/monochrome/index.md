@@ -30,6 +30,13 @@ geo:
   longitude: 2.405349703333333
   country: France
   city: Draveil
+colors:
+  vibrant: 164 105 35
+  darkVibrant: 132 52 4
+  lightVibrant: 203 170 119
+  muted: 145 118 104
+  darkMuted: 83 60 41
+  lightMuted: 188 172 159
 file: monochrome.jpg
 ---
 

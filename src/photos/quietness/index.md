@@ -43,6 +43,13 @@ geo:
   longitude: 1.8883957516666667
   country: France
   city: Saint-Rémy-l'Honoré
+colors:
+  vibrant: 39 159 223
+  darkVibrant: 21 80 122
+  lightVibrant: 108 189 235
+  muted: 79 144 178
+  darkMuted: 41 70 72
+  lightMuted: 185 175 148
 file: quietness.jpg
 ---
 

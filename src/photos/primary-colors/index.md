@@ -37,6 +37,13 @@ geo:
   longitude: -9.128363333333333
   country: Portugal
   city: Lisboa
+colors:
+  vibrant: 236 24 34
+  darkVibrant: 4 51 130
+  lightVibrant: 206 191 149
+  muted: 166 122 101
+  darkMuted: 40 67 90
+  lightMuted: 178 146 152
 file: primary-colors.jpg
 ---
 

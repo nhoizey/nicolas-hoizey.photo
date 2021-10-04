@@ -47,6 +47,13 @@ geo:
   longitude: 34.29447104166667
   country: Égypte
   city: Al Qusir
+colors:
+  vibrant: 230 171 110
+  darkVibrant: 111 45 20
+  lightVibrant: 250 200 137
+  muted: 165 126 92
+  darkMuted: 48 34 29
+  lightMuted: 180 142 114
 file: different-means-of-locomotion.jpg
 ---
 

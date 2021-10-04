@@ -71,6 +71,13 @@ geo:
   longitude: 37.26950779333333
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 157 131 59
+  darkVibrant: 102 94 36
+  lightVibrant: 211 187 157
+  muted: 164 140 94
+  darkMuted: 86 75 42
+  lightMuted: 178 150 108
 file: waiting-for-dusk.jpg
 ---
 

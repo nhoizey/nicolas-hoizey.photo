@@ -69,6 +69,13 @@ geo:
   longitude: 36.12007666666667
   country: Kenya
   city: Nakuru
+colors:
+  vibrant: 205 127 55
+  darkVibrant: 49 23 4
+  lightVibrant: 212 180 164
+  muted: 148 125 110
+  darkMuted: 85 64 49
+  lightMuted: 189 176 175
 file: young-olive-baboon-at-sunset.jpg
 ---
 

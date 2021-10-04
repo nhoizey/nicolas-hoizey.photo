@@ -28,6 +28,13 @@ geo:
   longitude: 2.4230992266666664
   country: France
   city: Draveil
+colors:
+  vibrant: 148 175 78
+  darkVibrant: 60 108 20
+  lightVibrant: 199.9683794466403 214.11936758893282 163.2806324110672
+  muted: 137 159 96
+  darkMuted: 47 56 80
+  lightMuted: 184 205 166
 file: larva-of-tenthredo-marginella.jpg
 ---
 

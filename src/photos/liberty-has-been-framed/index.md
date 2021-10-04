@@ -51,6 +51,13 @@ geo:
   longitude: -74.018244445
   country: États-Unis
   city: New York
+colors:
+  vibrant: 150.00000000000003 210 45.00000000000001
+  darkVibrant: 20 28 6
+  lightVibrant: 200.4 231.6 145.8
+  muted: 140 136 116
+  darkMuted: 76 56 44
+  lightMuted: 184 189 182
 file: liberty-has-been-framed.jpg
 ---
 

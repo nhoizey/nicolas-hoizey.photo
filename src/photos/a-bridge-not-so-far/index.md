@@ -55,6 +55,13 @@ geo:
   longitude: -73.98959166666667
   country: États-Unis
   city: New York
+colors:
+  vibrant: 40 116 166
+  darkVibrant: 11 100 150
+  lightVibrant: 170 205 229
+  muted: 101 128 149
+  darkMuted: 54 85 103
+  lightMuted: 236 240 241
 file: a-bridge-not-so-far.jpg
 ---
 

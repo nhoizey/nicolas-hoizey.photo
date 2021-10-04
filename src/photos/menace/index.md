@@ -41,6 +41,13 @@ geo:
   longitude: 2.3561111116666664
   country: France
   city: Paris
+colors:
+  vibrant: 52 132 172
+  darkVibrant: 4 44 84
+  lightVibrant: 156 188 211
+  muted: 100 141 175
+  darkMuted: 56 68 76
+  lightMuted: 173 185 200
 file: menace.jpg
 ---
 

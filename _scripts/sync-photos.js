@@ -2,6 +2,7 @@
 
 const exifr = require('exifr');
 const sharp = require('sharp');
+const vibrant = require('node-vibrant');
 const slugify = require('../src/_11ty/_utils/slugify.js');
 const moment = require('moment');
 const Fraction = require('fraction.js');
@@ -45,11 +46,6 @@ let exifrOptions = {
   },
   iptc: true,
 };
-
-// let geojsonFeatures = {
-//   type: 'FeatureCollection',
-//   features: [],
-// };
 
 async function syncOnePhoto(photo) {
   const photoPath = path.join(SRC, photo);
@@ -176,6 +172,17 @@ async function syncOnePhoto(photo) {
       photoYFM.geo.city = utf8.decode(photoExif.City);
     }
 
+    // Get photo dominant color with Vibrant.js
+    const palette = await vibrant.from(photoPath).getPalette();
+    photoYFM.colors = {
+      vibrant: palette.Vibrant.getRgb().join(' '),
+      darkVibrant: palette.DarkVibrant.getRgb().join(' '),
+      lightVibrant: palette.LightVibrant.getRgb().join(' '),
+      muted: palette.Muted.getRgb().join(' '),
+      darkMuted: palette.DarkMuted.getRgb().join(' '),
+      lightMuted: palette.LightMuted.getRgb().join(' '),
+    };
+
     // Manage folder and file
     const slug = slugify(photoYFM.title);
     photoYFM.file = `${slug}${ext}`;
@@ -220,7 +227,7 @@ ${photoDescription}
         }
       });
 
-    // Generate thumbnails for 1x screens
+    // Generate thumbnails for 2x screens
     const mask2x = Buffer.from(
       '<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>'
     );
@@ -233,7 +240,6 @@ ${photoDescription}
         fit: sharp.fit.cover,
         position: sharp.strategy.cover,
         position: sharp.strategy.entropy,
-        // background: { r: 0, g: 0, b: 0, alpha: 0 },
       })
       .composite([
         { input: mask2x, left: 0, top: 0, blend: 'dest-in' },
@@ -242,42 +248,8 @@ ${photoDescription}
       .toFile(thumb2File, function (err) {
         if (err) {
           console.error(`Error while creating @2x thumbnail for ${slug}`, err);
-          // } else {
-          // Copy as icon for KML
-          // fs.copyFileSync(thumb2File, path.join(distDir, 'kml.png'));
         }
       });
-
-    // Generate icon for KML
-    // https://github.com/lovell/sharp/issues/2819#issuecomment-891077462
-    // const firstStep = await sharp(photoPath)
-    //   .resize(320, 320, {
-    //     fit: sharp.fit.inside,
-    //   })
-    //   .extend({ top: 1, bottom: 1, left: 1, right: 1, background: 'black' })
-    //   .toBuffer();
-
-    // sharp(firstStep)
-    //   .extend({ top: 2, bottom: 2, left: 2, right: 2, background: 'white' })
-    //   .toFile(path.join(distDir, 'kml.jpg'), function (err) {
-    //     if (err) {
-    //       console.error(`Error while creating KML icon for ${slug}`, err);
-    //     }
-    //   });
-
-    // Add photo to geojson file
-    // if (photoYFM.geo.latitude && photoYFM.geo.longitude) {
-    //   geojsonFeatures.features.push({
-    //     type: 'Feature',
-    //     geometry: {
-    //       type: 'Point',
-    //       coordinates: [photoYFM.geo.longitude, photoYFM.geo.latitude],
-    //     },
-    //     properties: {
-    //       title: photoYFM.title,
-    //     },
-    //   });
-    // }
   }
 }
 
@@ -286,7 +258,5 @@ fs.readdirSync(SRC).forEach(async (photo) => {
   allPromises.push(syncOnePhoto(photo));
 });
 Promise.all(allPromises).then(() => {
-  // if (geojsonFeatures.features.length > 0) {
-  //   fs.writeFileSync('./src/photos.geojson', JSON.stringify(geojsonFeatures));
-  // }
+  // Todo after everything else
 });

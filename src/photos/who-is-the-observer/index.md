@@ -66,6 +66,13 @@ geo:
   longitude: 35.29284666666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 167 132 74
+  darkVibrant: 113 94 26
+  lightVibrant: 145 191 225
+  muted: 154 140 79
+  darkMuted: 50 46 30
+  lightMuted: 171 186 202
 file: who-is-the-observer.jpg
 ---
 

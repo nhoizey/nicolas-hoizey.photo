@@ -41,6 +41,13 @@ geo:
   longitude: 5.590241996666666
   country: Pays-Bas
   city: Rhenen
+colors:
+  vibrant: 25 84 212
+  darkVibrant: 4 20 133
+  lightVibrant: 124 180 244
+  muted: 113 127 182
+  darkMuted: 48 52 84
+  lightMuted: 212 180 172
 file: fluorescent-jellyfishes.jpg
 ---
 

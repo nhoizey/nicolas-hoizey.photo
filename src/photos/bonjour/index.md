@@ -46,6 +46,13 @@ geo:
   longitude: 114.17141111166667
   country: Hong Kong
   city: Hong-Kong
+colors:
+  vibrant: 244 4 4
+  darkVibrant: 127 5 4
+  lightVibrant: 252 124 116
+  muted: 150.53225806451613 2.467741935483863 2.467741935483863
+  darkMuted: 84 60 44
+  lightMuted: 180 194 208
 file: bonjour.jpg
 ---
 

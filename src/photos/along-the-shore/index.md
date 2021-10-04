@@ -47,6 +47,13 @@ geo:
   longitude: -4.097894445
   country: France
   city: Bénodet
+colors:
+  vibrant: 25 115 174
+  darkVibrant: 5 72 114
+  lightVibrant: 252 196 124
+  muted: 81 98 142
+  darkMuted: 44 60 84
+  lightMuted: 139 148 192
 file: along-the-shore.jpg
 ---
 

@@ -49,6 +49,13 @@ geo:
   longitude: 35.38941666666667
   country: Kenya
   city: Narok
+colors:
+  vibrant: 157 100 67
+  darkVibrant: 16 116 92
+  lightVibrant: 198 156 126
+  muted: 159 122 94
+  darkMuted: 71 62 53
+  lightMuted: 122 164 197
 file: a-little-nap.jpg
 ---
 

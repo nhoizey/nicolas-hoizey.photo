@@ -59,6 +59,13 @@ geo:
   longitude: 4.352502778333333
   country: Belgique
   city: Bruxelles
+colors:
+  vibrant: 47 33 217
+  darkVibrant: 96 11 24
+  lightVibrant: 247 206 152
+  muted: 115 180 102
+  darkMuted: 101 53 65
+  lightMuted: 141.97297297297297 85.45945945945947 11.027027027027028
 file: belgian-pride.jpg
 ---
 

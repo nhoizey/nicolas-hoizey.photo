@@ -42,6 +42,13 @@ geo:
   longitude: 4.0339785316666665
   country: France
   city: Reims
+colors:
+  vibrant: 204 135 56
+  darkVibrant: 97 35 17
+  lightVibrant: 112 162 219
+  muted: 108 148 76
+  darkMuted: 68 54 46
+  lightMuted: 175 173 178
 file: north-collateral-of-the-cathedral-of-notre-dame-de-reims.jpg
 ---
 

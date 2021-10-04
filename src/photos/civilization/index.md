@@ -46,6 +46,13 @@ geo:
   longitude: 37.428066666666666
   country: Kenya
   city: Kajiado
+colors:
+  vibrant: 14 145 211
+  darkVibrant: 62 38 19
+  lightVibrant: 110 178 228
+  muted: 148 115 91
+  darkMuted: 84 64 52
+  lightMuted: 216 196 178
 file: civilization.jpg
 ---
 

@@ -51,6 +51,13 @@ dimensions:
   width: 3500
   height: 2333
 geo: {}
+colors:
+  vibrant: 234 109 66
+  darkVibrant: 40 61 100
+  lightVibrant: 249 188 138
+  muted: 149 124 127
+  darkMuted: 52 67 105
+  lightMuted: 204 164 139
 file: first-snow-at-sunset.jpg
 ---
 

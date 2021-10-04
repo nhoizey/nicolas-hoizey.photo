@@ -49,6 +49,13 @@ geo:
   longitude: 37.33135027833333
   country: Kenya
   city: Entonet
+colors:
+  vibrant: 35 143 206
+  darkVibrant: 93 65 35
+  lightVibrant: 128 185 228
+  muted: 97 132 165
+  darkMuted: 73 61 49
+  lightMuted: 209 190 171
 file: on-the-move.jpg
 ---
 

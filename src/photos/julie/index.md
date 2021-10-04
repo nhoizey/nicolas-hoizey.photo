@@ -52,6 +52,13 @@ geo:
   longitude: 2.398488508333333
   country: France
   city: Draveil
+colors:
+  vibrant: 209 11 103
+  darkVibrant: 146 4 46
+  lightVibrant: 248 116 188
+  muted: 175 91 112
+  darkMuted: 74 44 42
+  lightMuted: 191 148 156
 file: julie.jpg
 ---
 
