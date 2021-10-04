@@ -20,6 +20,7 @@
         {% if dimensions.height %}
           height="{{ dimensions.height }}"
         {% endif %}
+        style="background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
       />
       <figcaption>
         <a href="{{ item.url }}">{{ item.data.title }}</a>

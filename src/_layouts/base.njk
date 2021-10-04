@@ -13,7 +13,7 @@
       {% include 'components/navigation.njk' %}
     </header>
     <div class="page">
-      <main id="main" role="main">
+      <main id="main" role="main"{% block styles %}{% endblock %}>
         {% block content %}
           {{ content | safe }}
         {% endblock %}

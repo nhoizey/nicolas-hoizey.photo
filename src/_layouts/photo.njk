@@ -1,6 +1,4 @@
----
-layout: page
----
+{% extends "./base.njk" %}
 
 {% if origin %}
   {% set dimensions = origin.data.dimensions %}
@@ -11,77 +9,83 @@ layout: page
   {% set tags = origin.data.tags %}
 {% endif %}
 
-{% from "macros/css.njk" import css %}
-{{ css('components/photo', build.env) }}
+{% block styles %}
+style="background-color: rgb({{ origin.data.colors.darkMuted }} / 50%)"
+{% endblock %}
 
-<div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
-  <div class="header">
-    {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
-    <ul class="breadcrumb">
-      <li><a href="/">Home</a></li>
-      {% for item in breadcrumb %}
-        <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-      {% endfor %}
-    </ul>
-    <h1>{{ title }}</h1>
-  </div>
+{% block content %}
+  {% from "macros/css.njk" import css %}
+  {{ css('components/photo', build.env) }}
 
-  <img src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg" class="image" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" />
-
-  <div class="description">
-    {{ content | markdownify | safe }}
-  </div>
-
-  <div class="meta">
-    <ul class="exif">
-      <li class="date icon icon--date"><time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
-      <li class="gear icon icon--camera">{{ gear.make }} {{ gear.model }}</li>
-      {% if settings.focal_length or gear.lens %}
-        <li class="lens icon icon--focal_length">
-          {% if gear.lens %}{{ gear.lens }}<br />{% endif %}
-          {{ settings.focal_length }} mm
-          {% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}
-        </li>
-      {% endif %}
-      {% if settings.iso %}<li class="iso icon icon--iso"><span>ISO {{ settings.iso }}</span></li>{% endif %}
-      {% if settings.aperture %}<li class="aperture icon icon--aperture"><span>ƒ/{{ settings.aperture }}</span></li>{% endif %}
-      {% if settings.shutter_speed %}<li class="shutter_speed icon icon--shutter_speed"><span>{{ settings.shutter_speed }} s</span></li>{% endif %}
-    </ul>
-    <div class="geo">
-      {% if geo.latitude and geo.longitude %}
-
-        {% from "macros/css.njk" import css %}
-        {{ css('components/photo-map', build.env) }}
-
-        <div id="map" data-latitude="{{ geo.latitude }}" data-longitude="{{ geo.longitude }}">
-          <noscript>
-            <img src="https://api.mapbox.com/styles/v1/{{ map.mapbox.style }}/static/url-https%3A%2F%2Fnicolas-hoizey.photo%2Fui%2Fimages%2Fmarker.png({{ geo.longitude }}%2C{{ geo.latitude }})/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" />
-          </noscript>
-        </div>
-        {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
-        <p class="locate icon icon--map">Locate it <a href="/map/#15/{{ geo.latitude }}/{{ geo.longitude }}">on the global map</a></p>
-      {% endif %}
+  <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
+    <div class="header">
+      {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
+      <ul class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        {% for item in breadcrumb %}
+          <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <h1>{{ title }}</h1>
     </div>
-  </div>
-  {% if tags %}
-  <p class="tags icon icon--tag">
-    {% set comma = joiner(", ") %}
-    {%- for tag in tags -%}
-      {{ comma() }}
-      <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category">{{ tag }}</a>
-    {%- endfor -%}
-  </p>
-  {% endif %}
-</div>
 
-{#
-Load Mapbox only in modern browsers
-https://web.dev/publish-modern-javascript/#rollup
-#}
-{% if geo.latitude and geo.longitude %}
-  {% if build.env == 'production' %}
-    <script defer type="module" src="/ui/js/{{ hashes_photo['assets/js/photo.js']}}"></script>
-  {% else %}
-    <script defer type="module" src="/ui/js/photo-es.js"></script>
+    <img src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg" class="image" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" style="background-color: rgb({{ origin.data.colors.muted }} / 50%)" />
+
+    <div class="description">
+      {{ content | markdownify | safe }}
+    </div>
+
+    <div class="meta">
+      <ul class="exif">
+        <li class="date icon icon--date"><time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
+        <li class="gear icon icon--camera">{{ gear.make }} {{ gear.model }}</li>
+        {% if settings.focal_length or gear.lens %}
+          <li class="lens icon icon--focal_length">
+            {% if gear.lens %}{{ gear.lens }}<br />{% endif %}
+            {{ settings.focal_length }} mm
+            {% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}
+          </li>
+        {% endif %}
+        {% if settings.iso %}<li class="iso icon icon--iso"><span>ISO {{ settings.iso }}</span></li>{% endif %}
+        {% if settings.aperture %}<li class="aperture icon icon--aperture"><span>ƒ/{{ settings.aperture }}</span></li>{% endif %}
+        {% if settings.shutter_speed %}<li class="shutter_speed icon icon--shutter_speed"><span>{{ settings.shutter_speed }} s</span></li>{% endif %}
+      </ul>
+      <div class="geo">
+        {% if geo.latitude and geo.longitude %}
+
+          {% from "macros/css.njk" import css %}
+          {{ css('components/photo-map', build.env) }}
+
+          <div id="map" data-latitude="{{ geo.latitude }}" data-longitude="{{ geo.longitude }}">
+            <noscript>
+              <img src="https://api.mapbox.com/styles/v1/{{ map.mapbox.style }}/static/url-https%3A%2F%2Fnicolas-hoizey.photo%2Fui%2Fimages%2Fmarker.png({{ geo.longitude }}%2C{{ geo.latitude }})/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" />
+            </noscript>
+          </div>
+          {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
+          <p class="locate icon icon--map">Locate it <a href="/map/#15/{{ geo.latitude }}/{{ geo.longitude }}">on the global map</a></p>
+        {% endif %}
+      </div>
+    </div>
+    {% if tags %}
+    <p class="tags icon icon--tag">
+      {% set comma = joiner(", ") %}
+      {%- for tag in tags -%}
+        {{ comma() }}
+        <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category">{{ tag }}</a>
+      {%- endfor -%}
+    </p>
+    {% endif %}
+  </div>
+
+  {#
+  Load Mapbox only in modern browsers
+  https://web.dev/publish-modern-javascript/#rollup
+  #}
+  {% if geo.latitude and geo.longitude %}
+    {% if build.env == 'production' %}
+      <script defer type="module" src="/ui/js/{{ hashes_photo['assets/js/photo.js']}}"></script>
+    {% else %}
+      <script defer type="module" src="/ui/js/photo-es.js"></script>
+    {% endif %}
   {% endif %}
-{% endif %}
+{% endblock %}
