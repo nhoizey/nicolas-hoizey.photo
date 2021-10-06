@@ -10,7 +10,7 @@
 {% endif %}
 
 {% block description %}
-  <meta name="description" property="og:description" content="{{ content | markdownify | excerpt | safe }}" />
+  <meta name="description" property="og:description" content="{{ content | markdownify | excerpt | striptags | safe }}" />
 {% endblock %}
 
 {% block styles %}
