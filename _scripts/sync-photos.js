@@ -72,6 +72,9 @@ async function syncOnePhoto(photo) {
     if (photoExif.ImageDescription) {
       photoDescription = photoExif.ImageDescription.trim();
     }
+    if (photoDescription.length === 0) {
+      console.error(`⚠ missing description in ${photo}`);
+    }
 
     // get photo date
     if (photoExif.DateTimeOriginal && photoExif.OffsetTime) {
