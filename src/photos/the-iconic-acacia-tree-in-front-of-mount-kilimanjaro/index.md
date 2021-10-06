@@ -7,6 +7,8 @@ gear:
   lens: XF56mmF1.2 R
 tags:
   - acacia
+  - Acacia faux-gommier
+  - Acacia tortilis
   - Africa
   - Afrique
   - Amboseli
@@ -24,6 +26,8 @@ tags:
   - Parc national d'Amboseli
   - plant
   - tree
+  - umbrella thorn acacia
+  - Vachellia tortilis
   - végétal
   - volcan
   - volcano
@@ -52,4 +56,6 @@ colors:
 file: the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg
 ---
 
+The plains surrounding Kilimanjaro (the "lowlands"), are located between 600 and 800 meters above sea level. The climate is very hot and dry.
 
+The vegetation is mainly composed of savannahs made up of numerous plant species, including the famous umbrella thorn acacia, a thorny tree that can reach up to 21 m high.
