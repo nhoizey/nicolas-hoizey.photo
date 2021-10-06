@@ -1,19 +1,23 @@
 {% extends "./base.njk" %}
 
+{% if origin %}
+  {% set dimensions = origin.data.dimensions %}
+  {% set gear = origin.data.gear %}
+  {% set settings = origin.data.settings %}
+  {% set geo = origin.data.geo %}
+  {% set content = content or origin.content %}
+  {% set tags = origin.data.tags %}
+{% endif %}
+
+{% block description %}
+  <meta name="description" property="og:description" content="{{ content | markdownify | excerpt | safe }}" />
+{% endblock %}
+
 {% block styles %}
   style="background-color: rgb({{ origin.data.colors.darkMuted }} / 50%)"
 {% endblock %}
 
 {% block content %}
-  {% if origin %}
-    {% set dimensions = origin.data.dimensions %}
-    {% set gear = origin.data.gear %}
-    {% set settings = origin.data.settings %}
-    {% set geo = origin.data.geo %}
-    {% set content = content or origin.content %}
-    {% set tags = origin.data.tags %}
-  {% endif %}
-
   {% from "macros/css.njk" import css %}
   {{ css('components/photo', build.env) }}
 
@@ -58,7 +62,7 @@
 
           <div id="map" data-latitude="{{ geo.latitude }}" data-longitude="{{ geo.longitude }}">
             <noscript>
-              <img src="https://api.mapbox.com/styles/v1/{{ map.mapbox.style }}/static/url-https%3A%2F%2Fnicolas-hoizey.photo%2Fui%2Fimages%2Fmarker.png({{ geo.longitude }}%2C{{ geo.latitude }})/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" />
+              <img src="https://api.mapbox.com/styles/v1/{{ map.mapbox.style }}/static/url-https%3A%2F%2Fnicolas-hoizey.photo%2Fui%2Fimages%2Fmarker.png({{ geo.longitude }}%2C{{ geo.latitude }})/{{ geo.longitude }},{{ geo.latitude }},5/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" alt="Map showing location of “{{ title }}”{% if geo.city and geo.country %} in {{ geo.city }}, {{ geo.country }}{% endif %}" />
             </noscript>
           </div>
           {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
