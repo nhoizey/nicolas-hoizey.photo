@@ -33,7 +33,15 @@
       <h1>{{ title }}</h1>
     </div>
 
-    <img src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg" class="image" alt="{{ title }}" width="{{ dimensions.width }}" height="{{ dimensions.height }}" style="background-color: rgb({{ origin.data.colors.muted }} / 50%)" elementtiming="photo"/>
+    <img
+      src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg"
+      class="image"
+      alt="{{ title }}"
+      width="{{ dimensions.width }}"
+      height="{{ dimensions.height }}"
+      style="background-color: rgb({{ origin.data.colors.muted }} / 50%)"
+      importance="high"
+    />
 
     <div class="description">
       {{ content | markdownify | safe }}
