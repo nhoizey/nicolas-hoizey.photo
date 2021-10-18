@@ -106,7 +106,7 @@ g:target {
   display: inline;
   fill: none;
   stroke: #a081c0;
-  stroke-width: 2px;
+  stroke-width: 1px;
   stroke-linecap: round;
   stroke-linejoin: round;
 }
@@ -128,11 +128,11 @@ fs.writeFileSync('src/ui/svg-sprite.svg', spriteString);
 
 // Generate the Sass file
 const sass = `.icon {
-  padding-left: 1.2em;
+  padding-left: 1.4em;
 
-  background-size: 1em 1em;
+  background-size: 1.3em 1.3em;
   background-position-x: 0;
-  background-position-y: 0.2em;
+  background-position-y: 0.1em;
   background-repeat: no-repeat;
 }
 

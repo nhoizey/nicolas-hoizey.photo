@@ -6,7 +6,7 @@ g:target {
   display: inline;
   fill: none;
   stroke: #a081c0;
-  stroke-width: 2px;
+  stroke-width: 1px;
   stroke-linecap: round;
   stroke-linejoin: round;
 }

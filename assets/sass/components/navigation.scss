@@ -18,10 +18,6 @@ nav {
     }
   }
 
-  .icon {
-    background-position-y: 0.3em;
-  }
-
   @media (max-width: $breakpoint-m) {
     // show icons only on larger viewports
     .icon.icon {
