@@ -11,13 +11,9 @@
 
   display: grid;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  grid-template-columns: repeat(auto-fit, min(100%, 15rem));
 
   align-items: end;
-
-  li {
-    max-width: 30rem;
-  }
 
   .portrait {
     width: 66%;
