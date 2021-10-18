@@ -99,8 +99,7 @@ module.exports = {
     fallbackWidth: 200,
     minWidth: 100,
     maxWidth: 400,
-    sizes:
-      '(max-width: 20rem) 45vw, (max-width: 30rem) 30vw, (max-width: 67rem) 22.5vw, 15rem',
+    sizes: '(min-width: 17rem) calc(1.2 * 15rem), calc(100vw - 2rem)',
     figure: 'never',
     classes: ['diaporama'],
   },
