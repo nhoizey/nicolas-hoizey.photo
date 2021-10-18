@@ -97,8 +97,9 @@ module.exports = {
     resizedImageUrl: (src, width) =>
       src.replace(site.url, `${site.url}/diaporama/${width}`),
     fallbackWidth: 200,
-    minWidth: 100,
-    maxWidth: 400,
+    minWidth: 280,
+    maxWidth: 840,
+    steps: 6,
     sizes: '(min-width: 17rem) calc(1.2 * 15rem), calc(100vw - 2rem)',
     figure: 'never',
     classes: ['diaporama'],
