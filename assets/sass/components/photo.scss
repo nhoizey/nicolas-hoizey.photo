@@ -84,8 +84,8 @@
     // - 2 grid gaps: 2 * space.$s
     --base: 100vh;
     --height: calc(
-      var(--base) - space.$m - 1.5rem - 1.2 * var(--step-3) - 2 *
-        space.$s
+      var(--base) - #{space.$m} - 1.5rem - 1.2 * var(--step-3) - 2 *
+        #{space.$s}
     );
     --width: calc(var(--height) * var(--ratio));
 
@@ -115,9 +115,9 @@
     // - title: 1.2 * var(--step-3)
     // - 2 grid gaps: 2 * space.$s
     --height: calc(
-      100vh - space.$m - calc(var(--logo-wide) / 9) - space.$m - 1.5 *
-        var(--step-0) - space.$xl - 1.5 * var(--step--1) - 1.2 *
-        var(--step-3) - 2 * space.$s
+      100vh - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} - 1.5 *
+        var(--step-0) - #{space.$xl} - 1.5 * var(--step--1) - 1.2 *
+        var(--step-3) - 2 * #{space.$s}
     );
     --width: calc(var(--height) * var(--ratio));
 
@@ -128,8 +128,8 @@
       // - title: 1.2 * var(--step-3)
       // - 2 grid gaps: 2 * space.$s
       --height: calc(
-        100vh - space.$m - 1.5 * var(--step--1) - 1.2 * var(--step-3) - 2 *
-          space.$s
+        100vh - #{space.$m} - 1.5 * var(--step--1) - 1.2 * var(--step-3) - 2 *
+          #{space.$s}
       );
     }
 
@@ -147,7 +147,7 @@
     }
 
     @media (min-aspect-ratio: 2) {
-      --height: calc(100vh - 2 * space.$m);
+      --height: calc(100vh - 2 * #{space.$m});
       --width: auto;
     }
   }
