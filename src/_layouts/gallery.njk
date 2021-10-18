@@ -27,7 +27,16 @@ layout: page
               <div class="diaporama diaporama_{{ photos_below | length }}">
                 {% for photo in photos_below %}
                   {% set dimensions = photo.data.origin.data.dimensions %}
-                  <img src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg" alt="" width="3000" height="2000" {% if dimensions.width < dimensions.height %}class="portrait"{% endif %} data-responsiver="diaporama" style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)" />
+                  <img
+                    src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
+                    alt=""
+                    width="3000"
+                    height="2000"
+                    {% if dimensions.width < dimensions.height %}class="portrait"{% endif %}
+                    style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
+                    loading="{%- if loop.first -%}eager{%- else -%}lazy{%- endif -%}"
+                    data-responsiver="diaporama"
+                    />
                 {% endfor %}
               </div>
             </div>
@@ -49,7 +58,11 @@ layout: page
     <h2>Photos</h2>
     <ul class="gallery">
       {% for item in photos_here %}
-        {{ photo(item) }}
+        {% if loop.index < 4 %}
+          {{ photo(item, "eager") }}
+        {% else %}
+          {{ photo(item, "lazy") }}
+        {% endif %}
       {% endfor %}
     </ul>
   </section>

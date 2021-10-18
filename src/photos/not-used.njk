@@ -12,6 +12,10 @@ title: Photos that are not yet used
 
 <ul class="gallery">
   {% for item in collections.photos_not_in_galleries %}
-    {{ photo(item, true) }}
+    {% if loop.index < 4 %}
+      {{ photo(item, "eager", true) }}
+    {% else %}
+      {{ photo(item, "lazy", true) }}
+    {% endif %}
   {% endfor %}
 </ul>

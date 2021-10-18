@@ -8,6 +8,10 @@ layout: page
 
 <ul class="gallery">
   {% for item in collections.all_photos %}
-    {{ photo(item) }}
+    {% if loop.index < 4 %}
+      {{ photo(item, "eager") }}
+    {% else %}
+      {{ photo(item, "lazy") }}
+    {% endif %}
   {% endfor %}
 </ul>

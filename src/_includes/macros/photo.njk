@@ -1,6 +1,6 @@
 {% from "macros/meta.njk" import meta %}
 
-{% macro photo(item, slug=false) %}
+{% macro photo(item, loading=false, slug=false) %}
 
   {% if item.data.origin %}
     {% set dimensions = item.data.origin.data.dimensions %}
@@ -21,6 +21,7 @@
           height="{{ dimensions.height }}"
         {% endif %}
         style="background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
+        {% if loading %}loading="{{ loading }}"{% endif %}
       />
       <figcaption>
         <a href="{{ item.url }}">{{ item.data.title }}</a>

@@ -89,17 +89,13 @@ module.exports = {
     minWidth: 360,
     maxWidth: 1600,
     sizes: '(max-width: 67rem) 90vw, 60rem',
-    attributes: {
-      loading: 'lazy',
-    },
   },
   diaporama: {
     resizedImageUrl: (src, width) =>
       src.replace(site.url, `${site.url}/diaporama/${width}`),
-    fallbackWidth: 200,
-    minWidth: 280,
+    fallbackWidth: 290,
+    minWidth: 290,
     maxWidth: 840,
-    steps: 6,
     sizes: '(min-width: 17rem) calc(1.2 * 15rem), calc(100vw - 2rem)',
     figure: 'never',
     classes: ['diaporama'],
