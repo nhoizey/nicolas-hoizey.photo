@@ -67,7 +67,7 @@
           {{ css('components/photo-map', build.env) }}
 
           <div id="map">
-            <img src="https://api.mapbox.com/styles/v1/{{ map.mapbox.style }}/static/{{ geo.longitude }},{{ geo.latitude }},4/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" alt="Map showing location of “{{ title }}”{% if geo.city and geo.country %} in {{ geo.city }}, {{ geo.country }}{% endif %}" />
+            <img src="https://api.mapbox.com/styles/v1/{{ map.mapbox.style }}/static/{{ geo.longitude }},{{ geo.latitude }},4/300x200?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" alt="Map showing location of “{{ title }}”{% if geo.city and geo.country %} in {{ geo.city }}, {{ geo.country }}{% endif %}" data-responsiver="false" />
             <div class="marker-shadow"></div>
             <div class="marker"></div>
           </div>

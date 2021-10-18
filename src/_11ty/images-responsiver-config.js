@@ -79,7 +79,8 @@ const runAfterHook = (image, document) => {
 
 module.exports = {
   default: {
-    selector: ':not(picture) img[src]:not([srcset]):not([src*=".svg"])',
+    selector:
+      ':not(picture) img[src]:not([srcset]):not([src*=".svg"]):not([data-responsiver="false"])',
     resizedImageUrl: (src, width) =>
       src.replace(site.url, `${site.url}/images/${width}`),
     runBefore: runBeforeHook,
