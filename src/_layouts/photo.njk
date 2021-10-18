@@ -23,6 +23,8 @@
 
   {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
 
+  {% include 'components/json-ld/breadcrumb.njk' %}
+
   <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
     <div class="header">
       {% include 'components/breadcrumb.njk' %}
