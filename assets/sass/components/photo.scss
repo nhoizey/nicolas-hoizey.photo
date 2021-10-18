@@ -69,7 +69,7 @@
     font-size: var(--step--1);
     color: $color-theme-lighter-2;
 
-    a {
+    a:link {
       text-decoration-thickness: 1px;
     }
   }
