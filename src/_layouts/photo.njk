@@ -21,15 +21,11 @@
   {% from "macros/css.njk" import css %}
   {{ css('components/photo', build.env) }}
 
+  {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
+
   <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}">
     <div class="header">
-      {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
-      <ul class="breadcrumb">
-        <li><a href="/">Home</a></li>
-        {% for item in breadcrumb %}
-          <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-        {% endfor %}
-      </ul>
+      {% include 'components/breadcrumb.njk' %}
       <h1>{{ title }}</h1>
     </div>
 

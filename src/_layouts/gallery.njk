@@ -6,12 +6,7 @@ layout: page
 
 {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
 
-<ul class="breadcrumb">
-  <li><a href="/">Home</a></li>
-  {% for item in breadcrumb %}
-    <li><a href="{{ item.url }}">{{ item.data.title }}</a></li>
-  {% endfor %}
-</ul>
+{% include 'components/breadcrumb.njk' %}
 
 <h1>{{ title }}</h1>
 
