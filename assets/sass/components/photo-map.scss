@@ -1,9 +1,11 @@
 @use '../variables' as *;
-@use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
+// @use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 
 #map {
   width: 300px;
   height: 200px;
+  position: relative;
+  background-color: #e4ecc2;
 
   img,
   canvas {
@@ -20,6 +22,10 @@
     width: 24px;
     height: 24px;
 
+    position: absolute;
+    left: 138px;
+    top: 88px;
+
     animation-name: marker-pulse;
     animation-duration: 0.7s;
     animation-timing-function: ease-out;
@@ -32,6 +38,10 @@
     width: 2px;
     height: 2px;
     border-radius: 50%;
+
+    position: absolute;
+    left: 149px;
+    top: 108px;
 
     animation-name: marker-shadow-pulse;
     animation-duration: 1.4s;
