@@ -1,16 +1,17 @@
 @use '../variables' as *;
+@use '../tokens/space';
 @use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 @use '../../../node_modules/mapbox-gl-style-switcher/styles.css';
 
 .map {
   h1 {
-    margin-bottom: var(--space-xs);
+    margin-bottom: space.$s;
   }
 }
 #map {
   width: 100%;
   height: calc(
-    100vh - var(--space-s) - 1.5rem - 1.2 * var(--step-3) - 2 * var(--space-xs)
+    100vh - space.$m - 1.5rem - 1.2 * var(--step-3) - 2 * space.$s
   );
 
   .mapboxgl-popup {
@@ -19,7 +20,7 @@
 
   .mapboxgl-popup-content {
     background-color: $color-surface;
-    width: calc(200px + 2px + 2 * var(--space-3xs));
+    width: calc(200px + 2px + 2 * space.$xxxs);
 
     img {
       border: 1px solid #fff;
@@ -27,7 +28,7 @@
   }
 
   .mapboxgl-popup-photos {
-    padding: var(--space-3xs);
+    padding: space.$xxxs;
     max-height: 300px;
     overflow-y: scroll;
 
@@ -36,7 +37,7 @@
     }
 
     p + p {
-      margin-top: var(--space-xs);
+      margin-top: space.$s;
     }
   }
 

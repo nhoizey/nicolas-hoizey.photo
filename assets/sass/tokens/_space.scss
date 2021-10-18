@@ -1,0 +1,14 @@
+@use "sass:math";
+
+$factor: 1.4;
+
+$m: 1rem;
+$l: $m * $factor;
+$xl: $l * $factor;
+$xxl: $xl * $factor;
+$xxxl: $xxl * $factor;
+
+$s: math.div($m, $factor);
+$xs: math.div($s, $factor);
+$xxs: math.div($xs, $factor);
+$xxxs: math.div($xxs, $factor);

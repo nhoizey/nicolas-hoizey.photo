@@ -6,6 +6,7 @@
 @use './icons-sprite';
 @use './components/blog';
 @use './components/meta';
+@use './tokens/space';
 
 /* ********************************************
 * CUSTOM PROPERTIES
@@ -59,7 +60,7 @@ main {
 }
 
 section {
-  margin-top: var(--space-xl);
+  margin-top: space.$xxl;
 }
 
 /* ********************************************

@@ -1,18 +1,19 @@
 @use '../variables' as *;
+@use '../tokens/space';
 
 footer {
-  margin-top: var(--space-2xl);
-  padding: var(--space-s);
+  margin-top: space.$xl;
+  padding: space.$m;
   font-size: var(--step-0);
 
   @media (min-width: $breakpoint-m) {
-    padding-left: var(--space-xl);
-    padding-right: var(--space-xl);
+    padding-left: space.$xxl;
+    padding-right: space.$xxl;
   }
 
   display: grid;
-  column-gap: var(--space-xl);
-  row-gap: var(--space-l);
+  column-gap: space.$xxl;
+  row-gap: space.$xl;
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 
   color: $color-theme-lighter-2;

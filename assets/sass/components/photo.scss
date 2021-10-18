@@ -1,4 +1,5 @@
 @use '../variables' as *;
+@use '../tokens/space';
 @use '../every_layout/sidebar' as *;
 @use '../every_layout/switcher' as *;
 
@@ -7,7 +8,7 @@
   --height: auto;
 
   display: grid;
-  gap: var(--space-xs) var(--space-l);
+  gap: space.$s space.$xl;
 
   grid-template-areas:
     'header'
@@ -77,14 +78,14 @@
   @media (min-width: $breakpoint-m) {
     // Make the image fully visible on load without scrolling
     // = Full height
-    // - body padding: var(--space-s)
+    // - body padding: space.$m
     // - breadcrumb: 1.5 * var(--step--1)
     // - title: 1.2 * var(--step-3)
-    // - 2 grid gaps: 2 * var(--space-xs)
+    // - 2 grid gaps: 2 * space.$s
     --base: 100vh;
     --height: calc(
-      var(--base) - var(--space-s) - 1.5rem - 1.2 * var(--step-3) - 2 *
-        var(--space-xs)
+      var(--base) - space.$m - 1.5rem - 1.2 * var(--step-3) - 2 *
+        space.$s
     );
     --width: calc(var(--height) * var(--ratio));
 
@@ -105,30 +106,30 @@
   &.portrait {
     // Make the image fully visible on load without scrolling
     // = Full height: 100vh
-    // - body padding: var(--space-s)
+    // - body padding: space.$m
     // - logo: calc(var(--logo-wide) / 9)
-    // - header gap: var(--space-s)
+    // - header gap: space.$m
     // - navigation: 1.5 * var(--step-0)
-    // - page gap: var(--space-l)
+    // - page gap: space.$xl
     // - breadcrumb: 1.5 * var(--step--1)
     // - title: 1.2 * var(--step-3)
-    // - 2 grid gaps: 2 * var(--space-xs)
+    // - 2 grid gaps: 2 * space.$s
     --height: calc(
-      100vh - var(--space-s) - calc(var(--logo-wide) / 9) - var(--space-s) - 1.5 *
-        var(--step-0) - var(--space-l) - 1.5 * var(--step--1) - 1.2 *
-        var(--step-3) - 2 * var(--space-xs)
+      100vh - space.$m - calc(var(--logo-wide) / 9) - space.$m - 1.5 *
+        var(--step-0) - space.$xl - 1.5 * var(--step--1) - 1.2 *
+        var(--step-3) - 2 * space.$s
     );
     --width: calc(var(--height) * var(--ratio));
 
     @media (min-width: $breakpoint-m) {
       // = Full height: 100vh
-      // - body padding: var(--space-s)
+      // - body padding: space.$m
       // - breadcrumb: 1.5 * var(--step--1)
       // - title: 1.2 * var(--step-3)
-      // - 2 grid gaps: 2 * var(--space-xs)
+      // - 2 grid gaps: 2 * space.$s
       --height: calc(
-        100vh - var(--space-s) - 1.5 * var(--step--1) - 1.2 * var(--step-3) - 2 *
-          var(--space-xs)
+        100vh - space.$m - 1.5 * var(--step--1) - 1.2 * var(--step-3) - 2 *
+          space.$s
       );
     }
 
@@ -146,7 +147,7 @@
     }
 
     @media (min-aspect-ratio: 2) {
-      --height: calc(100vh - 2 * var(--space-s));
+      --height: calc(100vh - 2 * space.$m);
       --width: auto;
     }
   }
@@ -175,7 +176,7 @@
     max-width: 20rem;
 
     display: grid;
-    gap: var(--space-xs);
+    gap: space.$s;
     grid-template-columns: 1fr 1fr 1fr;
 
     .date,

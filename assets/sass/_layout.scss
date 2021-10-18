@@ -1,4 +1,5 @@
 @use './variables' as *;
+@use './tokens/space';
 
 /* ********************************************
 * LAYOUT
@@ -19,12 +20,12 @@ body {
 
 header {
   flex-shrink: 0;
-  padding: var(--space-s);
+  padding: space.$m;
 
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: var(--space-s);
+  gap: space.$m;
   align-items: center;
 
   @media (min-width: $breakpoint-m) {
@@ -35,12 +36,12 @@ header {
 
     flex-direction: column;
     align-items: flex-start;
-    gap: var(--space-l);
+    gap: space.$xl;
   }
 }
 
 nav {
-  margin-top: var(--space-s-m);
+  margin-top: space.$m;
 
   ul {
     display: flex;
@@ -50,7 +51,7 @@ nav {
     justify-content: flex-end;
 
     li + li {
-      margin-left: var(--space-xs);
+      margin-left: space.$s;
     }
 
     ul {
@@ -59,25 +60,25 @@ nav {
 
     @media (min-width: $breakpoint-m) {
       flex-direction: column;
-      margin-left: var(--space-s);
+      margin-left: space.$m;
 
       li + li {
         margin-left: 0;
-        margin-top: var(--space-s);
+        margin-top: space.$m;
       }
 
       li + .blog {
-        margin-top: var(--space-2xl);
+        margin-top: space.$xxl;
       }
 
       ul {
-        margin-top: var(--space-2xs);
-        margin-bottom: var(--space-s);
-        padding-left: var(--space-m);
+        margin-top: space.$xxs;
+        margin-bottom: space.$m;
+        padding-left: space.$xl;
         display: flex;
 
         li + li {
-          margin-top: var(--space-2xs);
+          margin-top: space.$xxs;
         }
       }
     }
@@ -96,11 +97,11 @@ nav {
 }
 
 main {
-  padding: var(--space-s);
+  padding: space.$m;
   flex-grow: 1;
 
   @media (min-width: $breakpoint-m) {
-    padding-left: var(--space-xl);
-    padding-right: var(--space-xl);
+    padding-left: space.$xxl;
+    padding-right: space.$xxl;
   }
 }
