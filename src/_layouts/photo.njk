@@ -24,7 +24,7 @@
 {% else %}
   {% set position = 'x_48' %}
 {% endif %}
-<meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_500,c_fit,co_rgb:f7f5fa,l_text:Roboto%20Condensed_50:{{ title }}/fl_layer_apply,g_west,x_48/l_fetch:{{ photoUrl | base64 }},w_600,h_450,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_east,{{ position }}/resources/nicolas-hoizey-photo-opengraph-background" />
+<meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_500,c_fit,co_rgb:f7f5fa,l_text:Roboto%20Condensed_50:{{ title }}/fl_layer_apply,g_south_west,y_384,{{ position }}/{% if geo.city and geo.country %}w_500,c_fit,co_rgb:bda7d3,l_text:Roboto%20Condensed_30:Shot in {{ geo.city }}%252C {{ geo.country }}/fl_layer_apply,g_south_west,y_288,{{ position }}/{% endif %}l_fetch:{{ photoUrl | base64 }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,{{ position }}/resources/nicolas-hoizey-photo-opengraph-background-url" />
 {% endblock %}
 
 {% block content %}
