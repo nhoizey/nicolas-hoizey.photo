@@ -16,7 +16,7 @@
 
     {% block title %}
       {% if page.url == '/' %}
-        {% set page_title %}{{ site.title }}, {{ site.description }}{% endset %}
+        {% set page_title %}{{ site.title }}{% endset %}
       {% else %}
         {% set page_title %}{{ title }} — {{ site.title }}{% endset %}
       {% endif %}

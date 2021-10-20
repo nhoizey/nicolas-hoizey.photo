@@ -1,56 +1,69 @@
 ---
-title: Welcome!
+layout: false
 ---
 
-<section class="welcome">
-  <h2>Welcome to my photography portfolio!</h2>
+{% extends "./_layouts/base.njk" %}
 
-  <p>I’m a French self-taught amateur photographer. I love to <a href="/travels/">travel</a> to discover new horizons and people, shooting both <a href="/nature/">nature</a> and <a href="/urban/">urban</a> scenery, and taking <a href="/portraits/">portraits</a>.</p>
-</section>
+{% block opengraphimage %}
+  {% set photoUrl1 = 'https://nicolas-hoizey.photo/photos/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg' | base64 %}
+  {% set photoUrl2 = 'https://nicolas-hoizey.photo/photos/colourful-netherlands/colourful-netherlands.jpg' | base64 %}
+  {% set photoUrl3 = 'https://nicolas-hoizey.photo/photos/leslie/leslie.jpg' | base64 %}
+  {% set photoUrl4 = 'https://nicolas-hoizey.photo/photos/morning-stroll/morning-stroll.jpg' | base64 %}
+  {% set photoUrl5 = 'https://nicolas-hoizey.photo/photos/women-s-800m/women-s-800m.jpg' | base64 %}
+  <meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_1104,c_fit,co_rgb:f7f5fa,l_text:Roboto%20Condensed_50:{{ site.description }}/fl_layer_apply,g_north_west,y_96,x_48/l_fetch:{{ photoUrl1 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_48/l_fetch:{{ photoUrl2 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_273/l_fetch:{{ photoUrl3 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_498/l_fetch:{{ photoUrl4 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_723/l_fetch:{{ photoUrl5 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_948/resources/nho-photo-opengraph-background" />
+{% endblock %}
 
-{% from "macros/css.njk" import css %}
-{{ css('components/galleries', build.env) }}
+{% block content %}
+  <section class="welcome">
+    <h2>Welcome to my photography portfolio!</h2>
 
-<section class="topics">
-  {% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
-  <ul class="galleries">
-    {% for item in sub_galleries %}
-      <li>
-        <figure>
-          <div class="frame">
-            {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
-            <div class="diaporama diaporama_{{ photos_below | length }}">
-              {% for photo in photos_below %}
-                <img
-                  src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
-                  alt=""
-                  width="3000"
-                  height="2000"
-                  style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ photo.data.origin.data.colors.muted }} / 50%)"
-                  loading="{%- if loop.first -%}eager{%- else -%}lazy{%- endif -%}"
-                  data-responsiver="diaporama"
-                  />
-              {% endfor %}
+    <p>I’m a French self-taught amateur photographer. I love to <a href="/travels/">travel</a> to discover new horizons and people, shooting both <a href="/nature/">nature</a> and <a href="/urban/">urban</a> scenery, and taking <a href="/portraits/">portraits</a>.</p>
+  </section>
+
+  {% from "macros/css.njk" import css %}
+  {{ css('components/galleries', build.env) }}
+
+  <section class="topics">
+    {% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
+    <ul class="galleries">
+      {% for item in sub_galleries %}
+        <li>
+          <figure>
+            <div class="frame">
+              {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
+              <div class="diaporama diaporama_{{ photos_below | length }}">
+                {% for photo in photos_below %}
+                  <img
+                    src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
+                    alt=""
+                    width="3000"
+                    height="2000"
+                    style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ photo.data.origin.data.colors.muted }} / 50%)"
+                    loading="{%- if loop.first -%}eager{%- else -%}lazy{%- endif -%}"
+                    data-responsiver="diaporama"
+                    />
+                {% endfor %}
+              </div>
             </div>
-          </div>
-          <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
-        </figure>
-      </li>
-    {% endfor %}
-  </ul>
-</section>
+            <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
+          </figure>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
 
-{% from "macros/css.njk" import css %}
-{{ css('components/gallery', build.env) }}
+  {% from "macros/css.njk" import css %}
+  {{ css('components/gallery', build.env) }}
 
-<section class="latest">
-  <p>Here are my most recent photos:</p>
+  <section class="latest">
+    <p>Here are my most recent photos:</p>
 
-  {% from "macros/photo.njk" import photo %}
+    {% from "macros/photo.njk" import photo %}
 
-  <ul class="gallery">
-    {% for item in collections.photos_in_galleries | limit(6) %}
-      {{ photo(item, "lazy") }}
-    {% endfor %}
-  </ul>
-</section>
+    <ul class="gallery">
+      {% for item in collections.photos_in_galleries | limit(6) %}
+        {{ photo(item, "lazy") }}
+      {% endfor %}
+    </ul>
+  </section>
+{% endblock %}
