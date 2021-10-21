@@ -1,29 +1,34 @@
----
-layout: page
----
+{% extends "./base.njk" %}
 
-<div class="map">
-  <div class="header">
-    {% include 'components/breadcrumb.njk' %}
-    <h1>{{ title }}</h1>
+{% block opengraphimage %}
+  {% set mapImage = 'https://nicolas-hoizey.photo/ui/images/map-2021-10-21.png' | base64 %}
+  <meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_500,c_fit,co_rgb:f7f5fa,l_text:Roboto%20Condensed_50:{{ title }}/fl_layer_apply,g_south_west,y_384,x_48/w_500,c_fit,co_rgb:bda7d3,l_text:Roboto%20Condensed_30:Browse the world!/fl_layer_apply,g_south_west,y_288,x_48/l_fetch:{{ mapImage }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,x_48/resources/nho-photo-opengraph-background" />
+{% endblock %}
+
+{% block content %}
+  <div class="map">
+    <div class="header">
+      {% include 'components/breadcrumb.njk' %}
+      <h1>{{ title }}</h1>
+    </div>
+
+    {{ content | safe }}
+
+    {% from "macros/css.njk" import css %}
+    {{ css('components/map', build.env) }}
+
+    <div id="map">
+      <noscript>
+        <p>You need JavaScript to see this map.</p>
+      </noscript>
+    </div>
+
+    <p class="icon icon--download"><a href="/map/photos.kml">Download the KML file for Google Earth</a>.</p>
   </div>
 
-  {{ content | safe }}
-
-  {% from "macros/css.njk" import css %}
-  {{ css('components/map', build.env) }}
-
-  <div id="map">
-    <noscript>
-      <p>You need JavaScript to see this map.</p>
-    </noscript>
-  </div>
-
-  <p class="icon icon--download"><a href="/map/photos.kml">Download the KML file for Google Earth</a>.</p>
-</div>
-
-{% if build.env == 'production' %}
-  <script defer type="module" src="/ui/js/{{ hashes_map['assets/js/map.js']}}"></script>
-{% else %}
-  <script defer type="module" src="/ui/js/map-es.js"></script>
-{% endif %}
+  {% if build.env == 'production' %}
+    <script defer type="module" src="/ui/js/{{ hashes_map['assets/js/map.js']}}"></script>
+  {% else %}
+    <script defer type="module" src="/ui/js/map-es.js"></script>
+  {% endif %}
+{% endblock %}
