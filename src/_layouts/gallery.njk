@@ -1,86 +1,90 @@
----
-layout: page
----
+{% extends "./base.njk" %}
 
-{% from "macros/photo.njk" import photo %}
+{% block opengraphimage %}
+  {% set photos_below = collections.photos_in_galleries | photos_here_and_below(page.url) | featured(5) %}
+  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.top.before }}:{{ title }}/{{ site.opengraph.title.top.after }}{%- for item in photos_below -%}/l_fetch:{%- set url = 'https://nicolas-hoizey.photo/photos/' + item.fileSlug + '/' + item.fileSlug + '.jpg' -%}{{ url | base64 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_{{ 48 + (loop.index - 1) * 225 }}{%- endfor -%}/{{ site.opengraph.background }}" />
+{% endblock %}
 
-{% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
+{% block content %}
+  {% from "macros/photo.njk" import photo %}
 
-{% include 'components/breadcrumb.njk' %}
+  {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
+  {% include 'components/breadcrumb.njk' %}
 
-<h1>{{ title }}</h1>
+  <h1>{{ title }}</h1>
 
-{{ content | safe }}
-
-{% from "macros/css.njk" import css %}
-{{ css('components/galleries', build.env) }}
-
-{% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
-{% if sub_galleries | length %}
-  <ul class="galleries">
-    {% for item in sub_galleries %}
-      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
-      {% if photos_below | length %}
-        <li>
-          <figure>
-            <div class="frame">
-              <div class="diaporama diaporama_{{ photos_below | length }}">
-                {% for photo in photos_below %}
-                  {% set dimensions = photo.data.origin.data.dimensions %}
-                  <img
-                    src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
-                    alt=""
-                    width="3000"
-                    height="2000"
-                    {% if dimensions.width < dimensions.height %}class="portrait"{% endif %}
-                    style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
-                    loading="{%- if loop.first -%}eager{%- else -%}lazy{%- endif -%}"
-                    data-responsiver="diaporama"
-                    />
-                {% endfor %}
-              </div>
-            </div>
-            <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
-          </figure>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-{% endif %}
-
-{% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
-{% if photos_here | length %}
+  {{ content | safe }}
 
   {% from "macros/css.njk" import css %}
-  {{ css('components/gallery', build.env) }}
+  {{ css('components/galleries', build.env) }}
 
-  <section>
-    <h2>Photos</h2>
-    <ul class="gallery">
-      {% for item in photos_here %}
-        {% if loop.index < 4 %}
-          {{ photo(item, "eager") }}
-        {% else %}
-          {{ photo(item, "lazy") }}
+  {% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
+  {% if sub_galleries | length %}
+    <ul class="galleries">
+      {% for item in sub_galleries %}
+        {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
+        {% if photos_below | length %}
+          <li>
+            <figure>
+              <div class="frame">
+                <div class="diaporama diaporama_{{ photos_below | length }}">
+                  {% for photo in photos_below %}
+                    {% set dimensions = photo.data.origin.data.dimensions %}
+                    <img
+                      src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
+                      alt=""
+                      width="3000"
+                      height="2000"
+                      {% if dimensions.width < dimensions.height %}class="portrait"{% endif %}
+                      style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
+                      loading="{%- if loop.first -%}eager{%- else -%}lazy{%- endif -%}"
+                      data-responsiver="diaporama"
+                      />
+                  {% endfor %}
+                </div>
+              </div>
+              <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
+            </figure>
+          </li>
         {% endif %}
       {% endfor %}
     </ul>
-  </section>
-{% endif %}
+  {% endif %}
 
-{#
-{% set photos_below = collections.photos_in_galleries | photos_below(page.url) %}
-{% if photos_below | length %}
-  <h2>Latest photos in sub galleries</h2>
-  <ul class="gallery">
-    {% for item in photos_below %}
-      <figure>
-        <a href="{{ item.url }}">
-          <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
-          <figcaption>{{ item.data.title }}</figcaption>
-        </a>
-      </figure>
-    {% endfor %}
-  </ul>
-{% endif %}
-#}
+  {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
+  {% if photos_here | length %}
+
+    {% from "macros/css.njk" import css %}
+    {{ css('components/gallery', build.env) }}
+
+    <section>
+      <h2>Photos</h2>
+      <ul class="gallery">
+        {% for item in photos_here %}
+          {% if loop.index < 4 %}
+            {{ photo(item, "eager") }}
+          {% else %}
+            {{ photo(item, "lazy") }}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
+  {#
+  {% set photos_below = collections.photos_in_galleries | photos_below(page.url) %}
+  {% if photos_below | length %}
+    <h2>Latest photos in sub galleries</h2>
+    <ul class="gallery">
+      {% for item in photos_below %}
+        <figure>
+          <a href="{{ item.url }}">
+            <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
+            <figcaption>{{ item.data.title }}</figcaption>
+          </a>
+        </figure>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  #}
+{% endblock %}

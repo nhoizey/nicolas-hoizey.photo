@@ -4,15 +4,6 @@ layout: false
 
 {% extends "./_layouts/base.njk" %}
 
-{% block opengraphimage %}
-  {% set photoUrl1 = 'https://nicolas-hoizey.photo/photos/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro/the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg' | base64 %}
-  {% set photoUrl2 = 'https://nicolas-hoizey.photo/photos/colourful-netherlands/colourful-netherlands.jpg' | base64 %}
-  {% set photoUrl3 = 'https://nicolas-hoizey.photo/photos/leslie/leslie.jpg' | base64 %}
-  {% set photoUrl4 = 'https://nicolas-hoizey.photo/photos/morning-stroll/morning-stroll.jpg' | base64 %}
-  {% set photoUrl5 = 'https://nicolas-hoizey.photo/photos/women-s-800m/women-s-800m.jpg' | base64 %}
-  <meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_fill,q_auto,f_auto/w_1104,c_fit,co_rgb:f7f5fa,l_text:Roboto%20Condensed_50:{{ site.description }}/fl_layer_apply,g_north_west,y_96,x_48/l_fetch:{{ photoUrl1 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_48/l_fetch:{{ photoUrl2 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_273/l_fetch:{{ photoUrl3 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_498/l_fetch:{{ photoUrl4 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_723/l_fetch:{{ photoUrl5 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_948/resources/nho-photo-opengraph-background" />
-{% endblock %}
-
 {% block content %}
   <section class="welcome">
     <h2>Welcome to my photography portfolio!</h2>
