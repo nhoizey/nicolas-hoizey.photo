@@ -1,0 +1,37 @@
+{% from "macros/css.njk" import css %}
+{{ css('components/galleries', build.env) }}
+
+{% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
+{% if sub_galleries | length %}
+  <ul class="galleries">
+    {% for item in sub_galleries %}
+      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
+      {% if photos_below | length %}
+        <li>
+          <figure>
+            <div class="frame">
+              <div class="diaporama diaporama_{{ photos_below | length }}">
+                {% for photo in photos_below %}
+                  <img
+                    src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
+                    alt=""
+                    width="300"
+                    height="200"
+                    style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
+                    data-responsiver="diaporama"
+                    {% if loop.first %}
+                      importance="high"
+                    {% else %}
+                      loading="lazy"
+                    {% endif %}
+                    />
+                {% endfor %}
+              </div>
+            </div>
+            <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
+          </figure>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}

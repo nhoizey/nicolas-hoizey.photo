@@ -15,32 +15,7 @@ layout: false
   {{ css('components/galleries', build.env) }}
 
   <section class="topics">
-    {% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
-    <ul class="galleries">
-      {% for item in sub_galleries %}
-        <li>
-          <figure>
-            <div class="frame">
-              {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
-              <div class="diaporama diaporama_{{ photos_below | length }}">
-                {% for photo in photos_below %}
-                  <img
-                    src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
-                    alt=""
-                    width="3000"
-                    height="2000"
-                    style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ photo.data.origin.data.colors.muted }} / 50%)"
-                    loading="{%- if loop.first -%}eager{%- else -%}lazy{%- endif -%}"
-                    data-responsiver="diaporama"
-                    />
-                {% endfor %}
-              </div>
-            </div>
-            <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
-          </figure>
-        </li>
-      {% endfor %}
-    </ul>
+    {% include 'components/sub-galleries.njk' %}
   </section>
 
   {% from "macros/css.njk" import css %}
