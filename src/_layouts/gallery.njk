@@ -37,8 +37,14 @@
                       height="2000"
                       {% if dimensions.width < dimensions.height %}class="portrait"{% endif %}
                       style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
-                      loading="{%- if loop.first -%}eager{%- else -%}lazy{%- endif -%}"
                       data-responsiver="diaporama"
+                      {% if loop.first%}
+                        importance="high"
+                        loading="eager"
+                      {% else %}
+                        importance="low"
+                        loading="lazy"
+                      {% endif %}
                       />
                   {% endfor %}
                 </div>
