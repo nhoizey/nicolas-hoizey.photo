@@ -17,6 +17,8 @@ const SRC =
 const DIST = './src/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
 
+let photosData = require('../_cache/photos-data.json');
+
 // Create folders for thumbnails
 if (!fs.existsSync(path.join(THUMBNAILS, 'icons'))) {
   fs.mkdirSync(path.join(THUMBNAILS, 'icons'));
@@ -59,6 +61,10 @@ async function syncOnePhoto(photo) {
   if (undefined === photoExif) {
     console.error(`⚠ error reading EXIF data for ${photo}`);
   } else {
+    if (photosData[photo] === undefined) {
+      photosData[photo] = {};
+    }
+
     if (undefined === photoExif.ObjectName) {
       console.error(`⚠ "iptc.ObjectName" missing in ${photo}`);
       photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, '$1');
@@ -154,11 +160,16 @@ async function syncOnePhoto(photo) {
     }
 
     // Get image dimensions
-    const dimensions = imageSize(photoPath);
-    photoYFM.dimensions = {
-      width: dimensions.width,
-      height: dimensions.height,
-    };
+    if (photosData[photo].dimensions) {
+      photoYFM.dimensions = photosData[photo].dimensions;
+    } else {
+      const dimensions = imageSize(photoPath);
+      photoYFM.dimensions = {
+        width: dimensions.width,
+        height: dimensions.height,
+      };
+      photosData[photo].dimensions = photoYFM.dimensions;
+    }
 
     // Get coordinates
     photoYFM.geo = {};
@@ -175,16 +186,21 @@ async function syncOnePhoto(photo) {
       photoYFM.geo.city = utf8.decode(photoExif.City);
     }
 
-    // Get photo dominant color with Vibrant.js
-    const palette = await vibrant.from(photoPath).getPalette();
-    photoYFM.colors = {
-      vibrant: palette.Vibrant.getRgb().join(' '),
-      darkVibrant: palette.DarkVibrant.getRgb().join(' '),
-      lightVibrant: palette.LightVibrant.getRgb().join(' '),
-      muted: palette.Muted.getRgb().join(' '),
-      darkMuted: palette.DarkMuted.getRgb().join(' '),
-      lightMuted: palette.LightMuted.getRgb().join(' '),
-    };
+    if (photosData[photo].colors) {
+      photoYFM.colors = photosData[photo].colors;
+    } else {
+      // Get photo dominant color with Vibrant.js
+      const palette = await vibrant.from(photoPath).getPalette();
+      photoYFM.colors = {
+        vibrant: palette.Vibrant.getRgb().join(' '),
+        darkVibrant: palette.DarkVibrant.getRgb().join(' '),
+        lightVibrant: palette.LightVibrant.getRgb().join(' '),
+        muted: palette.Muted.getRgb().join(' '),
+        darkMuted: palette.DarkMuted.getRgb().join(' '),
+        lightMuted: palette.LightMuted.getRgb().join(' '),
+      };
+      photosData[photo].colors = photoYFM.colors;
+    }
 
     // Manage folder and file
     const slug = slugify(photoYFM.title);
@@ -207,52 +223,60 @@ ${photoDescription}
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
 
     // Generate thumbnails for 1x screens
-    const mask = Buffer.from(
-      '<svg><circle cx="15" cy="15" r="14" fill="black"/></svg>'
-    );
-    const border = Buffer.from(
-      '<svg><circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="2" /></svg>'
-    );
-    sharp(photoPath)
-      .resize(30, 30, {
-        fit: sharp.fit.cover,
-        position: sharp.strategy.cover,
-        position: sharp.strategy.entropy,
-        // background: { r: 0, g: 0, b: 0, alpha: 0 },
-      })
-      .composite([
-        { input: mask, left: 0, top: 0, blend: 'dest-in' },
-        { input: border, left: 0, top: 0, blend: 'over' },
-      ])
-      .toFile(path.join(THUMBNAILS, 'icons', `${slug}.png`), function (err) {
-        if (err) {
-          console.error(`Error while creating thumbnail for ${slug}`, err);
-        }
-      });
+    const thumbFile = path.join(THUMBNAILS, 'icons', `${slug}.png`);
+    if (!fs.existsSync(thumbFile)) {
+      const mask = Buffer.from(
+        '<svg><circle cx="15" cy="15" r="14" fill="black"/></svg>'
+      );
+      const border = Buffer.from(
+        '<svg><circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="2" /></svg>'
+      );
+      sharp(photoPath)
+        .resize(30, 30, {
+          fit: sharp.fit.cover,
+          position: sharp.strategy.cover,
+          position: sharp.strategy.entropy,
+          // background: { r: 0, g: 0, b: 0, alpha: 0 },
+        })
+        .composite([
+          { input: mask, left: 0, top: 0, blend: 'dest-in' },
+          { input: border, left: 0, top: 0, blend: 'over' },
+        ])
+        .toFile(thumbFile, function (err) {
+          if (err) {
+            console.error(`Error while creating thumbnail for ${slug}`, err);
+          }
+        });
+    }
 
     // Generate thumbnails for 2x screens
-    const mask2x = Buffer.from(
-      '<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>'
-    );
-    const border2 = Buffer.from(
-      '<svg><circle cx="30" cy="30" r="28" fill="none" stroke="white" stroke-width="3" /></svg>'
-    );
     const thumb2File = path.join(THUMBNAILS, 'icons@2x', `${slug}.png`);
-    sharp(photoPath)
-      .resize(60, 60, {
-        fit: sharp.fit.cover,
-        position: sharp.strategy.cover,
-        position: sharp.strategy.entropy,
-      })
-      .composite([
-        { input: mask2x, left: 0, top: 0, blend: 'dest-in' },
-        { input: border2, left: 0, top: 0, blend: 'over' },
-      ])
-      .toFile(thumb2File, function (err) {
-        if (err) {
-          console.error(`Error while creating @2x thumbnail for ${slug}`, err);
-        }
-      });
+    if (!fs.existsSync(thumb2File)) {
+      const mask2x = Buffer.from(
+        '<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>'
+      );
+      const border2 = Buffer.from(
+        '<svg><circle cx="30" cy="30" r="28" fill="none" stroke="white" stroke-width="3" /></svg>'
+      );
+      sharp(photoPath)
+        .resize(60, 60, {
+          fit: sharp.fit.cover,
+          position: sharp.strategy.cover,
+          position: sharp.strategy.entropy,
+        })
+        .composite([
+          { input: mask2x, left: 0, top: 0, blend: 'dest-in' },
+          { input: border2, left: 0, top: 0, blend: 'over' },
+        ])
+        .toFile(thumb2File, function (err) {
+          if (err) {
+            console.error(
+              `Error while creating @2x thumbnail for ${slug}`,
+              err
+            );
+          }
+        });
+    }
   }
 }
 
@@ -262,4 +286,7 @@ fs.readdirSync(SRC).forEach(async (photo) => {
 });
 Promise.all(allPromises).then(() => {
   // Todo after everything else
+  fs.writeFileSync('./_cache/photos-data.json', JSON.stringify(photosData), {
+    encoding: 'utf8',
+  });
 });
