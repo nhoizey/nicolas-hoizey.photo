@@ -1,8 +1,8 @@
 ---
 title: Contact
-nav:
-  order: 20
-  icon: contact
+# nav:
+#   order: 20
+#   icon: contact
 ---
 
 <ul class="breadcrumb">
