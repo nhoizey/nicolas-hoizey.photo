@@ -15,6 +15,8 @@ layout: false
   {{ css('components/galleries', build.env) }}
 
   <section class="topics">
+    <h3>Here are my favourite topics</h3>
+
     {% include 'components/sub-galleries.njk' %}
   </section>
 
@@ -22,7 +24,7 @@ layout: false
   {{ css('components/gallery', build.env) }}
 
   <section class="latest">
-    <p>Here are my most recent photos:</p>
+    <h3>Here are my most recent photos</h3>
 
     {% from "macros/photo.njk" import photo %}
 
