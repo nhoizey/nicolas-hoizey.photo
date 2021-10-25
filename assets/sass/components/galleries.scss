@@ -35,60 +35,62 @@
     }
   }
 
-  .diaporama_2,
-  .diaporama_3,
-  .diaporama_4 {
-    img {
-      opacity: 0;
-      object-fit: cover;
-      transform-origin: 50% 50%;
-      animation-timing-function: linear;
-      animation-iteration-count: infinite;
-    }
-  }
-
-  .diaporama_2 {
-    img {
-      animation-name: fade_2;
-      animation-duration: $diaporama-timing * 2;
+  @media (prefers-reduced-motion: no-preference) {
+    .diaporama_2,
+    .diaporama_3,
+    .diaporama_4 {
+      img {
+        opacity: 0;
+        object-fit: cover;
+        transform-origin: 50% 50%;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+      }
     }
 
-    img:nth-of-type(2) {
-      animation-delay: $diaporama-timing;
-    }
-  }
+    .diaporama_2 {
+      img {
+        animation-name: fade_2;
+        animation-duration: $diaporama-timing * 2;
+      }
 
-  .diaporama_3 {
-    img {
-      animation-name: fade_3;
-      animation-duration: $diaporama-timing * 3;
-    }
-
-    img:nth-of-type(2) {
-      animation-delay: $diaporama-timing;
+      img:nth-of-type(2) {
+        animation-delay: $diaporama-timing;
+      }
     }
 
-    img:nth-of-type(3) {
-      animation-delay: $diaporama-timing * 2;
-    }
-  }
+    .diaporama_3 {
+      img {
+        animation-name: fade_3;
+        animation-duration: $diaporama-timing * 3;
+      }
 
-  .diaporama_4 {
-    img {
-      animation-name: fade_4;
-      animation-duration: $diaporama-timing * 4;
-    }
+      img:nth-of-type(2) {
+        animation-delay: $diaporama-timing;
+      }
 
-    img:nth-of-type(2) {
-      animation-delay: $diaporama-timing;
-    }
-
-    img:nth-of-type(3) {
-      animation-delay: $diaporama-timing * 2;
+      img:nth-of-type(3) {
+        animation-delay: $diaporama-timing * 2;
+      }
     }
 
-    img:nth-of-type(4) {
-      animation-delay: $diaporama-timing * 3;
+    .diaporama_4 {
+      img {
+        animation-name: fade_4;
+        animation-duration: $diaporama-timing * 4;
+      }
+
+      img:nth-of-type(2) {
+        animation-delay: $diaporama-timing;
+      }
+
+      img:nth-of-type(3) {
+        animation-delay: $diaporama-timing * 2;
+      }
+
+      img:nth-of-type(4) {
+        animation-delay: $diaporama-timing * 3;
+      }
     }
   }
 }
