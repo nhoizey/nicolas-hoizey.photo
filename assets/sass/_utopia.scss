@@ -4,13 +4,13 @@
 
 /* Fluid type */
 
-/* @link https://utopia.fyi/type/calculator?c=320,16,1.25,1140,20,1.5,4,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+/* @link https://utopia.fyi/type/calculator?c=320,18,1.2,1140,20,1.333,4,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
 
 :root {
-  --step--1: clamp(0.8rem, 0.79rem + 0.06vw, 0.83rem);
-  --step-0: clamp(1rem, 0.9rem + 0.49vw, 1.25rem);
-  --step-1: clamp(1.25rem, 1.01rem + 1.22vw, 1.88rem);
-  --step-2: clamp(1.56rem, 1.07rem + 2.44vw, 2.81rem);
-  --step-3: clamp(1.95rem, 1.07rem + 4.42vw, 4.22rem);
-  --step-4: clamp(2.44rem, 0.92rem + 7.58vw, 6.33rem);
+  --step--1: clamp(0.94rem, 0.94rem + 0vw, 0.94rem);
+  --step-0: clamp(1.13rem, 1.08rem + 0.24vw, 1.25rem);
+  --step-1: clamp(1.35rem, 1.23rem + 0.62vw, 1.67rem);
+  --step-2: clamp(1.62rem, 1.39rem + 1.17vw, 2.22rem);
+  --step-3: clamp(1.94rem, 1.55rem + 1.98vw, 2.96rem);
+  --step-4: clamp(2.33rem, 1.7rem + 3.15vw, 3.95rem);
 }
