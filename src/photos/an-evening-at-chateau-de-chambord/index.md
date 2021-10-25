@@ -1,0 +1,56 @@
+---
+title: An evening at Château de Chambord
+date: 2020-07-11 21:07:00 +02:00
+gear:
+  make: FUJIFILM
+  model: X-T3
+  lens: XF10-24mmF4 R OIS
+tags:
+  - 10-24mm
+  - castle
+  - Centre-Val de Loire
+  - château
+  - Château de Chambord
+  - ciel
+  - cloud
+  - Domaine national de Chambord
+  - eau
+  - Europa
+  - Europe
+  - France
+  - Fujifilm
+  - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
+  - Loir-et-Cher
+  - nuage
+  - reflection
+  - reflet
+  - sky
+  - water
+  - X-T3
+settings:
+  focal_length: 15.1
+  focal_length_35mm: 23
+  iso: 800
+  aperture: 8
+  shutter_speed: 1/150
+dimensions:
+  width: 3500
+  height: 2333
+geo:
+  latitude: 47.617358333333335
+  longitude: 1.5143783333333334
+  country: France
+  city: Chambord
+colors:
+  vibrant: 194 133 84
+  darkVibrant: 138 92 52
+  lightVibrant: 156 174 212
+  muted: 146 114 120
+  darkMuted: 75 59 55
+  lightMuted: 167 176 210
+file: an-evening-at-chateau-de-chambord.jpg
+---
+
+The Château de Chambord in France is one of the most recognisable châteaux in the world because of its very distinctive French Renaissance architecture which blends traditional French medieval forms with classical Renaissance structures.
