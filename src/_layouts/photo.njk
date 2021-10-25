@@ -31,7 +31,7 @@
   {% from "macros/css.njk" import css %}
   {{ css('components/photo', build.env) }}
 
-  {% set breadcrumb = collections.galleries | breadcrumb(page.url) %}
+  {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
 
   {% include 'components/json-ld/breadcrumb.njk' %}
 

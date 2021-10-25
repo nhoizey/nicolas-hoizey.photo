@@ -3,22 +3,22 @@
 
 <nav role="navigation">
   <ul>
+    <li class="home {% if page.url == '/' %} current{% endif %}">
+      <a href="/" class="icon icon--home">Home</a>
+    </li>
     {% for item in collections.navigation %}
       {% set targetUrl = item.data.nav.away or item.url %}
       {% set targetLabel = item.data.nav.title or item.data.title %}
       <li class="{{ item.data.nav.icon}}{% if item.url != '/' and item.url in page.url %} current{% endif %}">
         <a href="{{ targetUrl }}" {% if item.data.nav.icon %} class="icon icon--{{ item.data.nav.icon}}"{% endif %}>{{ targetLabel }}</a>
-        {% if item.url != '/' and item.url in page.url %}
+        {% if item.url == '/galleries/' %}
           <ul>
             {% for item2 in collections.navigation2 %}
               {% if item.url in item2.url %}
                 {% set target2Url = item2.data.nav.away or item2.url %}
                 {% set target2Label = item2.data.nav.title or item2.data.title %}
-                <li
-                  {% if item2.url in page.url %}
-                    class="current"
-                  {% endif %}>
-                  <a href="{{ target2Url }}">{{ target2Label }}</a>
+                <li class="{{ item2.data.nav.icon}}{% if item2.url in page.url %} current{% endif %}">
+                  <a href="{{ target2Url }}" {% if item.data.nav.icon %} class="icon icon--{{ item2.data.nav.icon}}"{% endif %}>{{ target2Label }}</a>
                 </li>
               {% endif %}
             {% endfor %}

@@ -1,7 +1,13 @@
 {% from "macros/css.njk" import css %}
 {{ css('components/galleries', build.env) }}
 
-{% set sub_galleries = collections.galleries | sub_galleries(page.url) %}
+{% if page.url== '/' %}
+  {% set gallery_root = '/galleries/' %}
+{% else %}
+  {% set gallery_root = page.url %}
+{% endif %}
+
+{% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
 {% if sub_galleries | length %}
   <ul class="galleries">
     {% for item in sub_galleries %}

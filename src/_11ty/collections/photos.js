@@ -1,13 +1,8 @@
 const sortOrderThenAlpha = require('../_utils/sort-order-then-alpha');
-const photoCollections = require('../_utils/photo-collections');
 
 const allPhotosGlob = 'src/photos/*/index.md';
-const usedPhotosGlob = photoCollections.map(
-  (collection) => `src/${collection}/**/*.md`
-);
-const galleriesGlob = photoCollections.map(
-  (collection) => `src/${collection}/**/index.md`
-);
+const usedPhotosGlob = 'src/galleries/**/*.md';
+const galleriesGlob = 'src/galleries/**/index.md';
 
 module.exports = {
   all_photos: (collection) =>
@@ -42,7 +37,7 @@ module.exports = {
       })
       .sort((a, b) => b.data.date - a.data.date);
   },
-  galleries: (collection) =>
+  photo_galleries: (collection) =>
     collection
       .getFilteredByGlob(galleriesGlob)
       .sort((a, b) => sortOrderThenAlpha(a, b)),

@@ -1,11 +1,7 @@
 const slugify = require('./_utils/slugify');
 const fs = require('fs');
 
-const photoCollections = require('./_utils/photo-collections');
-
-const usedPhotosGlob = photoCollections.map(
-  (collection) => `src/${collection}/**/*.md`
-);
+const usedPhotosGlob = 'src/galleries/**/*.md';
 
 module.exports = function (collection) {
   let tagsCollection = new Map();
