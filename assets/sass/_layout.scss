@@ -41,8 +41,6 @@ header {
 }
 
 nav {
-  margin-top: space.$m;
-
   ul {
     display: flex;
     flex-direction: row;
@@ -93,7 +91,10 @@ nav {
 }
 
 main {
-  padding: space.$m;
+  padding-top: space.$m;
+  padding-bottom: space.$m;
+  padding-left: space.$m;
+  padding-right: space.$m;
   flex-grow: 1;
 
   @media (min-width: $breakpoint-m) {
