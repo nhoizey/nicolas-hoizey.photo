@@ -90,6 +90,20 @@ module.exports = {
     maxWidth: 1600,
     sizes: '(max-width: 67rem) 90vw, 60rem',
   },
+  landscape: {
+    maxWidth: 3500,
+    steps: 5,
+    sizes:
+      '(min-width: 60rem) calc(100vw - 2 * 1rem - 9rem - 2vw - 2 * 2.744rem), calc(100vw - 2rem)',
+    figure: 'never',
+  },
+  portrait: {
+    maxWidth: 3500,
+    steps: 5,
+    sizes:
+      '(min-width: 60rem) calc(100vw - 2 * 1rem - 9rem - 2vw - 2 * 2.744rem), calc(100vw - 2rem)',
+    figure: 'never',
+  },
   diaporama: {
     resizedImageUrl: (src, width) =>
       src.replace(site.url, `${site.url}/diaporama/${width}`),

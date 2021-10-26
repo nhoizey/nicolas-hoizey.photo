@@ -48,6 +48,11 @@
       width="{{ dimensions.width }}"
       height="{{ dimensions.height }}"
       style="background-color: rgb({{ origin.data.colors.muted }} / 50%)"
+      {%- if dimensions.width < dimensions.height -%}
+        data-responsiver="portrait"
+      {% else %}
+        data-responsiver="landscape"
+      {%- endif -%}"
       importance="high"
     />
     {# https://web.dev/priority-hints/ #}
