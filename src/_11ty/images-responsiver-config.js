@@ -92,14 +92,14 @@ module.exports = {
   },
   landscape: {
     maxWidth: 3500,
-    steps: 5,
+    steps: 7,
     sizes:
       '(min-width: 60rem) calc(100vw - 2 * 1rem - 9rem - 2vw - 2 * 2.744rem), calc(100vw - 2rem)',
     figure: 'never',
   },
   portrait: {
     maxWidth: 3500,
-    steps: 5,
+    steps: 7,
     sizes:
       '(min-width: 60rem) calc(100vw - 2 * 1rem - 9rem - 2vw - 2 * 2.744rem), calc(100vw - 2rem)',
     figure: 'never',
