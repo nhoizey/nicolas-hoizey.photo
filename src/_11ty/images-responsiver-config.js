@@ -106,10 +106,7 @@ module.exports = {
   },
   diaporama: {
     resizedImageUrl: (src, width) =>
-      src.replace(
-        site.url,
-        `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`
-      ),
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
     fallbackWidth: 290,
     minWidth: 290,
     maxWidth: 840,
