@@ -18,7 +18,7 @@
 {% endblock %}
 
 {% block opengraphimage %}
-{% set photoUrl = 'https://nicolas-hoizey.photo/photos/' + page.fileSlug + '/' + page.fileSlug + '.jpg' %}
+{% set photoUrl = site.url + '/photos/' + page.fileSlug + '/' + page.fileSlug + '.jpg' %}
 {% if dimensions.width < dimensions.height %}
   {% set position = 'x_128' %}
 {% else %}
