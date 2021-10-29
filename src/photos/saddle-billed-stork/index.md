@@ -60,9 +60,9 @@ geo:
   country: Kenya
   city: Entonet
 colors:
-  vibrant: 219.90825688073392 217.56880733944948 35.09174311926607
+  vibrant: 220 218 35
   darkVibrant: 94 93 15
-  lightVibrant: 236.75229357798165 235.53577981651372 140.64770642201836
+  lightVibrant: 237 236 141
   muted: 111 132 152
   darkMuted: 81 93 51
   lightMuted: 209 190 173

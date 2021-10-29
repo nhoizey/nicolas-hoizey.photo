@@ -7,8 +7,8 @@ gear:
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
 tags:
   - 100-400mm
-  - athétisme
   - athletics
+  - athlétisme
   - Essonne
   - Europa
   - Europe
@@ -47,7 +47,7 @@ colors:
   lightVibrant: 218 142 127
   muted: 148 98 81
   darkMuted: 29 21 24
-  lightMuted: 118.69090909090909 48.21818181818182 34.309090909090905
+  lightMuted: 119 48 34
 file: long-strides.jpg
 ---
 

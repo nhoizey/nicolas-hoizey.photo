@@ -39,7 +39,7 @@ colors:
   lightVibrant: 245 201 122
   muted: 116 100 108
   darkMuted: 46 52 72
-  lightMuted: 142.3006993006993 95.22377622377621 10.699300699300677
+  lightMuted: 142 95 11
 file: not-everyone-is-asleep-yet.jpg
 ---
 

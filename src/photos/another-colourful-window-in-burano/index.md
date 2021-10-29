@@ -43,10 +43,10 @@ geo:
 colors:
   vibrant: 180 164 68
   darkVibrant: 16 52 116
-  lightVibrant: 218.64193548387098 210.08709677419358 158.75806451612902
+  lightVibrant: 219 210 159
   muted: 168 157 86
   darkMuted: 112 104 59
-  lightMuted: 111.04838709677419 101.17741935483875 41.9516129032258
+  lightMuted: 111 101 42
 file: another-colourful-window-in-burano.jpg
 ---
 

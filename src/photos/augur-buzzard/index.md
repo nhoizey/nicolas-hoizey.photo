@@ -56,9 +56,9 @@ geo:
   country: Kenya
   city: Nakuru
 colors:
-  vibrant: 143.4375 239.0625 15.9375
+  vibrant: 143 239 16
   darkVibrant: 36 60 4
-  lightVibrant: 196.98749999999998 246.7125 130.6875
+  lightVibrant: 197 247 131
   muted: 140 132 103
   darkMuted: 72 78 42
   lightMuted: 169 183 206

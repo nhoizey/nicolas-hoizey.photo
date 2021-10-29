@@ -7,8 +7,8 @@ gear:
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
 tags:
   - 100-400mm
-  - athétisme
   - athletics
+  - athlétisme
   - Essonne
   - Europa
   - Europe

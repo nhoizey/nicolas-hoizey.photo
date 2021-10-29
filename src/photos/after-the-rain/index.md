@@ -39,7 +39,7 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 7.39130434782612 131.19565217391292 247.60869565217388
+  vibrant: 7 131 248
   darkVibrant: 4 71 134
   lightVibrant: 234 211 203
   muted: 156 92 132

@@ -50,7 +50,7 @@ colors:
   vibrant: 244 4 4
   darkVibrant: 127 5 4
   lightVibrant: 252 124 116
-  muted: 150.53225806451613 2.467741935483863 2.467741935483863
+  muted: 151 2 2
   darkMuted: 84 60 44
   lightMuted: 180 194 208
 file: bonjour.jpg

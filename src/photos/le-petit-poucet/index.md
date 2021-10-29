@@ -46,10 +46,10 @@ geo:
 colors:
   vibrant: 184 129 91
   darkVibrant: 100 52 12
-  lightVibrant: 214.93787234042554 183.90382978723403 162.46212765957446
+  lightVibrant: 215 184 162
   muted: 148 132 104
   darkMuted: 89 63 45
-  lightMuted: 106.7744680851064 70.96595744680849 46.22553191489359
+  lightMuted: 107 71 46
 file: le-petit-poucet.jpg
 ---
 

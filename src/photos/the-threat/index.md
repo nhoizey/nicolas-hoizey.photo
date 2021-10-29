@@ -45,7 +45,7 @@ colors:
   lightVibrant: 229 186 153
   muted: 88 113 135
   darkMuted: 46 60 72
-  lightMuted: 121.92187499999999 70.52343749999999 31.078125000000004
+  lightMuted: 122 71 31
 file: the-threat.jpg
 ---
 

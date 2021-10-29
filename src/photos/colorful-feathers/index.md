@@ -40,7 +40,7 @@ colors:
   lightVibrant: 232 153 53
   muted: 150 117 86
   darkMuted: 56 66 80
-  lightMuted: 137.35999999999999 83.64 15.640000000000004
+  lightMuted: 137 84 16
 file: colorful-feathers.jpg
 ---
 

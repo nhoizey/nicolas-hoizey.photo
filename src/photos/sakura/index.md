@@ -36,7 +36,7 @@ geo:
 colors:
   vibrant: 171 194 64
   darkVibrant: 116 123 7
-  lightVibrant: 210.79999999999998 222.90238095238095 154.49761904761905
+  lightVibrant: 211 223 154
   muted: 84 116 156
   darkMuted: 89 79 54
   lightMuted: 174 174 212

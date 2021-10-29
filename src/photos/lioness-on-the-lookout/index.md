@@ -64,7 +64,7 @@ geo:
   city: Narok
 colors:
   vibrant: 175 160 67
-  darkVibrant: 95.88842975206612 87.66942148760332 36.711570247933885
+  darkVibrant: 96 88 37
   lightVibrant: 221 190 114
   muted: 181 153 117
   darkMuted: 85 80 69
