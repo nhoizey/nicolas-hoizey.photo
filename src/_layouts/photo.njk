@@ -14,17 +14,18 @@
 {% endblock %}
 
 {% block styles %}
-  style="background-color: rgb({{ origin.data.colors.darkMuted }} / 50%)"
+  style="background-color: #{{ origin.data.colors.darkMuted | bgcolor }}"
 {% endblock %}
 
 {% block opengraphimage %}
-{% set photoUrl = 'https://nicolas-hoizey.photo/photos/' + page.fileSlug + '/' + page.fileSlug + '.jpg' %}
+{# {% set photoUrl = site.url + '/photos/' + page.fileSlug + '/' + page.fileSlug + '.jpg' %} #}
+{% set photoUrl = 'https://nicolas-hoizey.photo' + '/photos/' + page.fileSlug + '/' + page.fileSlug + '.jpg' %}
 {% if dimensions.width < dimensions.height %}
   {% set position = 'x_128' %}
 {% else %}
   {% set position = 'x_48' %}
 {% endif %}
-<meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.left.before }}:{{ title }}/{{ site.opengraph.title.left.after }}/{% if geo.city and geo.country %}{{ site.opengraph.subtitle.left.before }}:Shot in {{ geo.city }}%252C {{ geo.country }}/{{ site.opengraph.subtitle.left.after }}/{% endif %}l_fetch:{{ photoUrl | base64 }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,{{ position }}/{{ site.opengraph.background }}" />
+<meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_pad,g_south,b_rgb:{{ origin.data.colors.darkMuted | bgcolor }},q_auto,f_auto/{{ site.opengraph.title.left.before }}:{{ title }}/{{ site.opengraph.title.left.after }}/{% if geo.city and geo.country %}w_480,c_fit,co_rgb:{{ origin.data.colors.darkMuted | fgcolor }},l_text:Roboto%20Condensed_30:Shot in {{ geo.city }}%252C {{ geo.country }}/{{ site.opengraph.subtitle.left.after }}/{% endif %}l_fetch:{{ photoUrl | base64 }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,{{ position }}/resources/nho-photo-opengraph-banner" />
 {% endblock %}
 
 {% block content %}
@@ -47,7 +48,7 @@
       alt="{{ title }}"
       width="{{ dimensions.width }}"
       height="{{ dimensions.height }}"
-      style="background-color: rgb({{ origin.data.colors.muted }} / 50%)"
+      style="background-color: #{{ origin.data.colors.muted | bgcolor }}"
       {% if dimensions.width < dimensions.height %}
         data-responsiver="portrait"
       {% else %}

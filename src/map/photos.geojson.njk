@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
       "properties": {
         "slug": "{{ item.fileSlug }}",
         "title": "{{ item.data.title }}",
-        "image": "https://nicolas-hoizey.photo/images/200/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg",
+        "image": "{{ site.url }}/images/200/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg",
         "width": "{{ item.data.origin.data.dimensions.width }}",
         "height": "{{ item.data.origin.data.dimensions.height }}",
         "url": "{{ item.url }}"
