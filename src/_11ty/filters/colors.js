@@ -3,19 +3,21 @@ const componentToHex = (c) => {
   return hex.length == 1 ? '0' + hex : hex;
 };
 
-const rgbToHex = (r, g, b) => {
-  return componentToHex(r) + componentToHex(g) + componentToHex(b);
+const rgbToHex = (rgbArray) => {
+  return (
+    componentToHex(rgbArray[0]) +
+    componentToHex(rgbArray[1]) +
+    componentToHex(rgbArray[2])
+  );
 };
 
 module.exports = {
-  rgb2hex: (rgbString, photo = '') => {
-    if (rgbString === undefined) {
-      console.log(`No colors for ${photo}`);
-      return '999999';
+  rgb2hex: (rgbString) => {
+    if (!rgbString?.match(/^[0-9.]+ [0-9.]+ [0-9.]+$/)) {
+      return '292929';
     }
     let rgbArray = rgbString.split(' ').map((c) => parseInt(c, 10));
     let rgbHex = rgbToHex(rgbArray);
-    console.log(rgbHex);
     return rgbHex;
   },
 };
