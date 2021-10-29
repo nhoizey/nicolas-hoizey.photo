@@ -6,7 +6,7 @@ module.exports = {
   description: 'The photography portfolio of Nicolas Hoizey',
   url:
     process.env.NODE_ENV === 'production'
-      ? 'https://no-proxy--nicolas-hoizey-photo.netlify.app'
+      ? 'https://nicolas-hoizey.photo'
       : 'http://localhost:8080',
   author: {
     name: 'Nicolas Hoizey',
