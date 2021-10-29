@@ -36,10 +36,10 @@ geo:
   country: France
 colors:
   vibrant: 123 166 230
-  darkVibrant: 21.114649681528658 57.431847133757934 111.48535031847135
+  darkVibrant: 21 57 111
   lightVibrant: 156 204 252
   muted: 119 117 166
-  darkMuted: 24.36305732484076 66.26751592356683 128.63694267515925
+  darkMuted: 24 66 129
   lightMuted: 212 164 177
 file: lost-in-white-space.jpg
 ---

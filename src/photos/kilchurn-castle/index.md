@@ -41,9 +41,9 @@ geo:
   longitude: -5.024969445
   country: Royaume-Uni
 colors:
-  vibrant: 200.35714285714283 213.3673469387755 41.63265306122448
+  vibrant: 200 213 42
   darkVibrant: 77 82 16
-  lightVibrant: 226.5857142857143 233.3510204081633 144.0489795918367
+  lightVibrant: 227 233 144
   muted: 116 125 136
   darkMuted: 85 86 49
   lightMuted: 155 156 155

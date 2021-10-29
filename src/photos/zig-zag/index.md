@@ -43,9 +43,9 @@ geo:
   longitude: 2.3518114
   country: France
 colors:
-  vibrant: 226.66666666666666 179.44444444444443 28.333333333333346
+  vibrant: 227 179 28
   darkVibrant: 48 38 6
-  lightVibrant: 240.26666666666665 215.71111111111108 137.13333333333333
+  lightVibrant: 240 216 137
   muted: 157 113 83
   darkMuted: 67 54 50
   lightMuted: 212 209 207

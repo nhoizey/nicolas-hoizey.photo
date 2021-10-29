@@ -85,9 +85,9 @@ geo:
   country: États-Unis
   city: New York
 colors:
-  vibrant: 212.86956521739128 79.82608695652175 42.13043478260871
+  vibrant: 213 80 42
   darkVibrant: 96 36 19
-  lightVibrant: 233.09217391304347 163.9095652173913 144.30782608695654
+  lightVibrant: 233 164 144
   muted: 178 151 120
   darkMuted: 73 57 51
   lightMuted: 122 118 173

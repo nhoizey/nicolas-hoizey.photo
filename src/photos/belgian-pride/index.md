@@ -65,7 +65,7 @@ colors:
   lightVibrant: 247 206 152
   muted: 115 180 102
   darkMuted: 101 53 65
-  lightMuted: 141.97297297297297 85.45945945945947 11.027027027027028
+  lightMuted: 142 85 11
 file: belgian-pride.jpg
 ---
 

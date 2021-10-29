@@ -63,7 +63,7 @@ geo:
   city: Nakuru
 colors:
   vibrant: 121 160 205
-  darkVibrant: 36.03260869565218 64.13804347826085 96.56739130434782
+  darkVibrant: 36 64 97
   lightVibrant: 180 212 244
   muted: 78 114 157
   darkMuted: 59 63 78

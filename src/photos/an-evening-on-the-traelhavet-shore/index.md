@@ -45,7 +45,7 @@ geo:
   city: Åkersberga
 colors:
   vibrant: 51 126 190
-  darkVibrant: 28.060580912863063 69.32614107883818 104.53941908713693
+  darkVibrant: 28 69 105
   lightVibrant: 132 180 244
   muted: 103 131 166
   darkMuted: 55 68 94

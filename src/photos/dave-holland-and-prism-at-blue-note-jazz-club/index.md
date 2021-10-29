@@ -72,7 +72,7 @@ colors:
   lightVibrant: 248 125 202
   muted: 109 138 150
   darkMuted: 7 12 16
-  lightMuted: 145.18248175182484 7.817518248175156 93.81021897810216
+  lightMuted: 145 8 94
 file: dave-holland-and-prism-at-blue-note-jazz-club.jpg
 ---
 

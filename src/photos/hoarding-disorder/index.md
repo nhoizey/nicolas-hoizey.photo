@@ -47,9 +47,9 @@ geo:
   country: Hong Kong
   city: Hong-Kong
 colors:
-  vibrant: 214.9586776859504 82.1900826446281 40.041322314049594
+  vibrant: 215 82 40
   darkVibrant: 102 39 19
-  lightVibrant: 234.1785123966942 165.13884297520664 143.22148760330577
+  lightVibrant: 234 165 143
   muted: 114 135 150
   darkMuted: 67 57 40
   lightMuted: 190 185 167

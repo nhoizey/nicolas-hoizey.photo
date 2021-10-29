@@ -53,9 +53,9 @@ geo:
   country: France
   city: Puteaux
 colors:
-  vibrant: 127.5 127.5 127.5
-  darkVibrant: 66.3 66.3 66.3
-  lightVibrant: 188.7 188.7 188.7
+  vibrant: 128 128 128
+  darkVibrant: 66 66 66
+  lightVibrant: 189 189 189
   muted: 115 115 115
   darkMuted: 63 63 63
   lightMuted: 188 188 188

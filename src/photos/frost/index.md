@@ -41,12 +41,12 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 184.53947368421052 90.59210526315789 70.46052631578947
+  vibrant: 185 91 70
   darkVibrant: 55 27 21
-  lightVibrant: 218.36052631578946 169.5078947368421 159.03947368421055
+  lightVibrant: 218 170 159
   muted: 115 133 150
   darkMuted: 65 71 79
-  lightMuted: 110.7236842105263 54.35526315789473 42.276315789473685
+  lightMuted: 111 54 42
 file: frost.jpg
 ---
 

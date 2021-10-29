@@ -60,12 +60,12 @@ geo:
   country: Kenya
   city: Narok
 colors:
-  vibrant: 219.82758620689654 202.2413793103448 35.17241379310346
+  vibrant: 220 202 35
   darkVibrant: 50 46 8
-  lightVibrant: 236.7103448275862 227.5655172413793 140.68965517241378
+  lightVibrant: 237 228 141
   muted: 171 126 105
   darkMuted: 81 69 59
-  lightMuted: 131.8965517241379 121.34482758620689 21.103448275862082
+  lightMuted: 132 121 21
 file: juvenile-d-arnaud-s-barbets-in-sunset.jpg
 ---
 

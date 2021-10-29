@@ -45,9 +45,9 @@ geo:
   country: France
   city: Trouville-sur-Mer
 colors:
-  vibrant: 247.03125 183.28125 7.96875
+  vibrant: 247 183 8
   darkVibrant: 124 92 4
-  lightVibrant: 250.85625000000002 217.70625 126.54374999999999
+  lightVibrant: 251 218 127
   muted: 79 104 130
   darkMuted: 34 57 72
   lightMuted: 194 196 199
