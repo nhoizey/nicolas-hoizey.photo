@@ -15,14 +15,6 @@ nav {
     }
   }
 
-  @media (max-width: $breakpoint-m) {
-    // show icons only on larger viewports
-    .icon.icon {
-      background-image: none;
-      padding-left: 0;
-    }
-  }
-
   a:link,
   a:visited {
     display: inline-block;

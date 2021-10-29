@@ -3,7 +3,6 @@
 @use './fonts';
 @use './layout';
 @use './links';
-@use './icons-sprite';
 @use './components/blog';
 @use './components/meta';
 @use './tokens/space';
@@ -112,6 +111,19 @@ img {
   height: auto;
 }
 
+svg {
+  vertical-align: sub;
+  fill: none;
+  stroke-width: 1px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+
+  * {
+    vector-effect: non-scaling-stroke;
+    stroke: var(--ambiant-foreground, #{$color-theme-lighter-3});
+  }
+}
+
 /* ********************************************
 * PHOTO
 * ********************************************/
@@ -152,7 +164,7 @@ figure {
   margin-bottom: 0;
   padding-left: 0;
   font-size: var(--step--1);
-  color: $color-theme-lighter-4;
+  color: var(--ambiant-foreground, #{$color-theme-lighter-4});
 
   li {
     display: inline-block;
@@ -164,13 +176,13 @@ figure {
 
   a:link,
   a:visited {
-    color: $color-theme-lighter-3;
+    color: var(--ambiant-foreground, #{$color-theme-lighter-3});
     text-decoration-line: none;
   }
 
   a:hover,
   a:focus {
-    color: $color-theme-lighter-5;
+    color: white;
   }
 }
 

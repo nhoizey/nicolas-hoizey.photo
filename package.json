@@ -29,8 +29,7 @@
     "start": "cross-env NODE_ENV=development npm-run-all --sequential clean build:js --parallel watch:*",
     "debug:start": "DEBUG=Eleventy* npm start",
     "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy",
-    "debug:build": "DEBUG=Eleventy* npm run build",
-    "sprite": "node ./_scripts/generate-svg-sprite.js"
+    "debug:build": "DEBUG=Eleventy* npm run build"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",

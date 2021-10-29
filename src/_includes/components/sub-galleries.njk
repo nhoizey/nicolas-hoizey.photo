@@ -34,7 +34,7 @@
                 {% endfor %}
               </div>
             </div>
-            <figcaption><a href="{{ item.url }}" class="icon icon--folder">{{ item.data.title }}</a></figcaption>
+            <figcaption>{% icon 'folder' %} <a href="{{ item.url }}">{{ item.data.title }}</a></figcaption>
           </figure>
         </li>
       {% endif %}

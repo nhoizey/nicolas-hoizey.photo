@@ -2,7 +2,7 @@
   <ul class="meta">
     {% if item.date %}
       <li class="date meta__item meta__date">
-        <time class="dt-published icon icon--date" datetime="{{ item.data.date | date("YYYY-MM-DD") }}">
+        {% icon 'date' %} <time class="dt-published" datetime="{{ item.data.date | date("YYYY-MM-DD") }}">
           {{ item.data.date | date("Do MMMM YYYY") }}
         </time>
       </li>
