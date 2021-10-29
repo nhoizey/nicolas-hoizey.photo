@@ -192,12 +192,24 @@ async function syncOnePhoto(photo) {
       // Get photo dominant color with Vibrant.js
       const palette = await vibrant.from(photoPath).getPalette();
       photoYFM.colors = {
-        vibrant: palette.Vibrant.getRgb().join(' '),
-        darkVibrant: palette.DarkVibrant.getRgb().join(' '),
-        lightVibrant: palette.LightVibrant.getRgb().join(' '),
-        muted: palette.Muted.getRgb().join(' '),
-        darkMuted: palette.DarkMuted.getRgb().join(' '),
-        lightMuted: palette.LightMuted.getRgb().join(' '),
+        vibrant: palette.Vibrant.getRgb()
+          .map((value) => Math.round(value))
+          .join(' '),
+        darkVibrant: palette.DarkVibrant.getRgb()
+          .map((value) => Math.round(value))
+          .join(' '),
+        lightVibrant: palette.LightVibrant.getRgb()
+          .map((value) => Math.round(value))
+          .join(' '),
+        muted: palette.Muted.getRgb()
+          .map((value) => Math.round(value))
+          .join(' '),
+        darkMuted: palette.DarkMuted.getRgb()
+          .map((value) => Math.round(value))
+          .join(' '),
+        lightMuted: palette.LightMuted.getRgb()
+          .map((value) => Math.round(value))
+          .join(' '),
       };
       photosData[photo].colors = photoYFM.colors;
     }
