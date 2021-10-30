@@ -45,10 +45,6 @@ module.exports = {
       path.join(ICONS_FOLDERS[source], `${name}.svg`),
       'utf8'
     );
-    svg = svg.replace(
-      'viewBox="0 0 24 24"',
-      'viewBox="0 0 24 24" width="1.2em" height="1.2em"'
-    );
     svg = svg.replace('width="24" height="24"', '');
     svg = svg.replaceAll(/fill="[^"]+"/g, '');
     svg = svg.replaceAll(/stroke="[^"]+"/g, '');
@@ -56,6 +52,10 @@ module.exports = {
     svg = svg.replaceAll(/stroke-linecap="[^"]+"/g, '');
     svg = svg.replaceAll(/stroke-linejoin="[^"]+"/g, '');
     svg = svg.replaceAll(/class="[^"]+"/g, '');
+    svg = svg.replace(
+      'viewBox="0 0 24 24"',
+      `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon"`
+    );
     return svg;
   },
 };

@@ -111,7 +111,9 @@ img {
   height: auto;
 }
 
-svg {
+svg.icon {
+  width: 1.2em;
+  height: 1.2em;
   vertical-align: sub;
   fill: none;
   stroke-width: 1px;
