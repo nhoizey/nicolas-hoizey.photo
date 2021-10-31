@@ -29,7 +29,7 @@ layout: false
     {% from "macros/photo.njk" import photo %}
 
     <ul class="gallery">
-      {% for item in collections.photos_in_galleries | limit(6) %}
+      {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | limit(6) %}
         {{ photo(item, "lazy") }}
       {% endfor %}
     </ul>

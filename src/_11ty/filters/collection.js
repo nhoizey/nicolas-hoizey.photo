@@ -31,11 +31,22 @@ module.exports = {
       const r = new RegExp(`^${url}[^/]+\/([^/]+\/)+$`);
       return r.test(page.url);
     }),
-  photos_here_and_below: (collection, url) =>
-    collection.filter((page) => {
-      const r = new RegExp(`^${url}[^/]+\/`);
-      return r.test(page.url);
-    }),
+  photos_here_and_below: (collection, url) => {
+    const distinctPhotos = [];
+    return collection
+      .filter((page) => {
+        const r = new RegExp(`^${url}[^/]+\/`);
+        return r.test(page.url);
+      })
+      .filter((item) => {
+        if (distinctPhotos.includes(item.fileSlug)) {
+          return false;
+        } else {
+          distinctPhotos.push(item.fileSlug);
+          return true;
+        }
+      });
+  },
   featured: (collection, number) => {
     const allFeatured = collection.filter((page) => page.data.featured);
     const featured = shuffle(allFeatured).slice(0, number);
