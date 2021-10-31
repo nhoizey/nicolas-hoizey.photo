@@ -7,11 +7,21 @@ const galleriesGlob = 'src/galleries/**/index.md';
 module.exports = {
   all_photos: (collection) =>
     collection.getFilteredByGlob(allPhotosGlob).sort((a, b) => b.date - a.date),
-  photos_in_galleries: (collection) =>
-    collection
+  photos_in_galleries: (collection) => {
+    const distinctPhotos = [];
+    return collection
       .getFilteredByGlob(usedPhotosGlob)
       .filter((item) => !item.filePathStem.endsWith('/index'))
-      .sort((a, b) => b.data.date - a.data.date),
+      .filter((item) => {
+        if (distinctPhotos.includes(item.fileSlug)) {
+          return false;
+        } else {
+          distinctPhotos.push(item.fileSlug);
+          return true;
+        }
+      })
+      .sort((a, b) => b.data.date - a.data.date);
+  },
   photos_not_in_galleries: (collection) => {
     const used_photos = collection
       .getFilteredByGlob(usedPhotosGlob)
