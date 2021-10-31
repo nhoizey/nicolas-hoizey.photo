@@ -8,7 +8,7 @@
   Link: <https://res.cloudinary.com>; rel=preconnect; crossorigin
   Content-Security-Policy: upgrade-insecure-requests; base-uri 'self'; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com; img-src 'self' nicolas-hoizey.photo data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com blob: data:; object-src 'self'; connect-src 'self' data.nicolas-hoizey.com https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com; worker-src blob:; child-src blob:; frame-ancestors 'none'; report-uri https://nhocom.report-uri.com/r/d/csp/enforce
 
-/ui/svg-sprite.svg
+/ui/images/marker.svg
   Cache-Control: public, max-age=604800, immutable
 
 /ui/logo.svg
@@ -28,3 +28,4 @@
 
 /*.svg
   Content-Type: image/svg+xml; charset=utf-8
+  Vary: Accept-Encoding
