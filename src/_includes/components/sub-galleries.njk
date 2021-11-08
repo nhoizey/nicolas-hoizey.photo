@@ -23,7 +23,7 @@
                     alt=""
                     width="300"
                     height="200"
-                    style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
+                    style="--pan-x-start: {{ [-5, 5] | random }}%; --pan-y-start: {{ [-5, 5] | random }}%; background-color: rgb({{ photo.data.origin.data.colors.muted }} / 50%)"
                     data-responsiver="diaporama"
                     {% if loop.first %}
                       importance="high"
