@@ -117,7 +117,6 @@ module.exports = {
     steps: 3,
     sizes: '(min-width: 22rem) calc(1.2 * 20rem), calc(1.2 * (100vw - 2rem))',
     figure: 'never',
-    // classes: ['diaporama'],
   },
   thumbnail_landscape: {
     resizedImageUrl: (src, width) =>
