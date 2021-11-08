@@ -63,7 +63,7 @@
 
     <div class="meta">
       <ul class="exif">
-        <li class="date">{% icon 'date' %} <time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
+        <li class="date"><svg class="icon"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
         <li class="gear">{% icon 'camera' %} {{ gear.make }} {{ gear.model }}</li>
         {% if settings.focal_length or gear.lens %}
           <li class="lens">{% icon 'focal_length' %}

@@ -118,6 +118,10 @@
       {% include 'components/footer.njk' %}
     </div>
 
+    <div style="display: none" aria-hidden="true" class="reusable-icons">
+      {% icon 'date' %}
+    </div>
+
     {% from "macros/js.njk" import js %}
     {{ js('additional', build.env) }}
   </body>
