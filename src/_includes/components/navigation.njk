@@ -4,13 +4,13 @@
 <nav role="navigation">
   <ul>
     <li class="home {% if page.url == '/' %} current{% endif %}">
-      {% icon 'home' %} <a href="/">Home</a>
+      <a href="/">{% icon 'home' %} <span>Home</span></a>
     </li>
     {% for item in collections.navigation %}
       {% set targetUrl = item.data.nav.away or item.url %}
       {% set targetLabel = item.data.nav.title or item.data.title %}
       <li {% if item.url != '/' and item.url in page.url %} class="current"{% endif %}>
-        {% icon item.data.nav.icon %} <a href="{{ targetUrl }}">{{ targetLabel }}</a>
+        <a href="{{ targetUrl }}">{% icon item.data.nav.icon %} <span>{{ targetLabel }}</span></a>
         {% if item.url == '/galleries/' %}
           <ul>
             {% for item2 in collections.navigation2 %}
@@ -18,7 +18,7 @@
                 {% set target2Url = item2.data.nav.away or item2.url %}
                 {% set target2Label = item2.data.nav.title or item2.data.title %}
                 <li {% if item2.url in page.url %} class="current"{% endif %}>
-                  {% icon item2.data.nav.icon %} <a href="{{ target2Url }}">{{ target2Label }}</a>
+                  <a href="{{ target2Url }}">{% icon item2.data.nav.icon %} <span>{{ target2Label }}</span></a>
                 </li>
               {% endif %}
             {% endfor %}

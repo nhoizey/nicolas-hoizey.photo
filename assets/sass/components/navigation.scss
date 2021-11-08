@@ -7,7 +7,7 @@ nav {
     margin: 0;
     padding-left: 0;
 
-    font-size: var(--step-0);
+    font-size: var(--step--1-0);
 
     ul {
       color: $color-theme-lighter-3;
@@ -19,9 +19,13 @@ nav {
   a:visited {
     display: inline-block;
     color: currentColor;
-    text-decoration-line: underline;
-    text-decoration-color: $color-header;
-    text-decoration-thickness: 2px;
+    text-decoration: none;
+
+    span {
+      text-decoration-line: underline;
+      text-decoration-color: $color-header;
+      text-decoration-thickness: 2px;
+    }
   }
 
   a:hover,
@@ -29,14 +33,18 @@ nav {
   a:active {
     color: $color-theme-lighter-3;
     // text-decoration-line: underline;
-    text-decoration-color: $color-theme-lighter-3;
+    span {
+      text-decoration-color: $color-theme-lighter-3;
+    }
   }
 
   .current {
     > a:link,
     > a:visited {
       // text-decoration-line: underline;
-      text-decoration-color: $color-theme-lighter-2;
+      span {
+        text-decoration-color: $color-theme-lighter-2;
+      }
     }
   }
 }
