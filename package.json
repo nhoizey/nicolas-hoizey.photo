@@ -16,6 +16,9 @@
     "url": "https://github.com/nhoizey/nicolas-hoizey.photo/issues"
   },
   "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
   "scripts": {
     "clean": "rimraf _site",
     "sass": "sass --no-source-map assets/sass:_site/ui/css",

@@ -46,12 +46,12 @@ module.exports = {
       'utf8'
     );
     svg = svg.replace('width="24" height="24"', '');
-    svg = svg.replaceAll(/fill="[^"]+"/g, '');
-    svg = svg.replaceAll(/stroke="[^"]+"/g, '');
-    svg = svg.replaceAll(/stroke-width="[^"]+"/g, '');
-    svg = svg.replaceAll(/stroke-linecap="[^"]+"/g, '');
-    svg = svg.replaceAll(/stroke-linejoin="[^"]+"/g, '');
-    svg = svg.replaceAll(/class="[^"]+"/g, '');
+    svg = svg.replace(/fill="[^"]+"/g, '');
+    svg = svg.replace(/stroke="[^"]+"/g, '');
+    svg = svg.replace(/stroke-width="[^"]+"/g, '');
+    svg = svg.replace(/stroke-linecap="[^"]+"/g, '');
+    svg = svg.replace(/stroke-linejoin="[^"]+"/g, '');
+    svg = svg.replace(/class="[^"]+"/g, '');
     svg = svg.replace(
       'viewBox="0 0 24 24"',
       `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon"`
