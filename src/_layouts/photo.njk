@@ -63,7 +63,7 @@
 
     <div class="meta">
       <ul class="exif">
-        <li class="date"><svg class="icon"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
+        <li class="date"><svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
         <li class="gear">{% icon 'camera' %} {{ gear.make }} {{ gear.model }}</li>
         {% if settings.focal_length or gear.lens %}
           <li class="lens">{% icon 'focal_length' %}
@@ -88,7 +88,7 @@
             <div class="marker"></div>
           </div>
           {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
-          <p class="locate"><svg class="icon"><use xlink:href="#map-icon" /></svg> Locate it on the <a href="/map/#15/{{ geo.latitude }}/{{ geo.longitude }}">interactive global map</a></p>
+          <p class="locate"><svg class="icon" aria-hidden="true"><use xlink:href="#map-icon" /></svg> Locate it on the <a href="/map/#15/{{ geo.latitude }}/{{ geo.longitude }}">interactive global map</a></p>
         {% endif %}
       </div>
     </div>

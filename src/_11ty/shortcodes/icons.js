@@ -54,7 +54,7 @@ module.exports = {
     svg = svg.replace(/class="[^"]+"/g, '');
     svg = svg.replace(
       'viewBox="0 0 24 24"',
-      `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon"`
+      `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon" aria-hidden="true"`
     );
     return svg;
   },
