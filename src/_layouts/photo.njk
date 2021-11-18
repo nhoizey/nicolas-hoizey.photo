@@ -14,7 +14,7 @@
 {% endblock %}
 
 {% block styles %}
-  style="background-color: #{{ origin.data.colors.darkMuted | bgcolor }}"
+  style="--ambiant-background: #{{ origin.data.colors.darkMuted | bgcolor }}"
 {% endblock %}
 
 {% block opengraphimage %}
@@ -95,9 +95,7 @@
     {% if tags %}
     <p class="tags">
       {% icon 'tag' %}
-      {% set comma = joiner(", ") %}
       {%- for tag in tags -%}
-        {{ comma() }}
         <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category">{{ tag }}</a>
       {%- endfor -%}
     </p>

@@ -97,6 +97,8 @@ main {
   padding-right: space.$m;
   flex-grow: 1;
 
+  background-color: var(--ambiant-background, #{$color-surface});
+
   @media (min-width: $breakpoint-m) {
     padding-left: space.$xxl;
     padding-right: space.$xxl;
