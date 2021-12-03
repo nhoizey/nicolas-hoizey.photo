@@ -39,3 +39,9 @@
 /*.svg
   Content-Type: image/svg+xml; charset=utf-8
   Vary: Accept-Encoding
+
+/*/
+  Cache-Control: public, max-age=120
+
+/*.html
+  Cache-Control: public, max-age=120
