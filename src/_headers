@@ -42,3 +42,6 @@
 
 /*.html
   Cache-Control: public, max-age=120
+
+*/
+  Cache-Control: public, max-age=120
