@@ -32,7 +32,8 @@
     "start": "cross-env NODE_ENV=development npm-run-all --sequential clean build:js --parallel watch:*",
     "debug:start": "DEBUG=Eleventy* npm start",
     "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy",
-    "debug:build": "DEBUG=Eleventy* npm run build"
+    "debug:build": "DEBUG=Eleventy* npm run build",
+    "subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/ui/fonts/"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
@@ -56,6 +57,7 @@
     "fast-glob": "^3.2.7",
     "feather-icons": "^4.28.0",
     "fraction.js": "^4.1.2",
+    "glyphhanger": "^5.0.0",
     "gray-matter": "^4.0.3",
     "html-entities": "^2.3.2",
     "html-minifier": "^4.0.0",
