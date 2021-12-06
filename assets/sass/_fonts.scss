@@ -20,16 +20,14 @@
 //   font-display: fallback;
 // }
 
-@font-face {
-  font-family: 'Coniferous';
-  src: url(/ui/fonts/Coniferous-Regular.woff2) format('woff2'),
-    url(/ui/fonts/Coniferous-Regular.woff) format('woff');
-  unicode-range: U+100, U+102-152, U+154-160, U+162-24F, U+259, U+1E00-1EFF,
-    U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-  font-weight: 400;
-  font-style: normal;
-  font-display: fallback;
-}
+// @font-face {
+//   font-family: 'Coniferous';
+//   src: url(/ui/fonts/Coniferous-Regular.woff2) format('woff2'),
+//     url(/ui/fonts/Coniferous-Regular.woff) format('woff');
+//   font-weight: 400;
+//   font-style: normal;
+//   font-display: fallback;
+// }
 
 @font-face {
   font-family: 'Coniferous-subset';
