@@ -2,7 +2,6 @@
 # https://web.dev/priority-hints/#using-the-trial
 # https://developer.chrome.com/origintrials/#/registration/2508364254957010945
 
-
 /*
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 
@@ -39,10 +38,10 @@
 /ui/thumbnails/sprite.*
   Access-Control-Allow-Origin: *
 
-/images/logo-192px.jpg
+/ui/images/nicolas-hoizey-photography-192px.jpg
   Cache-Control: public, max-age=604800, immutable
 
-/images/logo-192px.png
+/ui/images/nicolas-hoizey-photography-192px.png
   Cache-Control: public, max-age=604800, immutable
 
 /*.webmanifest
