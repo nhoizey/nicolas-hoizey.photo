@@ -5,6 +5,9 @@ layout: false
 {% extends "./_layouts/base.njk" %}
 
 {% block content %}
+  {% set breadcrumb = [] %}
+  {% include 'components/json-ld/breadcrumb.njk' %}
+
   <section class="welcome">
     <h2>Welcome to my photography portfolio!</h2>
 

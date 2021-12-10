@@ -9,6 +9,7 @@
   {% from "macros/photo.njk" import photo %}
 
   {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
+  {% include 'components/json-ld/breadcrumb.njk' %}
   {% include 'components/breadcrumb.njk' %}
 
   <h1>{{ title }}</h1>
