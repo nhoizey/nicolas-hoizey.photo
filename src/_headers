@@ -3,9 +3,6 @@
 # https://developer.chrome.com/origintrials/#/registration/2508364254957010945
 
 /*
-  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-
-/*.html
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer-when-downgrade
