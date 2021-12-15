@@ -211,3 +211,43 @@
     }
   }
 }
+
+/* **************************************************
+* Adapt to split screens like Microsoft Surface Duo
+* **************************************************/
+
+// https://devblogs.microsoft.com/surface-duo/foldable-css-javascript-edge-96/
+
+@media (horizontal-viewport-segments: 2) {
+  main {
+    padding-left: space.$m;
+    padding-right: space.$m;
+  }
+
+  .photo {
+    grid-template-areas:
+      'header photo'
+      'meta photo'
+      'meta description'
+      'meta tags';
+    grid-template-columns: 1fr calc(var(--right-pane-width) - #{space.$m});
+    column-gap: var(--hinge-width);
+
+    --width: calc(var(--right-pane-width) - 2 * #{space.$m});
+
+    .image,
+    .description,
+    .tags {
+      margin-left: space.$m;
+    }
+
+    .header,
+    .meta {
+      margin-right: space.$m;
+    }
+
+    h1 {
+      font-size: var(--step-3);
+    }
+  }
+}

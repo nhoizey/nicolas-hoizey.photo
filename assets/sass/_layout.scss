@@ -104,3 +104,23 @@ main {
     padding-right: space.$xxl;
   }
 }
+
+/* **************************************************
+* Adapt to split screens like Microsoft Surface Duo
+* **************************************************/
+
+// https://devblogs.microsoft.com/surface-duo/foldable-css-javascript-edge-96/
+
+@media (horizontal-viewport-segments: 2) {
+  body {
+    --left-pane-width: calc(
+      env(viewport-segment-right 0 0) - env(viewport-segment-left 0 0)
+    );
+    --right-pane-width: calc(
+      env(viewport-segment-right 1 0) - env(viewport-segment-left 1 0)
+    );
+    --hinge-width: calc(
+      env(viewport-segment-left 1 0) - env(viewport-segment-right 0 0)
+    );
+  }
+}
