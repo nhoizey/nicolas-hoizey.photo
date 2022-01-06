@@ -41,8 +41,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.766888888333334
-  longitude: 4.833358333333333
+  latitude: 45.766870178333335
+  longitude: 4.833379791666666
   country: France
   city: Lyon
 colors:
