@@ -1,6 +1,6 @@
 ---
 title: First snow at sunset
-date: 2012-12-08 18:12:00 +02:00
+date: 2012-12-08 17:12:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
@@ -50,7 +50,9 @@ settings:
 dimensions:
   width: 3500
   height: 2333
-geo: {}
+geo:
+  latitude: 52.13452460166667
+  longitude: 5.534147773333333
 colors:
   vibrant: 234 109 66
   darkVibrant: 40 61 100
