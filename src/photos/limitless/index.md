@@ -1,6 +1,6 @@
 ---
 title: Limitless
-date: 2014-06-14 16:06:00 +02:00
+date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
@@ -41,8 +41,8 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 45.76687777833333
-  longitude: 4.833141666666666
+  latitude: 45.76670905
+  longitude: 4.8331731583333335
   country: France
   city: Lyon
 colors:

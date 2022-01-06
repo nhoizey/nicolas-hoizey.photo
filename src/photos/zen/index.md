@@ -1,6 +1,6 @@
 ---
 title: Zen
-date: 2014-06-14 17:06:00 +02:00
+date: 2014-06-14 16:06:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II

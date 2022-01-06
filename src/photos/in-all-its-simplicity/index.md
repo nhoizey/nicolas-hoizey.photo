@@ -1,6 +1,6 @@
 ---
 title: In all its simplicity
-date: 2014-06-14 16:06:00 +02:00
+date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
@@ -41,8 +41,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.76687777833333
-  longitude: 4.833141666666666
+  latitude: 45.76699719166667
+  longitude: 4.833226801666667
   country: France
   city: Lyon
 colors:
@@ -57,4 +57,4 @@ file: in-all-its-simplicity.jpg
 
 This portrait was taken during the Flou Sentimental workshop.
 
-Model : Sandrynn De ( http://www.facebook.com/Sandrynn.D )
+Model : Sandrynn De

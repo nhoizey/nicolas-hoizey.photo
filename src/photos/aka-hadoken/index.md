@@ -1,6 +1,6 @@
 ---
 title: 波動拳 (aka Hadoken)
-date: 2014-06-14 16:06:00 +02:00
+date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
