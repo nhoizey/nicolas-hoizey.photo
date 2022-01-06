@@ -130,7 +130,7 @@ module.exports = {
   },
   thumbnail_portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_2:3,c_fill/${src}`,
     fallbackWidth: 212,
     minWidth: 212, // 320 * 0.66
     maxWidth: 424, // No need for more than 2dppx
