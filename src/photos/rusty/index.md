@@ -1,6 +1,6 @@
 ---
 title: Rusty
-date: 2008-08-24 16:08:00 +02:00
+date: 2008-08-24 15:08:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
@@ -26,7 +26,10 @@ settings:
 dimensions:
   width: 3456
   height: 2304
-geo: {}
+geo:
+  latitude: 49.29791138
+  longitude: -0.09877974333333334
+  country: France
 colors:
   vibrant: 151 81 35
   darkVibrant: 76 44 12
