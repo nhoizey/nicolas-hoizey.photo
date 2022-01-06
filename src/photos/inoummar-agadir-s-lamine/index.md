@@ -1,0 +1,65 @@
+---
+title: Inoummar agadir's Lamine
+date: 2011-05-06 12:05:00 +01:00
+gear:
+  make: Canon
+  model: EOS 5D Mark II
+  lens: 50mm
+tags:
+  - 50mm
+  - 50mm f/1.4
+  - 5D Mark II
+  - 5D2
+  - 5DII
+  - Africa
+  - Afrique
+  - agadir
+  - agadir Inoummar
+  - Anti-Atlas
+  - Aṭlas Ameẓyan
+  - Aṭlas Mẓiyn
+  - Canon
+  - Canon EOS 5D Mark II
+  - f1/4
+  - gardien
+  - guard
+  - igidar
+  - igoudar
+  - igudar
+  - Inoummar
+  - Inoummar agadir
+  - Lamine
+  - Lesser Atlas
+  - Little Atlas
+  - Maroc
+  - Marocco
+  - Sigma
+  - Sigma 50mm
+  - Sigma 50mm F1.4 EX DG HSM
+  - Souss-Massa
+  - الأطلس الصغير
+  - ⴰⴳⴰⴷⵉⵔ
+  - ⴰⵟⵍⴰⵙ ⴰⵎⵥⵢⴰⵏ
+  - ⴰⵟⵍⴰⵙ ⵎⵥⵉⵢⵏ
+settings:
+  focal_length: 50
+  iso: 100
+  aperture: 1.4
+  shutter_speed: 1/2500
+dimensions:
+  width: 3500
+  height: 2333
+geo:
+  latitude: 30.16309714
+  longitude: -9.108833096666666
+colors:
+  vibrant: 180 92 36
+  darkVibrant: 94 47 32
+  lightVibrant: 232 191 152
+  muted: 175 118 90
+  darkMuted: 89 55 46
+  lightMuted: 221 206 202
+file: inoummar-agadir-s-lamine.jpg
+---
+
+The management of the "igoudar" reveals an outstanding organization. Indeed, the trusted man "lamine" who watches over the granary is paid in kind. Thus, the inhabitants pay him with part of their harvests. To maintain the granaries against the dreaded invasions of mice and bugs, Lamine of the granary is supposed to domesticate cats, he receives for this service an additional share called "the cat's ladle".
