@@ -163,7 +163,7 @@ import polylabel from 'polylabel';
           type: 'symbol',
           source: 'photos',
           filter: ['!', ['has', 'point_count']],
-          sprite: `SPRITE_URL_PREFIX${window.location.origin}/ui/thumbnails/sprite`,
+          sprite: `${window.location.origin}/ui/thumbnails/sprite`,
           layout: {
             'icon-image': '{slug}',
             'icon-allow-overlap': true,

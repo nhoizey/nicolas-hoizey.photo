@@ -114,10 +114,6 @@ export default [
       replace({
         MAPBOX_ACCESS_TOKEN: JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
         MAP_BBOX: JSON.stringify(process.env.MAP_BBOX),
-        SPRITE_URL_PREFIX:
-          process.env.NODE_ENV === 'production'
-            ? 'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/'
-            : '',
       }),
       nodeResolve({ browser: true, preferBuiltins: false }),
       commonjs(),
