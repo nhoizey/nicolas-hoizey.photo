@@ -2,13 +2,17 @@
 # https://web.dev/priority-hints/#using-the-trial
 # https://developer.chrome.com/origintrials/#/registration/2508364254957010945
 
+
+# Issue with "type" in Early Hints: https://community.cloudflare.com/t/support-for-status-code-103-early-hints/225879/7?u=user12977
+# Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;type=font/woff2;crossorigin
+
 /*
   X-XSS-Protection: 1;mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer-when-downgrade
   Accept-CH: Downlink,RTT,Device-Memory,Save-Data,DPR,Width
   Link: <https://res.cloudinary.com>;rel="preconnect";crossorigin
-  Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;type=font/woff2;crossorigin
+  Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin
   Content-Security-Policy: upgrade-insecure-requests;base-uri 'self';script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com https://static.cloudflareinsights.com;img-src 'self' nicolas-hoizey.photo data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com blob: data:;object-src 'self';connect-src 'self' data.nicolas-hoizey.com https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com https://cloudflareinsights.com;worker-src blob:;child-src blob:;frame-ancestors 'none';report-uri https://nhocom.report-uri.com/r/d/csp/enforce
   Feature-Policy: accelerometer 'none';camera 'none';geolocation 'none';gyroscope 'none';magnetometer 'none';microphone 'none';payment 'none';usb 'none'
   Permissions-Policy: accelerometer=(),camera=(),geolocation=(),gyroscope=(),magnetometer=(),microphone=(),payment=(),usb=()
