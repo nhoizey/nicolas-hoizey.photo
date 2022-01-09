@@ -7,26 +7,28 @@
 @use './components/meta';
 @use './tokens/space';
 
-/* ********************************************
-* CUSTOM PROPERTIES
-* ********************************************/
-
 :root {
+  /* ********************************************
+  * CUSTOM PROPERTIES
+  * ********************************************/
   --logo-wide: calc(13.5rem + 18vw);
   --logo-square: calc(9rem + 2vw);
-
   --pan-x-start: -5%;
   --pan-y-start: 5%;
-}
 
-/* ********************************************
-* BOX SIZING
-* ********************************************/
+  /* ********************************************
+  * BOX SIZING
+  * ********************************************/
 
-// http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
-html {
+  // http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
   box-sizing: border-box;
-  text-size-adjust: 100%;
+
+  // Prevent text zoom on iOS landscape
+  // https://kilianvalkhof.com/2022/css-html/your-css-reset-needs-text-size-adjust-probably/
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+
   // https://twitter.com/TimVereecke/status/1239454788116533248
   // https://twitter.com/lfredolo/status/1240301405325361152
   overflow-y: scroll;
