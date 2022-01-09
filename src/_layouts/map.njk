@@ -2,7 +2,7 @@
 
 {% block opengraphimage %}
   {% set mapImage = (site.url + '/ui/images/map-2021-10-21.png') | base64 %}
-  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.left.before }}:{{ title }}/{{ site.opengraph.title.left.after }}/{{ site.opengraph.subtitle.left.before }}:Browse the world!/{{ site.opengraph.subtitle.left.after }}/l_fetch:{{ mapImage }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,x_48/{{ site.opengraph.background }}" />
+  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.left.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.left.after }}/{{ site.opengraph.subtitle.left.before }}:Browse the world!/{{ site.opengraph.subtitle.left.after }}/l_fetch:{{ mapImage }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,x_48/{{ site.opengraph.background }}" />
 {% endblock %}
 
 {% block content %}
