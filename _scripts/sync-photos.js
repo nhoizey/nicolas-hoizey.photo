@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+require('dotenv').config();
+
 const exifr = require('exifr');
 const sharp = require('sharp');
 const vibrant = require('node-vibrant');
@@ -173,11 +175,17 @@ async function syncOnePhoto(photo) {
 
     // Get coordinates
     photoYFM.geo = {};
-    if (photoExif.latitude) {
-      photoYFM.geo.latitude = photoExif.latitude;
-    }
-    if (photoExif.longitude) {
-      photoYFM.geo.longitude = photoExif.longitude;
+    if (photoExif.latitude && photoExif.longitude) {
+      if (
+        Math.abs(photoExif.latitude - process.env.HOME_LATITUDE) < 0.01 &&
+        Math.abs(photoExif.longitude - process.env.HOME_LONGITUDE) < 0.01
+      ) {
+        photoYFM.geo.latitude = 48.692803;
+        photoYFM.geo.longitude = 2.422789;
+      } else {
+        photoYFM.geo.latitude = photoExif.latitude;
+        photoYFM.geo.longitude = photoExif.longitude;
+      }
     }
     if (photoExif.Country) {
       photoYFM.geo.country = utf8.decode(photoExif.Country);
