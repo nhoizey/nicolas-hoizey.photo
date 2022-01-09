@@ -6,14 +6,13 @@ pagination:
   filter:
     - all
   addAllPagesToCollections: true
-layout: page
+layout: tag
 eleventyComputed:
   title: Photos tagged “{{ tag.tag }}”
 permalink: /tags/{{ tag.slug }}/
 ---
 
-<h1>{{ title }}</h1>
-
+{% block content %}
 {% if tag.logo or tag.description %}
   {% if tag.logo %}
     <img src="/{{ tag.logo }}" class="logo" />
@@ -45,3 +44,4 @@ permalink: /tags/{{ tag.slug }}/
     {% endif %}
   {% endfor %}
 </ul>
+{% endblock %}

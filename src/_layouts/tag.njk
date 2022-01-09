@@ -1,0 +1,58 @@
+{% extends "./base.njk" %}
+
+{% block opengraphimage %}
+  {% set photos = collections.photos_in_galleries | taggued(tag.tag) | featured(5) %}
+  {# {% set photos_below = collections.photos_in_galleries | photos_here_and_below(page.url) | featured(5) %} #}
+  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.top.before }}:{{ title }}/{{ site.opengraph.title.top.after }}{%- for item in photos -%}/l_fetch:{%- set url = site.url + '/photos/' + item.fileSlug + '/' + item.fileSlug + '.jpg' -%}{{ url | base64 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_{{ 48 + (loop.index - 1) * 225 }}{%- endfor -%}/{{ site.opengraph.background }}" />
+{% endblock %}
+
+{% block content %}
+  {% from "macros/photo.njk" import photo %}
+
+  {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
+  {% include 'components/json-ld/breadcrumb.njk' %}
+  {% include 'components/breadcrumb.njk' %}
+
+  <h1>{{ title }}</h1>
+
+  {{ content | safe }}
+
+  {% include 'components/sub-galleries.njk' %}
+
+  {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
+  {% if photos_here | length %}
+
+    {% from "macros/css.njk" import css %}
+    {{ css('components/gallery', build.env) }}
+
+    <section>
+      <h2>Photos</h2>
+      <ul class="gallery">
+        {% for item in photos_here %}
+          {% if loop.index < 4 %}
+            {{ photo(item, "eager") }}
+          {% else %}
+            {{ photo(item, "lazy") }}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
+  {#
+  {% set photos_below = collections.photos_in_galleries | photos_below(page.url) %}
+  {% if photos_below | length %}
+    <h2>Latest photos in sub galleries</h2>
+    <ul class="gallery">
+      {% for item in photos_below %}
+        <figure>
+          <a href="{{ item.url }}">
+            <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
+            <figcaption>{{ item.data.title }}</figcaption>
+          </a>
+        </figure>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  #}
+{% endblock %}
