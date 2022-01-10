@@ -1,0 +1,17 @@
+---
+layout: false
+permalink: p/404.html
+---
+<meta charset="utf-8">
+<script>
+{% for item in collections.photos_for_map -%}
+if (window.location.href.match('/p/{{ item.fileSlug }}/')) windows.location.href='{{ item.url }}';
+{% endfor %}
+</script>
+
+<title>There is no page at this URL (404 error)</title>
+<section class="welcome">
+  <h2>There is no page at this URL (404 error)</h2>
+  <p>It looks like you tried to get to a page that doesn't exist (anymore?).</p>
+  <p>Go to <a href="/">the home page</a> to discover my photos.</p>
+</section>
