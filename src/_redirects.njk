@@ -7,5 +7,5 @@ permalink: _redirects
 # /ui/thumbnails/sprite@2x.png https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/https://nicolas-hoizey.photo/ui/thumbnails/sprite@2x.png 302
 
 {% for item in collections.photos_for_map -%}
-/p/{{ item.fileSlug }} {{ item.url }} 302
+/p/{{ item.fileSlug }}/ {{ item.url }} 302
 {% endfor %}
