@@ -5,7 +5,7 @@ permalink: p/404.html
 <meta charset="utf-8">
 <script>
 {% for item in collections.photos_for_map -%}
-if (window.location.href.match('/p/{{ item.fileSlug }}/')) windows.location.href='{{ item.url }}';
+if (window.location.href.match('/p/{{ item.fileSlug }}/')) { window.location.replace('{{ item.url }}'); }
 {% endfor %}
 </script>
 
