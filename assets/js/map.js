@@ -33,18 +33,19 @@ import polylabel from 'polylabel';
       hash: true,
       renderWorldCopies: true,
       transformRequest: (url, resourceType) => {
-        if (
-          resourceType === 'SpriteImage' &&
-          url.startsWith('https://nicolas-hoizey.com')
-        ) {
-          console.log('Add Cloudinary to Mapbox sprite');
-          return {
-            url: url.replace(
+        if (resourceType === 'SpriteImage') {
+          console.log(`Sprite image URL: ${url}`);
+          if (url.startsWith('https://nicolas-hoizey.com')) {
+            let newUrl = url.replace(
               'https://nicolas-hoizey.com',
               'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/https://nicolas-hoizey.com'
-            ),
-            // credentials: 'include', // Include cookies for cross-origin requests
-          };
+            );
+            console.log(`Replacing it with ${newUrl}`);
+            return {
+              url: newUrl,
+              // credentials: 'include', // Include cookies for cross-origin requests
+            };
+          }
         }
       },
     });
