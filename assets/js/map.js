@@ -37,6 +37,7 @@ import polylabel from 'polylabel';
           resourceType === 'SpriteImage' &&
           url.startsWith('https://nicolas-hoizey.com')
         ) {
+          console.log('Add Cloudinary to Mapbox sprite');
           return {
             url: url.replace(
               'https://nicolas-hoizey.com',
