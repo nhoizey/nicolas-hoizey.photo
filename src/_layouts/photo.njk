@@ -7,6 +7,7 @@
   {% set geo = origin.data.geo %}
   {% set content = content or origin.content %}
   {% set tags = origin.data.tags %}
+  {% set colors = origin.data.colors %}
 {% endif %}
 
 {% block description %}
@@ -14,7 +15,7 @@
 {% endblock %}
 
 {% block styles %}
-  style="--ambiant-background: #{{ origin.data.colors.darkMuted | bgcolor }}"
+  style="--ambiant-background: #{{ colors.darkMuted | bgcolor }}"
 {% endblock %}
 
 {% block opengraphimage %}
@@ -25,7 +26,7 @@
 {% else %}
   {% set position = 'x_48' %}
 {% endif %}
-<meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_pad,g_south,b_rgb:{{ origin.data.colors.darkMuted | bgcolor }},q_auto,f_auto/{{ site.opengraph.title.left.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.left.after }}/{% if geo.city and geo.country %}w_480,c_fit,co_rgb:{{ origin.data.colors.darkMuted | fgcolor }},l_text:Roboto%20Condensed_30:Shot in {{ geo.city }}%252C {{ geo.country }}/{{ site.opengraph.subtitle.left.after }}/{% endif %}l_fetch:{{ photoUrl | base64 }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,{{ position }}/resources/nho-photo-opengraph-banner" />
+<meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_pad,g_south,b_rgb:{{ colors.darkMuted | bgcolor }},q_auto,f_auto/{{ site.opengraph.title.left.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.left.after }}/{% if geo.city and geo.country %}w_480,c_fit,co_rgb:{{ colors.darkMuted | fgcolor }},l_text:Roboto%20Condensed_30:Shot in {{ geo.city }}%252C {{ geo.country }}/{{ site.opengraph.subtitle.left.after }}/{% endif %}l_fetch:{{ photoUrl | base64 }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,{{ position }}/resources/nho-photo-opengraph-banner" />
 {% endblock %}
 
 {% block content %}
@@ -36,7 +37,7 @@
 
   {% include 'components/json-ld/breadcrumb.njk' %}
 
-  <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}; --ambiant-foreground: #{{ origin.data.colors.darkMuted | fgcolor }}">
+  <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}; --ambiant-foreground: #{{ colors.darkMuted | fgcolor }}">
     <div class="header">
       {% include 'components/breadcrumb.njk' %}
       <h1>{{ title }}</h1>
@@ -48,7 +49,7 @@
       alt="{{ title }}"
       width="{{ dimensions.width }}"
       height="{{ dimensions.height }}"
-      style="background-color: #{{ origin.data.colors.muted | bgcolor }}"
+      style="background-color: #{{ colors.muted | bgcolor }}"
       {% if dimensions.width < dimensions.height %}
         data-responsiver="portrait"
       {% else %}
