@@ -32,6 +32,20 @@ import polylabel from 'polylabel';
       attributionControl: false,
       hash: true,
       renderWorldCopies: true,
+      transformRequest: (url, resourceType) => {
+        if (
+          resourceType === 'SpriteImage' &&
+          url.startsWith('https://nicolas-hoizey.com')
+        ) {
+          return {
+            url: url.replace(
+              'https://nicolas-hoizey.com',
+              'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/https://nicolas-hoizey.com'
+            ),
+            // credentials: 'include', // Include cookies for cross-origin requests
+          };
+        }
+      },
     });
     map.dragRotate.disable();
     map.touchZoomRotate.disableRotation();
