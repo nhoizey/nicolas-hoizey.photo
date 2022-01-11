@@ -8,6 +8,8 @@ gear:
 tags:
   - Asia
   - Asie
+  - bateau
+  - boat
   - China
   - Chine
   - détroit
@@ -47,7 +49,7 @@ colors:
 file: the-star-ferry-in-victoria-harbour-hong-kong.jpg
 ---
 
-The Star Ferry is a passenger ferry service operator and tourist attraction in Hong Kong.[1] Its principal routes carry passengers across Victoria Harbour, between Hong Kong Island, and Kowloon.
+The Star Ferry is a passenger ferry service operator and tourist attraction in Hong Kong. Its principal routes carry passengers across Victoria Harbour, between Hong Kong Island, and Kowloon.
 
 With a fleet of twelve ferries, the company operates two routes across the harbour, carrying over 70,000 passengers per day, or 26 million per year. Even though the harbour is crossed by railway and road tunnels, the Star Ferry continues to provide an inexpensive mode of harbour crossing.
 

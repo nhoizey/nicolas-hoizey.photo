@@ -58,7 +58,7 @@ colors:
 file: elephants-family-in-maasai-mara.jpg
 ---
 
-Elephants are highly sociable and have similar life cycles to humans. The maternity herd is very protective of young, but males are ‘ejected at 12-15 years old, after which they become nomadic males, often associating with other males.
+Elephants are highly sociable and have similar life cycles to humans. The maternity herd is very protective of young, but males are ejected at 12-15 years old, after which they become nomadic males, often associating with other males.
 
 Elephants have strong bonds and even at 9yrs old a calf may spend over half of the time less than 5metres away from it mother.
 
