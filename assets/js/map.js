@@ -33,15 +33,19 @@ import polylabel from 'polylabel';
       hash: true,
       renderWorldCopies: true,
       transformRequest: (url, resourceType) => {
-        if (resourceType === 'SpriteImage') {
-          if (url.startsWith('https://nicolas-hoizey.photo')) {
-            let newUrl = url.replace(
-              'https://nicolas-hoizey.photo',
-              'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/https://nicolas-hoizey.photo'
-            );
+        if (url.startsWith('https://nicolas-hoizey.photo')) {
+          if (resourceType === 'SpriteImage') {
             return {
-              url: newUrl,
+              url: `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/${url}`,
               // credentials: 'include', // Include cookies for cross-origin requests
+            };
+          }
+          if (resourceType === 'SpriteJSON') {
+            return {
+              url: url.replace(
+                /(\/ui\/thumbnails\/)[0-9]+\/(sprite(@2x)?\.json)$/,
+                '$1$2'
+              ),
             };
           }
         }
