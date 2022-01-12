@@ -14,7 +14,7 @@ execSync(
 const src = 'src/ui/thumbnails/sprite.png';
 const tmp = 'src/ui/thumbnails/sprite_temp.png';
 sharp(src)
-  .png({ colors: 50 })
+  .png({ colors: 100 })
   .toFile(tmp, function (err) {
     if (err) {
       console.error(`Error while creating sprite`, err);
@@ -25,7 +25,7 @@ sharp(src)
 const src2 = 'src/ui/thumbnails/sprite@2x.png';
 const tmp2 = 'src/ui/thumbnails/sprite@2x_temp.png';
 sharp(src2)
-  .png({ colors: 50 })
+  .png({ colors: 100 })
   .toFile(tmp2, function (err) {
     if (err) {
       console.error(`Error while creating @2x sprite`, err);
