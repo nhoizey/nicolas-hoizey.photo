@@ -16,6 +16,7 @@ eleventyExcludeFromCollections: true
       "properties": {
         "slug": "{{ item.fileSlug }}",
         "title": "{{ item.data.title }}",
+        "date": "{{ item.date | iso }}",
         "image": "{% if build.env == 'production' %}https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_200,c_limit/{% endif %}{{ site.url }}/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg",
         "width": "{{ item.data.origin.data.dimensions.width }}",
         "height": "{{ item.data.origin.data.dimensions.height }}",
