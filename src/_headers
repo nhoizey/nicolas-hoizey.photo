@@ -40,13 +40,13 @@
   Vary: Accept-Encoding
 
 /*.html
-  Cache-Control: public, max-age=14400
+  Cache-Control: public, max-age=14401
   Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin
 
 /*/
-  Cache-Control: public, max-age=14400
+  Cache-Control: public, max-age=14402
   Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin
 
 /
-  Cache-Control: public, max-age=14400
+  Cache-Control: public, max-age=14403
   Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin
