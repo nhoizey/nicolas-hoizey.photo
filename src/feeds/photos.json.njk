@@ -1,0 +1,17 @@
+---
+permalink: feeds/photos.json
+layout: null
+eleventyExcludeFromCollections: true
+---
+[
+{%- for item in collections.photos_for_map %}
+  {
+    "title": "{{ item.data.title }}",
+    "date": "{{ item.data.date | iso }}",
+    "src": "{{ site.url }}/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg",
+    "width": "{{ item.data.origin.data.dimensions.width }}",
+    "height": "{{ item.data.origin.data.dimensions.height }}",
+    "url": "{{ site.url }}{{ item.url }}"
+  }{%- if not loop.last -%},{%- endif -%}
+{% endfor %}
+]
