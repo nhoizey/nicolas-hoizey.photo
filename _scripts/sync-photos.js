@@ -245,16 +245,14 @@ ${photoDescription}
 
     // Get map for the photo
     const mapFile = path.join(distDir, 'map.png');
-    if (!fs.existsSync(mapFile) && count === 0) {
-      count++;
+    if (!fs.existsSync(mapFile)) {
       const photoUrl = `https://nicolas-hoizey.photo/photos/${slug}/`;
-      console.log(photoUrl);
       const browser = await puppeteer.launch({
         executablePath:
           '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
       });
       const page = await browser.newPage();
-      page.setViewport({ width: 1200, height: 800, deviceScaleFactor: 2 });
+      page.setViewport({ width: 1200, height: 800, deviceScaleFactor: 1.5 });
       await page.goto(photoUrl);
 
       // Remove marker and its shadow
@@ -329,8 +327,6 @@ ${photoDescription}
     }
   }
 }
-
-let count = 0;
 
 const allPromises = [];
 fs.readdirSync(SRC).forEach(async (photo) => {
