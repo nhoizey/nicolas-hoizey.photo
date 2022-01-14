@@ -53,6 +53,8 @@ let exifrOptions = {
 };
 
 async function syncOnePhoto(photo) {
+  if (photo === '.DS_Store') return;
+
   console.log(`
 SYNC ${photo}`);
   const photoPath = path.join(SRC, photo);
@@ -263,15 +265,21 @@ ${photoDescription}
 
         // Remove marker and its shadow
         const markerShadow = await page.$('#map .marker-shadow');
-        await markerShadow.evaluate((node) =>
-          node.parentElement.removeChild(node)
-        );
+        if (markerShadow) {
+          await markerShadow.evaluate((node) =>
+            node.parentElement.removeChild(node)
+          );
+        }
         const marker = await page.$('#map .marker');
-        await marker.evaluate((node) => node.parentElement.removeChild(node));
+        if (marker) {
+          await marker.evaluate((node) => node.parentElement.removeChild(node));
+        }
 
         // Take a screenshot of the map
         const map = await page.$('#map img');
-        await map.screenshot({ path: mapFile });
+        if (map) {
+          await map.screenshot({ path: mapFile });
+        }
 
         browser.close();
       }
