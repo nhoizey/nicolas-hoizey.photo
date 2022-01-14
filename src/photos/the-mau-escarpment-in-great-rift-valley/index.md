@@ -1,5 +1,6 @@
 ---
 title: The Mau Escarpment in Great Rift Valley
+file: the-mau-escarpment-in-great-rift-valley.jpg
 date: 2019-02-27 11:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -30,6 +31,7 @@ dimensions:
 geo:
   latitude: -0.69936
   longitude: 35.90155
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -39,7 +41,6 @@ colors:
   muted: 134 114 96
   darkMuted: 79 64 48
   lightMuted: 164 185 214
-file: the-mau-escarpment-in-great-rift-valley.jpg
 ---
 
 Great Rift Valley is part of an intra-continental ridge system that runs through Kenya from north to south. It is part of the Gregory Rift, the eastern branch of the East African Rift, which starts in Tanzania to the south and continues northward into Ethiopia.

@@ -1,5 +1,6 @@
 ---
 title: Don't be afraid, I'm just yawning
+file: don-t-be-afraid-i-m-just-yawning.jpg
 date: 2019-02-28 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -51,6 +52,7 @@ dimensions:
 geo:
   latitude: -2.688755
   longitude: 37.32309333333333
+  map: true
   country: Kenya
   city: Kajiado
 colors:
@@ -60,7 +62,6 @@ colors:
   muted: 155 139 96
   darkMuted: 65 68 71
   lightMuted: 191 168 141
-file: don-t-be-afraid-i-m-just-yawning.jpg
 ---
 
 Some people say lions sleep 22 out of every 24 hours. It's true we often see them lying in the grass, sometimes yawning. But it doesn't mean they sleep when we're not there.  "Lions lying sleeping in the shade on a hot day are […] conserving energy during the least energetically efficient time of the day. […] If the energy costs involved in an activity aren’t outweighed by its potential benefits, they simply won’t do it."  Clever. 

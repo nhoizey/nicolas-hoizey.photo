@@ -1,5 +1,6 @@
 ---
 title: Saint Pancras
+file: saint-pancras.jpg
 date: 2017-10-19 09:10:00 +02:00
 gear:
   make: FUJIFILM
@@ -47,6 +48,7 @@ dimensions:
 geo:
   latitude: 51.529916666666665
   longitude: -0.124130555
+  map: true
   country: Royaume-Uni
   city: Londres
 colors:
@@ -56,7 +58,6 @@ colors:
   muted: 113 139 168
   darkMuted: 58 68 82
   lightMuted: 164 179 203
-file: saint-pancras.jpg
 ---
 
 St. Pancras station is the terminus of the Eurostar in London.

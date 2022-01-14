@@ -1,5 +1,6 @@
 ---
 title: If symptoms persist, seek medical advice
+file: if-symptoms-persist-seek-medical-advice.jpg
 date: 2019-02-27 13:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -26,6 +27,7 @@ dimensions:
 geo:
   latitude: -0.424165
   longitude: 35.97036666666666
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -35,7 +37,6 @@ colors:
   muted: 115 135 156
   darkMuted: 45 66 77
   lightMuted: 167 182 195
-file: if-symptoms-persist-seek-medical-advice.jpg
 ---
 
 Most stores in small Kenyan towns are like big advertisement billboards, covered with one single intense color and brand or product names.

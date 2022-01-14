@@ -1,5 +1,6 @@
 ---
 title: A little nap
+file: a-little-nap.jpg
 date: 2019-02-26 11:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -47,6 +48,7 @@ dimensions:
 geo:
   latitude: -1.6018333333333334
   longitude: 35.38941666666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -56,7 +58,6 @@ colors:
   muted: 159 122 94
   darkMuted: 71 62 53
   lightMuted: 122 164 197
-file: a-little-nap.jpg
 ---
 
 

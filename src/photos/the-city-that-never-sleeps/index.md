@@ -1,5 +1,6 @@
 ---
 title: The City That Never Sleeps
+file: the-city-that-never-sleeps.jpg
 date: 2015-05-23 00:05:00 +02:00
 gear:
   make: Canon
@@ -59,6 +60,7 @@ dimensions:
 geo:
   latitude: 40.744661666666666
   longitude: -73.99069166666666
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -68,7 +70,6 @@ colors:
   muted: 154 128 96
   darkMuted: 91 85 52
   lightMuted: 187 183 218
-file: the-city-that-never-sleeps.jpg
 ---
 
 The City That Never Sleeps is a well-known nickname for New York City, famously employed in the "Theme from New York, New York", covered by Frank Sinatra.

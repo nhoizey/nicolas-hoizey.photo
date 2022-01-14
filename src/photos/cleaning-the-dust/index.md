@@ -1,5 +1,6 @@
 ---
 title: Cleaning the dust
+file: cleaning-the-dust.jpg
 date: 2019-02-27 12:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -32,6 +33,7 @@ dimensions:
 geo:
   latitude: -0.6318183333333334
   longitude: 35.99901833333333
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -41,7 +43,6 @@ colors:
   muted: 159 122 99
   darkMuted: 54 63 79
   lightMuted: 203 182 170
-file: cleaning-the-dust.jpg
 ---
 
 

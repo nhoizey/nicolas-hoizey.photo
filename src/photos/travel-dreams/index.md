@@ -1,5 +1,6 @@
 ---
 title: Travel dreams…
+file: travel-dreams.jpg
 date: 2019-02-26 11:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: -1.6018333333333334
   longitude: 35.38941666666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 159 112 82
   darkMuted: 102 71 53
   lightMuted: 179 200 219
-file: travel-dreams.jpg
 ---
 
 Possibly Africa’s most famous ethnic group, the Maasai people are semi-nomadic people located primarily in Kenya and Northern Tanzania.

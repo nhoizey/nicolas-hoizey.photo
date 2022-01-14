@@ -1,5 +1,6 @@
 ---
 title: Tradition and modernity
+file: tradition-and-modernity.jpg
 date: 2015-08-09 19:08:00 +01:00
 gear:
   make: SONY
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 22.293063333333333
   longitude: 114.17033833333333
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 94 106 157
   darkMuted: 94 49 63
   lightMuted: 203 177 178
-file: tradition-and-modernity.jpg
 ---
 
 Many boats sail on Victoria Bay in Hing-Kong, but none of them are as spectacular as the <a href="https://aqualuna.com.hk/">Aqua Luna</a>, her red sails and small lights make her the most famous Chinese sailing boat in Hong Kong.

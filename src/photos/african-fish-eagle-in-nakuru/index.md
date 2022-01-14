@@ -1,5 +1,6 @@
 ---
 title: African Fish Eagle in Nakuru
+file: african-fish-eagle-in-nakuru.jpg
 date: 2019-02-27 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -59,6 +60,7 @@ dimensions:
 geo:
   latitude: -0.3692516666666667
   longitude: 36.12001
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -68,7 +70,6 @@ colors:
   muted: 147 143 123
   darkMuted: 78 86 44
   lightMuted: 196 190 173
-file: african-fish-eagle-in-nakuru.jpg
 ---
 
 The African fish eagle is a large species of eagle found throughout sub-Saharan Africa wherever large bodies of open water with an abundant food supply occur, like lake Nakuru.

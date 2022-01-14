@@ -1,5 +1,6 @@
 ---
 title: Not everyone is asleep yet
+file: not-everyone-is-asleep-yet.jpg
 date: 2017-05-12 20:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -31,6 +32,7 @@ dimensions:
 geo:
   latitude: 41.897701616666666
   longitude: 12.477813175
+  map: true
   country: Italie
   city: Rome
 colors:
@@ -40,7 +42,6 @@ colors:
   muted: 116 100 108
   darkMuted: 46 52 72
   lightMuted: 142 95 11
-file: not-everyone-is-asleep-yet.jpg
 ---
 
 

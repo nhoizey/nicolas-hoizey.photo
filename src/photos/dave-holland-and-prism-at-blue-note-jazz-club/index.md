@@ -1,5 +1,6 @@
 ---
 title: Dave Holland & Prism at Blue Note Jazz Club
+file: dave-holland-and-prism-at-blue-note-jazz-club.jpg
 date: 2015-05-21 23:05:00 +02:00
 gear:
   make: Canon
@@ -64,6 +65,7 @@ dimensions:
 geo:
   latitude: 40.73104
   longitude: -74.00059833333333
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -73,7 +75,6 @@ colors:
   muted: 109 138 150
   darkMuted: 7 12 16
   lightMuted: 145 8 94
-file: dave-holland-and-prism-at-blue-note-jazz-club.jpg
 ---
 
 Blue Note Jazz Club is a jazz club and restaurant located at 131 West 3rd Street in Greenwich Village, New York City. It is still considered one of the world’s most famous jazz venues and one of the best known and most expensive in New York.

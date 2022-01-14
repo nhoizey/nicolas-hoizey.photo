@@ -1,5 +1,6 @@
 ---
 title: Here comes the secretary
+file: here-comes-the-secretary.jpg
 date: 2019-03-01 07:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -51,6 +52,7 @@ dimensions:
 geo:
   latitude: -2.711758905
   longitude: 37.34467424
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -60,7 +62,6 @@ colors:
   muted: 163 130 84
   darkMuted: 66 64 38
   lightMuted: 168 184 205
-file: here-comes-the-secretary.jpg
 ---
 
 The secretary bird is a very large, mostly terrestrial bird of prey, endemic to Africa.

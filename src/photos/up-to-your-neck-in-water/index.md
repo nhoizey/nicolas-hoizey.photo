@@ -1,5 +1,6 @@
 ---
 title: Up to your neck in water
+file: up-to-your-neck-in-water.jpg
 date: 2018-01-28 13:01:00 +02:00
 gear:
   make: FUJIFILM
@@ -50,6 +51,7 @@ dimensions:
 geo:
   latitude: 48.68877777833333
   longitude: 2.3891722216666667
+  map: true
   country: France
   city: Draveil
 colors:
@@ -59,7 +61,6 @@ colors:
   muted: 115 132 151
   darkMuted: 51 57 79
   lightMuted: 140 153 190
-file: up-to-your-neck-in-water.jpg
 ---
 
 This photo was taken under the bridge connecting Draveil to Juvisy, during the great flood of the Seine at the end of January 2018.

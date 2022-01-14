@@ -1,5 +1,6 @@
 ---
 title: Children propeling a tire
+file: children-propeling-a-tire.jpg
 date: 2019-02-27 11:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -31,6 +32,7 @@ dimensions:
 geo:
   latitude: -0.8133333333333332
   longitude: 35.896523333333334
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -40,7 +42,6 @@ colors:
   muted: 129 118 111
   darkMuted: 52 65 86
   lightMuted: 168 193 213
-file: children-propeling-a-tire.jpg
 ---
 
 Children love to play. In every country, culture, home and continent, children play.

@@ -1,5 +1,6 @@
 ---
 title: Menace
+file: menace.jpg
 date: 2017-05-19 20:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 48.851044445
   longitude: 2.3561111116666664
+  map: true
   country: France
   city: Paris
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 100 141 175
   darkMuted: 56 68 76
   lightMuted: 173 185 200
-file: menace.jpg
 ---
 
 

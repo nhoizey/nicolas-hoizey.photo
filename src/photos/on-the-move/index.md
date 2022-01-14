@@ -1,5 +1,6 @@
 ---
 title: On the move…
+file: on-the-move.jpg
 date: 2019-03-01 09:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -47,6 +48,7 @@ dimensions:
 geo:
   latitude: -2.71078194
   longitude: 37.33135027833333
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -56,7 +58,6 @@ colors:
   muted: 97 132 165
   darkMuted: 73 61 49
   lightMuted: 209 190 171
-file: on-the-move.jpg
 ---
 
 

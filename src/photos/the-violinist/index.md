@@ -1,5 +1,6 @@
 ---
 title: The Violinist
+file: the-violinist.jpg
 date: 2017-05-14 11:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 41.897895
   longitude: 12.477413333333333
+  map: true
   country: Italie
   city: Roma
 colors:
@@ -45,7 +47,6 @@ colors:
   muted: 143 132 122
   darkMuted: 91 71 65
   lightMuted: 204 185 173
-file: the-violinist.jpg
 ---
 
 

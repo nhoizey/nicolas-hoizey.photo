@@ -1,5 +1,6 @@
 ---
 title: Lahérez
+file: laherez.jpg
 date: 2013-08-23 09:08:00 +02:00
 gear:
   make: Canon
@@ -53,6 +54,7 @@ dimensions:
 geo:
   latitude: 48.832260938333334
   longitude: -3.4753271249999997
+  map: true
   country: France
   city: Perros-Guirec
 colors:
@@ -62,7 +64,6 @@ colors:
   muted: 88 136 168
   darkMuted: 96 74 56
   lightMuted: 194 182 172
-file: laherez.jpg
 ---
 
 Lahérez is a magnificent place, in the heart of the equally magnificent Landes de Ploumanac'h, near Perros-Guirec, in the Côtes d'Armor, in Brittany.

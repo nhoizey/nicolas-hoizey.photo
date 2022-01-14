@@ -1,5 +1,6 @@
 ---
 title: Looking up
+file: looking-up.jpg
 date: 2016-09-30 15:09:00 +02:00
 gear:
   make: Canon
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 38.79768333333333
   longitude: -9.390661111666667
+  map: true
   country: Portugal
   city: Sintra
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 181 152 125
   darkMuted: 84 44 52
   lightMuted: 188 187 187
-file: looking-up.jpg
 ---
 
 The Palace of Sintra, near Lisbon in Portugal, is a gorgeous place where kings of Portugal spent their summer, far (but not to much) from the city.

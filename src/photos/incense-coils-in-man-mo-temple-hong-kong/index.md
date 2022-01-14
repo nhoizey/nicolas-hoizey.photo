@@ -1,5 +1,6 @@
 ---
 title: Incense coils in Man Mo Temple, Hong Kong
+file: incense-coils-in-man-mo-temple-hong-kong.jpg
 date: 2015-08-08 14:08:00 +02:00
 gear:
   make: Canon
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 22.284166666666668
   longitude: 114.150275
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -54,7 +56,6 @@ colors:
   muted: 88 109 152
   darkMuted: 50 59 87
   lightMuted: 172 189 214
-file: incense-coils-in-man-mo-temple-hong-kong.jpg
 ---
 
 I shot these incense coils (or spirals) in the <a href="http://www.discoverhongkong.com/us/see-do/culture-heritage/chinese-temples/man-mo-temple.jsp">Man Mo Temple</a> in Sheung Wan, on Hong Kong island.

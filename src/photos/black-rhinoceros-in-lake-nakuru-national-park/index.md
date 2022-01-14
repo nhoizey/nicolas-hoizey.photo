@@ -1,5 +1,6 @@
 ---
 title: Black Rhinoceros in Lake Nakuru National Park
+file: black-rhinoceros-in-lake-nakuru-national-park.jpg
 date: 2019-02-27 17:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -58,6 +59,7 @@ dimensions:
 geo:
   latitude: -0.317585
   longitude: 36.07801833333333
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -67,7 +69,6 @@ colors:
   muted: 144 127 120
   darkMuted: 80 65 57
   lightMuted: 215 195 179
-file: black-rhinoceros-in-lake-nakuru-national-park.jpg
 ---
 
 Lake Nakuru is well known in Kenya for its rhino population, and it has one hundred white and fifty black rhinos to be seen.

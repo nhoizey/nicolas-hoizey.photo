@@ -1,5 +1,6 @@
 ---
 title: Harvesting on bluebells
+file: harvesting-on-bluebells.jpg
 date: 2008-06-14 14:06:00 +02:00
 gear:
   make: Canon
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 48.692803
   longitude: 2.422789
+  map: true
   country: France
   city: Draveil
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 127 114 76
   darkMuted: 83 69 47
   lightMuted: 175 140 198
-file: harvesting-on-bluebells.jpg
 ---
 
 Shot in my garden !

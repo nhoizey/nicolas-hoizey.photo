@@ -1,5 +1,6 @@
 ---
 title: New York Lovers
+file: new-york-lovers.jpg
 date: 2015-05-21 11:05:00 +02:00
 gear:
   make: Canon
@@ -69,6 +70,7 @@ dimensions:
 geo:
   latitude: 40.74919166666667
   longitude: -74.003730555
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -78,7 +80,6 @@ colors:
   muted: 141 117 109
   darkMuted: 74 37 47
   lightMuted: 189 184 183
-file: new-york-lovers.jpg
 ---
 
 Shot in Manhattan, New-York City.

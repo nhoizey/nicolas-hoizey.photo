@@ -1,5 +1,6 @@
 ---
 title: V-J Day in Times Square, Kobra's colorful edition
+file: v-j-day-in-times-square-kobra-s-colorful-edition.jpg
 date: 2015-05-21 11:05:00 +02:00
 gear:
   make: SONY
@@ -54,6 +55,7 @@ dimensions:
 geo:
   latitude: 40.750025
   longitude: -74.00317222166667
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -63,7 +65,6 @@ colors:
   muted: 131 120 106
   darkMuted: 92 74 61
   lightMuted: 187 171 167
-file: v-j-day-in-times-square-kobra-s-colorful-edition.jpg
 ---
 
 <a href="http://www.eduardokobra.com/">Eduardo Kobra</a> painted these stunning murals on 25th Street at 10th Avenue in the Chelsea neighborhood of Manhattan, New-York City.

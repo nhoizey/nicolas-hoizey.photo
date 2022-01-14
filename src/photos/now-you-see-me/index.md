@@ -1,5 +1,6 @@
 ---
 title: Now you see me
+file: now-you-see-me.jpg
 date: 2019-02-27 17:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -62,6 +63,7 @@ dimensions:
 geo:
   latitude: -0.31638
   longitude: 36.11468
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -71,7 +73,6 @@ colors:
   muted: 124 136 123
   darkMuted: 76 80 56
   lightMuted: 182 177 178
-file: now-you-see-me.jpg
 ---
 
 Named for their preferred proximity to water, the Common Waterbuck feeds on plants near bodies of water in various habitats, including savannas and forests.

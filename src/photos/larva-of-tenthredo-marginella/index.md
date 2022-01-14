@@ -1,5 +1,6 @@
 ---
 title: Larva of Tenthredo Marginella
+file: larva-of-tenthredo-marginella.jpg
 date: 2008-10-12 14:10:00 +02:00
 gear:
   make: Canon
@@ -26,6 +27,7 @@ dimensions:
 geo:
   latitude: 48.692803
   longitude: 2.422789
+  map: true
   country: France
   city: Draveil
 colors:
@@ -35,7 +37,6 @@ colors:
   muted: 137 159 96
   darkMuted: 47 56 80
   lightMuted: 184 205 166
-file: larva-of-tenthredo-marginella.jpg
 ---
 
 This is not a caterpillar, but a larva of Tenthredo Marginella, which will become a wasp-like flying insect after molting.

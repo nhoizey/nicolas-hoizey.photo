@@ -1,5 +1,6 @@
 ---
 title: Mosquito
+file: mosquito.jpg
 date: 2012-04-29 16:04:00 +02:00
 gear:
   make: Canon
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 48.018102371666664
   longitude: 3.702400643333333
+  map: true
   country: France
   city: Venizy
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 92 116 172
   darkMuted: 62 54 53
   lightMuted: 205 185 157
-file: mosquito.jpg
 ---
 
 

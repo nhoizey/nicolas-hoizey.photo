@@ -1,5 +1,6 @@
 ---
 title: Find your way
+file: find-your-way.jpg
 date: 2017-05-12 15:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 41.906585228333334
   longitude: 12.455174858333333
+  map: true
   country: Italie
 colors:
   vibrant: 182 133 56
@@ -57,7 +59,6 @@ colors:
   muted: 104 117 141
   darkMuted: 66 58 53
   lightMuted: 192 186 177
-file: find-your-way.jpg
 ---
 
 The Bramante Staircase is a double helix staircase in the Vatican Museums. Wrongly attributed to Donato Bramante, this staircase was designed by Giuseppe Momo in 1932, inspired by an older one actually designed by Bramante. This staircase is a double helix, that is to say it has two staircases, one to go up, and one to go down. This way no one crosses each other in the opposite direction.

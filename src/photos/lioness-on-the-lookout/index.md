@@ -1,5 +1,6 @@
 ---
 title: Lioness on the lookout
+file: lioness-on-the-lookout.jpg
 date: 2019-02-26 09:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -60,6 +61,7 @@ dimensions:
 geo:
   latitude: -1.6045738116666666
   longitude: 35.29216124333333
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -69,7 +71,6 @@ colors:
   muted: 181 153 117
   darkMuted: 85 80 69
   lightMuted: 196 185 163
-file: lioness-on-the-lookout.jpg
 ---
 
 Maasai Mara is home of the largest population of African big cats, not only in Kenya but in Africa.

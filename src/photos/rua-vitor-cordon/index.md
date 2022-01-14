@@ -1,5 +1,6 @@
 ---
 title: Rua Vítor Cordon
+file: rua-vitor-cordon.jpg
 date: 2016-10-01 09:10:00 +02:00
 gear:
   make: Canon
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 38.707975
   longitude: -9.142055555
+  map: true
   country: Portugal
   city: Lisboa
 colors:
@@ -49,7 +51,6 @@ colors:
   muted: 151 128 105
   darkMuted: 69 54 44
   lightMuted: 155 165 176
-file: rua-vitor-cordon.jpg
 ---
 
 This is one of the beautiful little streets in Lisbon, Portugal, where tramways rails meander between old buildings.

@@ -1,5 +1,6 @@
 ---
 title: Pigments
+file: pigments.jpg
 date: 2015-04-27 15:04:00 +02:00
 gear:
   make: Panasonic
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 47.477666666666664
   longitude: 1.180830555
+  map: true
   country: France
   city: Chaumont-sur-Loire
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 129 92 73
   darkMuted: 97 72 56
   lightMuted: 209 202 226
-file: pigments.jpg
 ---
 
 Photo taken at the <a href="https://fr.wikipedia.org/wiki/Domaine_de_Chaumont-sur-Loire">Domaine de Chaumont-sur-Loire</a>, during the <a href="https://fr.wikipedia.org/wiki/Festival_des_jardins_de_Chaumont-sur-Loire">Festival des Jardins</a> 2015, in a plot dedicated to dyes.

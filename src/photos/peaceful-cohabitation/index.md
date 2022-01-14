@@ -1,5 +1,6 @@
 ---
 title: Peaceful cohabitation
+file: peaceful-cohabitation.jpg
 date: 2019-02-27 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -63,6 +64,7 @@ dimensions:
 geo:
   latitude: -0.40162166666666665
   longitude: 36.108338333333336
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -72,7 +74,6 @@ colors:
   muted: 167 128 90
   darkMuted: 96 77 56
   lightMuted: 145 150 168
-file: peaceful-cohabitation.jpg
 ---
 
 

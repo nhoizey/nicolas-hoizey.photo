@@ -1,5 +1,6 @@
 ---
 title: The Star Ferry in Victoria Harbour, Hong Kong
+file: the-star-ferry-in-victoria-harbour-hong-kong.jpg
 date: 2015-08-16 11:08:00 +01:00
 gear:
   make: SONY
@@ -37,6 +38,7 @@ dimensions:
 geo:
   latitude: 22.293491666666668
   longitude: 114.16801666666667
+  map: true
   country: China
   city: Kowloon
 colors:
@@ -46,7 +48,6 @@ colors:
   muted: 81 133 168
   darkMuted: 55 86 97
   lightMuted: 191 174 200
-file: the-star-ferry-in-victoria-harbour-hong-kong.jpg
 ---
 
 The Star Ferry is a passenger ferry service operator and tourist attraction in Hong Kong. Its principal routes carry passengers across Victoria Harbour, between Hong Kong Island, and Kowloon.

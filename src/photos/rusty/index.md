@@ -1,5 +1,6 @@
 ---
 title: Rusty
+file: rusty.jpg
 date: 2008-08-24 15:08:00 +01:00
 gear:
   make: Canon
@@ -29,6 +30,7 @@ dimensions:
 geo:
   latitude: 49.29791138
   longitude: -0.09877974333333334
+  map: true
   country: France
 colors:
   vibrant: 151 81 35
@@ -37,7 +39,6 @@ colors:
   muted: 150 116 92
   darkMuted: 95 67 52
   lightMuted: 191 156 132
-file: rusty.jpg
 ---
 
 Old rusty nut and bolt on Cabourg's beach, in Normandy, France.

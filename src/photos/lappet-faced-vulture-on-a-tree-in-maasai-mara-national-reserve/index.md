@@ -1,5 +1,6 @@
 ---
 title: Lappet-faced vulture on a tree in Maasai Mara National Reserve
+file: lappet-faced-vulture-on-a-tree-in-maasai-mara-national-reserve.jpg
 date: 2019-02-26 09:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -54,6 +55,7 @@ dimensions:
 geo:
   latitude: -1.59273
   longitude: 35.39019
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -63,7 +65,6 @@ colors:
   muted: 170 92 102
   darkMuted: 93 83 57
   lightMuted: 209 192 182
-file: lappet-faced-vulture-on-a-tree-in-maasai-mara-national-reserve.jpg
 ---
 
 This vulture prefers to live in dry savannah, thornbush, arid plains, deserts with scattered trees in wadis, open mountain slopes. They are usually found in undisturbed open country with a scattering of trees and apparently prefer areas with minimal grass cover.

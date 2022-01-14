@@ -1,5 +1,6 @@
 ---
 title: Tone-on-tone
+file: tone-on-tone.jpg
 date: 2008-04-26 18:04:00 +02:00
 gear:
   make: Canon
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 45.488904471666665
   longitude: 12.410688083333334
+  map: true
   country: Italie
   city: Venezia
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 97 150 173
   darkMuted: 95 64 41
   lightMuted: 134 167 126
-file: tone-on-tone.jpg
 ---
 
 Near the colorful Burano, Mazzorbo is one of the other various islands in the northern part of the Lagoon of Venice.

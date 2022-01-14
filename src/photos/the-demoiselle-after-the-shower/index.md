@@ -1,5 +1,6 @@
 ---
 title: The demoiselle after the shower
+file: the-demoiselle-after-the-shower.jpg
 date: 2018-09-16 07:09:00 +02:00
 gear:
   make: FUJIFILM
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 48.65318480333333
   longitude: 2.5035789716666668
+  map: true
   country: France
   city: Étiolles
 colors:
@@ -58,7 +60,6 @@ colors:
   muted: 162 89 102
   darkMuted: 69 42 51
   lightMuted: 178 189 211
-file: the-demoiselle-after-the-shower.jpg
 ---
 
 When you wake up, after a dew shower, the sun is welcome to dry all those droplets!

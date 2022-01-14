@@ -1,5 +1,6 @@
 ---
 title: Light rays
+file: light-rays.jpg
 date: 2021-10-24 09:10:00 +01:00
 gear:
   make: FUJIFILM
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 48.62625777833333
   longitude: 1.8731272216666666
+  map: true
   country: France
   city: Sonchamp
 colors:
@@ -54,7 +56,6 @@ colors:
   muted: 192 180 138
   darkMuted: 52 66 84
   lightMuted: 119 137 163
-file: light-rays.jpg
 ---
 
 Espace Rambouillet is a privileged place of observation of animals and the forest created by the French National Forestry Office (ONF). It is located in the heart of the forest of Rambouillet.

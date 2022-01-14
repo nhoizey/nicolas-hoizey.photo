@@ -1,5 +1,6 @@
 ---
 title: The typical country town street
+file: the-typical-country-town-street.jpg
 date: 2019-02-27 13:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -26,6 +27,7 @@ dimensions:
 geo:
   latitude: -0.323075
   longitude: 35.935156666666664
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -35,7 +37,6 @@ colors:
   muted: 152 127 110
   darkMuted: 82 67 61
   lightMuted: 178 189 204
-file: the-typical-country-town-street.jpg
 ---
 
 Njoro is an agricultural town 18 km west south west of Nakuru, Kenya situated on the western rim of the Rift Valley.

@@ -1,5 +1,6 @@
 ---
 title: Toucan toco
+file: toucan-toco.jpg
 date: 2008-05-11 15:05:00 +02:00
 gear:
   make: Canon
@@ -54,6 +55,7 @@ dimensions:
 geo:
   latitude: 51.95707945
   longitude: 5.591682956666666
+  map: true
   country: Pays-Bas
   city: Rhenen
 colors:
@@ -63,7 +65,6 @@ colors:
   muted: 97 153 177
   darkMuted: 51 88 109
   lightMuted: 212 211 163
-file: toucan-toco.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Making fire
+file: making-fire.jpg
 date: 2019-02-26 11:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: -1.60196
   longitude: 35.39009
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 96 126 171
   darkMuted: 43 45 64
   lightMuted: 213 197 174
-file: making-fire.jpg
 ---
 
 

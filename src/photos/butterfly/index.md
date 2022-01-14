@@ -1,5 +1,6 @@
 ---
 title: Butterfly
+file: butterfly.jpg
 date: 2012-11-29 14:11:00 +02:00
 gear:
   make: Canon
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 49.425637546666664
   longitude: 0.22933463666666667
+  map: true
   country: France
   city: Honfleur
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 97 167 92
   darkMuted: 49 76 46
   lightMuted: 140 151 172
-file: butterfly.jpg
 ---
 
 

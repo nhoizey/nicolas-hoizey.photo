@@ -1,5 +1,6 @@
 ---
 title: Silvery-cheeked Hornbill couple
+file: silvery-cheeked-hornbill-couple.jpg
 date: 2019-03-04 18:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -57,6 +58,7 @@ dimensions:
 geo:
   latitude: -4.33512
   longitude: 39.567858333333334
+  map: true
   country: Kenya
   city: Kwale
 colors:
@@ -66,7 +68,6 @@ colors:
   muted: 171 155 121
   darkMuted: 78 68 45
   lightMuted: 151 176 204
-file: silvery-cheeked-hornbill-couple.jpg
 ---
 
 The silvery-cheeked hornbill (Bycanistes brevis) is a large species of hornbill found in Africa. Silvery-cheeked hornbills are residents of the tall evergreen forests of East Africa from Ethiopia to South Africa.

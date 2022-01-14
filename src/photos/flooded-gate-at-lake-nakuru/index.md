@@ -1,5 +1,6 @@
 ---
 title: Flooded gate at Lake Nakuru
+file: flooded-gate-at-lake-nakuru.jpg
 date: 2019-02-27 14:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -34,6 +35,7 @@ dimensions:
 geo:
   latitude: -0.31289
   longitude: 36.07194166666667
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -43,7 +45,6 @@ colors:
   muted: 92 132 164
   darkMuted: 84 74 51
   lightMuted: 167 185 211
-file: flooded-gate-at-lake-nakuru.jpg
 ---
 
 Lake Nakuru joined in 2013 the list of other lakes in Rift Valley whose water levels have abnormally increased endangering the lives of residents and the ecosystems around the lake.

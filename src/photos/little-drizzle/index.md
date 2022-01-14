@@ -1,5 +1,6 @@
 ---
 title: Little drizzle
+file: little-drizzle.jpg
 date: 2018-12-09 17:12:00 +02:00
 gear:
   make: FUJIFILM
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 48.688580125
   longitude: 2.3980118783333335
+  map: true
   country: France
   city: Draveil
 colors:
@@ -49,7 +51,6 @@ colors:
   muted: 113 121 127
   darkMuted: 68 57 56
   lightMuted: 176 197 209
-file: little-drizzle.jpg
 ---
 
 

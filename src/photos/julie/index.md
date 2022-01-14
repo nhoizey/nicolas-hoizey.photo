@@ -1,5 +1,6 @@
 ---
 title: Julie
+file: julie.jpg
 date: 2017-03-25 13:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -50,6 +51,7 @@ dimensions:
 geo:
   latitude: 48.68742891666667
   longitude: 2.398488508333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -59,7 +61,6 @@ colors:
   muted: 175 91 112
   darkMuted: 74 44 42
   lightMuted: 191 148 156
-file: julie.jpg
 ---
 
 I'm trying my hand at fashion photography in the studio.

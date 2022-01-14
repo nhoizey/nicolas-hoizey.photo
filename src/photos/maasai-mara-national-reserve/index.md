@@ -1,5 +1,6 @@
 ---
 title: Maasai Mara National Reserve
+file: maasai-mara-national-reserve.jpg
 date: 2019-02-26 08:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -35,6 +36,7 @@ dimensions:
 geo:
   latitude: -1.6194616666666666
   longitude: 35.30692166666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -44,7 +46,6 @@ colors:
   muted: 96 127 150
   darkMuted: 80 75 46
   lightMuted: 154 181 187
-file: maasai-mara-national-reserve.jpg
 ---
 
 It's not just about the wild animals, landscapes are great too!

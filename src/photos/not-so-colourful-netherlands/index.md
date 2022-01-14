@@ -1,5 +1,6 @@
 ---
 title: Not so colourful Netherlands
+file: not-so-colourful-netherlands.jpg
 date: 2015-07-13 15:07:00 +01:00
 gear:
   make: SONY
@@ -61,6 +62,7 @@ dimensions:
 geo:
   latitude: 53.2359
   longitude: 6.523519445
+  map: true
   country: Pays-Bas
   city: Groningen
 colors:
@@ -70,7 +72,6 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 188 188 188
-file: not-so-colourful-netherlands.jpg
 ---
 
 This is Reitdiephaven, in Groningen, in the north of The Netherlands.

@@ -1,5 +1,6 @@
 ---
 title: What are you staring at?
+file: what-are-you-staring-at.jpg
 date: 2019-02-27 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -64,6 +65,7 @@ dimensions:
 geo:
   latitude: -0.38925333333333334
   longitude: 36.1207
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -73,7 +75,6 @@ colors:
   muted: 139 127 119
   darkMuted: 79 73 56
   lightMuted: 157 162 176
-file: what-are-you-staring-at.jpg
 ---
 
 The African buffalo is not an ancestor of domestic cattle and is only distantly related to other larger bovines. Its unpredictable temperament means that the African buffalo has never been domesticated, unlike its Asian counterpart, the water buffalo. African buffaloes have few predators aside from lions and large crocodiles.

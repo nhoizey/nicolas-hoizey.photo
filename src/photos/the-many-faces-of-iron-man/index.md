@@ -1,5 +1,6 @@
 ---
 title: The many faces of Iron Man
+file: the-many-faces-of-iron-man.jpg
 date: 2015-08-15 13:08:00 +02:00
 gear:
   make: SONY
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 22.315955555
   longitude: 114.170255555
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 136 117 100
   darkMuted: 76 40 42
   lightMuted: 192 179 168
-file: the-many-faces-of-iron-man.jpg
 ---
 
 This diorama is just a small glimpse of the vast amount of Iron Man models seen in the various movies of the Marvel universe, and reproduced with incredible detail in 1/6th size by Hot Toys Limited, one of the world's best manufacturers of collectible action figures, including iconic movie characters (Star Wars, Alien, Predator, Terminator, etc.), in Hong Kong.

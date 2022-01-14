@@ -1,5 +1,6 @@
 ---
 title: Women's 800m
+file: women-s-800m.jpg
 date: 2018-05-13 15:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 48.69822939833333
   longitude: 2.4519665083333333
+  map: true
   country: France
   city: Montgeron
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 158 104 92
   darkMuted: 80 46 42
   lightMuted: 199 197 198
-file: women-s-800m.jpg
 ---
 
 Photo taken during the 34th Elite International Track and Field Meeting in Montgeron-Essonne, France, Sunday, May 13, 2018

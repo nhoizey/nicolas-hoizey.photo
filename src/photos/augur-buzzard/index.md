@@ -1,5 +1,6 @@
 ---
 title: Augur Buzzard
+file: augur-buzzard.jpg
 date: 2019-02-27 17:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -53,6 +54,7 @@ dimensions:
 geo:
   latitude: -0.30799
   longitude: 36.088175
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -62,7 +64,6 @@ colors:
   muted: 140 132 103
   darkMuted: 72 78 42
   lightMuted: 169 183 206
-file: augur-buzzard.jpg
 ---
 
 The Augur Buzzard is a large, stocky hawk, which usually perches in full view on the ground on a prominence of ground or on a perch (tree, rock, post,…) and is not shy, so that one can often observe it at leisure.

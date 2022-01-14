@@ -1,5 +1,6 @@
 ---
 title: At the school of life
+file: at-the-school-of-life.jpg
 date: 2019-02-26 17:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -66,6 +67,7 @@ dimensions:
 geo:
   latitude: -1.6177733333333335
   longitude: 35.36447666666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -75,7 +77,6 @@ colors:
   muted: 153 150 97
   darkMuted: 97 96 52
   lightMuted: 211 195 179
-file: at-the-school-of-life.jpg
 ---
 
 

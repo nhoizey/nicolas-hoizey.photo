@@ -1,5 +1,6 @@
 ---
 title: Along the shore
+file: along-the-shore.jpg
 date: 2009-05-15 22:05:00 +02:00
 gear:
   make: Canon
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 47.862052778333336
   longitude: -4.097894445
+  map: true
   country: France
   city: Bénodet
 colors:
@@ -54,7 +56,6 @@ colors:
   muted: 81 98 142
   darkMuted: 44 60 84
   lightMuted: 139 148 192
-file: along-the-shore.jpg
 ---
 
 

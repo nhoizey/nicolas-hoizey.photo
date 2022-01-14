@@ -1,5 +1,6 @@
 ---
 title: Tubes
+file: tubes.jpg
 date: 2017-10-22 12:10:00 +02:00
 gear:
   make: FUJIFILM
@@ -53,6 +54,7 @@ dimensions:
 geo:
   latitude: 48.836933333333334
   longitude: 2.370855
+  map: true
   country: France
   city: Paris
 colors:
@@ -62,7 +64,6 @@ colors:
   muted: 112 131 149
   darkMuted: 43 66 86
   lightMuted: 180 193 206
-file: tubes.jpg
 ---
 
 This building is part of the recent modern constructions along the avenue Pierre Mendès-France, along the train tracks leading to the Austerlitz station.

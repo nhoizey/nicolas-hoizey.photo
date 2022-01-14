@@ -1,5 +1,6 @@
 ---
 title: Splash
+file: splash.jpg
 date: 2017-05-18 22:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 48.68746989833333
   longitude: 2.3984945316666666
+  map: true
   country: France
   city: Draveil
 colors:
@@ -45,7 +47,6 @@ colors:
   muted: 108 132 144
   darkMuted: 84 44 56
   lightMuted: 208 183 189
-file: splash.jpg
 ---
 
 A little creative exercise in the studio.

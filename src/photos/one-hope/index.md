@@ -1,5 +1,6 @@
 ---
 title: One hope
+file: one-hope.jpg
 date: 2018-02-01 01:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 45.75881111166667
   longitude: 4.811183333333333
+  map: true
   country: France
   city: Lyon
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 136 136 136
   darkMuted: 72 72 72
   lightMuted: 206 206 206
-file: one-hope.jpg
 ---
 
 Super aperitif / shooting improvised by Thanh and Pierre with some others during my brief passage in Lyon.

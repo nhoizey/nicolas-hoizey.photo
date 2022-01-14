@@ -1,5 +1,6 @@
 ---
 title: The flowering of the carnations
+file: the-flowering-of-the-carnations.jpg
 date: 2017-06-14 20:06:00 +02:00
 gear:
   make: FUJIFILM
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 48.692803
   longitude: 2.422789
+  map: true
   country: France
   city: Draveil
 colors:
@@ -45,7 +47,6 @@ colors:
   muted: 139 116 109
   darkMuted: 92 51 46
   lightMuted: 147 196 137
-file: the-flowering-of-the-carnations.jpg
 ---
 
 If you thought the flowers opened by themselves, you had no idea.

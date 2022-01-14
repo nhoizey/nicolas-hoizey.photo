@@ -1,5 +1,6 @@
 ---
 title: Defenseless
+file: defenseless.jpg
 date: 2018-06-11 18:06:00 +02:00
 gear:
   make: FUJIFILM
@@ -50,6 +51,7 @@ dimensions:
 geo:
   latitude: 48.892390111666664
   longitude: 2.235918805
+  map: true
   country: France
   city: Puteaux
 colors:
@@ -59,7 +61,6 @@ colors:
   muted: 115 115 115
   darkMuted: 63 63 63
   lightMuted: 188 188 188
-file: defenseless.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Setting sun on Chambord
+file: setting-sun-on-chambord.jpg
 date: 2020-07-11 21:07:00 +02:00
 gear:
   make: FUJIFILM
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 47.61696638833333
   longitude: 1.514963055
+  map: true
   country: France
   city: Chambord
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 83 132 167
   darkMuted: 37 64 82
   lightMuted: 147 164 172
-file: setting-sun-on-chambord.jpg
 ---
 
 The Château de Chambord in France is one of the most recognisable châteaux in the world because of its very distinctive French Renaissance architecture which blends traditional French medieval forms with classical Renaissance structures.

@@ -1,5 +1,6 @@
 ---
 title: The village
+file: the-village.jpg
 date: 2019-02-26 11:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -37,6 +38,7 @@ dimensions:
 geo:
   latitude: -1.6014516666666667
   longitude: 35.389645
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -46,7 +48,6 @@ colors:
   muted: 151 116 88
   darkMuted: 106 82 59
   lightMuted: 155 176 191
-file: the-village.jpg
 ---
 
 We have been fortunate enough to visit an actual Maasai village with the son of the village's chef, an incredible experience.

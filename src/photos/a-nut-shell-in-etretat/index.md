@@ -1,5 +1,6 @@
 ---
 title: A nut shell in Étretat
+file: a-nut-shell-in-etretat.jpg
 date: 2013-07-28 12:07:00 +01:00
 gear:
   make: Canon
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 49.69951666666667
   longitude: 0.18263888833333333
+  map: true
   country: France
   city: Étretat
 colors:
@@ -58,7 +60,6 @@ colors:
   muted: 73 126 121
   darkMuted: 47 98 84
   lightMuted: 175 146 139
-file: a-nut-shell-in-etretat.jpg
 ---
 
 

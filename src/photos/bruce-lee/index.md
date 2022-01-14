@@ -1,5 +1,6 @@
 ---
 title: Bruce Lee
+file: bruce-lee.jpg
 date: 2015-08-09 12:08:00 +02:00
 gear:
   make: Canon
@@ -35,6 +36,7 @@ dimensions:
 geo:
   latitude: 22.294633333333334
   longitude: 114.17617333333334
+  map: true
   country: Hong Kong
   city: Yau Tsim Mong District
 colors:
@@ -44,7 +46,6 @@ colors:
   muted: 105 121 145
   darkMuted: 54 75 96
   lightMuted: 176 182 195
-file: bruce-lee.jpg
 ---
 
 The Hong Kong Bruce Lee Club raised US$100,000 for a statue to be erected after pleas to the government to honour his legacy. A 2.5 m (8.2 ft) bronze statue by artist Cao Chong-en was erected along the Avenue of Stars attraction near the waterfront at Tsim Sha Tsui. It shows a classic 'ready to strike' Bruce Lee pose, as seen in the 1972 movie Fist of Fury.

@@ -1,5 +1,6 @@
 ---
 title: Lower Manhattan
+file: lower-manhattan.jpg
 date: 2015-05-23 23:05:00 +02:00
 gear:
   make: Canon
@@ -68,6 +69,7 @@ dimensions:
 geo:
   latitude: 40.70071166666666
   longitude: -73.99695833333334
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -77,7 +79,6 @@ colors:
   muted: 162 143 101
   darkMuted: 92 77 49
   lightMuted: 188 184 142
-file: lower-manhattan.jpg
 ---
 
 Yet another classic view of Lower Manhattan at night from the Hudson bank in Brooklyn.

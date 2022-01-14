@@ -1,5 +1,6 @@
 ---
 title: Oddly vintage
+file: oddly-vintage.jpg
 date: 2013-08-14 15:08:00 +02:00
 gear:
   make: Canon
@@ -37,6 +38,7 @@ dimensions:
 geo:
   latitude: 48.77651547166667
   longitude: 1.9620263066666666
+  map: true
   country: France
   city: Élancourt
 colors:
@@ -46,7 +48,6 @@ colors:
   muted: 138 153 98
   darkMuted: 50 65 89
   lightMuted: 177 175 160
-file: oddly-vintage.jpg
 ---
 
 Visiting the Mont-Saint-Michel, the Roman Theatre of Orange and Notre-Dame de Paris in less than 12 hours is a piece of cake! Just slip on your seven-league boots and whisk the kids off to France Miniature.

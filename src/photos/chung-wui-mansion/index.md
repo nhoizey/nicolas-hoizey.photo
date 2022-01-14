@@ -1,5 +1,6 @@
 ---
 title: Chung Wui Mansion
+file: chung-wui-mansion.jpg
 date: 2015-08-09 13:08:00 +01:00
 gear:
   make: SONY
@@ -32,6 +33,7 @@ dimensions:
 geo:
   latitude: 22.276701666666668
   longitude: 114.17411166666666
+  map: true
   country: China
   city: Hong Kong Island
 colors:
@@ -41,7 +43,6 @@ colors:
   muted: 151 130 115
   darkMuted: 77 75 40
   lightMuted: 210 179 168
-file: chung-wui-mansion.jpg
 ---
 
 Nestled in the old Hong Kong district of Wan Chai, the Chung Wui mansion sits right in the middle of an intersection, similar to New York’s Flat Iron Building, but with a lot more pastel flair.

@@ -1,5 +1,6 @@
 ---
 title: Pied Kingfisher in Lake Nakuru National Park, Kenya
+file: pied-kingfisher-in-lake-nakuru-national-park-kenya.jpg
 date: 2019-02-27 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -59,6 +60,7 @@ dimensions:
 geo:
   latitude: -0.3692516666666667
   longitude: 36.12001
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -68,7 +70,6 @@ colors:
   muted: 78 114 157
   darkMuted: 59 63 78
   lightMuted: 175 196 216
-file: pied-kingfisher-in-lake-nakuru-national-park-kenya.jpg
 ---
 
 The pied kingfisher is a species of water kingfisher widely distributed across Africa and Asia.

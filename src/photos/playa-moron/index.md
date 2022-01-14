@@ -1,5 +1,6 @@
 ---
 title: Playa Morón
+file: playa-moron.jpg
 date: 2018-02-28 12:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -53,6 +54,7 @@ dimensions:
 geo:
   latitude: 19.31711333333333
   longitude: -69.41788333333334
+  map: true
   country: République dominicaine
   city: El Limón
 colors:
@@ -62,7 +64,6 @@ colors:
   muted: 172 116 76
   darkMuted: 83 75 50
   lightMuted: 185 202 223
-file: playa-moron.jpg
 ---
 
 Playa Morón is a beautiful secluded beach with turquoise waters, north of the Samaná Peninsula in the Dominican Republic.

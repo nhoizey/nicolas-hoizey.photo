@@ -1,5 +1,6 @@
 ---
 title: La mère rouge
+file: la-mere-rouge.jpg
 date: 2004-05-14 08:05:00 +01:00
 gear:
   make: Konica
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 26.022825145
   longitude: 34.52726251833333
+  map: true
 colors:
   vibrant: 60 164 212
   darkVibrant: 5 40 86
@@ -47,7 +49,6 @@ colors:
   muted: 105 120 148
   darkMuted: 51 72 104
   lightMuted: 180 184 204
-file: la-mere-rouge.jpg
 ---
 
 This photo title is a play on words in French, where « mère » ("mother") and « mer » ("sea") are homophones.

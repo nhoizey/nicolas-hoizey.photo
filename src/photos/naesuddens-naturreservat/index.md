@@ -1,5 +1,6 @@
 ---
 title: Näsuddens naturreservat
+file: naesuddens-naturreservat.jpg
 date: 2020-02-03 16:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 59.45938838166666
   longitude: 18.297828573333334
+  map: true
   country: Suède
   city: Åkersberga
 colors:
@@ -45,7 +47,6 @@ colors:
   muted: 177 141 106
   darkMuted: 82 62 43
   lightMuted: 191 199 209
-file: naesuddens-naturreservat.jpg
 ---
 
 Näsudden nature reserve consists of a peninsula located in Stockholm's inner archipelago, surrounded by Täljöviken/Svinningeviken to the west and Tunafjärden to the northeast.

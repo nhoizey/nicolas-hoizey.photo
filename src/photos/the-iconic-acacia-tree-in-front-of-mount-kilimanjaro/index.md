@@ -1,5 +1,6 @@
 ---
 title: The iconic acacia tree in front of Mount Kilimanjaro
+file: the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg
 date: 2019-02-28 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: -2.7113088183333334
   longitude: 37.333799633333335
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 97 142 164
   darkMuted: 51 65 77
   lightMuted: 172 172 188
-file: the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg
 ---
 
 The plains surrounding Kilimanjaro (the "lowlands"), are located between 600 and 800 meters above sea level. The climate is very hot and dry.

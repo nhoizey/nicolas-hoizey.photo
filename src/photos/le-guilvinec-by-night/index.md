@@ -1,5 +1,6 @@
 ---
 title: Le Guilvinec by night
+file: le-guilvinec-by-night.jpg
 date: 2013-05-08 21:05:00 +02:00
 gear:
   make: Canon
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 47.791955555
   longitude: -4.2852111116666665
+  map: true
   country: France
   city: Guilvinec
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 82 117 143
   darkMuted: 49 68 83
   lightMuted: 185 202 210
-file: le-guilvinec-by-night.jpg
 ---
 
 Guilvinec or Le Guilvinec (Breton: Ar Gelveneg) is a commune in the Finistère department of Brittany in north-western France.

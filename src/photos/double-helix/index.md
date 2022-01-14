@@ -1,5 +1,6 @@
 ---
 title: Double helix
+file: double-helix.jpg
 date: 2017-05-12 15:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -61,6 +62,7 @@ dimensions:
 geo:
   latitude: 41.90653931666667
   longitude: 12.455145353333334
+  map: true
   country: Italie
 colors:
   vibrant: 226 4 33
@@ -69,7 +71,6 @@ colors:
   muted: 134 130 136
   darkMuted: 92 60 52
   lightMuted: 193 192 199
-file: double-helix.jpg
 ---
 
 The Bramante Staircase is a double helix staircase in the Vatican Museums. Wrongly attributed to Donato Bramante, this staircase was designed by Giuseppe Momo in 1932, inspired by an older one actually designed by Bramante. This staircase is a double helix, that is to say it has two staircases, one to go up, and one to go down. So no one crosses each other in the opposite direction.

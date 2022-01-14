@@ -1,5 +1,6 @@
 ---
 title: A storm is coming
+file: a-storm-is-coming.jpg
 date: 2019-02-25 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -56,6 +57,7 @@ dimensions:
 geo:
   latitude: -1.633125
   longitude: 35.34681
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -65,7 +67,6 @@ colors:
   muted: 148 138 78
   darkMuted: 83 84 44
   lightMuted: 204 190 154
-file: a-storm-is-coming.jpg
 ---
 
 

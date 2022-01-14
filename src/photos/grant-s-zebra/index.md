@@ -1,5 +1,6 @@
 ---
 title: Grant's zebra
+file: grant-s-zebra.jpg
 date: 2019-02-25 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -65,6 +66,7 @@ dimensions:
 geo:
   latitude: -1.6349966666666667
   longitude: 35.34364333333333
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -74,7 +76,6 @@ colors:
   muted: 156 156 100
   darkMuted: 79 65 54
   lightMuted: 194 196 172
-file: grant-s-zebra.jpg
 ---
 
 More Grant’s zebras are in the wild than any other species or subspecies of zebras. Unlike Grevy and mountain zebras, they are not endangered.

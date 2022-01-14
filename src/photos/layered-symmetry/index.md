@@ -1,5 +1,6 @@
 ---
 title: Layered symmetry
+file: layered-symmetry.jpg
 date: 2014-03-18 19:03:00 +02:00
 gear:
   make: Panasonic
@@ -28,6 +29,7 @@ dimensions:
 geo:
   latitude: 48.89270904
   longitude: 2.2350025733333334
+  map: true
   country: France
   city: Puteaux
 colors:
@@ -37,7 +39,6 @@ colors:
   muted: 111 138 153
   darkMuted: 51 92 104
   lightMuted: 165 186 192
-file: layered-symmetry.jpg
 ---
 
 

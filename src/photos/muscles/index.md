@@ -1,5 +1,6 @@
 ---
 title: Muscles
+file: muscles.jpg
 date: 2015-05-23 14:05:00 +02:00
 gear:
   make: SONY
@@ -42,6 +43,7 @@ dimensions:
 geo:
   latitude: 40.688695
   longitude: -73.980485
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -51,7 +53,6 @@ colors:
   muted: 148 172 92
   darkMuted: 76 42 47
   lightMuted: 182 197 206
-file: muscles.jpg
 ---
 
 The Dodge Challenger is a mythical American muscle car. Here is the 1969 model (I think).

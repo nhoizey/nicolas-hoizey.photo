@@ -1,5 +1,6 @@
 ---
 title: Phare des Baleines
+file: phare-des-baleines.jpg
 date: 2017-08-22 17:08:00 +02:00
 gear:
   make: FUJIFILM
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 46.24420277833333
   longitude: -1.56115
+  map: true
   country: France
   city: Saint-Clément-des-Baleines
 colors:
@@ -54,7 +56,6 @@ colors:
   muted: 142 117 109
   darkMuted: 79 56 44
   lightMuted: 187 172 168
-file: phare-des-baleines.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: The Hong Kong Symphony of Lights from The Peak
+file: the-hong-kong-symphony-of-lights-from-the-peak.jpg
 date: 2015-08-08 20:08:00 +02:00
 gear:
   make: Canon
@@ -58,6 +59,7 @@ dimensions:
 geo:
   latitude: 22.271296666666668
   longitude: 114.15049
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -67,7 +69,6 @@ colors:
   muted: 161 94 76
   darkMuted: 68 57 54
   lightMuted: 196 177 133
-file: the-hong-kong-symphony-of-lights-from-the-peak.jpg
 ---
 
 <a href="http://www.tourism.gov.hk/symphony/english/details/details.html">A Symphony of Lights</a> is staged every night at 8:00 p.m. in Hong Kong.

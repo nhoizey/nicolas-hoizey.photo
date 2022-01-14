@@ -1,5 +1,6 @@
 ---
 title: Resting red deer in Espace Rambouillet
+file: resting-red-deer-in-espace-rambouillet.jpg
 date: 2021-10-24 12:10:00 +01:00
 gear:
   make: FUJIFILM
@@ -62,6 +63,7 @@ dimensions:
 geo:
   latitude: 48.61856972166667
   longitude: 1.8741613883333332
+  map: true
   country: France
   city: Sonchamp
 colors:
@@ -71,7 +73,6 @@ colors:
   muted: 141 135 99
   darkMuted: 49 59 84
   lightMuted: 184 164 143
-file: resting-red-deer-in-espace-rambouillet.jpg
 ---
 
 The red deer (Cervus elaphus) is one of the largest deer species. Although at one time red deer were rare in parts of Europe, they were never close to extinction. Reintroduction and conservation efforts have resulted in an increase of red deer populations, while other areas, such as North Africa, have continued to show a population decline.

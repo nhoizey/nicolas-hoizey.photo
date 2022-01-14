@@ -1,5 +1,6 @@
 ---
 title: Follow the rythm
+file: follow-the-rythm.jpg
 date: 2014-09-27 01:09:00 +02:00
 gear:
   make: SONY
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 38.885975
   longitude: 1.4036888883333334
+  map: true
   country: Espagne
   city: Sant Josep de sa Talaia
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 92 132 156
   darkMuted: 88 47 88
   lightMuted: 178 196 199
-file: follow-the-rythm.jpg
 ---
 
 Shot in Ibiza, Spain.

@@ -1,5 +1,6 @@
 ---
 title: (Sittin' On) The Dock of the Bay
+file: sittin-on-the-dock-of-the-bay.jpg
 date: 2014-03-14 15:03:00 +02:00
 gear:
   make: Panasonic
@@ -17,6 +18,7 @@ dimensions:
 geo:
   latitude: 48.85818896166667
   longitude: 2.3431397483333334
+  map: true
   country: France
 colors:
   vibrant: 68 140 164
@@ -25,7 +27,6 @@ colors:
   muted: 100 132 156
   darkMuted: 73 78 59
   lightMuted: 180 204 170
-file: sittin-on-the-dock-of-the-bay.jpg
 ---
 
 Actually shot in Paris, on the dock of the Seine river.

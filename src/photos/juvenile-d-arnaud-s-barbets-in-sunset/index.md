@@ -1,5 +1,6 @@
 ---
 title: Juvenile D'Arnaud's Barbets in sunset
+file: juvenile-d-arnaud-s-barbets-in-sunset.jpg
 date: 2019-02-26 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -57,6 +58,7 @@ dimensions:
 geo:
   latitude: -1.60856
   longitude: 35.383723333333336
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -66,7 +68,6 @@ colors:
   muted: 171 126 105
   darkMuted: 81 69 59
   lightMuted: 132 121 21
-file: juvenile-d-arnaud-s-barbets-in-sunset.jpg
 ---
 
 D'Arnaud's barbet is a small East African bird that feeds on insects, fruits, and seeds.

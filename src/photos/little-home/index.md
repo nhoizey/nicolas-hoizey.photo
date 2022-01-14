@@ -1,5 +1,6 @@
 ---
 title: Little home
+file: little-home.jpg
 date: 2019-03-01 17:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -33,6 +34,7 @@ dimensions:
 geo:
   latitude: -3.4570783333333335
   longitude: 38.203408333333336
+  map: true
   country: Kenya
   city: Taita
 colors:
@@ -42,7 +44,6 @@ colors:
   muted: 156 110 73
   darkMuted: 88 65 41
   lightMuted: 211 183 161
-file: little-home.jpg
 ---
 
 

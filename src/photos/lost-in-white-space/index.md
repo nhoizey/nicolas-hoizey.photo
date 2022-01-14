@@ -1,5 +1,6 @@
 ---
 title: Lost in (white) space
+file: lost-in-white-space.jpg
 date: 2005-04-23 16:04:00 +02:00
 gear:
   make: Konica
@@ -33,6 +34,7 @@ dimensions:
 geo:
   latitude: 48.892598998333334
   longitude: 2.3882076716666667
+  map: true
   country: France
 colors:
   vibrant: 123 166 230
@@ -41,7 +43,6 @@ colors:
   muted: 119 117 166
   darkMuted: 24 66 129
   lightMuted: 212 164 177
-file: lost-in-white-space.jpg
 ---
 
 Over exposed to get a really minimalistic composition, no post processing at all.

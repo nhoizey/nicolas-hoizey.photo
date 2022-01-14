@@ -1,5 +1,6 @@
 ---
 title: Bruxelles
+file: bruxelles.jpg
 date: 2007-08-27 11:08:00 +02:00
 gear:
   make: Canon
@@ -34,6 +35,7 @@ dimensions:
 geo:
   latitude: 50.846694445
   longitude: 4.352530555
+  map: true
   country: Belgique
   city: Ville de Bruxelles
 colors:
@@ -43,7 +45,6 @@ colors:
   muted: 143 128 82
   darkMuted: 56 56 38
   lightMuted: 169 187 207
-file: bruxelles.jpg
 ---
 
 

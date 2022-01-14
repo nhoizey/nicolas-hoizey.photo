@@ -1,5 +1,6 @@
 ---
 title: Curves
+file: curves.jpg
 date: 2008-09-02 16:09:00 +02:00
 gear:
   make: Canon
@@ -33,6 +34,7 @@ dimensions:
 geo:
   latitude: 46.67242
   longitude: -73.006345
+  map: true
   country: Canada
   city: 136 km N  of Montreal
 colors:
@@ -42,7 +44,6 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 180 180 180
-file: curves.jpg
 ---
 
 Shot in <a href="https://en.wikipedia.org/wiki/La_Mauricie_National_Park">La Mauricie National Park</a> in Québec, Canada

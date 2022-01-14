@@ -1,5 +1,6 @@
 ---
 title: Spiderman is watching
+file: spiderman-is-watching.jpg
 date: 2019-02-26 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -57,6 +58,7 @@ dimensions:
 geo:
   latitude: -1.5794783333333333
   longitude: 35.255023333333334
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -66,7 +68,6 @@ colors:
   muted: 84 124 164
   darkMuted: 79 61 43
   lightMuted: 206 182 166
-file: spiderman-is-watching.jpg
 ---
 
 This red-headed rock agama (aka rainbow agama) wears the same colors as Spiderman, hence the name it is sometimes given in French.

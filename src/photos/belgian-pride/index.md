@@ -1,5 +1,6 @@
 ---
 title: Belgian Pride
+file: belgian-pride.jpg
 date: 2017-05-22 22:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -57,6 +58,7 @@ dimensions:
 geo:
   latitude: 50.846691666666665
   longitude: 4.352502778333333
+  map: true
   country: Belgique
   city: Bruxelles
 colors:
@@ -66,7 +68,6 @@ colors:
   muted: 115 180 102
   darkMuted: 101 53 65
   lightMuted: 142 85 11
-file: belgian-pride.jpg
 ---
 
 For Belgian Pride 2017, the city of Brussels was draped in rainbows for 15 days, with beautiful illuminations on iconic buildings in the city, including the famous Grand-Place.

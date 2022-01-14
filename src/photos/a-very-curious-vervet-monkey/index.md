@@ -1,5 +1,6 @@
 ---
 title: A very curious Vervet monkey
+file: a-very-curious-vervet-monkey.jpg
 date: 2019-02-26 17:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -61,6 +62,7 @@ dimensions:
 geo:
   latitude: -1.6185266666666667
   longitude: 35.306081666666664
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -70,7 +72,6 @@ colors:
   muted: 153 140 89
   darkMuted: 88 96 42
   lightMuted: 190 171 135
-file: a-very-curious-vervet-monkey.jpg
 ---
 
 These primates are semi-terrestrial, which means that they can live on the ground as well as in the trees. During the night they climb a tree.  They communicate with a range of sounds, gestures and postures. Individuals make different sounds depending on the situation. They use at least five different alarm calls to communicate to other individuals in the group, telling them where the danger is coming from, or how big the predator is. They recognize the voices of other vervets in their group. 

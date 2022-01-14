@@ -1,5 +1,6 @@
 ---
 title: Mantled guereza
+file: mantled-guereza.jpg
 date: 2019-02-27 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -72,6 +73,7 @@ dimensions:
 geo:
   latitude: -0.3200366666666667
   longitude: 36.117015
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -81,7 +83,6 @@ colors:
   muted: 156 115 87
   darkMuted: 52 80 74
   lightMuted: 200 178 188
-file: mantled-guereza.jpg
 ---
 
 The mantled guereza (Colobus guereza), also known simply as the guereza, the eastern black-and-white colobus, or the Abyssinian black-and-white colobus, is a black-and-white colobus, a type of Old World monkey. It is native to much of west central and east Africa.

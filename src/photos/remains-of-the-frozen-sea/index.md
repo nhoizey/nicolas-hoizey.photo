@@ -1,5 +1,6 @@
 ---
 title: Remains of the frozen sea
+file: remains-of-the-frozen-sea.jpg
 date: 2020-02-03 16:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 59.45737805833333
   longitude: 18.299656023333334
+  map: true
   country: Suède
   city: Åkersberga
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 116 140 178
   darkMuted: 49 56 74
   lightMuted: 180 183 198
-file: remains-of-the-frozen-sea.jpg
 ---
 
 

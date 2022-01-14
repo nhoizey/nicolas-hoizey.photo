@@ -1,5 +1,6 @@
 ---
 title: The (new) Road to Hell('s Kitchen)
+file: the-new-road-to-hell-s-kitchen.jpg
 date: 2015-05-22 10:05:00 +02:00
 gear:
   make: Canon
@@ -57,6 +58,7 @@ dimensions:
 geo:
   latitude: 40.759075
   longitude: -73.97897166666667
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -66,7 +68,6 @@ colors:
   muted: 176 92 116
   darkMuted: 54 66 93
   lightMuted: 189 179 166
-file: the-new-road-to-hell-s-kitchen.jpg
 ---
 
 

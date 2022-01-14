@@ -1,5 +1,6 @@
 ---
 title: 波動拳 (aka Hadoken)
+file: aka-hadoken.jpg
 date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 45.76687777833333
   longitude: 4.833141666666666
+  map: true
   country: France
   city: Lyon
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 132 132 132
   darkMuted: 68 68 68
   lightMuted: 186 186 186
-file: aka-hadoken.jpg
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

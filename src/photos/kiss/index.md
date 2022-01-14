@@ -1,5 +1,6 @@
 ---
 title: Kiss
+file: kiss.jpg
 date: 2009-12-27 17:12:00 +02:00
 gear:
   make: Canon
@@ -54,6 +55,7 @@ dimensions:
 geo:
   latitude: 51.96565290833333
   longitude: 5.688419555
+  map: true
   country: Pays-Bas
   city: Wageningue
 colors:
@@ -63,7 +65,6 @@ colors:
   muted: 89 142 174
   darkMuted: 56 90 109
   lightMuted: 156 196 212
-file: kiss.jpg
 ---
 
 Nothing like nature under the snow and a very shallow depth of field to make the background almost disappear…

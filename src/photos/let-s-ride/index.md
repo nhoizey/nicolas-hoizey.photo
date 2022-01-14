@@ -1,5 +1,6 @@
 ---
 title: Let's ride!
+file: let-s-ride.jpg
 date: 2011-07-15 12:07:00 +02:00
 gear:
   make: Canon
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 52.09919166666667
   longitude: 4.296975
+  map: true
   country: Pays-Bas
   city: Den Haag
 colors:
@@ -54,7 +56,6 @@ colors:
   muted: 123 137 159
   darkMuted: 49 55 70
   lightMuted: 210 183 181
-file: let-s-ride.jpg
 ---
 
 Shot in Madurodam, The Netherlands.

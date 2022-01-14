@@ -1,5 +1,6 @@
 ---
 title: Itbāy
+file: itbay.jpg
 date: 2004-05-14 17:05:00 +02:00
 gear:
   make: Konica
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 25.885788668333333
   longitude: 34.24826244166667
+  map: true
   country: Égypte
   city: Al Qusir
 colors:
@@ -49,7 +51,6 @@ colors:
   muted: 136 95 68
   darkMuted: 130 89 60
   lightMuted: 204 188 172
-file: itbay.jpg
 ---
 
 Itbāy (Arabic: اطبيه‎) or ʿAtbāy is a region of southeastern Egypt and northeastern Sudan. It is characterised by a chain of mountains, the Red Sea Hills, running north–south and parallel with the Red Sea. The hills separate the narrow coastal plain from the Eastern Desert.

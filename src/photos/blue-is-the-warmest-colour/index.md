@@ -1,5 +1,6 @@
 ---
 title: Blue is the warmest colour
+file: blue-is-the-warmest-colour.jpg
 date: 2015-08-09 15:08:00 +02:00
 gear:
   make: SONY
@@ -42,6 +43,7 @@ dimensions:
 geo:
   latitude: 22.278391666666668
   longitude: 114.17943166666667
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -51,7 +53,6 @@ colors:
   muted: 171 137 86
   darkMuted: 97 67 51
   lightMuted: 154 150 137
-file: blue-is-the-warmest-colour.jpg
 ---
 
 I saw this man pushing a cart of gas cylinders while I was on the Hong Kong tram, and I immediately saw the blue and yellow correspondences between his outfit, the cylinders, and the pedestrian crossing on the ground.

@@ -1,5 +1,6 @@
 ---
 title: Colors of Little Italy
+file: colors-of-little-italy.jpg
 date: 2015-05-20 15:05:00 +02:00
 gear:
   make: Canon
@@ -58,6 +59,7 @@ dimensions:
 geo:
   latitude: 40.71503
   longitude: -73.99883
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -67,7 +69,6 @@ colors:
   muted: 118 155 173
   darkMuted: 45 71 82
   lightMuted: 198 183 165
-file: colors-of-little-italy.jpg
 ---
 
 

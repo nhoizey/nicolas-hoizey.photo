@@ -1,5 +1,6 @@
 ---
 title: Colourful Burano
+file: colourful-burano.jpg
 date: 2008-04-26 15:04:00 +01:00
 gear:
   make: Canon
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 45.48542777833333
   longitude: 12.415352778333334
+  map: true
   country: Italie
   city: Venezia
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 172 111 97
   darkMuted: 44 68 91
   lightMuted: 190 150 132
-file: colourful-burano.jpg
 ---
 
 

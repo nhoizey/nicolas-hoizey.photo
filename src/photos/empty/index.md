@@ -1,5 +1,6 @@
 ---
 title: Empty
+file: empty.jpg
 date: 2019-03-01 08:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -47,6 +48,7 @@ dimensions:
 geo:
   latitude: -2.6633416666666667
   longitude: 37.312715
+  map: true
   country: Kenya
   city: Kajiado
 colors:
@@ -56,7 +58,6 @@ colors:
   muted: 63 105 130
   darkMuted: 41 68 89
   lightMuted: 158 186 197
-file: empty.jpg
 ---
 
 There is a strong contrast in Amboseli National Park, in Kenya, between swamps filled with animals and desert zones like this one.

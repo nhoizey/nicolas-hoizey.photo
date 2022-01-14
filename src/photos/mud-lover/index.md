@@ -1,5 +1,6 @@
 ---
 title: Mud lover
+file: mud-lover.jpg
 date: 2008-05-11 13:05:00 +02:00
 gear:
   make: Canon
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 51.958405813333336
   longitude: 5.589261265
+  map: true
   country: Pays-Bas
   city: Rhenen
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 164 128 95
   darkMuted: 98 70 49
   lightMuted: 190 168 142
-file: mud-lover.jpg
 ---
 
 Shot this elephant in Rhenen's zoo in The Netherlands.

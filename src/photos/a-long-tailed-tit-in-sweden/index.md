@@ -1,5 +1,6 @@
 ---
 title: A Long-tailed Tit in Sweden
+file: a-long-tailed-tit-in-sweden.jpg
 date: 2020-02-05 13:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -54,6 +55,7 @@ dimensions:
 geo:
   latitude: 59.4802025
   longitude: 18.013016666666665
+  map: true
   country: Suède
   city: Täby
 colors:
@@ -63,7 +65,6 @@ colors:
   muted: 148 135 131
   darkMuted: 57 70 104
   lightMuted: 187 176 180
-file: a-long-tailed-tit-in-sweden.jpg
 ---
 
 The Long-tailed Tit is called "Stjärtmes" in Swedish.

@@ -1,5 +1,6 @@
 ---
 title: The Edward Youde Aviary in Hong-Kong Park
+file: the-edward-youde-aviary-in-hong-kong-park.jpg
 date: 2015-08-08 16:08:00 +02:00
 gear:
   make: SONY
@@ -34,6 +35,7 @@ dimensions:
 geo:
   latitude: 22.276562908333332
   longitude: 114.16076642833333
+  map: true
   country: Hong Kong
   city: Central and Western
 colors:
@@ -43,7 +45,6 @@ colors:
   muted: 156 176 118
   darkMuted: 54 72 46
   lightMuted: 189 192 174
-file: the-edward-youde-aviary-in-hong-kong-park.jpg
 ---
 
 The Edward Youde Aviary (尤德觀鳥園) is a 3,000-square-metre (32,000 sq ft) aviary built over a natural valley at the southern corner of Hong Kong Park, which is located in Central at the bottom of the north eastern slope of Victoria Peak in Hong Kong. The Edward Youde Aviary, largest in Southeast Asia, is named after the late Sir Edward Youde, the Governor of Hong Kong from 1982 to 1986.

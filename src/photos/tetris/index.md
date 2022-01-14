@@ -1,5 +1,6 @@
 ---
 title: Tetris
+file: tetris.jpg
 date: 2019-02-27 12:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -27,6 +28,7 @@ dimensions:
 geo:
   latitude: -0.5086833333333334
   longitude: 35.97557
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -36,7 +38,6 @@ colors:
   muted: 165 141 100
   darkMuted: 61 85 41
   lightMuted: 164 180 212
-file: tetris.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Patrouille de France
+file: patrouille-de-france.jpg
 date: 2017-07-14 10:07:00 +02:00
 gear:
   make: FUJIFILM
@@ -46,6 +47,7 @@ dimensions:
 geo:
   latitude: 48.86638333333333
   longitude: 2.317644445
+  map: true
   country: France
   city: Paris
 colors:
@@ -55,7 +57,6 @@ colors:
   muted: 91 114 165
   darkMuted: 66 41 55
   lightMuted: 173 190 206
-file: patrouille-de-france.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Coco
+file: coco.jpg
 date: 2008-05-11 15:05:00 +02:00
 gear:
   make: Canon
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 51.956985275
   longitude: 5.5909801366666665
+  map: true
   country: Pays-Bas
   city: Rhenen
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 168 130 98
   darkMuted: 77 58 41
   lightMuted: 185 153 125
-file: coco.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Let's go for a ride
+file: let-s-go-for-a-ride.jpg
 date: 2015-08-13 15:08:00 +02:00
 gear:
   make: SONY
@@ -54,6 +55,7 @@ dimensions:
 geo:
   latitude: 22.308375
   longitude: 114.17160277833334
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -63,7 +65,6 @@ colors:
   muted: 166 99 97
   darkMuted: 89 60 55
   lightMuted: 159 206 212
-file: let-s-go-for-a-ride.jpg
 ---
 
 Inside a Hong Kong taxi, riding though the night

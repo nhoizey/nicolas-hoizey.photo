@@ -1,5 +1,6 @@
 ---
 title: Scarlet lily beetle
+file: scarlet-lily-beetle.jpg
 date: 2008-06-14 14:06:00 +02:00
 gear:
   make: Canon
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 48.692803
   longitude: 2.422789
+  map: true
   country: France
   city: Draveil
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 145 166 91
   darkMuted: 103 106 55
   lightMuted: 199 193 185
-file: scarlet-lily-beetle.jpg
 ---
 
 The scarlet lily beetle, red lily beetle, or lily leaf beetle (Lilioceris lilii), is a leaf beetle that eats the leaves, stem, buds, and flowers, of lilies, fritillaries and other members of the family Liliaceae. It lays its eggs most often on Lilium and Fritillaria species.

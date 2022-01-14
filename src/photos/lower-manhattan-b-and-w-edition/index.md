@@ -1,5 +1,6 @@
 ---
 title: Lower Manhattan (B&W Edition)
+file: lower-manhattan-b-and-w-edition.jpg
 date: 2015-05-23 23:05:00 +02:00
 gear:
   make: Canon
@@ -71,6 +72,7 @@ dimensions:
 geo:
   latitude: 40.70071166666666
   longitude: -73.99695833333334
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -80,7 +82,6 @@ colors:
   muted: 117 117 117
   darkMuted: 68 68 68
   lightMuted: 192 192 192
-file: lower-manhattan-b-and-w-edition.jpg
 ---
 
 Yet another classic view of Lower Manhattan at night from the Hudson bank in Brooklyn, now in black and white.

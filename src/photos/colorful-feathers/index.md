@@ -1,5 +1,6 @@
 ---
 title: Colorful feathers
+file: colorful-feathers.jpg
 date: 2008-05-11 15:05:00 +02:00
 gear:
   make: Canon
@@ -32,6 +33,7 @@ dimensions:
 geo:
   latitude: 51.957509853333335
   longitude: 5.59121836
+  map: true
   country: Pays-Bas
   city: Rhenen
 colors:
@@ -41,7 +43,6 @@ colors:
   muted: 150 117 86
   darkMuted: 56 66 80
   lightMuted: 137 84 16
-file: colorful-feathers.jpg
 ---
 
 

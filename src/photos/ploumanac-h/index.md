@@ -1,5 +1,6 @@
 ---
 title: Ploumanac'h
+file: ploumanac-h.jpg
 date: 2013-08-23 09:08:00 +02:00
 gear:
   make: Canon
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 48.836349778333336
   longitude: -3.4839227283333334
+  map: true
   country: France
   city: Perros-Guirec
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 112 146 181
   darkMuted: 86 60 44
   lightMuted: 183 193 209
-file: ploumanac-h.jpg
 ---
 
 The lighthouse of Ploumanac'h is a still active lighthouse in Côtes-d'Armor, near Perros-Guirec.

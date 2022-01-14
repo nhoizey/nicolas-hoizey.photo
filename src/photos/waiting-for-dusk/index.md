@@ -1,5 +1,6 @@
 ---
 title: Waiting for dusk
+file: waiting-for-dusk.jpg
 date: 2019-03-01 08:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -69,6 +70,7 @@ dimensions:
 geo:
   latitude: -2.660558695
   longitude: 37.26950779333333
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -78,7 +80,6 @@ colors:
   muted: 164 140 94
   darkMuted: 86 75 42
   lightMuted: 178 150 108
-file: waiting-for-dusk.jpg
 ---
 
 In the last two decades alone, the African lion population is estimated to have decreased by over 40% and now occupies approximately 17% of  its historical range. 

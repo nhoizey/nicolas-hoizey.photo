@@ -1,5 +1,6 @@
 ---
 title: The Way of Zen
+file: the-way-of-zen.jpg
 date: 2015-08-08 16:08:00 +02:00
 gear:
   make: SONY
@@ -42,6 +43,7 @@ dimensions:
 geo:
   latitude: 22.276853305
   longitude: 114.16071278333334
+  map: true
   country: Hong Kong
   city: Central and Western
 colors:
@@ -51,7 +53,6 @@ colors:
   muted: 170 148 104
   darkMuted: 54 73 45
   lightMuted: 181 178 171
-file: the-way-of-zen.jpg
 ---
 
 

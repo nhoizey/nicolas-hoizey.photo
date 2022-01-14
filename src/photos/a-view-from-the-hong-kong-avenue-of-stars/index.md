@@ -1,5 +1,6 @@
 ---
 title: A view from the Hong Kong Avenue of Stars
+file: a-view-from-the-hong-kong-avenue-of-stars.jpg
 date: 2015-08-08 23:08:00 +02:00
 gear:
   make: Canon
@@ -52,6 +53,7 @@ dimensions:
 geo:
   latitude: 22.293055555
   longitude: 114.17083333333333
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -61,7 +63,6 @@ colors:
   muted: 54 61 108
   darkMuted: 38 40 67
   lightMuted: 185 172 203
-file: a-view-from-the-hong-kong-avenue-of-stars.jpg
 ---
 
 This is Hong Kong Island as seen at night from the <a href="http://www.avenueofstars.com.hk/eng/home.asp">Avenue Of Stars</a>.

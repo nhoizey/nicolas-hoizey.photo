@@ -1,5 +1,6 @@
 ---
 title: Aux couleurs modernes
+file: aux-couleurs-modernes.jpg
 date: 2017-02-03 15:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 48.86857222166667
   longitude: 2.335366666666667
+  map: true
   country: France
   city: Paris
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 146 113 75
   darkMuted: 64 52 43
   lightMuted: 164 174 180
-file: aux-couleurs-modernes.jpg
 ---
 
 

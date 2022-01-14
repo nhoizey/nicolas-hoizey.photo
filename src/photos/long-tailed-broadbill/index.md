@@ -1,5 +1,6 @@
 ---
 title: Long-tailed Broadbill
+file: long-tailed-broadbill.jpg
 date: 2015-08-08 16:08:00 +02:00
 gear:
   make: Canon
@@ -53,6 +54,7 @@ dimensions:
 geo:
   latitude: 22.276678943333334
   longitude: 114.16045059833333
+  map: true
   country: Hong Kong
   city: Central and Western
 colors:
@@ -62,7 +64,6 @@ colors:
   muted: 91 158 141
   darkMuted: 51 77 88
   lightMuted: 208 189 175
-file: long-tailed-broadbill.jpg
 ---
 
 The long-tailed broadbill (Psarisomus dalhousiae) is a species of bird that is found in the Himalayas, extending east through Northeastern India to Southeast Asia.

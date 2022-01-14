@@ -1,5 +1,6 @@
 ---
 title: Le Petit Poucet
+file: le-petit-poucet.jpg
 date: 2018-01-25 09:01:00 +02:00
 gear:
   make: FUJIFILM
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 48.88366666666667
   longitude: 2.3266722216666667
+  map: true
   country: France
   city: Paris-17E-Arrondissement
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 148 132 104
   darkMuted: 89 63 45
   lightMuted: 107 71 46
-file: le-petit-poucet.jpg
 ---
 
 This café-brewery has a very nice decoration with old woodwork and vintage furniture.

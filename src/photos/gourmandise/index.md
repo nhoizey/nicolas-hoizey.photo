@@ -1,5 +1,6 @@
 ---
 title: Gourmandise
+file: gourmandise.jpg
 date: 2019-01-13 12:01:00 +02:00
 gear:
   make: Canon
@@ -32,6 +33,7 @@ dimensions:
 geo:
   latitude: 48.68200319166667
   longitude: 2.405349703333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -41,7 +43,6 @@ colors:
   muted: 119 156 163
   darkMuted: 85 65 37
   lightMuted: 180 201 207
-file: gourmandise.jpg
 ---
 
 Very interesting experiment of culinary photography, conducted at the Photo Club of Draveil.

@@ -1,5 +1,6 @@
 ---
 title: Dreamer
+file: dreamer.jpg
 date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 45.766870178333335
   longitude: 4.833379791666666
+  map: true
   country: France
   city: Lyon
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 164 92 108
   darkMuted: 44 79 42
   lightMuted: 196 182 154
-file: dreamer.jpg
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

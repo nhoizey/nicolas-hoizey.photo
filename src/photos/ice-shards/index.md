@@ -1,5 +1,6 @@
 ---
 title: Ice shards
+file: ice-shards.jpg
 date: 2020-02-03 16:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 59.45694460833333
   longitude: 18.299465586666667
+  map: true
   country: Suède
   city: Åkersberga
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 89 115 164
   darkMuted: 49 66 98
   lightMuted: 143 162 201
-file: ice-shards.jpg
 ---
 
 

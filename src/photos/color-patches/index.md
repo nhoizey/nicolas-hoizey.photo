@@ -1,5 +1,6 @@
 ---
 title: Color Patches
+file: color-patches.jpg
 date: 2017-12-19 19:12:00 +02:00
 gear:
   make: FUJIFILM
@@ -56,6 +57,7 @@ dimensions:
 geo:
   latitude: 48.92033888833333
   longitude: 2.3539527783333334
+  map: true
   country: France
   city: Saint-Denis
 colors:
@@ -65,7 +67,6 @@ colors:
   muted: 160 149 83
   darkMuted: 81 69 51
   lightMuted: 193 199 155
-file: color-patches.jpg
 ---
 
 For some time to come, this group of buildings will house a good part of the Altice Campus, including SFR. They will then move to Balard, and leave the place to the SNCF.

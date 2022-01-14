@@ -1,5 +1,6 @@
 ---
 title: An evening on top of Rome
+file: an-evening-on-top-of-rome.jpg
 date: 2017-05-12 20:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -32,6 +33,7 @@ dimensions:
 geo:
   latitude: 41.89773955
   longitude: 12.477814515
+  map: true
   country: Italie
   city: Rome
 colors:
@@ -41,7 +43,6 @@ colors:
   muted: 77 118 157
   darkMuted: 82 60 48
   lightMuted: 202 181 151
-file: an-evening-on-top-of-rome.jpg
 ---
 
 

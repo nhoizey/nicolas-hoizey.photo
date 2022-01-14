@@ -1,5 +1,6 @@
 ---
 title: What are you waiting for?
+file: what-are-you-waiting-for.jpg
 date: 2019-02-28 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -52,6 +53,7 @@ dimensions:
 geo:
   latitude: -2.6520775666666667
   longitude: 37.27483906333333
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -61,7 +63,6 @@ colors:
   muted: 164 149 93
   darkMuted: 82 79 52
   lightMuted: 193 196 134
-file: what-are-you-waiting-for.jpg
 ---
 
 

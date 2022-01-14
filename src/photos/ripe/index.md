@@ -1,5 +1,6 @@
 ---
 title: Ripe
+file: ripe.jpg
 date: 2015-04-27 15:04:00 +02:00
 gear:
   make: Canon
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 47.477666666666664
   longitude: 1.180830555
+  map: true
   country: France
   city: Chaumont-sur-Loire
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 143 124 108
   darkMuted: 76 61 54
   lightMuted: 190 190 188
-file: ripe.jpg
 ---
 
 "Every book, every volume you see here, has a soul. The soul of the person who wrote it and of those who read it and lived and dreamed with it. Every time a book changes hands, every time someone runs his eyes down its pages, its spirit grows and strengthens." — Carlos Ruiz Zafón, The Shadow of the Wind

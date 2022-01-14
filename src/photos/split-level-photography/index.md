@@ -1,5 +1,6 @@
 ---
 title: Split level photography
+file: split-level-photography.jpg
 date: 2004-05-17 18:50:31 +02:00
 gear:
   make: Fujifilm
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 26.03208027333333
   longitude: 34.562968085
+  map: true
 colors:
   vibrant: 26 163 197
   darkVibrant: 4 23 119
@@ -43,7 +45,6 @@ colors:
   muted: 153 114 140
   darkMuted: 56 55 85
   lightMuted: 202 173 172
-file: split-level-photography.jpg
 ---
 
 

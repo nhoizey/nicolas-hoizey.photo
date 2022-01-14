@@ -1,5 +1,6 @@
 ---
 title: Joinville
+file: joinville.jpg
 date: 2020-10-17 15:10:00 +02:00
 gear:
   make: FUJIFILM
@@ -29,6 +30,7 @@ dimensions:
 geo:
   latitude: 48.440403333333336
   longitude: 5.13971
+  map: true
   country: France
   city: Joinville
 colors:
@@ -38,7 +40,6 @@ colors:
   muted: 107 120 173
   darkMuted: 57 68 73
   lightMuted: 172 174 184
-file: joinville.jpg
 ---
 
 Joinville, also called Joinville-en-Vallage or Joinville en Champagne, is a French commune located in the Haute-Marne department, in the Grand Est region.

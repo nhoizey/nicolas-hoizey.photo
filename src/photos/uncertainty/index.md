@@ -1,5 +1,6 @@
 ---
 title: Uncertainty...
+file: uncertainty.jpg
 date: 2018-02-01 01:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -32,6 +33,7 @@ dimensions:
 geo:
   latitude: 45.75881111166667
   longitude: 4.811183333333333
+  map: true
   country: France
   city: Lyon
 colors:
@@ -41,7 +43,6 @@ colors:
   muted: 167 118 88
   darkMuted: 94 62 49
   lightMuted: 152 164 188
-file: uncertainty.jpg
 ---
 
 Super aperitif / shooting improvised by Thanh and Pierre with some others during my brief passage in Lyon.

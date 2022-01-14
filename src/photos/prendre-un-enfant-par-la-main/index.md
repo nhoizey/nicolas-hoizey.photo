@@ -1,5 +1,6 @@
 ---
 title: Prendre un enfant par la main…
+file: prendre-un-enfant-par-la-main.jpg
 date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 45.76679698833333
   longitude: 4.833170475
+  map: true
   country: France
   city: Lyon
 colors:
@@ -54,7 +56,6 @@ colors:
   muted: 122 122 146
   darkMuted: 44 54 76
   lightMuted: 195 188 201
-file: prendre-un-enfant-par-la-main.jpg
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

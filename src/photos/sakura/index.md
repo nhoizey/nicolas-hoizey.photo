@@ -1,5 +1,6 @@
 ---
 title: Sakura
+file: sakura.jpg
 date: 2009-04-01 15:04:00 +02:00
 gear:
   make: Canon
@@ -31,6 +32,7 @@ dimensions:
 geo:
   latitude: 48.841932893333336
   longitude: 2.226638061666667
+  map: true
   country: France
   city: Boulogne-Billancourt
 colors:
@@ -40,7 +42,6 @@ colors:
   muted: 84 116 156
   darkMuted: 89 79 54
   lightMuted: 174 174 212
-file: sakura.jpg
 ---
 
 Beautiful blooming Cherry Blossom in Albert Khan's Japanese Garden in Boulogne, near Paris, France.

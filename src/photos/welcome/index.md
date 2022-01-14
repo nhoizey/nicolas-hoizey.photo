@@ -1,5 +1,6 @@
 ---
 title: Welcome
+file: welcome.jpg
 date: 2009-10-10 17:10:00 +02:00
 gear:
   make: Canon
@@ -44,7 +45,6 @@ colors:
   muted: 96 120 142
   darkMuted: 32 47 68
   lightMuted: 162 174 183
-file: welcome.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Fog over Niort
+file: fog-over-niort.jpg
 date: 2017-12-04 21:12:00 +02:00
 gear:
   make: FUJIFILM
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 46.324781116666664
   longitude: -0.466844355
+  map: true
   country: France
   city: Niort
 colors:
@@ -54,7 +56,6 @@ colors:
   muted: 147 122 101
   darkMuted: 75 55 43
   lightMuted: 173 176 188
-file: fog-over-niort.jpg
 ---
 
 With the winter cold approaching, and the humidity rising from the Sèvre Niortaise, the atmosphere was particularly mysterious on this Monday evening...

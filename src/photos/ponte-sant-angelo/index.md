@@ -1,5 +1,6 @@
 ---
 title: Ponte Sant'Angelo
+file: ponte-sant-angelo.jpg
 date: 2017-05-14 09:05:00 +01:00
 gear:
   make: FUJIFILM
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 41.90217
   longitude: 12.471513333333334
+  map: true
   country: Italie
   city: Roma
 colors:
@@ -45,7 +47,6 @@ colors:
   muted: 100 128 152
   darkMuted: 75 77 55
   lightMuted: 172 196 210
-file: ponte-sant-angelo.jpg
 ---
 
 The Sant'Angelo Bridge (Italian: Ponte Sant'Angelo) is a bridge in Rome, which connects the two banks of the Tiber in front of the Castel Sant'Angelo, near St. Peter's Basilica and the Vatican.

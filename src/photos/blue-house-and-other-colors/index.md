@@ -1,5 +1,6 @@
 ---
 title: Blue House, and other colors
+file: blue-house-and-other-colors.jpg
 date: 2015-08-09 17:08:00 +02:00
 gear:
   make: SONY
@@ -52,6 +53,7 @@ dimensions:
 geo:
   latitude: 22.274421666666665
   longitude: 114.17389333333334
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -61,7 +63,6 @@ colors:
   muted: 129 122 110
   darkMuted: 46 64 79
   lightMuted: 197 173 195
-file: blue-house-and-other-colors.jpg
 ---
 
 Blue House (Chinese: 藍屋), in the background, is a 4-storey balcony-type tenement block located at 72-74A Stone Nullah Lane, Wan Chai, Hong Kong, China. It is named after the brilliant blue colour painted on its external walls. It is one of the few remaining examples of tong lau of the balcony type in Hong Kong and is listed as Grade I historic building.

@@ -1,5 +1,6 @@
 ---
 title: The threat
+file: the-threat.jpg
 date: 2017-05-19 21:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -37,6 +38,7 @@ dimensions:
 geo:
   latitude: 48.851945805
   longitude: 2.3538411383333333
+  map: true
   country: France
   city: Paris
 colors:
@@ -46,7 +48,6 @@ colors:
   muted: 88 113 135
   darkMuted: 46 60 72
   lightMuted: 122 71 31
-file: the-threat.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Whatever we do to the web of life, we do to ourselves
+file: whatever-we-do-to-the-web-of-life-we-do-to-ourselves.jpg
 date: 2015-05-23 19:05:00 +02:00
 gear:
   make: Canon
@@ -66,6 +67,7 @@ dimensions:
 geo:
   latitude: 40.70337833333333
   longitude: -73.993505
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -75,7 +77,6 @@ colors:
   muted: 95 126 159
   darkMuted: 45 55 72
   lightMuted: 133 156 182
-file: whatever-we-do-to-the-web-of-life-we-do-to-ourselves.jpg
 ---
 
 Here is <a href="https://www.brainyquote.com/quotes/quotes/c/chiefseatt104989.html">the full quote from Chief Seattle</a>: "Humankind has not woven the web of life. We are but one thread within it. Whatever we do to the web, we do to ourselves. All things are bound together. All things connect."

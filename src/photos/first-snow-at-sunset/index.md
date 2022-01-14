@@ -1,5 +1,6 @@
 ---
 title: First snow at sunset
+file: first-snow-at-sunset.jpg
 date: 2012-12-08 17:12:00 +01:00
 gear:
   make: Canon
@@ -53,6 +54,7 @@ dimensions:
 geo:
   latitude: 52.13452460166667
   longitude: 5.534147773333333
+  map: true
 colors:
   vibrant: 234 109 66
   darkVibrant: 40 61 100
@@ -60,7 +62,6 @@ colors:
   muted: 149 124 127
   darkMuted: 52 67 105
   lightMuted: 204 164 139
-file: first-snow-at-sunset.jpg
 ---
 
 

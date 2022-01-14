@@ -1,5 +1,6 @@
 ---
 title: Down to the sky
+file: down-to-the-sky.jpg
 date: 2018-08-05 16:08:00 +02:00
 gear:
   make: FUJIFILM
@@ -48,6 +49,7 @@ dimensions:
 geo:
   latitude: 48.764518671666664
   longitude: 1.8882535950000001
+  map: true
   country: France
   city: Saint-Rémy-l'Honoré
 colors:
@@ -57,7 +59,6 @@ colors:
   muted: 74 144 134
   darkMuted: 88 86 59
   lightMuted: 163 152 132
-file: down-to-the-sky.jpg
 ---
 
 Yili Garden is a traditional Chinese garden of 10,000 square meters, created with the participation of the Suzhoua City Green Spaces Department, with materials from China.

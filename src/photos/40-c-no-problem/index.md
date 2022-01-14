@@ -1,5 +1,6 @@
 ---
 title: 40°C? No problem…
+file: 40-c-no-problem.jpg
 date: 2019-02-28 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -31,6 +32,7 @@ dimensions:
 geo:
   latitude: -2.6660933333333334
   longitude: 37.28133166666667
+  map: true
   country: Kenya
   city: Kajiado
 colors:
@@ -40,7 +42,6 @@ colors:
   muted: 159 139 103
   darkMuted: 83 75 56
   lightMuted: 195 211 225
-file: 40-c-no-problem.jpg
 ---
 
 

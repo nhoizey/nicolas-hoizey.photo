@@ -1,5 +1,6 @@
 ---
 title: Night mirror
+file: night-mirror.jpg
 date: 2010-08-07 23:08:00 +02:00
 gear:
   make: Canon
@@ -28,6 +29,7 @@ dimensions:
 geo:
   latitude: 44.841980555
   longitude: -0.5690000000000001
+  map: true
   country: France
   city: Bordeaux
 colors:
@@ -37,7 +39,6 @@ colors:
   muted: 155 133 104
   darkMuted: 81 62 39
   lightMuted: 167 208 165
-file: night-mirror.jpg
 ---
 
 The water mirror is one of the attractions of the beautiful city of Bordeaux. It is located on the quays of the Garonne, opposite the Place de la Bourse.

@@ -1,5 +1,6 @@
 ---
 title: A peaceful canal in Venice
+file: a-peaceful-canal-in-venice.jpg
 date: 2008-04-25 16:04:00 +01:00
 gear:
   make: Canon
@@ -35,6 +36,7 @@ dimensions:
 geo:
   latitude: 45.439625
   longitude: 12.341188888333333
+  map: true
   country: Italie
   city: Venezia
 colors:
@@ -44,7 +46,6 @@ colors:
   muted: 155 134 100
   darkMuted: 101 74 54
   lightMuted: 155 175 191
-file: a-peaceful-canal-in-venice.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: A bridge not so far
+file: a-bridge-not-so-far.jpg
 date: 2015-05-23 20:05:00 +02:00
 gear:
   make: SONY
@@ -53,6 +54,7 @@ dimensions:
 geo:
   latitude: 40.70306111166666
   longitude: -73.98959166666667
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -62,7 +64,6 @@ colors:
   muted: 101 128 149
   darkMuted: 54 85 103
   lightMuted: 236 240 241
-file: a-bridge-not-so-far.jpg
 ---
 
 This is the iconic view of the Manhattan Bridge from Washington Street, in DUMBO, Brooklyn, New York City.

@@ -1,5 +1,6 @@
 ---
 title: Variable sunbird in Maasai Mara National Reserve, Kenya
+file: variable-sunbird-in-maasai-mara-national-reserve-kenya.jpg
 date: 2019-02-26 10:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -63,6 +64,7 @@ dimensions:
 geo:
   latitude: -1.619375
   longitude: 35.299933333333335
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -72,7 +74,6 @@ colors:
   muted: 96 131 142
   darkMuted: 51 76 41
   lightMuted: 211 197 159
-file: variable-sunbird-in-maasai-mara-national-reserve-kenya.jpg
 ---
 
 The variable sunbird (or yellow-bellied sunbird) is a passerine bird which feed largely on nectar, although it will also take insects, especially when feeding young. Flight is fast and direct on their short wings. Most species can take nectar by hovering like a hummingbird, but usually perch to feed most of the time.

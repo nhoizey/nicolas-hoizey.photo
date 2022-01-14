@@ -1,5 +1,6 @@
 ---
 title: Breathtaking Brooklyn Bridge night panorama
+file: breathtaking-brooklyn-bridge-night-panorama.jpg
 date: 2015-05-23 22:05:00 +02:00
 gear:
   make: Canon
@@ -82,6 +83,7 @@ dimensions:
 geo:
   latitude: 40.70333333333333
   longitude: -73.99638833333333
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -91,7 +93,6 @@ colors:
   muted: 178 151 120
   darkMuted: 73 57 51
   lightMuted: 122 118 173
-file: breathtaking-brooklyn-bridge-night-panorama.jpg
 ---
 
 The view from the Brooklyn Heights Promenade after sunset is amazing, I couldn't resist making a long exposure panorama of Lower Manhattan, the Brooklyn Bridge and the Manhattan Bridge. You can also see the Statue of Liberty in the left side, and the colorful top of the Empire State Building.

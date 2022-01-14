@@ -1,5 +1,6 @@
 ---
 title: Napoleon's carnation
+file: napoleon-s-carnation.jpg
 date: 2020-06-23 20:06:00 +02:00
 gear:
   make: FUJIFILM
@@ -66,6 +67,7 @@ dimensions:
 geo:
   latitude: 48.63141700166667
   longitude: 2.464709945
+  map: true
   country: France
   city: Étiolles
 colors:
@@ -75,7 +77,6 @@ colors:
   muted: 177 123 90
   darkMuted: 44 76 36
   lightMuted: 181 141 143
-file: napoleon-s-carnation.jpg
 ---
 
 This Synema globosum is sometimes called the Napoleon spider, because of a supposed resemblance of the markings on the abdomen (not visible here) to a silhouette of Napoleon wearing his iconic hat.

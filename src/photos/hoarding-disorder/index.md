@@ -1,5 +1,6 @@
 ---
 title: Hoarding disorder
+file: hoarding-disorder.jpg
 date: 2015-08-09 18:08:00 +02:00
 gear:
   make: SONY
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 22.273126666666666
   longitude: 114.17432666666667
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 114 135 150
   darkMuted: 67 57 40
   lightMuted: 190 185 167
-file: hoarding-disorder.jpg
 ---
 
 Compulsive hoarding, also known as hoarding disorder is a behavioral pattern characterized by excessive acquisition of and an inability or unwillingness to discard large quantities of objects that cover the living areas of the home and cause significant distress or impairment.

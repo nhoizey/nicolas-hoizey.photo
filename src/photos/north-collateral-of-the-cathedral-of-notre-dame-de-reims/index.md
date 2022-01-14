@@ -1,5 +1,6 @@
 ---
 title: North collateral of the Cathedral of Notre-Dame de Reims
+file: north-collateral-of-the-cathedral-of-notre-dame-de-reims.jpg
 date: 2019-04-28 14:04:00 +02:00
 gear:
   make: FUJIFILM
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 49.253916528333335
   longitude: 4.0339785316666665
+  map: true
   country: France
   city: Reims
 colors:
@@ -49,7 +51,6 @@ colors:
   muted: 108 148 76
   darkMuted: 68 54 46
   lightMuted: 175 173 178
-file: north-collateral-of-the-cathedral-of-notre-dame-de-reims.jpg
 ---
 
 

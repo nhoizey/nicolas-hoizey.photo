@@ -1,5 +1,6 @@
 ---
 title: Having fun
+file: having-fun.jpg
 date: 2006-04-01 19:04:00 +01:00
 gear:
   make: Canon
@@ -42,6 +43,7 @@ dimensions:
 geo:
   latitude: 48.70974847
   longitude: 2.3877289816666667
+  map: true
   country: France
   city: Athis-Mons
 colors:
@@ -51,7 +53,6 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 175 175 175
-file: having-fun.jpg
 ---
 
 

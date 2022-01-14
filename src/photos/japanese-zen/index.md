@@ -1,5 +1,6 @@
 ---
 title: Japanese Zen
+file: japanese-zen.jpg
 date: 2009-04-01 15:04:00 +02:00
 gear:
   make: Canon
@@ -51,6 +52,7 @@ dimensions:
 geo:
   latitude: 48.84175277833333
   longitude: 2.2267861116666667
+  map: true
   country: France
   city: Boulogne-Billancourt
 colors:
@@ -60,7 +62,6 @@ colors:
   muted: 120 106 71
   darkMuted: 83 66 39
   lightMuted: 137 154 130
-file: japanese-zen.jpg
 ---
 
 The Albert Khan Garden in Boulogne-Billancourt, near Paris, is in fact made up of several thematic gardens, including a splendid Japanese garden, which invites you to meditate and rest, when it is not crowded during the many busy periods.

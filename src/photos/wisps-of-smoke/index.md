@@ -1,5 +1,6 @@
 ---
 title: Wisps of smoke
+file: wisps-of-smoke.jpg
 date: 2020-10-06 22:10:00 +02:00
 gear:
   make: FUJIFILM
@@ -31,6 +32,7 @@ dimensions:
 geo:
   latitude: 48.68202363666666
   longitude: 2.405356628333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -40,7 +42,6 @@ colors:
   muted: 97 129 159
   darkMuted: 45 68 87
   lightMuted: 156 180 204
-file: wisps-of-smoke.jpg
 ---
 
 Photo session in studio organized by Virginie from the Photo Club of Draveil

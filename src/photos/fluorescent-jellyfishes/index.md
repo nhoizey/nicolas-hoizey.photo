@@ -1,5 +1,6 @@
 ---
 title: Fluorescent Jellyfishes
+file: fluorescent-jellyfishes.jpg
 date: 2008-05-11 10:05:00 +02:00
 gear:
   make: Canon
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 51.95771708833333
   longitude: 5.590241996666666
+  map: true
   country: Pays-Bas
   city: Rhenen
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 113 127 182
   darkMuted: 48 52 84
   lightMuted: 212 180 172
-file: fluorescent-jellyfishes.jpg
 ---
 
 Amazing fluorescent jellyfish shot in an aquarium of Rhenen's zoo in The Netherlands.

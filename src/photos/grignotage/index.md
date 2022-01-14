@@ -1,5 +1,6 @@
 ---
 title: Grignotage
+file: grignotage.jpg
 date: 2019-03-10 12:03:00 +02:00
 gear:
   make: Canon
@@ -27,6 +28,7 @@ dimensions:
 geo:
   latitude: 48.68200319166667
   longitude: 2.405349703333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -36,7 +38,6 @@ colors:
   muted: 164 132 81
   darkMuted: 90 55 39
   lightMuted: 198 188 158
-file: grignotage.jpg
 ---
 
 Very interesting experiment of culinary photography, conducted at the Photo Club of Draveil.

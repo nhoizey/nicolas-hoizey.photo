@@ -1,5 +1,6 @@
 ---
 title: Winter is coming…
+file: winter-is-coming.jpg
 date: 2014-02-14 11:02:00 +02:00
 gear:
   make: Canon
@@ -27,6 +28,7 @@ dimensions:
 geo:
   latitude: 45.38614483166667
   longitude: 6.570693018333333
+  map: true
   country: France
   city: Les Allues
 colors:
@@ -36,7 +38,6 @@ colors:
   muted: 156 116 93
   darkMuted: 100 70 54
   lightMuted: 167 178 201
-file: winter-is-coming.jpg
 ---
 
 

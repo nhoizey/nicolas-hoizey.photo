@@ -1,5 +1,6 @@
 ---
 title: Zen
+file: zen.jpg
 date: 2014-06-14 16:06:00 +01:00
 gear:
   make: Canon
@@ -46,6 +47,7 @@ dimensions:
 geo:
   latitude: 45.76658333333334
   longitude: 4.833569445
+  map: true
   country: France
   city: Lyon
 colors:
@@ -55,7 +57,6 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 208 208 208
-file: zen.jpg
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

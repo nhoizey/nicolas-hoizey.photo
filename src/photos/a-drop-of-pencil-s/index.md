@@ -1,5 +1,6 @@
 ---
 title: A drop of pencil(s)
+file: a-drop-of-pencil-s.jpg
 date: 2015-01-13 22:01:00 +02:00
 gear:
   make: Canon
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 48.68746989833333
   longitude: 2.3984945316666666
+  map: true
   country: France
   city: Draveil
 colors:
@@ -49,7 +51,6 @@ colors:
   muted: 158 90 114
   darkMuted: 60 107 88
   lightMuted: 193 185 204
-file: a-drop-of-pencil-s.jpg
 ---
 
 Photo taken during a session of the <a href="https://photo-club-draveil.fr/">Photo Club de Draveil</a> hosted by <a href="https://www.facebook.com/MVuarnesson">Marjolaine Vuarnesson</a>.

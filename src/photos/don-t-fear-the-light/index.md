@@ -1,5 +1,6 @@
 ---
 title: Don't fear the light
+file: don-t-fear-the-light.jpg
 date: 2004-12-27 18:12:00 +02:00
 gear:
   make: Konica
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 51.978883333333336
   longitude: 5.913263333333333
+  map: true
   country: Pays-Bas
   city: Arnhem
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 120 132 134
   darkMuted: 44 76 62
   lightMuted: 188 188 172
-file: don-t-fear-the-light.jpg
 ---
 
 Surreal shot of a statue protecting itself from lights in the fog...

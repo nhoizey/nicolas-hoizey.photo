@@ -1,5 +1,6 @@
 ---
 title: Another colourful window in Burano
+file: another-colourful-window-in-burano.jpg
 date: 2008-04-26 16:04:00 +02:00
 gear:
   make: Canon
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 45.48591111166667
   longitude: 12.417644445
+  map: true
   country: Italie
   city: Venezia
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 168 157 86
   darkMuted: 112 104 59
   lightMuted: 111 101 42
-file: another-colourful-window-in-burano.jpg
 ---
 
 This is one of the many lovely windows of Burano, one of the famous islands of the Venice Lagoon, in Italy. It is said that owners of these houses have to paint them from time to time to keep them perfect for tourists!

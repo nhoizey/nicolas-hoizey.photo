@@ -1,5 +1,6 @@
 ---
 title: Portree
+file: portree.jpg
 date: 2014-05-01 14:05:00 +01:00
 gear:
   make: Canon
@@ -64,6 +65,7 @@ dimensions:
 geo:
   latitude: 57.413064405
   longitude: -6.191885431666667
+  map: true
   country: Royaume-Uni
   city: Portree
 colors:
@@ -73,7 +75,6 @@ colors:
   muted: 170 83 140
   darkMuted: 80 73 58
   lightMuted: 156 180 196
-file: portree.jpg
 ---
 
 Portree is the largest town on the Isle of Skye in the Inner Hebrides of Scotland.

@@ -1,5 +1,6 @@
 ---
 title: Staying close
+file: staying-close.jpg
 date: 2019-02-27 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -58,6 +59,7 @@ dimensions:
 geo:
   latitude: -0.41114333333333336
   longitude: 36.1154
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -67,7 +69,6 @@ colors:
   muted: 140 134 115
   darkMuted: 84 70 51
   lightMuted: 161 164 173
-file: staying-close.jpg
 ---
 
 Lake Nakuru National Park lies deep in the Great Rift Valley. The park is a rhino sanctuary (both black and white) and a bird watchers’ paradise.

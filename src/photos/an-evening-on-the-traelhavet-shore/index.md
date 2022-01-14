@@ -1,5 +1,6 @@
 ---
 title: An evening on the Trälhavet shore
+file: an-evening-on-the-traelhavet-shore.jpg
 date: 2020-02-03 16:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 59.456760935
   longitude: 18.299222176666667
+  map: true
   country: Suède
   city: Åkersberga
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 103 131 166
   darkMuted: 55 68 94
   lightMuted: 172 190 212
-file: an-evening-on-the-traelhavet-shore.jpg
 ---
 
 

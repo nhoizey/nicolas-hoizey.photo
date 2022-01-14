@@ -1,5 +1,6 @@
 ---
 title: While waiting
+file: while-waiting.jpg
 date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
@@ -46,6 +47,7 @@ dimensions:
 geo:
   latitude: 45.766963495
   longitude: 4.833379825
+  map: true
   country: France
   city: Lyon
 colors:
@@ -55,7 +57,6 @@ colors:
   muted: 132 132 132
   darkMuted: 68 68 68
   lightMuted: 180 180 180
-file: while-waiting.jpg
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

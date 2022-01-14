@@ -1,5 +1,6 @@
 ---
 title: Alone
+file: alone.jpg
 date: 2019-02-28 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -50,6 +51,7 @@ dimensions:
 geo:
   latitude: -2.6561877183333333
   longitude: 37.28814150833333
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -59,7 +61,6 @@ colors:
   muted: 175 157 104
   darkMuted: 52 68 75
   lightMuted: 163 183 204
-file: alone.jpg
 ---
 
 

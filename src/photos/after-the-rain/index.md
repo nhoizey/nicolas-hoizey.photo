@@ -1,5 +1,6 @@
 ---
 title: After the rain…
+file: after-the-rain.jpg
 date: 2018-12-09 17:12:00 +02:00
 gear:
   make: FUJIFILM
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 48.689184346666664
   longitude: 2.3974610733333335
+  map: true
   country: France
   city: Draveil
 colors:
@@ -45,7 +47,6 @@ colors:
   muted: 156 92 132
   darkMuted: 40 65 91
   lightMuted: 209 187 182
-file: after-the-rain.jpg
 ---
 
 

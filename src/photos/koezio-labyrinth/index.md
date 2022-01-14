@@ -1,5 +1,6 @@
 ---
 title: Koezio labyrinth
+file: koezio-labyrinth.jpg
 date: 2018-06-16 15:06:00 +02:00
 gear:
   make: FUJIFILM
@@ -29,6 +30,7 @@ dimensions:
 geo:
   latitude: 48.62179341666667
   longitude: 2.5426980283333336
+  map: true
   country: France
   city: Lieusaint
 colors:
@@ -38,7 +40,6 @@ colors:
   muted: 87 161 160
   darkMuted: 80 46 82
   lightMuted: 170 151 117
-file: koezio-labyrinth.jpg
 ---
 
 

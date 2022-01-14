@@ -1,5 +1,6 @@
 ---
 title: Common Ostrich
+file: common-ostrich.jpg
 date: 2019-02-26 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -56,6 +57,7 @@ dimensions:
 geo:
   latitude: -1.5806716666666667
   longitude: 35.27798833333333
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -65,7 +67,6 @@ colors:
   muted: 168 145 96
   darkMuted: 87 78 50
   lightMuted: 179 198 212
-file: common-ostrich.jpg
 ---
 
 The ostriches of the Kenyan savannah have never been so prized: first by jockeys, who ride them to the delight of spectators, and then by meat lovers, their flesh being reputed to be healthy.

@@ -1,5 +1,6 @@
 ---
 title: Drinking water does not reach the tap
+file: drinking-water-does-not-reach-the-tap.jpg
 date: 2019-02-25 09:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: -1.1429966666666667
   longitude: 36.63648333333333
+  map: true
   country: Kenya
   city: Kiambu
 colors:
@@ -45,7 +47,6 @@ colors:
   muted: 163 119 91
   darkMuted: 87 59 45
   lightMuted: 146 163 190
-file: drinking-water-does-not-reach-the-tap.jpg
 ---
 
 Kenya is among the countries identified as having unsafe tap water. It is one of 187 countries in the world where tap water is considered unsafe.

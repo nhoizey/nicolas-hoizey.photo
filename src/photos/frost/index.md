@@ -1,5 +1,6 @@
 ---
 title: Frost
+file: frost.jpg
 date: 2009-01-10 10:01:00 +02:00
 gear:
   make: Canon
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 48.678016666666664
   longitude: 2.451458333333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 115 133 150
   darkMuted: 65 71 79
   lightMuted: 111 54 42
-file: frost.jpg
 ---
 
 There is nothing like getting up at dawn to capture nature petrified of cold in the middle of winter.

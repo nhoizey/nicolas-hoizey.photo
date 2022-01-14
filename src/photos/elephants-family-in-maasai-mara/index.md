@@ -1,5 +1,6 @@
 ---
 title: Elephants family in Maasai Mara
+file: elephants-family-in-maasai-mara.jpg
 date: 2019-02-25 17:02:00 +01:00
 gear:
   make: FUJIFILM
@@ -46,6 +47,7 @@ dimensions:
 geo:
   latitude: -1.6331316666666669
   longitude: 35.346806666666666
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -55,7 +57,6 @@ colors:
   muted: 142 143 99
   darkMuted: 67 75 60
   lightMuted: 196 171 142
-file: elephants-family-in-maasai-mara.jpg
 ---
 
 Elephants are highly sociable and have similar life cycles to humans. The maternity herd is very protective of young, but males are ejected at 12-15 years old, after which they become nomadic males, often associating with other males.

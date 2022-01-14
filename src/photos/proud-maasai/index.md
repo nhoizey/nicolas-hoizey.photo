@@ -1,5 +1,6 @@
 ---
 title: Proud Maasai
+file: proud-maasai.jpg
 date: 2019-02-26 11:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: -1.6017866666666667
   longitude: 35.38950166666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 164 118 90
   darkMuted: 72 59 47
   lightMuted: 209 215 229
-file: proud-maasai.jpg
 ---
 
 Standing proud in the savannah with their red blankets and painted shields, the Maasai people have become one of the more widely known symbols of East Africa; the Maasai shield is even featured on Kenya’s national flag. It’s not uncommon in Kenya and Tanzania to see the Maasai in their traditional dress, not only in their villages but also in the streets of the cities.

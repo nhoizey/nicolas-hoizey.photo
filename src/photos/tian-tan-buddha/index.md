@@ -1,5 +1,6 @@
 ---
 title: Tian Tan Buddha
+file: tian-tan-buddha.jpg
 date: 2015-08-16 08:08:00 +01:00
 gear:
   make: SONY
@@ -37,6 +38,7 @@ dimensions:
 geo:
   latitude: 22.253938888333334
   longitude: 113.90504722166666
+  map: true
   country: China
   city: Ngong Ping
 colors:
@@ -46,7 +48,6 @@ colors:
   muted: 133 124 104
   darkMuted: 71 64 56
   lightMuted: 196 204 203
-file: tian-tan-buddha.jpg
 ---
 
 The Big Buddha (Tian Tan Buddha) is a large bronze statue of Buddha, completed in 1993, and located at Ngong Ping, Lantau Island, in Hong Kong. The statue is sited near Po Lin Monastery and symbolises the harmonious relationship between man and nature, people and faith. It is a major centre of Buddhism in Hong Kong, and is also a tourist attraction.

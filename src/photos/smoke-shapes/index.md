@@ -1,5 +1,6 @@
 ---
 title: Smoke shapes
+file: smoke-shapes.jpg
 date: 2020-10-06 22:10:00 +02:00
 gear:
   make: FUJIFILM
@@ -31,6 +32,7 @@ dimensions:
 geo:
   latitude: 48.68202363666666
   longitude: 2.405356628333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -40,7 +42,6 @@ colors:
   muted: 103 121 151
   darkMuted: 49 68 84
   lightMuted: 167 179 202
-file: smoke-shapes.jpg
 ---
 
 Photo session in studio organized by Virginie from the Photo Club of Draveil

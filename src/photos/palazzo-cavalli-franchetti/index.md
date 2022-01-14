@@ -1,5 +1,6 @@
 ---
 title: Palazzo Cavalli-Franchetti
+file: palazzo-cavalli-franchetti.jpg
 date: 2008-04-24 16:04:00 +01:00
 gear:
   make: Canon
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 45.43178611166667
   longitude: 12.329047221666666
+  map: true
   country: Italie
   city: Venezia
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 79 144 177
   darkMuted: 57 74 76
   lightMuted: 197 173 146
-file: palazzo-cavalli-franchetti.jpg
 ---
 
 Palazzo Cavalli-Franchetti is a palace in Venice, Italy, not far from the Ponte dell'Accademia and next to the Palazzo Barbaro on the Grand Canal of Venice. The palace was erected in 1565. In the 19th century it was internally modernised and externally enriched in Venetian Gothic style, with rich window framing, by a series of grand owners.

@@ -1,5 +1,6 @@
 ---
 title: In all its simplicity
+file: in-all-its-simplicity.jpg
 date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 45.76699719166667
   longitude: 4.833226801666667
+  map: true
   country: France
   city: Lyon
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 132 132 132
   darkMuted: 68 68 68
   lightMuted: 184 184 184
-file: in-all-its-simplicity.jpg
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

@@ -1,5 +1,6 @@
 ---
 title: Saddle-billed stork
+file: saddle-billed-stork.jpg
 date: 2019-02-28 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -57,6 +58,7 @@ dimensions:
 geo:
   latitude: -2.6523165116666667
   longitude: 37.27466943666667
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -66,7 +68,6 @@ colors:
   muted: 111 132 152
   darkMuted: 81 93 51
   lightMuted: 209 190 173
-file: saddle-billed-stork.jpg
 ---
 
 The saddle-billed stork, or saddlebill (Ephippiorhynchus senegalensis) is a large wading bird in the stork family, Ciconiidae. It is a widespread species which is a resident breeder in sub-Saharan Africa from Sudan, Ethiopia and Kenya south to South Africa, and in The Gambia, Senegal, Côte d'Ivoire and Chad in west Africa.

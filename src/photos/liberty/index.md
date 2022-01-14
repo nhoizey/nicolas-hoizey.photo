@@ -1,5 +1,6 @@
 ---
 title: Liberty
+file: liberty.jpg
 date: 2015-05-21 17:05:00 +02:00
 gear:
   make: Canon
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 40.681175
   longitude: -74.04035166666667
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 90 118 152
   darkMuted: 84 49 62
   lightMuted: 213 193 181
-file: liberty.jpg
 ---
 
 

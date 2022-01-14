@@ -1,5 +1,6 @@
 ---
 title: The fishmonger
+file: the-fishmonger.jpg
 date: 2015-08-09 16:08:00 +02:00
 gear:
   make: SONY
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 22.277733333333334
   longitude: 114.17510166666666
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 138 131 125
   darkMuted: 73 45 37
   lightMuted: 213 196 202
-file: the-fishmonger.jpg
 ---
 
 Even at night, the temperature can be pretty high in Hong Kong, hence the rather light clothing of this fishmonger in a night market in Wan Chai.

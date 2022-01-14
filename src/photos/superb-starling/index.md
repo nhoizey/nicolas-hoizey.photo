@@ -1,5 +1,6 @@
 ---
 title: Superb Starling
+file: superb-starling.jpg
 date: 2018-10-30 13:10:00 +02:00
 gear:
   make: FUJIFILM
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 51.67220394
   longitude: 5.99632914
+  map: true
   country: Pays-Bas
   city: Heijen
 colors:
@@ -58,7 +60,6 @@ colors:
   muted: 132 115 107
   darkMuted: 84 63 52
   lightMuted: 108 74 45
-file: superb-starling.jpg
 ---
 
 

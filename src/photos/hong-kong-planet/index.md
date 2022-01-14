@@ -1,5 +1,6 @@
 ---
 title: Hong Kong planet
+file: hong-kong-planet.jpg
 date: 2015-08-08 23:08:00 +02:00
 gear: {}
 tags:
@@ -47,6 +48,7 @@ dimensions:
 geo:
   latitude: 22.293041666666667
   longitude: 114.17085
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -56,7 +58,6 @@ colors:
   muted: 76 92 175
   darkMuted: 34 37 70
   lightMuted: 189 187 222
-file: hong-kong-planet.jpg
 ---
 
 I had to try once this little magic trick, and it seemed this panorama was a perfect candidate, so here it is, Hong Kong turned into a little planet!

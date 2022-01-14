@@ -1,5 +1,6 @@
 ---
 title: Hard manual work in the fields
+file: hard-manual-work-in-the-fields.jpg
 date: 2019-02-27 12:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -26,6 +27,7 @@ dimensions:
 geo:
   latitude: -0.6482066666666667
   longitude: 35.98392
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -35,7 +37,6 @@ colors:
   muted: 104 123 152
   darkMuted: 84 59 39
   lightMuted: 141 153 185
-file: hard-manual-work-in-the-fields.jpg
 ---
 
 

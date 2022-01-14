@@ -1,5 +1,6 @@
 ---
 title: Driving south
+file: driving-south.jpg
 date: 2015-05-19 13:05:00 +02:00
 gear:
   make: Canon
@@ -48,6 +49,7 @@ dimensions:
 geo:
   latitude: 40.741483333333335
   longitude: -73.989619445
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -57,7 +59,6 @@ colors:
   muted: 123 123 123
   darkMuted: 68 68 68
   lightMuted: 191 191 191
-file: driving-south.jpg
 ---
 
 Shot in Manhattan, New-York City. This is the Flatiron Building on the left side. Driving south on the Fifth Avenue.

@@ -1,5 +1,6 @@
 ---
 title: Lesser blue-eared starling
+file: lesser-blue-eared-starling.jpg
 date: 2018-10-30 13:10:00 +02:00
 gear:
   make: FUJIFILM
@@ -51,6 +52,7 @@ dimensions:
 geo:
   latitude: 51.672215531666666
   longitude: 5.996315938333334
+  map: true
   country: Pays-Bas
   city: Heijen
 colors:
@@ -60,7 +62,6 @@ colors:
   muted: 109 145 170
   darkMuted: 101 87 56
   lightMuted: 153 196 189
-file: lesser-blue-eared-starling.jpg
 ---
 
 

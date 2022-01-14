@@ -1,5 +1,6 @@
 ---
 title: Fontana di Trevi
+file: fontana-di-trevi.jpg
 date: 2017-05-11 19:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 41.90084330333333
   longitude: 12.483434845
+  map: true
   country: Italie
   city: Rome
 colors:
@@ -49,7 +51,6 @@ colors:
   muted: 113 145 154
   darkMuted: 73 63 57
   lightMuted: 162 178 196
-file: fontana-di-trevi.jpg
 ---
 
 The Trevi Fountain is a fountain in the Trevi district in Rome, Italy.

@@ -1,5 +1,6 @@
 ---
 title: Eastern Desert perspective
+file: eastern-desert-perspective.jpg
 date: 2004-05-14 18:05:00 +02:00
 gear:
   make: Konica
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 25.897621485
   longitude: 34.294278395
+  map: true
   country: Égypte
   city: Al Qusir
 colors:
@@ -49,7 +51,6 @@ colors:
   muted: 166 126 95
   darkMuted: 83 64 56
   lightMuted: 203 184 189
-file: eastern-desert-perspective.jpg
 ---
 
 

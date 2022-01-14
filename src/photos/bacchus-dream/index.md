@@ -1,5 +1,6 @@
 ---
 title: Bacchus dream
+file: bacchus-dream.jpg
 date: 2007-11-03 18:11:00 +02:00
 gear:
   make: Canon
@@ -48,6 +49,7 @@ dimensions:
 geo:
   latitude: 49.243113023333336
   longitude: 4.052492393333333
+  map: true
   country: France
   city: Reims
 colors:
@@ -57,7 +59,6 @@ colors:
   muted: 170 130 90
   darkMuted: 87 59 44
   lightMuted: 187 156 112
-file: bacchus-dream.jpg
 ---
 
 

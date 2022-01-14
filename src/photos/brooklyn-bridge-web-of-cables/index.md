@@ -1,5 +1,6 @@
 ---
 title: Brooklyn Bridge web of cables
+file: brooklyn-bridge-web-of-cables.jpg
 date: 2015-05-23 19:05:00 +02:00
 gear:
   make: Canon
@@ -63,6 +64,7 @@ dimensions:
 geo:
   latitude: 40.70494166666667
   longitude: -73.99552333333334
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -72,7 +74,6 @@ colors:
   muted: 84 116 164
   darkMuted: 83 58 54
   lightMuted: 181 188 196
-file: brooklyn-bridge-web-of-cables.jpg
 ---
 
 The Brooklyn Bridge is one of the most prominent sights in New York City. It spans over the East River, linking Manhattan and Brooklyn. With massive masonry towers and a web of cables, this suspension bridge is instantly recognizable even to many who have never been to New York.

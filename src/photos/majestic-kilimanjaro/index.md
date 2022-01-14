@@ -1,5 +1,6 @@
 ---
 title: Majestic Kilimanjaro
+file: majestic-kilimanjaro.jpg
 date: 2019-02-28 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -52,6 +53,7 @@ dimensions:
 geo:
   latitude: -2.697405
   longitude: 37.323875
+  map: true
   country: Kenya
   city: Kajiado
 colors:
@@ -61,7 +63,6 @@ colors:
   muted: 102 123 147
   darkMuted: 75 62 53
   lightMuted: 168 189 204
-file: majestic-kilimanjaro.jpg
 ---
 
 Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It has great views of Mount Kilimanjaro, the highest free-standing mountain in the world.

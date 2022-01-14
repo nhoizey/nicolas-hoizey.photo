@@ -1,5 +1,6 @@
 ---
 title: Newborn African buffalo
+file: newborn-african-buffalo.jpg
 date: 2019-02-27 17:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -64,6 +65,7 @@ dimensions:
 geo:
   latitude: -0.31449166666666667
   longitude: 36.085186666666665
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -73,7 +75,6 @@ colors:
   muted: 148 124 100
   darkMuted: 85 70 55
   lightMuted: 174 148 119
-file: newborn-african-buffalo.jpg
 ---
 
 Newborn calves remain hidden in vegetation for the first few weeks while being nursed occasionally by the mother before joining the main herd. Older calves are held in the centre of the herd for safety.

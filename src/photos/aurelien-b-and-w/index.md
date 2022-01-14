@@ -1,5 +1,6 @@
 ---
 title: Aurélien B&W
+file: aurelien-b-and-w.jpg
 date: 2016-01-26 22:01:00 +02:00
 gear:
   make: Canon
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 48.68746989833333
   longitude: 2.3984945316666666
+  map: true
   country: France
   city: Draveil
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 188 188 188
-file: aurelien-b-and-w.jpg
 ---
 
 I shot this portrait during a session of our <a href="https://photo-club-draveil.fr/">Photo Club in Draveil, France</a>.

@@ -1,5 +1,6 @@
 ---
 title: Bonjour
+file: bonjour.jpg
 date: 2015-08-15 15:08:00 +02:00
 gear:
   make: SONY
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 22.308838888333334
   longitude: 114.17141111166667
+  map: true
   country: Hong Kong
   city: Hong-Kong
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 151 2 2
   darkMuted: 84 60 44
   lightMuted: 180 194 208
-file: bonjour.jpg
 ---
 
 This is not an hotel, as some might think. "<a href="http://www.bonjourhk.com/en/main.aspx">Bonjour</a>" is a cosmetics retail store in Hong Kong.

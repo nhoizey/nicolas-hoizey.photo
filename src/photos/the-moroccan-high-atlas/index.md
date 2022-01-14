@@ -1,5 +1,6 @@
 ---
 title: The Moroccan High Atlas
+file: the-moroccan-high-atlas.jpg
 date: 2011-05-08 12:05:00 +02:00
 gear:
   make: Canon
@@ -57,6 +58,7 @@ dimensions:
 geo:
   latitude: 30.417451858333333
   longitude: -8.673681001666667
+  map: true
   country: Maroc
 colors:
   vibrant: 4 122 196
@@ -65,7 +67,6 @@ colors:
   muted: 169 140 86
   darkMuted: 49 70 60
   lightMuted: 153 180 202
-file: the-moroccan-high-atlas.jpg
 ---
 
 Here is a splendid view of the High Atlas mountain range, in Morocco, from the plain of Taroudant, near the town of Tioute, on the foothills of the Anti-Atlas.  The highest peak visible in the distance, 50 kilometers away, is the Jbel Tinergwet, which culminates according to the sources (very variable) between 3409 and 3551 meters of altitude: https://mapcarta.com/fr/17401510 http://peakbagger.com/peak.aspx?pid=46888

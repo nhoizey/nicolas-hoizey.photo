@@ -1,5 +1,6 @@
 ---
 title: Aurélien
+file: aurelien.jpg
 date: 2016-01-26 22:01:00 +02:00
 gear:
   make: Canon
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 48.68746989833333
   longitude: 2.3984945316666666
+  map: true
   country: France
   city: Draveil
 colors:
@@ -45,7 +47,6 @@ colors:
   muted: 172 100 141
   darkMuted: 102 52 76
   lightMuted: 208 194 181
-file: aurelien.jpg
 ---
 
 Portrait taken during a <a href="https://photo-club-draveil.fr/">Photo Club de Draveil</a> session.

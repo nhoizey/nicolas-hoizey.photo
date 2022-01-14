@@ -1,5 +1,6 @@
 ---
 title: Ladies
+file: ladies.jpg
 date: 2019-02-25 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -59,6 +60,7 @@ dimensions:
 geo:
   latitude: -1.626315
   longitude: 35.30905166666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -68,7 +70,6 @@ colors:
   muted: 141 130 122
   darkMuted: 79 86 58
   lightMuted: 177 159 155
-file: ladies.jpg
 ---
 
 

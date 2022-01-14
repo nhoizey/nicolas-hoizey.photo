@@ -1,5 +1,6 @@
 ---
 title: South New Caledonia
+file: south-new-caledonia.jpg
 date: 2013-03-30 17:03:00 +02:00
 gear:
   make: Canon
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: -22.286294143333333
   longitude: 166.64571112833335
+  map: true
   country: Nouvelle-Calédonie
 colors:
   vibrant: 72 122 168
@@ -48,7 +50,6 @@ colors:
   muted: 166 125 91
   darkMuted: 89 71 54
   lightMuted: 183 195 205
-file: south-new-caledonia.jpg
 ---
 
 

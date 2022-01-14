@@ -1,5 +1,6 @@
 ---
 title: Elephants at sunrise in front of Kilimanjaro
+file: elephants-at-sunrise-in-front-of-kilimanjaro.jpg
 date: 2019-03-01 07:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -46,6 +47,7 @@ dimensions:
 geo:
   latitude: -2.71191
   longitude: 37.354288333333336
+  map: true
   country: Kenya
   city: Kajiado
 colors:
@@ -55,7 +57,6 @@ colors:
   muted: 89 112 150
   darkMuted: 71 49 34
   lightMuted: 171 190 209
-file: elephants-at-sunrise-in-front-of-kilimanjaro.jpg
 ---
 
 Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It is one of the best place in the world to get close to free-ranging elephants.

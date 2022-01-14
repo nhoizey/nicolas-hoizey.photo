@@ -1,5 +1,6 @@
 ---
 title: Blue Hotel
+file: blue-hotel.jpg
 date: 2019-02-25 11:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -37,6 +38,7 @@ dimensions:
 geo:
   latitude: -1.0973783333333333
   longitude: 36.08354166666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -46,7 +48,6 @@ colors:
   muted: 140 109 92
   darkMuted: 27 42 61
   lightMuted: 173 187 199
-file: blue-hotel.jpg
 ---
 
 Does it remind you about Chris Isaak's song? 😁

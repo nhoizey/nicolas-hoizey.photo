@@ -1,5 +1,6 @@
 ---
 title: Leslie
+file: leslie.jpg
 date: 2014-06-14 17:06:00 +02:00
 gear:
   make: Canon
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 45.777805555
   longitude: 4.843352778333333
+  map: true
   country: France
   city: Lyon
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 188 188 188
-file: leslie.jpg
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

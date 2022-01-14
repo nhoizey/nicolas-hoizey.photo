@@ -1,5 +1,6 @@
 ---
 title: A Riad in Taroudant, Morocco
+file: a-riad-in-taroudant-morocco.jpg
 date: 2011-05-04 19:05:00 +02:00
 gear:
   make: Canon
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 30.467730555
   longitude: -8.884002778333333
+  map: true
   country: Maroc
   city: Taroudant
 colors:
@@ -58,7 +60,6 @@ colors:
   muted: 174 119 94
   darkMuted: 86 60 54
   lightMuted: 184 177 194
-file: a-riad-in-taroudant-morocco.jpg
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Wood pier in sunset
+file: wood-pier-in-sunset.jpg
 date: 2004-06-12 22:06:00 +02:00
 gear:
   make: Konica
@@ -47,6 +48,7 @@ dimensions:
 geo:
   latitude: 50.06413888833333
   longitude: 1.3695666666666666
+  map: true
   country: France
   city: Le Tréport
 colors:
@@ -56,7 +58,6 @@ colors:
   muted: 105 111 140
   darkMuted: 84 68 44
   lightMuted: 159 173 198
-file: wood-pier-in-sunset.jpg
 ---
 
 

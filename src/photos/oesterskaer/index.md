@@ -1,5 +1,6 @@
 ---
 title: Österskär
+file: oesterskaer.jpg
 date: 2020-02-03 16:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -36,6 +37,7 @@ dimensions:
 geo:
   latitude: 59.460056488333336
   longitude: 18.297942645
+  map: true
   country: Suède
 colors:
   vibrant: 166 66 31
@@ -44,7 +46,6 @@ colors:
   muted: 96 127 148
   darkMuted: 68 56 46
   lightMuted: 164 191 208
-file: oesterskaer.jpg
 ---
 
 Österskär is eastern part of Åkersberga, Österåker Municipality in Sweden. The area is located in a hilly peninsula between Tunaviken and Sätterfjärden northwest of Trälhavet. Due to the height differences and the possibility to get a sea view, many Stockholmers have their boats in one of Österskär's many marinas.

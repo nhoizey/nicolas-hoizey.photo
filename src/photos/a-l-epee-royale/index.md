@@ -1,5 +1,6 @@
 ---
 title: À l'épée Royale
+file: a-l-epee-royale.jpg
 date: 2013-08-14 15:08:00 +02:00
 gear:
   make: Canon
@@ -35,6 +36,7 @@ dimensions:
 geo:
   latitude: 48.77687949833334
   longitude: 1.9630555916666665
+  map: true
   country: France
   city: Élancourt
 colors:
@@ -44,7 +46,6 @@ colors:
   muted: 170 127 101
   darkMuted: 54 63 75
   lightMuted: 189 184 177
-file: a-l-epee-royale.jpg
 ---
 
 Visiting the Mont-Saint-Michel, the Roman Theatre of Orange and Notre-Dame de Paris in less than 12 hours is a piece of cake! Just slip on your seven-league boots and whisk the kids off to France Miniature.

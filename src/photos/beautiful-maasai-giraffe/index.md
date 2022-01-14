@@ -1,5 +1,6 @@
 ---
 title: Beautiful Maasai giraffe
+file: beautiful-maasai-giraffe.jpg
 date: 2019-02-26 08:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -58,6 +59,7 @@ dimensions:
 geo:
   latitude: -1.6264699999999999
   longitude: 35.30825333333333
+  map: true
   country: Kenya
   city: Siana
 colors:
@@ -67,7 +69,6 @@ colors:
   muted: 191 159 123
   darkMuted: 63 73 40
   lightMuted: 131 138 151
-file: beautiful-maasai-giraffe.jpg
 ---
 
 The Masai giraffe (Giraffa camelopardalis tippelskirchii), also spelled Maasai giraffe, also called Kilimanjaro giraffe, is the largest subspecies of giraffe. It is native to East Africa. The Masai giraffe can be found in central and southern Kenya and in Tanzania. It has distinctive, irregular, jagged, star-like blotches that extend to the hooves. A median forehead lump is usually present in bulls.

@@ -1,5 +1,6 @@
 ---
 title: Plongée en contre plongée
+file: plongee-en-contre-plongee.jpg
 date: 2004-05-17 18:52:04 +02:00
 gear:
   make: Fujifilm
@@ -33,6 +34,7 @@ dimensions:
 geo:
   latitude: 26.00801542
   longitude: 34.54992182
+  map: true
 colors:
   vibrant: 9 206 239
   darkVibrant: 4 52 148
@@ -40,7 +42,6 @@ colors:
   muted: 6 127 147
   darkMuted: 4 52 149
   lightMuted: 13 119 140
-file: plongee-en-contre-plongee.jpg
 ---
 
 This photo title is a play on words in French, where « plongée » means "dive" and « contre-plongée » means "low-angle shot".

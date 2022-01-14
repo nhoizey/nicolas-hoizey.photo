@@ -1,5 +1,6 @@
 ---
 title: Asif Oussaka
+file: asif-oussaka.jpg
 date: 2011-05-06 12:05:00 +01:00
 gear:
   make: Canon
@@ -60,6 +61,7 @@ dimensions:
 geo:
   latitude: 30.1627634
   longitude: -9.1090226
+  map: true
   country: Maroc
 colors:
   vibrant: 180 100 68
@@ -68,7 +70,6 @@ colors:
   muted: 145 117 94
   darkMuted: 47 70 89
   lightMuted: 194 176 162
-file: asif-oussaka.jpg
 ---
 
 Wadi, North African Arabic Oued, is the Arabic term traditionally referring to a valley. In some instances, it may refer to a dry (ephemeral) riverbed that contains water only when heavy rain occurs.

@@ -1,5 +1,6 @@
 ---
 title: So, you're still ok for this?
+file: so-you-re-still-ok-for-this.jpg
 date: 2019-02-27 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -73,6 +74,7 @@ dimensions:
 geo:
   latitude: -0.36728
   longitude: 36.120135
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -82,7 +84,6 @@ colors:
   muted: 141 126 104
   darkMuted: 76 74 49
   lightMuted: 200 194 195
-file: so-you-re-still-ok-for-this.jpg
 ---
 
 While many might assume that the birds are a constant annoyance to the majestic buffalo who carry them across the plains of Kenya, they would only be half right.

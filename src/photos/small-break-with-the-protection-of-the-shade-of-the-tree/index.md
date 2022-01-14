@@ -1,5 +1,6 @@
 ---
 title: Small break with the protection of the shade of the tree
+file: small-break-with-the-protection-of-the-shade-of-the-tree.jpg
 date: 2019-02-26 12:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -37,6 +38,7 @@ dimensions:
 geo:
   latitude: -1.6023833333333335
   longitude: 35.389511666666664
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -46,7 +48,6 @@ colors:
   muted: 167 135 101
   darkMuted: 88 75 54
   lightMuted: 207 178 162
-file: small-break-with-the-protection-of-the-shade-of-the-tree.jpg
 ---
 
 

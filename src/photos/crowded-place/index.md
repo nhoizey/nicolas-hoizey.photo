@@ -1,5 +1,6 @@
 ---
 title: Crowded place
+file: crowded-place.jpg
 date: 2019-02-28 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: -2.7111768400000003
   longitude: 37.333191621666664
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 142 106 73
   darkMuted: 99 74 51
   lightMuted: 182 200 211
-file: crowded-place.jpg
 ---
 
 

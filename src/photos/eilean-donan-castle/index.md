@@ -1,5 +1,6 @@
 ---
 title: Eilean Donan Castle
+file: eilean-donan-castle.jpg
 date: 2014-05-01 18:05:00 +02:00
 gear:
   make: Canon
@@ -46,6 +47,7 @@ dimensions:
 geo:
   latitude: 57.27417777833333
   longitude: -5.5137194449999996
+  map: true
   country: Royaume-Uni
   city: Dornie
 colors:
@@ -55,7 +57,6 @@ colors:
   muted: 156 156 92
   darkMuted: 80 86 42
   lightMuted: 179 188 194
-file: eilean-donan-castle.jpg
 ---
 
 Eilean Donan is a small tidal island where three sea lochs meet, Loch Duich, Loch Long and Loch Alsh, in the western Highlands of Scotland. A picturesque castle that frequently appears in photographs, film and television dominates the island. Since the castle's restoration in the early 20th century, a footbridge has connected the island to the mainland.

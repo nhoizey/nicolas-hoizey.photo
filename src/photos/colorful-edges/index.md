@@ -1,5 +1,6 @@
 ---
 title: Colorful edges
+file: colorful-edges.jpg
 date: 2015-01-21 00:01:00 +02:00
 gear: {}
 tags:
@@ -30,6 +31,7 @@ dimensions:
 geo:
   latitude: 48.68746989833333
   longitude: 2.3984945316666666
+  map: true
   country: France
   city: Draveil
 colors:
@@ -39,7 +41,6 @@ colors:
   muted: 2 151 2
   darkMuted: 4 4 4
   lightMuted: 3 28 150
-file: colorful-edges.jpg
 ---
 
 Photo taken at a <a href="https://photo-club-draveil.fr/">Photo Club de Draveil</a> session.

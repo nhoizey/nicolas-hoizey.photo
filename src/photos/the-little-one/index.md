@@ -1,5 +1,6 @@
 ---
 title: The little one
+file: the-little-one.jpg
 date: 2019-02-27 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -63,6 +64,7 @@ dimensions:
 geo:
   latitude: -0.40842666666666666
   longitude: 36.119485
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -72,7 +74,6 @@ colors:
   muted: 140 127 112
   darkMuted: 75 61 43
   lightMuted: 191 180 162
-file: the-little-one.jpg
 ---
 
 The Rhino Sanctuary in Lake Nakuru National Park was the first Rhino sanctuary in Kenya and is currently home to the largest number of black rhinos in the country. The rhino sanctuary was established in 1984 when the first two rhinos were introduced to the lake Nakuru National Park grounds.

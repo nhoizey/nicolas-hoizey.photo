@@ -1,5 +1,6 @@
 ---
 title: Baglafecht weaver
+file: baglafecht-weaver.jpg
 date: 2019-02-26 10:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -55,6 +56,7 @@ dimensions:
 geo:
   latitude: -1.6233083333333334
   longitude: 35.31023833333333
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -64,7 +66,6 @@ colors:
   muted: 148 160 97
   darkMuted: 86 79 55
   lightMuted: 164 164 172
-file: baglafecht-weaver.jpg
 ---
 
 This high and mid-mountain species, which descends at its lowest around 800 meters in Uganda and Kenya, is well adapted to degraded, agricultural and even urban environments. At the base, it lives in the edges and clearings of the mountain forest.

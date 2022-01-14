@@ -1,5 +1,6 @@
 ---
 title: Who is the observer?
+file: who-is-the-observer.jpg
 date: 2019-02-26 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -64,6 +65,7 @@ dimensions:
 geo:
   latitude: -1.589233055
   longitude: 35.29284666666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -73,7 +75,6 @@ colors:
   muted: 154 140 79
   darkMuted: 50 46 30
   lightMuted: 171 186 202
-file: who-is-the-observer.jpg
 ---
 
 The Masai giraffe is the largest subspecies of giraffe, making it the tallest land animal on earth.

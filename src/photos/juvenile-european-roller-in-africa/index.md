@@ -1,5 +1,6 @@
 ---
 title: Juvenile European Roller… in Africa
+file: juvenile-european-roller-in-africa.jpg
 date: 2019-03-02 08:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -53,6 +54,7 @@ dimensions:
 geo:
   latitude: -3.5087916666666668
   longitude: 38.251866666666665
+  map: true
   country: Kenya
   city: Taita
 colors:
@@ -62,7 +64,6 @@ colors:
   muted: 156 123 88
   darkMuted: 94 83 50
   lightMuted: 179 185 160
-file: juvenile-european-roller-in-africa.jpg
 ---
 
 The European roller is a long-distance migrant, wintering in Africa south of the Sahara in two distinct regions, from Senegal east to Cameroon and from Ethiopia west. It is a bird of warm, dry, open country with scattered trees, preferring lowlands.

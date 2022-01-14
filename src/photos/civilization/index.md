@@ -1,5 +1,6 @@
 ---
 title: Civilization
+file: civilization.jpg
 date: 2019-03-01 09:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: -2.7555083333333332
   longitude: 37.428066666666666
+  map: true
   country: Kenya
   city: Kajiado
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 148 115 91
   darkMuted: 84 64 52
   lightMuted: 216 196 178
-file: civilization.jpg
 ---
 
 

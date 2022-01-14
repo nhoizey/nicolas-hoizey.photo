@@ -1,5 +1,6 @@
 ---
 title: African baobab
+file: african-baobab.jpg
 date: 2019-03-01 16:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: -3.390616666666667
   longitude: 37.73237833333334
+  map: true
   country: Kenya
   city: Taita
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 148 111 78
   darkMuted: 75 71 39
   lightMuted: 128 151 156
-file: african-baobab.jpg
 ---
 
 The African Baobab is a multipurpose, drought resistant, wild fruit tree, endemic to arid and semi-arid lands of Sub-Saharan Africa. Baobab populations have been showing a lack of regeneration, and therefore causes concern for the species survival.

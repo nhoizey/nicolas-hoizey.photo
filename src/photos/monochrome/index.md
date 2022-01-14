@@ -1,5 +1,6 @@
 ---
 title: Monochrome
+file: monochrome.jpg
 date: 2019-04-14 11:04:00 +02:00
 gear:
   make: NIKON CORPORATION
@@ -28,6 +29,7 @@ dimensions:
 geo:
   latitude: 48.68200319166667
   longitude: 2.405349703333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -37,7 +39,6 @@ colors:
   muted: 145 118 104
   darkMuted: 83 60 41
   lightMuted: 188 172 159
-file: monochrome.jpg
 ---
 
 Very interesting experiment of culinary photography, conducted at the Photo Club of Draveil.

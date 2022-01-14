@@ -1,5 +1,6 @@
 ---
 title: Elephants grazing in Amboseli swamps
+file: elephants-grazing-in-amboseli-swamps.jpg
 date: 2019-02-28 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -47,6 +48,7 @@ dimensions:
 geo:
   latitude: -2.6526416166666666
   longitude: 37.27443772833333
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -56,7 +58,6 @@ colors:
   muted: 100 141 172
   darkMuted: 90 97 46
   lightMuted: 142 166 186
-file: elephants-grazing-in-amboseli-swamps.jpg
 ---
 
 Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It is one of the best place in the world to get close to free-ranging elephants.

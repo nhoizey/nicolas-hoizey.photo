@@ -1,5 +1,6 @@
 ---
 title: Kilchurn Castle
+file: kilchurn-castle.jpg
 date: 2014-04-30 18:04:00 +02:00
 gear:
   make: Canon
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 56.400980555
   longitude: -5.024969445
+  map: true
   country: Royaume-Uni
 colors:
   vibrant: 200 213 42
@@ -47,7 +49,6 @@ colors:
   muted: 116 125 136
   darkMuted: 85 86 49
   lightMuted: 155 156 155
-file: kilchurn-castle.jpg
 ---
 
 Kilchurn Castle is a ruined 15th century castle located at the north-eastern end of Loch Awe in Argyll and Bute, Scotland.

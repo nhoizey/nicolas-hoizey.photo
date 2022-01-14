@@ -1,5 +1,6 @@
 ---
 title: The locomotion
+file: the-locomotion.jpg
 date: 2019-02-26 12:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: -1.6023483333333335
   longitude: 35.390315
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 154 134 82
   darkMuted: 78 59 36
   lightMuted: 212 180 188
-file: the-locomotion.jpg
 ---
 
 Most Kenyans travel with motorcycles, and sometimes one of these is shared by multiple families, at least in Maasai villages.

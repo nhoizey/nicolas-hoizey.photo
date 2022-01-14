@@ -1,5 +1,6 @@
 ---
 title: Flamingos wading in wetlands in Amboseli National Park
+file: flamingos-wading-in-wetlands-in-amboseli-national-park.jpg
 date: 2019-03-01 08:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -56,6 +57,7 @@ dimensions:
 geo:
   latitude: -2.6604482
   longitude: 37.269340645
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -65,7 +67,6 @@ colors:
   muted: 149 124 104
   darkMuted: 116 95 69
   lightMuted: 202 183 172
-file: flamingos-wading-in-wetlands-in-amboseli-national-park.jpg
 ---
 
 The lakes in Amboseli National Park are seasonal and mainly located in the Western part of the park and usually fill up during the rainy season.

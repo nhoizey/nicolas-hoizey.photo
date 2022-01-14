@@ -1,5 +1,6 @@
 ---
 title: Limitless
+file: limitless.jpg
 date: 2014-06-14 15:06:00 +01:00
 gear:
   make: Canon
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 45.76670905
   longitude: 4.8331731583333335
+  map: true
   country: France
   city: Lyon
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 133 114 102
   darkMuted: 95 67 54
   lightMuted: 209 175 158
-file: limitless.jpg
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

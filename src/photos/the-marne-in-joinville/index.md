@@ -1,5 +1,6 @@
 ---
 title: The Marne in Joinville
+file: the-marne-in-joinville.jpg
 date: 2020-10-17 14:10:00 +01:00
 gear:
   make: FUJIFILM
@@ -38,6 +39,7 @@ dimensions:
 geo:
   latitude: 48.44141416666667
   longitude: 5.139141945
+  map: true
   country: France
   city: Joinville
 colors:
@@ -47,7 +49,6 @@ colors:
   muted: 139 138 84
   darkMuted: 61 86 50
   lightMuted: 188 195 218
-file: the-marne-in-joinville.jpg
 ---
 
 The natural and cultural heritage form a coherent and preserved setting around the city. The valley of the Marne is hilly, oscillating between meadows in its bed and hillsides covered with forests. In Joinville, the Marne splits in two, with a reach that waters the old town. To this is added the canal. The natural setting thus provides a quality heritage ensemble.

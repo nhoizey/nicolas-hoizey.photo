@@ -1,5 +1,6 @@
 ---
 title: Red-legged golden orb-weaver spider
+file: red-legged-golden-orb-weaver-spider.jpg
 date: 2019-03-04 17:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -62,6 +63,7 @@ dimensions:
 geo:
   latitude: -4.334515
   longitude: 39.56908
+  map: true
   country: Kenya
   city: Kwale
 colors:
@@ -71,7 +73,6 @@ colors:
   muted: 153 141 102
   darkMuted: 74 76 44
   lightMuted: 195 185 167
-file: red-legged-golden-orb-weaver-spider.jpg
 ---
 
 Like other spiders in the subfamily Nephilinae, the red-legged golden orb-weaver spider can weave webs so strong that sometimes even birds and bats get caught.

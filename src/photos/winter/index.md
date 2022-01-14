@@ -1,5 +1,6 @@
 ---
 title: Winter
+file: winter.jpg
 date: 2014-02-14 12:02:00 +02:00
 gear:
   make: Canon
@@ -27,6 +28,7 @@ dimensions:
 geo:
   latitude: 45.386998945
   longitude: 6.569370916666667
+  map: true
   country: France
   city: Les Allues
 colors:
@@ -36,7 +38,6 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 188 188 188
-file: winter.jpg
 ---
 
 

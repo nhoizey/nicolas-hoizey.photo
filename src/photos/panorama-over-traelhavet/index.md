@@ -1,5 +1,6 @@
 ---
 title: Panorama over Trälhavet
+file: panorama-over-traelhavet.jpg
 date: 2020-02-03 16:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -46,6 +47,7 @@ dimensions:
 geo:
   latitude: 59.45859083333333
   longitude: 18.297981945
+  map: true
   country: Suède
   city: Åkersberga
 colors:
@@ -55,7 +57,6 @@ colors:
   muted: 100 133 166
   darkMuted: 85 78 52
   lightMuted: 155 174 193
-file: panorama-over-traelhavet.jpg
 ---
 
 Trälhavet is a bay in Stockholm's inner archipelago north of Resarö, south of Åkersberga and west of Saxarfjärden. The shipping lanes to Stockholm go from Saxarfjärdarna across Trälhavet through either Kodjupet or Oxdjupet.

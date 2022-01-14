@@ -1,5 +1,6 @@
 ---
 title: The mirror
+file: the-mirror.jpg
 date: 2014-07-12 12:07:00 +01:00
 gear:
   make: SONY
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 52.011363888333335
   longitude: 5.907791666666666
+  map: true
   country: Pays-Bas
   city: Arnhem
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 98 147 181
   darkMuted: 64 86 52
   lightMuted: 146 181 186
-file: the-mirror.jpg
 ---
 
 The Netherlands Open Air Museum (Openlucht Museum in dutch) is an open-air museum and park (44 hectares) located near Arnhem, with antique houses, farms and factories from different parts of the Netherlands. It focuses on the culture associated with the everyday lives of ordinary people.

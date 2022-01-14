@@ -1,5 +1,6 @@
 ---
 title: Liberty has been framed
+file: liberty-has-been-framed.jpg
 date: 2015-05-19 14:05:00 +02:00
 gear:
   make: SONY
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 40.70513611166667
   longitude: -74.018244445
+  map: true
   country: États-Unis
   city: New York
 colors:
@@ -58,7 +60,6 @@ colors:
   muted: 140 136 116
   darkMuted: 76 56 44
   lightMuted: 184 189 182
-file: liberty-has-been-framed.jpg
 ---
 
 The Statue of Liberty was a gift to the United States from the people of France. It is an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad.

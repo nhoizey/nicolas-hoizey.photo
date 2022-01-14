@@ -1,5 +1,6 @@
 ---
 title: Stairz
+file: stairz.jpg
 date: 2009-01-30 23:01:00 +02:00
 gear:
   make: Canon
@@ -54,6 +55,7 @@ dimensions:
 geo:
   latitude: 48.860899185
   longitude: 2.351757158333333
+  map: true
   country: France
 colors:
   vibrant: 20 151 232
@@ -62,7 +64,6 @@ colors:
   muted: 157 101 81
   darkMuted: 68 54 35
   lightMuted: 151 164 206
-file: stairz.jpg
 ---
 
 I tried several shots of the Center, with various angles and longer or shorter exposures, and all of a sudden I saw these areas of color that stood out well from where I was (blue in the upper left, yellow in the lower left, red in the lower right), and I gave it a shot. I then enhanced the effect a bit in Lightroom, but the main thing came from the shot.

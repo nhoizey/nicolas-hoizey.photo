@@ -1,5 +1,6 @@
 ---
 title: The apprentice
+file: the-apprentice.jpg
 date: 2019-02-25 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -56,6 +57,7 @@ dimensions:
 geo:
   latitude: -1.6331316666666669
   longitude: 35.346806666666666
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -65,7 +67,6 @@ colors:
   muted: 129 138 114
   darkMuted: 52 84 54
   lightMuted: 207 192 174
-file: the-apprentice.jpg
 ---
 
 

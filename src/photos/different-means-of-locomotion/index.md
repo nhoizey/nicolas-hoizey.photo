@@ -1,5 +1,6 @@
 ---
 title: Different means of locomotion
+file: different-means-of-locomotion.jpg
 date: 2004-05-14 18:05:00 +02:00
 gear:
   make: Konica
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 25.89765467166667
   longitude: 34.29447104166667
+  map: true
   country: Égypte
   city: Al Qusir
 colors:
@@ -54,7 +56,6 @@ colors:
   muted: 165 126 92
   darkMuted: 48 34 29
   lightMuted: 180 142 114
-file: different-means-of-locomotion.jpg
 ---
 
 

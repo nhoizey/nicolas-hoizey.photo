@@ -1,5 +1,6 @@
 ---
 title: Le Roof
+file: le-roof.jpg
 date: 2013-04-03 13:04:00 +02:00
 gear:
   make: Canon
@@ -37,6 +38,7 @@ dimensions:
 geo:
   latitude: -22.304684938333335
   longitude: 166.44731622333333
+  map: true
   country: Nouvelle-Calédonie
   city: Nouméa
 colors:
@@ -46,7 +48,6 @@ colors:
   muted: 98 131 171
   darkMuted: 55 79 94
   lightMuted: 164 179 205
-file: le-roof.jpg
 ---
 
 Le Roof is a restaurant on stilts, with a room open to the lagoon. Above the water, at the end of the jetty, it welcomes people in a wooden decor with a contemporary style. At lunch or dinner, the spectacle of the sea, the fish and the reflection of the sun is splendid. Some evenings, dolphins come and party around the restaurant.

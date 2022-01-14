@@ -1,5 +1,6 @@
 ---
 title: Wet bee after the rain
+file: wet-bee-after-the-rain.jpg
 date: 2013-08-07 19:08:00 +02:00
 gear:
   make: Canon
@@ -32,6 +33,7 @@ dimensions:
 geo:
   latitude: 48.55212023833333
   longitude: 1.044283405
+  map: true
   country: France
   city: Senonches
 colors:
@@ -41,7 +43,6 @@ colors:
   muted: 121 107 130
   darkMuted: 74 49 82
   lightMuted: 179 149 201
-file: wet-bee-after-the-rain.jpg
 ---
 
 This bee is covered by water after the rain, waiting to get dry on a flower.

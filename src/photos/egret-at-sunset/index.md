@@ -1,5 +1,6 @@
 ---
 title: Egret at sunset
+file: egret-at-sunset.jpg
 date: 2017-04-10 20:04:00 +02:00
 gear:
   make: FUJIFILM
@@ -51,6 +52,7 @@ dimensions:
 geo:
   latitude: 47.464144445
   longitude: 0.22411388833333332
+  map: true
   country: France
   city: Rillé
 colors:
@@ -60,7 +62,6 @@ colors:
   muted: 142 108 92
   darkMuted: 63 57 71
   lightMuted: 208 170 161
-file: egret-at-sunset.jpg
 ---
 
 

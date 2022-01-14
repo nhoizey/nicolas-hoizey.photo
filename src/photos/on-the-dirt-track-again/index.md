@@ -1,5 +1,6 @@
 ---
 title: On the dirt track again
+file: on-the-dirt-track-again.jpg
 date: 2019-03-02 13:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: -4.122146666666667
   longitude: 39.314975
+  map: true
   country: Kenya
   city: Kwale
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 163 116 90
   darkMuted: 89 83 60
   lightMuted: 175 192 209
-file: on-the-dirt-track-again.jpg
 ---
 
 We spent many hours in the all-terrain vehicle on dirt tracks like this.

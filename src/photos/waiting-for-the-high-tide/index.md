@@ -1,5 +1,6 @@
 ---
 title: Waiting for the high tide
+file: waiting-for-the-high-tide.jpg
 date: 2013-08-22 13:08:00 +01:00
 gear:
   make: Canon
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 48.82571007666667
   longitude: -3.4906246916666666
+  map: true
   country: France
   city: Trégastel
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 108 118 139
   darkMuted: 86 65 53
   lightMuted: 197 190 189
-file: waiting-for-the-high-tide.jpg
 ---
 
 The Petit and the Grand Traouïero (what pretty names!) meet to feed this pretty natural harbor of Ploumanac'h, in Côtes-d'Armor, here obviously at low tide.

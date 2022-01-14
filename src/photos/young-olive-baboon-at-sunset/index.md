@@ -1,5 +1,6 @@
 ---
 title: Young olive baboon at sunset
+file: young-olive-baboon-at-sunset.jpg
 date: 2019-02-27 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -67,6 +68,7 @@ dimensions:
 geo:
   latitude: -0.36711333333333335
   longitude: 36.12007666666667
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -76,7 +78,6 @@ colors:
   muted: 148 125 110
   darkMuted: 85 64 49
   lightMuted: 189 176 175
-file: young-olive-baboon-at-sunset.jpg
 ---
 
 Olive baboons have a greenish-grey coat covering their bodies. Infants are born with a black natal coat that changes to the adult coloration as they age.

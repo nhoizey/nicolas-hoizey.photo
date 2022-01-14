@@ -1,5 +1,6 @@
 ---
 title: Bali Mynah
+file: bali-mynah.jpg
 date: 2015-08-08 16:08:00 +02:00
 gear:
   make: Canon
@@ -58,6 +59,7 @@ dimensions:
 geo:
   latitude: 22.276657225
   longitude: 114.16060013166667
+  map: true
   country: Hong Kong
   city: Central and Western
 colors:
@@ -67,7 +69,6 @@ colors:
   muted: 160 126 80
   darkMuted: 81 64 41
   lightMuted: 180 181 178
-file: bali-mynah.jpg
 ---
 
 The Bali Mynah is restricted to the island of Bali and its offshore islands in Indonesia (and this aviary in Hong-Kong), where it is the island's only endemic vertebrate species. In 1991, the bird was designated the faunal emblem of Bali. Featured on the Indonesian 200 rupiah coin, its local name is jalak Bali (Balinese script: ᬚᬮᬓ᭄ᬩᬮᬶ).

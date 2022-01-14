@@ -1,5 +1,6 @@
 ---
 title: Strobe
+file: strobe.jpg
 date: 2017-03-25 14:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -32,6 +33,7 @@ dimensions:
 geo:
   latitude: 48.68742891666667
   longitude: 2.398488508333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -41,7 +43,6 @@ colors:
   muted: 158 91 91
   darkMuted: 78 51 52
   lightMuted: 213 161 162
-file: strobe.jpg
 ---
 
 Another advantage of the studio is the complete control of the light.

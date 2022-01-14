@@ -1,5 +1,6 @@
 ---
 title: Look at me in the eye
+file: look-at-me-in-the-eye.jpg
 date: 2009-05-14 15:05:00 +02:00
 gear:
   make: Canon
@@ -43,6 +44,7 @@ dimensions:
 geo:
   latitude: 48.38997222166667
   longitude: -4.435844445
+  map: true
   country: France
   city: Brest
 colors:
@@ -52,7 +54,6 @@ colors:
   muted: 80 142 147
   darkMuted: 52 82 88
   lightMuted: 182 184 161
-file: look-at-me-in-the-eye.jpg
 ---
 
 

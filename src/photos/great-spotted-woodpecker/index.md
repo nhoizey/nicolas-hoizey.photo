@@ -1,5 +1,6 @@
 ---
 title: Great Spotted Woodpecker
+file: great-spotted-woodpecker.jpg
 date: 2016-12-04 17:12:00 +02:00
 gear:
   make: FUJIFILM
@@ -44,6 +45,7 @@ dimensions:
 geo:
   latitude: 48.67514963
   longitude: 2.488652255
+  map: true
   country: France
   city: Soisy-sur-Seine
 colors:
@@ -53,7 +55,6 @@ colors:
   muted: 101 134 170
   darkMuted: 62 44 28
   lightMuted: 122 164 195
-file: great-spotted-woodpecker.jpg
 ---
 
 

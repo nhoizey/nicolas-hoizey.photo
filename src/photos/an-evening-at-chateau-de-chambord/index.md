@@ -1,5 +1,6 @@
 ---
 title: An evening at Château de Chambord
+file: an-evening-at-chateau-de-chambord.jpg
 date: 2020-07-11 21:07:00 +02:00
 gear:
   make: FUJIFILM
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 47.617358333333335
   longitude: 1.5143783333333334
+  map: true
   country: France
   city: Chambord
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 146 114 120
   darkMuted: 75 59 55
   lightMuted: 167 176 210
-file: an-evening-at-chateau-de-chambord.jpg
 ---
 
 The Château de Chambord in France is one of the most recognisable châteaux in the world because of its very distinctive French Renaissance architecture which blends traditional French medieval forms with classical Renaissance structures.

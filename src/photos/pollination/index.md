@@ -1,5 +1,6 @@
 ---
 title: Pollination
+file: pollination.jpg
 date: 2020-06-23 20:06:00 +02:00
 gear:
   make: FUJIFILM
@@ -40,6 +41,7 @@ dimensions:
 geo:
   latitude: 48.63141700166667
   longitude: 2.464709945
+  map: true
   country: France
   city: Étiolles
 colors:
@@ -49,7 +51,6 @@ colors:
   muted: 146 137 109
   darkMuted: 81 92 48
   lightMuted: 197 181 165
-file: pollination.jpg
 ---
 
 The reproduction by cross-pollination of many species depends on wild bees. With them, the survival of certain species of animals is also threatened (such as certain birds, butterflies, bumblebees...).

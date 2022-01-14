@@ -1,5 +1,6 @@
 ---
 title: Sunset on Lake Nakuru's flooded trees
+file: sunset-on-lake-nakuru-s-flooded-trees.jpg
 date: 2019-02-27 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -57,6 +58,7 @@ dimensions:
 geo:
   latitude: -0.30809833333333336
   longitude: 36.109235
+  map: true
   country: Kenya
   city: Nakuru
 colors:
@@ -66,7 +68,6 @@ colors:
   muted: 85 117 144
   darkMuted: 47 68 83
   lightMuted: 121 148 168
-file: sunset-on-lake-nakuru-s-flooded-trees.jpg
 ---
 
 There are many lakes along the length of the African Rift Valley, which runs from the Red Sea in the north to Mozambique in the south. Kenya’s eastern Rift Valley has a string of eight lakes.

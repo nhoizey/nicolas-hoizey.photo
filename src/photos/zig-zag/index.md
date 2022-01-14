@@ -1,5 +1,6 @@
 ---
 title: Zig zag
+file: zig-zag.jpg
 date: 2009-01-30 23:01:00 +02:00
 gear:
   make: Canon
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 48.8607182
   longitude: 2.3518114
+  map: true
   country: France
 colors:
   vibrant: 227 179 28
@@ -49,7 +51,6 @@ colors:
   muted: 157 113 83
   darkMuted: 67 54 50
   lightMuted: 212 209 207
-file: zig-zag.jpg
 ---
 
 

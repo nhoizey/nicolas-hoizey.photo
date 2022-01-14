@@ -1,5 +1,6 @@
 ---
 title: Elétricos de Lisboa
+file: eletricos-de-lisboa.jpg
 date: 2016-10-01 09:10:00 +02:00
 gear:
   make: Canon
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 38.710121666666666
   longitude: -9.142921666666666
+  map: true
   country: Portugal
   city: Lisboa
 colors:
@@ -58,7 +60,6 @@ colors:
   muted: 156 126 112
   darkMuted: 48 69 93
   lightMuted: 186 200 212
-file: eletricos-de-lisboa.jpg
 ---
 
 Lisbon has a network of quaint, old-fashioned trams that lurch and screech around the narrow streets of the capital. No visit to Lisbon is complete without taking a ride on one of these classic, pre-war, Remodelado trams.

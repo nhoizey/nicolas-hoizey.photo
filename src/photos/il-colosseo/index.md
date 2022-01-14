@@ -1,5 +1,6 @@
 ---
 title: il Colosseo
+file: il-colosseo.jpg
 date: 2017-05-11 18:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 41.89086914
   longitude: 12.491434366666667
+  map: true
   country: Italie
   city: Rome
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 131 123 116
   darkMuted: 55 65 30
   lightMuted: 180 192 204
-file: il-colosseo.jpg
 ---
 
 The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.

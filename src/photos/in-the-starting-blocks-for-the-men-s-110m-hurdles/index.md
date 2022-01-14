@@ -1,5 +1,6 @@
 ---
 title: In the starting blocks for the men's 110m hurdles
+file: in-the-starting-blocks-for-the-men-s-110m-hurdles.jpg
 date: 2018-05-13 15:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 48.699504241666666
   longitude: 2.45176097
+  map: true
   country: France
   city: Montgeron
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 165 95 91
   darkMuted: 97 47 47
   lightMuted: 156 181 207
-file: in-the-starting-blocks-for-the-men-s-110m-hurdles.jpg
 ---
 
 Photo taken during the 34th Elite International Track and Field Meeting in Montgeron-Essonne, France, Sunday, May 13, 2018

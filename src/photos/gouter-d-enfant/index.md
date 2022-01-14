@@ -1,5 +1,6 @@
 ---
 title: Goûter d'enfant
+file: gouter-d-enfant.jpg
 date: 2019-02-10 12:02:00 +02:00
 gear:
   make: Canon
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 48.68200319166667
   longitude: 2.405349703333333
+  map: true
   country: France
   city: Draveil
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 163 144 100
   darkMuted: 102 62 51
   lightMuted: 207 193 186
-file: gouter-d-enfant.jpg
 ---
 
 Very interesting experiment of culinary photography, conducted at the Photo Club of Draveil.

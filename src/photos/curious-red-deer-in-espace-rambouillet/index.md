@@ -1,5 +1,6 @@
 ---
 title: Curious red deer in Espace Rambouillet
+file: curious-red-deer-in-espace-rambouillet.jpg
 date: 2021-10-24 12:10:00 +01:00
 gear:
   make: FUJIFILM
@@ -62,6 +63,7 @@ dimensions:
 geo:
   latitude: 48.61850888833333
   longitude: 1.873991945
+  map: true
   country: France
   city: Sonchamp
 colors:
@@ -71,7 +73,6 @@ colors:
   muted: 136 151 94
   darkMuted: 92 44 40
   lightMuted: 176 173 136
-file: curious-red-deer-in-espace-rambouillet.jpg
 ---
 
 The red deer (Cervus elaphus) is one of the largest deer species. Although at one time red deer were rare in parts of Europe, they were never close to extinction. Reintroduction and conservation efforts have resulted in an increase of red deer populations, while other areas, such as North Africa, have continued to show a population decline.

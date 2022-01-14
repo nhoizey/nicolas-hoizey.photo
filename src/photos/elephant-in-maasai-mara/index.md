@@ -1,5 +1,6 @@
 ---
 title: Elephant in Maasai Mara
+file: elephant-in-maasai-mara.jpg
 date: 2019-02-25 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -51,6 +52,7 @@ dimensions:
 geo:
   latitude: -1.6331316666666669
   longitude: 35.346806666666666
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -60,7 +62,6 @@ colors:
   muted: 159 124 102
   darkMuted: 74 56 47
   lightMuted: 199 197 158
-file: elephant-in-maasai-mara.jpg
 ---
 
 Elephants have to eat 5% of their body weight every day and so sleep for only 4-5 hours a day. They can drink up to 200 litres in one drinking session!

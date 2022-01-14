@@ -1,5 +1,6 @@
 ---
 title: Long strides
+file: long-strides.jpg
 date: 2018-05-13 17:05:00 +02:00
 gear:
   make: FUJIFILM
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: 48.69907798166667
   longitude: 2.451776965
+  map: true
   country: France
   city: Montgeron
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 148 98 81
   darkMuted: 29 21 24
   lightMuted: 119 48 34
-file: long-strides.jpg
 ---
 
 Photo taken during the 34th Elite International Track and Field Meeting in Montgeron-Essonne, France, Sunday, May 13, 2018

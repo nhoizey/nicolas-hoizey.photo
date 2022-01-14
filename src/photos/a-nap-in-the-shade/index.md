@@ -1,5 +1,6 @@
 ---
 title: A nap in the shade
+file: a-nap-in-the-shade.jpg
 date: 2019-02-26 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -52,6 +53,7 @@ dimensions:
 geo:
   latitude: -1.5844033333333334
   longitude: 35.24989166666667
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -61,7 +63,6 @@ colors:
   muted: 159 159 100
   darkMuted: 79 68 58
   lightMuted: 188 168 134
-file: a-nap-in-the-shade.jpg
 ---
 
 Some people say lions sleep 22 out of every 24 hours. It's true we often see them lying in the grass, sometimes yawning. But it doesn't mean they sleep when we're not there.  "Lions lying sleeping in the shade on a hot day are […] conserving energy during the least energetically efficient time of the day. […] If the energy costs involved in an activity aren’t outweighed by its potential benefits, they simply won’t do it."  Clever. 

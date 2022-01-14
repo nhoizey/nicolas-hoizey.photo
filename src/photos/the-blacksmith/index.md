@@ -1,5 +1,6 @@
 ---
 title: The Blacksmith
+file: the-blacksmith.jpg
 date: 2014-07-12 15:07:00 +02:00
 gear:
   make: SONY
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 52.009191666666666
   longitude: 5.914625
+  map: true
   country: Pays-Bas
   city: Arnhem
 colors:
@@ -58,7 +60,6 @@ colors:
   muted: 153 123 88
   darkMuted: 86 59 39
   lightMuted: 145 156 185
-file: the-blacksmith.jpg
 ---
 
 

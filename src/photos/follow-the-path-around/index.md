@@ -1,5 +1,6 @@
 ---
 title: Follow the path around
+file: follow-the-path-around.jpg
 date: 2019-02-26 19:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -39,6 +40,7 @@ dimensions:
 geo:
   latitude: -1.6083466666666666
   longitude: 35.332193333333336
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -48,7 +50,6 @@ colors:
   muted: 154 129 85
   darkMuted: 87 72 40
   lightMuted: 188 202 207
-file: follow-the-path-around.jpg
 ---
 
 Unlike in urban areas where we cut trees to build roads, here roads turn around trees, this is much better!

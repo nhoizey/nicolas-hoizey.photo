@@ -1,5 +1,6 @@
 ---
 title: Primary colours of Burano
+file: primary-colours-of-burano.jpg
 date: 2008-04-26 16:04:00 +02:00
 gear:
   make: Canon
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 45.486125
   longitude: 12.416272221666667
+  map: true
   country: Italie
   city: Venezia
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 170 110 102
   darkMuted: 55 95 115
   lightMuted: 181 188 192
-file: primary-colours-of-burano.jpg
 ---
 
 

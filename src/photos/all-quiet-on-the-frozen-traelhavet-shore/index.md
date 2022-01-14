@@ -1,5 +1,6 @@
 ---
 title: All quiet on the frozen Trälhavet shore
+file: all-quiet-on-the-frozen-traelhavet-shore.jpg
 date: 2020-02-03 16:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -46,6 +47,7 @@ dimensions:
 geo:
   latitude: 59.45706133833333
   longitude: 18.29953088
+  map: true
   country: Suède
   city: Åkersberga
 colors:
@@ -55,7 +57,6 @@ colors:
   muted: 103 127 166
   darkMuted: 43 57 80
   lightMuted: 165 175 200
-file: all-quiet-on-the-frozen-traelhavet-shore.jpg
 ---
 
 

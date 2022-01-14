@@ -1,5 +1,6 @@
 ---
 title: Lioness in Maasai Mara
+file: lioness-in-maasai-mara.jpg
 date: 2019-02-26 09:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -58,6 +59,7 @@ dimensions:
 geo:
   latitude: -1.5927433333333334
   longitude: 35.39015333333333
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -67,7 +69,6 @@ colors:
   muted: 144 127 89
   darkMuted: 75 93 54
   lightMuted: 202 177 140
-file: lioness-in-maasai-mara.jpg
 ---
 
 Maasai Mara is home of the largest population of African big cats, not only in Kenya but in Africa.

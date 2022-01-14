@@ -1,5 +1,6 @@
 ---
 title: The Snows of Kilimanjaro
+file: the-snows-of-kilimanjaro.jpg
 date: 2019-03-01 09:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -59,6 +60,7 @@ dimensions:
 geo:
   latitude: -2.7072766666666666
   longitude: 37.31807833333333
+  map: true
   country: Kenya
   city: Kajiado
 colors:
@@ -68,7 +70,6 @@ colors:
   muted: 151 120 79
   darkMuted: 79 64 44
   lightMuted: 169 189 207
-file: the-snows-of-kilimanjaro.jpg
 ---
 
 Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It has great views of Mount Kilimanjaro, the highest free-standing mountain in the world.

@@ -1,5 +1,6 @@
 ---
 title: Did I go over the top?
+file: did-i-go-over-the-top.jpg
 date: 2014-05-02 12:05:00 +02:00
 gear:
   make: Canon
@@ -45,6 +46,7 @@ dimensions:
 geo:
   latitude: 56.77447179166667
   longitude: -3.8568842266666667
+  map: true
 colors:
   vibrant: 55 135 189
   darkVibrant: 16 137 134
@@ -52,7 +54,6 @@ colors:
   muted: 149 141 102
   darkMuted: 72 71 56
   lightMuted: 192 187 164
-file: did-i-go-over-the-top.jpg
 ---
 
 The Indian peacock has iridescent blue and green plumage. The peacock "tail", known as a "train", consists not of tail quill feathers, but highly elongated upper tail coverts. These feathers are marked with eyespots, best seen when a peacock fans his tail.

@@ -1,5 +1,6 @@
 ---
 title: Inoummar agadir
+file: inoummar-agadir.jpg
 date: 2011-05-06 12:05:00 +01:00
 gear:
   make: Canon
@@ -49,6 +50,7 @@ dimensions:
 geo:
   latitude: 30.163077533333333
   longitude: -9.108960711666667
+  map: true
   country: Maroc
 colors:
   vibrant: 220 188 35
@@ -57,7 +59,6 @@ colors:
   muted: 171 138 108
   darkMuted: 89 78 48
   lightMuted: 177 190 210
-file: inoummar-agadir.jpg
 ---
 
 The Inoummar agadir is the largest granary in the Western Anti-Atlas (576 huts), near Ait Baha, on the road from Agadir to Tafraoute.

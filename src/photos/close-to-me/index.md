@@ -1,5 +1,6 @@
 ---
 title: Close to me
+file: close-to-me.jpg
 date: 2019-02-26 17:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -50,6 +51,7 @@ dimensions:
 geo:
   latitude: -1.617305
   longitude: 35.30606
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -59,7 +61,6 @@ colors:
   muted: 154 153 82
   darkMuted: 72 81 56
   lightMuted: 123 161 184
-file: close-to-me.jpg
 ---
 
 Elephant mothers carry their babies for nearly two years before giving birth. Then they ensure their babies get the best food, teach their children the most useful skills and show their children how to lead the herd during hard times.

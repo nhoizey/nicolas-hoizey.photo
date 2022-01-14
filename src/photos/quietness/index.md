@@ -1,5 +1,6 @@
 ---
 title: Quietness
+file: quietness.jpg
 date: 2018-08-05 16:08:00 +02:00
 gear:
   make: FUJIFILM
@@ -41,6 +42,7 @@ dimensions:
 geo:
   latitude: 48.764527511666664
   longitude: 1.8883957516666667
+  map: true
   country: France
   city: Saint-Rémy-l'Honoré
 colors:
@@ -50,7 +52,6 @@ colors:
   muted: 79 144 178
   darkMuted: 41 70 72
   lightMuted: 185 175 148
-file: quietness.jpg
 ---
 
 Yili Garden is a traditional Chinese garden of 10,000 square meters, created with the participation of the Suzhoua City Green Spaces Department, with materials from China.

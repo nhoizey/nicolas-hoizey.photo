@@ -1,5 +1,6 @@
 ---
 title: Morning stroll
+file: morning-stroll.jpg
 date: 2019-03-01 07:03:00 +02:00
 gear:
   make: FUJIFILM
@@ -62,6 +63,7 @@ dimensions:
 geo:
   latitude: -2.7119634433333335
   longitude: 37.35462055333333
+  map: true
   country: Kenya
   city: Entonet
 colors:
@@ -71,7 +73,6 @@ colors:
   muted: 155 117 92
   darkMuted: 86 65 56
   lightMuted: 196 172 180
-file: morning-stroll.jpg
 ---
 
 "Baby" elephant with one of his parents, wandering in the rising sun, in Amboseli National Park, Kenya.

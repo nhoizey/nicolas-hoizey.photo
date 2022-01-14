@@ -1,5 +1,6 @@
 ---
 title: Primary colors
+file: primary-colors.jpg
 date: 2016-09-30 10:09:00 +02:00
 gear:
   make: Apple
@@ -35,6 +36,7 @@ dimensions:
 geo:
   latitude: 38.768775
   longitude: -9.128363333333333
+  map: true
   country: Portugal
   city: Lisboa
 colors:
@@ -44,7 +46,6 @@ colors:
   muted: 166 122 101
   darkMuted: 40 67 90
   lightMuted: 178 146 152
-file: primary-colors.jpg
 ---
 
 Just outside Lisbon's Humberto Delgado Airport, the sky is so blue that they had to compensate with a big red… thing.  Be careful, prepare your sunglasses when you land!

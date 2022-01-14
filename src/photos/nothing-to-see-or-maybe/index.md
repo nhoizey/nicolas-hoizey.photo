@@ -1,5 +1,6 @@
 ---
 title: Nothing to see… or maybe…
+file: nothing-to-see-or-maybe.jpg
 date: 2019-02-26 18:02:00 +02:00
 gear:
   make: FUJIFILM
@@ -55,6 +56,7 @@ dimensions:
 geo:
   latitude: -1.58439
   longitude: 35.24985
+  map: true
   country: Kenya
   city: Narok
 colors:
@@ -64,7 +66,6 @@ colors:
   muted: 145 132 77
   darkMuted: 81 78 49
   lightMuted: 172 186 197
-file: nothing-to-see-or-maybe.jpg
 ---
 
 As we drove slowly through the large empty spaces of the Maasai Mara National Reserve, I was fortunate enough to perceive a spot of slightly different color in a small group of bushes.
