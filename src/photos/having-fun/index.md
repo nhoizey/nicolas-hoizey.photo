@@ -1,6 +1,6 @@
 ---
 title: Having fun
-date: 2006-04-01 20:04:00 +02:00
+date: 2006-04-01 19:04:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
@@ -8,6 +8,7 @@ gear:
 tags:
   - 350D
   - 70-300mm
+  - Athis-Mons
   - B&W
   - bass
   - basse
@@ -17,12 +18,19 @@ tags:
   - Canon EOS 350D
   - concert
   - contre-basse
+  - Espace Jean Monnet
+  - Essonne
+  - Europa
+  - Europe
+  - France
+  - Ile de France
   - instrument
   - laugh
   - music
   - musique
   - noir et blanc
   - rire
+  - Salle Lino Ventura
 settings:
   focal_length: 300
   iso: 1600
@@ -31,7 +39,11 @@ settings:
 dimensions:
   width: 3229
   height: 2153
-geo: {}
+geo:
+  latitude: 48.70974847
+  longitude: 2.3877289816666667
+  country: France
+  city: Athis-Mons
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66
