@@ -80,6 +80,12 @@ SYNC ${photo}`);
       photoYFM.title = utf8.decode(photoExif.ObjectName);
     }
 
+    // Compute folder and file paths from title
+    const slug = slugify(photoYFM.title);
+    photoYFM.file = `${slug}${ext}`;
+    const distDir = path.join(DIST, slug);
+    const distPhoto = path.join(distDir, `${slug}${ext}`);
+
     // Get description
     let photoDescription = '';
     if (photoExif.ImageDescription) {
@@ -191,6 +197,49 @@ SYNC ${photo}`);
         photoYFM.geo.latitude = photoExif.latitude;
         photoYFM.geo.longitude = photoExif.longitude;
       }
+      // Get map for the photo
+      const mapFile = path.join(distDir, 'map.png');
+      if (fs.existsSync(mapFile)) {
+        photoYFM.geo.map = true;
+      } else {
+        const photoUrl = `https://nicolas-hoizey.photo/photos/${slug}/`;
+        console.log(`  get map image`);
+        const browser = await puppeteer.launch({
+          executablePath:
+            '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+        });
+        const page = await browser.newPage();
+        page.setViewport({
+          width: 1200,
+          height: 800,
+          deviceScaleFactor: 1.5,
+        });
+        await page.goto(photoUrl, { waitUntil: 'load', timeout: 0 });
+
+        // Remove marker and its shadow
+        const markerShadow = await page.$('#map .marker-shadow');
+        if (markerShadow) {
+          await markerShadow.evaluate((node) =>
+            node.parentElement.removeChild(node)
+          );
+        }
+        const marker = await page.$('#map .marker');
+        if (marker) {
+          await marker.evaluate((node) => node.parentElement.removeChild(node));
+        }
+
+        // Take a screenshot of the map
+        const map = await page.$('#map img');
+        if (map) {
+          const screenshotResult = await map.screenshot({ path: mapFile });
+          if (screenshotResult) {
+            photoYFM.geo.map = true;
+          }
+        }
+
+        await page.close();
+        await browser.close();
+      }
     } else {
       console.error(`  ⚠ geolocation missing`);
     }
@@ -230,11 +279,6 @@ SYNC ${photo}`);
     }
 
     // Manage folder and file
-    const slug = slugify(photoYFM.title);
-    photoYFM.file = `${slug}${ext}`;
-    const distDir = path.join(DIST, slug);
-    const distPhoto = path.join(distDir, `${slug}${ext}`);
-
     if (!fs.existsSync(distDir)) {
       fs.mkdirSync(distDir);
     }
@@ -248,42 +292,6 @@ ${photoDescription}
 `;
 
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
-
-    // Get map for the photo
-    if (photoYFM.geo.latitude && photoYFM.geo.longitude) {
-      const mapFile = path.join(distDir, 'map.png');
-      if (!fs.existsSync(mapFile)) {
-        const photoUrl = `https://nicolas-hoizey.photo/photos/${slug}/`;
-        console.log(`  get map image on ${photoUrl}`);
-        const browser = await puppeteer.launch({
-          executablePath:
-            '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-        });
-        const page = await browser.newPage();
-        page.setViewport({ width: 1200, height: 800, deviceScaleFactor: 1.5 });
-        await page.goto(photoUrl, { waitUntil: 'load', timeout: 0 });
-
-        // Remove marker and its shadow
-        const markerShadow = await page.$('#map .marker-shadow');
-        if (markerShadow) {
-          await markerShadow.evaluate((node) =>
-            node.parentElement.removeChild(node)
-          );
-        }
-        const marker = await page.$('#map .marker');
-        if (marker) {
-          await marker.evaluate((node) => node.parentElement.removeChild(node));
-        }
-
-        // Take a screenshot of the map
-        const map = await page.$('#map img');
-        if (map) {
-          await map.screenshot({ path: mapFile });
-        }
-
-        browser.close();
-      }
-    }
 
     // Generate thumbnails for 1x screens
     const thumbFile = path.join(THUMBNAILS, 'icons', `${slug}.png`);
