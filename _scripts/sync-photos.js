@@ -2,7 +2,7 @@
 
 require('dotenv').config();
 
-const fetch = require('node-fetch');
+const puppeteer = require('puppeteer-core');
 const exifr = require('exifr');
 const sharp = require('sharp');
 const vibrant = require('node-vibrant');
@@ -245,11 +245,31 @@ ${photoDescription}
 
     // Get map for the photo
     const mapFile = path.join(distDir, 'map.png');
-    if (!fs.existsSync(mapFile)) {
-      const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/${photoYFM.geo.longitude},${photoYFM.geo.latitude},4/300x200?access_token=${process.env.MAPBOX_ACCESS_TOKEN}`;
-      fetch(mapUrl)
-        .then((response) => response.body.pipe(fs.createWriteStream(mapFile)))
-        .catch((error) => console.log(error));
+    if (!fs.existsSync(mapFile) && count === 0) {
+      count++;
+      const photoUrl = `https://nicolas-hoizey.photo/photos/${slug}/`;
+      console.log(photoUrl);
+      const browser = await puppeteer.launch({
+        executablePath:
+          '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+      });
+      const page = await browser.newPage();
+      page.setViewport({ width: 1200, height: 800, deviceScaleFactor: 2 });
+      await page.goto(photoUrl);
+
+      // Remove marker and its shadow
+      const markerShadow = await page.$('#map .marker-shadow');
+      await markerShadow.evaluate((node) =>
+        node.parentElement.removeChild(node)
+      );
+      const marker = await page.$('#map .marker');
+      await marker.evaluate((node) => node.parentElement.removeChild(node));
+
+      // Take a screenshot of the map
+      const map = await page.$('#map img');
+      await map.screenshot({ path: mapFile });
+
+      browser.close();
     }
 
     // Generate thumbnails for 1x screens
@@ -309,6 +329,8 @@ ${photoDescription}
     }
   }
 }
+
+let count = 0;
 
 const allPromises = [];
 fs.readdirSync(SRC).forEach(async (photo) => {
