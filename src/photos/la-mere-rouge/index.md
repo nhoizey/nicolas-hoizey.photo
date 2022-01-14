@@ -1,6 +1,6 @@
 ---
 title: La mère rouge
-date: 2004-05-14 09:05:00 +02:00
+date: 2004-05-14 08:05:00 +01:00
 gear:
   make: Konica
   model: KD-400Z

@@ -1,6 +1,6 @@
 ---
 title: Colourful Burano
-date: 2008-04-26 16:04:00 +02:00
+date: 2008-04-26 15:04:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

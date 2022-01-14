@@ -5,6 +5,7 @@ gear:
   make: Fujifilm
   model: SLP1000SE
 tags:
+  - "@Activités"
   - Africa
   - Afrique
   - bateau

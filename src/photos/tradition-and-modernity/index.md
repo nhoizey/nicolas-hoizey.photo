@@ -1,6 +1,6 @@
 ---
 title: Tradition and modernity
-date: 2015-08-09 20:08:00 +02:00
+date: 2015-08-09 19:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3

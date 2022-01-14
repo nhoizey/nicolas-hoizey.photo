@@ -1,6 +1,6 @@
 ---
 title: A nut shell in Étretat
-date: 2013-07-28 13:07:00 +02:00
+date: 2013-07-28 12:07:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II

@@ -1,6 +1,6 @@
 ---
 title: Elephants family in Maasai Mara
-date: 2019-02-25 18:02:00 +02:00
+date: 2019-02-25 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2

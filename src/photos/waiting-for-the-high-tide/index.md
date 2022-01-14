@@ -1,6 +1,6 @@
 ---
 title: Waiting for the high tide
-date: 2013-08-22 14:08:00 +02:00
+date: 2013-08-22 13:08:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II

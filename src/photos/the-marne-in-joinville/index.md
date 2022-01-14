@@ -1,6 +1,6 @@
 ---
 title: The Marne in Joinville
-date: 2020-10-17 15:10:00 +02:00
+date: 2020-10-17 14:10:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3

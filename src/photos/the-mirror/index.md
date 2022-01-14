@@ -1,6 +1,6 @@
 ---
 title: The mirror
-date: 2014-07-12 13:07:00 +02:00
+date: 2014-07-12 12:07:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3

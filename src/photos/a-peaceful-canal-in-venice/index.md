@@ -1,6 +1,6 @@
 ---
 title: A peaceful canal in Venice
-date: 2008-04-25 17:04:00 +02:00
+date: 2008-04-25 16:04:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
