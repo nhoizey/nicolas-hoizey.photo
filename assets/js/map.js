@@ -37,7 +37,6 @@ import polylabel from 'polylabel';
           if (resourceType === 'SpriteImage') {
             return {
               url: `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/${url}`,
-              // credentials: 'include', // Include cookies for cross-origin requests
             };
           }
           if (resourceType === 'SpriteJSON') {

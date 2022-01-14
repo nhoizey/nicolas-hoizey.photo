@@ -40,4 +40,8 @@ module.exports = {
       },
     },
   },
+  cloudinary:
+    process.env.NODE_ENV === 'production'
+      ? 'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/'
+      : '',
 };
