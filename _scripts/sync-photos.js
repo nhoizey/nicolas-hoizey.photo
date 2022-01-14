@@ -2,6 +2,7 @@
 
 require('dotenv').config();
 
+const fetch = require('node-fetch');
 const exifr = require('exifr');
 const sharp = require('sharp');
 const vibrant = require('node-vibrant');
@@ -241,6 +242,15 @@ ${photoDescription}
 `;
 
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
+
+    // Get map for the photo
+    const mapFile = path.join(distDir, 'map.png');
+    if (!fs.existsSync(mapFile)) {
+      const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/outdoors-v11/static/${photoYFM.geo.longitude},${photoYFM.geo.latitude},4/300x200?access_token=${process.env.MAPBOX_ACCESS_TOKEN}`;
+      fetch(mapUrl)
+        .then((response) => response.body.pipe(fs.createWriteStream(mapFile)))
+        .catch((error) => console.log(error));
+    }
 
     // Generate thumbnails for 1x screens
     const thumbFile = path.join(THUMBNAILS, 'icons', `${slug}.png`);
