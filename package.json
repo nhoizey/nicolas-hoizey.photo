@@ -33,7 +33,8 @@
     "debug:start": "DEBUG=Eleventy* npm start",
     "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy",
     "debug:build": "DEBUG=Eleventy* npm run build",
-    "subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/ui/fonts/"
+    "subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/ui/fonts/",
+    "matomo": "node ./_scripts/update-matomo.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
@@ -102,6 +103,7 @@
     "yaml": "^1.10.2"
   },
   "dependencies": {
+    "download": "^8.0.0",
     "mapbox-gl": "^2.6.1"
   }
 }
