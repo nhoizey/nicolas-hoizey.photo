@@ -35,7 +35,7 @@
 
 /
   Cache-Control: public, max-age=14404
-  Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin
+  Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin; nopush
   Link: <https://res.cloudinary.com>;rel="preconnect"
   Content-Security-Policy: upgrade-insecure-requests;base-uri 'self';script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com https://static.cloudflareinsights.com;img-src 'self' nicolas-hoizey.photo data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com blob: data:;object-src 'self';connect-src 'self' data.nicolas-hoizey.com res.cloudinary.com https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com https://cloudflareinsights.com;worker-src blob:;child-src blob:;frame-ancestors 'none';report-uri https://nhocom.report-uri.com/r/d/csp/enforce
   Feature-Policy: accelerometer 'none';camera 'none';geolocation 'none';gyroscope 'none';magnetometer 'none';microphone 'none';payment 'none';usb 'none'
@@ -45,7 +45,7 @@
 
 */
   Cache-Control: public, max-age=14403
-  Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin
+  Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin; nopush
   Link: <https://res.cloudinary.com>;rel="preconnect"
   Content-Security-Policy: upgrade-insecure-requests;base-uri 'self';script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com https://static.cloudflareinsights.com;img-src 'self' nicolas-hoizey.photo data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com blob: data:;object-src 'self';connect-src 'self' data.nicolas-hoizey.com res.cloudinary.com https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com https://cloudflareinsights.com;worker-src blob:;child-src blob:;frame-ancestors 'none';report-uri https://nhocom.report-uri.com/r/d/csp/enforce
   Feature-Policy: accelerometer 'none';camera 'none';geolocation 'none';gyroscope 'none';magnetometer 'none';microphone 'none';payment 'none';usb 'none'
