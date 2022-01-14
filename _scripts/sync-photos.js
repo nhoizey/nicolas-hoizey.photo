@@ -53,6 +53,8 @@ let exifrOptions = {
 };
 
 async function syncOnePhoto(photo) {
+  console.log(`
+SYNC ${photo}`);
   const photoPath = path.join(SRC, photo);
   const ext = path.extname(photoPath);
   if (ext !== '.jpg') {
@@ -62,14 +64,14 @@ async function syncOnePhoto(photo) {
   const photoExif = await exifr.parse(photoPath, exifrOptions);
 
   if (undefined === photoExif) {
-    console.error(`⚠ error reading EXIF data for ${photo}`);
+    console.error(`  ⚠ error reading EXIF data`);
   } else {
     if (photosData[photo] === undefined) {
       photosData[photo] = {};
     }
 
     if (undefined === photoExif.ObjectName) {
-      console.error(`⚠ "iptc.ObjectName" missing in ${photo}`);
+      console.error(`  ⚠ "iptc.ObjectName" missing`);
       photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, '$1');
     } else {
       // Get title
@@ -82,7 +84,7 @@ async function syncOnePhoto(photo) {
       photoDescription = photoExif.ImageDescription.trim();
     }
     if (photoDescription.length === 0) {
-      console.error(`⚠ missing description in ${photo}`);
+      console.error(`  ⚠ missing description`);
     }
 
     // get photo date
@@ -94,7 +96,7 @@ async function syncOnePhoto(photo) {
         .utcOffset(tz)
         .format('YYYY-MM-DD HH:MM:SS Z');
     } else {
-      console.error(`⚠ exif.DateTimeOriginal missing in ${photo}`);
+      console.error(`  ⚠ exif.DateTimeOriginal missing`);
       if (photoExif.DigitalCreationDate && photoExif.DigitalCreationTime) {
         photoYFM.date = `${photoExif.DigitalCreationDate.replace(
           /([0-9]{4})([0-9]{2})([0-9]{2})/,
@@ -104,7 +106,7 @@ async function syncOnePhoto(photo) {
           '$1:$2:$3 $4:$5'
         )}`;
       } else {
-        console.error(`⚠ iptc.DigitalCreationDate missing in ${photo}`);
+        console.error(`  ⚠ iptc.DigitalCreationDate`);
         photoYFM.date = photo.slice(0, 10);
       }
     }
@@ -187,6 +189,8 @@ async function syncOnePhoto(photo) {
         photoYFM.geo.latitude = photoExif.latitude;
         photoYFM.geo.longitude = photoExif.longitude;
       }
+    } else {
+      console.error(`  ⚠ geolocation missing`);
     }
     if (photoExif.Country) {
       photoYFM.geo.country = utf8.decode(photoExif.Country);
@@ -244,30 +248,33 @@ ${photoDescription}
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
 
     // Get map for the photo
-    const mapFile = path.join(distDir, 'map.png');
-    if (!fs.existsSync(mapFile)) {
-      const photoUrl = `https://nicolas-hoizey.photo/photos/${slug}/`;
-      const browser = await puppeteer.launch({
-        executablePath:
-          '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-      });
-      const page = await browser.newPage();
-      page.setViewport({ width: 1200, height: 800, deviceScaleFactor: 1.5 });
-      await page.goto(photoUrl, { waitUntil: 'load', timeout: 0 });
+    if (photoYFM.geo.latitude && photoYFM.geo.longitude) {
+      const mapFile = path.join(distDir, 'map.png');
+      if (!fs.existsSync(mapFile)) {
+        const photoUrl = `https://nicolas-hoizey.photo/photos/${slug}/`;
+        console.log(`  get map image on ${photoUrl}`);
+        const browser = await puppeteer.launch({
+          executablePath:
+            '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+        });
+        const page = await browser.newPage();
+        page.setViewport({ width: 1200, height: 800, deviceScaleFactor: 1.5 });
+        await page.goto(photoUrl, { waitUntil: 'load', timeout: 0 });
 
-      // Remove marker and its shadow
-      const markerShadow = await page.$('#map .marker-shadow');
-      await markerShadow.evaluate((node) =>
-        node.parentElement.removeChild(node)
-      );
-      const marker = await page.$('#map .marker');
-      await marker.evaluate((node) => node.parentElement.removeChild(node));
+        // Remove marker and its shadow
+        const markerShadow = await page.$('#map .marker-shadow');
+        await markerShadow.evaluate((node) =>
+          node.parentElement.removeChild(node)
+        );
+        const marker = await page.$('#map .marker');
+        await marker.evaluate((node) => node.parentElement.removeChild(node));
 
-      // Take a screenshot of the map
-      const map = await page.$('#map img');
-      await map.screenshot({ path: mapFile });
+        // Take a screenshot of the map
+        const map = await page.$('#map img');
+        await map.screenshot({ path: mapFile });
 
-      browser.close();
+        browser.close();
+      }
     }
 
     // Generate thumbnails for 1x screens
@@ -328,11 +335,13 @@ ${photoDescription}
   }
 }
 
-const allPromises = [];
-fs.readdirSync(SRC).forEach(async (photo) => {
-  allPromises.push(syncOnePhoto(photo));
-});
-Promise.all(allPromises).then(() => {
+async function syncAllPhotos() {
+  await fs.readdirSync(SRC).reduce(async (accumulator, photo) => {
+    return [...(await accumulator), await syncOnePhoto(photo)];
+  }, Promise.resolve([]));
+}
+
+syncAllPhotos().then(() => {
   // Todo after everything else
   fs.writeFileSync('./_cache/photos-data.json', JSON.stringify(photosData), {
     encoding: 'utf8',
