@@ -138,4 +138,12 @@ module.exports = {
     sizes: '(min-width: 22rem) calc(.66 * 20rem), calc(.66 * (100vw - 2rem))',
     figure: 'never',
   },
+  photo_map: {
+    fallbackWidth: 300,
+    minWidth: 300,
+    maxWidth: 450, // The source image is 450px wide
+    steps: 2,
+    sizes: '300px',
+    figure: 'never',
+  },
 };
