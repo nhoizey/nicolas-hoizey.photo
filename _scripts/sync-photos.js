@@ -253,7 +253,7 @@ ${photoDescription}
       });
       const page = await browser.newPage();
       page.setViewport({ width: 1200, height: 800, deviceScaleFactor: 1.5 });
-      await page.goto(photoUrl);
+      await page.goto(photoUrl, { waitUntil: 'load', timeout: 0 });
 
       // Remove marker and its shadow
       const markerShadow = await page.$('#map .marker-shadow');
