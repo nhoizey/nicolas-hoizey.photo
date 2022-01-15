@@ -11,27 +11,20 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer-when-downgrade
 
-/ui/images/marker.svg
-  Cache-Control: public, max-age=604800, immutable
-
-/ui/logo.svg
-  Cache-Control: public, max-age=604800, immutable
-
 /ui/thumbnails/sprite.*
   Access-Control-Allow-Origin: *
 
-/ui/images/nicolas-hoizey-photography-192px.jpg
-  Cache-Control: public, max-age=604800, immutable
-
-/ui/images/nicolas-hoizey-photography-192px.png
+/ui/images/nicolas-hoizey-photography-192px.*
   Cache-Control: public, max-age=604800, immutable
 
 /*.js
   Content-Type: application/javascript; charset=utf-8
+  Cache-Control: public, max-age=604800, immutable
 
 /*.svg
   Content-Type: image/svg+xml; charset=utf-8
   Vary: Accept-Encoding
+  Cache-Control: public, max-age=604800, immutable
 
 /
   Cache-Control: public, max-age=14405
