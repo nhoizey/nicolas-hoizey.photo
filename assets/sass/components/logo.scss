@@ -6,7 +6,8 @@
 
 .logo {
   h1,
-  a:link {
+  a:link,
+  a:visited {
     display: block;
     margin: 0;
     padding: 0;
@@ -15,17 +16,8 @@
     font-size: 1em;
     line-height: 1;
 
-    border-radius: 0.5rem;
-
-    transition-property: background-color;
-    transition-duration: $transition-timing;
-    transition-timing-function: ease-in-out;
-  }
-
-  a:hover,
-  a:focus,
-  a:active {
-    background-color: $color-theme-darker-3;
+    color: $color-header;
+    text-decoration: none;
   }
 
   img {
