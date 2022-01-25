@@ -4,13 +4,14 @@ import { getLCP, getCLS } from 'web-vitals/base';
 (function (window) {
   // get device pixel ratio in dppx
   let screen_density = res.dppx();
-  _paq.push([
-    'setCustomDimension',
-    3,
-    'screen_density',
-    screen_density,
-    'page',
-  ]);
+  // _paq.push([
+  //   'setCustomDimension',
+  //   3,
+  //   'screen_density',
+  //   screen_density,
+  //   'page',
+  // ]);
+  _paq.push(['trackPageView', document.title, { dimension3: screen_density }]);
 
   // get viewport width
   // http://stackoverflow.com/a/8876069/717195
