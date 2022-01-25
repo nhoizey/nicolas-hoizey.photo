@@ -4,14 +4,6 @@ import { getLCP, getCLS } from 'web-vitals/base';
 (function (window) {
   // get device pixel ratio in dppx
   let screen_density = res.dppx();
-  // _paq.push([
-  //   'setCustomDimension',
-  //   3,
-  //   'screen_density',
-  //   screen_density,
-  //   'page',
-  // ]);
-  _paq.push(['trackPageView', document.title, { dimension3: screen_density }]);
 
   // get viewport width
   // http://stackoverflow.com/a/8876069/717195
@@ -19,12 +11,12 @@ import { getLCP, getCLS } from 'web-vitals/base';
     window.document.documentElement.clientWidth,
     window.innerWidth || 0
   );
+
+  // send custom dimensions to Matomo
   _paq.push([
-    'setCustomDimension',
-    4,
-    'viewport_width',
-    viewport_width,
-    'page',
+    'trackPageView',
+    document.title,
+    { dimension3: screen_density, dimension4: viewport_width },
   ]);
 })(window);
 
@@ -35,15 +27,19 @@ function sendToMatomo({ name, value }) {
     // Matomo is available
     switch (name) {
       case 'LCP':
-        _paq.push(['setCustomDimension', 1, 'LCP', Math.round(value), 'page']);
+        // send custom dimensions to Matomo
+        _paq.push([
+          'trackPageView',
+          document.title,
+          { dimension1: Math.round(value) },
+        ]);
         break;
       case 'CLS':
+        // send custom dimensions to Matomo
         _paq.push([
-          'setCustomDimension',
-          2,
-          'CLS',
-          Math.round(value * 1000),
-          'page',
+          'trackPageView',
+          document.title,
+          { dimension2: Math.round(value * 1000) },
         ]);
         break;
     }
