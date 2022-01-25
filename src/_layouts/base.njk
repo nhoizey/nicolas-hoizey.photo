@@ -12,6 +12,11 @@
       <link rel="preload" media="(-webkit-max-device-pixel-ratio: 1), (max-resolution: 1dppx)" href="{{ site.cloudinary }}{{ site.url }}/ui/thumbnails/{{ sprites.signature }}/sprite.png" as="image">
     {% endif %} #}
 
+    {# web-vitals #}
+    <script>
+    {% include_raw "node_modules/web-vitals/dist/polyfill.js" %}
+    </script>
+
     {% from "macros/css.njk" import css %}
     {{ css('styles', build.env) }}
 
