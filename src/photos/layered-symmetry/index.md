@@ -1,7 +1,7 @@
 ---
 title: Layered symmetry
 file: layered-symmetry.jpg
-date: 2014-03-18 19:03:00 +02:00
+date: 2014-03-18 18:03:00 +01:00
 gear:
   make: Panasonic
   model: DMC-GM1
@@ -17,6 +17,8 @@ tags:
   - La Défense
   - Panasonic
   - Paris
+  - vitre
+  - window
 settings:
   focal_length: 32
   focal_length_35mm: 66
