@@ -5,6 +5,7 @@ import { getLCP, getCLS } from 'web-vitals/base';
   // get device pixel ratio in dppx
   let screen_density = res.dppx();
   _paq.push(['setCustomVariable', 3, 'screen_density', screen_density, 'page']);
+  console.dir(_paq);
 
   // get viewport width
   // http://stackoverflow.com/a/8876069/717195
@@ -13,6 +14,7 @@ import { getLCP, getCLS } from 'web-vitals/base';
     window.innerWidth || 0
   );
   _paq.push(['setCustomVariable', 4, 'viewport_width', viewport_width, 'page']);
+  console.dir(_paq);
 })(window);
 
 function sendToMatomo({ name, value }) {
@@ -23,6 +25,7 @@ function sendToMatomo({ name, value }) {
     switch (name) {
       case 'LCP':
         _paq.push(['setCustomVariable', 1, 'LCP', Math.round(value), 'page']);
+        console.dir(_paq);
         break;
       case 'CLS':
         _paq.push([
@@ -32,6 +35,7 @@ function sendToMatomo({ name, value }) {
           Math.round(value * 1000),
           'page',
         ]);
+        console.dir(_paq);
         break;
     }
   }
