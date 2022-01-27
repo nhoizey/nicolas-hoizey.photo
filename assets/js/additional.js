@@ -21,8 +21,6 @@ import { getLCP, getCLS } from 'web-vitals/base';
 })(window);
 
 function sendToMatomo({ name, value }) {
-  console.dir({ name, value });
-
   if ('_paq' in window) {
     // Matomo is available
     switch (name) {
