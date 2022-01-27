@@ -71,7 +71,7 @@ module.exports = {
     return collection
       .filter((page) => {
         const r = new RegExp(`^${page.url}[^/]+\/`);
-        return r.test(url);
+        return page.url !== '/' && r.test(url);
       })
       .sort((a, b) => {
         return a.url.length - b.url.length;
