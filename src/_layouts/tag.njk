@@ -7,9 +7,7 @@
 {% endblock %}
 
 {% block content %}
-  {% from "macros/photo.njk" import photo %}
-
-  {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
+  {% set breadcrumb = collections.all | breadcrumb(page.url) %}
   {% include 'components/json-ld/breadcrumb.njk' %}
   {% include 'components/breadcrumb.njk' %}
 
@@ -17,42 +15,4 @@
 
   {{ content | safe }}
 
-  {% include 'components/sub-galleries.njk' %}
-
-  {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
-  {% if photos_here | length %}
-
-    {% from "macros/css.njk" import css %}
-    {{ css('components/gallery', build.env) }}
-
-    <section>
-      <h2>Photos</h2>
-      <ul class="gallery">
-        {% for item in photos_here %}
-          {% if loop.index < 4 %}
-            {{ photo(item, "eager") }}
-          {% else %}
-            {{ photo(item, "lazy") }}
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </section>
-  {% endif %}
-
-  {#
-  {% set photos_below = collections.photos_in_galleries | photos_below(page.url) %}
-  {% if photos_below | length %}
-    <h2>Latest photos in sub galleries</h2>
-    <ul class="gallery">
-      {% for item in photos_below %}
-        <figure>
-          <a href="{{ item.url }}">
-            <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
-            <figcaption>{{ item.data.title }}</figcaption>
-          </a>
-        </figure>
-      {% endfor %}
-    </ul>
-  {% endif %}
-  #}
 {% endblock %}
