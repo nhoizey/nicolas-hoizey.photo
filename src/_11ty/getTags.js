@@ -34,10 +34,7 @@ module.exports = function (collection) {
   const slugs = [];
   tagsCollection.forEach((number, tag) => {
     let factor = (Math.log(number) - minLog) / (maxLog - minLog);
-    let tagSlug = slugify(tag, {
-      decamelize: false,
-      customReplacements: [['%', ' ']],
-    });
+    let tagSlug = slugify(tag);
     if (slugs.includes(tagSlug)) {
       let counter = 1;
       while (slugs.includes(`${tagSlug}-${counter}`)) {
