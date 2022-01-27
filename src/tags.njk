@@ -42,7 +42,7 @@ permalink: "/tags/index.html"
 </ol>
 
 {% if build.env == 'production' %}
-  <script defer type="module" src="/ui/js/{{ hashes_map['assets/js/tagscloud.js']}}"></script>
+  <script defer type="module" src="/ui/js/{{ hashes_tagscloud['assets/js/tagscloud.js']}}"></script>
 {% else %}
   <script defer type="module" src="/ui/js/tagscloud-es.js"></script>
 {% endif %}
