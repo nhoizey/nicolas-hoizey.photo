@@ -1,12 +1,13 @@
 ---
 title: One hope
 file: one-hope.jpg
-date: 2018-02-01 01:02:00 +02:00
+date: 2018-02-01 00:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - B&W
   - black and white
   - contrast
@@ -17,6 +18,8 @@ tags:
   - France
   - Fujifilm
   - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - Lyon
   - mur
   - noir et blanc
@@ -27,6 +30,7 @@ tags:
   - wall
   - woman
   - X-T2
+  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

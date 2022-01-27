@@ -7,6 +7,7 @@ gear:
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - bateau
   - boat
   - bridge
@@ -16,6 +17,8 @@ tags:
   - fleuve
   - Fujifilm
   - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - Italia
   - Italie
   - Italy
@@ -25,6 +28,7 @@ tags:
   - Rome
   - water
   - X-T2
+  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

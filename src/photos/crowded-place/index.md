@@ -1,12 +1,13 @@
 ---
 title: Crowded place
 file: crowded-place.jpg
-date: 2019-02-28 19:02:00 +02:00
+date: 2019-02-28 18:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - Africa
   - Afrique
   - Amboseli
@@ -17,6 +18,8 @@ tags:
   - animaux sauvages
   - Fujifilm
   - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - Kajiado
   - Kenya
   - Kilimanjaro
@@ -33,6 +36,7 @@ tags:
   - wild animal
   - wild animals
   - X-T2
+  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

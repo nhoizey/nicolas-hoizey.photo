@@ -1,13 +1,14 @@
 ---
 title: The flowering of the carnations
 file: the-flowering-of-the-carnations.jpg
-date: 2017-06-14 20:06:00 +02:00
+date: 2017-06-14 19:06:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
   - 1:87
+  - 56mm
   - carnation
   - Caryophyllaceae
   - dianthus
@@ -15,6 +16,8 @@ tags:
   - fleur
   - Fujifilm
   - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - HO
   - macro
   - miniature
@@ -25,6 +28,7 @@ tags:
   - rouge
   - végétal
   - X-T2
+  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

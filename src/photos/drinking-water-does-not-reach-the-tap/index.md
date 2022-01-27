@@ -1,12 +1,13 @@
 ---
 title: Drinking water does not reach the tap
 file: drinking-water-does-not-reach-the-tap.jpg
-date: 2019-02-25 09:02:00 +02:00
+date: 2019-02-25 08:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - Africa
   - Afrique
   - bleu
@@ -15,6 +16,8 @@ tags:
   - eau
   - Fujifilm
   - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - Kenya
   - Kiambu County
   - Limuru
@@ -25,6 +28,7 @@ tags:
   - véhicule
   - water
   - X-T3
+  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

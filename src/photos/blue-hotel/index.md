@@ -1,12 +1,13 @@
 ---
 title: Blue Hotel
 file: blue-hotel.jpg
-date: 2019-02-25 11:02:00 +02:00
+date: 2019-02-25 10:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - Africa
   - Afrique
   - bleu
@@ -15,6 +16,8 @@ tags:
   - city
   - Fujifilm
   - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - hôtel
   - Kenya
   - marron
@@ -26,6 +29,7 @@ tags:
   - urban
   - ville
   - X-T3
+  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

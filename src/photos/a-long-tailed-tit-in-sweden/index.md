@@ -1,12 +1,13 @@
 ---
 title: A Long-tailed Tit in Sweden
 file: a-long-tailed-tit-in-sweden.jpg
-date: 2020-02-05 13:02:00 +02:00
+date: 2020-02-05 12:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - Aegithalidae
   - Aegithalidés
   - Aegithalos caudatus
@@ -23,6 +24,8 @@ tags:
   - Europe
   - Fujifilm
   - Fujifilm X-T3
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - Hagby Ekopark
   - Kingdom of Sweden
   - Konungariket Sverige
@@ -43,6 +46,7 @@ tags:
   - wild animal
   - wild animals
   - X-T3
+  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

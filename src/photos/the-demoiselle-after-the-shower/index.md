@@ -1,12 +1,13 @@
 ---
 title: The demoiselle after the shower
 file: the-demoiselle-after-the-shower.jpg
-date: 2018-09-16 07:09:00 +02:00
+date: 2018-09-16 06:09:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - animal
   - aube
   - damselfly
@@ -18,6 +19,8 @@ tags:
   - France
   - Fujifilm
   - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - goutte
   - Ile de France
   - insect
@@ -36,6 +39,7 @@ tags:
   - water
   - web
   - X-T2
+  - XF56mmF1.2 R
   - zygoptera
   - zygoptères
 settings:

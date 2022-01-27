@@ -1,12 +1,13 @@
 ---
 title: Grant's zebras
 file: grant-s-zebras.jpg
-date: 2019-02-28 18:02:00 +02:00
+date: 2019-02-28 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - Africa
   - Afrique
   - Amboseli
@@ -19,6 +20,8 @@ tags:
   - Equus quagga bohemi
   - Fujifilm
   - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - Grant's zebra
   - horse family
   - Imparidigités
@@ -44,6 +47,7 @@ tags:
   - volcan
   - volcano
   - X-T2
+  - XF56mmF1.2 R
   - zèbre de Burchell
   - Zèbre de Grant
   - Zèbre des plaines

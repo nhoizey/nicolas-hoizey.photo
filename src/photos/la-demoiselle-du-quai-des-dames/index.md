@@ -1,12 +1,13 @@
 ---
 title: La Demoiselle du Quai des Dames
 file: la-demoiselle-du-quai-des-dames.jpg
-date: 2017-06-08 21:06:00 +02:00
+date: 2017-06-08 20:06:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
+  - 56mm
   - aile
   - animal
   - bleu
@@ -20,6 +21,8 @@ tags:
   - France
   - Fujifilm
   - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 56mm f/1.2 R
   - green
   - Ile de France
   - insect
@@ -30,6 +33,7 @@ tags:
   - vert
   - wing
   - X-T2
+  - XF56mmF1.2 R
   - zygoptera
   - zygoptères
 settings:
