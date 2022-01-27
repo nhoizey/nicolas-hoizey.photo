@@ -26,14 +26,10 @@ module.exports = function (collection) {
       }
     });
 
-  // We assume there is at least one tag with only one content
-  const minLog = Math.log(1);
-  const maxLog = Math.log(max);
-
   const tags = [];
   const slugs = [];
   tagsCollection.forEach((number, tag) => {
-    let factor = (Math.log(number) - minLog) / (maxLog - minLog);
+    let tagLog = Math.log(number);
     let tagSlug = slugify(tag);
     if (slugs.includes(tagSlug)) {
       let counter = 1;
@@ -48,8 +44,7 @@ module.exports = function (collection) {
       tag: tag,
       slug: tagSlug,
       number: number,
-      factor: factor,
-      step: Math.ceil(factor * 2) + 1,
+      log: tagLog,
     };
 
     let tagLogoPath = `assets/logos/${tagSlug}.png`;

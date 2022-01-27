@@ -1,6 +1,15 @@
 @use '../variables' as *;
 
-.tagscloud__tags {
+#tagscloud {
+  --min-log: 0; // log(1)
+  --max-log: 5; // ~log(150)
+  --min-size: 0.8;
+  --max-size: 1.8;
+  --min-weight: 300;
+  --max-weight: 900;
+  --min-l: 17;
+  --max-l: 40;
+
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -15,62 +24,45 @@
     &:visited {
       display: inline-block;
 
-      margin: 0.2em 0.3em;
-      padding: 0.1em 0.3em;
+      margin: 0.5rem;
+      padding: 0 1rem;
 
       white-space: nowrap;
       text-decoration: none;
 
+      --factor: (var(--log) - var(--min-log)) /
+        (var(--max-log) - var(--min-log));
+
+      font-size: calc(
+        ((var(--max-size) - var(--min-size)) * var(--factor) + var(--min-size)) *
+          1em
+      );
+      font-weight: calc(
+        (var(--max-weight) - var(--min-weight)) * var(--factor) +
+          var(--min-weight)
+      );
+
+      --h: 270;
+      --s: 50%;
+      --l: calc(
+        ((var(--max-l) - var(--min-l)) * var(--factor) + var(--min-l)) * 1%
+      );
+      --a: 1;
+      background-color: hsl(var(--h) var(--s) var(--l) / var(--a));
+
+      border-color: hsl(var(--h) var(--s) calc(var(--min-l) * 1%) / var(--a));
+      border-style: solid;
+      border-width: 1px;
       border-radius: 2rem;
-      background-color: $color-theme;
-      color: $color-theme-lighter-5;
-    }
-  }
 
-  a {
-    &.tag2 {
-      &:link,
-      &:visited {
-        background-color: $color-theme-lighter-2;
-      }
-    }
-
-    &.tag3 {
-      &:link,
-      &:visited {
-        background-color: $color-theme-lighter-1;
-      }
-    }
-
-    &.tag4 {
-      &:link,
-      &:visited {
-        background-color: $color-theme;
-      }
-    }
-
-    &.tag5 {
-      &:link,
-      &:visited {
-        background-color: $color-theme-darker-1;
-      }
+      color: white;
     }
 
     &:hover,
     &:focus,
     &:active {
-      text-decoration: underline;
-
-      background-color: $color-theme-darker-4;
-
-      outline: none;
-
-      &.tag2,
-      &.tag3,
-      &.tag4,
-      &.tag5 {
-        background-color: $color-theme-darker-4;
-      }
+      color: hsl(var(--h) var(--s) var(--l) / var(--a));
+      background-color: white;
     }
   }
 }
