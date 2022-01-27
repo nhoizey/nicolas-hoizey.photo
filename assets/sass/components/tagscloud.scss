@@ -1,0 +1,76 @@
+@use '../variables' as *;
+
+.tagscloud__tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+
+  padding: 0;
+
+  list-style-type: none;
+
+  a {
+    &:link,
+    &:visited {
+      display: inline-block;
+
+      margin: 0.2em 0.3em;
+      padding: 0.1em 0.3em;
+
+      white-space: nowrap;
+      text-decoration: none;
+
+      border-radius: 2rem;
+      background-color: $color-theme;
+      color: $color-theme-lighter-5;
+    }
+  }
+
+  a {
+    &.tag2 {
+      &:link,
+      &:visited {
+        background-color: $color-theme-lighter-2;
+      }
+    }
+
+    &.tag3 {
+      &:link,
+      &:visited {
+        background-color: $color-theme-lighter-1;
+      }
+    }
+
+    &.tag4 {
+      &:link,
+      &:visited {
+        background-color: $color-theme;
+      }
+    }
+
+    &.tag5 {
+      &:link,
+      &:visited {
+        background-color: $color-theme-darker-1;
+      }
+    }
+
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration: underline;
+
+      background-color: $color-theme-darker-4;
+
+      outline: none;
+
+      &.tag2,
+      &.tag3,
+      &.tag4,
+      &.tag5 {
+        background-color: $color-theme-darker-4;
+      }
+    }
+  }
+}
