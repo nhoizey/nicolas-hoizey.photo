@@ -13,9 +13,12 @@ permalink: /tags/{{ tag.slug }}/
 ---
 
 {% block content %}
+{% from "macros/css.njk" import css %}
+{{ css('components/tag', build.env) }}
+
 {% if tag.logo or tag.description %}
   {% if tag.logo %}
-    <img src="/{{ tag.logo }}" class="logo" />
+    <img src="/{{ tag.logo }}" class="tag-logo" data-responsiver="logo" />
   {% endif %}
 
   {% if tag.description %}
@@ -23,7 +26,6 @@ permalink: /tags/{{ tag.slug }}/
   {% endif %}
 {% endif %}
 
-{% from "macros/css.njk" import css %}
 {{ css('components/gallery', build.env) }}
 
 {% from "macros/photo.njk" import photo %}

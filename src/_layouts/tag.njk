@@ -1,5 +1,9 @@
 {% extends "./base.njk" %}
 
+{% block styles %}
+  style="--ambiant-background: {{ tag.colors.darkMuted }}"
+{% endblock %}
+
 {% block opengraphimage %}
   {% set photos = collections.photos_in_galleries | taggued(tag.tag) | featured(5) %}
   {# {% set photos_below = collections.photos_in_galleries | photos_here_and_below(page.url) | featured(5) %} #}
@@ -9,10 +13,13 @@
 {% block content %}
   {% set breadcrumb = collections.all | breadcrumb(page.url) %}
   {% include 'components/json-ld/breadcrumb.njk' %}
-  {% include 'components/breadcrumb.njk' %}
 
-  <h1>{{ title }}</h1>
+  <div class="tag" style="--ambiant-foreground: {{ tag.colors.lightVibrant }}">
+    <div class="header">
+      {% include 'components/breadcrumb.njk' %}
+      <h1>{{ title }}</h1>
+    </div>
 
-  {{ content | safe }}
-
+    {{ content | safe }}
+  </div>
 {% endblock %}

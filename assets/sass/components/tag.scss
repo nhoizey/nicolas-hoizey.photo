@@ -1,0 +1,9 @@
+@use '../variables' as *;
+@use '../tokens/space';
+
+.tag-logo {
+  float: right;
+  margin-left: space.$m;
+  margin-bottom: space.$m;
+  max-width: 200px;
+}

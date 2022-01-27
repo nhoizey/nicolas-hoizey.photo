@@ -146,4 +146,12 @@ module.exports = {
     sizes: '300px',
     figure: 'never',
   },
+  logo: {
+    fallbackWidth: 200,
+    minWidth: 200,
+    maxWidth: 400, // Enough for >= 2dppx
+    steps: 3,
+    sizes: '200px',
+    figure: 'never',
+  },
 };

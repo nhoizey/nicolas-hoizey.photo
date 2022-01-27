@@ -48,21 +48,24 @@
         ((var(--max-l) - var(--min-l)) * var(--factor) + var(--min-l)) * 1%
       );
       --a: 1;
-      background-color: hsl(var(--h) var(--s) var(--l) / var(--a));
+      background-color: var(
+        --darkMuted,
+        hsl(var(--h) var(--s) var(--l) / var(--a))
+      );
 
-      border-color: hsl(var(--h) var(--s) calc(var(--min-l) * 1%) / var(--a));
+      border-color: var(--darkMuted);
       border-style: solid;
       border-width: 1px;
       border-radius: 2rem;
 
-      color: white;
+      color: var(--lightVibrant);
     }
 
     &:hover,
     &:focus,
     &:active {
-      color: hsl(var(--h) var(--s) var(--l) / var(--a));
-      background-color: white;
+      color: var(--darkMuted, hsl(var(--h) var(--s) var(--l) / var(--a)));
+      background-color: var(--lightVibrant);
     }
   }
 }

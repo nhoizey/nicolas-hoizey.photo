@@ -17,7 +17,7 @@ permalink: "/tags/index.html"
 
 <section id="dynamic" style="display: none">
   <p id="current"></p>
-  <input type="range" id="mintags" min="1" max="100" step="1" value="25" style="width: 100%" />
+  <input type="range" id="mintags" min="1" max="100" step="1" value="20" style="width: 100%" />
 </section>
 
 <ol id="tagscloud" class="tagscloud__tags">
@@ -27,7 +27,15 @@ permalink: "/tags/index.html"
     <a href="{{ tagUrl }}"
       aria-label="{{ tag.number }} photo{% if tag.number > 1 %}s{% endif %} with tag {{ tag.tag }}"
       data-number="{{ tag.number }}"
-      style="--log: {{ tag.log }}"
+      style="
+        --log: {{ tag.log }};
+        --vibrant: {{ tag.colors.vibrant }};
+        --darkVibrant: {{ tag.colors.darkVibrant }};
+        --lightVibrant: {{ tag.colors.lightVibrant }};
+        --muted: {{ tag.colors.muted }};
+        --darkMuted: {{ tag.colors.darkMuted }};
+        --lightMuted: {{ tag.colors.lightMuted }}
+      "
       rel="tag">{{ tag.tag }}</a>
   </li>
 {% endfor %}
