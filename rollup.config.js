@@ -168,7 +168,7 @@ export default [
       process.env.NODE_ENV === 'production' && terser(),
       process.env.NODE_ENV === 'production' &&
         entrypointHashmanifest({
-          manifestName: path.join(HASH, 'hashes_map.json'),
+          manifestName: path.join(HASH, 'hashes_tagscloud.json'),
         }),
       // visualizer(),
     ],
