@@ -1,19 +1,19 @@
 ---
 title: Nothing to see… or maybe…
 file: nothing-to-see-or-maybe.jpg
-date: 2019-02-26 18:02:00 +02:00
+date: 2019-02-26 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF27mmF2.8
 tags:
-  - 27mm
   - Africa
   - Afrique
   - animal
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - Felidae
   - Félidés
   - Félins
@@ -21,6 +21,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 27 mm f/2.8
+  - hybrid
   - Kenya
   - landscape
   - lion
@@ -37,13 +38,12 @@ tags:
   - pancake
   - Panthera leo
   - paysage
+  - prime
   - reserve
   - sauvage
   - wild
   - wild animal
   - wild animals
-  - X-T2
-  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

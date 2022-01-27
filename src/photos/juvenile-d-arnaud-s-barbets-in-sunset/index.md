@@ -1,22 +1,21 @@
 ---
 title: Juvenile D'Arnaud's Barbets in sunset
 file: juvenile-d-arnaud-s-barbets-in-sunset.jpg
-date: 2019-02-26 19:02:00 +02:00
+date: 2019-02-26 18:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - animal
   - animalière
+  - APS-C
   - Barbican d'Arnaud
   - bird
   - birds
-  - blanc
+  - black
   - converter
   - D'Arnaud's Barbet
   - Fujifilm
@@ -24,9 +23,8 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
-  - jaune
+  - hybrid
   - Kenya
-  - lens
   - Lybiidae
   - Lybiidés
   - Maasai
@@ -34,18 +32,13 @@ tags:
   - Masai
   - Masai Mara
   - Narok County
-  - noir
   - oiseau
   - Oiseaux
   - Piciformes
   - reserve
-  - télé-convertisseur
-  - teleconverter
   - Trachyphonus darnaudii
   - white
-  - X-T3
-  - x2.0
-  - yellow
+  - zoom
 settings:
   focal_length: 581.2
   focal_length_35mm: 872

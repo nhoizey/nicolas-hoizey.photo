@@ -1,25 +1,24 @@
 ---
 title: Wet bee after the rain
 file: wet-bee-after-the-rain.jpg
-date: 2013-08-07 19:08:00 +02:00
+date: 2013-08-07 18:08:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
 tags:
-  - 100mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - bee
   - Canon
   - Canon EF 100mm f/2.8 Macro USM
   - Canon EOS 5D Mark II
   - eau
   - flower
+  - full frame
   - macro
   - pluie
+  - prime
   - rain
+  - reflex
   - water
   - wet
 settings:

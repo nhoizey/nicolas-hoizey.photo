@@ -1,29 +1,27 @@
 ---
 title: Mosquito
 file: mosquito.jpg
-date: 2012-04-29 16:04:00 +02:00
+date: 2012-04-29 15:04:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
 tags:
-  - 100mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - animal
   - animal sauvage
   - animalière
   - animaux sauvages
-  - blanc
   - Canon
   - Canon EF 100mm f/2.8 Macro USM
   - Canon EOS 5D Mark II
   - fear
+  - full frame
   - insect
   - insecte
   - macro
   - mosquito
+  - prime
+  - reflex
   - sauvage
   - white
   - wild animal

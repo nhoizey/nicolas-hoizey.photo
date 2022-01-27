@@ -1,29 +1,23 @@
 ---
 title: The Moroccan High Atlas
 file: the-moroccan-high-atlas.jpg
-date: 2011-05-08 12:05:00 +02:00
+date: 2011-05-08 11:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: 50mm
 tags:
-  - 50mm
-  - 50mm f/1.4
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Africa
   - Afrique
+  - Al-Aṭlas al-Kabīr
   - arbre
-  - Atlas
-  - blanc
-  - bleu
   - blue
   - Canon
   - Canon EOS 5D Mark II
   - ciel
-  - f1/4
-  - Haut Atlas
+  - full frame
+  - Grand Atlas
+  - Haut-Atlas
   - High Atlas
   - Jbel Tinergwet
   - Jebel Tinergwet
@@ -33,8 +27,9 @@ tags:
   - mountain
   - neige
   - plant
+  - prime
+  - reflex
   - Sigma
-  - Sigma 50mm
   - Sigma 50mm F1.4 EX DG HSM
   - sky
   - snow
@@ -45,7 +40,7 @@ tags:
   - tree
   - végétal
   - voyage
-  - white
+  - اَلْأَطْـلَـس الْـكَـبِـيْـر
   - تارودانت
 settings:
   focal_length: 50

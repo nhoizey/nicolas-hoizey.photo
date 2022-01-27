@@ -7,9 +7,7 @@ gear:
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
-  - bleu
-  - blue
+  - APS-C
   - Draveil
   - eau
   - Essonne
@@ -21,7 +19,7 @@ tags:
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
   - grey
-  - gris
+  - hybrid
   - Ile de France
   - lac
   - lake
@@ -29,10 +27,9 @@ tags:
   - parapluie
   - Port aux Cerises
   - portrait
+  - prime
   - umbrella
   - water
-  - X-T2
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

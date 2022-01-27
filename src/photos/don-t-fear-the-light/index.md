@@ -1,7 +1,7 @@
 ---
 title: Don't fear the light
 file: don-t-fear-the-light.jpg
-date: 2004-12-27 18:12:00 +02:00
+date: 2004-12-27 17:12:00 +01:00
 gear:
   make: Konica
   model: KD-400Z
@@ -9,13 +9,14 @@ tags:
   - Arnhem
   - brouillard
   - city
+  - compact
   - effrayant
   - Europa
   - Europe
   - fear
   - fog
-  - KD-400Z
   - Konica
+  - Konica KD-400Z
   - light
   - lumière
   - Nederland
@@ -40,7 +41,7 @@ geo:
   latitude: 51.978883333333336
   longitude: 5.913263333333333
   map: true
-  country: Pays-Bas
+  country: Netherlands
   city: Arnhem
 colors:
   vibrant: 215 189 52

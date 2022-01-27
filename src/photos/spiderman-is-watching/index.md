@@ -1,14 +1,12 @@
 ---
 title: Spiderman is watching
 file: spiderman-is-watching.jpg
-date: 2019-02-26 18:02:00 +02:00
+date: 2019-02-26 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - Agama agama
@@ -16,14 +14,15 @@ tags:
   - Agamidae
   - animal
   - animalière
+  - APS-C
   - converter
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
+  - hybrid
   - Kenya
-  - lens
   - lézard
   - lézard spiderman
   - lizard
@@ -42,10 +41,7 @@ tags:
   - rock
   - Squamata
   - Squamates
-  - télé-convertisseur
-  - teleconverter
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 265.8
   focal_length_35mm: 399

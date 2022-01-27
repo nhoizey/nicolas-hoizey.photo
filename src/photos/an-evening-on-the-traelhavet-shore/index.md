@@ -1,13 +1,13 @@
 ---
 title: An evening on the Trälhavet shore
 file: an-evening-on-the-traelhavet-shore.jpg
-date: 2020-02-03 16:02:00 +02:00
+date: 2020-02-03 15:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - Comté de Stockholm
   - Europa
   - Europe
@@ -15,6 +15,7 @@ tags:
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
@@ -29,7 +30,7 @@ tags:
   - Suède
   - Sverige
   - Sweden
-  - X-T3
+  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

@@ -1,13 +1,13 @@
 ---
 title: Phare des Baleines
 file: phare-des-baleines.jpg
-date: 2017-08-22 17:08:00 +02:00
+date: 2017-08-22 16:08:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - architecture
   - Charente-Maritime
   - circle
@@ -21,6 +21,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - Île de Ré
   - lighthouse
   - Nouvelle-Aquitaine
@@ -33,7 +34,7 @@ tags:
   - stair
   - staircase
   - stairway
-  - X-T2
+  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

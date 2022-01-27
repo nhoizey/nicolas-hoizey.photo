@@ -1,27 +1,22 @@
 ---
 title: Kiss
 file: kiss.jpg
-date: 2009-12-27 17:12:00 +02:00
+date: 2009-12-27 16:12:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
 tags:
-  - 135mm f/2
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - beauty
-  - blanc
   - bokeh
   - Canon
-  - Canon 135mm
   - Canon EF 135mm f/2L USM
   - Canon EOS 5D Mark II
   - cheerful
   - cute
   - feminine
   - flou
+  - full frame
   - girl
   - hat
   - kiss
@@ -35,6 +30,8 @@ tags:
   - pink
   - portrait
   - pretty
+  - prime
+  - reflex
   - she
   - smile
   - smiling
@@ -42,7 +39,6 @@ tags:
   - souriant
   - sourire
   - sweet
-  - white
   - woman
 settings:
   focal_length: 135

@@ -1,14 +1,14 @@
 ---
 title: Double helix
 file: double-helix.jpg
-date: 2017-05-12 15:05:00 +02:00
+date: 2017-05-12 14:05:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
   - above
+  - APS-C
   - architecture
   - au dessus
   - cercle
@@ -25,6 +25,7 @@ tags:
   - Fujinon XF 10-24mm f/4.0 R OIS
   - high angle
   - high angle view
+  - hybrid
   - Italia
   - Italie
   - Italy
@@ -49,7 +50,7 @@ tags:
   - Vatican City
   - Vatican Museums
   - vue d'en haut
-  - X-T2
+  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

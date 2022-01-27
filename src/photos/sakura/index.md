@@ -1,16 +1,12 @@
 ---
 title: Sakura
 file: sakura.jpg
-date: 2009-04-01 15:04:00 +02:00
+date: 2009-04-01 14:04:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Boulogne
   - Canon
   - Canon EF 24-70mm f/2.8L USM
@@ -18,9 +14,12 @@ tags:
   - Europa
   - Europe
   - France
+  - full frame
   - Hauts de Seine
   - Ile de France
   - Jardin Albert Khan
+  - reflex
+  - zoom
 settings:
   focal_length: 68
   iso: 100

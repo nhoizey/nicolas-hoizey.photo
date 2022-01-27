@@ -1,19 +1,19 @@
 ---
 title: Who is the observer?
 file: who-is-the-observer.jpg
-date: 2019-02-26 18:02:00 +02:00
+date: 2019-02-26 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF27mmF2.8
 tags:
-  - 27mm
   - 4x4
   - Africa
   - Afrique
   - All-terrain
   - animal
   - animalière
+  - APS-C
   - Cetartiodactyla
   - Cétartiodactyles
   - Even-toed ungulate
@@ -28,6 +28,7 @@ tags:
   - Giraffa camelopardalis tippelskirchii
   - Giraffa tippelskirchi
   - giraffe
+  - hybrid
   - Kenya
   - Kilimanjaro giraffe
   - landscape
@@ -45,14 +46,13 @@ tags:
   - Narok County
   - pancake
   - paysage
+  - prime
   - reserve
   - safari
   - sauvage
   - Tout terrain
   - voiture
   - wild
-  - X-T2
-  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

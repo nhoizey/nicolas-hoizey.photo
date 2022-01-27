@@ -8,7 +8,7 @@ gear:
   lens: XF56mmF1.2 R
 tags:
   - 1:87
-  - 56mm
+  - APS-C
   - carnation
   - Caryophyllaceae
   - dianthus
@@ -19,16 +19,15 @@ tags:
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
   - HO
+  - hybrid
   - macro
   - miniature
   - œillet
   - plant
   - Preiser
+  - prime
   - red
-  - rouge
   - végétal
-  - X-T2
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

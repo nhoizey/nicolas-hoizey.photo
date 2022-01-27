@@ -10,15 +10,15 @@ tags:
   - Afrique
   - bateau
   - bikini
-  - bleu
   - blue
   - boat
+  - compact
   - Egypt
   - Égypte
   - femme
   - Gouvernorat de la Mer-Rouge
-  - KD-400Z
   - Konica
+  - Konica KD-400Z
   - maillot de bain
   - mer
   - Mer Rouge
@@ -26,7 +26,6 @@ tags:
   - red sea
   - Red Sea
   - Red Sea Governorate
-  - rouge
   - sea
   - woman
 settings:
@@ -42,6 +41,7 @@ geo:
   latitude: 26.022825145
   longitude: 34.52726251833333
   map: true
+  country: Egypt
 colors:
   vibrant: 60 164 212
   darkVibrant: 5 40 86

@@ -1,35 +1,30 @@
 ---
 title: A Riad in Taroudant, Morocco
 file: a-riad-in-taroudant-morocco.jpg
-date: 2011-05-04 19:05:00 +02:00
+date: 2011-05-04 18:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: 50mm
 tags:
-  - 50mm
-  - 50mm f/1.4
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Africa
   - Afrique
-  - bleu
   - blue
   - Canon
   - Canon EOS 5D Mark II
   - ciel
   - city
   - clay
-  - f1/4
+  - full frame
   - house
   - Maroc
   - Marocco
+  - prime
   - pur
   - pure
+  - reflex
   - riad
   - Sigma
-  - Sigma 50mm
   - Sigma 50mm F1.4 EX DG HSM
   - sky
   - Souss-Massa

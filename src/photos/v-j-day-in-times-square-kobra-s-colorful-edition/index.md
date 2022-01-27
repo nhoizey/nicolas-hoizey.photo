@@ -1,7 +1,7 @@
 ---
 title: V-J Day in Times Square, Kobra's colorful edition
 file: v-j-day-in-times-square-kobra-s-colorful-edition.jpg
-date: 2015-05-21 11:05:00 +02:00
+date: 2015-05-21 10:05:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -11,16 +11,15 @@ tags:
   - Amérique du Nord
   - baiser
   - bâtiment
-  - bleu
   - blue
   - Chelsea
   - coloré
   - colorful
   - colourful
+  - compact
   - couple
   - États-Unis
   - États-Unis d'Amérique
-  - green
   - kiss
   - Manhattan
   - New-York
@@ -28,21 +27,16 @@ tags:
   - North America
   - NYC
   - orange
+  - paint
   - peinture
   - pink
   - purple
-  - rose
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - street art
   - United States
   - United States of America
   - USA
-  - vert
-  - violet
 settings:
   focal_length: 11.69
   focal_length_35mm: 32

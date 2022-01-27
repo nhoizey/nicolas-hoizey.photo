@@ -1,13 +1,14 @@
 ---
 title: Napoleon's carnation
 file: napoleon-s-carnation.jpg
-date: 2020-06-23 20:06:00 +02:00
+date: 2020-06-23 19:06:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF80mmF2.8 R LM OIS WR Macro
 tags:
   - animal
+  - APS-C
   - Arachnid
   - Arachnida
   - Arachnides
@@ -40,6 +41,7 @@ tags:
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
+  - hybrid
   - Ile de France
   - Labidognatha
   - Labidognathes
@@ -47,6 +49,7 @@ tags:
   - Napoleon spider
   - œillet
   - plant
+  - prime
   - spider
   - spiders
   - Synema globosum
@@ -54,7 +57,6 @@ tags:
   - Thomise globuleux
   - Thomisidae
   - végétal
-  - X-T3
 settings:
   focal_length: 80
   focal_length_35mm: 120

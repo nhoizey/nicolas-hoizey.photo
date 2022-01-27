@@ -1,7 +1,7 @@
 ---
 title: Blue House, and other colors
 file: blue-house-and-other-colors.jpg
-date: 2015-08-09 17:08:00 +02:00
+date: 2015-08-09 16:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -22,14 +22,12 @@ tags:
   - colour
   - colourful
   - colours
+  - compact
   - couleur
   - couleurs
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - skyscrapers
   - Sony
   - Sony RX100 Mark III

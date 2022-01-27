@@ -7,11 +7,6 @@ gear:
   model: EOS 5D Mark II
   lens: 50mm
 tags:
-  - 50mm
-  - 50mm f/1.4
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Africa
   - Afrique
   - agadir
@@ -21,7 +16,7 @@ tags:
   - Aṭlas Mẓiyn
   - Canon
   - Canon EOS 5D Mark II
-  - f1/4
+  - full frame
   - igidar
   - igoudar
   - igudar
@@ -31,8 +26,9 @@ tags:
   - Little Atlas
   - Maroc
   - Marocco
+  - prime
+  - reflex
   - Sigma
-  - Sigma 50mm
   - Sigma 50mm F1.4 EX DG HSM
   - Souss-Massa
   - الأطلس الصغير

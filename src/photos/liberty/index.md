@@ -1,30 +1,28 @@
 ---
 title: Liberty
 file: liberty.jpg
-date: 2015-05-21 17:05:00 +02:00
+date: 2015-05-21 16:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
 tags:
-  - 135mm f/2
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - America
   - Amérique du Nord
   - Canon
-  - Canon 135mm
   - Canon EF 135mm f/2L USM
   - Canon EOS 5D Mark II
   - eau
   - États-Unis
   - États-Unis d'Amérique
+  - full frame
   - Liberty Island
   - New-York
   - New-York City
   - North America
   - NYC
+  - prime
+  - reflex
   - Statue de la Liberté
   - Statue of Liberty
   - United States

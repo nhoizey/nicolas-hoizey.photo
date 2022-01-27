@@ -1,12 +1,9 @@
 ---
 title: Colorful edges
 file: colorful-edges.jpg
-date: 2015-01-21 00:01:00 +02:00
+date: 2015-01-20 23:01:00 +01:00
 gear: {}
 tags:
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Canon
   - Canon EOS 5D Mark II
   - color
@@ -16,11 +13,13 @@ tags:
   - couleur
   - couleurs
   - edge
+  - full frame
   - glass
   - glasses
   - light
   - lights
   - nature morte
+  - reflex
   - still life
   - still-life
   - studio

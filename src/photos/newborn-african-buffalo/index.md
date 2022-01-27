@@ -1,14 +1,12 @@
 ---
 title: Newborn African buffalo
 file: newborn-african-buffalo.jpg
-date: 2019-02-27 17:02:00 +02:00
+date: 2019-02-27 16:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - African buffalo
   - Afrique
@@ -16,6 +14,7 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - Bovidés
   - Buffle d'Afrique
   - buffle noir des savanes
@@ -30,13 +29,13 @@ tags:
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
   - grand buffle noir des savanes
+  - hybrid
   - Kenya
   - lac
   - Lac Nakuru
   - lake
   - Lake Nakuru
   - Lake Nakuru National Park
-  - lens
   - mammal
   - Mammalia
   - mammals
@@ -47,12 +46,9 @@ tags:
   - Parc national du lac Nakuru
   - sauvage
   - Syncerus caffer
-  - télé-convertisseur
-  - teleconverter
   - wild animal
   - wild animals
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 560.8
   focal_length_35mm: 841

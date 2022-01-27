@@ -1,13 +1,13 @@
 ---
 title: Down to the sky
 file: down-to-the-sky.jpg
-date: 2018-08-05 16:08:00 +02:00
+date: 2018-08-05 15:08:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - chinese
   - chinese garden
   - chinois
@@ -22,6 +22,7 @@ tags:
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
   - garden
+  - hybrid
   - Ile de France
   - jardin
   - jardin chinois
@@ -35,8 +36,8 @@ tags:
   - toit
   - végétal
   - water
-  - X-T2
   - Yvelines
+  - zoom
 settings:
   focal_length: 24
   focal_length_35mm: 36

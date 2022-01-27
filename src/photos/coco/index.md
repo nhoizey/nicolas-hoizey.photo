@@ -1,15 +1,14 @@
 ---
 title: Coco
 file: coco.jpg
-date: 2008-05-11 15:05:00 +02:00
+date: 2008-05-11 14:05:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 70.0-300.0 mm
 tags:
-  - 350D
-  - 70-300mm
   - animal
+  - APS-C
   - ara
   - bec
   - bird
@@ -28,11 +27,12 @@ tags:
   - perroquet
   - profil
   - red
+  - reflex
   - Rhenen
-  - rouge
   - The Netherlands
   - Utrecht
   - zoo
+  - zoom
 settings:
   focal_length: 220
   iso: 800

@@ -7,8 +7,7 @@ gear:
   model: Canon EOS 350D DIGITAL
   lens: 100.0 mm
 tags:
-  - 100mm
-  - 350D
+  - APS-C
   - bolt
   - boulon
   - Canon
@@ -17,6 +16,8 @@ tags:
   - écrou
   - macro
   - nut
+  - prime
+  - reflex
   - rouille
   - rusty
 settings:

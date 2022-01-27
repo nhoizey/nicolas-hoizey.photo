@@ -1,21 +1,18 @@
 ---
 title: South New Caledonia
 file: south-new-caledonia.jpg
-date: 2013-03-30 17:03:00 +02:00
+date: 2013-03-30 16:03:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - arbre
   - beach
   - Canon
   - Canon EF 24-70mm f/2.8L USM
   - Canon EOS 5D Mark II
+  - full frame
   - landscape
   - mer
   - New Caledonia
@@ -25,11 +22,13 @@ tags:
   - paysage
   - plage
   - plant
+  - reflex
   - sable
   - sand
   - sea
   - tree
   - végétal
+  - zoom
 settings:
   focal_length: 30
   iso: 100

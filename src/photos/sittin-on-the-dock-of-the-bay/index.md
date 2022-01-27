@@ -1,14 +1,15 @@
 ---
 title: (Sittin' On) The Dock of the Bay
 file: sittin-on-the-dock-of-the-bay.jpg
-date: 2014-03-14 15:03:00 +02:00
+date: 2014-03-14 14:03:00 +01:00
 gear:
   make: Panasonic
   model: DMC-GM1
 tags:
-  - DMC-GM1
-  - GM1
+  - hybrid
+  - Micro Four Thirds
   - Panasonic
+  - Panasonic DMC-GM1
 settings:
   iso: 200
   shutter_speed: 1/16000

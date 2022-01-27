@@ -9,13 +9,14 @@ gear:
 tags:
   - Arnhem
   - bateau
-  - bleu
   - blue
   - boat
+  - compact
   - eau
   - Europa
   - Europe
   - Gelderland
+  - green
   - musée
   - museum
   - Nederland
@@ -25,9 +26,6 @@ tags:
   - Pays-Bas
   - reflection
   - reflet
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - The Netherlands

@@ -1,24 +1,17 @@
 ---
 title: New York Lovers
 file: new-york-lovers.jpg
-date: 2015-05-21 11:05:00 +02:00
+date: 2015-05-21 10:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
 tags:
-  - 135mm f/2
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - America
   - Amérique du Nord
   - beret
-  - blanc
-  - bleu
   - blue
   - Canon
-  - Canon 135mm
   - Canon EF 135mm f/2L USM
   - Canon EOS 5D Mark II
   - color
@@ -34,6 +27,7 @@ tags:
   - drawing
   - États-Unis
   - États-Unis d'Amérique
+  - full frame
   - green
   - kiss
   - Kobra
@@ -49,12 +43,12 @@ tags:
   - orange
   - paint
   - painting
+  - prime
   - red
-  - rouge
+  - reflex
   - United States
   - United States of America
   - USA
-  - vert
   - wall
   - white
   - woman

@@ -1,16 +1,12 @@
 ---
 title: Ripe
 file: ripe.jpg
-date: 2015-04-27 15:04:00 +02:00
+date: 2015-04-27 14:04:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
 tags:
-  - 100mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - abimé
   - bokeh
   - book
@@ -24,12 +20,15 @@ tags:
   - Europe
   - flou
   - France
+  - full frame
   - livre
   - macro
   - nature morte
   - old
   - paper
   - papier
+  - prime
+  - reflex
   - still life
   - still-life
   - vieux

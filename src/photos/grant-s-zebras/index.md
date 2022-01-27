@@ -7,13 +7,13 @@ gear:
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - Africa
   - Afrique
   - Amboseli
   - Amboseli National Park
   - animal
   - animalière
+  - APS-C
   - Equidae
   - Équidés
   - Equus quagga
@@ -24,6 +24,7 @@ tags:
   - Fujinon XF 56mm f/1.2 R
   - Grant's zebra
   - horse family
+  - hybrid
   - Imparidigités
   - Kajiado
   - Kenya
@@ -44,10 +45,9 @@ tags:
   - Perissodactyla
   - Périssodactyles
   - plains zebra
+  - prime
   - volcan
   - volcano
-  - X-T2
-  - XF56mmF1.2 R
   - zèbre de Burchell
   - Zèbre de Grant
   - Zèbre des plaines

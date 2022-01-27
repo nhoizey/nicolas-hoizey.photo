@@ -8,12 +8,12 @@ gear:
   lens: XF56mmF1.2 R
 tags:
   - 4x4
-  - 56mm
   - Africa
   - Afrique
   - All-terrain
   - Amboseli
   - Amboseli National Park
+  - APS-C
   - autocar
   - bus
   - car
@@ -21,6 +21,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
+  - hybrid
   - Kajiado
   - Kenya
   - Kilimanjaro
@@ -32,6 +33,7 @@ tags:
   - Parc national d'Amboseli
   - paysage
   - piste
+  - prime
   - road
   - route
   - Tout terrain
@@ -43,8 +45,6 @@ tags:
   - voiture
   - volcan
   - volcano
-  - X-T2
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

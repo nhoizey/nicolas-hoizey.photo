@@ -1,16 +1,15 @@
 ---
 title: Tone-on-tone
 file: tone-on-tone.jpg
-date: 2008-04-26 18:04:00 +02:00
+date: 2008-04-26 17:04:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
 tags:
-  - 350D
+  - APS-C
   - Burano
   - Canon
-  - Canon EF-S 17-85mm
   - Canon EF-S 17-85mm f/4-5.6 IS USM
   - Canon EOS 350D
   - course à pied
@@ -23,12 +22,12 @@ tags:
   - Italie
   - Italy
   - red
-  - rouge
+  - reflex
   - Venezia
   - Venice
   - Venise
-  - vert
   - window
+  - zoom
 settings:
   focal_length: 85
   iso: 100

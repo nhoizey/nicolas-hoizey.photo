@@ -1,16 +1,12 @@
 ---
 title: Frost
 file: frost.jpg
-date: 2009-01-10 10:01:00 +02:00
+date: 2009-01-10 09:01:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Canon
   - Canon EF 24-70mm f/2.8L USM
   - Canon EOS 5D Mark II
@@ -22,12 +18,15 @@ tags:
   - feuille
   - France
   - froid
+  - full frame
   - gel
   - gelé
   - givre
   - ice
   - Ile de France
   - Port aux Cerises
+  - reflex
+  - zoom
 settings:
   focal_length: 70
   iso: 400

@@ -1,7 +1,7 @@
 ---
 title: Itbāy
 file: itbay.jpg
-date: 2004-05-14 17:05:00 +02:00
+date: 2004-05-14 16:05:00 +01:00
 gear:
   make: Konica
   model: KD-400Z
@@ -10,6 +10,7 @@ tags:
   - Afrique
   - Al-Qusair
   - collines de la mer Rouge
+  - compact
   - Cossire
   - désert
   - Désert Arabique
@@ -19,8 +20,8 @@ tags:
   - El Qoseir
   - Gouvernorat de la Mer-Rouge
   - Itbay
-  - KD-400Z
   - Konica
+  - Konica KD-400Z
   - montagne
   - mountain
   - Red Sea Governorate
@@ -42,7 +43,7 @@ geo:
   latitude: 25.885788668333333
   longitude: 34.24826244166667
   map: true
-  country: Égypte
+  country: Egypt
   city: Al Qusir
 colors:
   vibrant: 180 116 60

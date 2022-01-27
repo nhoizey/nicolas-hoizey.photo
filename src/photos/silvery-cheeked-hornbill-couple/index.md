@@ -1,20 +1,19 @@
 ---
 title: Silvery-cheeked Hornbill couple
 file: silvery-cheeked-hornbill-couple.jpg
-date: 2019-03-04 18:03:00 +02:00
+date: 2019-03-04 17:03:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - animal
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - bird
   - birds
   - Bucerotidae
@@ -32,20 +31,17 @@ tags:
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
   - Hornbill
+  - hybrid
   - Kenya
   - Kwale County
-  - lens
   - oiseau
   - Oiseaux
   - sauvage
   - Silvery-cheeked Hornbill
-  - télé-convertisseur
-  - teleconverter
   - The Baobab Hotel
   - wild animal
   - wild animals
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 393.2
   focal_length_35mm: 590

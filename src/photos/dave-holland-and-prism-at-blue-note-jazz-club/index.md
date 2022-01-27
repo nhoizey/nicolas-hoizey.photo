@@ -1,23 +1,17 @@
 ---
 title: Dave Holland & Prism at Blue Note Jazz Club
 file: dave-holland-and-prism-at-blue-note-jazz-club.jpg
-date: 2015-05-21 23:05:00 +02:00
+date: 2015-05-21 22:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: 50mm
 tags:
-  - 50mm
-  - 50mm f/1.4
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - America
   - Amérique du Nord
   - bass
   - basse
   - batterie
-  - bleu
   - blue
   - Blue Note
   - Blue Note Jazz Club
@@ -28,7 +22,7 @@ tags:
   - drum kit
   - États-Unis
   - États-Unis d'Amérique
-  - f1/4
+  - full frame
   - Greenwich Village
   - group
   - groupe
@@ -46,14 +40,15 @@ tags:
   - North America
   - NYC
   - piano
+  - prime
   - purple
+  - red
+  - reflex
   - Sigma
-  - Sigma 50mm
   - Sigma 50mm F1.4 EX DG HSM
   - United States
   - United States of America
   - USA
-  - violet
 settings:
   focal_length: 50
   iso: 160

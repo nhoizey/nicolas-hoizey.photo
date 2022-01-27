@@ -1,16 +1,12 @@
 ---
 title: A view from the Hong Kong Avenue of Stars
 file: a-view-from-the-hong-kong-avenue-of-stars.jpg
-date: 2015-08-08 23:08:00 +02:00
+date: 2015-08-08 22:08:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Asia
   - Asie
   - Avenue of Stars
@@ -28,6 +24,7 @@ tags:
   - colour
   - colourful
   - couleur
+  - full frame
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
@@ -38,10 +35,12 @@ tags:
   - panorama
   - panoramic
   - panoramique
+  - reflex
   - Tsim Sha Tsui
   - urbain
   - urban
   - ville
+  - zoom
 settings:
   focal_length: 24
   iso: 100

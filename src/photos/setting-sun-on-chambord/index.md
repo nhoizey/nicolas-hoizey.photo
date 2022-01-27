@@ -1,13 +1,13 @@
 ---
 title: Setting sun on Chambord
 file: setting-sun-on-chambord.jpg
-date: 2020-07-11 21:07:00 +02:00
+date: 2020-07-11 20:07:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - castle
   - Centre-Val de Loire
   - château
@@ -23,13 +23,14 @@ tags:
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - Loir-et-Cher
   - nuage
   - reflection
   - reflet
   - sky
   - water
-  - X-T3
+  - zoom
 settings:
   focal_length: 13.8
   focal_length_35mm: 21

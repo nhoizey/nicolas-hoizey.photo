@@ -1,17 +1,12 @@
 ---
 title: Did I go over the top?
 file: did-i-go-over-the-top.jpg
-date: 2014-05-02 12:05:00 +02:00
+date: 2014-05-02 11:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
-  - bleu
   - blue
   - Canon
   - Canon EF 24-70mm f/2.8L USM
@@ -27,6 +22,7 @@ tags:
   - couleurs
   - feather
   - feathers
+  - full frame
   - green
   - Indian peacock
   - iridescence
@@ -34,7 +30,8 @@ tags:
   - paon
   - peacock
   - peafowl
-  - vert
+  - reflex
+  - zoom
 settings:
   focal_length: 50
   iso: 200

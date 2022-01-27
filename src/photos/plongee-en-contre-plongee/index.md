@@ -9,7 +9,6 @@ tags:
   - Africa
   - Afrique
   - bateau
-  - bleu
   - blue
   - boat
   - dive

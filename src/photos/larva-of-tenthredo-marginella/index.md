@@ -1,18 +1,19 @@
 ---
 title: Larva of Tenthredo Marginella
 file: larva-of-tenthredo-marginella.jpg
-date: 2008-10-12 14:10:00 +02:00
+date: 2008-10-12 13:10:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
 tags:
-  - 350D
   - animal
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - Canon
   - Canon EOS 350D
+  - reflex
   - sauvage
   - wild animal
   - wild animals

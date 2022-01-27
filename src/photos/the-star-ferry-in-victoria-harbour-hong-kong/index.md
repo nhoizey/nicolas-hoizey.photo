@@ -13,14 +13,12 @@ tags:
   - boat
   - China
   - Chine
+  - compact
   - détroit
   - Hong Kong
   - Hong Kong City
   - mer
   - Port Victoria
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - sea
   - Sony
   - Sony RX100 Mark III

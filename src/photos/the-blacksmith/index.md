@@ -1,7 +1,7 @@
 ---
 title: The Blacksmith
 file: the-blacksmith.jpg
-date: 2014-07-12 15:07:00 +02:00
+date: 2014-07-12 14:07:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -13,6 +13,7 @@ tags:
   - barbe
   - beard
   - blacksmith
+  - compact
   - craftsman
   - enclume
   - Europa
@@ -31,9 +32,6 @@ tags:
   - Openluchtmuseum
   - outil
   - Pays-Bas
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - The Netherlands

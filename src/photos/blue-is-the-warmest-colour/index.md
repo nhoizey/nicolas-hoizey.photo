@@ -1,7 +1,7 @@
 ---
 title: Blue is the warmest colour
 file: blue-is-the-warmest-colour.jpg
-date: 2015-08-09 15:08:00 +02:00
+date: 2015-08-09 14:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -9,23 +9,19 @@ gear:
 tags:
   - Asia
   - Asie
-  - bleu
   - blue
   - China
   - Chine
+  - compact
   - gas
   - gaz
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
-  - jaune
   - rail
   - road
   - route
   - rue
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - street

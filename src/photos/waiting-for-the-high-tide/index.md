@@ -7,12 +7,7 @@ gear:
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - bateau
-  - bleu
   - blue
   - boat
   - Bretagne
@@ -25,12 +20,15 @@ tags:
   - Europa
   - Europe
   - France
+  - full frame
   - long exposure
   - marée
   - mer
   - Ploumanac'h
+  - reflex
   - sea
   - sky
+  - zoom
 settings:
   focal_length: 24
   iso: 200

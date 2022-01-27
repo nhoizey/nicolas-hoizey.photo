@@ -1,7 +1,7 @@
 ---
 title: Would you like some bedouin tea?
 file: would-you-like-some-bedouin-tea.jpg
-date: 2004-05-14 18:05:00 +02:00
+date: 2004-05-14 17:05:00 +01:00
 gear:
   make: Konica
   model: KD-400Z
@@ -11,6 +11,7 @@ tags:
   - Al-Qusair
   - beverage
   - boisson
+  - compact
   - Cossire
   - désert
   - Désert Arabique
@@ -20,8 +21,8 @@ tags:
   - Égypte
   - El Qoseir
   - Gouvernorat de la Mer-Rouge
-  - KD-400Z
   - Konica
+  - Konica KD-400Z
   - Red Sea Governorate
   - tente
   - thé
@@ -39,7 +40,7 @@ geo:
   latitude: 25.89786792
   longitude: 34.29451094666667
   map: true
-  country: Égypte
+  country: Egypt
   city: Al Qusir
 colors:
   vibrant: 173 125 78

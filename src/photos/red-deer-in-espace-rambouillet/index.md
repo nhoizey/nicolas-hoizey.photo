@@ -7,12 +7,11 @@ gear:
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x
 tags:
-  - ×1.4
-  - 100-400mm
   - animal
   - animal captif
   - animalière
   - animaux captifs
+  - APS-C
   - arbre
   - captif
   - captivité
@@ -35,8 +34,8 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF1.4× TC WR
+  - hybrid
   - Ile de France
-  - lens
   - mammal
   - Mammalia
   - mammals
@@ -44,13 +43,10 @@ tags:
   - Mammifères
   - plant
   - Red deer
-  - télé-convertisseur
-  - teleconverter
   - tree
   - végétal
-  - X-T3
-  - x1.4
   - Yvelines
+  - zoom
 settings:
   focal_length: 392.6
   focal_length_35mm: 589

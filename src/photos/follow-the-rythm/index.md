@@ -1,14 +1,14 @@
 ---
 title: Follow the rythm
 file: follow-the-rythm.jpg
-date: 2014-09-27 01:09:00 +02:00
+date: 2014-09-27 00:09:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
 tags:
-  - bleu
   - blue
+  - compact
   - dance
   - DJ
   - DubVision
@@ -20,10 +20,6 @@ tags:
   - nightclub
   - nuit
   - red
-  - rouge
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - spot

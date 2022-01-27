@@ -16,6 +16,7 @@ tags:
   - cityscape
   - cloud
   - clouds
+  - compact
   - eau
   - Europa
   - Europe
@@ -38,9 +39,6 @@ tags:
   - reflet
   - Reitdiep
   - Reitdiephaven
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - sky
   - Sony
   - Sony RX100 Mark III

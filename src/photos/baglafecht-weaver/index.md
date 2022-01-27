@@ -1,36 +1,34 @@
 ---
 title: Baglafecht weaver
 file: baglafecht-weaver.jpg
-date: 2019-02-26 10:02:00 +02:00
+date: 2019-02-26 09:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - animal
   - animalière
+  - APS-C
   - Baglafecht weaver
   - bird
   - birds
+  - black
   - converter
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
-  - jaune
+  - hybrid
   - Kenya
-  - lens
   - Maasai
   - Maasai Mara National Reserve
   - Masai
   - Masai Mara
   - Narok County
-  - noir
   - oiseau
   - Oiseaux
   - Passériformes
@@ -38,12 +36,9 @@ tags:
   - Plocéidés
   - Ploceus baglafecht
   - reserve
-  - télé-convertisseur
-  - teleconverter
   - Tisserin baglafecht
-  - X-T3
-  - x2.0
   - yellow
+  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

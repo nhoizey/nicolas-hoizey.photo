@@ -1,14 +1,12 @@
 ---
 title: Mantled guereza
 file: mantled-guereza.jpg
-date: 2019-02-27 19:02:00 +02:00
+date: 2019-02-27 18:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Abyssinian black-and-white colobus
   - acacia
   - Africa
@@ -17,6 +15,7 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - arbre
   - Cercopithecidae
   - cercopithécidés
@@ -32,13 +31,13 @@ tags:
   - Fujinon XF2.0× TC WR
   - Guéréza
   - Guéréza du Kilimandjaro
+  - hybrid
   - Kenya
   - lac
   - Lac Nakuru
   - lake
   - Lake Nakuru
   - Lake Nakuru National Park
-  - lens
   - mammal
   - Mammalia
   - mammals
@@ -53,14 +52,11 @@ tags:
   - primate
   - primates
   - sauvage
-  - télé-convertisseur
-  - teleconverter
   - tree
   - végétal
   - wild animal
   - wild animals
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 265.8
   focal_length_35mm: 399

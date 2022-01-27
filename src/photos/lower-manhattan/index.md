@@ -1,16 +1,12 @@
 ---
 title: Lower Manhattan
 file: lower-manhattan.jpg
-date: 2015-05-23 23:05:00 +02:00
+date: 2015-05-23 22:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - America
   - Amérique du Nord
   - architecture
@@ -27,6 +23,7 @@ tags:
   - États-Unis d'Amérique
   - evening
   - financial district
+  - full frame
   - Hudson
   - immeuble
   - light
@@ -43,6 +40,7 @@ tags:
   - NYC
   - reflection
   - reflet
+  - reflex
   - river
   - rivière
   - skyline
@@ -58,6 +56,7 @@ tags:
   - ville
   - voyage
   - water
+  - zoom
 settings:
   focal_length: 24
   iso: 200

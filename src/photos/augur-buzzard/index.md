@@ -1,20 +1,19 @@
 ---
 title: Augur Buzzard
 file: augur-buzzard.jpg
-date: 2019-02-27 17:02:00 +02:00
+date: 2019-02-27 16:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Accipitridés
   - Accipitriformes
   - Africa
   - Afrique
   - animal
   - animalière
+  - APS-C
   - Augur Buzzard
   - bird
   - birds
@@ -26,22 +25,19 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
+  - hybrid
   - Kenya
   - lac
   - Lac Nakuru
   - lake
   - Lake Nakuru
   - Lake Nakuru National Park
-  - lens
   - Nakuru
   - Nakuru County
   - oiseau
   - Oiseaux
   - Parc national du lac Nakuru
-  - télé-convertisseur
-  - teleconverter
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

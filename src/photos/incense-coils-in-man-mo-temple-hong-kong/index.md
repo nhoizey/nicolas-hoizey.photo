@@ -1,16 +1,12 @@
 ---
 title: Incense coils in Man Mo Temple, Hong Kong
 file: incense-coils-in-man-mo-temple-hong-kong.jpg
-date: 2015-08-08 14:08:00 +02:00
+date: 2015-08-08 13:08:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Asia
   - Asie
   - Canon
@@ -20,6 +16,7 @@ tags:
   - Chine
   - coil
   - faith
+  - full frame
   - Hong Kong
   - incense
   - incense coil
@@ -27,6 +24,7 @@ tags:
   - light
   - light beam
   - Man Mo
+  - reflex
   - religion
   - Sheung Wan
   - smoke
@@ -35,6 +33,7 @@ tags:
   - steam
   - temple
   - worship
+  - zoom
 settings:
   focal_length: 45
   iso: 200

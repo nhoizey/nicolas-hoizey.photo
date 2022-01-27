@@ -1,13 +1,13 @@
 ---
 title: Bacchus dream
 file: bacchus-dream.jpg
-date: 2007-11-03 18:11:00 +02:00
+date: 2007-11-03 17:11:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
 tags:
-  - 350D
+  - APS-C
   - ardoise
   - beverage
   - blackboard
@@ -15,7 +15,6 @@ tags:
   - bottle
   - bouteille
   - Canon
-  - Canon EF-S 17-85mm
   - Canon EF-S 17-85mm f/4-5.6 IS USM
   - Canon EOS 350D
   - cave
@@ -31,6 +30,7 @@ tags:
   - millésime
   - old
   - poussière
+  - reflex
   - Reims
   - sale
   - vieux
@@ -38,6 +38,7 @@ tags:
   - vintage
   - Vranken-Pommery Monopole
   - wine
+  - zoom
 settings:
   focal_length: 17
   iso: 1600

@@ -1,24 +1,23 @@
 ---
 title: Pied Kingfisher in Lake Nakuru National Park, Kenya
 file: pied-kingfisher-in-lake-nakuru-national-park-kenya.jpg
-date: 2019-02-27 18:02:00 +02:00
+date: 2019-02-27 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - Alcedinidae
   - Alcédinidés
   - animal
   - animalière
+  - APS-C
   - bec
   - bird
   - birds
-  - blanc
+  - black
   - Ceryle rudis
   - converter
   - Coraciiformes
@@ -27,6 +26,7 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
+  - hybrid
   - Kenya
   - Kingfisher
   - lac
@@ -34,20 +34,15 @@ tags:
   - lake
   - Lake Nakuru
   - Lake Nakuru National Park
-  - lens
   - Martin-pêcheur pie
   - Nakuru
   - Nakuru County
-  - noir
   - oiseau
   - Oiseaux
   - Parc national du lac Nakuru
   - Pied Kingfisher
-  - télé-convertisseur
-  - teleconverter
   - white
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 407.4
   focal_length_35mm: 611

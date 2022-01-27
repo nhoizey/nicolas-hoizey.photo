@@ -12,12 +12,10 @@ tags:
   - China
   - Chine
   - Chung Wui Mansion
+  - compact
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - Wan Chai

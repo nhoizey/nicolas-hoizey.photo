@@ -1,16 +1,12 @@
 ---
 title: Kilchurn Castle
 file: kilchurn-castle.jpg
-date: 2014-04-30 18:04:00 +02:00
+date: 2014-04-30 17:04:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Argyll and Bute
   - Canon
   - Canon EF 24-70mm f/2.8L USM
@@ -19,9 +15,11 @@ tags:
   - Écosse
   - Europa
   - Europe
+  - full frame
   - Grande-Bretagne
   - Great Britain
   - Kilchurn Castle
+  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
@@ -29,6 +27,7 @@ tags:
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
+  - zoom
 settings:
   focal_length: 70
   iso: 200

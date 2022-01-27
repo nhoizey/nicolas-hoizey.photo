@@ -1,13 +1,13 @@
 ---
 title: Mud lover
 file: mud-lover.jpg
-date: 2008-05-11 13:05:00 +02:00
+date: 2008-05-11 12:05:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
 tags:
-  - 350D
   - animal
+  - APS-C
   - boue
   - Canon
   - Canon EOS 350D
@@ -27,6 +27,7 @@ tags:
   - Nederland
   - Ouwehands Dierenpark
   - Pays-Bas
+  - reflex
   - Rhenen
   - The Netherlands
   - Utrecht

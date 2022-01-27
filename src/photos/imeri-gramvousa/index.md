@@ -7,11 +7,10 @@ gear:
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
 tags:
-  - 350D
+  - APS-C
   - bateau
   - boat
   - Canon
-  - Canon EF-S 17-85mm
   - Canon EF-S 17-85mm f/4-5.6 IS USM
   - Canon EOS 350D
   - Crete
@@ -29,10 +28,12 @@ tags:
   - montagne
   - mountain
   - panorama
+  - reflex
   - sea
   - shipwreck
   - vacances
   - water
+  - zoom
   - Ελλάδα
   - Ήμερη Γραμβούσα
   - Κρήτη
@@ -48,8 +49,8 @@ geo:
   latitude: 35.60827625333334
   longitude: 23.576639096666668
   map: true
-  country: Grèce
-  city: Gramvoussa
+  country: Greece
+  city: Municipality of Kissamos
 colors:
   vibrant: 6 128 186
   darkVibrant: 9 91 135

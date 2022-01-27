@@ -1,7 +1,7 @@
 ---
 title: Muscles
 file: muscles.jpg
-date: 2015-05-23 14:05:00 +02:00
+date: 2015-05-23 13:05:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -9,9 +9,9 @@ gear:
 tags:
   - America
   - Amérique du Nord
-  - blanc
   - Brooklyn
   - Challenger
+  - compact
   - Dodge
   - États-Unis
   - États-Unis d'Amérique
@@ -20,10 +20,6 @@ tags:
   - North America
   - NYC
   - red
-  - rouge
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - United States

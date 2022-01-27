@@ -1,13 +1,9 @@
 ---
 title: Hong Kong planet
 file: hong-kong-planet.jpg
-date: 2015-08-08 23:08:00 +02:00
+date: 2015-08-08 22:08:00 +01:00
 gear: {}
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Asia
   - Asie
   - Avenue of Stars
@@ -25,6 +21,7 @@ tags:
   - colour
   - colourful
   - couleur
+  - full frame
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
@@ -38,10 +35,12 @@ tags:
   - panoramique
   - polar
   - polar coordinates
+  - reflex
   - round
   - sphere
   - Tsim Sha Tsui
   - ville
+  - zoom
 dimensions:
   width: 3500
   height: 3500

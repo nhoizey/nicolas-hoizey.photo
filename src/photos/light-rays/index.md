@@ -7,8 +7,7 @@ gear:
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x
 tags:
-  - ×1.4
-  - 100-400mm
+  - APS-C
   - arbre
   - converter
   - Espace Rambouillet
@@ -24,16 +23,13 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF1.4× TC WR
+  - hybrid
   - Ile de France
-  - lens
   - plant
-  - télé-convertisseur
-  - teleconverter
   - tree
   - végétal
-  - X-T3
-  - x1.4
   - Yvelines
+  - zoom
 settings:
   focal_length: 140
   focal_length_35mm: 210

@@ -1,7 +1,7 @@
 ---
 title: Bonjour
 file: bonjour.jpg
-date: 2015-08-15 15:08:00 +02:00
+date: 2015-08-15 14:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -13,6 +13,7 @@ tags:
   - building
   - China
   - Chine
+  - compact
   - cosmetics
   - fenêtre
   - Hong Kong
@@ -25,10 +26,6 @@ tags:
   - night
   - nuit
   - red
-  - rouge
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - sign
   - Sony
   - Sony RX100 Mark III

@@ -7,12 +7,7 @@ gear:
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - bateau
-  - bleu
   - blue
   - boat
   - Canon
@@ -26,6 +21,7 @@ tags:
   - Europe
   - falaise
   - France
+  - full frame
   - La Manneporte
   - landscape
   - mer
@@ -35,10 +31,11 @@ tags:
   - pink
   - Pisseuses de Valaine
   - Pointe de la Courtine
-  - rose
+  - reflex
   - sea
   - Seine-Maritime
   - water
+  - zoom
 settings:
   focal_length: 34
   iso: 100

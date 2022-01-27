@@ -1,20 +1,19 @@
 ---
 title: What are you waiting for?
 file: what-are-you-waiting-for.jpg
-date: 2019-02-28 18:02:00 +02:00
+date: 2019-02-28 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - Amboseli
   - Amboseli National Park
   - animal
   - animalière
+  - APS-C
   - Cetartiodactyla
   - Cétartiodactyles
   - converter
@@ -27,9 +26,9 @@ tags:
   - hippopotame
   - Hippopotamidae
   - Hippopotamus
+  - hybrid
   - Kajiado
   - Kenya
-  - lens
   - mammal
   - Mammalia
   - mammals
@@ -37,10 +36,7 @@ tags:
   - Mammifères
   - National Park
   - Parc national d'Amboseli
-  - télé-convertisseur
-  - teleconverter
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

@@ -1,23 +1,22 @@
 ---
 title: Night mirror
 file: night-mirror.jpg
-date: 2010-08-07 23:08:00 +02:00
+date: 2010-08-07 22:08:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Canon
   - Canon EF 24-70mm f/2.8L USM
   - Canon EOS 5D Mark II
   - city
+  - full frame
+  - reflex
   - urbain
   - urban
   - ville
+  - zoom
 settings:
   focal_length: 34
   iso: 2500

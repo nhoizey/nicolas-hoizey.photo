@@ -1,23 +1,21 @@
 ---
 title: Lost in (white) space
 file: lost-in-white-space.jpg
-date: 2005-04-23 16:04:00 +02:00
+date: 2005-04-23 15:04:00 +01:00
 gear:
   make: Konica
   model: KD-400Z
 tags:
-  - blanc
-  - bleu
-  - blue
   - ciel
+  - compact
   - contrast
   - contraste
   - Europa
   - Europe
   - France
   - Ile de France
-  - KD-400Z
   - Konica
+  - Konica KD-400Z
   - minimaliste
   - Paris
   - sky
@@ -36,6 +34,7 @@ geo:
   longitude: 2.3882076716666667
   map: true
   country: France
+  city: Paris
 colors:
   vibrant: 123 166 230
   darkVibrant: 21 57 111

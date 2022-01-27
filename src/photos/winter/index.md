@@ -1,22 +1,21 @@
 ---
 title: Winter
 file: winter.jpg
-date: 2014-02-14 12:02:00 +02:00
+date: 2014-02-14 11:02:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Canon
   - Canon EF 24-70mm f/2.8L USM
   - Canon EOS 5D Mark II
+  - full frame
   - Méribel
+  - reflex
   - ski
   - vacances
+  - zoom
 settings:
   focal_length: 70
   iso: 200

@@ -1,18 +1,19 @@
 ---
 title: Strobe
 file: strobe.jpg
-date: 2017-03-25 14:03:00 +02:00
+date: 2017-03-25 13:03:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - carré
   - Fujifilm
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - light
   - lumière
   - portrait
@@ -20,7 +21,7 @@ tags:
   - strobe light
   - stroboscope
   - studio
-  - X-T2
+  - zoom
 settings:
   focal_length: 24
   focal_length_35mm: 36

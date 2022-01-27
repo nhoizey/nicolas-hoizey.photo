@@ -1,16 +1,12 @@
 ---
 title: Eilean Donan Castle
 file: eilean-donan-castle.jpg
-date: 2014-05-01 18:05:00 +02:00
+date: 2014-05-01 17:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - bridge
   - Canon
   - Canon EF 24-70mm f/2.8L USM
@@ -22,11 +18,13 @@ tags:
   - Eilean Donan Castle
   - Europa
   - Europe
+  - full frame
   - Grande-Bretagne
   - Great Britain
   - Highland
   - mer
   - pont
+  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
@@ -36,6 +34,7 @@ tags:
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
   - water
+  - zoom
 settings:
   focal_length: 27
   iso: 200

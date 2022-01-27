@@ -7,7 +7,7 @@ gear:
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
+  - APS-C
   - B&W
   - black and white
   - contrast
@@ -20,17 +20,17 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
+  - hybrid
   - Lyon
   - mur
   - noir et blanc
   - portrait
+  - prime
   - Rhône
   - Rhône-Alpes
   - studio
   - wall
   - woman
-  - X-T2
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

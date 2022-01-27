@@ -1,19 +1,17 @@
 ---
 title: Patrouille de France
 file: patrouille-de-france.jpg
-date: 2017-07-14 10:07:00 +02:00
+date: 2017-07-14 09:07:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
 tags:
-  - 100-400mm
   - airplane
   - Alpha Jet
+  - APS-C
   - Avenue des Champs-Élysées
   - avion
-  - blanc
-  - bleu
   - blue
   - ciel
   - Défilé du 14 juillet
@@ -25,16 +23,16 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - fumée
+  - hybrid
   - Ile de France
   - Paris
   - Patrouille de France
   - plane
   - red
-  - rouge
   - sky
   - smoke
   - white
-  - X-T2
+  - zoom
 settings:
   focal_length: 100
   focal_length_35mm: 150

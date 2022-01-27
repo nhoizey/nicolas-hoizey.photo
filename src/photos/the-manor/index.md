@@ -1,16 +1,12 @@
 ---
 title: The manor
 file: the-manor.jpg
-date: 2013-08-14 16:08:00 +02:00
+date: 2013-08-14 15:08:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
 tags:
-  - 100mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Canon
   - Canon EF 100mm f/2.8 Macro USM
   - Canon EOS 5D Mark II
@@ -21,10 +17,13 @@ tags:
   - Europe
   - France
   - France Miniature
+  - full frame
   - Ile de France
   - macro
   - maquette
   - miniature
+  - prime
+  - reflex
   - voiture
   - Yvelines
 settings:

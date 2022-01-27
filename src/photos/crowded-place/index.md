@@ -7,7 +7,6 @@ gear:
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - Africa
   - Afrique
   - Amboseli
@@ -16,10 +15,12 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - Fujifilm
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
+  - hybrid
   - Kajiado
   - Kenya
   - Kilimanjaro
@@ -30,13 +31,12 @@ tags:
   - National Park
   - Parc national d'Amboseli
   - paysage
+  - prime
   - sauvage
   - volcan
   - volcano
   - wild animal
   - wild animals
-  - X-T2
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

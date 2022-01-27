@@ -1,15 +1,14 @@
 ---
 title: Scarlet lily beetle
 file: scarlet-lily-beetle.jpg
-date: 2008-06-14 14:06:00 +02:00
+date: 2008-06-14 13:06:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 100.0 mm
 tags:
-  - 100mm
-  - 350D
   - animal
+  - APS-C
   - At home
   - Canon
   - Canon EF 100mm f/2.8 Macro USM
@@ -32,8 +31,9 @@ tags:
   - Lilioceris lilii
   - Lily Leaf Beetle
   - macro
+  - prime
   - red
-  - rouge
+  - reflex
 settings:
   focal_length: 100
   iso: 1600

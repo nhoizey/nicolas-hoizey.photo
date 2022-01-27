@@ -1,18 +1,17 @@
 ---
 title: Playa Morón
 file: playa-moron.jpg
-date: 2018-02-28 12:02:00 +02:00
+date: 2018-02-28 11:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
   - America
   - Amérique
+  - APS-C
   - arbre
   - beach
-  - bleu
   - blue
   - Caraïbe
   - Caraïbes
@@ -24,6 +23,7 @@ tags:
   - Fujinon XF 10-24mm f/4.0 R OIS
   - green
   - Hispaniola
+  - hybrid
   - mer
   - ombre
   - palm tree
@@ -40,8 +40,7 @@ tags:
   - shadow
   - tree
   - végétal
-  - vert
-  - X-T2
+  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

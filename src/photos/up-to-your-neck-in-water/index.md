@@ -1,14 +1,14 @@
 ---
 title: Up to your neck in water
 file: up-to-your-neck-in-water.jpg
-date: 2018-01-28 13:01:00 +02:00
+date: 2018-01-28 12:01:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
   - 10 stops
-  - 10-24mm
+  - APS-C
   - bridge
   - crue
   - Draveil
@@ -26,6 +26,7 @@ tags:
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
   - graffiti
+  - hybrid
   - Ile de France
   - ND1000
   - Nisi
@@ -38,7 +39,7 @@ tags:
   - river
   - shore
   - water
-  - X-T2
+  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

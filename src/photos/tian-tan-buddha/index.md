@@ -12,15 +12,13 @@ tags:
   - Bouddha de Tian Tan
   - China
   - Chine
+  - compact
   - Hong Kong
   - Lan Tao
   - Lantao Island
   - Lantau
   - Lantau Island
   - Ngong Ping
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - The Big Buddha

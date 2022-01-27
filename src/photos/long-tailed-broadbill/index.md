@@ -1,16 +1,12 @@
 ---
 title: Long-tailed Broadbill
 file: long-tailed-broadbill.jpg
-date: 2015-08-08 16:08:00 +02:00
+date: 2015-08-08 15:08:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
 tags:
-  - 135mm f/2
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - animal
   - animal captif
   - animalière
@@ -21,7 +17,6 @@ tags:
   - bird
   - birds
   - Canon
-  - Canon 135mm
   - Canon EF 135mm f/2L USM
   - Canon EOS 5D Mark II
   - captif
@@ -33,6 +28,7 @@ tags:
   - Eurylaime psittacin
   - Eurylaimidae
   - Eurylaimidés
+  - full frame
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
@@ -41,7 +37,9 @@ tags:
   - oiseau
   - Oiseaux
   - Passériformes
+  - prime
   - Psarisomus dalhousiae
+  - reflex
   - volière
 settings:
   focal_length: 135

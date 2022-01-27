@@ -1,19 +1,20 @@
 ---
 title: Maasai Mara National Reserve
 file: maasai-mara-national-reserve.jpg
-date: 2019-02-26 08:02:00 +02:00
+date: 2019-02-26 07:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF27mmF2.8
 tags:
-  - 27mm
   - Africa
   - Afrique
+  - APS-C
   - Fujifilm
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 27 mm f/2.8
+  - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
@@ -21,9 +22,8 @@ tags:
   - Masai Mara
   - Narok County
   - pancake
+  - prime
   - reserve
-  - X-T2
-  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

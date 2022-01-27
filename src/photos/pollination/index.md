@@ -1,7 +1,7 @@
 ---
 title: Pollination
 file: pollination.jpg
-date: 2020-06-23 20:06:00 +02:00
+date: 2020-06-23 19:06:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
@@ -9,6 +9,7 @@ gear:
 tags:
   - abeille
   - animal
+  - APS-C
   - bee
   - Essonne
   - Étiolles
@@ -20,6 +21,7 @@ tags:
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
+  - hybrid
   - Ile de France
   - insect
   - insecte
@@ -27,8 +29,8 @@ tags:
   - insects
   - macro
   - plant
+  - prime
   - végétal
-  - X-T3
 settings:
   focal_length: 80
   focal_length_35mm: 120

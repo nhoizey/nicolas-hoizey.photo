@@ -7,10 +7,9 @@ gear:
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - aile
   - animal
-  - bleu
+  - APS-C
   - blue
   - damselfly
   - demoiselle
@@ -24,16 +23,15 @@ tags:
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
   - green
+  - hybrid
   - Ile de France
   - insect
   - insecte
   - Insectes
   - insects
+  - prime
   - Quai des Dames
-  - vert
   - wing
-  - X-T2
-  - XF56mmF1.2 R
   - zygoptera
   - zygoptères
 settings:

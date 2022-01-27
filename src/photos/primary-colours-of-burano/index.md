@@ -1,18 +1,16 @@
 ---
 title: Primary colours of Burano
 file: primary-colours-of-burano.jpg
-date: 2008-04-26 16:04:00 +02:00
+date: 2008-04-26 15:04:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
 tags:
-  - 350D
-  - bleu
+  - APS-C
   - blue
   - Burano
   - Canon
-  - Canon EF-S 17-85mm
   - Canon EF-S 17-85mm f/4-5.6 IS USM
   - Canon EOS 350D
   - city
@@ -21,16 +19,15 @@ tags:
   - Italia
   - Italie
   - Italy
-  - jaune
   - red
-  - rouge
+  - reflex
   - urbain
   - urban
   - Venezia
   - Venice
   - Venise
   - ville
-  - yellow
+  - zoom
 settings:
   focal_length: 17
   iso: 100

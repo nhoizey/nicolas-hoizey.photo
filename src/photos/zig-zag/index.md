@@ -1,16 +1,12 @@
 ---
 title: Zig zag
 file: zig-zag.jpg
-date: 2009-01-30 23:01:00 +02:00
+date: 2009-01-30 22:01:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - architecture
   - Beaubourg
   - Canon
@@ -24,13 +20,16 @@ tags:
   - Europa
   - Europe
   - France
+  - full frame
   - Ile de France
   - night
   - nuit
   - Paris
+  - reflex
   - stair
   - staircase
   - stairway
+  - zoom
 settings:
   focal_length: 70
   iso: 3200

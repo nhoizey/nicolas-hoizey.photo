@@ -1,13 +1,13 @@
 ---
 title: Panorama over Trälhavet
 file: panorama-over-traelhavet.jpg
-date: 2020-02-03 16:02:00 +02:00
+date: 2020-02-03 15:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - baie
   - bay
   - Comté de Stockholm
@@ -17,6 +17,7 @@ tags:
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
@@ -34,7 +35,7 @@ tags:
   - Sverige
   - Sweden
   - Trälhavet
-  - X-T3
+  - zoom
 settings:
   focal_length: 24
   focal_length_35mm: 36

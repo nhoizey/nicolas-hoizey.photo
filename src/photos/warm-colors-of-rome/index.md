@@ -7,8 +7,8 @@ gear:
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
   - ancien
+  - APS-C
   - coloré
   - colorful
   - colourful
@@ -19,11 +19,12 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - Italia
   - Italie
   - Italy
   - mur
-  - ocre
+  - ochre
   - old
   - Roma
   - Rome
@@ -32,7 +33,7 @@ tags:
   - Via Baccina
   - wall
   - window
-  - X-T2
+  - zoom
 settings:
   focal_length: 19.1
   focal_length_35mm: 29

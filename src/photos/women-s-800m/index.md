@@ -1,13 +1,13 @@
 ---
 title: Women's 800m
 file: women-s-800m.jpg
-date: 2018-05-13 15:05:00 +02:00
+date: 2018-05-13 14:05:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
 tags:
-  - 100-400mm
+  - APS-C
   - athletics
   - athlétisme
   - Essonne
@@ -18,6 +18,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - hybrid
   - Ile de France
   - Montgeron
   - piste
@@ -27,7 +28,7 @@ tags:
   - Stade Pierre de Coubertin
   - track
   - track and field
-  - X-T2
+  - zoom
 settings:
   focal_length: 100
   focal_length_35mm: 150

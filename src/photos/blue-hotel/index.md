@@ -7,10 +7,9 @@ gear:
   model: X-T3
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - Africa
   - Afrique
-  - bleu
+  - APS-C
   - blue
   - brown
   - city
@@ -19,17 +18,15 @@ tags:
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
   - hôtel
+  - hybrid
   - Kenya
-  - marron
   - Narok County
   - Ntulelei
+  - prime
   - red
-  - rouge
   - urbain
   - urban
   - ville
-  - X-T3
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

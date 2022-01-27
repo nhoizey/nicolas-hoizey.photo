@@ -1,19 +1,19 @@
 ---
 title: On the move…
 file: on-the-move.jpg
-date: 2019-03-01 09:03:00 +02:00
+date: 2019-03-01 08:03:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF27mmF2.8
 tags:
-  - 27mm
   - Africa
   - Afrique
   - Amboseli
   - Amboseli National Park
   - animal
   - animalière
+  - APS-C
   - elephant
   - éléphant
   - Elephantidae
@@ -22,6 +22,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 27 mm f/2.8
+  - hybrid
   - Kajiado
   - Kenya
   - landscape
@@ -34,8 +35,7 @@ tags:
   - pancake
   - Parc national d'Amboseli
   - paysage
-  - X-T2
-  - XF27mmF2.8
+  - prime
 settings:
   focal_length: 27
   focal_length_35mm: 41

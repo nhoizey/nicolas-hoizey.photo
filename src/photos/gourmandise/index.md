@@ -1,14 +1,13 @@
 ---
 title: Gourmandise
 file: gourmandise.jpg
-date: 2019-01-13 12:01:00 +02:00
+date: 2019-01-13 11:01:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 5D Mark IV
   lens: EF100mm f/2.8L Macro IS USM
 tags:
   - beverage
-  - bleu
   - blue
   - boisson
   - brown
@@ -20,7 +19,6 @@ tags:
   - drink
   - food photography
   - gâteau
-  - marron
   - photographie culinaire
 settings:
   focal_length: 100

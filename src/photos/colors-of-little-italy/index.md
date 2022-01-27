@@ -1,21 +1,16 @@
 ---
 title: Colors of Little Italy
 file: colors-of-little-italy.jpg
-date: 2015-05-20 15:05:00 +02:00
+date: 2015-05-20 14:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
 tags:
-  - 135mm f/2
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - America
   - Amérique du Nord
   - architecture
   - Canon
-  - Canon 135mm
   - Canon EF 135mm f/2L USM
   - Canon EOS 5D Mark II
   - city
@@ -23,8 +18,8 @@ tags:
   - États-Unis
   - États-Unis d'Amérique
   - façade
+  - full frame
   - green
-  - jaune
   - lamp post
   - lampadaire
   - Little Italy
@@ -33,9 +28,10 @@ tags:
   - New-York City
   - North America
   - NYC
+  - prime
   - red
+  - reflex
   - réverbère
-  - rouge
   - stair
   - staircase
   - stairway
@@ -45,7 +41,6 @@ tags:
   - urbain
   - urban
   - USA
-  - vert
   - ville
   - yellow
 settings:

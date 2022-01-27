@@ -7,15 +7,16 @@ gear:
   model: DMC-GM1
   lens: LUMIX G VARIO 12-32/F3.5-5.6
 tags:
-  - DMC-GM1
   - Europa
   - Europe
   - France
-  - GM1
   - Grande Arche de La Défense
+  - hybrid
   - Ile de France
   - La Défense
+  - Micro Four Thirds
   - Panasonic
+  - Panasonic DMC-GM1
   - Paris
   - vitre
   - window

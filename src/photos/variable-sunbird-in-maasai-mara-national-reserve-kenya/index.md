@@ -1,22 +1,20 @@
 ---
 title: Variable sunbird in Maasai Mara National Reserve, Kenya
 file: variable-sunbird-in-maasai-mara-national-reserve-kenya.jpg
-date: 2019-02-26 10:02:00 +02:00
+date: 2019-02-26 09:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - animal
   - animalière
+  - APS-C
   - bird
   - birds
-  - bleu
-  - blue
+  - black
   - branche
   - Cinnyris venustus
   - converter
@@ -25,9 +23,8 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
-  - jaune
+  - hybrid
   - Kenya
-  - lens
   - Maasai
   - Maasai Mara National Reserve
   - Masai
@@ -35,7 +32,6 @@ tags:
   - Narok County
   - Nectariniidae
   - Nectariniidés
-  - noir
   - oiseau
   - Oiseaux
   - Passériformes
@@ -44,14 +40,10 @@ tags:
   - Souimanga
   - Souimanga à ventre jaune
   - Sunbird
-  - télé-convertisseur
-  - teleconverter
   - Variable Sunbird
-  - violet
-  - X-T3
-  - x2.0
   - yellow
   - yellow-bellied sunbird
+  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

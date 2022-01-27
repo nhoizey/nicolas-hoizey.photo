@@ -1,16 +1,12 @@
 ---
 title: Along the shore
 file: along-the-shore.jpg
-date: 2009-05-15 22:05:00 +02:00
+date: 2009-05-15 21:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Benodet
   - Bretagne
   - Britany
@@ -23,6 +19,7 @@ tags:
   - Europe
   - Finistère
   - France
+  - full frame
   - light
   - long exposure
   - lumière
@@ -30,11 +27,13 @@ tags:
   - night
   - nuit
   - pose longue
+  - reflex
   - rocher
   - rock
   - sea
   - sky
   - vague
+  - zoom
 settings:
   focal_length: 54
   iso: 50

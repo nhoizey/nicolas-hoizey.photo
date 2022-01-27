@@ -7,9 +7,7 @@ gear:
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
-  - bleu
-  - blue
+  - APS-C
   - ciel
   - cloud
   - Europa
@@ -20,18 +18,17 @@ tags:
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
   - grey
-  - gris
+  - hybrid
   - Ile de France
   - Île Saint-Louis
   - lamp post
   - lampadaire
   - nuage
   - Paris
+  - prime
   - réverbère
   - sky
   - street light
-  - X-T2
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

@@ -8,7 +8,6 @@ gear:
   lens: 24-70mm F1.8-2.8
 tags:
   - bateau
-  - bleu
   - blue
   - boat
   - building
@@ -23,6 +22,7 @@ tags:
   - colour
   - colourful
   - colours
+  - compact
   - couleur
   - couleurs
   - eau
@@ -48,10 +48,6 @@ tags:
   - reflet
   - Reitdiep
   - Reitdiephaven
-  - rouge
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - sky
   - Sony
   - Sony RX100 Mark III

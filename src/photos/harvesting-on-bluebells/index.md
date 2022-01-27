@@ -1,19 +1,18 @@
 ---
 title: Harvesting on bluebells
 file: harvesting-on-bluebells.jpg
-date: 2008-06-14 14:06:00 +02:00
+date: 2008-06-14 13:06:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 100.0 mm
 tags:
-  - 100mm
-  - 350D
   - abeille
   - animal
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - bee
   - bluebells
   - campanule
@@ -27,10 +26,11 @@ tags:
   - insects
   - macro
   - plant
+  - prime
   - purple
+  - reflex
   - sauvage
   - végétal
-  - violet
   - wild animal
   - wild animals
 settings:

@@ -7,10 +7,9 @@ gear:
   model: X-T3
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - Africa
   - Afrique
-  - bleu
+  - APS-C
   - blue
   - camion
   - eau
@@ -18,17 +17,17 @@ tags:
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
+  - hybrid
   - Kenya
   - Kiambu County
   - Limuru
+  - prime
   - transportation
   - truck
   - vehicle
   - vehicles
   - véhicule
   - water
-  - X-T3
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

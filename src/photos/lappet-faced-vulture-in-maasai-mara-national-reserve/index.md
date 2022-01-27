@@ -1,20 +1,19 @@
 ---
 title: Lappet-faced vulture in Maasai Mara National Reserve
 file: lappet-faced-vulture-in-maasai-mara-national-reserve.jpg
-date: 2019-02-26 09:02:00 +02:00
+date: 2019-02-26 08:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Accipitridés
   - Accipitriformes
   - Africa
   - Afrique
   - animal
   - animalière
+  - APS-C
   - bird
   - birds
   - converter
@@ -23,9 +22,9 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
+  - hybrid
   - Kenya
   - Lappet-faced Vulture
-  - lens
   - Maasai
   - Maasai Mara National Reserve
   - Masai
@@ -35,14 +34,11 @@ tags:
   - oiseau
   - Oiseaux
   - reserve
-  - télé-convertisseur
-  - teleconverter
   - Torgos tracheliotos
   - vautour
   - Vautour oricou
   - vulture
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

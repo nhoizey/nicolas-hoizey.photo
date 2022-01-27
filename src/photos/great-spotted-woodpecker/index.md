@@ -1,14 +1,14 @@
 ---
 title: Great Spotted Woodpecker
 file: great-spotted-woodpecker.jpg
-date: 2016-12-04 17:12:00 +02:00
+date: 2016-12-04 16:12:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
 tags:
-  - 100-400mm
   - animal
+  - APS-C
   - arbre
   - bird
   - birds
@@ -21,6 +21,7 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Great Spotted Woodpecker
+  - hybrid
   - oiseau
   - Oiseaux
   - Pic
@@ -32,7 +33,7 @@ tags:
   - tree
   - végétal
   - Woodpecker
-  - X-T2
+  - zoom
 settings:
   focal_length: 400
   focal_length_35mm: 600

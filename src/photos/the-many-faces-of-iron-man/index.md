@@ -1,7 +1,7 @@
 ---
 title: The many faces of Iron Man
 file: the-many-faces-of-iron-man.jpg
-date: 2015-08-15 13:08:00 +02:00
+date: 2015-08-15 12:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -15,6 +15,7 @@ tags:
   - Chine
   - cinema
   - cinéma
+  - compact
   - figurine
   - figurine articulée
   - Hong Kong
@@ -22,9 +23,6 @@ tags:
   - Iron Man
   - Marvel
   - Mong Kok
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - Tony Stark

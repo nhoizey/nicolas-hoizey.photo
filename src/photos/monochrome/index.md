@@ -1,7 +1,7 @@
 ---
 title: Monochrome
 file: monochrome.jpg
-date: 2019-04-14 11:04:00 +02:00
+date: 2019-04-14 10:04:00 +01:00
 gear:
   make: NIKON CORPORATION
   model: NIKON D700
@@ -14,7 +14,6 @@ tags:
   - drink
   - food photography
   - fruit
-  - marron
   - photographie culinaire
   - thé
 settings:

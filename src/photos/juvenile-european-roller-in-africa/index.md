@@ -1,20 +1,19 @@
 ---
 title: Juvenile European Roller… in Africa
 file: juvenile-european-roller-in-africa.jpg
-date: 2019-03-02 08:03:00 +02:00
+date: 2019-03-02 07:03:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x
 tags:
-  - ×1.4
-  - 100-400mm
   - Africa
   - Afrique
   - animal
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - bird
   - birds
   - converter
@@ -27,21 +26,18 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF1.4× TC WR
+  - hybrid
   - Kenya
-  - lens
   - oiseau
   - Oiseaux
   - Rollier d'Europe
   - sauvage
   - Taita Hills
   - Taita Hills Wildlife Sanctuary
-  - télé-convertisseur
-  - teleconverter
   - Tsavo
   - wild animal
   - wild animals
-  - X-T3
-  - x1.4
+  - zoom
 settings:
   focal_length: 560
   focal_length_35mm: 840

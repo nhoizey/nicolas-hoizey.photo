@@ -1,18 +1,17 @@
 ---
 title: Belgian Pride
 file: belgian-pride.jpg
-date: 2017-05-22 22:05:00 +02:00
+date: 2017-05-22 21:05:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - arc-en-ciel
   - België
   - Belgique
   - Belgium
-  - bleu
   - blue
   - Brussel
   - Bruxelles
@@ -24,8 +23,7 @@ tags:
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
   - Grand-Place
-  - green
-  - jaune
+  - hybrid
   - LGBT
   - light
   - lumière
@@ -40,12 +38,8 @@ tags:
   - rainbow
   - red
   - regenboog
-  - rouge
   - sky
-  - vert
-  - violet
-  - X-T2
-  - yellow
+  - zoom
 settings:
   focal_length: 10.5
   focal_length_35mm: 16

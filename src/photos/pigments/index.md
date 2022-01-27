@@ -1,7 +1,7 @@
 ---
 title: Pigments
 file: pigments.jpg
-date: 2015-04-27 15:04:00 +02:00
+date: 2015-04-27 14:04:00 +01:00
 gear:
   make: Panasonic
   model: DMC-LX100
@@ -13,17 +13,18 @@ tags:
   - coloré
   - colorful
   - colourful
-  - DMC-LX100
+  - compact
   - Domaine de Chaumont-sur-Loire
   - Europa
   - Europe
+  - Four Thirds
   - France
   - light
   - lumière
-  - LX100
   - mur
   - nature morte
   - Panasonic
+  - Panasonic DMC-LX100
   - still life
   - still-life
   - wall

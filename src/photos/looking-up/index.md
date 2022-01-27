@@ -1,18 +1,13 @@
 ---
 title: Looking up
 file: looking-up.jpg
-date: 2016-09-30 15:09:00 +02:00
+date: 2016-09-30 14:09:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - architecture
-  - blanc
   - blue sky
   - building
   - Canon
@@ -20,6 +15,7 @@ tags:
   - Canon EOS 5D Mark II
   - Europa
   - Europe
+  - full frame
   - immeuble
   - Lisboa
   - Lisbon
@@ -28,9 +24,11 @@ tags:
   - Palácio Nacional de Sintra
   - Palais national de Sintra
   - Portugal
+  - reflex
   - Sintra
   - white
   - yellow
+  - zoom
 settings:
   focal_length: 24
   iso: 100

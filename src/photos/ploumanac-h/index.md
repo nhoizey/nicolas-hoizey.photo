@@ -1,16 +1,12 @@
 ---
 title: Ploumanac'h
 file: ploumanac-h.jpg
-date: 2013-08-23 09:08:00 +02:00
+date: 2013-08-23 08:08:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Bretagne
   - Britany
   - Canon
@@ -22,11 +18,13 @@ tags:
   - Europa
   - Europe
   - France
+  - full frame
   - lighthouse
   - mer
   - nuage
   - phare
   - Ploumanac'h
+  - reflex
   - rive
   - rocher
   - rock
@@ -34,6 +32,7 @@ tags:
   - shore
   - vague
   - water
+  - zoom
 settings:
   focal_length: 24
   iso: 200

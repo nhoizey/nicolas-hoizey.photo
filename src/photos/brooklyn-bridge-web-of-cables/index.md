@@ -1,16 +1,12 @@
 ---
 title: Brooklyn Bridge web of cables
 file: brooklyn-bridge-web-of-cables.jpg
-date: 2015-05-23 19:05:00 +02:00
+date: 2015-05-23 18:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - America
   - Amérique du Nord
   - architecture
@@ -30,12 +26,14 @@ tags:
   - evening
   - financial district
   - flag
+  - full frame
   - Lower Manhattan
   - Manhattan
   - New-York
   - New-York City
   - North America
   - NYC
+  - reflex
   - sky
   - skyline
   - skyscrapers
@@ -53,6 +51,7 @@ tags:
   - ville
   - voyage
   - web
+  - zoom
 settings:
   focal_length: 50
   iso: 100

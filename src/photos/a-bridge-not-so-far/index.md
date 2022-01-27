@@ -1,7 +1,7 @@
 ---
 title: A bridge not so far
 file: a-bridge-not-so-far.jpg
-date: 2015-05-23 20:05:00 +02:00
+date: 2015-05-23 19:05:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -13,6 +13,7 @@ tags:
   - Brooklyn
   - building
   - city
+  - compact
   - DUMBO
   - dusk
   - États-Unis
@@ -27,9 +28,6 @@ tags:
   - nuit
   - NYC
   - photo de rue
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - street

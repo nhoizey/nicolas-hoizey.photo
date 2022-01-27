@@ -1,13 +1,13 @@
 ---
 title: Le Galatée sans voie lactée
 file: le-galatee-sans-voie-lactee.jpg
-date: 2018-01-06 20:01:00 +02:00
+date: 2018-01-06 19:01:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - beach
   - Calvados
   - Europa
@@ -17,6 +17,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - light
   - lumière
   - mer
@@ -30,7 +31,7 @@ tags:
   - sea
   - Trouville
   - Trouville-sur-Mer
-  - X-T2
+  - zoom
 settings:
   focal_length: 24
   focal_length_35mm: 36

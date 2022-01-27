@@ -1,14 +1,14 @@
 ---
 title: Fog over Niort
 file: fog-over-niort.jpg
-date: 2017-12-04 21:12:00 +02:00
+date: 2017-12-04 20:12:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
   - ambiance
+  - APS-C
   - atmosphere
   - brouillard
   - Deux-Sèvres
@@ -22,6 +22,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - lamp post
   - lampadaire
   - light
@@ -33,7 +34,7 @@ tags:
   - silhouette
   - street light
   - traffic light
-  - X-T2
+  - zoom
 settings:
   focal_length: 20.9
   focal_length_35mm: 31

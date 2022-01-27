@@ -1,17 +1,12 @@
 ---
 title: A drop of pencil(s)
 file: a-drop-of-pencil-s.jpg
-date: 2015-01-13 22:01:00 +02:00
+date: 2015-01-13 21:01:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
 tags:
-  - 100mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
-  - blanc
   - blur
   - Canon
   - Canon EF 100mm f/2.8 Macro USM
@@ -26,8 +21,11 @@ tags:
   - crayon
   - drop
   - eau
+  - full frame
   - macro
+  - prime
   - rainbow
+  - reflex
   - water
   - white
 settings:

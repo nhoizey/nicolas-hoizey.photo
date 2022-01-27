@@ -1,14 +1,13 @@
 ---
 title: Goûter d'enfant
 file: gouter-d-enfant.jpg
-date: 2019-02-10 12:02:00 +02:00
+date: 2019-02-10 11:02:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 5D Mark IV
   lens: EF100mm f/2.8L Macro IS USM
 tags:
   - biscuit
-  - bleu
   - blue
   - brown
   - color
@@ -22,13 +21,9 @@ tags:
   - gâteau
   - green
   - macaron
-  - marron
   - photographie culinaire
   - pink
   - red
-  - rose
-  - rouge
-  - vert
 settings:
   focal_length: 100
   iso: 100

@@ -7,7 +7,7 @@ gear:
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - Colisée
   - Colosseo
   - Colosseum
@@ -17,12 +17,13 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - hybrid
   - Italia
   - Italie
   - Italy
   - Roma
   - Rome
-  - X-T2
+  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

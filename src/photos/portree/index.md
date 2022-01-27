@@ -7,10 +7,6 @@ gear:
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - bateau
   - boat
   - boats
@@ -32,6 +28,7 @@ tags:
   - Europa
   - Europe
   - fishing boats
+  - full frame
   - Grande-Bretagne
   - Great Britain
   - harbor
@@ -45,6 +42,7 @@ tags:
   - paint
   - pier
   - Portree
+  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
@@ -54,6 +52,7 @@ tags:
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
   - ville
+  - zoom
 settings:
   focal_length: 32
   iso: 200

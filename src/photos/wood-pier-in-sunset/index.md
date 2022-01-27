@@ -1,21 +1,21 @@
 ---
 title: Wood pier in sunset
 file: wood-pier-in-sunset.jpg
-date: 2004-06-12 22:06:00 +02:00
+date: 2004-06-12 21:06:00 +01:00
 gear:
   make: Konica
   model: KD-400Z
 tags:
-  - bleu
   - blue
   - cloud
+  - compact
   - coucher de soleil
   - Europa
   - Europe
   - evening
   - France
-  - KD-400Z
   - Konica
+  - Konica KD-400Z
   - landscape
   - Le Tréport
   - lighthouse
@@ -29,13 +29,11 @@ tags:
   - pink
   - ponton
   - purple
-  - rose
   - sea
   - Seine-Maritime
   - soir
   - soleil
   - sunset
-  - violet
 settings:
   focal_length: 8
   focal_length_35mm: 39

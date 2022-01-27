@@ -1,23 +1,20 @@
 ---
 title: Toucan toco
 file: toucan-toco.jpg
-date: 2008-05-11 15:05:00 +02:00
+date: 2008-05-11 14:05:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
   lens: 70.0-300.0 mm
 tags:
-  - 350D
-  - 70-300mm
   - animal
   - animal captif
   - animalière
   - animaux captifs
+  - APS-C
   - bird
   - birds
-  - blanc
-  - bleu
-  - blue
+  - black
   - Canon
   - Canon EF 70-300mm f/4-5.6 IS USM
   - Canon EOS 350D
@@ -28,7 +25,6 @@ tags:
   - Europa
   - Europe
   - Nederland
-  - noir
   - oiseau
   - Oiseaux
   - orange
@@ -37,13 +33,14 @@ tags:
   - Piciformes
   - Ramphastidés
   - Ramphastos toco
+  - reflex
   - Rhenen
   - The Netherlands
   - Toco Toucan
   - Toucan toco
   - Utrecht
-  - white
   - zoo
+  - zoom
 settings:
   focal_length: 300
   iso: 400

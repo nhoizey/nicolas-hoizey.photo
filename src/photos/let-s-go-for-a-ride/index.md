@@ -1,7 +1,7 @@
 ---
 title: Let's go for a ride
 file: let-s-go-for-a-ride.jpg
-date: 2015-08-13 15:08:00 +02:00
+date: 2015-08-13 14:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -14,6 +14,7 @@ tags:
   - chinese
   - chinois
   - city
+  - compact
   - dashboard
   - Hong Kong
   - Hong Kong City
@@ -28,9 +29,6 @@ tags:
   - panneau
   - road
   - route
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - sign
   - signage
   - signalisation

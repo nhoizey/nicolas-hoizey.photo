@@ -7,15 +7,8 @@ gear:
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - arbre
   - beautiful
-  - blanc
-  - bleu
-  - blue
   - Canon
   - Canon EF 24-70mm f/2.8L USM
   - Canon EOS 5D Mark II
@@ -24,6 +17,7 @@ tags:
   - Europe
   - evening
   - field
+  - full frame
   - landscape
   - light
   - Nederland
@@ -31,6 +25,7 @@ tags:
   - Pays-Bas
   - paysage
   - plant
+  - reflex
   - sky
   - snow
   - soir
@@ -43,6 +38,7 @@ tags:
   - végétal
   - white
   - winter
+  - zoom
 settings:
   focal_length: 70
   iso: 50

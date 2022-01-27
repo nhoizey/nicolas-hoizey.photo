@@ -7,9 +7,9 @@ gear:
   model: X-T3
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - Africa
   - Afrique
+  - APS-C
   - colline
   - Enangiperi
   - Fujifilm
@@ -17,12 +17,12 @@ tags:
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
   - hill
+  - hybrid
   - Kenya
   - landscape
   - Narok County
   - paysage
-  - X-T3
-  - XF56mmF1.2 R
+  - prime
 settings:
   focal_length: 56
   focal_length_35mm: 84

@@ -1,7 +1,7 @@
 ---
 title: Primary colors
 file: primary-colors.jpg
-date: 2016-09-30 10:09:00 +02:00
+date: 2016-09-30 09:09:00 +01:00
 gear:
   make: Apple
   model: iPhone 6s
@@ -11,7 +11,6 @@ tags:
   - Aeroporto de Lisboa
   - Aeroporto Humberto Delgado
   - airport
-  - bleu
   - blue
   - Europa
   - Europe
@@ -21,7 +20,6 @@ tags:
   - Lisbonne
   - Portugal
   - red
-  - rouge
   - travel
   - voyage
 settings:

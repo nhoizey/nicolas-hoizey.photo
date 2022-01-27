@@ -1,7 +1,7 @@
 ---
 title: The Edward Youde Aviary in Hong-Kong Park
 file: the-edward-youde-aviary-in-hong-kong-park.jpg
-date: 2015-08-08 16:08:00 +02:00
+date: 2015-08-08 15:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -12,14 +12,12 @@ tags:
   - aviary
   - China
   - Chine
+  - compact
   - Edward Youde Aviary
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
   - Hong Kong Park
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - volière

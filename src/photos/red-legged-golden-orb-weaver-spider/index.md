@@ -1,19 +1,19 @@
 ---
 title: Red-legged golden orb-weaver spider
 file: red-legged-golden-orb-weaver-spider.jpg
-date: 2019-03-04 17:03:00 +02:00
+date: 2019-03-04 16:03:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
 tags:
-  - 100-400mm
   - Africa
   - Afrique
   - animal
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - Arachnid
   - Arachnida
   - Arachnides
@@ -34,6 +34,7 @@ tags:
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - hybrid
   - Kenya
   - Kwale County
   - Labidognatha
@@ -50,7 +51,7 @@ tags:
   - web
   - wild animal
   - wild animals
-  - X-T3
+  - zoom
 settings:
   focal_length: 400
   focal_length_35mm: 600

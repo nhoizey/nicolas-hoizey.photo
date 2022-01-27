@@ -7,13 +7,12 @@ gear:
   model: Canon EOS 350D DIGITAL
   lens: 17.0-85.0 mm
 tags:
-  - 350D
+  - APS-C
   - architecture
   - bateau
   - boat
   - canal
   - Canon
-  - Canon EF-S 17-85mm
   - Canon EF-S 17-85mm f/4-5.6 IS USM
   - Canon EOS 350D
   - ciel
@@ -23,11 +22,13 @@ tags:
   - Italia
   - Italie
   - Italy
+  - reflex
   - sky
   - Venezia
   - Venice
   - Venise
   - water
+  - zoom
 settings:
   focal_length: 17
   iso: 800

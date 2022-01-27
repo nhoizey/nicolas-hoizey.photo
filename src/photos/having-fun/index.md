@@ -7,8 +7,7 @@ gear:
   model: Canon EOS 350D DIGITAL
   lens: 70.0-300.0 mm
 tags:
-  - 350D
-  - 70-300mm
+  - APS-C
   - Athis-Mons
   - B&W
   - bass
@@ -30,8 +29,10 @@ tags:
   - music
   - musique
   - noir et blanc
+  - reflex
   - rire
   - Salle Lino Ventura
+  - zoom
 settings:
   focal_length: 300
   iso: 1600

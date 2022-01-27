@@ -1,7 +1,7 @@
 ---
 title: Hoarding disorder
 file: hoarding-disorder.jpg
-date: 2015-08-09 18:08:00 +02:00
+date: 2015-08-09 17:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -14,6 +14,7 @@ tags:
   - city
   - colors
   - colours
+  - compact
   - couleurs
   - Hong Kong
   - Hong Kong City
@@ -24,9 +25,6 @@ tags:
   - night
   - nuit
   - rue
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - store

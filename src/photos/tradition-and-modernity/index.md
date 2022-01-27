@@ -16,6 +16,7 @@ tags:
   - China
   - Chine
   - Chinese Junk
+  - compact
   - détroit
   - Hong Kong
   - Hong Kong City
@@ -23,10 +24,6 @@ tags:
   - mer
   - Port Victoria
   - red
-  - rouge
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - sea
   - Sony
   - Sony RX100 Mark III

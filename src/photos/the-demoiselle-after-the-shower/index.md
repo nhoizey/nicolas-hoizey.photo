@@ -7,8 +7,8 @@ gear:
   model: X-T2
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - animal
+  - APS-C
   - aube
   - damselfly
   - demoiselle
@@ -22,6 +22,7 @@ tags:
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
   - goutte
+  - hybrid
   - Ile de France
   - insect
   - insecte
@@ -30,6 +31,7 @@ tags:
   - levé de soleil
   - matin
   - morning
+  - prime
   - rosée
   - soleil
   - sun
@@ -38,8 +40,6 @@ tags:
   - toile
   - water
   - web
-  - X-T2
-  - XF56mmF1.2 R
   - zygoptera
   - zygoptères
 settings:

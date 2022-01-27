@@ -1,16 +1,16 @@
 ---
 title: Egret at sunset
 file: egret-at-sunset.jpg
-date: 2017-04-10 20:04:00 +02:00
+date: 2017-04-10 19:04:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF100-400mmF4.5-5.6 R LM OIS WR
 tags:
-  - 100-400mm
   - Aigrette
   - Aigrette garzette
   - animal
+  - APS-C
   - Ardéidés
   - bird
   - birds
@@ -26,6 +26,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+  - hybrid
   - lac
   - Lac de Rillé
   - lake
@@ -39,7 +40,7 @@ tags:
   - sun
   - sunset
   - water
-  - X-T2
+  - zoom
 settings:
   focal_length: 400
   focal_length_35mm: 600

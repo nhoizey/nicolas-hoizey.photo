@@ -1,18 +1,17 @@
 ---
 title: Grant's zebra
 file: grant-s-zebra.jpg
-date: 2019-02-25 18:02:00 +02:00
+date: 2019-02-25 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x
 tags:
-  - ×1.4
-  - 100-400mm
   - Africa
   - Afrique
   - animal
   - animalière
+  - APS-C
   - converter
   - Equidae
   - Équidés
@@ -26,9 +25,9 @@ tags:
   - Fujinon XF1.4× TC WR
   - Grant's zebra
   - horse family
+  - hybrid
   - Imparidigités
   - Kenya
-  - lens
   - Maasai
   - Maasai Mara National Reserve
   - mammal
@@ -47,13 +46,10 @@ tags:
   - rayure
   - regard
   - reserve
-  - télé-convertisseur
-  - teleconverter
-  - X-T3
-  - x1.4
   - zèbre de Burchell
   - Zèbre de Grant
   - Zèbre des plaines
+  - zoom
 settings:
   focal_length: 406.8
   focal_length_35mm: 610

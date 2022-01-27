@@ -7,11 +7,11 @@ gear:
   model: X-T2
   lens: XF27mmF2.8
 tags:
-  - 27mm
   - Africa
   - Afrique
   - animal
   - animalière
+  - APS-C
   - elephant
   - éléphant
   - Elephantidae
@@ -20,6 +20,7 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 27 mm f/2.8
+  - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
@@ -32,9 +33,8 @@ tags:
   - Masai Mara
   - Narok County
   - pancake
+  - prime
   - reserve
-  - X-T2
-  - XF27mmF2.8
 settings:
   focal_length: 27
   focal_length_35mm: 41

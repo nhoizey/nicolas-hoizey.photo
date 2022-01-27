@@ -1,16 +1,12 @@
 ---
 title: Le Guilvinec by night
 file: le-guilvinec-by-night.jpg
-date: 2013-05-08 21:05:00 +02:00
+date: 2013-05-08 20:05:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
-  - 24-70mm
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - Bretagne
   - Britany
   - Canon
@@ -23,6 +19,7 @@ tags:
   - Europe
   - Finistère
   - France
+  - full frame
   - Le Guilvinec
   - long exposure
   - mer
@@ -30,9 +27,11 @@ tags:
   - nuage
   - nuit
   - pose longue
+  - reflex
   - sea
   - sky
   - water
+  - zoom
 settings:
   focal_length: 24
   iso: 400

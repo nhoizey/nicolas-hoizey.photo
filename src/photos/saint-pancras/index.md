@@ -1,14 +1,14 @@
 ---
 title: Saint Pancras
 file: saint-pancras.jpg
-date: 2017-10-19 09:10:00 +02:00
+date: 2017-10-19 08:10:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
   - Angleterre
+  - APS-C
   - England
   - Europa
   - Europe
@@ -19,6 +19,7 @@ tags:
   - gare
   - Grande-Bretagne
   - Great Britain
+  - hybrid
   - London
   - Londres
   - passage piéton
@@ -35,7 +36,7 @@ tags:
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
-  - X-T2
+  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

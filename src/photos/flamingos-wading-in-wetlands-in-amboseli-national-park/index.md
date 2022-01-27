@@ -1,20 +1,19 @@
 ---
 title: Flamingos wading in wetlands in Amboseli National Park
 file: flamingos-wading-in-wetlands-in-amboseli-national-park.jpg
-date: 2019-03-01 08:03:00 +02:00
+date: 2019-03-01 07:03:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - Amboseli
   - Amboseli National Park
   - animal
   - animalière
+  - APS-C
   - bird
   - birds
   - converter
@@ -26,12 +25,12 @@ tags:
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
   - Greater Flamingo
+  - hybrid
   - Kajiado
   - Kenya
   - lac
   - lake
   - landscape
-  - lens
   - National Park
   - oiseau
   - Oiseaux
@@ -40,11 +39,8 @@ tags:
   - Phoenicoptéridés
   - Phoenicoptériformes
   - Phoenicopterus roseus
-  - télé-convertisseur
-  - teleconverter
   - water
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 200
   focal_length_35mm: 300

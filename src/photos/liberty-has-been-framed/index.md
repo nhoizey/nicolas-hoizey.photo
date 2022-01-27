@@ -1,7 +1,7 @@
 ---
 title: Liberty has been framed
 file: liberty-has-been-framed.jpg
-date: 2015-05-19 14:05:00 +02:00
+date: 2015-05-19 13:05:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -10,13 +10,13 @@ tags:
   - America
   - Amérique du Nord
   - cadre
+  - compact
   - encadré
   - États-Unis
   - États-Unis d'Amérique
   - frame
   - framed
   - grey
-  - gris
   - liberté
   - liberty
   - Liberty Island
@@ -25,9 +25,6 @@ tags:
   - New-York City
   - North America
   - NYC
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - silhouette
   - Sony
   - Sony RX100 Mark III

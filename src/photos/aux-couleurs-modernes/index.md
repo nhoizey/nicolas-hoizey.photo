@@ -1,12 +1,13 @@
 ---
 title: Aux couleurs modernes
 file: aux-couleurs-modernes.jpg
-date: 2017-02-03 15:02:00 +02:00
+date: 2017-02-03 14:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF18-55mmF2.8-4 R LM OIS
 tags:
+  - APS-C
   - color
   - coloré
   - colorful
@@ -23,13 +24,13 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 18-55mm f/2.8-4.0R LM OIS
+  - hybrid
   - Ile de France
-  - jaune
   - magasin
   - Paris
   - store
-  - X-T2
   - yellow
+  - zoom
 settings:
   focal_length: 18
   focal_length_35mm: 27

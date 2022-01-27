@@ -1,16 +1,12 @@
 ---
 title: Welcome
 file: welcome.jpg
-date: 2009-10-10 17:10:00 +02:00
+date: 2009-10-10 16:10:00 +01:00
 gear:
   make: Canon
   model: EOS 5D Mark II
   lens: EF135mm f/2L USM
 tags:
-  - 135mm f/2
-  - 5D Mark II
-  - 5D2
-  - 5DII
   - België
   - Belgique
   - Belgium
@@ -18,16 +14,19 @@ tags:
   - blur
   - bokeh
   - Canon
-  - Canon 135mm
   - Canon EF 135mm f/2L USM
   - Canon EOS 5D Mark II
   - Europa
   - Europe
   - flou
+  - full frame
   - mariage
   - out of focus
   - panneau
+  - prime
+  - reflex
   - sign
+  - wedding
   - welcome
 settings:
   focal_length: 135

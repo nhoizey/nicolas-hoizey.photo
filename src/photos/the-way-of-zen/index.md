@@ -1,7 +1,7 @@
 ---
 title: The Way of Zen
 file: the-way-of-zen.jpg
-date: 2015-08-08 16:08:00 +02:00
+date: 2015-08-08 15:08:00 +01:00
 gear:
   make: SONY
   model: DSC-RX100M3
@@ -13,6 +13,7 @@ tags:
   - chemin
   - China
   - Chine
+  - compact
   - door
   - garden
   - Hong Kong
@@ -23,9 +24,6 @@ tags:
   - pathway
   - plant
   - porte
-  - RX100 Mark 3
-  - RX100 Mark III
-  - RX100mk3
   - Sony
   - Sony RX100 Mark III
   - tree

@@ -1,7 +1,7 @@
 ---
 title: Lesser blue-eared starling
 file: lesser-blue-eared-starling.jpg
-date: 2018-10-30 13:10:00 +02:00
+date: 2018-10-30 12:10:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
@@ -11,9 +11,9 @@ tags:
   - animal captif
   - animalière
   - animaux captifs
+  - APS-C
   - bird
   - birds
-  - bleu
   - blue
   - captif
   - captivité
@@ -27,19 +27,21 @@ tags:
   - Fujinon
   - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - Heijen
+  - hybrid
   - Lamprotornis chloropterus
   - Lesser Blue-eared Starling
   - Limbourg
   - Limburg
+  - macro
   - Nederland
   - Noordelijke blauwoorglansspreeuw
   - oiseau
   - Oiseaux
   - Passériformes
   - Pays-Bas
+  - prime
   - Sturnidés
   - The Netherlands
-  - X-T2
 settings:
   focal_length: 80
   focal_length_35mm: 120

@@ -1,18 +1,17 @@
 ---
 title: Masai giraffes like tree leaves
 file: masai-giraffes-like-tree-leaves.jpg
-date: 2019-02-26 18:02:00 +02:00
+date: 2019-02-26 17:02:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T3
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
-  - ×2.0
-  - 100-400mm
   - Africa
   - Afrique
   - animal
   - animalière
+  - APS-C
   - Cetartiodactyla
   - Cétartiodactyles
   - converter
@@ -29,9 +28,9 @@ tags:
   - Giraffa camelopardalis tippelskirchii
   - Giraffa tippelskirchi
   - giraffe
+  - hybrid
   - Kenya
   - Kilimanjaro giraffe
-  - lens
   - Maasai
   - Maasai giraffe
   - Maasai Mara National Reserve
@@ -45,10 +44,7 @@ tags:
   - Masai Mara
   - Narok County
   - reserve
-  - télé-convertisseur
-  - teleconverter
-  - X-T3
-  - x2.0
+  - zoom
 settings:
   focal_length: 200
   focal_length_35mm: 300

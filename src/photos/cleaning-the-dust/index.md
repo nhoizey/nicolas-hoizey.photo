@@ -7,24 +7,24 @@ gear:
   model: X-T3
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - Africa
   - Afrique
+  - APS-C
   - citerne
   - eau
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
+  - hybrid
   - Kenya
   - lavage
   - Mau Narok
   - moto
   - motorcycle
   - Nakuru County
+  - prime
   - water
-  - X-T3
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

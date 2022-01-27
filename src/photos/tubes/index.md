@@ -1,16 +1,15 @@
 ---
 title: Tubes
 file: tubes.jpg
-date: 2017-10-22 12:10:00 +02:00
+date: 2017-10-22 11:10:00 +01:00
 gear:
   make: FUJIFILM
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
-  - 10-24mm
+  - APS-C
   - architecture
   - Avenue Pierre Mendès-France
-  - bleu
   - blue
   - bottom view
   - building
@@ -27,7 +26,7 @@ tags:
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
   - grey
-  - gris
+  - hybrid
   - Ile de France
   - immeuble
   - metal
@@ -41,7 +40,7 @@ tags:
   - sky
   - tube
   - window
-  - X-T2
+  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

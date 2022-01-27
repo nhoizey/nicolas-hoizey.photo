@@ -7,7 +7,6 @@ gear:
   model: X-T3
   lens: XF56mmF1.2 R
 tags:
-  - 56mm
   - Aegithalidae
   - Aegithalidés
   - Aegithalos caudatus
@@ -16,6 +15,7 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
+  - APS-C
   - bird
   - birds
   - bushtits
@@ -27,6 +27,7 @@ tags:
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
   - Hagby Ekopark
+  - hybrid
   - Kingdom of Sweden
   - Konungariket Sverige
   - Long-tailed Tit
@@ -35,6 +36,7 @@ tags:
   - oiseau
   - Oiseaux
   - Orite à longue queue
+  - prime
   - sauvage
   - Stjärtmes
   - Stockholm County
@@ -45,8 +47,6 @@ tags:
   - Täby
   - wild animal
   - wild animals
-  - X-T3
-  - XF56mmF1.2 R
 settings:
   focal_length: 56
   focal_length_35mm: 84

@@ -7,6 +7,7 @@ gear:
   model: X-T3
   lens: XF80mmF2.8 R LM OIS WR Macro
 tags:
+  - APS-C
   - barque
   - bateau
   - boat
@@ -20,13 +21,15 @@ tags:
   - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - Grand Est
   - Haute-Marne
+  - hybrid
   - Joinville
+  - macro
+  - prime
   - reflection
   - reflet
   - river
   - rivière
   - water
-  - X-T3
 settings:
   focal_length: 80
   focal_length_35mm: 120
