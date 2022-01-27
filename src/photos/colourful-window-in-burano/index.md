@@ -1,7 +1,7 @@
 ---
 title: Colourful window in Burano
 file: colourful-window-in-burano.jpg
-date: 2008-04-26 17:04:00 +02:00
+date: 2008-04-26 16:04:00 +01:00
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
@@ -27,11 +27,8 @@ tags:
   - rouge
   - urbain
   - urban
-  - venezia
   - Venezia
-  - venice
   - Venice
-  - venise
   - Venise
   - ville
   - volet

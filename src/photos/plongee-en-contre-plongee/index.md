@@ -6,7 +6,6 @@ gear:
   make: Fujifilm
   model: SLP1000SE
 tags:
-  - "@Activités"
   - Africa
   - Afrique
   - bateau
@@ -35,6 +34,7 @@ geo:
   latitude: 26.00801542
   longitude: 34.54992182
   map: true
+  country: Egypt
 colors:
   vibrant: 9 206 239
   darkVibrant: 4 52 148
