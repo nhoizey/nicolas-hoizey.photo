@@ -1,24 +1,17 @@
 const slugify = require('@sindresorhus/slugify');
 
+// Adapted from https://gist.github.com/codeguy/6684588#gistcomment-3361909
 const poorSlugify = (str) => {
-  // Adapted from https://gist.github.com/codeguy/6684588#gistcomment-3361909
   let slug = str.toString();
-  if (str === '天壇大佛') console.dir({ slug });
   slug = slug.replaceAll('/', ' ');
-  if (str === '天壇大佛') console.dir({ slug });
+  // Use https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize
   slug = slug.normalize('NFD');
-  if (str === '天壇大佛') console.dir({ slug });
+  // Remove https://en.wikipedia.org/wiki/Combining_Diacritical_Marks
   slug = slug.replace(/[\u0300-\u036f]/g, '');
-  if (str === '天壇大佛') console.dir({ slug });
   slug = slug.toLowerCase();
-  if (str === '天壇大佛') console.dir({ slug });
   slug = slug.replace(/\s+/g, ' ');
-  if (str === '天壇大佛') console.dir({ slug });
   slug = slug.trim();
-  if (str === '天壇大佛') console.dir({ slug });
   slug = slug.replace(/ +/g, '-');
-  if (str === '天壇大佛') console.dir({ slug });
-
   return slug;
 };
 
