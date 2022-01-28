@@ -210,3 +210,11 @@ blockquote {
     color: $color-theme-lighter-4;
   }
 }
+
+.logo {
+  float: right;
+  margin-left: space.$m;
+  margin-bottom: space.$m;
+  width: 30%;
+  max-width: 200px;
+}

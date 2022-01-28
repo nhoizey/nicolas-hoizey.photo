@@ -12,13 +12,13 @@ eleventyComputed:
 permalink: /tags/{{ tag.slug }}/
 ---
 
-{% block content %}
 {% from "macros/css.njk" import css %}
-{{ css('components/tag', build.env) }}
+
+{% block content %}
 
 {% if tag.logo or tag.description %}
   {% if tag.logo %}
-    <img src="/{{ tag.logo }}" class="tag-logo" data-responsiver="logo" />
+    <img src="/{{ tag.logo }}" class="logo" data-responsiver="logo" />
   {% endif %}
 
   {% if tag.description %}
