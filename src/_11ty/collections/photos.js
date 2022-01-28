@@ -30,7 +30,7 @@ module.exports = {
       .filter((item) => !used_photos.includes(item.fileSlug))
       .sort((a, b) => b.date - a.date);
   },
-  photos_for_map: (collection) => {
+  unique_photos: (collection) => {
     const distinctPhotos = [];
     return collection
       .getFilteredByGlob(usedPhotosGlob)

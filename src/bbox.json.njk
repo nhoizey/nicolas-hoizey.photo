@@ -4,7 +4,7 @@ layout: null
 eleventyExcludeFromCollections: true
 ---
 {%- set geojson = [] -%}
-{%- for item in collections.photos_for_map -%}
+{%- for item in collections.unique_photos -%}
   {% set geojson = geojson | push([item.data.origin.data.geo.longitude, item.data.origin.data.geo.latitude]) %}
 {%- endfor -%}
 {{ geojson | bbox | jsonify }}

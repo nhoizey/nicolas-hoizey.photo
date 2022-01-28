@@ -8,7 +8,7 @@ eleventyExcludeFromCollections: true
   <Document>
     <name>Nicolas Hoizey photography</name>
     <description>The photography portfolio of Nicolas Hoizey</description>
-{%- for item in collections.photos_for_map %}
+{%- for item in collections.unique_photos %}
     <Style id="{{ item.fileSlug }}">
       <IconStyle>
         <Icon>
