@@ -15,15 +15,14 @@ dateline    { date=$0; next }
 !seen[$0]++ { print date,$0 }
 ' | grep "$fileBasename" | head -1)
       photoDate="${photoDate:0:23}:00"
+
       if [ "$yfmAlreadyThere" == "0" ]
       then
         echo "---" >> "$fileName"
       fi
       echo "date: $photoDate" >> "$fileName"
-      if [ "$yfmAlreadyThere" == "0" ]
-      then
-        echo "---" >> "$fileName"
-      fi
+      echo "---" >> "$fileName"
+
       echo "$fileBasename"
       echo " -> $photoDate"
       echo ""
