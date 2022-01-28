@@ -6,7 +6,7 @@ find src/galleries -name "*.md" | while read fname; do
     dateAlreadyThere=$(grep -c "date:" "$fname")
     if [ "$dateAlreadyThere" == "0" ]
     then
-      yfmAlreadyThere=$(grep -c "---" "$fname")
+      yfmAlreadyThere=$(grep -c "\-\-\-" "$fname")
       photoDate=$(git log --diff-filter=A --follow --format=%aI -- "$fname" | tail -1 | sed -e "s/T/ /" | sed -e "s/+/ +/")
       echo "$fname"
       echo " -> $photoDate"
