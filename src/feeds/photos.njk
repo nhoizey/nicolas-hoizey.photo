@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
   </author>
   {% for entry in collections.unique_photos | limit(20) %}
     {% set absoluteEntryUrl %}{{ entry.url | url | absoluteUrl(site.url) }}{% endset %}
-    {% set photoUrl = 'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_600,c_limit/https://nicolas-hoizey.photo/photos/' + entry.fileSlug + '/' + entry.fileSlug + '.jpg' %}
+    {% set photoUrl = 'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_800,c_limit/https://nicolas-hoizey.photo/photos/' + entry.fileSlug + '/' + entry.fileSlug + '.jpg' %}
     <entry>
       <title>{{ entry.data.title }}</title>
       <link href="{{ absoluteEntryUrl }}"/>
