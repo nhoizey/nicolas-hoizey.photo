@@ -7,8 +7,6 @@
   --max-size: 1.8;
   --min-weight: 300;
   --max-weight: 900;
-  --min-l: 17;
-  --max-l: 40;
 
   display: flex;
   flex-wrap: wrap;
@@ -31,7 +29,7 @@
       text-decoration: none;
 
       --factor: (var(--log) - var(--min-log)) /
-        (var(--max-log) - var(--min-log));
+        (var(--max-log) - var(--min-log) + 1);
 
       font-size: calc(
         ((var(--max-size) - var(--min-size)) * var(--factor) + var(--min-size)) *
@@ -42,16 +40,7 @@
           var(--min-weight)
       );
 
-      --h: 270;
-      --s: 50%;
-      --l: calc(
-        ((var(--max-l) - var(--min-l)) * var(--factor) + var(--min-l)) * 1%
-      );
-      --a: 1;
-      background-color: var(
-        --darkMuted,
-        hsl(var(--h) var(--s) var(--l) / var(--a))
-      );
+      background-color: var(--darkMuted);
 
       border-color: var(--darkMuted);
       border-style: solid;
@@ -64,7 +53,7 @@
     &:hover,
     &:focus,
     &:active {
-      color: var(--darkMuted, hsl(var(--h) var(--s) var(--l) / var(--a)));
+      color: var(--darkMuted);
       background-color: var(--lightVibrant);
     }
   }
