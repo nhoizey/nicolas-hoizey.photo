@@ -18,7 +18,7 @@ module.exports = {
     collection
       .getFilteredByGlob(usedPhotosGlob)
       .filter((item) => !item.filePathStem.endsWith('/index'))
-      .sort((a, b) => b.data.date - a.data.date),
+      .sort((a, b) => b.date - a.date),
   photos_not_in_galleries: (collection) => {
     const used_photos = collection
       .getFilteredByGlob(usedPhotosGlob)
@@ -28,7 +28,7 @@ module.exports = {
       .getFilteredByGlob(allPhotosGlob)
       .filter((item) => !ignoredSlugs.includes(item.fileSlug))
       .filter((item) => !used_photos.includes(item.fileSlug))
-      .sort((a, b) => b.data.date - a.data.date);
+      .sort((a, b) => b.date - a.date);
   },
   photos_for_map: (collection) => {
     const distinctPhotos = [];
@@ -43,7 +43,7 @@ module.exports = {
           return true;
         }
       })
-      .sort((a, b) => b.data.date - a.data.date);
+      .sort((a, b) => b.date - a.date);
   },
   photo_galleries: (collection) =>
     collection
