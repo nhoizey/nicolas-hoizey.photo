@@ -42,7 +42,6 @@ const averageColors = (colors) => {
 
 module.exports = function (collection) {
   let tagsCollection = new Map();
-  let max = 0;
   const fileSlugs = [];
 
   collection
@@ -57,7 +56,6 @@ module.exports = function (collection) {
           for (const tag of photoData.tags) {
             let tagData = tagsCollection.get(tag) || { number: 0, colors: [] };
             tagData.number = tagData.number + 1;
-            max = Math.max(max, tagData.number);
             tagData.colors.push(photoData.colors);
             tagsCollection.set(tag, tagData);
           }
