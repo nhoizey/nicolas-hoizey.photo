@@ -184,6 +184,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig
     .addPassthroughCopy(path.join(config.dir.src, '**/*.{jpg,jpeg,png,gif}'))
+    .addPassthroughCopy(path.join(config.dir.src, 'assets'))
     .addPassthroughCopy(path.join(config.dir.src, 'ui'))
     .addPassthroughCopy(path.join(config.dir.src, 'robots.txt'))
     .addPassthroughCopy(path.join(config.dir.src, 'favicon.ico'))
