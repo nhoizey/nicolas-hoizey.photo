@@ -6,7 +6,7 @@ eleventyExcludeFromCollections: true
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="/assets/pretty-atom-feed-v3.xsl" type="text/xsl" media="screen"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog from {{ site.title }}</title>
+  <title>Latest blog posts from {{ site.title }}</title>
   <link href="{{ site.url }}/feeds/blog.xml" rel="self"/>
   <link href="{{ site.url }}/"/>
   <updated>{{ collections.blog | rssLastUpdatedDate }}</updated>
@@ -23,7 +23,9 @@ eleventyExcludeFromCollections: true
       <link href="{{ absoluteEntryUrl }}"/>
       <updated>{{ entry.date | rssDate }}</updated>
       <id>{{ absoluteEntryUrl }}</id>
-      <content type="html">{{ entry.templateContent | cleanDeepLinks | htmlToAbsoluteUrls(absoluteEntryUrl) }}</content>
+      <content type="html"><![CDATA[
+        {{ entry.templateContent | cleanDeepLinks | htmlToAbsoluteUrls(absoluteEntryUrl) | safe }}
+      ]]></content>
     </entry>
   {% endfor %}
 </feed>

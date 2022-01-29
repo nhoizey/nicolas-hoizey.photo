@@ -11,7 +11,7 @@ layout: false
   <section class="welcome">
     <h2>Welcome to my photography portfolio!</h2>
 
-    <p>I’m a French self-taught amateur photographer. I love to <a href="/travels/">travel</a> to discover new horizons and people, shooting both <a href="/nature/">nature</a> and <a href="/urban/">urban</a> scenery, and taking <a href="/portraits/">portraits</a>.</p>
+    <p>I’m a French self-taught amateur photographer. I love to <a href="/galleries/travels/">travel</a> to discover new horizons and people, shooting both <a href="/galleries/nature/">nature</a> and <a href="/galleries/urban/">urban</a> scenery, and taking <a href="/galleries/portraits/">portraits</a>.</p>
   </section>
 
   {% from "macros/css.njk" import css %}
@@ -28,13 +28,24 @@ layout: false
 
   <section class="latest">
     <h3>Here are the photos I shared the most recently</h3>
-
     {% from "macros/photo.njk" import photo %}
-
     <ul class="gallery">
       {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | limit(6) %}
         {{ photo(item, "lazy") }}
       {% endfor %}
     </ul>
+    <p>You can subscribe to <a href="/feeds/">the feed</a> to not miss any new photo.</p>
+  </section>
+
+  <section class="blog">
+    <h3>Here are the latest posts from the blog</h3>
+    {% from "macros/meta.njk" import meta %}
+    {% for entry in collections.blog  | limit(3) %}
+      <article>
+        <h4><a href="{{ entry.url }}">{{ entry.data.title }}</a></h4>
+        {{ meta(entry) }}
+      </article>
+    {% endfor %}
+    <p>You can subscribe to <a href="/feeds/">the feed</a> to not miss any new post.</p>
   </section>
 {% endblock %}

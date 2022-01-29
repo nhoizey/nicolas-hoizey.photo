@@ -1,7 +1,7 @@
 {% extends "./base.njk" %}
 
 {% block opengraphimage %}
-  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.top.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.top.after }}/{{ site.opengraph.subtitle.top.before }}:{{ date | date("Do MMMM YYYY") }}/{{ site.opengraph.subtitle.top.after }}/{{ site.opengraph.background }}" />
+  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.top.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.top.after }}/l_fetch:{{ "https://nicolas-hoizey.photo/ui/images/feed.png" | base64 }},w_200,h_200,c_fit/fl_layer_apply,g_south_west,y_288,x_723/{{ site.opengraph.background }}" />
 {% endblock %}
 
 {% block content %}
