@@ -24,11 +24,11 @@ eleventyExcludeFromCollections: true
       <link href="{{ absoluteEntryUrl }}"/>
       <updated>{{ entry.date | rssDate }}</updated>
       <id>{{ absoluteEntryUrl }}</id>
-      <content type="html">
-        &lt;img src=&quot;{{ photoUrl }}&quot; alt=&quot;{{ entry.data.title }}&quot; /&gt;
-        &lt;p&gt;Shared on {{ entry.date | date("Do MMMM YYYY") }}&lt;/p&gt;
-        {{ entry.data.origin.content | markdownify }}
-      </content>
+      <content type="html"><![CDATA[
+        <img src="{{ photoUrl }}" alt="{{ entry.data.title }}" />
+        <p>Shared on {{ entry.date | date("Do MMMM YYYY") }}</p>
+        {{ entry.data.origin.content | markdownify | safe }}
+      ]]></content>
     </entry>
   {% endfor %}
 </feed>
