@@ -23,9 +23,9 @@ eleventyExcludeFromCollections: true
       <updated>{{ entry.date | rssDate }}</updated>
       <id>{{ absoluteEntryUrl }}</id>
       <content type="html">
-        <img src="{{ photoUrl }}" alt="{{ entry.data.title }}" />
-        <p>Shared on {{ entry.date | date("Do MMMM YYYY") }}</p>
-        {{ entry.data.origin.content | markdownify | safe }}
+        &lt;img src=&quot;{{ photoUrl }}&quot; alt=&quot;{{ entry.data.title }}&quot; /&gt;
+        &lt;p&gt;Shared on {{ entry.date | date("Do MMMM YYYY") }}&lt;/p&gt;
+        {{ entry.data.origin.content | markdownify }}
       </content>
     </entry>
   {% endfor %}
