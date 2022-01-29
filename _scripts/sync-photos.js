@@ -19,6 +19,7 @@ const SRC =
   '/Users/nhoizey/Synology/Personnel/Photographie/nicolas-hoizey.photo/';
 const DIST = './src/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
+const FEED_THUMBNAIL_PIXELS = 450 * 300;
 
 let photosData = require('../_cache/photos-data.json');
 
@@ -292,6 +293,30 @@ ${photoDescription}
 `;
 
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
+
+    // Generate thumbnail for Atom feed
+    const feedThumbnail = path.join(distDir, 'feed.jpg');
+    if (!fs.existsSync(feedThumbnail)) {
+      let ratio = photoYFM.dimensions.width / photoYFM.dimensions.height;
+      let targetHeight = Math.sqrt(FEED_THUMBNAIL_PIXELS / ratio);
+      let targetWidth = ratio * targetHeight;
+
+      sharp(photoPath)
+        .resize({
+          width: Math.round(targetWidth),
+          height: Math.round(targetHeight),
+          fit: sharp.fit.inside,
+        })
+        .jpeg({ quality: 80 })
+        .toFile(feedThumbnail, function (err) {
+          if (err) {
+            console.error(
+              `Error while creating feed thumbnail for ${slug}`,
+              err
+            );
+          }
+        });
+    }
 
     // Generate thumbnails for 1x screens
     const thumbFile = path.join(THUMBNAILS, 'icons', `${slug}.png`);
