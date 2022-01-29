@@ -10,6 +10,6 @@ Starting today, the list of photos in the second part of the homepage are the on
 It makes much more sense because I don't necessarily share them in order, and I have a lot of photos I took years ago that I still want to share on my site.
 
 ![RSS logo](/ui/images/feed.png){.logo}
-Also, if you don't plan to come see the site every day (go figure! 😅), I added a feed you can subscribe to in your feed reader: <https://nicolas-hoizey.photo/feeds/photos.xml>
+Also, if you don't plan to come see the site every day (go figure! 😅), I added [feeds](/feeds/) you can subscribe to in your favorite feed reader.
 
-If you didn't understand the last sentence, I invite you to read [this page about feeds](https://aboutfeeds.com/).
+If you didn't understand this last sentence, I invite you to read [this page about feeds](https://aboutfeeds.com/).
