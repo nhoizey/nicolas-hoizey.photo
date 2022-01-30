@@ -26,8 +26,9 @@ eleventyExcludeFromCollections: true
       <id>{{ absoluteEntryUrl }}</id>
       <content type="html"><![CDATA[
         <img src="{{ photoUrl }}" alt="{{ entry.data.title }}" />
-        <p>Shared on {{ entry.date | date("Do MMMM YYYY") }}</p>
+        <p><small>Shot on {{ entry.data.date | date("Do MMMM YYYY") }}, shared on {{ entry.date | date("Do MMMM YYYY") }}</small></p>
         {{ entry.data.origin.content | markdownify | safe }}
+        <p><small>View <a href="{{ absoluteEntryUrl }}">more information about this photo</a> on its page.<small></p>
       ]]></content>
     </entry>
   {% endfor %}
