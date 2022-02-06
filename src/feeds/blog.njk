@@ -20,7 +20,7 @@ eleventyExcludeFromCollections: true
     {% set readableDate = entry.date | date("Do MMMM YYYY") %}
     <entry>
       <title>{{ entry.data.title or entry.data.layout + ' from ' + readableDate }}</title>
-      <link href="{{ absoluteEntryUrl }}?utm_source=feed_blog&utm_medium=feed"/>
+      <link href="{{ absoluteEntryUrl }}?utm_source=feed_blog&amp;utm_medium=feed"/>
       <updated>{{ entry.date | rssDate }}</updated>
       <id>{{ absoluteEntryUrl }}</id>
       <content type="html"><![CDATA[
