@@ -41,6 +41,8 @@ colors:
   muted: 6 127 147
   darkMuted: 4 52 149
   lightMuted: 13 119 140
+posse:
+  flickr: "31535666"
 ---
 
 This photo title is a play on words in French, where « plongée » means "dive" and « contre-plongée » means "low-angle shot".
