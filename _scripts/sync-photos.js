@@ -12,6 +12,7 @@ const Fraction = require('fraction.js');
 const imageSize = require('image-size');
 const utf8 = require('utf8');
 const YAML = require('yaml');
+const deepmerge = require('deepmerge');
 const fs = require('fs');
 const path = require('path');
 
@@ -56,25 +57,34 @@ let exifrOptions = {
 async function syncOnePhoto(photo) {
   if (photo === '.DS_Store') return;
 
-  console.log(`
+  let logged = false;
+  const thisLog = (msg) => {
+    if (!logged) {
+      console.log(`
 SYNC ${photo}`);
+      logged = true;
+    }
+    console.error(msg);
+    return logged;
+  };
+
   const photoPath = path.join(SRC, photo);
   const ext = path.extname(photoPath);
   if (ext !== '.jpg') {
     return;
   }
-  const photoYFM = {};
+  let photoYFM = {};
   const photoExif = await exifr.parse(photoPath, exifrOptions);
 
   if (undefined === photoExif) {
-    console.error(`  ⚠ error reading EXIF data`);
+    thisLog(`  ⚠ error reading EXIF data`);
   } else {
     if (photosData[photo] === undefined) {
       photosData[photo] = {};
     }
 
     if (undefined === photoExif.ObjectName) {
-      console.error(`  ⚠ "iptc.ObjectName" missing`);
+      thisLog(`  ⚠ "iptc.ObjectName" missing`);
       photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, '$1');
     } else {
       // Get title
@@ -93,7 +103,7 @@ SYNC ${photo}`);
       photoDescription = photoExif.ImageDescription.trim();
     }
     if (photoDescription.length === 0) {
-      console.error(`  ⚠ missing description`);
+      thisLog(`  ⚠ missing description`);
     }
 
     // get photo date
@@ -105,7 +115,7 @@ SYNC ${photo}`);
         .utcOffset(tz)
         .format('YYYY-MM-DD HH:MM:SS Z');
     } else {
-      console.error(`  ⚠ exif.DateTimeOriginal missing`);
+      thisLog(`  ⚠ exif.DateTimeOriginal missing`);
       if (photoExif.DigitalCreationDate && photoExif.DigitalCreationTime) {
         photoYFM.date = `${photoExif.DigitalCreationDate.replace(
           /([0-9]{4})([0-9]{2})([0-9]{2})/,
@@ -115,7 +125,7 @@ SYNC ${photo}`);
           '$1:$2:$3 $4:$5'
         )}`;
       } else {
-        console.error(`  ⚠ iptc.DigitalCreationDate`);
+        thisLog(`  ⚠ iptc.DigitalCreationDate`);
         photoYFM.date = photo.slice(0, 10);
       }
     }
@@ -242,7 +252,7 @@ SYNC ${photo}`);
         await browser.close();
       }
     } else {
-      console.error(`  ⚠ geolocation missing`);
+      thisLog(`  ⚠ geolocation missing`);
     }
     if (photoExif.Country) {
       photoYFM.geo.country = utf8.decode(photoExif.Country);
@@ -279,6 +289,14 @@ SYNC ${photo}`);
       photosData[photo].colors = photoYFM.colors;
     }
 
+    // Get additional informations
+    if (fs.existsSync(path.join(distDir, 'infos.json'))) {
+      photoYFM = deepmerge(
+        photoYFM,
+        require(path.join('../', distDir, 'infos.json'))
+      );
+    }
+
     // Manage folder and file
     if (!fs.existsSync(distDir)) {
       fs.mkdirSync(distDir);
@@ -310,10 +328,7 @@ ${photoDescription}
         .jpeg({ quality: 80 })
         .toFile(feedThumbnail, function (err) {
           if (err) {
-            console.error(
-              `Error while creating feed thumbnail for ${slug}`,
-              err
-            );
+            thisLog(`Error while creating feed thumbnail for ${slug}`, err);
           }
         });
     }
@@ -340,7 +355,7 @@ ${photoDescription}
         ])
         .toFile(thumbFile, function (err) {
           if (err) {
-            console.error(`Error while creating thumbnail for ${slug}`, err);
+            thisLog(`Error while creating thumbnail for ${slug}`, err);
           }
         });
     }
@@ -366,10 +381,7 @@ ${photoDescription}
         ])
         .toFile(thumb2File, function (err) {
           if (err) {
-            console.error(
-              `Error while creating @2x thumbnail for ${slug}`,
-              err
-            );
+            thisLog(`Error while creating @2x thumbnail for ${slug}`, err);
           }
         });
     }
