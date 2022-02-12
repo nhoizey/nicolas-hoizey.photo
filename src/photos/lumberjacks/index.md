@@ -22,6 +22,7 @@ tags:
   - lumberjack
   - macro
   - miniature
+  - Preiser
   - prime
   - saw
   - scie
@@ -50,4 +51,4 @@ colors:
   lightMuted: 204 178 160
 ---
 
-
+Do you need a hand assembling your furniture? They will be there at the rendezvous!
