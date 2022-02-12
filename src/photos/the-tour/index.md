@@ -1,6 +1,6 @@
 ---
-title: Le Tour
-file: le-tour.jpg
+title: The Tour
+file: the-tour.jpg
 date: 2021-12-06 09:12:00 +01:00
 gear:
   make: FUJIFILM
@@ -36,7 +36,6 @@ dimensions:
 geo:
   latitude: 48.692803
   longitude: 2.422789
-  map: true
   country: France
   city: Draveil
 colors:
@@ -48,4 +47,4 @@ colors:
   lightMuted: 210 182 172
 ---
 
-
+The yellow jersey is in a bit of trouble on this very hilly stage of the Tour de France, but the crowd of admirers came in large numbers to the sides of the road.
