@@ -6,8 +6,12 @@
 * ********************************************/
 
 .gallery {
-  list-style: none;
+  clear: both;
+
+  margin: space.$xl 0;
   padding-left: 0;
+
+  list-style: none;
 
   display: grid;
   gap: 2rem;

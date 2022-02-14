@@ -219,8 +219,7 @@ blockquote {
 
 .logo {
   float: right;
-  margin-left: space.$m;
-  margin-bottom: space.$m;
+  margin: 0 0 space.$xl space.$xl;
   width: 30%;
   max-width: 200px;
 }
