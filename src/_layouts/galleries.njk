@@ -29,29 +29,13 @@
       <ul class="gallery">
         {% for item in photos_here %}
           {% if loop.index < 4 %}
-            {{ photo(item, "eager") }}
+            <li>{{ photo(item, "eager") }}</li>
           {% else %}
-            {{ photo(item, "lazy") }}
+            <li>{{ photo(item, "lazy") }}</li>
           {% endif %}
         {% endfor %}
       </ul>
     </section>
   {% endif %}
 
-  {#
-  {% set photos_below = collections.photos_in_galleries | photos_below(page.url) %}
-  {% if photos_below | length %}
-    <h2>Latest photos in sub galleries</h2>
-    <ul class="gallery">
-      {% for item in photos_below %}
-        <figure>
-          <a href="{{ item.url }}">
-            <img src="{{ item.url }}{{ item.data.photo }}" alt="{{ item.data.title }}" />
-            <figcaption>{{ item.data.title }}</figcaption>
-          </a>
-        </figure>
-      {% endfor %}
-    </ul>
-  {% endif %}
-  #}
 {% endblock %}

@@ -31,7 +31,7 @@ layout: false
     {% from "macros/photo.njk" import photo %}
     <ul class="gallery">
       {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | limit(6) %}
-        {{ photo(item, "lazy") }}
+        <li>{{ photo(item, "lazy") }}</li>
       {% endfor %}
     </ul>
     <p>You can subscribe to <a href="/feeds/">the feed</a> to not miss any new photo.</p>

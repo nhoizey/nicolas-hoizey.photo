@@ -40,9 +40,9 @@ permalink: /tags/{{ tag.slug }}/
   {% set photos = collections.photos_in_galleries | taggued(tag.tag) %}
   {% for item in photos %}
     {% if loop.index < 4 %}
-      {{ photo(item, "eager") }}
+      <li>{{ photo(item, "eager") }}</li>
     {% else %}
-      {{ photo(item, "lazy") }}
+      <li>{{ photo(item, "lazy") }}</li>
     {% endif %}
   {% endfor %}
 </ul>
