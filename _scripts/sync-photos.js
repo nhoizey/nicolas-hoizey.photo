@@ -129,6 +129,10 @@ SYNC ${photo}`);
         photoYFM.date = photo.slice(0, 10);
       }
     }
+    photoYFM.dates = {
+      iso: moment(photoYFM.date).format('YYYY-MM-DD'),
+      human: moment(photoYFM.date).format('Do MMMM YYYY'),
+    };
 
     // Get gear
     photoYFM.gear = {};
