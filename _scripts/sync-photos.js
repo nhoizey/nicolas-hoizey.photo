@@ -126,12 +126,12 @@ SYNC ${photo}`);
         )}`;
       } else {
         thisLog(`  ⚠ iptc.DigitalCreationDate`);
-        photoYFM.date = photo.slice(0, 10);
+        photoYFM.date = `${photo.slice(0, 10)} 12:00:00 Z`;
       }
     }
     photoYFM.dates = {
-      iso: moment(photoYFM.date).format('YYYY-MM-DD'),
-      human: moment(photoYFM.date).format('Do MMMM YYYY'),
+      iso: moment(photoYFM.date, 'YYYY-MM-DD HH:mm Z').format('YYYY-MM-DD'),
+      human: moment(photoYFM.date, 'YYYY-MM-DD HH:mm Z').format('Do MMMM YYYY'),
     };
 
     // Get gear
