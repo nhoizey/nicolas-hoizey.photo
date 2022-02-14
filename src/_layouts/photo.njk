@@ -8,6 +8,7 @@
   {% set content = content or origin.content %}
   {% set tags = origin.data.tags %}
   {% set colors = origin.data.colors %}
+  {% set dates = origin.data.dates %}
 {% endif %}
 
 {% block description %}
@@ -64,7 +65,7 @@
 
     <div class="meta">
       <ul class="exif">
-        <li class="date"><svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="{{ date | date("YYYY-MM-DD") }}">{{ date | date("Do MMMM YYYY") }}</time></li>
+        <li class="date"><svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="{{ dates.iso }}">{{ dates.human }}</time></li>
         <li class="gear">{% icon 'camera' %} {{ gear.make }} {{ gear.model }}</li>
         {% if settings.focal_length or gear.lens %}
           <li class="lens">{% icon 'focal_length' %}
