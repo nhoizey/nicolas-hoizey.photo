@@ -70,8 +70,8 @@ dimensions:
   width: 3500
   height: 2465
 geo:
-  latitude: 48.63141700166667
-  longitude: 2.464709945
+  latitude: 48.631493705
+  longitude: 2.4647863633333333
   map: true
   country: France
   city: Étiolles
