@@ -2,6 +2,9 @@
 title: Kilchurn Castle
 file: kilchurn-castle.jpg
 date: 2014-04-30 17:04:00 +01:00
+dates:
+  iso: 2014-04-30
+  human: 30th April 2014
 gear:
   make: Canon
   model: EOS 5D Mark II

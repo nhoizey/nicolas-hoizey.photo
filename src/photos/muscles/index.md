@@ -2,6 +2,9 @@
 title: Muscles
 file: muscles.jpg
 date: 2015-05-23 13:05:00 +01:00
+dates:
+  iso: 2015-05-23
+  human: 23rd May 2015
 gear:
   make: SONY
   model: DSC-RX100M3

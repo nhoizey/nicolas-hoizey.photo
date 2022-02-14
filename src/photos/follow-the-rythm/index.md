@@ -2,6 +2,9 @@
 title: Follow the rythm
 file: follow-the-rythm.jpg
 date: 2014-09-27 00:09:00 +01:00
+dates:
+  iso: 2014-09-27
+  human: 27th September 2014
 gear:
   make: SONY
   model: DSC-RX100M3

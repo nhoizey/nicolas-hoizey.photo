@@ -2,6 +2,9 @@
 title: Did I go over the top?
 file: did-i-go-over-the-top.jpg
 date: 2014-05-02 11:05:00 +01:00
+dates:
+  iso: 2014-05-02
+  human: 2nd May 2014
 gear:
   make: Canon
   model: EOS 5D Mark II

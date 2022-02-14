@@ -2,6 +2,9 @@
 title: Defenseless
 file: defenseless.jpg
 date: 2018-06-11 17:06:00 +01:00
+dates:
+  iso: 2018-06-11
+  human: 11th June 2018
 gear:
   make: FUJIFILM
   model: X-T2

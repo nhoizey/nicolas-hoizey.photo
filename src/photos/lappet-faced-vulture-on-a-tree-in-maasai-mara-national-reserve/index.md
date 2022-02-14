@@ -2,6 +2,9 @@
 title: Lappet-faced vulture on a tree in Maasai Mara National Reserve
 file: lappet-faced-vulture-on-a-tree-in-maasai-mara-national-reserve.jpg
 date: 2019-02-26 08:02:00 +01:00
+dates:
+  iso: 2019-02-26
+  human: 26th February 2019
 gear:
   make: FUJIFILM
   model: X-T3

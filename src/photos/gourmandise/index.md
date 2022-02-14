@@ -2,6 +2,9 @@
 title: Gourmandise
 file: gourmandise.jpg
 date: 2019-01-13 11:01:00 +01:00
+dates:
+  iso: 2019-01-13
+  human: 13th January 2019
 gear:
   make: Canon
   model: Canon EOS 5D Mark IV

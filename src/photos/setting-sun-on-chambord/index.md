@@ -2,6 +2,9 @@
 title: Setting sun on Chambord
 file: setting-sun-on-chambord.jpg
 date: 2020-07-11 20:07:00 +01:00
+dates:
+  iso: 2020-07-11
+  human: 11th July 2020
 gear:
   make: FUJIFILM
   model: X-T3

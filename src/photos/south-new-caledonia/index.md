@@ -2,6 +2,9 @@
 title: South New Caledonia
 file: south-new-caledonia.jpg
 date: 2013-03-30 16:03:00 +01:00
+dates:
+  iso: 2013-03-30
+  human: 30th March 2013
 gear:
   make: Canon
   model: EOS 5D Mark II

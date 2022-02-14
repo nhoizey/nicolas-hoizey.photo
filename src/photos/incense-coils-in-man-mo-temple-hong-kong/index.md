@@ -2,6 +2,9 @@
 title: Incense coils in Man Mo Temple, Hong Kong
 file: incense-coils-in-man-mo-temple-hong-kong.jpg
 date: 2015-08-08 13:08:00 +01:00
+dates:
+  iso: 2015-08-08
+  human: 8th August 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

@@ -2,6 +2,9 @@
 title: La Demoiselle du Quai des Dames
 file: la-demoiselle-du-quai-des-dames.jpg
 date: 2017-06-08 20:06:00 +01:00
+dates:
+  iso: 2017-06-08
+  human: 8th June 2017
 gear:
   make: FUJIFILM
   model: X-T2

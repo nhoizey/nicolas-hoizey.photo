@@ -2,6 +2,9 @@
 title: Bruce Lee
 file: bruce-lee.jpg
 date: 2015-08-09 11:08:00 +01:00
+dates:
+  iso: 2015-08-09
+  human: 9th August 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

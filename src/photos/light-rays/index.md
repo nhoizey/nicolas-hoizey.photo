@@ -2,6 +2,9 @@
 title: Light rays
 file: light-rays.jpg
 date: 2021-10-24 09:10:00 +01:00
+dates:
+  iso: 2021-10-24
+  human: 24th October 2021
 gear:
   make: FUJIFILM
   model: X-T3

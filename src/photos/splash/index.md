@@ -2,6 +2,9 @@
 title: Splash
 file: splash.jpg
 date: 2017-05-18 21:05:00 +01:00
+dates:
+  iso: 2017-05-18
+  human: 18th May 2017
 gear:
   make: FUJIFILM
   model: X-T2

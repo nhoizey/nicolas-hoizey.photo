@@ -2,6 +2,9 @@
 title: The Hong Kong Symphony of Lights from The Peak
 file: the-hong-kong-symphony-of-lights-from-the-peak.jpg
 date: 2015-08-08 19:08:00 +01:00
+dates:
+  iso: 2015-08-08
+  human: 8th August 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

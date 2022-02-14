@@ -2,6 +2,9 @@
 title: Ripe
 file: ripe.jpg
 date: 2015-04-27 14:04:00 +01:00
+dates:
+  iso: 2015-04-27
+  human: 27th April 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

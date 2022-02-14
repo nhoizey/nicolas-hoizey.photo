@@ -2,6 +2,9 @@
 title: Wet bee after the rain
 file: wet-bee-after-the-rain.jpg
 date: 2013-08-07 18:08:00 +01:00
+dates:
+  iso: 2013-08-07
+  human: 7th August 2013
 gear:
   make: Canon
   model: EOS 5D Mark II

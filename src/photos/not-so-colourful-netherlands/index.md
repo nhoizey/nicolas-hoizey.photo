@@ -2,6 +2,9 @@
 title: Not so colourful Netherlands
 file: not-so-colourful-netherlands.jpg
 date: 2015-07-13 15:07:00 +01:00
+dates:
+  iso: 2015-07-13
+  human: 13th July 2015
 gear:
   make: SONY
   model: DSC-RX100M3

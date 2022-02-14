@@ -2,6 +2,9 @@
 title: Le Roof
 file: le-roof.jpg
 date: 2013-04-03 12:04:00 +01:00
+dates:
+  iso: 2013-04-03
+  human: 3rd April 2013
 gear:
   make: Canon
   model: EOS 5D Mark II

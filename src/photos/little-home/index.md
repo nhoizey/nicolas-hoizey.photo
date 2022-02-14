@@ -2,6 +2,9 @@
 title: Little home
 file: little-home.jpg
 date: 2019-03-01 16:03:00 +01:00
+dates:
+  iso: 2019-03-01
+  human: 1st March 2019
 gear:
   make: FUJIFILM
   model: X-T2

@@ -2,6 +2,9 @@
 title: Bali Mynah
 file: bali-mynah.jpg
 date: 2015-08-08 15:08:00 +01:00
+dates:
+  iso: 2015-08-08
+  human: 8th August 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

@@ -2,6 +2,9 @@
 title: A nut shell in Étretat
 file: a-nut-shell-in-etretat.jpg
 date: 2013-07-28 12:07:00 +01:00
+dates:
+  iso: 2013-07-28
+  human: 28th July 2013
 gear:
   make: Canon
   model: EOS 5D Mark II

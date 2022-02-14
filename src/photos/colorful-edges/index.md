@@ -2,6 +2,9 @@
 title: Colorful edges
 file: colorful-edges.jpg
 date: 2015-01-20 23:01:00 +01:00
+dates:
+  iso: 2015-01-20
+  human: 20th January 2015
 gear: {}
 tags:
   - Canon

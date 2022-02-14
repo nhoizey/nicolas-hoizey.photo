@@ -2,6 +2,9 @@
 title: Portree
 file: portree.jpg
 date: 2014-05-01 14:05:00 +01:00
+dates:
+  iso: 2014-05-01
+  human: 1st May 2014
 gear:
   make: Canon
   model: EOS 5D Mark II

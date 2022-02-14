@@ -2,6 +2,9 @@
 title: The Moroccan High Atlas
 file: the-moroccan-high-atlas.jpg
 date: 2011-05-08 11:05:00 +01:00
+dates:
+  iso: 2011-05-08
+  human: 8th May 2011
 gear:
   make: Canon
   model: EOS 5D Mark II

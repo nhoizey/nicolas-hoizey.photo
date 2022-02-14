@@ -2,6 +2,9 @@
 title: Stairz
 file: stairz.jpg
 date: 2009-01-30 22:01:00 +01:00
+dates:
+  iso: 2009-01-30
+  human: 30th January 2009
 gear:
   make: Canon
   model: EOS 5D Mark II

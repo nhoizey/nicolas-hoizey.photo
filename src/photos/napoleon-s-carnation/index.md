@@ -2,6 +2,9 @@
 title: Napoleon's carnation
 file: napoleon-s-carnation.jpg
 date: 2020-06-23 19:06:00 +01:00
+dates:
+  iso: 2020-06-23
+  human: 23rd June 2020
 gear:
   make: FUJIFILM
   model: X-T3

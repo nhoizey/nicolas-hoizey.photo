@@ -2,6 +2,9 @@
 title: The flowering of the carnations
 file: the-flowering-of-the-carnations.jpg
 date: 2017-06-14 19:06:00 +01:00
+dates:
+  iso: 2017-06-14
+  human: 14th June 2017
 gear:
   make: FUJIFILM
   model: X-T2

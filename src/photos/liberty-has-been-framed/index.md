@@ -2,6 +2,9 @@
 title: Liberty has been framed
 file: liberty-has-been-framed.jpg
 date: 2015-05-19 13:05:00 +01:00
+dates:
+  iso: 2015-05-19
+  human: 19th May 2015
 gear:
   make: SONY
   model: DSC-RX100M3

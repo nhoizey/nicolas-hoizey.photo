@@ -2,6 +2,9 @@
 title: Little drizzle
 file: little-drizzle.jpg
 date: 2018-12-09 16:12:00 +01:00
+dates:
+  iso: 2018-12-09
+  human: 9th December 2018
 gear:
   make: FUJIFILM
   model: X-T2

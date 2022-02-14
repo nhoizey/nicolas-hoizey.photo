@@ -2,6 +2,9 @@
 title: Biohazard
 file: biohazard.jpg
 date: 2021-11-30 22:11:00 +01:00
+dates:
+  iso: 2021-11-30
+  human: 30th November 2021
 gear:
   make: FUJIFILM
   model: X-T3

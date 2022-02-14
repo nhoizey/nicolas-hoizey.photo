@@ -2,6 +2,9 @@
 title: Tubes
 file: tubes.jpg
 date: 2017-10-22 11:10:00 +01:00
+dates:
+  iso: 2017-10-22
+  human: 22nd October 2017
 gear:
   make: FUJIFILM
   model: X-T2

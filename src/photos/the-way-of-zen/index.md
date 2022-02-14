@@ -2,6 +2,9 @@
 title: The Way of Zen
 file: the-way-of-zen.jpg
 date: 2015-08-08 15:08:00 +01:00
+dates:
+  iso: 2015-08-08
+  human: 8th August 2015
 gear:
   make: SONY
   model: DSC-RX100M3

@@ -2,6 +2,9 @@
 title: Color Patches
 file: color-patches.jpg
 date: 2017-12-19 18:12:00 +01:00
+dates:
+  iso: 2017-12-19
+  human: 19th December 2017
 gear:
   make: FUJIFILM
   model: X-T2

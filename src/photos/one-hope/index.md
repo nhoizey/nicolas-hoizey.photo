@@ -2,6 +2,9 @@
 title: One hope
 file: one-hope.jpg
 date: 2018-02-01 00:02:00 +01:00
+dates:
+  iso: 2018-02-01
+  human: 1st February 2018
 gear:
   make: FUJIFILM
   model: X-T2

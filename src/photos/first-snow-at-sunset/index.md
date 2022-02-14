@@ -2,6 +2,9 @@
 title: First snow at sunset
 file: first-snow-at-sunset.jpg
 date: 2012-12-08 17:12:00 +01:00
+dates:
+  iso: 2012-12-08
+  human: 8th December 2012
 gear:
   make: Canon
   model: EOS 5D Mark II

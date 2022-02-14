@@ -2,6 +2,9 @@
 title: Prendre un enfant par la main…
 file: prendre-un-enfant-par-la-main.jpg
 date: 2014-06-14 15:06:00 +01:00
+dates:
+  iso: 2014-06-14
+  human: 14th June 2014
 gear:
   make: Canon
   model: EOS 5D Mark II

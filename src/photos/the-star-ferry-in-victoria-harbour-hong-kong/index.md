@@ -2,6 +2,9 @@
 title: The Star Ferry in Victoria Harbour, Hong Kong
 file: the-star-ferry-in-victoria-harbour-hong-kong.jpg
 date: 2015-08-16 11:08:00 +01:00
+dates:
+  iso: 2015-08-16
+  human: 16th August 2015
 gear:
   make: SONY
   model: DSC-RX100M3

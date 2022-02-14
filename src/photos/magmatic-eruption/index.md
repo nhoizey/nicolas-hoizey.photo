@@ -2,6 +2,9 @@
 title: Magmatic eruption
 file: magmatic-eruption.jpg
 date: 2021-12-13 22:12:00 +01:00
+dates:
+  iso: 2021-12-13
+  human: 13th December 2021
 gear:
   make: FUJIFILM
   model: X-T3

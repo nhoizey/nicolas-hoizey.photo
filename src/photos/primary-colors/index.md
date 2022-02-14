@@ -2,6 +2,9 @@
 title: Primary colors
 file: primary-colors.jpg
 date: 2016-09-30 09:09:00 +01:00
+dates:
+  iso: 2016-09-30
+  human: 30th September 2016
 gear:
   make: Apple
   model: iPhone 6s

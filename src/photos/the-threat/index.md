@@ -2,6 +2,9 @@
 title: The threat
 file: the-threat.jpg
 date: 2017-05-19 20:05:00 +01:00
+dates:
+  iso: 2017-05-19
+  human: 19th May 2017
 gear:
   make: FUJIFILM
   model: X-T2

@@ -2,6 +2,9 @@
 title: Diani Beach
 file: diani-beach.jpg
 date: 2019-03-06 12:03:00 +01:00
+dates:
+  iso: 2019-03-06
+  human: 6th March 2019
 gear:
   make: Apple
   model: iPhone 6s

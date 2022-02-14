@@ -2,6 +2,9 @@
 title: An evening on the Trälhavet shore
 file: an-evening-on-the-traelhavet-shore.jpg
 date: 2020-02-03 15:02:00 +01:00
+dates:
+  iso: 2020-02-03
+  human: 3rd February 2020
 gear:
   make: FUJIFILM
   model: X-T3

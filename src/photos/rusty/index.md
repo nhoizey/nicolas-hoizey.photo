@@ -2,6 +2,9 @@
 title: Rusty
 file: rusty.jpg
 date: 2008-08-24 15:08:00 +01:00
+dates:
+  iso: 2008-08-24
+  human: 24th August 2008
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

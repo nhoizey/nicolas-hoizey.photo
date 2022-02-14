@@ -2,6 +2,9 @@
 title: Juvenile D'Arnaud's Barbets in sunset
 file: juvenile-d-arnaud-s-barbets-in-sunset.jpg
 date: 2019-02-26 18:02:00 +01:00
+dates:
+  iso: 2019-02-26
+  human: 26th February 2019
 gear:
   make: FUJIFILM
   model: X-T3

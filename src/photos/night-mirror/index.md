@@ -2,6 +2,9 @@
 title: Night mirror
 file: night-mirror.jpg
 date: 2010-08-07 22:08:00 +01:00
+dates:
+  iso: 2010-08-07
+  human: 7th August 2010
 gear:
   make: Canon
   model: EOS 5D Mark II

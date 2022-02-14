@@ -2,6 +2,9 @@
 title: Blue Hotel
 file: blue-hotel.jpg
 date: 2019-02-25 10:02:00 +01:00
+dates:
+  iso: 2019-02-25
+  human: 25th February 2019
 gear:
   make: FUJIFILM
   model: X-T3

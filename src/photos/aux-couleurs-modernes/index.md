@@ -2,6 +2,9 @@
 title: Aux couleurs modernes
 file: aux-couleurs-modernes.jpg
 date: 2017-02-03 14:02:00 +01:00
+dates:
+  iso: 2017-02-03
+  human: 3rd February 2017
 gear:
   make: FUJIFILM
   model: X-T2

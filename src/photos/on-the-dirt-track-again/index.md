@@ -2,6 +2,9 @@
 title: On the dirt track again
 file: on-the-dirt-track-again.jpg
 date: 2019-03-02 12:03:00 +01:00
+dates:
+  iso: 2019-03-02
+  human: 2nd March 2019
 gear:
   make: FUJIFILM
   model: X-T2

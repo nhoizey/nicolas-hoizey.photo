@@ -2,6 +2,9 @@
 title: A view from the Hong Kong Avenue of Stars
 file: a-view-from-the-hong-kong-avenue-of-stars.jpg
 date: 2015-08-08 22:08:00 +01:00
+dates:
+  iso: 2015-08-08
+  human: 8th August 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

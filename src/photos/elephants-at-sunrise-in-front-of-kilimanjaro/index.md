@@ -2,6 +2,9 @@
 title: Elephants at sunrise in front of Kilimanjaro
 file: elephants-at-sunrise-in-front-of-kilimanjaro.jpg
 date: 2019-03-01 06:03:00 +01:00
+dates:
+  iso: 2019-03-01
+  human: 1st March 2019
 gear:
   make: FUJIFILM
   model: X-T2

@@ -2,6 +2,9 @@
 title: Ancient Gods are in a bad mood
 file: ancient-gods-are-in-a-bad-mood.jpg
 date: 2017-05-11 16:05:00 +01:00
+dates:
+  iso: 2017-05-11
+  human: 11th May 2017
 gear:
   make: FUJIFILM
   model: X-T2

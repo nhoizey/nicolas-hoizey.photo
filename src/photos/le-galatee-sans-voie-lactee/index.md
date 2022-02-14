@@ -2,6 +2,9 @@
 title: Le Galatée sans voie lactée
 file: le-galatee-sans-voie-lactee.jpg
 date: 2018-01-06 19:01:00 +01:00
+dates:
+  iso: 2018-01-06
+  human: 6th January 2018
 gear:
   make: FUJIFILM
   model: X-T2

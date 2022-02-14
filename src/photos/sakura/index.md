@@ -2,6 +2,9 @@
 title: Sakura
 file: sakura.jpg
 date: 2009-04-01 14:04:00 +01:00
+dates:
+  iso: 2009-04-01
+  human: 1st April 2009
 gear:
   make: Canon
   model: EOS 5D Mark II

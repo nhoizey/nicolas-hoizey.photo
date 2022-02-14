@@ -2,6 +2,9 @@
 title: Augur Buzzard
 file: augur-buzzard.jpg
 date: 2019-02-27 16:02:00 +01:00
+dates:
+  iso: 2019-02-27
+  human: 27th February 2019
 gear:
   make: FUJIFILM
   model: X-T3

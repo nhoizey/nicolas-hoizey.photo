@@ -2,6 +2,9 @@
 title: Oddly vintage
 file: oddly-vintage.jpg
 date: 2013-08-14 14:08:00 +01:00
+dates:
+  iso: 2013-08-14
+  human: 14th August 2013
 gear:
   make: Canon
   model: EOS 5D Mark II

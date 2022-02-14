@@ -2,6 +2,9 @@
 title: Looking up
 file: looking-up.jpg
 date: 2016-09-30 14:09:00 +01:00
+dates:
+  iso: 2016-09-30
+  human: 30th September 2016
 gear:
   make: Canon
   model: EOS 5D Mark II

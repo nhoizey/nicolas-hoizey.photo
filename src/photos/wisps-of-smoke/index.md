@@ -2,6 +2,9 @@
 title: Wisps of smoke
 file: wisps-of-smoke.jpg
 date: 2020-10-06 21:10:00 +01:00
+dates:
+  iso: 2020-10-06
+  human: 6th October 2020
 gear:
   make: FUJIFILM
   model: X-T3

@@ -2,6 +2,9 @@
 title: V-J Day in Times Square, Kobra's colorful edition
 file: v-j-day-in-times-square-kobra-s-colorful-edition.jpg
 date: 2015-05-21 10:05:00 +01:00
+dates:
+  iso: 2015-05-21
+  human: 21st May 2015
 gear:
   make: SONY
   model: DSC-RX100M3

@@ -2,6 +2,9 @@
 title: Quietness
 file: quietness.jpg
 date: 2018-08-05 15:08:00 +01:00
+dates:
+  iso: 2018-08-05
+  human: 5th August 2018
 gear:
   make: FUJIFILM
   model: X-T2

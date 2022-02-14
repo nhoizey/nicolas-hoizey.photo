@@ -2,6 +2,9 @@
 title: Lioness on the lookout
 file: lioness-on-the-lookout.jpg
 date: 2019-02-26 08:02:00 +01:00
+dates:
+  iso: 2019-02-26
+  human: 26th February 2019
 gear:
   make: FUJIFILM
   model: X-T3

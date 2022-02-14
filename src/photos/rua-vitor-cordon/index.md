@@ -2,6 +2,9 @@
 title: Rua Vítor Cordon
 file: rua-vitor-cordon.jpg
 date: 2016-10-01 08:10:00 +01:00
+dates:
+  iso: 2016-10-01
+  human: 1st October 2016
 gear:
   make: Canon
   model: EOS 5D Mark II

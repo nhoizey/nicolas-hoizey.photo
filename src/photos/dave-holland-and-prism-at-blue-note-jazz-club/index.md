@@ -2,6 +2,9 @@
 title: Dave Holland & Prism at Blue Note Jazz Club
 file: dave-holland-and-prism-at-blue-note-jazz-club.jpg
 date: 2015-05-21 22:05:00 +01:00
+dates:
+  iso: 2015-05-21
+  human: 21st May 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

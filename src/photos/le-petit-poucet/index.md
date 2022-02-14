@@ -2,6 +2,9 @@
 title: Le Petit Poucet
 file: le-petit-poucet.jpg
 date: 2018-01-25 08:01:00 +01:00
+dates:
+  iso: 2018-01-25
+  human: 25th January 2018
 gear:
   make: FUJIFILM
   model: X-T2

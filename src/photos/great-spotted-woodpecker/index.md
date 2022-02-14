@@ -2,6 +2,9 @@
 title: Great Spotted Woodpecker
 file: great-spotted-woodpecker.jpg
 date: 2016-12-04 16:12:00 +01:00
+dates:
+  iso: 2016-12-04
+  human: 4th December 2016
 gear:
   make: FUJIFILM
   model: X-T2

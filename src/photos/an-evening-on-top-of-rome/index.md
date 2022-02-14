@@ -2,6 +2,9 @@
 title: An evening on top of Rome
 file: an-evening-on-top-of-rome.jpg
 date: 2017-05-12 19:05:00 +01:00
+dates:
+  iso: 2017-05-12
+  human: 12th May 2017
 gear:
   make: FUJIFILM
   model: X-T2

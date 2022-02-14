@@ -2,6 +2,9 @@
 title: Follow the path around
 file: follow-the-path-around.jpg
 date: 2019-02-26 18:02:00 +01:00
+dates:
+  iso: 2019-02-26
+  human: 26th February 2019
 gear:
   make: FUJIFILM
   model: X-T2

@@ -2,6 +2,9 @@
 title: Sweet colors
 file: sweet-colors.jpg
 date: 2021-12-12 18:12:00 +01:00
+dates:
+  iso: 2021-12-12
+  human: 12th December 2021
 gear:
   make: FUJIFILM
   model: X-T3

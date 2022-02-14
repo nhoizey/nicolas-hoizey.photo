@@ -2,6 +2,9 @@
 title: Waiting for dusk
 file: waiting-for-dusk.jpg
 date: 2019-03-01 07:03:00 +01:00
+dates:
+  iso: 2019-03-01
+  human: 1st March 2019
 gear:
   make: FUJIFILM
   model: X-T3

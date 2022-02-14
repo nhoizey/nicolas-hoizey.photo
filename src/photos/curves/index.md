@@ -2,6 +2,9 @@
 title: Curves
 file: curves.jpg
 date: 2008-09-02 16:09:00 +02:00
+dates:
+  iso: 2008-09-02
+  human: 2nd September 2008
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

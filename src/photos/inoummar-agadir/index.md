@@ -2,6 +2,9 @@
 title: Inoummar agadir
 file: inoummar-agadir.jpg
 date: 2011-05-06 12:05:00 +01:00
+dates:
+  iso: 2011-05-06
+  human: 6th May 2011
 gear:
   make: Canon
   model: EOS 5D Mark II

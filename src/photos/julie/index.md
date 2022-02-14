@@ -2,6 +2,9 @@
 title: Julie
 file: julie.jpg
 date: 2017-03-25 12:03:00 +01:00
+dates:
+  iso: 2017-03-25
+  human: 25th March 2017
 gear:
   make: FUJIFILM
   model: X-T2

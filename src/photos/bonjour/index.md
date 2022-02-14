@@ -2,6 +2,9 @@
 title: Bonjour
 file: bonjour.jpg
 date: 2015-08-15 14:08:00 +01:00
+dates:
+  iso: 2015-08-15
+  human: 15th August 2015
 gear:
   make: SONY
   model: DSC-RX100M3

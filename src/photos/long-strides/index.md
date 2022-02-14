@@ -2,6 +2,9 @@
 title: Long strides
 file: long-strides.jpg
 date: 2018-05-13 16:05:00 +01:00
+dates:
+  iso: 2018-05-13
+  human: 13th May 2018
 gear:
   make: FUJIFILM
   model: X-T2

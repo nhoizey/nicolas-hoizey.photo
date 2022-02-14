@@ -2,6 +2,9 @@
 title: The Blacksmith
 file: the-blacksmith.jpg
 date: 2014-07-12 14:07:00 +01:00
+dates:
+  iso: 2014-07-12
+  human: 12th July 2014
 gear:
   make: SONY
   model: DSC-RX100M3

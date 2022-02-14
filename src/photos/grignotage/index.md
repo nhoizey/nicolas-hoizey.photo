@@ -2,6 +2,9 @@
 title: Grignotage
 file: grignotage.jpg
 date: 2019-03-10 11:03:00 +01:00
+dates:
+  iso: 2019-03-10
+  human: 10th March 2019
 gear:
   make: Canon
   model: Canon EOS 7D

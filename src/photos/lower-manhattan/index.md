@@ -2,6 +2,9 @@
 title: Lower Manhattan
 file: lower-manhattan.jpg
 date: 2015-05-23 22:05:00 +01:00
+dates:
+  iso: 2015-05-23
+  human: 23rd May 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

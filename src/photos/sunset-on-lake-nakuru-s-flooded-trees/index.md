@@ -2,6 +2,9 @@
 title: Sunset on Lake Nakuru's flooded trees
 file: sunset-on-lake-nakuru-s-flooded-trees.jpg
 date: 2019-02-27 18:02:00 +01:00
+dates:
+  iso: 2019-02-27
+  human: 27th February 2019
 gear:
   make: FUJIFILM
   model: X-T2

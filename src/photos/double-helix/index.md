@@ -2,6 +2,9 @@
 title: Double helix
 file: double-helix.jpg
 date: 2017-05-12 14:05:00 +01:00
+dates:
+  iso: 2017-05-12
+  human: 12th May 2017
 gear:
   make: FUJIFILM
   model: X-T2

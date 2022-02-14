@@ -2,6 +2,9 @@
 title: Egret at sunset
 file: egret-at-sunset.jpg
 date: 2017-04-10 19:04:00 +01:00
+dates:
+  iso: 2017-04-10
+  human: 10th April 2017
 gear:
   make: FUJIFILM
   model: X-T2

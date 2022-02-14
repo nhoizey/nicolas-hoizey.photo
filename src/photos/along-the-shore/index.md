@@ -2,6 +2,9 @@
 title: Along the shore
 file: along-the-shore.jpg
 date: 2009-05-15 21:05:00 +01:00
+dates:
+  iso: 2009-05-15
+  human: 15th May 2009
 gear:
   make: Canon
   model: EOS 5D Mark II

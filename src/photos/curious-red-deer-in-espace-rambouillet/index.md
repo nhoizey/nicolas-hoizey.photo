@@ -2,6 +2,9 @@
 title: Curious red deer in Espace Rambouillet
 file: curious-red-deer-in-espace-rambouillet.jpg
 date: 2021-10-24 12:10:00 +01:00
+dates:
+  iso: 2021-10-24
+  human: 24th October 2021
 gear:
   make: FUJIFILM
   model: X-T3

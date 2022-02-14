@@ -2,6 +2,9 @@
 title: Blue House, and other colors
 file: blue-house-and-other-colors.jpg
 date: 2015-08-09 16:08:00 +01:00
+dates:
+  iso: 2015-08-09
+  human: 9th August 2015
 gear:
   make: SONY
   model: DSC-RX100M3

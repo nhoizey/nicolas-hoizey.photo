@@ -2,6 +2,9 @@
 title: Silvery-cheeked Hornbill couple
 file: silvery-cheeked-hornbill-couple.jpg
 date: 2019-03-04 17:03:00 +01:00
+dates:
+  iso: 2019-03-04
+  human: 4th March 2019
 gear:
   make: FUJIFILM
   model: X-T3

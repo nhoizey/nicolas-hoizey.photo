@@ -2,6 +2,9 @@
 title: Chung Wui Mansion
 file: chung-wui-mansion.jpg
 date: 2015-08-09 13:08:00 +01:00
+dates:
+  iso: 2015-08-09
+  human: 9th August 2015
 gear:
   make: SONY
   model: DSC-RX100M3

@@ -2,6 +2,9 @@
 title: Goûter d'enfant
 file: gouter-d-enfant.jpg
 date: 2019-02-10 11:02:00 +01:00
+dates:
+  iso: 2019-02-10
+  human: 10th February 2019
 gear:
   make: Canon
   model: Canon EOS 5D Mark IV

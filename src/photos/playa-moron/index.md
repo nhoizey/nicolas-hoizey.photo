@@ -2,6 +2,9 @@
 title: Playa Morón
 file: playa-moron.jpg
 date: 2018-02-28 11:02:00 +01:00
+dates:
+  iso: 2018-02-28
+  human: 28th February 2018
 gear:
   make: FUJIFILM
   model: X-T2

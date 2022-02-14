@@ -2,6 +2,9 @@
 title: Frost
 file: frost.jpg
 date: 2009-01-10 09:01:00 +01:00
+dates:
+  iso: 2009-01-10
+  human: 10th January 2009
 gear:
   make: Canon
   model: EOS 5D Mark II

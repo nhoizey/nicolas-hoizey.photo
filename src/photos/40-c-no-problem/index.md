@@ -2,6 +2,9 @@
 title: 40°C? No problem…
 file: 40-c-no-problem.jpg
 date: 2019-02-28 17:02:00 +01:00
+dates:
+  iso: 2019-02-28
+  human: 28th February 2019
 gear:
   make: FUJIFILM
   model: X-T2

@@ -2,6 +2,9 @@
 title: Tian Tan Buddha
 file: tian-tan-buddha.jpg
 date: 2015-08-16 08:08:00 +01:00
+dates:
+  iso: 2015-08-16
+  human: 16th August 2015
 gear:
   make: SONY
   model: DSC-RX100M3

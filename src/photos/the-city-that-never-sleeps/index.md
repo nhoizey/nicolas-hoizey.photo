@@ -2,6 +2,9 @@
 title: The City That Never Sleeps
 file: the-city-that-never-sleeps.jpg
 date: 2015-05-22 23:05:00 +01:00
+dates:
+  iso: 2015-05-23
+  human: 23rd May 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

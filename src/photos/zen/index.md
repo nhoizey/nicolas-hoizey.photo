@@ -2,6 +2,9 @@
 title: Zen
 file: zen.jpg
 date: 2014-06-14 16:06:00 +01:00
+dates:
+  iso: 2014-06-14
+  human: 14th June 2014
 gear:
   make: Canon
   model: EOS 5D Mark II

@@ -2,6 +2,9 @@
 title: The Violinist
 file: the-violinist.jpg
 date: 2017-05-14 10:05:00 +01:00
+dates:
+  iso: 2017-05-14
+  human: 14th May 2017
 gear:
   make: FUJIFILM
   model: X-T2

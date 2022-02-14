@@ -2,6 +2,9 @@
 title: Monochrome
 file: monochrome.jpg
 date: 2019-04-14 10:04:00 +01:00
+dates:
+  iso: 2019-04-14
+  human: 14th April 2019
 gear:
   make: NIKON CORPORATION
   model: NIKON D700

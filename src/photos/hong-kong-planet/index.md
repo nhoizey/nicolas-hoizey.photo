@@ -2,6 +2,9 @@
 title: Hong Kong planet
 file: hong-kong-planet.jpg
 date: 2015-08-08 22:08:00 +01:00
+dates:
+  iso: 2015-08-08
+  human: 8th August 2015
 gear: {}
 tags:
   - Asia

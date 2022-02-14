@@ -2,6 +2,9 @@
 title: Driving south
 file: driving-south.jpg
 date: 2015-05-19 12:05:00 +01:00
+dates:
+  iso: 2015-05-19
+  human: 19th May 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

@@ -2,6 +2,9 @@
 title: Colors of Little Italy
 file: colors-of-little-italy.jpg
 date: 2015-05-20 14:05:00 +01:00
+dates:
+  iso: 2015-05-20
+  human: 20th May 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

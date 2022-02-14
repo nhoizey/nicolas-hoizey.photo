@@ -2,6 +2,9 @@
 title: The (new) Road to Hell('s Kitchen)
 file: the-new-road-to-hell-s-kitchen.jpg
 date: 2015-05-22 09:05:00 +01:00
+dates:
+  iso: 2015-05-22
+  human: 22nd May 2015
 gear:
   make: Canon
   model: EOS 5D Mark II

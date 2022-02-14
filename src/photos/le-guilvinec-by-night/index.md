@@ -2,6 +2,9 @@
 title: Le Guilvinec by night
 file: le-guilvinec-by-night.jpg
 date: 2013-05-08 20:05:00 +01:00
+dates:
+  iso: 2013-05-08
+  human: 8th May 2013
 gear:
   make: Canon
   model: EOS 5D Mark II

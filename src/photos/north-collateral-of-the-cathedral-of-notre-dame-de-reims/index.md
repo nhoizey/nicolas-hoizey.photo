@@ -2,6 +2,9 @@
 title: North collateral of the Cathedral of Notre-Dame de Reims
 file: north-collateral-of-the-cathedral-of-notre-dame-de-reims.jpg
 date: 2019-04-28 13:04:00 +01:00
+dates:
+  iso: 2019-04-28
+  human: 28th April 2019
 gear:
   make: FUJIFILM
   model: X-T3
