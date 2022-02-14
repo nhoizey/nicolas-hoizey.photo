@@ -10,6 +10,15 @@ const shuffle = (array) => {
 };
 
 module.exports = {
+  findBySlug: (collection, slug) => {
+    const items = collection.filter((page) => page.fileSlug === slug);
+    if (items.length === 1) {
+      return items[0];
+    } else {
+      console.error(`Can't find content with slug "${slug}"`);
+      return false;
+    }
+  },
   taggued: (collection, tag) => {
     const slugs = [];
     return collection.filter((page) => {
