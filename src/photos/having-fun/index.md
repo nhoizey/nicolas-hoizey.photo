@@ -2,6 +2,9 @@
 title: Having fun
 file: having-fun.jpg
 date: 2006-04-01 19:04:00 +01:00
+dates:
+  iso: 2006-04-01
+  human: 1st April 2006
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

@@ -2,6 +2,9 @@
 title: Colourful window in Burano
 file: colourful-window-in-burano.jpg
 date: 2008-04-26 16:04:00 +01:00
+dates:
+  iso: 2008-04-26
+  human: 26th April 2008
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

@@ -2,6 +2,9 @@
 title: Bacchus dream
 file: bacchus-dream.jpg
 date: 2007-11-03 17:11:00 +01:00
+dates:
+  iso: 2007-11-03
+  human: 3rd November 2007
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

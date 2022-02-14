@@ -2,6 +2,9 @@
 title: Bruxelles
 file: bruxelles.jpg
 date: 2007-08-27 10:08:00 +01:00
+dates:
+  iso: 2007-08-27
+  human: 27th August 2007
 gear:
   make: Canon
   model: Canon DIGITAL IXUS 800 IS

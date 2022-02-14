@@ -2,6 +2,9 @@
 title: Imeri Gramvousa
 file: imeri-gramvousa.jpg
 date: 2005-09-23 11:09:00 +01:00
+dates:
+  iso: 2005-09-23
+  human: 23rd September 2005
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

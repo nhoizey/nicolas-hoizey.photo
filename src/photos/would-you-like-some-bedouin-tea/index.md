@@ -2,6 +2,9 @@
 title: Would you like some bedouin tea?
 file: would-you-like-some-bedouin-tea.jpg
 date: 2004-05-14 17:05:00 +01:00
+dates:
+  iso: 2004-05-14
+  human: 14th May 2004
 gear:
   make: Konica
   model: KD-400Z

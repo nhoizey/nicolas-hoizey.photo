@@ -2,6 +2,9 @@
 title: A peaceful canal in Venice
 file: a-peaceful-canal-in-venice.jpg
 date: 2008-04-25 16:04:00 +01:00
+dates:
+  iso: 2008-04-25
+  human: 25th April 2008
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

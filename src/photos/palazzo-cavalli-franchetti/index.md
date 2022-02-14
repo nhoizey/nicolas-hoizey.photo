@@ -2,6 +2,9 @@
 title: Palazzo Cavalli-Franchetti
 file: palazzo-cavalli-franchetti.jpg
 date: 2008-04-24 16:04:00 +01:00
+dates:
+  iso: 2008-04-24
+  human: 24th April 2008
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL

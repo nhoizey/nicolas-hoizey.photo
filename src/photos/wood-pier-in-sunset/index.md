@@ -2,6 +2,9 @@
 title: Wood pier in sunset
 file: wood-pier-in-sunset.jpg
 date: 2004-06-12 21:06:00 +01:00
+dates:
+  iso: 2004-06-12
+  human: 12th June 2004
 gear:
   make: Konica
   model: KD-400Z

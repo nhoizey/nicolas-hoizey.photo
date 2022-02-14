@@ -2,6 +2,9 @@
 title: Don't fear the light
 file: don-t-fear-the-light.jpg
 date: 2004-12-27 17:12:00 +01:00
+dates:
+  iso: 2004-12-27
+  human: 27th December 2004
 gear:
   make: Konica
   model: KD-400Z

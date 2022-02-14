@@ -2,6 +2,9 @@
 title: Lost in (white) space
 file: lost-in-white-space.jpg
 date: 2005-04-23 15:04:00 +01:00
+dates:
+  iso: 2005-04-23
+  human: 23rd April 2005
 gear:
   make: Konica
   model: KD-400Z

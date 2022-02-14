@@ -2,6 +2,9 @@
 title: Plongée en contre plongée
 file: plongee-en-contre-plongee.jpg
 date: 2004-05-17 18:52:04 +02:00
+dates:
+  iso: 2004-05-17
+  human: 17th May 2004
 gear:
   make: Fujifilm
   model: SLP1000SE

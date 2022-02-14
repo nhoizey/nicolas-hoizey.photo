@@ -2,6 +2,9 @@
 title: Split level photography
 file: split-level-photography.jpg
 date: 2004-05-17 18:50:31 +02:00
+dates:
+  iso: 2004-05-17
+  human: 17th May 2004
 gear:
   make: Fujifilm
   model: SLP1000SE

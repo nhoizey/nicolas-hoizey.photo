@@ -2,6 +2,9 @@
 title: Coco
 file: coco.jpg
 date: 2008-05-11 14:05:00 +01:00
+dates:
+  iso: 2008-05-11
+  human: 11th May 2008
 gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
