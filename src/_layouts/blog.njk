@@ -5,6 +5,9 @@
 {% endblock %}
 
 {% block content %}
+  {% from "macros/css.njk" import css %}
+  {{ css('components/gallery', build.env) }}
+
   {% from "macros/meta.njk" import meta %}
 
   <article>
