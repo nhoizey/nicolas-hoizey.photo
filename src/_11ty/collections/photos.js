@@ -32,7 +32,7 @@ module.exports = {
   },
   unique_photos: (collection) => {
     const distinctPhotos = [];
-    return collection
+    globalUniquePhotos = collection
       .getFilteredByGlob(usedPhotosGlob)
       .filter((item) => !item.filePathStem.endsWith('/index'))
       .filter((item) => {
@@ -44,6 +44,7 @@ module.exports = {
         }
       })
       .sort((a, b) => b.date - a.date);
+    return globalUniquePhotos;
   },
   photo_galleries: (collection) =>
     collection

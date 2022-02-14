@@ -7,6 +7,8 @@ module.exports = function (eleventyConfig) {
   // Collections
   // ------------------------------------------------------------------------
 
+  let globalUniquePhotos = [];
+
   glob
     .sync(path.join(config.dir.src, '_11ty/collections/*.js'))
     .forEach((file) => {
