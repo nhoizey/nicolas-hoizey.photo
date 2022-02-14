@@ -11,7 +11,6 @@ module.exports = {
       );
       if (photosWithSlug.length === 1) {
         const photo = photosWithSlug[0].data;
-        console.dir(photo);
         const dimensions = photo.origin.data.dimensions;
         gallery += `<li>
 <figure>
@@ -28,10 +27,10 @@ module.exports = {
     <a href="${photo.page.url}">${photo.title}</a>
     <ul class="meta">
       <li class="date meta__item meta__date">
-        <svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="${moment(
-          photo.date
-        ).format('YYYY-MM-DD')}">
-          ${moment(photo.date).format('Do MMMM YYYY')}
+        <svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="${
+          photo.origin.data.dates.iso
+        }">
+          ${photo.origin.data.dates.human}
         </time>
       </li>
     </ul>
