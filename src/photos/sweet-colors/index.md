@@ -61,4 +61,6 @@ colors:
   lightMuted: 236 220 228
 ---
 
+Did you really think that candies were colored as soon as they were made?
 
+Specialized painters are appointed to finalize the decoration of these delicacies according to the trends of the finest gourmets!
