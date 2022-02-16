@@ -14,6 +14,6 @@ Attracted by model making during my childhood, I came back to it through the pho
 
 With this series, I wanted to show how our view of everyday objects can completely change when they are staged with small model railroad figures in HO scale (1/87).
 
-Here are the five photos I chose to expose:
+Here are the five photos I chose to exhibit:
 
 {% gallery "lumberjacks", "the-tour", "magmatic-eruption", "biohazard", "sweet-colors" %}
