@@ -11,12 +11,6 @@ module.exports = {
     } else {
       let svg = fs.readFileSync(svgFile, 'utf8');
       svg = svg.replace('<svg ', '<svg class="flag" ');
-      // if (!svg.match('viewBox')) {
-      //   svg = svg.replace(
-      //     /width="([^"]+)".+height="([^"]+)"/,
-      //     'viewBox="0 0 $1 $2"'
-      //   );
-      // }
       return svg;
     }
   },

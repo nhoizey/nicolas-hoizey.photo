@@ -1,3 +1,4 @@
 ---
 title: Sweden
+flag: se
 ---

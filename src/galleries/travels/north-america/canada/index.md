@@ -1,3 +1,4 @@
 ---
 title: Canada
+flag: ca
 ---
