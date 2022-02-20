@@ -47,6 +47,7 @@ dimensions:
 geo:
   latitude: 41.687913333333334
   longitude: 44.807943333333334
+  map: true
   country: Géorgie
 colors:
   vibrant: 4 145 210
