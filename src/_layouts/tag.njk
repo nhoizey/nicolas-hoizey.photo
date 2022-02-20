@@ -17,7 +17,7 @@
   <div class="tag" style="--ambiant-foreground: {{ tag.colors.lightVibrant }}">
     <div class="header">
       {% include 'components/breadcrumb.njk' %}
-      <h1>{{ title }}</h1>
+      <h1 class="page__title">{{ title }}</h1>
     </div>
 
     {{ content | safe }}

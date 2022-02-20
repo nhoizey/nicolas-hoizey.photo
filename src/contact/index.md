@@ -9,4 +9,4 @@ title: Contact
   <li><a href="/">Home</a></li>
 </ul>
 
-<h1>Contact</h1>
+<h1 class="page__title">Contact</h1>

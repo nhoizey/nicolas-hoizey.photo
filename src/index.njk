@@ -4,17 +4,18 @@ layout: false
 
 {% extends "./_layouts/base.njk" %}
 
+{% from "macros/css.njk" import css %}
+
 {% block content %}
   {% set breadcrumb = [] %}
   {% include 'components/json-ld/breadcrumb.njk' %}
 
   <section class="welcome">
-    <h2>Welcome to my photography portfolio!</h2>
+    <h2 class="page__title">Welcome to my photography portfolio!</h2>
 
     <p>I’m a French self-taught amateur photographer. I love to <a href="/galleries/travels/">travel</a> to discover new horizons and people, shooting both <a href="/galleries/nature/">nature</a> and <a href="/galleries/urban/">urban</a> scenery, and taking <a href="/galleries/portraits/">portraits</a>.</p>
   </section>
 
-  {% from "macros/css.njk" import css %}
   {{ css('components/galleries', build.env) }}
 
   <section class="topics">
@@ -23,7 +24,6 @@ layout: false
     {% include 'components/sub-galleries.njk' %}
   </section>
 
-  {% from "macros/css.njk" import css %}
   {{ css('components/gallery', build.env) }}
 
   <section class="latest">
@@ -37,15 +37,20 @@ layout: false
     <p>You can subscribe to <a href="/feeds/">the feed</a> to not miss any new photo.</p>
   </section>
 
-  <section class="blog">
+  {{ css('components/blog', build.env) }}
+
+  <section>
     <h3>Here are the latest posts from the blog</h3>
     {% from "macros/meta.njk" import meta %}
-    {% for entry in collections.blog  | limit(3) %}
-      <article>
-        <h4><a href="{{ entry.url }}">{{ entry.data.title }}</a></h4>
-        {{ meta(entry) }}
-      </article>
-    {% endfor %}
+    <ol class="blog">
+      {% for entry in collections.blog  | limit(3) %}
+        <li class="blog__item">
+          <h4 class="blog__title"><a href="{{ entry.url }}">{{ entry.data.title }}</a></h4>
+          {{ meta(entry) }}
+          <p class="blog__text">{{ entry.templateContent | excerpt | striptags | safe }}</p>
+        </li>
+      {% endfor %}
+    </ol>
     <p>You can subscribe to <a href="/feeds/">the feed</a> to not miss any new post.</p>
   </section>
 {% endblock %}

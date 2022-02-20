@@ -8,7 +8,7 @@ permalink: "/tags/index.html"
 
 {% block content %}
 
-<h1>{{ title }}</h1>
+<h1 class="page__title">{{ title }}</h1>
 
 {% from "macros/css.njk" import css %}
 {{ css('components/tagscloud', build.env) }}

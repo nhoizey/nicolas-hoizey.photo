@@ -7,20 +7,24 @@ nav:
 ---
 
 {% from "macros/meta.njk" import meta %}
+{% from "macros/css.njk" import css %}
 
 {% include 'components/breadcrumb.njk' %}
 
-<h1>Blog</h1>
+<h1 class="page__title">Blog</h1>
 
-Here are the latest news:
+Here are the latest posts:
 
-<div class="blog">
+{{ css('components/blog', build.env) }}
+
+<ol class="blog">
 
 {% for entry in collections.blog %}
-  <article>
-    <h2><a href="{{ entry.url }}">{{ entry.data.title }}</a></h2>
+  <li class="blog__item">
+    <h2 class="blog__title"><a href="{{ entry.url }}">{{ entry.data.title }}</a></h2>
     {{ meta(entry) }}
-  </article>
+    <p class="blog__text">{{ entry.templateContent | excerpt | striptags | safe }}</p>
+  </li>
 {% endfor %}
 
-</div>
+</ol>

@@ -14,7 +14,7 @@
   {% include 'components/json-ld/breadcrumb.njk' %}
   {% include 'components/breadcrumb.njk' %}
 
-  <h1>{{ title }}</h1>
+  <h1 class="page__title">{{ title }}</h1>
 
   {% if flag %}
     {{ css('components/flag', build.env) }}
