@@ -1,3 +1,4 @@
 ---
 title: Kenya
+flag: ke
 ---

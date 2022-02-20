@@ -1,3 +1,4 @@
 ---
 title: Egypt
+flag: eg
 ---

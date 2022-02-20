@@ -1,3 +1,4 @@
 ---
 title: Spain
+flag: es
 ---

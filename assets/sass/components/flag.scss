@@ -1,0 +1,18 @@
+@use '../variables' as *;
+@use '../tokens/space';
+
+.flag {
+  display: block;
+  width: 50%;
+  height: auto;
+
+  margin: space.$m auto;
+
+  @media (min-width: $breakpoint-xs) {
+    width: 30%;
+    max-width: 15rem;
+
+    float: right;
+    margin: 0 0 space.$l space.$l;
+  }
+}

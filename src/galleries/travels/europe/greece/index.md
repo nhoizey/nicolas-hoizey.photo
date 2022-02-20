@@ -1,3 +1,4 @@
 ---
 title: Greece
+flag: gr
 ---

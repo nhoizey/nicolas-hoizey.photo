@@ -1,3 +1,4 @@
 ---
 title: Portugal
+flag: pt
 ---

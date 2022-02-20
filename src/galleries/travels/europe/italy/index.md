@@ -1,3 +1,4 @@
 ---
 title: Italy
+flag: it
 ---

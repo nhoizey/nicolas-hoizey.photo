@@ -1,3 +1,4 @@
 ---
-title: Hong-Kong
+title: Hong Kong
+flag: hk
 ---

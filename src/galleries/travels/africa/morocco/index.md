@@ -1,3 +1,4 @@
 ---
 title: Morocco
+flag: ma
 ---

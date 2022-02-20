@@ -1,3 +1,3 @@
 ---
-title: Hong-Kong Park
+title: Hong Kong Park
 ---
