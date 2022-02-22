@@ -40,7 +40,8 @@ dimensions:
 geo:
   latitude: 41.842464721666666
   longitude: 44.720509721666666
-  country: Géorgie
+  map: true
+  country: Georgia
   city: Mtskheta
 colors:
   vibrant: 196 92 44
