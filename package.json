@@ -34,7 +34,9 @@
     "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy",
     "debug:build": "DEBUG=Eleventy* npm run build",
     "subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/ui/fonts/",
-    "matomo": "node ./_scripts/update-matomo.js"
+    "matomo": "node ./_scripts/update-matomo.js",
+    "prepare": "husky install",
+    "add-dates": "./_scripts/add-dates.sh"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
@@ -64,6 +66,7 @@
     "gray-matter": "^4.0.3",
     "html-entities": "^2.3.2",
     "html-minifier": "^4.0.0",
+    "husky": "^7.0.4",
     "image-size": "^1.0.0",
     "lodash": "^4.17.21",
     "majesticons": "^2.1.1",
