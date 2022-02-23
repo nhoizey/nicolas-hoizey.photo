@@ -1,5 +1,7 @@
 #!/bin/bash
 
+found=0
+
 find src/galleries -name "*.md" | while read fileName; do
   fileBasename=$(basename "$fileName")
   if [ ! "$fileBasename" == "index.md" ]
@@ -26,6 +28,9 @@ dateline    { date=$0; next }
       echo "$fileBasename"
       echo " -> $photoDate"
       echo ""
+      found=1
     fi
   fi
 done
+
+exit found
