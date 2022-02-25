@@ -33,4 +33,4 @@ dateline    { date=$0; next }
   fi
 done
 
-exit found
+exit $found
