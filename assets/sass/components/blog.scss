@@ -22,5 +22,5 @@
 }
 
 .blog__text {
-  margin-top: $gap / 2;
+  margin-top: math.div($gap, 2);
 }
