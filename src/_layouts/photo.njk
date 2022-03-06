@@ -38,7 +38,7 @@
 
   {% include 'components/json-ld/breadcrumb.njk' %}
 
-  <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %}" style="--ratio: {{ dimensions.width / dimensions.height }}; --ambiant-foreground: #{{ colors.darkMuted | fgcolor }}">
+  <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %} h-entry" style="--ratio: {{ dimensions.width / dimensions.height }}; --ambiant-foreground: #{{ colors.darkMuted | fgcolor }}">
     <div class="header">
       {% include 'components/breadcrumb.njk' %}
       <h1 class="page__title">{{ title }}</h1>
@@ -46,7 +46,7 @@
 
     <img
       src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg"
-      class="image"
+      class="image u-photo"
       alt="{{ title }}"
       width="{{ dimensions.width }}"
       height="{{ dimensions.height }}"
@@ -59,7 +59,7 @@
       importance="high"
     />
 
-    <div class="description">
+    <div class="description p-content">
       {{ content | markdownify | safe }}
     </div>
 
@@ -93,7 +93,7 @@
             <div class="marker-shadow"></div>
             <div class="marker"></div>
           </div>
-          {% if geo.city and geo.country %}<p>{{ geo.city }}, {{ geo.country }}</p>{% endif %}
+          {% if geo.city and geo.country %}<p class="h-adr"><span class="p-locality">{{ geo.city }}</span>, <span class="p-country-name">{{ geo.country }}</span></p>{% endif %}
           <p class="locate"><svg class="icon" aria-hidden="true"><use xlink:href="#map-icon" /></svg> Locate it on the <a href="/map/#13/{{ geo.latitude }}/{{ geo.longitude }}">interactive global map</a></p>
         {% endif %}
       </div>
