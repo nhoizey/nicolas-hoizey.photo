@@ -1,4 +1,4 @@
-const config = require('../../pack11ty.config.js');
+const pkg = require('../../package.json');
 
 module.exports = {
   opengraph: {
@@ -6,8 +6,7 @@ module.exports = {
     title: (data) => data.title,
     image: {
       title: (data) => {
-        console.dir(data);
-        return data.page.url === '/' ? site.title : data.title;
+        return data.page.url === '/' ? pkg.title : data.title;
       },
       tagline: (data) => 'blop',
     },
