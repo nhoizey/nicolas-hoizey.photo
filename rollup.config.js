@@ -32,6 +32,7 @@ export default [
       commonjs(),
       nodeResolve(),
       replace({
+        preventAssignment: true,
         'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV),
       }),
       babel({
@@ -51,6 +52,7 @@ export default [
     },
     plugins: [
       replace({
+        preventAssignment: true,
         'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV),
       }),
       commonjs(),
@@ -74,6 +76,7 @@ export default [
     },
     plugins: [
       replace({
+        preventAssignment: true,
         MAPBOX_ACCESS_TOKEN: JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
       }),
       nodeResolve({ browser: true, preferBuiltins: false }),
@@ -112,6 +115,7 @@ export default [
     },
     plugins: [
       replace({
+        preventAssignment: true,
         MAPBOX_ACCESS_TOKEN: JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
         MAP_BBOX: JSON.stringify(process.env.MAP_BBOX),
       }),
