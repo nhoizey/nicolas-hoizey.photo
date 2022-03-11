@@ -33,6 +33,7 @@ import polylabel from 'polylabel';
       hash: true,
       renderWorldCopies: true,
       transformRequest: (url, resourceType) => {
+        console.log({ url, resourceType });
         if (url.startsWith('https://nicolas-hoizey.photo')) {
           if (resourceType === 'SpriteImage') {
             return {
