@@ -18,11 +18,7 @@
     <ul>
       <li>by <a href="https://nicolas-hoizey.com/" rel="me">Nicolas Hoizey</a></li>
       <li>with <a href="https://www.11ty.dev/">Eleventy</a></li>
-      {% if build.service == 'Netlify' %}
-        <li>and hosted on <a href="https://netlify.com/">Netlify</a></li>
-      {% else %}
-        <li>and hosted on <a href="https://cloudflare.com/">Cloudflare</a></li>
-      {% endif %}
+      <li>and hosted on <a href="https://netlify.com/">{{ build.service }}</a></li>
     </ul>
   </div>
 </footer>
