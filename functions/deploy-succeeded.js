@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-exports.handler = (event, context, callback) => {
+exports.handler = async () => {
   const headers = {
     'X-Auth-Email': `${process.env.CLOUDFLARE_EMAIL}`,
     Authorization: `Bearer ${process.env.CLOUDFLARE_PURGE_KEY}`,
@@ -11,30 +11,22 @@ exports.handler = (event, context, callback) => {
     'Content-Type': 'application/vnd.api+json; charset=utf=8',
   };
 
-  let url = `https://api.cloudflare.com/client/v4/zones/${process.env.CLOUDFLARE_ZONE_ID}/purge_cache`;
-  let data = '{ "purge_everything": true }';
+  const CLOUDFLARE_API = `https://api.cloudflare.com/client/v4/zones/${process.env.CLOUDFLARE_ZONE_ID}/purge_cache`;
 
-  if (event.headers['x-netlify-event']) {
-    axios
-      .post(url, data, {
-        headers: headers,
-      })
-      .then((res) => {
-        callback(null, {
-          statusCode: 200,
-          headers: callbackHeaders,
-          body: JSON.stringify(res.data),
-        });
-      })
-      .catch((err) => {
-        callback(null, {
-          statusCode: 500,
-          headers: callbackHeaders,
-          body: JSON.stringify(err.message),
-        });
-      });
-  } else {
-    // TO-DO, for non-Netlify triggers
-    // may just ignore
-  }
+  axios
+    .post(CLOUDFLARE_API, '{ "purge_everything": true }', {
+      headers: headers,
+    })
+    .then((res) => {
+      return {
+        statusCode: 200,
+        body: JSON.stringify(res.data),
+      };
+    })
+    .catch((err) => {
+      return {
+        statusCode: 500,
+        body: JSON.stringify(err.message),
+      };
+    });
 };
