@@ -82,7 +82,7 @@ module.exports = {
     selector:
       ':not(picture) img[src]:not([srcset]):not([src*=".svg"]):not([data-responsiver="false"])',
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},c_limit/${src}`,
+      src.replace(site.url, `${site.url}/images/${width}`),
     runBefore: runBeforeHook,
     runAfter: runAfterHook,
     fallbackWidth: 800,
@@ -110,7 +110,7 @@ module.exports = {
   },
   diaporama: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
+      src.replace(site.url, `${site.url}/landscape/${width}`),
     fallbackWidth: 384,
     minWidth: 384, // 320 * 1.2
     maxWidth: 768, // No need for more than 2dppx
@@ -120,7 +120,7 @@ module.exports = {
   },
   thumbnail_landscape: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
+      src.replace(site.url, `${site.url}/landscape/${width}`),
     fallbackWidth: 320,
     minWidth: 320,
     maxWidth: 640, // No need for more than 2dppx
@@ -130,7 +130,7 @@ module.exports = {
   },
   thumbnail_portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_2:3,c_fill/${src}`,
+      src.replace(site.url, `${site.url}/portrait/${width}`),
     fallbackWidth: 212,
     minWidth: 212, // 320 * 0.66
     maxWidth: 424, // No need for more than 2dppx
