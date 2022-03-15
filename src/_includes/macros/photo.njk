@@ -16,7 +16,12 @@
       {% if dimensions.width %}width="{{ dimensions.width }}"{% endif %}
       {% if dimensions.height %}height="{{ dimensions.height }}"{% endif %}
       style="background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
-      {% if loading %}loading="{{ loading }}"{% endif %}
+      {% if loading %}
+        loading="{{ loading }}"
+        {% if loading == 'lazy' %}
+          decoding="async"
+        {% endif %}
+      {% endif %}
       data-responsiver="thumbnail_{{- 'portrait' if dimensions.width < dimensions.height else 'landscape' -}}"
     />
     <figcaption>
