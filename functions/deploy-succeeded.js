@@ -1,6 +1,6 @@
-import fetch from 'node-fetch';
+const fetch = require('node-fetch');
 
-exports.handler = async () => {
+exports.handler = async () =>
   fetch(
     `https://api.cloudflare.com/client/v4/zones/${process.env.CLOUDFLARE_ZONE_ID}/purge_cache`,
     {
@@ -22,15 +22,17 @@ exports.handler = async () => {
         );
       }
     })
-    .then((res) => res.json())
-    .then((json) => ({
-      statusCode: 200,
-      body: JSON.stringify(json),
-    }))
+    .then((res) => {
+      return res.json().then((json) => {
+        return {
+          statusCode: 200,
+          body: JSON.stringify(json),
+        };
+      });
+    })
     .catch((err) => {
       return {
         statusCode: 500,
-        body: JSON.stringify(err),
+        body: `Error: ${JSON.stringify(err)}`,
       };
     });
-};
