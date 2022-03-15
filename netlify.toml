@@ -3,17 +3,17 @@
   publish = "_site"
   functions = "functions"
 
-[[redirects]]
-  from = "https://nho-photo.netlify.com"
-  to = "https://nicolas-hoizey.photo"
-  status = 301
-  force = true
+# [[redirects]]
+#   from = "https://nho-photo.netlify.com"
+#   to = "https://nicolas-hoizey.photo"
+#   status = 301
+#   force = true
 
-[[redirects]]
-  from = "https://nho-photo.netlify.app"
-  to = "https://nicolas-hoizey.photo"
-  status = 301
-  force = true
+# [[redirects]]
+#   from = "https://nho-photo.netlify.app"
+#   to = "https://nicolas-hoizey.photo"
+#   status = 301
+#   force = true
 
 [[redirects]]
   from = "/images/:width/*"
