@@ -1,15 +1,15 @@
 [build]
-  command = "npm run build:netlify"
+  command = "npm run build"
   publish = "_site"
 
 [[redirects]]
-  from = "https://nicolas-hoizey-photo.netlify.com"
+  from = "https://nho-photo.netlify.com"
   to = "https://nicolas-hoizey.photo"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://nicolas-hoizey-photo.netlify.app"
+  from = "https://nho-photo.netlify.app"
   to = "https://nicolas-hoizey.photo"
   status = 301
   force = true
