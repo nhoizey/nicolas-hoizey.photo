@@ -1,6 +1,11 @@
+---
+layout: false
+permalink: _headers
+---
 /*
   X-XSS-Protection: 1;mode=block
   X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
   Referrer-Policy: no-referrer-when-downgrade
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
   X-Clacks-Overhead: GNU Terry Pratchett
@@ -23,7 +28,7 @@
   Vary: Accept-Encoding
   Cache-Control: public, max-age=604800, immutable
 
-/
+{% set documentHeaders %}
   Cache-Control: public, max-age=14405
   Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin;nopush
   Link: <https://res.cloudinary.com>;rel="dns-prefetch"
@@ -32,13 +37,8 @@
   Feature-Policy: accelerometer 'none';camera 'none';geolocation 'none';gyroscope 'none';magnetometer 'none';microphone 'none';payment 'none';usb 'none';ch-dpr 'self' https://res.cloudinary.com;ch-width 'self' https://res.cloudinary.com
   Permissions-Policy: accelerometer=(),camera=(),geolocation=(),gyroscope=(),magnetometer=(),microphone=(),payment=(),usb=(),ch-width=(self "https://res.cloudinary.com"),ch-dpr=(self "https://res.cloudinary.com")
   Accept-CH: Save-Data,DPR,Width,Sec-CH-Prefers-Reduced-Data,Sec-CH-DPR, Sec-CH-Width
+{% endset %}
 
-/*/
-  Cache-Control: public, max-age=14406
-  Link: </ui/fonts/Coniferous-Regular-subset.woff2>;rel=preload;as=font;crossorigin;nopush
-  Link: <https://res.cloudinary.com>;rel="dns-prefetch"
-  Link: <https://res.cloudinary.com>;rel="preconnect"
-  Content-Security-Policy: upgrade-insecure-requests;base-uri 'self';script-src 'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com https://static.cloudflareinsights.com;img-src 'self' nicolas-hoizey.photo nho-photo.netlify.app data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com blob: data:;object-src 'self';connect-src 'self' data.nicolas-hoizey.com nho-photo.netlify.app res.cloudinary.com https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com https://cloudflareinsights.com;worker-src blob:;child-src blob:;frame-ancestors 'none';report-uri https://nhocom.report-uri.com/r/d/csp/enforce
-  Feature-Policy: accelerometer 'none';camera 'none';geolocation 'none';gyroscope 'none';magnetometer 'none';microphone 'none';payment 'none';usb 'none';ch-dpr 'self' https://res.cloudinary.com;ch-width 'self' https://res.cloudinary.com
-  Permissions-Policy: accelerometer=(),camera=(),geolocation=(),gyroscope=(),magnetometer=(),microphone=(),payment=(),usb=(),ch-width=(self "https://res.cloudinary.com"),ch-dpr=(self "https://res.cloudinary.com")
-  Accept-CH: Save-Data,DPR,Width,Sec-CH-Prefers-Reduced-Data,Sec-CH-DPR, Sec-CH-Width
+/{{ documentHeaders | safe }}
+
+/*/{{ documentHeaders | safe }}
