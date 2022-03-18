@@ -1,5 +1,4 @@
 {% macro js(javascript, env) %}
-  {# temporary test
   {% if env == 'production' %}
     {% set criticalJs %}
     {% include_raw "_site/ui/js/" + javascript + ".js" %}
@@ -7,7 +6,7 @@
     <script>
       {{ criticalJs | replace('//# sourceMappingURL=', '//# sourceMappingURL=/ui/js/') | safe }}
     </script>
-  {% else %} #}
+  {% else %}
     <script src="/ui/js/{{ javascript }}.js"></script>
-  {# {% endif %} #}
+  {% endif %}
 {% endmacro %}

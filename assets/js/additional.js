@@ -3,6 +3,8 @@ import { getLCP, getCLS } from 'web-vitals/base';
 
 (function (window) {
   if ('_paq' in window) {
+    // Matomo is available
+
     // get device pixel ratio in dppx
     let screen_density = res.dppx();
 
@@ -46,5 +48,5 @@ function sendToMatomo({ name, value }) {
   }
 }
 
-// getCLS(sendToMatomo);
-// getLCP(sendToMatomo);
+getCLS(sendToMatomo);
+getLCP(sendToMatomo);
