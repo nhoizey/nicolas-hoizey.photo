@@ -89,9 +89,9 @@ module.exports = {
     minWidth: 360,
     maxWidth: 1600,
     sizes: '(max-width: 67rem) 90vw, 60rem',
-    attributes: {
-      crossorigin: 'anonymous',
-    },
+    // attributes: {
+    //   crossorigin: 'anonymous',
+    // },
   },
   landscape: {
     maxWidth: 3500,
