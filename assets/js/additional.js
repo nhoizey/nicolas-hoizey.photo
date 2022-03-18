@@ -2,22 +2,24 @@ import res from 'res';
 import { getLCP, getCLS } from 'web-vitals/base';
 
 (function (window) {
-  // get device pixel ratio in dppx
-  let screen_density = res.dppx();
+  if ('_paq' in window) {
+    // get device pixel ratio in dppx
+    let screen_density = res.dppx();
 
-  // get viewport width
-  // http://stackoverflow.com/a/8876069/717195
-  let viewport_width = Math.max(
-    window.document.documentElement.clientWidth,
-    window.innerWidth || 0
-  );
+    // get viewport width
+    // http://stackoverflow.com/a/8876069/717195
+    let viewport_width = Math.max(
+      window.document.documentElement.clientWidth,
+      window.innerWidth || 0
+    );
 
-  // send custom dimensions to Matomo
-  _paq.push([
-    'trackPageView',
-    document.title,
-    { dimension3: screen_density, dimension4: viewport_width },
-  ]);
+    // send custom dimensions to Matomo
+    _paq.push([
+      'trackPageView',
+      document.title,
+      { dimension3: screen_density, dimension4: viewport_width },
+    ]);
+  }
 })(window);
 
 function sendToMatomo({ name, value }) {
