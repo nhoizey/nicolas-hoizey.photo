@@ -1,5 +1,6 @@
 {% macro js(javascript, env) %}
-  {# {% if env == 'production' %}
+  {# temporary test
+  {% if env == 'production' %}
     {% set criticalJs %}
     {% include_raw "_site/ui/js/" + javascript + ".js" %}
     {% endset %}
