@@ -47,4 +47,4 @@ function sendToMatomo({ name, value }) {
 }
 
 getCLS(sendToMatomo);
-getLCP(sendToMatomo);
+// getLCP(sendToMatomo);
