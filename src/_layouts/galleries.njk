@@ -2,16 +2,16 @@
 
 {% from "macros/css.njk" import css %}
 
-{% block opengraphimage %}
+{# {% block opengraphimage %}
   {% set photos_below = collections.photos_in_galleries | photos_here_and_below(page.url) | featured(5) %}
   <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.top.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.top.after }}{%- for item in photos_below -%}/l_fetch:{%- set url = site.url + '/photos/' + item.fileSlug + '/' + item.fileSlug + '.jpg' -%}{{ url | base64 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_{{ 48 + (loop.index - 1) * 225 }}{%- endfor -%}/{{ site.opengraph.background }}" />
-{% endblock %}
+{% endblock %} #}
 
 {% block content %}
   {% from "macros/photo.njk" import photo %}
 
   {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
-  {% include 'components/json-ld/breadcrumb.njk' %}
+  {# {% include 'components/json-ld/breadcrumb.njk' %} #}
   {% include 'components/breadcrumb.njk' %}
 
   <h1 class="page__title">{{ title }}</h1>
