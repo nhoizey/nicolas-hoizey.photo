@@ -34,12 +34,12 @@
       <h2>Photos</h2>
       <ul class="gallery">
         {% for item in photos_here %}
-          {% if loop.index < 4 %}
+          {# {% if loop.index < 4 %} #}
             {# <li>{{ photo(item, "eager") }}</li> #}
             <li>{{ photo(item) }}</li>
-          {% else %}
+          {# {% else %}
             <li>{{ photo(item, "lazy") }}</li>
-          {% endif %}
+          {% endif %} #}
         {% endfor %}
       </ul>
     </section>
