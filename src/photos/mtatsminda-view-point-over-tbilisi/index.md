@@ -10,15 +10,22 @@ gear:
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
+  - APS-C
   - Caucase
   - Caucasia
   - Caucasus
   - Europa
   - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
+  - hybrid
   - Mtatsminda Plateau
   - Tbilissi
+  - zoom
   - თბილისი
   - კავკასია
   - საქართველო

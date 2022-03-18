@@ -11,6 +11,8 @@ gear:
   lens: XF10-24mmF4 R OIS
 tags:
   - APS-C
+  - Bethlehem Street
+  - Betlemi Street
   - Caucase
   - Caucasia
   - Caucasus
@@ -23,6 +25,8 @@ tags:
   - Georgia
   - Géorgie
   - hybrid
+  - Kaleidoscope House
+  - Paradnaya Kaleidoscope
   - Tbilissi
   - zoom
   - თბილისი

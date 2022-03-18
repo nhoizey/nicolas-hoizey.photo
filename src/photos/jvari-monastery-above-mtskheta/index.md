@@ -10,20 +10,27 @@ gear:
   model: X-T2
   lens: XF10-24mmF4 R OIS
 tags:
+  - APS-C
   - Caucase
   - Caucasia
   - Caucasus
   - Djvari
   - Europa
   - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
+  - hybrid
   - Jvari Monastery
   - monastère de Djvari
   - Mtskheta
   - Mtskhéta
   - Mtskheta-Mtianeti
   - mtskhéta-mtianéti
+  - zoom
   - კავკასია
   - მცხეთა
   - მცხეთა-მთიანეთი

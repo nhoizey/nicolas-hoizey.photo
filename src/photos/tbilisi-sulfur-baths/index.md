@@ -11,15 +11,22 @@ gear:
   lens: XF10-24mmF4 R OIS
 tags:
   - Abanotubani
+  - APS-C
   - bath district
   - Caucase
   - Caucasia
   - Caucasus
   - Europa
   - Europe
+  - Fujifilm
+  - Fujifilm X-T2
+  - Fujinon
+  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
+  - hybrid
   - Tbilissi
+  - zoom
   - აბანოთუბანი
   - თბილისი
   - კავკასია
