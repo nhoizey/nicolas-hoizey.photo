@@ -27,6 +27,7 @@
                     data-responsiver="diaporama"
                     {% if not loop.first %}
                       loading="lazy"
+                      fetchpriority="low"
                     {% endif %}
                     />
                 {% endfor %}

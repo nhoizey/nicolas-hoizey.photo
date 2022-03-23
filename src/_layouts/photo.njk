@@ -56,6 +56,7 @@
       {% else %}
         data-responsiver="landscape"
       {% endif %}
+      fetchpriority="high"
     />
 
     <div class="description p-content">
@@ -85,9 +86,9 @@
 
           <div id="map">
             {% if geo.map %}
-              <img src="/photos/{{ page.fileSlug }}/map.png" width="300" height="200" alt="Map showing location of “{{ title }}”{% if geo.city and geo.country %} in {{ geo.city }}, {{ geo.country }}{% endif %}" data-responsiver="photo_map" />
+              <img src="/photos/{{ page.fileSlug }}/map.png" width="300" height="200" alt="Map showing location of “{{ title }}”{% if geo.city and geo.country %} in {{ geo.city }}, {{ geo.country }}{% endif %}" fetchpriority="low" data-responsiver="photo_map" />
             {% else %}
-              <img src="https://api.mapbox.com/styles/v1/{{ map.mapbox.style }}/static/{{ geo.longitude }},{{ geo.latitude }},10/450x300?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" alt="Map showing location of “{{ title }}”{% if geo.city and geo.country %} in {{ geo.city }}, {{ geo.country }}{% endif %}" data-responsiver="false" />
+              <img src="https://api.mapbox.com/styles/v1/{{ map.mapbox.style }}/static/{{ geo.longitude }},{{ geo.latitude }},10/450x300?access_token={{ env.MAPBOX_ACCESS_TOKEN }}" crossorigin="anonymous" width="300" height="200" alt="Map showing location of “{{ title }}”{% if geo.city and geo.country %} in {{ geo.city }}, {{ geo.country }}{% endif %}" fetchpriority="low" data-responsiver="false" />
             {% endif %}
             <div class="marker-shadow"></div>
             <div class="marker"></div>
