@@ -1,7 +1,7 @@
 ---
 title: Travel dreams…
 file: travel-dreams.jpg
-date: 2019-02-26 10:02:00 +01:00
+date: 2019-02-26 11:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -63,7 +63,7 @@ Possibly Africa’s most famous ethnic group, the Maasai people are semi-nomadic
 
 According to their own oral history the Masai people originated in the Nile Valley in Northern Africa and migrated south around the 15th century with their cattle.
 
-Once considered fierce warriors and feared by all tribes in thearea, the Maasai lost much of their power in the 19th century.
+Once considered fierce warriors and feared by all tribes in the area, the Maasai lost much of their power in the 19th century.
 
 The Maasai have now adopted a more sedentary lifestyle that includes growing and buying cultivated food.
 
