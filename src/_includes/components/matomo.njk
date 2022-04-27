@@ -3,6 +3,9 @@
 <script type="text/javascript">
   var _paq = window._paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['setCustomDimension', 3, window.screen_density]);
+  _paq.push(['setCustomDimension', 4, window.viewport_width]);
+
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
