@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-exports.handler = async () =>
+exports.handler = async (event, context) =>
   fetch(
     `https://api.cloudflare.com/client/v4/zones/${process.env.CLOUDFLARE_ZONE_ID}/purge_cache`,
     {
@@ -24,6 +24,8 @@ exports.handler = async () =>
     })
     .then((res) => {
       return res.json().then((json) => {
+        console.log('🎉 Success!');
+        console.log(JSON.stringify(json));
         return {
           statusCode: 200,
           body: JSON.stringify(json),
@@ -31,6 +33,8 @@ exports.handler = async () =>
       });
     })
     .catch((err) => {
+      console.log('⚠️ Error…');
+      console.log(JSON.stringify(json));
       return {
         statusCode: 500,
         body: `Error: ${JSON.stringify(err)}`,
