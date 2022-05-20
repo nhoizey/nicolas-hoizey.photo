@@ -28,18 +28,41 @@ permalink: _headers
   Vary: Accept-Encoding
   Cache-Control: public, max-age=604800, immutable
 
-{% set cspScriptSrc = "'self' data: 'unsafe-inline' 'unsafe-eval' data.nicolas-hoizey.com https://static.cloudflareinsights.com" %}
-{% set cspImgSrc = "'self' nicolas-hoizey.photo nho-photo.netlify.app data.nicolas-hoizey.com res.cloudinary.com api.mapbox.com blob: data:" %}
-{% set cspObjectSrc = "'self'" %}
-{% set cspConnectSrc = "'self' data.nicolas-hoizey.com nho-photo.netlify.app res.cloudinary.com https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com https://cloudflareinsights.com" %}
-{% set cspWorkerSrc = "blob:" %}
-{% set cspChildSrc = "blob:" %}
-{% set cspFrameAncestors = "'none'" %} # Best default for security
+{# Default CSP directives #}
+  {% set cspScriptSrc = "'self' data: 'unsafe-inline' 'unsafe-eval'" %}
+  {% set cspImgSrc = "'self' nicolas-hoizey.photo nho-photo.netlify.app blob:" %}
+  {% set cspObjectSrc = "'self'" %}
+  {% set cspConnectSrc = "'self' nho-photo.netlify.app" %}
+  {% set cspWorkerSrc = "blob:" %}
+  {% set cspChildSrc = "blob:" %}
+  {% set cspFrameAncestors = "'none'" %} {# Best default for security #}
+{# / Default CSP directives #}
+
+{# Matomo #}
+  {% set cspScriptSrc = cspScriptSrc + " " + "data.nicolas-hoizey.com" %}
+  {% set cspImgSrc = cspImgSrc + " " + "data.nicolas-hoizey.com" %}
+  {% set cspConnectSrc = cspConnectSrc + " " + "data.nicolas-hoizey.com" %}
+{# / Matomo #}
+
+{# Cloudinary #}
+  {% set cspImgSrc = cspImgSrc + " " + "res.cloudinary.com" %}
+  {% set cspConnectSrc = cspConnectSrc + " " + "res.cloudinary.com" %}
+{# / Cloudinary #}
+
+{# Mapbox #}
+  {% set cspImgSrc = cspImgSrc + " " + "api.mapbox.com data:" %}
+  {% set cspConnectSrc = cspConnectSrc + " " + "https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com" %}
+{# / Mapbox #}
+
+{# Cloudflare #}
+  {% set cspScriptSrc = cspScriptSrc + " " + "https://static.cloudflareinsights.com" %}
+  {% set cspConnectSrc = cspConnectSrc + " " + "https://cloudflareinsights.com" %}
+{# / Cloudflare #}
 
 {# ResponsiveImageLint bookmarklet #}
-{% set cspScriptSrc = cspScriptSrc + " " + "https://ausi.github.io/respimagelint/" %}
-{% set cspChildSrc = cspChildSrc + " " + "'self' https://ausi.github.io/respimagelint/" %}
-{% set cspFrameAncestors = "'self'" %}
+  {% set cspScriptSrc = cspScriptSrc + " " + "https://ausi.github.io/respimagelint/" %}
+  {% set cspChildSrc = cspChildSrc + " " + "'self' https://ausi.github.io/respimagelint/" %}
+  {% set cspFrameAncestors = "'self'" %} {# Replace instead of appending #}
 {# / ResponsiveImageLint bookmarklet #}
 
 {% set documentHeaders %}
