@@ -1,7 +1,7 @@
 ---
 title: Inoummar agadir's Lamine
 file: inoummar-agadir-s-lamine.jpg
-date: 2011-05-06 12:05:00 +01:00
+date: 2011-05-06 13:05:00 +02:00
 dates:
   iso: 2011-05-06
   human: 6th May 2011
@@ -50,8 +50,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 30.16309714
-  longitude: -9.108833096666666
+  latitude: 30.163096666666668
+  longitude: -9.108833333333333
   map: true
 colors:
   vibrant: 180 92 36
