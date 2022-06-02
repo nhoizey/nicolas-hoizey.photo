@@ -35,7 +35,8 @@
     "debug:build": "DEBUG=Eleventy* npm run build",
     "subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/ui/fonts/",
     "matomo": "node ./_scripts/update-matomo.js",
-    "dates": "./_scripts/add-dates.sh"
+    "dates": "./_scripts/add-dates.sh",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
@@ -61,10 +62,12 @@
     "fast-glob": "^3.2.11",
     "feather-icons": "^4.28.0",
     "fraction.js": "^4.2.0",
+    "git-pull-run": "^1.0.2",
     "glyphhanger": "^5.0.0",
     "gray-matter": "^4.0.3",
     "html-entities": "^2.3.2",
     "html-minifier": "^4.0.0",
+    "husky": "^8.0.1",
     "image-size": "^1.0.1",
     "lodash": "^4.17.21",
     "majesticons": "^2.1.1",
