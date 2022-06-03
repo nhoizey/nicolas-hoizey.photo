@@ -36,7 +36,7 @@
     "subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/ui/fonts/",
     "matomo": "node ./_scripts/update-matomo.js",
     "dates": "./_scripts/add-dates.sh",
-    "prepare": "husky install"
+    "prepare": "npx husky install"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
