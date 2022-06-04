@@ -21,7 +21,7 @@ eleventyExcludeFromCollections: true
     {% set photoUrl = 'https://nicolas-hoizey.photo/photos/' + entry.fileSlug + '/feed.jpg' %}
     <entry>
       <title>{{ entry.data.title }}</title>
-      <link href="{{ absoluteEntryUrl }}?utm_source=feed_photos&amp;utm_medium=feed"/>
+      <link href="{{ absoluteEntryUrl }}"/>
       <updated>{{ entry.date | rssDate }}</updated>
       <id>{{ absoluteEntryUrl }}</id>
       <content type="html"><![CDATA[
