@@ -52,7 +52,7 @@ jobs:
 
       - name: Build 🏗️
         if: ${{ steps.vars.outputs.outdated != '' }}
-        run: npm build
+        run: npm run build
         env:
           NODE_ENV: production
 
