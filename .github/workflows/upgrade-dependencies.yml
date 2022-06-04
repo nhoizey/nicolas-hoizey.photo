@@ -63,4 +63,6 @@ jobs:
           title: 'build(deps): Upgrade NPM packages (automated)'
           branch: 'build-deps-upgrade-npm-packages-automated'
           commit-message: 'build(deps): upgrade NPM packages (automated)'
-          labels: 'type: dependencies 🔗', 'automerge 🤞'
+          labels: |
+            type: dependencies 🔗
+            automerge 🤞
