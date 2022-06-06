@@ -1,0 +1,48 @@
+---
+pagination:
+  data: collections.unique_photos
+  size: 1
+  alias: photo
+  filter:
+    - all
+  addAllPagesToCollections: false
+layout: false
+eleventyComputed:
+  title: opengraph image for “{{ photo.title }}”
+permalink: /photos/{{ photo.fileSlug }}/opengraph.html
+---
+{%- set dimensions = photo.data.origin.data.dimensions %}
+{%- set geo = photo.data.origin.data.geo %}
+{%- set colors = photo.data.origin.data.colors %}
+{%- set photoUrl = 'https://nicolas-hoizey.photo' + '/photos/' + photo.fileSlug + '/' + photo.fileSlug + '.jpg' %}
+{%- if dimensions.width < dimensions.height %}
+  {%- set resize = 'h_550' %}
+{%- else %}
+  {%- set resize = 'w_820' %}
+{%- endif %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>opengraph image shared background</title>
+    <link rel="stylesheet" href="/ui/css/components/opengraph.css" />
+  </head>
+
+  <body>
+    <div class="card" style="background-color: #{{ colors.darkMuted | bgcolor }}">
+      <div class="meta">
+        <div class="title">
+          <h1>{{ photo.data.title }}</h1>
+          {% if geo.city and geo.country %}
+            <h2 style="color: #{{ colors.darkMuted | fgcolor }}">Shot in {{ geo.city }}, {{ geo.country }}</h2>
+          {% endif %}
+        </div>
+        <img class="logo" src="/ui/logo.svg" alt="Nicolas Hoizey photography" />
+      </div>
+      <div class="content">
+        <img class="photo" src="https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_816,h_546,c_limit/{{ photoUrl }}" />
+      </div>
+    </div>
+  </body>
+</html>
