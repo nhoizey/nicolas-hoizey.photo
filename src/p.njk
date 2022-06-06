@@ -13,15 +13,6 @@ permalink: /p/{{ photo.fileSlug }}/
 ---
 <meta charset="utf-8">
 {%- if photo.data.origin %}
-  {%- set dimensions = photo.data.origin.data.dimensions %}
-  {%- set geo = photo.data.origin.data.geo %}
-  {%- set colors = photo.data.origin.data.colors %}
-  {%- set photoUrl = 'https://nicolas-hoizey.photo' + '/photos/' + photo.fileSlug + '/' + photo.fileSlug + '.jpg' %}
-  {%- if dimensions.width < dimensions.height %}
-    {%- set position = 'x_128' %}
-  {%- else %}
-    {%- set position = 'x_48' %}
-  {%- endif %}
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
 <meta name="twitter:site" content="@{{ site.author.twitter }}" />
@@ -30,7 +21,7 @@ permalink: /p/{{ photo.fileSlug }}/
 <meta name="description" property="og:description" content="{{ site.description }}" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:image" content="https://res.cloudinary.com/nho/image/upload/w_1200,h_630,c_pad,g_south,b_rgb:{{ colors.darkMuted | bgcolor }},q_auto,f_auto/{{ site.opengraph.title.left.before }}:{{ photo.data.title | clean4cloudinary }}/{{ site.opengraph.title.left.after }}/{% if geo.city and geo.country %}w_480,c_fit,co_rgb:{{ colors.darkMuted | fgcolor }},l_text:Roboto%20Condensed_30:Shot in {{ geo.city }}%252C {{ geo.country }}/{{ site.opengraph.subtitle.left.after }}/{% endif %}l_fetch:{{ photoUrl | base64 }},w_600,h_408,c_fit,bo_1px_solid_black,bo_2px_solid_white/fl_layer_apply,g_north_east,y_48,{{ position }}/resources/nho-photo-opengraph-banner" />
+<meta property="og:image" content="{{ site.url }}/photos/{{ photo.fileSlug }}/opengraph.jpg" />
 {%- endif %}
 <script>
 window.location.replace('{{ photo.url }}');
