@@ -218,7 +218,7 @@ SYNC ${photo}`);
         photoYFM.geo.map = true;
       } else {
         const photoUrl = `https://nicolas-hoizey.photo/photos/${slug}/`;
-        console.log(`  get map image`);
+        thisLog(`  get map image`);
         const browser = await puppeteer.launch({
           executablePath:
             '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
@@ -257,12 +257,12 @@ SYNC ${photo}`);
       }
 
       // Get opengraph image for the photo
-      const opengraphFile = path.join(distDir, 'opengraph.png');
+      const opengraphFile = path.join(distDir, 'opengraph.jpg');
       if (fs.existsSync(opengraphFile)) {
         photoYFM.opengraph = true;
       } else {
         const opengraphHtmlUrl = `https://nicolas-hoizey.photo/photos/${slug}/opengraph.html`;
-        console.log(`  get opengraph image`);
+        thisLog(`  get opengraph image`);
         const browser = await puppeteer.launch({
           executablePath:
             '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
@@ -280,6 +280,7 @@ SYNC ${photo}`);
         if (opengraphElement) {
           const opengraphScreenshotResult = await opengraphElement.screenshot({
             path: opengraphFile,
+            type: 'jpeg',
           });
           if (opengraphScreenshotResult) {
             photoYFM.opengraph = true;
