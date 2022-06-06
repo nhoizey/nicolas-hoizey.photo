@@ -13,7 +13,7 @@ title: Opengraph images
 }
 
 .opengraph img {
-  width: 400px;
+  width: 600px;
   height: auto;
 }
 </style>
@@ -22,6 +22,6 @@ title: Opengraph images
 
 <ul class="opengraph">
 {% for entry in collections.unique_photos %}
-  <li><a href="/photos/{{ entry.fileSlug }}/opengraph.html"><img src="/photos/{{ entry.fileSlug }}/opengraph.png" width="1200" height="630" /></a></li>
+  <li><a href="/photos/{{ entry.fileSlug }}/opengraph.html"><img src="/photos/{{ entry.fileSlug }}/opengraph.jpg" width="600" height="315" /></a></li>
 {% endfor %}
 </ul>
