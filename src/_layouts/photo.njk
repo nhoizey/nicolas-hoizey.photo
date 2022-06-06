@@ -93,7 +93,7 @@
             <div class="marker-shadow"></div>
             <div class="marker"></div>
           </div>
-          {% if geo.city and geo.country %}<p class="h-adr"><span class="p-locality">{{ geo.city }}</span>, <span class="p-country-name">{{ geo.country }}</span></p>{% endif %}
+          {% if geo.city or geo.country %}<p class="h-adr">{% if geo.city %}<span class="p-locality">{{ geo.city }}</span>{% endif %}{% if geo.city and geo.country %}, {% endif %}{% if geo.country %}<span class="p-country-name">{{ geo.country }}</span>{% endif %}</p>{% endif %}
           <p class="locate"><svg class="icon" aria-hidden="true"><use xlink:href="#map-icon" /></svg> Locate it on the <a href="/map/#13/{{ geo.latitude }}/{{ geo.longitude }}">interactive global map</a></p>
         {% endif %}
       </div>
