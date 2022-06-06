@@ -22,14 +22,22 @@ body {
 
   display: flex;
   flex-direction: row;
-  align-items: center;
-  flex-shrink: 0;
+  justify-content: space-between;
+
+  // align-items: center;
+  // flex-shrink: 0;
   gap: 0;
+
+  background-image: radial-gradient(
+    circle at bottom left,
+    #292929,
+    rgba(255, 255, 255, 0) 40%,
+    rgba(255, 255, 255, 0)
+  );
 }
 
 .meta {
   padding: 40px;
-  width: 340px;
   height: 630px;
 
   display: flex;
@@ -43,7 +51,7 @@ body {
   flex: 1;
 
   h1 {
-    margin: 0 0 20px 0;
+    margin: 40px 0;
     padding: 0;
 
     font-size: 40px;

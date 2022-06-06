@@ -1,0 +1,27 @@
+---
+layout: page
+title: Opengraph images
+---
+
+<style>
+.opengraph {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+
+  list-style: none;
+}
+
+.opengraph img {
+  width: 400px;
+  height: auto;
+}
+</style>
+
+<h1 class="page__title">{{ title }}</h1>
+
+<ul class="opengraph">
+{% for entry in collections.unique_photos %}
+  <li><a href="/photos/{{ entry.fileSlug }}/opengraph.html"><img src="/photos/{{ entry.fileSlug }}/opengraph.png" width="1200" height="630" /></a></li>
+{% endfor %}
+</ul>
