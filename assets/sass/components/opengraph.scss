@@ -24,16 +24,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
 
-  // align-items: center;
-  // flex-shrink: 0;
   gap: 0;
-
-  background-image: radial-gradient(
-    circle at bottom left,
-    #292929,
-    rgba(255, 255, 255, 0) 40%,
-    rgba(255, 255, 255, 0)
-  );
 }
 
 .meta {
