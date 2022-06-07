@@ -266,9 +266,7 @@ SYNC ${photo}`);
 
       // Check opengraph image for the photo
       const opengraphFile = path.join(distDir, 'opengraph.jpg');
-      if (fs.existsSync(opengraphFile)) {
-        photoYFM.opengraph = true;
-      } else {
+      if (!fs.existsSync(opengraphFile)) {
         thisLog(`  ⚠ opengraph image missing`);
       }
     } else {
