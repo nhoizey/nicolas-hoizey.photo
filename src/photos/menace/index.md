@@ -1,7 +1,7 @@
 ---
 title: Menace
 file: menace.jpg
-date: 2017-05-19 19:05:00 +01:00
+date: 2017-05-19 20:05:00 +02:00
 dates:
   iso: 2017-05-19
   human: 19th May 2017
@@ -47,6 +47,7 @@ geo:
   map: true
   country: France
   city: Paris
+opengraph: true
 colors:
   vibrant: 52 132 172
   darkVibrant: 4 44 84

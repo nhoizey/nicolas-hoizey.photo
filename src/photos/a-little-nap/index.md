@@ -1,7 +1,7 @@
 ---
 title: A little nap
 file: a-little-nap.jpg
-date: 2019-02-26 10:02:00 +01:00
+date: 2019-02-26 11:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -28,10 +28,10 @@ tags:
   - Maasai Mara National Reserve
   - Maasai village
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai Mara
   - Narok County
@@ -54,6 +54,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 157 100 67
   darkVibrant: 16 116 92

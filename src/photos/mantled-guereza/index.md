@@ -1,7 +1,7 @@
 ---
 title: Mantled guereza
 file: mantled-guereza.jpg
-date: 2019-02-27 18:02:00 +01:00
+date: 2019-02-27 19:02:00 +02:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -22,9 +22,9 @@ tags:
   - arbre
   - Cercopithecidae
   - cercopithécidés
-  - Colobe guéréza
-  - Colobus
-  - Colobus guereza
+  - colobe guéréza
+  - colobus
+  - colobus guereza
   - converter
   - eastern black-and-white colobus
   - Fujifilm
@@ -32,8 +32,8 @@ tags:
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
-  - Guéréza
-  - Guéréza du Kilimandjaro
+  - guéréza
+  - guéréza du Kilimandjaro
   - hybrid
   - Kenya
   - lac
@@ -42,11 +42,11 @@ tags:
   - Lake Nakuru
   - Lake Nakuru National Park
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
-  - Mantled guereza
+  - mammifères
+  - mantled guereza
   - Nakuru
   - Nakuru County
   - Old World monkey
@@ -75,6 +75,7 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
+opengraph: true
 colors:
   vibrant: 188 133 92
   darkVibrant: 32 78 124

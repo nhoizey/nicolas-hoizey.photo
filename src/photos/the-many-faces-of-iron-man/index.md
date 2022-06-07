@@ -1,7 +1,7 @@
 ---
 title: The many faces of Iron Man
 file: the-many-faces-of-iron-man.jpg
-date: 2015-08-15 12:08:00 +01:00
+date: 2015-08-15 13:08:00 +02:00
 dates:
   iso: 2015-08-15
   human: 15th August 2015
@@ -44,6 +44,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 124 100 59
   darkVibrant: 118 23 32

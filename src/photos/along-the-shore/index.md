@@ -1,7 +1,7 @@
 ---
 title: Along the shore
 file: along-the-shore.jpg
-date: 2009-05-15 21:05:00 +01:00
+date: 2009-05-15 22:05:00 +02:00
 dates:
   iso: 2009-05-15
   human: 15th May 2009
@@ -51,6 +51,7 @@ geo:
   map: true
   country: France
   city: Bénodet
+opengraph: true
 colors:
   vibrant: 25 115 174
   darkVibrant: 5 72 114

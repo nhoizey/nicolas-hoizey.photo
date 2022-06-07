@@ -1,7 +1,7 @@
 ---
 title: Small break with the protection of the shade of the tree
 file: small-break-with-the-protection-of-the-shade-of-the-tree.jpg
-date: 2019-02-26 11:02:00 +01:00
+date: 2019-02-26 12:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -44,6 +44,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 210 147 16
   darkVibrant: 39 34 12

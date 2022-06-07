@@ -1,7 +1,7 @@
 ---
 title: In the starting blocks for the men's 110m hurdles
 file: in-the-starting-blocks-for-the-men-s-110m-hurdles.jpg
-date: 2018-05-13 14:05:00 +01:00
+date: 2018-05-13 15:05:00 +02:00
 dates:
   iso: 2018-05-13
   human: 13th May 2018
@@ -47,6 +47,7 @@ geo:
   map: true
   country: France
   city: Montgeron
+opengraph: true
 colors:
   vibrant: 52 144 210
   darkVibrant: 153 19 20

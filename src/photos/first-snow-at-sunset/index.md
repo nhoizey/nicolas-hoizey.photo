@@ -1,7 +1,7 @@
 ---
 title: First snow at sunset
 file: first-snow-at-sunset.jpg
-date: 2012-12-08 17:12:00 +01:00
+date: 2012-12-08 18:12:00 +02:00
 dates:
   iso: 2012-12-08
   human: 8th December 2012
@@ -54,6 +54,9 @@ geo:
   latitude: 52.13452460166667
   longitude: 5.534147773333333
   map: true
+  country: The Netherlands
+  city: Achterveld
+opengraph: true
 colors:
   vibrant: 234 109 66
   darkVibrant: 40 61 100

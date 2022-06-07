@@ -1,7 +1,7 @@
 ---
 title: Muscles
 file: muscles.jpg
-date: 2015-05-23 13:05:00 +01:00
+date: 2015-05-23 14:05:00 +02:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -43,8 +43,9 @@ geo:
   latitude: 40.688695
   longitude: -73.980485
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 226 48 6
   darkVibrant: 138 28 11

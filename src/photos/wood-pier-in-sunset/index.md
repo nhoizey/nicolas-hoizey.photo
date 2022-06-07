@@ -1,7 +1,7 @@
 ---
 title: Wood pier in sunset
 file: wood-pier-in-sunset.jpg
-date: 2004-06-12 21:06:00 +01:00
+date: 2004-06-12 22:06:00 +02:00
 dates:
   iso: 2004-06-12
   human: 12th June 2004
@@ -52,6 +52,7 @@ geo:
   map: true
   country: France
   city: Le Tréport
+opengraph: true
 colors:
   vibrant: 209 153 134
   darkVibrant: 9 118 110

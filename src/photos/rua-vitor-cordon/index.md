@@ -1,7 +1,7 @@
 ---
 title: Rua Vítor Cordon
 file: rua-vitor-cordon.jpg
-date: 2016-10-01 08:10:00 +01:00
+date: 2016-10-01 09:10:00 +02:00
 dates:
   iso: 2016-10-01
   human: 1st October 2016
@@ -46,6 +46,7 @@ geo:
   map: true
   country: Portugal
   city: Lisboa
+opengraph: true
 colors:
   vibrant: 54 71 143
   darkVibrant: 108 72 23

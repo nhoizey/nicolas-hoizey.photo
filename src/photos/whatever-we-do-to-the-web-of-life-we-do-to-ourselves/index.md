@@ -1,7 +1,7 @@
 ---
 title: Whatever we do to the web of life, we do to ourselves
 file: whatever-we-do-to-the-web-of-life-we-do-to-ourselves.jpg
-date: 2015-05-23 18:05:00 +01:00
+date: 2015-05-23 19:05:00 +02:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -68,8 +68,9 @@ geo:
   latitude: 40.70337833333333
   longitude: -73.993505
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 76 148 182
   darkVibrant: 41 69 105

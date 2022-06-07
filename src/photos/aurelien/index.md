@@ -1,7 +1,7 @@
 ---
 title: Aurélien
 file: aurelien.jpg
-date: 2016-01-26 21:01:00 +01:00
+date: 2016-01-26 22:01:00 +02:00
 dates:
   iso: 2016-01-26
   human: 26th January 2016
@@ -41,6 +41,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 59 111 145
   darkVibrant: 32 70 95

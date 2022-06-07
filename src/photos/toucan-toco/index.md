@@ -1,7 +1,7 @@
 ---
 title: Toucan toco
 file: toucan-toco.jpg
-date: 2008-05-11 14:05:00 +01:00
+date: 2008-05-11 15:05:00 +02:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -56,8 +56,9 @@ geo:
   latitude: 51.95707945
   longitude: 5.591682956666666
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Rhenen
+opengraph: true
 colors:
   vibrant: 239 177 5
   darkVibrant: 159 42 4

@@ -1,7 +1,7 @@
 ---
 title: Winter is coming…
 file: winter-is-coming.jpg
-date: 2014-02-14 10:02:00 +01:00
+date: 2014-02-14 11:02:00 +02:00
 dates:
   iso: 2014-02-14
   human: 14th February 2014
@@ -33,6 +33,7 @@ geo:
   map: true
   country: France
   city: Les Allues
+opengraph: true
 colors:
   vibrant: 116 68 44
   darkVibrant: 94 57 38

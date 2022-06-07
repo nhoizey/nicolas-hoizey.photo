@@ -1,7 +1,7 @@
 ---
 title: Diani Beach
 file: diani-beach.jpg
-date: 2019-03-06 12:03:00 +01:00
+date: 2019-03-06 13:03:00 +02:00
 dates:
   iso: 2019-03-06
   human: 6th March 2019
@@ -60,6 +60,7 @@ geo:
   map: true
   country: Kenya
   city: Kwale
+opengraph: true
 colors:
   vibrant: 35 203 223
   darkVibrant: 5 57 172

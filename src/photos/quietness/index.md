@@ -1,7 +1,7 @@
 ---
 title: Quietness
 file: quietness.jpg
-date: 2018-08-05 15:08:00 +01:00
+date: 2018-08-05 16:08:00 +02:00
 dates:
   iso: 2018-08-05
   human: 5th August 2018
@@ -49,6 +49,7 @@ geo:
   map: true
   country: France
   city: Saint-Rémy-l'Honoré
+opengraph: true
 colors:
   vibrant: 39 159 223
   darkVibrant: 21 80 122

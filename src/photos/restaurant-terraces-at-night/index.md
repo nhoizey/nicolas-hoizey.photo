@@ -1,7 +1,7 @@
 ---
 title: Restaurant terraces at night
 file: restaurant-terraces-at-night.jpg
-date: 2018-08-12 20:08:00 +01:00
+date: 2018-08-12 21:08:00 +02:00
 dates:
   iso: 2018-08-12
   human: 12th August 2018
@@ -43,6 +43,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 228 161 27
   darkVibrant: 124 57 6

@@ -1,7 +1,7 @@
 ---
 title: Find your way
 file: find-your-way.jpg
-date: 2017-05-12 14:05:00 +01:00
+date: 2017-05-12 15:05:00 +02:00
 dates:
   iso: 2017-05-12
   human: 12th May 2017
@@ -55,7 +55,8 @@ geo:
   latitude: 41.906585228333334
   longitude: 12.455174858333333
   map: true
-  country: Italie
+  country: Vatican City
+opengraph: true
 colors:
   vibrant: 182 133 56
   darkVibrant: 148 92 4

@@ -1,7 +1,7 @@
 ---
 title: Sweet colors
 file: sweet-colors.jpg
-date: 2021-12-12 18:12:00 +01:00
+date: 2021-12-12 19:12:00 +02:00
 dates:
   iso: 2021-12-12
   human: 12th December 2021
@@ -52,6 +52,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 237 190 19
   darkVibrant: 13 126 183

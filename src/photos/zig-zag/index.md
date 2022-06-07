@@ -1,7 +1,7 @@
 ---
 title: Zig zag
 file: zig-zag.jpg
-date: 2009-01-30 22:01:00 +01:00
+date: 2009-01-30 23:01:00 +02:00
 dates:
   iso: 2009-01-30
   human: 30th January 2009
@@ -46,6 +46,8 @@ geo:
   longitude: 2.3518114
   map: true
   country: France
+  city: Paris
+opengraph: true
 colors:
   vibrant: 227 179 28
   darkVibrant: 48 38 6

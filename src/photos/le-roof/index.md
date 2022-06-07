@@ -1,7 +1,7 @@
 ---
 title: Le Roof
 file: le-roof.jpg
-date: 2013-04-03 12:04:00 +01:00
+date: 2013-04-03 13:04:00 +02:00
 dates:
   iso: 2013-04-03
   human: 3rd April 2013
@@ -42,8 +42,9 @@ geo:
   latitude: -22.304684938333335
   longitude: 166.44731622333333
   map: true
-  country: Nouvelle-Calédonie
+  country: New Caledonia
   city: Nouméa
+opengraph: true
 colors:
   vibrant: 58 114 179
   darkVibrant: 19 91 139

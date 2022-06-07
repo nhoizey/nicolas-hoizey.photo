@@ -1,7 +1,7 @@
 ---
 title: One hope
 file: one-hope.jpg
-date: 2018-02-01 00:02:00 +01:00
+date: 2018-02-01 01:02:00 +02:00
 dates:
   iso: 2018-02-01
   human: 1st February 2018
@@ -49,6 +49,7 @@ geo:
   map: true
   country: France
   city: Lyon
+opengraph: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

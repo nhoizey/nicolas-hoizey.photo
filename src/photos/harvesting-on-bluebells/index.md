@@ -1,7 +1,7 @@
 ---
 title: Harvesting on bluebells
 file: harvesting-on-bluebells.jpg
-date: 2008-06-14 13:06:00 +01:00
+date: 2008-06-14 14:06:00 +02:00
 dates:
   iso: 2008-06-14
   human: 14th June 2008
@@ -50,6 +50,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 144 86 190
   darkVibrant: 118 74 24

@@ -1,7 +1,7 @@
 ---
 title: À l'épée Royale
 file: a-l-epee-royale.jpg
-date: 2013-08-14 14:08:00 +01:00
+date: 2013-08-14 15:08:00 +02:00
 dates:
   iso: 2013-08-14
   human: 14th August 2013
@@ -41,6 +41,7 @@ geo:
   map: true
   country: France
   city: Élancourt
+opengraph: true
 colors:
   vibrant: 194 138 47
   darkVibrant: 7 15 75

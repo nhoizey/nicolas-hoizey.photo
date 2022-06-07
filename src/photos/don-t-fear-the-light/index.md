@@ -1,7 +1,7 @@
 ---
 title: Don't fear the light
 file: don-t-fear-the-light.jpg
-date: 2004-12-27 17:12:00 +01:00
+date: 2004-12-27 18:12:00 +02:00
 dates:
   iso: 2004-12-27
   human: 27th December 2004
@@ -44,8 +44,9 @@ geo:
   latitude: 51.978883333333336
   longitude: 5.913263333333333
   map: true
-  country: Netherlands
+  country: The Netherlands
   city: Arnhem
+opengraph: true
 colors:
   vibrant: 215 189 52
   darkVibrant: 131 112 8

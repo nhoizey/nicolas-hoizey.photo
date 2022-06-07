@@ -1,7 +1,7 @@
 ---
 title: Proud Maasai
 file: proud-maasai.jpg
-date: 2019-02-26 10:02:00 +01:00
+date: 2019-02-26 11:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -47,6 +47,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 208 16 54
   darkVibrant: 117 7 24

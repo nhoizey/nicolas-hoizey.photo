@@ -1,7 +1,7 @@
 ---
 title: Mtatsminda view point over Tbilisi
 file: mtatsminda-view-point-over-tbilisi.jpg
-date: 2018-08-11 18:08:00 +01:00
+date: 2018-08-11 19:08:00 +02:00
 dates:
   iso: 2018-08-11
   human: 11th August 2018
@@ -44,6 +44,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 193 214 41
   darkVibrant: 47 52 10

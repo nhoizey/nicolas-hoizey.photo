@@ -1,7 +1,7 @@
 ---
 title: Mud lover
 file: mud-lover.jpg
-date: 2008-05-11 12:05:00 +01:00
+date: 2008-05-11 13:05:00 +02:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -22,10 +22,10 @@ tags:
   - Europa
   - Europe
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - mud
   - Nederland
   - Ouwehands Dierenpark
@@ -47,8 +47,9 @@ geo:
   latitude: 51.958405813333336
   longitude: 5.589261265
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Rhenen
+opengraph: true
 colors:
   vibrant: 173 131 73
   darkVibrant: 92 63 34

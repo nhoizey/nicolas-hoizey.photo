@@ -1,7 +1,7 @@
 ---
 title: Silvery-cheeked Hornbill couple
 file: silvery-cheeked-hornbill-couple.jpg
-date: 2019-03-04 17:03:00 +01:00
+date: 2019-03-04 18:03:00 +02:00
 dates:
   iso: 2019-03-04
   human: 4th March 2019
@@ -60,6 +60,7 @@ geo:
   map: true
   country: Kenya
   city: Kwale
+opengraph: true
 colors:
   vibrant: 174 190 31
   darkVibrant: 93 107 8

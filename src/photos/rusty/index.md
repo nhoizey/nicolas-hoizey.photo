@@ -1,7 +1,7 @@
 ---
 title: Rusty
 file: rusty.jpg
-date: 2008-08-24 15:08:00 +01:00
+date: 2008-08-24 16:08:00 +02:00
 dates:
   iso: 2008-08-24
   human: 24th August 2008
@@ -36,6 +36,8 @@ geo:
   longitude: -0.09877974333333334
   map: true
   country: France
+  city: Cabourg
+opengraph: true
 colors:
   vibrant: 151 81 35
   darkVibrant: 76 44 12

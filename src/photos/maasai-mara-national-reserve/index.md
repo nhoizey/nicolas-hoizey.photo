@@ -1,7 +1,7 @@
 ---
 title: Maasai Mara National Reserve
 file: maasai-mara-national-reserve.jpg
-date: 2019-02-26 07:02:00 +01:00
+date: 2019-02-26 08:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -42,6 +42,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 19 142 204
   darkVibrant: 4 103 168

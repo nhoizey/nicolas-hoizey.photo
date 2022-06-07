@@ -1,7 +1,7 @@
 ---
 title: Looking up
 file: looking-up.jpg
-date: 2016-09-30 14:09:00 +01:00
+date: 2016-09-30 15:09:00 +02:00
 dates:
   iso: 2016-09-30
   human: 30th September 2016
@@ -46,6 +46,7 @@ geo:
   map: true
   country: Portugal
   city: Sintra
+opengraph: true
 colors:
   vibrant: 187 129 66
   darkVibrant: 4 36 76

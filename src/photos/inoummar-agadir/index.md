@@ -1,7 +1,7 @@
 ---
 title: Inoummar agadir
 file: inoummar-agadir.jpg
-date: 2011-05-06 12:05:00 +01:00
+date: 2011-05-06 13:05:00 +02:00
 dates:
   iso: 2011-05-06
   human: 6th May 2011
@@ -50,7 +50,9 @@ geo:
   latitude: 30.163077533333333
   longitude: -9.108960711666667
   map: true
-  country: Maroc
+  country: Morocco
+  city: Tassegdelt
+opengraph: true
 colors:
   vibrant: 220 188 35
   darkVibrant: 95 58 35

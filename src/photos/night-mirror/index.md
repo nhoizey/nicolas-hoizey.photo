@@ -1,7 +1,7 @@
 ---
 title: Night mirror
 file: night-mirror.jpg
-date: 2010-08-07 22:08:00 +01:00
+date: 2010-08-07 23:08:00 +02:00
 dates:
   iso: 2010-08-07
   human: 7th August 2010
@@ -34,6 +34,7 @@ geo:
   map: true
   country: France
   city: Bordeaux
+opengraph: true
 colors:
   vibrant: 228 104 52
   darkVibrant: 151 70 16

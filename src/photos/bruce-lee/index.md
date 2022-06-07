@@ -1,7 +1,7 @@
 ---
 title: Bruce Lee
 file: bruce-lee.jpg
-date: 2015-08-09 11:08:00 +01:00
+date: 2015-08-09 12:08:00 +02:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -40,6 +40,7 @@ geo:
   map: true
   country: Hong Kong
   city: Yau Tsim Mong District
+opengraph: true
 colors:
   vibrant: 59 108 135
   darkVibrant: 4 76 148

@@ -1,7 +1,7 @@
 ---
 title: Stairz
 file: stairz.jpg
-date: 2009-01-30 22:01:00 +01:00
+date: 2009-01-30 23:01:00 +02:00
 dates:
   iso: 2009-01-30
   human: 30th January 2009
@@ -54,6 +54,8 @@ geo:
   longitude: 2.351757158333333
   map: true
   country: France
+  city: Paris
+opengraph: true
 colors:
   vibrant: 20 151 232
   darkVibrant: 111 22 7

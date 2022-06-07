@@ -1,7 +1,7 @@
 ---
 title: Biohazard
 file: biohazard.jpg
-date: 2021-11-30 22:11:00 +01:00
+date: 2021-11-30 23:11:00 +02:00
 dates:
   iso: 2021-11-30
   human: 30th November 2021
@@ -55,6 +55,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 240 174 23
   darkVibrant: 144 74 26

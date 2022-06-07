@@ -1,7 +1,7 @@
 ---
 title: South New Caledonia
 file: south-new-caledonia.jpg
-date: 2013-03-30 16:03:00 +01:00
+date: 2013-03-30 17:03:00 +02:00
 dates:
   iso: 2013-03-30
   human: 30th March 2013
@@ -44,7 +44,9 @@ geo:
   latitude: -22.286294143333333
   longitude: 166.64571112833335
   map: true
-  country: Nouvelle-Calédonie
+  country: France
+  city: Le Mont-Dore
+opengraph: true
 colors:
   vibrant: 72 122 168
   darkVibrant: 33 33 4

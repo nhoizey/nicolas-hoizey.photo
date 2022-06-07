@@ -1,7 +1,7 @@
 ---
 title: New York Lovers
 file: new-york-lovers.jpg
-date: 2015-05-21 10:05:00 +01:00
+date: 2015-05-21 11:05:00 +02:00
 dates:
   iso: 2015-05-21
   human: 21st May 2015
@@ -68,8 +68,9 @@ geo:
   latitude: 40.74919166666667
   longitude: -74.003730555
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 212 134 10
   darkVibrant: 4 116 161

@@ -1,7 +1,7 @@
 ---
 title: Brooklyn Bridge web of cables
 file: brooklyn-bridge-web-of-cables.jpg
-date: 2015-05-23 18:05:00 +01:00
+date: 2015-05-23 19:05:00 +02:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -67,8 +67,9 @@ geo:
   latitude: 40.70494166666667
   longitude: -73.99552333333334
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 181 106 57
   darkVibrant: 41 4 5

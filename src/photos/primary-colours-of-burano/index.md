@@ -1,7 +1,7 @@
 ---
 title: Primary colours of Burano
 file: primary-colours-of-burano.jpg
-date: 2008-04-26 15:04:00 +01:00
+date: 2008-04-26 16:04:00 +02:00
 dates:
   iso: 2008-04-26
   human: 26th April 2008
@@ -43,8 +43,9 @@ geo:
   latitude: 45.486125
   longitude: 12.416272221666667
   map: true
-  country: Italie
-  city: Venezia
+  country: Italy
+  city: Burano
+opengraph: true
 colors:
   vibrant: 11 127 180
   darkVibrant: 123 35 23

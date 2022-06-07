@@ -1,7 +1,7 @@
 ---
 title: Breathtaking Brooklyn Bridge night panorama
 file: breathtaking-brooklyn-bridge-night-panorama.jpg
-date: 2015-05-23 21:05:00 +01:00
+date: 2015-05-23 22:05:00 +02:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -86,8 +86,9 @@ geo:
   latitude: 40.70333333333333
   longitude: -73.99638833333333
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 213 80 42
   darkVibrant: 96 36 19

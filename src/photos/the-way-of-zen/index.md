@@ -1,7 +1,7 @@
 ---
 title: The Way of Zen
 file: the-way-of-zen.jpg
-date: 2015-08-08 15:08:00 +01:00
+date: 2015-08-08 16:08:00 +02:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -47,6 +47,7 @@ geo:
   map: true
   country: Hong Kong
   city: Central and Western
+opengraph: true
 colors:
   vibrant: 165 165 62
   darkVibrant: 108 111 43

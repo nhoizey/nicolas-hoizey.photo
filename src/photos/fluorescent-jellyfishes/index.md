@@ -1,7 +1,7 @@
 ---
 title: Fluorescent Jellyfishes
 file: fluorescent-jellyfishes.jpg
-date: 2008-05-11 09:05:00 +01:00
+date: 2008-05-11 10:05:00 +02:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -44,8 +44,9 @@ geo:
   latitude: 51.95771708833333
   longitude: 5.590241996666666
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Rhenen
+opengraph: true
 colors:
   vibrant: 25 84 212
   darkVibrant: 4 20 133

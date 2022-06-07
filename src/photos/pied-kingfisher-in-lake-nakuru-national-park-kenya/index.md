@@ -1,7 +1,7 @@
 ---
 title: Pied Kingfisher in Lake Nakuru National Park, Kenya
 file: pied-kingfisher-in-lake-nakuru-national-park-kenya.jpg
-date: 2019-02-27 17:02:00 +01:00
+date: 2019-02-27 18:02:00 +02:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -61,6 +61,7 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
+opengraph: true
 colors:
   vibrant: 121 160 205
   darkVibrant: 36 64 97

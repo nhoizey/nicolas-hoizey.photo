@@ -1,7 +1,7 @@
 ---
 title: A peaceful canal in Venice
 file: a-peaceful-canal-in-venice.jpg
-date: 2008-04-25 16:04:00 +01:00
+date: 2008-04-25 17:04:00 +02:00
 dates:
   iso: 2008-04-25
   human: 25th April 2008
@@ -41,8 +41,9 @@ geo:
   latitude: 45.439625
   longitude: 12.341188888333333
   map: true
-  country: Italie
-  city: Venezia
+  country: Italy
+  city: Venice
+opengraph: true
 colors:
   vibrant: 74 143 191
   darkVibrant: 89 38 11

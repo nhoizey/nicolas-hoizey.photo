@@ -1,7 +1,7 @@
 ---
 title: The threat
 file: the-threat.jpg
-date: 2017-05-19 20:05:00 +01:00
+date: 2017-05-19 21:05:00 +02:00
 dates:
   iso: 2017-05-19
   human: 19th May 2017
@@ -48,6 +48,7 @@ geo:
   map: true
   country: France
   city: Paris
+opengraph: true
 colors:
   vibrant: 33 111 163
   darkVibrant: 4 81 134

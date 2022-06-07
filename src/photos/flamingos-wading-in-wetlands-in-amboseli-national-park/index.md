@@ -1,7 +1,7 @@
 ---
 title: Flamingos wading in wetlands in Amboseli National Park
 file: flamingos-wading-in-wetlands-in-amboseli-national-park.jpg
-date: 2019-03-01 07:03:00 +01:00
+date: 2019-03-01 08:03:00 +02:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -59,6 +59,7 @@ geo:
   map: true
   country: Kenya
   city: Entonet
+opengraph: true
 colors:
   vibrant: 185 124 84
   darkVibrant: 99 81 40

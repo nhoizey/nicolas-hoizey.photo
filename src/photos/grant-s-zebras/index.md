@@ -1,7 +1,7 @@
 ---
 title: Grant's zebras
 file: grant-s-zebras.jpg
-date: 2019-02-28 17:02:00 +01:00
+date: 2019-02-28 18:02:00 +02:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -17,10 +17,10 @@ tags:
   - animal
   - animalière
   - APS-C
-  - Equidae
-  - Équidés
-  - Equus quagga
-  - Equus quagga bohemi
+  - equidae
+  - équidés
+  - equus quagga
+  - equus quagga bohemi
   - Fujifilm
   - Fujifilm X-T2
   - Fujinon
@@ -28,32 +28,32 @@ tags:
   - Grant's zebra
   - horse family
   - hybrid
-  - Imparidigités
+  - imparidigités
   - Kajiado
   - Kenya
   - Kilimanjaro
   - landscape
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - montagne
   - Mount Kilimanjaro
   - mountain
   - National Park
-  - Odd-toed ungulate
+  - odd-toed ungulate
   - Parc national d'Amboseli
   - paysage
-  - Perissodactyla
-  - Périssodactyles
+  - perissodactyla
+  - périssodactyles
   - plains zebra
   - prime
   - volcan
   - volcano
   - zèbre de Burchell
-  - Zèbre de Grant
-  - Zèbre des plaines
+  - zèbre de Grant
+  - zèbre des plaines
 settings:
   focal_length: 56
   focal_length_35mm: 84
@@ -69,6 +69,7 @@ geo:
   map: true
   country: Kenya
   city: Kajiado
+opengraph: true
 colors:
   vibrant: 4 129 190
   darkVibrant: 4 120 178

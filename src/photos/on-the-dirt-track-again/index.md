@@ -1,7 +1,7 @@
 ---
 title: On the dirt track again
 file: on-the-dirt-track-again.jpg
-date: 2019-03-02 12:03:00 +01:00
+date: 2019-03-02 13:03:00 +02:00
 dates:
   iso: 2019-03-02
   human: 2nd March 2019
@@ -50,6 +50,7 @@ geo:
   map: true
   country: Kenya
   city: Kwale
+opengraph: true
 colors:
   vibrant: 197 108 68
   darkVibrant: 116 68 36

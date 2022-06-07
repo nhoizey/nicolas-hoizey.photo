@@ -1,7 +1,7 @@
 ---
 title: Let's go for a ride
 file: let-s-go-for-a-ride.jpg
-date: 2015-08-13 14:08:00 +01:00
+date: 2015-08-13 15:08:00 +02:00
 dates:
   iso: 2015-08-13
   human: 13th August 2015
@@ -59,6 +59,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 235 102 44
   darkVibrant: 161 85 12

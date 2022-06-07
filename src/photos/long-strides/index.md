@@ -1,7 +1,7 @@
 ---
 title: Long strides
 file: long-strides.jpg
-date: 2018-05-13 16:05:00 +01:00
+date: 2018-05-13 17:05:00 +02:00
 dates:
   iso: 2018-05-13
   human: 13th May 2018
@@ -47,6 +47,7 @@ geo:
   map: true
   country: France
   city: Montgeron
+opengraph: true
 colors:
   vibrant: 196 75 59
   darkVibrant: 156 10 97

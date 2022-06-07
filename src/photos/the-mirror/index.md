@@ -1,7 +1,7 @@
 ---
 title: The mirror
 file: the-mirror.jpg
-date: 2014-07-12 12:07:00 +01:00
+date: 2014-07-12 13:07:00 +02:00
 dates:
   iso: 2014-07-12
   human: 12th July 2014
@@ -46,8 +46,9 @@ geo:
   latitude: 52.011363888333335
   longitude: 5.907791666666666
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Arnhem
+opengraph: true
 colors:
   vibrant: 44 132 172
   darkVibrant: 122 136 42

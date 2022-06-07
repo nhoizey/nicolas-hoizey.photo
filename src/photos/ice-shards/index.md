@@ -1,7 +1,7 @@
 ---
 title: Ice shards
 file: ice-shards.jpg
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 16:02:00 +02:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -47,8 +47,8 @@ geo:
   latitude: 59.45694460833333
   longitude: 18.299465586666667
   map: true
-  country: Suède
-  city: Åkersberga
+  country: Sweden
+opengraph: true
 colors:
   vibrant: 106 131 188
   darkVibrant: 108 108 36

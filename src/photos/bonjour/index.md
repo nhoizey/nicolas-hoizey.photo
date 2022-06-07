@@ -1,7 +1,7 @@
 ---
 title: Bonjour
 file: bonjour.jpg
-date: 2015-08-15 14:08:00 +01:00
+date: 2015-08-15 15:08:00 +02:00
 dates:
   iso: 2015-08-15
   human: 15th August 2015
@@ -48,6 +48,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 244 4 4
   darkVibrant: 127 5 4

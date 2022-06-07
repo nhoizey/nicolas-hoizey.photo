@@ -1,7 +1,7 @@
 ---
 title: 40°C? No problem…
 file: 40-c-no-problem.jpg
-date: 2019-02-28 17:02:00 +01:00
+date: 2019-02-28 18:02:00 +02:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -42,6 +42,7 @@ geo:
   map: true
   country: Kenya
   city: Kajiado
+opengraph: true
 colors:
   vibrant: 76 108 188
   darkVibrant: 89 22 21

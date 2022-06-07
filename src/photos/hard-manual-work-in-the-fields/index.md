@@ -1,7 +1,7 @@
 ---
 title: Hard manual work in the fields
 file: hard-manual-work-in-the-fields.jpg
-date: 2019-02-27 11:02:00 +01:00
+date: 2019-02-27 12:02:00 +02:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -37,6 +37,7 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
+opengraph: true
 colors:
   vibrant: 63 102 139
   darkVibrant: 76 68 12

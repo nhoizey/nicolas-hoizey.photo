@@ -1,7 +1,7 @@
 ---
 title: Elephants family in Maasai Mara
 file: elephants-family-in-maasai-mara.jpg
-date: 2019-02-25 17:02:00 +01:00
+date: 2019-02-25 18:02:00 +02:00
 dates:
   iso: 2019-02-25
   human: 25th February 2019
@@ -28,10 +28,10 @@ tags:
   - Maasai
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai Mara
   - Narok County
@@ -53,6 +53,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 5 99 157
   darkVibrant: 6 79 130

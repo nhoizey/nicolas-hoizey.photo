@@ -1,7 +1,7 @@
 ---
 title: Down to the sky
 file: down-to-the-sky.jpg
-date: 2018-08-05 15:08:00 +01:00
+date: 2018-08-05 16:08:00 +02:00
 dates:
   iso: 2018-08-05
   human: 5th August 2018
@@ -56,6 +56,7 @@ geo:
   map: true
   country: France
   city: Saint-Rémy-l'Honoré
+opengraph: true
 colors:
   vibrant: 6 122 187
   darkVibrant: 4 89 143

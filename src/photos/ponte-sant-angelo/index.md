@@ -1,7 +1,7 @@
 ---
 title: Ponte Sant'Angelo
 file: ponte-sant-angelo.jpg
-date: 2017-05-14 09:05:00 +01:00
+date: 2017-05-14 10:05:00 +02:00
 dates:
   iso: 2017-05-14
   human: 14th May 2017
@@ -45,8 +45,9 @@ geo:
   latitude: 41.90217
   longitude: 12.471513333333334
   map: true
-  country: Italie
-  city: Roma
+  country: Italy
+  city: Rome
+opengraph: true
 colors:
   vibrant: 92 140 180
   darkVibrant: 122 43 56

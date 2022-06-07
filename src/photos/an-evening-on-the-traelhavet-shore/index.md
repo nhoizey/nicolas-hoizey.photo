@@ -1,7 +1,7 @@
 ---
 title: An evening on the Trälhavet shore
 file: an-evening-on-the-traelhavet-shore.jpg
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 16:02:00 +02:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -47,8 +47,9 @@ geo:
   latitude: 59.456760935
   longitude: 18.299222176666667
   map: true
-  country: Suède
+  country: Sweden
   city: Åkersberga
+opengraph: true
 colors:
   vibrant: 51 126 190
   darkVibrant: 28 69 105

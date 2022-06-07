@@ -1,7 +1,7 @@
 ---
 title: Dave Holland & Prism at Blue Note Jazz Club
 file: dave-holland-and-prism-at-blue-note-jazz-club.jpg
-date: 2015-05-21 22:05:00 +01:00
+date: 2015-05-21 23:05:00 +02:00
 dates:
   iso: 2015-05-21
   human: 21st May 2015
@@ -64,8 +64,9 @@ geo:
   latitude: 40.73104
   longitude: -74.00059833333333
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 173 16 233
   darkVibrant: 6 42 112

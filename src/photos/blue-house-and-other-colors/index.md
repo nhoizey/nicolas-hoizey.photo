@@ -1,7 +1,7 @@
 ---
 title: Blue House, and other colors
 file: blue-house-and-other-colors.jpg
-date: 2015-08-09 16:08:00 +01:00
+date: 2015-08-09 17:08:00 +02:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -57,6 +57,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 187 52 134
   darkVibrant: 91 17 34

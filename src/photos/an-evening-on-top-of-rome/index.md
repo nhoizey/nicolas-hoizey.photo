@@ -1,7 +1,7 @@
 ---
 title: An evening on top of Rome
 file: an-evening-on-top-of-rome.jpg
-date: 2017-05-12 19:05:00 +01:00
+date: 2017-05-12 20:05:00 +02:00
 dates:
   iso: 2017-05-12
   human: 12th May 2017
@@ -38,8 +38,9 @@ geo:
   latitude: 41.89773955
   longitude: 12.477814515
   map: true
-  country: Italie
+  country: Italy
   city: Rome
+opengraph: true
 colors:
   vibrant: 68 128 181
   darkVibrant: 4 63 118

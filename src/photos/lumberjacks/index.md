@@ -1,7 +1,7 @@
 ---
 title: Lumberjacks
 file: lumberjacks.jpg
-date: 2021-12-01 00:12:00 +01:00
+date: 2021-12-01 01:12:00 +02:00
 dates:
   iso: 2021-12-01
   human: 1st December 2021
@@ -45,6 +45,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 217 177 5
   darkVibrant: 68 28 4

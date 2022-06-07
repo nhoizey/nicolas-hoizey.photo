@@ -1,7 +1,7 @@
 ---
 title: Joinville
 file: joinville.jpg
-date: 2020-10-17 14:10:00 +01:00
+date: 2020-10-17 15:10:00 +02:00
 dates:
   iso: 2020-10-17
   human: 17th October 2020
@@ -39,6 +39,7 @@ geo:
   map: true
   country: France
   city: Joinville
+opengraph: true
 colors:
   vibrant: 5 80 165
   darkVibrant: 16 78 154

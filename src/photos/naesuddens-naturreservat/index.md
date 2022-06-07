@@ -1,7 +1,7 @@
 ---
 title: Näsuddens naturreservat
 file: naesuddens-naturreservat.jpg
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 16:02:00 +02:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -45,8 +45,9 @@ geo:
   latitude: 59.45938838166666
   longitude: 18.297828573333334
   map: true
-  country: Suède
+  country: Sweden
   city: Åkersberga
+opengraph: true
 colors:
   vibrant: 207 166 80
   darkVibrant: 86 61 10

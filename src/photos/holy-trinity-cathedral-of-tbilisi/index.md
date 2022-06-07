@@ -1,7 +1,7 @@
 ---
 title: Holy Trinity Cathedral of Tbilisi
 file: holy-trinity-cathedral-of-tbilisi.jpg
-date: 2018-08-14 10:08:00 +01:00
+date: 2018-08-14 11:08:00 +02:00
 dates:
   iso: 2018-08-14
   human: 14th August 2018
@@ -48,6 +48,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 219 175 71
   darkVibrant: 126 105 22

@@ -1,7 +1,7 @@
 ---
 title: Le Galatée sans voie lactée
 file: le-galatee-sans-voie-lactee.jpg
-date: 2018-01-06 19:01:00 +01:00
+date: 2018-01-06 20:01:00 +02:00
 dates:
   iso: 2018-01-06
   human: 6th January 2018
@@ -31,6 +31,7 @@ tags:
   - plage
   - restaurant
   - sable
+  - sand
   - sea
   - Trouville
   - Trouville-sur-Mer
@@ -50,6 +51,7 @@ geo:
   map: true
   country: France
   city: Trouville-sur-Mer
+opengraph: true
 colors:
   vibrant: 247 183 8
   darkVibrant: 124 92 4

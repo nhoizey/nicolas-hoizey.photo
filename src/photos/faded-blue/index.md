@@ -1,7 +1,7 @@
 ---
 title: Faded blue
 file: faded-blue.jpg
-date: 2018-08-13 17:08:00 +01:00
+date: 2018-08-13 18:08:00 +02:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -43,6 +43,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 19 134 202
   darkVibrant: 8 60 92

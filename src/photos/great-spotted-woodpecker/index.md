@@ -1,7 +1,7 @@
 ---
 title: Great Spotted Woodpecker
 file: great-spotted-woodpecker.jpg
-date: 2016-12-04 16:12:00 +01:00
+date: 2016-12-04 17:12:00 +02:00
 dates:
   iso: 2016-12-04
   human: 4th December 2016
@@ -52,6 +52,7 @@ geo:
   map: true
   country: France
   city: Soisy-sur-Seine
+opengraph: true
 colors:
   vibrant: 69 136 187
   darkVibrant: 37 70 102

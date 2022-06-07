@@ -1,7 +1,7 @@
 ---
 title: A drop of pencil(s)
 file: a-drop-of-pencil-s.jpg
-date: 2015-01-13 21:01:00 +01:00
+date: 2015-01-13 22:01:00 +02:00
 dates:
   iso: 2015-01-13
   human: 13th January 2015
@@ -45,6 +45,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 206 152 19
   darkVibrant: 200 189 11

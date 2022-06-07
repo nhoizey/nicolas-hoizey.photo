@@ -1,7 +1,7 @@
 ---
 title: Red-legged golden orb-weaver spider
 file: red-legged-golden-orb-weaver-spider.jpg
-date: 2019-03-04 16:03:00 +01:00
+date: 2019-03-04 17:03:00 +02:00
 dates:
   iso: 2019-03-04
   human: 4th March 2019
@@ -70,6 +70,7 @@ geo:
   map: true
   country: Kenya
   city: Kwale
+opengraph: true
 colors:
   vibrant: 239 166 29
   darkVibrant: 85 107 9

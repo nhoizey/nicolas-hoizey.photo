@@ -1,7 +1,7 @@
 ---
 title: Civilization
 file: civilization.jpg
-date: 2019-03-01 08:03:00 +01:00
+date: 2019-03-01 09:03:00 +02:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -27,10 +27,10 @@ tags:
   - Kenya
   - landscape
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - National Park
   - pancake
   - Parc national d'Amboseli
@@ -51,6 +51,7 @@ geo:
   map: true
   country: Kenya
   city: Kajiado
+opengraph: true
 colors:
   vibrant: 14 145 211
   darkVibrant: 62 38 19

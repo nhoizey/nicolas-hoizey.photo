@@ -1,7 +1,7 @@
 ---
 title: Who is the observer?
 file: who-is-the-observer.jpg
-date: 2019-02-26 17:02:00 +01:00
+date: 2019-02-26 18:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -17,19 +17,19 @@ tags:
   - animal
   - animalière
   - APS-C
-  - Cetartiodactyla
-  - Cétartiodactyles
-  - Even-toed ungulate
+  - cetartiodactyla
+  - cétartiodactyles
+  - even-toed ungulate
   - Fujifilm
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 27 mm f/2.8
-  - Girafe
+  - girafe
   - girafe du Kilimandjaro
-  - Girafe Masaï
-  - Giraffa camelopardalis
-  - Giraffa camelopardalis tippelskirchii
-  - Giraffa tippelskirchi
+  - girafe Masaï
+  - giraffa camelopardalis
+  - giraffa camelopardalis tippelskirchii
+  - giraffa tippelskirchi
   - giraffe
   - hybrid
   - Kenya
@@ -39,10 +39,10 @@ tags:
   - Maasai giraffe
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai giraffe
   - Masai Mara
@@ -71,6 +71,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 167 132 74
   darkVibrant: 113 94 26

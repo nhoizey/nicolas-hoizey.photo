@@ -1,7 +1,7 @@
 ---
 title: Elephants at sunrise in front of Kilimanjaro
 file: elephants-at-sunrise-in-front-of-kilimanjaro.jpg
-date: 2019-03-01 06:03:00 +01:00
+date: 2019-03-01 07:03:00 +02:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -29,10 +29,10 @@ tags:
   - Kenya
   - landscape
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - National Park
   - pancake
   - Parc national d'Amboseli
@@ -53,6 +53,7 @@ geo:
   map: true
   country: Kenya
   city: Kajiado
+opengraph: true
 colors:
   vibrant: 8 179 246
   darkVibrant: 91 61 41

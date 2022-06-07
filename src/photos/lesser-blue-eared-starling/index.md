@@ -1,7 +1,7 @@
 ---
 title: Lesser blue-eared starling
 file: lesser-blue-eared-starling.jpg
-date: 2018-10-30 12:10:00 +01:00
+date: 2018-10-30 13:10:00 +02:00
 dates:
   iso: 2018-10-30
   human: 30th October 2018
@@ -58,8 +58,9 @@ geo:
   latitude: 51.672215531666666
   longitude: 5.996315938333334
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Heijen
+opengraph: true
 colors:
   vibrant: 96 161 6
   darkVibrant: 65 130 8

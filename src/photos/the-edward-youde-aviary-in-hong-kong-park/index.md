@@ -1,7 +1,7 @@
 ---
 title: The Edward Youde Aviary in Hong-Kong Park
 file: the-edward-youde-aviary-in-hong-kong-park.jpg
-date: 2015-08-08 15:08:00 +01:00
+date: 2015-08-08 16:08:00 +02:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -39,6 +39,7 @@ geo:
   map: true
   country: Hong Kong
   city: Central and Western
+opengraph: true
 colors:
   vibrant: 185 198 56
   darkVibrant: 69 100 13

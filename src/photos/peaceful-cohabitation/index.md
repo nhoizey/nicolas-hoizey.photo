@@ -1,7 +1,7 @@
 ---
 title: Peaceful cohabitation
 file: peaceful-cohabitation.jpg
-date: 2019-02-27 17:02:00 +01:00
+date: 2019-02-27 18:02:00 +02:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -24,7 +24,7 @@ tags:
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
   - hybrid
-  - Imparidigités
+  - imparidigités
   - Kenya
   - lac
   - Lac Nakuru
@@ -32,21 +32,21 @@ tags:
   - Lake Nakuru
   - Lake Nakuru National Park
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Nakuru
   - Nakuru County
-  - Odd-toed ungulate
+  - odd-toed ungulate
   - Parc national du lac Nakuru
-  - Perissodactyla
-  - Périssodactyles
+  - perissodactyla
+  - périssodactyles
   - rhino
-  - Rhinoceros
-  - Rhinocéros
-  - Rhinocerotidae
-  - Rhinocérotidés
+  - rhinoceros
+  - rhinocéros
+  - rhinocerotidae
+  - rhinocérotidés
   - sauvage
   - wild animal
   - wild animals
@@ -66,6 +66,7 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
+opengraph: true
 colors:
   vibrant: 193 153 109
   darkVibrant: 108 60 36

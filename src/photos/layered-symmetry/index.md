@@ -1,7 +1,7 @@
 ---
 title: Layered symmetry
 file: layered-symmetry.jpg
-date: 2014-03-18 18:03:00 +01:00
+date: 2014-03-18 19:03:00 +02:00
 dates:
   iso: 2014-03-18
   human: 18th March 2014
@@ -38,6 +38,7 @@ geo:
   map: true
   country: France
   city: Puteaux
+opengraph: true
 colors:
   vibrant: 19 126 137
   darkVibrant: 4 73 79

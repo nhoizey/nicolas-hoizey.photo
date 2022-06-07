@@ -1,7 +1,7 @@
 ---
 title: Sakura
 file: sakura.jpg
-date: 2009-04-01 14:04:00 +01:00
+date: 2009-04-01 15:04:00 +02:00
 dates:
   iso: 2009-04-01
   human: 1st April 2009
@@ -37,6 +37,7 @@ geo:
   map: true
   country: France
   city: Boulogne-Billancourt
+opengraph: true
 colors:
   vibrant: 171 194 64
   darkVibrant: 116 123 7

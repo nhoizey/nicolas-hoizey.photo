@@ -1,7 +1,7 @@
 ---
 title: Colorful feathers
 file: colorful-feathers.jpg
-date: 2008-05-11 14:05:00 +01:00
+date: 2008-05-11 15:05:00 +02:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -38,8 +38,9 @@ geo:
   latitude: 51.957509853333335
   longitude: 5.59121836
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Rhenen
+opengraph: true
 colors:
   vibrant: 233 164 9
   darkVibrant: 131 23 4

@@ -1,7 +1,7 @@
 ---
 title: Here comes the secretary
 file: here-comes-the-secretary.jpg
-date: 2019-03-01 06:03:00 +01:00
+date: 2019-03-01 07:03:00 +02:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -54,6 +54,7 @@ geo:
   map: true
   country: Kenya
   city: Entonet
+opengraph: true
 colors:
   vibrant: 38 108 165
   darkVibrant: 36 80 122

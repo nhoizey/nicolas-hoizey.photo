@@ -1,7 +1,7 @@
 ---
 title: Did I go over the top?
 file: did-i-go-over-the-top.jpg
-date: 2014-05-02 11:05:00 +01:00
+date: 2014-05-02 12:05:00 +02:00
 dates:
   iso: 2014-05-02
   human: 2nd May 2014
@@ -47,6 +47,9 @@ geo:
   latitude: 56.77447179166667
   longitude: -3.8568842266666667
   map: true
+  country: Scotland
+  city: Blair Castle
+opengraph: true
 colors:
   vibrant: 55 135 189
   darkVibrant: 16 137 134

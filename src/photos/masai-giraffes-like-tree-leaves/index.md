@@ -1,7 +1,7 @@
 ---
 title: Masai giraffes like tree leaves
 file: masai-giraffes-like-tree-leaves.jpg
-date: 2019-02-26 17:02:00 +01:00
+date: 2019-02-26 18:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -15,21 +15,21 @@ tags:
   - animal
   - animalière
   - APS-C
-  - Cetartiodactyla
-  - Cétartiodactyles
+  - cetartiodactyla
+  - cétartiodactyles
   - converter
-  - Even-toed ungulate
+  - even-toed ungulate
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
-  - Girafe
+  - girafe
   - girafe du Kilimandjaro
-  - Girafe Masaï
-  - Giraffa camelopardalis
-  - Giraffa camelopardalis tippelskirchii
-  - Giraffa tippelskirchi
+  - girafe Masaï
+  - giraffa camelopardalis
+  - giraffa camelopardalis tippelskirchii
+  - giraffa tippelskirchi
   - giraffe
   - hybrid
   - Kenya
@@ -38,10 +38,10 @@ tags:
   - Maasai giraffe
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai giraffe
   - Masai Mara
@@ -63,6 +63,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 185 152 104
   darkVibrant: 94 103 34

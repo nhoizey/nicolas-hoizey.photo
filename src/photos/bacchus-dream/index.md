@@ -1,7 +1,7 @@
 ---
 title: Bacchus dream
 file: bacchus-dream.jpg
-date: 2007-11-03 17:11:00 +01:00
+date: 2007-11-03 18:11:00 +02:00
 dates:
   iso: 2007-11-03
   human: 3rd November 2007
@@ -56,6 +56,7 @@ geo:
   map: true
   country: France
   city: Reims
+opengraph: true
 colors:
   vibrant: 164 95 44
   darkVibrant: 100 52 12

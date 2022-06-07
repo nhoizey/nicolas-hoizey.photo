@@ -1,7 +1,7 @@
 ---
 title: Fontana di Trevi
 file: fontana-di-trevi.jpg
-date: 2017-05-11 18:05:00 +01:00
+date: 2017-05-11 19:05:00 +02:00
 dates:
   iso: 2017-05-11
   human: 11th May 2017
@@ -46,8 +46,9 @@ geo:
   latitude: 41.90084330333333
   longitude: 12.483434845
   map: true
-  country: Italie
+  country: Italy
   city: Rome
+opengraph: true
 colors:
   vibrant: 99 126 156
   darkVibrant: 51 65 81

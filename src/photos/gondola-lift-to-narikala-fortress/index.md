@@ -1,7 +1,7 @@
 ---
 title: Gondola lift to Narikala fortress
 file: gondola-lift-to-narikala-fortress.jpg
-date: 2018-08-13 12:08:00 +01:00
+date: 2018-08-13 13:08:00 +02:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -56,6 +56,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 7 94 234
   darkVibrant: 5 31 110

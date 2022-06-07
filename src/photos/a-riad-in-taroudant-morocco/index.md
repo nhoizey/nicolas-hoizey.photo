@@ -1,7 +1,7 @@
 ---
 title: A Riad in Taroudant, Morocco
 file: a-riad-in-taroudant-morocco.jpg
-date: 2011-05-04 18:05:00 +01:00
+date: 2011-05-04 19:05:00 +02:00
 dates:
   iso: 2011-05-04
   human: 4th May 2011
@@ -49,8 +49,9 @@ geo:
   latitude: 30.467730555
   longitude: -8.884002778333333
   map: true
-  country: Maroc
+  country: Morocco
   city: Taroudant
+opengraph: true
 colors:
   vibrant: 4 108 187
   darkVibrant: 4 100 180

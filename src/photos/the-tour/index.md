@@ -1,7 +1,7 @@
 ---
 title: The Tour
 file: the-tour.jpg
-date: 2021-12-06 09:12:00 +01:00
+date: 2021-12-06 10:12:00 +02:00
 dates:
   iso: 2021-12-06
   human: 6th December 2021
@@ -42,6 +42,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 217 108 44
   darkVibrant: 185 95 17

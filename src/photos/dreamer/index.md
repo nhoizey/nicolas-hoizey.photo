@@ -1,7 +1,7 @@
 ---
 title: Dreamer
 file: dreamer.jpg
-date: 2014-06-14 15:06:00 +01:00
+date: 2014-06-14 16:06:00 +02:00
 dates:
   iso: 2014-06-14
   human: 14th June 2014
@@ -48,6 +48,7 @@ geo:
   map: true
   country: France
   city: Lyon
+opengraph: true
 colors:
   vibrant: 165 106 58
   darkVibrant: 62 114 24

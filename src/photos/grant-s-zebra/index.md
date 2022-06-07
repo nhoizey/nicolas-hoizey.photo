@@ -1,7 +1,7 @@
 ---
 title: Grant's zebra
 file: grant-s-zebra.jpg
-date: 2019-02-25 17:02:00 +01:00
+date: 2019-02-25 18:02:00 +02:00
 dates:
   iso: 2019-02-25
   human: 25th February 2019
@@ -16,10 +16,10 @@ tags:
   - animalière
   - APS-C
   - converter
-  - Equidae
-  - Équidés
-  - Equus quagga
-  - Equus quagga bohemi
+  - equidae
+  - équidés
+  - equus quagga
+  - equus quagga bohemi
   - face
   - Fujifilm
   - Fujifilm X-T3
@@ -29,29 +29,29 @@ tags:
   - Grant's zebra
   - horse family
   - hybrid
-  - Imparidigités
+  - imparidigités
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai Mara
   - Narok County
-  - Odd-toed ungulate
+  - odd-toed ungulate
   - oreille
-  - Perissodactyla
-  - Périssodactyles
+  - perissodactyla
+  - périssodactyles
   - plains zebra
   - rayure
   - regard
   - reserve
   - zèbre de Burchell
-  - Zèbre de Grant
-  - Zèbre des plaines
+  - zèbre de Grant
+  - zèbre des plaines
   - zoom
 settings:
   focal_length: 406.8
@@ -68,6 +68,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 127 141 59
   darkVibrant: 99 76 44

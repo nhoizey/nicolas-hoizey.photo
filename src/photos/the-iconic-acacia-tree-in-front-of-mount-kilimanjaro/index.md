@@ -1,7 +1,7 @@
 ---
 title: The iconic acacia tree in front of Mount Kilimanjaro
 file: the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg
-date: 2019-02-28 18:02:00 +01:00
+date: 2019-02-28 19:02:00 +02:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -55,6 +55,7 @@ geo:
   map: true
   country: Kenya
   city: Entonet
+opengraph: true
 colors:
   vibrant: 7 159 217
   darkVibrant: 6 140 196

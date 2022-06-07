@@ -1,7 +1,7 @@
 ---
 title: Empty
 file: empty.jpg
-date: 2019-03-01 07:03:00 +01:00
+date: 2019-03-01 08:03:00 +02:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -36,6 +36,7 @@ tags:
   - paysage
   - prime
   - sable
+  - sand
   - terre
   - volcan
   - volcano
@@ -54,6 +55,7 @@ geo:
   map: true
   country: Kenya
   city: Kajiado
+opengraph: true
 colors:
   vibrant: 5 123 175
   darkVibrant: 8 108 164

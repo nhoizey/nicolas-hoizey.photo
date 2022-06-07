@@ -1,7 +1,7 @@
 ---
 title: Panorama over Trälhavet
 file: panorama-over-traelhavet.jpg
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 16:02:00 +02:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -52,8 +52,9 @@ geo:
   latitude: 59.45859083333333
   longitude: 18.297981945
   map: true
-  country: Suède
+  country: Sweden
   city: Åkersberga
+opengraph: true
 colors:
   vibrant: 194 143 81
   darkVibrant: 68 116 156

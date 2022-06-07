@@ -1,7 +1,7 @@
 ---
 title: Imeri Gramvousa
 file: imeri-gramvousa.jpg
-date: 2005-09-23 11:09:00 +01:00
+date: 2005-09-23 12:09:00 +02:00
 dates:
   iso: 2005-09-23
   human: 23rd September 2005
@@ -54,6 +54,7 @@ geo:
   map: true
   country: Greece
   city: Municipality of Kissamos
+opengraph: true
 colors:
   vibrant: 6 128 186
   darkVibrant: 9 91 135

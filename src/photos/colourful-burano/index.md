@@ -1,7 +1,7 @@
 ---
 title: Colourful Burano
 file: colourful-burano.jpg
-date: 2008-04-26 15:04:00 +01:00
+date: 2008-04-26 16:04:00 +02:00
 dates:
   iso: 2008-04-26
   human: 26th April 2008
@@ -45,8 +45,9 @@ geo:
   latitude: 45.48542777833333
   longitude: 12.415352778333334
   map: true
-  country: Italie
-  city: Venezia
+  country: Italy
+  city: Burano
+opengraph: true
 colors:
   vibrant: 17 136 185
   darkVibrant: 94 85 31

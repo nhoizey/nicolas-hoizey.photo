@@ -1,7 +1,7 @@
 ---
 title: Tradition and modernity
 file: tradition-and-modernity.jpg
-date: 2015-08-09 19:08:00 +01:00
+date: 2015-08-09 20:08:00 +02:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -48,6 +48,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 142 26 30
   darkVibrant: 98 16 12

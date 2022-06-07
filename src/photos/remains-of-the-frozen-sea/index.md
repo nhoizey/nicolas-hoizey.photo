@@ -1,7 +1,7 @@
 ---
 title: Remains of the frozen sea
 file: remains-of-the-frozen-sea.jpg
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 16:02:00 +02:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -47,8 +47,8 @@ geo:
   latitude: 59.45737805833333
   longitude: 18.299656023333334
   map: true
-  country: Suède
-  city: Åkersberga
+  country: Sweden
+opengraph: true
 colors:
   vibrant: 120 147 196
   darkVibrant: 44 60 100

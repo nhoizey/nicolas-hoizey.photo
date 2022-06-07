@@ -1,7 +1,7 @@
 ---
 title: Follow the rythm
 file: follow-the-rythm.jpg
-date: 2014-09-27 00:09:00 +01:00
+date: 2014-09-27 01:09:00 +02:00
 dates:
   iso: 2014-09-27
   human: 27th September 2014
@@ -39,8 +39,9 @@ geo:
   latitude: 38.885975
   longitude: 1.4036888883333334
   map: true
-  country: Espagne
-  city: Sant Josep de sa Talaia
+  country: Spain
+  city: Ibiza
+opengraph: true
 colors:
   vibrant: 13 4 241
   darkVibrant: 4 4 115

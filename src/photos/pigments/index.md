@@ -1,7 +1,7 @@
 ---
 title: Pigments
 file: pigments.jpg
-date: 2015-04-27 14:04:00 +01:00
+date: 2015-04-27 15:04:00 +02:00
 dates:
   iso: 2015-04-27
   human: 27th April 2015
@@ -46,6 +46,7 @@ geo:
   map: true
   country: France
   city: Chaumont-sur-Loire
+opengraph: true
 colors:
   vibrant: 205 22 121
   darkVibrant: 132 11 47

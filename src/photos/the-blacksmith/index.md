@@ -1,7 +1,7 @@
 ---
 title: The Blacksmith
 file: the-blacksmith.jpg
-date: 2014-07-12 14:07:00 +01:00
+date: 2014-07-12 15:07:00 +02:00
 dates:
   iso: 2014-07-12
   human: 12th July 2014
@@ -52,8 +52,9 @@ geo:
   latitude: 52.009191666666666
   longitude: 5.914625
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Arnhem
+opengraph: true
 colors:
   vibrant: 158 101 39
   darkVibrant: 97 62 22

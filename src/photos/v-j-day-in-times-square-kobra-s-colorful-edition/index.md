@@ -1,7 +1,7 @@
 ---
 title: V-J Day in Times Square, Kobra's colorful edition
 file: v-j-day-in-times-square-kobra-s-colorful-edition.jpg
-date: 2015-05-21 10:05:00 +01:00
+date: 2015-05-21 11:05:00 +02:00
 dates:
   iso: 2015-05-21
   human: 21st May 2015
@@ -53,8 +53,9 @@ geo:
   latitude: 40.750025
   longitude: -74.00317222166667
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 206 126 38
   darkVibrant: 85 94 17

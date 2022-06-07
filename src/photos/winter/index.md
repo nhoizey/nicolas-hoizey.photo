@@ -1,7 +1,7 @@
 ---
 title: Winter
 file: winter.jpg
-date: 2014-02-14 11:02:00 +01:00
+date: 2014-02-14 12:02:00 +02:00
 dates:
   iso: 2014-02-14
   human: 14th February 2014

@@ -1,7 +1,7 @@
 ---
 title: Overlooking Tbilisi
 file: overlooking-tbilisi.jpg
-date: 2018-08-13 12:08:00 +01:00
+date: 2018-08-13 13:08:00 +02:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -50,6 +50,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 4 145 210
   darkVibrant: 4 132 196

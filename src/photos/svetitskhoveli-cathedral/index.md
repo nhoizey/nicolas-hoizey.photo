@@ -1,7 +1,7 @@
 ---
 title: Svetitskhoveli Cathedral
 file: svetitskhoveli-cathedral.jpg
-date: 2018-08-12 17:08:00 +01:00
+date: 2018-08-12 18:08:00 +02:00
 dates:
   iso: 2018-08-12
   human: 12th August 2018
@@ -50,6 +50,7 @@ geo:
   map: true
   country: Georgia
   city: Mtskheta
+opengraph: true
 colors:
   vibrant: 196 92 44
   darkVibrant: 18 40 9

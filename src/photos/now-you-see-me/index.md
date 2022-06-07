@@ -1,7 +1,7 @@
 ---
 title: Now you see me
 file: now-you-see-me.jpg
-date: 2019-02-27 16:02:00 +01:00
+date: 2019-02-27 17:02:00 +02:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -18,12 +18,12 @@ tags:
   - animaux sauvages
   - antilope sing-sing
   - APS-C
-  - Bovidés
-  - Cetartiodactyla
-  - Cétartiodactyles
-  - Cobe à croissant
+  - bovidés
+  - cetartiodactyla
+  - cétartiodactyles
+  - cobe à croissant
   - converter
-  - Even-toed ungulate
+  - even-toed ungulate
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
@@ -31,17 +31,17 @@ tags:
   - Fujinon XF2.0× TC WR
   - hybrid
   - Kenya
-  - Kobus ellipsiprymnus
+  - kobus ellipsiprymnus
   - lac
   - Lac Nakuru
   - lake
   - Lake Nakuru
   - Lake Nakuru National Park
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Nakuru
   - Nakuru County
   - Parc national du lac Nakuru
@@ -65,6 +65,7 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
+opengraph: true
 colors:
   vibrant: 146 152 72
   darkVibrant: 61 70 28

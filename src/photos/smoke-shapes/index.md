@@ -1,7 +1,7 @@
 ---
 title: Smoke shapes
 file: smoke-shapes.jpg
-date: 2020-10-06 21:10:00 +01:00
+date: 2020-10-06 22:10:00 +02:00
 dates:
   iso: 2020-10-06
   human: 6th October 2020
@@ -40,6 +40,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 206 132 54
   darkVibrant: 10 70 112

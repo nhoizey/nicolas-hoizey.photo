@@ -1,7 +1,7 @@
 ---
 title: Splash
 file: splash.jpg
-date: 2017-05-18 21:05:00 +01:00
+date: 2017-05-18 22:05:00 +02:00
 dates:
   iso: 2017-05-18
   human: 18th May 2017
@@ -47,6 +47,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 223 6 43
   darkVibrant: 91 8 16

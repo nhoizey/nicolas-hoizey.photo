@@ -1,7 +1,7 @@
 ---
 title: Having fun
 file: having-fun.jpg
-date: 2006-04-01 19:04:00 +01:00
+date: 2006-04-01 20:04:00 +02:00
 dates:
   iso: 2006-04-01
   human: 1st April 2006

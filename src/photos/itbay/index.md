@@ -1,7 +1,7 @@
 ---
 title: Itbāy
 file: itbay.jpg
-date: 2004-05-14 16:05:00 +01:00
+date: 2004-05-14 17:05:00 +02:00
 dates:
   iso: 2004-05-14
   human: 14th May 2004
@@ -48,6 +48,7 @@ geo:
   map: true
   country: Egypt
   city: Al Qusir
+opengraph: true
 colors:
   vibrant: 180 116 60
   darkVibrant: 98 57 15

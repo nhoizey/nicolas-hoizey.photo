@@ -1,7 +1,7 @@
 ---
 title: Limitless
 file: limitless.jpg
-date: 2014-06-14 15:06:00 +01:00
+date: 2014-06-14 16:06:00 +02:00
 dates:
   iso: 2014-06-14
   human: 14th June 2014
@@ -48,6 +48,7 @@ geo:
   map: true
   country: France
   city: Lyon
+opengraph: true
 colors:
   vibrant: 182 100 82
   darkVibrant: 85 48 28

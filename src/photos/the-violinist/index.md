@@ -1,7 +1,7 @@
 ---
 title: The Violinist
 file: the-violinist.jpg
-date: 2017-05-14 10:05:00 +01:00
+date: 2017-05-14 11:05:00 +02:00
 dates:
   iso: 2017-05-14
   human: 14th May 2017
@@ -45,8 +45,9 @@ geo:
   latitude: 41.897895
   longitude: 12.477413333333333
   map: true
-  country: Italie
-  city: Roma
+  country: Italy
+  city: Rome
+opengraph: true
 colors:
   vibrant: 157 121 98
   darkVibrant: 82 63 51

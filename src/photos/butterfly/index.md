@@ -1,7 +1,7 @@
 ---
 title: Butterfly
 file: butterfly.jpg
-date: 2012-11-29 13:11:00 +01:00
+date: 2012-11-29 14:11:00 +02:00
 dates:
   iso: 2012-11-29
   human: 29th November 2012
@@ -44,6 +44,7 @@ geo:
   map: true
   country: France
   city: Honfleur
+opengraph: true
 colors:
   vibrant: 73 142 14
   darkVibrant: 55 118 16

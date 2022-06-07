@@ -1,7 +1,7 @@
 ---
 title: Asif Oussaka
 file: asif-oussaka.jpg
-date: 2011-05-06 12:05:00 +01:00
+date: 2011-05-06 13:05:00 +02:00
 dates:
   iso: 2011-05-06
   human: 6th May 2011
@@ -61,7 +61,9 @@ geo:
   latitude: 30.1627634
   longitude: -9.1090226
   map: true
-  country: Maroc
+  country: Morocco
+  city: Tassegdelt
+opengraph: true
 colors:
   vibrant: 180 100 68
   darkVibrant: 58 45 15

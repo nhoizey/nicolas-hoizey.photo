@@ -1,7 +1,7 @@
 ---
 title: Different means of locomotion
 file: different-means-of-locomotion.jpg
-date: 2004-05-14 17:05:00 +01:00
+date: 2004-05-14 18:05:00 +02:00
 dates:
   iso: 2004-05-14
   human: 14th May 2004
@@ -52,6 +52,7 @@ geo:
   longitude: 34.29447104166667
   map: true
   country: Egypt
+opengraph: true
 colors:
   vibrant: 230 171 110
   darkVibrant: 111 45 20

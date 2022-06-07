@@ -1,7 +1,7 @@
 ---
 title: Egret at sunset
 file: egret-at-sunset.jpg
-date: 2017-04-10 19:04:00 +01:00
+date: 2017-04-10 20:04:00 +02:00
 dates:
   iso: 2017-04-10
   human: 10th April 2017
@@ -59,6 +59,7 @@ geo:
   map: true
   country: France
   city: Rillé
+opengraph: true
 colors:
   vibrant: 204 156 147
   darkVibrant: 11 79 126

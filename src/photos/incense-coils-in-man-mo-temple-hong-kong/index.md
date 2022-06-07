@@ -1,7 +1,7 @@
 ---
 title: Incense coils in Man Mo Temple, Hong Kong
 file: incense-coils-in-man-mo-temple-hong-kong.jpg
-date: 2015-08-08 13:08:00 +01:00
+date: 2015-08-08 14:08:00 +02:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -51,6 +51,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 225 206 45
   darkVibrant: 106 18 18

@@ -1,7 +1,7 @@
 ---
 title: Bali Mynah
 file: bali-mynah.jpg
-date: 2015-08-08 15:08:00 +01:00
+date: 2015-08-08 16:08:00 +02:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -63,6 +63,7 @@ geo:
   map: true
   country: Hong Kong
   city: Central and Western
+opengraph: true
 colors:
   vibrant: 44 92 154
   darkVibrant: 24 58 106

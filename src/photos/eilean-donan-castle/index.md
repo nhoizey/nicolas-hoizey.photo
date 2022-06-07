@@ -1,7 +1,7 @@
 ---
 title: Eilean Donan Castle
 file: eilean-donan-castle.jpg
-date: 2014-05-01 17:05:00 +01:00
+date: 2014-05-01 18:05:00 +02:00
 dates:
   iso: 2014-05-01
   human: 1st May 2014
@@ -52,6 +52,7 @@ geo:
   map: true
   country: Royaume-Uni
   city: Dornie
+opengraph: true
 colors:
   vibrant: 143 105 37
   darkVibrant: 113 132 60

@@ -1,7 +1,7 @@
 ---
 title: Not so colourful Netherlands
 file: not-so-colourful-netherlands.jpg
-date: 2015-07-13 15:07:00 +01:00
+date: 2015-07-13 16:07:00 +02:00
 dates:
   iso: 2015-07-13
   human: 13th July 2015
@@ -64,8 +64,9 @@ geo:
   latitude: 53.2359
   longitude: 6.523519445
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Groningen
+opengraph: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

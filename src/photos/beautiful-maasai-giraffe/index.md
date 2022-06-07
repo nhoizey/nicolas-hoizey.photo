@@ -1,7 +1,7 @@
 ---
 title: Beautiful Maasai giraffe
 file: beautiful-maasai-giraffe.jpg
-date: 2019-02-26 07:02:00 +01:00
+date: 2019-02-26 08:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -17,27 +17,27 @@ tags:
   - animalière
   - animaux sauvages
   - APS-C
-  - Cetartiodactyla
-  - Cétartiodactyles
+  - cetartiodactyla
+  - cétartiodactyles
   - converter
-  - Even-toed ungulate
+  - even-toed ungulate
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
-  - Girafe
-  - Giraffa camelopardalis
+  - girafe
+  - giraffa camelopardalis
   - giraffe
   - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai Mara
   - Narok County
@@ -61,6 +61,7 @@ geo:
   map: true
   country: Kenya
   city: Siana
+opengraph: true
 colors:
   vibrant: 173 180 17
   darkVibrant: 114 141 8

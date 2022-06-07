@@ -1,7 +1,7 @@
 ---
 title: Color Patches
 file: color-patches.jpg
-date: 2017-12-19 18:12:00 +01:00
+date: 2017-12-19 19:12:00 +02:00
 dates:
   iso: 2017-12-19
   human: 19th December 2017
@@ -58,6 +58,7 @@ geo:
   map: true
   country: France
   city: Saint-Denis
+opengraph: true
 colors:
   vibrant: 17 197 205
   darkVibrant: 97 17 7

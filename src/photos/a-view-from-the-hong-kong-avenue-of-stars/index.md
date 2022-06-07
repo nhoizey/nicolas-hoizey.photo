@@ -1,7 +1,7 @@
 ---
 title: A view from the Hong Kong Avenue of Stars
 file: a-view-from-the-hong-kong-avenue-of-stars.jpg
-date: 2015-08-08 22:08:00 +01:00
+date: 2015-08-08 23:08:00 +02:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -58,6 +58,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 93 104 177
   darkVibrant: 17 36 96

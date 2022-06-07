@@ -1,7 +1,7 @@
 ---
 title: Liberty has been framed
 file: liberty-has-been-framed.jpg
-date: 2015-05-19 13:05:00 +01:00
+date: 2015-05-19 14:05:00 +02:00
 dates:
   iso: 2015-05-19
   human: 19th May 2015
@@ -51,8 +51,9 @@ geo:
   latitude: 40.70513611166667
   longitude: -74.018244445
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 150 210 45
   darkVibrant: 20 28 6

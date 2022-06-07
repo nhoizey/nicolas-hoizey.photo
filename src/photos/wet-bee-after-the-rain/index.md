@@ -1,7 +1,7 @@
 ---
 title: Wet bee after the rain
 file: wet-bee-after-the-rain.jpg
-date: 2013-08-07 18:08:00 +01:00
+date: 2013-08-07 19:08:00 +02:00
 dates:
   iso: 2013-08-07
   human: 7th August 2013
@@ -38,6 +38,7 @@ geo:
   map: true
   country: France
   city: Senonches
+opengraph: true
 colors:
   vibrant: 135 88 176
   darkVibrant: 45 75 10

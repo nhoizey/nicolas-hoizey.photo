@@ -1,7 +1,7 @@
 ---
 title: Drinking water does not reach the tap
 file: drinking-water-does-not-reach-the-tap.jpg
-date: 2019-02-25 08:02:00 +01:00
+date: 2019-02-25 09:02:00 +02:00
 dates:
   iso: 2019-02-25
   human: 25th February 2019
@@ -46,6 +46,7 @@ geo:
   map: true
   country: Kenya
   city: Kiambu
+opengraph: true
 colors:
   vibrant: 5 89 182
   darkVibrant: 5 73 149

@@ -1,7 +1,7 @@
 ---
 title: Liberty
 file: liberty.jpg
-date: 2015-05-21 16:05:00 +01:00
+date: 2015-05-21 17:05:00 +02:00
 dates:
   iso: 2015-05-21
   human: 21st May 2015
@@ -44,8 +44,9 @@ geo:
   latitude: 40.681175
   longitude: -74.04035166666667
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 238 196 84
   darkVibrant: 20 51 92

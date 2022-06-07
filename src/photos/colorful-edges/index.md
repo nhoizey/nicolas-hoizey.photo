@@ -1,7 +1,7 @@
 ---
 title: Colorful edges
 file: colorful-edges.jpg
-date: 2015-01-20 23:01:00 +01:00
+date: 2015-01-21 00:01:00 +02:00
 dates:
   iso: 2015-01-20
   human: 20th January 2015
@@ -36,6 +36,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 4 242 4
   darkVibrant: 4 132 44

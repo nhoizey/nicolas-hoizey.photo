@@ -1,7 +1,7 @@
 ---
 title: Hong Kong planet
 file: hong-kong-planet.jpg
-date: 2015-08-08 22:08:00 +01:00
+date: 2015-08-08 23:08:00 +02:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -53,6 +53,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 21 75 181
   darkVibrant: 76 28 94

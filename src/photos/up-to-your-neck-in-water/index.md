@@ -1,7 +1,7 @@
 ---
 title: Up to your neck in water
 file: up-to-your-neck-in-water.jpg
-date: 2018-01-28 12:01:00 +01:00
+date: 2018-01-28 13:01:00 +02:00
 dates:
   iso: 2018-01-28
   human: 28th January 2018
@@ -58,6 +58,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 43 95 133
   darkVibrant: 12 76 124

@@ -1,7 +1,7 @@
 ---
 title: Palazzo Cavalli-Franchetti
 file: palazzo-cavalli-franchetti.jpg
-date: 2008-04-24 16:04:00 +01:00
+date: 2008-04-24 17:04:00 +02:00
 dates:
   iso: 2008-04-24
   human: 24th April 2008
@@ -44,8 +44,9 @@ geo:
   latitude: 45.43178611166667
   longitude: 12.329047221666666
   map: true
-  country: Italie
-  city: Venezia
+  country: Italy
+  city: Venice
+opengraph: true
 colors:
   vibrant: 194 123 30
   darkVibrant: 21 117 162

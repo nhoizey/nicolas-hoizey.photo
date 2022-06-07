@@ -1,7 +1,7 @@
 ---
 title: Le Guilvinec by night
 file: le-guilvinec-by-night.jpg
-date: 2013-05-08 20:05:00 +01:00
+date: 2013-05-08 21:05:00 +02:00
 dates:
   iso: 2013-05-08
   human: 8th May 2013
@@ -49,6 +49,7 @@ geo:
   map: true
   country: France
   city: Guilvinec
+opengraph: true
 colors:
   vibrant: 238 146 16
   darkVibrant: 4 68 124

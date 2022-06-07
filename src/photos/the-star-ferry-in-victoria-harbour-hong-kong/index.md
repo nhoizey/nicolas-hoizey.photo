@@ -1,7 +1,7 @@
 ---
 title: The Star Ferry in Victoria Harbour, Hong Kong
 file: the-star-ferry-in-victoria-harbour-hong-kong.jpg
-date: 2015-08-16 11:08:00 +01:00
+date: 2015-08-16 12:08:00 +02:00
 dates:
   iso: 2015-08-16
   human: 16th August 2015
@@ -42,6 +42,7 @@ geo:
   map: true
   country: China
   city: Kowloon
+opengraph: true
 colors:
   vibrant: 214 148 71
   darkVibrant: 23 80 120

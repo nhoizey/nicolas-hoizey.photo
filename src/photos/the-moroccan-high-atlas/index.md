@@ -1,7 +1,7 @@
 ---
 title: The Moroccan High Atlas
 file: the-moroccan-high-atlas.jpg
-date: 2011-05-08 11:05:00 +01:00
+date: 2011-05-08 12:05:00 +02:00
 dates:
   iso: 2011-05-08
   human: 8th May 2011
@@ -57,7 +57,9 @@ geo:
   latitude: 30.417451858333333
   longitude: -8.673681001666667
   map: true
-  country: Maroc
+  country: Morocco
+  city: Caïdat de Freija
+opengraph: true
 colors:
   vibrant: 4 122 196
   darkVibrant: 4 96 170

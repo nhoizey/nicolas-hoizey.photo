@@ -1,7 +1,7 @@
 ---
 title: Lost in (white) space
 file: lost-in-white-space.jpg
-date: 2005-04-23 15:04:00 +01:00
+date: 2005-04-23 16:04:00 +02:00
 dates:
   iso: 2005-04-23
   human: 23rd April 2005
@@ -38,6 +38,7 @@ geo:
   map: true
   country: France
   city: Paris
+opengraph: true
 colors:
   vibrant: 123 166 230
   darkVibrant: 21 57 111

@@ -1,7 +1,7 @@
 ---
 title: The view over Mtskheta from Jvari Monastery
 file: the-view-over-mtskheta-from-jvari-monastery.jpg
-date: 2018-08-12 13:08:00 +01:00
+date: 2018-08-12 14:08:00 +02:00
 dates:
   iso: 2018-08-12
   human: 12th August 2018
@@ -52,6 +52,7 @@ geo:
   map: true
   country: Georgia
   city: Mtskheta
+opengraph: true
 colors:
   vibrant: 180 92 52
   darkVibrant: 95 80 17

@@ -1,7 +1,7 @@
 ---
 title: Oddly vintage
 file: oddly-vintage.jpg
-date: 2013-08-14 14:08:00 +01:00
+date: 2013-08-14 15:08:00 +02:00
 dates:
   iso: 2013-08-14
   human: 14th August 2013
@@ -43,6 +43,7 @@ geo:
   map: true
   country: France
   city: Élancourt
+opengraph: true
 colors:
   vibrant: 188 220 35
   darkVibrant: 107 125 20

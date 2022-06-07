@@ -1,7 +1,7 @@
 ---
 title: Ancient Gods are in a bad mood
 file: ancient-gods-are-in-a-bad-mood.jpg
-date: 2017-05-11 16:05:00 +01:00
+date: 2017-05-11 17:05:00 +02:00
 dates:
   iso: 2017-05-11
   human: 11th May 2017
@@ -40,8 +40,9 @@ geo:
   latitude: 41.890409158333334
   longitude: 12.490244698333333
   map: true
-  country: Italie
+  country: Italy
   city: Rome
+opengraph: true
 colors:
   vibrant: 140 108 60
   darkVibrant: 65 15 27

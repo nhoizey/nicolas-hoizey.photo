@@ -1,7 +1,7 @@
 ---
 title: Zémo Kalaki
 file: zemo-kalaki.jpg
-date: 2018-08-13 17:08:00 +01:00
+date: 2018-08-13 18:08:00 +02:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -43,6 +43,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 60 164 222
   darkVibrant: 25 65 97

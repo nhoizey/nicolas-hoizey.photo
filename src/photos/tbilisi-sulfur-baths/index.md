@@ -1,7 +1,7 @@
 ---
 title: Tbilisi Sulfur Baths
 file: tbilisi-sulfur-baths.jpg
-date: 2018-08-13 09:08:00 +01:00
+date: 2018-08-13 10:08:00 +02:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -46,6 +46,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 168 181 71
   darkVibrant: 106 120 15

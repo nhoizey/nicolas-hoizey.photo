@@ -1,7 +1,7 @@
 ---
 title: Light rays
 file: light-rays.jpg
-date: 2021-10-24 09:10:00 +01:00
+date: 2021-10-24 10:10:00 +02:00
 dates:
   iso: 2021-10-24
   human: 24th October 2021
@@ -48,6 +48,7 @@ geo:
   map: true
   country: France
   city: Sonchamp
+opengraph: true
 colors:
   vibrant: 161 62 20
   darkVibrant: 105 48 20

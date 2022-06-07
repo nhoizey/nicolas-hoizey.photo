@@ -1,7 +1,7 @@
 ---
 title: Le Petit Poucet
 file: le-petit-poucet.jpg
-date: 2018-01-25 08:01:00 +01:00
+date: 2018-01-25 09:01:00 +02:00
 dates:
   iso: 2018-01-25
   human: 25th January 2018
@@ -48,7 +48,8 @@ geo:
   longitude: 2.3266722216666667
   map: true
   country: France
-  city: Paris-17E-Arrondissement
+  city: Paris
+opengraph: true
 colors:
   vibrant: 184 129 91
   darkVibrant: 100 52 12

@@ -1,7 +1,7 @@
 ---
 title: The (new) Road to Hell('s Kitchen)
 file: the-new-road-to-hell-s-kitchen.jpg
-date: 2015-05-22 09:05:00 +01:00
+date: 2015-05-22 10:05:00 +02:00
 dates:
   iso: 2015-05-22
   human: 22nd May 2015
@@ -58,8 +58,9 @@ geo:
   latitude: 40.759075
   longitude: -73.97897166666667
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 228 141 53
   darkVibrant: 4 60 148

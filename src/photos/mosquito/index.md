@@ -1,7 +1,7 @@
 ---
 title: Mosquito
 file: mosquito.jpg
-date: 2012-04-29 15:04:00 +01:00
+date: 2012-04-29 16:04:00 +02:00
 dates:
   iso: 2012-04-29
   human: 29th April 2012
@@ -43,6 +43,7 @@ geo:
   map: true
   country: France
   city: Venizy
+opengraph: true
 colors:
   vibrant: 180 116 65
   darkVibrant: 58 34 19

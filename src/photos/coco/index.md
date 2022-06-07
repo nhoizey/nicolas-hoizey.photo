@@ -1,7 +1,7 @@
 ---
 title: Coco
 file: coco.jpg
-date: 2008-05-11 14:05:00 +01:00
+date: 2008-05-11 15:05:00 +02:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -48,8 +48,9 @@ geo:
   latitude: 51.956985275
   longitude: 5.5909801366666665
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Rhenen
+opengraph: true
 colors:
   vibrant: 234 104 62
   darkVibrant: 128 35 18

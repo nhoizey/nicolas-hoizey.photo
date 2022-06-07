@@ -1,7 +1,7 @@
 ---
 title: On the move…
 file: on-the-move.jpg
-date: 2019-03-01 08:03:00 +01:00
+date: 2019-03-01 09:03:00 +02:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -30,10 +30,10 @@ tags:
   - Kenya
   - landscape
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - National Park
   - pancake
   - Parc national d'Amboseli
@@ -54,6 +54,7 @@ geo:
   map: true
   country: Kenya
   city: Entonet
+opengraph: true
 colors:
   vibrant: 35 143 206
   darkVibrant: 93 65 35

@@ -1,7 +1,7 @@
 ---
 title: Strobe
 file: strobe.jpg
-date: 2017-03-25 13:03:00 +01:00
+date: 2017-03-25 14:03:00 +02:00
 dates:
   iso: 2017-03-25
   human: 25th March 2017
@@ -40,6 +40,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 196 102 92
   darkVibrant: 87 4 9

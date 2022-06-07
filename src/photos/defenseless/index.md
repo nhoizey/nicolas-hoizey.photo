@@ -1,7 +1,7 @@
 ---
 title: Defenseless
 file: defenseless.jpg
-date: 2018-06-11 17:06:00 +01:00
+date: 2018-06-11 18:06:00 +02:00
 dates:
   iso: 2018-06-11
   human: 11th June 2018
@@ -56,6 +56,7 @@ geo:
   map: true
   country: France
   city: Puteaux
+opengraph: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

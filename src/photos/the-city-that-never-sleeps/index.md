@@ -1,7 +1,7 @@
 ---
 title: The City That Never Sleeps
 file: the-city-that-never-sleeps.jpg
-date: 2015-05-22 23:05:00 +01:00
+date: 2015-05-23 00:05:00 +02:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -59,8 +59,9 @@ geo:
   latitude: 40.744661666666666
   longitude: -73.99069166666666
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 233 28 40
   darkVibrant: 6 20 161

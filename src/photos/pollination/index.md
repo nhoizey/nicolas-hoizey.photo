@@ -1,7 +1,7 @@
 ---
 title: Pollination
 file: pollination.jpg
-date: 2020-06-23 19:06:00 +01:00
+date: 2020-06-23 20:06:00 +02:00
 dates:
   iso: 2020-06-23
   human: 23rd June 2020
@@ -49,6 +49,7 @@ geo:
   map: true
   country: France
   city: Étiolles
+opengraph: true
 colors:
   vibrant: 149 158 63
   darkVibrant: 120 136 15

@@ -1,7 +1,7 @@
 ---
 title: Baglafecht weaver
 file: baglafecht-weaver.jpg
-date: 2019-02-26 09:02:00 +01:00
+date: 2019-02-26 10:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -57,6 +57,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 220 192 60
   darkVibrant: 87 84 31

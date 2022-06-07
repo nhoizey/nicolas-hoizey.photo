@@ -1,7 +1,7 @@
 ---
 title: Juvenile European Roller… in Africa
 file: juvenile-european-roller-in-africa.jpg
-date: 2019-03-02 07:03:00 +01:00
+date: 2019-03-02 08:03:00 +02:00
 dates:
   iso: 2019-03-02
   human: 2nd March 2019
@@ -56,6 +56,7 @@ geo:
   map: true
   country: Kenya
   city: Taita
+opengraph: true
 colors:
   vibrant: 198 161 112
   darkVibrant: 88 77 31

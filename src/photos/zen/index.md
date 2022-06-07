@@ -1,7 +1,7 @@
 ---
 title: Zen
 file: zen.jpg
-date: 2014-06-14 16:06:00 +01:00
+date: 2014-06-14 17:06:00 +02:00
 dates:
   iso: 2014-06-14
   human: 14th June 2014
@@ -49,6 +49,7 @@ geo:
   map: true
   country: France
   city: Lyon
+opengraph: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

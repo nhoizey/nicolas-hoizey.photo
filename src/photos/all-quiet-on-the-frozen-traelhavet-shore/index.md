@@ -1,7 +1,7 @@
 ---
 title: All quiet on the frozen Trälhavet shore
 file: all-quiet-on-the-frozen-traelhavet-shore.jpg
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 16:02:00 +02:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -52,8 +52,9 @@ geo:
   latitude: 59.45706133833333
   longitude: 18.29953088
   map: true
-  country: Suède
+  country: Sweden
   city: Åkersberga
+opengraph: true
 colors:
   vibrant: 79 118 167
   darkVibrant: 43 68 95

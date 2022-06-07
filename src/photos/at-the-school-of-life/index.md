@@ -1,7 +1,7 @@
 ---
 title: At the school of life
 file: at-the-school-of-life.jpg
-date: 2019-02-26 16:02:00 +01:00
+date: 2019-02-26 17:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -18,10 +18,10 @@ tags:
   - animaux sauvages
   - APS-C
   - converter
-  - Equidae
-  - Équidés
-  - Equus quagga
-  - Equus quagga bohemi
+  - equidae
+  - équidés
+  - equus quagga
+  - equus quagga bohemi
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
@@ -30,29 +30,29 @@ tags:
   - Grant's zebra
   - horse family
   - hybrid
-  - Imparidigités
+  - imparidigités
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai Mara
   - Narok County
-  - Odd-toed ungulate
-  - Perissodactyla
-  - Périssodactyles
+  - odd-toed ungulate
+  - perissodactyla
+  - périssodactyles
   - plains zebra
   - reserve
   - sauvage
   - wild animal
   - wild animals
   - zèbre de Burchell
-  - Zèbre de Grant
-  - Zèbre des plaines
+  - zèbre de Grant
+  - zèbre des plaines
   - zoom
 settings:
   focal_length: 200
@@ -69,6 +69,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 172 100 44
   darkVibrant: 92 44 12

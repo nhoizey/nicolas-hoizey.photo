@@ -1,7 +1,7 @@
 ---
 title: A very curious Vervet monkey
 file: a-very-curious-vervet-monkey.jpg
-date: 2019-02-26 16:02:00 +01:00
+date: 2019-02-26 17:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -19,7 +19,7 @@ tags:
   - APS-C
   - Cercopithecidae
   - cercopithécidés
-  - Chlorocebus pygerythrus
+  - chlorocebus pygerythrus
   - converter
   - Fujifilm
   - Fujifilm X-T3
@@ -31,10 +31,10 @@ tags:
   - Maasai
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai Mara
   - Narok County
@@ -43,9 +43,9 @@ tags:
   - primates
   - reserve
   - sauvage
-  - Vervet
-  - Vervet bleu
-  - Vervet monkey
+  - vervet
+  - vervet bleu
+  - vervet monkey
   - wild animal
   - wild animals
   - zoom
@@ -64,6 +64,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 150 128 36
   darkVibrant: 82 97 12

@@ -1,7 +1,7 @@
 ---
 title: Juvenile D'Arnaud's Barbets in sunset
 file: juvenile-d-arnaud-s-barbets-in-sunset.jpg
-date: 2019-02-26 18:02:00 +01:00
+date: 2019-02-26 19:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -57,6 +57,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 220 202 35
   darkVibrant: 50 46 8

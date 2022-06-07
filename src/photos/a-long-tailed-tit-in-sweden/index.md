@@ -1,7 +1,7 @@
 ---
 title: A Long-tailed Tit in Sweden
 file: a-long-tailed-tit-in-sweden.jpg
-date: 2020-02-05 12:02:00 +01:00
+date: 2020-02-05 13:02:00 +02:00
 dates:
   iso: 2020-02-05
   human: 5th February 2020
@@ -63,8 +63,9 @@ geo:
   latitude: 59.4802025
   longitude: 18.013016666666665
   map: true
-  country: Suède
+  country: Sweden
   city: Täby
+opengraph: true
 colors:
   vibrant: 76 116 179
   darkVibrant: 40 61 93

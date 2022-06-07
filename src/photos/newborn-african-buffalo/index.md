@@ -1,7 +1,7 @@
 ---
 title: Newborn African buffalo
 file: newborn-african-buffalo.jpg
-date: 2019-02-27 16:02:00 +01:00
+date: 2019-02-27 17:02:00 +02:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -11,21 +11,21 @@ gear:
   lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
 tags:
   - Africa
-  - African buffalo
+  - african buffalo
   - Afrique
   - animal
   - animal sauvage
   - animalière
   - animaux sauvages
   - APS-C
-  - Bovidés
-  - Buffle d'Afrique
+  - bovidés
+  - buffle d'Afrique
   - buffle noir des savanes
   - Cape buffalo
-  - Cetartiodactyla
-  - Cétartiodactyles
+  - cetartiodactyla
+  - cétartiodactyles
   - converter
-  - Even-toed ungulate
+  - even-toed ungulate
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
@@ -40,15 +40,15 @@ tags:
   - Lake Nakuru
   - Lake Nakuru National Park
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Nakuru
   - Nakuru County
   - Parc national du lac Nakuru
   - sauvage
-  - Syncerus caffer
+  - syncerus caffer
   - wild animal
   - wild animals
   - zoom
@@ -67,6 +67,7 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
+opengraph: true
 colors:
   vibrant: 195 153 84
   darkVibrant: 79 61 33

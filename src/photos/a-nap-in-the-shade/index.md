@@ -1,7 +1,7 @@
 ---
 title: A nap in the shade
 file: a-nap-in-the-shade.jpg
-date: 2019-02-26 17:02:00 +01:00
+date: 2019-02-26 18:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -16,9 +16,9 @@ tags:
   - animalière
   - APS-C
   - converter
-  - Felidae
-  - Félidés
-  - Félins
+  - felidae
+  - félidés
+  - félins
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
@@ -30,10 +30,10 @@ tags:
   - Maasai
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai Mara
   - Narok County
@@ -55,6 +55,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 197 203 43
   darkVibrant: 141 151 33

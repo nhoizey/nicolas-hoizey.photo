@@ -1,7 +1,7 @@
 ---
 title: Kiss
 file: kiss.jpg
-date: 2009-12-27 16:12:00 +01:00
+date: 2009-12-27 17:12:00 +02:00
 dates:
   iso: 2009-12-27
   human: 27th December 2009
@@ -55,8 +55,9 @@ geo:
   latitude: 51.96565290833333
   longitude: 5.688419555
   map: true
-  country: Pays-Bas
-  city: Wageningue
+  country: The Netherlands
+  city: Wageningen
+opengraph: true
 colors:
   vibrant: 164 68 159
   darkVibrant: 94 28 89

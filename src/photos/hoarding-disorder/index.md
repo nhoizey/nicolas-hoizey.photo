@@ -1,7 +1,7 @@
 ---
 title: Hoarding disorder
 file: hoarding-disorder.jpg
-date: 2015-08-09 17:08:00 +01:00
+date: 2015-08-09 18:08:00 +02:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -49,6 +49,7 @@ geo:
   map: true
   country: Hong Kong
   city: Hong-Kong
+opengraph: true
 colors:
   vibrant: 215 82 40
   darkVibrant: 102 39 19

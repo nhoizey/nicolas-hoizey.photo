@@ -1,7 +1,7 @@
 ---
 title: Saint Pancras
 file: saint-pancras.jpg
-date: 2017-10-19 08:10:00 +01:00
+date: 2017-10-19 09:10:00 +02:00
 dates:
   iso: 2017-10-19
   human: 19th October 2017
@@ -53,8 +53,9 @@ geo:
   latitude: 51.529916666666665
   longitude: -0.124130555
   map: true
-  country: Royaume-Uni
-  city: Londres
+  country: England
+  city: London
+opengraph: true
 colors:
   vibrant: 76 128 160
   darkVibrant: 90 67 20

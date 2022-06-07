@@ -1,7 +1,7 @@
 ---
 title: Belgian Pride
 file: belgian-pride.jpg
-date: 2017-05-22 21:05:00 +01:00
+date: 2017-05-22 22:05:00 +02:00
 dates:
   iso: 2017-05-22
   human: 22nd May 2017
@@ -58,6 +58,7 @@ geo:
   map: true
   country: Belgique
   city: Bruxelles
+opengraph: true
 colors:
   vibrant: 47 33 217
   darkVibrant: 96 11 24

@@ -9,23 +9,13 @@ gear:
   make: Canon
   model: Canon EOS 350D DIGITAL
 tags:
-  - 350D
-  - Amérique du Nord
-  - B&W
+  - APS-C
   - baigneur
-  - bather
-  - black and white
-  - Canada
   - Canon
   - Canon EOS 350D
   - lac
   - lake
-  - noir et blanc
-  - North America
-  - onde
-  - Québec
-  - vague
-  - wave
+  - reflex
 settings:
   focal_length: 17
   iso: 1600
@@ -39,7 +29,8 @@ geo:
   longitude: -73.006345
   map: true
   country: Canada
-  city: 136 km N  of Montreal
+  city: La Mauricie
+opengraph: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66
@@ -49,4 +40,4 @@ colors:
   lightMuted: 180 180 180
 ---
 
-Shot in <a href="https://en.wikipedia.org/wiki/La_Mauricie_National_Park">La Mauricie National Park</a> in Québec, Canada
+

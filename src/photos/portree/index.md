@@ -1,7 +1,7 @@
 ---
 title: Portree
 file: portree.jpg
-date: 2014-05-01 14:05:00 +01:00
+date: 2014-05-01 15:05:00 +02:00
 dates:
   iso: 2014-05-01
   human: 1st May 2014
@@ -68,8 +68,9 @@ geo:
   latitude: 57.413064405
   longitude: -6.191885431666667
   map: true
-  country: Royaume-Uni
+  country: Scotland
   city: Portree
+opengraph: true
 colors:
   vibrant: 174 133 52
   darkVibrant: 32 32 4

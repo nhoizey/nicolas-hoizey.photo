@@ -1,7 +1,7 @@
 ---
 title: Lioness on the lookout
 file: lioness-on-the-lookout.jpg
-date: 2019-02-26 08:02:00 +01:00
+date: 2019-02-26 09:02:00 +02:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -16,9 +16,9 @@ tags:
   - animalière
   - APS-C
   - converter
-  - Felidae
-  - Félidés
-  - Félins
+  - felidae
+  - félidés
+  - félins
   - female
   - femelle
   - Fujifilm
@@ -36,10 +36,10 @@ tags:
   - Maasai
   - Maasai Mara National Reserve
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - Masai
   - Masai Mara
   - Narok County
@@ -63,6 +63,7 @@ geo:
   map: true
   country: Kenya
   city: Narok
+opengraph: true
 colors:
   vibrant: 175 160 67
   darkVibrant: 96 88 37

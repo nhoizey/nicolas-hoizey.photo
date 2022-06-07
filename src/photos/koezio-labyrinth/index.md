@@ -1,7 +1,7 @@
 ---
 title: Koezio labyrinth
 file: koezio-labyrinth.jpg
-date: 2018-06-16 14:06:00 +01:00
+date: 2018-06-16 15:06:00 +02:00
 dates:
   iso: 2018-06-16
   human: 16th June 2018
@@ -40,6 +40,7 @@ geo:
   map: true
   country: France
   city: Lieusaint
+opengraph: true
 colors:
   vibrant: 250 128 43
   darkVibrant: 121 16 39

@@ -1,7 +1,7 @@
 ---
 title: Österskär
 file: oesterskaer.jpg
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 16:02:00 +02:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -45,7 +45,9 @@ geo:
   latitude: 59.460056488333336
   longitude: 18.297942645
   map: true
-  country: Suède
+  country: Sweden
+  city: Österåkers kommun
+opengraph: true
 colors:
   vibrant: 166 66 31
   darkVibrant: 69 19 15

@@ -1,7 +1,7 @@
 ---
 title: Tone-on-tone
 file: tone-on-tone.jpg
-date: 2008-04-26 17:04:00 +01:00
+date: 2008-04-26 18:04:00 +02:00
 dates:
   iso: 2008-04-26
   human: 26th April 2008
@@ -43,8 +43,9 @@ geo:
   latitude: 45.488904471666665
   longitude: 12.410688083333334
   map: true
-  country: Italie
-  city: Venezia
+  country: Italy
+  city: Mazzorbo
+opengraph: true
 colors:
   vibrant: 178 86 45
   darkVibrant: 7 124 73

@@ -1,7 +1,7 @@
 ---
 title: (Sittin' On) The Dock of the Bay
 file: sittin-on-the-dock-of-the-bay.jpg
-date: 2014-03-14 14:03:00 +01:00
+date: 2014-03-14 15:03:00 +02:00
 dates:
   iso: 2014-03-14
   human: 14th March 2014
@@ -24,6 +24,8 @@ geo:
   longitude: 2.3431397483333334
   map: true
   country: France
+  city: Paris
+opengraph: true
 colors:
   vibrant: 68 140 164
   darkVibrant: 43 88 107

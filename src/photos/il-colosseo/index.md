@@ -1,7 +1,7 @@
 ---
 title: il Colosseo
 file: il-colosseo.jpg
-date: 2017-05-11 17:05:00 +01:00
+date: 2017-05-11 18:05:00 +02:00
 dates:
   iso: 2017-05-11
   human: 11th May 2017
@@ -45,8 +45,9 @@ geo:
   latitude: 41.89086914
   longitude: 12.491434366666667
   map: true
-  country: Italie
+  country: Italy
   city: Rome
+opengraph: true
 colors:
   vibrant: 157 218 37
   darkVibrant: 84 116 20

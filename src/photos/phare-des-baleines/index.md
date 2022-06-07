@@ -1,7 +1,7 @@
 ---
 title: Phare des Baleines
 file: phare-des-baleines.jpg
-date: 2017-08-22 16:08:00 +01:00
+date: 2017-08-22 17:08:00 +02:00
 dates:
   iso: 2017-08-22
   human: 22nd August 2017
@@ -53,6 +53,7 @@ geo:
   map: true
   country: France
   city: Saint-Clément-des-Baleines
+opengraph: true
 colors:
   vibrant: 108 76 52
   darkVibrant: 62 32 20

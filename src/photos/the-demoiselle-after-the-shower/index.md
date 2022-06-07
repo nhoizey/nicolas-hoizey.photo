@@ -1,7 +1,7 @@
 ---
 title: The demoiselle after the shower
 file: the-demoiselle-after-the-shower.jpg
-date: 2018-09-16 06:09:00 +01:00
+date: 2018-09-16 07:09:00 +02:00
 dates:
   iso: 2018-09-16
   human: 16th September 2018
@@ -60,6 +60,7 @@ geo:
   map: true
   country: France
   city: Étiolles
+opengraph: true
 colors:
   vibrant: 108 62 49
   darkVibrant: 91 52 41

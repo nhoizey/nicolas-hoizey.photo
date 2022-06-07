@@ -1,7 +1,7 @@
 ---
 title: If symptoms persist, seek medical advice
 file: if-symptoms-persist-seek-medical-advice.jpg
-date: 2019-02-27 12:02:00 +01:00
+date: 2019-02-27 13:02:00 +02:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -37,6 +37,7 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
+opengraph: true
 colors:
   vibrant: 194 168 11
   darkVibrant: 158 138 4

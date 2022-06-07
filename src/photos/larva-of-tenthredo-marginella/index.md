@@ -1,7 +1,7 @@
 ---
 title: Larva of Tenthredo Marginella
 file: larva-of-tenthredo-marginella.jpg
-date: 2008-10-12 13:10:00 +01:00
+date: 2008-10-12 14:10:00 +02:00
 dates:
   iso: 2008-10-12
   human: 12th October 2008
@@ -34,6 +34,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 148 175 78
   darkVibrant: 60 108 20

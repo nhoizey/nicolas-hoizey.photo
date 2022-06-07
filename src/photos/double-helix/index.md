@@ -1,7 +1,7 @@
 ---
 title: Double helix
 file: double-helix.jpg
-date: 2017-05-12 14:05:00 +01:00
+date: 2017-05-12 15:05:00 +02:00
 dates:
   iso: 2017-05-12
   human: 12th May 2017
@@ -67,7 +67,8 @@ geo:
   latitude: 41.90653931666667
   longitude: 12.455145353333334
   map: true
-  country: Italie
+  country: Vatican City
+opengraph: true
 colors:
   vibrant: 226 4 33
   darkVibrant: 102 9 28

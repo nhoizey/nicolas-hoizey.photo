@@ -1,7 +1,7 @@
 ---
 title: Don't be afraid, I'm just yawning
 file: don-t-be-afraid-i-m-just-yawning.jpg
-date: 2019-02-28 18:02:00 +01:00
+date: 2019-02-28 19:02:00 +02:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -18,9 +18,9 @@ tags:
   - animalière
   - APS-C
   - converter
-  - Felidae
-  - Félidés
-  - Félins
+  - felidae
+  - félidés
+  - félins
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
@@ -31,10 +31,10 @@ tags:
   - Kenya
   - lion
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - National Park
   - Panthera leo
   - Parc national d'Amboseli
@@ -54,6 +54,7 @@ geo:
   map: true
   country: Kenya
   city: Kajiado
+opengraph: true
 colors:
   vibrant: 190 164 68
   darkVibrant: 127 118 52

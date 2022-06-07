@@ -1,7 +1,7 @@
 ---
 title: Chung Wui Mansion
 file: chung-wui-mansion.jpg
-date: 2015-08-09 13:08:00 +01:00
+date: 2015-08-09 14:08:00 +02:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -37,6 +37,7 @@ geo:
   map: true
   country: China
   city: Hong Kong Island
+opengraph: true
 colors:
   vibrant: 198 38 40
   darkVibrant: 159 34 36

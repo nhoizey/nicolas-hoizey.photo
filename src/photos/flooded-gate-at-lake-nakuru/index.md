@@ -1,7 +1,7 @@
 ---
 title: Flooded gate at Lake Nakuru
 file: flooded-gate-at-lake-nakuru.jpg
-date: 2019-02-27 13:02:00 +01:00
+date: 2019-02-27 14:02:00 +02:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -45,6 +45,7 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
+opengraph: true
 colors:
   vibrant: 134 166 198
   darkVibrant: 114 89 34

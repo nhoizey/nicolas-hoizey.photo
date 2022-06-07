@@ -1,7 +1,7 @@
 ---
 title: Saddle-billed stork
 file: saddle-billed-stork.jpg
-date: 2019-02-28 17:02:00 +01:00
+date: 2019-02-28 18:02:00 +02:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -54,6 +54,7 @@ geo:
   map: true
   country: Kenya
   city: Entonet
+opengraph: true
 colors:
   vibrant: 220 218 35
   darkVibrant: 94 93 15

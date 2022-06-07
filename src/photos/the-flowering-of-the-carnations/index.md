@@ -1,7 +1,7 @@
 ---
 title: The flowering of the carnations
 file: the-flowering-of-the-carnations.jpg
-date: 2017-06-14 19:06:00 +01:00
+date: 2017-06-14 20:06:00 +02:00
 dates:
   iso: 2017-06-14
   human: 14th June 2017
@@ -46,6 +46,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 168 4 45
   darkVibrant: 128 4 28

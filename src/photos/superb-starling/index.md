@@ -1,7 +1,7 @@
 ---
 title: Superb Starling
 file: superb-starling.jpg
-date: 2018-10-30 12:10:00 +01:00
+date: 2018-10-30 13:10:00 +02:00
 dates:
   iso: 2018-10-30
   human: 30th October 2018
@@ -57,8 +57,9 @@ geo:
   latitude: 51.67220394
   longitude: 5.99632914
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Heijen
+opengraph: true
 colors:
   vibrant: 62 185 215
   darkVibrant: 105 41 4

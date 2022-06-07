@@ -1,7 +1,7 @@
 ---
 title: Morning stroll
 file: morning-stroll.jpg
-date: 2019-03-01 06:03:00 +01:00
+date: 2019-03-01 07:03:00 +02:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -37,10 +37,10 @@ tags:
   - Kenya
   - levé de soleil
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - National Park
   - Parc national d'Amboseli
   - sauvage
@@ -65,6 +65,7 @@ geo:
   map: true
   country: Kenya
   city: Entonet
+opengraph: true
 colors:
   vibrant: 190 117 60
   darkVibrant: 124 68 38

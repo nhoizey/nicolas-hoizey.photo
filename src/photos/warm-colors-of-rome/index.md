@@ -1,7 +1,7 @@
 ---
 title: Warm colors of Rome
 file: warm-colors-of-rome.jpg
-date: 2017-05-11 17:05:00 +01:00
+date: 2017-05-11 18:05:00 +02:00
 dates:
   iso: 2017-05-11
   human: 11th May 2017
@@ -50,8 +50,9 @@ geo:
   latitude: 41.89461073
   longitude: 12.48915811
   map: true
-  country: Italie
+  country: Italy
   city: Rome
+opengraph: true
 colors:
   vibrant: 184 118 71
   darkVibrant: 94 60 36

@@ -1,7 +1,7 @@
 ---
 title: Tian Tan Buddha
 file: tian-tan-buddha.jpg
-date: 2015-08-16 08:08:00 +01:00
+date: 2015-08-16 09:08:00 +02:00
 dates:
   iso: 2015-08-16
   human: 16th August 2015
@@ -42,6 +42,7 @@ geo:
   map: true
   country: China
   city: Ngong Ping
+opengraph: true
 colors:
   vibrant: 175 124 80
   darkVibrant: 24 17 11

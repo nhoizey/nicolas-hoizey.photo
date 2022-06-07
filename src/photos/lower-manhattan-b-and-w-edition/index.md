@@ -1,7 +1,7 @@
 ---
 title: Lower Manhattan (B&W Edition)
 file: lower-manhattan-b-and-w-edition.jpg
-date: 2015-05-23 22:05:00 +01:00
+date: 2015-05-23 23:05:00 +02:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -75,8 +75,9 @@ geo:
   latitude: 40.70071166666666
   longitude: -73.99695833333334
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

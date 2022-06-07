@@ -1,7 +1,7 @@
 ---
 title: Let's ride!
 file: let-s-ride.jpg
-date: 2011-07-15 11:07:00 +01:00
+date: 2011-07-15 12:07:00 +02:00
 dates:
   iso: 2011-07-15
   human: 15th July 2011
@@ -48,8 +48,9 @@ geo:
   latitude: 52.09919166666667
   longitude: 4.296975
   map: true
-  country: Pays-Bas
+  country: The Netherlands
   city: Den Haag
+opengraph: true
 colors:
   vibrant: 174 183 51
   darkVibrant: 34 46 10

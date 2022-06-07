@@ -1,7 +1,7 @@
 ---
 title: Magmatic eruption
 file: magmatic-eruption.jpg
-date: 2021-12-13 22:12:00 +01:00
+date: 2021-12-13 23:12:00 +02:00
 dates:
   iso: 2021-12-13
   human: 13th December 2021
@@ -52,6 +52,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 236 19 42
   darkVibrant: 127 5 4

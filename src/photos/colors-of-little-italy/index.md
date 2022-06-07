@@ -1,7 +1,7 @@
 ---
 title: Colors of Little Italy
 file: colors-of-little-italy.jpg
-date: 2015-05-20 14:05:00 +01:00
+date: 2015-05-20 15:05:00 +02:00
 dates:
   iso: 2015-05-20
   human: 20th May 2015
@@ -58,8 +58,9 @@ geo:
   latitude: 40.71503
   longitude: -73.99883
   map: true
-  country: États-Unis
-  city: New York
+  country: United States of America
+  city: New York City
+opengraph: true
 colors:
   vibrant: 189 131 43
   darkVibrant: 14 120 118

@@ -1,7 +1,7 @@
 ---
 title: Aux couleurs modernes
 file: aux-couleurs-modernes.jpg
-date: 2017-02-03 14:02:00 +01:00
+date: 2017-02-03 15:02:00 +02:00
 dates:
   iso: 2017-02-03
   human: 3rd February 2017
@@ -49,6 +49,7 @@ geo:
   map: true
   country: France
   city: Paris
+opengraph: true
 colors:
   vibrant: 243 176 36
   darkVibrant: 156 102 11

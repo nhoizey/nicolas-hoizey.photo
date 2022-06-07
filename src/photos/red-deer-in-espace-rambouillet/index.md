@@ -1,7 +1,7 @@
 ---
 title: Red deer in Espace Rambouillet
 file: red-deer-in-espace-rambouillet.jpg
-date: 2021-10-24 10:10:00 +01:00
+date: 2021-10-24 11:10:00 +02:00
 dates:
   iso: 2021-10-24
   human: 24th October 2021
@@ -19,10 +19,10 @@ tags:
   - captif
   - captivité
   - captivity
-  - Cerf élaphe
-  - Cervidae
+  - cerf élaphe
+  - cervidae
   - cervidés
-  - Cervus elaphus
+  - cervus elaphus
   - converter
   - Espace Rambouillet
   - Europa
@@ -40,12 +40,12 @@ tags:
   - hybrid
   - Ile de France
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - plant
-  - Red deer
+  - red deer
   - tree
   - végétal
   - Yvelines
@@ -65,6 +65,7 @@ geo:
   map: true
   country: France
   city: Sonchamp
+opengraph: true
 colors:
   vibrant: 154 130 60
   darkVibrant: 102 93 22

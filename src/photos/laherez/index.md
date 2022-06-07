@@ -1,7 +1,7 @@
 ---
 title: Lahérez
 file: laherez.jpg
-date: 2013-08-23 08:08:00 +01:00
+date: 2013-08-23 09:08:00 +02:00
 dates:
   iso: 2013-08-23
   human: 23rd August 2013
@@ -57,6 +57,7 @@ geo:
   map: true
   country: France
   city: Perros-Guirec
+opengraph: true
 colors:
   vibrant: 31 121 188
   darkVibrant: 5 37 51

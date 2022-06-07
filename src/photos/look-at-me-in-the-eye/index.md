@@ -1,7 +1,7 @@
 ---
 title: Look at me in the eye
 file: look-at-me-in-the-eye.jpg
-date: 2009-05-14 14:05:00 +01:00
+date: 2009-05-14 15:05:00 +02:00
 dates:
   iso: 2009-05-14
   human: 14th May 2009
@@ -48,6 +48,7 @@ geo:
   map: true
   country: France
   city: Brest
+opengraph: true
 colors:
   vibrant: 4 140 172
   darkVibrant: 7 95 120

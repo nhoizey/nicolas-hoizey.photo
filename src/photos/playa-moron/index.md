@@ -1,7 +1,7 @@
 ---
 title: Playa Morón
 file: playa-moron.jpg
-date: 2018-02-28 11:02:00 +01:00
+date: 2018-02-28 12:02:00 +02:00
 dates:
   iso: 2018-02-28
   human: 28th February 2018
@@ -57,8 +57,9 @@ geo:
   latitude: 19.31711333333333
   longitude: -69.41788333333334
   map: true
-  country: République dominicaine
+  country: Dominican Republic
   city: El Limón
+opengraph: true
 colors:
   vibrant: 15 138 203
   darkVibrant: 4 73 135

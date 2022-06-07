@@ -1,7 +1,7 @@
 ---
 title: Aurélien B&W
 file: aurelien-b-and-w.jpg
-date: 2016-01-26 21:01:00 +01:00
+date: 2016-01-26 22:01:00 +02:00
 dates:
   iso: 2016-01-26
   human: 26th January 2016
@@ -44,6 +44,7 @@ geo:
   map: true
   country: France
   city: Draveil
+opengraph: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

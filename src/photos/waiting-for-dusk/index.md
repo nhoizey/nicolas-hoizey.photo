@@ -1,7 +1,7 @@
 ---
 title: Waiting for dusk
 file: waiting-for-dusk.jpg
-date: 2019-03-01 07:03:00 +01:00
+date: 2019-03-01 08:03:00 +02:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -22,9 +22,9 @@ tags:
   - bush
   - converter
   - evening
-  - Felidae
-  - Félidés
-  - Félins
+  - felidae
+  - félidés
+  - félins
   - Fujifilm
   - Fujifilm X-T3
   - Fujinon
@@ -39,10 +39,10 @@ tags:
   - lion
   - lumière
   - mammal
-  - Mammalia
+  - mammalia
   - mammals
   - mammifère
-  - Mammifères
+  - mammifères
   - National Park
   - Panthera leo
   - Parc national d'Amboseli
@@ -72,6 +72,7 @@ geo:
   map: true
   country: Kenya
   city: Entonet
+opengraph: true
 colors:
   vibrant: 157 131 59
   darkVibrant: 102 94 36

@@ -1,7 +1,7 @@
 ---
 title: Kilchurn Castle
 file: kilchurn-castle.jpg
-date: 2014-04-30 17:04:00 +01:00
+date: 2014-04-30 18:04:00 +02:00
 dates:
   iso: 2014-04-30
   human: 30th April 2014
@@ -43,7 +43,9 @@ geo:
   latitude: 56.400980555
   longitude: -5.024969445
   map: true
-  country: Royaume-Uni
+  country: Scotland
+  city: Lochawe
+opengraph: true
 colors:
   vibrant: 200 213 42
   darkVibrant: 77 82 16

@@ -1,7 +1,7 @@
 ---
 title: Another colourful window in Burano
 file: another-colourful-window-in-burano.jpg
-date: 2008-04-26 15:04:00 +01:00
+date: 2008-04-26 16:04:00 +02:00
 dates:
   iso: 2008-04-26
   human: 26th April 2008
@@ -41,8 +41,9 @@ geo:
   latitude: 45.48591111166667
   longitude: 12.417644445
   map: true
-  country: Italie
-  city: Venezia
+  country: Italy
+  city: Burano
+opengraph: true
 colors:
   vibrant: 180 164 68
   darkVibrant: 16 52 116

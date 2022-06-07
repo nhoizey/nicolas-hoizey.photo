@@ -1,7 +1,7 @@
 ---
 title: Japanese Zen
 file: japanese-zen.jpg
-date: 2009-04-01 14:04:00 +01:00
+date: 2009-04-01 15:04:00 +02:00
 dates:
   iso: 2009-04-01
   human: 1st April 2009
@@ -55,6 +55,7 @@ geo:
   map: true
   country: France
   city: Boulogne-Billancourt
+opengraph: true
 colors:
   vibrant: 199 128 101
   darkVibrant: 116 92 22

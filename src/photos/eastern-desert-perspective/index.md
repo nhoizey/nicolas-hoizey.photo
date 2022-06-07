@@ -1,7 +1,7 @@
 ---
 title: Eastern Desert perspective
 file: eastern-desert-perspective.jpg
-date: 2004-05-14 17:05:00 +01:00
+date: 2004-05-14 18:05:00 +02:00
 dates:
   iso: 2004-05-14
   human: 14th May 2004
@@ -47,6 +47,7 @@ geo:
   longitude: 34.294278395
   map: true
   country: Egypt
+opengraph: true
 colors:
   vibrant: 232 184 108
   darkVibrant: 110 68 19
