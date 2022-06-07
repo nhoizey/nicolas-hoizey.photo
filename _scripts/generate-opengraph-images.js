@@ -6,6 +6,7 @@ const puppeteer = require('puppeteer-core');
 const { Cluster } = require('puppeteer-cluster');
 const fs = require('fs').promises;
 const path = require('path');
+const glob = require('fast-glob');
 
 (async () => {
   const cluster = await Cluster.launch({
@@ -20,6 +21,12 @@ const path = require('path');
   });
 
   await cluster.task(async ({ page, data: resourcePath }) => {
+    await page.setViewport({
+      width: 1440,
+      height: 800,
+      deviceScaleFactor: 1,
+    });
+
     const folder = path.join('./src', resourcePath);
     const isDir = await fs.stat(folder).then((stats) => stats.isDirectory());
     if (!isDir) {
@@ -37,11 +44,6 @@ const path = require('path');
 
     console.log(`Get opengraph image for ${opengraphUrl}`);
 
-    await page.setViewport({
-      width: 1440,
-      height: 800,
-      deviceScaleFactor: 1,
-    });
     await page.goto(opengraphUrl, { waitUntil: 'networkidle0', timeout: 0 });
 
     // Save a screenshot of the opengraph image
@@ -59,8 +61,22 @@ const path = require('path');
     console.log(`  Error with ${data}: ${err.message}`);
   });
 
-  const photos = await fs.readdir('./src/photos/');
-  photos.forEach((photo) => cluster.queue(path.join('photos', photo)));
+  // Get the list of photos
+  const photos = await glob(['photos/*'], {
+    cwd: 'src',
+    onlyDirectories: true,
+  });
+
+  // Get the list of galleries
+  const galleries = await glob(['galleries/**'], {
+    cwd: 'src',
+    onlyDirectories: true,
+  });
+
+  // Queue processing of all photos and galleries
+  [...photos, ...galleries].forEach((resourcePath) =>
+    cluster.queue(resourcePath)
+  );
 
   await cluster.idle();
   await cluster.close();
