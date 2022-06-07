@@ -13,6 +13,7 @@ const imageSize = require('image-size');
 const utf8 = require('utf8');
 const YAML = require('yaml');
 const deepmerge = require('deepmerge');
+const pixelmatch = require('pixelmatch');
 const fs = require('fs');
 const path = require('path');
 
@@ -79,8 +80,15 @@ SYNC ${photo}`);
   if (undefined === photoExif) {
     thisLog(`  ⚠ error reading EXIF data`);
   } else {
-    if (photosData[photo] === undefined) {
+    if (undefined === photosData[photo]) {
       photosData[photo] = {};
+    }
+
+    let copyPhotoFile = false;
+    if (JSON.stringify(photosData[photo].raw) !== JSON.stringify(photoExif)) {
+      thisLog(`  ⚠ EXIF data are new or changed`);
+      photosData[photo].raw = photoExif;
+      copyPhotoFile = true;
     }
 
     if (undefined === photoExif.ObjectName) {
@@ -256,7 +264,7 @@ SYNC ${photo}`);
         await browser.close();
       }
 
-      // Get opengraph image for the photo
+      // Check opengraph image for the photo
       const opengraphFile = path.join(distDir, 'opengraph.jpg');
       if (fs.existsSync(opengraphFile)) {
         photoYFM.opengraph = true;
@@ -313,7 +321,35 @@ SYNC ${photo}`);
     if (!fs.existsSync(distDir)) {
       fs.mkdirSync(distDir);
     }
-    fs.copyFileSync(photoPath, distPhoto);
+
+    // Check if photo is already in dist
+    if (!fs.existsSync(distPhoto)) {
+      copyPhotoFile = true;
+    } else {
+      if (!photoPhotoFile) {
+        // Check if new and previous photo are visually different
+        const existingPhotoBuffer = sharp(distPhoto).png().raw().toBuffer();
+        const newPhotoBuffer = sharp(photoPath).png().raw().toBuffer();
+        const diff = pixelmatch(
+          existingPhotoBuffer,
+          newPhotoBuffer,
+          null,
+          photoYFM.dimensions.width,
+          photoYFM.dimensions.height,
+          {
+            threshold: 0.1,
+          }
+        );
+        if (diff > 0) {
+          console.log(`${diff} pixels different for ${photoPath}`);
+          copyPhotoFile = true;
+        }
+      }
+    }
+
+    if (copyPhotoFile) {
+      // fs.copyFileSync(photoPath, distPhoto);
+    }
 
     // Manage index file
     let mdContent = `---
