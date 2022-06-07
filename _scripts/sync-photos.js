@@ -260,35 +260,6 @@ SYNC ${photo}`);
       const opengraphFile = path.join(distDir, 'opengraph.jpg');
       if (fs.existsSync(opengraphFile)) {
         photoYFM.opengraph = true;
-      } else {
-        const opengraphHtmlUrl = `https://nicolas-hoizey.photo/photos/${slug}/opengraph.html`;
-        thisLog(`  get opengraph image`);
-        const browser = await puppeteer.launch({
-          executablePath:
-            '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-        });
-        const page = await browser.newPage();
-        page.setViewport({
-          width: 1440,
-          height: 800,
-          deviceScaleFactor: 1,
-        });
-        await page.goto(opengraphHtmlUrl, { waitUntil: 'load', timeout: 0 });
-
-        // Take a screenshot of the opengraph image
-        const opengraphElement = await page.$('#opengraph');
-        if (opengraphElement) {
-          const opengraphScreenshotResult = await opengraphElement.screenshot({
-            path: opengraphFile,
-            type: 'jpeg',
-          });
-          if (opengraphScreenshotResult) {
-            photoYFM.opengraph = true;
-          }
-        }
-
-        await page.close();
-        await browser.close();
       }
     } else {
       thisLog(`  ⚠ geolocation missing`);
