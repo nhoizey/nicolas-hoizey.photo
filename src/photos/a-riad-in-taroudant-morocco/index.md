@@ -51,7 +51,6 @@ geo:
   map: true
   country: Morocco
   city: Taroudant
-opengraph: true
 colors:
   vibrant: 4 108 187
   darkVibrant: 4 100 180

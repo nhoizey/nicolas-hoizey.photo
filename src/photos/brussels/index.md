@@ -1,6 +1,6 @@
 ---
-title: Bruxelles
-file: bruxelles.jpg
+title: Brussels
+file: brussels.jpg
 date: 2007-08-27 11:08:00 +02:00
 dates:
   iso: 2007-08-27
@@ -40,8 +40,7 @@ geo:
   longitude: 4.352530555
   map: true
   country: Belgium
-  city: City of Brussels
-opengraph: true
+  city: Brussels
 colors:
   vibrant: 69 154 212
   darkVibrant: 107 85 45

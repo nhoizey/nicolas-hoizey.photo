@@ -57,7 +57,6 @@ geo:
   map: true
   country: France
   city: Perros-Guirec
-opengraph: true
 colors:
   vibrant: 31 121 188
   darkVibrant: 5 37 51

@@ -55,7 +55,6 @@ geo:
   map: true
   country: France
   city: Boulogne-Billancourt
-opengraph: true
 colors:
   vibrant: 199 128 101
   darkVibrant: 116 92 22

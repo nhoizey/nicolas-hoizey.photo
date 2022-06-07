@@ -41,7 +41,6 @@ geo:
   map: true
   country: France
   city: Élancourt
-opengraph: true
 colors:
   vibrant: 194 138 47
   darkVibrant: 7 15 75

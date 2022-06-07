@@ -111,7 +111,7 @@ SYNC ${photo}`);
       photoDescription = photoExif.ImageDescription.trim();
     }
     if (photoDescription.length === 0) {
-      thisLog(`  ⚠ missing description`);
+      thisLog(`  ⚠ description missing`);
     }
 
     // get photo date
@@ -324,7 +324,7 @@ SYNC ${photo}`);
     if (!fs.existsSync(distPhoto)) {
       copyPhotoFile = true;
     } else {
-      if (!photoPhotoFile) {
+      if (!copyPhotoFile) {
         // Check if new and previous photo are visually different
         const existingPhotoBuffer = sharp(distPhoto).png().raw().toBuffer();
         const newPhotoBuffer = sharp(photoPath).png().raw().toBuffer();

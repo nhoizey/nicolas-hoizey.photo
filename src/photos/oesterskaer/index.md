@@ -47,7 +47,6 @@ geo:
   map: true
   country: Sweden
   city: Åkersberga
-opengraph: true
 colors:
   vibrant: 166 66 31
   darkVibrant: 69 19 15

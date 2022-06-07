@@ -40,7 +40,6 @@ geo:
   longitude: 34.562968085
   map: true
   country: Egypt
-opengraph: true
 colors:
   vibrant: 26 163 197
   darkVibrant: 4 23 119

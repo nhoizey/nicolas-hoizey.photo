@@ -46,7 +46,6 @@ geo:
   map: true
   country: United States of America
   city: New York City
-opengraph: true
 colors:
   vibrant: 238 196 84
   darkVibrant: 20 51 92

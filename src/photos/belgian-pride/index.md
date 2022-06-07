@@ -58,7 +58,6 @@ geo:
   map: true
   country: Belgium
   city: Brussels
-opengraph: true
 colors:
   vibrant: 47 33 217
   darkVibrant: 96 11 24

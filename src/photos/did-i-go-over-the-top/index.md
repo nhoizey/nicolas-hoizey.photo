@@ -49,7 +49,6 @@ geo:
   map: true
   country: Scotland
   city: Blair Castle
-opengraph: true
 colors:
   vibrant: 55 135 189
   darkVibrant: 16 137 134

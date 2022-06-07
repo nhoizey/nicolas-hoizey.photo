@@ -49,7 +49,6 @@ geo:
   map: true
   country: Hong Kong
   city: Wan Chai
-opengraph: true
 colors:
   vibrant: 215 82 40
   darkVibrant: 102 39 19

@@ -47,14 +47,13 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
-opengraph: true
 colors:
-  vibrant: 217 146 14
-  darkVibrant: 120 25 18
-  lightVibrant: 138 197 238
-  muted: 170 152 110
-  darkMuted: 37 55 73
-  lightMuted: 195 189 170
+  vibrant: 224 147 9
+  darkVibrant: 12 15 124
+  lightVibrant: 94 186 204
+  muted: 80 124 173
+  darkMuted: 39 58 79
+  lightMuted: 195 184 164
 ---
 
 In its heyday, mosaic stained glass was a common architectural feature of Tbilisi. Sadly most examples have been lost to time – but there are a few buildings that still boast gorgeous rainbow windows.

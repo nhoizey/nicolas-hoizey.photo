@@ -46,7 +46,6 @@ geo:
   map: true
   country: Portugal
   city: Sintra
-opengraph: true
 colors:
   vibrant: 187 129 66
   darkVibrant: 4 36 76

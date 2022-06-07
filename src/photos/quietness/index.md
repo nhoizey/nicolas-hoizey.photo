@@ -49,7 +49,6 @@ geo:
   map: true
   country: France
   city: Saint-Rémy-l'Honoré
-opengraph: true
 colors:
   vibrant: 39 159 223
   darkVibrant: 21 80 122

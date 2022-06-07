@@ -47,7 +47,6 @@ geo:
   map: true
   country: France
   city: Draveil
-opengraph: true
 colors:
   vibrant: 7 131 248
   darkVibrant: 4 71 134

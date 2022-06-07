@@ -52,7 +52,6 @@ geo:
   map: true
   country: Morocco
   city: Tassegdelt
-opengraph: true
 colors:
   vibrant: 220 188 35
   darkVibrant: 95 58 35

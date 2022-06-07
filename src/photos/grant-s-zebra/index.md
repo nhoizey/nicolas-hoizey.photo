@@ -68,7 +68,6 @@ geo:
   map: true
   country: Kenya
   city: Maasai Mara National Reserve
-opengraph: true
 colors:
   vibrant: 127 141 59
   darkVibrant: 99 76 44

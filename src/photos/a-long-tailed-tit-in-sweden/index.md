@@ -65,7 +65,6 @@ geo:
   map: true
   country: Sweden
   city: Täby
-opengraph: true
 colors:
   vibrant: 76 116 179
   darkVibrant: 40 61 93

@@ -58,7 +58,6 @@ geo:
   map: true
   country: Kenya
   city: Amboseli National Park
-opengraph: true
 colors:
   vibrant: 76 138 180
   darkVibrant: 62 72 4

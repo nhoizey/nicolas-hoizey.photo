@@ -44,7 +44,6 @@ geo:
   map: true
   country: France
   city: Honfleur
-opengraph: true
 colors:
   vibrant: 73 142 14
   darkVibrant: 55 118 16

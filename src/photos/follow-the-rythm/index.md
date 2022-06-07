@@ -41,7 +41,6 @@ geo:
   map: true
   country: Spain
   city: Ibiza
-opengraph: true
 colors:
   vibrant: 13 4 241
   darkVibrant: 4 4 115

@@ -70,7 +70,6 @@ geo:
   map: true
   country: Kenya
   city: Lake Nakuru National Park
-opengraph: true
 colors:
   vibrant: 205 127 55
   darkVibrant: 49 23 4

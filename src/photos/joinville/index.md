@@ -39,7 +39,6 @@ geo:
   map: true
   country: France
   city: Joinville
-opengraph: true
 colors:
   vibrant: 5 80 165
   darkVibrant: 16 78 154

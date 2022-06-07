@@ -60,7 +60,6 @@ geo:
   map: true
   country: France
   city: Étiolles
-opengraph: true
 colors:
   vibrant: 108 62 49
   darkVibrant: 91 52 41

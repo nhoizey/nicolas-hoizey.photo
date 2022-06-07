@@ -51,7 +51,6 @@ geo:
   map: true
   country: Hong Kong
   city: Tai Ping Shan
-opengraph: true
 colors:
   vibrant: 225 206 45
   darkVibrant: 106 18 18

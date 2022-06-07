@@ -70,7 +70,6 @@ geo:
   map: true
   country: Kenya
   city: Diani Beach
-opengraph: true
 colors:
   vibrant: 239 166 29
   darkVibrant: 85 107 9

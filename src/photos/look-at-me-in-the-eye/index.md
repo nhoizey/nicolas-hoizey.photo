@@ -48,7 +48,6 @@ geo:
   map: true
   country: France
   city: Brest
-opengraph: true
 colors:
   vibrant: 4 140 172
   darkVibrant: 7 95 120

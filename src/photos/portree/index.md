@@ -70,7 +70,6 @@ geo:
   map: true
   country: Scotland
   city: Portree
-opengraph: true
 colors:
   vibrant: 174 133 52
   darkVibrant: 32 32 4

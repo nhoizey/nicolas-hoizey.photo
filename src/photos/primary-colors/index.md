@@ -40,7 +40,6 @@ geo:
   map: true
   country: Portugal
   city: Lisboa
-opengraph: true
 colors:
   vibrant: 236 24 34
   darkVibrant: 4 51 130
