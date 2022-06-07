@@ -35,7 +35,20 @@ permalink: /photos/{{ photo.fileSlug }}/opengraph.html
         <div class="title">
           <h1>{{ photo.data.title }}</h1>
           {% if geo.city or geo.country %}
-            <h2 style="color: #{{ colors.darkMuted | fgcolor }}">Shot in {{ geo.city }}{% if geo.city and geo.country %}, {% endif %}{{ geo.country }}</h2>
+            <table class="geo">
+              {% if geo.city %}
+                <tr class="city">
+                  <td style="color: #{{ colors.darkMuted | fgcolor }}">{% icon 'map' %}</td>
+                  <td>{{ geo.city }}</td>
+                </tr>
+              {% endif %}
+              {% if geo.country %}
+                <tr class="country">
+                  <td style="color: #{{ colors.darkMuted | fgcolor }}">{% icon 'travels' %}</td>
+                  <td>{{ geo.country }}</td>
+                </tr>
+              {% endif %}
+            </table>
           {% endif %}
         </div>
         <img class="logo" src="/ui/logo.svg" alt="Nicolas Hoizey photography" />

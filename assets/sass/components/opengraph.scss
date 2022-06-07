@@ -57,11 +57,6 @@ body {
 
     color: #fff;
   }
-
-  h2 {
-    font-size: 24px;
-    font-weight: 400;
-  }
 }
 
 .logo {
@@ -81,4 +76,29 @@ body {
 
 .photo {
   align-self: center;
+}
+
+.geo {
+  font-size: 24px;
+  color: #ddd;
+  border-spacing: 4px 12px;
+
+  td {
+    vertical-align: top;
+  }
+}
+
+svg.icon {
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: sub;
+  fill: none;
+  stroke-width: 1px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+
+  * {
+    vector-effect: non-scaling-stroke;
+    stroke: currentColor;
+  }
 }
