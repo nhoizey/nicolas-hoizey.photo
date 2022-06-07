@@ -1,0 +1,48 @@
+---
+pagination:
+  data: collections.photo_galleries
+  size: 1
+  alias: gallery
+  filter:
+    - all
+  addAllPagesToCollections: false
+layout: false
+eleventyComputed:
+  title: opengraph image for “{{ gallery.data.title }}”
+permalink: "{{ gallery.filePathStem | dirname }}/opengraph.html"
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>opengraph image</title>
+    <link rel="stylesheet" href="/ui/css/components/opengraph.css" />
+  </head>
+
+  <body>
+    <div id="opengraph" class="gallery">
+      <div class="meta">
+        <div class="title">
+          {% set breadcrumb = collections.photo_galleries | breadcrumb(gallery.url) %}
+          {% include 'components/breadcrumb.njk' %}
+
+          {% set titleLength = gallery.data.title | length %}
+          <h1 style="--adaptive-font: {{ 55 - titleLength / 8 }}px">{{ gallery.data.title }}</h1>
+        </div>
+        <img class="logo" src="/ui/logo.svg" alt="Nicolas Hoizey photography" />
+      </div>
+      <div class="content">
+        {% set photos_below = collections.photos_in_galleries | photos_here_and_below(gallery.url) | featured(9) %}
+        {% set nb = photos_below | length %}
+        <div class="gallery {% if nb > 4 %}more_than_4{% else %}{% if nb > 1 %}more_than_1{% endif %}{% endif %}">
+        {% for photo in photos_below %}
+          {%- set photoUrl = 'https://nicolas-hoizey.photo/photos/' + photo.fileSlug + '/' + photo.fileSlug + '.jpg' %}
+          <img class="photo" data-responsiver="false" src="https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_407,h_277,c_fill/bo_1px_solid_black/bo_2px_solid_white/{{ photoUrl }}" />
+        {% endfor %}
+        </div>
+
+      </div>
+    </div>
+  </body>
+</html>

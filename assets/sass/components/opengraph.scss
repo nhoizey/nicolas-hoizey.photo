@@ -21,7 +21,7 @@ body {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.card {
+#opengraph {
   margin: 0;
   padding: 0;
 
@@ -46,6 +46,10 @@ body {
   justify-content: space-between;
   align-items: flex-start;
   align-content: center;
+
+  .gallery & {
+    flex:1;
+  }
 }
 
 .title {
@@ -104,5 +108,48 @@ svg.icon {
   * {
     vector-effect: non-scaling-stroke;
     stroke: currentColor;
+  }
+}
+
+.gallery {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(1, 407px);
+  gap: 20px;
+
+  &.more_than_1 {
+    grid-template-columns: repeat(2, 385px);
+  }
+
+  &.more_than_4 {
+    grid-template-columns: repeat(3, 245px);
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.breadcrumb {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+  font-size: 20px;
+  color: $color-theme-lighter-4;
+
+  li:first-child, li:nth-child(2) {
+    display: none;
+  }
+
+  li:not(:nth-child(3)):before {
+    content: '↳ ';
+  }
+
+  a:link,
+  a:visited {
+    color: $color-theme-lighter-3;
+    text-decoration-line: none;
   }
 }
