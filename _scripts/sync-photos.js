@@ -260,6 +260,8 @@ SYNC ${photo}`);
       const opengraphFile = path.join(distDir, 'opengraph.jpg');
       if (fs.existsSync(opengraphFile)) {
         photoYFM.opengraph = true;
+      } else {
+        thisLog(`  ⚠ opengraph image missing`);
       }
     } else {
       thisLog(`  ⚠ geolocation missing`);
