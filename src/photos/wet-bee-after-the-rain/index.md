@@ -38,7 +38,6 @@ geo:
   map: true
   country: France
   city: Senonches
-opengraph: true
 colors:
   vibrant: 135 88 176
   darkVibrant: 45 75 10

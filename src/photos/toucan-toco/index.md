@@ -58,7 +58,6 @@ geo:
   map: true
   country: The Netherlands
   city: Rhenen
-opengraph: true
 colors:
   vibrant: 239 177 5
   darkVibrant: 159 42 4

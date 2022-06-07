@@ -47,7 +47,6 @@ geo:
   map: true
   country: France
   city: Montgeron
-opengraph: true
 colors:
   vibrant: 52 144 210
   darkVibrant: 153 19 20

@@ -39,8 +39,7 @@ geo:
   longitude: 114.17617333333334
   map: true
   country: Hong Kong
-  city: Yau Tsim Mong District
-opengraph: true
+  city: Kowloon
 colors:
   vibrant: 59 108 135
   darkVibrant: 4 76 148

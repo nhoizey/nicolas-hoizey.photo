@@ -56,7 +56,6 @@ geo:
   map: true
   country: France
   city: Reims
-opengraph: true
 colors:
   vibrant: 164 95 44
   darkVibrant: 100 52 12

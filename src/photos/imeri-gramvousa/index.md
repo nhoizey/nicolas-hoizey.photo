@@ -53,8 +53,7 @@ geo:
   longitude: 23.576639096666668
   map: true
   country: Greece
-  city: Municipality of Kissamos
-opengraph: true
+  city: Kissamos
 colors:
   vibrant: 6 128 186
   darkVibrant: 9 91 135

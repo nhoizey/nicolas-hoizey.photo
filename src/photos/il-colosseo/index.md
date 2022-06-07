@@ -47,7 +47,6 @@ geo:
   map: true
   country: Italy
   city: Rome
-opengraph: true
 colors:
   vibrant: 157 218 37
   darkVibrant: 84 116 20

@@ -59,7 +59,6 @@ geo:
   map: true
   country: France
   city: Paris
-opengraph: true
 colors:
   vibrant: 14 125 197
   darkVibrant: 4 88 163

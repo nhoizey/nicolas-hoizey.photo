@@ -35,9 +35,8 @@ geo:
   latitude: 22.276701666666668
   longitude: 114.17411166666666
   map: true
-  country: China
-  city: Hong Kong Island
-opengraph: true
+  country: Hong Kong
+  city: Wan Chai
 colors:
   vibrant: 198 38 40
   darkVibrant: 159 34 36

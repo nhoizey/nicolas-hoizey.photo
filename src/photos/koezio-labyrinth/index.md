@@ -40,7 +40,6 @@ geo:
   map: true
   country: France
   city: Lieusaint
-opengraph: true
 colors:
   vibrant: 250 128 43
   darkVibrant: 121 16 39

@@ -50,9 +50,8 @@ geo:
   latitude: 57.27417777833333
   longitude: -5.5137194449999996
   map: true
-  country: Royaume-Uni
+  country: Scotland
   city: Dornie
-opengraph: true
 colors:
   vibrant: 143 105 37
   darkVibrant: 113 132 60

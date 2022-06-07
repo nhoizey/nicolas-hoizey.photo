@@ -58,8 +58,7 @@ geo:
   longitude: 114.17160277833334
   map: true
   country: Hong Kong
-  city: Hong-Kong
-opengraph: true
+  city: Kowloon
 colors:
   vibrant: 235 102 44
   darkVibrant: 161 85 12

@@ -46,7 +46,6 @@ geo:
   map: true
   country: The Netherlands
   city: Arnhem
-opengraph: true
 colors:
   vibrant: 215 189 52
   darkVibrant: 131 112 8

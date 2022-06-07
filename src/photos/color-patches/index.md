@@ -58,7 +58,6 @@ geo:
   map: true
   country: France
   city: Saint-Denis
-opengraph: true
 colors:
   vibrant: 17 197 205
   darkVibrant: 97 17 7

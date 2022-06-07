@@ -56,9 +56,8 @@ geo:
   latitude: 50.846691666666665
   longitude: 4.352502778333333
   map: true
-  country: Belgique
-  city: Bruxelles
-opengraph: true
+  country: Belgium
+  city: Brussels
 colors:
   vibrant: 47 33 217
   darkVibrant: 96 11 24

@@ -34,7 +34,6 @@ geo:
   map: true
   country: France
   city: Bordeaux
-opengraph: true
 colors:
   vibrant: 228 104 52
   darkVibrant: 151 70 16

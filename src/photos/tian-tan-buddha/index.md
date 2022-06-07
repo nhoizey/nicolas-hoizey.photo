@@ -40,9 +40,8 @@ geo:
   latitude: 22.253938888333334
   longitude: 113.90504722166666
   map: true
-  country: China
+  country: Hong Kong
   city: Ngong Ping
-opengraph: true
 colors:
   vibrant: 175 124 80
   darkVibrant: 24 17 11

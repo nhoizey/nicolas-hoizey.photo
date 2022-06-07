@@ -33,7 +33,6 @@ geo:
   map: true
   country: France
   city: Les Allues
-opengraph: true
 colors:
   vibrant: 116 68 44
   darkVibrant: 94 57 38

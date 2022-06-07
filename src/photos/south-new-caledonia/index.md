@@ -46,7 +46,6 @@ geo:
   map: true
   country: France
   city: Le Mont-Dore
-opengraph: true
 colors:
   vibrant: 72 122 168
   darkVibrant: 33 33 4

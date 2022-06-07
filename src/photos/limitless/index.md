@@ -48,7 +48,6 @@ geo:
   map: true
   country: France
   city: Lyon
-opengraph: true
 colors:
   vibrant: 182 100 82
   darkVibrant: 85 48 28

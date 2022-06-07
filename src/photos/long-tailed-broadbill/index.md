@@ -57,8 +57,7 @@ geo:
   longitude: 114.16045059833333
   map: true
   country: Hong Kong
-  city: Central and Western
-opengraph: true
+  city: Central
 colors:
   vibrant: 147 140 6
   darkVibrant: 14 102 64

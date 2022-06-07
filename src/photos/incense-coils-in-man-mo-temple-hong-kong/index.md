@@ -50,8 +50,7 @@ geo:
   longitude: 114.150275
   map: true
   country: Hong Kong
-  city: Hong-Kong
-opengraph: true
+  city: Tai Ping Shan
 colors:
   vibrant: 225 206 45
   darkVibrant: 106 18 18

@@ -50,7 +50,6 @@ geo:
   map: true
   country: The Netherlands
   city: Den Haag
-opengraph: true
 colors:
   vibrant: 174 183 51
   darkVibrant: 34 46 10
