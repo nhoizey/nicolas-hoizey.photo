@@ -33,7 +33,8 @@ permalink: /photos/{{ photo.fileSlug }}/opengraph/
     <div id="opengraph" class="card" style="background-color: #{{ colors.darkMuted | bgcolor }}">
       <div class="meta">
         <div class="title">
-          <h1>{{ photo.data.title }}</h1>
+          {% set titleLength = photo.data.title | length %}
+          <h1 style="--adaptive-font: {{ 45 - titleLength / 8 }}px">{{ photo.data.title }}</h1>
           {% if geo.city or geo.country %}
             <table class="geo">
               {% if geo.city %}

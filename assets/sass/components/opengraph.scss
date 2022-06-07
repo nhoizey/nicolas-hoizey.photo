@@ -51,7 +51,7 @@ body {
     margin: 40px 0;
     padding: 0;
 
-    font-size: 40px;
+    font-size: clamp(20px, var(--adaptive-font), 40px);
     font-weight: 400;
     line-height: 1.2;
 
@@ -60,8 +60,8 @@ body {
 }
 
 .logo {
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
 }
 
 .content {
