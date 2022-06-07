@@ -186,7 +186,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig
     .addPassthroughCopy(
-      path.join(config.dir.src, '{assets,photos,blog}/**/*.{jpg,jpeg,png,gif}')
+      path.join(
+        config.dir.src,
+        '{assets,photos,galleries,blog}/**/*.{jpg,jpeg,png,gif}'
+      )
     )
     .addPassthroughCopy(path.join(config.dir.src, 'ui'))
     .addPassthroughCopy(path.join(config.dir.src, 'robots.txt'))

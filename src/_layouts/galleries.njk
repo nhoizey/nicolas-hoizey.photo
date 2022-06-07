@@ -3,8 +3,10 @@
 {% from "macros/css.njk" import css %}
 
 {% block opengraphimage %}
-  {% set photos_below = collections.photos_in_galleries | photos_here_and_below(page.url) | featured(5) %}
-  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.top.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.top.after }}{%- for item in photos_below -%}/l_fetch:{%- set url = site.url + '/photos/' + item.fileSlug + '/' + item.fileSlug + '.jpg' -%}{{ url | base64 }},w_200,h_133,c_fill,bo_2px_solid_white/fl_layer_apply,g_south_west,y_288,x_{{ 48 + (loop.index - 1) * 225 }}{%- endfor -%}/{{ site.opengraph.background }}" />
+  {% set opengraphFile = 'src' + page.filePathStem | dirname + '/opengraph.jpg' %}
+  {% if opengraphFile | exists %}
+  <meta property="og:image" content="{{ site.url }}{{ page.filePathStem | dirname }}/opengraph.jpg" />
+  {% endif %}
 {% endblock %}
 
 {% block content %}
