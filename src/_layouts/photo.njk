@@ -20,7 +20,9 @@
 {% endblock %}
 
 {% block opengraphimage %}
+  {% if origin.data.opengraph %}
   <meta property="og:image" content="{{ site.url }}/photos/{{ page.fileSlug }}/opengraph.jpg" />
+  {% endif %}
 {% endblock %}
 
 {% block content %}
