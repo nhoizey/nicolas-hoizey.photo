@@ -9,7 +9,7 @@ pagination:
 layout: false
 eleventyComputed:
   title: opengraph image for “{{ photo.title }}”
-permalink: /photos/{{ photo.fileSlug }}/opengraph.html
+permalink: /photos/{{ photo.fileSlug }}/opengraph/
 ---
 {%- set dimensions = photo.data.origin.data.dimensions %}
 {%- set geo = photo.data.origin.data.geo %}
