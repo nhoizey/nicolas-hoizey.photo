@@ -46,7 +46,6 @@ geo:
   map: true
   country: Kenya
   city: Narok
-opengraph: true
 colors:
   vibrant: 84 139 185
   darkVibrant: 130 122 17

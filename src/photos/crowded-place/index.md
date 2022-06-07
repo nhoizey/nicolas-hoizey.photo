@@ -54,8 +54,6 @@ geo:
   longitude: 37.333191621666664
   map: true
   country: Kenya
-  city: Entonet
-opengraph: true
 colors:
   vibrant: 4 119 184
   darkVibrant: 4 108 178

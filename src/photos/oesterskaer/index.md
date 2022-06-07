@@ -46,8 +46,7 @@ geo:
   longitude: 18.297942645
   map: true
   country: Sweden
-  city: Österåkers kommun
-opengraph: true
+  city: Åkersberga
 colors:
   vibrant: 166 66 31
   darkVibrant: 69 19 15

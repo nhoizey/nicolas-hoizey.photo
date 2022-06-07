@@ -72,7 +72,6 @@ geo:
   map: true
   country: Kenya
   city: Entonet
-opengraph: true
 colors:
   vibrant: 157 131 59
   darkVibrant: 102 94 36

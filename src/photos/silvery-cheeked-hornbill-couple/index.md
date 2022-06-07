@@ -59,8 +59,7 @@ geo:
   longitude: 39.567858333333334
   map: true
   country: Kenya
-  city: Kwale
-opengraph: true
+  city: Diani Beach
 colors:
   vibrant: 174 190 31
   darkVibrant: 93 107 8

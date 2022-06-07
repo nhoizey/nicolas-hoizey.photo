@@ -70,8 +70,6 @@ geo:
   longitude: 35.29284666666667
   map: true
   country: Kenya
-  city: Narok
-opengraph: true
 colors:
   vibrant: 167 132 74
   darkVibrant: 113 94 26

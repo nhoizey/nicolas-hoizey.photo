@@ -64,8 +64,7 @@ geo:
   longitude: 1.8741613883333332
   map: true
   country: France
-  city: Sonchamp
-opengraph: true
+  city: Rambouillet
 colors:
   vibrant: 224 84 31
   darkVibrant: 117 44 16

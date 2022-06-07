@@ -42,7 +42,6 @@ geo:
   map: true
   country: Kenya
   city: Kajiado
-opengraph: true
 colors:
   vibrant: 76 108 188
   darkVibrant: 89 22 21

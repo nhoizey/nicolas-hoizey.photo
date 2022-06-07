@@ -61,7 +61,6 @@ geo:
   map: true
   country: Kenya
   city: Siana
-opengraph: true
 colors:
   vibrant: 173 180 17
   darkVibrant: 114 141 8

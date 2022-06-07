@@ -48,7 +48,7 @@ geo:
   longitude: 18.299656023333334
   map: true
   country: Sweden
-opengraph: true
+  city: Åkersberga
 colors:
   vibrant: 120 147 196
   darkVibrant: 44 60 100

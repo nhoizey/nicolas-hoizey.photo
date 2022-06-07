@@ -37,7 +37,6 @@ geo:
   map: true
   country: Kenya
   city: Nakuru
-opengraph: true
 colors:
   vibrant: 221 164 44
   darkVibrant: 117 86 18

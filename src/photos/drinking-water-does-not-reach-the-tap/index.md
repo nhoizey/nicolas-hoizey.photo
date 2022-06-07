@@ -46,7 +46,6 @@ geo:
   map: true
   country: Kenya
   city: Kiambu
-opengraph: true
 colors:
   vibrant: 5 89 182
   darkVibrant: 5 73 149

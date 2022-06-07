@@ -40,7 +40,6 @@ geo:
   map: true
   country: Kenya
   city: Taita
-opengraph: true
 colors:
   vibrant: 12 151 234
   darkVibrant: 4 112 211
