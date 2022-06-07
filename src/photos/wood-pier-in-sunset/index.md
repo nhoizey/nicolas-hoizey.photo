@@ -52,6 +52,7 @@ geo:
   map: true
   country: France
   city: Le Tréport
+opengraph: true
 colors:
   vibrant: 209 153 134
   darkVibrant: 9 118 110

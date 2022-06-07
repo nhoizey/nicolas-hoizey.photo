@@ -38,6 +38,7 @@ geo:
   map: true
   country: France
   city: Puteaux
+opengraph: true
 colors:
   vibrant: 19 126 137
   darkVibrant: 4 73 79

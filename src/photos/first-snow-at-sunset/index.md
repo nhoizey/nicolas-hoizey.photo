@@ -56,6 +56,7 @@ geo:
   map: true
   country: The Netherlands
   city: Achterveld
+opengraph: true
 colors:
   vibrant: 234 109 66
   darkVibrant: 40 61 100

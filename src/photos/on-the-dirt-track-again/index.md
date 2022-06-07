@@ -50,6 +50,7 @@ geo:
   map: true
   country: Kenya
   city: Kwale
+opengraph: true
 colors:
   vibrant: 197 108 68
   darkVibrant: 116 68 36

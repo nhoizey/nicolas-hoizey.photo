@@ -46,6 +46,7 @@ geo:
   map: true
   country: Italy
   city: Venice
+opengraph: true
 colors:
   vibrant: 194 123 30
   darkVibrant: 21 117 162

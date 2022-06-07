@@ -47,6 +47,7 @@ geo:
   map: true
   country: Italy
   city: Burano
+opengraph: true
 colors:
   vibrant: 17 136 185
   darkVibrant: 94 85 31

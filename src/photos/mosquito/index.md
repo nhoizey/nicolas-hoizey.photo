@@ -43,6 +43,7 @@ geo:
   map: true
   country: France
   city: Venizy
+opengraph: true
 colors:
   vibrant: 180 116 65
   darkVibrant: 58 34 19

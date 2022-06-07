@@ -66,6 +66,7 @@ geo:
   map: true
   country: The Netherlands
   city: Groningen
+opengraph: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

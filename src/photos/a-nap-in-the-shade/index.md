@@ -54,7 +54,8 @@ geo:
   longitude: 35.24989166666667
   map: true
   country: Kenya
-  city: Narok
+  city: Maasai Mara National Reserve
+opengraph: true
 colors:
   vibrant: 197 203 43
   darkVibrant: 141 151 33

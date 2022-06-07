@@ -49,6 +49,7 @@ geo:
   map: true
   country: France
   city: Guilvinec
+opengraph: true
 colors:
   vibrant: 238 146 16
   darkVibrant: 4 68 124

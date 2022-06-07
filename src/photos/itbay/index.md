@@ -48,6 +48,7 @@ geo:
   map: true
   country: Egypt
   city: Al Qusir
+opengraph: true
 colors:
   vibrant: 180 116 60
   darkVibrant: 98 57 15

@@ -51,6 +51,7 @@ geo:
   map: true
   country: France
   city: Bénodet
+opengraph: true
 colors:
   vibrant: 25 115 174
   darkVibrant: 5 72 114

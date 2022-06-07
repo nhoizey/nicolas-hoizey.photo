@@ -57,6 +57,7 @@ geo:
   map: true
   country: The Netherlands
   city: Wageningen
+opengraph: true
 colors:
   vibrant: 164 68 159
   darkVibrant: 94 28 89

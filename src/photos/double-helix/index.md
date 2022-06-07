@@ -68,6 +68,7 @@ geo:
   longitude: 12.455145353333334
   map: true
   country: Vatican City
+opengraph: true
 colors:
   vibrant: 226 4 33
   darkVibrant: 102 9 28

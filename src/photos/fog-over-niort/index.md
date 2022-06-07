@@ -53,6 +53,7 @@ geo:
   map: true
   country: France
   city: Niort
+opengraph: true
 colors:
   vibrant: 230 155 13
   darkVibrant: 132 60 4

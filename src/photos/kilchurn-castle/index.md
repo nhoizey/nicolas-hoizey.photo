@@ -45,6 +45,7 @@ geo:
   map: true
   country: Scotland
   city: Lochawe
+opengraph: true
 colors:
   vibrant: 200 213 42
   darkVibrant: 77 82 16

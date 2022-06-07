@@ -59,6 +59,7 @@ geo:
   map: true
   country: Dominican Republic
   city: El Limón
+opengraph: true
 colors:
   vibrant: 15 138 203
   darkVibrant: 4 73 135

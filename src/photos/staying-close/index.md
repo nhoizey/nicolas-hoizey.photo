@@ -60,7 +60,8 @@ geo:
   longitude: 36.1154
   map: true
   country: Kenya
-  city: Nakuru
+  city: Lake Nakuru National Park
+opengraph: true
 colors:
   vibrant: 119 123 136
   darkVibrant: 62 64 71

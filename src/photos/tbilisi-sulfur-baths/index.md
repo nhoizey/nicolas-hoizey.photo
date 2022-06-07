@@ -46,6 +46,7 @@ geo:
   map: true
   country: Georgia
   city: Tbilisi
+opengraph: true
 colors:
   vibrant: 168 181 71
   darkVibrant: 106 120 15

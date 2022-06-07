@@ -59,6 +59,7 @@ geo:
   map: true
   country: France
   city: Rillé
+opengraph: true
 colors:
   vibrant: 204 156 147
   darkVibrant: 11 79 126

@@ -49,6 +49,7 @@ geo:
   map: true
   country: France
   city: Chambord
+opengraph: true
 colors:
   vibrant: 194 133 84
   darkVibrant: 138 92 52

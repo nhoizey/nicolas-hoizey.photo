@@ -59,6 +59,7 @@ geo:
   map: true
   country: Morocco
   city: Caïdat de Freija
+opengraph: true
 colors:
   vibrant: 4 122 196
   darkVibrant: 4 96 170

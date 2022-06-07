@@ -60,7 +60,8 @@ geo:
   longitude: 35.30825333333333
   map: true
   country: Kenya
-  city: Siana
+  city: Maasai Mara National Reserve
+opengraph: true
 colors:
   vibrant: 173 180 17
   darkVibrant: 114 141 8

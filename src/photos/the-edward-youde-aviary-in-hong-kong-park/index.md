@@ -39,6 +39,7 @@ geo:
   map: true
   country: Hong Kong
   city: Central
+opengraph: true
 colors:
   vibrant: 185 198 56
   darkVibrant: 69 100 13

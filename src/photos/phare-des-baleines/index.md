@@ -53,6 +53,7 @@ geo:
   map: true
   country: France
   city: Saint-Clément-des-Baleines
+opengraph: true
 colors:
   vibrant: 108 76 52
   darkVibrant: 62 32 20

@@ -37,6 +37,7 @@ geo:
   map: true
   country: France
   city: Cabourg
+opengraph: true
 colors:
   vibrant: 151 81 35
   darkVibrant: 76 44 12

@@ -55,6 +55,7 @@ geo:
   map: true
   country: England
   city: London
+opengraph: true
 colors:
   vibrant: 76 128 160
   darkVibrant: 90 67 20

@@ -45,6 +45,7 @@ geo:
   map: true
   country: Italy
   city: Mazzorbo
+opengraph: true
 colors:
   vibrant: 178 86 45
   darkVibrant: 7 124 73

@@ -54,6 +54,7 @@ geo:
   map: true
   country: Georgia
   city: Mtskheta
+opengraph: true
 colors:
   vibrant: 248 213 7
   darkVibrant: 129 64 6

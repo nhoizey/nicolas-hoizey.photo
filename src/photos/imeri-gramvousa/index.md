@@ -54,6 +54,7 @@ geo:
   map: true
   country: Greece
   city: Kissamos
+opengraph: true
 colors:
   vibrant: 6 128 186
   darkVibrant: 9 91 135

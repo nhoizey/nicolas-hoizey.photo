@@ -53,6 +53,7 @@ geo:
   map: true
   country: France
   city: Étretat
+opengraph: true
 colors:
   vibrant: 47 105 138
   darkVibrant: 10 86 113

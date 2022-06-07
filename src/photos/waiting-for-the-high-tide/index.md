@@ -46,6 +46,7 @@ geo:
   map: true
   country: France
   city: Trégastel
+opengraph: true
 colors:
   vibrant: 4 142 239
   darkVibrant: 4 66 136

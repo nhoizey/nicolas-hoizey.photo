@@ -59,6 +59,7 @@ geo:
   map: true
   country: Hong Kong
   city: Kowloon
+opengraph: true
 colors:
   vibrant: 235 102 44
   darkVibrant: 161 85 12

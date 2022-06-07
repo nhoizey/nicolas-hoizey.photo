@@ -46,6 +46,7 @@ geo:
   map: true
   country: France
   city: Chaumont-sur-Loire
+opengraph: true
 colors:
   vibrant: 205 22 121
   darkVibrant: 132 11 47

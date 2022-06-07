@@ -44,6 +44,7 @@ geo:
   map: true
   country: New Caledonia
   city: Nouméa
+opengraph: true
 colors:
   vibrant: 58 114 179
   darkVibrant: 19 91 139

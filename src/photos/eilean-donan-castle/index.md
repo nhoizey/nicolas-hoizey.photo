@@ -52,6 +52,7 @@ geo:
   map: true
   country: Scotland
   city: Dornie
+opengraph: true
 colors:
   vibrant: 143 105 37
   darkVibrant: 113 132 60

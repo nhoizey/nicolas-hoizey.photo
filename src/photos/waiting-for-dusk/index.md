@@ -71,7 +71,8 @@ geo:
   longitude: 37.26950779333333
   map: true
   country: Kenya
-  city: Entonet
+  city: Amboseli National Park
+opengraph: true
 colors:
   vibrant: 157 131 59
   darkVibrant: 102 94 36

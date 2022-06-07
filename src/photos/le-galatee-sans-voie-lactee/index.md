@@ -51,6 +51,7 @@ geo:
   map: true
   country: France
   city: Trouville-sur-Mer
+opengraph: true
 colors:
   vibrant: 247 183 8
   darkVibrant: 124 92 4

@@ -65,6 +65,7 @@ geo:
   map: true
   country: France
   city: Rambouillet
+opengraph: true
 colors:
   vibrant: 224 84 31
   darkVibrant: 117 44 16

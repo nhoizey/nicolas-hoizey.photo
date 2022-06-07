@@ -60,6 +60,7 @@ geo:
   map: true
   country: The Netherlands
   city: Heijen
+opengraph: true
 colors:
   vibrant: 96 161 6
   darkVibrant: 65 130 8

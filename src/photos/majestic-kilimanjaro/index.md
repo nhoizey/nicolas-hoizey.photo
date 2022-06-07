@@ -62,7 +62,8 @@ geo:
   longitude: 37.323875
   map: true
   country: Kenya
-  city: Kajiado
+  city: Amboseli National Park
+opengraph: true
 colors:
   vibrant: 14 158 216
   darkVibrant: 84 65 30

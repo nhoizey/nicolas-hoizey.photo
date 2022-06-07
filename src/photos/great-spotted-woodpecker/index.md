@@ -52,6 +52,7 @@ geo:
   map: true
   country: France
   city: Soisy-sur-Seine
+opengraph: true
 colors:
   vibrant: 69 136 187
   darkVibrant: 37 70 102

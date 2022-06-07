@@ -64,6 +64,7 @@ geo:
   map: true
   country: Hong Kong
   city: Central and Western District
+opengraph: true
 colors:
   vibrant: 188 121 20
   darkVibrant: 107 65 18
