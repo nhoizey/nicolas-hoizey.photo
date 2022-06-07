@@ -1,3 +1,5 @@
+@use '../variables' as *;
+
 @font-face {
   font-family: 'Roboto Condensed';
   font-style: normal;
@@ -31,6 +33,8 @@ body {
   justify-content: space-between;
 
   gap: 0;
+
+  background-color: $color-surface;
 }
 
 .meta {

@@ -9,7 +9,7 @@ pagination:
 layout: false
 eleventyComputed:
   title: opengraph image for “{{ photo.title }}”
-permalink: /photos/{{ photo.fileSlug }}/opengraph/
+permalink: /photos/{{ photo.fileSlug }}/opengraph.html
 ---
 {%- set dimensions = photo.data.origin.data.dimensions %}
 {%- set geo = photo.data.origin.data.geo %}
@@ -25,7 +25,7 @@ permalink: /photos/{{ photo.fileSlug }}/opengraph/
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>opengraph image shared background</title>
+    <title>opengraph image</title>
     <link rel="stylesheet" href="/ui/css/components/opengraph.css" />
   </head>
 

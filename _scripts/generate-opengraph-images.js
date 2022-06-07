@@ -16,7 +16,7 @@ async function syncOnePhoto(slug) {
 
   console.log(`Get opengraph image for ${slug}`);
 
-  const opengraphHtmlUrl = `https://nicolas-hoizey.photo/photos/${slug}/opengraph/`;
+  const opengraphHtmlUrl = `https://nicolas-hoizey.photo/photos/${slug}/opengraph.html`;
   const browser = await puppeteer.launch({
     executablePath:
       '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
