@@ -20,9 +20,7 @@ module.exports = {
           dimensions.height ? `height="${dimensions.height}"` : ''
         } style="background-color: rgb(${
           photo.origin.data.colors.muted
-        } / 50%)" data-responsiver="thumbnail_${
-          dimensions.width < dimensions.height ? ' portrait' : 'landscape'
-        }" />
+        } / 50%)" data-responsiver="thumbnail" />
   <figcaption>
     <a href="${photo.page.url}">${photo.title}</a>
     <ul class="meta">

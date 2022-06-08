@@ -32,11 +32,7 @@ module.exports = {
           : ''
       } style="background-color: rgb(${
         content.data.colors.muted
-      } / 50%)" data-responsiver="thumbnail_${
-        content.data.dimensions.width < content.data.dimensions.height
-          ? ' portrait'
-          : 'landscape'
-      }" />
+      } / 50%)" data-responsiver="thumbnail" />
   <figcaption>
     <a href="{{ item.url }}">${content.data.title}</a>
     <ul class="meta">
