@@ -38,3 +38,13 @@
   for = "/*.webmanifest"
   [headers.values]
     Content-Type = "application/manifest+json"
+
+[[headers]]
+  for = "/ui/thumbnails/sprite.*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/photos/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"

@@ -9,24 +9,13 @@ permalink: _headers
   Referrer-Policy: no-referrer-when-downgrade
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
   X-Clacks-Overhead: GNU Terry Pratchett
-
-/ui/thumbnails/sprite.*
-  Access-Control-Allow-Origin: *
-
-/photos/*
-  Access-Control-Allow-Origin: *
-
-/ui/images/nicolas-hoizey-photography-192px.*
-  Cache-Control: public, max-age=604800, immutable
-
-/*.js
-  Content-Type: application/javascript; charset=utf-8
-  Cache-Control: public, max-age=604800, immutable
-
-/ui/logo.svg
-  Content-Type: image/svg+xml; charset=utf-8
   Vary: Accept-Encoding
-  Cache-Control: public, max-age=604800, immutable
+
+{# *.js
+  Content-Type: application/javascript; charset=utf-8
+
+*.svg
+  Content-Type: image/svg+xml; charset=utf-8 #}
 
 {# Default CSP directives #}
   {% set cspScriptSrc = "'self' data: 'unsafe-inline' 'unsafe-eval'" %}
