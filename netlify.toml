@@ -29,10 +29,11 @@
   to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_300,h_300,c_limit/bo_1px_solid_black/bo_2px_solid_white/https://nicolas-hoizey.photo/:splat"
   status = 200
 
+# Cache all assets for 1 month
 [[headers]]
   for = "/ui/*"
     [headers.values]
-    Cache-Control = "public, max-age=86400, immutable"
+    Cache-Control = "public, max-age=2592000, immutable"
 
 [[headers]]
   for = "/*.webmanifest"
