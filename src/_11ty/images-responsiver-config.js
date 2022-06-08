@@ -81,7 +81,6 @@ module.exports = {
   default: {
     selector:
       ':not(picture) img[src]:not([srcset]):not([src*=".svg"]):not([data-responsiver="false"])',
-    // resizedImageUrl: (src, width) => src.replace(site.url, `${site.url}/images/${width}`),
     resizedImageUrl: (src, width) =>
       `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},c_limit/${src}`,
     runBefore: runBeforeHook,
@@ -109,7 +108,6 @@ module.exports = {
     figure: 'never',
   },
   diaporama: {
-    // resizedImageUrl: (src, width) => src.replace(site.url, `${site.url}/landscape/${width}`),
     resizedImageUrl: (src, width) =>
       `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
     fallbackWidth: 384,
@@ -120,7 +118,6 @@ module.exports = {
     figure: 'never',
   },
   thumbnail_landscape: {
-    // resizedImageUrl: (src, width) => src.replace(site.url, `${site.url}/landscape/${width}`),
     resizedImageUrl: (src, width) =>
       `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
     fallbackWidth: 320,
@@ -131,7 +128,6 @@ module.exports = {
     figure: 'never',
   },
   thumbnail_portrait: {
-    // resizedImageUrl: (src, width) => src.replace(site.url, `${site.url}/portrait/${width}`),
     resizedImageUrl: (src, width) =>
       `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_2:3,c_fill/${src}`,
     fallbackWidth: 212,
