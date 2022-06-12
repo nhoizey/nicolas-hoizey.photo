@@ -15,7 +15,12 @@ const runBeforeHook = (image, document) => {
     .getAttribute('data-img-dist')
     .replace(distRegex, '');
 
-  let imageSrc = image.getAttribute('src');
+  let isData = false;
+  if (!image.hasAttribute('src')) {
+    isData = true;
+  }
+
+  let imageSrc = image.getAttribute(isData ? 'data-src' : 'src');
   let imageUrl = '';
 
   if (imageSrc.match(/^(https?:)?\/\//)) {
@@ -40,7 +45,7 @@ const runBeforeHook = (image, document) => {
       // This is a relative URL
       imageUrl = site.url.replace(/\/$/, '') + distPath + imageSrc;
     }
-    image.setAttribute('src', imageUrl);
+    image.setAttribute(isData ? 'data-src' : 'src', imageUrl);
   }
 
   if (!('responsiver' in image.dataset) && image.className) {
@@ -49,8 +54,14 @@ const runBeforeHook = (image, document) => {
 };
 
 const runAfterHook = (image, document) => {
+  let isData = false;
+  if (!image.hasAttribute('src')) {
+    isData = true;
+  }
+
   let imageUrl =
-    image.getAttribute('data-pristine') || image.getAttribute('src');
+    image.getAttribute('data-pristine') ||
+    image.getAttribute(isData ? 'data-src' : 'src');
   let caption = image.getAttribute('title');
 
   if (caption !== null) {
