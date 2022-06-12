@@ -25,6 +25,9 @@
       width: calc(100% - 2px);
       height: calc(100% - 2px);
       object-fit: cover;
+
+      transform-origin: 50% 50%;
+      transform: scale(var(--scale-start)) translate(var(--pan-x-start), var(--pan-y-start));
     }
 
     &::before {
@@ -35,30 +38,28 @@
   }
 
   @media (prefers-reduced-motion: no-preference) {
-    .diaporama_2,
-    .diaporama_3,
-    .diaporama_4 {
+    .diaporama_2.loaded,
+    .diaporama_3.loaded,
+    .diaporama_4.loaded {
       img {
         opacity: 0;
-        object-fit: cover;
-        transform-origin: 50% 50%;
         animation-timing-function: linear;
         animation-iteration-count: infinite;
       }
     }
 
-    .diaporama_2 {
+    .diaporama_2.loaded {
       img {
         animation-name: fade_2;
         animation-duration: $diaporama-timing * 2;
       }
 
-      img:nth-of-type(2) {
+      img:nth-of-type(1) {
         animation-delay: $diaporama-timing;
       }
     }
 
-    .diaporama_3 {
+    .diaporama_3.loaded {
       img {
         animation-name: fade_3;
         animation-duration: $diaporama-timing * 3;
@@ -68,26 +69,26 @@
         animation-delay: $diaporama-timing;
       }
 
-      img:nth-of-type(3) {
+      img:nth-of-type(1) {
         animation-delay: $diaporama-timing * 2;
       }
     }
 
-    .diaporama_4 {
+    .diaporama_4.loaded {
       img {
         animation-name: fade_4;
         animation-duration: $diaporama-timing * 4;
       }
 
-      img:nth-of-type(2) {
+      img:nth-of-type(3) {
         animation-delay: $diaporama-timing;
       }
 
-      img:nth-of-type(3) {
+      img:nth-of-type(2) {
         animation-delay: $diaporama-timing * 2;
       }
 
-      img:nth-of-type(4) {
+      img:nth-of-type(1) {
         animation-delay: $diaporama-timing * 3;
       }
     }
