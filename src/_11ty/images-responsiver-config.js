@@ -119,9 +119,9 @@ module.exports = {
   diaporama: {
     resizedImageUrl: (src, width) =>
       `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
-    fallbackWidth: 416,
-    minWidth: 416, // 320 * 1.3
-    maxWidth: 832, // No need for more than 2dppx
+    fallbackWidth: 417,
+    minWidth: 417, // 320 * 1.3
+    maxWidth: 834, // No need for more than 2dppx
     steps: 4,
     sizes: '(min-width: 22rem) calc(1.3 * 20rem), calc(1.3 * (100vw - 2rem))',
     figure: 'never',
