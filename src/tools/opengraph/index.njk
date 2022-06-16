@@ -15,21 +15,32 @@ title: Opengraph images
 .opengraph img {
   width: 600px;
   height: auto;
+  border: 1px solid #666;
 }
 </style>
 
 <h1 class="page__title">{{ title }}</h1>
 
-<h2>Photos</h2>
-<ul class="opengraph">
-{% for entry in collections.unique_photos %}
-  <li><a href="/photos/{{ entry.fileSlug }}/opengraph.html"><img src="/photos/{{ entry.fileSlug }}/opengraph.jpg" width="600" height="315" data-responsiver="false" /></a></li>
-{% endfor %}
-</ul>
+{% if build.env == 'production' %}
+  {% set cloudinaryPrefix = 'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_600/{{ site.url }}' %}
+{% else %}
+  {% set cloudinaryPrefix = '' %}
+{% endif %}
 
-<h2>Galleries</h2>
-<ul class="opengraph">
-{% for entry in collections.photo_galleries %}
-  <li><a href="/{{ entry.filePathStem | dirname }}/opengraph.html"><img src="/{{ entry.filePathStem | dirname }}/opengraph.jpg" width="600" height="315" data-responsiver="false" /></a></li>
-{% endfor %}
-</ul>
+<details>
+  <summary>Photos</summary>
+  <ul class="opengraph">
+  {% for entry in collections.unique_photos %}
+    <li><a href="/photos/{{ entry.fileSlug }}/opengraph.html"><img src="{{ cloudinaryPrefix }}/photos/{{ entry.fileSlug }}/opengraph.jpg" width="600" height="315" loading="lazy" data-responsiver="false" /></a></li>
+  {% endfor %}
+  </ul>
+</details>
+
+<details>
+  <summary>Galleries</summary>
+  <ul class="opengraph">
+  {% for entry in collections.photo_galleries %}
+    <li><a href="{{ entry.filePathStem | dirname }}/opengraph.html"><img src="{{ cloudinaryPrefix }}{{ entry.filePathStem | dirname }}/opengraph.jpg" width="600" height="315" loading="lazy" data-responsiver="false" /></a></li>
+  {% endfor %}
+  </ul>
+</details>
