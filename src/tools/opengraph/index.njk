@@ -20,8 +20,16 @@ title: Opengraph images
 
 <h1 class="page__title">{{ title }}</h1>
 
+<h2>Photos</h2>
 <ul class="opengraph">
 {% for entry in collections.unique_photos %}
-  <li><a href="/photos/{{ entry.fileSlug }}/opengraph/"><img src="/photos/{{ entry.fileSlug }}/opengraph.jpg" width="600" height="315" data-responsiver="false" /></a></li>
+  <li><a href="/photos/{{ entry.fileSlug }}/opengraph.html"><img src="/photos/{{ entry.fileSlug }}/opengraph.jpg" width="600" height="315" data-responsiver="false" /></a></li>
+{% endfor %}
+</ul>
+
+<h2>Galleries</h2>
+<ul class="opengraph">
+{% for entry in collections.photo_galleries %}
+  <li><a href="/{{ entry.filePathStem | dirname }}/opengraph.html"><img src="/{{ entry.filePathStem | dirname }}/opengraph.jpg" width="600" height="315" data-responsiver="false" /></a></li>
 {% endfor %}
 </ul>
