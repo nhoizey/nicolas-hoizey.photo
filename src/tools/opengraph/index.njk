@@ -40,7 +40,9 @@ title: Opengraph images
   <summary>Galleries</summary>
   <ul class="opengraph">
   {% for entry in collections.photo_galleries %}
-    <li><a href="{{ entry.filePathStem | dirname }}/opengraph.html"><img src="{{ cloudinaryPrefix }}{{ entry.filePathStem | dirname }}/opengraph.jpg" width="600" height="315" loading="lazy" data-responsiver="false" /></a></li>
+    {% if entry.filePathStem | dirname != '/galleries' %}
+      <li><a href="{{ entry.filePathStem | dirname }}/opengraph.html"><img src="{{ cloudinaryPrefix }}{{ entry.filePathStem | dirname }}/opengraph.jpg" width="600" height="315" loading="lazy" data-responsiver="false" /></a></li>
+    {% endif %}
   {% endfor %}
   </ul>
 </details>

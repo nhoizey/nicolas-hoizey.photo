@@ -40,7 +40,7 @@ const glob = require('fast-glob');
       .catch(() => false);
     if (fileExists) return;
 
-    const opengraphUrl = `https://nicolas-hoizey.photo/${resourcePath}/opengraph.html`;
+    const opengraphUrl = `http://localhost:8080/${resourcePath}/opengraph.html`;
 
     console.log(`Get opengraph image for ${opengraphUrl}`);
 
