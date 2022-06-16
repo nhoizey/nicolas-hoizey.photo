@@ -1,3 +1,0 @@
----
-title: Argyll and Bute
----

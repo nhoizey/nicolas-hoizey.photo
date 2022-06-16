@@ -1,3 +1,0 @@
----
-title: Isle of Skye
----
