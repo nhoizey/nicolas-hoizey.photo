@@ -14,12 +14,13 @@
   list-style: none;
 
   display: grid;
-  gap: 2rem;
-  grid-template-columns: repeat(auto-fit, min(100%, 20rem));
+  gap: space.$xxxl space.$xl;
+    grid-template-columns: repeat(auto-fit, min(100%, 20rem));
 
   align-items: start;
 
   .portrait {
-    width: 66%;
+    width: calc(20rem / 3 * 2 / 3 * 2);
+    height: calc(20rem / 3 * 2);
   }
 }

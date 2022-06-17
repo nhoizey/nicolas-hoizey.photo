@@ -22,7 +22,7 @@
           decoding="async"
         {% endif %}
       {% endif %}
-      data-responsiver="thumbnail"
+      data-responsiver="thumbnail_{% if dimensions.width < dimensions.height %}portrait{% else %}landscape{% endif %}"
     />
     <figcaption>
       <a href="{{ item.url }}">{{ item.data.title }}</a>

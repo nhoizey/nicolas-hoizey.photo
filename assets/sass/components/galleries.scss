@@ -1,4 +1,5 @@
 @use '../variables' as *;
+@use '../tokens/space';
 
 /* ********************************************
 * GALLERIES
@@ -9,7 +10,7 @@
   padding-left: 0;
 
   display: grid;
-  gap: 2rem;
+  gap: space.$xxxl space.$xl;
   grid-template-columns: repeat(auto-fit, min(100%, 20rem));
 
   align-items: end;
