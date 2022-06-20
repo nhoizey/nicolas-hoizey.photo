@@ -28,11 +28,14 @@ header {
   gap: space.$m;
   align-items: center;
 
+  background-color: $color-header;
+  border-bottom: 2px solid #111;
+  box-shadow: 0px 0px 2rem 0.1rem rgba(0, 0, 0, 0.5);
+  z-index: 10;
+
   @media (min-width: $breakpoint-m) {
     border-bottom: none;
-    background-color: $color-header;
     border-right: 2px solid #111;
-    box-shadow: 0px 0px 2rem 0.5rem rgba(0, 0, 0, 0.5);
 
     flex-direction: column;
     align-items: flex-start;
