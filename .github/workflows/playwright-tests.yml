@@ -1,7 +1,8 @@
-name: Test on push
+name: Playwright tests
 
 on:
   push:
+  pull_request:
 
 jobs:
   test:
