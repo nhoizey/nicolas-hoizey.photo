@@ -1,0 +1,36 @@
+name: Test on push
+
+on:
+  push:
+
+jobs:
+  test:
+    name: Test
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js ⚙️
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - name: Install dependencies 📦
+        run: npm ci
+
+      - name: Install Playwright 📦
+        run: npx playwright install --with-deps
+
+      - name: Run your tests 🧪
+        run: npm test
+
+      - name: Upload test results 📂
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: playwright-report
+          path: playwright-report
