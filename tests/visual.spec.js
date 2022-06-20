@@ -13,6 +13,6 @@ const pages = {
 for (const pageName in pages) {
   test(`[JS off] ${pageName}`, async ({ page }) => {
     await page.goto(pages[pageName]);
-    await expect(page).toHaveScreenshot(`${pageName}.png`);
+    await expect(page).toHaveScreenshot(`${pageName}.png`, {animations: 'disabled'});
   })
 }
