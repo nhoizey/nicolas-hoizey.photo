@@ -2,7 +2,7 @@ const { devices } = require('@playwright/test');
 
 const config = {
   forbidOnly: !!process.env.CI,
-  retries: process.env.CI ? 3 : 0,
+  retries: process.env.CI ? 5 : 2,
   webServer: {
     command: 'npm run start',
     url: 'http://localhost:8080/',
@@ -13,8 +13,8 @@ const config = {
     baseURL: 'http://localhost:8080',
     // headless: false,
     viewport: { width: 1280, height: 720 },
-    javaScriptEnabled: false,
-    trace: 'on',
+    javaScriptEnabled: true,
+    // trace: 'on',
     // video: 'on-first-retry',
   },
   projects: [
