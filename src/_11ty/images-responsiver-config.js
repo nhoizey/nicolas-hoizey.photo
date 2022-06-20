@@ -128,9 +128,9 @@ module.exports = {
   },
   thumbnail_landscape: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},h_${
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},h_${Math.floor(
         (width / 3) * 2
-      },c_limit/${src}`,
+      )},c_limit/${src}`,
     fallbackWidth: 320,
     minWidth: 320,
     maxWidth: 640, // No need for more than 2dppx
@@ -140,12 +140,12 @@ module.exports = {
   },
   thumbnail_portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},h_${
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},h_${Math.floor(
         (width / 2) * 3
-      },c_limit/${src}`,
-    fallbackWidth: (320 / 3) * 2,
-    minWidth: (320 / 3) * 2,
-    maxWidth: (640 / 3) * 2, // No need for more than 2dppx
+      )},c_limit/${src}`,
+    fallbackWidth: Math.floor((320 / 3) * 2),
+    minWidth: Math.floor((320 / 3) * 2),
+    maxWidth: Math.floor((640 / 3) * 2), // No need for more than 2dppx
     steps: 4,
     sizes:
       '(min-width: 22rem) calc(20rem / 2 * 3), calc((100vw - 2rem) / 2 * 3)',
