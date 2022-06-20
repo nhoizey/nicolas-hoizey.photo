@@ -5,6 +5,7 @@ node_modules
 _site
 _temp
 hashes_*.json
+test-results
 
 # secret data
 .env

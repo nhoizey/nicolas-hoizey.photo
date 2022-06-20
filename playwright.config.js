@@ -8,13 +8,12 @@ const config = {
     // headless: false,
     viewport: { width: 1280, height: 720 },
     javaScriptEnabled: false,
-    trace: 'on-first-retry',
-    video: 'on-first-retry',
+    trace: 'on',
+    // video: 'on-first-retry',
   },
   projects: [
     {
       name: 'chromium',
-      channel: 'chrome',
       use: { ...devices['Desktop Chrome'] },
     },
     {
