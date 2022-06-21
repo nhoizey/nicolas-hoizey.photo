@@ -1,15 +1,17 @@
 const htmlmin = require('html-minifier');
 
-module.exports = function htmlMinTransform(value, outputPath) {
-  if (!outputPath.endsWith('.html')) {
-    return value;
+module.exports = function htmlMinTransform(content, outputPath) {
+  if (!outputPath || !(outputPath.endsWith('.html'))) {
+    return content;
+  }
+  if (outputPath.match(/\/photos\//)) {
+    console.log(outputPath);
   }
 
-  let minified = htmlmin.minify(value, {
+  return htmlmin.minify(content, {
     useShortDoctype: true,
     removeComments: true,
     collapseWhitespace: true,
     minifyCSS: false,
   });
-  return minified;
 };
