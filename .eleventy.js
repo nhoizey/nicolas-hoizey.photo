@@ -208,6 +208,10 @@ module.exports = function (eleventyConfig) {
     files: ['_site/ui/css/**/*.css', '_site/ui/js/**/*.js'],
   });
 
+  if (process.env.NODE_ENV === 'production') {
+    eleventyConfig.ignores.add('src/tools');
+  }
+
   return {
     templateFormats: ['md', 'njk'],
 
