@@ -6,7 +6,7 @@ const config = {
   webServer: {
     command: 'npm run start',
     url: 'http://localhost:8080/',
-    timeout: 120 * 1000,
+    timeout: 5 * 60 * 1000, // 5 minutes
     reuseExistingServer: !process.env.CI,
   },
   use: {
