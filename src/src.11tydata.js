@@ -52,7 +52,12 @@ module.exports = {
       let layout = 'page';
 
       // Photos have their own layout
-      if (isPhotoInPhotos(data) || isPhotoInGallery(data)) {
+      if (isPhotoInPhotos(data)) {
+        return false;
+      }
+
+      // Photos have their own layout
+      if (isPhotoInGallery(data)) {
         return 'photo';
       }
 
@@ -74,6 +79,9 @@ module.exports = {
       if (data.permalink) {
         // A permalink has been set in the content Front Matter
         return data.permalink;
+      }
+      if (process.env.NODE_ENV === 'production' && isPhotoInPhotos(data)) {
+        return false;
       }
       if (config.permalinkFolders) {
         // Keep Eleventy default behavior for permalinks
