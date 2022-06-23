@@ -335,18 +335,19 @@ SYNC ${photo}`);
           photoYFM.dimensions.width,
           photoYFM.dimensions.height,
           {
-            threshold: 0.1,
+            threshold: 0.01,
           }
         );
+
         if (diff > 0) {
-          console.log(`${diff} pixels different for ${photoPath}`);
+          thisLog(`${diff} pixels different for ${photoPath}`);
           copyPhotoFile = true;
         }
       }
     }
 
     if (copyPhotoFile) {
-      // fs.copyFileSync(photoPath, distPhoto);
+      fs.copyFileSync(photoPath, distPhoto);
     }
 
     // Manage index file
