@@ -38,9 +38,9 @@ jobs:
 
           echo "::set-output name=outdated::$OUTDATED"
 
-      - name: Upgrade packages ⏫
+      - name: Update packages ⏫
         if: ${{ steps.vars.outputs.outdated != '' }}
-        run: npm upgrade
+        run: npm update --save
 
       # - name: Lint 🧐
       #   if: ${{ steps.vars.outputs.outdated != '' }}
@@ -60,9 +60,9 @@ jobs:
         if: ${{ steps.vars.outputs.outdated != '' }}
         uses: peter-evans/create-pull-request@v3
         with:
-          title: 'build(deps): Upgrade NPM packages (automated)'
-          branch: 'build-deps-upgrade-npm-packages-automated'
-          commit-message: 'build(deps): upgrade NPM packages (automated)'
+          title: 'build(deps): update NPM packages (automated)'
+          branch: 'build-deps-update-npm-packages-automated'
+          commit-message: 'build(deps): update NPM packages (automated)'
           labels: |
             type: dependencies 🔗
             automerge 🤞
