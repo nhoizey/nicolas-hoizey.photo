@@ -20,12 +20,13 @@ import polylabel from 'polylabel';
     let map = new mapboxgl.Map({
       container: mapElementId,
       style: `${window.location.origin}/map/mapbox-style-terrain.json`,
+      projection: 'globe',
       center: [10, 20],
-      zoom: 1.5,
       bounds: [
-        [-120, -65],
-        [150, 80],
+        [-120, -60],
+        [120, 70],
       ],
+      // -166.992188,-61.100789,190.898438,83.942272
       minZoom: 1,
       maxZoom: maxZoomLevel,
       scrollZoom: false,
@@ -33,7 +34,7 @@ import polylabel from 'polylabel';
       hash: true,
       renderWorldCopies: true,
       transformRequest: (url, resourceType) => {
-        console.log({ url, resourceType });
+        // console.log({ url, resourceType });
         if (url.startsWith('https://nicolas-hoizey.photo')) {
           if (resourceType === 'SpriteImage') {
             return {
@@ -53,6 +54,16 @@ import polylabel from 'polylabel';
     });
     map.dragRotate.disable();
     map.touchZoomRotate.disableRotation();
+
+    map.on('style.load', () => {
+      map.setFog({
+        color: '#222222',
+        'horizon-blend': 0.05,
+        'high-color': '#292929',
+        'space-color': '#292929',
+        'star-intensity': .2,
+      });
+    });
 
     const addLayers = () => {
       if (!map.getSource('photos')) {
@@ -246,6 +257,66 @@ import polylabel from 'polylabel';
     // After the last frame rendered before the map enters an "idle" state.
     map.on('idle', () => {
       addLayers();
+
+      // At low zooms, complete a revolution every two minutes.
+      const secondsPerRevolution = 120;
+      // Above zoom level 4, do not rotate.
+      const maxSpinZoom = 4;
+      // Rotate at intermediate speeds between zoom levels 2 and 4.
+      const slowSpinZoom = 2;
+
+      let userInteracting = false;
+      let spinEnabled = true;
+
+      function spinGlobe() {
+        const zoom = map.getZoom();
+        if (spinEnabled && !userInteracting && zoom < maxSpinZoom) {
+          let distancePerSecond = 360 / secondsPerRevolution;
+          if (zoom > slowSpinZoom) {
+            // Slow spinning at higher zooms
+            const zoomDif = (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
+            distancePerSecond *= zoomDif;
+          }
+          const center = map.getCenter();
+          center.lng -= distancePerSecond;
+          // Smoothly animate the map over one second.
+          // When this animation is complete, it calls a 'moveend' event.
+          map.easeTo({ center, duration: 1000, easing: (n) => n });
+        }
+      }
+
+      // Pause spinning on interaction
+      map.on('mousedown', () => {
+        userInteracting = true;
+      });
+
+      // Restart spinning the globe when interaction is complete
+      map.on('mouseup', () => {
+        userInteracting = false;
+        spinGlobe();
+      });
+
+      // These events account for cases where the mouse has moved
+      // off the map, so 'mouseup' will not be fired.
+      map.on('dragend', () => {
+        userInteracting = false;
+        spinGlobe();
+      });
+      map.on('pitchend', () => {
+        userInteracting = false;
+        spinGlobe();
+      });
+      map.on('rotateend', () => {
+        userInteracting = false;
+        spinGlobe();
+      });
+
+      // When animation is complete, start spinning if there is no ongoing interaction
+      map.on('moveend', () => {
+        spinGlobe();
+      });
+
+      spinGlobe();
     });
   }
 })(window);
