@@ -29,7 +29,8 @@
 
     {% block description %}
       {# https://stackoverflow.com/q/6203984/717195 #}
-      <meta name="description" property="og:description" content="{{ site.description }}" />
+      {# https://snook.ca/archives/html_and_css/open-graph-and-sharing-tags #}
+      <meta property="og:description" name="description" content="{{ site.description }}" />
     {% endblock %}
 
     <link rel="canonical" href="{{ site.url + page.url }}" itemprop="url" />

@@ -18,7 +18,7 @@ permalink: /p/{{ photo.fileSlug }}/
 <meta name="twitter:site" content="@{{ site.author.twitter }}" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta property="og:title" content="{{ photo.data.title }} — {{ site.title }}" />
-<meta name="description" property="og:description" content="{{ site.description }}" />
+<meta property="og:description" name="description" content="{{ site.description }}" />
 {% set opengraphFile = 'src/photos/' + photo.fileSlug + '/opengraph.jpg' %}
 {% if opengraphFile | exists %}
 <meta property="og:image:width" content="1200" />
