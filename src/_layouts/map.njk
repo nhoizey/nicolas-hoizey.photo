@@ -17,11 +17,10 @@
     {% from "macros/css.njk" import css %}
     {{ css('components/map', build.env) }}
 
-    <div id="map">
-      <noscript>
-        <p>You need JavaScript to see this map.</p>
-      </noscript>
-    </div>
+    <div id="map"></div>
+    <noscript>
+      <p>You need JavaScript to see this map.</p>
+    </noscript>
 
     <p>{% icon 'download' %} <a href="/map/photos.kml">Download the KML file for Google Earth</a>.</p>
   </div>

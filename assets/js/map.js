@@ -258,32 +258,52 @@ import polylabel from 'polylabel';
     map.on('idle', () => {
       addLayers();
 
+      // Compute new position every… in milliseconds
+      const rotationInterval = 500;
       // At low zooms, complete a revolution every two minutes.
-      const secondsPerRevolution = 120;
-      // Above zoom level 4, do not rotate.
-      const maxSpinZoom = 4;
-      // Rotate at intermediate speeds between zoom levels 2 and 4.
+      const secondsPerRevolution = 2 * 60;
+      // Above zoom level 5, do not rotate.
+      const maxSpinZoom = 5;
+      // Rotate at intermediate speeds between zoom levels 2 and 5.
       const slowSpinZoom = 2;
 
-      let userInteracting = false;
-      let spinEnabled = true;
+      // Respect user preference for reduced motion
+      let animationAllowed = window.matchMedia(
+        '(prefers-reduced-motion: no-preference)'
+      ).matches;
+      window.matchMedia('(prefers-reduced-motion)').addEventListener('change', () => {
+        animationAllowed = window.matchMedia(
+          '(prefers-reduced-motion: no-preference)'
+        ).matches;
+      });
 
-      function spinGlobe() {
+      let userInteracting = false;
+
+      const spinGlobe = (timestamp) => {
         const zoom = map.getZoom();
-        if (spinEnabled && !userInteracting && zoom < maxSpinZoom) {
-          let distancePerSecond = 360 / secondsPerRevolution;
+        if (
+          animationAllowed
+          && !userInteracting
+          && zoom < maxSpinZoom) {
+          let distancePerInterval = 360 / secondsPerRevolution * (rotationInterval / 1000);
           if (zoom > slowSpinZoom) {
             // Slow spinning at higher zooms
             const zoomDif = (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
-            distancePerSecond *= zoomDif;
+            distancePerInterval *= zoomDif;
           }
           const center = map.getCenter();
-          center.lng -= distancePerSecond;
+          center.lng -= distancePerInterval;
           // Smoothly animate the map over one second.
           // When this animation is complete, it calls a 'moveend' event.
-          map.easeTo({ center, duration: 1000, easing: (n) => n });
+          map.easeTo({
+            center,
+            duration: rotationInterval,
+            easing: (n) => n,
+          });
         }
+        setTimeout(requestAnimationFrame, rotationInterval, spinGlobe);
       }
+      requestAnimationFrame(spinGlobe);
 
       // Pause spinning on interaction
       map.on('mousedown', () => {
@@ -293,30 +313,19 @@ import polylabel from 'polylabel';
       // Restart spinning the globe when interaction is complete
       map.on('mouseup', () => {
         userInteracting = false;
-        spinGlobe();
       });
 
       // These events account for cases where the mouse has moved
       // off the map, so 'mouseup' will not be fired.
       map.on('dragend', () => {
         userInteracting = false;
-        spinGlobe();
       });
       map.on('pitchend', () => {
         userInteracting = false;
-        spinGlobe();
       });
       map.on('rotateend', () => {
         userInteracting = false;
-        spinGlobe();
       });
-
-      // When animation is complete, start spinning if there is no ongoing interaction
-      map.on('moveend', () => {
-        spinGlobe();
-      });
-
-      spinGlobe();
     });
   }
 })(window);
