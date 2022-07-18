@@ -23,7 +23,7 @@ import polylabel from 'polylabel';
       projection: 'globe',
       center: [10, 20],
       bounds: [
-        [-120, -60],
+        [-120, -50],
         [120, 70],
       ],
       // -166.992188,-61.100789,190.898438,83.942272
@@ -54,16 +54,6 @@ import polylabel from 'polylabel';
     });
     map.dragRotate.disable();
     map.touchZoomRotate.disableRotation();
-
-    map.on('style.load', () => {
-      map.setFog({
-        color: '#222222',
-        'horizon-blend': 0.05,
-        'high-color': '#292929',
-        'space-color': '#292929',
-        'star-intensity': .2,
-      });
-    });
 
     const addLayers = () => {
       if (!map.getSource('photos')) {
@@ -247,7 +237,7 @@ import polylabel from 'polylabel';
       new MapboxStyleSwitcherControl(mapStyles, {
         defaultStyle: 'Terrain',
         eventListeners: {
-          onChange: () => {
+          onChange: (event, style) => {
             // TODO: manage localStorage or a cookie to keep track of chosen style
           },
         },
@@ -256,7 +246,7 @@ import polylabel from 'polylabel';
 
     // After the last frame rendered before the map enters an "idle" state.
     map.on('idle', () => {
-      addLayers();
+      // addLayers();
 
       // Compute new position every… in milliseconds
       const rotationInterval = 500;
@@ -327,5 +317,17 @@ import polylabel from 'polylabel';
         userInteracting = false;
       });
     });
+
+    map.on('styledata', () => {
+      map.setFog({
+        color: '#222222',
+        'horizon-blend': 0.05,
+        'high-color': '#292929',
+        'space-color': '#292929',
+        'star-intensity': 0.2,
+      });
+      addLayers();
+    });
+
   }
 })(window);
