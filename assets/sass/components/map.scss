@@ -26,7 +26,7 @@
   margin-right: - space.$m;
   width: 100vw;
 
-  // = Full height: 100vh
+  // = Full height: 100dvh
   // - body padding: space.$m
   // - logo: calc(var(--logo-wide) / 9)
   // - header gap: space.$m
@@ -35,7 +35,7 @@
   // - breadcrumb: $line-height * var(--step--1)
   // - title: 1.2 * var(--step-3)
   // - 2 grid gaps: 2 * space.$s
-  height: calc(100vh - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} - #{$line-height} * var(--step-0) - #{space.$xl} - #{$line-height} * var(--step--1) - 1.2 * var(--step-4) - 2 * #{space.$s});
+  height: calc(var(--full-height) - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} - #{$line-height} * var(--step-0) - #{space.$xl} - #{$line-height} * var(--step--1) - 1.2 * var(--step-4) - 2 * #{space.$s});
 
   @media (min-width: $breakpoint-m) {
     position: relative;
@@ -44,7 +44,7 @@
     margin-left: 0;
     margin-right: 0;
     width: calc(100% + space.$xxl * 2);
-    height: 100vh;
+    height: var(--full-height);
 
     z-index: 10;
 

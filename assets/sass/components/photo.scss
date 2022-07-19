@@ -95,7 +95,7 @@
     // - breadcrumb: $line-height * var(--step--1)
     // - title: 1.2 * var(--step-4)
     // - 2 grid gaps: 2 * space.$s
-    --base: 100vh;
+    --base: var(--full-height);
     --height: calc(
       var(--base) - #{space.$m} - #{$line-height} * var(--step--1) - 1.2 *
         var(--step-4) - 2 * #{space.$s}
@@ -118,7 +118,7 @@
 
   &.portrait {
     // Make the image fully visible on load without scrolling
-    // = Full height: 100vh
+    // = Full height: 100dvh
     // - body padding: space.$m
     // - logo: calc(var(--logo-wide) / 9)
     // - header gap: space.$m
@@ -128,7 +128,7 @@
     // - title: 1.2 * var(--step-3)
     // - 2 grid gaps: 2 * space.$s
     --height: calc(
-      100vh - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} - #{$line-height} *
+      var(--full-height) - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} - #{$line-height} *
         var(--step-0) - #{space.$xl} - #{$line-height} * var(--step--1) - 1.2 * var(
           --step-4
         ) - 2 * #{space.$s}
@@ -136,13 +136,13 @@
     --width: calc(var(--height) * var(--ratio));
 
     @media (min-width: $breakpoint-m) {
-      // = Full height: 100vh
+      // = Full height: 100dvh
       // - body padding: space.$m
       // - breadcrumb: $line-height * var(--step--1)
       // - title: 1.2 * var(--step-3)
       // - 2 grid gaps: 2 * space.$s
       --height: calc(
-        100vh - #{space.$m} - #{$line-height} * var(--step--1) - 1.2 *
+        var(--full-height) - #{space.$m} - #{$line-height} * var(--step--1) - 1.2 *
           var(--step-4) - 2 * #{space.$s}
       );
     }
@@ -161,7 +161,7 @@
     }
 
     @media (min-aspect-ratio: 2) {
-      // --height: calc(100vh - 2 * #{space.$m});
+      // --height: calc(100dvh - 2 * #{space.$m});
       // --width: auto;
     }
   }
