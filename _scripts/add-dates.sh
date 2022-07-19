@@ -2,7 +2,7 @@
 
 found=0
 
-find src/galleries -name "*.md" | while read fileName; do
+while read fileName; do
   fileBasename=$(basename "$fileName")
   if [ ! "$fileBasename" == "index.md" ]
   then
@@ -31,6 +31,8 @@ dateline    { date=$0; next }
       found=1
     fi
   fi
-done
+done < <(find src/galleries -name "*.md")
+# https://unix.stackexchange.com/a/21749/415372
+# https://tldp.org/LDP/abs/html/process-sub.html
 
 exit $found
