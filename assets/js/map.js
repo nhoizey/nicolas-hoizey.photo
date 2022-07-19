@@ -21,12 +21,10 @@ import polylabel from 'polylabel';
       container: mapElementId,
       style: `${window.location.origin}/map/mapbox-style-terrain.json`,
       projection: 'globe',
-      center: [10, 20],
       bounds: [
-        [-120, -50],
-        [120, 70],
+        [0, 70],
+        [0, -40],
       ],
-      // -166.992188,-61.100789,190.898438,83.942272
       minZoom: 1,
       maxZoom: maxZoomLevel,
       scrollZoom: false,

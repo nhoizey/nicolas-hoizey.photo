@@ -19,6 +19,9 @@ body {
 }
 
 header {
+  position: relative;
+  z-index: 50; // to get the shadow above the map
+
   flex-shrink: 0;
   padding: space.$m;
 
@@ -31,7 +34,6 @@ header {
   background-color: $color-header;
   border-bottom: 2px solid #111;
   box-shadow: 0px 0px 2rem 0.1rem rgba(0, 0, 0, 0.5);
-  z-index: 10;
 
   @media (min-width: $breakpoint-m) {
     border-bottom: none;
@@ -94,6 +96,8 @@ nav {
 }
 
 main {
+  position: relative;
+
   padding-top: space.$m;
   padding-bottom: space.$m;
   padding-left: space.$m;

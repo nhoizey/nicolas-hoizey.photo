@@ -4,17 +4,52 @@
 @use '../../../node_modules/mapbox-gl-style-switcher/styles.css';
 
 .map {
-  h1 {
-    margin-bottom: space.$s;
+  @media (min-width: $breakpoint-m) {
+    .header {
+      position: absolute;
+      z-index: 20;
+    }
+
+    h1 {
+      margin-bottom: space.$s;
+      text-shadow: 1px 1px 1rem rgba(0, 0, 0, 0.7);
+    }
   }
 }
 
 #map {
-  width: 100%;
-  // full - padding main - breadcrumb - title - 2 * padding
-  height: calc(
-    100vh - space.$m - 1.5 * var(--step--1) - 1.2 * var(--step-4) - 2 * space.$s
-  );
+  margin-left: - space.$m;
+  margin-right: - space.$m;
+  width: 100vw;
+
+  // = Full height: 100vh
+  // - body padding: space.$m
+  // - logo: calc(var(--logo-wide) / 9)
+  // - header gap: space.$m
+  // - navigation: $line-height * var(--step-0)
+  // - page gap: space.$xl
+  // - breadcrumb: $line-height * var(--step--1)
+  // - title: 1.2 * var(--step-3)
+  // - 2 grid gaps: 2 * space.$s
+  height: calc(100vh - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} - #{$line-height} * var(--step-0) - #{space.$xl} - #{$line-height} * var(--step--1) - 1.2 * var(--step-4) - 2 * #{space.$s});
+
+  @media (min-width: $breakpoint-m) {
+    position: relative;
+    top: - space.$m;
+    left: - space.$xxl;
+    margin-left: 0;
+    margin-right: 0;
+    width: calc(100% + space.$xxl * 2);
+    height: 100vh;
+
+    z-index: 10;
+
+    .mapboxgl-ctrl-top-right {
+      top: space.$xxl;
+      right: space.$xxl;
+    }
+  }
+
 
   .mapboxgl-popup {
     width: 220px;

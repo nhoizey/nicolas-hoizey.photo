@@ -1,5 +1,5 @@
 ---
-title: Map of all photo locations
+title: Map of photo locations
 nav:
   order: 6
   icon: map
