@@ -18,6 +18,7 @@ import polylabel from 'polylabel';
   if (mapElement) {
     let userInteracting = false;
     let clusterMove = false;
+    let popupOpened = false;
 
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
     let map = new mapboxgl.Map({
@@ -125,12 +126,16 @@ import polylabel from 'polylabel';
                     let imageProperties = feature.properties;
                     popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a></p>`;
                   });
-                  new mapboxgl.Popup()
+                  popupOpened = true;
+                  const popup = new mapboxgl.Popup()
                     .setLngLat(coordinates)
                     .setHTML(
                       `<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`
                     )
                     .addTo(map);
+                  popup.on('close', () => {
+                    popupOpened = false;
+                  });
                 } else {
                   // Zoom in cluster
                   let clusterMarkers = [];
@@ -158,9 +163,11 @@ import polylabel from 'polylabel';
 
         map.on('mouseenter', 'clusters', function () {
           map.getCanvas().style.cursor = 'pointer';
+          userInteracting = true;
         });
         map.on('mouseleave', 'clusters', function () {
           map.getCanvas().style.cursor = '';
+          userInteracting = false;
         });
       }
 
@@ -204,19 +211,25 @@ import polylabel from 'polylabel';
             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
           }
 
-          new mapboxgl.Popup()
+          popupOpened = true;
+          const popup = new mapboxgl.Popup()
             .setLngLat(coordinates)
             .setHTML(
               `<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a>`
             )
             .addTo(map);
+          popup.on('close', () => {
+            popupOpened = false;
+          });
         });
 
         map.on('mouseenter', 'unclustered-point-photo', function () {
           map.getCanvas().style.cursor = 'pointer';
+          userInteracting = true;
         });
         map.on('mouseleave', 'unclustered-point-photo', function () {
           map.getCanvas().style.cursor = '';
+          userInteracting = false;
         });
       }
     };
@@ -275,10 +288,13 @@ import polylabel from 'polylabel';
       const spinGlobe = (timestamp) => {
         const zoom = map.getZoom();
         if (
-          animationAllowed
-          && !userInteracting
-          && zoom < maxSpinZoom) {
-          let distancePerInterval = 360 / secondsPerRevolution * (rotationInterval / 1000);
+          animationAllowed &&
+          !userInteracting &&
+          !popupOpened &&
+          zoom < maxSpinZoom
+        ) {
+          let distancePerInterval =
+            (360 / secondsPerRevolution) * (rotationInterval / 1000);
           if (zoom > slowSpinZoom) {
             // Slow spinning at higher zooms
             const zoomDif = (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
