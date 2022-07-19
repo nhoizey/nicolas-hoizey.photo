@@ -16,6 +16,9 @@ import polylabel from 'polylabel';
   const markerStroke = '#ffffff';
 
   if (mapElement) {
+    let userInteracting = false;
+    let clusterMove = false;
+
     mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
     let map = new mapboxgl.Map({
       container: mapElementId,
@@ -138,6 +141,9 @@ import polylabel from 'polylabel';
                     .getSource('photos')
                     .getClusterExpansionZoom(clusterId, function (err, zoom) {
                       if (err) return;
+
+                      userInteracting = true;
+                      clusterMove = true;
 
                       map.flyTo({
                         center: polylabel([clusterMarkers]),
@@ -265,7 +271,6 @@ import polylabel from 'polylabel';
         ).matches;
       });
 
-      let userInteracting = false;
 
       const spinGlobe = (timestamp) => {
         const zoom = map.getZoom();
@@ -313,6 +318,12 @@ import polylabel from 'polylabel';
       });
       map.on('rotateend', () => {
         userInteracting = false;
+      });
+      map.on('moveend', () => {
+        if (userInteracting && clusterMove) {
+          userInteracting = false;
+          clusterMove = false;
+        }
       });
     });
 
