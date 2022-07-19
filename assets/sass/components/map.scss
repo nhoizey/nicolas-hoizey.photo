@@ -5,14 +5,18 @@
 
 .map {
   @media (min-width: $breakpoint-m) {
+    // For when the map is bellow the header
     .header {
       position: absolute;
       z-index: 20;
+      text-shadow: 1px 1px .5rem rgba(0, 0, 0, 0.7);
     }
 
-    h1 {
-      margin-bottom: space.$s;
-      text-shadow: 1px 1px 1rem rgba(0, 0, 0, 0.7);
+    .breadcrumb {
+      color: white;
+      a {
+        color: currentColor;
+      }
     }
   }
 }
