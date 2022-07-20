@@ -4,15 +4,17 @@
 status=0
 
 # Check missing dates
-_scripts/add-dates.sh
+dates_result=$(_scripts/add-dates.sh)
 if [ $? -eq 1 ]
 then
+  echo "$dates_result"
   status=1
 fi
 
-_scripts/check-missing-opengraph.sh
+opengraph_result=$(_scripts/check-missing-opengraph.sh)
 if [ $? -eq 1 ]
 then
+  echo "$opengraph_result"
   status=1
 fi
 
