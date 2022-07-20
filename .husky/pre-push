@@ -1,16 +1,18 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-# Check missing dates
-npm run dates
-status=$?
+status=0
 
-# Check missing opengraph images
-missing_opengraph=$(find src/photos/ -mindepth 1 -type d '!' -exec test -e "{}/opengraph.jpg" ';' -print | wc -l)
-missing_opengraph="$((missing_opengraph + 0))"
-if [ ! "$missing_opengraph" -eq "0" ]
+# Check missing dates
+_scripts/add-dates.sh
+if [ $? -eq 1 ]
 then
-  echo "Run ./_scripts/generate-opengraph-images.js to generate missing opengraph.jpg files"
+  status=1
+fi
+
+_scripts/check-missing-opengraph.sh
+if [ $? -eq 1 ]
+then
   status=1
 fi
 
