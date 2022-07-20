@@ -9,13 +9,13 @@
   clear: both;
 
   margin: space.$xl 0;
-  padding-left: 0;
+  padding-inline-start: 0;
 
   list-style: none;
 
   display: grid;
   gap: space.$xxxl space.$xl;
-    grid-template-columns: repeat(auto-fit, min(100%, 20rem));
+  grid-template-columns: repeat(auto-fit, min(100%, 20rem));
 
   align-items: start;
 

@@ -8,7 +8,7 @@
 }
 
 .blog__item + .blog__item {
-  margin-top: $gap * 2;
+  margin-block-start: $gap * 2;
 }
 
 .blog__title {
@@ -23,5 +23,5 @@
 }
 
 .blog__text {
-  margin-top: math.div($gap, 2);
+  margin-block-start: math.div($gap, 2);
 }

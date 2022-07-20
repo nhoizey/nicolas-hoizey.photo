@@ -128,7 +128,7 @@ fs.writeFileSync('src/ui/svg-sprite.svg', spriteString);
 
 // Generate the Sass file
 const sass = `.icon {
-  padding-left: 1.4em;
+  padding-inline-start: 1.4em;
 
   background-size: 1.3em 1.3em;
   background-position-x: 0;

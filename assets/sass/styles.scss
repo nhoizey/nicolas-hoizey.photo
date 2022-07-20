@@ -16,7 +16,7 @@
   --pan-y-start: 5%;
 
   --full-height: 100vh;
-  @supports(height: 100dvh) {
+  @supports (height: 100dvh) {
     --full-height: 100dvh;
   }
 }
@@ -75,12 +75,12 @@ body {
 
 main {
   & > *:first-child {
-    margin-top: 0;
+    margin-block-start: 0;
   }
 }
 
 section {
-  margin-top: space.$xxl;
+  margin-block-start: space.$xxl;
 }
 
 p {
@@ -111,7 +111,7 @@ h1 {
   font-size: var(--step-4);
 
   .breadcrumb + & {
-    margin-top: 0;
+    margin-block-start: 0;
   }
 }
 
@@ -121,7 +121,7 @@ h2 {
 
 h3 {
   font-size: var(--step-2);
-  margin-top: space.$xxxl;
+  margin-block-start: space.$xxxl;
 }
 
 h4 {
@@ -199,9 +199,8 @@ figure {
 
 .breadcrumb {
   list-style: none;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 0;
+  margin-block: 0;
+  padding-inline-start: 0;
   font-size: var(--step--1);
   color: var(--ambiant-foreground, #{$color-theme-lighter-4});
 

@@ -34,7 +34,7 @@
 
     // TODO: use %owl
     p + p {
-      margin-top: 1em;
+      margin-block-start: 1em;
     }
   }
 
@@ -128,10 +128,10 @@
     // - title: 1.2 * var(--step-3)
     // - 2 grid gaps: 2 * space.$s
     --height: calc(
-      var(--full-height) - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} - #{$line-height} *
-        var(--step-0) - #{space.$xl} - #{$line-height} * var(--step--1) - 1.2 * var(
-          --step-4
-        ) - 2 * #{space.$s}
+      var(--full-height) - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} -
+        #{$line-height} * var(--step-0) - #{space.$xl} - #{$line-height} * var(
+          --step--1
+        ) - 1.2 * var(--step-4) - 2 * #{space.$s}
     );
     --width: calc(var(--height) * var(--ratio));
 
@@ -142,8 +142,8 @@
       // - title: 1.2 * var(--step-3)
       // - 2 grid gaps: 2 * space.$s
       --height: calc(
-        var(--full-height) - #{space.$m} - #{$line-height} * var(--step--1) - 1.2 *
-          var(--step-4) - 2 * #{space.$s}
+        var(--full-height) - #{space.$m} - #{$line-height} * var(--step--1) -
+          1.2 * var(--step-4) - 2 * #{space.$s}
       );
     }
 
@@ -180,9 +180,8 @@
   .exif {
     list-style-type: none;
 
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-left: 0;
+    margin-block: 0;
+    padding-inline-start: 0;
 
     font-size: var(--step--1);
 
@@ -202,8 +201,7 @@
 
   .geo {
     p {
-      margin-top: 0;
-      margin-bottom: 0;
+      margin-block: 0;
     }
 
     .locate {
@@ -220,8 +218,7 @@
 
 @media (horizontal-viewport-segments: 2) {
   main {
-    padding-left: space.$m;
-    padding-right: space.$m;
+    padding-inline: space.$m;
   }
 
   .photo {
@@ -238,12 +235,12 @@
     .image,
     .description,
     .tags {
-      margin-left: space.$m;
+      margin-inline-start: space.$m;
     }
 
     .header,
     .meta {
-      margin-right: space.$m;
+      margin-inline-end: space.$m;
     }
 
     h1 {

@@ -7,7 +7,7 @@
 
 .galleries {
   list-style: none;
-  padding-left: 0;
+  padding-inline-start: 0;
 
   display: grid;
   gap: space.$xxxl space.$xl;
@@ -28,13 +28,14 @@
       object-fit: cover;
 
       transform-origin: 50% 50%;
-      transform: scale(var(--scale-start)) translate(var(--pan-x-start), var(--pan-y-start));
+      transform: scale(var(--scale-start))
+        translate(var(--pan-x-start), var(--pan-y-start));
     }
 
     &::before {
       content: '';
       display: block;
-      padding-bottom: 66.666%;
+      padding-block-end: 66.666%;
     }
   }
 

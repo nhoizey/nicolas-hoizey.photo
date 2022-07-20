@@ -48,7 +48,7 @@ body {
   align-content: center;
 
   .gallery & {
-    flex:1;
+    flex: 1;
   }
 }
 
@@ -133,13 +133,13 @@ img {
 
 .breadcrumb {
   list-style: none;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 0;
+  margin-block: 0;
+  padding-inline-start: 0;
   font-size: 20px;
   color: $color-theme-lighter-4;
 
-  li:first-child, li:nth-child(2) {
+  li:first-child,
+  li:nth-child(2) {
     display: none;
   }
 

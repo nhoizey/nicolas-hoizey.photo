@@ -54,7 +54,7 @@ nav {
     justify-content: flex-end;
 
     li + li {
-      margin-left: space.$s;
+      margin-inline-start: space.$s;
     }
 
     ul {
@@ -63,21 +63,20 @@ nav {
 
     @media (min-width: $breakpoint-m) {
       flex-direction: column;
-      margin-left: space.$m;
+      margin-inline-start: space.$m;
 
       li + li {
-        margin-left: 0;
-        margin-top: space.$m;
+        margin-inline-start: 0;
+        margin-block-start: space.$m;
       }
 
       ul {
-        margin-top: space.$xxs;
-        margin-bottom: space.$m;
-        padding-left: space.$xl;
+        margin-block: space.$xxs space.$m;
+        padding-inline-start: space.$xl;
         display: flex;
 
         li + li {
-          margin-top: space.$xxs;
+          margin-block-start: space.$xxs;
         }
       }
     }
@@ -98,17 +97,13 @@ nav {
 main {
   position: relative;
 
-  padding-top: space.$m;
-  padding-bottom: space.$m;
-  padding-left: space.$m;
-  padding-right: space.$m;
+  padding: space.$m;
   flex-grow: 1;
 
   background-color: var(--ambiant-background, #{$color-surface});
 
   @media (min-width: $breakpoint-m) {
-    padding-left: space.$xxl;
-    padding-right: space.$xxl;
+    padding-inline: space.$xxl;
   }
 }
 

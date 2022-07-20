@@ -9,7 +9,7 @@
     .header {
       position: absolute;
       z-index: 20;
-      text-shadow: 1px 1px .5rem rgba(0, 0, 0, 0.7);
+      text-shadow: 1px 1px 0.5rem rgba(0, 0, 0, 0.7);
     }
 
     .breadcrumb {
@@ -22,8 +22,7 @@
 }
 
 #map {
-  margin-left: - space.$m;
-  margin-right: - space.$m;
+  margin-inline: -space.$m;
   width: 100vw;
 
   // = Full height: 100dvh
@@ -35,14 +34,18 @@
   // - breadcrumb: $line-height * var(--step--1)
   // - title: 1.2 * var(--step-3)
   // - 2 grid gaps: 2 * space.$s
-  height: calc(var(--full-height) - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} - #{$line-height} * var(--step-0) - #{space.$xl} - #{$line-height} * var(--step--1) - 1.2 * var(--step-4) - 2 * #{space.$s});
+  height: calc(
+    var(--full-height) - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} -
+      #{$line-height} * var(--step-0) - #{space.$xl} - #{$line-height} * var(
+        --step--1
+      ) - 1.2 * var(--step-4) - 2 * #{space.$s}
+  );
 
   @media (min-width: $breakpoint-m) {
     position: relative;
-    top: - space.$m;
-    left: - space.$xxl;
-    margin-left: 0;
-    margin-right: 0;
+    top: -space.$m;
+    left: -space.$xxl;
+    margin-inline: 0;
     width: calc(100% + space.$xxl * 2);
     height: var(--full-height);
 
@@ -53,7 +56,6 @@
       right: space.$xxl;
     }
   }
-
 
   .mapboxgl-popup {
     width: 220px;
@@ -74,11 +76,11 @@
     overflow-y: scroll;
 
     p {
-      margin-top: 0;
+      margin-block-start: 0;
     }
 
     p + p {
-      margin-top: space.$s;
+      margin-block-start: space.$s;
     }
   }
 
