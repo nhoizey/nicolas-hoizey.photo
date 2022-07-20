@@ -84,3 +84,5 @@ jobs:
 
       - name: Update browserslist database and create PR if applies 🗄️
         uses: c2corg/browserslist-update-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
