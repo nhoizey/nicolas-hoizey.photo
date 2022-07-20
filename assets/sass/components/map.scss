@@ -22,7 +22,7 @@
 }
 
 #map {
-  margin-inline: -space.$m;
+  margin-inline: -(space.$m);
   width: 100vw;
 
   // = Full height: 100dvh
@@ -43,8 +43,8 @@
 
   @media (min-width: $breakpoint-m) {
     position: relative;
-    top: -space.$m;
-    left: -space.$xxl;
+    top: -(space.$m);
+    left: -(space.$xxl);
     margin-inline: 0;
     width: calc(100% + space.$xxl * 2);
     height: var(--full-height);
