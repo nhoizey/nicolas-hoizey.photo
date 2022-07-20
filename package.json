@@ -19,6 +19,13 @@
   "engines": {
     "node": ">=16"
   },
+  "browerslist": [
+    "> 0.1%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead",
+    "not ie 11"
+  ],
   "scripts": {
     "clean": "rimraf _site",
     "sass": "sass --no-source-map assets/sass:_site/ui/css",
