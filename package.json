@@ -72,6 +72,7 @@
     "html-minifier": "^4.0.0",
     "husky": "^8.0.1",
     "image-size": "^1.0.2",
+    "lint-staged": "^13.0.3",
     "lodash": "^4.17.21",
     "majesticons": "^2.1.2",
     "mapbox-gl-style-switcher": "^1.0.11",
