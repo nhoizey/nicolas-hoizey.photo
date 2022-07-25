@@ -363,7 +363,7 @@ SYNC ${photo}`);
             newPhotoBuffer.info.width,
             newPhotoBuffer.info.height,
             {
-              threshold: 0.01,
+              threshold: 0.1,
             }
           );
 
