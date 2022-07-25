@@ -349,10 +349,20 @@ SYNC ${photo}`);
           );
           copyPhotoFile = true;
         } else {
+          let diffImage = await sharp({
+            create: {
+              width: existingPhotoBuffer.info.width,
+              height: existingPhotoBuffer.info.height,
+              channels: 4,
+              background: { r: 255, g: 0, b: 0, alpha: 0 },
+            },
+          })
+            .toBuffer()
+            .then((data) => data);
           const diff = pixelmatch(
             existingPhotoBuffer.data,
             newPhotoBuffer.data,
-            null,
+            diffImage,
             newPhotoBuffer.info.width,
             newPhotoBuffer.info.height,
             {
@@ -362,6 +372,7 @@ SYNC ${photo}`);
 
           if (diff > 0) {
             thisLog(`${diff} pixels different for ${photoPath}`);
+            sharp(diffImage).png().toFile(path.join(distDir, 'diff.png'));
             copyPhotoFile = true;
           }
         }
