@@ -124,6 +124,7 @@
     "yaml": "^1.10.2"
   },
   "dependencies": {
-    "mapbox-gl": "^2.9.2"
+    "mapbox-gl": "^2.9.2",
+    "web-vitals": "^2.1.4"
   }
 }
