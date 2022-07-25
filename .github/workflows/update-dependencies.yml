@@ -31,8 +31,8 @@ jobs:
           if [[ -z "$OUTDATED" ]]; then
             echo 'Nothing to update'
           else
-            echo 'Found outdated packages:'
-            echo "$OUTDATED"
+            echo 'Found outdated packages:' >> $GITHUB_STEP_SUMMARY
+            echo "$OUTDATED" >> $GITHUB_STEP_SUMMARY
           fi
 
           echo "::set-output name=outdated::$OUTDATED"
