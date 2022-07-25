@@ -14,6 +14,7 @@ const utf8 = require('utf8');
 const YAML = require('yaml');
 const deepmerge = require('deepmerge');
 const pixelmatch = require('pixelmatch');
+const PNG = require('pngjs').PNG;
 const fs = require('fs');
 const path = require('path');
 
@@ -328,6 +329,7 @@ SYNC ${photo}`);
         // Check if new and previous photo are visually different
         const existingPhotoBuffer = await sharp(distPhoto)
           .ensureAlpha()
+          .png()
           .raw()
           .toBuffer({ resolveWithObject: true })
           .then(({ data, info }) => {
@@ -335,6 +337,7 @@ SYNC ${photo}`);
           });
         const newPhotoBuffer = await sharp(photoPath)
           .ensureAlpha()
+          .png()
           .raw()
           .toBuffer({ resolveWithObject: true })
           .then(({ data, info }) => {
@@ -349,20 +352,14 @@ SYNC ${photo}`);
           );
           copyPhotoFile = true;
         } else {
-          let diffImage = await sharp({
-            create: {
-              width: existingPhotoBuffer.info.width,
-              height: existingPhotoBuffer.info.height,
-              channels: 4,
-              background: { r: 255, g: 0, b: 0, alpha: 0 },
-            },
-          })
-            .toBuffer()
-            .then((data) => data);
+          const diffImage = new PNG({
+            width: existingPhotoBuffer.info.width,
+            height: existingPhotoBuffer.info.height,
+          });
           const diff = pixelmatch(
             existingPhotoBuffer.data,
             newPhotoBuffer.data,
-            diffImage,
+            diffImage.data,
             newPhotoBuffer.info.width,
             newPhotoBuffer.info.height,
             {
@@ -371,8 +368,11 @@ SYNC ${photo}`);
           );
 
           if (diff > 0) {
-            thisLog(`${diff} pixels different for ${photoPath}`);
-            sharp(diffImage).png().toFile(path.join(distDir, 'diff.png'));
+            thisLog(`${diff} different pixels for ${photoPath}`);
+            fs.writeFileSync(
+              path.join(distDir, 'diff.jpg'),
+              PNG.sync.write(diffImage)
+            );
             copyPhotoFile = true;
           }
         }
