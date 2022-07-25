@@ -326,22 +326,44 @@ SYNC ${photo}`);
     } else {
       if (!copyPhotoFile) {
         // Check if new and previous photo are visually different
-        const existingPhotoBuffer = sharp(distPhoto).png().raw().toBuffer();
-        const newPhotoBuffer = sharp(photoPath).png().raw().toBuffer();
-        const diff = pixelmatch(
-          existingPhotoBuffer,
-          newPhotoBuffer,
-          null,
-          photoYFM.dimensions.width,
-          photoYFM.dimensions.height,
-          {
-            threshold: 0.01,
-          }
-        );
-
-        if (diff > 0) {
-          thisLog(`${diff} pixels different for ${photoPath}`);
+        const existingPhotoBuffer = await sharp(distPhoto)
+          .ensureAlpha()
+          .raw()
+          .toBuffer({ resolveWithObject: true })
+          .then(({ data, info }) => {
+            return { data, info };
+          });
+        const newPhotoBuffer = await sharp(photoPath)
+          .ensureAlpha()
+          .raw()
+          .toBuffer({ resolveWithObject: true })
+          .then(({ data, info }) => {
+            return { data, info };
+          });
+        if (
+          newPhotoBuffer.info.width !== existingPhotoBuffer.info.width ||
+          newPhotoBuffer.info.height !== existingPhotoBuffer.info.height
+        ) {
+          thisLog(
+            `New photo is not the same dimensions as the old one: ${existingPhotoBuffer.info.width}x${existingPhotoBuffer.info.height} vs ${newPhotoBuffer.info.width}x${newPhotoBuffer.info.height}`
+          );
           copyPhotoFile = true;
+        } else {
+          const diff = pixelmatch(
+            existingPhotoBuffer.data,
+            newPhotoBuffer.data,
+            null,
+            newPhotoBuffer.info.width,
+            newPhotoBuffer.info.height,
+            {
+              threshold: 0.01,
+            }
+          );
+
+          if (diff > 0) {
+            thisLog(`${diff} pixels different for ${photoPath}`);
+            copyPhotoFile = true;
+          }
         }
       }
     }
