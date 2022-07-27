@@ -22,7 +22,7 @@ const SRC =
   '/Users/nhoizey/Synology/Personnel/Photographie/nicolas-hoizey.photo/';
 const DIST = './src/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
-const DIFFS = path.join(DIST, '_diffs');
+const DIFFS = path.join(SRC, '_temp_diffs');
 const FEED_THUMBNAIL_PIXELS = 750 * 500;
 
 let photosData = require('../_cache/photos-data.json');
