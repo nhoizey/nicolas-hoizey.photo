@@ -22,6 +22,7 @@ const SRC =
   '/Users/nhoizey/Synology/Personnel/Photographie/nicolas-hoizey.photo/';
 const DIST = './src/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
+const DIFFS = './_temp/diffs/';
 const FEED_THUMBNAIL_PIXELS = 750 * 500;
 
 let photosData = require('../_cache/photos-data.json');
@@ -370,7 +371,7 @@ SYNC ${photo}`);
           if (diff > 0) {
             thisLog(`${diff} different pixels for ${photoPath}`);
             fs.writeFileSync(
-              path.join(distDir, 'diff.jpg'),
+              path.join(DIFFS, `${slug}${ext}`),
               PNG.sync.write(diffImage)
             );
             copyPhotoFile = true;
