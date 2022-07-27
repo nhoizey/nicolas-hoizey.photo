@@ -13,6 +13,7 @@ tags:
   - 1:87
   - 1/87
   - APS-C
+  - bleu
   - blue
   - bonbon
   - bonbons
@@ -26,6 +27,7 @@ tags:
   - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - HO
   - hybrid
+  - jaune
   - macro
   - miniature
   - nourriture
@@ -34,6 +36,8 @@ tags:
   - pink
   - prime
   - red
+  - rose
+  - rouge
   - sweet
   - sweets
   - yellow

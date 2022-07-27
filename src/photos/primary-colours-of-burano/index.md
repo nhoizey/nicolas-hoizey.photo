@@ -11,6 +11,7 @@ gear:
   lens: 17.0-85.0 mm
 tags:
   - APS-C
+  - bleu
   - blue
   - Burano
   - Canon
@@ -24,6 +25,7 @@ tags:
   - Italy
   - red
   - reflex
+  - rouge
   - urbain
   - urban
   - Venezia

@@ -10,6 +10,7 @@ gear:
   model: DSC-RX100M3
   lens: 24-70mm F1.8-2.8
 tags:
+  - bleu
   - blue
   - compact
   - dance
@@ -23,6 +24,7 @@ tags:
   - nightclub
   - nuit
   - red
+  - rouge
   - Sony
   - Sony RX100 Mark III
   - spot

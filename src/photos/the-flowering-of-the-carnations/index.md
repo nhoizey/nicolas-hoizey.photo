@@ -30,6 +30,7 @@ tags:
   - Preiser
   - prime
   - red
+  - rouge
   - végétal
 settings:
   focal_length: 56

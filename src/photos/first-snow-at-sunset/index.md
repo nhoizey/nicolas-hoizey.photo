@@ -12,6 +12,7 @@ gear:
 tags:
   - arbre
   - beautiful
+  - blanc
   - Canon
   - Canon EF 24-70mm f/2.8L USM
   - Canon EOS 5D Mark II

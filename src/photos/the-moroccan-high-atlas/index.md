@@ -14,6 +14,7 @@ tags:
   - Afrique
   - Al-Aṭlas al-Kabīr
   - arbre
+  - bleu
   - blue
   - Canon
   - Canon EOS 5D Mark II

@@ -13,6 +13,7 @@ tags:
   - APS-C
   - architecture
   - Avenue Pierre Mendès-France
+  - bleu
   - blue
   - bottom view
   - building
@@ -28,7 +29,9 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 10-24mm f/4.0 R OIS
+  - gray
   - grey
+  - gris
   - hybrid
   - Ile de France
   - immeuble

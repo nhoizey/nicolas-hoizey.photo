@@ -13,6 +13,7 @@ tags:
   - Africa
   - Afrique
   - APS-C
+  - bleu
   - blue
   - brown
   - city
@@ -23,10 +24,12 @@ tags:
   - hôtel
   - hybrid
   - Kenya
+  - marron
   - Narok County
   - Ntulelei
   - prime
   - red
+  - rouge
   - urbain
   - urban
   - ville

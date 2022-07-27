@@ -37,8 +37,10 @@ tags:
   - rivière
   - rocher
   - rock
+  - rouge
   - tree
   - végétal
+  - vert
   - water
   - zoom
 settings:

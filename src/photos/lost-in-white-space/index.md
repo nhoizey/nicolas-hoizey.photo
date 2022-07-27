@@ -9,6 +9,7 @@ gear:
   make: Konica
   model: KD-400Z
 tags:
+  - blanc
   - ciel
   - compact
   - contrast

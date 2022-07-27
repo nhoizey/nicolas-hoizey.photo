@@ -14,6 +14,7 @@ tags:
   - Aeroporto de Lisboa
   - Aeroporto Humberto Delgado
   - airport
+  - bleu
   - blue
   - Europa
   - Europe
@@ -23,6 +24,7 @@ tags:
   - Lisbonne
   - Portugal
   - red
+  - rouge
   - travel
   - voyage
 settings:

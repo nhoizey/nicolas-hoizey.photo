@@ -14,6 +14,7 @@ tags:
   - Amérique du Nord
   - baiser
   - bâtiment
+  - bleu
   - blue
   - Chelsea
   - coloré
@@ -34,12 +35,14 @@ tags:
   - peinture
   - pink
   - purple
+  - rose
   - Sony
   - Sony RX100 Mark III
   - street art
   - United States
   - United States of America
   - USA
+  - violet
 settings:
   focal_length: 11.69
   focal_length_35mm: 32

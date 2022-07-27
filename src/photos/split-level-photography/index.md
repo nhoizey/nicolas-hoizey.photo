@@ -12,6 +12,7 @@ tags:
   - Africa
   - Afrique
   - bateau
+  - bleu
   - blue
   - boat
   - ciel

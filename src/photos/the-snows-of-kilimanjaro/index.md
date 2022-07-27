@@ -19,6 +19,7 @@ tags:
   - arbre
   - bird
   - birds
+  - bleu
   - blue
   - Fujifilm
   - Fujifilm X-T2

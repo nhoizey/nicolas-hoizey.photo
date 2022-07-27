@@ -13,6 +13,8 @@ tags:
   - America
   - Amérique du Nord
   - beret
+  - blanc
+  - bleu
   - blue
   - Canon
   - Canon EF 135mm f/2L USM
@@ -49,9 +51,11 @@ tags:
   - prime
   - red
   - reflex
+  - rouge
   - United States
   - United States of America
   - USA
+  - vert
   - wall
   - white
   - woman

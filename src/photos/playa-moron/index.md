@@ -15,6 +15,7 @@ tags:
   - APS-C
   - arbre
   - beach
+  - bleu
   - blue
   - Caraïbe
   - Caraïbes
@@ -43,6 +44,7 @@ tags:
   - shadow
   - tree
   - végétal
+  - vert
   - zoom
 settings:
   focal_length: 10

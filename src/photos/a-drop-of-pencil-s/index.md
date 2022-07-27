@@ -10,6 +10,7 @@ gear:
   model: EOS 5D Mark II
   lens: EF100mm f/2.8 Macro USM
 tags:
+  - blanc
   - blur
   - Canon
   - Canon EF 100mm f/2.8 Macro USM

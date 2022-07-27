@@ -21,6 +21,7 @@ tags:
   - bird
   - birds
   - black
+  - blanc
   - Ceryle rudis
   - converter
   - Coraciiformes
@@ -40,6 +41,7 @@ tags:
   - Martin-pêcheur pie
   - Nakuru
   - Nakuru County
+  - noir
   - oiseau
   - Oiseaux
   - Parc national du lac Nakuru

@@ -19,7 +19,9 @@ tags:
   - États-Unis d'Amérique
   - frame
   - framed
+  - gray
   - grey
+  - gris
   - liberté
   - liberty
   - Liberty Island

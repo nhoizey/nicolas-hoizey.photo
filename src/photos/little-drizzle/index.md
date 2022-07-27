@@ -21,7 +21,9 @@ tags:
   - Fujifilm X-T2
   - Fujinon
   - Fujinon XF 56mm f/1.2 R
+  - gray
   - grey
+  - gris
   - hybrid
   - Ile de France
   - lac

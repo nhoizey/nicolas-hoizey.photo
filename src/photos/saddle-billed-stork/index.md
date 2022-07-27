@@ -34,6 +34,7 @@ tags:
   - Kajiado
   - Kenya
   - National Park
+  - noir
   - oiseau
   - Oiseaux
   - Parc national d'Amboseli

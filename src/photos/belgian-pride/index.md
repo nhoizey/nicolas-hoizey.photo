@@ -15,6 +15,7 @@ tags:
   - België
   - Belgique
   - Belgium
+  - bleu
   - blue
   - Brussel
   - Bruxelles
@@ -41,7 +42,9 @@ tags:
   - rainbow
   - red
   - regenboog
+  - rouge
   - sky
+  - violet
   - zoom
 settings:
   focal_length: 10.5

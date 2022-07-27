@@ -12,6 +12,7 @@ tags:
   - animal
   - APS-C
   - aquarium
+  - bleu
   - blue
   - Canon
   - Canon EOS 350D

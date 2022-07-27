@@ -34,6 +34,7 @@ tags:
   - miniature
   - prime
   - red
+  - rouge
   - volcan
   - volcano
   - warm

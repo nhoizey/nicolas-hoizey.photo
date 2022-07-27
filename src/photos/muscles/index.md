@@ -12,6 +12,7 @@ gear:
 tags:
   - America
   - Amérique du Nord
+  - blanc
   - Brooklyn
   - Challenger
   - compact
@@ -23,6 +24,7 @@ tags:
   - North America
   - NYC
   - red
+  - rouge
   - Sony
   - Sony RX100 Mark III
   - United States

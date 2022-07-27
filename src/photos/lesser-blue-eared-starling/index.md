@@ -17,6 +17,7 @@ tags:
   - APS-C
   - bird
   - birds
+  - bleu
   - blue
   - captif
   - captivité

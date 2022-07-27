@@ -26,12 +26,14 @@ tags:
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
   - hybrid
+  - jaune
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
   - Masai
   - Masai Mara
   - Narok County
+  - noir
   - oiseau
   - Oiseaux
   - Passériformes

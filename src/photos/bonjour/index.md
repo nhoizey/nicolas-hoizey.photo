@@ -29,6 +29,7 @@ tags:
   - night
   - nuit
   - red
+  - rouge
   - sign
   - Sony
   - Sony RX100 Mark III

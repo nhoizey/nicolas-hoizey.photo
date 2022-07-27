@@ -11,6 +11,7 @@ gear:
   lens: EF24-70mm f/2.8L USM
 tags:
   - bateau
+  - bleu
   - blue
   - boat
   - Bretagne

@@ -9,6 +9,7 @@ gear:
   make: Konica
   model: KD-400Z
 tags:
+  - bleu
   - blue
   - cloud
   - compact
@@ -32,11 +33,13 @@ tags:
   - pink
   - ponton
   - purple
+  - rose
   - sea
   - Seine-Maritime
   - soir
   - soleil
   - sunset
+  - violet
 settings:
   focal_length: 8
   focal_length_35mm: 39

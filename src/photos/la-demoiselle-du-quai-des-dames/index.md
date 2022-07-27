@@ -13,6 +13,7 @@ tags:
   - aile
   - animal
   - APS-C
+  - bleu
   - blue
   - damselfly
   - demoiselle
@@ -34,6 +35,7 @@ tags:
   - insects
   - prime
   - Quai des Dames
+  - vert
   - wing
   - zygoptera
   - zygoptères

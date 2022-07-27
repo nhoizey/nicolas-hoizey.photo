@@ -34,6 +34,7 @@ tags:
   - Paris
   - red
   - reflex
+  - rouge
   - stair
   - staircase
   - stairway

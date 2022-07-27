@@ -11,6 +11,7 @@ gear:
   lens: EF100mm f/2.8L Macro IS USM
 tags:
   - biscuit
+  - bleu
   - blue
   - brown
   - color
@@ -24,9 +25,13 @@ tags:
   - gâteau
   - green
   - macaron
+  - marron
   - photographie culinaire
   - pink
   - red
+  - rose
+  - rouge
+  - vert
 settings:
   focal_length: 100
   iso: 100

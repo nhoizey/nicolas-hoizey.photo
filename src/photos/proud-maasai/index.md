@@ -31,6 +31,8 @@ tags:
   - prime
   - red
   - reserve
+  - rose
+  - rouge
   - village
 settings:
   focal_length: 27

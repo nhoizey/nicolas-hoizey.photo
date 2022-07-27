@@ -28,6 +28,7 @@ tags:
   - prime
   - reflex
   - sauvage
+  - vert
   - wild animal
   - wild animals
 settings:

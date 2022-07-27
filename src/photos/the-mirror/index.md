@@ -12,6 +12,7 @@ gear:
 tags:
   - Arnhem
   - bateau
+  - bleu
   - blue
   - boat
   - compact
@@ -32,6 +33,7 @@ tags:
   - Sony
   - Sony RX100 Mark III
   - The Netherlands
+  - vert
   - water
 settings:
   focal_length: 8.8

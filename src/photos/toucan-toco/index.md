@@ -28,6 +28,7 @@ tags:
   - Europa
   - Europe
   - Nederland
+  - noir
   - oiseau
   - Oiseaux
   - orange

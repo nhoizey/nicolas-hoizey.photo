@@ -15,6 +15,8 @@ tags:
   - APS-C
   - Avenue des Champs-Élysées
   - avion
+  - blanc
+  - bleu
   - blue
   - ciel
   - Défilé du 14 juillet
@@ -32,6 +34,7 @@ tags:
   - Patrouille de France
   - plane
   - red
+  - rouge
   - sky
   - smoke
   - white

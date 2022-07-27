@@ -29,6 +29,7 @@ tags:
   - Fujinon XF 18-55mm f/2.8-4.0R LM OIS
   - hybrid
   - Ile de France
+  - jaune
   - magasin
   - Paris
   - store

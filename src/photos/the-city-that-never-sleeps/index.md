@@ -12,6 +12,7 @@ gear:
 tags:
   - America
   - Amérique du Nord
+  - bleu
   - blue
   - building
   - Canon
@@ -34,6 +35,7 @@ tags:
   - NYC
   - red
   - reflex
+  - rouge
   - skyline
   - skyscrapers
   - tourism

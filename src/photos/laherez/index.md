@@ -11,6 +11,7 @@ gear:
   lens: EF24-70mm f/2.8L USM
 tags:
   - arbre
+  - bleu
   - blue
   - Bretagne
   - Britany
@@ -41,6 +42,7 @@ tags:
   - sky
   - tree
   - végétal
+  - vert
   - water
   - zoom
 settings:

@@ -27,6 +27,7 @@ tags:
   - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Fujinon XF2.0× TC WR
   - hybrid
+  - jaune
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
@@ -35,6 +36,7 @@ tags:
   - Narok County
   - Nectariniidae
   - Nectariniidés
+  - noir
   - oiseau
   - Oiseaux
   - Passériformes
@@ -44,6 +46,7 @@ tags:
   - Souimanga à ventre jaune
   - Sunbird
   - Variable Sunbird
+  - violet
   - yellow
   - yellow-bellied sunbird
   - zoom

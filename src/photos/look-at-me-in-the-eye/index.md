@@ -12,6 +12,7 @@ gear:
 tags:
   - animal
   - aquarium
+  - bleu
   - blue
   - Brest
   - Bretagne

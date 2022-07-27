@@ -14,6 +14,7 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
+  - blanc
   - Canon
   - Canon EF 100mm f/2.8 Macro USM
   - Canon EOS 5D Mark II

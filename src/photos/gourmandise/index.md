@@ -11,6 +11,7 @@ gear:
   lens: EF100mm f/2.8L Macro IS USM
 tags:
   - beverage
+  - bleu
   - blue
   - boisson
   - brown
@@ -22,6 +23,7 @@ tags:
   - drink
   - food photography
   - gâteau
+  - marron
   - photographie culinaire
 settings:
   focal_length: 100

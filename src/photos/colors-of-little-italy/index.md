@@ -23,6 +23,7 @@ tags:
   - façade
   - full frame
   - green
+  - jaune
   - lamp post
   - lampadaire
   - Little Italy
@@ -35,6 +36,7 @@ tags:
   - red
   - reflex
   - réverbère
+  - rouge
   - stair
   - staircase
   - stairway
@@ -44,6 +46,7 @@ tags:
   - urbain
   - urban
   - USA
+  - vert
   - ville
   - yellow
 settings:

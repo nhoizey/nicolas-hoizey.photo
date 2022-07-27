@@ -29,6 +29,7 @@ tags:
   - prime
   - saw
   - scie
+  - vert
   - wood
 settings:
   focal_length: 80

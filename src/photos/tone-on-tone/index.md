@@ -26,9 +26,11 @@ tags:
   - Italy
   - red
   - reflex
+  - rouge
   - Venezia
   - Venice
   - Venise
+  - vert
   - window
   - zoom
 settings:

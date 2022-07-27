@@ -12,6 +12,7 @@ gear:
 tags:
   - Africa
   - Afrique
+  - bleu
   - blue
   - Canon
   - Canon EOS 5D Mark II

@@ -15,6 +15,7 @@ tags:
   - bass
   - basse
   - batterie
+  - bleu
   - blue
   - Blue Note
   - Blue Note Jazz Club
@@ -47,11 +48,13 @@ tags:
   - purple
   - red
   - reflex
+  - rouge
   - Sigma
   - Sigma 50mm F1.4 EX DG HSM
   - United States
   - United States of America
   - USA
+  - violet
 settings:
   focal_length: 50
   iso: 160

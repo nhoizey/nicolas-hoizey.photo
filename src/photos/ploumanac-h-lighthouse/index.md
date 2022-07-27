@@ -10,6 +10,7 @@ gear:
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
+  - bleu
   - blue
   - Bretagne
   - Britany

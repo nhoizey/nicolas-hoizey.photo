@@ -40,6 +40,7 @@ tags:
   - pink
   - portrait
   - prime
+  - rose
   - shoulder
   - skin
   - studio

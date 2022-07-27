@@ -32,6 +32,7 @@ tags:
   - red
   - reflex
   - Rhenen
+  - rouge
   - The Netherlands
   - Utrecht
   - zoo

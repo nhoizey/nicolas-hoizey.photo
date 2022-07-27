@@ -23,6 +23,7 @@ tags:
   - APS-C
   - bird
   - birds
+  - blanc
   - converter
   - Fujifilm
   - Fujifilm X-T3

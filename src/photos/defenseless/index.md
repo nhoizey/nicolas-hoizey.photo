@@ -25,11 +25,14 @@ tags:
   - Fujinon
   - Fujinon XF 27 mm f/2.8
   - Grande Arche de La Défense
+  - gray
   - grey
+  - gris
   - hybrid
   - Ile de France
   - immeuble
   - La Défense
+  - noir
   - ombre
   - pancake
   - Paris

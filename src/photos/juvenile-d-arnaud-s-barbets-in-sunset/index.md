@@ -19,6 +19,7 @@ tags:
   - bird
   - birds
   - black
+  - blanc
   - converter
   - D'Arnaud's Barbet
   - Fujifilm
@@ -35,6 +36,7 @@ tags:
   - Masai
   - Masai Mara
   - Narok County
+  - noir
   - oiseau
   - Oiseaux
   - Piciformes

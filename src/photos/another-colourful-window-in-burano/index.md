@@ -10,6 +10,7 @@ gear:
   model: Canon EOS 350D DIGITAL
 tags:
   - APS-C
+  - bleu
   - blue
   - Burano
   - Canon
@@ -20,8 +21,10 @@ tags:
   - Italia
   - Italie
   - Italy
+  - jaune
   - red
   - reflex
+  - rouge
   - urbain
   - urban
   - Venezia

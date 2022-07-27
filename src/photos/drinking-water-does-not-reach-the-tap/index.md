@@ -13,6 +13,7 @@ tags:
   - Africa
   - Afrique
   - APS-C
+  - bleu
   - blue
   - camion
   - eau

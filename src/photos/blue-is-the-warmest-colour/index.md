@@ -12,6 +12,7 @@ gear:
 tags:
   - Asia
   - Asie
+  - bleu
   - blue
   - China
   - Chine
@@ -21,6 +22,7 @@ tags:
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
+  - jaune
   - rail
   - road
   - route

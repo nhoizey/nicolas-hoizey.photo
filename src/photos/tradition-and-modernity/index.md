@@ -27,6 +27,7 @@ tags:
   - mer
   - Port Victoria
   - red
+  - rouge
   - sea
   - Sony
   - Sony RX100 Mark III

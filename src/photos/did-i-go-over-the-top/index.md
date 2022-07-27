@@ -10,6 +10,7 @@ gear:
   model: EOS 5D Mark II
   lens: EF24-70mm f/2.8L USM
 tags:
+  - bleu
   - blue
   - Canon
   - Canon EF 24-70mm f/2.8L USM
@@ -34,6 +35,7 @@ tags:
   - peacock
   - peafowl
   - reflex
+  - vert
   - zoom
 settings:
   focal_length: 50

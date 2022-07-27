@@ -37,6 +37,7 @@ tags:
   - prime
   - red
   - reflex
+  - rouge
 settings:
   focal_length: 100
   iso: 1600

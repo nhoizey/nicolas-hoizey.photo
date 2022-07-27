@@ -13,6 +13,7 @@ tags:
   - Afrique
   - bateau
   - bikini
+  - bleu
   - blue
   - boat
   - compact
@@ -29,6 +30,7 @@ tags:
   - red sea
   - Red Sea
   - Red Sea Governorate
+  - rouge
   - sea
   - woman
 settings:
