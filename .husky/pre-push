@@ -11,11 +11,11 @@ then
   status=1
 fi
 
-opengraph_result=$(_scripts/check-missing-opengraph.sh)
-if [ $? -eq 1 ]
-then
-  echo "$opengraph_result"
-  status=1
-fi
+# opengraph_result=$(_scripts/check-missing-opengraph.sh)
+# if [ $? -eq 1 ]
+# then
+#   echo "$opengraph_result"
+#   status=1
+# fi
 
 exit $status
