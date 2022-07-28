@@ -35,10 +35,10 @@ permalink: "{{ gallery.filePathStem | dirname }}/opengraph.html"
       <div class="content">
         {% set photos_below = collections.photos_in_galleries | photos_here_and_below(gallery.url) | featured(9) %}
         {% set nb = photos_below | length %}
-        <div class="gallery {% if nb > 4 %}more_than_4{% else %}{% if nb > 1 %}more_than_1{% endif %}{% endif %}">
+        <div class="gallery gallery_{{ nb }}">
         {% for photo in photos_below %}
           {%- set photoUrl = 'https://nicolas-hoizey.photo/photos/' + photo.fileSlug + '/' + photo.fileSlug + '.jpg' %}
-          <img class="photo" src="https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_407,h_277,c_fill/bo_1px_solid_black/bo_2px_solid_white/{{ photoUrl }}" data-responsiver="false" />
+          <img class="photo" src="https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_820,h_549,c_fill/bo_1px_solid_black/bo_2px_solid_white/{{ photoUrl }}" width="820" height="549" data-responsiver="false" />
         {% endfor %}
         </div>
 
