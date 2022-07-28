@@ -75,7 +75,12 @@ body {
 .content {
   padding: 40px 40px 40px 0;
 
-  flex: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+
+  .photo & {
+    flex-grow: 1;
+  }
 
   display: flex;
   align-items: center;
@@ -114,14 +119,20 @@ svg.icon {
 .gallery {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(1, 407px);
+  grid-template-columns: repeat(1, 820px);
   gap: 20px;
 
-  &.more_than_1 {
+  &.gallery_2,
+  &.gallery_3,
+  &.gallery_4 {
     grid-template-columns: repeat(2, 385px);
   }
 
-  &.more_than_4 {
+  &.gallery_5,
+  &.gallery_6,
+  &.gallery_7,
+  &.gallery_8,
+  &.gallery_9 {
     grid-template-columns: repeat(3, 245px);
   }
 }
