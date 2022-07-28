@@ -10,8 +10,12 @@ const glob = require('fast-glob');
 
 (async () => {
   const cluster = await Cluster.launch({
-    concurrency: Cluster.CONCURRENCY_PAGE,
-    maxConcurrency: 5,
+    concurrency: Cluster.CONCURRENCY_BROWSER,
+    maxConcurrency: 3,
+    workerCreationDelay: 1000,
+    retryLimit: 3,
+    retryDelay: 5000,
+    timeout: 50000,
     monitor: true,
     puppeteer: puppeteer,
     puppeteerOptions: {
