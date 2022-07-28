@@ -42,7 +42,7 @@ const glob = require('fast-glob');
 
     const opengraphUrl = `http://localhost:8080/${resourcePath}/opengraph.html`;
 
-    console.log(`Get opengraph image for ${opengraphUrl}`);
+    console.log(`Get opengraph image for ${resourcePath}`);
 
     await page.goto(opengraphUrl, { waitUntil: 'networkidle0', timeout: 0 });
 
