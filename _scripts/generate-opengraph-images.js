@@ -30,6 +30,7 @@ const glob = require('fast-glob');
       height: 800,
       deviceScaleFactor: 1,
     });
+    await page.setDefaultNavigationTimeout(50000);
 
     const folder = path.join('./src', resourcePath);
     const isDir = await fs.stat(folder).then((stats) => stats.isDirectory());
@@ -46,7 +47,7 @@ const glob = require('fast-glob');
 
     const opengraphUrl = `http://localhost:8080/${resourcePath}/opengraph.html`;
 
-    console.log(`Get opengraph image for ${resourcePath}`);
+    console.log(`Get opengraph image from ${opengraphUrl}`);
 
     await page.goto(opengraphUrl, { waitUntil: 'networkidle0', timeout: 0 });
 
