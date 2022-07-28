@@ -36,8 +36,8 @@ dimensions:
   width: 2816
   height: 2112
 geo:
-  latitude: 50.846694445
-  longitude: 4.352530555
+  latitude: 50.846738476666665
+  longitude: 4.352424608333333
   map: true
   country: Belgium
   city: Brussels
