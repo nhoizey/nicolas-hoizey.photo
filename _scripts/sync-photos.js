@@ -227,43 +227,7 @@ SYNC ${photo}`);
       if (fs.existsSync(mapFile)) {
         photoYFM.geo.map = true;
       } else {
-        const photoUrl = `https://nicolas-hoizey.photo/photos/${slug}/`;
-        thisLog(`  get map image`);
-        const browser = await puppeteer.launch({
-          executablePath:
-            '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-        });
-        const page = await browser.newPage();
-        page.setViewport({
-          width: 1200,
-          height: 800,
-          deviceScaleFactor: 1.5,
-        });
-        await page.goto(photoUrl, { waitUntil: 'load', timeout: 0 });
-
-        // Remove marker and its shadow
-        const markerShadow = await page.$('#map .marker-shadow');
-        if (markerShadow) {
-          await markerShadow.evaluate((node) =>
-            node.parentElement.removeChild(node)
-          );
-        }
-        const marker = await page.$('#map .marker');
-        if (marker) {
-          await marker.evaluate((node) => node.parentElement.removeChild(node));
-        }
-
-        // Take a screenshot of the map
-        const map = await page.$('#map img');
-        if (map) {
-          const screenshotResult = await map.screenshot({ path: mapFile });
-          if (screenshotResult) {
-            photoYFM.geo.map = true;
-          }
-        }
-
-        await page.close();
-        await browser.close();
+        thisLog(`  ⚠ map image missing`);
       }
 
       // Check opengraph image for the photo
