@@ -14,7 +14,10 @@ tags:
   - Canon
   - Canon EF 24-70mm f/2.8L USM
   - Canon EOS 5D Mark II
+  - castle
+  - château
   - Château de Kilchurn
+  - cloud
   - Écosse
   - Europa
   - Europe
@@ -22,6 +25,7 @@ tags:
   - Grande-Bretagne
   - Great Britain
   - Kilchurn Castle
+  - nuage
   - reflex
   - Royaume Uni
   - Royaume-Uni

@@ -16,6 +16,7 @@ tags:
   - Canon EOS 5D Mark II
   - castle
   - château
+  - cloud
   - eau
   - Écosse
   - Eilean Donan Castle
@@ -26,6 +27,7 @@ tags:
   - Great Britain
   - Highland
   - mer
+  - nuage
   - pont
   - reflex
   - Royaume Uni
