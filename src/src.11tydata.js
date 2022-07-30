@@ -53,7 +53,11 @@ module.exports = {
 
       // Photos have their own layout
       if (isPhotoInPhotos(data)) {
-        return false;
+        if (process.env.NODE_ENV === 'production') {
+          return false;
+        } else {
+          return 'photo';
+        }
       }
 
       // Photos have their own layout
