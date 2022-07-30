@@ -45,6 +45,7 @@ dimensions:
 geo:
   latitude: 56.715904165
   longitude: -3.858550441666667
+  country: Scotland
 colors:
   vibrant: 132 164 196
   darkVibrant: 102 85 24

@@ -48,8 +48,8 @@ dimensions:
 geo:
   latitude: 56.774012543333335
   longitude: -3.85714532
-  country: Royaume-Uni
-  city: Pitlochry
+  country: Scotland
+  city: Blair Atholl
 colors:
   vibrant: 195 236 19
   darkVibrant: 52 63 5

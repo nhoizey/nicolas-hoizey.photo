@@ -49,7 +49,8 @@ dimensions:
 geo:
   latitude: 57.010007
   longitude: -5.827218291666666
-  country: Royaume-Uni
+  country: Scotland
+  city: Mallaig
 colors:
   vibrant: 92 140 196
   darkVibrant: 19 64 94

@@ -45,8 +45,8 @@ dimensions:
 geo:
   latitude: 57.27490920166667
   longitude: -5.5142158766666665
-  country: Royaume-Uni
-  city: Kyle
+  country: Scotland
+  city: Dornie
 colors:
   vibrant: 188 132 86
   darkVibrant: 60 72 9

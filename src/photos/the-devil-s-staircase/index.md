@@ -50,8 +50,7 @@ dimensions:
 geo:
   latitude: 56.66099490166667
   longitude: -4.915596608333333
-  country: Royaume-Uni
-  city: Ballachulish
+  country: Scotland
 colors:
   vibrant: 159 119 75
   darkVibrant: 127 90 16
