@@ -69,21 +69,21 @@ jobs:
             type: dependencies 🔗
             automerge 🤞
 
-  update-caniuse-database:
-    name: Update browserslist database
+  # update-caniuse-database:
+  #   name: Update browserslist database
 
-    runs-on: ubuntu-latest
+  #   runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v3
+  #   steps:
+  #     - name: Checkout 🛎️
+  #       uses: actions/checkout@v3
 
-      - name: Configure git ⚙️
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
+  #     - name: Configure git ⚙️
+  #       run: |
+  #         git config --global user.email "action@github.com"
+  #         git config --global user.name "GitHub Action"
 
-      - name: Update browserslist database and create PR if applies 🗄️
-        uses: c2corg/browserslist-update-action@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+  #     - name: Update browserslist database and create PR if applies 🗄️
+  #       uses: c2corg/browserslist-update-action@v1
+  #       with:
+  #         github_token: ${{ secrets.GITHUB_TOKEN }}
