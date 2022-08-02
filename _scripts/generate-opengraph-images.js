@@ -48,8 +48,8 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
     if (fileExists) {
       const ageInDays =
         (new Date().getTime() - (await fs.stat(file).mtimeMs)) / ONE_DAY_IN_MS;
-      if (resourcePath.match(/^photos\//) || ageInDays < 7) {
-        // Renew galleries' opengraph images after 7 days
+      if (resourcePath.match(/^photos\//) || ageInDays < 14) {
+        // Renew galleries' opengraph images after 14 days
         return;
       }
     }
