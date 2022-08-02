@@ -8,6 +8,8 @@ const fs = require('fs').promises;
 const path = require('path');
 const glob = require('fast-glob');
 
+const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
+
 (async () => {
   const cluster = await Cluster.launch({
     concurrency: Cluster.CONCURRENCY_BROWSER,
@@ -43,7 +45,14 @@ const glob = require('fast-glob');
       .access(file)
       .then(() => true)
       .catch(() => false);
-    if (fileExists) return;
+    if (fileExists) {
+      const ageInDays =
+        (new Date().getTime() - (await fs.stat(file).mtimeMs)) / ONE_DAY_IN_MS;
+      if (ageInDays < 7) {
+        // Renew opengraph images after 7 days
+        return;
+      }
+    }
 
     const opengraphUrl = `http://localhost:8080/${resourcePath}/opengraph.html`;
 
