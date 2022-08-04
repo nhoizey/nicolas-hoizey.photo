@@ -16,14 +16,24 @@ while read fileName; do
 dateline    { date=$0; next }
 !seen[$0]++ { print date,$0 }
 ' | grep "$fileBasename" | head -1)
+      if [ "$photoDate" == "" ]
+      then
+        photoDate=$(date +"%Y-%m-%d %H:%M:%S %z")
+      fi
       photoDate="${photoDate:0:23}:00"
 
       if [ "$yfmAlreadyThere" == "0" ]
       then
         echo "---" >> "$fileName"
+        echo "date: $photoDate" >> "$fileName"
+        echo "---" >> "$fileName"
+      else
+        tail -n +2 "$fileName" > "$fileName.tmp"
+        echo "---" > "$fileName"
+        echo "date: $photoDate" >> "$fileName"
+        cat "$fileName.tmp" >> "$fileName"
+        rm "$fileName.tmp"
       fi
-      echo "date: $photoDate" >> "$fileName"
-      echo "---" >> "$fileName"
 
       echo "$fileBasename"
       echo " -> $photoDate"
