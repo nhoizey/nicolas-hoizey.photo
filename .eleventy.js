@@ -209,7 +209,7 @@ module.exports = function (eleventyConfig) {
   });
 
   if (process.env.NODE_ENV === 'production') {
-    eleventyConfig.ignores.add('src/tools');
+    eleventyConfig.ignores.add('src/tools/opengraph');
   }
 
   return {
