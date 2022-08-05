@@ -267,8 +267,8 @@ import polylabel from 'polylabel';
 
       // Compute new position every… in milliseconds
       const rotationInterval = 500;
-      // At low zooms, complete a revolution every two minutes.
-      const secondsPerRevolution = 2 * 60;
+      // At low zooms, complete a revolution every 5 minutes.
+      const secondsPerRevolution = 5 * 60;
       // Above zoom level 5, do not rotate.
       const maxSpinZoom = 5;
       // Rotate at intermediate speeds between zoom levels 2 and 5.
@@ -278,12 +278,13 @@ import polylabel from 'polylabel';
       let animationAllowed = window.matchMedia(
         '(prefers-reduced-motion: no-preference)'
       ).matches;
-      window.matchMedia('(prefers-reduced-motion)').addEventListener('change', () => {
-        animationAllowed = window.matchMedia(
-          '(prefers-reduced-motion: no-preference)'
-        ).matches;
-      });
-
+      window
+        .matchMedia('(prefers-reduced-motion)')
+        .addEventListener('change', () => {
+          animationAllowed = window.matchMedia(
+            '(prefers-reduced-motion: no-preference)'
+          ).matches;
+        });
 
       const spinGlobe = (timestamp) => {
         const zoom = map.getZoom();
@@ -311,7 +312,7 @@ import polylabel from 'polylabel';
           });
         }
         setTimeout(requestAnimationFrame, rotationInterval, spinGlobe);
-      }
+      };
       requestAnimationFrame(spinGlobe);
 
       // Pause spinning on interaction
@@ -353,6 +354,5 @@ import polylabel from 'polylabel';
       });
       addLayers();
     });
-
   }
 })(window);
