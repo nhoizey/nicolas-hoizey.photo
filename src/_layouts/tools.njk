@@ -1,0 +1,11 @@
+{% extends "./base.njk" %}
+
+{% block content %}
+  <div class="tools">
+    <div class="header">
+      {% include 'components/breadcrumb.njk' %}
+      <h1 class="page__title">{{ title }}</h1>
+    </div>
+
+    {{ content | safe }}
+{% endblock %}

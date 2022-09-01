@@ -1,12 +1,6 @@
 ---
-layout: page
 title: Tools
-nav:
-  order: 20
-  icon: info
 ---
-
-# Tools
 
 - [Photos not yet used in galleries](./photos-not-used/)
 - [Opengraph images](./opengraph/)
