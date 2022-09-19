@@ -47,6 +47,15 @@
   font-display: block;
 }
 
+@font-face {
+  font-family: 'Adjusted Brush Script MT Fallback';
+  src: local(Brush Script MT);
+  size-adjust: 95%;
+  ascent-override: 117%;
+  descent-override: 43%;
+  line-gap-override: 0%;
+}
+
 // @font-face {
 //   font-family: 'Coniferous';
 //   src: url(/ui/fonts/Coniferous-Medium.woff2) format('woff2'),
