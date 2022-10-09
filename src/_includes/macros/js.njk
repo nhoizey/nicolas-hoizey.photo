@@ -1,9 +1,9 @@
 {% macro js(javascript, env) %}
   {% if env == 'production' %}
-    {% set criticalJs %}
+    {% set inlineJs %}
     {% include_raw "_site/ui/js/" + javascript + ".js" %}
     {% endset %}
-    <script>{{- criticalJs | safe -}}</script>
+    <script>{{- inlineJs | safe -}}</script>
   {% else %}
     <script src="/ui/js/{{ javascript }}.js"></script>
   {% endif %}

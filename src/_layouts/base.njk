@@ -6,17 +6,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    {# web-vitals #}
-    <script>
-    {% include_raw "node_modules/web-vitals/dist/polyfill.js" %}
-    </script>
-
-    {% from "macros/css.njk" import css %}
-    {{ css('styles', build.env) }}
-
-    {% from "macros/js.njk" import js %}
-    {{ js('critical', build.env) }}
-
     {% block title %}
       {% if page.url == '/' %}
         {% set page_title %}{{ site.title }}{% endset %}
@@ -26,6 +15,17 @@
       <title>{{ page_title }}</title>
       <meta property="og:title" content="{{ page_title }}" />
     {% endblock %}
+
+    {# web-vitals #}
+    {# <script>
+    {% include_raw "node_modules/web-vitals/dist/polyfill.js" %}
+    </script> #}
+
+    {% from "macros/js.njk" import js %}
+    {{ js('critical', build.env) }}
+
+    {% from "macros/css.njk" import css %}
+    {{ css('styles', build.env) }}
 
     {% block description %}
       {# https://stackoverflow.com/q/6203984/717195 #}
@@ -98,14 +98,9 @@
     <link rel="manifest" href="/manifest.webmanifest" crossorigin="use-credentials" />
 
     {% include 'components/monetization.njk' %}
-    {% include 'components/matomo.njk' %}
-
-    <script>
-    window.mapboxStyle="{{ map.mapbox.style }}";
-    </script>
+    {# {% include 'components/matomo.njk' %} #}
 
     {% block morehead %}{% endblock %}
-
   </head>
 
   <body
