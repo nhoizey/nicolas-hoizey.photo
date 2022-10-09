@@ -10,6 +10,9 @@ footer {
     padding-inline: space.$xxl;
   }
 
+  // https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/#lazy-render-offscreen-content
+  content-visibility: auto;
+
   display: grid;
   column-gap: space.$xxl;
   row-gap: space.$xl;
