@@ -8,10 +8,12 @@ import { nodeResolve } from '@rollup/plugin-node-resolve';
 import { terser } from 'rollup-plugin-terser';
 import path from 'path';
 import entrypointHashmanifest from 'rollup-plugin-entrypoint-hashmanifest';
+import bundleHash from 'rollup-plugin-bundle-hash';
 
 const JS_SRC = 'assets/js';
 const JS_DIST = '_site/ui/js';
-const HASH = 'src/_data';
+const FILE_HASH_DIR = 'src/_data';
+const CONTENT_HASH_DIR = 'src/_includes/hashes';
 
 const JS_NAME =
   process.env.NODE_ENV === 'production'
@@ -27,6 +29,7 @@ export default [
       format: 'iife',
       name: 'critical',
       sourcemap: true,
+      sourcemapBaseUrl: 'https://nicolas-hoizey.photo/ui/js/',
     },
     plugins: [
       commonjs(),
@@ -39,6 +42,7 @@ export default [
         exclude: 'node_modules/**',
       }),
       process.env.NODE_ENV === 'production' && terser(),
+      bundleHash(path.join(CONTENT_HASH_DIR, 'critical.njk')),
     ],
   },
   {
@@ -49,6 +53,7 @@ export default [
       format: 'iife',
       name: 'additional',
       sourcemap: true,
+      sourcemapBaseUrl: 'https://nicolas-hoizey.photo/ui/js/',
     },
     plugins: [
       replace({
@@ -61,6 +66,7 @@ export default [
         exclude: 'node_modules/**',
       }),
       process.env.NODE_ENV === 'production' && terser(),
+      bundleHash(path.join(CONTENT_HASH_DIR, 'additional.njk')),
     ],
   },
   {
@@ -70,6 +76,7 @@ export default [
       entryFileNames: JS_NAME,
       format: 'es',
       sourcemap: true,
+      sourcemapBaseUrl: 'https://nicolas-hoizey.photo/ui/js/',
       globals: {
         // events: 'events',
       },
@@ -97,7 +104,7 @@ export default [
       process.env.NODE_ENV === 'production' && terser(),
       process.env.NODE_ENV === 'production' &&
         entrypointHashmanifest({
-          manifestName: path.join(HASH, 'hashes_photo.json'),
+          manifestName: path.join(FILE_HASH_DIR, 'hashes_photo.json'),
         }),
       // visualizer(),
     ],
@@ -109,6 +116,7 @@ export default [
       entryFileNames: JS_NAME,
       format: 'es',
       sourcemap: true,
+      sourcemapBaseUrl: 'https://nicolas-hoizey.photo/ui/js/',
       globals: {
         // events: 'events',
       },
@@ -137,7 +145,7 @@ export default [
       process.env.NODE_ENV === 'production' && terser(),
       process.env.NODE_ENV === 'production' &&
         entrypointHashmanifest({
-          manifestName: path.join(HASH, 'hashes_map.json'),
+          manifestName: path.join(FILE_HASH_DIR, 'hashes_map.json'),
         }),
       // visualizer(),
     ],
@@ -149,6 +157,7 @@ export default [
       entryFileNames: JS_NAME,
       format: 'es',
       sourcemap: true,
+      sourcemapBaseUrl: 'https://nicolas-hoizey.photo/ui/js/',
       globals: {
         // events: 'events',
       },
@@ -172,7 +181,7 @@ export default [
       process.env.NODE_ENV === 'production' && terser(),
       process.env.NODE_ENV === 'production' &&
         entrypointHashmanifest({
-          manifestName: path.join(HASH, 'hashes_tagscloud.json'),
+          manifestName: path.join(FILE_HASH_DIR, 'hashes_tagscloud.json'),
         }),
       // visualizer(),
     ],

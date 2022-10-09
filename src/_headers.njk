@@ -18,7 +18,7 @@ permalink: _headers
   Content-Type: image/svg+xml; charset=utf-8
 
 {# Default CSP directives #}
-  {% set cspScriptSrc = "'self' data: 'unsafe-inline' 'unsafe-eval'" %}
+  {% set cspScriptSrc %}'self' data: 'unsafe-eval' 'sha512-{% include "hashes/critical.njk" %}' 'sha512-{% include "hashes/additional.njk" %}'{% endset %}
   {% set cspImgSrc = "'self' nicolas-hoizey.photo nho-photo.netlify.app blob:" %}
   {% set cspObjectSrc = "'self'" %}
   {% set cspConnectSrc = "'self' nho-photo.netlify.app" %}
