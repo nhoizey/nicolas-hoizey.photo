@@ -124,7 +124,7 @@ import polylabel from 'polylabel';
                   var childrenCount = Object.keys(clusterFeatures).length;
                   clusterFeatures.forEach((feature) => {
                     let imageProperties = feature.properties;
-                    popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a></p>`;
+                    popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a></p>`;
                   });
                   popupOpened = true;
                   const popup = new mapboxgl.Popup()
@@ -215,7 +215,7 @@ import polylabel from 'polylabel';
           const popup = new mapboxgl.Popup()
             .setLngLat(coordinates)
             .setHTML(
-              `<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt="">${imageProperties.title}</a>`
+              `<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a>`
             )
             .addTo(map);
           popup.on('close', () => {
