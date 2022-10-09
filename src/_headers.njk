@@ -8,7 +8,6 @@ permalink: _headers
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: no-referrer-when-downgrade
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-  X-Clacks-Overhead: GNU Terry Pratchett
   Vary: Accept-Encoding
 
 /*.js
@@ -17,42 +16,42 @@ permalink: _headers
 /*.svg
   Content-Type: image/svg+xml; charset=utf-8
 
-{# Default CSP directives #}
-  {% set cspScriptSrc %}'self' data: 'unsafe-eval' 'sha512-{% include "hashes/critical.njk" %}' 'sha512-{% include "hashes/additional.njk" %}'{% endset %}
-  {% set cspImgSrc = "'self' nicolas-hoizey.photo nho-photo.netlify.app blob:" %}
-  {% set cspObjectSrc = "'self'" %}
-  {% set cspConnectSrc = "'self' nho-photo.netlify.app" %}
-  {% set cspWorkerSrc = "blob:" %}
-  {% set cspChildSrc = "blob:" %}
-  {% set cspFrameAncestors = "'none'" %} {# Best default for security #}
-{# / Default CSP directives #}
+{#- Default CSP directives -#}
+{%- set cspScriptSrc -%}'self' data: 'unsafe-eval' 'sha512-{%- include "hashes/critical.njk" -%}' 'sha512-{%- include "hashes/additional.njk" -%}'{%- endset -%}
+{%- set cspImgSrc = "'self' nicolas-hoizey.photo nho-photo.netlify.app blob:" -%}
+{%- set cspObjectSrc = "'self'" -%}
+{%- set cspConnectSrc = "'self' nho-photo.netlify.app" -%}
+{%- set cspWorkerSrc = "blob:" -%}
+{%- set cspChildSrc = "blob:" -%}
+{%- set cspFrameAncestors = "'none'" -%} {#- Best default for security -#}
+{#- / Default CSP directives -#}
 
-{# Matomo #}
-  {% set cspScriptSrc = cspScriptSrc + " " + "data.nicolas-hoizey.com" %}
-  {% set cspImgSrc = cspImgSrc + " " + "data.nicolas-hoizey.com" %}
-  {% set cspConnectSrc = cspConnectSrc + " " + "data.nicolas-hoizey.com" %}
-{# / Matomo #}
+{#- Matomo -#}
+{%- set cspScriptSrc = cspScriptSrc + " " + "data.nicolas-hoizey.com" -%}
+{%- set cspImgSrc = cspImgSrc + " " + "data.nicolas-hoizey.com" -%}
+{%- set cspConnectSrc = cspConnectSrc + " " + "data.nicolas-hoizey.com" -%}
+{#- / Matomo -#}
 
-{# Cloudinary #}
-  {% set cspImgSrc = cspImgSrc + " " + "res.cloudinary.com" %}
-  {% set cspConnectSrc = cspConnectSrc + " " + "res.cloudinary.com" %}
-{# / Cloudinary #}
+{#- Cloudinary -#}
+{%- set cspImgSrc = cspImgSrc + " " + "res.cloudinary.com" -%}
+{%- set cspConnectSrc = cspConnectSrc + " " + "res.cloudinary.com" -%}
+{#- / Cloudinary -#}
 
-{# Mapbox #}
-  {% set cspImgSrc = cspImgSrc + " " + "api.mapbox.com data:" %}
-  {% set cspConnectSrc = cspConnectSrc + " " + "https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com" %}
-{# / Mapbox #}
+{#- Mapbox -#}
+{%- set cspImgSrc = cspImgSrc + " " + "api.mapbox.com data:" -%}
+{%- set cspConnectSrc = cspConnectSrc + " " + "https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com" -%}
+{#- / Mapbox -#}
 
-{# Cloudflare #}
-  {% set cspScriptSrc = cspScriptSrc + " " + "https://static.cloudflareinsights.com" %}
-  {% set cspConnectSrc = cspConnectSrc + " " + "https://cloudflareinsights.com" %}
-{# / Cloudflare #}
+{#- Cloudflare -#}
+{%- set cspScriptSrc = cspScriptSrc + " " + "https://static.cloudflareinsights.com" -%}
+{%- set cspConnectSrc = cspConnectSrc + " " + "https://cloudflareinsights.com" -%}
+{#- / Cloudflare -#}
 
-{# ResponsiveImageLint bookmarklet #}
-  {% set cspScriptSrc = cspScriptSrc + " " + "https://ausi.github.io/respimagelint/" %}
-  {% set cspChildSrc = cspChildSrc + " " + "'self' https://ausi.github.io/respimagelint/" %}
-  {% set cspFrameAncestors = "'self'" %} {# Replace instead of appending #}
-{# / ResponsiveImageLint bookmarklet #}
+{#- ResponsiveImageLint bookmarklet -#}
+{%- set cspScriptSrc = cspScriptSrc + " " + "https://ausi.github.io/respimagelint/" -%}
+{%- set cspChildSrc = cspChildSrc + " " + "'self' https://ausi.github.io/respimagelint/" -%}
+{%- set cspFrameAncestors = "'self'" -%} {#- Replace instead of appending -#}
+{#- / ResponsiveImageLint bookmarklet -#}
 
 {% set documentHeaders %}
   Cache-Control: public, max-age=14405
