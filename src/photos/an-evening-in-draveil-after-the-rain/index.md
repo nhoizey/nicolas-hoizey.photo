@@ -55,6 +55,7 @@ dimensions:
 geo:
   latitude: 48.688739445
   longitude: 2.398964445
+  map: true
   country: France
   city: Draveil
 colors:
@@ -66,4 +67,4 @@ colors:
   lightMuted: 202 179 175
 ---
 
-
+On the shore of Étang Laveyssière, in Draveil's Port aux Cerises
