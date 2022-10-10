@@ -59,6 +59,7 @@ dimensions:
 geo:
   latitude: 30.171584
   longitude: -9.104987666666666
+  map: true
   country: Maroc
 colors:
   vibrant: 133 33 43

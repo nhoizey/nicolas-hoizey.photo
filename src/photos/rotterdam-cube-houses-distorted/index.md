@@ -58,6 +58,7 @@ dimensions:
 geo:
   latitude: 51.920182221666664
   longitude: 4.490890833333333
+  map: true
   country: Pays-Bas
   city: municipalité de Rotterdam
 colors:

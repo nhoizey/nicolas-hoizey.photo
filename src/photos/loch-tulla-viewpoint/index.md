@@ -50,6 +50,7 @@ dimensions:
 geo:
   latitude: 56.567738545
   longitude: -4.7538674033333335
+  map: true
   country: Royaume-Uni
   city: Bridge of Orchy
 colors:

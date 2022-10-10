@@ -1,5 +1,5 @@
 ---
-title: "Sailing from Mallaig to Isle of Skye "
+title: Sailing from Mallaig to Isle of Skye
 file: sailing-from-mallaig-to-isle-of-skye.jpg
 date: 2014-05-01 13:05:00 +02:00
 dates:
@@ -49,6 +49,7 @@ dimensions:
 geo:
   latitude: 57.010007
   longitude: -5.827218291666666
+  map: true
   country: Scotland
   city: Mallaig
 colors:

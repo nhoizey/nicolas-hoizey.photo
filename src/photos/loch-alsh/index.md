@@ -52,6 +52,7 @@ dimensions:
 geo:
   latitude: 57.280738471666666
   longitude: -5.673200278333333
+  map: true
   country: Scotland
   city: Kyle of Lochalsh
 colors:
