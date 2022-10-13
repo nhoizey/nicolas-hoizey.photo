@@ -16,7 +16,7 @@
   align-items: end;
 
   @media (min-width: $breakpoint-m) {
-    :first-child {
+    > :first-child {
       grid-column: 1 / span 2;
       grid-row: 1 / span 2;
       align-self: start;
