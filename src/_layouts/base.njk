@@ -24,7 +24,7 @@
     {% from "macros/js.njk" import js %}
     {{ js('critical', build.env) }}
 
-    {% if env == 'production' %}
+    {% if build.env == 'production' %}
       {# https://csswizardry.com/2022/10/speeding-up-async-snippets/#the-new-syntax #}
       <script src="/ui/js/matomo.js" async></script>
     {% endif %}
