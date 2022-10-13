@@ -1,7 +1,7 @@
 ---
 title: Miscellaneous
 nav:
-  order: 5
+  order: 6
   icon: misc
   title: Misc.
 ---

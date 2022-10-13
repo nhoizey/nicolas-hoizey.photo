@@ -9,6 +9,7 @@ const ICONS_FOLDERS = {
 };
 
 const ICONS = {
+  animal: { name: 'bug-2-line', source: 'majesticons' },
   blog: { name: 'article-line', source: 'majesticons' },
   date: { name: 'calendar-line', source: 'majesticons' },
   camera: { name: 'camera-line', source: 'majesticons' },
@@ -21,6 +22,7 @@ const ICONS = {
   portraits: { name: 'incognito-line', source: 'majesticons' },
   info: { name: 'info-circle-line', source: 'majesticons' },
   contact: { name: 'mail-line', source: 'majesticons' },
+  landscape: { name: 'image-line', source: 'majesticons' },
   map: { name: 'map-simple-marker-line', source: 'majesticons' },
   misc: { name: 'puzzle-line', source: 'majesticons' },
   share: { name: 'share-line', source: 'majesticons' },

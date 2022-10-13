@@ -1,6 +1,6 @@
 ---
 title: Landscapes
 nav:
-  order: 1
-  icon: landscapes
+  order: 2
+  icon: landscape
 ---
