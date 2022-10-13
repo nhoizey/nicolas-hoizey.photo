@@ -11,7 +11,7 @@
 {% if sub_galleries | length %}
   <ul class="galleries">
     {% for item in sub_galleries %}
-      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
+      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(3) %}
       {% if photos_below | length %}
         <li>
           <figure>
