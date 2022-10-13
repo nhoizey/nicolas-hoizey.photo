@@ -10,19 +10,35 @@
   padding-inline-start: 0;
 
   display: grid;
-  gap: space.$xxxl space.$xl;
+  gap: space.$xl;
   grid-template-columns: repeat(auto-fit, min(100%, 20rem));
 
   align-items: end;
 
   @media (min-width: $breakpoint-m) {
-    > :first-child,
-    > :nth-child(2) {
+    > :first-child {
       grid-column: span 2;
       grid-row: span 2;
       align-self: start;
     }
   }
+
+  figcaption {
+    background-image: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 0) 70%,
+      rgba(0, 0, 0, 0.7) 90%
+    );
+    position: absolute;
+    inset: 0;
+    margin: 3px;
+    padding: 0.5rem 1rem;
+    display: flex;
+    align-items: flex-end;
+    font-size: var(--step-1);
+  }
+
   .diaporama {
     position: relative;
     overflow: hidden;

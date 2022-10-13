@@ -41,7 +41,10 @@
                 {% endfor %}
               </div>
             </div>
-            <figcaption><svg class="icon" aria-hidden="true"><use xlink:href="#folder-icon" /></svg> <a href="{{ item.url }}">{{ item.data.title }}</a></figcaption>
+            <figcaption>
+              {# <svg class="icon" aria-hidden="true"><use xlink:href="#folder-icon" /></svg> #}
+              <a href="{{ item.url }}">{{ item.data.title }}</a>
+            </figcaption>
           </figure>
         </li>
       {% endif %}
