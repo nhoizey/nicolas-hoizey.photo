@@ -123,8 +123,18 @@ module.exports = {
     minWidth: 417, // 320 * 1.3
     maxWidth: 834, // No need for more than 2dppx
     steps: 4,
+    sizes: '(min-width: 22rem) calc(1.3 * 20rem), calc(1.3 * (100vw - 2rem))',
+    figure: 'never',
+  },
+  diaporama_large: {
+    resizedImageUrl: (src, width) =>
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
+    fallbackWidth: 874,
+    minWidth: 874, // 42 * 16 * 1.3
+    maxWidth: 1747, // No need for more than 2dppx
+    steps: 5,
     sizes:
-      '(min-width: 60rem) calc(1.3 * 46rem), (min-width: 22rem) calc(1.3 * 20rem), calc(1.3 * (100vw - 2rem))',
+      '(min-width: 60rem) calc(1.3 * 42rem), (min-width: 22rem) calc(1.3 * 20rem), calc(1.3 * (100vw - 2rem))',
     figure: 'never',
   },
   thumbnail_landscape: {
