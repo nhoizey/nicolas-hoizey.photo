@@ -123,7 +123,8 @@ module.exports = {
     minWidth: 417, // 320 * 1.3
     maxWidth: 834, // No need for more than 2dppx
     steps: 4,
-    sizes: '(min-width: 22rem) calc(1.3 * 20rem), calc(1.3 * (100vw - 2rem))',
+    sizes:
+      '(min-width: 60rem) calc(1.3 * 46rem), (min-width: 22rem) calc(1.3 * 20rem), calc(1.3 * (100vw - 2rem))',
     figure: 'never',
   },
   thumbnail_landscape: {
