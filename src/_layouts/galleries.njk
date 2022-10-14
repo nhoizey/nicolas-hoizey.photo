@@ -37,9 +37,9 @@
       <ul class="gallery">
         {% for item in photos_here %}
           {% if loop.index < 4 %}
-            <li>{{ photo(item, "eager") }}</li>
+            <li>{{ photo(item, "eager", build.env) }}</li>
           {% else %}
-            <li>{{ photo(item, "lazy") }}</li>
+            <li>{{ photo(item, "lazy", build.env) }}</li>
           {% endif %}
         {% endfor %}
       </ul>

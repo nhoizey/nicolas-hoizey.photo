@@ -1,6 +1,6 @@
 {% from "macros/meta.njk" import meta %}
 
-{% macro photo(item, loading=false, slug=false) %}
+{% macro photo(item, loading=false, env='production', slug=false) %}
 
   {% if item.data.origin %}
     {% set dimensions = item.data.origin.data.dimensions %}
@@ -8,7 +8,7 @@
     {% set dimensions = item.data.dimensions %}
   {% endif %}
 
-  {% if build.env == 'production' %}
+  {% if env == 'production' %}
     {% set imageFile = item.data.page.fileSlug %}
   {% else %}
     {# Prevent loading the huge image in development #}
