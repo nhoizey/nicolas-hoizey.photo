@@ -7,9 +7,7 @@ const runDiaporama = async () => {
     // Load all images
     document.querySelectorAll('.diaporama').forEach((element) => {
       // Run animations
-      element.querySelectorAll('img').forEach((image) => {
-        image.style.animationPlayState = 'running';
-      });
+      element.classList.add('run');
 
       // Load and animate lazy images
       element.querySelectorAll('img[data-srcset]').forEach((image) => {

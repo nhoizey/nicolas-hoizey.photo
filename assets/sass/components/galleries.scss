@@ -72,6 +72,10 @@
       animation-iteration-count: infinite;
       animation-play-state: paused;
     }
+
+    &.run img {
+      animation-play-state: running;
+    }
   }
 
   $ken_burns_2_delay: 2 * -0.2;
