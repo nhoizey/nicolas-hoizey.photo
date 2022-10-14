@@ -6,6 +6,12 @@ const runDiaporama = async () => {
 
     // Load all images
     document.querySelectorAll('.diaporama').forEach((element) => {
+      // Run animations
+      element.querySelectorAll('img').forEach((image) => {
+        image.style.animationPlayState = 'running';
+      });
+
+      // Load and animate lazy images
       element.querySelectorAll('img[data-srcset]').forEach((image) => {
         image.setAttribute('srcset', image.dataset.srcset);
         delete image.dataset.srcset;
@@ -14,7 +20,6 @@ const runDiaporama = async () => {
         image.setAttribute('src', image.dataset.src);
         delete image.dataset.src;
       });
-      element.classList.add('loaded');
     });
   }
 };

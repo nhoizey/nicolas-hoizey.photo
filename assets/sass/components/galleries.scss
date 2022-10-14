@@ -63,65 +63,82 @@
     }
   }
 
-  @media (prefers-reduced-motion: no-preference) {
-    .diaporama_2.loaded,
-    .diaporama_3.loaded,
-    .diaporama_4.loaded {
-      img {
-        opacity: 0;
-        animation-timing-function: linear;
-        animation-iteration-count: infinite;
-      }
+  .diaporama_2,
+  .diaporama_3,
+  .diaporama_4 {
+    img {
+      opacity: 0;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+      animation-play-state: paused;
+    }
+  }
+
+  $ken_burns_2_delay: 2 * -0.2;
+  .diaporama_2 {
+    img {
+      animation-name: ken_burns_2;
+      animation-duration: $diaporama-timing * 2;
     }
 
-    .diaporama_2.loaded {
-      img {
-        animation-name: fade_2;
-        animation-duration: $diaporama-timing * 2;
-      }
-
-      img:nth-of-type(1) {
-        animation-delay: $diaporama-timing;
-      }
+    img:nth-of-type(2) {
+      animation-delay: $diaporama-timing * $ken_burns_2_delay;
     }
 
-    .diaporama_3.loaded {
-      img {
-        animation-name: fade_3;
-        animation-duration: $diaporama-timing * 3;
-      }
+    img:nth-of-type(1) {
+      animation-delay: $diaporama-timing * (1 + $ken_burns_2_delay);
+    }
+  }
 
-      img:nth-of-type(2) {
-        animation-delay: $diaporama-timing;
-      }
-
-      img:nth-of-type(1) {
-        animation-delay: $diaporama-timing * 2;
-      }
+  $ken_burns_3_delay: 3 * -0.1333;
+  .diaporama_3 {
+    img {
+      animation-name: ken_burns_3;
+      animation-duration: $diaporama-timing * 3;
     }
 
-    .diaporama_4.loaded {
-      img {
-        animation-name: fade_4;
-        animation-duration: $diaporama-timing * 4;
-      }
+    img:nth-of-type(3) {
+      animation-delay: $diaporama-timing * $ken_burns_3_delay;
+    }
 
-      img:nth-of-type(3) {
-        animation-delay: $diaporama-timing;
-      }
+    img:nth-of-type(2) {
+      animation-delay: $diaporama-timing * (1 + $ken_burns_3_delay);
+    }
 
-      img:nth-of-type(2) {
-        animation-delay: $diaporama-timing * 2;
-      }
+    img:nth-of-type(1) {
+      animation-delay: $diaporama-timing * (2 + $ken_burns_3_delay);
+    }
+  }
 
-      img:nth-of-type(1) {
-        animation-delay: $diaporama-timing * 3;
-      }
+  $ken_burns_4_delay: 4 * -0.1;
+  .diaporama_4 {
+    img {
+      animation-name: ken_burns_4;
+      animation-duration: $diaporama-timing * 4;
+    }
+
+    img:nth-of-type(4) {
+      animation-delay: $diaporama-timing * $ken_burns_4_delay;
+    }
+
+    img:nth-of-type(3) {
+      animation-delay: $diaporama-timing * (1 + $ken_burns_4_delay);
+    }
+
+    img:nth-of-type(2) {
+      animation-delay: $diaporama-timing * (2 + $ken_burns_4_delay);
+    }
+
+    img:nth-of-type(1) {
+      animation-delay: $diaporama-timing * (3 + $ken_burns_4_delay);
     }
   }
 }
 
-@keyframes fade_2 {
+$scale_min: 1.1;
+$scale_max: 1.3;
+
+@keyframes ken_burns_2 {
   0% {
     opacity: 0;
     transform: scale(var(--scale-start))
@@ -138,7 +155,8 @@
 
   70% {
     opacity: 0;
-    transform: scale(calc(1.3 + 1.1 - var(--scale-start))) translate(0, 0);
+    transform: scale(calc($scale_max + $scale_min - var(--scale-start)))
+      translate(0, 0);
   }
 
   100% {
@@ -148,7 +166,7 @@
   }
 }
 
-@keyframes fade_3 {
+@keyframes ken_burns_3 {
   0% {
     opacity: 0;
     transform: scale(var(--scale-start))
@@ -165,7 +183,8 @@
 
   46.66% {
     opacity: 0;
-    transform: scale(calc(1.3 + 1.1 - var(--scale-start))) translate(0, 0);
+    transform: scale(calc($scale_max + $scale_min - var(--scale-start)))
+      translate(0, 0);
   }
 
   100% {
@@ -175,7 +194,7 @@
   }
 }
 
-@keyframes fade_4 {
+@keyframes ken_burns_4 {
   0% {
     opacity: 0;
     transform: scale(var(--scale-start))
@@ -192,7 +211,8 @@
 
   35% {
     opacity: 0;
-    transform: scale(calc(1.3 + 1.1 - var(--scale-start))) translate(0, 0);
+    transform: scale(calc($scale_max + $scale_min - var(--scale-start)))
+      translate(0, 0);
   }
 
   100% {
