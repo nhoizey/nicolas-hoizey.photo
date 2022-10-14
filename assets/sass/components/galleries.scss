@@ -10,8 +10,8 @@
   padding-inline-start: 0;
 
   display: grid;
-  gap: space.$xl;
-  grid-template-columns: repeat(auto-fit, min(100%, 20rem));
+  gap: 2rem 3rem;
+  grid-template-columns: repeat(auto-fit, min(100%, 18rem));
 
   align-items: end;
 
