@@ -23,12 +23,18 @@
             <div class="frame">
               <div class="diaporama diaporama_{{ photos_below | length }}">
                 {% for photo in photos_below %}
+                  {% if build.env == 'production' %}
+                    {% set imageFile = photo.data.page.fileSlug %}
+                  {% else %}
+                    {# Prevent loading the huge image in development #}
+                    {% set imageFile = 'feed' %}
+                  {% endif %}
                   <img
                     {% if loop.last %}
-                      src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
+                      src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
                       fetchpriority="high"
                     {% else %}
-                      data-src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
+                      data-src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
                       loading="lazy"
                       fetchpriority="low"
                     {% endif %}

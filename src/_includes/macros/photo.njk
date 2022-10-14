@@ -8,9 +8,16 @@
     {% set dimensions = item.data.dimensions %}
   {% endif %}
 
+  {% if build.env == 'production' %}
+    {% set imageFile = item.data.page.fileSlug %}
+  {% else %}
+    {# Prevent loading the huge image in development #}
+    {% set imageFile = 'feed' %}
+  {% endif %}
+
   <figure>
     <img
-      src="/photos/{{ item.data.page.fileSlug }}/{{ item.data.page.fileSlug }}.jpg"
+      src="/photos/{{ item.data.page.fileSlug }}/{{ imageFile }}.jpg"
       alt="{{ item.data.title }}"
       class="frame{% if dimensions.width < dimensions.height %} portrait{% endif %}"
       {% if dimensions.width %}width="{{ dimensions.width }}"{% endif %}
