@@ -26,7 +26,7 @@
 
     {% if build.env == 'production' %}
       {# https://csswizardry.com/2022/10/speeding-up-async-snippets/#the-new-syntax #}
-      <script src="/ui/js/matomo.js" async></script>
+      <script src="/ui/js/matomo.js" defer></script>
     {% endif %}
 
     {% from "macros/css.njk" import css %}
