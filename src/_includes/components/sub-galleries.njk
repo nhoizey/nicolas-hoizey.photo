@@ -11,12 +11,13 @@
 {% if sub_galleries | length %}
   <ul class="galleries">
     {% for item in sub_galleries %}
-      {% if loop.index < 2 %}
+      {% if loop.index == 1 %}
+      {# First diaporama is larger #}
         {% set responsiver = "diaporama_large" %}
       {% else %}
         {% set responsiver = "diaporama" %}
       {% endif %}
-      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(3) %}
+      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
       {% if photos_below | length %}
         <li>
           <figure>
@@ -30,7 +31,7 @@
                     {% set imageFile = 'feed' %}
                   {% endif %}
                   <img
-                    {% if loop.last %}
+                    {% if loop.first %}
                       src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
                       fetchpriority="high"
                     {% else %}

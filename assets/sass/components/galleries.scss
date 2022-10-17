@@ -24,6 +24,7 @@
   }
 
   figcaption {
+    z-index: 20;
     background-image: linear-gradient(
       to bottom,
       rgba(0, 0, 0, 0) 50%,
@@ -60,6 +61,19 @@
       transform-origin: 50% 50%;
       transform: scale(var(--scale-start))
         translate(var(--pan-x-start), var(--pan-y-start));
+
+      &:nth-of-type(1) {
+        z-index: 13;
+      }
+      &:nth-of-type(2) {
+        z-index: 12;
+      }
+      &:nth-of-type(3) {
+        z-index: 11;
+      }
+      &:nth-of-type(4) {
+        z-index: 10;
+      }
     }
 
     &::before {
@@ -91,11 +105,11 @@
       animation-duration: $diaporama-timing * 2;
     }
 
-    img:nth-of-type(2) {
+    img:nth-of-type(1) {
       animation-delay: $diaporama-timing * $ken_burns_2_delay;
     }
 
-    img:nth-of-type(1) {
+    img:nth-of-type(2) {
       animation-delay: $diaporama-timing * (1 + $ken_burns_2_delay);
     }
   }
@@ -107,7 +121,7 @@
       animation-duration: $diaporama-timing * 3;
     }
 
-    img:nth-of-type(3) {
+    img:nth-of-type(1) {
       animation-delay: $diaporama-timing * $ken_burns_3_delay;
     }
 
@@ -115,7 +129,7 @@
       animation-delay: $diaporama-timing * (1 + $ken_burns_3_delay);
     }
 
-    img:nth-of-type(1) {
+    img:nth-of-type(3) {
       animation-delay: $diaporama-timing * (2 + $ken_burns_3_delay);
     }
   }
@@ -127,19 +141,19 @@
       animation-duration: $diaporama-timing * 4;
     }
 
-    img:nth-of-type(4) {
+    img:nth-of-type(1) {
       animation-delay: $diaporama-timing * $ken_burns_4_delay;
     }
 
-    img:nth-of-type(3) {
+    img:nth-of-type(2) {
       animation-delay: $diaporama-timing * (1 + $ken_burns_4_delay);
     }
 
-    img:nth-of-type(2) {
+    img:nth-of-type(3) {
       animation-delay: $diaporama-timing * (2 + $ken_burns_4_delay);
     }
 
-    img:nth-of-type(1) {
+    img:nth-of-type(4) {
       animation-delay: $diaporama-timing * (3 + $ken_burns_4_delay);
     }
   }
