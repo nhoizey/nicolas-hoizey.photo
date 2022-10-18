@@ -123,7 +123,11 @@ module.exports = {
     minWidth: 375, // 18 * 16 * 1.3
     maxWidth: 750, // No need for more than 2dppx
     steps: 5,
-    sizes: '(min-width: 20rem) calc(1.3 * 18rem), calc(1.3 * (100vw - 2rem))',
+    // sizes: '(min-width: 20rem) calc(1.3 * 18rem), calc(1.3 * (100vw - 2rem))',
+    // sizes:
+    // '(min-width: 163.9375rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 6) / 7), (min-width: 142.5rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 5) / 6), (min-width: 121.0625rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 4) / 5), (min-width: 99.625rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 3) / 4), (min-width: 78.1875rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 2) / 3), (min-width: 60em) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem) / 2), (min-width: 41rem) calc(1.3 * (100vw - 2rem - 3rem) / 2), calc(1.3 * (100vw - 2rem))',
+    sizes:
+      '(min-width: 163.9375rem) calc(1.3 * (98vw - 36.408rem) / 7), (min-width: 142.5rem) calc(1.3 * (98vw - 33.408rem) / 6), (min-width: 121.0625rem) calc(1.3 * (98vw - 30.408rem) / 5), (min-width: 99.625rem) calc(1.3 * (98vw - 27.408rem) / 4), (min-width: 78.1875rem) calc(1.3 * (98vw - 24.408rem) / 3), (min-width: 60em) calc(1.3 * (98vw - 21.408rem) / 2), (min-width: 41rem) calc(1.3 * (50vw - 2.5rem)), calc(1.3 * (100vw - 2rem))',
     figure: 'never',
   },
   diaporama_large: {
@@ -133,8 +137,10 @@ module.exports = {
     minWidth: 812, // 39 * 16 * 1.3
     maxWidth: 1624, // No need for more than 2dppx
     steps: 7,
+    // sizes:
+    //   '(min-width: 60rem) calc(1.3 * 39rem), (min-width: 20rem) calc(1.3 * 18rem), calc(1.3 * (100vw - 2rem))',
     sizes:
-      '(min-width: 60rem) calc(1.3 * 39rem), (min-width: 20rem) calc(1.3 * 18rem), calc(1.3 * (100vw - 2rem))',
+      '(min-width: 163.9375rem) calc(1.3 * (3rem + 2 * (98vw - 36.408rem) / 7)), (min-width: 142.5rem) calc(1.3 * (3rem + 2 * (98vw - 33.408rem) / 6)), (min-width: 121.0625rem) calc(1.3 * (3rem + 2 * (98vw - 30.408rem) / 5)), (min-width: 99.625rem) calc(1.3 * (3rem + 2 * (98vw - 27.408rem) / 4)), (min-width: 78.1875rem) calc(1.3 * (3rem + 2 * (98vw - 24.408rem) / 3)), (min-width: 60em) calc(1.3 * (3rem + 2 * (98vw - 21.408rem) / 2)), (min-width: 41rem) calc(1.3 * (50vw - 2.5rem)), calc(1.3 * (100vw - 2rem))',
     figure: 'never',
   },
   thumbnail_landscape: {
