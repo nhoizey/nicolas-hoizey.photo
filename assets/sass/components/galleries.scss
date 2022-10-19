@@ -94,8 +94,10 @@
       animation-play-state: paused;
     }
 
-    &.run img {
-      animation-play-state: running;
+    @media (prefers-reduced-motion: no-preference) {
+      .run_diaporamas & img {
+        animation-play-state: running;
+      }
     }
   }
 
