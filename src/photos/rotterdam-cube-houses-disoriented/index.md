@@ -6,9 +6,12 @@ dates:
   iso: 2021-11-03
   human: 3rd November 2021
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF16-80mmF4 R OIS WR
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 16-80mm f/4.0 R OIS WR
 tags:
   - APS-C
   - arbre

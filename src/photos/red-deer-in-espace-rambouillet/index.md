@@ -6,9 +6,14 @@ dates:
   iso: 2021-10-24
   human: 24th October 2021
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+    - brand: Fujifilm
+      model: Fujinon XF 1.4× TC WR
 tags:
   - animal
   - animal captif

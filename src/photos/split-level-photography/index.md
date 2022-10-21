@@ -6,8 +6,9 @@ dates:
   iso: 2004-05-17
   human: 17th May 2004
 gear:
-  make: Fujifilm
-  model: SLP1000SE
+  camera:
+    brand: Fujifilm
+    model: Frontier 340 (Minilab Laser Printer)
 tags:
   - Africa
   - Afrique

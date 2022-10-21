@@ -6,9 +6,12 @@ dates:
   iso: 2006-04-01
   human: 1st April 2006
 gear:
-  make: Canon
-  model: Canon EOS 350D DIGITAL
-  lens: 70.0-300.0 mm
+  camera:
+    brand: Canon
+    model: EOS 350D
+  lenses:
+    - brand: Canon
+      model: EF 70-300mm f/4-5.6 IS USM
 tags:
   - APS-C
   - Athis-Mons

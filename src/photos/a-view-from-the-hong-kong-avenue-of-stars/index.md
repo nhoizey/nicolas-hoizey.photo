@@ -6,9 +6,12 @@ dates:
   iso: 2015-08-08
   human: 8th August 2015
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF24-70mm f/2.8L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 24-70mm f/2.8L USM
 tags:
   - Asia
   - Asie

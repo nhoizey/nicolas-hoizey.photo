@@ -6,9 +6,12 @@ dates:
   iso: 2012-12-08
   human: 8th December 2012
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF24-70mm f/2.8L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 24-70mm f/2.8L USM
 tags:
   - arbre
   - beautiful

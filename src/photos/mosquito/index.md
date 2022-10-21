@@ -6,9 +6,12 @@ dates:
   iso: 2012-04-29
   human: 29th April 2012
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF100mm f/2.8 Macro USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 100mm f/2.8 Macro USM
 tags:
   - animal
   - animal sauvage

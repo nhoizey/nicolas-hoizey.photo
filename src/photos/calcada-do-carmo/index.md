@@ -6,9 +6,12 @@ dates:
   iso: 2016-10-01
   human: 1st October 2016
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF24-70mm f/2.8L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 24-70mm f/2.8L USM
 tags:
   - Baixa
   - Canon
@@ -34,6 +37,7 @@ dimensions:
 geo:
   latitude: 38.713985895
   longitude: -9.140727516666667
+  map: true
   country: Portugal
   city: Lisbonne
 colors:

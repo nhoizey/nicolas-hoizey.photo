@@ -6,9 +6,12 @@ dates:
   iso: 2008-06-14
   human: 14th June 2008
 gear:
-  make: Canon
-  model: Canon EOS 350D DIGITAL
-  lens: 100.0 mm
+  camera:
+    brand: Canon
+    model: EOS 350D
+  lenses:
+    - brand: Canon
+      model: EF 100mm f/2.8 Macro USM
 tags:
   - animal
   - APS-C

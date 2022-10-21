@@ -6,9 +6,12 @@ dates:
   iso: 2018-05-13
   human: 13th May 2018
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF100-400mmF4.5-5.6 R LM OIS WR
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
 tags:
   - APS-C
   - athletics

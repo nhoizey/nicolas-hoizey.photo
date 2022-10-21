@@ -6,8 +6,9 @@ dates:
   iso: 2014-03-14
   human: 14th March 2014
 gear:
-  make: Panasonic
-  model: DMC-GM1
+  camera:
+    brand: Panasonic
+    model: GM1
 tags:
   - hybrid
   - Micro Four Thirds

@@ -6,9 +6,9 @@ dates:
   iso: 2019-03-06
   human: 6th March 2019
 gear:
-  make: Apple
-  model: iPhone 6s
-  lens: iPhone 6s back camera 4.15mm f/2.2
+  camera:
+    brand: Apple
+    model: iPhone 6s
 tags:
   - Africa
   - Afrique

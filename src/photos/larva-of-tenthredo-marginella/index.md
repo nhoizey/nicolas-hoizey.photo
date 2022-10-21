@@ -6,8 +6,9 @@ dates:
   iso: 2008-10-12
   human: 12th October 2008
 gear:
-  make: Canon
-  model: Canon EOS 350D DIGITAL
+  camera:
+    brand: Canon
+    model: EOS 350D
 tags:
   - animal
   - animal sauvage

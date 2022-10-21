@@ -6,9 +6,12 @@ dates:
   iso: 2018-08-14
   human: 14th August 2018
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF10-24mmF4 R OIS
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
   - APS-C
   - Cathédrale de la Sainte-Trinité de Tbilissi

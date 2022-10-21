@@ -6,9 +6,12 @@ dates:
   iso: 2013-08-07
   human: 7th August 2013
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF100mm f/2.8 Macro USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 100mm f/2.8 Macro USM
 tags:
   - bee
   - Canon

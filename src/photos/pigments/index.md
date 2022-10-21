@@ -6,8 +6,9 @@ dates:
   iso: 2015-04-27
   human: 27th April 2015
 gear:
-  make: Panasonic
-  model: DMC-LX100
+  camera:
+    brand: Panasonic
+    model: LX100
 tags:
   - bocal
   - bocaux

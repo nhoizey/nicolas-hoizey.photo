@@ -6,9 +6,12 @@ dates:
   iso: 2020-06-23
   human: 23rd June 2020
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF80mmF2.8 R LM OIS WR Macro
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
 tags:
   - abeille
   - animal

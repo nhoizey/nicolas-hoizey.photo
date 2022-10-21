@@ -6,9 +6,12 @@ dates:
   iso: 2018-06-11
   human: 11th June 2018
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF27mmF2.8
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 27mm f/2.8
 tags:
   - APS-C
   - black

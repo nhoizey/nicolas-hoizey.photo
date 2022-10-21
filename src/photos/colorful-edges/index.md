@@ -5,7 +5,6 @@ date: 2015-01-21 00:01:00 +02:00
 dates:
   iso: 2015-01-20
   human: 20th January 2015
-gear: {}
 tags:
   - Canon
   - Canon EOS 5D Mark II

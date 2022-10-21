@@ -6,9 +6,9 @@ dates:
   iso: 2016-09-30
   human: 30th September 2016
 gear:
-  make: Apple
-  model: iPhone 6s
-  lens: iPhone 6s back camera 4.15mm f/2.2
+  camera:
+    brand: Apple
+    model: iPhone 6s
 tags:
   - aéroport
   - Aeroporto de Lisboa

@@ -6,9 +6,12 @@ dates:
   iso: 2015-05-19
   human: 19th May 2015
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF135mm f/2L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 135mm f/2L USM
 tags:
   - 5th Avenue
   - America

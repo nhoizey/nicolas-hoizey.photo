@@ -6,9 +6,12 @@ dates:
   iso: 2007-11-03
   human: 3rd November 2007
 gear:
-  make: Canon
-  model: Canon EOS 350D DIGITAL
-  lens: 17.0-85.0 mm
+  camera:
+    brand: Canon
+    model: EOS 350D
+  lenses:
+    - brand: Canon
+      model: EF-S 17-85mm f/4-5.6 IS USM
 tags:
   - APS-C
   - ardoise

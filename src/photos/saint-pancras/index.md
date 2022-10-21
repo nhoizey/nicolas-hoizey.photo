@@ -6,9 +6,12 @@ dates:
   iso: 2017-10-19
   human: 19th October 2017
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF10-24mmF4 R OIS
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
   - Angleterre
   - APS-C

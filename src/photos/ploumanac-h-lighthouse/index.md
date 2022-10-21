@@ -6,9 +6,12 @@ dates:
   iso: 2013-08-22
   human: 22nd August 2013
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF24-70mm f/2.8L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 24-70mm f/2.8L USM
 tags:
   - bleu
   - blue

@@ -6,8 +6,9 @@ dates:
   iso: 2004-06-12
   human: 12th June 2004
 gear:
-  make: Konica
-  model: KD-400Z
+  camera:
+    brand: Konica
+    model: KD-400Z
 tags:
   - bleu
   - blue

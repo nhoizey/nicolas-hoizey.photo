@@ -6,9 +6,12 @@ dates:
   iso: 2019-02-28
   human: 28th February 2019
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF56mmF1.2 R
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 56mm f/1.2 R
 tags:
   - acacia
   - Acacia faux-gommier

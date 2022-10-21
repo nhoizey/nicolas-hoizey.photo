@@ -6,9 +6,12 @@ dates:
   iso: 2014-05-01
   human: 1st May 2014
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF70-300mm f/4-5.6 IS USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 70-300mm f/4-5.6 IS USM
 tags:
   - Canon
   - Canon EF 70-300mm f/4-5.6 IS USM

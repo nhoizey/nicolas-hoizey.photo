@@ -6,8 +6,9 @@ dates:
   iso: 2004-05-14
   human: 14th May 2004
 gear:
-  make: Konica
-  model: KD-400Z
+  camera:
+    brand: Konica
+    model: KD-400Z
 tags:
   - Africa
   - Afrique

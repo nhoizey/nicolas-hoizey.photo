@@ -6,8 +6,9 @@ dates:
   iso: 2005-04-23
   human: 23rd April 2005
 gear:
-  make: Konica
-  model: KD-400Z
+  camera:
+    brand: Konica
+    model: KD-400Z
 tags:
   - blanc
   - ciel

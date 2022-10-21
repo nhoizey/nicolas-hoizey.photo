@@ -6,9 +6,12 @@ dates:
   iso: 2019-02-10
   human: 10th February 2019
 gear:
-  make: Canon
-  model: Canon EOS 5D Mark IV
-  lens: EF100mm f/2.8L Macro IS USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark IV
+  lenses:
+    - brand: Canon
+      model: EF 100mm f/2.8L Macro IS USM
 tags:
   - biscuit
   - bleu

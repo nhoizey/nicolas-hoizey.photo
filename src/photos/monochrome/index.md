@@ -6,9 +6,12 @@ dates:
   iso: 2019-04-14
   human: 14th April 2019
 gear:
-  make: NIKON CORPORATION
-  model: NIKON D700
-  lens: TAMRON SP 24-70mm F2.8 Di VC USD A007N
+  camera:
+    brand: Nikon
+    model: D700
+  lenses:
+    - brand: Tamron
+      model: SP 24-70mm f/2.8 Di VC USD
 tags:
   - beverage
   - boisson

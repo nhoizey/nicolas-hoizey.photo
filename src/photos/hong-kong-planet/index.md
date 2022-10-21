@@ -5,7 +5,6 @@ date: 2015-08-08 23:08:00 +02:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
-gear: {}
 tags:
   - Asia
   - Asie

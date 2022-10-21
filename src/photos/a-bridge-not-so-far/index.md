@@ -6,9 +6,9 @@ dates:
   iso: 2015-05-23
   human: 23rd May 2015
 gear:
-  make: SONY
-  model: DSC-RX100M3
-  lens: 24-70mm F1.8-2.8
+  camera:
+    brand: Sony
+    model: RX100 Mark III
 tags:
   - America
   - Amérique du Nord

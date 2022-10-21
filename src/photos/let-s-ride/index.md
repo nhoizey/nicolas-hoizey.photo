@@ -6,9 +6,12 @@ dates:
   iso: 2011-07-15
   human: 15th July 2011
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF135mm f/2L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 135mm f/2L USM
 tags:
   - bokeh
   - boy

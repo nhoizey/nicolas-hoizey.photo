@@ -6,9 +6,12 @@ dates:
   iso: 2019-04-28
   human: 28th April 2019
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF27mmF2.8
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 27mm f/2.8
 tags:
   - APS-C
   - arcade

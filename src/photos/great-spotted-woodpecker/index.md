@@ -6,9 +6,12 @@ dates:
   iso: 2016-12-04
   human: 4th December 2016
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF100-400mmF4.5-5.6 R LM OIS WR
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
 tags:
   - animal
   - APS-C

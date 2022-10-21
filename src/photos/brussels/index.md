@@ -6,9 +6,9 @@ dates:
   iso: 2007-08-27
   human: 27th August 2007
 gear:
-  make: Canon
-  model: Canon DIGITAL IXUS 800 IS
-  lens: 5.8-23.2 mm
+  camera:
+    brand: Canon
+    model: Digital IXUS 800 IS
 tags:
   - bâtiment
   - België

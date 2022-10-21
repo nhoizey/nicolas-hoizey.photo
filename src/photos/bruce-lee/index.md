@@ -6,9 +6,12 @@ dates:
   iso: 2015-08-09
   human: 9th August 2015
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF135mm f/2L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 135mm f/2L USM
 tags:
   - Asia
   - Asie

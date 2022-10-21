@@ -6,9 +6,12 @@ dates:
   iso: 2020-10-06
   human: 6th October 2020
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF80mmF2.8 R LM OIS WR Macro
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
 tags:
   - APS-C
   - encens

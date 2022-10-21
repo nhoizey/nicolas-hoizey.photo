@@ -6,9 +6,12 @@ dates:
   iso: 2014-03-18
   human: 18th March 2014
 gear:
-  make: Panasonic
-  model: DMC-GM1
-  lens: LUMIX G VARIO 12-32/F3.5-5.6
+  camera:
+    brand: Panasonic
+    model: GM1
+  lenses:
+    - brand: Panasonic
+      model: Lumix G Vario 12-32mm f/3.5-5.6 MEGA OIS
 tags:
   - Europa
   - Europe

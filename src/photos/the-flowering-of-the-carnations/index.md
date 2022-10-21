@@ -6,9 +6,12 @@ dates:
   iso: 2017-06-14
   human: 14th June 2017
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF56mmF1.2 R
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 56mm f/1.2 R
 tags:
   - 1:87
   - APS-C

@@ -6,9 +6,14 @@ dates:
   iso: 2019-02-26
   human: 26th February 2019
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF100-400mmF4.5-5.6 R LM OIS WR + 2x
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+    - brand: Fujifilm
+      model: Fujinon XF 2.0× TC WR
 tags:
   - Accipitridés
   - Accipitriformes

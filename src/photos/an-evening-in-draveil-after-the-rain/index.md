@@ -6,9 +6,12 @@ dates:
   iso: 2022-05-24
   human: 24th May 2022
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF10-24mmF4 R OIS
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
   - APS-C
   - arbre

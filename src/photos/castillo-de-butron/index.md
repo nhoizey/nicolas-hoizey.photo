@@ -6,9 +6,12 @@ dates:
   iso: 2022-08-10
   human: 10th August 2022
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF16-80mmF4 R OIS WR
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 16-80mm f/4.0 R OIS WR
 tags:
   - APS-C
   - architecture
@@ -54,6 +57,7 @@ dimensions:
 geo:
   latitude: 43.371453055
   longitude: -2.9139641666666667
+  map: true
   country: Espagne
   city: Gatika
 colors:

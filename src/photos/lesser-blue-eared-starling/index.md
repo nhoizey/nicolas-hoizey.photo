@@ -6,9 +6,12 @@ dates:
   iso: 2018-10-30
   human: 30th October 2018
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF80mmF2.8 R LM OIS WR Macro
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
 tags:
   - animal
   - animal captif

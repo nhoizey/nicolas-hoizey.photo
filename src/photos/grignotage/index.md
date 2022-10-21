@@ -6,9 +6,12 @@ dates:
   iso: 2019-03-10
   human: 10th March 2019
 gear:
-  make: Canon
-  model: Canon EOS 7D
-  lens: EF50mm f/1.8 II
+  camera:
+    brand: Canon
+    model: EOS 7D
+  lenses:
+    - brand: Canon
+      model: EF 50mm f/1.8 II
 tags:
   - bread
   - charcuterie

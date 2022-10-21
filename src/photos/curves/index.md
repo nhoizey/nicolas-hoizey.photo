@@ -6,8 +6,9 @@ dates:
   iso: 2008-09-02
   human: 2nd September 2008
 gear:
-  make: Canon
-  model: Canon EOS 350D DIGITAL
+  camera:
+    brand: Canon
+    model: EOS 350D
 tags:
   - APS-C
   - baigneur

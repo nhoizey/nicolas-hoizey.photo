@@ -6,8 +6,9 @@ dates:
   iso: 2008-05-11
   human: 11th May 2008
 gear:
-  make: Canon
-  model: Canon EOS 350D DIGITAL
+  camera:
+    brand: Canon
+    model: EOS 350D
 tags:
   - animal
   - APS-C

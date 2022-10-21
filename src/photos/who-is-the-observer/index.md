@@ -6,9 +6,12 @@ dates:
   iso: 2019-02-26
   human: 26th February 2019
 gear:
-  make: FUJIFILM
-  model: X-T2
-  lens: XF27mmF2.8
+  camera:
+    brand: Fujifilm
+    model: X-T2
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 27mm f/2.8
 tags:
   - 4x4
   - Africa

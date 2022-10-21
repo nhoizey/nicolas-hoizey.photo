@@ -6,9 +6,9 @@ dates:
   iso: 2014-07-12
   human: 12th July 2014
 gear:
-  make: SONY
-  model: DSC-RX100M3
-  lens: 24-70mm F1.8-2.8
+  camera:
+    brand: Sony
+    model: RX100 Mark III
 tags:
   - anvil
   - Arnhem

@@ -6,9 +6,12 @@ dates:
   iso: 2010-08-07
   human: 7th August 2010
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF24-70mm f/2.8L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 24-70mm f/2.8L USM
 tags:
   - Canon
   - Canon EF 24-70mm f/2.8L USM

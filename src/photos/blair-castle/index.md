@@ -6,9 +6,12 @@ dates:
   iso: 2014-05-02
   human: 2nd May 2014
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF24-70mm f/2.8L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 24-70mm f/2.8L USM
 tags:
   - Blair Castle
   - blanc

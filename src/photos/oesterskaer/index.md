@@ -6,9 +6,12 @@ dates:
   iso: 2020-02-03
   human: 3rd February 2020
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF56mmF1.2 R
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 56mm f/1.2 R
 tags:
   - APS-C
   - Comté de Stockholm

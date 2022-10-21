@@ -6,9 +6,12 @@ dates:
   iso: 2014-06-14
   human: 14th June 2014
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: 50mm
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Sigma
+      model: 50mm F1.4 EX DG HSM
 tags:
   - adult
   - adulte

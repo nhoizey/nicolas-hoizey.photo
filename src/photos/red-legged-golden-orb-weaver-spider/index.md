@@ -6,9 +6,12 @@ dates:
   iso: 2019-03-04
   human: 4th March 2019
 gear:
-  make: FUJIFILM
-  model: X-T3
-  lens: XF100-400mmF4.5-5.6 R LM OIS WR
+  camera:
+    brand: Fujifilm
+    model: X-T3
+  lenses:
+    - brand: Fujifilm
+      model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
 tags:
   - Africa
   - Afrique

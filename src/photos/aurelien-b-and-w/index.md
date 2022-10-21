@@ -6,9 +6,12 @@ dates:
   iso: 2016-01-26
   human: 26th January 2016
 gear:
-  make: Canon
-  model: EOS 5D Mark II
-  lens: EF135mm f/2L USM
+  camera:
+    brand: Canon
+    model: EOS 5D Mark II
+  lenses:
+    - brand: Canon
+      model: EF 135mm f/2L USM
 tags:
   - B&W
   - barbe
