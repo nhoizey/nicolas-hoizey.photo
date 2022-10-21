@@ -1,0 +1,48 @@
+---
+pagination:
+  data: collections.gears
+  size: 1
+  alias: gear
+  filter:
+    - all
+  addAllPagesToCollections: true
+layout: gear
+eleventyComputed:
+  title: "{{ gear.brand }} {{ gear.model }}"
+permalink: /gear/{{ gear.slug }}/
+---
+
+{% from "macros/css.njk" import css %}
+
+{% block content %}
+
+{% if gear.photo or gear.description %}
+  {% if gear.photo %}
+    <img src="/{{ gear.photo }}" class="logo" data-responsiver="logo" />
+  {% endif %}
+
+  {% if gear.description %}
+    {{ gear.description | markdownify | safe }}
+  {% endif %}
+{% endif %}
+
+{{ css('components/gallery', build.env) }}
+
+{% from "macros/photo.njk" import photo %}
+
+{% set photos = collections.photos_in_galleries | shot_with(gear.brand + ' ' + gear.model) %}
+{% set photosNumber = photos | length %}
+<p>Here {% if photosNumber == 1 %}is the single photo{% else %}are the {{ photosNumber }} photos{% endif %} shared here that I took with the {{ gear.brand }} {{ gear.model }}:</p>
+<ul class="gallery">
+  {% for item in photos %}
+    {% if loop.index < 4 %}
+      <li>{{ photo(item, "eager", build.env) }}</li>
+    {% else %}
+      <li>{{ photo(item, "lazy", build.env) }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<p>Look for <a href="/gear/{{ gear.brand | slugify }}/">every {{ gear.brand }} gear I used</a>.</p>
+
+{% endblock %}

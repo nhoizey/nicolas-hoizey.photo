@@ -30,6 +30,41 @@ module.exports = {
       }
     });
   },
+  shot_with: (photosCollection, gear) => {
+    const slugs = [];
+    const collectionWithGear = photosCollection.filter((page) => {
+      if (slugs.includes(page.fileSlug)) {
+        return false;
+      } else {
+        slugs.push(page.fileSlug);
+        pageGear = page.data.origin.data.gear;
+        if (`${pageGear?.camera?.brand} ${pageGear?.camera?.model}` === gear) {
+          return true;
+        }
+        if (pageGear?.lenses !== undefined) {
+          if (gear === 'Fujifilm Fujinon XF 27 mm f/2.8') {
+            console.dir(pageGear.lenses);
+          }
+          let lenseFound = false;
+          pageGear.lenses.forEach((data, lense) => {
+            if (`${data.brand} ${data.model}` === gear) {
+              lenseFound = true;
+            }
+          });
+          return lenseFound;
+        }
+      }
+      return false;
+    });
+    if (gear === 'Fujifilm Fujinon XF 27 mm f/2.8') {
+      console.dir(collectionWithGear);
+    }
+    return collectionWithGear;
+  },
+  cameras: (collection, brand) =>
+    collection.filter((gear) => gear.type === 'camera' && gear.brand === brand),
+  lenses: (collection, brand) =>
+    collection.filter((gear) => gear.type === 'lense' && gear.brand === brand),
   photos_here: (collection, url) =>
     collection.filter((page) => {
       const r = new RegExp(`^${url}[^/]+\/$`);

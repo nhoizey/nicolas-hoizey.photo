@@ -62,10 +62,21 @@
     <div class="meta">
       <ul class="exif">
         <li class="date"><svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="{{ dates.iso }}">{{ dates.human }}</time></li>
-        <li class="gear">{% icon 'camera' %} {{ gear.make }} {{ gear.model }}</li>
-        {% if settings.focal_length or gear.lens %}
+        {% if gear and gear.camera %}
+        <li class="gear">{% icon 'camera' %}
+          <a href="/gear/{{ gear.camera.brand | slugify }}/{{ gear.camera.model | slugify }}/">{{ gear.camera.brand }} {{ gear.camera.model }}</a>
+        </li>
+        {% endif %}
+        {% if settings.focal_length or gear.lenses %}
           <li class="lens">{% icon 'focal_length' %}
-            {% if gear.lens %}{{ gear.lens }}<br />{% endif %}
+            {% if gear.lenses %}
+              {% set comma = joiner(", ") %}
+              {% for lens in gear.lenses %}
+                {{- comma() }}
+                <a href="/gear/{{ lens.brand | slugify }}/{{ lens.model | slugify }}/">{{ lens.brand }} {{ lens.model }}</a>
+              {% endfor %}
+              <br />
+            {% endif %}
             {{ settings.focal_length }} mm
             {% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}
           </li>

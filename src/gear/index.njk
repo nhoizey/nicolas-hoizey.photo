@@ -1,0 +1,19 @@
+---
+title: Gear
+layout: page
+nav:
+  order: 7
+  icon: camera
+---
+
+{% include 'components/breadcrumb.njk' %}
+
+<h1 class="page__title">Gear</h1>
+<p>I've used cameras and lenses from a few different brands along the years.</p>
+<p>Here's the full list, so that you can browse photos I made with them:</p>
+
+<ul>
+{% for brand in collections.brands %}
+  <li><a href="/gear/{{ brand.slug }}/">{{ brand.brand }}</a></li>
+{% endfor %}
+</ul>

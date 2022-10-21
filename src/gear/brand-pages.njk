@@ -1,0 +1,53 @@
+---
+pagination:
+  data: collections.brands
+  size: 1
+  alias: brand
+  filter:
+    - all
+  addAllPagesToCollections: true
+layout: brand
+eleventyComputed:
+  title: "{{ brand.brand }}"
+permalink: /gear/{{ brand.slug }}/
+---
+
+{% from "macros/css.njk" import css %}
+
+{% block content %}
+
+{% if brand.photo or brand.description %}
+  {% if brand.photo %}
+    <img src="/{{ brand.photo }}" class="logo" data-responsiver="logo" />
+  {% endif %}
+
+  {% if brand.description %}
+    {{ brand.description | markdownify | safe }}
+  {% endif %}
+{% endif %}
+
+{{ css('components/gallery', build.env) }}
+
+{% from "macros/photo.njk" import photo %}
+
+{% set cameras = collections.gears | cameras(brand.brand) %}
+{% set camerasNumber = cameras | length %}
+<p>{{ brand.brand }} camera{% if camerasNumber > 1 %}s{% endif %}:</p>
+<ul>
+  {% for camera in cameras %}
+    <li><a href="/gear/{{ camera.slug }}/">{{ camera.model }}</a></li>
+  {% endfor %}
+</ul>
+
+{% set lenses = collections.gears | lenses(brand.brand) %}
+{% set lensesNumber = lenses | length %}
+<p>{{ brand.brand }} lense{% if lensesNumber > 1 %}s{% endif %}:</p>
+<ul>
+  {% for lens in lenses %}
+    <li><a href="/gear/{{ lens.slug }}/">{{ lens.model }}</a></li>
+  {% endfor %}
+</ul>
+
+<p>You can check <a href="/gear/">all camera and lense brands</a> I used for the photos shared on this site.</p>
+
+{% endblock %}
