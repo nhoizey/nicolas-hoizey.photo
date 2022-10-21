@@ -2,7 +2,6 @@
 
 require('dotenv').config();
 
-const puppeteer = require('puppeteer-core');
 const exifr = require('exifr');
 const sharp = require('sharp');
 const vibrant = require('node-vibrant');
@@ -24,6 +23,104 @@ const DIST = './src/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
 const DIFFS = path.join(SRC, '_temp_diffs');
 const FEED_THUMBNAIL_PIXELS = 750 * 500;
+
+const CLEAN_GEAR = {
+  cameras: {
+    'Canon Canon DIGITAL IXUS 800 IS': {
+      brand: 'Canon',
+      model: 'Digital IXUS 800 IS',
+    },
+    'Canon Canon EOS 350D DIGITAL': { brand: 'Canon', model: 'EOS 350D' },
+    'Canon Canon EOS 5D Mark II': { brand: 'Canon', model: 'EOS 5D Mark II' },
+    'Canon Canon EOS 5D Mark IV': { brand: 'Canon', model: 'EOS 5D Mark IV' },
+    'Canon Canon EOS 7D': { brand: 'Canon', model: 'EOS 7D' },
+    'Panasonic DMC-GM1': { brand: 'Panasonic', model: 'GM1' },
+    'Panasonic DMC-LX100': { brand: 'Panasonic', model: 'LX100' },
+    'SONY DSC-RX100M3': { brand: 'Sony', model: 'RX100 Mark III' },
+    'Apple iPhone 6s': { brand: 'Apple', model: 'iPhone 6s' },
+    'Konica Corporation Konica Digital Camera KD-400Z': {
+      brand: 'Konica',
+      model: 'KD-400Z',
+    },
+    'FUJI PHOTO FILM CO., LTD. SLP1000SE': {
+      brand: 'Fujifilm',
+      model: 'Frontier 340 (Minilab Laser Printer)',
+    },
+    'NIKON CORPORATION NIKON D700': { brand: 'Nikon', model: 'D700' },
+    'FUJIFILM X-T2': { brand: 'Fujifilm', model: 'X-T2' },
+    'FUJIFILM X-T3': { brand: 'Fujifilm', model: 'X-T3' },
+  },
+  lenses: {
+    '5.8-23.2 mm': false,
+    '17.0-85.0 mm': { brand: 'Canon', model: 'EF-S 17-85mm f/4-5.6 IS USM' },
+    '24-70mm F1.8-2.8': false,
+    '50mm': { brand: 'Sigma', model: '50mm F1.4 EX DG HSM' },
+    '70.0-300.0 mm': { brand: 'Canon', model: 'EF 70-300mm f/4-5.6 IS USM' },
+    '100.0 mm': { brand: 'Canon', model: 'EF 100mm f/2.8 Macro USM' },
+    'EF24-70mm f/2.8L USM': { brand: 'Canon', model: 'EF 24-70mm f/2.8L USM' },
+    'EF50mm f/1.8 II': { brand: 'Canon', model: 'EF 50mm f/1.8 II' },
+    'EF70-300mm f/4-5.6 IS USM': {
+      brand: 'Canon',
+      model: 'EF 70-300mm f/4-5.6 IS USM',
+    },
+    'EF100mm f/2.8 Macro USM': {
+      brand: 'Canon',
+      model: 'EF 100mm f/2.8 Macro USM',
+    },
+    'EF100mm f/2.8L Macro IS USM': {
+      brand: 'Canon',
+      model: 'EF 100mm f/2.8L Macro IS USM',
+    },
+    'EF135mm f/2L USM': { brand: 'Canon', model: 'EF 135mm f/2L USM' },
+    'iPhone 6s back camera 4.15mm f/2.2': false,
+    'LUMIX G VARIO 12-32/F3.5-5.6': {
+      brand: 'Panasonic',
+      model: 'Lumix G Vario 12-32mm f/3.5-5.6 MEGA OIS',
+    },
+    'TAMRON SP 24-70mm F2.8 Di VC USD A007N': {
+      brand: 'Tamron',
+      model: 'SP 24-70mm f/2.8 Di VC USD',
+    },
+    'XF10-24mmF4 R OIS': {
+      brand: 'Fujifilm',
+      model: 'Fujinon XF 10-24mm f/4.0 R OIS',
+    },
+    'XF16-80mmF4 R OIS WR': {
+      brand: 'Fujifilm',
+      model: 'Fujinon XF 16-80mm f/4.0 R OIS WR',
+    },
+    'XF18-55mmF2.8-4 R LM OIS': {
+      brand: 'Fujifilm',
+      model: 'Fujinon XF 18-55mm f/2.8-4.0R LM OIS',
+    },
+    'XF27mmF2.8': { brand: 'Fujifilm', model: 'Fujinon XF 27mm f/2.8' },
+    'XF56mmF1.2 R': { brand: 'Fujifilm', model: 'Fujinon XF 56mm f/1.2 R' },
+    'XF80mmF2.8 R LM OIS WR Macro': {
+      brand: 'Fujifilm',
+      model: 'Fujinon XF 80mm f/2.8 LM OIS WR Macro',
+    },
+    'XF100-400mmF4.5-5.6 R LM OIS WR': {
+      brand: 'Fujifilm',
+      model: 'Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR',
+    },
+    'XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x': [
+      {
+        brand: 'Fujifilm',
+        model: 'Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR',
+      },
+      { brand: 'Fujifilm', model: 'Fujinon XF 1.4× TC WR' },
+    ],
+    'XF100-400mmF4.5-5.6 R LM OIS WR + 2x': [
+      {
+        brand: 'Fujifilm',
+        model: 'Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR',
+      },
+      { brand: 'Fujifilm', model: 'Fujinon XF 2.0× TC WR' },
+    ],
+  },
+};
+
+const MISSING_GEAR = { cameras: [], lenses: [] };
 
 let photosData = require('../_cache/photos-data.json');
 
@@ -144,24 +241,45 @@ SYNC ${photo}`);
       human: moment(photoYFM.date, 'YYYY-MM-DD HH:mm Z').format('Do MMMM YYYY'),
     };
 
-    // Get gear
-    photoYFM.gear = {};
-    if (photoExif.Make) {
-      // Simpler make
-      photoYFM.gear.make = photoExif.Make.replace(
-        'Konica Corporation',
-        'Konica'
-      ).replace('FUJI PHOTO FILM CO., LTD.', 'Fujifilm');
-    }
-    if (photoExif.Model) {
-      // Simpler model
-      photoYFM.gear.model = photoExif.Model.replace(
-        'Konica Digital Camera ',
-        ''
-      ).replace('Canon EOS 5D Mark II', 'EOS 5D Mark II');
-    }
-    if (photoExif.LensModel) {
-      photoYFM.gear.lens = photoExif.LensModel;
+    if (photoExif.Model || photoExif.LensModel) {
+      // Get gear
+      photoYFM.gear = {};
+      if (photoExif.Make || photoExif.Model) {
+        const makeAndModel = `${photoExif.Make || ''} ${photoExif.Model || ''}`;
+        if (CLEAN_GEAR.cameras[makeAndModel] === undefined) {
+          if (!MISSING_GEAR.cameras.includes(makeAndModel)) {
+            MISSING_GEAR.cameras.push(makeAndModel);
+          }
+          photoYFM.gear.camera = {
+            brand: photoExif.Make || 'unknown',
+            model: photoExif.Model || 'unknown',
+          };
+        } else {
+          photoYFM.gear.camera = CLEAN_GEAR.cameras[makeAndModel];
+        }
+      } else {
+        thisLog(`  ⚠ exif.Model missing`);
+      }
+      if (photoExif.LensModel) {
+        if (CLEAN_GEAR.lenses[photoExif.LensModel] === undefined) {
+          if (!MISSING_GEAR.lenses.includes(photoExif.LensModel)) {
+            MISSING_GEAR.lenses.push(photoExif.LensModel);
+          }
+          photoYFM.gear.lenses = [
+            { brand: 'unknown', model: photoExif.LensModel },
+          ];
+        } else {
+          if (CLEAN_GEAR.lenses[photoExif.LensModel] !== false) {
+            if (Array.isArray(CLEAN_GEAR.lenses[photoExif.LensModel])) {
+              photoYFM.gear.lenses = CLEAN_GEAR.lenses[photoExif.LensModel];
+            } else {
+              photoYFM.gear.lenses = [CLEAN_GEAR.lenses[photoExif.LensModel]];
+            }
+          }
+        }
+      } else {
+        thisLog(`  ⚠ exif.LensModel missing`);
+      }
     }
 
     if (photoExif.Keywords) {
@@ -444,4 +562,7 @@ syncAllPhotos().then(() => {
   fs.writeFileSync('./_cache/photos-data.json', JSON.stringify(photosData), {
     encoding: 'utf8',
   });
+
+  console.log(`Missing gear clean names:`);
+  console.dir(MISSING_GEAR);
 });
