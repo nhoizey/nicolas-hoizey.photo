@@ -35,9 +35,9 @@ module.exports = {
                 slug: slugify(brand),
               };
 
-              let brandPhotoPath = `assets/brands/${slugify(brand)}.png`;
-              if (fs.existsSync(`src/${brandPhotoPath}`)) {
-                newBrand.photo = brandPhotoPath;
+              let brandLogoPath = `assets/brands/${slugify(brand)}.png`;
+              if (fs.existsSync(`src/${brandLogoPath}`)) {
+                newBrand.logo = brandLogoPath;
               }
 
               let brandContentPath = `src/_includes/gear/${slugify(brand)}.md`;

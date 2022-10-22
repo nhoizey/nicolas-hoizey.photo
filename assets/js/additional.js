@@ -30,12 +30,12 @@ const loadDiaporama = async () => {
 const runDiaporama = () => {
   loadDiaporama();
   document.querySelector('body').classList.add('run_diaporamas');
-  document.title = initialPageTitle;
+  // document.title = initialPageTitle;
 };
 
 const stopDiaporama = () => {
   document.querySelector('body').classList.remove('run_diaporamas');
-  document.title = `⏸️ ${initialPageTitle}`;
+  // document.title = `⏸️ ${initialPageTitle}`;
 };
 
 const toggleDiaporamaRunningState = () => {
