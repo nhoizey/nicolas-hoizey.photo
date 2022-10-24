@@ -12,9 +12,11 @@
   <ul class="galleries">
     {% for item in sub_galleries %}
       {% if loop.index == 1 %}
-      {# First diaporama is larger #}
+        {# First diaporama is larger, and LCP host #}
+        {% set lcp = true %}
         {% set responsiver = "diaporama_large" %}
       {% else %}
+        {% set lcp = false %}
         {% set responsiver = "diaporama" %}
       {% endif %}
       {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
@@ -33,11 +35,12 @@
                   <img
                     {% if loop.first %}
                       src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
-                      fetchpriority="high"
+                      {% if lcp %}
+                        fetchpriority="high"
+                      {% endif %}
                     {% else %}
                       data-src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
                       loading="lazy"
-                      fetchpriority="low"
                     {% endif %}
                     alt
                     width="3000"
