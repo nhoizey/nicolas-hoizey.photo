@@ -79,6 +79,13 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addTransform('htmlmin', htmlMinTransform);
   }
 
+  const autoPreload = require(path.join(
+    __dirname,
+    config.dir.src,
+    '_11ty/transforms/auto-preload.js'
+  ));
+  eleventyConfig.addTransform('auto-preload', autoPreload);
+
   // ------------------------------------------------------------------------
   // Markdown plugins
   // ------------------------------------------------------------------------
