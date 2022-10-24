@@ -23,8 +23,13 @@ module.exports = function autoPreload(content, outputPath) {
   // Check if this is a responsive images
   const srcset = image.getAttribute('srcset');
   const sizes = image.getAttribute('sizes');
-  if (!srcset || !sizes) {
-    // Else, check if there's a src
+  if (srcset && sizes) {
+    // imagesrcset & imagesizes attributes for responsive images
+    // https://web.dev/preload-responsive-images/
+    link.setAttribute('imagesrcset', srcset);
+    link.setAttribute('imagesizes', sizes);
+  } else {
+    // Check if there's at list a src
     const src = image.getAttribute('src');
     if (!src) {
       return content;
@@ -33,11 +38,6 @@ module.exports = function autoPreload(content, outputPath) {
     // href atribute for non responsive image
     link.setAttribute('href', src);
   }
-
-  // imagesrcset & imagesizes attributes for responsive images
-  // https://web.dev/preload-responsive-images/
-  link.setAttribute('imagesrcset', srcset);
-  link.setAttribute('imagesizes', sizes);
 
   const title = document.querySelector('title');
   title.insertAdjacentElement('afterend', link);
