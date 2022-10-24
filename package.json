@@ -50,7 +50,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@babel/core": "^7.19.3",
+    "@babel/core": "^7.19.6",
     "@babel/preset-env": "^7.19.4",
     "@playwright/test": "^1.27.1",
     "@rollup/plugin-node-resolve": "^13.3.0",
@@ -65,7 +65,7 @@
     "dotenv": "^16.0.3",
     "download": "^8.0.0",
     "eleventy-plugin-images-responsiver": "^1.12.0",
-    "eslint": "^8.25.0",
+    "eslint": "^8.26.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "exifr": "^7.1.3",
