@@ -61,7 +61,6 @@ module.exports = function (eleventyConfig) {
   // ------------------------------------------------------------------------
   // Transforms
   // ------------------------------------------------------------------------
-
   if (process.env.NODE_ENV === 'production') {
     const imagesResponsiver = require('eleventy-plugin-images-responsiver');
     const imagesResponsiverConfig = require(path.join(
@@ -77,14 +76,10 @@ module.exports = function (eleventyConfig) {
       '_11ty/transforms/html-min-transform.js'
     ));
     eleventyConfig.addTransform('htmlmin', htmlMinTransform);
-  }
 
-  const autoPreload = require(path.join(
-    __dirname,
-    config.dir.src,
-    '_11ty/transforms/auto-preload.js'
-  ));
-  eleventyConfig.addTransform('auto-preload', autoPreload);
+    const autoPreload = require('eleventy-plugin-auto-preload');
+    eleventyConfig.addPlugin(autoPreload);
+  }
 
   // ------------------------------------------------------------------------
   // Markdown plugins
