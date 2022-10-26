@@ -93,7 +93,8 @@ module.exports = {
   },
   featured: (collection, number) => {
     const allFeatured = collection.filter((page) => page.data.featured);
-    const featured = shuffle(allFeatured).slice(0, number);
+    // const featured = shuffle(allFeatured).slice(0, number);
+    const featured = allFeatured.slice(0, number);
     if (featured.length < number) {
       const allNotFeatured = collection.filter((page) => !page.data.featured);
       const notFeatured = shuffle(allNotFeatured).slice(
