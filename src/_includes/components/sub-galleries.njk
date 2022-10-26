@@ -19,7 +19,7 @@
         {% set lcp = false %}
         {% set responsiver = "diaporama" %}
       {% endif %}
-      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(4) %}
+      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(3) %}
       {% if photos_below | length %}
         <li>
           <figure>
