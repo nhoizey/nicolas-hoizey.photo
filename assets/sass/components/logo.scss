@@ -1,13 +1,16 @@
 @use '../variables' as *;
+@use '../tokens/space';
 
 /* ********************************************
 * LOGO
 * ********************************************/
 
 .sitelogo {
+  margin-block: space.$m 0;
+  margin-inline: space.$m;
+
   h1,
-  a:link,
-  a:visited {
+  a:link {
     display: block;
     margin: 0;
     padding: 0;
@@ -22,11 +25,13 @@
 
   img {
     width: var(--logo-wide);
+    max-width: var(--logo-wide);
     height: calc(var(--logo-wide) / 9);
     aspect-ratio: 9 / 1;
 
     @media (min-width: $breakpoint-m) {
       width: var(--logo-square);
+      max-width: var(--logo-square);
       height: var(--logo-square);
       aspect-ratio: 1 / 1;
     }

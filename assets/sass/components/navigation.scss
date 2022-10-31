@@ -1,23 +1,101 @@
 @use '../variables' as *;
+@use '../tokens/space';
 
 nav {
-  ul {
+  @media not (min-width: $breakpoint-m) {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: auto;
+    overflow-y: hidden;
+
+    // Scroll shadows
+    // https://lea.verou.me/2012/04/background-attachment-local/
+    // background:
+    //   linear-gradient(90deg, $color-header 33%, rgba(0, 0, 0, 0)),
+    //   linear-gradient(90deg, rgba(0, 0, 0, 0), $color-header 66%) 0 100%,
+    //   radial-gradient(farthest-side at 0 50%, rgba(255, 255, 255, .5), transparent),
+    //   radial-gradient(farthest-side at 100% 50%, rgba(255, 255, 255, .5), transparent) 0 100%;
+    // background-position-x: 0%, 0px, 0%, 0px;
+    // background-position-y: 0%, 100%, 0%, 100%;
+    // background-repeat: repeat, repeat, repeat, repeat;
+    // background-attachment: scroll, scroll, scroll, scroll;
+    // background-size: auto, auto, auto, auto;
+    // background-repeat: no-repeat;
+    // background-size: 20px 100%, 20px 100%, 10px 100%, 10px 100%;
+    // background-position: 0 0, 100%, 0 0, 100%;
+    // background-attachment: local, local, scroll, scroll;
+
+    // Hide the scrollbar
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  @media (min-width: $breakpoint-m) {
+    margin-inline: space.$m;
+  }
+
+  & > ul {
+    margin: 0;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: space.$s;
+
     color: white;
     list-style: none;
-    margin: 0;
-    padding-inline-start: 0;
 
     font-size: var(--step--1-0);
 
-    ul {
+    @media not (min-width: $breakpoint-m) {
+      padding-block: space.$m;
+      padding-inline: 0;
+
+      & > li:first-child {
+        padding-left: space.$m;
+      }
+
+      & > li:last-child {
+        padding-right: space.$m;
+      }
+    }
+
+    @media (min-width: $breakpoint-m) {
+      padding-inline: space.$m;
+
+      flex-direction: column;
+      gap: space.$m;
+    }
+  }
+
+  & > ul ul {
+    display: none;
+
+    @media (min-width: $breakpoint-m) {
+      list-style: none;
+
+      display: flex;
+      flex-direction: column;
+      gap: space.$xxs;
+
       color: $color-theme-lighter-3;
       font-size: var(--step--1);
+
+      margin-block: space.$xxs space.$m;
+      padding-inline-start: space.$xl;
     }
   }
 
   a:link,
   a:visited {
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: space.$xxs;
+
     color: currentColor;
     text-decoration: none;
 
@@ -32,7 +110,6 @@ nav {
   a:focus,
   a:active {
     color: $color-theme-lighter-3;
-    // text-decoration-line: underline;
     span {
       text-decoration-color: $color-theme-lighter-3;
     }
@@ -41,7 +118,6 @@ nav {
   .current {
     > a:link,
     > a:visited {
-      // text-decoration-line: underline;
       span {
         text-decoration-color: $color-theme-lighter-2;
       }
