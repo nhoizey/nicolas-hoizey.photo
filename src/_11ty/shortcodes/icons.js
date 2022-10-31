@@ -34,6 +34,7 @@ const ICONS = {
   download: { name: 'download', source: 'feather' },
   feeds: { name: 'rss', source: 'feather' },
   twitter: { name: 'twitter', source: 'feather' },
+  mastodon: { name: 'mastodon', source: 'simple' },
   eleventy: { name: 'eleventy', source: 'simple' },
   flickr: { name: 'flickr', source: 'simple' },
   unsplash: { name: 'unsplash', source: 'simple' },
