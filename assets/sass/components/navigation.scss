@@ -1,5 +1,6 @@
 @use '../variables' as *;
 @use '../tokens/space';
+@use 'sass:color';
 
 nav {
   @media not (min-width: $breakpoint-m) {
@@ -9,20 +10,28 @@ nav {
 
     // Scroll shadows
     // https://lea.verou.me/2012/04/background-attachment-local/
-    // background:
-    //   linear-gradient(90deg, $color-header 33%, rgba(0, 0, 0, 0)),
-    //   linear-gradient(90deg, rgba(0, 0, 0, 0), $color-header 66%) 0 100%,
-    //   radial-gradient(farthest-side at 0 50%, rgba(255, 255, 255, .5), transparent),
-    //   radial-gradient(farthest-side at 100% 50%, rgba(255, 255, 255, .5), transparent) 0 100%;
-    // background-position-x: 0%, 0px, 0%, 0px;
-    // background-position-y: 0%, 100%, 0%, 100%;
-    // background-repeat: repeat, repeat, repeat, repeat;
-    // background-attachment: scroll, scroll, scroll, scroll;
-    // background-size: auto, auto, auto, auto;
-    // background-repeat: no-repeat;
-    // background-size: 20px 100%, 20px 100%, 10px 100%, 10px 100%;
-    // background-position: 0 0, 100%, 0 0, 100%;
-    // background-attachment: local, local, scroll, scroll;
+    background: linear-gradient(
+        90deg,
+        $color-header 33%,
+        color.change($color-header, $alpha: 0)
+      ),
+      linear-gradient(
+          90deg,
+          color.change($color-header, $alpha: 0),
+          $color-header 66%
+        )
+        0 100%,
+      radial-gradient(farthest-side at 0 50%, rgba(0, 0, 0, 0.5), transparent),
+      radial-gradient(
+          farthest-side at 100% 50%,
+          rgba(0, 0, 0, 0.5),
+          transparent
+        )
+        0 100%;
+    background-repeat: no-repeat;
+    background-size: 20px 100%, 20px 100%, 10px 100%, 10px 100%;
+    background-position: 0 0, 100%, 0 0, 100%;
+    background-attachment: local, local, scroll, scroll;
 
     // Hide the scrollbar
     scrollbar-width: none;
