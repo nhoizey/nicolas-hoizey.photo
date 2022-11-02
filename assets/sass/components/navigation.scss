@@ -3,7 +3,7 @@
 @use 'sass:color';
 
 nav {
-  @media not (min-width: $breakpoint-m) {
+  @media not all and (min-width: $breakpoint-m) {
     overflow-x: auto;
     -webkit-overflow-scrolling: auto;
     overflow-y: hidden;
@@ -58,16 +58,15 @@ nav {
 
     font-size: var(--step--1-0);
 
-    @media not (min-width: $breakpoint-m) {
-      padding-block: space.$m;
-      padding-inline: 0;
+    @media not all and (min-width: $breakpoint-m) {
+      padding: space.$m 0;
 
       & > li:first-child {
-        padding-left: space.$m;
+        padding-inline-start: space.$m;
       }
 
       & > li:last-child {
-        padding-right: space.$m;
+        padding-inline-end: space.$m;
       }
     }
 
