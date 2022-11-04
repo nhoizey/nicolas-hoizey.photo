@@ -46,12 +46,12 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
       .then(() => true)
       .catch(() => false);
     if (fileExists) {
-      const lastModified = await fs.stat(file).then((stats) => stats.mtimeMs);
-      const ageInDays = (new Date().getTime() - lastModified) / ONE_DAY_IN_MS;
-      if (resourcePath.match(/^photos\//) || ageInDays < 14) {
-        // Renew galleries' opengraph images after 14 days
-        return;
-      }
+      // const lastModified = await fs.stat(file).then((stats) => stats.mtimeMs);
+      // const ageInDays = (new Date().getTime() - lastModified) / ONE_DAY_IN_MS;
+      // if (resourcePath.match(/^photos\//) || ageInDays < 14) {
+      // Renew galleries' opengraph images after 14 days
+      return;
+      // }
     }
 
     const opengraphUrl = `http://localhost:8080/${resourcePath}/opengraph.html`;
