@@ -13,10 +13,10 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 (async () => {
   const cluster = await Cluster.launch({
     concurrency: Cluster.CONCURRENCY_BROWSER,
-    maxConcurrency: 3,
+    maxConcurrency: 5,
     workerCreationDelay: 1000,
-    retryLimit: 3,
-    retryDelay: 5000,
+    retryLimit: 5,
+    retryDelay: 10000,
     timeout: 50000,
     monitor: true,
     puppeteer: puppeteer,
