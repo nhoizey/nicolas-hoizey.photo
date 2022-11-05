@@ -116,6 +116,20 @@ svg.icon {
   }
 }
 
+.photo {
+  .frame {
+    padding: 1px;
+    background-color: black;
+    border: 2px solid white;
+
+    img {
+      display: block;
+      max-width: 814px;
+      max-height: 550px;
+    }
+  }
+}
+
 .gallery {
   width: 100%;
   display: grid;

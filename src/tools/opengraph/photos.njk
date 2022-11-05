@@ -11,41 +11,47 @@ eleventyComputed:
   title: opengraph image for “{{ photo.title }}”
 permalink: /photos/{{ photo.fileSlug }}/opengraph.html
 ---
-{%- set dimensions = photo.data.origin.data.dimensions %}
 {%- set geo = photo.data.origin.data.geo %}
 {%- set colors = photo.data.origin.data.colors %}
-{%- set photoUrl = 'https://nicolas-hoizey.photo' + '/photos/' + photo.fileSlug + '/' + photo.fileSlug + '.jpg' %}
-{%- if dimensions.width < dimensions.height %}
-  {%- set resize = 'h_550' %}
-{%- else %}
-  {%- set resize = 'w_820' %}
-{%- endif %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>opengraph image</title>
+    <title>opengraph image for “{{ photo.title }}”</title>
     <link rel="stylesheet" href="/ui/css/components/opengraph.css" />
+    <style>
+      #opengraph {
+        background-color: #{{ colors.darkMuted | bgcolor }};
+      }
+
+      .title h1 {
+        {% set titleLength = photo.data.title | length %}
+        --adaptive-font: {{ 45 - titleLength / 8 }}px;
+      }
+
+      .icon {
+        color: #{{ colors.darkMuted | fgcolor }};
+      }
+    </style>
   </head>
 
   <body>
-    <div id="opengraph" class="photo" style="background-color: #{{ colors.darkMuted | bgcolor }}">
+    <div id="opengraph" class="photo">
       <div class="meta">
         <div class="title">
-          {% set titleLength = photo.data.title | length %}
-          <h1 style="--adaptive-font: {{ 45 - titleLength / 8 }}px">{{ photo.data.title }}</h1>
+          <h1>{{ photo.data.title }}</h1>
           {% if geo.city or geo.country %}
             <table class="geo">
               {% if geo.city %}
                 <tr class="city">
-                  <td style="color: #{{ colors.darkMuted | fgcolor }}">{% icon 'map' %}</td>
+                  <td class="icon">{% icon 'map' %}</td>
                   <td>{{ geo.city }}</td>
                 </tr>
               {% endif %}
               {% if geo.country %}
                 <tr class="country">
-                  <td style="color: #{{ colors.darkMuted | fgcolor }}">{% icon 'travels' %}</td>
+                  <td class="icon">{% icon 'travels' %}</td>
                   <td>{{ geo.country }}</td>
                 </tr>
               {% endif %}
@@ -55,7 +61,9 @@ permalink: /photos/{{ photo.fileSlug }}/opengraph.html
         <img class="logo" src="/ui/logo.svg" alt="Nicolas Hoizey photography" />
       </div>
       <div class="content">
-        <img class="photo" src="https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_814,h_544,c_limit/bo_1px_solid_black/bo_2px_solid_white/{{ photoUrl }}" data-responsiver="false" />
+        <div class="frame">
+          <img src="/photos/{{ photo.fileSlug }}/feed.jpg" data-responsiver="false" />
+        </div>
       </div>
     </div>
   </body>
