@@ -1,6 +1,6 @@
 ---
-title: « Once Upon A Time In The West », the arch from Texas Hollywoo
-file: once-upon-a-time-in-the-west-the-arch-from-texas-hollywoo.jpg
+title: The arch from "Once Upon A Time In The West" in Texas Hollywood
+file: the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood.jpg
 date: 2004-09-29 11:09:00 +01:00
 dates:
   iso: 2004-09-29
