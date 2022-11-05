@@ -72,6 +72,7 @@ dimensions:
 geo:
   latitude: 43.405479721666666
   longitude: -2.6969613883333334
+  map: true
   country: Espagne
   city: Mundaka
 colors:
