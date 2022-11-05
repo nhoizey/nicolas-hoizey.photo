@@ -68,6 +68,7 @@ dimensions:
 geo:
   latitude: 43.32136583333333
   longitude: -2.0086947216666666
+  map: true
   country: Espagne
   city: Saint-Sébastien
 colors:
