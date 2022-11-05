@@ -148,6 +148,23 @@ svg.icon {
   &.gallery_8,
   &.gallery_9 {
     grid-template-columns: repeat(3, 245px);
+
+    .frame {
+      width: 245px;
+      height: 183px;
+    }
+  }
+
+  .frame {
+    padding: 1px;
+    background-color: black;
+    border: 2px solid white;
+
+    img {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+    }
   }
 }
 
