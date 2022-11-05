@@ -41,7 +41,6 @@ permalink: "{{ gallery.filePathStem | dirname }}/opengraph.html"
         {% set nb = photos_below | length %}
         <div class="gallery gallery_{{ nb }}">
         {% for photo in photos_below %}
-          {%- set dimensions = photo.data.origin.data.dimensions %}
           <div class="frame">
             <img class="photo" src="/photos/{{ photo.fileSlug }}/feed.jpg" width="820" height="549" data-responsiver="false" />
           </div>
