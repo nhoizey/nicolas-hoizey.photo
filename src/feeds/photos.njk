@@ -18,7 +18,7 @@ eleventyExcludeFromCollections: true
   </author>
   {% for entry in collections.unique_photos | limit(20) %}
     {% set absoluteEntryUrl %}{{ entry.url | url | absoluteUrl(site.url) }}{% endset %}
-    {% set photoUrl = 'https://nicolas-hoizey.photo/photos/' + entry.fileSlug + '/feed.jpg' %}
+    {% set photoUrl = 'https://nicolas-hoizey.photo/photos/' + entry.fileSlug + '/small.jpg' %}
     <entry>
       <title>{{ entry.data.title }}</title>
       <link href="{{ absoluteEntryUrl }}"/>

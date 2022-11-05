@@ -22,7 +22,7 @@ const SRC =
 const DIST = './src/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
 const DIFFS = path.join(SRC, '_temp_diffs');
-const FEED_THUMBNAIL_PIXELS = 750 * 500;
+const SMALL_VERSION_PIXELS = 900 * 600;
 
 const CLEAN_GEAR = {
   cameras: {
@@ -476,10 +476,10 @@ ${photoDescription}
     fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
 
     // Generate thumbnail for Atom feed
-    const feedThumbnail = path.join(distDir, 'feed.jpg');
-    if (!fs.existsSync(feedThumbnail)) {
+    const smallVersion = path.join(distDir, 'small.jpg');
+    if (!fs.existsSync(smallVersion)) {
       let ratio = photoYFM.dimensions.width / photoYFM.dimensions.height;
-      let targetHeight = Math.sqrt(FEED_THUMBNAIL_PIXELS / ratio);
+      let targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
       let targetWidth = ratio * targetHeight;
 
       sharp(photoPath)
@@ -489,7 +489,7 @@ ${photoDescription}
           fit: sharp.fit.inside,
         })
         .jpeg({ quality: 80 })
-        .toFile(feedThumbnail, function (err) {
+        .toFile(smallVersion, function (err) {
           if (err) {
             thisLog(`Error while creating feed thumbnail for ${slug}`, err);
           }

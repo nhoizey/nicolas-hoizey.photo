@@ -116,12 +116,14 @@ svg.icon {
   }
 }
 
+.frame {
+  padding: 1px;
+  background-color: black;
+  border: 2px solid white;
+}
+
 .photo {
   .frame {
-    padding: 1px;
-    background-color: black;
-    border: 2px solid white;
-
     img {
       display: block;
       max-width: 814px;
@@ -136,10 +138,20 @@ svg.icon {
   grid-template-columns: repeat(1, 820px);
   gap: 20px;
 
+  .frame {
+    width: 820px;
+    height: 549px;
+  }
+
   &.gallery_2,
   &.gallery_3,
   &.gallery_4 {
     grid-template-columns: repeat(2, 385px);
+
+    .frame {
+      width: 385px;
+      height: 258px;
+    }
   }
 
   &.gallery_5,
@@ -156,10 +168,6 @@ svg.icon {
   }
 
   .frame {
-    padding: 1px;
-    background-color: black;
-    border: 2px solid white;
-
     img {
       object-fit: cover;
       width: 100%;
