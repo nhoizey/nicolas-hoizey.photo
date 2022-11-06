@@ -108,9 +108,7 @@ nav {
     text-decoration: none;
 
     span {
-      text-decoration-line: underline;
-      text-decoration-color: $color-header;
-      text-decoration-thickness: 2px;
+      text-decoration-line: none;
     }
   }
 
@@ -119,7 +117,9 @@ nav {
   a:active {
     color: $color-theme-lighter-3;
     span {
+      text-decoration-line: underline;
       text-decoration-color: $color-theme-lighter-3;
+      text-decoration-thickness: 2px;
     }
   }
 
@@ -127,7 +127,9 @@ nav {
     > a:link,
     > a:visited {
       span {
+        text-decoration-line: underline;
         text-decoration-color: $color-theme-lighter-2;
+        text-decoration-thickness: 2px;
       }
     }
   }
