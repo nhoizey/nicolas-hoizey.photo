@@ -1,20 +1,6 @@
-@use './tokens/colors';
-@use 'sass:math';
-
 /* ********************************************
   * VARIABLES
   * ********************************************/
 
 $gap: 1.5rem;
 $line-height: 1.7;
-
-$link-color: colors.$brand-400;
-$link-color-decoration: colors.$brand-200;
-
-$link-hover-color: colors.$brand-100;
-$link-hover-color-decoration: colors.$brand-600;
-
-$transition-timing: 0.2s;
-
-$diaporama-timing: 10s;
-$diaporama-scale: 1.1;

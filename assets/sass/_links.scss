@@ -1,4 +1,3 @@
-@use './variables' as *;
 @use './tokens/colors';
 
 /* ********************************************
@@ -8,11 +7,11 @@
 a:link,
 a:visited {
   color: white;
-  text-decoration-color: var(--ambiant-foreground, #{colors.$brand-400});
+  text-decoration-color: var(--ambiant-foreground, #{colors.$link});
   text-decoration-thickness: 2px;
 
   transition-property: text-decoration-color;
-  transition-duration: $transition-timing;
+  transition-duration: 0.1s;
   transition-timing-function: ease-in-out;
 
   // https://twitter.com/argyleink/status/1405881231695302659
@@ -23,5 +22,5 @@ a:hover,
 a:focus,
 a:active {
   color: white;
-  text-decoration-color: colors.$brand-500;
+  text-decoration-color: colors.$link-hover;
 }
