@@ -12,7 +12,7 @@
     {% set imageFile = item.data.page.fileSlug %}
   {% else %}
     {# Prevent loading the huge image in development #}
-    {% set imageFile = 'feed' %}
+    {% set imageFile = 'small' %}
   {% endif %}
 
   <figure>
