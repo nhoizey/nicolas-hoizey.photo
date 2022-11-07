@@ -1,4 +1,5 @@
 @use '../variables' as *;
+@use '../tokens/colors';
 // @use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 
 #map {
@@ -63,18 +64,18 @@
 
 @keyframes marker-shadow-pulse {
   0% {
-    box-shadow: 0 0 0 0 $color-theme;
+    box-shadow: 0 0 0 0 colors.$theme;
     opacity: 0.5;
   }
 
   95% {
-    box-shadow: 0 0 0 24px $color-theme;
+    box-shadow: 0 0 0 24px colors.$theme;
     opacity: 0;
   }
 
   // hack just for Safari… 😭
   100% {
-    box-shadow: 0 0 0 0 $color-theme;
+    box-shadow: 0 0 0 0 colors.$theme;
     opacity: 0;
   }
 }

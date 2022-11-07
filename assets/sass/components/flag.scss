@@ -1,18 +1,19 @@
 @use '../variables' as *;
-@use '../tokens/space';
+@use '../tokens/spaces';
+@use '../tokens/breakpoints';
 
 .flag {
   display: block;
   width: 50%;
   height: auto;
 
-  margin: space.$m auto;
+  margin: spaces.$m auto;
 
-  @media (min-width: $breakpoint-xs) {
+  @media (min-width: breakpoints.$s) {
     width: 30%;
     max-width: 15rem;
 
     float: right;
-    margin: 0 0 space.$l space.$l;
+    margin: 0 0 spaces.$l spaces.$l;
   }
 }

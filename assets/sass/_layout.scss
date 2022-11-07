@@ -1,5 +1,7 @@
 @use './variables' as *;
-@use './tokens/space';
+@use './tokens/spaces';
+@use './tokens/breakpoints';
+@use './tokens/colors';
 
 /* ********************************************
 * LAYOUT
@@ -13,7 +15,7 @@ body {
   display: flex;
   flex-direction: column;
 
-  @media (min-width: $breakpoint-m) {
+  @media (min-width: breakpoints.$m) {
     flex-direction: row;
   }
 }
@@ -22,16 +24,16 @@ header {
   position: relative;
   z-index: 50; // to get the shadow above the map
 
-  background-color: $color-header;
+  background-color: colors.$header;
   border-bottom: 2px solid #111;
   box-shadow: 0px 0px 2rem 0.1rem rgba(0, 0, 0, 0.5);
 
-  @media (min-width: $breakpoint-m) {
+  @media (min-width: breakpoints.$m) {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 
-    gap: space.$xl;
+    gap: spaces.$xl;
 
     border-bottom: none;
     border-right: 2px solid #111;
@@ -44,7 +46,7 @@ header {
   display: flex;
   flex-direction: column;
 
-  @media (min-width: $breakpoint-m) {
+  @media (min-width: breakpoints.$m) {
     min-height: var(--full-height);
   }
 }
@@ -52,13 +54,13 @@ header {
 main {
   position: relative;
 
-  padding: space.$m;
+  padding: spaces.$m;
   flex-grow: 1;
 
-  background-color: var(--ambiant-background, #{$color-surface});
+  background-color: var(--ambiant-background, #{colors.$surface});
 
-  @media (min-width: $breakpoint-m) {
-    padding-inline: space.$xxl;
+  @media (min-width: breakpoints.$m) {
+    padding-inline: spaces.$xxl;
   }
 }
 

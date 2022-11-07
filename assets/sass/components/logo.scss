@@ -1,13 +1,15 @@
 @use '../variables' as *;
-@use '../tokens/space';
+@use '../tokens/spaces';
+@use '../tokens/breakpoints';
+@use '../tokens/colors';
 
 /* ********************************************
 * LOGO
 * ********************************************/
 
 .sitelogo {
-  margin-block: space.$m 0;
-  margin-inline: space.$m;
+  margin-block: spaces.$m 0;
+  margin-inline: spaces.$m;
 
   h1,
   a:link {
@@ -19,7 +21,7 @@
     font-size: 1em;
     line-height: 1;
 
-    color: $color-header;
+    color: colors.$header;
     text-decoration: none;
   }
 
@@ -29,7 +31,7 @@
     height: calc(var(--logo-wide) / 9);
     aspect-ratio: 9 / 1;
 
-    @media (min-width: $breakpoint-m) {
+    @media (min-width: breakpoints.$m) {
       width: var(--logo-square);
       max-width: var(--logo-square);
       height: var(--logo-square);

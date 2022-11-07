@@ -1,10 +1,12 @@
 @use '../variables' as *;
-@use '../tokens/space';
+@use '../tokens/spaces';
+@use '../tokens/breakpoints';
+@use '../tokens/colors';
 @use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 @use '../../../node_modules/mapbox-gl-style-switcher/styles.css';
 
 .map {
-  @media (min-width: $breakpoint-m) {
+  @media (min-width: breakpoints.$m) {
     // For when the map is bellow the header
     .header {
       position: absolute;
@@ -22,38 +24,38 @@
 }
 
 #map {
-  margin-inline: -(space.$m);
+  margin-inline: -(spaces.$m);
   width: 100vw;
 
   // = Full height: 100dvh
-  // - body padding: space.$m
+  // - body padding: spaces.$m
   // - logo: calc(var(--logo-wide) / 9)
-  // - header gap: space.$m
+  // - header gap: spaces.$m
   // - navigation: $line-height * var(--step-0)
-  // - page gap: space.$xl
+  // - page gap: spaces.$xl
   // - breadcrumb: $line-height * var(--step--1)
   // - title: 1.2 * var(--step-3)
-  // - 2 grid gaps: 2 * space.$s
+  // - 2 grid gaps: 2 * spaces.$s
   height: calc(
-    var(--full-height) - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} -
-      #{$line-height} * var(--step-0) - #{space.$xl} - #{$line-height} * var(
+    var(--full-height) - #{spaces.$m} - calc(var(--logo-wide) / 9) - #{spaces.$m} -
+      #{$line-height} * var(--step-0) - #{spaces.$xl} - #{$line-height} * var(
         --step--1
-      ) - 1.2 * var(--step-4) - 2 * #{space.$s}
+      ) - 1.2 * var(--step-4) - 2 * #{spaces.$s}
   );
 
-  @media (min-width: $breakpoint-m) {
+  @media (min-width: breakpoints.$m) {
     position: relative;
-    top: -(space.$m);
-    left: -(space.$xxl);
+    top: -(spaces.$m);
+    left: -(spaces.$xxl);
     margin-inline: 0;
-    width: calc(100% + space.$xxl * 2);
+    width: calc(100% + spaces.$xxl * 2);
     height: var(--full-height);
 
     z-index: 10;
 
     .mapboxgl-ctrl-top-right {
-      top: space.$xxl;
-      right: space.$xxl;
+      top: spaces.$xxl;
+      right: spaces.$xxl;
     }
   }
 
@@ -62,8 +64,8 @@
   }
 
   .mapboxgl-popup-content {
-    background-color: $color-surface;
-    width: calc(200px + 2px + 2 * space.$xxxs);
+    background-color: colors.$surface;
+    width: calc(200px + 2px + 2 * spaces.$xxxs);
 
     img {
       border: 1px solid #fff;
@@ -71,7 +73,7 @@
   }
 
   .mapboxgl-popup-photos {
-    padding: space.$xxxs;
+    padding: spaces.$xxxs;
     max-height: 300px;
     overflow-y: scroll;
 
@@ -80,23 +82,23 @@
     }
 
     p + p {
-      margin-block-start: space.$s;
+      margin-block-start: spaces.$s;
     }
   }
 
   .mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
-    border-right-color: $color-surface;
+    border-right-color: colors.$surface;
   }
 
   .mapboxgl-popup-anchor-right .mapboxgl-popup-tip {
-    border-left-color: $color-surface;
+    border-left-color: colors.$surface;
   }
 
   .mapboxgl-popup-anchor-bottom-left,
   .mapboxgl-popup-anchor-bottom-right,
   .mapboxgl-popup-anchor-bottom {
     .mapboxgl-popup-tip {
-      border-top-color: $color-surface;
+      border-top-color: colors.$surface;
     }
   }
 
@@ -104,7 +106,7 @@
   .mapboxgl-popup-anchor-top-right,
   .mapboxgl-popup-anchor-top {
     .mapboxgl-popup-tip {
-      border-bottom-color: $color-surface;
+      border-bottom-color: colors.$surface;
     }
   }
 

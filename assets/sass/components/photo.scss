@@ -1,5 +1,7 @@
 @use '../variables' as *;
-@use '../tokens/space';
+@use '../tokens/spaces';
+@use '../tokens/breakpoints';
+@use '../tokens/colors';
 @use '../every_layout/sidebar' as *;
 @use '../every_layout/switcher' as *;
 
@@ -8,7 +10,7 @@
   --height: auto;
 
   display: grid;
-  gap: space.$s space.$xl;
+  gap: spaces.$s spaces.$xl;
 
   grid-template-areas:
     'header'
@@ -68,7 +70,7 @@
     justify-self: start;
     align-self: end;
     font-size: var(--step--1);
-    color: $color-theme-lighter-2;
+    color: colors.$theme-lighter-2;
 
     a:link,
     a:visited {
@@ -77,28 +79,28 @@
       padding: 0 0.4rem;
       border-radius: 1rem;
       background-color: var(--ambiant-foreground, #{$color-text});
-      color: var(--ambiant-background, #{$color-surface});
+      color: var(--ambiant-background, #{colors.$surface});
       text-decoration: none;
     }
 
     a:hover,
     a:active {
-      background-color: $color-theme-darker-1;
-      color: $color-theme-lighter-3;
+      background-color: colors.$theme-darker-1;
+      color: colors.$theme-lighter-3;
     }
   }
 
-  @media (min-width: $breakpoint-m) {
+  @media (min-width: breakpoints.$m) {
     // Make the image fully visible on load without scrolling
     // = Full height
-    // - body padding: space.$m
+    // - body padding: spaces.$m
     // - breadcrumb: $line-height * var(--step--1)
     // - title: 1.2 * var(--step-4)
-    // - 2 grid gaps: 2 * space.$s
+    // - 2 grid gaps: 2 * spaces.$s
     --base: var(--full-height);
     --height: calc(
-      var(--base) - #{space.$m} - #{$line-height} * var(--step--1) - 1.2 *
-        var(--step-4) - 2 * #{space.$s}
+      var(--base) - #{spaces.$m} - #{$line-height} * var(--step--1) - 1.2 *
+        var(--step-4) - 2 * #{spaces.$s}
     );
     --width: calc(var(--height) * var(--ratio));
 
@@ -107,7 +109,7 @@
     }
   }
 
-  @media (min-width: $breakpoint-l) {
+  @media (min-width: breakpoints.$l) {
     grid-template-areas:
       'header header'
       'photo photo'
@@ -119,35 +121,35 @@
   &.portrait {
     // Make the image fully visible on load without scrolling
     // = Full height: 100dvh
-    // - body padding: space.$m
+    // - body padding: spaces.$m
     // - logo: calc(var(--logo-wide) / 9)
-    // - header gap: space.$m
+    // - header gap: spaces.$m
     // - navigation: $line-height * var(--step-0)
-    // - page gap: space.$xl
+    // - page gap: spaces.$xl
     // - breadcrumb: $line-height * var(--step--1)
     // - title: 1.2 * var(--step-3)
-    // - 2 grid gaps: 2 * space.$s
+    // - 2 grid gaps: 2 * spaces.$s
     --height: calc(
-      var(--full-height) - #{space.$m} - calc(var(--logo-wide) / 9) - #{space.$m} -
-        #{$line-height} * var(--step-0) - #{space.$xl} - #{$line-height} * var(
+      var(--full-height) - #{spaces.$m} - calc(var(--logo-wide) / 9) - #{spaces.$m} -
+        #{$line-height} * var(--step-0) - #{spaces.$xl} - #{$line-height} * var(
           --step--1
-        ) - 1.2 * var(--step-4) - 2 * #{space.$s}
+        ) - 1.2 * var(--step-4) - 2 * #{spaces.$s}
     );
     --width: calc(var(--height) * var(--ratio));
 
-    @media (min-width: $breakpoint-m) {
+    @media (min-width: breakpoints.$m) {
       // = Full height: 100dvh
-      // - body padding: space.$m
+      // - body padding: spaces.$m
       // - breadcrumb: $line-height * var(--step--1)
       // - title: 1.2 * var(--step-3)
-      // - 2 grid gaps: 2 * space.$s
+      // - 2 grid gaps: 2 * spaces.$s
       --height: calc(
-        var(--full-height) - #{space.$m} - #{$line-height} * var(--step--1) -
-          1.2 * var(--step-4) - 2 * #{space.$s}
+        var(--full-height) - #{spaces.$m} - #{$line-height} * var(--step--1) -
+          1.2 * var(--step-4) - 2 * #{spaces.$s}
       );
     }
 
-    @media (min-width: $breakpoint-l) {
+    @media (min-width: breakpoints.$l) {
       grid-template-areas:
         'header header'
         'photo description'
@@ -161,7 +163,7 @@
     }
 
     @media (min-aspect-ratio: 2) {
-      // --height: calc(100dvh - 2 * #{space.$m});
+      // --height: calc(100dvh - 2 * #{spaces.$m});
       // --width: auto;
     }
   }
@@ -189,7 +191,7 @@
     max-width: 20rem;
 
     display: grid;
-    gap: space.$s;
+    gap: spaces.$s;
     grid-template-columns: 1fr 1fr 1fr;
 
     .date,
@@ -218,7 +220,7 @@
 
 @media (horizontal-viewport-segments: 2) {
   main {
-    padding-inline: space.$m;
+    padding-inline: spaces.$m;
   }
 
   .photo {
@@ -227,20 +229,20 @@
       'meta photo'
       'meta description'
       'meta tags';
-    grid-template-columns: 1fr calc(var(--right-pane-width) - #{space.$m});
+    grid-template-columns: 1fr calc(var(--right-pane-width) - #{spaces.$m});
     column-gap: var(--hinge-width);
 
-    --width: calc(var(--right-pane-width) - 2 * #{space.$m});
+    --width: calc(var(--right-pane-width) - 2 * #{spaces.$m});
 
     .image,
     .description,
     .tags {
-      margin-inline-start: space.$m;
+      margin-inline-start: spaces.$m;
     }
 
     .header,
     .meta {
-      margin-inline-end: space.$m;
+      margin-inline-end: spaces.$m;
     }
 
     h1 {

@@ -1,5 +1,6 @@
 @use '../variables' as *;
-@use '../tokens/space';
+@use '../tokens/spaces';
+@use '../tokens/breakpoints';
 
 /* ********************************************
 * GALLERIES
@@ -16,7 +17,7 @@
 
   align-items: end;
 
-  @media (min-width: $breakpoint-m) {
+  @media (min-width: breakpoints.$m) {
     > :first-child {
       grid-column: span 2;
       grid-row: span 2;

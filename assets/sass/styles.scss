@@ -4,7 +4,8 @@
 @use './layout';
 @use './links';
 @use './components/meta';
-@use './tokens/space';
+@use './tokens/spaces';
+@use './tokens/colors';
 
 :root {
   /* ********************************************
@@ -43,7 +44,7 @@ html {
   scrollbar-gutter: stable;
 
   // https://twitter.com/bramus/status/1452578879353278464
-  background-color: $color-surface;
+  background-color: colors.$surface;
 }
 
 *,
@@ -64,7 +65,7 @@ html {
 }
 
 body {
-  background-color: $color-surface;
+  background-color: colors.$surface;
   color: $color-text;
 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
@@ -80,7 +81,7 @@ main {
 }
 
 section {
-  margin-block-start: space.$xxl;
+  margin-block-start: spaces.$xxl;
 }
 
 p {
@@ -103,7 +104,7 @@ h6 {
 }
 
 .welcome {
-  margin-block-start: space.$m;
+  margin-block-start: spaces.$m;
 }
 
 .page__title {
@@ -125,12 +126,12 @@ h2 {
 
 h3 {
   font-size: var(--step-2);
-  margin-block-start: space.$xxxl;
+  margin-block-start: spaces.$xxxl;
 }
 
 h4 {
   font-size: var(--step-1);
-  margin: space.$xl 0 space.$s;
+  margin: spaces.$xl 0 spaces.$s;
 }
 
 /* ********************************************
@@ -153,7 +154,7 @@ svg.icon {
 
   * {
     vector-effect: non-scaling-stroke;
-    stroke: var(--ambiant-foreground, #{$color-theme-lighter-3});
+    stroke: var(--ambiant-foreground, #{colors.$theme-lighter-3});
   }
 }
 
@@ -167,11 +168,11 @@ figure {
 
   display: flex;
   flex-direction: column;
-  gap: space.$s;
+  gap: spaces.$s;
 
   figcaption {
     line-height: 1.3;
-    padding: space.$xxxs;
+    padding: spaces.$xxxs;
   }
 
   a {
@@ -206,7 +207,7 @@ figure {
   margin-block: 0;
   padding-inline-start: 0;
   font-size: var(--step--1);
-  color: var(--ambiant-foreground, #{$color-theme-lighter-4});
+  color: var(--ambiant-foreground, #{colors.$theme-lighter-4});
 
   li {
     display: inline-block;
@@ -218,7 +219,7 @@ figure {
 
   a:link,
   a:visited {
-    color: var(--ambiant-foreground, #{$color-theme-lighter-3});
+    color: var(--ambiant-foreground, #{colors.$theme-lighter-3});
     text-decoration-line: none;
   }
 
@@ -236,7 +237,7 @@ blockquote {
   margin: 0;
 
   font-style: italic;
-  color: $color-theme-lighter-3;
+  color: colors.$theme-lighter-3;
 
   em,
   cite {
@@ -245,13 +246,13 @@ blockquote {
 
   cite {
     font-size: var(--step--1);
-    color: $color-theme-lighter-4;
+    color: colors.$theme-lighter-4;
   }
 }
 
 .logo {
   float: right;
-  margin: 0 0 space.$xl space.$xl;
+  margin: 0 0 spaces.$xl spaces.$xl;
   width: 30%;
   max-width: 200px;
 }

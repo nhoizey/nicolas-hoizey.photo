@@ -1,4 +1,5 @@
 @use './variables' as *;
+@use './tokens/colors';
 
 /* ********************************************
 * LINKS
@@ -7,7 +8,7 @@
 a:link,
 a:visited {
   color: white;
-  text-decoration-color: var(--ambiant-foreground, #{$color-theme-lighter-2});
+  text-decoration-color: var(--ambiant-foreground, #{colors.$theme-lighter-2});
   text-decoration-thickness: 2px;
 
   transition-property: text-decoration-color;
@@ -22,5 +23,5 @@ a:hover,
 a:focus,
 a:active {
   color: white;
-  text-decoration-color: $color-theme;
+  text-decoration-color: colors.$theme;
 }
