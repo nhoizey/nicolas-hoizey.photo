@@ -70,7 +70,7 @@
     justify-self: start;
     align-self: end;
     font-size: var(--step--1);
-    color: colors.$theme-lighter-2;
+    color: colors.$brand-400;
 
     a:link,
     a:visited {
@@ -78,15 +78,15 @@
       margin: 0.2rem;
       padding: 0 0.4rem;
       border-radius: 1rem;
-      background-color: var(--ambiant-foreground, #{$color-text});
+      background-color: var(--ambiant-foreground, #{colors.$text});
       color: var(--ambiant-background, #{colors.$surface});
       text-decoration: none;
     }
 
     a:hover,
     a:active {
-      background-color: colors.$theme-darker-1;
-      color: colors.$theme-lighter-3;
+      background-color: colors.$brand-500;
+      color: colors.$brand-300;
     }
   }
 

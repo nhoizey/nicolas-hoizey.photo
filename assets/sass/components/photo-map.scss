@@ -64,18 +64,18 @@
 
 @keyframes marker-shadow-pulse {
   0% {
-    box-shadow: 0 0 0 0 colors.$theme;
+    box-shadow: 0 0 0 0 colors.$brand-500;
     opacity: 0.5;
   }
 
   95% {
-    box-shadow: 0 0 0 24px colors.$theme;
+    box-shadow: 0 0 0 24px colors.$brand-500;
     opacity: 0;
   }
 
   // hack just for Safari… 😭
   100% {
-    box-shadow: 0 0 0 0 colors.$theme;
+    box-shadow: 0 0 0 0 colors.$brand-500;
     opacity: 0;
   }
 }

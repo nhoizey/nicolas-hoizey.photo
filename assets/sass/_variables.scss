@@ -8,13 +8,11 @@
 $gap: 1.5rem;
 $line-height: 1.7;
 
-$color-text: colors.$theme-lighter-5;
+$link-color: colors.$brand-400;
+$link-color-decoration: colors.$brand-200;
 
-$link-color: colors.$theme-lighter-2;
-$link-color-decoration: colors.$theme-lighter-4;
-
-$link-hover-color: colors.$theme-lighter-5;
-$link-hover-color-decoration: colors.$theme-darker-2;
+$link-hover-color: colors.$brand-100;
+$link-hover-color-decoration: colors.$brand-600;
 
 $transition-timing: 0.2s;
 

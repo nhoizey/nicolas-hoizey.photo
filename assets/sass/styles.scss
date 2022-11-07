@@ -66,7 +66,7 @@ html {
 
 body {
   background-color: colors.$surface;
-  color: $color-text;
+  color: colors.$text;
 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -154,7 +154,7 @@ svg.icon {
 
   * {
     vector-effect: non-scaling-stroke;
-    stroke: var(--ambiant-foreground, #{colors.$theme-lighter-3});
+    stroke: var(--ambiant-foreground, #{colors.$brand-300});
   }
 }
 
@@ -207,7 +207,7 @@ figure {
   margin-block: 0;
   padding-inline-start: 0;
   font-size: var(--step--1);
-  color: var(--ambiant-foreground, #{colors.$theme-lighter-4});
+  color: var(--ambiant-foreground, #{colors.$brand-200});
 
   li {
     display: inline-block;
@@ -219,7 +219,7 @@ figure {
 
   a:link,
   a:visited {
-    color: var(--ambiant-foreground, #{colors.$theme-lighter-3});
+    color: var(--ambiant-foreground, #{colors.$brand-300});
     text-decoration-line: none;
   }
 
@@ -237,7 +237,7 @@ blockquote {
   margin: 0;
 
   font-style: italic;
-  color: colors.$theme-lighter-3;
+  color: colors.$brand-300;
 
   em,
   cite {
@@ -246,7 +246,7 @@ blockquote {
 
   cite {
     font-size: var(--step--1);
-    color: colors.$theme-lighter-4;
+    color: colors.$brand-200;
   }
 }
 

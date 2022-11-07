@@ -22,8 +22,8 @@
 .meta__item {
   a:link,
   a:visited {
-    color: colors.$theme-lighter-1;
-    text-decoration-color: colors.$theme-lighter-2;
+    color: colors.$brand-400;
+    text-decoration-color: currentColor;
     text-decoration-thickness: 1px;
     padding: 0.2em 0.1em;
   }

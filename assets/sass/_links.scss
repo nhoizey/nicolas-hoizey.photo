@@ -8,7 +8,7 @@
 a:link,
 a:visited {
   color: white;
-  text-decoration-color: var(--ambiant-foreground, #{colors.$theme-lighter-2});
+  text-decoration-color: var(--ambiant-foreground, #{colors.$brand-400});
   text-decoration-thickness: 2px;
 
   transition-property: text-decoration-color;
@@ -23,5 +23,5 @@ a:hover,
 a:focus,
 a:active {
   color: white;
-  text-decoration-color: colors.$theme;
+  text-decoration-color: colors.$brand-500;
 }

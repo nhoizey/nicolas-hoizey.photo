@@ -22,7 +22,7 @@ footer {
   row-gap: spaces.$xl;
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 
-  color: colors.$theme-lighter-3;
+  color: colors.$brand-300;
 
   ul {
     padding: 0;
@@ -31,13 +31,13 @@ footer {
 
   a:link,
   a:visited {
-    color: colors.$theme-lighter-4;
+    color: colors.$brand-200;
     text-decoration-thickness: 1px;
   }
 
   a:hover,
   a:focus {
-    color: colors.$theme-lighter-5;
-    text-decoration-color: colors.$theme-lighter-2;
+    color: colors.$brand-100;
+    text-decoration-color: colors.$brand-400;
   }
 }

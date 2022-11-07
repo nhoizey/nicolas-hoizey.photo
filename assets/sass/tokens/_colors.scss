@@ -1,26 +1,25 @@
-/* Colors palette:
- * https://hihayk.github.io/scale/#5/5/95/95/0/0/0/0/663399/102/51/153/white
+/* Colors palette
+ * Old: https://hihayk.github.io/scale/#5/5/95/95/0/0/0/0/663399/102/51/153/white
  */
-$theme-darker-5: #050308;
-$theme-darker-4: #190c25;
-$theme-darker-3: #2c1642;
-$theme-darker-2: #3f205f;
-$theme-darker-1: #53297c;
-$theme: rebeccapurple; // #663399
-$theme-lighter-1: #835aac;
-$theme-lighter-2: #a081c0;
-$theme-lighter-3: #bda7d3;
-$theme-lighter-4: #dacee7;
-$theme-lighter-5: #f7f5fa;
+
+$brand-900: #050308;
+$brand-800: #190c25;
+$brand-700: #2c1642;
+$brand-600: #3f205f;
+$brand-500: rebeccapurple; // #663399
+$brand-400: #a081c0;
+$brand-300: #bda7d3;
+$brand-200: #dacee7;
+$brand-100: #f7f5fa;
 
 $surface: #292929;
 $header: #333;
-$color-text: $theme-lighter-5;
+$text: $brand-100;
 
 $meta: #ddd;
 
-$link-color: $theme-lighter-2;
-$link-color-decoration: $theme-lighter-4;
+$link-color: $brand-400;
+$link-color-decoration: $brand-200;
 
-$link-hover-color: $theme-lighter-5;
-$link-hover-color-decoration: $theme-darker-2;
+$link-hover-color: $brand-100;
+$link-hover-color-decoration: $brand-600;
