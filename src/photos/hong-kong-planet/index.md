@@ -1,7 +1,7 @@
 ---
 title: Hong Kong planet
 file: hong-kong-planet.jpg
-date: 2015-08-08 23:08:00 +02:00
+date: 2015-08-08 22:08:00 +01:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -9,9 +9,6 @@ tags:
   - Asia
   - Asie
   - Avenue of Stars
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - China
   - Chine
   - city
@@ -23,7 +20,6 @@ tags:
   - colour
   - colourful
   - couleur
-  - full frame
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
@@ -37,12 +33,10 @@ tags:
   - panoramique
   - polar
   - polar coordinates
-  - reflex
   - round
   - sphere
   - Tsim Sha Tsui
   - ville
-  - zoom
 dimensions:
   width: 3500
   height: 3500

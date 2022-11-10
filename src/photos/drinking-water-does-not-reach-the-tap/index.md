@@ -1,7 +1,7 @@
 ---
 title: Drinking water does not reach the tap
 file: drinking-water-does-not-reach-the-tap.jpg
-date: 2019-02-25 09:02:00 +02:00
+date: 2019-02-25 08:02:00 +01:00
 dates:
   iso: 2019-02-25
   human: 25th February 2019
@@ -15,20 +15,13 @@ gear:
 tags:
   - Africa
   - Afrique
-  - APS-C
   - bleu
   - blue
   - camion
   - eau
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Kenya
   - Kiambu County
   - Limuru
-  - prime
   - transportation
   - truck
   - vehicle

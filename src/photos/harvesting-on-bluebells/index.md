@@ -1,7 +1,7 @@
 ---
 title: Harvesting on bluebells
 file: harvesting-on-bluebells.jpg
-date: 2008-06-14 14:06:00 +02:00
+date: 2008-06-14 13:06:00 +01:00
 dates:
   iso: 2008-06-14
   human: 14th June 2008
@@ -18,13 +18,9 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - bee
   - bluebells
   - campanule
-  - Canon
-  - Canon EF 100mm f/2.8 Macro USM
-  - Canon EOS 350D
   - fleur
   - insect
   - insecte
@@ -32,9 +28,7 @@ tags:
   - insects
   - macro
   - plant
-  - prime
   - purple
-  - reflex
   - sauvage
   - végétal
   - violet

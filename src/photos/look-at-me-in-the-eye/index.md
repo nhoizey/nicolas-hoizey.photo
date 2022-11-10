@@ -1,7 +1,7 @@
 ---
 title: Look at me in the eye
 file: look-at-me-in-the-eye.jpg
-date: 2009-05-14 15:05:00 +02:00
+date: 2009-05-14 14:05:00 +01:00
 dates:
   iso: 2009-05-14
   human: 14th May 2009
@@ -20,9 +20,6 @@ tags:
   - Brest
   - Bretagne
   - Britany
-  - Canon
-  - Canon EF 100mm f/2.8 Macro USM
-  - Canon EOS 5D Mark II
   - Europa
   - Europe
   - eye
@@ -30,14 +27,11 @@ tags:
   - fish
   - fishes
   - France
-  - full frame
   - macro
   - Océanopolis
   - œil
   - poisson
   - Poissons
-  - prime
-  - reflex
 settings:
   focal_length: 100
   iso: 6400

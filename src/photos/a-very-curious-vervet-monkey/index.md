@@ -1,7 +1,7 @@
 ---
 title: A very curious Vervet monkey
 file: a-very-curious-vervet-monkey.jpg
-date: 2019-02-26 17:02:00 +02:00
+date: 2019-02-26 16:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -21,17 +21,9 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - Cercopithecidae
   - cercopithécidés
   - chlorocebus pygerythrus
-  - converter
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
@@ -53,7 +45,6 @@ tags:
   - vervet monkey
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

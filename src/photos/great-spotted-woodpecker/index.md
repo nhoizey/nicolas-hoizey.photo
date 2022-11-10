@@ -1,7 +1,7 @@
 ---
 title: Great Spotted Woodpecker
 file: great-spotted-woodpecker.jpg
-date: 2016-12-04 17:12:00 +02:00
+date: 2016-12-04 16:12:00 +01:00
 dates:
   iso: 2016-12-04
   human: 4th December 2016
@@ -14,7 +14,6 @@ gear:
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
 tags:
   - animal
-  - APS-C
   - arbre
   - bird
   - birds
@@ -22,12 +21,7 @@ tags:
   - Dendrocopos major
   - feuille
   - forêt
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - Great Spotted Woodpecker
-  - hybrid
   - oiseau
   - Oiseaux
   - Pic
@@ -39,7 +33,6 @@ tags:
   - tree
   - végétal
   - Woodpecker
-  - zoom
 settings:
   focal_length: 400
   focal_length_35mm: 600

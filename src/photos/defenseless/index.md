@@ -1,7 +1,7 @@
 ---
 title: Defenseless
 file: defenseless.jpg
-date: 2018-06-11 18:06:00 +02:00
+date: 2018-06-11 17:06:00 +01:00
 dates:
   iso: 2018-06-11
   human: 11th June 2018
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
 tags:
-  - APS-C
   - black
   - building
   - city
@@ -23,23 +22,16 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
   - Grande Arche de La Défense
   - gray
   - grey
   - gris
-  - hybrid
   - Ile de France
   - immeuble
   - La Défense
   - noir
   - ombre
-  - pancake
   - Paris
-  - prime
   - reflection
   - reflet
   - shadow

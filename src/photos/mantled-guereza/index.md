@@ -1,7 +1,7 @@
 ---
 title: Mantled guereza
 file: mantled-guereza.jpg
-date: 2019-02-27 19:02:00 +02:00
+date: 2019-02-27 18:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -23,23 +23,15 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - arbre
   - Cercopithecidae
   - cercopithécidés
   - colobe guéréza
   - colobus
   - colobus guereza
-  - converter
   - eastern black-and-white colobus
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
   - guéréza
   - guéréza du Kilimandjaro
-  - hybrid
   - Kenya
   - lac
   - Lac Nakuru
@@ -64,7 +56,6 @@ tags:
   - végétal
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 265.8
   focal_length_35mm: 399

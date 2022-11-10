@@ -1,7 +1,7 @@
 ---
 title: Not everyone is asleep yet
 file: not-everyone-is-asleep-yet.jpg
-date: 2017-05-12 20:05:00 +02:00
+date: 2017-05-12 19:05:00 +01:00
 dates:
   iso: 2017-05-12
   human: 12th May 2017
@@ -13,20 +13,13 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Italia
   - Italie
   - Italy
   - night
   - nuit
-  - prime
   - Roma
   - Rome
   - toit

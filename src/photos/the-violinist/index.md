@@ -1,7 +1,7 @@
 ---
 title: The Violinist
 file: the-violinist.jpg
-date: 2017-05-14 11:05:00 +02:00
+date: 2017-05-14 10:05:00 +01:00
 dates:
   iso: 2017-05-14
   human: 14th May 2017
@@ -13,14 +13,8 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - instrument
   - Italia
   - Italie
@@ -30,7 +24,6 @@ tags:
   - musicien
   - musique
   - pavé
-  - prime
   - Roma
   - Rome
   - violin

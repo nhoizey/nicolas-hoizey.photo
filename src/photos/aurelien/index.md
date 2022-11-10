@@ -1,7 +1,7 @@
 ---
 title: Aurélien
 file: aurelien.jpg
-date: 2016-01-26 22:01:00 +02:00
+date: 2016-01-26 21:01:00 +01:00
 dates:
   iso: 2016-01-26
   human: 26th January 2016
@@ -16,17 +16,11 @@ tags:
   - barbe
   - beard
   - brun
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - eye
-  - full frame
   - gros plan
   - homme
   - œil
   - portrait
-  - prime
-  - reflex
   - studio
   - visage
   - yeux

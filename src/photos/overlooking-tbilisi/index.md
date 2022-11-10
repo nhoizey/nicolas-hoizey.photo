@@ -1,7 +1,7 @@
 ---
 title: Overlooking Tbilisi
 file: overlooking-tbilisi.jpg
-date: 2018-08-13 13:08:00 +02:00
+date: 2018-08-13 12:08:00 +01:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -13,27 +13,20 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Caucase
   - Caucasia
   - Caucasus
   - Europa
   - Europe
   - fortress
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
-  - hybrid
   - Narikala
   - Narikala fortress
   - panorama
   - panoramic
   - panoramique
   - Tbilissi
-  - zoom
   - თბილისი
   - კავკასია
   - ნარიყალა

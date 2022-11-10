@@ -1,7 +1,7 @@
 ---
 title: Zémo Kalaki
 file: zemo-kalaki.jpg
-date: 2018-08-13 18:08:00 +02:00
+date: 2018-08-13 17:08:00 +01:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -13,21 +13,14 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Caucase
   - Caucasia
   - Caucasus
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
-  - hybrid
   - Tbilissi
-  - zoom
   - თბილისი
   - კავკასია
   - საქართველო

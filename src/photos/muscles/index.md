@@ -1,7 +1,7 @@
 ---
 title: Muscles
 file: muscles.jpg
-date: 2015-05-23 14:05:00 +02:00
+date: 2015-05-23 13:05:00 +01:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -15,7 +15,6 @@ tags:
   - blanc
   - Brooklyn
   - Challenger
-  - compact
   - Dodge
   - États-Unis
   - États-Unis d'Amérique
@@ -25,8 +24,6 @@ tags:
   - NYC
   - red
   - rouge
-  - Sony
-  - Sony RX100 Mark III
   - United States
   - United States of America
   - USA

@@ -1,7 +1,7 @@
 ---
 title: Layered symmetry
 file: layered-symmetry.jpg
-date: 2014-03-18 19:03:00 +02:00
+date: 2014-03-18 18:03:00 +01:00
 dates:
   iso: 2014-03-18
   human: 18th March 2014
@@ -17,12 +17,8 @@ tags:
   - Europe
   - France
   - Grande Arche de La Défense
-  - hybrid
   - Ile de France
   - La Défense
-  - Micro Four Thirds
-  - Panasonic
-  - Panasonic DMC-GM1
   - Paris
   - vitre
   - window

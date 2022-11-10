@@ -1,7 +1,7 @@
 ---
 title: On the dirt track again
 file: on-the-dirt-track-again.jpg
-date: 2019-03-02 13:03:00 +02:00
+date: 2019-03-02 12:03:00 +01:00
 dates:
   iso: 2019-03-02
   human: 2nd March 2019
@@ -17,21 +17,13 @@ tags:
   - Africa
   - Afrique
   - All-terrain
-  - APS-C
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kenya
   - Kinango
   - landscape
   - Mombasa
   - Mombasa County
-  - pancake
   - paysage
   - piste
-  - prime
   - road
   - route
   - terre

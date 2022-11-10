@@ -1,7 +1,7 @@
 ---
 title: Moroccan women picking wheat
 file: moroccan-women-picking-wheat.jpg
-date: 2011-05-06 11:05:00 +02:00
+date: 2011-05-06 10:05:00 +01:00
 dates:
   iso: 2011-05-06
   human: 6th May 2011
@@ -21,15 +21,11 @@ tags:
   - Aṭlas Ameẓyan
   - Aṭlas Mẓiyn
   - blé
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - cereal
   - céréales
   - child
   - enfant
   - femme
-  - full frame
   - igidar
   - igoudar
   - igudar
@@ -40,8 +36,6 @@ tags:
   - Maroc
   - Marocco
   - plant
-  - prime
-  - reflex
   - Souss-Massa
   - Triticum
   - végétal

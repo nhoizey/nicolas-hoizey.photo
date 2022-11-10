@@ -15,7 +15,6 @@ gear:
 tags:
   - action
   - amusement
-  - APS-C
   - baigneur
   - Basque Country
   - bateau
@@ -35,12 +34,7 @@ tags:
   - Europa
   - Europe
   - Euskadi
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 16-80mm f/4.0 R OIS WR
   - fun
-  - hybrid
   - jump
   - mer
   - Mundaca
@@ -59,7 +53,6 @@ tags:
   - Vizcaya
   - water
   - waterscape
-  - zoom
 settings:
   focal_length: 16.5
   focal_length_35mm: 25

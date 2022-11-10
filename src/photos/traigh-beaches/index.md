@@ -1,7 +1,7 @@
 ---
 title: Traigh beaches
 file: traigh-beaches.jpg
-date: 2014-05-01 12:05:00 +02:00
+date: 2014-05-01 11:05:00 +01:00
 dates:
   iso: 2014-05-01
   human: 1st May 2014
@@ -18,14 +18,11 @@ tags:
   - beach
   - bleu
   - blue
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - cloud
   - Écosse
   - Europa
   - Europe
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - Highland
@@ -35,7 +32,6 @@ tags:
   - nuage
   - paysage
   - plage
-  - reflex
   - rocher
   - rock
   - Royaume Uni
@@ -45,10 +41,10 @@ tags:
   - sand
   - Scotland
   - sea
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
-  - zoom
 settings:
   focal_length: 46
   iso: 200

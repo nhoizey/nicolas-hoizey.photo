@@ -1,7 +1,7 @@
 ---
 title: Calçada do Carmo
 file: calcada-do-carmo.jpg
-date: 2016-10-01 09:10:00 +02:00
+date: 2016-10-01 08:10:00 +01:00
 dates:
   iso: 2016-10-01
   human: 1st October 2016
@@ -14,18 +14,12 @@ gear:
       model: EF 24-70mm f/2.8L USM
 tags:
   - Baixa
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - Europa
   - Europe
-  - full frame
   - Lisboa
   - Lisbon
   - Lisbonne
   - Portugal
-  - reflex
-  - zoom
 settings:
   focal_length: 40
   iso: 100

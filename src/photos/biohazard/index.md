@@ -1,7 +1,7 @@
 ---
 title: Biohazard
 file: biohazard.jpg
-date: 2021-11-30 23:11:00 +02:00
+date: 2021-11-30 22:11:00 +01:00
 dates:
   iso: 2021-11-30
   human: 30th November 2021
@@ -15,7 +15,6 @@ gear:
 tags:
   - 1:87
   - 1/87
-  - APS-C
   - clementine
   - clémentine
   - combinaison
@@ -23,12 +22,7 @@ tags:
   - dangereux
   - dangerous
   - fruit
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - HO
-  - hybrid
   - macro
   - miniature
   - moisi
@@ -37,7 +31,6 @@ tags:
   - mouldy
   - orange
   - pourri
-  - prime
   - protection
   - rotten
   - suit

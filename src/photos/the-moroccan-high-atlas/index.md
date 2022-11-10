@@ -1,7 +1,7 @@
 ---
 title: The Moroccan High Atlas
 file: the-moroccan-high-atlas.jpg
-date: 2011-05-08 12:05:00 +02:00
+date: 2011-05-08 11:05:00 +01:00
 dates:
   iso: 2011-05-08
   human: 8th May 2011
@@ -19,10 +19,7 @@ tags:
   - arbre
   - bleu
   - blue
-  - Canon
-  - Canon EOS 5D Mark II
   - ciel
-  - full frame
   - Grand Atlas
   - Haut-Atlas
   - High Atlas
@@ -34,10 +31,6 @@ tags:
   - mountain
   - neige
   - plant
-  - prime
-  - reflex
-  - Sigma
-  - Sigma 50mm F1.4 EX DG HSM
   - sky
   - snow
   - Souss-Massa

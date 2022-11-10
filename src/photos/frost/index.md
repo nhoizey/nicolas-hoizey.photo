@@ -1,7 +1,7 @@
 ---
 title: Frost
 file: frost.jpg
-date: 2009-01-10 10:01:00 +02:00
+date: 2009-01-10 09:01:00 +01:00
 dates:
   iso: 2009-01-10
   human: 10th January 2009
@@ -13,9 +13,6 @@ gear:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
 tags:
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - cold
   - Draveil
   - Essonne
@@ -24,15 +21,12 @@ tags:
   - feuille
   - France
   - froid
-  - full frame
   - gel
   - gelé
   - givre
   - ice
   - Ile de France
   - Port aux Cerises
-  - reflex
-  - zoom
 settings:
   focal_length: 70
   iso: 400

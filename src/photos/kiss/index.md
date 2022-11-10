@@ -1,7 +1,7 @@
 ---
 title: Kiss
 file: kiss.jpg
-date: 2009-12-27 17:12:00 +02:00
+date: 2009-12-27 16:12:00 +01:00
 dates:
   iso: 2009-12-27
   human: 27th December 2009
@@ -15,14 +15,10 @@ gear:
 tags:
   - beauty
   - bokeh
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - cheerful
   - cute
   - feminine
   - flou
-  - full frame
   - girl
   - hat
   - kiss
@@ -36,8 +32,6 @@ tags:
   - pink
   - portrait
   - pretty
-  - prime
-  - reflex
   - she
   - smile
   - smiling

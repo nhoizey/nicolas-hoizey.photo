@@ -1,7 +1,7 @@
 ---
 title: Grant's zebra
 file: grant-s-zebra.jpg
-date: 2019-02-25 18:02:00 +02:00
+date: 2019-02-25 17:02:00 +01:00
 dates:
   iso: 2019-02-25
   human: 25th February 2019
@@ -19,21 +19,13 @@ tags:
   - Afrique
   - animal
   - animalière
-  - APS-C
-  - converter
   - equidae
   - équidés
   - equus quagga
   - equus quagga bohemi
   - face
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF1.4× TC WR
   - Grant's zebra
   - horse family
-  - hybrid
   - imparidigités
   - Kenya
   - Maasai
@@ -57,7 +49,6 @@ tags:
   - zèbre de Burchell
   - zèbre de Grant
   - zèbre des plaines
-  - zoom
 settings:
   focal_length: 406.8
   focal_length_35mm: 610

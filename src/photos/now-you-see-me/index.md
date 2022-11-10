@@ -1,7 +1,7 @@
 ---
 title: Now you see me
 file: now-you-see-me.jpg
-date: 2019-02-27 17:02:00 +02:00
+date: 2019-02-27 16:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -22,19 +22,11 @@ tags:
   - animalière
   - animaux sauvages
   - antilope sing-sing
-  - APS-C
   - bovidés
   - cetartiodactyla
   - cétartiodactyles
   - cobe à croissant
-  - converter
   - even-toed ungulate
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kenya
   - kobus ellipsiprymnus
   - lac
@@ -54,7 +46,6 @@ tags:
   - waterbuck
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 222.6
   focal_length_35mm: 334

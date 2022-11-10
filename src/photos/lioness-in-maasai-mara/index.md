@@ -1,7 +1,7 @@
 ---
 title: Lioness in Maasai Mara
 file: lioness-in-maasai-mara.jpg
-date: 2019-02-26 09:02:00 +02:00
+date: 2019-02-26 08:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -19,21 +19,13 @@ tags:
   - Afrique
   - animal
   - animalière
-  - APS-C
-  - converter
   - felidae
   - félidés
   - félins
   - female
   - femelle
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
   - grass
   - herbe
-  - hybrid
   - Kenya
   - lion
   - lioness
@@ -50,7 +42,6 @@ tags:
   - Narok County
   - Panthera leo
   - reserve
-  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

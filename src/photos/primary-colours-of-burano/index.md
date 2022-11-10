@@ -1,7 +1,7 @@
 ---
 title: Primary colours of Burano
 file: primary-colours-of-burano.jpg
-date: 2008-04-26 16:04:00 +02:00
+date: 2008-04-26 15:04:00 +01:00
 dates:
   iso: 2008-04-26
   human: 26th April 2008
@@ -13,13 +13,9 @@ gear:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
 tags:
-  - APS-C
   - bleu
   - blue
   - Burano
-  - Canon
-  - Canon EF-S 17-85mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - city
   - Europa
   - Europe
@@ -27,7 +23,6 @@ tags:
   - Italie
   - Italy
   - red
-  - reflex
   - rouge
   - urbain
   - urban
@@ -35,7 +30,6 @@ tags:
   - Venice
   - Venise
   - ville
-  - zoom
 settings:
   focal_length: 17
   iso: 100

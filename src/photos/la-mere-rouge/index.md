@@ -1,7 +1,7 @@
 ---
 title: La mère rouge
 file: la-mere-rouge.jpg
-date: 2004-05-14 09:05:00 +02:00
+date: 2004-05-14 08:05:00 +01:00
 dates:
   iso: 2004-05-14
   human: 14th May 2004
@@ -17,13 +17,10 @@ tags:
   - bleu
   - blue
   - boat
-  - compact
   - Egypt
   - Égypte
   - femme
   - Gouvernorat de la Mer-Rouge
-  - Konica
-  - Konica KD-400Z
   - maillot de bain
   - mer
   - Mer Rouge

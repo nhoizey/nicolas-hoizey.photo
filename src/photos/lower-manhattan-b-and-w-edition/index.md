@@ -1,7 +1,7 @@
 ---
 title: Lower Manhattan (B&W Edition)
 file: lower-manhattan-b-and-w-edition.jpg
-date: 2015-05-23 23:05:00 +02:00
+date: 2015-05-23 22:05:00 +01:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -20,9 +20,6 @@ tags:
   - black and white
   - Brooklyn
   - building
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - city
   - cityscape
   - downtown
@@ -31,7 +28,6 @@ tags:
   - États-Unis d'Amérique
   - evening
   - financial district
-  - full frame
   - Hudson
   - immeuble
   - light
@@ -49,7 +45,6 @@ tags:
   - NYC
   - reflection
   - reflet
-  - reflex
   - river
   - rivière
   - skyline
@@ -65,7 +60,6 @@ tags:
   - ville
   - voyage
   - water
-  - zoom
 settings:
   focal_length: 24
   iso: 200

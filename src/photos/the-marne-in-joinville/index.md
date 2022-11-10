@@ -1,7 +1,7 @@
 ---
 title: The Marne in Joinville
 file: the-marne-in-joinville.jpg
-date: 2020-10-17 15:10:00 +02:00
+date: 2020-10-17 14:10:00 +01:00
 dates:
   iso: 2020-10-17
   human: 17th October 2020
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
 tags:
-  - APS-C
   - barque
   - bateau
   - boat
@@ -21,16 +20,9 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - Grand Est
   - Haute-Marne
-  - hybrid
   - Joinville
-  - macro
-  - prime
   - reflection
   - reflet
   - river

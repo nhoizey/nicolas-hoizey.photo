@@ -1,7 +1,7 @@
 ---
 title: 40°C? No problem…
 file: 40-c-no-problem.jpg
-date: 2019-02-28 18:02:00 +02:00
+date: 2019-02-28 17:02:00 +01:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -17,18 +17,11 @@ tags:
   - Afrique
   - Amboseli
   - Amboseli National Park
-  - APS-C
   - football
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Kajiado
   - Kenya
   - National Park
   - Parc national d'Amboseli
-  - prime
   - sport
 settings:
   focal_length: 56

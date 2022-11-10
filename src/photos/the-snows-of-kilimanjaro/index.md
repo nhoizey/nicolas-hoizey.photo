@@ -1,7 +1,7 @@
 ---
 title: The Snows of Kilimanjaro
 file: the-snows-of-kilimanjaro.jpg
-date: 2019-03-01 09:03:00 +02:00
+date: 2019-03-01 08:03:00 +01:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -18,18 +18,12 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
-  - APS-C
   - arbre
   - bird
   - birds
   - bleu
   - blue
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
   - glace
-  - hybrid
   - ice
   - Kajiado
   - Kenya
@@ -42,11 +36,9 @@ tags:
   - neige
   - oiseau
   - Oiseaux
-  - pancake
   - Parc national d'Amboseli
   - paysage
   - plant
-  - prime
   - snow
   - tree
   - végétal

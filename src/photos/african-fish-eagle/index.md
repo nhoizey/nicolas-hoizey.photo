@@ -1,7 +1,7 @@
 ---
 title: African fish eagle
 file: african-fish-eagle.jpg
-date: 2019-02-28 18:02:00 +02:00
+date: 2019-02-28 17:02:00 +01:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -25,19 +25,11 @@ tags:
   - Amboseli National Park
   - animal
   - animalière
-  - APS-C
   - bird
   - birds
   - blanc
-  - converter
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
   - Haliaeetus vocifer
   - hungwe
-  - hybrid
   - inkwazi
   - Kajiado
   - Kenya
@@ -50,7 +42,6 @@ tags:
   - Pygargue vocifère
   - visarend
   - white
-  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

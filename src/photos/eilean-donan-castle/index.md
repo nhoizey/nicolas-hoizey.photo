@@ -1,7 +1,7 @@
 ---
 title: Eilean Donan Castle
 file: eilean-donan-castle.jpg
-date: 2014-05-01 18:05:00 +02:00
+date: 2014-05-01 17:05:00 +01:00
 dates:
   iso: 2014-05-01
   human: 1st May 2014
@@ -14,35 +14,31 @@ gear:
       model: EF 24-70mm f/2.8L USM
 tags:
   - bridge
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - castle
   - château
+  - ciel
   - cloud
   - eau
   - Écosse
   - Eilean Donan Castle
   - Europa
   - Europe
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - Highland
   - mer
   - nuage
   - pont
-  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
   - sea
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
   - water
-  - zoom
 settings:
   focal_length: 27
   iso: 200
@@ -66,4 +62,8 @@ colors:
   lightMuted: 179 188 194
 ---
 
-Eilean Donan is a small tidal island where three sea lochs meet, Loch Duich, Loch Long and Loch Alsh, in the western Highlands of Scotland. A picturesque castle that frequently appears in photographs, film and television dominates the island. Since the castle's restoration in the early 20th century, a footbridge has connected the island to the mainland.
+Eilean Donan is a small tidal island where three sea lochs meet, Loch Duich, Loch Long and Loch Alsh, in the western Highlands of Scotland.
+
+A picturesque castle that frequently appears in photographs, film and television dominates the island.
+
+Since the castle's restoration in the early 20th century, a footbridge has connected the island to the mainland.

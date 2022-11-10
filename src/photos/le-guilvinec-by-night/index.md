@@ -1,7 +1,7 @@
 ---
 title: Le Guilvinec by night
 file: le-guilvinec-by-night.jpg
-date: 2013-05-08 21:05:00 +02:00
+date: 2013-05-08 20:05:00 +01:00
 dates:
   iso: 2013-05-08
   human: 8th May 2013
@@ -15,9 +15,6 @@ gear:
 tags:
   - Bretagne
   - Britany
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - ciel
   - cloud
   - eau
@@ -25,7 +22,6 @@ tags:
   - Europe
   - Finistère
   - France
-  - full frame
   - Le Guilvinec
   - long exposure
   - mer
@@ -33,11 +29,9 @@ tags:
   - nuage
   - nuit
   - pose longue
-  - reflex
   - sea
   - sky
   - water
-  - zoom
 settings:
   focal_length: 24
   iso: 400

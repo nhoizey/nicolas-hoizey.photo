@@ -1,7 +1,7 @@
 ---
 title: Silvery-cheeked Hornbill couple
 file: silvery-cheeked-hornbill-couple.jpg
-date: 2019-03-04 18:03:00 +02:00
+date: 2019-03-04 17:03:00 +01:00
 dates:
   iso: 2019-03-04
   human: 4th March 2019
@@ -21,7 +21,6 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - bird
   - birds
   - Bucerotidae
@@ -31,15 +30,8 @@ tags:
   - Bycanistes brevis
   - Calao à joues argent
   - calaos
-  - converter
   - Diani Beach
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
   - Hornbill
-  - hybrid
   - Kenya
   - Kwale County
   - oiseau
@@ -49,7 +41,6 @@ tags:
   - The Baobab Hotel
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 393.2
   focal_length_35mm: 590

@@ -1,7 +1,7 @@
 ---
 title: So, you're still ok for this?
 file: so-you-re-still-ok-for-this.jpg
-date: 2019-02-27 18:02:00 +02:00
+date: 2019-02-27 17:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -22,7 +22,6 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - Ardea intermedia
   - Ardéidés
   - bird
@@ -33,16 +32,9 @@ tags:
   - Cape buffalo
   - cetartiodactyla
   - cétartiodactyles
-  - converter
   - even-toed ungulate
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
   - grand buffle noir des savanes
   - Héron intermédiaire
-  - hybrid
   - Intermediate Egret
   - Kenya
   - lac
@@ -65,7 +57,6 @@ tags:
   - syncerus caffer
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 646.4
   focal_length_35mm: 970

@@ -1,7 +1,7 @@
 ---
 title: Lost in (white) space
 file: lost-in-white-space.jpg
-date: 2005-04-23 16:04:00 +02:00
+date: 2005-04-23 15:04:00 +01:00
 dates:
   iso: 2005-04-23
   human: 23rd April 2005
@@ -12,15 +12,12 @@ gear:
 tags:
   - blanc
   - ciel
-  - compact
   - contrast
   - contraste
   - Europa
   - Europe
   - France
   - Ile de France
-  - Konica
-  - Konica KD-400Z
   - minimaliste
   - Paris
   - sky

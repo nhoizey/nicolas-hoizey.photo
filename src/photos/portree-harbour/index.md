@@ -1,7 +1,7 @@
 ---
 title: Portree harbour
 file: portree-harbour.jpg
-date: 2014-05-01 15:05:00 +02:00
+date: 2014-05-01 14:05:00 +01:00
 dates:
   iso: 2014-05-01
   human: 1st May 2014
@@ -15,9 +15,7 @@ gear:
 tags:
   - bleu
   - blue
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - city
   - cloud
   - color
@@ -30,7 +28,6 @@ tags:
   - Écosse
   - Europa
   - Europe
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - green
@@ -44,13 +41,13 @@ tags:
   - nuage
   - pink
   - Portree
-  - reflex
   - rose
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
   - sea
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
@@ -59,7 +56,6 @@ tags:
   - voiture
   - water
   - yellow
-  - zoom
 settings:
   focal_length: 24
   iso: 200

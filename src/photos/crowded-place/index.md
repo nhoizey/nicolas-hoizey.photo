@@ -1,7 +1,7 @@
 ---
 title: Crowded place
 file: crowded-place.jpg
-date: 2019-02-28 19:02:00 +02:00
+date: 2019-02-28 18:02:00 +01:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -21,12 +21,6 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Kajiado
   - Kenya
   - Kilimanjaro
@@ -37,7 +31,6 @@ tags:
   - National Park
   - Parc national d'Amboseli
   - paysage
-  - prime
   - sauvage
   - volcan
   - volcano

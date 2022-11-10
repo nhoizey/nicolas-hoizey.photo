@@ -1,7 +1,7 @@
 ---
 title: What are you staring at?
 file: what-are-you-staring-at.jpg
-date: 2019-02-27 18:02:00 +02:00
+date: 2019-02-27 17:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -22,22 +22,14 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - bovidés
   - buffle d'Afrique
   - buffle noir des savanes
   - Cape buffalo
   - cetartiodactyla
   - cétartiodactyles
-  - converter
   - even-toed ungulate
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
   - grand buffle noir des savanes
-  - hybrid
   - Kenya
   - lac
   - Lac Nakuru
@@ -56,7 +48,6 @@ tags:
   - syncerus caffer
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 200
   focal_length_35mm: 300

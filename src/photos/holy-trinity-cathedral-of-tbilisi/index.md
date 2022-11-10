@@ -1,7 +1,7 @@
 ---
 title: Holy Trinity Cathedral of Tbilisi
 file: holy-trinity-cathedral-of-tbilisi.jpg
-date: 2018-08-14 11:08:00 +02:00
+date: 2018-08-14 10:08:00 +01:00
 dates:
   iso: 2018-08-14
   human: 14th August 2018
@@ -13,25 +13,18 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Cathédrale de la Sainte-Trinité de Tbilissi
   - Caucase
   - Caucasia
   - Caucasus
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
   - Holy Trinity Cathedral of Tbilisi
-  - hybrid
   - Sameba
   - Tbilissi
   - Tsminda Saméba
-  - zoom
   - თბილისი
   - თბილისის წმინდა სამები
   - კავკასია

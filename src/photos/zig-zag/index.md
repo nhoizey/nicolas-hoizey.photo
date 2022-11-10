@@ -1,7 +1,7 @@
 ---
 title: Zig zag
 file: zig-zag.jpg
-date: 2009-01-30 23:01:00 +02:00
+date: 2009-01-30 22:01:00 +01:00
 dates:
   iso: 2009-01-30
   human: 30th January 2009
@@ -15,9 +15,6 @@ gear:
 tags:
   - architecture
   - Beaubourg
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - Centre Beaubourg
   - Centre Georges-Pompidou
   - Centre national d’art et de culture Georges-Pompidou
@@ -26,16 +23,13 @@ tags:
   - Europa
   - Europe
   - France
-  - full frame
   - Ile de France
   - night
   - nuit
   - Paris
-  - reflex
   - stair
   - staircase
   - stairway
-  - zoom
 settings:
   focal_length: 70
   iso: 3200

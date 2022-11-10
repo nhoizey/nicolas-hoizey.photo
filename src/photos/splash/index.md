@@ -1,7 +1,7 @@
 ---
 title: Splash
 file: splash.jpg
-date: 2017-05-18 22:05:00 +02:00
+date: 2017-05-18 21:05:00 +01:00
 dates:
   iso: 2017-05-18
   human: 18th May 2017
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - beverage
   - boisson
   - cerise
@@ -22,15 +21,9 @@ tags:
   - drink
   - éclaboussure
   - fruit
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - lait
   - macro
   - milk
-  - prime
   - spatter
   - splash
   - spoon

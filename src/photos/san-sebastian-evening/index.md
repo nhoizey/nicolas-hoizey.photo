@@ -13,11 +13,11 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Basque Country
   - bateau
   - beach
   - boat
+  - ciel
   - city
   - cloud
   - coucher de soleil
@@ -29,14 +29,9 @@ tags:
   - Europe
   - Euskadi
   - evening
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - Gipuzkoa
   - Guipuscoa
   - Guipúzcoa
-  - hybrid
   - landscape
   - mer
   - montagne
@@ -49,13 +44,13 @@ tags:
   - Saint-Sébastien
   - San Sebastián
   - sea
+  - sky
   - soir
   - soleil
   - Spain
   - sunset
   - ville
   - water
-  - zoom
 settings:
   focal_length: 14.5
   focal_length_35mm: 22

@@ -1,7 +1,7 @@
 ---
 title: Would you like some bedouin tea?
 file: would-you-like-some-bedouin-tea.jpg
-date: 2004-05-14 18:05:00 +02:00
+date: 2004-05-14 17:05:00 +01:00
 dates:
   iso: 2004-05-14
   human: 14th May 2004
@@ -15,7 +15,6 @@ tags:
   - Al-Qusair
   - beverage
   - boisson
-  - compact
   - Cossire
   - désert
   - Désert Arabique
@@ -25,8 +24,6 @@ tags:
   - Égypte
   - El Qoseir
   - Gouvernorat de la Mer-Rouge
-  - Konica
-  - Konica KD-400Z
   - Red Sea Governorate
   - tente
   - thé

@@ -1,7 +1,7 @@
 ---
 title: Rusty
 file: rusty.jpg
-date: 2008-08-24 16:08:00 +02:00
+date: 2008-08-24 15:08:00 +01:00
 dates:
   iso: 2008-08-24
   human: 24th August 2008
@@ -13,17 +13,11 @@ gear:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
 tags:
-  - APS-C
   - bolt
   - boulon
-  - Canon
-  - Canon EF 100mm f/2.8 Macro USM
-  - Canon EOS 350D
   - écrou
   - macro
   - nut
-  - prime
-  - reflex
   - rouille
   - rusty
 settings:

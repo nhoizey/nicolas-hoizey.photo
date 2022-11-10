@@ -1,7 +1,7 @@
 ---
 title: Wood pier in sunset
 file: wood-pier-in-sunset.jpg
-date: 2004-06-12 22:06:00 +02:00
+date: 2004-06-12 21:06:00 +01:00
 dates:
   iso: 2004-06-12
   human: 12th June 2004
@@ -12,15 +12,13 @@ gear:
 tags:
   - bleu
   - blue
+  - ciel
   - cloud
-  - compact
   - coucher de soleil
   - Europa
   - Europe
   - evening
   - France
-  - Konica
-  - Konica KD-400Z
   - landscape
   - Le Tréport
   - lighthouse
@@ -37,6 +35,7 @@ tags:
   - rose
   - sea
   - Seine-Maritime
+  - sky
   - soir
   - soleil
   - sunset

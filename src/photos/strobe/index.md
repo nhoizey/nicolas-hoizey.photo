@@ -1,7 +1,7 @@
 ---
 title: Strobe
 file: strobe.jpg
-date: 2017-03-25 14:03:00 +02:00
+date: 2017-03-25 13:03:00 +01:00
 dates:
   iso: 2017-03-25
   human: 25th March 2017
@@ -13,13 +13,7 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - carré
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - light
   - lumière
   - portrait
@@ -27,7 +21,6 @@ tags:
   - strobe light
   - stroboscope
   - studio
-  - zoom
 settings:
   focal_length: 24
   focal_length_35mm: 36

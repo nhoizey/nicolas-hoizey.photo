@@ -1,7 +1,7 @@
 ---
 title: Breathtaking Brooklyn Bridge night panorama
 file: breathtaking-brooklyn-bridge-night-panorama.jpg
-date: 2015-05-23 22:05:00 +02:00
+date: 2015-05-23 21:05:00 +01:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -19,9 +19,7 @@ tags:
   - Brooklyn
   - Brooklyn Bridge
   - building
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - city
   - cityscape
   - coucher de soleil
@@ -33,7 +31,6 @@ tags:
   - États-Unis d'Amérique
   - evening
   - financial district
-  - full frame
   - immeuble
   - Liberty Island
   - light
@@ -54,7 +51,6 @@ tags:
   - panoramique
   - reflection
   - reflet
-  - reflex
   - river
   - rivière
   - sky
@@ -76,7 +72,6 @@ tags:
   - ville
   - voyage
   - water
-  - zoom
 settings:
   focal_length: 24
   iso: 200

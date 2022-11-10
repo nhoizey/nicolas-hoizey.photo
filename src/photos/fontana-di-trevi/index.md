@@ -1,7 +1,7 @@
 ---
 title: Fontana di Trevi
 file: fontana-di-trevi.jpg
-date: 2017-05-11 19:05:00 +02:00
+date: 2017-05-11 18:05:00 +01:00
 dates:
   iso: 2017-05-11
   human: 11th May 2017
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - eau
   - Europa
   - Europe
@@ -22,11 +21,6 @@ tags:
   - fontana
   - Fontana di Trevi
   - fountain
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Italia
   - Italie
   - Italy
@@ -35,7 +29,6 @@ tags:
   - statue
   - Trevi Fountain
   - water
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

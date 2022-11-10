@@ -1,7 +1,7 @@
 ---
 title: Red deer in Espace Rambouillet
 file: red-deer-in-espace-rambouillet.jpg
-date: 2021-10-24 11:10:00 +02:00
+date: 2021-10-24 10:10:00 +01:00
 dates:
   iso: 2021-10-24
   human: 24th October 2021
@@ -19,7 +19,6 @@ tags:
   - animal captif
   - animalière
   - animaux captifs
-  - APS-C
   - arbre
   - captif
   - captivité
@@ -28,7 +27,6 @@ tags:
   - cervidae
   - cervidés
   - cervus elaphus
-  - converter
   - Espace Rambouillet
   - Europa
   - Europe
@@ -37,12 +35,6 @@ tags:
   - forêt
   - Forêt de Rambouillet
   - France
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF1.4× TC WR
-  - hybrid
   - Ile de France
   - mammal
   - mammalia
@@ -54,7 +46,6 @@ tags:
   - tree
   - végétal
   - Yvelines
-  - zoom
 settings:
   focal_length: 392.6
   focal_length_35mm: 589

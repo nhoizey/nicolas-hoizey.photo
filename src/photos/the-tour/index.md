@@ -1,7 +1,7 @@
 ---
 title: The Tour
 file: the-tour.jpg
-date: 2021-12-06 10:12:00 +02:00
+date: 2021-12-06 09:12:00 +01:00
 dates:
   iso: 2021-12-06
   human: 6th December 2021
@@ -15,20 +15,13 @@ gear:
 tags:
   - 1:87
   - 1/87
-  - APS-C
   - bike
   - colline
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - hill
   - HO
-  - hybrid
   - macro
   - miniature
   - orange
-  - prime
   - vélo
 settings:
   focal_length: 80

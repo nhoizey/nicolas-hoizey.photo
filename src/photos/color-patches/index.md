@@ -1,7 +1,7 @@
 ---
 title: Color Patches
 file: color-patches.jpg
-date: 2017-12-19 19:12:00 +02:00
+date: 2017-12-19 18:12:00 +01:00
 dates:
   iso: 2017-12-19
   human: 19th December 2017
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - bâtiment
   - building
   - bureau
@@ -32,11 +31,6 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Ile de France
   - immeuble
   - office
@@ -45,7 +39,6 @@ tags:
   - Seine-Saint-Denis
   - skyline
   - ville
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

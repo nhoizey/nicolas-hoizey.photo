@@ -1,7 +1,7 @@
 ---
 title: Waiting for the high tide
 file: waiting-for-the-high-tide.jpg
-date: 2013-08-22 14:08:00 +02:00
+date: 2013-08-22 13:08:00 +01:00
 dates:
   iso: 2013-08-22
   human: 22nd August 2013
@@ -19,23 +19,17 @@ tags:
   - boat
   - Bretagne
   - Britany
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - ciel
   - Côtes d'Armor
   - Europa
   - Europe
   - France
-  - full frame
   - long exposure
   - marée
   - mer
   - Ploumanac'h
-  - reflex
   - sea
   - sky
-  - zoom
 settings:
   focal_length: 24
   iso: 200

@@ -1,7 +1,7 @@
 ---
 title: Zen
 file: zen.jpg
-date: 2014-06-14 17:06:00 +02:00
+date: 2014-06-14 16:06:00 +01:00
 dates:
   iso: 2014-06-14
   human: 14th June 2014
@@ -15,12 +15,9 @@ gear:
 tags:
   - adult
   - adulte
-  - Canon
-  - Canon EOS 5D Mark II
   - Europa
   - Europe
   - France
-  - full frame
   - Goulven
   - Lyon
   - musée
@@ -30,12 +27,8 @@ tags:
   - pants
   - personne
   - portrait
-  - prime
-  - reflex
   - Rhône
   - Rhône-Alpes
-  - Sigma
-  - Sigma 50mm F1.4 EX DG HSM
   - tenue
   - type de photo
 settings:

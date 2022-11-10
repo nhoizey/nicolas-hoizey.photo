@@ -1,7 +1,7 @@
 ---
 title: Follow the rythm
 file: follow-the-rythm.jpg
-date: 2014-09-27 01:09:00 +02:00
+date: 2014-09-27 00:09:00 +01:00
 dates:
   iso: 2014-09-27
   human: 27th September 2014
@@ -12,7 +12,6 @@ gear:
 tags:
   - bleu
   - blue
-  - compact
   - dance
   - DJ
   - DubVision
@@ -25,8 +24,6 @@ tags:
   - nuit
   - red
   - rouge
-  - Sony
-  - Sony RX100 Mark III
   - spot
 settings:
   focal_length: 8.8

@@ -1,7 +1,7 @@
 ---
 title: Superb Starling
 file: superb-starling.jpg
-date: 2018-10-30 13:10:00 +02:00
+date: 2018-10-30 12:10:00 +01:00
 dates:
   iso: 2018-10-30
   human: 30th October 2018
@@ -17,7 +17,6 @@ tags:
   - animal captif
   - animalière
   - animaux captifs
-  - APS-C
   - bird
   - birds
   - captif
@@ -28,22 +27,15 @@ tags:
   - Driekleurige Glansspreeuw
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - Heijen
-  - hybrid
   - Lamprotornis superbus
   - Limbourg
   - Limburg
-  - macro
   - Nederland
   - oiseau
   - Oiseaux
   - Passériformes
   - Pays-Bas
-  - prime
   - Sturnidés
   - Superb Starling
   - The Netherlands

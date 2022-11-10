@@ -1,7 +1,7 @@
 ---
 title: Blue House, and other colors
 file: blue-house-and-other-colors.jpg
-date: 2015-08-09 17:08:00 +02:00
+date: 2015-08-09 16:08:00 +01:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -25,15 +25,12 @@ tags:
   - colour
   - colourful
   - colours
-  - compact
   - couleur
   - couleurs
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
   - skyscrapers
-  - Sony
-  - Sony RX100 Mark III
   - tourism
   - tourisme
   - travel

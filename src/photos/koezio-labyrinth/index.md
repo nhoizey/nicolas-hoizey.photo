@@ -1,7 +1,7 @@
 ---
 title: Koezio labyrinth
 file: koezio-labyrinth.jpg
-date: 2018-06-16 15:06:00 +02:00
+date: 2018-06-16 14:06:00 +01:00
 dates:
   iso: 2018-06-16
   human: 16th June 2018
@@ -14,20 +14,13 @@ gear:
       model: Fujinon XF 56mm f/1.2 R
 tags:
   - anniversaire
-  - APS-C
   - Essonne
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Ile de France
   - Koezio
   - Lieusaint
-  - prime
 settings:
   focal_length: 56
   focal_length_35mm: 84

@@ -1,7 +1,7 @@
 ---
 title: A peaceful canal in Venice
 file: a-peaceful-canal-in-venice.jpg
-date: 2008-04-25 17:04:00 +02:00
+date: 2008-04-25 16:04:00 +01:00
 dates:
   iso: 2008-04-25
   human: 25th April 2008
@@ -13,25 +13,19 @@ gear:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
 tags:
-  - APS-C
   - bateau
   - boat
   - canal
-  - Canon
-  - Canon EF-S 17-85mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - eau
   - Europa
   - Europe
   - Italia
   - Italie
   - Italy
-  - reflex
   - Venezia
   - Venice
   - Venise
   - water
-  - zoom
 settings:
   focal_length: 17
   iso: 100

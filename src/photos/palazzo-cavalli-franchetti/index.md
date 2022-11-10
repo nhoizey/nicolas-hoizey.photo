@@ -1,7 +1,7 @@
 ---
 title: Palazzo Cavalli-Franchetti
 file: palazzo-cavalli-franchetti.jpg
-date: 2008-04-24 17:04:00 +02:00
+date: 2008-04-24 16:04:00 +01:00
 dates:
   iso: 2008-04-24
   human: 24th April 2008
@@ -13,14 +13,10 @@ gear:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
 tags:
-  - APS-C
   - architecture
   - bateau
   - boat
   - canal
-  - Canon
-  - Canon EF-S 17-85mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - ciel
   - eau
   - Europa
@@ -28,13 +24,11 @@ tags:
   - Italia
   - Italie
   - Italy
-  - reflex
   - sky
   - Venezia
   - Venice
   - Venise
   - water
-  - zoom
 settings:
   focal_length: 17
   iso: 800

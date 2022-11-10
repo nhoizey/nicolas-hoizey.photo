@@ -1,7 +1,7 @@
 ---
 title: Chreli-Abano
 file: chreli-abano.jpg
-date: 2018-08-13 10:08:00 +02:00
+date: 2018-08-13 09:08:00 +01:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -14,22 +14,15 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
   - Abanotubani
-  - APS-C
   - bath district
   - Caucase
   - Caucasia
   - Caucasus
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
-  - hybrid
   - Tbilissi
-  - zoom
   - აბანოთუბანი
   - თბილისი
   - კავკასია

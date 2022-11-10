@@ -1,7 +1,7 @@
 ---
 title: Find your way
 file: find-your-way.jpg
-date: 2017-05-12 15:05:00 +02:00
+date: 2017-05-12 14:05:00 +01:00
 dates:
   iso: 2017-05-12
   human: 12th May 2017
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - architecture
   - circle
   - Città del Vaticano
@@ -22,11 +21,6 @@ tags:
   - escalier hélicoïdal
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Italia
   - Italie
   - Italy
@@ -44,7 +38,6 @@ tags:
   - Vatican
   - Vatican City
   - Vatican Museums
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

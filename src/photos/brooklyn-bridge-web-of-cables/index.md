@@ -1,7 +1,7 @@
 ---
 title: Brooklyn Bridge web of cables
 file: brooklyn-bridge-web-of-cables.jpg
-date: 2015-05-23 19:05:00 +02:00
+date: 2015-05-23 18:05:00 +01:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -19,9 +19,7 @@ tags:
   - Brooklyn
   - Brooklyn Bridge
   - cable
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - city
   - cityscape
   - coucher de soleil
@@ -32,14 +30,12 @@ tags:
   - evening
   - financial district
   - flag
-  - full frame
   - Lower Manhattan
   - Manhattan
   - New-York
   - New-York City
   - North America
   - NYC
-  - reflex
   - sky
   - skyline
   - skyscrapers
@@ -57,7 +53,6 @@ tags:
   - ville
   - voyage
   - web
-  - zoom
 settings:
   focal_length: 50
   iso: 100

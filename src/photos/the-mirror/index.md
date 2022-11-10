@@ -1,7 +1,7 @@
 ---
 title: The mirror
 file: the-mirror.jpg
-date: 2014-07-12 13:07:00 +02:00
+date: 2014-07-12 12:07:00 +01:00
 dates:
   iso: 2014-07-12
   human: 12th July 2014
@@ -15,7 +15,6 @@ tags:
   - bleu
   - blue
   - boat
-  - compact
   - eau
   - Europa
   - Europe
@@ -30,8 +29,6 @@ tags:
   - Pays-Bas
   - reflection
   - reflet
-  - Sony
-  - Sony RX100 Mark III
   - The Netherlands
   - vert
   - water

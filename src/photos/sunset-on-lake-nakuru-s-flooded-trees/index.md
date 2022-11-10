@@ -1,7 +1,7 @@
 ---
 title: Sunset on Lake Nakuru's flooded trees
 file: sunset-on-lake-nakuru-s-flooded-trees.jpg
-date: 2019-02-27 19:02:00 +02:00
+date: 2019-02-27 18:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -15,17 +15,12 @@ gear:
 tags:
   - Africa
   - Afrique
-  - APS-C
   - arbre
+  - ciel
   - cloud
   - coucher de soleil
   - eau
   - evening
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kenya
   - lac
   - Lac Nakuru
@@ -36,13 +31,12 @@ tags:
   - Nakuru
   - Nakuru County
   - nuage
-  - pancake
   - Parc national du lac Nakuru
   - paysage
   - plant
-  - prime
   - purple
   - silhouette
+  - sky
   - soir
   - soleil
   - sun

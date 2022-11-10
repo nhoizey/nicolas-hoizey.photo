@@ -1,7 +1,7 @@
 ---
 title: New York Lovers
 file: new-york-lovers.jpg
-date: 2015-05-21 11:05:00 +02:00
+date: 2015-05-21 10:05:00 +01:00
 dates:
   iso: 2015-05-21
   human: 21st May 2015
@@ -19,9 +19,6 @@ tags:
   - blanc
   - bleu
   - blue
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - color
   - coloré
   - colorful
@@ -35,7 +32,6 @@ tags:
   - drawing
   - États-Unis
   - États-Unis d'Amérique
-  - full frame
   - green
   - kiss
   - Kobra
@@ -51,9 +47,7 @@ tags:
   - orange
   - paint
   - painting
-  - prime
   - red
-  - reflex
   - rouge
   - United States
   - United States of America

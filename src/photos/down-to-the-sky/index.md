@@ -1,7 +1,7 @@
 ---
 title: Down to the sky
 file: down-to-the-sky.jpg
-date: 2018-08-05 16:08:00 +02:00
+date: 2018-08-05 15:08:00 +01:00
 dates:
   iso: 2018-08-05
   human: 5th August 2018
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - chinese
   - chinese garden
   - chinois
@@ -23,12 +22,7 @@ tags:
   - Europe
   - fleur
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - garden
-  - hybrid
   - Ile de France
   - jardin
   - jardin chinois
@@ -43,7 +37,6 @@ tags:
   - végétal
   - water
   - Yvelines
-  - zoom
 settings:
   focal_length: 24
   focal_length_35mm: 36

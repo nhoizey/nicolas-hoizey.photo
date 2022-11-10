@@ -1,7 +1,7 @@
 ---
 title: Blue is the warmest colour
 file: blue-is-the-warmest-colour.jpg
-date: 2015-08-09 15:08:00 +02:00
+date: 2015-08-09 14:08:00 +01:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -16,7 +16,6 @@ tags:
   - blue
   - China
   - Chine
-  - compact
   - gas
   - gaz
   - Hong Kong
@@ -27,8 +26,6 @@ tags:
   - road
   - route
   - rue
-  - Sony
-  - Sony RX100 Mark III
   - street
   - Wan Chai
   - yellow

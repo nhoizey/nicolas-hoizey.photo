@@ -1,7 +1,7 @@
 ---
 title: Menace
 file: menace.jpg
-date: 2017-05-19 20:05:00 +02:00
+date: 2017-05-19 19:05:00 +01:00
 dates:
   iso: 2017-05-19
   human: 19th May 2017
@@ -13,27 +13,20 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - ciel
   - cloud
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
   - gray
   - grey
   - gris
-  - hybrid
   - Ile de France
   - Île Saint-Louis
   - lamp post
   - lampadaire
   - nuage
   - Paris
-  - prime
   - réverbère
   - sky
   - street light

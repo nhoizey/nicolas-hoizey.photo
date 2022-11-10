@@ -1,7 +1,7 @@
 ---
 title: At Loch nan Uamh's end
 file: at-loch-nan-uamh-s-end.jpg
-date: 2014-05-01 12:05:00 +02:00
+date: 2014-05-01 11:05:00 +01:00
 dates:
   iso: 2014-05-01
   human: 1st May 2014
@@ -14,15 +14,12 @@ gear:
       model: EF 24-70mm f/2.8L USM
 tags:
   - bridge
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - cloud
   - eau
   - Écosse
   - Europa
   - Europe
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - Highland
@@ -39,7 +36,6 @@ tags:
   - paysage
   - pont
   - rail
-  - reflex
   - rocher
   - rock
   - Royaume Uni
@@ -47,11 +43,11 @@ tags:
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
   - sea
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
   - water
-  - zoom
 settings:
   focal_length: 67
   iso: 200

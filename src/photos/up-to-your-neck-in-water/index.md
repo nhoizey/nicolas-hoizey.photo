@@ -1,7 +1,7 @@
 ---
 title: Up to your neck in water
 file: up-to-your-neck-in-water.jpg
-date: 2018-01-28 13:01:00 +02:00
+date: 2018-01-28 12:01:00 +01:00
 dates:
   iso: 2018-01-28
   human: 28th January 2018
@@ -13,8 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - 10 stops
-  - APS-C
   - bridge
   - crue
   - Draveil
@@ -22,30 +20,19 @@ tags:
   - Essonne
   - Europa
   - Europe
-  - filter
-  - filtre
   - fleuve
   - flood
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - graffiti
-  - hybrid
   - Ile de France
-  - ND1000
-  - Nisi
   - pont
   - Pont de la 1re Armée Française
-  - Porte Filtre Système 100mm V5
   - reflection
   - reflet
   - rive
   - river
   - shore
   - water
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

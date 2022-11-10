@@ -1,7 +1,7 @@
 ---
 title: Fluorescent Jellyfishes
 file: fluorescent-jellyfishes.jpg
-date: 2008-05-11 10:05:00 +02:00
+date: 2008-05-11 09:05:00 +01:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -11,12 +11,9 @@ gear:
     model: EOS 350D
 tags:
   - animal
-  - APS-C
   - aquarium
   - bleu
   - blue
-  - Canon
-  - Canon EOS 350D
   - dierenpark
   - eau
   - Europa
@@ -27,7 +24,6 @@ tags:
   - Nederland
   - Ouwehands Dierenpark
   - Pays-Bas
-  - reflex
   - Rhenen
   - sea
   - The Netherlands

@@ -1,7 +1,7 @@
 ---
 title: First snow at sunset
 file: first-snow-at-sunset.jpg
-date: 2012-12-08 18:12:00 +02:00
+date: 2012-12-08 17:12:00 +01:00
 dates:
   iso: 2012-12-08
   human: 8th December 2012
@@ -16,15 +16,12 @@ tags:
   - arbre
   - beautiful
   - blanc
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - coucher de soleil
   - Europa
   - Europe
   - evening
   - field
-  - full frame
   - landscape
   - light
   - Nederland
@@ -32,7 +29,6 @@ tags:
   - Pays-Bas
   - paysage
   - plant
-  - reflex
   - sky
   - snow
   - soir
@@ -45,7 +41,6 @@ tags:
   - végétal
   - white
   - winter
-  - zoom
 settings:
   focal_length: 70
   iso: 50

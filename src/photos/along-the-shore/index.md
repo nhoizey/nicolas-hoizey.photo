@@ -1,7 +1,7 @@
 ---
 title: Along the shore
 file: along-the-shore.jpg
-date: 2009-05-15 22:05:00 +02:00
+date: 2009-05-15 21:05:00 +01:00
 dates:
   iso: 2009-05-15
   human: 15th May 2009
@@ -16,16 +16,12 @@ tags:
   - Benodet
   - Bretagne
   - Britany
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - ciel
   - écume
   - Europa
   - Europe
   - Finistère
   - France
-  - full frame
   - light
   - long exposure
   - lumière
@@ -33,13 +29,11 @@ tags:
   - night
   - nuit
   - pose longue
-  - reflex
   - rocher
   - rock
   - sea
   - sky
   - vague
-  - zoom
 settings:
   focal_length: 54
   iso: 50

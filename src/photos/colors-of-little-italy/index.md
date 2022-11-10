@@ -1,7 +1,7 @@
 ---
 title: Colors of Little Italy
 file: colors-of-little-italy.jpg
-date: 2015-05-20 15:05:00 +02:00
+date: 2015-05-20 14:05:00 +01:00
 dates:
   iso: 2015-05-20
   human: 20th May 2015
@@ -16,15 +16,11 @@ tags:
   - America
   - Amérique du Nord
   - architecture
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - city
   - escalier
   - États-Unis
   - États-Unis d'Amérique
   - façade
-  - full frame
   - green
   - jaune
   - lamp post
@@ -35,9 +31,7 @@ tags:
   - New-York City
   - North America
   - NYC
-  - prime
   - red
-  - reflex
   - réverbère
   - rouge
   - stair

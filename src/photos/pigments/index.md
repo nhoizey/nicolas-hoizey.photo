@@ -1,7 +1,7 @@
 ---
 title: Pigments
 file: pigments.jpg
-date: 2015-04-27 15:04:00 +02:00
+date: 2015-04-27 14:04:00 +01:00
 dates:
   iso: 2015-04-27
   human: 27th April 2015
@@ -17,18 +17,14 @@ tags:
   - coloré
   - colorful
   - colourful
-  - compact
   - Domaine de Chaumont-sur-Loire
   - Europa
   - Europe
-  - Four Thirds
   - France
   - light
   - lumière
   - mur
   - nature morte
-  - Panasonic
-  - Panasonic DMC-LX100
   - still life
   - still-life
   - wall

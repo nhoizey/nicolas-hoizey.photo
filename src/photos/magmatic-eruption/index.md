@@ -1,7 +1,7 @@
 ---
 title: Magmatic eruption
 file: magmatic-eruption.jpg
-date: 2021-12-13 23:12:00 +02:00
+date: 2021-12-13 22:12:00 +01:00
 dates:
   iso: 2021-12-13
   human: 13th December 2021
@@ -15,7 +15,6 @@ gear:
 tags:
   - 1:87
   - 1/87
-  - APS-C
   - bougie
   - brule
   - burn
@@ -24,18 +23,12 @@ tags:
   - feu
   - fire
   - flamme
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - HO
   - hot
-  - hybrid
   - lava
   - lave
   - macro
   - miniature
-  - prime
   - red
   - rouge
   - volcan

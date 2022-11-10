@@ -1,7 +1,7 @@
 ---
 title: One hope
 file: one-hope.jpg
-date: 2018-02-01 01:02:00 +02:00
+date: 2018-02-01 00:02:00 +01:00
 dates:
   iso: 2018-02-01
   human: 1st February 2018
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - B&W
   - black and white
   - contrast
@@ -22,16 +21,10 @@ tags:
   - Europe
   - femme
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Lyon
   - mur
   - noir et blanc
   - portrait
-  - prime
   - Rhône
   - Rhône-Alpes
   - studio

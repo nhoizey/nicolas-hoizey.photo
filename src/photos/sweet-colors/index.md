@@ -1,7 +1,7 @@
 ---
 title: Sweet colors
 file: sweet-colors.jpg
-date: 2021-12-12 19:12:00 +02:00
+date: 2021-12-12 18:12:00 +01:00
 dates:
   iso: 2021-12-12
   human: 12th December 2021
@@ -15,7 +15,6 @@ gear:
 tags:
   - 1:87
   - 1/87
-  - APS-C
   - bleu
   - blue
   - bonbon
@@ -24,12 +23,7 @@ tags:
   - candy
   - culinaire
   - food
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - HO
-  - hybrid
   - jaune
   - macro
   - miniature
@@ -37,7 +31,6 @@ tags:
   - paint
   - peinture
   - pink
-  - prime
   - red
   - rose
   - rouge

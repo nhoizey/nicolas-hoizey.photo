@@ -1,7 +1,7 @@
 ---
 title: The path of light
 file: the-path-of-light.jpg
-date: 2018-08-12 18:08:00 +02:00
+date: 2018-08-12 17:08:00 +01:00
 dates:
   iso: 2018-08-12
   human: 12th August 2018
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Cathédrale de Svétitskhovéli
   - Caucase
   - Caucasia
@@ -22,13 +21,8 @@ tags:
   - église
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
-  - hybrid
   - light
   - lumière
   - Mtskheta
@@ -36,7 +30,6 @@ tags:
   - Mtskheta-Mtianeti
   - mtskhéta-mtianéti
   - Svetitskhoveli Cathedral
-  - zoom
   - კავკასია
   - მცხეთა
   - მცხეთა-მთიანეთი

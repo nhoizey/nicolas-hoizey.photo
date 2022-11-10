@@ -1,7 +1,7 @@
 ---
 title: Kaleidoscope House
 file: kaleidoscope-house.jpg
-date: 2018-08-13 15:08:00 +02:00
+date: 2018-08-13 14:08:00 +01:00
 dates:
   iso: 2018-08-13
   human: 13th August 2018
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Bethlehem Street
   - Betlemi Street
   - Caucase
@@ -21,17 +20,11 @@ tags:
   - Caucasus
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - Georgia
   - Géorgie
-  - hybrid
   - Kaleidoscope House
   - Paradnaya Kaleidoscope
   - Tbilissi
-  - zoom
   - თბილისი
   - კავკასია
   - საქართველო

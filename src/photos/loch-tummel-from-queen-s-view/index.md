@@ -1,7 +1,7 @@
 ---
 title: Loch Tummel from Queen's View
 file: loch-tummel-from-queen-s-view.jpg
-date: 2014-05-02 13:05:00 +02:00
+date: 2014-05-02 12:05:00 +01:00
 dates:
   iso: 2014-05-02
   human: 2nd May 2014
@@ -13,14 +13,11 @@ gear:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
 tags:
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - cloud
   - Écosse
   - Europa
   - Europe
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - landscape
@@ -28,15 +25,14 @@ tags:
   - paysage
   - Perth and Kinross
   - Queen's View
-  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
-  - zoom
 settings:
   focal_length: 24
   iso: 200

@@ -1,7 +1,7 @@
 ---
 title: La Demoiselle du Quai des Dames
 file: la-demoiselle-du-quai-des-dames.jpg
-date: 2017-06-08 21:06:00 +02:00
+date: 2017-06-08 20:06:00 +01:00
 dates:
   iso: 2017-06-08
   human: 8th June 2017
@@ -15,7 +15,6 @@ gear:
 tags:
   - aile
   - animal
-  - APS-C
   - bleu
   - blue
   - damselfly
@@ -25,18 +24,12 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
   - green
-  - hybrid
   - Ile de France
   - insect
   - insecte
   - Insectes
   - insects
-  - prime
   - Quai des Dames
   - vert
   - wing

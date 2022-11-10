@@ -1,7 +1,7 @@
 ---
 title: Flamingos wading in wetlands in Amboseli National Park
 file: flamingos-wading-in-wetlands-in-amboseli-national-park.jpg
-date: 2019-03-01 08:03:00 +02:00
+date: 2019-03-01 07:03:00 +01:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -21,19 +21,11 @@ tags:
   - Amboseli National Park
   - animal
   - animalière
-  - APS-C
   - bird
   - birds
-  - converter
   - eau
   - Flamant rose
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
   - Greater Flamingo
-  - hybrid
   - Kajiado
   - Kenya
   - lac
@@ -48,7 +40,6 @@ tags:
   - Phoenicoptériformes
   - Phoenicopterus roseus
   - water
-  - zoom
 settings:
   focal_length: 200
   focal_length_35mm: 300

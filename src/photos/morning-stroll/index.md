@@ -1,7 +1,7 @@
 ---
 title: Morning stroll
 file: morning-stroll.jpg
-date: 2019-03-01 07:03:00 +02:00
+date: 2019-03-01 06:03:00 +01:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -21,8 +21,6 @@ tags:
   - Amboseli National Park
   - animal
   - animalière
-  - APS-C
-  - converter
   - défense
   - défense d'éléphant
   - elephant
@@ -30,12 +28,6 @@ tags:
   - elephant tusk
   - Elephantidae
   - Éléphantidés
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF1.4× TC WR
-  - hybrid
   - ivoire
   - ivory
   - Kajiado
@@ -54,7 +46,6 @@ tags:
   - sunrise
   - tusk
   - wild
-  - zoom
 settings:
   focal_length: 378.8
   focal_length_35mm: 568

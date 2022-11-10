@@ -1,7 +1,7 @@
 ---
 title: Not so colourful Netherlands
 file: not-so-colourful-netherlands.jpg
-date: 2015-07-13 16:07:00 +02:00
+date: 2015-07-13 15:07:00 +01:00
 dates:
   iso: 2015-07-13
   human: 13th July 2015
@@ -15,11 +15,11 @@ tags:
   - black and white
   - boat
   - building
+  - ciel
   - city
   - cityscape
   - cloud
   - clouds
-  - compact
   - eau
   - Europa
   - Europe
@@ -43,8 +43,6 @@ tags:
   - Reitdiep
   - Reitdiephaven
   - sky
-  - Sony
-  - Sony RX100 Mark III
   - The Netherlands
   - urbain
   - urban

@@ -1,7 +1,7 @@
 ---
 title: The (new) Road to Hell('s Kitchen)
 file: the-new-road-to-hell-s-kitchen.jpg
-date: 2015-05-22 10:05:00 +02:00
+date: 2015-05-22 09:05:00 +01:00
 dates:
   iso: 2015-05-22
   human: 22nd May 2015
@@ -17,11 +17,8 @@ tags:
   - Amérique du Nord
   - arbre
   - camion
-  - Canon
-  - Canon EOS 5D Mark II
   - États-Unis
   - États-Unis d'Amérique
-  - full frame
   - Hell's Kitchen
   - Manhattan
   - New-York
@@ -31,13 +28,9 @@ tags:
   - ouvrier
   - panneau
   - plant
-  - prime
-  - reflex
   - road
   - route
   - rue
-  - Sigma
-  - Sigma 50mm F1.4 EX DG HSM
   - sign
   - street
   - tourism

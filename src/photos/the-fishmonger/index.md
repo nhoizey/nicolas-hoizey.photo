@@ -1,7 +1,7 @@
 ---
 title: The fishmonger
 file: the-fishmonger.jpg
-date: 2015-08-09 16:08:00 +02:00
+date: 2015-08-09 15:08:00 +01:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -14,7 +14,6 @@ tags:
   - Asie
   - China
   - Chine
-  - compact
   - fishmonger
   - Hong Kong
   - Hong Kong City
@@ -25,8 +24,6 @@ tags:
   - nuit
   - photo de rue
   - poissonnier
-  - Sony
-  - Sony RX100 Mark III
   - street
   - street photography
   - tourism

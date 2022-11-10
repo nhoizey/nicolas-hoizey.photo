@@ -1,7 +1,7 @@
 ---
 title: The Way of Zen
 file: the-way-of-zen.jpg
-date: 2015-08-08 16:08:00 +02:00
+date: 2015-08-08 15:08:00 +01:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -16,7 +16,6 @@ tags:
   - chemin
   - China
   - Chine
-  - compact
   - door
   - garden
   - Hong Kong
@@ -27,8 +26,6 @@ tags:
   - pathway
   - plant
   - porte
-  - Sony
-  - Sony RX100 Mark III
   - tree
   - végétal
   - zen

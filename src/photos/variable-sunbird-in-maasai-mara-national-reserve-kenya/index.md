@@ -1,7 +1,7 @@
 ---
 title: Variable sunbird in Maasai Mara National Reserve, Kenya
 file: variable-sunbird-in-maasai-mara-national-reserve-kenya.jpg
-date: 2019-02-26 10:02:00 +02:00
+date: 2019-02-26 09:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -19,19 +19,11 @@ tags:
   - Afrique
   - animal
   - animalière
-  - APS-C
   - bird
   - birds
   - black
   - branche
   - Cinnyris venustus
-  - converter
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - jaune
   - Kenya
   - Maasai
@@ -54,7 +46,6 @@ tags:
   - violet
   - yellow
   - yellow-bellied sunbird
-  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

@@ -1,7 +1,7 @@
 ---
 title: 波動拳 (aka Hadoken)
 file: aka-hadoken.jpg
-date: 2014-06-14 16:06:00 +02:00
+date: 2014-06-14 15:06:00 +01:00
 dates:
   iso: 2014-06-14
   human: 14th June 2014
@@ -17,13 +17,9 @@ tags:
   - adulte
   - B&W
   - black and white
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - Europa
   - Europe
   - France
-  - full frame
   - Goulven
   - Lyon
   - musée
@@ -32,8 +28,6 @@ tags:
   - outdoor
   - personne
   - portrait
-  - prime
-  - reflex
   - Rhône
   - Rhône-Alpes
   - type de photo

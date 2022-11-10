@@ -1,7 +1,7 @@
 ---
 title: Common Ostrich
 file: common-ostrich.jpg
-date: 2019-02-26 18:02:00 +02:00
+date: 2019-02-26 17:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -21,18 +21,10 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - autruche d'Afrique
   - bird
   - birds
   - Common Ostrich
-  - converter
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
@@ -48,7 +40,6 @@ tags:
   - Struthioniformes
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 624
   focal_length_35mm: 936

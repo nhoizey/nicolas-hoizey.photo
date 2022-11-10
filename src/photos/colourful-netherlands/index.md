@@ -1,7 +1,7 @@
 ---
 title: Colourful Netherlands
 file: colourful-netherlands.jpg
-date: 2015-07-13 16:07:00 +02:00
+date: 2015-07-13 15:07:00 +01:00
 dates:
   iso: 2015-07-13
   human: 13th July 2015
@@ -15,6 +15,7 @@ tags:
   - blue
   - boat
   - building
+  - ciel
   - city
   - cityscape
   - cloud
@@ -26,7 +27,6 @@ tags:
   - colour
   - colourful
   - colours
-  - compact
   - couleur
   - couleurs
   - eau
@@ -54,8 +54,6 @@ tags:
   - Reitdiephaven
   - rouge
   - sky
-  - Sony
-  - Sony RX100 Mark III
   - The Netherlands
   - urbain
   - urban

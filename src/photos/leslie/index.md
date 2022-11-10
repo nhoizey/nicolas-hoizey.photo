@@ -1,7 +1,7 @@
 ---
 title: Leslie
 file: leslie.jpg
-date: 2014-06-14 17:06:00 +02:00
+date: 2014-06-14 16:06:00 +01:00
 dates:
   iso: 2014-06-14
   human: 14th June 2014
@@ -17,23 +17,17 @@ tags:
   - adulte
   - B&W
   - black and white
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - espace vert
   - Europa
   - Europe
   - France
-  - full frame
   - Lyon
   - noir et blanc
   - outdoor
   - personne
   - portrait
-  - prime
   - promenade
   - Promenade du Bas Rhône
-  - reflex
   - Rhône
   - Rhône-Alpes
   - type de photo

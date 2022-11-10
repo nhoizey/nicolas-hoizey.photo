@@ -1,7 +1,7 @@
 ---
 title: Imeri Gramvousa
 file: imeri-gramvousa.jpg
-date: 2005-09-23 12:09:00 +02:00
+date: 2005-09-23 11:09:00 +01:00
 dates:
   iso: 2005-09-23
   human: 23rd September 2005
@@ -13,12 +13,8 @@ gear:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
 tags:
-  - APS-C
   - bateau
   - boat
-  - Canon
-  - Canon EF-S 17-85mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - Crete
   - Crète
   - eau
@@ -34,12 +30,10 @@ tags:
   - montagne
   - mountain
   - panorama
-  - reflex
   - sea
   - shipwreck
   - vacances
   - water
-  - zoom
   - Ελλάδα
   - Ήμερη Γραμβούσα
   - Κρήτη

@@ -1,7 +1,7 @@
 ---
 title: An evening on top of Rome
 file: an-evening-on-top-of-rome.jpg
-date: 2017-05-12 20:05:00 +02:00
+date: 2017-05-12 19:05:00 +01:00
 dates:
   iso: 2017-05-12
   human: 12th May 2017
@@ -13,21 +13,14 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Italia
   - Italie
   - Italy
   - Roma
   - Rome
   - toit
-  - zoom
 settings:
   focal_length: 24
   focal_length_35mm: 36

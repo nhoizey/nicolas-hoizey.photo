@@ -1,7 +1,7 @@
 ---
 title: Toucan toco
 file: toucan-toco.jpg
-date: 2008-05-11 15:05:00 +02:00
+date: 2008-05-11 14:05:00 +01:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -17,13 +17,9 @@ tags:
   - animal captif
   - animalière
   - animaux captifs
-  - APS-C
   - bird
   - birds
   - black
-  - Canon
-  - Canon EF 70-300mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - captif
   - captivité
   - captivity
@@ -40,14 +36,12 @@ tags:
   - Piciformes
   - Ramphastidés
   - Ramphastos toco
-  - reflex
   - Rhenen
   - The Netherlands
   - Toco Toucan
   - Toucan toco
   - Utrecht
   - zoo
-  - zoom
 settings:
   focal_length: 300
   iso: 400

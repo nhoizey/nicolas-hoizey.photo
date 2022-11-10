@@ -1,7 +1,7 @@
 ---
 title: The Blacksmith
 file: the-blacksmith.jpg
-date: 2014-07-12 15:07:00 +02:00
+date: 2014-07-12 14:07:00 +01:00
 dates:
   iso: 2014-07-12
   human: 12th July 2014
@@ -16,7 +16,6 @@ tags:
   - barbe
   - beard
   - blacksmith
-  - compact
   - craftsman
   - enclume
   - Europa
@@ -35,8 +34,6 @@ tags:
   - Openluchtmuseum
   - outil
   - Pays-Bas
-  - Sony
-  - Sony RX100 Mark III
   - The Netherlands
   - tool
 settings:

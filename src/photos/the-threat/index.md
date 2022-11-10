@@ -1,7 +1,7 @@
 ---
 title: The threat
 file: the-threat.jpg
-date: 2017-05-19 21:05:00 +02:00
+date: 2017-05-19 20:05:00 +01:00
 dates:
   iso: 2017-05-19
   human: 19th May 2017
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - Cathédrale Notre-Dame
   - Cathédrale Notre-Dame de Paris
   - ciel
@@ -22,18 +21,12 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Ile de France
   - Île de la Cité
   - Notre-Dame
   - Notre-Dame de Paris
   - nuage
   - Paris
-  - prime
   - sky
   - Tour Eiffel
 settings:

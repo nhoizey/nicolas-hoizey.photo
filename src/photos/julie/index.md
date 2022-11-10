@@ -1,7 +1,7 @@
 ---
 title: Julie
 file: julie.jpg
-date: 2017-03-25 13:03:00 +02:00
+date: 2017-03-25 12:03:00 +01:00
 dates:
   iso: 2017-03-25
   human: 25th March 2017
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - bust
   - buste
   - color
@@ -28,11 +27,6 @@ tags:
   - épaule
   - fashion
   - femme
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - mackeup
   - make up
   - maquillage
@@ -42,7 +36,6 @@ tags:
   - peau
   - pink
   - portrait
-  - prime
   - rose
   - shoulder
   - skin

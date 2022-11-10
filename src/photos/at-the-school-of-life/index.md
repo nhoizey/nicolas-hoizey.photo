@@ -1,7 +1,7 @@
 ---
 title: At the school of life
 file: at-the-school-of-life.jpg
-date: 2019-02-26 17:02:00 +02:00
+date: 2019-02-26 16:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -21,20 +21,12 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
-  - converter
   - equidae
   - équidés
   - equus quagga
   - equus quagga bohemi
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
   - Grant's zebra
   - horse family
-  - hybrid
   - imparidigités
   - Kenya
   - Maasai
@@ -58,7 +50,6 @@ tags:
   - zèbre de Burchell
   - zèbre de Grant
   - zèbre des plaines
-  - zoom
 settings:
   focal_length: 200
   focal_length_35mm: 300

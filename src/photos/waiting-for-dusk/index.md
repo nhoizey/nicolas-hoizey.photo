@@ -1,7 +1,7 @@
 ---
 title: Waiting for dusk
 file: waiting-for-dusk.jpg
-date: 2019-03-01 08:03:00 +02:00
+date: 2019-03-01 07:03:00 +01:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -23,21 +23,13 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - bush
-  - converter
   - evening
   - felidae
   - félidés
   - félins
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF1.4× TC WR
   - grass
   - herbe
-  - hybrid
   - Kajiado
   - Kenya
   - light
@@ -61,7 +53,6 @@ tags:
   - wild
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 560
   focal_length_35mm: 840

@@ -1,7 +1,7 @@
 ---
 title: A Long-tailed Tit in Sweden
 file: a-long-tailed-tit-in-sweden.jpg
-date: 2020-02-05 13:02:00 +02:00
+date: 2020-02-05 12:02:00 +01:00
 dates:
   iso: 2020-02-05
   human: 5th February 2020
@@ -21,19 +21,13 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - bird
   - birds
   - bushtits
   - Comté de Stockholm
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
   - Hagby Ekopark
-  - hybrid
   - Kingdom of Sweden
   - Konungariket Sverige
   - Long-tailed Tit
@@ -42,7 +36,6 @@ tags:
   - oiseau
   - Oiseaux
   - Orite à longue queue
-  - prime
   - sauvage
   - Stjärtmes
   - Stockholm County

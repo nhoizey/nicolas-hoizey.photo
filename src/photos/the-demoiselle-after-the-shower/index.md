@@ -1,7 +1,7 @@
 ---
 title: The demoiselle after the shower
 file: the-demoiselle-after-the-shower.jpg
-date: 2018-09-16 07:09:00 +02:00
+date: 2018-09-16 06:09:00 +01:00
 dates:
   iso: 2018-09-16
   human: 16th September 2018
@@ -14,7 +14,6 @@ gear:
       model: Fujinon XF 56mm f/1.2 R
 tags:
   - animal
-  - APS-C
   - aube
   - damselfly
   - demoiselle
@@ -23,12 +22,7 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
   - goutte
-  - hybrid
   - Ile de France
   - insect
   - insecte
@@ -37,7 +31,6 @@ tags:
   - levé de soleil
   - matin
   - morning
-  - prime
   - rosée
   - soleil
   - sun

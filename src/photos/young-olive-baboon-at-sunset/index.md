@@ -1,7 +1,7 @@
 ---
 title: Young olive baboon at sunset
 file: young-olive-baboon-at-sunset.jpg
-date: 2019-02-27 19:02:00 +02:00
+date: 2019-02-27 18:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -20,22 +20,14 @@ tags:
   - animal
   - animalière
   - Anubis baboon
-  - APS-C
   - baboon
   - babouin
   - babouin olive
   - branche
   - Cercopithecidae
   - cercopithécidés
-  - converter
   - coucher de soleil
   - evening
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kenya
   - lac
   - Lac Nakuru
@@ -59,7 +51,6 @@ tags:
   - soir
   - soleil
   - sunset
-  - zoom
 settings:
   focal_length: 407.4
   focal_length_35mm: 611

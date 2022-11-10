@@ -1,7 +1,7 @@
 ---
 title: Kilchurn Castle
 file: kilchurn-castle.jpg
-date: 2014-04-30 18:04:00 +02:00
+date: 2014-04-30 17:04:00 +01:00
 dates:
   iso: 2014-04-30
   human: 30th April 2014
@@ -14,30 +14,26 @@ gear:
       model: EF 24-70mm f/2.8L USM
 tags:
   - Argyll and Bute
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - castle
   - château
   - Château de Kilchurn
+  - ciel
   - cloud
   - Écosse
   - Europa
   - Europe
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - Kilchurn Castle
   - nuage
-  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
-  - zoom
 settings:
   focal_length: 70
   iso: 200

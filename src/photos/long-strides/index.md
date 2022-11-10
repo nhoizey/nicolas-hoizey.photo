@@ -1,7 +1,7 @@
 ---
 title: Long strides
 file: long-strides.jpg
-date: 2018-05-13 17:05:00 +02:00
+date: 2018-05-13 16:05:00 +01:00
 dates:
   iso: 2018-05-13
   human: 13th May 2018
@@ -13,18 +13,12 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
 tags:
-  - APS-C
   - athletics
   - athlétisme
   - Essonne
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - hybrid
   - Ile de France
   - Montgeron
   - piste
@@ -34,7 +28,6 @@ tags:
   - Stade Pierre de Coubertin
   - track
   - track and field
-  - zoom
 settings:
   focal_length: 400
   focal_length_35mm: 600

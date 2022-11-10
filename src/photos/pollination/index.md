@@ -1,7 +1,7 @@
 ---
 title: Pollination
 file: pollination.jpg
-date: 2020-06-23 20:06:00 +02:00
+date: 2020-06-23 19:06:00 +01:00
 dates:
   iso: 2020-06-23
   human: 23rd June 2020
@@ -15,7 +15,6 @@ gear:
 tags:
   - abeille
   - animal
-  - APS-C
   - bee
   - Essonne
   - Étiolles
@@ -23,11 +22,6 @@ tags:
   - Europe
   - fleur
   - France
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
-  - hybrid
   - Ile de France
   - insect
   - insecte
@@ -35,7 +29,6 @@ tags:
   - insects
   - macro
   - plant
-  - prime
   - végétal
 settings:
   focal_length: 80

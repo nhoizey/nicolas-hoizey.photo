@@ -1,7 +1,7 @@
 ---
 title: Double helix
 file: double-helix.jpg
-date: 2017-05-12 15:05:00 +02:00
+date: 2017-05-12 14:05:00 +01:00
 dates:
   iso: 2017-05-12
   human: 12th May 2017
@@ -14,7 +14,6 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
   - above
-  - APS-C
   - architecture
   - au dessus
   - cercle
@@ -25,13 +24,8 @@ tags:
   - escalier hélicoïdal
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - high angle
   - high angle view
-  - hybrid
   - Italia
   - Italie
   - Italy
@@ -56,7 +50,6 @@ tags:
   - Vatican City
   - Vatican Museums
   - vue d'en haut
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

@@ -16,7 +16,6 @@ tags:
   - Andalusia
   - cinema
   - cinéma
-  - compact
   - décors
   - Espagne
   - España
@@ -25,8 +24,6 @@ tags:
   - film
   - film set
   - Fort Bravo
-  - Konica
-  - Konica KD-400Z
   - movie
   - ochre
   - ocre

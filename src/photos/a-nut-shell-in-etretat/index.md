@@ -1,7 +1,7 @@
 ---
 title: A nut shell in Étretat
 file: a-nut-shell-in-etretat.jpg
-date: 2013-07-28 13:07:00 +02:00
+date: 2013-07-28 12:07:00 +01:00
 dates:
   iso: 2013-07-28
   human: 28th July 2013
@@ -17,9 +17,6 @@ tags:
   - bleu
   - blue
   - boat
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - cliff
   - Côte d’Albâtre
   - eau
@@ -28,7 +25,6 @@ tags:
   - Europe
   - falaise
   - France
-  - full frame
   - La Manneporte
   - landscape
   - mer
@@ -38,12 +34,10 @@ tags:
   - pink
   - Pisseuses de Valaine
   - Pointe de la Courtine
-  - reflex
   - rose
   - sea
   - Seine-Maritime
   - water
-  - zoom
 settings:
   focal_length: 34
   iso: 100

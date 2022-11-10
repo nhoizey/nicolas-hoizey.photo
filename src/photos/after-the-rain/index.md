@@ -1,7 +1,7 @@
 ---
 title: After the rain…
 file: after-the-rain.jpg
-date: 2018-12-09 17:12:00 +02:00
+date: 2018-12-09 16:12:00 +01:00
 dates:
   iso: 2018-12-09
   human: 9th December 2018
@@ -13,25 +13,18 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - arbre
   - Draveil
   - Essonne
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Ile de France
   - outdoor
   - parapluie
   - plant
   - Port aux Cerises
   - portrait
-  - prime
   - tree
   - umbrella
   - végétal

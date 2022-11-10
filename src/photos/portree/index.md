@@ -1,7 +1,7 @@
 ---
 title: Portree
 file: portree.jpg
-date: 2014-05-01 15:05:00 +02:00
+date: 2014-05-01 14:05:00 +01:00
 dates:
   iso: 2014-05-01
   human: 1st May 2014
@@ -17,10 +17,9 @@ tags:
   - boat
   - boats
   - building
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - city
+  - cloud
   - color
   - coloré
   - colorful
@@ -34,31 +33,31 @@ tags:
   - Europa
   - Europe
   - fishing boats
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - harbor
   - harbour
   - Hébrides intérieures
+  - Highland
   - hills
   - Ile de Skye
   - immeuble
   - Inner Hebrides
   - Isle of Skye
+  - nuage
   - paint
   - pier
   - Portree
-  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
   - sea
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
   - ville
-  - zoom
 settings:
   focal_length: 32
   iso: 200
@@ -68,8 +67,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 57.413064405
-  longitude: -6.191885431666667
+  latitude: 57.412870831666666
+  longitude: -6.191220243333333
   map: true
   country: Scotland
   city: Portree

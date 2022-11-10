@@ -1,7 +1,7 @@
 ---
 title: A bridge not so far
 file: a-bridge-not-so-far.jpg
-date: 2015-05-23 20:05:00 +02:00
+date: 2015-05-23 19:05:00 +01:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -16,7 +16,6 @@ tags:
   - Brooklyn
   - building
   - city
-  - compact
   - DUMBO
   - dusk
   - États-Unis
@@ -31,8 +30,6 @@ tags:
   - nuit
   - NYC
   - photo de rue
-  - Sony
-  - Sony RX100 Mark III
   - street
   - street photography
   - travel

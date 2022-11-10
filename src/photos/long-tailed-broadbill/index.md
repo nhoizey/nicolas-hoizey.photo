@@ -1,7 +1,7 @@
 ---
 title: Long-tailed Broadbill
 file: long-tailed-broadbill.jpg
-date: 2015-08-08 16:08:00 +02:00
+date: 2015-08-08 15:08:00 +01:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -22,9 +22,6 @@ tags:
   - aviary
   - bird
   - birds
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - captif
   - captivité
   - captivity
@@ -34,7 +31,6 @@ tags:
   - Eurylaime psittacin
   - Eurylaimidae
   - Eurylaimidés
-  - full frame
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
@@ -43,9 +39,7 @@ tags:
   - oiseau
   - Oiseaux
   - Passériformes
-  - prime
   - Psarisomus dalhousiae
-  - reflex
   - volière
 settings:
   focal_length: 135

@@ -1,7 +1,7 @@
 ---
 title: Tian Tan Buddha
 file: tian-tan-buddha.jpg
-date: 2015-08-16 09:08:00 +02:00
+date: 2015-08-16 08:08:00 +01:00
 dates:
   iso: 2015-08-16
   human: 16th August 2015
@@ -15,15 +15,12 @@ tags:
   - Bouddha de Tian Tan
   - China
   - Chine
-  - compact
   - Hong Kong
   - Lan Tao
   - Lantao Island
   - Lantau
   - Lantau Island
   - Ngong Ping
-  - Sony
-  - Sony RX100 Mark III
   - The Big Buddha
   - Tian Tan Buddha
   - 天壇大佛

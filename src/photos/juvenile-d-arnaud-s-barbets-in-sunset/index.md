@@ -1,7 +1,7 @@
 ---
 title: Juvenile D'Arnaud's Barbets in sunset
 file: juvenile-d-arnaud-s-barbets-in-sunset.jpg
-date: 2019-02-26 19:02:00 +02:00
+date: 2019-02-26 18:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -19,20 +19,12 @@ tags:
   - Afrique
   - animal
   - animalière
-  - APS-C
   - Barbican d'Arnaud
   - bird
   - birds
   - black
   - blanc
-  - converter
   - D'Arnaud's Barbet
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kenya
   - Lybiidae
   - Lybiidés
@@ -48,7 +40,6 @@ tags:
   - reserve
   - Trachyphonus darnaudii
   - white
-  - zoom
 settings:
   focal_length: 581.2
   focal_length_35mm: 872

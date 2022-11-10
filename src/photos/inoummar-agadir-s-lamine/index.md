@@ -1,7 +1,7 @@
 ---
 title: Inoummar agadir's Lamine
 file: inoummar-agadir-s-lamine.jpg
-date: 2011-05-06 13:05:00 +02:00
+date: 2011-05-06 12:05:00 +01:00
 dates:
   iso: 2011-05-06
   human: 6th May 2011
@@ -20,9 +20,6 @@ tags:
   - Anti-Atlas
   - Aṭlas Ameẓyan
   - Aṭlas Mẓiyn
-  - Canon
-  - Canon EOS 5D Mark II
-  - full frame
   - gardien
   - guard
   - igidar
@@ -35,10 +32,6 @@ tags:
   - Little Atlas
   - Maroc
   - Marocco
-  - prime
-  - reflex
-  - Sigma
-  - Sigma 50mm F1.4 EX DG HSM
   - Souss-Massa
   - الأطلس الصغير
   - ⴰⴳⴰⴷⵉⵔ

@@ -18,7 +18,6 @@ tags:
   - cheval
   - cinema
   - cinéma
-  - compact
   - cowboy
   - décors
   - equidae
@@ -32,8 +31,6 @@ tags:
   - Fort Bravo
   - horse family
   - imparidigités
-  - Konica
-  - Konica KD-400Z
   - mammal
   - mammalia
   - mammals

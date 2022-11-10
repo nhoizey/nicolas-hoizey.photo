@@ -1,7 +1,7 @@
 ---
 title: The many faces of Iron Man
 file: the-many-faces-of-iron-man.jpg
-date: 2015-08-15 13:08:00 +02:00
+date: 2015-08-15 12:08:00 +01:00
 dates:
   iso: 2015-08-15
   human: 15th August 2015
@@ -18,7 +18,6 @@ tags:
   - Chine
   - cinema
   - cinéma
-  - compact
   - figurine
   - figurine articulée
   - Hong Kong
@@ -26,8 +25,6 @@ tags:
   - Iron Man
   - Marvel
   - Mong Kok
-  - Sony
-  - Sony RX100 Mark III
   - Tony Stark
 settings:
   focal_length: 8.8

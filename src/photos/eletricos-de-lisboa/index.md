@@ -1,7 +1,7 @@
 ---
 title: Elétricos de Lisboa
 file: eletricos-de-lisboa.jpg
-date: 2016-10-01 09:10:00 +02:00
+date: 2016-10-01 08:10:00 +01:00
 dates:
   iso: 2016-10-01
   human: 1st October 2016
@@ -13,19 +13,14 @@ gear:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
 tags:
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - Europa
   - Europe
-  - full frame
   - Lisboa
   - Lisbon
   - Lisbonne
   - photo de rue
   - Portugal
   - rail
-  - reflex
   - road
   - route
   - street
@@ -43,7 +38,6 @@ tags:
   - vehicles
   - véhicule
   - voyage
-  - zoom
 settings:
   focal_length: 24
   iso: 100

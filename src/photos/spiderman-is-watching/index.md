@@ -1,7 +1,7 @@
 ---
 title: Spiderman is watching
 file: spiderman-is-watching.jpg
-date: 2019-02-26 18:02:00 +02:00
+date: 2019-02-26 17:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -22,14 +22,6 @@ tags:
   - Agamidae
   - animal
   - animalière
-  - APS-C
-  - converter
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kenya
   - lézard
   - lézard spiderman
@@ -49,7 +41,6 @@ tags:
   - rock
   - Squamata
   - Squamates
-  - zoom
 settings:
   focal_length: 265.8
   focal_length_35mm: 399

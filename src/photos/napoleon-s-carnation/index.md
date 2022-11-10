@@ -1,7 +1,7 @@
 ---
 title: Napoleon's carnation
 file: napoleon-s-carnation.jpg
-date: 2020-06-23 20:06:00 +02:00
+date: 2020-06-23 19:06:00 +01:00
 dates:
   iso: 2020-06-23
   human: 23rd June 2020
@@ -14,7 +14,6 @@ gear:
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
 tags:
   - animal
-  - APS-C
   - Arachnid
   - Arachnida
   - Arachnides
@@ -43,11 +42,6 @@ tags:
   - fleur
   - focus stacking
   - France
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
-  - hybrid
   - Ile de France
   - Labidognatha
   - Labidognathes
@@ -55,7 +49,6 @@ tags:
   - Napoleon spider
   - œillet
   - plant
-  - prime
   - spider
   - spiders
   - Synema globosum

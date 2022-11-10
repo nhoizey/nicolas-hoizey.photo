@@ -1,7 +1,7 @@
 ---
 title: Lumberjacks
 file: lumberjacks.jpg
-date: 2021-12-01 01:12:00 +02:00
+date: 2021-12-01 00:12:00 +01:00
 dates:
   iso: 2021-12-01
   human: 1st December 2021
@@ -15,21 +15,14 @@ gear:
 tags:
   - 1:87
   - 1/87
-  - APS-C
   - bois
   - bucheron
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - green
   - HO
-  - hybrid
   - lumberjack
   - macro
   - miniature
   - Preiser
-  - prime
   - saw
   - scie
   - vert

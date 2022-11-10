@@ -1,7 +1,7 @@
 ---
 title: Japanese Zen
 file: japanese-zen.jpg
-date: 2009-04-01 15:04:00 +02:00
+date: 2009-04-01 14:04:00 +01:00
 dates:
   iso: 2009-04-01
   human: 1st April 2009
@@ -16,14 +16,10 @@ tags:
   - arbre
   - Boulogne
   - bridge
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - eau
   - Europa
   - Europe
   - France
-  - full frame
   - garden
   - green
   - Hauts de Seine
@@ -35,7 +31,6 @@ tags:
   - plant
   - pont
   - red
-  - reflex
   - river
   - rivière
   - rocher
@@ -45,7 +40,6 @@ tags:
   - végétal
   - vert
   - water
-  - zoom
 settings:
   focal_length: 35
   iso: 100

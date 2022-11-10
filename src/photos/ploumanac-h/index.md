@@ -1,7 +1,7 @@
 ---
 title: Ploumanac'h
 file: ploumanac-h.jpg
-date: 2013-08-23 09:08:00 +02:00
+date: 2013-08-23 08:08:00 +01:00
 dates:
   iso: 2013-08-23
   human: 23rd August 2013
@@ -15,30 +15,26 @@ gear:
 tags:
   - Bretagne
   - Britany
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - cloud
   - Côtes d'Armor
   - eau
   - Europa
   - Europe
   - France
-  - full frame
   - lighthouse
   - mer
   - nuage
   - phare
   - Ploumanac'h
-  - reflex
   - rive
   - rocher
   - rock
   - sea
   - shore
+  - sky
   - vague
   - water
-  - zoom
 settings:
   focal_length: 24
   iso: 200

@@ -1,7 +1,7 @@
 ---
 title: Another colourful window in Burano
 file: another-colourful-window-in-burano.jpg
-date: 2008-04-26 16:04:00 +02:00
+date: 2008-04-26 15:04:00 +01:00
 dates:
   iso: 2008-04-26
   human: 26th April 2008
@@ -10,12 +10,9 @@ gear:
     brand: Canon
     model: EOS 350D
 tags:
-  - APS-C
   - bleu
   - blue
   - Burano
-  - Canon
-  - Canon EOS 350D
   - city
   - Europa
   - Europe
@@ -24,7 +21,6 @@ tags:
   - Italy
   - jaune
   - red
-  - reflex
   - rouge
   - urbain
   - urban

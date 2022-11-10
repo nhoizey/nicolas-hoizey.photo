@@ -1,7 +1,7 @@
 ---
 title: African baobab
 file: african-baobab.jpg
-date: 2019-03-01 16:03:00 +02:00
+date: 2019-03-01 15:03:00 +01:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -17,19 +17,11 @@ tags:
   - Africa
   - African baobab
   - Afrique
-  - APS-C
   - arbre
   - baobab
   - Baobab africain
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kenya
-  - pancake
   - plant
-  - prime
   - Taita–Taveta County
   - tree
   - végétal

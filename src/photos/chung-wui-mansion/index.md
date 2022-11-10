@@ -1,7 +1,7 @@
 ---
 title: Chung Wui Mansion
 file: chung-wui-mansion.jpg
-date: 2015-08-09 14:08:00 +02:00
+date: 2015-08-09 13:08:00 +01:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -15,12 +15,9 @@ tags:
   - China
   - Chine
   - Chung Wui Mansion
-  - compact
   - Hong Kong
   - Hong Kong City
   - Hong Kong Island
-  - Sony
-  - Sony RX100 Mark III
   - Wan Chai
 settings:
   focal_length: 8.8

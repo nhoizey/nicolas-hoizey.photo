@@ -1,7 +1,7 @@
 ---
 title: Colourful Burano
 file: colourful-burano.jpg
-date: 2008-04-26 16:04:00 +02:00
+date: 2008-04-26 15:04:00 +01:00
 dates:
   iso: 2008-04-26
   human: 26th April 2008
@@ -13,14 +13,10 @@ gear:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
 tags:
-  - APS-C
   - bateau
   - boat
   - Burano
   - canal
-  - Canon
-  - Canon EF-S 17-85mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - coloré
   - colorful
   - colourful
@@ -30,12 +26,10 @@ tags:
   - Italia
   - Italie
   - Italy
-  - reflex
   - Venezia
   - Venice
   - Venise
   - water
-  - zoom
 settings:
   focal_length: 26
   iso: 100

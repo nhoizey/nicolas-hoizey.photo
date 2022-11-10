@@ -1,7 +1,7 @@
 ---
 title: Let's go for a ride
 file: let-s-go-for-a-ride.jpg
-date: 2015-08-13 15:08:00 +02:00
+date: 2015-08-13 14:08:00 +01:00
 dates:
   iso: 2015-08-13
   human: 13th August 2015
@@ -17,7 +17,6 @@ tags:
   - chinese
   - chinois
   - city
-  - compact
   - dashboard
   - Hong Kong
   - Hong Kong City
@@ -35,8 +34,6 @@ tags:
   - sign
   - signage
   - signalisation
-  - Sony
-  - Sony RX100 Mark III
   - steering wheel
   - tableau de bord
   - taxi

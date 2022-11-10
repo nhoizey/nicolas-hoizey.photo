@@ -1,7 +1,7 @@
 ---
 title: Don't be afraid, I'm just yawning
 file: don-t-be-afraid-i-m-just-yawning.jpg
-date: 2019-02-28 19:02:00 +02:00
+date: 2019-02-28 18:02:00 +01:00
 dates:
   iso: 2019-02-28
   human: 28th February 2019
@@ -21,17 +21,9 @@ tags:
   - Amboseli National Park
   - animal
   - animalière
-  - APS-C
-  - converter
   - felidae
   - félidés
   - félins
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kajiado
   - Kenya
   - lion
@@ -43,7 +35,6 @@ tags:
   - National Park
   - Panthera leo
   - Parc national d'Amboseli
-  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

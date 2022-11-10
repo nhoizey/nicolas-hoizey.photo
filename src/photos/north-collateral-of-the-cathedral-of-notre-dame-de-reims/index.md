@@ -1,7 +1,7 @@
 ---
 title: North collateral of the Cathedral of Notre-Dame de Reims
 file: north-collateral-of-the-cathedral-of-notre-dame-de-reims.jpg
-date: 2019-04-28 14:04:00 +02:00
+date: 2019-04-28 13:04:00 +01:00
 dates:
   iso: 2019-04-28
   human: 28th April 2019
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
 tags:
-  - APS-C
   - arcade
   - cathédrale
   - Cathédrale Notre-Dame de Reims
@@ -23,16 +22,9 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
   - Grand Est
-  - hybrid
   - Marne
   - ogive
-  - pancake
-  - prime
   - Reims
   - voûte
 settings:

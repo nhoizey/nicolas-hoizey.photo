@@ -1,7 +1,7 @@
 ---
 title: Did I go over the top?
 file: did-i-go-over-the-top.jpg
-date: 2014-05-02 12:05:00 +02:00
+date: 2014-05-02 11:05:00 +01:00
 dates:
   iso: 2014-05-02
   human: 2nd May 2014
@@ -13,11 +13,10 @@ gear:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
 tags:
+  - Blair Castle
   - bleu
   - blue
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - Caisteil Bhlàir
   - color
   - coloré
   - colorful
@@ -27,9 +26,13 @@ tags:
   - colours
   - couleur
   - couleurs
+  - Écosse
+  - Europa
+  - Europe
   - feather
   - feathers
-  - full frame
+  - Grande-Bretagne
+  - Great Britain
   - green
   - Indian peacock
   - iridescence
@@ -37,9 +40,15 @@ tags:
   - paon
   - peacock
   - peafowl
-  - reflex
+  - Perth and Kinross
+  - Royaume Uni
+  - Royaume-Uni
+  - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+  - Scotland
+  - UK
+  - United Kingdom
+  - United Kingdom of Great Britain and Northern Ireland
   - vert
-  - zoom
 settings:
   focal_length: 50
   iso: 200
@@ -49,8 +58,8 @@ dimensions:
   width: 1948
   height: 1299
 geo:
-  latitude: 56.77447179166667
-  longitude: -3.8568842266666667
+  latitude: 56.773540005
+  longitude: -3.85580866
   map: true
   country: Scotland
   city: Blair Castle

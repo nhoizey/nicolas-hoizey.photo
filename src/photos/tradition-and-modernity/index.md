@@ -1,7 +1,7 @@
 ---
 title: Tradition and modernity
 file: tradition-and-modernity.jpg
-date: 2015-08-09 20:08:00 +02:00
+date: 2015-08-09 19:08:00 +01:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -19,7 +19,6 @@ tags:
   - China
   - Chine
   - Chinese Junk
-  - compact
   - détroit
   - Hong Kong
   - Hong Kong City
@@ -29,8 +28,6 @@ tags:
   - red
   - rouge
   - sea
-  - Sony
-  - Sony RX100 Mark III
   - strait
   - Victoria Harbour
   - 張保仔

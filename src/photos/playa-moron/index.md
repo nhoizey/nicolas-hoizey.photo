@@ -1,7 +1,7 @@
 ---
 title: Playa Morón
 file: playa-moron.jpg
-date: 2018-02-28 12:02:00 +02:00
+date: 2018-02-28 11:02:00 +01:00
 dates:
   iso: 2018-02-28
   human: 28th February 2018
@@ -15,7 +15,6 @@ gear:
 tags:
   - America
   - Amérique
-  - APS-C
   - arbre
   - beach
   - bleu
@@ -24,13 +23,8 @@ tags:
   - Caraïbes
   - Caribbean
   - Dominican Republic
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - green
   - Hispaniola
-  - hybrid
   - mer
   - ombre
   - palm tree
@@ -48,7 +42,6 @@ tags:
   - tree
   - végétal
   - vert
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

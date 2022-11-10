@@ -1,7 +1,7 @@
 ---
 title: Bacchus dream
 file: bacchus-dream.jpg
-date: 2007-11-03 18:11:00 +02:00
+date: 2007-11-03 17:11:00 +01:00
 dates:
   iso: 2007-11-03
   human: 3rd November 2007
@@ -13,16 +13,12 @@ gear:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
 tags:
-  - APS-C
   - ardoise
   - beverage
   - blackboard
   - boisson
   - bottle
   - bouteille
-  - Canon
-  - Canon EF-S 17-85mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - cave
   - cellar
   - dirty
@@ -36,7 +32,6 @@ tags:
   - millésime
   - old
   - poussière
-  - reflex
   - Reims
   - sale
   - vieux
@@ -44,7 +39,6 @@ tags:
   - vintage
   - Vranken-Pommery Monopole
   - wine
-  - zoom
 settings:
   focal_length: 17
   iso: 1600

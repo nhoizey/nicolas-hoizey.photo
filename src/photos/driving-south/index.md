@@ -1,7 +1,7 @@
 ---
 title: Driving south
 file: driving-south.jpg
-date: 2015-05-19 13:05:00 +02:00
+date: 2015-05-19 12:05:00 +01:00
 dates:
   iso: 2015-05-19
   human: 19th May 2015
@@ -19,13 +19,9 @@ tags:
   - B&W
   - black and white
   - Broadway
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - États-Unis
   - États-Unis d'Amérique
   - Flatiron Building
-  - full frame
   - Madison Square
   - Manhattan
   - New-York
@@ -33,8 +29,6 @@ tags:
   - noir et blanc
   - North America
   - NYC
-  - prime
-  - reflex
   - road
   - route
   - rue

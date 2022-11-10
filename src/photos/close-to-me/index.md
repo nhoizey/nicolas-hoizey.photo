@@ -1,7 +1,7 @@
 ---
 title: Close to me
 file: close-to-me.jpg
-date: 2019-02-26 17:02:00 +02:00
+date: 2019-02-26 16:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -17,17 +17,11 @@ tags:
   - Afrique
   - animal
   - animalière
-  - APS-C
   - arbre
   - elephant
   - éléphant
   - Elephantidae
   - Éléphantidés
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
@@ -39,9 +33,7 @@ tags:
   - Masai
   - Masai Mara
   - Narok County
-  - pancake
   - plant
-  - prime
   - reserve
   - tree
   - végétal

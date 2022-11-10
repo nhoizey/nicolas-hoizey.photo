@@ -1,7 +1,7 @@
 ---
 title: Liberty has been framed
 file: liberty-has-been-framed.jpg
-date: 2015-05-19 14:05:00 +02:00
+date: 2015-05-19 13:05:00 +01:00
 dates:
   iso: 2015-05-19
   human: 19th May 2015
@@ -13,7 +13,6 @@ tags:
   - America
   - Amérique du Nord
   - cadre
-  - compact
   - encadré
   - États-Unis
   - États-Unis d'Amérique
@@ -31,8 +30,6 @@ tags:
   - North America
   - NYC
   - silhouette
-  - Sony
-  - Sony RX100 Mark III
   - Statue de la Liberté
   - Statue of Liberty
   - United States

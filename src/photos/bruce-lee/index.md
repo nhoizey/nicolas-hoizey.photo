@@ -1,7 +1,7 @@
 ---
 title: Bruce Lee
 file: bruce-lee.jpg
-date: 2015-08-09 12:08:00 +02:00
+date: 2015-08-09 11:08:00 +01:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -18,16 +18,10 @@ tags:
   - Avenue of Stars
   - bronze
   - Bruce Lee
-  - Canon
-  - Canon EF 135mm f/2L USM
-  - Canon EOS 5D Mark II
   - China
   - Chine
-  - full frame
   - Hong Kong
   - Hong Kong City
-  - prime
-  - reflex
   - statue
 settings:
   focal_length: 135

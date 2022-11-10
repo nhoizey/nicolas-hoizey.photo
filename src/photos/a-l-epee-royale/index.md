@@ -1,7 +1,7 @@
 ---
 title: À l'épée Royale
 file: a-l-epee-royale.jpg
-date: 2013-08-14 15:08:00 +02:00
+date: 2013-08-14 14:08:00 +01:00
 dates:
   iso: 2013-08-14
   human: 14th August 2013
@@ -13,21 +13,15 @@ gear:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
 tags:
-  - Canon
-  - Canon EF 100mm f/2.8 Macro USM
-  - Canon EOS 5D Mark II
   - Élancourt
   - Europa
   - Europe
   - France
   - France Miniature
-  - full frame
   - Ile de France
   - macro
   - maquette
   - miniature
-  - prime
-  - reflex
   - voiture
   - Yvelines
 settings:

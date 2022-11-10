@@ -1,7 +1,7 @@
 ---
 title: Mud lover
 file: mud-lover.jpg
-date: 2008-05-11 13:05:00 +02:00
+date: 2008-05-11 12:05:00 +01:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -11,10 +11,7 @@ gear:
     model: EOS 350D
 tags:
   - animal
-  - APS-C
   - boue
-  - Canon
-  - Canon EOS 350D
   - dierenpark
   - elephant
   - éléphant
@@ -31,7 +28,6 @@ tags:
   - Nederland
   - Ouwehands Dierenpark
   - Pays-Bas
-  - reflex
   - Rhenen
   - The Netherlands
   - Utrecht

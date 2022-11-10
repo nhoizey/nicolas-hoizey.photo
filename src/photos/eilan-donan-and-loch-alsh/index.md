@@ -1,7 +1,7 @@
 ---
 title: Eilan Donan and Loch Alsh
 file: eilan-donan-and-loch-alsh.jpg
-date: 2014-05-01 18:05:00 +02:00
+date: 2014-05-01 17:05:00 +01:00
 dates:
   iso: 2014-05-01
   human: 1st May 2014
@@ -13,30 +13,26 @@ gear:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
 tags:
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - castle
   - château
+  - ciel
   - cloud
   - Écosse
   - Eilean Donan Castle
   - Europa
   - Europe
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - Highland
   - nuage
-  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
-  - zoom
 settings:
   focal_length: 24
   iso: 200

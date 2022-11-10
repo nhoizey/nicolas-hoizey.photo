@@ -1,7 +1,7 @@
 ---
 title: A storm is coming
 file: a-storm-is-coming.jpg
-date: 2019-02-25 18:02:00 +02:00
+date: 2019-02-25 17:02:00 +01:00
 dates:
   iso: 2019-02-25
   human: 25th February 2019
@@ -21,18 +21,10 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
-  - converter
   - elephant
   - éléphant
   - Elephantidae
   - Éléphantidés
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF1.4× TC WR
-  - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
@@ -48,7 +40,6 @@ tags:
   - sauvage
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 140
   focal_length_35mm: 210

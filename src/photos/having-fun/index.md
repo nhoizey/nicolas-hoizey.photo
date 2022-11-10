@@ -1,7 +1,7 @@
 ---
 title: Having fun
 file: having-fun.jpg
-date: 2006-04-01 20:04:00 +02:00
+date: 2006-04-01 19:04:00 +01:00
 dates:
   iso: 2006-04-01
   human: 1st April 2006
@@ -13,15 +13,11 @@ gear:
     - brand: Canon
       model: EF 70-300mm f/4-5.6 IS USM
 tags:
-  - APS-C
   - Athis-Mons
   - B&W
   - bass
   - basse
   - black and white
-  - Canon
-  - Canon EF 70-300mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - concert
   - contre-basse
   - Espace Jean Monnet
@@ -35,10 +31,8 @@ tags:
   - music
   - musique
   - noir et blanc
-  - reflex
   - rire
   - Salle Lino Ventura
-  - zoom
 settings:
   focal_length: 300
   iso: 1600

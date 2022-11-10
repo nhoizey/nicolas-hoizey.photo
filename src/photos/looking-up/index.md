@@ -1,7 +1,7 @@
 ---
 title: Looking up
 file: looking-up.jpg
-date: 2016-09-30 15:09:00 +02:00
+date: 2016-09-30 14:09:00 +01:00
 dates:
   iso: 2016-09-30
   human: 30th September 2016
@@ -17,12 +17,8 @@ tags:
   - blanc
   - blue sky
   - building
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - Europa
   - Europe
-  - full frame
   - immeuble
   - Lisboa
   - Lisbon
@@ -31,11 +27,9 @@ tags:
   - Palácio Nacional de Sintra
   - Palais national de Sintra
   - Portugal
-  - reflex
   - Sintra
   - white
   - yellow
-  - zoom
 settings:
   focal_length: 24
   iso: 100

@@ -1,7 +1,7 @@
 ---
 title: Different means of locomotion
 file: different-means-of-locomotion.jpg
-date: 2004-05-14 18:05:00 +02:00
+date: 2004-05-14 17:05:00 +01:00
 dates:
   iso: 2004-05-14
   human: 14th May 2004
@@ -14,7 +14,6 @@ tags:
   - Afrique
   - Al-Qusair
   - collines de la mer Rouge
-  - compact
   - Cossire
   - désert
   - Désert Arabique
@@ -24,8 +23,6 @@ tags:
   - El Qoseir
   - Gouvernorat de la Mer-Rouge
   - Itbay
-  - Konica
-  - Konica KD-400Z
   - montagne
   - mountain
   - quad

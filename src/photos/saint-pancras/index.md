@@ -1,7 +1,7 @@
 ---
 title: Saint Pancras
 file: saint-pancras.jpg
-date: 2017-10-19 09:10:00 +02:00
+date: 2017-10-19 08:10:00 +01:00
 dates:
   iso: 2017-10-19
   human: 19th October 2017
@@ -14,18 +14,12 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
   - Angleterre
-  - APS-C
   - England
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - gare
   - Grande-Bretagne
   - Great Britain
-  - hybrid
   - London
   - Londres
   - passage piéton
@@ -42,7 +36,6 @@ tags:
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

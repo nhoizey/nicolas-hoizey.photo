@@ -1,7 +1,7 @@
 ---
 title: Nothing to see… or maybe…
 file: nothing-to-see-or-maybe.jpg
-date: 2019-02-26 18:02:00 +02:00
+date: 2019-02-26 17:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -19,15 +19,9 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - felidae
   - félidés
   - félins
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kenya
   - landscape
   - lion
@@ -41,10 +35,8 @@ tags:
   - Masai
   - Masai Mara
   - Narok County
-  - pancake
   - Panthera leo
   - paysage
-  - prime
   - reserve
   - sauvage
   - wild

@@ -1,7 +1,7 @@
 ---
 title: Follow the path around
 file: follow-the-path-around.jpg
-date: 2019-02-26 19:02:00 +02:00
+date: 2019-02-26 18:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -15,22 +15,14 @@ gear:
 tags:
   - Africa
   - Afrique
-  - APS-C
   - arbre
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
   - Masai
   - Masai Mara
   - Narok County
-  - pancake
   - plant
-  - prime
   - reserve
   - tree
   - végétal

@@ -1,7 +1,7 @@
 ---
 title: Näsuddens naturreservat
 file: naesuddens-naturreservat.jpg
-date: 2020-02-03 16:02:00 +02:00
+date: 2020-02-03 15:02:00 +01:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -13,15 +13,9 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - Comté de Stockholm
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Kingdom of Sweden
   - Konungariket Sverige
   - Näsuddens naturreservat
@@ -29,7 +23,6 @@ tags:
   - Österåker Municipality
   - Österåkers kommun
   - Österskär
-  - prime
   - Stockholm County
   - Stockholms län
   - Suède

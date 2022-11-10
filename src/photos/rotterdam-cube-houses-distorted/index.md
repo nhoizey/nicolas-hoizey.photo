@@ -1,7 +1,7 @@
 ---
 title: "Rotterdam Cube Houses: Distorted"
 file: rotterdam-cube-houses-distorted.jpg
-date: 2021-11-03 13:11:00 +02:00
+date: 2021-11-03 12:11:00 +01:00
 dates:
   iso: 2021-11-03
   human: 3rd November 2021
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
 tags:
-  - APS-C
   - arbre
   - arbres
   - architecture
@@ -27,12 +26,7 @@ tags:
   - Europe
   - forest
   - forêt
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 16-80mm f/4.0 R OIS WR
   - house
-  - hybrid
   - jaune
   - kubusvormige
   - kubuswoningen
@@ -47,7 +41,6 @@ tags:
   - trees
   - woningen
   - yellow
-  - zoom
   - Zuid-Holland
 settings:
   focal_length: 16

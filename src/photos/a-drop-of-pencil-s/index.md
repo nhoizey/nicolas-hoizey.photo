@@ -1,7 +1,7 @@
 ---
 title: A drop of pencil(s)
 file: a-drop-of-pencil-s.jpg
-date: 2015-01-13 22:01:00 +02:00
+date: 2015-01-13 21:01:00 +01:00
 dates:
   iso: 2015-01-13
   human: 13th January 2015
@@ -15,9 +15,6 @@ gear:
 tags:
   - blanc
   - blur
-  - Canon
-  - Canon EF 100mm f/2.8 Macro USM
-  - Canon EOS 5D Mark II
   - color
   - colored pencil
   - colors
@@ -28,11 +25,8 @@ tags:
   - crayon
   - drop
   - eau
-  - full frame
   - macro
-  - prime
   - rainbow
-  - reflex
   - water
   - white
 settings:

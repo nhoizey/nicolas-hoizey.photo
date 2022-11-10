@@ -1,7 +1,7 @@
 ---
 title: Stairz
 file: stairz.jpg
-date: 2009-01-30 23:01:00 +02:00
+date: 2009-01-30 22:01:00 +01:00
 dates:
   iso: 2009-01-30
   human: 30th January 2009
@@ -15,9 +15,6 @@ gear:
 tags:
   - architecture
   - Beaubourg
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - Centre Beaubourg
   - Centre Georges-Pompidou
   - Centre national d’art et de culture Georges-Pompidou
@@ -27,7 +24,6 @@ tags:
   - Europa
   - Europe
   - France
-  - full frame
   - Ile de France
   - néon
   - neon lamp
@@ -36,7 +32,6 @@ tags:
   - nuit
   - Paris
   - red
-  - reflex
   - rouge
   - stair
   - staircase
@@ -44,7 +39,6 @@ tags:
   - urbain
   - urban
   - ville
-  - zoom
 settings:
   focal_length: 58
   iso: 100

@@ -1,7 +1,7 @@
 ---
 title: Loch Tulla Viewpoint
 file: loch-tulla-viewpoint.jpg
-date: 2014-04-30 19:04:00 +02:00
+date: 2014-04-30 18:04:00 +01:00
 dates:
   iso: 2014-04-30
   human: 30th April 2014
@@ -13,14 +13,11 @@ gear:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
 tags:
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
+  - ciel
   - cloud
   - Écosse
   - Europa
   - Europe
-  - full frame
   - Glen Coe
   - Grande-Bretagne
   - Great Britain
@@ -33,15 +30,14 @@ tags:
   - mountain
   - nuage
   - paysage
-  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
-  - zoom
 settings:
   focal_length: 24
   iso: 250

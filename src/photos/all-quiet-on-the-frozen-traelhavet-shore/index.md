@@ -1,7 +1,7 @@
 ---
 title: All quiet on the frozen Trälhavet shore
 file: all-quiet-on-the-frozen-traelhavet-shore.jpg
-date: 2020-02-03 16:02:00 +02:00
+date: 2020-02-03 15:02:00 +01:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -13,17 +13,11 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - baie
   - bay
   - Comté de Stockholm
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
@@ -41,7 +35,6 @@ tags:
   - Sverige
   - Sweden
   - Trälhavet
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

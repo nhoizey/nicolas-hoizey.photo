@@ -1,7 +1,7 @@
 ---
 title: Cleaning the dust
 file: cleaning-the-dust.jpg
-date: 2019-02-27 12:02:00 +02:00
+date: 2019-02-27 11:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -15,21 +15,14 @@ gear:
 tags:
   - Africa
   - Afrique
-  - APS-C
   - citerne
   - eau
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Kenya
   - lavage
   - Mau Narok
   - moto
   - motorcycle
   - Nakuru County
-  - prime
   - water
 settings:
   focal_length: 56

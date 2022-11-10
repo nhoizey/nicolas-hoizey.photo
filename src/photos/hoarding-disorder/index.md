@@ -1,7 +1,7 @@
 ---
 title: Hoarding disorder
 file: hoarding-disorder.jpg
-date: 2015-08-09 18:08:00 +02:00
+date: 2015-08-09 17:08:00 +01:00
 dates:
   iso: 2015-08-09
   human: 9th August 2015
@@ -17,7 +17,6 @@ tags:
   - city
   - colors
   - colours
-  - compact
   - couleurs
   - Hong Kong
   - Hong Kong City
@@ -28,8 +27,6 @@ tags:
   - night
   - nuit
   - rue
-  - Sony
-  - Sony RX100 Mark III
   - store
   - street
   - ville

@@ -1,7 +1,7 @@
 ---
 title: Smoke shapes
 file: smoke-shapes.jpg
-date: 2020-10-06 22:10:00 +02:00
+date: 2020-10-06 21:10:00 +01:00
 dates:
   iso: 2020-10-06
   human: 6th October 2020
@@ -13,18 +13,11 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
 tags:
-  - APS-C
   - encens
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 80 mm f/2.8 LM OIS WR Macro
   - fumée
-  - hybrid
   - incense
   - macro
   - Photo Club de Draveil
-  - prime
   - smoke
   - studio
   - volute

@@ -1,7 +1,7 @@
 ---
 title: Egret at sunset
 file: egret-at-sunset.jpg
-date: 2017-04-10 20:04:00 +02:00
+date: 2017-04-10 19:04:00 +01:00
 dates:
   iso: 2017-04-10
   human: 10th April 2017
@@ -16,7 +16,6 @@ tags:
   - Aigrette
   - Aigrette garzette
   - animal
-  - APS-C
   - Ardéidés
   - bird
   - birds
@@ -28,11 +27,6 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - hybrid
   - lac
   - Lac de Rillé
   - lake
@@ -46,7 +40,6 @@ tags:
   - sun
   - sunset
   - water
-  - zoom
 settings:
   focal_length: 400
   focal_length_35mm: 600

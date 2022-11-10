@@ -1,7 +1,7 @@
 ---
 title: Ponte Sant'Angelo
 file: ponte-sant-angelo.jpg
-date: 2017-05-14 10:05:00 +02:00
+date: 2017-05-14 09:05:00 +01:00
 dates:
   iso: 2017-05-14
   human: 14th May 2017
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - APS-C
   - bateau
   - boat
   - bridge
@@ -21,16 +20,10 @@ tags:
   - Europa
   - Europe
   - fleuve
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
-  - hybrid
   - Italia
   - Italie
   - Italy
   - pont
-  - prime
   - river
   - Roma
   - Rome

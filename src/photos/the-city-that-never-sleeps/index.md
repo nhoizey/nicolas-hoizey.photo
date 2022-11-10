@@ -1,7 +1,7 @@
 ---
 title: The City That Never Sleeps
 file: the-city-that-never-sleeps.jpg
-date: 2015-05-23 00:05:00 +02:00
+date: 2015-05-22 23:05:00 +01:00
 dates:
   iso: 2015-05-23
   human: 23rd May 2015
@@ -18,14 +18,10 @@ tags:
   - bleu
   - blue
   - building
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - city
   - Empire State Building
   - États-Unis
   - États-Unis d'Amérique
-  - full frame
   - immeuble
   - light
   - lumière
@@ -37,7 +33,6 @@ tags:
   - nuit
   - NYC
   - red
-  - reflex
   - rouge
   - skyline
   - skyscrapers
@@ -51,7 +46,6 @@ tags:
   - USA
   - ville
   - voyage
-  - zoom
 settings:
   focal_length: 24
   iso: 3200

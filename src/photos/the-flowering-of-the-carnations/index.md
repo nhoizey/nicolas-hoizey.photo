@@ -1,7 +1,7 @@
 ---
 title: The flowering of the carnations
 file: the-flowering-of-the-carnations.jpg
-date: 2017-06-14 20:06:00 +02:00
+date: 2017-06-14 19:06:00 +01:00
 dates:
   iso: 2017-06-14
   human: 14th June 2017
@@ -14,24 +14,17 @@ gear:
       model: Fujinon XF 56mm f/1.2 R
 tags:
   - 1:87
-  - APS-C
   - carnation
   - Caryophyllaceae
   - dianthus
   - figurine
   - fleur
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 56mm f/1.2 R
   - HO
-  - hybrid
   - macro
   - miniature
   - œillet
   - plant
   - Preiser
-  - prime
   - red
   - rouge
   - végétal

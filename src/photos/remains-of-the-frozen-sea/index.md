@@ -1,7 +1,7 @@
 ---
 title: Remains of the frozen sea
 file: remains-of-the-frozen-sea.jpg
-date: 2020-02-03 16:02:00 +02:00
+date: 2020-02-03 15:02:00 +01:00
 dates:
   iso: 2020-02-03
   human: 3rd February 2020
@@ -13,15 +13,9 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Comté de Stockholm
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
@@ -36,7 +30,6 @@ tags:
   - Suède
   - Sverige
   - Sweden
-  - zoom
 settings:
   focal_length: 24
   focal_length_35mm: 36

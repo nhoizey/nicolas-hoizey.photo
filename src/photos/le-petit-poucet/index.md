@@ -1,7 +1,7 @@
 ---
 title: Le Petit Poucet
 file: le-petit-poucet.jpg
-date: 2018-01-25 09:01:00 +02:00
+date: 2018-01-25 08:01:00 +01:00
 dates:
   iso: 2018-01-25
   human: 25th January 2018
@@ -14,19 +14,13 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
   - ancien
-  - APS-C
   - bar
   - chair
   - chaise
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
   - HDR
-  - hybrid
   - Ile de France
   - lampe
   - light
@@ -36,7 +30,6 @@ tags:
   - Place de Clichy
   - table
   - vintage
-  - zoom
 settings:
   focal_length: 18.2
   focal_length_35mm: 27

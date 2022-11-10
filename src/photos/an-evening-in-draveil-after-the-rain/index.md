@@ -1,7 +1,7 @@
 ---
 title: An evening in Draveil after the rain
 file: an-evening-in-draveil-after-the-rain.jpg
-date: 2022-05-24 21:05:00 +02:00
+date: 2022-05-24 20:05:00 +01:00
 dates:
   iso: 2022-05-24
   human: 24th May 2022
@@ -13,8 +13,8 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - arbre
+  - ciel
   - cloud
   - coucher de soleil
   - Draveil
@@ -24,11 +24,6 @@ tags:
   - Europe
   - evening
   - France
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Ile de France
   - lac
   - lake
@@ -39,13 +34,13 @@ tags:
   - reflet
   - rocher
   - rock
+  - sky
   - soir
   - soleil
   - sunset
   - tree
   - végétal
   - water
-  - zoom
 settings:
   focal_length: 10
   focal_length_35mm: 15

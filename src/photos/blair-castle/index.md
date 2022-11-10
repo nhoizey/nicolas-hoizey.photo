@@ -1,7 +1,7 @@
 ---
 title: Blair Castle
 file: blair-castle.jpg
-date: 2014-05-02 12:05:00 +02:00
+date: 2014-05-02 11:05:00 +01:00
 dates:
   iso: 2014-05-02
   human: 2nd May 2014
@@ -16,30 +16,26 @@ tags:
   - Blair Castle
   - blanc
   - Caisteil Bhlàir
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - castle
   - château
+  - ciel
   - cloud
   - Écosse
   - Europa
   - Europe
-  - full frame
   - Grande-Bretagne
   - Great Britain
   - nuage
   - Perth and Kinross
-  - reflex
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
   - Scotland
+  - sky
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
   - white
-  - zoom
 settings:
   focal_length: 24
   iso: 200

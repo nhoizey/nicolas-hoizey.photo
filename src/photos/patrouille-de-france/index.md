@@ -1,7 +1,7 @@
 ---
 title: Patrouille de France
 file: patrouille-de-france.jpg
-date: 2017-07-14 10:07:00 +02:00
+date: 2017-07-14 09:07:00 +01:00
 dates:
   iso: 2017-07-14
   human: 14th July 2017
@@ -15,7 +15,6 @@ gear:
 tags:
   - airplane
   - Alpha Jet
-  - APS-C
   - Avenue des Champs-Élysées
   - avion
   - blanc
@@ -26,12 +25,7 @@ tags:
   - Europa
   - Europe
   - France
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
   - fumée
-  - hybrid
   - Ile de France
   - Paris
   - Patrouille de France
@@ -41,7 +35,6 @@ tags:
   - sky
   - smoke
   - white
-  - zoom
 settings:
   focal_length: 100
   focal_length_35mm: 150

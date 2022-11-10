@@ -1,7 +1,7 @@
 ---
 title: il Colosseo
 file: il-colosseo.jpg
-date: 2017-05-11 18:05:00 +02:00
+date: 2017-05-11 17:05:00 +01:00
 dates:
   iso: 2017-05-11
   human: 11th May 2017
@@ -13,17 +13,11 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
-  - APS-C
   - Colisée
   - Colosseo
   - Colosseum
   - Europa
   - Europe
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Italia
   - Italie
   - Italy
@@ -34,7 +28,6 @@ tags:
   - Rome
   - ruin
   - ruine
-  - zoom
 settings:
   focal_length: 16.6
   focal_length_35mm: 25

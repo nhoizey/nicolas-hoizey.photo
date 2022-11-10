@@ -1,7 +1,7 @@
 ---
 title: Castillo de Butrón
 file: castillo-de-butron.jpg
-date: 2022-08-10 14:08:00 +02:00
+date: 2022-08-10 13:08:00 +01:00
 dates:
   iso: 2022-08-10
   human: 10th August 2022
@@ -13,7 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
 tags:
-  - APS-C
   - architecture
   - Basque Country
   - Biscay
@@ -29,13 +28,8 @@ tags:
   - Europa
   - Europe
   - Euskadi
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 16-80mm f/4.0 R OIS WR
   - Gatica
   - Gatika
-  - hybrid
   - mur
   - País Vasco
   - Pays Basque
@@ -44,7 +38,6 @@ tags:
   - Spain
   - Vizcaya
   - wall
-  - zoom
 settings:
   focal_length: 16
   focal_length_35mm: 24

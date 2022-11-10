@@ -1,7 +1,7 @@
 ---
 title: Augur Buzzard
 file: augur-buzzard.jpg
-date: 2019-02-27 17:02:00 +02:00
+date: 2019-02-27 16:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -21,19 +21,11 @@ tags:
   - Afrique
   - animal
   - animalière
-  - APS-C
   - Augur Buzzard
   - bird
   - birds
   - Buse augure
   - Buteo augur
-  - converter
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kenya
   - lac
   - Lac Nakuru
@@ -45,7 +37,6 @@ tags:
   - oiseau
   - Oiseaux
   - Parc national du lac Nakuru
-  - zoom
 settings:
   focal_length: 800
   focal_length_35mm: 1200

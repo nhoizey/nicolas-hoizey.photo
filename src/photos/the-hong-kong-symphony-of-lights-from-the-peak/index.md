@@ -1,7 +1,7 @@
 ---
 title: The Hong Kong Symphony of Lights from The Peak
 file: the-hong-kong-symphony-of-lights-from-the-peak.jpg
-date: 2015-08-08 20:08:00 +02:00
+date: 2015-08-08 19:08:00 +01:00
 dates:
   iso: 2015-08-08
   human: 8th August 2015
@@ -19,9 +19,6 @@ tags:
   - Asie
   - au dessus
   - Avenue of Stars
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - China
   - Chine
   - city
@@ -32,7 +29,6 @@ tags:
   - colourful
   - couleur
   - from above
-  - full frame
   - high angle
   - high angle view
   - HK
@@ -44,7 +40,6 @@ tags:
   - night
   - nuit
   - plongée
-  - reflex
   - sea
   - show
   - The Peak
@@ -52,7 +47,6 @@ tags:
   - urban
   - ville
   - vue d'en haut
-  - zoom
 settings:
   focal_length: 24
   iso: 800

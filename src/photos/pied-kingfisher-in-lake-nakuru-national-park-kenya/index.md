@@ -1,7 +1,7 @@
 ---
 title: Pied Kingfisher in Lake Nakuru National Park, Kenya
 file: pied-kingfisher-in-lake-nakuru-national-park-kenya.jpg
-date: 2019-02-27 18:02:00 +02:00
+date: 2019-02-27 17:02:00 +01:00
 dates:
   iso: 2019-02-27
   human: 27th February 2019
@@ -21,21 +21,13 @@ tags:
   - Alcédinidés
   - animal
   - animalière
-  - APS-C
   - bec
   - bird
   - birds
   - black
   - blanc
   - Ceryle rudis
-  - converter
   - Coraciiformes
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - Fujinon XF2.0× TC WR
-  - hybrid
   - Kenya
   - Kingfisher
   - lac
@@ -52,7 +44,6 @@ tags:
   - Parc national du lac Nakuru
   - Pied Kingfisher
   - white
-  - zoom
 settings:
   focal_length: 407.4
   focal_length_35mm: 611

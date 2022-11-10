@@ -1,7 +1,7 @@
 ---
 title: Little home
 file: little-home.jpg
-date: 2019-03-01 17:03:00 +02:00
+date: 2019-03-01 16:03:00 +01:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -15,18 +15,10 @@ gear:
 tags:
   - Africa
   - Afrique
-  - APS-C
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
   - home
   - house
-  - hybrid
   - Kenya
   - maison
-  - pancake
-  - prime
   - Tsavo
 settings:
   focal_length: 27

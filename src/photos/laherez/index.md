@@ -1,7 +1,7 @@
 ---
 title: Lahérez
 file: laherez.jpg
-date: 2013-08-23 09:08:00 +02:00
+date: 2013-08-23 08:08:00 +01:00
 dates:
   iso: 2013-08-23
   human: 23rd August 2013
@@ -18,9 +18,6 @@ tags:
   - blue
   - Bretagne
   - Britany
-  - Canon
-  - Canon EF 24-70mm f/2.8L USM
-  - Canon EOS 5D Mark II
   - ciel
   - coast
   - côte
@@ -29,7 +26,6 @@ tags:
   - Europa
   - Europe
   - France
-  - full frame
   - green
   - home
   - house
@@ -38,7 +34,6 @@ tags:
   - Perros-Guirec
   - plant
   - Ploumanac'h
-  - reflex
   - rocher
   - rock
   - sea
@@ -47,7 +42,6 @@ tags:
   - végétal
   - vert
   - water
-  - zoom
 settings:
   focal_length: 24
   iso: 200

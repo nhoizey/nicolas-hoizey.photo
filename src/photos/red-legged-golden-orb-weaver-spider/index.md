@@ -1,7 +1,7 @@
 ---
 title: Red-legged golden orb-weaver spider
 file: red-legged-golden-orb-weaver-spider.jpg
-date: 2019-03-04 17:03:00 +02:00
+date: 2019-03-04 16:03:00 +01:00
 dates:
   iso: 2019-03-04
   human: 4th March 2019
@@ -19,7 +19,6 @@ tags:
   - animal sauvage
   - animalière
   - animaux sauvages
-  - APS-C
   - Arachnid
   - Arachnida
   - Arachnides
@@ -36,11 +35,6 @@ tags:
   - Chélicérates
   - Chélicérés
   - Diani Beach
-  - Fujifilm
-  - Fujifilm X-T3
-  - Fujinon
-  - Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-  - hybrid
   - Kenya
   - Kwale County
   - Labidognatha
@@ -57,7 +51,6 @@ tags:
   - web
   - wild animal
   - wild animals
-  - zoom
 settings:
   focal_length: 400
   focal_length_35mm: 600

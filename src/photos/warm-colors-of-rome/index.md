@@ -1,7 +1,7 @@
 ---
 title: Warm colors of Rome
 file: warm-colors-of-rome.jpg
-date: 2017-05-11 18:05:00 +02:00
+date: 2017-05-11 17:05:00 +01:00
 dates:
   iso: 2017-05-11
   human: 11th May 2017
@@ -14,23 +14,18 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
 tags:
   - ancien
-  - APS-C
   - coloré
   - colorful
   - colourful
   - Europa
   - Europe
   - fenêtre
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 10-24mm f/4.0 R OIS
-  - hybrid
   - Italia
   - Italie
   - Italy
   - mur
   - ochre
+  - ocre
   - old
   - Roma
   - Rome
@@ -39,7 +34,6 @@ tags:
   - Via Baccina
   - wall
   - window
-  - zoom
 settings:
   focal_length: 19.1
   focal_length_35mm: 29

@@ -1,7 +1,7 @@
 ---
 title: Proud Maasai
 file: proud-maasai.jpg
-date: 2019-02-26 11:02:00 +02:00
+date: 2019-02-26 10:02:00 +01:00
 dates:
   iso: 2019-02-26
   human: 26th February 2019
@@ -15,12 +15,6 @@ gear:
 tags:
   - Africa
   - Afrique
-  - APS-C
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kenya
   - Maasai
   - Maasai Mara National Reserve
@@ -29,9 +23,7 @@ tags:
   - Masai Mara
   - Narok County
   - orange
-  - pancake
   - pink
-  - prime
   - red
   - reserve
   - rose

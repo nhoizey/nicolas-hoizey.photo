@@ -1,7 +1,7 @@
 ---
 title: Curves
 file: curves.jpg
-date: 2008-09-02 16:09:00 +02:00
+date: 2008-09-02 15:09:00 +01:00
 dates:
   iso: 2008-09-02
   human: 2nd September 2008
@@ -10,13 +10,10 @@ gear:
     brand: Canon
     model: EOS 350D
 tags:
-  - APS-C
   - baigneur
-  - Canon
-  - Canon EOS 350D
+  - bather
   - lac
   - lake
-  - reflex
 settings:
   focal_length: 17
   iso: 1600

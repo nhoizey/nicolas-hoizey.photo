@@ -1,7 +1,7 @@
 ---
 title: Asif Oussaka
 file: asif-oussaka.jpg
-date: 2011-05-06 13:05:00 +02:00
+date: 2011-05-06 12:05:00 +01:00
 dates:
   iso: 2011-05-06
   human: 6th May 2011
@@ -21,9 +21,6 @@ tags:
   - Asif Oussaka
   - Aṭlas Ameẓyan
   - Aṭlas Mẓiyn
-  - Canon
-  - Canon EOS 5D Mark II
-  - full frame
   - igidar
   - igoudar
   - igudar
@@ -37,13 +34,9 @@ tags:
   - Marocco
   - ouadi
   - oued
-  - prime
-  - reflex
   - river
   - riverbed
   - rivière
-  - Sigma
-  - Sigma 50mm F1.4 EX DG HSM
   - Souss-Massa
   - vallée
   - wadi

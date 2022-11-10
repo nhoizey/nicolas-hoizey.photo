@@ -1,7 +1,7 @@
 ---
 title: Elephants at sunrise in front of Kilimanjaro
 file: elephants-at-sunrise-in-front-of-kilimanjaro.jpg
-date: 2019-03-01 07:03:00 +02:00
+date: 2019-03-01 06:03:00 +01:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -18,16 +18,10 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
-  - APS-C
   - elephant
   - éléphant
   - Elephantidae
   - Éléphantidés
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kajiado
   - Kenya
   - landscape
@@ -37,10 +31,8 @@ tags:
   - mammifère
   - mammifères
   - National Park
-  - pancake
   - Parc national d'Amboseli
   - paysage
-  - prime
 settings:
   focal_length: 27
   focal_length_35mm: 41

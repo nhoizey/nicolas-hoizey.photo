@@ -1,7 +1,7 @@
 ---
 title: Coco
 file: coco.jpg
-date: 2008-05-11 15:05:00 +02:00
+date: 2008-05-11 14:05:00 +01:00
 dates:
   iso: 2008-05-11
   human: 11th May 2008
@@ -14,14 +14,10 @@ gear:
       model: EF 70-300mm f/4-5.6 IS USM
 tags:
   - animal
-  - APS-C
   - ara
   - bec
   - bird
   - birds
-  - Canon
-  - Canon EF 70-300mm f/4-5.6 IS USM
-  - Canon EOS 350D
   - dierenpark
   - Europa
   - Europe
@@ -33,13 +29,11 @@ tags:
   - perroquet
   - profil
   - red
-  - reflex
   - Rhenen
   - rouge
   - The Netherlands
   - Utrecht
   - zoo
-  - zoom
 settings:
   focal_length: 220
   iso: 800

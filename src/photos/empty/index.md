@@ -1,7 +1,7 @@
 ---
 title: Empty
 file: empty.jpg
-date: 2019-03-01 08:03:00 +02:00
+date: 2019-03-01 07:03:00 +01:00
 dates:
   iso: 2019-03-01
   human: 1st March 2019
@@ -18,14 +18,8 @@ tags:
   - ambiance
   - Amboseli
   - Amboseli National Park
-  - APS-C
   - atmosphere
   - désert
-  - Fujifilm
-  - Fujifilm X-T2
-  - Fujinon
-  - Fujinon XF 27 mm f/2.8
-  - hybrid
   - Kajiado
   - Kenya
   - Kilimanjaro
@@ -34,10 +28,8 @@ tags:
   - Mount Kilimanjaro
   - mountain
   - National Park
-  - pancake
   - Parc national d'Amboseli
   - paysage
-  - prime
   - sable
   - sand
   - terre

@@ -1,7 +1,7 @@
 ---
 title: Ripe
 file: ripe.jpg
-date: 2015-04-27 15:04:00 +02:00
+date: 2015-04-27 14:04:00 +01:00
 dates:
   iso: 2015-04-27
   human: 27th April 2015
@@ -16,9 +16,6 @@ tags:
   - abimé
   - bokeh
   - book
-  - Canon
-  - Canon EF 100mm f/2.8 Macro USM
-  - Canon EOS 5D Mark II
   - Centre-Val de Loire
   - Chaumont sur Loire
   - écriture
@@ -26,15 +23,11 @@ tags:
   - Europe
   - flou
   - France
-  - full frame
   - livre
-  - macro
   - nature morte
   - old
   - paper
   - papier
-  - prime
-  - reflex
   - still life
   - still-life
   - vieux
