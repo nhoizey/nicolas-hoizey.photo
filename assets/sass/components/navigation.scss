@@ -90,7 +90,7 @@ nav {
       flex-direction: column;
       gap: spaces.$xxs;
 
-      color: colors.$brand-300;
+      color: colors.$brand-500;
       font-size: var(--step--1);
 
       margin-block: spaces.$xxs spaces.$m;
@@ -117,11 +117,11 @@ nav {
   a:hover,
   a:focus,
   a:active {
-    color: colors.$brand-300;
+    color: colors.$brand-500;
 
     span {
       text-decoration-line: underline;
-      text-decoration-color: colors.$brand-300;
+      text-decoration-color: colors.$brand-500;
       text-decoration-thickness: 2px;
     }
   }

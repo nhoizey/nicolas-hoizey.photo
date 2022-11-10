@@ -154,7 +154,7 @@ svg.icon {
 
   * {
     vector-effect: non-scaling-stroke;
-    stroke: var(--ambiant-foreground, #{colors.$brand-300});
+    stroke: var(--ambiant-foreground, #{colors.$brand-500});
   }
 }
 
@@ -207,7 +207,7 @@ figure {
   margin-block: 0;
   padding-inline-start: 0;
   font-size: var(--step--1);
-  color: var(--ambiant-foreground, #{colors.$brand-200});
+  color: var(--ambiant-foreground, #{colors.$brand-700});
 
   li {
     display: inline-block;
@@ -219,7 +219,7 @@ figure {
 
   a:link,
   a:visited {
-    color: var(--ambiant-foreground, #{colors.$brand-300});
+    color: var(--ambiant-foreground, #{colors.$brand-500});
     text-decoration-line: none;
   }
 
@@ -237,7 +237,7 @@ blockquote {
   margin: 0;
 
   font-style: italic;
-  color: colors.$brand-300;
+  color: colors.$brand-500;
 
   em,
   cite {
@@ -246,7 +246,7 @@ blockquote {
 
   cite {
     font-size: var(--step--1);
-    color: colors.$brand-200;
+    color: colors.$brand-700;
   }
 }
 

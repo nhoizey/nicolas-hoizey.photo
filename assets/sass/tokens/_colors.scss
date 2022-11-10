@@ -1,24 +1,49 @@
 /* Colors palette
  * Old: https://hihayk.github.io/scale/#5/5/95/95/0/0/0/0/663399/102/51/153/white
- */
-
-$brand-900: #050308;
+ $brand-900: #050308;
 $brand-800: #190c25;
 $brand-700: #2c1642;
 $brand-600: #3f205f;
-$brand-500: rebeccapurple; // #663399
-$brand-400: #a081c0;
-$brand-300: #bda7d3;
-$brand-200: #dacee7;
-$brand-100: #f7f5fa;
+$brand-500: rebeccapurple; // #663399 -> 200
+$brand-400: #a081c0; -> 400
+$brand-300: #bda7d3; -> 500
+$brand-200: #dacee7; -> 700
+$brand-100: #f7f5fa; -> 900
+*/
+
+/* New: hhttps://leonardocolor.io/theme.html?name=nicolas-hoizey-photo&config=%7B%22baseScale%22%3A%22Gray%22%2C%22colorScales%22%3A%5B%7B%22name%22%3A%22Gray%22%2C%22colorKeys%22%3A%5B%22%23000000%22%5D%2C%22colorspace%22%3A%22RGB%22%2C%22ratios%22%3A%5B%22-1.41%22%2C%220.24%22%2C%221.76%22%2C%223.54%22%2C%225.19%22%2C%226.84%22%2C%228.49%22%2C%2210.14%22%2C%2211.79%22%2C%2213.44%22%5D%2C%22smooth%22%3Afalse%7D%2C%7B%22name%22%3A%22Brand%22%2C%22colorKeys%22%3A%5B%22%23000000%22%2C%22%23050308%22%2C%22%23190c25%22%2C%22%232c1642%22%2C%22%233f205f%22%2C%22%23663399%22%2C%22%23a081c0%22%2C%22%23bda7d3%22%2C%22%23dacee7%22%2C%22%23f7f5fa%22%5D%2C%22colorspace%22%3A%22RGB%22%2C%22ratios%22%3A%5B%22-1.41%22%2C%220.24%22%2C%221.76%22%2C%223.54%22%2C%225.19%22%2C%226.84%22%2C%228.49%22%2C%2210.14%22%2C%2211.79%22%2C%2213.44%22%5D%2C%22smooth%22%3Afalse%7D%5D%2C%22lightness%22%3A17%2C%22contrast%22%3A1%2C%22saturation%22%3A100%2C%22formula%22%3A%22wcag2%22%7D
+ */
 
 $surface: #292929;
-$header: #333;
-$text: $brand-100;
 
-$meta: #ddd;
+$gray-50: #040404;
+$gray-100: #2a2a2a;
+$gray-200: #4f4f4f;
+$gray-300: #7d7d7d;
+$gray-400: #9a9a9a;
+$gray-500: #b1b1b1;
+$gray-600: #c5c5c5;
+$gray-700: #d7d7d7;
+$gray-800: #e7e7e7;
+$gray-900: #f5f5f5;
+
+$brand-50: #030205;
+$brand-100: #371c53;
+$brand-200: rebeccapurple; // #663399 (instead of #663599)
+$brand-300: #916eb6;
+$brand-400: #aa8fc7;
+$brand-500: #beaad4;
+$brand-600: #cfc0df;
+$brand-700: #ddd3e9;
+$brand-800: #eae5f1;
+$brand-900: #f6f5f9;
+
+$header: #333;
+$text: $brand-900;
+
+$meta: $gray-700;
 
 $link: $brand-400;
-$link-decoration: $brand-200;
-$link-hover: $brand-100;
-$link-hover-decoration: $brand-600;
+$link-decoration: $brand-700;
+$link-hover: $brand-900;
+$link-hover-decoration: $brand-100;
