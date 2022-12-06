@@ -1,0 +1,31 @@
+---
+layout: null
+permalink: /feeds/mastodon/photos-test.json
+---
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Photos - Nicolas Hoizey",
+  "home_page_url": "{{ site.url }}",
+  "feed_url": "{{ site.url }}/feeds/mastodon/links.json",
+  "items": [
+  {% for photo in collections.unique_photos | limit(2) %}
+    {%- set photoPageUrl -%}{{ site.url }}{{ photo.url }}{%- endset -%}
+    {% set breadcrumb = collections.photo_galleries | breadcrumb(photo.url) %}
+    {
+      "id": "{{ photoPageUrl }}",
+      "url": "{{ photoPageUrl }}",
+      "lang": "{{ photo.data.lang }}",
+      "title": "{{ photo.data.title }}",
+      "date_published": "{{ photo.data.date | rssDate }}",
+      "content_text": "{{ photo.data.title }}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n⚓️ {{ photoPageUrl }}",
+      "attachments": [
+        {
+          "url": "{{ site.url }}/photos/{{ photo.fileSlug }}/small.jpg",
+          "mime_type": "image/jpeg",
+          "title": "{{ photo.data.title }}"
+        }
+      ]
+    }{%- if not loop.last -%},{%- endif -%}
+  {% endfor %}
+  ]
+}
