@@ -17,7 +17,7 @@ permalink: /feeds/mastodon/photos.json
       "lang": "{{ photo.data.lang }}",
       "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}",
       "date_published": "{{ photo.data.date | rssDate }}",
-      "content_text": "📸 {{ photo.data.title | decodeEntities | escapeQuotes | safe }}\n\n{{ photo.data.origin.content | markdownify | decodeEntities | striptags | escapeQuotes | safe }}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n⚓️ {{ photoPageUrl }}",
+      "content_text": "📸 {{ photo.data.title | decodeEntities | escapeQuotes | safe }}\n\n{{ photo.data.origin.content | markdownify | decodeEntities | striptags | escapeQuotes | safe }}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 {{ photoPageUrl }}",
       "attachments": [
         {
           "url": "{{ site.url }}/photos/{{ photo.fileSlug }}/small.jpg",
