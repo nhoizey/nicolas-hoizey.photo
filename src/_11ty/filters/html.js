@@ -1,6 +1,14 @@
 const truncateHtml = require('truncate-html');
+const entities = require('entities');
 
 module.exports = {
+  decodeEntities: (content) => {
+    return entities.decodeHTML(content);
+  },
+  encodeEntities: (content) => {
+    return entities.encodeHTML(content);
+  },
+
   cleanDeepLinks: (content) => {
     if (content === undefined) {
       return '';
