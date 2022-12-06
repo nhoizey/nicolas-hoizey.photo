@@ -8,7 +8,7 @@ module.exports = {
   encodeEntities: (content) => {
     return entities.encodeHTML(content);
   },
-
+  escapeQuotes: (content) => content.replaceAll('"', '\\"'),
   cleanDeepLinks: (content) => {
     if (content === undefined) {
       return '';

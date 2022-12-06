@@ -15,14 +15,14 @@ permalink: /feeds/mastodon/photos.json
       "id": "{{ photoPageUrl }}",
       "url": "{{ photoPageUrl }}",
       "lang": "{{ photo.data.lang }}",
-      "title": "{{ photo.data.title | decodeEntities }}",
+      "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}",
       "date_published": "{{ photo.data.date | rssDate }}",
-      "content_text": "📸 {{ photo.data.title | decodeEntities }}\n\n{{ photo.data.origin.content | markdownify | safe }}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n⚓️ {{ photoPageUrl }}",
+      "content_text": "📸 {{ photo.data.title | decodeEntities | escapeQuotes | safe }}\n\n{{ photo.data.origin.content | markdownify | decodeEntities | striptags | escapeQuotes | safe }}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n⚓️ {{ photoPageUrl }}",
       "attachments": [
         {
           "url": "{{ site.url }}/photos/{{ photo.fileSlug }}/small.jpg",
           "mime_type": "image/jpeg",
-          "title": "Photo titled \"{{ photo.data.title | decodeEntities }}\""
+          "title": "Photo titled: {{ photo.data.title | decodeEntities | escapeQuotes | safe }}"
         }
       ]
     }{%- if not loop.last -%},{%- endif -%}
