@@ -10,14 +10,20 @@ permalink: /feeds/mastodon/photos.json
   "items": [
   {% for photo in collections.unique_photos %}
     {%- set photoPageUrl -%}{{ site.url }}{{ photo.url }}{%- endset -%}
-    {% set breadcrumb = collections.photo_galleries | breadcrumb(photo.url) %}
+    {%- set breadcrumb = collections.photo_galleries | breadcrumb(photo.url) -%}
+    {%- set contentStart -%}📸 {{ photo.data.title | decodeEntities | escapeQuotes | safe }}\n\n{%- endset -%}
+    {%- set contentStartLength = contentStart | length -%}
+    {%- set contentEnd -%}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 {% endset -%}
+    {%- set contentEndLength = contentEnd | length -%}
+    {%- set contentLength = contentStartLength + contentEndLength -%}
+    {%- set contentMiddle = photo.data.origin.content | markdownify | decodeEntities | striptags | escapeQuotes | truncate(500 - 13 - contentLength, false, '…') | safe -%}
     {
       "id": "{{ photoPageUrl }}",
       "url": "{{ photoPageUrl }}",
       "lang": "{{ photo.data.lang }}",
       "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}",
       "date_published": "{{ photo.data.date | rssDate }}",
-      "content_text": "📸 {{ photo.data.title | decodeEntities | escapeQuotes | safe }}\n\n{{ photo.data.origin.content | markdownify | decodeEntities | striptags | escapeQuotes | safe }}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 {{ photoPageUrl }}",
+      "content_text": "{{- contentStart | safe -}}{{- contentMiddle | safe -}}{{- contentEnd | safe -}}{{ photoPageUrl }}",
       "attachments": [
         {
           "url": "{{ site.url }}/photos/{{ photo.fileSlug }}/small.jpg",
