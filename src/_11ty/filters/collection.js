@@ -10,9 +10,8 @@ const shuffle = (array) => {
 };
 
 const getMinFocalLength = (lense) => {
-  let flString = lense.model.replace(/^[^0-9]*([0-9.]+)[-m×].*$/, '$1');
-  console.log(flString);
-  return parseInt(flString, 10);
+  let minFocalLength = lense.model.replace(/^[^0-9]*([0-9.]+)[-m×].*$/, '$1');
+  return parseInt(minFocalLength, 10);
 };
 
 module.exports = {
