@@ -32,21 +32,25 @@ permalink: /gear/{{ brand.slug }}/
 
 {% set cameras = collections.gears | cameras(brand.brand) %}
 {% set camerasNumber = cameras | length %}
-<p>{{ brand.brand }} camera{% if camerasNumber > 1 %}s{% endif %}:</p>
-<ul>
-  {% for camera in cameras %}
-    <li><a href="/gear/{{ camera.slug }}/">{{ camera.model }}</a></li>
-  {% endfor %}
-</ul>
+{% if camerasNumber > 0 %}
+  <p>{{ brand.brand }} camera{% if camerasNumber > 1 %}s{% endif %}:</p>
+  <ul>
+    {% for camera in cameras %}
+      <li><a href="/gear/{{ camera.slug }}/">{{ camera.model }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
 
 {% set lenses = collections.gears | lenses(brand.brand) %}
 {% set lensesNumber = lenses | length %}
-<p>{{ brand.brand }} lense{% if lensesNumber > 1 %}s{% endif %}:</p>
-<ul>
-  {% for lens in lenses %}
-    <li><a href="/gear/{{ lens.slug }}/">{{ lens.model }}</a></li>
-  {% endfor %}
-</ul>
+{% if lensesNumber > 0 %}
+  <p>{{ brand.brand }} lense{% if lensesNumber > 1 %}s{% endif %}:</p>
+  <ul>
+    {% for lens in lenses %}
+      <li><a href="/gear/{{ lens.slug }}/">{{ lens.model }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
 
 <p>You can check <a href="/gear/">all camera and lense brands</a> I used for the photos shared on this site.</p>
 

@@ -9,6 +9,12 @@ const shuffle = (array) => {
   return array;
 };
 
+const getMinFocalLength = (lense) => {
+  let flString = lense.model.replace(/^[^0-9]*([0-9.]+)[-m×].*$/, '$1');
+  console.log(flString);
+  return parseInt(flString, 10);
+};
+
 module.exports = {
   findBySlug: (collection, slug) => {
     const items = collection.filter((page) => page.fileSlug === slug);
@@ -64,7 +70,9 @@ module.exports = {
   cameras: (collection, brand) =>
     collection.filter((gear) => gear.type === 'camera' && gear.brand === brand),
   lenses: (collection, brand) =>
-    collection.filter((gear) => gear.type === 'lense' && gear.brand === brand),
+    collection
+      .filter((gear) => gear.type === 'lense' && gear.brand === brand)
+      .sort((a, b) => getMinFocalLength(a) - getMinFocalLength(b)),
   photos_here: (collection, url) =>
     collection.filter((page) => {
       const r = new RegExp(`^${url}[^/]+\/$`);
