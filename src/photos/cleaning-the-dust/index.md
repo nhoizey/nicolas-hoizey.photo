@@ -48,4 +48,4 @@ colors:
   lightMuted: 203 182 170
 ---
 
-
+Dust is omnipresent in Kenya, and Kenyans take great care of their motorcycles, the main means of transportation at their disposal.

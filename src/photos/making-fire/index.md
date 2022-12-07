@@ -50,4 +50,4 @@ colors:
   lightMuted: 213 197 174
 ---
 
-
+Real practice or only folkloric demonstration for the easily impressed tourists, the realization of a fire by rubbing two pieces of wood is mastered by the Massaï.

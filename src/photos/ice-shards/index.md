@@ -54,4 +54,4 @@ colors:
   lightMuted: 143 162 201
 ---
 
-
+The biting frost opposes the movement of the water, producing shards of ice.
