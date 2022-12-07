@@ -16,7 +16,8 @@ permalink: /feeds/mastodon/photos.json
     {%- set contentEnd -%}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag | safe }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 {% endset -%}
     {%- set contentEndLength = contentEnd | length -%}
     {%- set contentLength = contentStartLength + contentEndLength -%}
-    {%- set contentMiddle = photo.data.origin.content | markdownify | decodeEntities | striptags | escapeQuotes | truncate(500 - 13 - contentLength, false, '…') | safe -%}
+    {%- set contentMiddle = photo.data.origin.content | markdownify | decodeEntities | striptags | escapeQuotes | truncate(450 - contentLength, false, '…') | safe -%}
+    {#- 500 characters on mamot.fr, 13 for URL, a few more for emojies -> 450 -#}
     {
       "id": "{{ photoPageUrl }}",
       "url": "{{ photoPageUrl }}",
