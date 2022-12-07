@@ -15,6 +15,7 @@ module.exports = {
     // Remove https://en.wikipedia.org/wiki/Combining_Diacritical_Marks
     hashtag = hashtag.replace(/[\u0300-\u036f]/g, '');
 
+    hashtag = hashtag.replaceAll("'", ' ');
     hashtag = hashtag.replaceAll('&#39;', ' ');
 
     let words = hashtag.replaceAll(/[-\.]/g, ' ').split(' ');
