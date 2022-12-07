@@ -43,8 +43,8 @@ dimensions:
   width: 2237
   height: 2237
 geo:
-  latitude: 48.69037432166667
-  longitude: 2.4228543533333333
+  latitude: 48.692803
+  longitude: 2.422789
   map: true
   country: France
   city: Draveil
