@@ -46,4 +46,4 @@ colors:
   lightMuted: 137 84 16
 ---
 
-
+The feathers of the Ara form a wonderfully colorful patchwork.

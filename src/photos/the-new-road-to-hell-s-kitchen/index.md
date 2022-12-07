@@ -65,4 +65,6 @@ colors:
   lightMuted: 189 179 166
 ---
 
+Hell's Kitchen is a neighborhood in the Manhattan borough of New York City, bounded by 34th and 59th streets, 8th Avenue and the Hudson River.
 
+Hell's Kitchen is one of the favorite places to dine in the city, whether for tourists or New Yorkers.

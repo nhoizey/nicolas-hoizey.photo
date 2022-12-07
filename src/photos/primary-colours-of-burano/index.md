@@ -53,4 +53,6 @@ colors:
   lightMuted: 181 188 192
 ---
 
+These are some of the many lovely houses of Burano, one of the famous islands of the Venice Lagoon, in Italy.
 
+It is said that owners of these houses have to paint them from time to time to keep them perfect for tourists!

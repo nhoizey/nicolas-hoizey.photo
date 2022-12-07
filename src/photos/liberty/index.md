@@ -52,4 +52,6 @@ colors:
   lightMuted: 213 193 181
 ---
 
+The Statue of Liberty, in addition to being a very important monument of New York City, has become one of the symbols of the United States and represents more generally freedom and emancipation from oppression.
 
+From its inauguration in 1886 until the Jet Age, the statue is the first vision of the United States for millions of immigrants, after a long crossing of the Atlantic Ocean.

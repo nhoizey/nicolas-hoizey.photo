@@ -65,4 +65,6 @@ colors:
   lightMuted: 153 180 202
 ---
 
-Here is a splendid view of the High Atlas mountain range, in Morocco, from the plain of Taroudant, near the town of Tioute, on the foothills of the Anti-Atlas.  The highest peak visible in the distance, 50 kilometers away, is the Jbel Tinergwet, which culminates according to the sources (very variable) between 3409 and 3551 meters of altitude: https://mapcarta.com/fr/17401510 http://peakbagger.com/peak.aspx?pid=46888
+Here is a splendid view of the High Atlas mountain range, in Morocco, from the plain of Taroudant, near the town of Tioute, on the foothills of the Anti-Atlas.
+
+The highest peak visible in the distance, 50 kilometers away, is the Jbel Tinergwet, which culminates according to the sources (very variable) between 3409 and 3551 meters of altitude: https://mapcarta.com/fr/17401510 http://peakbagger.com/peak.aspx?pid=46888
