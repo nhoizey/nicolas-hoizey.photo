@@ -65,4 +65,6 @@ colors:
   lightMuted: 153 196 189
 ---
 
+The Lesser Blue-eared Starling is a species of passerine bird in the family Sturnidae, which lives in sub-Saharan Africa.
 
+But this one was in the Jungle Dome at Center Parcs Het Heijderbos in the Netherlands. It is an indoor tropical jungle dome created with the WWF, with an exotic atmosphere, tropical flora and fauna, suspension bridges...

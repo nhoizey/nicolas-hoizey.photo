@@ -63,4 +63,8 @@ colors:
   lightMuted: 108 74 45
 ---
 
+The Superb Starling is a member of the starling family, formerly known as Spreo Superbus.
 
+This species has a very wide range and is commonly found in East Africa.
+
+But this one was in the Jungle Dome at Center Parcs Het Heijderbos in the Netherlands. It is an indoor tropical jungle dome created with the WWF, with an exotic atmosphere, tropical flora and fauna, suspension bridges...

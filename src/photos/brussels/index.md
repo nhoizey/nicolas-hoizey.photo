@@ -50,4 +50,4 @@ colors:
   lightMuted: 169 187 207
 ---
 
-
+One can only be amazed by the diversity and beauty of the roofs of the buildings surrounding the Grand Place in Brussels.

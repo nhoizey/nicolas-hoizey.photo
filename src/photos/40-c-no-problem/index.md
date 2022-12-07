@@ -47,4 +47,4 @@ colors:
   lightMuted: 195 211 225
 ---
 
-
+It is impressive to see these Kenyans playing soccer in the sun at 40°C, while we could hardly stand the heat even in the shade.

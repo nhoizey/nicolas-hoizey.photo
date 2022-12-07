@@ -53,4 +53,4 @@ colors:
   lightMuted: 181 178 171
 ---
 
-
+Tai Chi Garden — inside Hong Kong Park — is a colonnade arena garden with multiple courtyards, which is used for Tai Chi exercise.
