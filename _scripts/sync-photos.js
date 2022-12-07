@@ -18,7 +18,7 @@ const fs = require('fs');
 const path = require('path');
 
 const SRC =
-  '/Users/nhoizey/Synology/Personnel/Photographie/nicolas-hoizey.photo/';
+  '/Users/nicolashoizey/Synology/Personnel/Photographie/nicolas-hoizey.photo/';
 const DIST = './src/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
 const DIFFS = path.join(SRC, '_temp_diffs');
