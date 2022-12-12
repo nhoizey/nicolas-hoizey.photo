@@ -88,7 +88,7 @@
     "markdown-it": "^13.0.1",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.6.5",
-    "markdown-it-attrs": "^4.1.4",
+    "markdown-it-attrs": "^4.1.6",
     "markdown-it-bracketed-spans": "^1.0.1",
     "markdown-it-container": "^3.0.0",
     "markdown-it-footnote": "^3.0.3",
@@ -102,11 +102,11 @@
     "playwright": "^1.28.1",
     "pngjs": "^6.0.0",
     "polylabel": "^1.1.0",
-    "postcss": "^8.4.19",
+    "postcss": "^8.4.20",
     "postcss-cli": "^10.1.0",
     "postcss-fail-on-warn": "^0.2.1",
     "postcss-logical": "^5.0.4",
-    "prettier": "^2.8.0",
+    "prettier": "^2.8.1",
     "puppeteer-cluster": "^0.23.0",
     "puppeteer-core": "^15.5.0",
     "require-dir": "^1.2.0",
@@ -117,7 +117,7 @@
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-entrypoint-hashmanifest": "^0.1.2",
     "rollup-plugin-terser": "^7.0.2",
-    "sass": "^1.56.1",
+    "sass": "^1.56.2",
     "sharp": "^0.30.7",
     "simple-icons": "^6.23.0",
     "svg-country-flags": "^1.2.10",
@@ -128,6 +128,6 @@
     "yaml": "^1.10.2"
   },
   "dependencies": {
-    "mapbox-gl": "^2.11.0"
+    "mapbox-gl": "^2.11.1"
   }
 }
