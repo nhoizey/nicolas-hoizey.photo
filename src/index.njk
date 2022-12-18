@@ -23,7 +23,7 @@ layout: false
   {{ css('components/gallery', build.env) }}
 
   <section class="latest">
-    <h3>Here are the photos I shared the most recently</h3>
+    <h3>Here are the photos I shared recently</h3>
     {% from "macros/photo.njk" import photo %}
     <ul class="gallery">
       {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | limit(6) %}
