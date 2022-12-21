@@ -10,12 +10,22 @@ gear:
     brand: Sony
     model: RX100 Mark III
 tags:
+  - Balearic Islands
   - bleu
   - blue
+  - club
   - dance
   - DJ
   - DubVision
+  - Eivissa
+  - Espagne
+  - España
+  - Europa
+  - Europe
   - Ibiza
+  - Îles Baléares
+  - Islas Baleares
+  - lles Balears
   - mix
   - music
   - musique
@@ -24,6 +34,8 @@ tags:
   - nuit
   - red
   - rouge
+  - Space Ibiza
+  - Spain
   - spot
 settings:
   focal_length: 8.8
@@ -49,4 +61,10 @@ colors:
   lightMuted: 178 196 199
 ---
 
-Shot in Ibiza, Spain.
+Everything was ready for the final round of the most electrifying Clandestin pres. Full On Ibiza 2014 season. The storms from this week on the island presaged an energetic farewell and that’s exactly how it went. The lightning symbol of the party rocked harder than ever in the Main Room of Space Ibiza.
+
+The duo DubVision known for their track "All By Myself" knew how to warm up the crowd for the arrival of the peak moment of the season: the extended set by Ferry Corsten. The two DJs were able to engage the audience with their EDM sound that was overwhelmed by aggressive beats that added to the expulsion of CO2 smoke that shook the dance floor. With an enthusiastic audience, Corsten had it easy to follow the path set by his peers.
+
+…
+
+2 years later, following the announcement of Pepe Rosello's retirement, the Space was put up for sale and then bought by the Matutes group, owner of the Ushuaïa, which made it disappear at the end of the 2016 summer season.

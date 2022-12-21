@@ -55,4 +55,4 @@ colors:
   lightMuted: 164 174 180
 ---
 
-
+I usually really don't like partial desaturation, but the pun was too tempting, with this store named "with modern colors".
