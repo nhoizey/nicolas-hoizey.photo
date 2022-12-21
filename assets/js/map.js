@@ -269,9 +269,9 @@ import polylabel from 'polylabel';
       const rotationInterval = 500;
       // At low zooms, complete a revolution every 5 minutes.
       const secondsPerRevolution = 5 * 60;
-      // Above zoom level 5, do not rotate.
-      const maxSpinZoom = 5;
-      // Rotate at intermediate speeds between zoom levels 2 and 5.
+      // Above zoom level 4, do not rotate.
+      const maxSpinZoom = 4;
+      // Rotate at intermediate speeds between zoom levels 2 and 4.
       const slowSpinZoom = 2;
 
       // Respect user preference for reduced motion
