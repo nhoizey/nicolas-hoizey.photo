@@ -1,0 +1,21 @@
+---
+layout: page
+title: All photos
+---
+
+{% from "macros/photo.njk" import photo %}
+
+{% from "macros/css.njk" import css %}
+{{ css('components/gallery', build.env) }}
+
+<h1 class="page__title">{{ title }}</h1>
+
+<ul class="gallery">
+  {% for item in collections.unique_photos %}
+    {% if loop.index < 4 %}
+      <li>{{ photo(item, "eager", build.env, true) }}</li>
+    {% else %}
+      <li>{{ photo(item, "lazy", build.env, true) }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
