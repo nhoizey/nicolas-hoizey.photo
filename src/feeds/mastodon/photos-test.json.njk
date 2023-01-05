@@ -23,7 +23,7 @@ permalink: /feeds/mastodon/photos-test.json
     {
       "id": "{{ photoPageUrl }}",
       "url": "{{ photoPageUrl }}",
-      "lang": "{{ photo.data.lang }}",
+      "language": "{{ photo.data.lang }}",
       "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}",
       "date_published": "{{ photo.data.date | rssDate }}",
       "content_text": "{{- contentStart | safe -}}{{- contentMiddle | safe -}}{{- contentEnd | safe -}}{{ photoPageUrl }}",
