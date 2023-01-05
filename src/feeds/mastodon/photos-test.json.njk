@@ -6,7 +6,7 @@ permalink: /feeds/mastodon/photos-test.json
   "version": "https://jsonfeed.org/version/1",
   "title": "Photos - Nicolas Hoizey",
   "home_page_url": "{{ site.url }}",
-  "feed_url": "{{ site.url }}/feeds/mastodon/links.json",
+  "feed_url": "{{ site.url }}/feeds/mastodon/photos-test.json",
   "items": [
   {% for photo in collections.unique_photos | limit(5) %}
     {%- set photoPageUrl -%}{{ site.url }}{{ photo.url }}{%- endset -%}
