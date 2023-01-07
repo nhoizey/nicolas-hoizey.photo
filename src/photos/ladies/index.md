@@ -67,4 +67,8 @@ colors:
   lightMuted: 177 159 155
 ---
 
+Female lions are the pride's primary hunters and leaders. They often work together to prey upon antelopes, zebras, wildebeest, and other large animals of the open grasslands. Many of these animals are faster than lions, so teamwork pays off.
 
+Female lions also raise their cubs communally.
+
+Sometimes, they obviously have to rest…

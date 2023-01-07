@@ -64,4 +64,4 @@ colors:
   lightMuted: 204 190 154
 ---
 
-
+Elephants may be very large animals, but they seem just as small and fragile as others when bad weather arrives with low, threatening clouds...

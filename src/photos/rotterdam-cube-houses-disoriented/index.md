@@ -13,8 +13,6 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
 tags:
-  - arbre
-  - arbres
   - architecture
   - bleu
   - blue
@@ -24,8 +22,6 @@ tags:
   - cubes
   - Europa
   - Europe
-  - forest
-  - forêt
   - house
   - jaune
   - kubusvormige
@@ -37,8 +33,6 @@ tags:
   - Piet Blom
   - Rotterdam
   - The Netherlands
-  - tree
-  - trees
   - woningen
   - yellow
   - Zuid-Holland
