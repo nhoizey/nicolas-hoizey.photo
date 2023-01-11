@@ -59,4 +59,5 @@ The lake level rises are worrying because of the destruction to homes, livelihoo
 The effects on lake ecologies are a concern as flooding increases lake turbidity and dilutes the saline waters of alkaline lakes. Alkaline lakes like Nakuru provide unique feeding habitats for East Africa’s famous lesser flamingos.
 
 You can watch a local news story:
+
 https://www.youtube.com/watch?v=ghZhEVS8dDM
