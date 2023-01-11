@@ -59,8 +59,22 @@ module.exports = function (eleventyConfig) {
   // Plugins
   // ------------------------------------------------------------------------
 
-  const rss = require('@11ty/eleventy-plugin-rss');
-  eleventyConfig.addPlugin(rss);
+  eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-rss'));
+
+  eleventyConfig.addPlugin(require('eleventy-plugin-embed-everything'), {
+    youtube: {
+      options: {
+        lite: {
+          css: {
+            path: '/ui/js/yt-lite/lite-yt-embed.css',
+          },
+          js: {
+            path: '/ui/js/yt-lite/lite-yt-embed.js',
+          },
+        },
+      },
+    },
+  });
 
   // ------------------------------------------------------------------------
   // Transforms
