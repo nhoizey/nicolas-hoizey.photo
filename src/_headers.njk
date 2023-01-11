@@ -38,6 +38,12 @@ permalink: _headers
 {%- set cspConnectSrc = cspConnectSrc + " " + "res.cloudinary.com" -%}
 {#- / Cloudinary -#}
 
+{#- YouTube -#}
+{%- set cspImgSrc = cspImgSrc + " " + "i.ytimg.com" -%}
+{%- set cspChildSrc = cspChildSrc + " " + "www.youtube-nocookie.com" -%}
+
+{#- / YouTube -#}
+
 {#- Mapbox -#}
 {%- set cspImgSrc = cspImgSrc + " " + "api.mapbox.com data:" -%}
 {%- set cspConnectSrc = cspConnectSrc + " " + "https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com" -%}
