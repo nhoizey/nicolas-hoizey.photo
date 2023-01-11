@@ -57,3 +57,6 @@ Some lakes are recognized as Wetlands of International Importance, and all are I
 The lake level rises are worrying because of the destruction to homes, livelihoods, industry, and infrastructure, and loss of terrestrial wildlife habitat.
 
 The effects on lake ecologies are a concern as flooding increases lake turbidity and dilutes the saline waters of alkaline lakes. Alkaline lakes like Nakuru provide unique feeding habitats for East Africa’s famous lesser flamingos.
+
+You can watch a local news story:
+https://www.youtube.com/watch?v=ghZhEVS8dDM
