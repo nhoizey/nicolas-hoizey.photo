@@ -1,5 +1,3 @@
-const moment = require('moment');
-
 module.exports = {
   gallery: (...slugs) => {
     if (slugs.length === 0) return '';
