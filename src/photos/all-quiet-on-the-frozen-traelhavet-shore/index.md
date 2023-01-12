@@ -18,6 +18,8 @@ tags:
   - Comté de Stockholm
   - Europa
   - Europe
+  - glace
+  - ice
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
