@@ -13,14 +13,35 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
 tags:
-  - anniversaire
+  - action
+  - airplane
+  - ambiance
+  - amusement
+  - atmosphere
+  - avion
+  - coloré
+  - colorful
+  - colourful
   - Essonne
+  - étoile
   - Europa
   - Europe
   - France
+  - fun
   - Ile de France
   - Koezio
+  - labyrinth
+  - labyrinthe
   - Lieusaint
+  - light
+  - lumière
+  - orange
+  - plane
+  - purple
+  - red
+  - rouge
+  - star
+  - violet
 settings:
   focal_length: 56
   focal_length_35mm: 84
