@@ -33,32 +33,28 @@ const ICONS = {
   aperture: { name: 'aperture', source: 'feather' },
   download: { name: 'download', source: 'feather' },
   feeds: { name: 'rss', source: 'feather' },
-  twitter: { name: 'twitter', source: 'feather' },
-  mastodon: { name: 'mastodon', source: 'simple' },
-  eleventy: { name: 'eleventy', source: 'simple' },
-  flickr: { name: 'flickr', source: 'simple' },
-  unsplash: { name: 'unsplash', source: 'simple' },
-  iso: { name: 'iso', source: 'local' },
 };
 
 module.exports = {
   icon: (icon) => {
-    const { name, source } = ICONS[icon];
+    const { name, source } = ICONS[icon] || { name: icon, source: 'local' };
     let svg = fs.readFileSync(
       path.join(ICONS_FOLDERS[source], `${name}.svg`),
       'utf8'
     );
-    svg = svg.replace('width="24" height="24"', '');
-    svg = svg.replace(/fill="[^"]+"/g, '');
-    svg = svg.replace(/stroke="[^"]+"/g, '');
-    svg = svg.replace(/stroke-width="[^"]+"/g, '');
-    svg = svg.replace(/stroke-linecap="[^"]+"/g, '');
-    svg = svg.replace(/stroke-linejoin="[^"]+"/g, '');
-    svg = svg.replace(/class="[^"]+"/g, '');
-    svg = svg.replace(
-      'viewBox="0 0 24 24"',
-      `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon" aria-hidden="true"`
-    );
+    if (source !== 'local') {
+      svg = svg.replace('width="24" height="24"', '');
+      svg = svg.replace(/fill="[^"]+"/g, '');
+      svg = svg.replace(/stroke="[^"]+"/g, '');
+      svg = svg.replace(/stroke-width="[^"]+"/g, '');
+      svg = svg.replace(/stroke-linecap="[^"]+"/g, '');
+      svg = svg.replace(/stroke-linejoin="[^"]+"/g, '');
+      svg = svg.replace(/class="[^"]+"/g, '');
+      svg = svg.replace(
+        'viewBox="0 0 24 24"',
+        `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon" aria-hidden="true"`
+      );
+    }
     return svg;
   },
 };

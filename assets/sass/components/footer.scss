@@ -27,6 +27,11 @@ footer {
   ul {
     padding: 0;
     list-style: none;
+
+    svg {
+      vertical-align: middle;
+      margin-right: spaces.$xxs;
+    }
   }
 
   a:link,
