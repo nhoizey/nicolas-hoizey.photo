@@ -36,7 +36,7 @@ const ICONS = {
 };
 
 module.exports = {
-  icon: (icon) => {
+  inline_icon: (icon) => {
     const { name, source } = ICONS[icon] || { name: icon, source: 'local' };
     let svg = fs.readFileSync(
       path.join(ICONS_FOLDERS[source], `${name}.svg`),
@@ -56,5 +56,8 @@ module.exports = {
       );
     }
     return svg;
+  },
+  external_icon: (icon) => {
+    return `<img src="/ui/icons/${icon}.svg" width="1.2em" height="1.2em" class="icon" loading="lazy" />`;
   },
 };

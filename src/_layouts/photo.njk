@@ -63,12 +63,12 @@
       <ul class="exif">
         <li class="date"><svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="{{ dates.iso }}">{{ dates.human }}</time></li>
         {% if gear and gear.camera %}
-        <li class="gear">{% icon 'camera' %}
+        <li class="gear">{% inline_icon 'camera' %}
           <a href="/gear/{{ gear.camera.brand | slugify }}/{{ gear.camera.model | slugify }}/">{{ gear.camera.brand }} {{ gear.camera.model }}</a>
         </li>
         {% endif %}
         {% if settings.focal_length or gear.lenses %}
-          <li class="lens">{% icon 'focal_length' %}
+          <li class="lens">{% inline_icon 'focal_length' %}
             {% if gear.lenses %}
               {% set comma = joiner(", ") %}
               {% for lens in gear.lenses %}
@@ -81,9 +81,9 @@
             {% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}
           </li>
         {% endif %}
-        {% if settings.iso %}<li class="iso">{% icon 'iso' %} ISO {{ settings.iso }}</li>{% endif %}
-        {% if settings.aperture %}<li class="aperture">{% icon 'aperture' %} ƒ/{{ settings.aperture }}</span></li>{% endif %}
-        {% if settings.shutter_speed %}<li class="shutter_speed">{% icon 'shutter_speed' %} {{ settings.shutter_speed }} s</li>{% endif %}
+        {% if settings.iso %}<li class="iso">{% inline_icon 'iso' %} ISO {{ settings.iso }}</li>{% endif %}
+        {% if settings.aperture %}<li class="aperture">{% inline_icon 'aperture' %} ƒ/{{ settings.aperture }}</span></li>{% endif %}
+        {% if settings.shutter_speed %}<li class="shutter_speed">{% inline_icon 'shutter_speed' %} {{ settings.shutter_speed }} s</li>{% endif %}
       </ul>
       <div class="geo">
         {% if geo.latitude and geo.longitude %}
@@ -107,7 +107,7 @@
     </div>
     {% if tags %}
     <p class="tags">
-      {% icon 'tag' %}
+      {% inline_icon 'tag' %}
       {%- for tag in tags -%}
         <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category">{{ tag }}</a>
       {%- endfor -%}

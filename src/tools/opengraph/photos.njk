@@ -45,13 +45,13 @@ permalink: /photos/{{ photo.fileSlug }}/opengraph.html
             <table class="geo">
               {% if geo.city %}
                 <tr class="city">
-                  <td class="icon">{% icon 'map' %}</td>
+                  <td class="icon">{% inline_icon 'map' %}</td>
                   <td>{{ geo.city }}</td>
                 </tr>
               {% endif %}
               {% if geo.country %}
                 <tr class="country">
-                  <td class="icon">{% icon 'travels' %}</td>
+                  <td class="icon">{% inline_icon 'travels' %}</td>
                   <td>{{ geo.country }}</td>
                 </tr>
               {% endif %}

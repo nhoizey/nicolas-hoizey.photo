@@ -29,9 +29,14 @@ footer {
     list-style: none;
 
     svg {
-      vertical-align: middle;
-      margin-right: spaces.$xxs;
     }
+  }
+
+  .icon {
+    margin-right: spaces.$xxs;
+    width: 1.1em;
+    height: 1.1em;
+    vertical-align: middle;
   }
 
   a:link,
