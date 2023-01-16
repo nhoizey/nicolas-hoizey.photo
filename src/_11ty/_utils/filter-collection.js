@@ -9,7 +9,11 @@ const getFilteredCollection = (collection, folder) => {
   } else {
     let filteredCollection = collection
       .getFilteredByGlob(`src/${folder}/**/*.md`)
-      .filter((item) => !item.filePathStem.match(/^\/[^\/]+\/index$/))
+      .filter(
+        (item) =>
+          !item.filePathStem.match(/^\/[^\/]+\/index$/) &&
+          (item.date <= Date.now() || process.env.NODE_ENV !== 'production')
+      )
       .sort((a, b) => b.date - a.date);
     // Keep a copy of this collection in memoization for later reuse
     filteredCollectionsMemoization[folder] = filteredCollection;
