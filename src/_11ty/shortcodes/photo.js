@@ -1,3 +1,4 @@
+// TODO: remove absolute URL line 25
 module.exports = {
   photo: (slug = '') => {
     if (slug === '') return '';
@@ -21,7 +22,7 @@ module.exports = {
       photo.origin.data.colors.muted
     } / 50%)" data-responsiver="thumbnail" />
   <figcaption>
-    <a href="${photo.page.url}">${photo.title}</a>
+    <a href="https://nicolas-hoizey.photo${photo.page.url}">${photo.title}</a>
     <ul class="meta">
       <li class="date meta__item meta__date">
         <svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="${
