@@ -182,7 +182,6 @@ module.exports = function (eleventyConfig) {
   }
 
   const md = markdownIt(markdownItOptions)
-    .disable('code')
     .use(markdownItHeadingLevel, { firstLevel: 2 })
     .use(markdownItFootnote)
     .use(markdownItAnchor, markdownItAnchorOptions)
