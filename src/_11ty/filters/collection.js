@@ -16,7 +16,7 @@ const getMinFocalLength = (lense) => {
 
 module.exports = {
   findBySlug: (collection, slug) => {
-    const items = collection.filter((page) => page.fileSlug === slug);
+    const items = collection.filter((item) => item.page.fileSlug === slug);
     if (items.length === 1) {
       return items[0];
     } else {
@@ -26,23 +26,23 @@ module.exports = {
   },
   taggued: (collection, tag) => {
     const slugs = [];
-    return collection.filter((page) => {
-      if (slugs.includes(page.fileSlug)) {
+    return collection.filter((item) => {
+      if (slugs.includes(item.page.fileSlug)) {
         return false;
       } else {
-        slugs.push(page.fileSlug);
-        return page.data.origin.data.tags?.includes(tag);
+        slugs.push(item.page.fileSlug);
+        return item.data.origin.data.tags?.includes(tag);
       }
     });
   },
   shot_with: (photosCollection, gear) => {
     const slugs = [];
-    const collectionWithGear = photosCollection.filter((page) => {
-      if (slugs.includes(page.fileSlug)) {
+    const collectionWithGear = photosCollection.filter((item) => {
+      if (slugs.includes(item.page.fileSlug)) {
         return false;
       } else {
-        slugs.push(page.fileSlug);
-        pageGear = page.data.origin.data.gear;
+        slugs.push(item.page.fileSlug);
+        pageGear = item.data.origin.data.gear;
         if (`${pageGear?.camera?.brand} ${pageGear?.camera?.model}` === gear) {
           return true;
         }
@@ -73,37 +73,37 @@ module.exports = {
       .filter((gear) => gear.type === 'lense' && gear.brand === brand)
       .sort((a, b) => getMinFocalLength(a) - getMinFocalLength(b)),
   photos_here: (collection, url) =>
-    collection.filter((page) => {
+    collection.filter((item) => {
       const r = new RegExp(`^${url}[^/]+\/$`);
-      return r.test(page.url);
+      return r.test(item.page.url);
     }),
   photos_below: (collection, url) =>
-    collection.filter((page) => {
+    collection.filter((item) => {
       const r = new RegExp(`^${url}[^/]+\/([^/]+\/)+$`);
-      return r.test(page.url);
+      return r.test(item.page.url);
     }),
   photos_here_and_below: (collection, url) => {
     const distinctPhotos = [];
     return collection
-      .filter((page) => {
+      .filter((item) => {
         const r = new RegExp(`^${url}[^/]+\/`);
-        return r.test(page.url);
+        return r.test(item.page.url);
       })
       .filter((item) => {
-        if (distinctPhotos.includes(item.fileSlug)) {
+        if (distinctPhotos.includes(item.page.fileSlug)) {
           return false;
         } else {
-          distinctPhotos.push(item.fileSlug);
+          distinctPhotos.push(item.page.fileSlug);
           return true;
         }
       });
   },
   featured: (collection, number) => {
-    const allFeatured = collection.filter((page) => page.data.featured);
+    const allFeatured = collection.filter((item) => item.data.featured);
     // const featured = shuffle(allFeatured).slice(0, number);
     const featured = allFeatured.slice(0, number);
     if (featured.length < number) {
-      const allNotFeatured = collection.filter((page) => !page.data.featured);
+      const allNotFeatured = collection.filter((item) => !item.data.featured);
       const notFeatured = shuffle(allNotFeatured).slice(
         0,
         number - featured.length
@@ -113,17 +113,17 @@ module.exports = {
     return featured;
   },
   not_featured: (collection) =>
-    collection.filter((page) => !page.data.featured),
+    collection.filter((item) => !item.data.featured),
   sub_galleries: (collection, url) =>
-    collection.filter((page) => {
+    collection.filter((item) => {
       const r = new RegExp(`^${url}[^/]+\/$`);
-      return r.test(page.url);
+      return r.test(item.page.url);
     }),
   breadcrumb: (collection, url) => {
     return collection
-      .filter((page) => {
-        const r = new RegExp(`^${page.url}[^/]+\/`);
-        return page.url !== '/' && r.test(url);
+      .filter((item) => {
+        const r = new RegExp(`^${item.page.url}[^/]+\/`);
+        return item.page.url !== '/' && r.test(url);
       })
       .sort((a, b) => {
         return a.url.length - b.url.length;

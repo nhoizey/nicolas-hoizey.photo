@@ -23,11 +23,11 @@ module.exports = {
     const used_photos = collection
       .getFilteredByGlob(usedPhotosGlob)
       .filter((item) => !item.filePathStem.endsWith('/index'))
-      .map((item) => item.fileSlug);
+      .map((item) => item.page.fileSlug);
     return collection
       .getFilteredByGlob(allPhotosGlob)
-      .filter((item) => !ignoredSlugs.includes(item.fileSlug))
-      .filter((item) => !used_photos.includes(item.fileSlug))
+      .filter((item) => !ignoredSlugs.includes(item.page.fileSlug))
+      .filter((item) => !used_photos.includes(item.page.fileSlug))
       .sort((a, b) => b.date - a.date);
   },
   unique_photos: (collection) => {
@@ -36,10 +36,10 @@ module.exports = {
       .getFilteredByGlob(usedPhotosGlob)
       .filter((item) => !item.filePathStem.endsWith('/index'))
       .filter((item) => {
-        if (distinctPhotos.includes(item.fileSlug)) {
+        if (distinctPhotos.includes(item.page.fileSlug)) {
           return false;
         } else {
-          distinctPhotos.push(item.fileSlug);
+          distinctPhotos.push(item.page.fileSlug);
           return true;
         }
       })

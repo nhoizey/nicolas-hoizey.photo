@@ -12,10 +12,10 @@ eleventyExcludeFromCollections: true
   </url>
 {% for entry in collections.unique_photos %}
   <url>
-    <loc>{{ entry.url | url | absoluteUrl(site.url) }}</loc>
+    <loc>{{ entry.page.url | url | absoluteUrl(site.url) }}</loc>
     <changefreq>monthly</changefreq>
     <image:image>
-      <image:loc>{{ 'https://nicolas-hoizey.photo/photos/' + entry.fileSlug + '/' + entry.fileSlug + '.jpg' }}</image:loc>
+      <image:loc>{{ 'https://nicolas-hoizey.photo/photos/' + entry.page.fileSlug + '/' + entry.page.fileSlug + '.jpg' }}</image:loc>
       <image:title>{{ entry.data.title }}</image:title>
       <image:caption>{{ entry.data.title }}</image:caption>
       {% if geo.city and geo.country %}<image:geo_location>{{ geo.city }}, {{ geo.country }}</image:geo_location>{% endif %}

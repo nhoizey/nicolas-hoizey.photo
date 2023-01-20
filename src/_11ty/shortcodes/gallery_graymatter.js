@@ -34,7 +34,7 @@ module.exports = {
         content.data.colors.muted
       } / 50%)" data-responsiver="thumbnail" />
   <figcaption>
-    <a href="{{ item.url }}">${content.data.title}</a>
+    <a href="{{ item.page.url }}">${content.data.title}</a>
     <ul class="meta">
       <li class="date meta__item meta__date">
         <svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="${moment(

@@ -49,9 +49,9 @@ module.exports = function (collection) {
     .filter((item) => !item.filePathStem.endsWith('/index'))
     .forEach(function (item) {
       const photoData = item.data.origin.data;
-      if (!fileSlugs.includes(item.fileSlug)) {
+      if (!fileSlugs.includes(item.page.fileSlug)) {
         // Don't count multiple times the same photo in multiple folders
-        fileSlugs.push(item.fileSlug);
+        fileSlugs.push(item.page.fileSlug);
         if ('tags' in photoData) {
           for (const tag of photoData.tags) {
             let tagData = tagsCollection.get(tag) || { number: 0, colors: [] };

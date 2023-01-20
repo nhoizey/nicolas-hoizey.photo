@@ -4,7 +4,7 @@ module.exports = {
     if (slug === '') return '';
 
     const photosWithSlug = globalUniquePhotos.filter(
-      (page) => page.fileSlug === slug
+      (item) => item.page.fileSlug === slug
     );
     if (photosWithSlug.length === 0) {
       console.log(`WARNING: No photo found with slug ${slug}`);

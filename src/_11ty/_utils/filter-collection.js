@@ -12,7 +12,8 @@ const getFilteredCollection = (collection, folder) => {
       .filter(
         (item) =>
           !item.filePathStem.match(/^\/[^\/]+\/index$/) &&
-          (item.date <= Date.now() || process.env.NODE_ENV !== 'production')
+          (item.page.date <= Date.now() ||
+            process.env.NODE_ENV !== 'production')
       )
       .sort((a, b) => b.date - a.date);
     // Keep a copy of this collection in memoization for later reuse

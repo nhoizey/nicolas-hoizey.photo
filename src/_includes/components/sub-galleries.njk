@@ -19,7 +19,7 @@
         {% set lcp = false %}
         {% set responsiver = "diaporama" %}
       {% endif %}
-      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(3) %}
+      {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.page.url) | featured(3) %}
       {% if photos_below | length %}
         <li>
           <figure>
@@ -53,7 +53,7 @@
             </div>
             <figcaption>
               {# <svg class="icon" aria-hidden="true"><use xlink:href="#folder-icon" /></svg> #}
-              <a href="{{ item.url }}">{{ item.data.title }}</a>
+              <a href="{{ item.page.url }}">{{ item.data.title }}</a>
             </figcaption>
           </figure>
         </li>

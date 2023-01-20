@@ -9,10 +9,10 @@ eleventyExcludeFromCollections: true
     <name>Nicolas Hoizey photography</name>
     <description>The photography portfolio of Nicolas Hoizey</description>
 {%- for item in collections.unique_photos %}
-    <Style id="{{ item.fileSlug }}">
+    <Style id="{{ item.page.fileSlug }}">
       <IconStyle>
         <Icon>
-          <href>{{ site.url }}/kml/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg</href>
+          <href>{{ site.url }}/kml/photos/{{ item.page.fileSlug }}/{{ item.page.fileSlug }}.jpg</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -40,7 +40,7 @@ eleventyExcludeFromCollections: true
         <heading>0</heading>
         <altitudeMode>relativeToGround</altitudeMode>
       </LookAt>
-      <styleUrl>#{{ item.fileSlug }}</styleUrl>
+      <styleUrl>#{{ item.page.fileSlug }}</styleUrl>
       <Style>
         <IconStyle>
           <scale>5.0</scale>
@@ -50,9 +50,9 @@ eleventyExcludeFromCollections: true
         <![CDATA[
           <p>
             <strong style="font-size: larger; font-weight: bold">{{ item.data.title }}</strong>
-            (<a href="{{ site.url }}{{ item.url }}" target="_blank">details</a>)
+            (<a href="{{ site.url }}{{ item.page.url }}" target="_blank">details</a>)
           </p>
-          <p><img src="{{ site.url }}/kml/photos/{{ item.fileSlug }}/{{ item.fileSlug }}.jpg" /></p>
+          <p><img src="{{ site.url }}/kml/photos/{{ item.page.fileSlug }}/{{ item.page.fileSlug }}.jpg" /></p>
         ]]>
       </description>
       <Point>

@@ -14,7 +14,7 @@
       "@type": "ListItem",
       "position": {{ loop.index + 1 }},
       "name": "{{ item.data.title }}",
-      "item": "{{ site.url }}{{ item.url }}"
+      "item": "{{ site.url }}{{ item.page.url }}"
     }
   {% endfor %}
   {% if page.url != '/' %}

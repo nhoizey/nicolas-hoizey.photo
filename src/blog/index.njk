@@ -21,9 +21,9 @@ Here are the latest posts:
 
 {% for entry in collections.blog %}
   <li class="blog__item">
-    <h2 class="blog__title"><a href="{{ entry.url }}">{{ entry.data.title }}</a></h2>
+    <h2 class="blog__title"><a href="{{ entry.page.url }}">{{ entry.data.title }}</a></h2>
     {{ meta(entry) }}
-    <p class="blog__text">{{ entry.templateContent | excerpt | striptags | safe }}</p>
+    <p class="blog__text">{{ entry.content | excerpt | striptags | safe }}</p>
   </li>
 {% endfor %}
 

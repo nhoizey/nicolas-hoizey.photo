@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
     <email>{{ site.author.email }}</email>
   </author>
   {% for entry in collections.blog | limit(20) %}
-    {% set absoluteEntryUrl %}{{ entry.url | url | absoluteUrl(site.url) }}{% endset %}
+    {% set absoluteEntryUrl %}{{ entry.page.url | url | absoluteUrl(site.url) }}{% endset %}
     {% set readableDate = entry.date | date("Do MMMM YYYY") %}
     <entry>
       <title>{{ entry.data.title or entry.data.layout + ' from ' + readableDate }}</title>
@@ -24,7 +24,7 @@ eleventyExcludeFromCollections: true
       <updated>{{ entry.date | rssDate }}</updated>
       <id>{{ absoluteEntryUrl }}</id>
       <content type="html"><![CDATA[
-        {{ entry.templateContent | cleanDeepLinks | htmlToAbsoluteUrls(absoluteEntryUrl) | safe }}
+        {{ entry.content | cleanDeepLinks | htmlToAbsoluteUrls(absoluteEntryUrl) | safe }}
       ]]></content>
     </entry>
   {% endfor %}

@@ -32,12 +32,12 @@
       data-responsiver="thumbnail_{% if dimensions.width < dimensions.height %}portrait{% else %}landscape{% endif %}"
     />
     <figcaption>
-      <a href="{{ item.url }}">{{ item.data.title }}</a>
+      <a href="{{ item.page.url }}">{{ item.data.title }}</a>
       {{ meta(item) }}
     </figcaption>
   </figure>
   {% if slug %}
-    <input type="text" size="20" value="{{ item.fileSlug }}.md" style="font-size: .6em" onclick="this.select();document.execCommand('copy')"/>
+    <input type="text" size="20" value="{{ item.page.fileSlug }}.md" style="font-size: .6em" onclick="this.select();document.execCommand('copy')"/>
   {% endif %}
 
 {% endmacro %}

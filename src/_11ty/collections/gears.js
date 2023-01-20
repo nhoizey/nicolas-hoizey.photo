@@ -13,9 +13,9 @@ module.exports = {
       .filter((item) => !item.filePathStem.endsWith('/index'))
       .forEach(function (item) {
         const photoData = item.data.origin.data;
-        if (!fileSlugs.includes(item.fileSlug)) {
+        if (!fileSlugs.includes(item.page.fileSlug)) {
           // Don't count multiple times the same photo in multiple folders
-          fileSlugs.push(item.fileSlug);
+          fileSlugs.push(item.page.fileSlug);
           if ('gear' in photoData) {
             gearsCollection.set(
               `${photoData.gear.camera.brand} ${photoData.gear.camera.model}`,

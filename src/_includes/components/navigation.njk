@@ -7,14 +7,14 @@
       <a href="/">{% inline_icon 'home' %} <span>Home</span></a>
     </li>
     {% for item in collections.navigation %}
-      {% set targetUrl = item.data.nav.away or item.url %}
+      {% set targetUrl = item.data.nav.away or item.page.url %}
       {% set targetLabel = item.data.nav.title or item.data.title %}
-      <li {% if item.url != '/' and item.url in page.url %} class="current"{% endif %}>
+      <li {% if item.page.url != '/' and item.page.url in page.url %} class="current"{% endif %}>
         <a href="{{ targetUrl }}">{% inline_icon item.data.nav.icon %} <span>{{ targetLabel }}</span></a>
-        {% if item.url == '/galleries/' %}
+        {% if item.page.url == '/galleries/' %}
           <ul>
             {% for item2 in collections.navigation2 %}
-              {% if item.url in item2.url %}
+              {% if item.page.url in item2.url %}
                 {% set target2Url = item2.data.nav.away or item2.url %}
                 {% set target2Label = item2.data.nav.title or item2.data.title %}
                 <li {% if item2.url in page.url %} class="current"{% endif %}>

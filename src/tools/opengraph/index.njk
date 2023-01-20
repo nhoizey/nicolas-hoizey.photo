@@ -31,7 +31,7 @@ title: Opengraph images
   <summary>Photos</summary>
   <ul class="opengraph">
   {% for entry in collections.unique_photos %}
-    <li><a href="/photos/{{ entry.fileSlug }}/opengraph.html"><img src="{{ cloudinaryPrefix }}/photos/{{ entry.fileSlug }}/opengraph.jpg" width="600" height="315" loading="lazy" data-responsiver="false" /></a></li>
+    <li><a href="/photos/{{ entry.page.fileSlug }}/opengraph.html"><img src="{{ cloudinaryPrefix }}/photos/{{ entry.page.fileSlug }}/opengraph.jpg" width="600" height="315" loading="lazy" data-responsiver="false" /></a></li>
   {% endfor %}
   </ul>
 </details>

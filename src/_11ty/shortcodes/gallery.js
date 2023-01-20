@@ -5,7 +5,7 @@ module.exports = {
     let gallery = `<ul class="gallery">`;
     slugs.forEach((slug) => {
       const photosWithSlug = globalUniquePhotos.filter(
-        (page) => page.fileSlug === slug
+        (item) => item.page.fileSlug === slug
       );
       if (photosWithSlug.length === 1) {
         const photo = photosWithSlug[0].data;

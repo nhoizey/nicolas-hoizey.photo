@@ -9,7 +9,7 @@ pagination:
 layout: false
 eleventyComputed:
   title: opengraph image for “{{ photo.title }}”
-permalink: /photos/{{ photo.fileSlug }}/opengraph.html
+permalink: /photos/{{ photo.page.fileSlug }}/opengraph.html
 ---
 {%- set geo = photo.data.origin.data.geo %}
 {%- set colors = photo.data.origin.data.colors %}
@@ -62,7 +62,7 @@ permalink: /photos/{{ photo.fileSlug }}/opengraph.html
       </div>
       <div class="content">
         <div class="frame">
-          <img src="/photos/{{ photo.fileSlug }}/small.jpg" data-responsiver="false" />
+          <img src="/photos/{{ photo.page.fileSlug }}/small.jpg" data-responsiver="false" />
         </div>
       </div>
     </div>

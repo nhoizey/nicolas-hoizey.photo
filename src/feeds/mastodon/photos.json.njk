@@ -29,7 +29,7 @@ permalink: /feeds/mastodon/photos.json
       "content_text": "{{- contentStart | safe -}}{{- contentMiddle | safe -}}{{- contentEnd | safe -}}{{ photoPageUrl }}",
       "attachments": [
         {
-          "url": "{{ site.url }}/photos/{{ photo.fileSlug }}/small.jpg",
+          "url": "{{ site.url }}/photos/{{ photo.page.fileSlug }}/small.jpg",
           "mime_type": "image/jpeg",
           "title": "Photo titled: {{ photo.data.title | decodeEntities | escapeQuotes | safe }}"
         }
