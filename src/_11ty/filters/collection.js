@@ -100,17 +100,17 @@ module.exports = {
   },
   featured: (collection, number) => {
     const allFeatured = collection.filter((item) => item.data.featured);
-    // const featured = shuffle(allFeatured).slice(0, number);
-    const featured = allFeatured.slice(0, number);
-    if (featured.length < number) {
-      const allNotFeatured = collection.filter((item) => !item.data.featured);
-      const notFeatured = shuffle(allNotFeatured).slice(
-        0,
-        number - featured.length
-      );
-      return [...featured, ...notFeatured];
+    const featured = shuffle(allFeatured).slice(0, number);
+    if (featured.length === number) {
+      return featured;
     }
-    return featured;
+
+    const allNotFeatured = collection.filter((item) => !item.data.featured);
+    const notFeatured = shuffle(allNotFeatured).slice(
+      0,
+      number - featured.length
+    );
+    return [...featured, ...notFeatured];
   },
   not_featured: (collection) =>
     collection.filter((item) => !item.data.featured),
