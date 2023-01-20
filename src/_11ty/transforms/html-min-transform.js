@@ -1,16 +1,22 @@
-const htmlmin = require('html-minifier');
-
-module.exports = function htmlMinTransform(content, outputPath) {
-  if (!outputPath || !(outputPath.endsWith('.html'))) {
+module.exports = function htmlMinTransform(content) {
+  if (!this.page.outputPath || !this.page.outputPath.endsWith('.html')) {
+    // console.log(`WARNING: Transform run on ${this.page.outputPath}`);
+    // if (this.page.outputPath === false) {
+    //   console.dir(content);
+    // }
     return content;
   }
-  if (outputPath.match(/\/photos\//)) {
-    console.log(outputPath);
+
+  if (this.page.outputPath.match(/\/photos\//)) {
+    console.log(this.page.outputPath);
   }
 
-  return htmlmin.minify(content, {
+  const { minify } = require('html-minifier-terser');
+
+  return minify(content, {
     useShortDoctype: true,
     removeComments: true,
+    removeAttributeQuotes: true,
     collapseWhitespace: true,
     minifyCSS: false,
   });
