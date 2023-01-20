@@ -1,7 +1,5 @@
 const glob = require('fast-glob').sync;
 
-const sortOrderThenAlpha = require('../_utils/sort-order-then-alpha');
-
 const ignoredSlugs = [
   'monochrome',
   'grignotage',
@@ -9,22 +7,10 @@ const ignoredSlugs = [
   'gourmandise',
 ];
 
-const galleriesGlob = 'src/galleries/**/index.md';
 const allPhotosGlob = 'src/photos/*/index.md';
 const usedPhotosGlob = glob('src/galleries/**/*.md', {
   ignore: 'src/galleries/**/index.md',
 });
-
-let galleries = undefined;
-const getGalleries = (collection) => {
-  if (galleries !== undefined) {
-    return galleries;
-  }
-  galleries = collection
-    .getFilteredByGlob(galleriesGlob)
-    .sort((a, b) => sortOrderThenAlpha(a, b));
-  return galleries;
-};
 
 let allPhotos = undefined;
 const getAllPhotos = (collection) => {
@@ -60,7 +46,6 @@ const getPhotosInGalleriesSlugs = (collection) => {
 };
 
 module.exports = {
-  photo_galleries: (collection) => getGalleries(collection),
   all_photos: (collection) => getAllPhotos(collection),
   photos_in_galleries: (collection) => getPhotosInGalleries(collection),
   photos_not_in_galleries: (collection) => {
