@@ -1,5 +1,3 @@
-// Inspired by @tylersticka
-// https://github.com/11ty/eleventy/issues/399#issuecomment-466514166
 
 const shuffle = (array) => {
   for (let i = array.length - 1; i > 0; i--) {
@@ -16,6 +14,8 @@ const getMinFocalLength = (lense) => {
 
 module.exports = {
   findBySlug: (collection, slug) => {
+    // Inspired by @tylersticka
+    // https://github.com/11ty/eleventy/issues/399#issuecomment-466514166
     const items = collection.filter((item) => item.page.fileSlug === slug);
     if (items.length === 1) {
       return items[0];
