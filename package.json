@@ -39,6 +39,7 @@
     "start": "cross-env NODE_ENV=development npm-run-all --sequential clean build:js --parallel watch:*",
     "debug:start": "DEBUG=Eleventy* npm start",
     "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy",
+    "build:benchmark": "DEBUG=Eleventy:Benchmark* npm run build",
     "debug:build": "DEBUG=Eleventy* npm run build",
     "subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --whitelist=U+0020 --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/ui/fonts/",
     "matomo": "node ./_scripts/update-matomo.js",
