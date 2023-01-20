@@ -1,3 +1,4 @@
+const glob = require('fast-glob').sync;
 const sortOrderThenAlpha = require('../_utils/sort-order-then-alpha');
 
 const ignoredSlugs = [
@@ -7,9 +8,11 @@ const ignoredSlugs = [
   'gourmandise',
 ];
 
-const allPhotosGlob = 'src/photos/*/index.md';
-const usedPhotosGlob = 'src/galleries/**/*.md';
 const galleriesGlob = 'src/galleries/**/index.md';
+const allPhotosGlob = 'src/photos/*/index.md';
+const usedPhotosGlob = glob('src/galleries/**/*.md', {
+  ignore: 'src/galleries/**/index.md',
+});
 
 module.exports = {
   all_photos: (collection) =>
