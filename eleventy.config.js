@@ -13,20 +13,18 @@ module.exports = function (eleventyConfig) {
 
   let globalUniquePhotos = [];
 
-  glob
-    .sync(path.join(config.dir.src, '_11ty/collections/*.js'))
-    .forEach((file) => {
-      let collectionList = require('./' + file);
-      Object.keys(collectionList).forEach((name) => {
-        eleventyConfig.addCollection(name, collectionList[name]);
-      });
+  glob.sync('src/_11ty/collections/*.js').forEach((file) => {
+    let collectionList = require('./' + file);
+    Object.keys(collectionList).forEach((name) => {
+      eleventyConfig.addCollection(name, collectionList[name]);
     });
+  });
 
   // ------------------------------------------------------------------------
   // Filters
   // ------------------------------------------------------------------------
 
-  glob.sync(path.join(config.dir.src, '_11ty/filters/*.js')).forEach((file) => {
+  glob.sync('src/_11ty/filters/*.js').forEach((file) => {
     let filters = require('./' + file);
     Object.keys(filters).forEach((name) => {
       eleventyConfig.addFilter(name, filters[name]);
@@ -37,23 +35,19 @@ module.exports = function (eleventyConfig) {
   // Shortcodes
   // ------------------------------------------------------------------------
 
-  glob
-    .sync(path.join(config.dir.src, '_11ty/shortcodes/*.js'))
-    .forEach((file) => {
-      let shortcodes = require('./' + file);
-      Object.keys(shortcodes).forEach((name) => {
-        eleventyConfig.addNunjucksShortcode(name, shortcodes[name]);
-      });
+  glob.sync('src/_11ty/shortcodes/*.js').forEach((file) => {
+    let shortcodes = require('./' + file);
+    Object.keys(shortcodes).forEach((name) => {
+      eleventyConfig.addNunjucksShortcode(name, shortcodes[name]);
     });
+  });
 
-  glob
-    .sync(path.join(config.dir.src, '_11ty/pairedShortcodes/*.js'))
-    .forEach((file) => {
-      let pairedShortcodes = require('./' + file);
-      Object.keys(pairedShortcodes).forEach((name) => {
-        eleventyConfig.addPairedShortcode(name, pairedShortcodes[name]);
-      });
+  glob.sync('src/_11ty/pairedShortcodes/*.js').forEach((file) => {
+    let pairedShortcodes = require('./' + file);
+    Object.keys(pairedShortcodes).forEach((name) => {
+      eleventyConfig.addPairedShortcode(name, pairedShortcodes[name]);
     });
+  });
 
   // ------------------------------------------------------------------------
   // Plugins
@@ -83,12 +77,15 @@ module.exports = function (eleventyConfig) {
   if (process.env.NODE_ENV === 'production') {
     eleventyConfig.addPlugin(
       require('eleventy-plugin-images-responsiver'),
-      require('src/_11ty/images-responsiver-config.js')
+      require(path.join(__dirname, 'src/_11ty/images-responsiver-config.js'))
     );
 
     eleventyConfig.addTransform(
       'htmlmin',
-      require('src/_11ty/transforms/html-min-transform.js')
+      require(path.join(
+        __dirname,
+        'src/_11ty/transforms/html-min-transform.js'
+      ))
     );
 
     eleventyConfig.addPlugin(require('eleventy-plugin-auto-preload'));
@@ -107,11 +104,7 @@ module.exports = function (eleventyConfig) {
 
   const markdownItFootnote = require('markdown-it-footnote');
 
-  const slugify = require(path.join(
-    __dirname,
-    config.dir.src,
-    '_11ty/_utils/slugify.js'
-  ));
+  const slugify = require(path.join(__dirname, 'src/_11ty/_utils/slugify.js'));
   const markdownItAnchor = require('markdown-it-anchor');
   // https://www.toptal.com/designers/htmlarrows/punctuation/section-sign/
   const markdownItAnchorOptions = {
@@ -200,15 +193,12 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig
     .addPassthroughCopy(
-      path.join(
-        config.dir.src,
-        '{assets,photos,galleries,blog}/**/*.{jpg,jpeg,png,gif}'
-      )
+      'src/{assets,photos,galleries,blog}/**/*.{jpg,jpeg,png,gif}'
     )
-    .addPassthroughCopy(path.join(config.dir.src, 'ui'))
-    .addPassthroughCopy(path.join(config.dir.src, 'robots.txt'))
-    .addPassthroughCopy(path.join(config.dir.src, 'favicon.ico'))
-    .addPassthroughCopy(path.join(config.dir.src, '_redirects'));
+    .addPassthroughCopy('src/ui')
+    .addPassthroughCopy('src/robots.txt')
+    .addPassthroughCopy('src/favicon.ico')
+    .addPassthroughCopy('src/_redirects');
 
   eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.addWatchTarget('./ui/');
@@ -216,10 +206,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.setQuietMode(true);
 
-  eleventyConfig.setBrowserSyncConfig({
-    ui: false,
-    ghostMode: false,
-    files: ['_site/ui/css/**/*.css', '_site/ui/js/**/*.js'],
+  eleventyConfig.setServerOptions({
+    watch: ['_site/ui/css/**/*.css', '_site/ui/js/**/*.js'],
   });
 
   if (process.env.NODE_ENV === 'production') {
@@ -233,8 +221,8 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
     dir: {
-      output: config.dir.dist,
-      input: config.dir.src,
+      output: '_site',
+      input: 'src',
       includes: '_includes',
       layouts: '_layouts',
       data: '_data',
