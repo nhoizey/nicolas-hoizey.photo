@@ -79,24 +79,19 @@ module.exports = function (eleventyConfig) {
   // ------------------------------------------------------------------------
   // Transforms
   // ------------------------------------------------------------------------
+
   if (process.env.NODE_ENV === 'production') {
-    const imagesResponsiver = require('eleventy-plugin-images-responsiver');
-    const imagesResponsiverConfig = require(path.join(
-      __dirname,
-      config.dir.src,
-      '_11ty/images-responsiver-config.js'
-    ));
-    eleventyConfig.addPlugin(imagesResponsiver, imagesResponsiverConfig);
+    eleventyConfig.addPlugin(
+      require('eleventy-plugin-images-responsiver'),
+      require('src/_11ty/images-responsiver-config.js')
+    );
 
-    const htmlMinTransform = require(path.join(
-      __dirname,
-      config.dir.src,
-      '_11ty/transforms/html-min-transform.js'
-    ));
-    eleventyConfig.addTransform('htmlmin', htmlMinTransform);
+    eleventyConfig.addTransform(
+      'htmlmin',
+      require('src/_11ty/transforms/html-min-transform.js')
+    );
 
-    const autoPreload = require('eleventy-plugin-auto-preload');
-    eleventyConfig.addPlugin(autoPreload);
+    eleventyConfig.addPlugin(require('eleventy-plugin-auto-preload'));
   }
 
   // ------------------------------------------------------------------------
