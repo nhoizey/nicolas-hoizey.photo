@@ -1,3 +1,4 @@
+const allBreadcrumbs = {};
 
 const shuffle = (array) => {
   for (let i = array.length - 1; i > 0; i--) {
@@ -120,13 +121,22 @@ module.exports = {
       return r.test(item.page.url);
     }),
   breadcrumb: (collection, url) => {
-    return collection
-      .filter((item) => {
-        const r = new RegExp(`^${item.page.url}[^/]+\/`);
-        return item.page.url !== '/' && r.test(url);
-      })
-      .sort((a, b) => {
-        return a.url.length - b.url.length;
-      });
+    let breadcrumb = allBreadcrumbs[url];
+    if (breadcrumb !== undefined) {
+      return breadcrumb;
+    } else {
+      allBreadcrumbs[url] = collection
+        .filter((item) => {
+          return (
+            item.page.url !== '/' &&
+            item.page.url !== url &&
+            url.startsWith(item.page.url)
+          );
+        })
+        .sort((a, b) => {
+          return a.url.length - b.url.length;
+        });
+      return allBreadcrumbs[url];
+    }
   },
 };
