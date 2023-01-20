@@ -79,7 +79,7 @@
     "glyphhanger": "^5.0.0",
     "gray-matter": "^4.0.3",
     "html-entities": "^2.3.3",
-    "html-minifier": "^4.0.0",
+    "html-minifier-terser": "^7.1.0",
     "husky": "^8.0.3",
     "image-size": "^1.0.2",
     "lint-staged": "^13.1.0",
