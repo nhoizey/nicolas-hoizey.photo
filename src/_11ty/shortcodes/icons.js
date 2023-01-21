@@ -42,19 +42,17 @@ module.exports = {
       path.join(ICONS_FOLDERS[source], `${name}.svg`),
       'utf8'
     );
-    if (source !== 'local') {
-      svg = svg.replace('width="24" height="24"', '');
-      svg = svg.replace(/fill="[^"]+"/g, '');
-      svg = svg.replace(/stroke="[^"]+"/g, '');
-      svg = svg.replace(/stroke-width="[^"]+"/g, '');
-      svg = svg.replace(/stroke-linecap="[^"]+"/g, '');
-      svg = svg.replace(/stroke-linejoin="[^"]+"/g, '');
-      svg = svg.replace(/class="[^"]+"/g, '');
-      svg = svg.replace(
-        'viewBox="0 0 24 24"',
-        `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon" aria-hidden="true"`
-      );
-    }
+    svg = svg.replace('width="24" height="24"', '');
+    svg = svg.replace(/fill="[^"]+"/g, '');
+    svg = svg.replace(/stroke="[^"]+"/g, '');
+    svg = svg.replace(/stroke-width="[^"]+"/g, '');
+    svg = svg.replace(/stroke-linecap="[^"]+"/g, '');
+    svg = svg.replace(/stroke-linejoin="[^"]+"/g, '');
+    svg = svg.replace(/class="[^"]+"/g, '');
+    svg = svg.replace(
+      'viewBox="0 0 24 24"',
+      `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon" aria-hidden="true"`
+    );
     return svg;
   },
   external_icon: (icon) => {
