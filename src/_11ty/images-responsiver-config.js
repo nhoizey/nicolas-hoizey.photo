@@ -103,6 +103,8 @@ module.exports = {
     },
   },
   landscape: {
+    resizedImageUrl: (src, width) =>
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_jpg,fl_progressive:semi,w_${width},c_limit/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -110,6 +112,8 @@ module.exports = {
     figure: 'never',
   },
   portrait: {
+    resizedImageUrl: (src, width) =>
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_jpg,fl_progressive:semi,w_${width},c_limit/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
