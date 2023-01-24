@@ -4,7 +4,7 @@
 @use '../tokens/colors';
 
 footer {
-  margin-block-start: spaces.$xl;
+  margin-block-start: spaces.$xxl;
   padding: spaces.$m;
   font-size: var(--step-0);
 
@@ -19,24 +19,29 @@ footer {
 
   display: grid;
   column-gap: spaces.$xxl;
-  row-gap: spaces.$xl;
+  row-gap: spaces.$s;
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 
   color: colors.$brand-500;
 
+  p,
+  ul {
+    margin-block: 0;
+  }
+
   ul {
     padding: 0;
     list-style: none;
-
-    svg {
-    }
   }
 
   .icon {
-    margin-right: spaces.$xxs;
-    width: 1.1em;
-    height: 1.1em;
     vertical-align: middle;
+    width: 1.1em;
+    height: auto;
+  }
+
+  .footer__social .icon {
+    margin-right: spaces.$xxs;
   }
 
   a:link,

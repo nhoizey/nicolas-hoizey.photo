@@ -38,24 +38,29 @@ const ICONS = {
 module.exports = {
   inline_icon: (icon) => {
     const { name, source } = ICONS[icon] || { name: icon, source: 'local' };
-    let svg = fs.readFileSync(
+    let inlineSvg = fs.readFileSync(
       path.join(ICONS_FOLDERS[source], `${name}.svg`),
       'utf8'
     );
-    svg = svg.replace('width="24" height="24"', '');
-    svg = svg.replace(/fill="[^"]+"/g, '');
-    svg = svg.replace(/stroke="[^"]+"/g, '');
-    svg = svg.replace(/stroke-width="[^"]+"/g, '');
-    svg = svg.replace(/stroke-linecap="[^"]+"/g, '');
-    svg = svg.replace(/stroke-linejoin="[^"]+"/g, '');
-    svg = svg.replace(/class="[^"]+"/g, '');
-    svg = svg.replace(
+    inlineSvg = inlineSvg.replace('width="24" height="24"', '');
+    inlineSvg = inlineSvg.replace(/fill="[^"]+"/g, '');
+    inlineSvg = inlineSvg.replace(/stroke="[^"]+"/g, '');
+    inlineSvg = inlineSvg.replace(/stroke-width="[^"]+"/g, '');
+    inlineSvg = inlineSvg.replace(/stroke-linecap="[^"]+"/g, '');
+    inlineSvg = inlineSvg.replace(/stroke-linejoin="[^"]+"/g, '');
+    inlineSvg = inlineSvg.replace(/class="[^"]+"/g, '');
+    inlineSvg = inlineSvg.replace(
       'viewBox="0 0 24 24"',
       `viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon" aria-hidden="true"`
     );
-    return svg;
+    return inlineSvg;
   },
   external_icon: (icon) => {
-    return `<img src="/ui/icons/${icon}.svg" width="1.2em" height="1.2em" class="icon" loading="lazy" />`;
+    let externalSvg = fs.readFileSync(`src/ui/icons/${icon}.svg`, 'utf8');
+    let width =
+      parseFloat(externalSvg.replace(/^.*?width="([^"]+)".*/, '$1')) * 16;
+    let height =
+      parseFloat(externalSvg.replace(/^.*?height="([^"]+)".*/, '$1')) * 16;
+    return `<img src="/ui/icons/${icon}.svg" width="${width}" height="${height}" class="icon" loading="lazy" />`;
   },
 };
