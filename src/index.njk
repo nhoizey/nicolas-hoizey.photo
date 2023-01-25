@@ -41,7 +41,7 @@ layout: false
     <ol class="blog">
       {% for entry in collections.blog | limit(3) %}
         <li class="blog__item">
-          <h4 class="blog__title"><a href="{{ entry.page.url }}">{{ entry.data.title }}</a></h4>
+          <h3 class="blog__title"><a href="{{ entry.page.url }}">{{ entry.data.title }}</a></h3>
           {{ meta(entry) }}
           <p class="blog__text">{{ entry.content | excerpt | striptags | safe }}</p>
         </li>
