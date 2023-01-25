@@ -7,9 +7,9 @@ $l: $m * $factor;
 $xl: $l * $factor;
 $xxl: $xl * $factor;
 $xxxl: $xxl * $factor;
+$xxxxl: $xxxl * $factor;
 
 $s: math.div($m, $factor);
 $xs: math.div($s, $factor);
 $xxs: math.div($xs, $factor);
 $xxxs: math.div($xxs, $factor);
-$xxxxs: math.div($xxxs, $factor);
