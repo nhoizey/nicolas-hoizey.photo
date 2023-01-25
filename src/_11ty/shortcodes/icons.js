@@ -61,6 +61,6 @@ module.exports = {
       parseFloat(externalSvg.replace(/^.*?width="([^"]+)".*/, '$1')) * 16;
     let height =
       parseFloat(externalSvg.replace(/^.*?height="([^"]+)".*/, '$1')) * 16;
-    return `<img src="/ui/icons/${icon}.svg" width="${width}" height="${height}" class="icon" loading="lazy" />`;
+    return `<img src="/ui/icons/${icon}.svg" width="${width}" height="${height}" class="icon" loading="lazy" alt="" />`;
   },
 };
