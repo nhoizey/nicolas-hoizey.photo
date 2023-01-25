@@ -1,0 +1,3 @@
+---
+title: Amboseli National Park
+---
