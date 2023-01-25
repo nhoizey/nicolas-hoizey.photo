@@ -16,14 +16,16 @@
   {% include 'components/json-ld/breadcrumb.njk' %}
   {% include 'components/breadcrumb.njk' %}
 
-  <h1 class="page__title">{{ title }}</h1>
+  <h1>{{ title }}</h1>
 
-  {% if flag %}
-    {{ css('components/flag', build.env) }}
-    {% flagSvg flag %}
-  {% endif %}
+  <div class="gallery__content">
+    {% if flag %}
+      {{ css('components/flag', build.env) }}
+      {% flagSvg flag %}
+    {% endif %}
 
-  {{ content | safe }}
+    {{ content | safe }}
+  </div>
 
   {% include 'components/sub-galleries.njk' %}
 

@@ -13,9 +13,9 @@ $diaporama-timing: 10s;
   padding-inline-start: 0;
 
   display: grid;
-  gap: 2rem 3rem;
   // grid-template-columns: repeat(auto-fit, min(100%, 18rem));
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: 2rem 3rem;
 
   align-items: end;
 
@@ -75,9 +75,6 @@ $diaporama-timing: 10s;
       &:nth-of-type(3) {
         z-index: 11;
       }
-      // &:nth-of-type(4) {
-      //   z-index: 10;
-      // }
     }
 
     &::before {
@@ -139,30 +136,6 @@ $diaporama-timing: 10s;
       animation-delay: $diaporama-timing * (2 + $ken_burns_3_delay);
     }
   }
-
-  // $ken_burns_4_delay: 4 * -0.1;
-  // .diaporama_4 {
-  //   img {
-  //     animation-name: ken_burns_4;
-  //     animation-duration: $diaporama-timing * 4;
-  //   }
-
-  //   img:nth-of-type(1) {
-  //     animation-delay: $diaporama-timing * $ken_burns_4_delay;
-  //   }
-
-  //   img:nth-of-type(2) {
-  //     animation-delay: $diaporama-timing * (1 + $ken_burns_4_delay);
-  //   }
-
-  //   img:nth-of-type(3) {
-  //     animation-delay: $diaporama-timing * (2 + $ken_burns_4_delay);
-  //   }
-
-  //   img:nth-of-type(4) {
-  //     animation-delay: $diaporama-timing * (3 + $ken_burns_4_delay);
-  //   }
-  // }
 }
 
 $scale_min: 1.1;

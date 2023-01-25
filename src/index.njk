@@ -11,7 +11,7 @@ layout: false
   {% include 'components/json-ld/breadcrumb.njk' %}
 
   <section class="welcome">
-    <h2 class="page__title">Welcome to my photography portfolio!</h2>
+    <h2>Welcome to my photography portfolio!</h2>
 
     <p>I’m a French self-taught amateur photographer. I love to <a href="/galleries/travels/">travel</a> to discover new horizons and people, shooting both <a href="/galleries/landscapes/">nature</a> and <a href="/galleries/urban/">urban</a> landscapes, and many other topics.</p>
   </section>
@@ -23,7 +23,7 @@ layout: false
   {{ css('components/gallery', build.env) }}
 
   <section class="latest">
-    <h3>Here are the photos I shared recently</h3>
+    <h2>Photos shared recently</h2>
     {% from "macros/photo.njk" import photo %}
     <ul class="gallery">
       {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | limit(6) %}
@@ -36,7 +36,7 @@ layout: false
   {{ css('components/blog', build.env) }}
 
   <section>
-    <h3>Here are the latest posts from the blog</h3>
+    <h2>Latest blog posts</h2>
     {% from "macros/meta.njk" import meta %}
     <ol class="blog">
       {% for entry in collections.blog | limit(3) %}

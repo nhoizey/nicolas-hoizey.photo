@@ -81,7 +81,7 @@ main {
 }
 
 section {
-  margin-block-start: spaces.$xxl;
+  margin-block-start: spaces.$xxxxl;
 }
 
 p {
@@ -98,6 +98,8 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: Coniferous-subset, 'Adjusted Brush Script MT Fallback',
+    'Arial Narrow', 'Franklin Gothic Medium', sans-serif;
   line-height: 1.2;
   font-weight: 400;
   color: #fff;
@@ -105,11 +107,6 @@ h6 {
 
 .welcome {
   margin-block-start: spaces.$m;
-}
-
-.page__title {
-  font-family: Coniferous-subset, 'Adjusted Brush Script MT Fallback',
-    'Arial Narrow', 'Franklin Gothic Medium', sans-serif;
 }
 
 h1 {

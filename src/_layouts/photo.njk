@@ -37,7 +37,7 @@
   <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %} h-entry" style="--ratio: {{ dimensions.width / dimensions.height }}; --ambiant-foreground: #{{ colors.darkMuted | fgcolor }}">
     <div class="header">
       {% include 'components/breadcrumb.njk' %}
-      <h1 class="page__title">{{ title }}</h1>
+      <h1>{{ title }}</h1>
     </div>
 
     <img
