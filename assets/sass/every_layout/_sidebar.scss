@@ -5,7 +5,7 @@ Every Layout's sidebar layout:
 https://absolutely.every-layout.dev/layouts/sidebar/
 */
 
-%sidebar {
+@mixin sidebar() {
   display: flex;
   flex-wrap: wrap;
   gap: spaces.$m;
@@ -25,7 +25,7 @@ https://absolutely.every-layout.dev/layouts/sidebar/
   }
 }
 
-%sidebar-right {
+@mixin sidebar-right() {
   display: flex;
   flex-wrap: wrap;
   gap: spaces.$m;
