@@ -1,6 +1,6 @@
 ---
-title: Children propeling a tire
-file: children-propeling-a-tire.jpg
+title: Children propelling a tire
+file: children-propelling-a-tire.jpg
 date: 2019-02-27 10:02:00 +01:00
 dates:
   iso: 2019-02-27
@@ -35,15 +35,14 @@ dimensions:
 geo:
   latitude: -0.8133333333333332
   longitude: 35.896523333333334
-  map: true
   country: Kenya
   city: Narok
 colors:
   vibrant: 179 93 108
   darkVibrant: 28 70 104
-  lightVibrant: 189 208 226
+  lightVibrant: 190 208 226
   muted: 129 118 111
-  darkMuted: 52 65 86
+  darkMuted: 51 66 86
   lightMuted: 168 193 213
 ---
 
