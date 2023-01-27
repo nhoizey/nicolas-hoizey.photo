@@ -47,6 +47,8 @@ colors:
   lightMuted: 168 193 213
 ---
 
-Children love to play. In every country, culture, home and continent, children play.
+Children love to play, and they don't need much in the way of accessories.
 
-In the neighborhoods where old and worn out bicycle, motorbike, and vehicle tires can be found, they become a playing tool for the children. Regardless of the form and type of the tire used, it is no less amusing to see them endlessly propel the tire forward with any good stick.
+Here, we offer them a thousand sophisticated and expensive gifts, and they sometimes prefer to play with packing boxes...
+
+Over there, in Kenya for example, they don't have the "chance" to have so many gadgets, they make do with what they have, and have a lot of fun!
