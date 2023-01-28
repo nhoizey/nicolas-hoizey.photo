@@ -12,7 +12,9 @@ module.exports = {
         const dimensions = photo.origin.data.dimensions;
         gallery += `<li>
 <figure>
-  <img src="/photos/${slug}/${slug}.jpg" alt="${photo.title}" class="frame${
+  <img src="/photos/${slug}/${slug}.jpg" alt="${
+          photo.origin.data.alt_text || photo.title
+        }" class="frame${
           dimensions.width < dimensions.height ? ' portrait' : ''
         }" ${dimensions.width ? `width="${dimensions.width}"` : ''} ${
           dimensions.height ? `height="${dimensions.height}"` : ''

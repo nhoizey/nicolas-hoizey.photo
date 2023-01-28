@@ -17,7 +17,7 @@ module.exports = {
       gallery += `<li>
 <figure>
   <img src="/photos/${slug}/${slug}.jpg" alt="${
-        content.data.title
+        content.data.alt_text || content.data.title
       }" class="frame${
         content.data.dimensions.width < content.data.dimensions.height
           ? ' portrait'

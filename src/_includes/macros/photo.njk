@@ -18,7 +18,7 @@
   <figure>
     <img
       src="/photos/{{ item.data.page.fileSlug }}/{{ imageFile }}.jpg"
-      alt="{{ item.data.title }}"
+      alt="{{- item.data.origin.data.alt_text or item.data.title -}}"
       class="frame{% if dimensions.width < dimensions.height %} portrait{% endif %}"
       {% if dimensions.width %}width="{{ dimensions.width }}"{% endif %}
       {% if dimensions.height %}height="{{ dimensions.height }}"{% endif %}

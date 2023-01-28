@@ -1,6 +1,8 @@
 ---
 title: Children propelling a tire
 file: children-propelling-a-tire.jpg
+alt_text: Slightly blurred photo of two Kenyan children playing by rolling a
+  tire with sticks
 date: 2019-02-27 10:02:00 +01:00
 dates:
   iso: 2019-02-27
@@ -35,6 +37,7 @@ dimensions:
 geo:
   latitude: -0.8133333333333332
   longitude: 35.896523333333334
+  map: true
   country: Kenya
   city: Narok
 colors:

@@ -204,7 +204,20 @@ SYNC ${photo}`);
     const distDir = path.join(DIST, slug);
     const distPhoto = path.join(distDir, `${slug}${ext}`);
 
-    // Get description
+    // Get description for alt text from IPTC's Headline
+    let photoAltText = '';
+    if (photoExif.Headline) {
+      photoAltText = utf8.decode(photoExif.Headline).trim();
+    }
+    if (photoAltText.length === 0) {
+      thisLog(
+        `  ⚠ alt text missing ("Headline" / "Gros titre" field in Lightroom)`
+      );
+    } else {
+      photoYFM.alt_text = photoAltText;
+    }
+
+    // Get caption/description
     let photoDescription = '';
     if (photoExif.ImageDescription) {
       photoDescription = photoExif.ImageDescription.trim();

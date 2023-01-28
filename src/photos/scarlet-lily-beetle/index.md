@@ -1,6 +1,7 @@
 ---
 title: Scarlet lily beetle
 file: scarlet-lily-beetle.jpg
+alt_text: Criocère du Lis
 date: 2008-06-14 13:06:00 +01:00
 dates:
   iso: 2008-06-14

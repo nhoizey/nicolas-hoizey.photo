@@ -43,7 +43,7 @@
     <img
       src="/photos/{{ page.fileSlug }}/{{ page.fileSlug }}.jpg"
       class="image u-photo"
-      alt="{{ title }}"
+      alt="{{- origin.data.alt_text or title -}}"
       width="{{ dimensions.width }}"
       height="{{ dimensions.height }}"
       style="background-color: #{{ colors.muted | bgcolor }}"

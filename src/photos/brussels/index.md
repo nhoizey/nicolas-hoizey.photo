@@ -1,6 +1,7 @@
 ---
 title: Brussels
 file: brussels.jpg
+alt_text: Bruxelles
 date: 2007-08-27 10:08:00 +01:00
 dates:
   iso: 2007-08-27

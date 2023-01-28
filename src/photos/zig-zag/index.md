@@ -1,6 +1,7 @@
 ---
 title: Zig zag
 file: zig-zag.jpg
+alt_text: Zig zag
 date: 2009-01-30 22:01:00 +01:00
 dates:
   iso: 2009-01-30
