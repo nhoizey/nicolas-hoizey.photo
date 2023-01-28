@@ -1,6 +1,7 @@
 ---
 title: Light rays
 file: light-rays.jpg
+alt_text: Photo of a path in the undergrowth, with sunlight coming through the trees
 date: 2021-10-24 09:10:00 +01:00
 dates:
   iso: 2021-10-24

@@ -1,6 +1,8 @@
 ---
 title: Inoummar agadir's Lamine
 file: inoummar-agadir-s-lamine.jpg
+alt_text: Photo of an old Moroccan man Lamine of an Igoudar (i.e. guardian of a
+  community granary), with a rag doll.
 date: 2011-05-06 12:05:00 +01:00
 dates:
   iso: 2011-05-06

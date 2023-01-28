@@ -1,6 +1,7 @@
 ---
 title: Japanese Zen
 file: japanese-zen.jpg
+alt_text: Photo of a red wooden bridge over an artificial river, in a Japanese garden
 date: 2009-04-01 14:04:00 +01:00
 dates:
   iso: 2009-04-01

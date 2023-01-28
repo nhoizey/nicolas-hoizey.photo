@@ -1,6 +1,7 @@
 ---
 title: Rusty
 file: rusty.jpg
+alt_text: Photo of a completely rusted nut and bolt
 date: 2008-08-24 15:08:00 +01:00
 dates:
   iso: 2008-08-24

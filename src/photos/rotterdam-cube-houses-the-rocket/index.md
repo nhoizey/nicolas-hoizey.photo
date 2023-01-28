@@ -1,6 +1,7 @@
 ---
 title: "Rotterdam Cube Houses: The rocket"
 file: rotterdam-cube-houses-the-rocket.jpg
+alt_text: Back shot of the yellow cube houses in Rotterdam
 date: 2021-11-03 12:11:00 +01:00
 dates:
   iso: 2021-11-03

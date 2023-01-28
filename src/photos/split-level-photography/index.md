@@ -1,6 +1,8 @@
 ---
 title: Split level photography
 file: split-level-photography.jpg
+alt_text: Photo taken at the limit between air and water, in the sea, with a
+  boat, and a diver on a ladder
 date: 2004-05-17 18:50:31 +02:00
 dates:
   iso: 2004-05-17
@@ -51,4 +53,6 @@ colors:
   lightMuted: 202 173 172
 ---
 
+I really like these photos taken at the edge of the water surface.
 
+Here I was diving with a small plastic disposable camera, so obviously it's not super sharp...

@@ -1,6 +1,8 @@
 ---
 title: The Hong Kong Symphony of Lights from The Peak
 file: the-hong-kong-symphony-of-lights-from-the-peak.jpg
+alt_text: Night view on the many buildings of Hong Kong, and light animations
+  (colors, beams)
 date: 2015-08-08 19:08:00 +01:00
 dates:
   iso: 2015-08-08

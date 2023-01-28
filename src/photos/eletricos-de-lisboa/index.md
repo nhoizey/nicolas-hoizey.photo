@@ -1,6 +1,7 @@
 ---
 title: Elétricos de Lisboa
 file: eletricos-de-lisboa.jpg
+alt_text: Photo of a nice yellow and white streetcar in a street of Lisbon in Portugal
 date: 2016-10-01 08:10:00 +01:00
 dates:
   iso: 2016-10-01

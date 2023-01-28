@@ -1,6 +1,8 @@
 ---
 title: Plongée en contre plongée
 file: plongee-en-contre-plongee.jpg
+alt_text: Underwater photo taken from the bottom to the surface of the water,
+  with a boat hull and 4 divers
 date: 2004-05-17 18:52:04 +02:00
 dates:
   iso: 2004-05-17

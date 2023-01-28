@@ -1,6 +1,8 @@
 ---
 title: One hope
 file: one-hope.jpg
+alt_text: Contrasting black and white portrait of a young woman with curly hair,
+  in front of a wall
 date: 2018-02-01 00:02:00 +01:00
 dates:
   iso: 2018-02-01

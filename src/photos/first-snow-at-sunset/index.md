@@ -1,6 +1,8 @@
 ---
 title: First snow at sunset
 file: first-snow-at-sunset.jpg
+alt_text: Photo of a country landscape with a snow-covered field and the setting
+  sun in the background
 date: 2012-12-08 17:12:00 +01:00
 dates:
   iso: 2012-12-08

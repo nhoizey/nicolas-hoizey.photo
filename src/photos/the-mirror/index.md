@@ -1,6 +1,8 @@
 ---
 title: The mirror
 file: the-mirror.jpg
+alt_text: Photo of a boat on a canal, with houses in the background, all
+  reflected in the water
 date: 2014-07-12 12:07:00 +01:00
 dates:
   iso: 2014-07-12

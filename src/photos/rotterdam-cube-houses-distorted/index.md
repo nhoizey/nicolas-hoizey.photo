@@ -1,6 +1,7 @@
 ---
 title: "Rotterdam Cube Houses: Distorted"
 file: rotterdam-cube-houses-distorted.jpg
+alt_text: Back shot of the yellow cube houses in Rotterdam
 date: 2021-11-03 12:11:00 +01:00
 dates:
   iso: 2021-11-03

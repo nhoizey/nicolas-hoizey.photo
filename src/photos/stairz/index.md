@@ -1,6 +1,8 @@
 ---
 title: Stairz
 file: stairz.jpg
+alt_text: Photo of the exterior escalator of the Pompidou Center, at night, with
+  lights of different colors in the building
 date: 2009-01-30 22:01:00 +01:00
 dates:
   iso: 2009-01-30

@@ -19,12 +19,16 @@ tags:
   - bienvenue
   - blur
   - bokeh
+  - Cense de Rigaux
   - Europa
   - Europe
   - flou
+  - Frasnes-lez-Anvaing
+  - Hainaut
   - mariage
   - out of focus
   - panneau
+  - Province de Hainaut
   - sign
   - wedding
   - welcome
@@ -36,7 +40,11 @@ settings:
 dimensions:
   width: 3500
   height: 2333
-geo: {}
+geo:
+  latitude: 50.651988196666665
+  longitude: 3.5396000333333335
+  country: Belgique
+  city: Frasnes-lez-Anvaing
 colors:
   vibrant: 68 108 148
   darkVibrant: 12 54 85

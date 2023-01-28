@@ -1,7 +1,7 @@
 ---
 title: Brussels
 file: brussels.jpg
-alt_text: Bruxelles
+alt_text: Photo of the roof of old buildings in Brussels
 date: 2007-08-27 10:08:00 +01:00
 dates:
   iso: 2007-08-27
@@ -17,6 +17,7 @@ tags:
   - Belgium
   - Brussel
   - Bruxelles
+  - building
   - ciel
   - city
   - cloud

@@ -1,6 +1,8 @@
 ---
 title: Strobe
 file: strobe.jpg
+alt_text: Bust picture of a young woman moving back and forth with her arms,
+  visible in several places thanks to the light of a stroboscope.
 date: 2017-03-25 13:03:00 +01:00
 dates:
   iso: 2017-03-25

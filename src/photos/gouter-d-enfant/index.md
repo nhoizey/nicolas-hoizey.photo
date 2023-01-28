@@ -1,6 +1,9 @@
 ---
 title: Goûter d'enfant
 file: gouter-d-enfant.jpg
+alt_text: "Picture of various objects on a table: a metal bowl with different
+  colored buttons, a metal milk jug with colored pencils inside, a child's
+  drawing"
 date: 2019-02-10 11:02:00 +01:00
 dates:
   iso: 2019-02-10

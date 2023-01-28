@@ -1,6 +1,7 @@
 ---
 title: Remains of the frozen sea
 file: remains-of-the-frozen-sea.jpg
+alt_text: Photo taken on the shore of the calm sea, with frozen water
 date: 2020-02-03 15:02:00 +01:00
 dates:
   iso: 2020-02-03
@@ -56,4 +57,4 @@ colors:
   lightMuted: 180 183 198
 ---
 
-
+It's not every day that you see the sea freezing. Here, it was in Sweden, a little north of Stockholm.

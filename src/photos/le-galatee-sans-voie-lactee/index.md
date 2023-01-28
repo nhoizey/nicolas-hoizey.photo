@@ -1,6 +1,7 @@
 ---
 title: Le Galatée sans voie lactée
 file: le-galatee-sans-voie-lactee.jpg
+alt_text: The terrace of a lighted restaurant, emerging from a very dark night
 date: 2018-01-06 19:01:00 +01:00
 dates:
   iso: 2018-01-06

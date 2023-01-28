@@ -1,6 +1,7 @@
 ---
 title: Double helix
 file: double-helix.jpg
+alt_text: Plunging photo of a wide staircase in double helix, with some people
 date: 2017-05-12 14:05:00 +01:00
 dates:
   iso: 2017-05-12

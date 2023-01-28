@@ -1,7 +1,8 @@
 ---
 title: Zig zag
 file: zig-zag.jpg
-alt_text: Zig zag
+alt_text: Blurred photo of luminous points, of which a set represents the shape
+  of a staircase
 date: 2009-01-30 22:01:00 +01:00
 dates:
   iso: 2009-01-30

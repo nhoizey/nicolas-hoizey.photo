@@ -1,6 +1,7 @@
 ---
 title: Playa Morón
 file: playa-moron.jpg
+alt_text: Photo of a palm tree leaning along the beach, with the ocean in the background
 date: 2018-02-28 11:02:00 +01:00
 dates:
   iso: 2018-02-28

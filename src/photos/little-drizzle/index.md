@@ -1,6 +1,7 @@
 ---
 title: Little drizzle
 file: little-drizzle.jpg
+alt_text: Outdoor portrait of a young girl with an umbrella
 date: 2018-12-09 16:12:00 +01:00
 dates:
   iso: 2018-12-09
