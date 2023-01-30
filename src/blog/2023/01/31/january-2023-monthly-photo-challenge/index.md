@@ -459,7 +459,7 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
       <td>
         <blockquote lang="fr">
           <p>Pour une fois, une photo que je n'ai pas réalisée seul.</p>
-          <p>Fruit du travail en groupe avec deux comparses de mon club photo de Draveil, dans le cadre d'ateliers d'apprentissage de la photo culinaire : <https://www.photo-club-draveil.fr/></p>
+          <p>Fruit du travail en groupe avec deux comparses de mon club photo de Draveil, dans le cadre d'ateliers d'apprentissage de la photo culinaire : <a href="https://www.photo-club-draveil.fr/">photo-club-draveil.fr</a></p>
         </blockquote>
       </td>
     </tr>
