@@ -73,8 +73,9 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
     max-width: 20rem;
   }
   .nope {
-    font-size: 2em;
+    font-size: 3em;
     text-align: center;
+    vertical-align: middle;
   }
 </style>
 
