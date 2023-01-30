@@ -1,6 +1,7 @@
 ---
 title: Bacchus dream
 file: bacchus-dream.jpg
+alt_text: Photo of multiple bottles of wine full of dust, in a cellar.
 date: 2007-11-03 17:11:00 +01:00
 dates:
   iso: 2007-11-03
