@@ -42,12 +42,12 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  glob.sync('src/_11ty/pairedShortcodes/*.js').forEach((file) => {
-    let pairedShortcodes = require('./' + file);
-    Object.keys(pairedShortcodes).forEach((name) => {
-      eleventyConfig.addPairedShortcode(name, pairedShortcodes[name]);
-    });
-  });
+  // glob.sync('src/_11ty/pairedShortcodes/*.js').forEach((file) => {
+  //   let pairedShortcodes = require('./' + file);
+  //   Object.keys(pairedShortcodes).forEach((name) => {
+  //     eleventyConfig.addPairedShortcode(name, pairedShortcodes[name]);
+  //   });
+  // });
 
   // ------------------------------------------------------------------------
   // Plugins
@@ -185,6 +185,13 @@ module.exports = function (eleventyConfig) {
   // Add markdownify filter with Markdown-it configuration
   eleventyConfig.addFilter('markdownify', (markdownString) =>
     md.render(markdownString)
+  );
+
+  // Add markdown paired shortcode with shared Markdown-it configuration
+  eleventyConfig.addPairedShortcode(
+    'markdown',
+    (markdownString, inline = null) =>
+      inline ? md.renderInline(markdownString) : md.render(markdownString)
   );
 
   // ------------------------------------------------------------------------
