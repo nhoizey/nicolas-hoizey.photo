@@ -561,7 +561,12 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
     </tr>
     <tr>
       <td colspan="2">
-        ?
+        {% photo "biohazard" %}
+        <blockquote lang="fr">
+          <p>Je tente en 5 thèmes avec « amusante », « bizarre », « de près », « partiellement floue » et « à l’échelle… » ! 💪</p>
+          <p>J'hésite à compter « gourmande » et « culinaire » pour que ça fasse 7 thèmes… 🤢😅</p>
+          <p>Un étrange astéroïde s'est écrasé… les enquêteurs scientifiques tentent de comprendre sa composition et les risques sanitaires potentiels pour la population !</p>
+        </blockquote>
       </td>
     </tr>
   </tbody>
