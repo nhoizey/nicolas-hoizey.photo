@@ -549,6 +549,10 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
       </td>
       <td>
         {% photo "not-so-colourful-netherlands" %}
+        <blockquote lang="fr">
+          <p>Voici Reitdiephaven, à Groningen, dans le nord des Pays-Bas.</p>
+          <p>Ces maisons sont célèbres pour leurs couleurs accrocheuses, je devais essayer une autre vision.</p>
+        </blockquote>
       </td>
     </tr>
     <tr>
