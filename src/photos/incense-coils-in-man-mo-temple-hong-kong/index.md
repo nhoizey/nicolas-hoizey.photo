@@ -1,6 +1,8 @@
 ---
 title: Incense coils in Man Mo Temple, Hong Kong
 file: incense-coils-in-man-mo-temple-hong-kong.jpg
+alt_text: Photo of smoking incense spirals, hanging from the ceiling of a
+  temple, with a light beam in the darkness
 date: 2015-08-08 13:08:00 +01:00
 dates:
   iso: 2015-08-08
@@ -55,6 +57,8 @@ colors:
   muted: 88 109 152
   darkMuted: 50 59 87
   lightMuted: 172 189 214
+posse:
+  locationscout: hong-kong/1603-man-mo-temple-in-sheung-wan-on-hong-kong-island
 ---
 
 I shot these incense coils (or spirals) in the <a href="http://www.discoverhongkong.com/us/see-do/culture-heritage/chinese-temples/man-mo-temple.jsp">Man Mo Temple</a> in Sheung Wan, on Hong Kong island.
