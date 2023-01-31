@@ -15,6 +15,7 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
     width: 90%;
     max-width: 80rem;
     table-layout: fixed;
+    overflow: hidden;
   }
 
   th, td {
