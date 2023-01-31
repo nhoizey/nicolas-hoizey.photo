@@ -394,7 +394,7 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
         {% photo "split-level-photography" %}
         <blockquote lang="fr">
           <p>J'aime beaucoup ces photos prises à la limite de la surface de l'eau.</p><p>Là je plongeais avec un petit appareil jetable en plastique, alors forcément c'est pas super net… 😅</p>
-          <p>Vous pouvez retrouver quelques centaines de photos de ce type dans un groupe que j'ai créé sur Flickr il y a quelques années : <https://www.flickr.com/groups/halfway_air_water/></p>
+          <p>Vous pouvez retrouver quelques centaines de photos de ce type dans un groupe que j'ai créé sur Flickr il y a quelques années : <a href="https://www.flickr.com/groups/halfway_air_water/">Split level photography: camera halfway between air and water</a></p>
         </blockquote>
       </td>
       <td>
@@ -403,7 +403,7 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
           <p><strong>Donald Trump vs Daft Punk</strong></p>
           <p>Je ne suis pas fan des défilés militaires (euphémisme), mais quand on m'a invité à une place sur les Champs Élysées proche de la Place de la Concorde, je me suis dit que ça pourrait être intéressant photographiquement.</p>
           <p>Le meilleur souvenir reste ce medley de Daft Punk joué par la fanfare, j'adore la gueule enfarinée de Donald Trump (d'un peu loin quand même).</p>
-          <p>À revoir grâce à l'INA : <https://www.ina.fr/ina-eclaire-actu/daft-punk-au-programme-du-defile-du-14-juillet-2017></p>
+          <p>À revoir grâce à l'INA : <a href="https://www.ina.fr/ina-eclaire-actu/daft-punk-au-programme-du-defile-du-14-juillet-2017">Daft Punk au programme du défilé... du 14 juillet 2017</a></p>
         </blockquote>
       </td>
     </tr>
@@ -444,7 +444,7 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
         {% photo "light-rays" %}
         <blockquote lang="fr">
           <p>La magie des rayons du soleil qui percent à travers le feuillage, ici dans l'Espace Rambouillet, un merveilleux parc de près de 200 hectares où circulent en liberté sangliers, cervidés et autres animaux des bois.</p>
-          <p>Malheureusement fermé depuis trop longtemps, il devrait rouvrir ce printemps : <https://www.espacerambouillet.fr/2023-un-nouveau-projet-pour-le-developpement-de-lespace-rambouillet/></p>
+          <p>Malheureusement fermé depuis trop longtemps, il devrait rouvrir ce printemps : <a href="https://www.espacerambouillet.fr/2023-un-nouveau-projet-pour-le-developpement-de-lespace-rambouillet">Un nouvel opérateur pour l'Espace Rambouillet</a></p>
         </blockquote>
       </td>
     </tr>
