@@ -542,6 +542,10 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
     <tr>
       <td>
         {% photo "incense-coils-in-man-mo-temple-hong-kong" %}
+        <blockquote lang="fr">
+          <p>J'ai photographié ces spirales d'encens dans le temple Man Mo à Sheung Wan, sur l'île de Hong Kong.</p>
+          <p>Les photographes sont explicitement autorisés dans cette partie du temple tant qu'ils ne dérangent pas les pratiquants.</p>
+        </blockquote>
       </td>
       <td>
         {% photo "not-so-colourful-netherlands" %}
