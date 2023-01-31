@@ -1,6 +1,7 @@
 ---
 title: Not so colourful Netherlands
 file: not-so-colourful-netherlands.jpg
+alt_text: Black and white photo of townhouses on the waterfront, under a cloudy sky
 date: 2015-07-13 15:07:00 +01:00
 dates:
   iso: 2015-07-13
