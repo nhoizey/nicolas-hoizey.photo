@@ -16,36 +16,46 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
     max-width: 80rem;
     table-layout: fixed;
   }
+
   th, td {
     vertical-align: top;
   }
+
   thead {
     position: sticky;
     top: 0;
     z-index: 3;
     background-color: #292929;
   }
+
   thead th {
     padding: .5rem 1rem;
   }
+
   thead th {
     width: 45%;
   }
+
   thead tr th:first-child {
     width: 10%;
   }
+
   tbody td {
     padding: 1.5rem 1rem;
   }
+
   tbody tr:nth-child(2n+1) {
     background-color: #393939;
   }
+
   tbody tr:nth-child(2n) {
     background-color: #494949;
   }
+
   tbody td {
     border-top: 1px solid #7d7d7d;
   }
+
   tbody tr:nth-child(2n+1) {
     position: sticky;
     top: calc(var(--step-0) * 1.7 + 1rem);
@@ -53,25 +63,30 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
     background-color: #292929;
     color: #7d7d7d;
   }
+
   tbody tr:nth-child(2n+1) th:first-child {
     font-size: 2rem;
     line-height: 1.2;
   }
+
   table figure {
     width: 100%;
     max-width: 30rem;
     margin-block-start: 1rem;
   }
+
   table figure.frame p {
     display: inline;
     margin: 0;
     font-size: 0;
     max-width: 100%;
   }
+
   table figure.portrait {
     width: 66%;
     max-width: 20rem;
   }
+
   .nope {
     font-size: 3em;
     text-align: center;
