@@ -23,8 +23,8 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
   }
 
   thead {
-    position: sticky;
-    top: 0;
+    /*position: sticky;
+    top: 0;*/
     z-index: 3;
     background-color: #292929;
   }
@@ -58,8 +58,8 @@ Here's the list of themes, the photos I posted and comments (in French) I made f
   }
 
   tbody tr:nth-child(2n+1) {
-    position: sticky;
-    top: calc(var(--step-0) * 1.7 + 1rem);
+    /*position: sticky;
+    top: calc(var(--step-0) * 1.7 + 1rem);*/
     z-index: 2;
     background-color: #292929;
     color: #7d7d7d;
