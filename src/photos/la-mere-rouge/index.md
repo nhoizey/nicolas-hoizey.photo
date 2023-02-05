@@ -52,8 +52,6 @@ colors:
   muted: 105 120 148
   darkMuted: 51 72 104
   lightMuted: 180 184 204
-posse:
-  flickr: "3921511"
 ---
 
 This photo title is a play on words in French, where « mère » ("mother") and « mer » ("sea") are homophones.

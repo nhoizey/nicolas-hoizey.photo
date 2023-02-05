@@ -8,13 +8,16 @@ $diaporama-timing: 10s;
 * GALLERIES
 * ********************************************/
 
-.galleries {
+.sub_galleries {
+  // Clear the flag float
+  clear: right;
+
   list-style: none;
   padding-inline-start: 0;
 
   display: grid;
   // grid-template-columns: repeat(auto-fit, min(100%, 18rem));
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
   gap: 2rem 3rem;
 
   align-items: end;

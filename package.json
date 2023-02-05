@@ -49,7 +49,7 @@
     "docker": "docker run --rm --network host -v $(pwd):/work/ -w /work/ -it mcr.microsoft.com/playwright:v1.22.0-focal /bin/bash"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-beta.1",
+    "@11ty/eleventy": "2.0.0-beta.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",

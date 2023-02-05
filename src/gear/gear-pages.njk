@@ -26,14 +26,14 @@ permalink: /gear/{{ gear.slug }}/
   {% endif %}
 {% endif %}
 
-{{ css('components/gallery', build.env) }}
+{{ css('components/photos', build.env) }}
 
 {% from "macros/photo.njk" import photo %}
 
 {% set photos = collections.photos_in_galleries | shot_with(gear.brand + ' ' + gear.model) %}
 {% set photosNumber = photos | length %}
 <p>Here {% if photosNumber == 1 %}is the single photo{% else %}are the {{ photosNumber }} photos{% endif %} shared here that I took with the {{ gear.brand }} {{ gear.model }}:</p>
-<ul class="gallery">
+<ul class="photos">
   {% for item in photos %}
     {% if loop.index < 4 %}
       <li>{{ photo(item, "eager", build.env) }}</li>

@@ -6,11 +6,11 @@ title: Photos that are not used yet
 {% from "macros/photo.njk" import photo %}
 
 {% from "macros/css.njk" import css %}
-{{ css('components/gallery', build.env) }}
+{{ css('components/photos', build.env) }}
 
 <h1>{{ title }}</h1>
 
-<ul class="gallery">
+<ul class="photos">
   {% for item in collections.photos_not_in_galleries %}
     {% if loop.index < 4 %}
       <li>{{ photo(item, "eager", build.env, true) }}</li>

@@ -16,14 +16,14 @@
   {% include 'components/json-ld/breadcrumb.njk' %}
   {% include 'components/breadcrumb.njk' %}
 
+  {% if flag %}
+    {{ css('components/flag', build.env) }}
+    {% flagSvg flag %}
+  {% endif %}
   <h1>{{ title }}</h1>
 
+  {{ css('components/gallery_content', build.env) }}
   <div class="gallery__content">
-    {% if flag %}
-      {{ css('components/flag', build.env) }}
-      {% flagSvg flag %}
-    {% endif %}
-
     {{ content | safe }}
   </div>
 
@@ -32,11 +32,11 @@
   {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
   {% if photos_here | length %}
 
-    {{ css('components/gallery', build.env) }}
+    {{ css('components/photos', build.env) }}
 
     <section>
       <h2>Photos</h2>
-      <ul class="gallery">
+      <ul class="photos">
         {% for item in photos_here %}
           {% if loop.index < 4 %}
             <li>{{ photo(item, "eager", build.env) }}</li>

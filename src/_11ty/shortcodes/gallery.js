@@ -2,7 +2,7 @@ module.exports = {
   gallery: (...slugs) => {
     if (slugs.length === 0) return '';
 
-    let gallery = `<ul class="gallery">`;
+    let gallery = `<ul class="photos">`;
     slugs.forEach((slug) => {
       const photosWithSlug = globalUniquePhotos.filter(
         (item) => item.page.fileSlug === slug

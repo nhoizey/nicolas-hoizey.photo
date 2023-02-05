@@ -7,7 +7,7 @@ module.exports = {
   gallery_graymatter: (...slugs) => {
     if (slugs.length === 0) return '';
 
-    let gallery = `<ul class="gallery">`;
+    let gallery = `<ul class="photos">`;
     slugs.forEach((slug) => {
       const md = fs.readFileSync(
         path.join('./src/photos/', slug, 'index.md'),

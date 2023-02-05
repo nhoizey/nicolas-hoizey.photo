@@ -9,7 +9,9 @@
   {% set tags = origin.data.tags %}
   {% set colors = origin.data.colors %}
   {% set dates = origin.data.dates %}
+  {# {% set posse = origin.data.posse %} #}
 {% endif %}
+
 
 {% block description %}
   <meta property="og:description" name="description" content="{{ content | markdownify | excerpt | striptags | safe }}" />
@@ -28,7 +30,7 @@
 
 {% block content %}
   {% from "macros/css.njk" import css %}
-  {{ css('components/photo', build.env) }}
+  {{ css('components/photo_page', build.env) }}
 
   {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
 
@@ -57,6 +59,27 @@
 
     <div class="description p-content">
       {{ content | markdownify | safe }}
+
+      {% if platforms[page.fileSlug] | keys | length > 0 %}
+        {% set photoLinks = platforms[page.fileSlug] %}
+        <div class="platforms">
+          <p>{% inline_icon 'share' %} You can also find this photo on other platforms:</p>
+          <ul>
+            {% if photoLinks.flickr %}
+              <li>{% external_icon 'flickr' %} Add it to your favs <a href="https://flickr.com/photos/nicolas-hoizey/{{ photoLinks.flickr }}/">on Flickr</a></li>
+            {% endif %}
+            {% if photoLinks.unsplash %}
+              <li>{% external_icon 'unsplash' %} Like and download it for free <a href="https://unsplash.com/photos/{{ photoLinks.unsplash }}">on Unsplash</a></li>
+            {% endif %}
+            {% if photoLinks.pixelfed %}
+              <li>{% external_icon 'pixelfed' %} Like it <a href="https://pixelfed.social/i/web/post/{{ photoLinks.pixelfed }}">on pixelfed</a></li>
+            {% endif %}
+            {% if photoLinks.locationscout %}
+              <li>{% external_icon 'locationscout' %} Find where and how to shoot the same <a href="https://www.locationscout.net/{{ photoLinks.locationscout }}">on Locationscout</a></li>
+            {% endif %}
+          </ul>
+        </div>
+      {% endif %}
     </div>
 
     <div class="meta">
@@ -88,8 +111,7 @@
       <div class="geo">
         {% if geo.latitude and geo.longitude %}
 
-          {% from "macros/css.njk" import css %}
-          {{ css('components/photo-map', build.env) }}
+          {{ css('components/photo_page_map', build.env) }}
 
           <div id="map">
             {% if geo.map %}

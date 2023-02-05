@@ -50,9 +50,6 @@ colors:
   muted: 158 104 92
   darkMuted: 80 46 42
   lightMuted: 199 197 198
-posse:
-  flickr: "28286281418"
-  unsplash: Lno6-CxVXgo
 ---
 
 Photo taken during the 34th Elite International Track and Field Meeting in Montgeron-Essonne, France, Sunday, May 13, 2018

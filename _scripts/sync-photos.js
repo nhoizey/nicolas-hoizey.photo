@@ -404,14 +404,6 @@ SYNC ${photo}`);
       photosData[photo].colors = photoYFM.colors;
     }
 
-    // Get additional informations
-    if (fs.existsSync(path.join(distDir, 'infos.json'))) {
-      photoYFM = deepmerge(
-        photoYFM,
-        require(path.join('../', distDir, 'infos.json'))
-      );
-    }
-
     // Manage folder and file
     if (!fs.existsSync(distDir)) {
       fs.mkdirSync(distDir);

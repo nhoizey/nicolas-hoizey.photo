@@ -57,8 +57,6 @@ colors:
   muted: 88 109 152
   darkMuted: 50 59 87
   lightMuted: 172 189 214
-posse:
-  locationscout: hong-kong/1603-man-mo-temple-in-sheung-wan-on-hong-kong-island
 ---
 
 I shot these incense coils (or spirals) in the <a href="http://www.discoverhongkong.com/us/see-do/culture-heritage/chinese-temples/man-mo-temple.jsp">Man Mo Temple</a> in Sheung Wan, on Hong Kong island.

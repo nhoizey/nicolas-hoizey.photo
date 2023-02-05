@@ -112,7 +112,8 @@ h6 {
 h1 {
   font-size: var(--step-4);
 
-  .breadcrumb + & {
+  .breadcrumb + &,
+  .flag + & {
     margin-block-start: 0;
   }
 }

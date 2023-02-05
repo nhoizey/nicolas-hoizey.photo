@@ -24,12 +24,12 @@ layout: false
     {% include 'components/sub-galleries.njk' %}
   </section>
 
-  {{ css('components/gallery', build.env) }}
+  {{ css('components/photos', build.env) }}
 
   <section class="latest">
     <h2>Photos shared recently</h2>
     {% from "macros/photo.njk" import photo %}
-    <ul class="gallery">
+    <ul class="photos">
       {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | limit(6) %}
         <li>{{ photo(item, "lazy", build.env) }}</li>
       {% endfor %}

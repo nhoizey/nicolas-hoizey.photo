@@ -26,7 +26,7 @@ permalink: /tags/{{ tag.slug }}/
   {% endif %}
 {% endif %}
 
-{{ css('components/gallery', build.env) }}
+{{ css('components/photos', build.env) }}
 
 {% from "macros/photo.njk" import photo %}
 
@@ -36,7 +36,7 @@ permalink: /tags/{{ tag.slug }}/
   <p>There is only one photo with this tag:</p>
 {% endif %}
 
-<ul class="gallery">
+<ul class="photos">
   {% set photos = collections.photos_in_galleries | taggued(tag.tag) %}
   {% for item in photos %}
     {% if loop.index < 4 %}
