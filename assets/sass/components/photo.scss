@@ -60,10 +60,9 @@
     align-self: start;
 
     background-color: black;
-    padding: 2px;
-    border-style: solid;
-    border-width: 4px;
-    border-color: white;
+    padding: 0;
+    padding: 0;
+    box-shadow: 0 0 0 4px colors.$gray-50, 0 0 0 5px colors.$gray-500;
   }
 
   .tags {
