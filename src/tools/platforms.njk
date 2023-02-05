@@ -1,0 +1,71 @@
+---
+layout: page
+title: Photos on other platforms
+---
+
+{% from "macros/css.njk" import css %}
+{{ css('components/photos', build.env) }}
+
+<h1>{{ title }}</h1>
+
+<style>
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: #000;
+}
+
+tbody tr:nth-child(2n) {
+  background-color: #3a3a3a;
+}
+
+th, td {
+  padding: 1rem;
+  vertical-align: middle;
+}
+
+table img {
+  max-width: 18rem;
+}
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Photo</th>
+      <th>Flickr</th>
+      <th>Unsplash</th>
+      <th>pixelfed</th>
+      <th>Locationscout</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in collections.unique_photos %}
+      <tr>
+        <td>
+          <img
+            src="/photos/{{ item.fileSlug }}/small.jpg"
+            alt=""
+            class="frame"
+            loading="lazy"
+            decoding="async"
+            data-responsiver="false"
+          />
+        </td>
+        <td>
+          <a href="{{ item.page.url }}">{{ item.data.title }}</a><br />
+          <input type="text" size="20" value="{{ item.page.fileSlug }}" style="font-size: .6em" onclick="this.select();document.execCommand('copy')"/>
+        </td>
+        <td>{{ '✅' if platforms[item.fileSlug].flickr else '❌' }}</td>
+        <td>{{ '✅' if platforms[item.fileSlug].unsplash else '❌' }}</td>
+        <td>{{ '✅' if platforms[item.fileSlug].pixelfed else '❌' }}</td>
+        <td>{{ '✅' if platforms[item.fileSlug].locationscout else '❌' }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
