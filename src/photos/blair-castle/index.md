@@ -1,6 +1,8 @@
 ---
 title: Blair Castle
 file: blair-castle.jpg
+alt_text: Photo of the front of a white Scottish castle, with a bench on a
+  grassy area in front.
 date: 2014-05-02 11:05:00 +01:00
 dates:
   iso: 2014-05-02
@@ -13,6 +15,8 @@ gear:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
 tags:
+  - banc
+  - bench
   - Blair Castle
   - blanc
   - Caisteil Bhlàir

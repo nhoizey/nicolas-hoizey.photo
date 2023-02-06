@@ -1,6 +1,8 @@
 ---
 title: Biohazard
 file: biohazard.jpg
+alt_text: Macro photo of a moldy clementine around which miniature characters in
+  protective suits are busy
 date: 2021-11-30 22:11:00 +01:00
 dates:
   iso: 2021-11-30
