@@ -3,11 +3,12 @@
 require('dotenv').config();
 
 const fs = require('fs');
+const path = require('path');
 const slugify = require('../src/_11ty/_utils/slugify.js');
 const flickrSdk = require('flickr-sdk');
 
-const PLATFORMS_FILE = '../src/_data/platforms.json';
-let platformsData = require(PLATFORMS_FILE);
+const PLATFORMS_FILE = 'src/_data/platforms.json';
+let platformsData = require(path.join('..', PLATFORMS_FILE));
 
 const syncFlickr = async () => {
   let flickrIds = {};
@@ -55,9 +56,12 @@ const syncFlickr = async () => {
 };
 
 syncFlickr().then(() => {
-  console.dir(platformsData);
   // Todo after everything else
-  // fs.writeFileSync(PLATFORMS_FILE, JSON.stringify(platformsData), {
-  //   encoding: 'utf8',
-  // });
+  fs.writeFileSync(
+    path.join('.', PLATFORMS_FILE),
+    JSON.stringify(platformsData, null, 2),
+    {
+      encoding: 'utf8',
+    }
+  );
 });

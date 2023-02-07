@@ -564,9 +564,13 @@ async function syncAllPhotos() {
 
 syncAllPhotos().then(() => {
   // Todo after everything else
-  fs.writeFileSync('./_cache/photos-data.json', JSON.stringify(photosData), {
-    encoding: 'utf8',
-  });
+  fs.writeFileSync(
+    './_cache/photos-data.json',
+    JSON.stringify(photosData, null, 2),
+    {
+      encoding: 'utf8',
+    }
+  );
 
   console.log(`Missing gear clean names:`);
   console.dir(MISSING_GEAR);
