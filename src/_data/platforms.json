@@ -49,7 +49,7 @@
     "pixelfed": "398032990910661309",
     "flickr": {
       "id": "51876943006",
-      "favs": 57
+      "favs": 58
     }
   },
   "blue-hotel": {
@@ -320,14 +320,14 @@
     "pixelfed": "398113696427559274",
     "flickr": {
       "id": "51877200256",
-      "favs": 46
+      "favs": 47
     }
   },
   "magmatic-eruption": {
     "pixelfed": "399340944708979167",
     "flickr": {
       "id": "51881613786",
-      "favs": 58
+      "favs": 59
     }
   },
   "majestic-kilimanjaro": {
@@ -498,7 +498,7 @@
     "pixelfed": "399341362122947053",
     "flickr": {
       "id": "51884834445",
-      "favs": 82
+      "favs": 83
     }
   },
   "tbilisi-sulfur-baths": {
@@ -529,7 +529,7 @@
     "pixelfed": "285156496357068800",
     "flickr": {
       "id": "51096570114",
-      "favs": 484
+      "favs": 485
     }
   },
   "the-mirror": {
@@ -557,7 +557,7 @@
     "pixelfed": "412307180335655552",
     "flickr": {
       "id": "51955750032",
-      "favs": 55
+      "favs": 56
     }
   },
   "the-way-of-zen": {
@@ -568,7 +568,11 @@
     }
   },
   "tone-on-tone": {
-    "pixelfed": "4454"
+    "pixelfed": "4454",
+    "flickr": {
+      "id": "41990797944",
+      "favs": 25
+    }
   },
   "travel-dreams": {
     "unsplash": "EqasEQO5oZQ",
@@ -611,19 +615,19 @@
   "graphite-in-batignolles": {
     "flickr": {
       "id": "52628657291",
-      "favs": 20
+      "favs": 21
     }
   },
   "unic-in-batignolles": {
     "flickr": {
       "id": "52628902134",
-      "favs": 34
+      "favs": 35
     }
   },
   "eccentric-concentric-circles-in-carcassonne-citadel": {
     "flickr": {
       "id": "52572250850",
-      "favs": 23
+      "favs": 24
     }
   },
   "summer-vibes-in-mundaka": {
@@ -635,7 +639,7 @@
   "san-sebastian-evening": {
     "flickr": {
       "id": "52476925277",
-      "favs": 62
+      "favs": 63
     }
   },
   "castillo-de-butron": {
@@ -917,7 +921,7 @@
   "napoleon-s-carnation": {
     "flickr": {
       "id": "51182350492",
-      "favs": 53
+      "favs": 54
     }
   },
   "all-quiet-on-the-frozen-traelhavet-shore": {
@@ -1133,7 +1137,7 @@
   "the-little-one": {
     "flickr": {
       "id": "50901528012",
-      "favs": 64
+      "favs": 63
     }
   },
   "nothing-to-see-or-maybe": {
@@ -1265,7 +1269,7 @@
   "on-the-move": {
     "flickr": {
       "id": "49765135981",
-      "favs": 263
+      "favs": 264
     }
   },
   "civilization": {
@@ -1319,13 +1323,13 @@
   "empty": {
     "flickr": {
       "id": "49182551498",
-      "favs": 67
+      "favs": 68
     }
   },
   "elephants-at-sunrise-in-front-of-kilimanjaro": {
     "flickr": {
       "id": "49076005902",
-      "favs": 333
+      "favs": 334
     }
   },
   "red-legged-golden-orb-weaver-spider": {
@@ -1595,7 +1599,7 @@
   "le-guilvinec-by-night": {
     "flickr": {
       "id": "30819396815",
-      "favs": 41
+      "favs": 42
     }
   },
   "the-city-that-never-sleeps": {
@@ -1667,7 +1671,7 @@
   "lower-manhattan": {
     "flickr": {
       "id": "20985227328",
-      "favs": 133
+      "favs": 132
     }
   },
   "colorful-edges": {
@@ -1824,6 +1828,66 @@
     "flickr": {
       "id": "3057318",
       "favs": 10
+    }
+  },
+  "while-waiting": {
+    "flickr": {
+      "id": "15104205129",
+      "favs": 390
+    }
+  },
+  "dreamer": {
+    "flickr": {
+      "id": "14350284830",
+      "favs": 222
+    }
+  },
+  "in-all-its-simplicity": {
+    "flickr": {
+      "id": "14486876234",
+      "favs": 223
+    }
+  },
+  "mangrove-tree-in-south-new-caledonia": {
+    "flickr": {
+      "id": "9255433378",
+      "favs": 7
+    }
+  },
+  "brussels": {
+    "flickr": {
+      "id": "3295418597",
+      "favs": 15
+    }
+  },
+  "scarlet-lily-beetle": {
+    "flickr": {
+      "id": "3211000164",
+      "favs": 5
+    }
+  },
+  "rusty": {
+    "flickr": {
+      "id": "3117915830",
+      "favs": 35
+    }
+  },
+  "harvesting-on-bluebells": {
+    "flickr": {
+      "id": "3101454144",
+      "favs": 6
+    }
+  },
+  "colourful-window-in-burano": {
+    "flickr": {
+      "id": "2459061166",
+      "favs": 24
+    }
+  },
+  "another-colourful-window-in-burano": {
+    "flickr": {
+      "id": "2459060966",
+      "favs": 18
     }
   }
 }
