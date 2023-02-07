@@ -66,7 +66,7 @@
           <p>{% inline_icon 'share' %} You can also find this photo on other platforms:</p>
           <ul>
             {% if photoLinks.flickr %}
-              <li>{% external_icon 'flickr' %} Add it to your favs <a href="https://flickr.com/photos/nicolas-hoizey/{{ photoLinks.flickr }}/">on Flickr</a></li>
+              <li>{% external_icon 'flickr' %} Add it to your favs <a href="https://flickr.com/photos/nicolas-hoizey/{{ photoLinks.flickr.id }}/">on Flickr</a></li>
             {% endif %}
             {% if photoLinks.unsplash %}
               <li>{% external_icon 'unsplash' %} Like and download it for free <a href="https://unsplash.com/photos/{{ photoLinks.unsplash }}">on Unsplash</a></li>

@@ -57,7 +57,7 @@
     "unsplash": "AJrYClJujhI"
   },
   "double-helix": {
-    "flickr": "36060657345",
+    "flickr": { "id": "36060657345" },
     "unsplash": "z3v__zzp22U",
     "locationscout": "italy/6458-vatican-museum-spiral-staircase-rome/16235"
   },
@@ -129,7 +129,7 @@
     "unsplash": "vh5bb0e1JSU"
   },
   "la-mere-rouge": {
-    "flickr": "3921511"
+    "flickr": { "id": "3921511" }
   },
   "le-petit-poucet": {
     "unsplash": "yBNIf_ny6Ro"
@@ -184,7 +184,7 @@
     "unsplash": "ouL9Ccp5KXw"
   },
   "plongee-en-contre-plongee": {
-    "flickr": "31535666"
+    "flickr": { "id": "31535666" }
   },
   "quietness": {
     "pixelfed": "7560"
@@ -274,7 +274,7 @@
     "pixelfed": "319854689078349824"
   },
   "women-s-800m": {
-    "flickr": "28286281418",
+    "flickr": { "id": "28286281418" },
     "unsplash": "Lno6-CxVXgo"
   },
   "zemo-kalaki": {
