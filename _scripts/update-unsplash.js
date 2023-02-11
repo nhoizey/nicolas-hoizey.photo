@@ -17,7 +17,6 @@ const syncUnsplash = async () => {
       unsplashIds[platformsData[slug].unsplash.id] = slug;
     }
   }
-  console.dir(unsplashIds);
 
   const unsplash = createApi({
     accessKey: process.env.UNSPLASH_ACCESS_KEY,
