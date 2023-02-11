@@ -26,9 +26,9 @@ layout: false
 
   {{ css('components/photos', build.env) }}
 
+  {% from "macros/photo.njk" import photo %}
   <section class="latest">
     <h2>Photos shared recently</h2>
-    {% from "macros/photo.njk" import photo %}
     <ul class="photos">
       {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | limit(6) %}
         <li>{{ photo(item, "lazy", build.env) }}</li>
@@ -36,6 +36,15 @@ layout: false
     </ul>
     <p>You can subscribe to <a href="/feeds/">the feed</a> to not miss any new photo.</p>
   </section>
+
+  {# <section class="popular">
+    <h2>Most popular photos</h2>
+    <ul class="photos">
+      {% for item in collections.popular_photos | limit(6) %}
+        <li>{{ photo(item, "lazy", build.env) }}</li>
+      {% endfor %}
+    </ul>
+  </section> #}
 
   {{ css('components/blog', build.env) }}
 
