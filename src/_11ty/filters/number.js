@@ -3,6 +3,8 @@ module.exports = {
     if (number < 20) {
       return `${number}`;
     }
-    return `${10 * Math.floor(number / 10)}+`;
+    const roughValue = 10 * Math.floor(number / 10);
+    const formatedString = new Intl.NumberFormat('en-US').format(roughValue);
+    return `${formatedString}+`;
   },
 };

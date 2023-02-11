@@ -69,7 +69,7 @@
               <li>{% external_icon 'flickr' %} Add it to your favs <a href="https://flickr.com/photos/nicolas-hoizey/{{ photoLinks.flickr.id }}/">on Flickr</a>, like {{ photoLinks.flickr.favs | rough }} others</li>
             {% endif %}
             {% if photoLinks.unsplash %}
-              <li>{% external_icon 'unsplash' %} Like and download it for free <a href="https://unsplash.com/photos/{{ photoLinks.unsplash }}">on Unsplash</a></li>
+              <li>{% external_icon 'unsplash' %} Like and download it for free <a href="https://unsplash.com/photos/{{ photoLinks.unsplash.id }}">on Unsplash</a>, like {{ photoLinks.unsplash.downloads | rough }} others</li>
             {% endif %}
             {% if photoLinks.pixelfed %}
               <li>{% external_icon 'pixelfed' %} Like it <a href="https://pixelfed.social/i/web/post/{{ photoLinks.pixelfed }}">on pixelfed</a></li>
