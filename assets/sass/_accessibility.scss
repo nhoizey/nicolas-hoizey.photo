@@ -1,0 +1,41 @@
+// Visually hidden (but screen reader friendly) content
+.visually-hidden:not(:focus):not(:active) {
+  /* elementProperties */
+  position: absolute;
+
+  /* Box Model */
+  width: 1px;
+  height: 1px;
+
+  /* Typography */
+  // https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/#div-comment-267
+  white-space: nowrap;
+
+  /* Visual */
+  overflow: hidden;
+
+  /* Clip */
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+
+  // https://www.matuzo.at/blog/2023/css-wish-list/#visually-hidden-content 🤔
+  // clip-path: inset(50%);
+}
+
+/* mark element */
+// https://www.tpgi.com/short-note-on-making-your-mark-more-accessible/
+mark::before,
+mark::after {
+  content: ' [highlight start] ';
+  clip-path: inset(100%);
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+}
+
+mark::after {
+  content: ' [highlight end] ';
+}
