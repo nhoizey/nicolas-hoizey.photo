@@ -3,17 +3,10 @@
 @use '../tokens/breakpoints';
 
 .flag {
-  display: block;
-  width: 50%;
+  width: 30%;
   height: auto;
+  max-width: 15rem;
 
-  margin: spaces.$m auto;
-
-  @media (min-width: breakpoints.$s) {
-    width: 30%;
-    max-width: 15rem;
-
-    float: right;
-    margin: 0 0 spaces.$l spaces.$l;
-  }
+  float: right;
+  margin: spaces.$s 0 spaces.$l spaces.$l;
 }
