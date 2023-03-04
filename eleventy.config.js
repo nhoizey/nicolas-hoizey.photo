@@ -88,7 +88,7 @@ module.exports = function (eleventyConfig) {
       ))
     );
 
-    eleventyConfig.addPlugin(require('eleventy-plugin-auto-preload'));
+    // eleventyConfig.addPlugin(require('eleventy-plugin-auto-preload'));
   }
 
   // ------------------------------------------------------------------------
