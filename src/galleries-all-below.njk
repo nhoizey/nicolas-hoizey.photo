@@ -1,0 +1,39 @@
+---
+pagination:
+  data: collections.photo_galleries
+  size: 1
+  alias: gallery
+  filter:
+    - all
+  addAllPagesToCollections: false
+layout: base
+eleventyComputed:
+  title: All photos below gallery “{{ gallery.data.title }}”
+permalink: "{{ gallery.data.page.filePathStem | dirname }}/all/"
+---
+
+{% from "macros/css.njk" import css %}
+
+{% block content %}
+
+  {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
+  {% include 'components/json-ld/breadcrumb.njk' %}
+  {% include 'components/breadcrumb.njk' %}
+
+  <h1>{{ title }}</h1>
+
+  {{ css('components/photos', build.env) }}
+
+  {% from "macros/photo.njk" import photo %}
+
+  <ul class="photos">
+    {% set photos = collections.photos_in_galleries | photos_here_and_below(gallery.url) %}
+    {% for item in photos %}
+      {% if loop.index < 4 %}
+        <li>{{ photo(item, "eager", build.env) }}</li>
+      {% else %}
+        <li>{{ photo(item, "lazy", build.env) }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endblock %}
