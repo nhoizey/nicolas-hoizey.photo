@@ -3,7 +3,6 @@
 @use '../tokens/breakpoints';
 @use '../tokens/colors';
 @use '../every_layout/sidebar' as *;
-@use '../every_layout/switcher' as *;
 
 .photo {
   --width: 100%;
