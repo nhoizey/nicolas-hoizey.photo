@@ -195,37 +195,6 @@ figure {
 }
 
 /* ********************************************
-* BREADCRUMB
-* ********************************************/
-
-.breadcrumb {
-  list-style: none;
-  margin-block: 0;
-  padding-inline-start: 0;
-  font-size: var(--step--1);
-  color: var(--ambiant-foreground, #{colors.$brand-700});
-
-  li {
-    display: inline-block;
-  }
-
-  li:after {
-    content: ' ▸';
-  }
-
-  a:link,
-  a:visited {
-    color: var(--ambiant-foreground, #{colors.$brand-500});
-    text-decoration-line: none;
-  }
-
-  a:hover,
-  a:focus {
-    color: white;
-  }
-}
-
-/* ********************************************
 * MISC
 * ********************************************/
 

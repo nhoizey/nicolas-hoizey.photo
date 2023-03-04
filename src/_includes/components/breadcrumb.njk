@@ -1,3 +1,5 @@
+{% from "macros/css.njk" import css %}
+{{ css('components/breadcrumb', build.env) }}
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
   {% for item in breadcrumb %}
