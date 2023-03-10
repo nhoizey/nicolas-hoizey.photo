@@ -28,7 +28,7 @@
   ],
   "scripts": {
     "clean": "rimraf _site",
-    "sass": "sass --no-source-map assets/sass:_site/ui/css",
+    "sass": "sass --no-source-map assets/sass:_site/ui/css --style=compressed",
     "postcss": "postcss _site/ui/css --no-map --replace --verbose",
     "build:sass": "npm-run-all --sequential sass postcss",
     "watch:sass": "sass --source-map-urls=absolute --watch assets/sass:_site/ui/css",
@@ -61,7 +61,6 @@
     "autoprefixer": "^10.4.13",
     "babel-loader": "^8.3.0",
     "cross-env": "^7.0.3",
-    "cssnano": "^5.1.15",
     "deepmerge": "^4.3.0",
     "dotenv": "^16.0.3",
     "download": "^8.0.0",
