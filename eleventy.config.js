@@ -42,13 +42,6 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  // glob.sync('src/_11ty/pairedShortcodes/*.js').forEach((file) => {
-  //   let pairedShortcodes = require('./' + file);
-  //   Object.keys(pairedShortcodes).forEach((name) => {
-  //     eleventyConfig.addPairedShortcode(name, pairedShortcodes[name]);
-  //   });
-  // });
-
   // ------------------------------------------------------------------------
   // Plugins
   // ------------------------------------------------------------------------
