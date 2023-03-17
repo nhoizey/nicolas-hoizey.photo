@@ -15,18 +15,18 @@ permalink: /feeds/mastodon/photos.json
     {%- set breadcrumb = collections.photo_galleries | breadcrumb(photo.url) -%}
     {%- set contentStart -%}“{{ photo.data.title | decodeEntities | escapeQuotes(true) | safe }}”\n\n{%- endset -%}
     {%- set contentStartLength = contentStart | length -%}
-    {%- set contentEnd -%}\n\n📅 {{ photo.data.date | date("Do MMMM YYYY") }}{%- if gear and gear.camera -%}\n\n📸 {{ gear.camera.brand }} {{ gear.camera.model -}}{%- if gear.lenses %} + {% set plus = joiner(" + ") -%}{%- for lens in gear.lenses -%}{{ plus() }}{%- if lens.brand != gear.camera.brand -%}{{ lens.brand }} {% endif -%}{{ lens.model }}{% endfor %}{% endif %}{%- endif -%}{%- if settings.iso or settings.aperture or settings.shutter_speed -%}\n🎞️ {% if settings.iso -%}ISO {{ settings.iso }}{% if settings.aperture or settings.shutter_speed -%}, {%- endif -%}{%- endif -%}{%- if settings.aperture %} ƒ/{{ settings.aperture }}{%- if settings.shutter_speed -%}, {% endif -%}{%- endif -%}{%- if settings.shutter_speed -%}{{ settings.shutter_speed }}s{%- endif -%}{%- endif -%}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag | safe }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto\n\n🔎 {% endset -%}
+    {%- set contentEnd -%}\n\n📅 {{ photo.data.date | date("Do MMMM YYYY") }}{%- if gear and gear.camera -%}\n\n📸 {{ gear.camera.brand }} {{ gear.camera.model -}}{%- if gear.lenses %} + {% set plus = joiner(" + ") -%}{%- for lens in gear.lenses -%}{{ plus() }}{%- if lens.brand != gear.camera.brand -%}{{ lens.brand }} {% endif -%}{{ lens.model }}{% endfor %}{% endif %}{%- endif -%}{%- if settings.iso or settings.aperture or settings.shutter_speed -%}\n🎞️ {% if settings.iso -%}ISO {{ settings.iso }}{% if settings.aperture or settings.shutter_speed -%}, {%- endif -%}{%- endif -%}{%- if settings.aperture %} ƒ/{{ settings.aperture }}{%- if settings.shutter_speed -%}, {% endif -%}{%- endif -%}{%- if settings.shutter_speed -%}{{ settings.shutter_speed }}s{%- endif -%}{%- endif -%}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}#{{ item.data.title | tagToHashtag | safe }} {% endif %}{%- endfor -%}#Photo #Photography #PhotoOfTheDay #DailyPhoto{% endset -%}
     {%- set contentEndLength = contentEnd | length -%}
     {%- set contentLength = contentStartLength + contentEndLength -%}
     {%- set contentMiddle = photo.data.origin.content | markdownify | replace("</p>\n<p>", "</p>\n\n<p>") | decodeEntities | striptags(true) | escapeQuotes | truncate(450 - contentLength, false, '…') | replace("\n", "\\n") | safe -%}
-    {#- 500 characters on mamot.fr, 13 for URL, a few more for emojies -> 450 -#}
+    {#- 500 characters on mamot.fr, 13 for URL, a few more for emojis -> 450 -#}
     {
       "id": "{{ photoPageUrl }}",
       "url": "{{ photoPageUrl }}",
       "language": "{{ photo.data.lang }}",
       "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}",
       "date_published": "{{ photo.data.date | rssDate }}",
-      "content_text": "{{- contentStart | safe -}}{{- contentMiddle | safe -}}{{- contentEnd | safe -}}{{ photoPageUrl }}",
+      "content_text": "{{- contentStart | safe -}}{{- contentMiddle | safe -}}\n\n🔎 {{ photoPageUrl }}{{- contentEnd | safe -}}",
       "attachments": [
         {
           "url": "{{ site.url }}/photos/{{ photo.page.fileSlug }}/small.jpg",
