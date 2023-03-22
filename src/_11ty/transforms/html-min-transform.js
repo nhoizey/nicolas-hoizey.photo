@@ -7,9 +7,9 @@ module.exports = function htmlMinTransform(content) {
     return content;
   }
 
-  if (this.page.outputPath.match(/\/photos\//)) {
-    console.log(this.page.outputPath);
-  }
+  // if (this.page.outputPath.match(/\/photos\//)) {
+  //   console.log(this.page.outputPath);
+  // }
 
   const { minify } = require('html-minifier-terser');
 
