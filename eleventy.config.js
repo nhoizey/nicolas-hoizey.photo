@@ -210,9 +210,9 @@ module.exports = function (eleventyConfig) {
     watch: ['_site/ui/css/**/*.css', '_site/ui/js/**/*.js'],
   });
 
-  if (process.env.NODE_ENV === 'production') {
-    eleventyConfig.ignores.add('src/tools/opengraph');
-  }
+  // if (process.env.NODE_ENV === 'production') {
+  //   eleventyConfig.ignores.add('src/tools/opengraph');
+  // }
 
   return {
     templateFormats: ['md', 'njk'],
