@@ -45,7 +45,7 @@
     "matomo": "node ./_scripts/update-matomo.js",
     "dates": "./_scripts/add-dates.sh",
     "prepare": "npx husky install",
-    "test": "npx playwright test",
+    "playwright": "npx playwright test",
     "docker": "docker run --rm --network host -v $(pwd):/work/ -w /work/ -it mcr.microsoft.com/playwright:v1.22.0-focal /bin/bash"
   },
   "devDependencies": {
