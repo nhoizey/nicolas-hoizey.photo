@@ -116,9 +116,17 @@ $diaporama-timing: 10s;
       animation-play-state: paused;
     }
 
+    // turn animations on if user doesn't mind
     @media (prefers-reduced-motion: no-preference) {
       .run_diaporamas & img {
         animation-play-state: running;
+      }
+    }
+    // except, turn them off again if the browser can't draw them effectively anyway
+    // See https://nicolas-hoizey.com/articles/2023/04/07/running-css-animations-only-if-both-the-device-and-the-user-allow-it/
+    @media not (update: fast) {
+      .run_diaporamas & img {
+        animation-play-state: paused;
       }
     }
   }
