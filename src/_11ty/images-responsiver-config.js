@@ -91,7 +91,7 @@ const runAfterHook = (image, document) => {
 module.exports = {
   default: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_auto:50:${width},c_limit/${src}`,
     runBefore: runBeforeHook,
     runAfter: runAfterHook,
     fallbackWidth: 800,
@@ -104,7 +104,7 @@ module.exports = {
   },
   landscape: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_jpg,fl_progressive:semi,w_${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_jpg,fl_progressive:semi,w_auto:50:${width},c_limit/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -113,7 +113,7 @@ module.exports = {
   },
   portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_jpg,fl_progressive:semi,w_${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_jpg,fl_progressive:semi,w_auto:50:${width},c_limit/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -122,7 +122,7 @@ module.exports = {
   },
   diaporama: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:20:${width},ar_3:2,c_fill/${src}`,
     fallbackWidth: 375,
     minWidth: 375, // 18 * 16 * 1.3
     maxWidth: 1312, // No need for more than 2dppx
@@ -136,7 +136,7 @@ module.exports = {
   },
   diaporama_large: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_${width},ar_3:2,c_fill/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:20:${width},ar_3:2,c_fill/${src}`,
     fallbackWidth: 375,
     minWidth: 375, // 18 * 16 * 1.3
     maxWidth: 1640, // No need for more than 2dppx
@@ -149,7 +149,7 @@ module.exports = {
   },
   thumbnail_landscape: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},h_${Math.floor(
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_auto:20:${width},h_${Math.floor(
         (width / 3) * 2
       )},c_limit/${src}`,
     fallbackWidth: 320,
@@ -161,7 +161,7 @@ module.exports = {
   },
   thumbnail_portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_${width},h_${Math.floor(
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_auto:20:${width},h_${Math.floor(
         (width / 2) * 3
       )},c_limit/${src}`,
     fallbackWidth: Math.floor((320 / 3) * 2),
