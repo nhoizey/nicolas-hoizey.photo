@@ -2,6 +2,11 @@
   command = "npm run build"
   publish = "_site"
   functions = "functions"
+  edge_functions = "edge_functions"
+
+[[edge_functions]]
+  path = "/*"
+  function = "headers"
 
 # [[redirects]]
 #   from = "https://nho-photo.netlify.app"
