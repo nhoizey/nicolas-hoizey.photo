@@ -47,7 +47,9 @@ const syncFlickr = async () => {
           };
         } else {
           console.log(
-            `Couldn't find Flickr photo "${photo.title}" here (slug "${flickrSlug}")`
+            `Couldn't find Flickr photo "${photo.title}" here (slug "${flickrSlug}")
+-> https://www.flickr.com/photos/nicolas-hoizey/${photo.id}
+`
           );
         }
       }
