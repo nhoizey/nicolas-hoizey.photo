@@ -1,5 +1,10 @@
 const slugifyString = require('../_utils/slugify');
 
+const extraHashtags = {
+  '#Landscapes': ['#Landscape', '#LandscapePhotography'],
+  '#Travels': ['#Travel', '#TravelPhotography'],
+};
+
 module.exports = {
   slugify: (string) => slugifyString(string),
   base64: (string) => {
@@ -19,12 +24,18 @@ module.exports = {
     hashtag = hashtag.replaceAll('&#39;', ' ');
 
     let words = hashtag.replaceAll(/[-\.]/g, ' ').split(' ');
-    return (
+    hashtag =
+      '#' +
       words[0] +
       words
         .slice(1)
         .map((word) => word.charAt(0).toUpperCase() + word.substr(1))
-        .join('')
-    );
+        .join('');
+
+    if (extraHashtags[hashtag] !== undefined) {
+      return extraHashtags[hashtag].join(' ');
+    } else {
+      return hashtag;
+    }
   },
 };
