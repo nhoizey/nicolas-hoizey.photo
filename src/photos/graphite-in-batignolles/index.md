@@ -50,6 +50,6 @@ colors:
   lightMuted: 24 73 129
 ---
 
-Cet immeuble de bureaux noir dans la rue Mstislav-Rostropovitch du nouveau quartier Clichy-Batignolles de Paris s'appelle « Graphite ».
+This black office building in the Mstislav-Rostropovitch street in the new Clichy-Batignolles district of Paris is called "Graphite".
 
-OVH Cloud, leader de l’hébergement et du Cloud, y a installé ses bureaux Parisiens à partir de  2018.
+OVH Cloud, a leader in hosting and cloud services, has set up its Paris offices there as of 2018.
