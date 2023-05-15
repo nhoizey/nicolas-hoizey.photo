@@ -1,10 +1,10 @@
 ---
 title: Joinville
 file: joinville.jpg
-date: 2020-10-17 14:10:00 +01:00
+date: 2020-10-17 14:14:09 +01:00
 dates:
   iso: 2020-10-17
-  human: 17th October 2020
+  human: 17 October 2020
 gear:
   camera:
     brand: Fujifilm

@@ -1,10 +1,10 @@
 ---
 title: Faded blue
 file: faded-blue.jpg
-date: 2018-08-13 17:08:00 +01:00
+date: 2018-08-13 17:32:30 +01:00
 dates:
   iso: 2018-08-13
-  human: 13th August 2018
+  human: 13 August 2018
 gear:
   camera:
     brand: Fujifilm

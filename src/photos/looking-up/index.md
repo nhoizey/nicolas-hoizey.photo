@@ -1,10 +1,10 @@
 ---
 title: Looking up
 file: looking-up.jpg
-date: 2016-09-30 14:09:00 +01:00
+date: 2016-09-30 14:59:49 +01:00
 dates:
   iso: 2016-09-30
-  human: 30th September 2016
+  human: 30 September 2016
 gear:
   camera:
     brand: Canon

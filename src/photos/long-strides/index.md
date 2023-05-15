@@ -1,10 +1,10 @@
 ---
 title: Long strides
 file: long-strides.jpg
-date: 2018-05-13 16:05:00 +01:00
+date: 2018-05-13 16:28:24 +01:00
 dates:
   iso: 2018-05-13
-  human: 13th May 2018
+  human: 13 May 2018
 gear:
   camera:
     brand: Fujifilm

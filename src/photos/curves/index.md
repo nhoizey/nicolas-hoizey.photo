@@ -1,10 +1,10 @@
 ---
 title: Curves
 file: curves.jpg
-date: 2008-09-02 15:09:00 +01:00
+date: 2008-09-02 15:42:40 +01:00
 dates:
   iso: 2008-09-02
-  human: 2nd September 2008
+  human: 2 September 2008
 gear:
   camera:
     brand: Canon

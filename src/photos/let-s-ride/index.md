@@ -1,10 +1,10 @@
 ---
 title: Let's ride!
 file: let-s-ride.jpg
-date: 2011-07-15 11:07:00 +01:00
+date: 2011-07-15 11:06:38 +01:00
 dates:
   iso: 2011-07-15
-  human: 15th July 2011
+  human: 15 July 2011
 gear:
   camera:
     brand: Canon

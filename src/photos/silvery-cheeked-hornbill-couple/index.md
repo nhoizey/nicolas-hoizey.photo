@@ -3,10 +3,10 @@ title: Silvery-cheeked Hornbill couple
 file: silvery-cheeked-hornbill-couple.jpg
 alt_text: Photo of two large black and white birds with a big yellow beak, on a
   tree branch
-date: 2019-03-04 17:03:00 +01:00
+date: 2019-03-04 17:03:59 +01:00
 dates:
   iso: 2019-03-04
-  human: 4th March 2019
+  human: 4 March 2019
 gear:
   camera:
     brand: Fujifilm

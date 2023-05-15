@@ -1,10 +1,10 @@
 ---
 title: Calçada do Carmo
 file: calcada-do-carmo.jpg
-date: 2016-10-01 08:10:00 +01:00
+date: 2016-10-01 08:12:31 +01:00
 dates:
   iso: 2016-10-01
-  human: 1st October 2016
+  human: 1 October 2016
 gear:
   camera:
     brand: Canon

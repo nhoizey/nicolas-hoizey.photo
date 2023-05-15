@@ -1,10 +1,10 @@
 ---
 title: African Fish Eagle in Nakuru
 file: african-fish-eagle-in-nakuru.jpg
-date: 2019-02-27 17:02:00 +01:00
+date: 2019-02-27 17:10:25 +01:00
 dates:
   iso: 2019-02-27
-  human: 27th February 2019
+  human: 27 February 2019
 gear:
   camera:
     brand: Fujifilm

@@ -1,10 +1,10 @@
 ---
 title: Lumberjacks
 file: lumberjacks.jpg
-date: 2021-12-01 00:12:00 +01:00
+date: 2021-12-01 00:08:18 +01:00
 dates:
   iso: 2021-12-01
-  human: 1st December 2021
+  human: 1 December 2021
 gear:
   camera:
     brand: Fujifilm

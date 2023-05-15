@@ -1,10 +1,10 @@
 ---
 title: Augur Buzzard
 file: augur-buzzard.jpg
-date: 2019-02-27 16:02:00 +01:00
+date: 2019-02-27 16:24:27 +01:00
 dates:
   iso: 2019-02-27
-  human: 27th February 2019
+  human: 27 February 2019
 gear:
   camera:
     brand: Fujifilm

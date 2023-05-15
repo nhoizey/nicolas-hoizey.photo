@@ -1,10 +1,10 @@
 ---
 title: Down to the sky
 file: down-to-the-sky.jpg
-date: 2018-08-05 15:08:00 +01:00
+date: 2018-08-05 15:47:33 +01:00
 dates:
   iso: 2018-08-05
-  human: 5th August 2018
+  human: 5 August 2018
 gear:
   camera:
     brand: Fujifilm

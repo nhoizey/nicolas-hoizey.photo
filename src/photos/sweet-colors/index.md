@@ -3,10 +3,10 @@ title: Sweet colors
 file: sweet-colors.jpg
 alt_text: Photo of dragibus candies of different colors, with tiny figurines
   pretending to paint them
-date: 2021-12-12 18:12:00 +01:00
+date: 2021-12-12 18:16:16 +01:00
 dates:
   iso: 2021-12-12
-  human: 12th December 2021
+  human: 12 December 2021
 gear:
   camera:
     brand: Fujifilm

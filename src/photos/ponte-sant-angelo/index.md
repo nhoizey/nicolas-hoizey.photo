@@ -1,10 +1,10 @@
 ---
 title: Ponte Sant'Angelo
 file: ponte-sant-angelo.jpg
-date: 2017-05-14 09:05:00 +01:00
+date: 2017-05-14 09:45:44 +01:00
 dates:
   iso: 2017-05-14
-  human: 14th May 2017
+  human: 14 May 2017
 gear:
   camera:
     brand: Fujifilm

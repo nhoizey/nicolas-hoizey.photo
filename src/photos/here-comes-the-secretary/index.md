@@ -1,10 +1,10 @@
 ---
 title: Here comes the secretary
 file: here-comes-the-secretary.jpg
-date: 2019-03-01 06:03:00 +01:00
+date: 2019-03-01 06:54:21 +01:00
 dates:
   iso: 2019-03-01
-  human: 1st March 2019
+  human: 1 March 2019
 gear:
   camera:
     brand: Fujifilm

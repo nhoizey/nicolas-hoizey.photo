@@ -3,10 +3,10 @@ title: Follow the rythm
 file: follow-the-rythm.jpg
 alt_text: Photo in a very dark nightclub, with white and blue spotlights, red
   lights in the shape of lightning, and a DJ silhouette at the decks
-date: 2014-09-27 00:09:00 +01:00
+date: 2014-09-27 00:28:23 +01:00
 dates:
   iso: 2014-09-27
-  human: 27th September 2014
+  human: 27 September 2014
 gear:
   camera:
     brand: Sony

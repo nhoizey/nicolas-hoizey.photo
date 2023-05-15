@@ -1,10 +1,10 @@
 ---
 title: The Devil's Staircase
 file: the-devil-s-staircase.jpg
-date: 2014-04-30 18:04:00 +01:00
+date: 2014-04-30 18:24:17 +01:00
 dates:
   iso: 2014-04-30
-  human: 30th April 2014
+  human: 30 April 2014
 gear:
   camera:
     brand: Canon

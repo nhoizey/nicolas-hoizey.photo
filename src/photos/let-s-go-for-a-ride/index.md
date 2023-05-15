@@ -1,10 +1,10 @@
 ---
 title: Let's go for a ride
 file: let-s-go-for-a-ride.jpg
-date: 2015-08-13 14:08:00 +01:00
+date: 2015-08-13 14:12:00 +01:00
 dates:
   iso: 2015-08-13
-  human: 13th August 2015
+  human: 13 August 2015
 gear:
   camera:
     brand: Sony

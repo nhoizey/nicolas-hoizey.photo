@@ -3,10 +3,10 @@ title: The Walking Dead bloodstains
 file: the-walking-dead-bloodstains.jpg
 alt_text: Photo of miniature figures representing zombies full of bloodstains,
   and with a hesitant walk, in front of a bottle of mercurochrome.
-date: 2023-04-17 22:04:00 +02:00
+date: 2023-04-17 22:07:45 +02:00
 dates:
   iso: 2023-04-17
-  human: 17th April 2023
+  human: 17 April 2023
 gear:
   camera:
     brand: Fujifilm

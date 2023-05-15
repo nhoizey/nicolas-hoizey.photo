@@ -1,10 +1,10 @@
 ---
 title: Wood pier in sunset
 file: wood-pier-in-sunset.jpg
-date: 2004-06-12 21:06:00 +01:00
+date: 2004-06-12 21:29:56 +01:00
 dates:
   iso: 2004-06-12
-  human: 12th June 2004
+  human: 12 June 2004
 gear:
   camera:
     brand: Konica

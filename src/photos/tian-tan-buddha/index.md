@@ -1,10 +1,10 @@
 ---
 title: Tian Tan Buddha
 file: tian-tan-buddha.jpg
-date: 2015-08-16 08:08:00 +01:00
+date: 2015-08-16 08:01:56 +01:00
 dates:
   iso: 2015-08-16
-  human: 16th August 2015
+  human: 16 August 2015
 gear:
   camera:
     brand: Sony

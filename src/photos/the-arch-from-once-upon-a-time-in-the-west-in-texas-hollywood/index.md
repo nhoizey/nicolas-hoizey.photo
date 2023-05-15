@@ -1,10 +1,10 @@
 ---
 title: The arch from "Once Upon A Time In The West" in Texas Hollywood
 file: the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood.jpg
-date: 2004-09-29 11:09:00 +01:00
+date: 2004-09-29 11:15:40 +01:00
 dates:
   iso: 2004-09-29
-  human: 29th September 2004
+  human: 29 September 2004
 gear:
   camera:
     brand: Konica

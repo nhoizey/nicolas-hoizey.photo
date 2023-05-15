@@ -1,10 +1,10 @@
 ---
 title: Great Spotted Woodpecker
 file: great-spotted-woodpecker.jpg
-date: 2016-12-04 16:12:00 +01:00
+date: 2016-12-04 16:01:58 +01:00
 dates:
   iso: 2016-12-04
-  human: 4th December 2016
+  human: 4 December 2016
 gear:
   camera:
     brand: Fujifilm

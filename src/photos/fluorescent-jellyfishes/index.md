@@ -2,10 +2,10 @@
 title: Fluorescent Jellyfishes
 file: fluorescent-jellyfishes.jpg
 alt_text: Photo of blue and white jellyfish in electric blue water
-date: 2008-05-11 09:05:00 +01:00
+date: 2008-05-11 09:22:01 +01:00
 dates:
   iso: 2008-05-11
-  human: 11th May 2008
+  human: 11 May 2008
 gear:
   camera:
     brand: Canon

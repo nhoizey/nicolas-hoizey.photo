@@ -1,10 +1,10 @@
 ---
 title: Chreli-Abano
 file: chreli-abano.jpg
-date: 2018-08-13 09:08:00 +01:00
+date: 2018-08-13 09:53:48 +01:00
 dates:
   iso: 2018-08-13
-  human: 13th August 2018
+  human: 13 August 2018
 gear:
   camera:
     brand: Fujifilm

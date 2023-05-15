@@ -1,10 +1,10 @@
 ---
 title: Women's 800m
 file: women-s-800m.jpg
-date: 2018-05-13 14:05:00 +01:00
+date: 2018-05-13 14:28:14 +01:00
 dates:
   iso: 2018-05-13
-  human: 13th May 2018
+  human: 13 May 2018
 gear:
   camera:
     brand: Fujifilm

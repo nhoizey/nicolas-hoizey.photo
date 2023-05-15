@@ -1,10 +1,10 @@
 ---
 title: The locomotion
 file: the-locomotion.jpg
-date: 2019-02-26 11:02:00 +01:00
+date: 2019-02-26 11:21:18 +01:00
 dates:
   iso: 2019-02-26
-  human: 26th February 2019
+  human: 26 February 2019
 gear:
   camera:
     brand: Fujifilm

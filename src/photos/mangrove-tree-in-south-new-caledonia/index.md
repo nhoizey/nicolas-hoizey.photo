@@ -1,10 +1,10 @@
 ---
 title: Mangrove tree in south New Caledonia
 file: mangrove-tree-in-south-new-caledonia.jpg
-date: 2013-03-30 16:03:00 +01:00
+date: 2013-03-30 16:26:54 +01:00
 dates:
   iso: 2013-03-30
-  human: 30th March 2013
+  human: 30 March 2013
 gear:
   camera:
     brand: Canon

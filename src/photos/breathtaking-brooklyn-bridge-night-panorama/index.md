@@ -1,10 +1,10 @@
 ---
 title: Breathtaking Brooklyn Bridge night panorama
 file: breathtaking-brooklyn-bridge-night-panorama.jpg
-date: 2015-05-23 21:05:00 +01:00
+date: 2015-05-23 21:43:40 +01:00
 dates:
   iso: 2015-05-23
-  human: 23rd May 2015
+  human: 23 May 2015
 gear:
   camera:
     brand: Canon

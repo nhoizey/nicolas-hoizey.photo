@@ -1,10 +1,10 @@
 ---
 title: Aurélien B&W
 file: aurelien-b-and-w.jpg
-date: 2016-01-26 21:01:00 +01:00
+date: 2016-01-26 21:28:31 +01:00
 dates:
   iso: 2016-01-26
-  human: 26th January 2016
+  human: 26 January 2016
 gear:
   camera:
     brand: Canon

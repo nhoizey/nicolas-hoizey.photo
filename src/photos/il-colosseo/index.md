@@ -1,10 +1,10 @@
 ---
 title: il Colosseo
 file: il-colosseo.jpg
-date: 2017-05-11 17:05:00 +01:00
+date: 2017-05-11 17:26:10 +01:00
 dates:
   iso: 2017-05-11
-  human: 11th May 2017
+  human: 11 May 2017
 gear:
   camera:
     brand: Fujifilm

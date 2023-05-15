@@ -1,10 +1,10 @@
 ---
 title: Look at me in the eye
 file: look-at-me-in-the-eye.jpg
-date: 2009-05-14 14:05:00 +01:00
+date: 2009-05-14 14:37:10 +01:00
 dates:
   iso: 2009-05-14
-  human: 14th May 2009
+  human: 14 May 2009
 gear:
   camera:
     brand: Canon

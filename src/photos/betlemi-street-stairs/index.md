@@ -1,10 +1,10 @@
 ---
 title: Betlemi Street Stairs
 file: betlemi-street-stairs.jpg
-date: 2018-08-13 14:08:00 +01:00
+date: 2018-08-13 14:17:50 +01:00
 dates:
   iso: 2018-08-13
-  human: 13th August 2018
+  human: 13 August 2018
 gear:
   camera:
     brand: Fujifilm

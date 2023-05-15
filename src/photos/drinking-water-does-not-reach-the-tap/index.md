@@ -1,10 +1,10 @@
 ---
 title: Drinking water does not reach the tap
 file: drinking-water-does-not-reach-the-tap.jpg
-date: 2019-02-25 08:02:00 +01:00
+date: 2019-02-25 08:50:39 +01:00
 dates:
   iso: 2019-02-25
-  human: 25th February 2019
+  human: 25 February 2019
 gear:
   camera:
     brand: Fujifilm

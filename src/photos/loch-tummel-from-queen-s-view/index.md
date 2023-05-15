@@ -1,10 +1,10 @@
 ---
 title: Loch Tummel from Queen's View
 file: loch-tummel-from-queen-s-view.jpg
-date: 2014-05-02 12:05:00 +01:00
+date: 2014-05-02 12:39:32 +01:00
 dates:
   iso: 2014-05-02
-  human: 2nd May 2014
+  human: 2 May 2014
 gear:
   camera:
     brand: Canon

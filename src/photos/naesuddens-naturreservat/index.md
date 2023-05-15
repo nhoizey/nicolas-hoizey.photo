@@ -1,10 +1,10 @@
 ---
 title: Näsuddens naturreservat
 file: naesuddens-naturreservat.jpg
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 15:29:28 +01:00
 dates:
   iso: 2020-02-03
-  human: 3rd February 2020
+  human: 3 February 2020
 gear:
   camera:
     brand: Fujifilm

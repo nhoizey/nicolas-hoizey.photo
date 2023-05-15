@@ -3,10 +3,10 @@ title: Children propelling a tire
 file: children-propelling-a-tire.jpg
 alt_text: Slightly blurred photo of two Kenyan children playing by rolling a
   tire with sticks
-date: 2019-02-27 10:02:00 +01:00
+date: 2019-02-27 10:35:26 +01:00
 dates:
   iso: 2019-02-27
-  human: 27th February 2019
+  human: 27 February 2019
 gear:
   camera:
     brand: Fujifilm

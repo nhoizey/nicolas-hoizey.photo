@@ -1,10 +1,10 @@
 ---
 title: The walls of the Alcazar of Seville
 file: the-walls-of-the-alcazar-of-seville.jpg
-date: 2004-09-21 18:09:00 +01:00
+date: 2004-09-21 18:12:00 +01:00
 dates:
   iso: 2004-09-21
-  human: 21st September 2004
+  human: 21 September 2004
 gear:
   camera:
     brand: Konica

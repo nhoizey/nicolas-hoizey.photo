@@ -3,10 +3,10 @@ title: Leslie
 file: leslie.jpg
 alt_text: Tight black and white portrait of a young woman, her head tilted to
   the side, her hand in her hair
-date: 2014-06-14 16:06:00 +01:00
+date: 2014-06-14 16:55:30 +01:00
 dates:
   iso: 2014-06-14
-  human: 14th June 2014
+  human: 14 June 2014
 gear:
   camera:
     brand: Canon

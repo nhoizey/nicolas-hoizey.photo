@@ -1,10 +1,10 @@
 ---
 title: Smoke shapes
 file: smoke-shapes.jpg
-date: 2020-10-06 21:10:00 +01:00
+date: 2020-10-06 21:04:12 +01:00
 dates:
   iso: 2020-10-06
-  human: 6th October 2020
+  human: 6 October 2020
 gear:
   camera:
     brand: Fujifilm

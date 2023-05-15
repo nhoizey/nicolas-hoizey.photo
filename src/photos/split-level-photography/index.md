@@ -6,7 +6,7 @@ alt_text: Photo taken at the limit between air and water, in the sea, with a
 date: 2004-05-17 18:50:31 +02:00
 dates:
   iso: 2004-05-17
-  human: 17th May 2004
+  human: 17 May 2004
 gear:
   camera:
     brand: Fujifilm

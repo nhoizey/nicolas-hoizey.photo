@@ -1,10 +1,10 @@
 ---
 title: Kiss
 file: kiss.jpg
-date: 2009-12-27 16:12:00 +01:00
+date: 2009-12-27 16:43:34 +01:00
 dates:
   iso: 2009-12-27
-  human: 27th December 2009
+  human: 27 December 2009
 gear:
   camera:
     brand: Canon

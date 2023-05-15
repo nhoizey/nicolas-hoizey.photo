@@ -1,10 +1,10 @@
 ---
 title: Not everyone is asleep yet
 file: not-everyone-is-asleep-yet.jpg
-date: 2017-05-12 19:05:00 +01:00
+date: 2017-05-12 19:53:59 +01:00
 dates:
   iso: 2017-05-12
-  human: 12th May 2017
+  human: 12 May 2017
 gear:
   camera:
     brand: Fujifilm

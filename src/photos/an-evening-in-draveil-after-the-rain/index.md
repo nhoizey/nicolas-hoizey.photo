@@ -1,10 +1,10 @@
 ---
 title: An evening in Draveil after the rain
 file: an-evening-in-draveil-after-the-rain.jpg
-date: 2022-05-24 20:05:00 +01:00
+date: 2022-05-24 20:37:48 +01:00
 dates:
   iso: 2022-05-24
-  human: 24th May 2022
+  human: 24 May 2022
 gear:
   camera:
     brand: Fujifilm

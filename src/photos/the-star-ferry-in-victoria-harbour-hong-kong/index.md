@@ -3,10 +3,10 @@ title: The Star Ferry in Victoria Harbour, Hong Kong
 file: the-star-ferry-in-victoria-harbour-hong-kong.jpg
 alt_text: Photo of an old green and white boat on the sea in Victoria Harbour in
   Hong Kong, with many buildings in the background
-date: 2015-08-16 11:08:00 +01:00
+date: 2015-08-16 11:49:17 +01:00
 dates:
   iso: 2015-08-16
-  human: 16th August 2015
+  human: 16 August 2015
 gear:
   camera:
     brand: Sony

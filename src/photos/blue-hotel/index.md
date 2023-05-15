@@ -1,10 +1,10 @@
 ---
 title: Blue Hotel
 file: blue-hotel.jpg
-date: 2019-02-25 10:02:00 +01:00
+date: 2019-02-25 10:33:44 +01:00
 dates:
   iso: 2019-02-25
-  human: 25th February 2019
+  human: 25 February 2019
 gear:
   camera:
     brand: Fujifilm

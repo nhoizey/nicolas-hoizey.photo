@@ -1,10 +1,10 @@
 ---
 title: Moroccan women picking wheat
 file: moroccan-women-picking-wheat.jpg
-date: 2011-05-06 10:05:00 +01:00
+date: 2011-05-06 10:50:44 +01:00
 dates:
   iso: 2011-05-06
-  human: 6th May 2011
+  human: 6 May 2011
 gear:
   camera:
     brand: Canon

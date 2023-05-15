@@ -1,10 +1,10 @@
 ---
 title: Layered symmetry
 file: layered-symmetry.jpg
-date: 2014-03-18 18:03:00 +01:00
+date: 2014-03-18 18:58:24 +01:00
 dates:
   iso: 2014-03-18
-  human: 18th March 2014
+  human: 18 March 2014
 gear:
   camera:
     brand: Panasonic

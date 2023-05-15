@@ -1,10 +1,10 @@
 ---
 title: Phare des Baleines
 file: phare-des-baleines.jpg
-date: 2017-08-22 16:08:00 +01:00
+date: 2017-08-22 16:45:47 +01:00
 dates:
   iso: 2017-08-22
-  human: 22nd August 2017
+  human: 22 August 2017
 gear:
   camera:
     brand: Fujifilm

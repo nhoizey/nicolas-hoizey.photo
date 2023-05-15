@@ -1,10 +1,10 @@
 ---
 title: Ploumanac'h
 file: ploumanac-h.jpg
-date: 2013-08-23 08:08:00 +01:00
+date: 2013-08-23 08:10:18 +01:00
 dates:
   iso: 2013-08-23
-  human: 23rd August 2013
+  human: 23 August 2013
 gear:
   camera:
     brand: Canon

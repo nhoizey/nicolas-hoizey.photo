@@ -3,10 +3,10 @@ title: Le Guilvinec by night
 file: le-guilvinec-by-night.jpg
 alt_text: Photo of the Atlantic coast at Guilvinec, with rocks uncovered at low
   tide, and glimmers of the town in the distance.
-date: 2013-05-08 20:05:00 +01:00
+date: 2013-05-08 20:32:00 +01:00
 dates:
   iso: 2013-05-08
-  human: 8th May 2013
+  human: 8 May 2013
 gear:
   camera:
     brand: Canon

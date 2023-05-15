@@ -1,10 +1,10 @@
 ---
 title: Find your way
 file: find-your-way.jpg
-date: 2017-05-12 14:05:00 +01:00
+date: 2017-05-12 14:49:11 +01:00
 dates:
   iso: 2017-05-12
-  human: 12th May 2017
+  human: 12 May 2017
 gear:
   camera:
     brand: Fujifilm

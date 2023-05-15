@@ -1,10 +1,10 @@
 ---
 title: Along the shore
 file: along-the-shore.jpg
-date: 2009-05-15 21:05:00 +01:00
+date: 2009-05-15 21:24:59 +01:00
 dates:
   iso: 2009-05-15
-  human: 15th May 2009
+  human: 15 May 2009
 gear:
   camera:
     brand: Canon

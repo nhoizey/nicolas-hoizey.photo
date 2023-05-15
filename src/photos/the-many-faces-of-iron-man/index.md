@@ -1,10 +1,10 @@
 ---
 title: The many faces of Iron Man
 file: the-many-faces-of-iron-man.jpg
-date: 2015-08-15 12:08:00 +01:00
+date: 2015-08-15 12:14:09 +01:00
 dates:
   iso: 2015-08-15
-  human: 15th August 2015
+  human: 15 August 2015
 gear:
   camera:
     brand: Sony

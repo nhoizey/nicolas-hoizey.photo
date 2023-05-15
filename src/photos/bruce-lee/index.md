@@ -1,10 +1,10 @@
 ---
 title: Bruce Lee
 file: bruce-lee.jpg
-date: 2015-08-09 11:08:00 +01:00
+date: 2015-08-09 11:43:20 +01:00
 dates:
   iso: 2015-08-09
-  human: 9th August 2015
+  human: 9 August 2015
 gear:
   camera:
     brand: Canon

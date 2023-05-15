@@ -6,12 +6,11 @@ const exifr = require('exifr');
 const sharp = require('sharp');
 const vibrant = require('node-vibrant');
 const slugify = require('../src/_11ty/_utils/slugify.js');
-const moment = require('moment');
+const { DateTime } = require('luxon');
 const Fraction = require('fraction.js');
 const imageSize = require('image-size');
 const utf8 = require('utf8');
 const YAML = require('yaml');
-const deepmerge = require('deepmerge');
 const pixelmatch = require('pixelmatch');
 const PNG = require('pngjs').PNG;
 const fs = require('fs');
@@ -227,31 +226,32 @@ SYNC ${photo}`);
     }
 
     // get photo date
+    let luxonDate;
     if (photoExif.DateTimeOriginal && photoExif.OffsetTime) {
-      const gmt = photoExif.DateTimeOriginal.toGMTString();
-      const tz = photoExif.OffsetTime;
-      photoYFM.date = moment
-        .utc(gmt)
-        .utcOffset(tz)
-        .format('YYYY-MM-DD HH:MM:SS Z');
+      luxonDate = DateTime.fromHTTP(
+        photoExif.DateTimeOriginal.toGMTString()
+      ).setZone('UTC+' + parseInt(photoExif.OffsetTime, 10));
     } else {
       thisLog(`  ⚠ exif.DateTimeOriginal missing`);
       if (photoExif.DigitalCreationDate && photoExif.DigitalCreationTime) {
-        photoYFM.date = `${photoExif.DigitalCreationDate.replace(
-          /([0-9]{4})([0-9]{2})([0-9]{2})/,
-          '$1-$2-$3'
-        )} ${photoExif.DigitalCreationTime.replace(
-          /([0-9]{2})([0-9]{2})([0-9]{2})([-+][0-9]{2})([0-9]{2})/,
-          '$1:$2:$3 $4:$5'
-        )}`;
+        luxonDate = DateTime.fromFormat(
+          `${photoExif.DigitalCreationDate} ${photoExif.DigitalCreationTime}`,
+          'yyyyLLdd HHmmssZZZ'
+        );
       } else {
         thisLog(`  ⚠ iptc.DigitalCreationDate`);
-        photoYFM.date = `${photo.slice(0, 10)} 12:00:00 Z`;
+        luxonDate = DateTime.fromFormat(
+          `${photo.slice(0, 10)} 12:00:00 Z`,
+          'yyyy-LL-dd HH:mm:ss Z'
+        );
       }
     }
+    photoYFM.date = luxonDate.toFormat('yyyy-LL-dd HH:mm:ss ZZ');
+
+    // console.log(DateTime.fromFormatExplain(photoYFM.date, luxonDateFormat));
     photoYFM.dates = {
-      iso: moment(photoYFM.date, 'YYYY-MM-DD HH:mm Z').format('YYYY-MM-DD'),
-      human: moment(photoYFM.date, 'YYYY-MM-DD HH:mm Z').format('Do MMMM YYYY'),
+      iso: luxonDate.toFormat('yyyy-LL-dd'),
+      human: luxonDate.toFormat('d LLLL yyyy'),
     };
 
     if (photoExif.Model || photoExif.LensModel) {

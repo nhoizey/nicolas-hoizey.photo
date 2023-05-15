@@ -1,10 +1,10 @@
 ---
 title: Waiting for the high tide
 file: waiting-for-the-high-tide.jpg
-date: 2013-08-22 13:08:00 +01:00
+date: 2013-08-22 13:49:45 +01:00
 dates:
   iso: 2013-08-22
-  human: 22nd August 2013
+  human: 22 August 2013
 gear:
   camera:
     brand: Canon

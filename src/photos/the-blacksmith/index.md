@@ -2,10 +2,10 @@
 title: The Blacksmith
 file: the-blacksmith.jpg
 alt_text: Photo of a blacksmith working with a hammer and anvil
-date: 2014-07-12 14:07:00 +01:00
+date: 2014-07-12 14:31:39 +01:00
 dates:
   iso: 2014-07-12
-  human: 12th July 2014
+  human: 12 July 2014
 gear:
   camera:
     brand: Sony

@@ -1,10 +1,10 @@
 ---
 title: A peaceful canal in Venice
 file: a-peaceful-canal-in-venice.jpg
-date: 2008-04-25 16:04:00 +01:00
+date: 2008-04-25 16:46:54 +01:00
 dates:
   iso: 2008-04-25
-  human: 25th April 2008
+  human: 25 April 2008
 gear:
   camera:
     brand: Canon

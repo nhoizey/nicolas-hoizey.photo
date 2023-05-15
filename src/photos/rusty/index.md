@@ -2,10 +2,10 @@
 title: Rusty
 file: rusty.jpg
 alt_text: Photo of a completely rusted nut and bolt
-date: 2008-08-24 15:08:00 +01:00
+date: 2008-08-24 15:15:28 +01:00
 dates:
   iso: 2008-08-24
-  human: 24th August 2008
+  human: 24 August 2008
 gear:
   camera:
     brand: Canon

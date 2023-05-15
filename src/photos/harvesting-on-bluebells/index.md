@@ -1,10 +1,10 @@
 ---
 title: Harvesting on bluebells
 file: harvesting-on-bluebells.jpg
-date: 2008-06-14 13:06:00 +01:00
+date: 2008-06-14 13:59:26 +01:00
 dates:
   iso: 2008-06-14
-  human: 14th June 2008
+  human: 14 June 2008
 gear:
   camera:
     brand: Canon

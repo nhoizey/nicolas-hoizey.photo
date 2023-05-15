@@ -6,7 +6,7 @@ alt_text: Underwater photo taken from the bottom to the surface of the water,
 date: 2004-05-17 18:52:04 +02:00
 dates:
   iso: 2004-05-17
-  human: 17th May 2004
+  human: 17 May 2004
 gear:
   camera:
     brand: Fujifilm

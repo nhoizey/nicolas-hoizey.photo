@@ -1,10 +1,10 @@
 ---
 title: Elephants grazing in Amboseli swamps
 file: elephants-grazing-in-amboseli-swamps.jpg
-date: 2019-02-28 17:02:00 +01:00
+date: 2019-02-28 17:26:01 +01:00
 dates:
   iso: 2019-02-28
-  human: 28th February 2019
+  human: 28 February 2019
 gear:
   camera:
     brand: Fujifilm

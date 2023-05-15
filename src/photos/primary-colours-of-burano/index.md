@@ -1,10 +1,10 @@
 ---
 title: Primary colours of Burano
 file: primary-colours-of-burano.jpg
-date: 2008-04-26 15:04:00 +01:00
+date: 2008-04-26 15:38:02 +01:00
 dates:
   iso: 2008-04-26
-  human: 26th April 2008
+  human: 26 April 2008
 gear:
   camera:
     brand: Canon

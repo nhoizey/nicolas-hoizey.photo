@@ -1,10 +1,10 @@
 ---
 title: Imeri Gramvousa
 file: imeri-gramvousa.jpg
-date: 2005-09-23 11:09:00 +01:00
+date: 2005-09-23 11:03:31 +01:00
 dates:
   iso: 2005-09-23
-  human: 23rd September 2005
+  human: 23 September 2005
 gear:
   camera:
     brand: Canon

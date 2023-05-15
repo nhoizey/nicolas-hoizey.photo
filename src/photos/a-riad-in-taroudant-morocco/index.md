@@ -1,10 +1,10 @@
 ---
 title: A Riad in Taroudant, Morocco
 file: a-riad-in-taroudant-morocco.jpg
-date: 2011-05-04 18:05:00 +01:00
+date: 2011-05-04 18:42:00 +01:00
 dates:
   iso: 2011-05-04
-  human: 4th May 2011
+  human: 4 May 2011
 gear:
   camera:
     brand: Canon

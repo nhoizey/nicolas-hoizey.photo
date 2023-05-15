@@ -1,10 +1,10 @@
 ---
 title: Dreamer
 file: dreamer.jpg
-date: 2014-06-14 15:06:00 +01:00
+date: 2014-06-14 15:31:32 +01:00
 dates:
   iso: 2014-06-14
-  human: 14th June 2014
+  human: 14 June 2014
 gear:
   camera:
     brand: Canon

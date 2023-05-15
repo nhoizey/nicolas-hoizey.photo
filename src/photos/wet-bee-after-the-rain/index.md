@@ -1,10 +1,10 @@
 ---
 title: Wet bee after the rain
 file: wet-bee-after-the-rain.jpg
-date: 2013-08-07 18:08:00 +01:00
+date: 2013-08-07 18:47:21 +01:00
 dates:
   iso: 2013-08-07
-  human: 7th August 2013
+  human: 7 August 2013
 gear:
   camera:
     brand: Canon

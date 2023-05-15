@@ -1,10 +1,10 @@
 ---
 title: Night mirror
 file: night-mirror.jpg
-date: 2010-08-07 22:08:00 +01:00
+date: 2010-08-07 22:34:01 +01:00
 dates:
   iso: 2010-08-07
-  human: 7th August 2010
+  human: 7 August 2010
 gear:
   camera:
     brand: Canon

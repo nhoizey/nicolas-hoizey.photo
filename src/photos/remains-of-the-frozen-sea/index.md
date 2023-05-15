@@ -2,10 +2,10 @@
 title: Remains of the frozen sea
 file: remains-of-the-frozen-sea.jpg
 alt_text: Photo taken on the shore of the calm sea, with frozen water
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 15:47:36 +01:00
 dates:
   iso: 2020-02-03
-  human: 3rd February 2020
+  human: 3 February 2020
 gear:
   camera:
     brand: Fujifilm

@@ -1,10 +1,10 @@
 ---
 title: Ploumanac'h lighthouse
 file: ploumanac-h-lighthouse.jpg
-date: 2013-08-22 20:08:00 +01:00
+date: 2013-08-22 20:52:32 +01:00
 dates:
   iso: 2013-08-22
-  human: 22nd August 2013
+  human: 22 August 2013
 gear:
   camera:
     brand: Canon

@@ -1,10 +1,10 @@
 ---
 title: Kilchurn Castle
 file: kilchurn-castle.jpg
-date: 2014-04-30 17:04:00 +01:00
+date: 2014-04-30 17:11:41 +01:00
 dates:
   iso: 2014-04-30
-  human: 30th April 2014
+  human: 30 April 2014
 gear:
   camera:
     brand: Canon

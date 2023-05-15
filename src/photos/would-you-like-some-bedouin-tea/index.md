@@ -1,10 +1,10 @@
 ---
 title: Would you like some bedouin tea?
 file: would-you-like-some-bedouin-tea.jpg
-date: 2004-05-14 17:05:00 +01:00
+date: 2004-05-14 17:14:48 +01:00
 dates:
   iso: 2004-05-14
-  human: 14th May 2004
+  human: 14 May 2004
 gear:
   camera:
     brand: Konica

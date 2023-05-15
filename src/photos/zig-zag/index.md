@@ -3,10 +3,10 @@ title: Zig zag
 file: zig-zag.jpg
 alt_text: Blurred photo of luminous points, of which a set represents the shape
   of a staircase
-date: 2009-01-30 22:01:00 +01:00
+date: 2009-01-30 22:46:02 +01:00
 dates:
   iso: 2009-01-30
-  human: 30th January 2009
+  human: 30 January 2009
 gear:
   camera:
     brand: Canon

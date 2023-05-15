@@ -1,10 +1,10 @@
 ---
 title: Liberty
 file: liberty.jpg
-date: 2015-05-21 16:05:00 +01:00
+date: 2015-05-21 16:42:06 +01:00
 dates:
   iso: 2015-05-21
-  human: 21st May 2015
+  human: 21 May 2015
 gear:
   camera:
     brand: Canon

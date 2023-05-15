@@ -1,10 +1,10 @@
 ---
 title: Le Roof
 file: le-roof.jpg
-date: 2013-04-03 12:04:00 +01:00
+date: 2013-04-03 12:09:55 +01:00
 dates:
   iso: 2013-04-03
-  human: 3rd April 2013
+  human: 3 April 2013
 gear:
   camera:
     brand: Canon

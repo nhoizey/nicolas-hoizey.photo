@@ -1,10 +1,10 @@
 ---
 title: Saint Pancras
 file: saint-pancras.jpg
-date: 2017-10-19 08:10:00 +01:00
+date: 2017-10-19 08:35:36 +01:00
 dates:
   iso: 2017-10-19
-  human: 19th October 2017
+  human: 19 October 2017
 gear:
   camera:
     brand: Fujifilm

@@ -1,10 +1,10 @@
 ---
 title: Eccentric concentric circles in Carcassonne citadel
 file: eccentric-concentric-circles-in-carcassonne-citadel.jpg
-date: 2022-08-16 10:08:00 +01:00
+date: 2022-08-16 10:43:37 +01:00
 dates:
   iso: 2022-08-16
-  human: 16th August 2022
+  human: 16 August 2022
 gear:
   camera:
     brand: Fujifilm

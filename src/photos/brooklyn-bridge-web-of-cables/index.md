@@ -1,10 +1,10 @@
 ---
 title: Brooklyn Bridge web of cables
 file: brooklyn-bridge-web-of-cables.jpg
-date: 2015-05-23 18:05:00 +01:00
+date: 2015-05-23 18:48:46 +01:00
 dates:
   iso: 2015-05-23
-  human: 23rd May 2015
+  human: 23 May 2015
 gear:
   camera:
     brand: Canon

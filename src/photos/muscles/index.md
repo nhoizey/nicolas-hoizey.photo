@@ -1,10 +1,10 @@
 ---
 title: Muscles
 file: muscles.jpg
-date: 2015-05-23 13:05:00 +01:00
+date: 2015-05-23 13:49:01 +01:00
 dates:
   iso: 2015-05-23
-  human: 23rd May 2015
+  human: 23 May 2015
 gear:
   camera:
     brand: Sony

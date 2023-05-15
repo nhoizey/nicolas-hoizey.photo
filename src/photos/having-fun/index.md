@@ -1,10 +1,10 @@
 ---
 title: Having fun
 file: having-fun.jpg
-date: 2006-04-01 19:04:00 +01:00
+date: 2006-04-01 19:53:33 +01:00
 dates:
   iso: 2006-04-01
-  human: 1st April 2006
+  human: 1 April 2006
 gear:
   camera:
     brand: Canon

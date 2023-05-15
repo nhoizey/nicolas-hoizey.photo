@@ -1,10 +1,10 @@
 ---
 title: Aux couleurs modernes
 file: aux-couleurs-modernes.jpg
-date: 2017-02-03 14:02:00 +01:00
+date: 2017-02-03 14:33:40 +01:00
 dates:
   iso: 2017-02-03
-  human: 3rd February 2017
+  human: 3 February 2017
 gear:
   camera:
     brand: Fujifilm

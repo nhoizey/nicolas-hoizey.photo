@@ -1,10 +1,10 @@
 ---
 title: Hoarding disorder
 file: hoarding-disorder.jpg
-date: 2015-08-09 17:08:00 +01:00
+date: 2015-08-09 17:17:02 +01:00
 dates:
   iso: 2015-08-09
-  human: 9th August 2015
+  human: 9 August 2015
 gear:
   camera:
     brand: Sony

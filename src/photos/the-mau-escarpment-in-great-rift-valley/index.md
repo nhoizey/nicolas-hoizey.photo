@@ -1,10 +1,10 @@
 ---
 title: The Mau Escarpment in Great Rift Valley
 file: the-mau-escarpment-in-great-rift-valley.jpg
-date: 2019-02-27 10:02:00 +01:00
+date: 2019-02-27 10:59:33 +01:00
 dates:
   iso: 2019-02-27
-  human: 27th February 2019
+  human: 27 February 2019
 gear:
   camera:
     brand: Fujifilm

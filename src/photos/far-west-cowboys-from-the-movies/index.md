@@ -3,10 +3,10 @@ title: Far West cowboys from the movies
 file: far-west-cowboys-from-the-movies.jpg
 alt_text: Photo of a cowboy on horseback in the dirt street of a wild west town
   (photo taken in a movie studio)
-date: 2004-09-29 13:09:00 +01:00
+date: 2004-09-29 13:35:27 +01:00
 dates:
   iso: 2004-09-29
-  human: 29th September 2004
+  human: 29 September 2004
 gear:
   camera:
     brand: Konica

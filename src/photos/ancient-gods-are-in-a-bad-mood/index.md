@@ -2,10 +2,10 @@
 title: Ancient Gods are in a bad mood
 file: ancient-gods-are-in-a-bad-mood.jpg
 alt_text: A photo of the Colosseum of Rome with very threatening clouds
-date: 2017-05-11 16:05:00 +01:00
+date: 2017-05-11 16:05:45 +01:00
 dates:
   iso: 2017-05-11
-  human: 11th May 2017
+  human: 11 May 2017
 gear:
   camera:
     brand: Fujifilm

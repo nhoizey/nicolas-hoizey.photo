@@ -1,10 +1,10 @@
 ---
 title: Lesser blue-eared starling
 file: lesser-blue-eared-starling.jpg
-date: 2018-10-30 12:10:00 +01:00
+date: 2018-10-30 12:56:35 +01:00
 dates:
   iso: 2018-10-30
-  human: 30th October 2018
+  human: 30 October 2018
 gear:
   camera:
     brand: Fujifilm

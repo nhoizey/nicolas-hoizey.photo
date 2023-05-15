@@ -1,10 +1,10 @@
 ---
 title: Pigments
 file: pigments.jpg
-date: 2015-04-27 14:04:00 +01:00
+date: 2015-04-27 14:23:10 +01:00
 dates:
   iso: 2015-04-27
-  human: 27th April 2015
+  human: 27 April 2015
 gear:
   camera:
     brand: Panasonic

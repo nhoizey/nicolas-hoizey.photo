@@ -1,10 +1,10 @@
 ---
 title: Menace
 file: menace.jpg
-date: 2017-05-19 19:05:00 +01:00
+date: 2017-05-19 19:57:22 +01:00
 dates:
   iso: 2017-05-19
-  human: 19th May 2017
+  human: 19 May 2017
 gear:
   camera:
     brand: Fujifilm

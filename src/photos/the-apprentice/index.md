@@ -1,10 +1,10 @@
 ---
 title: The apprentice
 file: the-apprentice.jpg
-date: 2019-02-25 18:02:00 +01:00
+date: 2019-02-25 18:01:06 +01:00
 dates:
   iso: 2019-02-25
-  human: 25th February 2019
+  human: 25 February 2019
 gear:
   camera:
     brand: Fujifilm

@@ -3,10 +3,10 @@ title: Fahrenheit 451
 file: fahrenheit-451.jpg
 alt_text: Photo of a miniature firefighter in a fireproof suit on the cover of
   the book Farenheit 451 by Ray Bradbury, with a fire in the background
-date: 2023-04-17 22:04:00 +02:00
+date: 2023-04-17 22:32:24 +02:00
 dates:
   iso: 2023-04-17
-  human: 17th April 2023
+  human: 17 April 2023
 gear:
   camera:
     brand: Fujifilm

@@ -1,10 +1,10 @@
 ---
 title: Koezio labyrinth
 file: koezio-labyrinth.jpg
-date: 2018-06-16 14:06:00 +01:00
+date: 2018-06-16 14:41:16 +01:00
 dates:
   iso: 2018-06-16
-  human: 16th June 2018
+  human: 16 June 2018
 gear:
   camera:
     brand: Fujifilm

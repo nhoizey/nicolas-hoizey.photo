@@ -1,10 +1,10 @@
 ---
 title: After the rain…
 file: after-the-rain.jpg
-date: 2018-12-09 16:12:00 +01:00
+date: 2018-12-09 16:42:17 +01:00
 dates:
   iso: 2018-12-09
-  human: 9th December 2018
+  human: 9 December 2018
 gear:
   camera:
     brand: Fujifilm

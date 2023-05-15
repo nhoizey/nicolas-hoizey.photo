@@ -1,10 +1,10 @@
 ---
 title: The view over Mtskheta from Jvari Monastery
 file: the-view-over-mtskheta-from-jvari-monastery.jpg
-date: 2018-08-12 13:08:00 +01:00
+date: 2018-08-12 13:35:14 +01:00
 dates:
   iso: 2018-08-12
-  human: 12th August 2018
+  human: 12 August 2018
 gear:
   camera:
     brand: Fujifilm

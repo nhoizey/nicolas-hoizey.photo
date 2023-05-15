@@ -1,10 +1,10 @@
 ---
 title: At Loch nan Uamh's end
 file: at-loch-nan-uamh-s-end.jpg
-date: 2014-05-01 11:05:00 +01:00
+date: 2014-05-01 11:30:23 +01:00
 dates:
   iso: 2014-05-01
-  human: 1st May 2014
+  human: 1 May 2014
 gear:
   camera:
     brand: Canon

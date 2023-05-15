@@ -1,10 +1,10 @@
 ---
 title: An evening at Château de Chambord
 file: an-evening-at-chateau-de-chambord.jpg
-date: 2020-07-11 20:07:00 +01:00
+date: 2020-07-11 20:58:01 +01:00
 dates:
   iso: 2020-07-11
-  human: 11th July 2020
+  human: 11 July 2020
 gear:
   camera:
     brand: Fujifilm

@@ -1,10 +1,10 @@
 ---
 title: Larva of Tenthredo Marginella
 file: larva-of-tenthredo-marginella.jpg
-date: 2008-10-12 13:10:00 +01:00
+date: 2008-10-12 13:44:30 +01:00
 dates:
   iso: 2008-10-12
-  human: 12th October 2008
+  human: 12 October 2008
 gear:
   camera:
     brand: Canon

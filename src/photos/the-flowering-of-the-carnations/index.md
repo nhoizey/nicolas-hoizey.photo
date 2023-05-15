@@ -2,10 +2,10 @@
 title: The flowering of the carnations
 file: the-flowering-of-the-carnations.jpg
 alt_text: Photo of miniature figures "opening" carnation flowers
-date: 2017-06-14 19:06:00 +01:00
+date: 2017-06-14 19:16:09 +01:00
 dates:
   iso: 2017-06-14
-  human: 14th June 2017
+  human: 14 June 2017
 gear:
   camera:
     brand: Fujifilm

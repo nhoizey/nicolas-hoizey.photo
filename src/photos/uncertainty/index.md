@@ -1,10 +1,10 @@
 ---
 title: Uncertainty...
 file: uncertainty.jpg
-date: 2018-02-01 00:02:00 +01:00
+date: 2018-02-01 00:00:50 +01:00
 dates:
   iso: 2018-02-01
-  human: 1st February 2018
+  human: 1 February 2018
 gear:
   camera:
     brand: Fujifilm

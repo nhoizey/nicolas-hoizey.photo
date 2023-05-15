@@ -3,10 +3,10 @@ title: Magmatic eruption
 file: magmatic-eruption.jpg
 alt_text: Macro photo of a lit red candle and small miniature figures of
   volcanologists on the edges (scale 1/87th)
-date: 2021-12-13 22:12:00 +01:00
+date: 2021-12-13 22:39:51 +01:00
 dates:
   iso: 2021-12-13
-  human: 13th December 2021
+  human: 13 December 2021
 gear:
   camera:
     brand: Fujifilm

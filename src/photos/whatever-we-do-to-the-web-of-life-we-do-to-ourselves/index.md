@@ -1,10 +1,10 @@
 ---
 title: Whatever we do to the web of life, we do to ourselves
 file: whatever-we-do-to-the-web-of-life-we-do-to-ourselves.jpg
-date: 2015-05-23 18:05:00 +01:00
+date: 2015-05-23 18:41:18 +01:00
 dates:
   iso: 2015-05-23
-  human: 23rd May 2015
+  human: 23 May 2015
 gear:
   camera:
     brand: Canon

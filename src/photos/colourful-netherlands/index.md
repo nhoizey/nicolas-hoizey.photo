@@ -1,10 +1,10 @@
 ---
 title: Colourful Netherlands
 file: colourful-netherlands.jpg
-date: 2015-07-13 15:07:00 +01:00
+date: 2015-07-13 15:56:57 +01:00
 dates:
   iso: 2015-07-13
-  human: 13th July 2015
+  human: 13 July 2015
 gear:
   camera:
     brand: Sony

@@ -2,10 +2,10 @@
 title: Ice shards
 file: ice-shards.jpg
 alt_text: Photo of ice crystals
-date: 2020-02-03 15:02:00 +01:00
+date: 2020-02-03 15:50:57 +01:00
 dates:
   iso: 2020-02-03
-  human: 3rd February 2020
+  human: 3 February 2020
 gear:
   camera:
     brand: Fujifilm

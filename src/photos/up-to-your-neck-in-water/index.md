@@ -1,10 +1,10 @@
 ---
 title: Up to your neck in water
 file: up-to-your-neck-in-water.jpg
-date: 2018-01-28 12:01:00 +01:00
+date: 2018-01-28 12:50:03 +01:00
 dates:
   iso: 2018-01-28
-  human: 28th January 2018
+  human: 28 January 2018
 gear:
   camera:
     brand: Fujifilm

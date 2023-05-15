@@ -3,10 +3,10 @@ title: Traigh beaches
 file: traigh-beaches.jpg
 alt_text: Photo of a white sandy beach, with turquoise sea, and in the
   background low mountains
-date: 2014-05-01 11:05:00 +01:00
+date: 2014-05-01 11:57:50 +01:00
 dates:
   iso: 2014-05-01
-  human: 1st May 2014
+  human: 1 May 2014
 gear:
   camera:
     brand: Canon

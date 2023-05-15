@@ -1,10 +1,10 @@
 ---
 title: The fishmonger
 file: the-fishmonger.jpg
-date: 2015-08-09 15:08:00 +01:00
+date: 2015-08-09 15:03:30 +01:00
 dates:
   iso: 2015-08-09
-  human: 9th August 2015
+  human: 9 August 2015
 gear:
   camera:
     brand: Sony

@@ -1,10 +1,10 @@
 ---
 title: Le Petit Poucet
 file: le-petit-poucet.jpg
-date: 2018-01-25 08:01:00 +01:00
+date: 2018-01-25 08:54:39 +01:00
 dates:
   iso: 2018-01-25
-  human: 25th January 2018
+  human: 25 January 2018
 gear:
   camera:
     brand: Fujifilm

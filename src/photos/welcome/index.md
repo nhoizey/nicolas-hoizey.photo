@@ -1,10 +1,10 @@
 ---
 title: Welcome
 file: welcome.jpg
-date: 2009-10-10 16:10:00 +01:00
+date: 2009-10-10 16:02:13 +01:00
 dates:
   iso: 2009-10-10
-  human: 10th October 2009
+  human: 10 October 2009
 gear:
   camera:
     brand: Canon

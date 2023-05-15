@@ -1,10 +1,10 @@
 ---
 title: Tubes
 file: tubes.jpg
-date: 2017-10-22 11:10:00 +01:00
+date: 2017-10-22 11:12:08 +01:00
 dates:
   iso: 2017-10-22
-  human: 22nd October 2017
+  human: 22 October 2017
 gear:
   camera:
     brand: Fujifilm

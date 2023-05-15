@@ -1,10 +1,10 @@
 ---
 title: Liberty has been framed
 file: liberty-has-been-framed.jpg
-date: 2015-05-19 13:05:00 +01:00
+date: 2015-05-19 13:26:50 +01:00
 dates:
   iso: 2015-05-19
-  human: 19th May 2015
+  human: 19 May 2015
 gear:
   camera:
     brand: Sony

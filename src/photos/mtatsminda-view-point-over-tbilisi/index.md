@@ -1,10 +1,10 @@
 ---
 title: Mtatsminda view point over Tbilisi
 file: mtatsminda-view-point-over-tbilisi.jpg
-date: 2018-08-11 18:08:00 +01:00
+date: 2018-08-11 18:07:01 +01:00
 dates:
   iso: 2018-08-11
-  human: 11th August 2018
+  human: 11 August 2018
 gear:
   camera:
     brand: Fujifilm

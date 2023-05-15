@@ -1,10 +1,10 @@
 ---
 title: Defenseless
 file: defenseless.jpg
-date: 2018-06-11 17:06:00 +01:00
+date: 2018-06-11 17:33:10 +01:00
 dates:
   iso: 2018-06-11
-  human: 11th June 2018
+  human: 11 June 2018
 gear:
   camera:
     brand: Fujifilm

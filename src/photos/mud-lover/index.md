@@ -2,10 +2,10 @@
 title: Mud lover
 file: mud-lover.jpg
 alt_text: Close-up of an elephant head covered with dried mud
-date: 2008-05-11 12:05:00 +01:00
+date: 2008-05-11 12:13:20 +01:00
 dates:
   iso: 2008-05-11
-  human: 11th May 2008
+  human: 11 May 2008
 gear:
   camera:
     brand: Canon

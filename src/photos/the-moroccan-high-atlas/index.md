@@ -1,10 +1,10 @@
 ---
 title: The Moroccan High Atlas
 file: the-moroccan-high-atlas.jpg
-date: 2011-05-08 11:05:00 +01:00
+date: 2011-05-08 11:21:41 +01:00
 dates:
   iso: 2011-05-08
-  human: 8th May 2011
+  human: 8 May 2011
 gear:
   camera:
     brand: Canon

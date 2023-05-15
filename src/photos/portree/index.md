@@ -1,10 +1,10 @@
 ---
 title: Portree
 file: portree.jpg
-date: 2014-05-01 14:05:00 +01:00
+date: 2014-05-01 14:48:18 +01:00
 dates:
   iso: 2014-05-01
-  human: 1st May 2014
+  human: 1 May 2014
 gear:
   camera:
     brand: Canon

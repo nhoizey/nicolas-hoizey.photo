@@ -1,10 +1,10 @@
 ---
 title: The manor
 file: the-manor.jpg
-date: 2013-08-14 15:08:00 +01:00
+date: 2013-08-14 15:13:14 +01:00
 dates:
   iso: 2013-08-14
-  human: 14th August 2013
+  human: 14 August 2013
 gear:
   camera:
     brand: Canon

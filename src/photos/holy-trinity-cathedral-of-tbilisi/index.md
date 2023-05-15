@@ -1,10 +1,10 @@
 ---
 title: Holy Trinity Cathedral of Tbilisi
 file: holy-trinity-cathedral-of-tbilisi.jpg
-date: 2018-08-14 10:08:00 +01:00
+date: 2018-08-14 10:32:37 +01:00
 dates:
   iso: 2018-08-14
-  human: 14th August 2018
+  human: 14 August 2018
 gear:
   camera:
     brand: Fujifilm

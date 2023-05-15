@@ -1,10 +1,10 @@
 ---
 title: Color Patches
 file: color-patches.jpg
-date: 2017-12-19 18:12:00 +01:00
+date: 2017-12-19 18:35:09 +01:00
 dates:
   iso: 2017-12-19
-  human: 19th December 2017
+  human: 19 December 2017
 gear:
   camera:
     brand: Fujifilm

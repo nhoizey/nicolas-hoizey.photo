@@ -1,10 +1,10 @@
 ---
 title: Superb Starling
 file: superb-starling.jpg
-date: 2018-10-30 12:10:00 +01:00
+date: 2018-10-30 12:46:53 +01:00
 dates:
   iso: 2018-10-30
-  human: 30th October 2018
+  human: 30 October 2018
 gear:
   camera:
     brand: Fujifilm

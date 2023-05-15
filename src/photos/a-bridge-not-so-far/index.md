@@ -1,10 +1,10 @@
 ---
 title: A bridge not so far
 file: a-bridge-not-so-far.jpg
-date: 2015-05-23 19:05:00 +01:00
+date: 2015-05-23 19:21:31 +01:00
 dates:
   iso: 2015-05-23
-  human: 23rd May 2015
+  human: 23 May 2015
 gear:
   camera:
     brand: Sony

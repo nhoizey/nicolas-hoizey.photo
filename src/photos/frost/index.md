@@ -1,10 +1,10 @@
 ---
 title: Frost
 file: frost.jpg
-date: 2009-01-10 09:01:00 +01:00
+date: 2009-01-10 09:00:38 +01:00
 dates:
   iso: 2009-01-10
-  human: 10th January 2009
+  human: 10 January 2009
 gear:
   camera:
     brand: Canon

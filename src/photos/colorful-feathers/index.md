@@ -1,10 +1,10 @@
 ---
 title: Colorful feathers
 file: colorful-feathers.jpg
-date: 2008-05-11 14:05:00 +01:00
+date: 2008-05-11 14:43:53 +01:00
 dates:
   iso: 2008-05-11
-  human: 11th May 2008
+  human: 11 May 2008
 gear:
   camera:
     brand: Canon

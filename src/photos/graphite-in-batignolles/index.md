@@ -1,10 +1,10 @@
 ---
 title: Graphite in Batignolles
 file: graphite-in-batignolles.jpg
-date: 2019-12-02 15:12:00 +01:00
+date: 2019-12-02 15:14:48 +01:00
 dates:
   iso: 2019-12-02
-  human: 2nd December 2019
+  human: 2 December 2019
 gear:
   camera:
     brand: Fujifilm

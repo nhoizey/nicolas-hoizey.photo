@@ -1,10 +1,10 @@
 ---
 title: Grignotage
 file: grignotage.jpg
-date: 2019-03-10 11:03:00 +01:00
+date: 2019-03-10 11:58:07 +01:00
 dates:
   iso: 2019-03-10
-  human: 10th March 2019
+  human: 10 March 2019
 gear:
   camera:
     brand: Canon

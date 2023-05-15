@@ -1,10 +1,10 @@
 ---
 title: The Plaza de Toros de Ronda
 file: the-plaza-de-toros-de-ronda.jpg
-date: 2004-09-25 10:09:00 +01:00
+date: 2004-09-25 10:13:49 +01:00
 dates:
   iso: 2004-09-25
-  human: 25th September 2004
+  human: 25 September 2004
 gear:
   camera:
     brand: Konica

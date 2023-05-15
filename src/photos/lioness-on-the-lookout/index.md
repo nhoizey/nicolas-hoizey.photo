@@ -1,10 +1,10 @@
 ---
 title: Lioness on the lookout
 file: lioness-on-the-lookout.jpg
-date: 2019-02-26 08:02:00 +01:00
+date: 2019-02-26 08:04:01 +01:00
 dates:
   iso: 2019-02-26
-  human: 26th February 2019
+  human: 26 February 2019
 gear:
   camera:
     brand: Fujifilm

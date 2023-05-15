@@ -1,10 +1,10 @@
 ---
 title: San Sebastián evening
 file: san-sebastian-evening.jpg
-date: 2022-08-10 20:08:00 +01:00
+date: 2022-08-10 20:06:43 +01:00
 dates:
   iso: 2022-08-10
-  human: 10th August 2022
+  human: 10 August 2022
 gear:
   camera:
     brand: Fujifilm

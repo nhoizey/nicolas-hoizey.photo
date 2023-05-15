@@ -1,10 +1,10 @@
 ---
 title: A Long-tailed Tit in Sweden
 file: a-long-tailed-tit-in-sweden.jpg
-date: 2020-02-05 12:02:00 +01:00
+date: 2020-02-05 12:45:41 +01:00
 dates:
   iso: 2020-02-05
-  human: 5th February 2020
+  human: 5 February 2020
 gear:
   camera:
     brand: Fujifilm

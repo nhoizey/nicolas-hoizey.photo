@@ -1,10 +1,10 @@
 ---
 title: Colorful edges
 file: colorful-edges.jpg
-date: 2015-01-20 23:01:00 +01:00
+date: 2015-01-20 23:32:08 +01:00
 dates:
   iso: 2015-01-20
-  human: 20th January 2015
+  human: 20 January 2015
 tags:
   - color
   - colors

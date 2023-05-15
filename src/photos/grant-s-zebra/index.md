@@ -1,10 +1,10 @@
 ---
 title: Grant's zebra
 file: grant-s-zebra.jpg
-date: 2019-02-25 17:02:00 +01:00
+date: 2019-02-25 17:11:46 +01:00
 dates:
   iso: 2019-02-25
-  human: 25th February 2019
+  human: 25 February 2019
 gear:
   camera:
     brand: Fujifilm

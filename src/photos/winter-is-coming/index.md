@@ -1,10 +1,10 @@
 ---
 title: Winter is coming…
 file: winter-is-coming.jpg
-date: 2014-02-14 10:02:00 +01:00
+date: 2014-02-14 10:11:59 +01:00
 dates:
   iso: 2014-02-14
-  human: 14th February 2014
+  human: 14 February 2014
 gear:
   camera:
     brand: Canon

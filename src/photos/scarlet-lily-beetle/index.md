@@ -2,10 +2,10 @@
 title: Scarlet lily beetle
 file: scarlet-lily-beetle.jpg
 alt_text: Macro photo of a red and black insect on the edge of a green leaf
-date: 2008-06-14 13:06:00 +01:00
+date: 2008-06-14 13:13:48 +01:00
 dates:
   iso: 2008-06-14
-  human: 14th June 2008
+  human: 14 June 2008
 gear:
   camera:
     brand: Canon
