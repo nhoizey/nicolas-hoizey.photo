@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
-const moment = require('moment');
 
 module.exports = {
   gallery_graymatter: (...slugs) => {
@@ -37,10 +36,10 @@ module.exports = {
     <a href="{{ item.page.url }}">${content.data.title}</a>
     <ul class="meta">
       <li class="date meta__item meta__date">
-        <svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="${moment(
-          content.data.date
-        ).format('YYYY-MM-DD')}">
-          ${moment(content.data.date).format('Do MMMM YYYY')}
+        <svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="${
+          content.data.dates.iso
+        }">
+          ${content.data.dates.human}
         </time>
       </li>
     </ul>
