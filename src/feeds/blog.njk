@@ -17,9 +17,9 @@ eleventyExcludeFromCollections: true
   </author>
   {% for entry in collections.blog | limit(20) %}
     {% set absoluteEntryUrl %}{{ entry.page.url | url | absoluteUrl(site.url) }}{% endset %}
-    {% set readableDate = entry.date | date("Do MMMM YYYY") %}
+    {% set titleDate = entry.date | readableDate %}
     <entry>
-      <title>{{ entry.data.title or entry.data.layout + ' from ' + readableDate }}</title>
+      <title>{{ entry.data.title or entry.data.layout + ' from ' + titleDate }}</title>
       <link href="{{ absoluteEntryUrl }}?utm_source=feed_blog&amp;utm_medium=feed"/>
       <updated>{{ entry.date | rssDate }}</updated>
       <id>{{ absoluteEntryUrl }}</id>

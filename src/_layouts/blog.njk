@@ -1,7 +1,7 @@
 {% extends "./base.njk" %}
 
 {% block opengraphimage %}
-  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.top.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.top.after }}/{{ site.opengraph.subtitle.top.before }}:{{ date | date("Do MMMM YYYY") }}/{{ site.opengraph.subtitle.top.after }}/{{ site.opengraph.background }}" />
+  <meta property="og:image" content="{{ site.opengraph.prefix }}/{{ site.opengraph.title.top.before }}:{{ title | clean4cloudinary }}/{{ site.opengraph.title.top.after }}/{{ site.opengraph.subtitle.top.before }}:{{ date | readableDate }}/{{ site.opengraph.subtitle.top.after }}/{{ site.opengraph.background }}" />
 {% endblock %}
 
 {% block content %}
