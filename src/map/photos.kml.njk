@@ -26,10 +26,10 @@ eleventyExcludeFromCollections: true
     <Placemark>
       <name>{{ item.data.title }}</name>
       <TimeStamp>
-        <when>{{ item.data.date | iso }}</when>
+        <when>{{ item.data.origin.data.dates.iso }}</when>
       </TimeStamp>
       <TimeSpam>
-        <begin>{{ item.data.date | iso }}</begin>
+        <begin>{{ item.data.origin.data.dates.iso }}</begin>
       </TimeSpam>
       <LookAt>
         <longitude>{{ item.data.origin.data.geo.longitude }}</longitude>
@@ -45,7 +45,7 @@ eleventyExcludeFromCollections: true
         <IconStyle>
           <scale>5.0</scale>
         </IconStyle>
-  		</Style>
+      </Style>
       <description>
         <![CDATA[
           <p>
