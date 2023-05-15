@@ -3,14 +3,14 @@ const { DateTime } = require('luxon');
 
 // TODO: allow setting the timezone and locale
 const timezone = 'Europe/Paris';
-const locale = 'en';
+const locale = 'en-GB';
 
 const dateObj = (eleventyDate) => {
   if (eleventyDate === undefined) {
     return DateTime.now().setZone(timezone).setLocale(locale);
   }
   return DateTime.fromJSDate(eleventyDate, {
-    zone: 'Europe/Paris',
+    zone: timezone,
   }).setLocale(locale);
 };
 
