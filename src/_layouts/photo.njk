@@ -1,5 +1,7 @@
 {% extends "./base.njk" %}
 
+{% set lqip = 'https://res.cloudinary.com/nho/image/fetch/e_pixelate:20,e_blur:300,q_5,f_auto/https://nicolas-hoizey.photo/photos/' + page.fileSlug + '/small.jpg' %}
+
 {% if origin %}
   {% set dimensions = origin.data.dimensions %}
   {% set gear = origin.data.gear %}
@@ -28,7 +30,7 @@
 {% endblock %}
 
 {% block morehead %}
-<link rel="preload" as="image" href="https://res.cloudinary.com/nho/image/fetch/e_pixelate:20,e_blur:1000,q_5,f_auto/https://nicolas-hoizey.photo/photos/{{ page.fileSlug }}/small.jpg" fetchpriority="high" />
+<link rel="preload" as="image" href="{{ lqip }}" fetchpriority="high" />
 {% endblock %}
 
 {% block content %}
@@ -58,7 +60,7 @@
       style="
         view-transition-name: {{ page.fileSlug }}
         background-color: #{{ colors.muted | bgcolor }};
-        background-image: url(https://res.cloudinary.com/nho/image/fetch/e_pixelate:20,e_blur:1000,q_5,f_auto/https://nicolas-hoizey.photo/photos/{{ page.fileSlug }}/small.jpg);
+        background-image: url({{ lqip }});
         background-repeat: no-repeat;
         background-size: cover;
         "
