@@ -248,7 +248,6 @@ SYNC ${photo}`);
     }
     photoYFM.date = luxonDate.toFormat('yyyy-LL-dd HH:mm:ss ZZ');
 
-    // console.log(DateTime.fromFormatExplain(photoYFM.date, luxonDateFormat));
     photoYFM.dates = {
       iso: luxonDate.toFormat('yyyy-LL-dd'),
       human: luxonDate.toFormat('d LLLL yyyy'),
@@ -402,6 +401,24 @@ SYNC ${photo}`);
           .join(' '),
       };
       photosData[photo].colors = photoYFM.colors;
+    }
+
+    // Generate LQIP for photo page
+    if (photosData[photo].lqip) {
+      photoYFM.lqip = photosData[photo].lqip;
+    } else {
+      const { data, info } = await sharp(photoPath)
+        .resize({
+          width: 200,
+        })
+        .blur(1)
+        .webp({ quality: 10, alphaQuality: 0, smartSubsample: true })
+        .toBuffer({ resolveWithObject: true })
+        .then(({ data, info }) => {
+          return { data, info };
+        });
+      photoYFM.lqip = `data:image/webp;base64,${data.toString('base64')}`;
+      photosData[photo].lqip = photoYFM.lqip;
     }
 
     // Manage folder and file
