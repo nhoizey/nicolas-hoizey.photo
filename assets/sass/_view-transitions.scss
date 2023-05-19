@@ -1,0 +1,46 @@
+// ::view-transition-old(*),
+// ::view-transition-new(*) {
+//   /* Prevent the default animation,
+//   so both views remain opacity:1 throughout the transition */
+//   // animation: none;
+//   /* Use normal blending,
+//   so the new view sits on top and obscures the old view */
+//   // mix-blend-mode: normal;
+// }
+
+// ::view-transition-old(bruce-lee) {
+//   // animation: 2090ms cubic-bezier(0.4, 0, 1, 1) both fade-out;
+//   animation-duration: 3000;
+// }
+
+// ::view-transition-new(bruce-lee) {
+//   // animation: 2210ms cubic-bezier(0, 0, 0.2, 1) 90ms both fade-in;
+//   animation-duration: 3000;
+// }
+
+::view-transition-old(root) {
+  animation: 90ms cubic-bezier(0.4, 0, 1, 1) both fade-out;
+}
+
+::view-transition-new(root) {
+  animation: 210ms cubic-bezier(0, 0, 0.2, 1) 90ms both fade-in;
+}
+
+header {
+  // prevent transition of the header/nav
+  view-transition-name: header;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(-2rem);
+  }
+}
+
+@keyframes fade-out {
+  to {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+}

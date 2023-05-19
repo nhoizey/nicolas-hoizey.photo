@@ -36,7 +36,11 @@
 
   {% include 'components/json-ld/breadcrumb.njk' %}
 
-  <div class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %} h-entry" style="--ratio: {{ dimensions.width / dimensions.height }}; --ambiant-foreground: #{{ colors.darkMuted | fgcolor }}">
+  <div
+      class="photo{% if dimensions.width < dimensions.height %} portrait{% endif %} h-entry"
+      style="
+        --ratio: {{ dimensions.width / dimensions.height }};
+        --ambiant-foreground: #{{ colors.darkMuted | fgcolor }}">
     <div class="header">
       {% include 'components/breadcrumb.njk' %}
       <h1>{{ title }}</h1>
@@ -48,7 +52,9 @@
       alt="{{- origin.data.alt_text or title -}}"
       width="{{ dimensions.width }}"
       height="{{ dimensions.height }}"
-      style="background-color: #{{ colors.muted | bgcolor }}"
+      style="
+        background-color: #{{ colors.muted | bgcolor }};
+        view-transition-name: {{ page.fileSlug }}"
       {% if dimensions.width < dimensions.height %}
         data-responsiver="portrait"
       {% else %}

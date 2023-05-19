@@ -22,7 +22,9 @@
       class="frame{% if dimensions.width < dimensions.height %} portrait{% endif %}"
       {% if dimensions.width %}width="{{ dimensions.width }}"{% endif %}
       {% if dimensions.height %}height="{{ dimensions.height }}"{% endif %}
-      style="background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%)"
+      style="
+        background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%);
+        view-transition-name: {{ item.data.page.fileSlug }};"
       {% if loading %}
         loading="{{ loading }}"
         {% if loading == 'lazy' %}
