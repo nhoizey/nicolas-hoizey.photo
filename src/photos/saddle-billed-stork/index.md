@@ -58,6 +58,7 @@ colors:
   muted: 111 132 152
   darkMuted: 81 93 51
   lightMuted: 209 190 173
+lqip: data:image/webp;base64,UklGRrQCAABXRUJQVlA4IKgCAADwGACdASrIAIUAP3Gsy2E0v70vptKcA/AuCWVuA0qNPk9XxDYP6XQIf82wBvq95IawifDXudYQ9GpjaDtvm2QSHb/2lc2wZ+M1J3+yCuLFYq4Oiw70FHAEt0ecKuo0JM+4kppvyKe/kFyXxtmFR9VMIkSo3m2FitZULBFEDG/Qx26dJa7X6Ga4AYLTnRSB8qwzZAta7KA0Sqplv5x5a7u9gggjNyv3ATjUJ8fNxseuzX6sUdAwWUb0pAAFdR4Ql4qdKDdNpaXZkgBMUVIjXe6AAP7i7JK/ty4cR6nhZorVgpi6pPqJTNmhlidK6PLOVl9clz+5oTVXxYXm/tSQV0AtUjv0QQCzfJDG7/yqFuraDt1K13NXotJmpm0E3WSrZeFgv8A2Ny/v/SL6sgQxq2rSq30A7ND/DanLHG61yIfc3k9LWcsZOmvqAg4MXNBTxU19Dr4GNUMAT1otbDYWSg+0E+oLk+/KYO8/Foak/Zf1d7tcJWIDnPCg3qN3yaMe0hUVHsk1wuVaZ3X6m8M1SCarr+Mh0GOuf4aSbzkNE9o99bX7UStL+CwI+wMRWrlFvvReMz7KxShBOfFF0F5bTpA+jedZNEff9E61VHmJaJbkUlvvE18m5m/+tUq7Ch7xcSMqfbLOPoY1cJ+1pkHTfL8chMiHVpoRbDogknHwEtZLgaY/iov7rGwb4TseHlR7pjPYdSeIP1OeuU0xd7H3m95PY84Xo4esPg2p1JRs40idewFMFZTOrGZZWM8JeVY75LLpwvIxI7g1U5gqfgME57AeHXgofyiBw7K4zHDnnB3fXGG0k1rSIsh4oOalkul06mAo1ZE08nwOQG9JBMsDS2ZiFe6OsX/ytfXpEqFuLh5hfaqACkRxnXguKe4x+wJH/ZUl43CjBWyAAA==
 ---
 
 The saddle-billed stork, or saddlebill (Ephippiorhynchus senegalensis) is a large wading bird in the stork family, Ciconiidae. It is a widespread species which is a resident breeder in sub-Saharan Africa from Sudan, Ethiopia and Kenya south to South Africa, and in The Gambia, Senegal, Côte d'Ivoire and Chad in west Africa.

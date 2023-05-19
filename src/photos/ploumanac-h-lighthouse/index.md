@@ -60,6 +60,7 @@ colors:
   muted: 161 113 88
   darkMuted: 46 56 73
   lightMuted: 6 99 147
+lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAAAwEACdASrIAIUAP3G20mK0uz+5pDM5a/AuCWVu3Vz7Baq4m45LqHeL7dmxCnPjvKWL5bzckKpoNa0Hu64xgYt5CzkwfwWEC1tBovIaPMswVvcs6lCS523JZwYt2ZnKBiceD72Cp3s6Z9G9QbdX/RpR8fhTvTxp4TNFeXNUmxrqzepV2OTvCsxTHwAA/uwmp5WAkVZSXBeGVKDTec3P8iXiYqj3MVqgTVl7httpv+bJKynueT3ny62nonZPAzTDVCRRr1S3XrKH2X8thsHsd0H0h4tkjWKZpWxHkJJdPKK6Z14opiGYlpWl7XkYZyF474Kt6xQoN0Uy6OaMUjcb8wEl9AGBGx+S2oXe6Ni9BRVR5CdeBXx3S4AjPxxODZhhzlXjTepgcvIkpC/6GRTWYIT6uPxloclyxc7JFMK6SNxlBjO6Sh9HFLrjrX2xXz4Mcql97eAbq8TYYRIuaSdjqOdwj1eM7eBKULwg7HDr5Gmgz7UlL7kQwK9q9EXaqr7q4j5zP7lI/rgdpSjs7pf8KYlyPXDZVbAU0jMvwguaALvW6ani+WqoAAAA
 ---
 
 The Ploumanac'h lighthouse (officially the Mean Ruz lighthouse) is an active lighthouse in Côtes-d'Armor, France, located in Perros-Guirec. The lighthouse is closed to the public.

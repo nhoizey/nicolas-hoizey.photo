@@ -50,6 +50,7 @@ colors:
   muted: 90 118 152
   darkMuted: 84 49 62
   lightMuted: 213 193 181
+lqip: data:image/webp;base64,UklGRhoCAABXRUJQVlA4IA4CAACQFgCdASrIAIUAP3Gyzl80rr61KRNqM9AuCWduzoAtED+b0j1FRNfGSVUPR9YN4n5zfMwv5LooED9Hu+qQNmHk4xS26fv4RUtnNIeerhXAFOyL7bMkugRQuXo8Ggf2rKOLxM5K3GFdYnRDMehVWesOYKFnto3zR/WQhKcYlZ3dHPNukqE+hFjaVJ2AiOufoVu6XZZodGQK4M2CWQcmdVfJmfG4oiMrN81/RDO7Zh9pyo/cEVvsvxa664vwDYAA/tSIFnWjWgBFL7OdUt3E0ctJoatemYWn8CaHi7JuNOJidxK8Toxy1fUMrJZFAs1wsyfoUFyCA0FEYzKeKgUUXJ0dgEPOq4kDUv9oVFrm+F8K+vYm44Qa2RdgvBGnv2qmUCf1mLLEcqfVDm8rXLUN7OVFIcW1GkkqFJYXGUiJuia7W9nDWiaA32PJnTTmGeS5wexW0B7WYH6ZJ+XZIfLyFER2FG9Xomt8CMDpNzDfSR6zQkJvsOvZ2Iibr5NjFeNIptolSN7pbxsP1tYC2vSJBZS9Wp4+Sncl0G8O6+CXja+RE5HmH/8YpudkFHxV1p85yvAJAyCF7OT+3ZKu7Bobzj6nBSOSQo1MXo5qwC0+MlZvH9pBFy+gjSklYUOF0wPZnSAhH1r0JX52b218X4LR7/ezNyKTq8i5xIgBGeKAeP5fSXcspRSTIDeQHB5QAAAA
 ---
 
 The Statue of Liberty, in addition to being a very important monument of New York City, has become one of the symbols of the United States and represents more generally freedom and emancipation from oppression.

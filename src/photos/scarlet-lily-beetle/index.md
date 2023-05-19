@@ -57,6 +57,7 @@ colors:
   muted: 145 166 91
   darkMuted: 103 106 55
   lightMuted: 199 193 185
+lqip: data:image/webp;base64,UklGRuoCAABXRUJQVlA4IN4CAABQGQCdASrIAMgAP3G41WO0rre6opO4+1AuCWNu4Emfg9s8DG1cOuR4iv4sV4JmHBiKnPQrWvGxDiwksd/vlURO9zPgCxAWwB5YO9bPfnDM4+v0525B/3gfRxcqXRxYGFDYi43hUrzQnoBnO1BATItM4ZBMzP9HVZdePEh+NjT3jH304Sj85LARlAfrHBMAZN5msdGVg86forzGIP/2RZWpGQPZETR/n1cfZ4GsvgAIUvC/ghL6kdzqCrJ5zS4xea/tXZvqYHwwtzabTq87Mz5g06QAAPDf/4i0t52WspDFFXKeQc8ZEFZpKazt9uQt4pcp+lPVo1aPAdb02FKtma78vpGr0P/RjO9tJXBjt6rhxUD/TB3rZxdJzhcNHP0UC/jAq9QrScrkrmJdElWqwTPRsS9Xt2zODctnAgJRdxmcHXJkNfFiFG7aSA7/opx3sqKdZN+KetITiVDwiEYqVseYVAsmFh76xFKCnlT1Lnnz/kp74LpSSbVLWjcLxNfXsd4D8YIkzOhz5bEXqfLdD7isXlfMlvghu/NOyMbnz8B6rCVw/4A3KQaKkza8mP4BqM6zTpdCsBrvSF3AfgSy6qitG4J2xn5KSHZ3GenqcOUPlsCGPcL6YrMlYvN0K4Z1UGRfagm/EzuGAYkcfQu1pd9na3/YOE8ksJRjxK7lYfOUI+jFUzp623+WDwi+n8Py8KnuZZKYXP8C/N6TVVkB0ZQjm9LWVeuvx7u/OG9ZSKTyr7lp3jKnqUNSE1B/DzDA0BSi5ZtMaQgZoycZDH/bjhB+4UiicVId8sUa3SZFyGMB7SGjKZE24WOgNDheywPohcWQS14VMp+LJ5GchFZv+WTVx2II86B1QvUQ3HaB+fYQ1T6wHjGMHVqKVJC+mdaNQKSF7J7MIKNCcKO+/fjtZY2W0sJkEAsKHZBLKetEtSEhT1lsuJU39ZWIXLAdQP0njSWshtGmvwcQvMJy0JAAAA==
 ---
 
 The scarlet lily beetle, red lily beetle, or lily leaf beetle (Lilioceris lilii), is a leaf beetle that eats the leaves, stem, buds, and flowers, of lilies, fritillaries and other members of the family Liliaceae. It lays its eggs most often on Lilium and Fritillaria species.

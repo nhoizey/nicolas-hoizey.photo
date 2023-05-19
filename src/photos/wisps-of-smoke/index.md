@@ -43,6 +43,7 @@ colors:
   muted: 97 129 159
   darkMuted: 45 68 87
   lightMuted: 156 180 204
+lqip: data:image/webp;base64,UklGRoQBAABXRUJQVlA4IHgBAACQEQCdASrIAIUAP3G40GE0sDUnpTeZ8qAuCWdu3V7bqJbW76q24b62NB9qalPN8AA7G4sTKbvTHVDp00gKnpqzSbvuADTAs7mO0fRpgKnmlASFgYBso5ahAF5UI4kR3IOLsbPioDb9Or/JNKWyPSFlk4brHzh4LOEitJDuu13QAzjv6iIKAw80Dmjvf79oIOFHcaX9AAD+70xGQltY/zN4AD9jfoy4swXQ2QgYVE+xSTV1Dilpo30ZFJm9wBJ/nXPR0cdrbPBIvk4nX9QhnVxPYGuFU9z0h/d6OvgFcQ6KI823cPGDuhWLPYQ66IbvVq8vQByHrEYN9NnZyJlViSFejJVz5LHZNJ8bhbtDf8tIuxtKq3GZwjFyvcEhKyM6qmSaJzdxAadHlm29AXgMmLre25zHu7ogWClD36QrP2D3jhJqfzZoby+7ho7pqVfqCSapklZN3vT9ktbarmiJJC6/7nYSWBFoMcdHSxAAH5JspTOAAEkxpAAA
 ---
 
 Photo session in studio organized by Virginie from the Photo Club of Draveil

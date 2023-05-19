@@ -62,6 +62,7 @@ colors:
   muted: 149 124 104
   darkMuted: 116 95 69
   lightMuted: 202 183 172
+lqip: data:image/webp;base64,UklGRt4BAABXRUJQVlA4INIBAAAQEwCdASrIAIUAP3Guzl2/v7SmqncqI/AuCWcD3R5DCTf6Bqs7ZJ4pH5hJLmanqGVyVL2q3mm3pLDGuZvp1J46SN50ELKG7Gau1nzFTcaIRxOoJ2IdKJ89BBheBdQBLA3tutbzMhZs8oEtdJFdimkU/tZI5vAy0C7L5ih8R58P+dnqu/xDkqvrhPmHt+xS22Jzg7U5x+tm/nb9mvm4Cp5F0AD+K6JNpLqCB3ZSvSZWUCHBgDWTjkwUTgDtZBgORcVjWKZrHSZ2kl1B5AApO9IPUyPr1xmSY2YO2I51EtoldPrqFP0qyDBw2gPjmDBr3FAU/NTMvPic16BG+TH0/q6V+Uqu1HTCxwpH8VxMroE6TPTAUM+kClAqS8VT1BiM/Qom2em3RZ+8DXcBE0oJ2vT5iZYYmqGrAKNfdC+LXhzChrRj7iq0qKyg4WtwiZtdjuRTI2V6dh2hYmVRPpCZPU7Xqo79VORxQYSY/bBJeqaeNYt1oKf+2F2rcuu+ss0GcEGX+SzT56/a0MnHbCdfOdwnDZGIiFvBIYTK34U+0Bp0YDcNk6LG27ttRXZppSuHZAFco/BRN055+M8U3zw26k4l6qOSFzcoLcANA8+Ae2D2oAAA
 ---
 
 The lakes in Amboseli National Park are seasonal and mainly located in the Western part of the park and usually fill up during the rainy season.
