@@ -12,7 +12,6 @@
   {# {% set posse = origin.data.posse %} #}
 {% endif %}
 
-
 {% block description %}
   <meta property="og:description" name="description" content="{{ content | markdownify | excerpt | striptags | safe }}" />
 {% endblock %}
@@ -26,6 +25,10 @@
   {% if opengraphFile | exists %}
   <meta property="og:image" content="{{ site.url }}/photos/{{ page.fileSlug }}/opengraph.jpg" />
   {% endif %}
+{% endblock %}
+
+{% block morehead %}
+<link rel="preload" as="image" href="https://res.cloudinary.com/nho/image/fetch/e_pixelate:20,e_blur:1000,q_5,f_auto/https://nicolas-hoizey.photo/photos/{{ page.fileSlug }}/small.jpg" fetchpriority="high" />
 {% endblock %}
 
 {% block content %}
@@ -53,8 +56,12 @@
       width="{{ dimensions.width }}"
       height="{{ dimensions.height }}"
       style="
+        view-transition-name: {{ page.fileSlug }}
         background-color: #{{ colors.muted | bgcolor }};
-        view-transition-name: {{ page.fileSlug }}"
+        background-image: url(https://res.cloudinary.com/nho/image/fetch/e_pixelate:20,e_blur:1000,q_5,f_auto/https://nicolas-hoizey.photo/photos/{{ page.fileSlug }}/small.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        "
       {% if dimensions.width < dimensions.height %}
         data-responsiver="portrait"
       {% else %}
