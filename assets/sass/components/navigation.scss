@@ -61,7 +61,7 @@ nav {
     font-size: var(--step--1-0);
 
     @media not all and (min-width: breakpoints.$m) {
-      padding: spaces.$m 0;
+      padding: 0;
 
       & > li:first-child {
         padding-inline-start: spaces.$m;
@@ -69,6 +69,10 @@ nav {
 
       & > li:last-child {
         padding-inline-end: spaces.$m;
+      }
+
+      a {
+        padding: spaces.$m 0;
       }
     }
 
