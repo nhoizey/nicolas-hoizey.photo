@@ -24,7 +24,7 @@
       {% if dimensions.height %}height="{{ dimensions.height }}"{% endif %}
       style="
         background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%);
-        view-transition-name: {{ item.data.page.fileSlug }};"
+        view-transition-name: {{ item.data.page.fileSlug }}"
       {% if loading %}
         loading="{{ loading }}"
         {% if loading == 'lazy' %}
@@ -33,7 +33,7 @@
       {% endif %}
       data-responsiver="thumbnail_{% if dimensions.width < dimensions.height %}portrait{% else %}landscape{% endif %}"
     />
-    <figcaption>
+    <figcaption style="view-transition-name: title-for-{{ item.data.page.fileSlug }}">
       <a href="{{ item.page.url }}">{{ item.data.title }}</a>
       {{ meta(item) }}
     </figcaption>
