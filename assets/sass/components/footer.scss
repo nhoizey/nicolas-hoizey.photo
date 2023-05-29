@@ -12,10 +12,11 @@ footer {
     padding-inline: spaces.$xxl;
   }
 
+  // https://web.dev/content-visibility/
   // https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/#lazy-render-offscreen-content
-  // https: //twitter.com/csswizardry/status/1584563794780770309/photo/1
+  // https://twitter.com/csswizardry/status/1584563794780770309/photo/1
   content-visibility: auto;
-  contain-intrinsic-size: 1px 250px;
+  contain-intrinsic-size: auto 250px;
 
   display: grid;
   column-gap: spaces.$xxl;
