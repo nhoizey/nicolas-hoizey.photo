@@ -42,7 +42,6 @@
     "build:benchmark": "DEBUG=Eleventy:Benchmark* npm run build",
     "debug:build": "DEBUG=Eleventy* npm run build",
     "subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --whitelist=U+0020 --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/ui/fonts/",
-    "matomo": "node ./_scripts/update-matomo.js",
     "dates": "./_scripts/add-dates.sh",
     "prepare": "npx husky install",
     "playwright": "npx playwright test",
