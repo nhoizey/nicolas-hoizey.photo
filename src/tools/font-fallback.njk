@@ -21,10 +21,19 @@ layout: false
   @font-face {
     font-family: 'Adjusted Brush Script MT Fallback';
     src: local(Brush Script MT);
-    {# size-adjust: 95%; #}
-    {# ascent-override: 117%;
+    size-adjust: 95%;
+    ascent-override: 117%;
     descent-override: 43%;
-    line-gap-override: 0%; #}
+    line-gap-override: 0%;
+  }
+
+  @font-face {
+    font-family: 'Adjusted Arial Narrow Fallback';
+    src: local(Arial Narrow);
+    size-adjust: 82%;
+    ascent-override: 135%;
+    descent-override: 44%;
+    line-gap-override: 6%;
   }
 
   th {
@@ -36,22 +45,22 @@ layout: false
   }
 
   .arial-fallback {
-    font-family: Coniferous-subset, 'Arial Narrow', 'Franklin Gothic Medium', sans-serif;
+    font-family: Coniferous-subset, 'Adjusted Arial Narrow Fallback', sans-serif;
     color: red;
   }
 
   .brush-fallback {
-    font-family: Coniferous-subset, 'Adjusted Brush Script MT Fallback', 'Arial Narrow', 'Franklin Gothic Medium', sans-serif;
+    font-family: Coniferous-subset, 'Adjusted Brush Script MT Fallback', sans-serif;
     color: blue;
   }
 
   .arial {
-    font-family: 'Arial Narrow', 'Franklin Gothic Medium', sans-serif;
+    font-family: 'Adjusted Arial Narrow Fallback', sans-serif;
     color: blue;
   }
 
   .brush {
-    font-family: 'Adjusted Brush Script MT Fallback', 'Arial Narrow', 'Franklin Gothic Medium', sans-serif;
+    font-family: 'Adjusted Brush Script MT Fallback', sans-serif;
     color: blue;
   }
 
@@ -89,6 +98,13 @@ layout: false
     <td class="both">
       <p class="arial-fallback">Welcome to my photography portfolio!</p>
       <p class="brush-fallback">Welcome to my photography portfolio!</p>
+    </td>
+  </tr>
+  <tr>
+    <th>Arial fallbacks</th>
+    <td class="both">
+      <p class="arial">Welcome to my photography portfolio!</p>
+      <p class="arial-fallback">Welcome to my photography portfolio!</p>
     </td>
   </tr>
 </body>

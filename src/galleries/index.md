@@ -1,7 +1,6 @@
 ---
-title: Thematic galleries
+title: Galleries
 nav:
   order: 2
   icon: folder
-  title: Galleries
 ---
