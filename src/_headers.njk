@@ -27,12 +27,6 @@ permalink: _headers
 {%- set cspFrameAncestors = "'none'" -%} {#- Best default for security -#}
 {#- / Default CSP directives -#}
 
-{#- Matomo -#}
-{%- set cspScriptSrc = cspScriptSrc + " " + "data.nicolas-hoizey.com" -%}
-{%- set cspImgSrc = cspImgSrc + " " + "data.nicolas-hoizey.com" -%}
-{%- set cspConnectSrc = cspConnectSrc + " " + "data.nicolas-hoizey.com" -%}
-{#- / Matomo -#}
-
 {#- Cloudinary -#}
 {%- set cspImgSrc = cspImgSrc + " " + "res.cloudinary.com" -%}
 {%- set cspConnectSrc = cspConnectSrc + " " + "res.cloudinary.com" -%}

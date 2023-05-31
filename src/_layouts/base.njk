@@ -16,18 +16,8 @@
       <meta property="og:title" content="{{ page_title }}" />
     {% endblock %}
 
-    {# web-vitals #}
-    {# <script>
-    {% include_raw "node_modules/web-vitals/dist/polyfill.js" %}
-    </script> #}
-
     {% from "macros/js.njk" import js %}
     {{ js('critical', build.env) }}
-
-    {% if build.env == 'production' %}
-      {# https://csswizardry.com/2022/10/speeding-up-async-snippets/#the-new-syntax #}
-      <script src="/ui/js/matomo.js" defer></script>
-    {% endif %}
 
     {% from "macros/css.njk" import css %}
     {{ css('styles', build.env) }}
@@ -104,8 +94,6 @@
     {# web app manifest #}
     {# crossorigin: https://twitter.com/TimVereecke/status/1225547620791341062 #}
     <link rel="manifest" href="/manifest.webmanifest" crossorigin="use-credentials" />
-
-    {# {% include 'components/matomo.njk' %} #}
 
     {% block morehead %}{% endblock %}
   </head>
