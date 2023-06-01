@@ -1,9 +1,0 @@
-{
-  "deno.enable": true,
-  "deno.enablePaths": [
-    "src/ui/edge_functions"
-  ],
-  "deno.unstable": true,
-  "deno.importMap": ".netlify/edge-functions-import-map.json",
-  "deno.path": "/Users/nicolashoizey/Library/Preferences/netlify/deno-cli/deno"
-}
