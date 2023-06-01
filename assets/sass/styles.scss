@@ -21,6 +21,9 @@
   @supports (height: 100dvh) {
     --full-height: 100dvh;
   }
+
+  // Set root container
+  container: viewport / inline-size;
 }
 
 html {
