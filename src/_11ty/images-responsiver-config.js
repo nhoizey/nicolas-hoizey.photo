@@ -120,31 +120,66 @@ module.exports = {
       '(min-width: 60rem) calc(100vw - 2 * 1rem - 9rem - 2vw - 2 * 2.744rem), calc(100vw - 2rem)',
     figure: 'never',
   },
-  diaporama: {
+  evantail_large_front: {
     resizedImageUrl: (src, width) =>
       `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:20:${width},ar_3:2,c_fill/${src}`,
-    fallbackWidth: 375,
-    minWidth: 375, // 18 * 16 * 1.3
-    maxWidth: 1312, // No need for more than 2dppx
+    fallbackWidth: 220,
+    minWidth: 220, // 16 * 16 * 12/14
+    maxWidth: 988, // (16 + 4 + 16) * 16 * 12/14 * 2 (no need for more than 2dppx)
     steps: 5,
-    // sizes: '(min-width: 20rem) calc(1.3 * 18rem), calc(1.3 * (100vw - 2rem))',
     // sizes:
-    // '(min-width: 163.9375rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 6) / 7), (min-width: 142.5rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 5) / 6), (min-width: 121.0625rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 4) / 5), (min-width: 99.625rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 3) / 4), (min-width: 78.1875rem) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem * 2) / 3), (min-width: 60em) calc(1.3 * (100vw - (9rem + 2vw + 1rem * 1.4 * 1.4 * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3rem) / 2), (min-width: 41rem) calc(1.3 * (100vw - 2rem - 3rem) / 2), calc(1.3 * (100vw - 2rem))',
+    // (min-width: 176.1875em)
+    //   calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 7 * 4rem) / 8 * 2 + 4rem)),
+    // (min-width: 155.75em)
+    //   calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 6 * 4rem) / 7 * 2 + 4rem)),
+    // (min-width: 135.375em)
+    //   calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 5 * 4rem) / 6 * 2 + 4rem)),
+    // (min-width: 114.9375em)
+    //   calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4 * 4rem) / 5 * 2 + 4rem)),
+    // (min-width: 94.5625em)
+    //   calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3 * 4rem) / 4 * 2 + 4rem)),
+    // (min-width: 74.4375em)
+    //   calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 2 * 4rem) / 3 * 2 + 4rem)),
+    // (min-width: 60em)
+    //   calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4rem) / 2)),
+    // (min-width: 58rem) calc(12 / 14 * (((100vw - 2rem - 2 * 4rem) / 3) * 2 + 4rem)),
+    // (min-width: 38rem) calc(12 / 14 * ((100vw - 2rem - 4rem) / 2)),
+    // calc(100vw - 2rem)
     sizes:
-      '(min-width: 163.9375rem) calc(1.3 * (98vw - 36.408rem) / 7), (min-width: 142.5rem) calc(1.3 * (98vw - 33.408rem) / 6), (min-width: 121.0625rem) calc(1.3 * (98vw - 30.408rem) / 5), (min-width: 99.625rem) calc(1.3 * (98vw - 27.408rem) / 4), (min-width: 78.1875rem) calc(1.3 * (98vw - 24.408rem) / 3), (min-width: 60em) calc(1.3 * (98vw - 21.408rem) / 2), (min-width: 41rem) calc(1.3 * (50vw - 2.5rem)), calc(1.3 * (100vw - 2rem))',
+      '(min-width: 176.1875em) calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 7 * 4rem) / 8 * 2 + 4rem)), (min-width: 155.75em) calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 6 * 4rem) / 7 * 2 + 4rem)), (min-width: 135.375em) calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 5 * 4rem) / 6 * 2 + 4rem)), (min-width: 114.9375em) calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4 * 4rem) / 5 * 2 + 4rem)), (min-width: 94.5625em) calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3 * 4rem) / 4 * 2 + 4rem)), (min-width: 74.4375em) calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 2 * 4rem) / 3 * 2 + 4rem)), (min-width: 60em) calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4rem) / 2)), (min-width: 58rem) calc(12 / 14 * (((100vw - 2rem - 2 * 4rem) / 3) * 2 + 4rem)), (min-width: 38rem) calc(12 / 14 * ((100vw - 2rem - 4rem) / 2)), calc(100vw - 2rem)',
     figure: 'never',
   },
-  diaporama_large: {
+  evantail_large_back: {
     resizedImageUrl: (src, width) =>
       `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:20:${width},ar_3:2,c_fill/${src}`,
-    fallbackWidth: 375,
-    minWidth: 375, // 18 * 16 * 1.3
-    maxWidth: 1640, // No need for more than 2dppx
-    steps: 7,
-    // sizes:
-    //   '(min-width: 60rem) calc(1.3 * 39rem), (min-width: 20rem) calc(1.3 * 18rem), calc(1.3 * (100vw - 2rem))',
+    fallbackWidth: 202,
+    minWidth: 202, // 16 * 16 * 11/14
+    maxWidth: 906, // (16 + 4 + 16) * 16 * 11/14 * 2 (no need for more than 2dppx)
+    steps: 5,
     sizes:
-      '(min-width: 163.9375rem) calc(1.3 * (3rem + 2 * (98vw - 36.408rem) / 7)), (min-width: 142.5rem) calc(1.3 * (3rem + 2 * (98vw - 33.408rem) / 6)), (min-width: 121.0625rem) calc(1.3 * (3rem + 2 * (98vw - 30.408rem) / 5)), (min-width: 99.625rem) calc(1.3 * (3rem + 2 * (98vw - 27.408rem) / 4)), (min-width: 78.1875rem) calc(1.3 * (3rem + 2 * (98vw - 24.408rem) / 3)), (min-width: 60em) calc(1.3 * (3rem + 2 * (98vw - 21.408rem) / 2)), (min-width: 41rem) calc(1.3 * (50vw - 2.5rem)), calc(1.3 * (100vw - 2rem))',
+      '(min-width: 176.1875em) calc(11 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 7 * 4rem) / 8 * 2 + 4rem)), (min-width: 155.75em) calc(11 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 6 * 4rem) / 7 * 2 + 4rem)), (min-width: 135.375em) calc(11 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 5 * 4rem) / 6 * 2 + 4rem)), (min-width: 114.9375em) calc(11 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4 * 4rem) / 5 * 2 + 4rem)), (min-width: 94.5625em) calc(11 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3 * 4rem) / 4 * 2 + 4rem)), (min-width: 74.4375em) calc(11 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 2 * 4rem) / 3 * 2 + 4rem)), (min-width: 60em) calc(11 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4rem) / 2)), (min-width: 58rem) calc(11 / 14 * (((100vw - 2rem - 2 * 4rem) / 3) * 2 + 4rem)), (min-width: 38rem) calc(11 / 14 * ((100vw - 2rem - 4rem) / 2)), calc(100vw - 2rem)',
+    figure: 'never',
+  },
+  evantail_small_front: {
+    resizedImageUrl: (src, width) =>
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:20:${width},ar_3:2,c_fill/${src}`,
+    fallbackWidth: 220,
+    minWidth: 220, // 16 * 16 * 12/14
+    maxWidth: 439, // 16 * 16 * 12/14 * 2 (no need for more than 2dppx)
+    steps: 5,
+    sizes:
+      '(min-width: 176.1875em) calc(12 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 7 * 4rem) / 8), (min-width: 155.75em) calc(12 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 6 * 4rem) / 7), (min-width: 135.375em) calc(12 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 5 * 4rem) / 6), (min-width: 114.9375em) calc(12 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4 * 4rem) / 5), (min-width: 94.5625em) calc(12 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3 * 4rem) / 4), (min-width: 74.4375em) calc(12 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 2 * 4rem) / 3), (min-width: 60em) calc(12 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4rem) / 2)), (min-width: 58rem) calc(12 / 14 * ((100vw - 2rem - 2 * 4rem) / 3)), (min-width: 38rem) calc(12 / 14 * ((100vw - 2rem - 4rem) / 2)), calc(100vw - 2rem)',
+    figure: 'never',
+  },
+  evantail_small_back: {
+    resizedImageUrl: (src, width) =>
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:20:${width},ar_3:2,c_fill/${src}`,
+    fallbackWidth: 202,
+    minWidth: 202, // 16 * 16 * 11/14
+    maxWidth: 402, // 16 * 16 * 11/14 * 2 (no need for more than 2dppx)
+    steps: 5,
+    sizes:
+      '(min-width: 176.1875em) calc(11 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 7 * 4rem) / 8), (min-width: 155.75em) calc(11 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 6 * 4rem) / 7), (min-width: 135.375em) calc(11 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 5 * 4rem) / 6), (min-width: 114.9375em) calc(11 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4 * 4rem) / 5), (min-width: 94.5625em) calc(11 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 3 * 4rem) / 4), (min-width: 74.4375em) calc(11 / 14 * (100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 2 * 4rem) / 3), (min-width: 60em) calc(11 / 14 * ((100vw - (9rem + 2vw + 1rem * 2) - (1rem * 1.4 * 1.4 * 1.4 * 2) - 4rem) / 2)), (min-width: 58rem) calc(11 / 14 * ((100vw - 2rem - 2 * 4rem) / 3)), (min-width: 38rem) calc(11 / 14 * ((100vw - 2rem - 4rem) / 2)), calc(100vw - 2rem)',
     figure: 'never',
   },
   thumbnail_landscape: {

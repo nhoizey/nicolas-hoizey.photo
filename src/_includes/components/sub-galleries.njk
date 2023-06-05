@@ -14,50 +14,48 @@
     <ul class="sub_galleries">
       {% for item in sub_galleries %}
         {% if loop.index == 1 %}
-          {# First diaporama is larger, and LCP host #}
+          {# First evantail is larger, and LCP host #}
           {% set lcp = true %}
-          {% set responsiver = "diaporama_large" %}
+          {% set responsiver = "evantail_large" %}
         {% else %}
           {% set lcp = false %}
-          {% set responsiver = "diaporama" %}
+          {% set responsiver = "evantail_small" %}
         {% endif %}
         {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.page.url) | featured(3) %}
         {% if photos_below | length %}
           <li>
-            <figure>
-              <div class="frame">
-                <div class="diaporama diaporama_{{ photos_below | length }}">
-                  {% for photo in photos_below %}
-                    {% if build.env == 'production' %}
-                      {% set imageFile = photo.data.page.fileSlug %}
-                    {% else %}
-                      {# Prevent loading the huge image in development #}
-                      {% set imageFile = 'small' %}
-                    {% endif %}
-                    <img
-                      {% if loop.first %}
-                        src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
-                        {% if lcp %}
-                          fetchpriority="high"
-                        {% endif %}
-                      {% else %}
-                        data-src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
-                        loading="lazy"
+            <a href="{{ item.page.url }}">
+              <figure class="evantail">
+                {% for photo in photos_below %}
+                  {# Prevent loading the huge image in development #}
+                  {% if build.env == 'production' %}
+                    {% set imageFile = photo.data.page.fileSlug %}
+                  {% else %}
+                    {% set imageFile = 'small' %}
+                  {% endif %}
+                  <img
+                    src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
+                    {% if loop.first %}
+                      {% if lcp %}
+                        fetchpriority="high"
                       {% endif %}
-                      alt
-                      width="3000"
-                      height="2000"
-                      style="--pan-x-start: {{ [-5, 5] | random }}px; --pan-y-start: {{ [-5, 5] | random }}px; --scale-start: {{ [1.1, 1.3] | random }};"
-                      data-responsiver="{{ responsiver }}"
-                      />
-                  {% endfor %}
-                </div>
-              </div>
-              <figcaption>
-                {# <svg class="icon" aria-hidden="true"><use xlink:href="#folder-icon" /></svg> #}
-                <a href="{{ item.page.url }}">{{ item.data.title }}</a>
-              </figcaption>
-            </figure>
+                      data-responsiver="{{ responsiver }}_front"
+                    {% else %}
+                      loading="lazy"
+                      data-responsiver="{{ responsiver }}_back"
+                    {% endif %}
+                    class="frame"
+                    alt
+                    width="3000"
+                    height="2000"
+                    />
+                {% endfor %}
+                <figcaption>
+                  <svg class="icon" aria-hidden="true"><use xlink:href="#folder-icon" /></svg>
+                  <span>{{- item.data.title -}}</span>
+                </figcaption>
+              </figure>
+            </a>
           </li>
         {% endif %}
       {% endfor %}
