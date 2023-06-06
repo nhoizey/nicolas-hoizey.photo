@@ -41,7 +41,10 @@
                       {% endif %}
                       data-responsiver="{{ responsiver }}_front"
                     {% else %}
-                      loading="lazy"
+                      {% if not lcp %}
+                        loading="lazy"
+                        decoding="async"
+                      {% endif %}
                       data-responsiver="{{ responsiver }}_back"
                     {% endif %}
                     class="frame"
