@@ -54,6 +54,7 @@ $eventail-small-image-rows: $evantail-rows - 4;
     display: grid;
     grid-template-columns: repeat($eventail-columns, 1fr);
     grid-template-rows: repeat($evantail-rows, min-content);
+    gap: 0;
 
     img {
       aspect-ratio: 3/2;
@@ -96,6 +97,7 @@ $eventail-small-image-rows: $evantail-rows - 4;
       grid-column: 2 / span ($eventail-columns - 2);
       grid-row: -2 / span 1;
 
+      margin-block-start: spaces.$m;
       font-size: var(--step-0);
     }
 
