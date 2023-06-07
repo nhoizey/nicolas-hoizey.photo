@@ -91,7 +91,7 @@ const runAfterHook = (image, document) => {
 module.exports = {
   default: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_auto:50:${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_1600_20_10:${width},c_limit/${src}`,
     runBefore: runBeforeHook,
     runAfter: runAfterHook,
     fallbackWidth: 800,
@@ -104,7 +104,7 @@ module.exports = {
   },
   landscape: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_auto:50:${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_3500_20_10:${width},c_limit/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -113,7 +113,7 @@ module.exports = {
   },
   portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_auto:50:${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_3500_20_10:${width},c_limit/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -184,9 +184,9 @@ module.exports = {
   },
   thumbnail_landscape: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_auto:20:${width},h_${Math.floor(
+      `https://res.cloudinary.com/nho/image/fetch/h_${Math.floor(
         (width / 3) * 2
-      )},c_limit/${src}`,
+      )},c_limit/q_auto,f_auto/w_auto:breakpoints_320_640_10_10:${width},/${src}`,
     fallbackWidth: 320,
     minWidth: 320,
     maxWidth: 640, // No need for more than 2dppx
@@ -196,18 +196,20 @@ module.exports = {
   },
   thumbnail_portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_auto:20:${width},h_${Math.floor(
+      `https://res.cloudinary.com/nho/image/fetch/h_${Math.floor(
         (width / 2) * 3
-      )},c_limit/${src}`,
-    fallbackWidth: Math.floor((320 / 3) * 2),
-    minWidth: Math.floor((320 / 3) * 2),
-    maxWidth: Math.floor((640 / 3) * 2), // No need for more than 2dppx
+      )},c_limit/q_auto,f_auto/w_auto:breakpoints_214_427_10_10:${width}/${src}`,
+    fallbackWidth: 214,
+    minWidth: 214,
+    maxWidth: 427, // No need for more than 2dppx
     steps: 4,
     sizes:
       '(min-width: 22rem) calc(20rem / 2 * 3), calc((100vw - 2rem) / 2 * 3)',
     figure: 'never',
   },
   photo_map: {
+    resizedImageUrl: (src, width) =>
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_300_450_10_10:${width},c_limit/${src}`,
     fallbackWidth: 300,
     minWidth: 300,
     maxWidth: 450, // The source image is 450px wide
@@ -216,6 +218,8 @@ module.exports = {
     figure: 'never',
   },
   logo: {
+    resizedImageUrl: (src, width) =>
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_200_400_10_10:${width},c_limit/${src}`,
     fallbackWidth: 200,
     minWidth: 200,
     maxWidth: 400, // Enough for >= 2dppx
