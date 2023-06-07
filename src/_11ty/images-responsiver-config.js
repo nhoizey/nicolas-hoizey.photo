@@ -186,7 +186,7 @@ module.exports = {
     resizedImageUrl: (src, width) =>
       `https://res.cloudinary.com/nho/image/fetch/h_${Math.floor(
         (width / 3) * 2
-      )},c_limit/q_auto,f_auto/w_auto:breakpoints_320_640_10_10:${width},/${src}`,
+      )},c_limit/q_auto,f_auto/w_auto:breakpoints_320_640_10_10:${width}/${src}`,
     fallbackWidth: 320,
     minWidth: 320,
     maxWidth: 640, // No need for more than 2dppx
