@@ -122,7 +122,7 @@ module.exports = {
   },
   evantail_large_front: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:breakpoints_220_988_20_10:${width},ar_3:2,c_fill/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_220_988_20_10:${width}/${src}`,
     fallbackWidth: 220,
     minWidth: 220, // 16 * 16 * 12/14
     maxWidth: 988, // (16 + 4 + 16) * 16 * 12/14 * 2 (no need for more than 2dppx)
@@ -151,7 +151,7 @@ module.exports = {
   },
   evantail_large_back: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:breakpoints_202_906_20_10:${width},ar_3:2,c_fill/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_202_906_20_10:${width}/${src}`,
     fallbackWidth: 202,
     minWidth: 202, // 16 * 16 * 11/14
     maxWidth: 906, // (16 + 4 + 16) * 16 * 11/14 * 2 (no need for more than 2dppx)
@@ -162,7 +162,7 @@ module.exports = {
   },
   evantail_small_front: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:breakpoints_220_439_10_10:${width},ar_3:2,c_fill/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_220_439_10_10:${width}/${src}`,
     fallbackWidth: 220,
     minWidth: 220, // 16 * 16 * 12/14
     maxWidth: 439, // 16 * 16 * 12/14 * 2 (no need for more than 2dppx)
@@ -173,7 +173,7 @@ module.exports = {
   },
   evantail_small_back: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_auto:breakpoints_202_402_10_10:${width},ar_3:2,c_fill/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_202_402_10_10:${width}/${src}`,
     fallbackWidth: 202,
     minWidth: 202, // 16 * 16 * 11/14
     maxWidth: 402, // 16 * 16 * 11/14 * 2 (no need for more than 2dppx)
