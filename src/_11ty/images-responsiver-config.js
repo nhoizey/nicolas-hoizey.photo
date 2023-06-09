@@ -91,7 +91,7 @@ const runAfterHook = (image, document) => {
 module.exports = {
   default: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_1600_20_10:${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_1600_20_10:${width}/${src}`,
     runBefore: runBeforeHook,
     runAfter: runAfterHook,
     fallbackWidth: 800,
@@ -104,7 +104,7 @@ module.exports = {
   },
   landscape: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_3500_20_10:${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -113,7 +113,7 @@ module.exports = {
   },
   portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_3500_20_10:${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -209,7 +209,7 @@ module.exports = {
   },
   photo_map: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_300_450_10_10:${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_300_450_10_10:${width}/${src}`,
     fallbackWidth: 300,
     minWidth: 300,
     maxWidth: 450, // The source image is 450px wide
@@ -219,7 +219,7 @@ module.exports = {
   },
   logo: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_200_400_10_10:${width},c_limit/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_200_400_10_10:${width}/${src}`,
     fallbackWidth: 200,
     minWidth: 200,
     maxWidth: 400, // Enough for >= 2dppx
