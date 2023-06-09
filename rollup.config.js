@@ -8,12 +8,10 @@ import { nodeResolve } from '@rollup/plugin-node-resolve';
 import { terser } from 'rollup-plugin-terser';
 import path from 'path';
 import entrypointHashmanifest from 'rollup-plugin-entrypoint-hashmanifest';
-import bundleHash from 'rollup-plugin-bundle-hash';
 
 const JS_SRC = 'assets/js';
 const JS_DIST = '_site/ui/js';
 const FILE_HASH_DIR = 'src/_data';
-const CONTENT_HASH_DIR = 'src/_includes/hashes';
 
 const JS_NAME =
   process.env.NODE_ENV === 'production'
@@ -42,7 +40,6 @@ export default [
         exclude: 'node_modules/**',
       }),
       process.env.NODE_ENV === 'production' && terser(),
-      bundleHash(path.join(CONTENT_HASH_DIR, 'critical.njk')),
     ],
   },
   {
@@ -66,7 +63,6 @@ export default [
         exclude: 'node_modules/**',
       }),
       process.env.NODE_ENV === 'production' && terser(),
-      bundleHash(path.join(CONTENT_HASH_DIR, 'additional.njk')),
     ],
   },
   {
