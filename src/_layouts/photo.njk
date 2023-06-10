@@ -68,28 +68,28 @@
 
     <div class="description e-content">
       {{ content | markdownify | safe }}
-
-      {% if platforms[page.fileSlug] | keys | length > 0 %}
-        {% set photoLinks = platforms[page.fileSlug] %}
-        <div class="platforms">
-          <p>{% inline_icon 'share' %} You can also find this photo on other platforms:</p>
-          <ul>
-            {% if photoLinks.flickr %}
-              <li>{% external_icon 'flickr' %} Add it to your favs <a href="https://flickr.com/photos/nicolas-hoizey/{{ photoLinks.flickr.id }}/">on Flickr</a>, like {{ photoLinks.flickr.favs | rough }} others</li>
-            {% endif %}
-            {% if photoLinks.unsplash %}
-              <li>{% external_icon 'unsplash' %} Like and download it for free <a href="https://unsplash.com/photos/{{ photoLinks.unsplash.id }}">on Unsplash</a>, like {{ photoLinks.unsplash.downloads | rough }} others</li>
-            {% endif %}
-            {% if photoLinks.pixelfed %}
-              <li>{% external_icon 'pixelfed' %} Like it <a href="https://pixelfed.social/i/web/post/{{ photoLinks.pixelfed }}">on pixelfed</a></li>
-            {% endif %}
-            {% if photoLinks.locationscout %}
-              <li>{% external_icon 'locationscout' %} Find where and how to shoot the same <a href="https://www.locationscout.net/{{ photoLinks.locationscout }}">on Locationscout</a></li>
-            {% endif %}
-          </ul>
-        </div>
-      {% endif %}
     </div>
+
+    {% if platforms[page.fileSlug] | keys | length > 0 %}
+      {% set photoLinks = platforms[page.fileSlug] %}
+      <div class="platforms">
+        <p>{% inline_icon 'share' %} You can also find this photo on other platforms:</p>
+        <ul>
+          {% if photoLinks.flickr %}
+            <li>{% external_icon 'flickr' %} Add it to your favs <a href="https://flickr.com/photos/nicolas-hoizey/{{ photoLinks.flickr.id }}/">on Flickr</a>, like {{ photoLinks.flickr.favs | rough }} others</li>
+          {% endif %}
+          {% if photoLinks.unsplash %}
+            <li>{% external_icon 'unsplash' %} Like and download it for free <a href="https://unsplash.com/photos/{{ photoLinks.unsplash.id }}">on Unsplash</a>, like {{ photoLinks.unsplash.downloads | rough }} others</li>
+          {% endif %}
+          {% if photoLinks.pixelfed %}
+            <li>{% external_icon 'pixelfed' %} Like it <a href="https://pixelfed.social/i/web/post/{{ photoLinks.pixelfed }}">on pixelfed</a></li>
+          {% endif %}
+          {% if photoLinks.locationscout %}
+            <li>{% external_icon 'locationscout' %} Find where and how to shoot the same <a href="https://www.locationscout.net/{{ photoLinks.locationscout }}">on Locationscout</a></li>
+          {% endif %}
+        </ul>
+      </div>
+    {% endif %}
 
     <div class="meta">
       <ul class="exif">
