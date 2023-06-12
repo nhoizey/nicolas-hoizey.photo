@@ -47,6 +47,7 @@ package = "netlify-build-plugin-speedcurve"
   for = "/*.webmanifest"
   [headers.values]
     Content-Type = "application/manifest+json"
+    Cache-Control = "public, max-age=2592000, immutable"
 
 [[headers]]
   for = "/ui/thumbnails/sprite.*"
