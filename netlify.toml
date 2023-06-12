@@ -8,6 +8,9 @@
   path = "/*"
   function = "headers"
 
+[[plugins]]
+package = "netlify-build-plugin-speedcurve"
+
 # [[redirects]]
 #   from = "https://nho-photo.netlify.app"
 #   to = "https://nicolas-hoizey.photo"
