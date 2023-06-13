@@ -55,7 +55,7 @@ colors:
   muted: 79 104 130
   darkMuted: 34 57 72
   lightMuted: 194 196 199
-lqip: data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADwCwCdASrIAIUAP3G40GQ0r6qmopjoYpAuCWlu3WBpK2Akv5xahCMntg/1LQPQVTLL4yT40H/6tNVSfC7qWgOZ8CQIqggmiLTVLphAvq5zck0wZSMAhGU07F7GImU1VKA7GSgPQjEYAAD+7jwARMx8x839bSySF6WEuFwDiFamL71/KDchvVUGncOLmArOPDL9ySTLK7w6MzH+JBuk0a0CBfyiiAAA
+lqip: data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQBQCdASpkAEMAP3G412O0sCumo7gIApAuCWkAACPg4gNhGKfEzYRYb6Eyldt0QMps7AAA/u48i8MggFwTLd+YNFKtxTYFBqvAQgBZYAA=
 ---
 
 It was a very dark night that night in Trouville-sur-mer, with the restaurant Le Galatée as the only bright presence on the deserted beach.

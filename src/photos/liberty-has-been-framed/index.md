@@ -59,7 +59,7 @@ colors:
   muted: 140 136 116
   darkMuted: 76 56 44
   lightMuted: 184 189 182
-lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAABQFwCdASrIAIUAP3Gyx1u/sCilrJWaW/AuCWlu3V+VKSCbgkD5g4jE0gGuAEj3KJtHan3WPCJYDa5kLCZ0nVebQyEuuomTnfvHs6QPOr1d5zhgY17E0KSlyKioQhwrRpMz75ggxutGICigCsyxDhLapKSrKuDAVd8m+JKe9f+XGZkx0bDqy1smF8e0abR3v69sag3liQyTEYS6wIYqAf0F43loxcIFXkus16WAycGwNHmiwA0HhLrkrVpX1QXsG/jbyeAA/u5yIbWxyUFcV7WQWp7gPyA7zmGjhXYhBwAOKt//AL036ENYOf0AwzJMjsguKx2oK2rdtLQhFxoD9LT86rrRx6XQ8lfyeE9jocenpcx32pSAmkzrI2WlKFSqanI9MAqAGnE22IxvqkIQXLlDQmbGYhDlnGC6hihDxH/wB9bykwZVSBDai6/bpZqmr3LNR5P2C8RN/sRzvlOMAc8EfHZkSHrEO/mBjuoFWH94zoySov8s2G/6911LyxGenc8lpYs8PwRhKAiBoV2ukuDn91sO1325mNpzSQZXACi0aIJQzVgKwAAA
+lqip: data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAAAQCgCdASpkAEMAP22gv1i0rCclMH1bwpAtiWcA1QQc7XPkmJRb1Qbxddxq0d1Kb89RlR+BZV/D4HItWzY2NsP7U/zi1NqZHVNO523ewrGygFxPq9GeQzXPAAD+4rJv0JATSGFCiGuOy/uKQGnpeMN5SGBkFz7NycdgPwtQ5EMUUhmUF4r2Iw4+MG0Epk6CUEowsMZKtNAIRZMyh8H84xtgFwEs/Z98G6yOIMxmPvc3K1eomY7TM/TgAPH80AAA
 ---
 
 The Statue of Liberty was a gift to the United States from the people of France. It is an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad.

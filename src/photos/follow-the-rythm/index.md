@@ -61,7 +61,7 @@ colors:
   muted: 92 132 156
   darkMuted: 88 47 88
   lightMuted: 178 196 199
-lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAADQEgCdASrIAIUAP3G41WG0sDeoJDVZgvAuCWVu3V7BKFbfBlhAUVF8H97LAb1zgc2Q6ocLFJJi2Y6wSAHiKALqaPKwwGqMqEQPQtOEzCBl7CAArAOf25Ho7QRxkAAFBKtuOyeIeiPwjocwPYbS+DX6AZs3uH1wiYaDMv3KDaH6LlGL3ts6gt6/PHigu6WCXmHiRkN9eBkIQzYO00vSuGgA/u7OQAGm8oAXRn4a4nfkcxF84h48HBeL/cOQD7kdT1DqdhLZQ/3gAoma1LT6sG6dUE3Mt+PIURNtHR1MTZPmiK96NVQAk3+LXjar/gJm67CZyEXT+BPaIybZi5q9TdBNM1ZjUPGcRQx8CGF0zQ5SXs4obEDnLEIKgdvvCwHaZkWvXfx8IHhKFH6l5vHB114U2CNNIUNR8ycyxJOYHSmjNz+/I76WpGXk88/aUaiBixhuTLZfSWTS88AnrfDw/uq7piDZrAtTEpaal4RZmJq6SZkMWpGTuijC3H/kfBObCbHSSyDnRXWDB3IecTPxJJ8LiKO6UQA/U5zZXhiKaU6JFMAA
+lqip: data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQCACdASpkAEMAP3G41GG0u6qmJJZpm3AuCWUA1IwjnZU4cDT9muAAY1g0c/M1MrzfiPQgXVRDreFAdPZUWmEYLgp/E/oogR/vQAAA/u7P4SaJJ4J2YV446dSUSbWcRf8ZJRckODWkSTwV9dJ/vZnf0Bg8x9sP9/1hLQOYpOfjsbiEQ3I7DYmXrNkMmvx3VyYp2dmIKHALD8Rinj3eyJr+bIiQyEM57iAAAA==
 ---
 
 Everything was ready for the final round of the most electrifying Clandestin pres. Full On Ibiza 2014 season. The storms from this week on the island presaged an energetic farewell and that’s exactly how it went. The lightning symbol of the party rocked harder than ever in the Main Room of Space Ibiza.

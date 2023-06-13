@@ -44,7 +44,7 @@ colors:
   muted: 119 117 166
   darkMuted: 24 66 129
   lightMuted: 212 164 177
-lqip: data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQCwCdASrIAJQAP3G42mU0r7qnINqoM1AuCWlu4XMwATiCxYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFixYsWLFimljB7BfmzZsEvEJ5WLDuSpXr169VWSMvIAD+/bWXj8jBufAAGF7kZj1REaJEuJe6T3Rw/RjWro7A4ZDHNX0w28/Mnw9QmcWBwAA=
+lqip: data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQBQCdASpkAEoAP3G42mS0ry0nIOh6kC4JaQAAGdm+rHm0+hNntPoSuJ6E1hrQkrT/DAAA/u2sRAbkAOE2lS1iLCgHCevQtyygAA==
 ---
 
 Over exposed to get a really minimalistic composition, no post processing at all.

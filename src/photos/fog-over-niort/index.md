@@ -56,7 +56,7 @@ colors:
   muted: 147 122 101
   darkMuted: 75 55 43
   lightMuted: 173 176 188
-lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAABwDwCdASrIAIUAP3G41GO0sLcoots4cuAuCWdu3V72KwBDG8IgzAEHqoEGXmG8MkpY3sdoVguVsh/WXuoaKGxhM4CdvcL4jPb1k/qvTjoJCpSXSM0sP7ibqnxUzOIiuvpQY+g3H3QQv3iAUK7J3qdIPRZN23LY+puVOWOqJjZUkD8KCLgA/u50/EOhDxA3IMr0g5sNOwoOaIOwvp9E5U1keJ/ij2DVRQfXNoAxxPT7RQJ0G9ggV3y7rQnx+jyIFUI4SGkOVv0A323wTvPruiw8ch5qTM2vjagIvHJWknwP4pXOORzeakShZWDivlyz5uS7P4ieh45OXSorErmKto3HX8TSu83TH/+nneCY5qE/e4JJjlKMG2UKlvzWbKQCGGg2FODuCTAgBIbSOCBTwGveTVgAAA==
+lqip: data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBwCdASpkAEMAP3G42GK0r6ymJJzISpAuCWcA1QyroOPQlsE/PMCTuX44s5AGNEuY4lnHmivFEhmr5WJrJ95gAAD+7c1NvorbgiVcnlFn4A+yqNdTQScDDL7i2iZzdDCpdHrbR6EYcNJ5tYtjmDM12gVIwZ8as+wmbfx32uAv0f/BCWrOgpQZeOwAbPW5RAA=
 ---
 
 With the winter cold approaching, and the humidity rising from the Sèvre Niortaise, the atmosphere was particularly mysterious on this Monday evening...

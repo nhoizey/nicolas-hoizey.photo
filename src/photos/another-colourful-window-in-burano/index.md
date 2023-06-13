@@ -50,7 +50,7 @@ colors:
   muted: 168 157 86
   darkMuted: 112 104 59
   lightMuted: 111 101 42
-lqip: data:image/webp;base64,UklGRtABAABXRUJQVlA4IMQBAAAwFQCdASrIAJYAP3G00l60v6smqppoS/AuCU3bq7pVOBMeudBzqnWG2cR2JA+K7I3N58VgrVQltwouj9/pDtdEfA3F8QLK3EUHYXFCJyqvHbV4h6OTPztnsQ7vW3dipoAvR4gsw8Q8i3l/aPoPPlsNxyQmaQUm5PmppZD0xt88dEQemk1TgkJckjiHg5Wn6JI43LhxWKlVx346GaaTDEZf7J3+QFpXOT2oEIlJOrc9BgXQAP62l/VWls2V3yG9nGKJaZGWujjFpU4oC4Ct/2U87DTdp4Aq+CgP6cpbNcqhjRiOKO7zObsYsS1cGMyXbw0Ze0Lo627eNnlosToIim5QT+iNKEI2x4w8gACmEKAKs48kZpxRZAWFJ/HuGSs1+CsdtqMwjD04BA1UQfFLYDdRIS8fydFpShJA7uqOZVeHBVgdD1NvVyb/AszGDCefgGERtf588UCJsYge8xD59Cu+3IdatF//OIJijJR9QMnY7J/0nnUgnrDA6/VZFObb7KphsUSbcMcKKKMb/slK/tnR0OzH0wfzMujwvGiiIgxaqU1dxo47gE5+4+7sECBRLZmk8byHyZRVvChAKQnlERWfyAAAAA==
+lqip: data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAACQCQCdASpkAEsAP3Gwy1o0r6mlLrgJQpAuCWIAz9wmBY+bA8ye0extcCBQQ9Cq0xjSNnSE9SSahfgO2aD+gY8ND4zsO4BQ2dwAkNk5A1gg/bTC4YcAAPcEGvGllQ/1xc3IM4V/KK7C6F2nj2heLv8A4XjYU2FnonqXdbYM2XJGY0Q6FLmxwEmVVZdCFeqlSB9gfUjVqBmJYybaAKx8OjgEIFwI7BmftAA8D9KGa7dlAut2+r1rhhRDFt7+T62n7AmPuqVO95xx/CjdIgomQxHfJN3WtVmo8y1pqAAA
 ---
 
 This is one of the many lovely windows of Burano, one of the famous islands of the Venice Lagoon, in Italy. It is said that owners of these houses have to paint them from time to time to keep them perfect for tourists!
