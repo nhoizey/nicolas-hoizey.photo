@@ -409,7 +409,7 @@ SYNC ${photo}`);
     } else {
       const { data, info } = await sharp(photoPath)
         .resize({
-          width: 200,
+          width: 100,
         })
         .blur(1)
         .webp({ quality: 10, alphaQuality: 0, smartSubsample: true })
