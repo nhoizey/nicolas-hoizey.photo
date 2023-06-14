@@ -54,9 +54,9 @@
       style="
         view-transition-name: {{ page.fileSlug }};
         background-color: #{{ colors.muted | bgcolor }};
-        background-image: url({{ origin.data.lqip }});
+        {# background-image: url({{ origin.data.lqip }});
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: cover; #}
         "
       {% if dimensions.width < dimensions.height %}
         data-responsiver="portrait"
