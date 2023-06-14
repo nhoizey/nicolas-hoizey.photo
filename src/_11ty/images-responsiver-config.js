@@ -104,7 +104,7 @@ module.exports = {
   },
   landscape: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,fl_progressive/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -113,7 +113,7 @@ module.exports = {
   },
   portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
+      `https://res.cloudinary.com/nho/image/fetch/q_auto,fl_progressive/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
