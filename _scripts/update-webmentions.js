@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 // https://sia.codes/posts/webmentions-eleventy-in-depth/
 
 const fetch = require('node-fetch');

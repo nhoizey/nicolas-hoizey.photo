@@ -1,0 +1,43 @@
+name: Update Webmentions
+on:
+  schedule:
+    # Runs at minute 0
+    # https://crontab.guru/#0_*_*_*_*
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  webmentions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run webmention script
+        env:
+          WEBMENTION_IO_TOKEN: ${{ secrets.WEBMENTION_IO_TOKEN }}
+        run: npm run webmention >> $GITHUB_STEP_SUMMARY
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.PAT }}
+          branch: webmentions
+          delete-branch: true
+          commit-message: Update Webmentions
+          title: Update Webmentions
+          labels: automerge 🤞
