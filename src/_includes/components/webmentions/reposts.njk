@@ -1,0 +1,15 @@
+{% from "macros/webmentionAuthorPhoto.njk" import webmentionAuthorPhoto %}
+
+<ol class="webmentions__list webmentions--repost-of">
+  {% for webmention in reposts %}
+    <li id="webmention-{{ webmention['wm-id'] }}" class="webmentions__item">
+      {% if "https://twitter.com/" in webmention.url %}
+        <a class="u-url p-author h-card" href="{{ webmention.url }}">
+      {% else %}
+        <a class="u-url p-author h-card" href="{{ webmention.author.url }}">
+      {% endif %}
+      {{ webmentionAuthorPhoto(webmention.author) }}
+      </a>
+    </li>
+  {% endfor %}
+</ol>

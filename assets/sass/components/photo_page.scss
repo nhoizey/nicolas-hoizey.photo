@@ -16,7 +16,9 @@
     'photo'
     'description'
     'meta'
-    'tags';
+    'platforms'
+    'tags'
+    'webmentions';
 
   .header {
     grid-area: header;
@@ -39,12 +41,20 @@
     }
   }
 
+  .platforms {
+    grid-area: platforms;
+  }
+
   .tags {
     grid-area: tags;
   }
 
   .meta {
     grid-area: meta;
+  }
+
+  .webmentions {
+    grid-area: webmentions;
   }
 
   h1 {
@@ -122,7 +132,9 @@
       'header header'
       'photo photo'
       'description meta'
-      'tags meta';
+      'platforms meta'
+      'tags meta'
+      'webmentions webmentions';
     grid-template-columns: 2fr 1fr;
   }
 
@@ -162,7 +174,9 @@
         'header header'
         'photo description'
         'photo meta'
-        'tags tags';
+        'platforms platforms'
+        'tags tags'
+        'webmentions webmentions';
       grid-template-columns: var(--width) auto;
 
       .meta {
@@ -237,7 +251,9 @@
       'header photo'
       'meta photo'
       'meta description'
-      'meta tags';
+      'meta platforms'
+      'meta tags'
+      'webmentions webmentions';
     grid-template-columns: 1fr calc(var(--right-pane-width) - #{spaces.$m});
     column-gap: var(--hinge-width);
 

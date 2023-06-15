@@ -146,5 +146,8 @@
       {%- endfor -%}
     </p>
     {% endif %}
+
+    {% set pageUrl = page.url %}
+    {% include "components/webmentions.njk" %}
   </div>
 {% endblock %}

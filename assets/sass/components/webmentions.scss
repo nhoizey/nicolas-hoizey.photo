@@ -1,0 +1,105 @@
+@use '../variables';
+@use '../utilities';
+@use 'sass:math';
+
+#webmentions {
+  // https://web.dev/content-visibility/
+  // https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/#lazy-render-offscreen-content
+  // https: //twitter.com/csswizardry/status/1584563794780770309/photo/1
+  content-visibility: auto;
+  contain-intrinsic-size: auto 250px;
+
+  @extend %flow;
+
+  summary > h3 {
+    display: inline-block;
+  }
+}
+
+.webmentions__list {
+  padding: 0;
+
+  list-style-type: none;
+}
+
+.webmention__author__photo {
+  width: 48px;
+  height: 48px;
+
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 3px #040404;
+
+  background-color: #fff;
+  color: #fff;
+}
+
+.webmentions__item .meta {
+  margin-top: math.div(variables.$gap, 2);
+}
+
+.webmentions--like-of,
+.webmentions--repost-of {
+  display: flex;
+  flex-wrap: wrap;
+  margin-inline-start: 0.75em;
+
+  li {
+    margin-inline-start: -0.75em;
+    transition-property: transform;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.2s;
+
+    &:hover,
+    &:focus {
+      z-index: 2;
+      transform: scale(1.2);
+    }
+  }
+
+  a:link,
+  a:visited {
+    &:hover,
+    &:focus {
+      background-color: transparent;
+    }
+  }
+
+  .webmention__author__photo {
+    margin: 0.1em;
+  }
+}
+
+.webmentions--in-reply-to,
+.webmentions--mention-of {
+  --flow-space: #{3 * variables.$gap};
+  @extend %flow;
+
+  .webmentions__item {
+    position: relative;
+
+    clear: both;
+
+    min-height: 48px;
+    padding-left: calc(48px + 1em);
+
+    &.webmention--no-photo {
+      padding-right: 1em;
+      padding-left: 1em;
+
+      @media (min-width: 30em) {
+        padding-right: 0;
+        padding-left: calc(48px + 1em);
+      }
+    }
+  }
+
+  .webmention__author__photo {
+    position: absolute;
+    top: 0.3em;
+    left: 0;
+
+    display: block;
+
+    margin: 0;
+  }
+}

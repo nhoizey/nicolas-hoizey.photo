@@ -1,0 +1,11 @@
+{% from "macros/webmentionAuthorPhoto.njk" import webmentionAuthorPhoto %}
+
+<ol class="webmentions__list webmentions--like-of">
+  {% for webmention in likes %}
+    <li id="webmention-{{ webmention['wm-id'] }}" class="webmentions__item">
+      <a class="u-url p-author h-card" href="{{ webmention.author.url }}">
+        {{ webmentionAuthorPhoto(webmention.author) }}
+      </a>
+    </li>
+  {% endfor %}
+</ol>

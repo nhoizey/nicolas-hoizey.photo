@@ -1,0 +1,74 @@
+{% from "../../macros/webmentionAuthorPhoto.njk" import webmentionAuthorPhoto %}
+
+{% set cloudinaryPrefix = 'https://res.cloudinary.com/nho/image/fetch/c_fill,f_auto,q_auto,' %}
+<ol class="webmentions__list webmentions--mention-of">
+  {% for webmention in mentions %}
+    <li id="webmention-{{ webmention['wm-id'] }}" class="webmentions__item h-cite
+        {% if webmention.author == undefined or webmention.author == '' %}webmention--no-author{% endif %}
+        {% if webmention.author.photo == undefined or webmention.author.photo == '' %}webmention--no-photo{% endif %}
+        ">
+      {% if webmention.author.url != "" %}
+        <a class="u-url p-author h-card" href="{{ webmention.author.url }}">
+          {{ webmentionAuthorPhoto(webmention.author) }}
+          <b class="p-name">{{ webmention.author.name }}</b>
+        </a>
+      {% else %}
+        {% if webmention.url %}
+          <img
+            class="page__illustration"
+            src="https://image.thum.io/get/width/1200/crop/800/noanimate/{{ webmention.url }}"
+            width="300"
+            height="200"
+            alt="Page screenshot"
+            loading="lazy"
+            decoding="async"
+            fetchpriority="low"
+            crossorigin="anonymous"
+            data-responsiver="page__illustration"
+            onerror="this.src='/assets/default-screenshot.svg'; this.onerror=null" />
+          <a class="u-url" href="{{ webmention.url }}">
+            <b class="p-name">{{ webmention.url | truncate(70) }}</b>
+          </a>
+        {% endif %}
+      {% endif %}
+
+      {% if webmention.content %}
+        <div class="p-content">
+          {% if webmention.content['content-type'] == 'text/html' %}
+            {{ webmention.content.html | truncateHtml(500) | safe }}
+          {% else %}
+            {{ webmention.content.text | truncate(500, true, '…') }}
+          {% endif %}
+        </div>
+      {% endif %}
+      {% if webmention.url %}
+        <ul class="meta">
+
+          {% set webmentionDate = false %}
+          {% if webmention.published %}
+            {% set webmentionDate = webmention.published %}
+          {% else %}
+            {% if webmention['wm-received'] %}
+              {% set webmentionDate = webmention['wm-received'] %}
+            {% endif %}
+          {% endif %}
+          {% if webmentionDate %}
+            <li class="meta__item meta__date">
+              {% icon "date", "Date" %}
+              <a href="#webmention-{{ webmention['wm-id'] }}">
+                <time class="dt-published" datetime="{{ webmentionDate }}">{{ webmentionDate | formattedDateTimeFromIso }}</time>
+              </a>
+            </li>
+          {% endif %}
+
+          <li class="meta__item meta__source">
+            {% if "https://twitter.com/" in webmention.url %}
+              {% icon "twitter", "Twitter" %}
+            {% endif %}
+            <a class="u-url" href="{{ webmention.url }}">Source</a>
+          </li>
+        </ul>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>
