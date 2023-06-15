@@ -33,6 +33,7 @@ const ICONS = {
   aperture: { name: 'aperture', source: 'feather' },
   download: { name: 'download', source: 'feather' },
   feeds: { name: 'rss', source: 'feather' },
+  mastodon: { name: 'mastodon', source: 'simple' },
 };
 
 module.exports = {

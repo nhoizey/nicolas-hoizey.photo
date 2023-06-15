@@ -67,6 +67,9 @@
                 {% endif %}
 
                 <li class="meta__item meta__source">
+                  {% if "https://brid.gy/comment/mastodon/" in webmention['wm-source'] %}
+                    <svg class="icon" aria-hidden="true"><use xlink:href="#mastodon-icon" /></svg>
+                  {% endif %}
                   <a class="u-url" href="{{ webmention.url }}">Source</a>
                 </li>
               </ul>
