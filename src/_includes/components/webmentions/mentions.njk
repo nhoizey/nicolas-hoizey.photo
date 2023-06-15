@@ -34,7 +34,7 @@
 
       {% if webmention.content %}
         <div class="p-content">
-          {% if webmention.content['content-type'] == 'text/html' %}
+          {% if webmention.content.html %}
             {{ webmention.content.html | truncateHtml(500) | safe }}
           {% else %}
             {{ webmention.content.text | truncate(500, true, '…') }}
@@ -54,17 +54,14 @@
           {% endif %}
           {% if webmentionDate %}
             <li class="meta__item meta__date">
-              {% icon "date", "Date" %}
+              <svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg>
               <a href="#webmention-{{ webmention['wm-id'] }}">
-                <time class="dt-published" datetime="{{ webmentionDate }}">{{ webmentionDate | formattedDateTimeFromIso }}</time>
+                <time class="dt-published" datetime="{{ webmentionDate }}">{{ webmentionDate | readableDateFromIso }}</time>
               </a>
             </li>
           {% endif %}
 
           <li class="meta__item meta__source">
-            {% if "https://twitter.com/" in webmention.url %}
-              {% icon "twitter", "Twitter" %}
-            {% endif %}
             <a class="u-url" href="{{ webmention.url }}">Source</a>
           </li>
         </ul>

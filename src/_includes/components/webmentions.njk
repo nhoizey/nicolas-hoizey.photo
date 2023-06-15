@@ -8,10 +8,10 @@
 {% set repostsSize = reposts | length %}
 
 {% set replies = allMentions | webmentionsByType('in-reply-to') %}
-{% set repliesSize = replies | length  %}
+{% set repliesSize = replies | length %}
 
 {% set mentions = allMentions | webmentionsByType('mention-of') %}
-{% set mentionsSize = mentions | length  %}
+{% set mentionsSize = mentions | length %}
 
 {% from "macros/css.njk" import css %}
 {{ css('components/webmentions', build.env) }}
@@ -33,12 +33,7 @@
     </section>
   {% endif %}
 
-  {% if repliesSize > 0 %}
-    <details id="replies">
-      <summary><h3>{{ repliesSize }} {% if repliesSize > 1 %}replies{% else %}reply{% endif %}</h3></summary>
-      {% include "components/webmentions/replies.njk" %}
-    </details>
-  {% endif %}
+  {% include "components/webmentions/replies.njk" %}
 
   {% if mentionsSize > 0 %}
     <details id="mentions">
