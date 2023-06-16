@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-16T14:08:33.148Z",
+  "lastFetched": "2023-06-16T16:05:28.332Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25322,6 +25322,24 @@
       "wm-received": "2023-06-16T14:08:28Z",
       "wm-id": 1686921,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109448144012097729",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra Bohemica 😺🏳️‍🌈🇨🇿🇪🇺",
+        "photo": "https://webmention.io/avatar/mamot.fr/a292b024879cd9176e34fe2da6b2974ea718763d184933051d0f3bade446e679.jpg",
+        "url": "https://mastodon.social/@petra_bohemica"
+      },
+      "url": "https://mamot.fr/@nhoizey/110553891265659218#favorited-by-109870405591058136",
+      "published": "2023-06-16T15:10:36Z",
+      "wm-received": "2023-06-16T15:10:36Z",
+      "wm-id": 1686941,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109870405591058136",
       "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
       "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
       "wm-property": "like-of",
