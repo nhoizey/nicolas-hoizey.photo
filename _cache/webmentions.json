@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-16T00:16:53.683Z",
+  "lastFetched": "2023-06-16T10:05:14.813Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25116,6 +25116,24 @@
       "wm-received": "2023-06-15T23:17:39Z",
       "wm-id": 1686789,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110548228885147769/110525084126616395",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/lower-manhattan-b-and-w-edition/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/lower-manhattan-b-and-w-edition/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marjamjars :mastoart:",
+        "photo": "https://webmention.io/avatar/mamot.fr/79c47b8b2ff78a2aa650ade5262fa0274d8dd66c22c95b60f04c46d3b5700b03.jpg",
+        "url": "https://mastodon.art/@Marjamjars"
+      },
+      "url": "https://mamot.fr/@nhoizey/110548228885147769#favorited-by-109262558594689817",
+      "published": "2023-06-16T09:39:18Z",
+      "wm-received": "2023-06-16T09:39:18Z",
+      "wm-id": 1686879,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110548228885147769/109262558594689817",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/lower-manhattan-b-and-w-edition/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/lower-manhattan-b-and-w-edition/",
       "wm-property": "like-of",
