@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-16T10:05:14.813Z",
+  "lastFetched": "2023-06-16T13:06:12.673Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25136,6 +25136,122 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110548228885147769/109262558594689817",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/lower-manhattan-b-and-w-edition/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/lower-manhattan-b-and-w-edition/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JosephA",
+        "photo": "https://webmention.io/avatar/mamot.fr/fa1db7621cb14d351f81da761681a576dd3cbe17d69cb660ead06400413aac74.jpg",
+        "url": "https://mastodon.art/@JosephA"
+      },
+      "url": "https://mastodon.art/@JosephA/110553917090838095",
+      "published": "2023-06-16T12:35:00",
+      "wm-received": "2023-06-16T13:00:16Z",
+      "wm-id": 1686909,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/110553891265659218/110553917245865876",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> I love the contrast between the deep almost-crushed shadows and the soft silvery highlights. Beautiful.</p>",
+        "text": "@nhoizey I love the contrast between the deep almost-crushed shadows and the soft silvery highlights. Beautiful."
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/mamot.fr/46db122dbb31fe47f9d54cd6b37edc875807209a0c1f9d0a8da12a397743b88d.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/110553990344558910",
+      "published": "2023-06-16T12:53:38",
+      "wm-received": "2023-06-16T13:00:15Z",
+      "wm-id": 1686908,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/110553891265659218/110553990344558910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.art/@JosephA\" class=\"u-url\">@<span>JosephA</span></a></span> thanks a lot! 🙏</p>",
+        "text": "@JosephA thanks a lot! 🙏"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "slaveofmusic",
+        "photo": "https://webmention.io/avatar/mamot.fr/2b241f50ca9e1297419b4ed7051e0e010da8ac3aeefae96df0d99965321a0c9b.jpg",
+        "url": "https://mastodon.social/@solosuite"
+      },
+      "url": "https://mamot.fr/@nhoizey/110553891265659218#favorited-by-110533228420405240",
+      "published": "2023-06-16T13:00:19Z",
+      "wm-received": "2023-06-16T13:00:19Z",
+      "wm-id": 1686910,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/110533228420405240",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell",
+        "photo": "https://webmention.io/avatar/mamot.fr/f1e055fa7b5749d299051665201dc9d7cc2694a52e5cf33fee0ebf43f05b9423.jpg",
+        "url": "https://photog.social/@ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/110553891265659218#favorited-by-109310382166525404",
+      "published": "2023-06-16T13:00:19Z",
+      "wm-received": "2023-06-16T13:00:19Z",
+      "wm-id": 1686911,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109310382166525404",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110553891265659218#favorited-by-109377158218702543",
+      "published": "2023-06-16T13:00:21Z",
+      "wm-received": "2023-06-16T13:00:21Z",
+      "wm-id": 1686912,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110553891265659218#favorited-by-109483621978440168",
+      "published": "2023-06-16T13:00:22Z",
+      "wm-received": "2023-06-16T13:00:22Z",
+      "wm-id": 1686913,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
       "wm-property": "like-of",
       "wm-private": false
     }
