@@ -20,4 +20,7 @@
     {{ meta(page) }}
     <p>{{ content | safe }}</p>
   </article>
+
+  {% set pageUrl = page.url %}
+  {% include "components/webmentions.njk" %}
 {% endblock %}
