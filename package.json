@@ -46,7 +46,9 @@
     "prepare": "npx husky install",
     "playwright": "npx playwright test",
     "docker": "docker run --rm --network host -v $(pwd):/work/ -w /work/ -it mcr.microsoft.com/playwright:v1.22.0-focal /bin/bash",
-    "webmention": "node ./_scripts/update-webmentions.js"
+    "webmentions": "node ./_scripts/update-webmentions.js",
+    "flickr": "node ./_scripts/update-flickr.js",
+    "unsplash": "node ./_scripts/update-unsplash.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
