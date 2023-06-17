@@ -43,6 +43,11 @@
   flex-wrap: wrap;
   margin-inline-start: 0.75em;
 
+  // For when avatar image doesn't load and alt text takes more space
+  max-width: 52px;
+  white-space: nowrap;
+  overflow-x: hidden;
+
   li {
     margin-inline-start: -0.75em;
     transition-property: transform;
