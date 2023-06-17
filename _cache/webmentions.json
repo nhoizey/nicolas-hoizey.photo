@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-17T16:02:16.257Z",
+  "lastFetched": "2023-06-17T21:02:02.815Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25486,6 +25486,86 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110559551813849142/109431672342321227",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Snugug",
+        "photo": "https://webmention.io/avatar/mamot.fr/1f50422137a32056bf74218904b1ba7783c9bac49c22bee29366c24b9fc0b4e4.jpg",
+        "url": "https://mas.to/@snugug"
+      },
+      "url": "https://mas.to/@snugug/110561419481464687",
+      "published": "2023-06-17T20:22:58",
+      "wm-received": "2023-06-17T20:49:33Z",
+      "wm-id": 1687423,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/110561382146909645/110561419509119562",
+      "wm-target": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> I considered that too, but I've got a silver bodied X-T and the new one doesn't come in silver 😜</p>",
+        "text": "@nhoizey I considered that too, but I've got a silver bodied X-T and the new one doesn't come in silver 😜"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Snugug",
+        "photo": "https://webmention.io/avatar/mamot.fr/1f50422137a32056bf74218904b1ba7783c9bac49c22bee29366c24b9fc0b4e4.jpg",
+        "url": "https://mas.to/@snugug"
+      },
+      "url": "https://mas.to/@snugug/110561424562501438",
+      "published": "2023-06-17T20:24:15",
+      "wm-received": "2023-06-17T20:49:33Z",
+      "wm-id": 1687424,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/110561382146909645/110561424595446059",
+      "wm-target": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> oh also love the photos!<br />I see you've got the 10-24 and 16-80. Was looking at those too. What are your thoughts on them, esp. compared to the 18-55?</p>",
+        "text": "@nhoizey oh also love the photos!\nI see you've got the 10-24 and 16-80. Was looking at those too. What are your thoughts on them, esp. compared to the 18-55?"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Snugug",
+        "photo": "https://webmention.io/avatar/mamot.fr/1f50422137a32056bf74218904b1ba7783c9bac49c22bee29366c24b9fc0b4e4.jpg",
+        "url": "https://mas.to/@snugug"
+      },
+      "url": "https://mamot.fr/@nhoizey/110561382146909645#favorited-by-109367137633847836",
+      "published": "2023-06-17T20:49:35Z",
+      "wm-received": "2023-06-17T20:49:35Z",
+      "wm-id": 1687425,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110561382146909645/109367137633847836",
+      "wm-target": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
+      "like-of": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "🦁 📷 Kazuky Akayashi :pawified:",
+        "photo": "https://webmention.io/avatar/mamot.fr/da3135ffc98ed494352d236fa1e83b19464fdcd54d4c03999c92648db4281984.png",
+        "url": "https://meow.zarchbox.fr/@KazukyAkayashi"
+      },
+      "url": "https://mamot.fr/@nhoizey/110561382146909645#favorited-by-282374",
+      "published": "2023-06-17T20:49:37Z",
+      "wm-received": "2023-06-17T20:49:37Z",
+      "wm-id": 1687426,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110561382146909645/282374",
+      "wm-target": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
+      "like-of": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
       "wm-property": "like-of",
       "wm-private": false
     }
