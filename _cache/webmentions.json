@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-16T16:05:28.332Z",
+  "lastFetched": "2023-06-17T04:05:18.070Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25340,6 +25340,24 @@
       "wm-received": "2023-06-16T15:10:36Z",
       "wm-id": 1686941,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109870405591058136",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Laura Cochran",
+        "photo": "https://webmention.io/avatar/mamot.fr/0b8b17508695fa0d0d6698da12f5cc484d463ae34a738c025496a2ca0fb3a899.png",
+        "url": "https://universeodon.com/@lacochran"
+      },
+      "url": "https://mamot.fr/@nhoizey/110553891265659218#favorited-by-109406592803454049",
+      "published": "2023-06-17T03:40:12Z",
+      "wm-received": "2023-06-17T03:40:12Z",
+      "wm-id": 1687251,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109406592803454049",
       "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
       "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
       "wm-property": "like-of",
