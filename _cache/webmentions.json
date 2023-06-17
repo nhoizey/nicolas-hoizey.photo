@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-17T04:05:18.070Z",
+  "lastFetched": "2023-06-17T13:03:06.660Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25360,6 +25360,60 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109406592803454049",
       "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
       "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Franco Gr",
+        "photo": "https://webmention.io/avatar/mamot.fr/9cce0aa57413474c986b6d1469ef18f93d73cdcfe7d0bb11d41c81ee4e1235e2.jpg",
+        "url": "https://mastodon.social/@frngr"
+      },
+      "url": "https://mamot.fr/@nhoizey/110559551813849142#favorited-by-109554",
+      "published": "2023-06-17T12:34:12Z",
+      "wm-received": "2023-06-17T12:34:12Z",
+      "wm-id": 1687322,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110559551813849142/109554",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110559551813849142#favorited-by-109377158218702543",
+      "published": "2023-06-17T12:34:12Z",
+      "wm-received": "2023-06-17T12:34:12Z",
+      "wm-id": 1687321,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110559551813849142/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110559551813849142#favorited-by-109483621978440168",
+      "published": "2023-06-17T12:34:14Z",
+      "wm-received": "2023-06-17T12:34:14Z",
+      "wm-id": 1687323,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110559551813849142/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/small-break-with-the-protection-of-the-shade-of-the-tree/",
       "wm-property": "like-of",
       "wm-private": false
     }
