@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-17T21:02:02.815Z",
+  "lastFetched": "2023-06-18T07:02:35.278Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25566,6 +25566,24 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110561382146909645/282374",
       "wm-target": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
       "like-of": "https://nicolas-hoizey.photo/gear/fujifilm/fujinon-xf-27mm-f-2-8/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "higby",
+        "photo": "https://webmention.io/avatar/mamot.fr/21fa92a713cf6d2b960bd12c33aa9be8701f11185493096e9335fd75ab83697c.png",
+        "url": "https://indieweb.social/@higby"
+      },
+      "url": "https://mamot.fr/@nhoizey/110553891265659218#favorited-by-109446093258184274",
+      "published": "2023-06-18T06:03:48Z",
+      "wm-received": "2023-06-18T06:03:48Z",
+      "wm-id": 1687476,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109446093258184274",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
       "wm-property": "like-of",
       "wm-private": false
     }
