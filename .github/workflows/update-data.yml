@@ -1,9 +1,9 @@
 name: Update data
 on:
   schedule:
-    # Runs at minute 0
-    # https://crontab.guru/#0_*_*_*_*
-    - cron: '0 * * * *'
+    # Runs at 06:00
+    # https://crontab.guru/#0_6_*_*_*
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 concurrency:
