@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-18T07:02:35.278Z",
+  "lastFetched": "2023-06-18T13:02:47.122Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25584,6 +25584,60 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110553891265659218/109446093258184274",
       "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
       "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/one-hope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110565214600324463#favorited-by-109377158218702543",
+      "published": "2023-06-18T12:36:46Z",
+      "wm-received": "2023-06-18T12:36:46Z",
+      "wm-id": 1687520,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110565214600324463/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tristan Nitot✓",
+        "photo": "https://webmention.io/avatar/mamot.fr/d5629404acc6c228ee07a14bb24f159e1fd245f18645a2e4be2346f22db1a107.jpg",
+        "url": "https://framapiaf.org/@nitot"
+      },
+      "url": "https://mamot.fr/@nhoizey/110565214600324463#favorited-by-13051",
+      "published": "2023-06-18T12:36:46Z",
+      "wm-received": "2023-06-18T12:36:46Z",
+      "wm-id": 1687519,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110565214600324463/13051",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110565214600324463#favorited-by-109483621978440168",
+      "published": "2023-06-18T12:36:48Z",
+      "wm-received": "2023-06-18T12:36:48Z",
+      "wm-id": 1687521,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110565214600324463/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
       "wm-property": "like-of",
       "wm-private": false
     }
