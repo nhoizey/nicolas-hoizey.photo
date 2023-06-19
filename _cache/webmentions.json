@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-18T14:02:21.332Z",
+  "lastFetched": "2023-06-19T06:06:32.150Z",
   "webmentions": [
     {
       "type": "entry",
@@ -25786,6 +25786,114 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110565214600324463/110545853268408525",
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Seb",
+        "photo": "https://webmention.io/avatar/mamot.fr/fe752dd8feb30b0df4b0efbf7621d2e694454a0472be6c89acc90396e5ba831b.jpg",
+        "url": "https://mstdn.mx/@guirdo"
+      },
+      "url": "https://mamot.fr/@nhoizey/110565214600324463#favorited-by-109417844488586257",
+      "published": "2023-06-18T14:21:18Z",
+      "wm-received": "2023-06-18T14:21:18Z",
+      "wm-id": 1687549,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110565214600324463/109417844488586257",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tgakózja",
+        "photo": "https://webmention.io/avatar/mamot.fr/c81d9a4d4cef1394e2b63e0bb0ed5a5100dfe6923dab3834336dc8ce5ec5ecdf.png",
+        "url": "https://mastodon.art/@tgakozja"
+      },
+      "url": "https://mamot.fr/@nhoizey/110565214600324463#favorited-by-110231003272310717",
+      "published": "2023-06-18T14:21:20Z",
+      "wm-received": "2023-06-18T14:21:20Z",
+      "wm-id": 1687550,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110565214600324463/110231003272310717",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/mosquito/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Yagoba B.R.",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/e404458d346337ba51b1fd2b620d0302016b3463ff051087be38f18785723f72.jpg",
+        "url": "https://www.flickr.com/people/183150438@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-183150438@N06",
+      "published": "2023-06-18T16:03:56Z",
+      "wm-received": "2023-06-18T16:03:56Z",
+      "wm-id": 1687565,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/183150438@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Yagoba B.R.",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/e404458d346337ba51b1fd2b620d0302016b3463ff051087be38f18785723f72.jpg",
+        "url": "https://www.flickr.com/people/183150438@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52866743781/#liked-by-183150438@N06",
+      "published": "2023-06-18T16:03:57Z",
+      "wm-received": "2023-06-18T16:03:57Z",
+      "wm-id": 1687566,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/183150438@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Yagoba B.R.",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/e404458d346337ba51b1fd2b620d0302016b3463ff051087be38f18785723f72.jpg",
+        "url": "https://www.flickr.com/people/183150438@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52867186218/#liked-by-183150438@N06",
+      "published": "2023-06-18T16:03:58Z",
+      "wm-received": "2023-06-18T16:03:58Z",
+      "wm-id": 1687567,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52867186218/183150438@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/fahrenheit-451/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/fahrenheit-451/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Yagoba B.R.",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/e404458d346337ba51b1fd2b620d0302016b3463ff051087be38f18785723f72.jpg",
+        "url": "https://www.flickr.com/people/183150438@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52861533766/#liked-by-183150438@N06",
+      "published": "2023-06-18T16:03:59Z",
+      "wm-received": "2023-06-18T16:03:59Z",
+      "wm-id": 1687568,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52861533766/183150438@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/the-walking-dead-bloodstains/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/the-walking-dead-bloodstains/",
       "wm-property": "like-of",
       "wm-private": false
     }
