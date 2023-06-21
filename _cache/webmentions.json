@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-20T06:06:30.410Z",
+  "lastFetched": "2023-06-21T06:06:22.094Z",
   "webmentions": [
     {
       "type": "entry",
@@ -26092,6 +26092,208 @@
       "wm-source": "https://brid.gy/like/flickr/38608514@N00/52867186218/147775620@N02",
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/fahrenheit-451/",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/fahrenheit-451/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-109377158218702543",
+      "published": "2023-06-20T12:33:30Z",
+      "wm-received": "2023-06-20T12:33:30Z",
+      "wm-id": 1687959,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-109483621978440168",
+      "published": "2023-06-20T12:33:30Z",
+      "wm-received": "2023-06-20T12:33:30Z",
+      "wm-id": 1687960,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Walz",
+        "photo": "https://webmention.io/avatar/mamot.fr/98afe18e96dd579b65ed70d30db0dcda64b93e043f0888783d0afa85de2e84a1.jpg",
+        "url": "https://me.dm/@tylerwalz"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-110376103843505556",
+      "published": "2023-06-20T12:33:32Z",
+      "wm-received": "2023-06-20T12:33:32Z",
+      "wm-id": 1687961,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/110376103843505556",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pop's the Passive Voyeur",
+        "photo": "https://webmention.io/avatar/mamot.fr/28985d0419e2037cdb15575c32f342bfc4f6a397d5abe21d59329442bb90cd8c.jpg",
+        "url": "https://mastodon.social/@PopsPics"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-109002171510887924",
+      "published": "2023-06-20T12:33:33Z",
+      "wm-received": "2023-06-20T12:33:33Z",
+      "wm-id": 1687962,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/109002171510887924",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "cukie",
+        "photo": "https://webmention.io/avatar/mamot.fr/6d0d6970f428282c932cbaf9a56b519f1c2110f6c6d3125f458728fe786b6d95.jpg",
+        "url": "https://infosec.exchange/@cukie"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-109524187970783983",
+      "published": "2023-06-20T12:59:21Z",
+      "wm-received": "2023-06-20T12:59:21Z",
+      "wm-id": 1687975,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/109524187970783983",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ms. Laura Mae",
+        "photo": "https://webmention.io/avatar/mamot.fr/339eead776f40264e6639c71488224547e7eb7aa1a361052657dcfce4b2b2b78.jpg",
+        "url": "https://mas.to/@LauraMae"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-109305991571412733",
+      "published": "2023-06-20T12:59:22Z",
+      "wm-received": "2023-06-20T12:59:22Z",
+      "wm-id": 1687976,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/109305991571412733",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Anya Adora :verified_trans:​ :donor:",
+        "photo": "https://webmention.io/avatar/mamot.fr/c6a73fac488ca69bb45216d2ef9884a303043226242e43efa84c9be65a50fd79.jpg",
+        "url": "https://infosec.exchange/@Anya_Adora"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-110467408206438062",
+      "published": "2023-06-20T12:59:24Z",
+      "wm-received": "2023-06-20T12:59:24Z",
+      "wm-id": 1687977,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/110467408206438062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bob Monsour",
+        "photo": "https://webmention.io/avatar/mamot.fr/6da5392bebcf927bbfb2ce9c2663b4a48f45f4ec780dec36a9b14143bf07b580.png",
+        "url": "https://indieweb.social/@bobmonsour"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-109418797700861124",
+      "published": "2023-06-20T13:27:12Z",
+      "wm-received": "2023-06-20T13:27:12Z",
+      "wm-id": 1687980,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/109418797700861124",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/818f762aa41f7464ba509955dde2d279f318eb0f95e495f8097e0d75c71c2437.png",
+        "url": "https://mastodon.social/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/110576541054892180#favorited-by-70439",
+      "published": "2023-06-20T15:04:50Z",
+      "wm-received": "2023-06-20T15:04:50Z",
+      "wm-id": 1688005,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110576541054892180/70439",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/bordeaux/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Šime Vidas",
+        "photo": "https://webmention.io/avatar/mamot.fr/22c5d30a7be8c07be6885efd5471496a80c8a1f50e1b668cec6326366ccf7aeb.jpg",
+        "url": "https://mastodon.social/@simevidas"
+      },
+      "url": "https://mastodon.social/@simevidas/110577541304135269",
+      "published": "2023-06-20T16:42:57",
+      "wm-received": "2023-06-20T17:11:20Z",
+      "wm-id": 1688214,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/110577514320041849/110577541346050812",
+      "wm-target": "https://nicolas-hoizey.photo/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> </p><p>&gt; \"small viewport width to font size ratio layout”</p><p>At what point is it too small? In other words, at what viewport width/font size ratio do you set the breakpoint?</p>",
+        "text": "@nhoizey > \"small viewport width to font size ratio layout”At what point is it too small? In other words, at what viewport width/font size ratio do you set the breakpoint?"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Henk Geuzinge",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/6af80e0d0245e2a68b2afbf77c962919eb52dfdce38da508a535e088148f5887.jpg",
+        "url": "https://www.flickr.com/people/37081310@N00/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52866743781/#liked-by-37081310@N00",
+      "published": "2023-06-21T05:07:17Z",
+      "wm-received": "2023-06-21T05:07:17Z",
+      "wm-id": 1688692,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/37081310@N00",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
       "wm-property": "like-of",
       "wm-private": false
     }
