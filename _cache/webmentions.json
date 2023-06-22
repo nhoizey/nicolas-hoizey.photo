@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-21T06:06:22.094Z",
+  "lastFetched": "2023-06-22T06:06:31.938Z",
   "webmentions": [
     {
       "type": "entry",
@@ -26294,6 +26294,168 @@
       "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/37081310@N00",
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hackl Bär",
+        "photo": "https://webmention.io/avatar/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://sueden.social/@hacklbaeri"
+      },
+      "url": "https://mamot.fr/@nhoizey/110582203109567652#favorited-by-109756059178766056",
+      "published": "2023-06-21T12:57:21Z",
+      "wm-received": "2023-06-21T12:57:21Z",
+      "wm-id": 1688781,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/109756059178766056",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Penie",
+        "photo": "https://webmention.io/avatar/mamot.fr/14d004fc1b29b125659f33d2fbd297ccee2d86320b230b1dbb785d8d4b689630.png",
+        "url": "https://mastodon.social/@1penie"
+      },
+      "url": "https://mamot.fr/@nhoizey/110582203109567652#favorited-by-110486822491235287",
+      "published": "2023-06-21T12:57:22Z",
+      "wm-received": "2023-06-21T12:57:22Z",
+      "wm-id": 1688782,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/110486822491235287",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "🦁 📷 Kazuky Akayashi :pawified:",
+        "photo": "https://webmention.io/avatar/mamot.fr/b3438835d6e15c573afbe3c05f5052d6d905bd9b5958b80319e8c37a3d87a2de.png",
+        "url": "https://meow.zarchbox.fr/@KazukyAkayashi"
+      },
+      "url": "https://mamot.fr/@nhoizey/110582203109567652#favorited-by-282374",
+      "published": "2023-06-21T12:57:22Z",
+      "wm-received": "2023-06-21T12:57:22Z",
+      "wm-id": 1688783,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/282374",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110582203109567652#favorited-by-109377158218702543",
+      "published": "2023-06-21T12:57:24Z",
+      "wm-received": "2023-06-21T12:57:24Z",
+      "wm-id": 1688784,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110582203109567652#favorited-by-109483621978440168",
+      "published": "2023-06-21T12:57:27Z",
+      "wm-received": "2023-06-21T12:57:27Z",
+      "wm-id": 1688785,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Anpuankhses 𓍹𓃣𓋹𓋴𓋴𓊮𓍺 :therian:",
+        "photo": "https://webmention.io/avatar/mamot.fr/29cd8cc7ed120b554db4e5db673421adb494ee885e4a845f74bbea2fdce73ff0.jpg",
+        "url": "https://mastodon.art/@Anpuankhses"
+      },
+      "url": "https://mamot.fr/@nhoizey/110582203109567652#favorited-by-109293160326294300",
+      "published": "2023-06-21T12:57:28Z",
+      "wm-received": "2023-06-21T12:57:28Z",
+      "wm-id": 1688786,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/109293160326294300",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CP93",
+        "photo": "https://webmention.io/avatar/mamot.fr/cd6fd4910bfc47e4bea2adfe471a8a5c18ad0252bc36f09ed72dbc89b7fc10f6.jpg",
+        "url": "https://mstdn.social/@CP93"
+      },
+      "url": "https://mamot.fr/@nhoizey/110582203109567652#favorited-by-109350066584662908",
+      "published": "2023-06-21T15:36:53Z",
+      "wm-received": "2023-06-21T15:36:53Z",
+      "wm-id": 1688861,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/109350066584662908",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "FotoEreignisse",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/20b9575b8c44d453a5b364b089a1622085f0fc58b45e719f783a9106480436b8.jpg",
+        "url": "https://www.flickr.com/people/192944331@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52866743781/#liked-by-192944331@N08",
+      "published": "2023-06-21T18:24:21Z",
+      "wm-received": "2023-06-21T18:24:21Z",
+      "wm-id": 1688918,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/192944331@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TheTokingTurtle",
+        "photo": "https://webmention.io/avatar/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://kbin.social/u/TheTokingTurtle"
+      },
+      "url": "https://mamot.fr/@nhoizey/110582203109567652#favorited-by-110582941348254060",
+      "published": "2023-06-21T18:39:12Z",
+      "wm-received": "2023-06-21T18:39:12Z",
+      "wm-id": 1688927,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/110582941348254060",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
       "wm-property": "like-of",
       "wm-private": false
     }
