@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-22T06:06:31.938Z",
+  "lastFetched": "2023-06-23T06:06:44.349Z",
   "webmentions": [
     {
       "type": "entry",
@@ -26456,6 +26456,114 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110582203109567652/110582941348254060",
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/lioness-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110587865542133541#favorited-by-109377158218702543",
+      "published": "2023-06-22T12:47:02Z",
+      "wm-received": "2023-06-22T12:47:02Z",
+      "wm-id": 1689110,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110587865542133541/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110587865542133541#favorited-by-109483621978440168",
+      "published": "2023-06-22T12:47:02Z",
+      "wm-received": "2023-06-22T12:47:02Z",
+      "wm-id": 1689111,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110587865542133541/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Andrew Briscoe",
+        "photo": "https://webmention.io/avatar/mamot.fr/29be6b9d3d53dccf5211168ba15141bb99663f5daec7288fce6003176ccd30ee.jpg",
+        "url": "https://mastodon.social/@andrewbriscoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/110587865542133541#favorited-by-110503",
+      "published": "2023-06-22T13:22:11Z",
+      "wm-received": "2023-06-22T13:22:11Z",
+      "wm-id": 1689122,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110587865542133541/110503",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell",
+        "photo": "https://webmention.io/avatar/mamot.fr/f1e055fa7b5749d299051665201dc9d7cc2694a52e5cf33fee0ebf43f05b9423.jpg",
+        "url": "https://photog.social/@ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/110587865542133541#favorited-by-109310382166525404",
+      "published": "2023-06-22T13:54:14Z",
+      "wm-received": "2023-06-22T13:54:14Z",
+      "wm-id": 1689131,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110587865542133541/109310382166525404",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jose Veiga",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/2f6875522623669be5e9a6d530b0616b23af2f88debcf397f6893845fda7c38f.jpg",
+        "url": "https://www.flickr.com/people/157455201@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-157455201@N04",
+      "published": "2023-06-22T14:05:36Z",
+      "wm-received": "2023-06-22T14:05:36Z",
+      "wm-id": 1689133,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/157455201@N04",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/818f762aa41f7464ba509955dde2d279f318eb0f95e495f8097e0d75c71c2437.png",
+        "url": "https://mastodon.social/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/110587865542133541#favorited-by-70439",
+      "published": "2023-06-22T14:47:38Z",
+      "wm-received": "2023-06-22T14:47:38Z",
+      "wm-id": 1689146,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110587865542133541/70439",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/empty/",
       "wm-property": "like-of",
       "wm-private": false
     }
