@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-24T06:06:05.410Z",
+  "lastFetched": "2023-06-25T06:06:31.129Z",
   "webmentions": [
     {
       "type": "entry",
@@ -26765,6 +26765,114 @@
       "wm-source": "https://brid.gy/like/flickr/38608514@N00/52861533766/198106976@N04",
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/the-walking-dead-bloodstains/",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/the-walking-dead-bloodstains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110599190201941935#favorited-by-109483621978440168",
+      "published": "2023-06-24T13:00:22Z",
+      "wm-received": "2023-06-24T13:00:22Z",
+      "wm-id": 1689909,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110599190201941935/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephant-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephant-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110599190201941935#favorited-by-109377158218702543",
+      "published": "2023-06-24T13:00:23Z",
+      "wm-received": "2023-06-24T13:00:23Z",
+      "wm-id": 1689910,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110599190201941935/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephant-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephant-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Donny",
+        "photo": "https://webmention.io/avatar/mamot.fr/b7eda689cbfde0ba13f0cf85aed95fabc7c592a50abbad42d8a4a58259402b3f.png",
+        "url": "https://mastodon.social/@dumpsterdonny"
+      },
+      "url": "https://mamot.fr/@nhoizey/110599190201941935#favorited-by-110588147268116272",
+      "published": "2023-06-24T13:00:49Z",
+      "wm-received": "2023-06-24T13:00:49Z",
+      "wm-id": 1689911,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110599190201941935/110588147268116272",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephant-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephant-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "higby",
+        "photo": "https://webmention.io/avatar/mamot.fr/21fa92a713cf6d2b960bd12c33aa9be8701f11185493096e9335fd75ab83697c.png",
+        "url": "https://indieweb.social/@higby"
+      },
+      "url": "https://mamot.fr/@nhoizey/110599190201941935#favorited-by-109446093258184274",
+      "published": "2023-06-24T15:04:44Z",
+      "wm-received": "2023-06-24T15:04:44Z",
+      "wm-id": 1689932,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110599190201941935/109446093258184274",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephant-in-maasai-mara/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/elephant-in-maasai-mara/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Si",
+        "photo": "https://webmention.io/avatar/mamot.fr/ab07e8c932945d5cb03a7b5246c0963f65f1685d1b5105934ccc54bf93e7c5a7.jpg",
+        "url": "https://mastodon.green/@notsimon"
+      },
+      "url": "https://mamot.fr/@nhoizey/110593528980839067#favorited-by-110295320420501815",
+      "published": "2023-06-24T19:17:45Z",
+      "wm-received": "2023-06-24T19:17:45Z",
+      "wm-id": 1689972,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110593528980839067/110295320420501815",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/deers/curious-red-deer-in-espace-rambouillet/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/deers/curious-red-deer-in-espace-rambouillet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mishu T",
+        "photo": "https://webmention.io/avatar/farm6.staticflickr.com/945e0b7a1a24a716ebd8af4a2c463f006b879ee1fbcaa4db97d4ece52474b43e.jpg",
+        "url": "https://www.flickr.com/people/126119333@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-126119333@N06",
+      "published": "2023-06-24T20:35:30Z",
+      "wm-received": "2023-06-24T20:35:30Z",
+      "wm-id": 1689983,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/126119333@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-property": "like-of",
       "wm-private": false
     }
