@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-25T06:06:31.129Z",
+  "lastFetched": "2023-06-26T06:06:54.906Z",
   "webmentions": [
     {
       "type": "entry",
@@ -26873,6 +26873,114 @@
       "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/126119333@N06",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110604853349168910#favorited-by-109377158218702543",
+      "published": "2023-06-25T12:48:12Z",
+      "wm-received": "2023-06-25T12:48:12Z",
+      "wm-id": 1690097,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110604853349168910/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110604853349168910#favorited-by-109483621978440168",
+      "published": "2023-06-25T12:48:12Z",
+      "wm-received": "2023-06-25T12:48:12Z",
+      "wm-id": 1690098,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110604853349168910/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "My Cat Sighs",
+        "photo": "https://webmention.io/avatar/mamot.fr/9bcd69e03a2813a657afe413a06876e39ce107b3e1ba03e9a24c2d9a578c4880.jpg",
+        "url": "https://mastodon.social/@laneybk"
+      },
+      "url": "https://mamot.fr/@nhoizey/110604853349168910#favorited-by-110589234499706741",
+      "published": "2023-06-25T12:48:14Z",
+      "wm-received": "2023-06-25T12:48:14Z",
+      "wm-id": 1690099,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110604853349168910/110589234499706741",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "பாRTHIபN 🚶‍♂️🚲 📸",
+        "photo": "https://webmention.io/avatar/mamot.fr/5555ec7366a4f016730a67615c0d3c8e04cc326490c5a1f777955bf4cb33ff21.jpg",
+        "url": "https://social.tchncs.de/@parthipan"
+      },
+      "url": "https://mamot.fr/@nhoizey/110604853349168910#favorited-by-240189",
+      "published": "2023-06-25T12:48:15Z",
+      "wm-received": "2023-06-25T12:48:15Z",
+      "wm-id": 1690100,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110604853349168910/240189",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra Bohemica 😺🏳️‍🌈🇨🇿🇪🇺",
+        "photo": "https://webmention.io/avatar/mamot.fr/a292b024879cd9176e34fe2da6b2974ea718763d184933051d0f3bade446e679.jpg",
+        "url": "https://mastodon.social/@petra_bohemica"
+      },
+      "url": "https://mamot.fr/@nhoizey/110604853349168910#favorited-by-109870405591058136",
+      "published": "2023-06-25T13:19:37Z",
+      "wm-received": "2023-06-25T13:19:37Z",
+      "wm-id": 1690102,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110604853349168910/109870405591058136",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "balssh@mastodon.social",
+        "photo": "https://webmention.io/avatar/mamot.fr/4b1254a1bcf990631ab2fa1380d5bd17631d7dcfbc1a02341820f062e8abe48c.jpg",
+        "url": "https://mastodon.social/@balssh"
+      },
+      "url": "https://mamot.fr/@nhoizey/110604853349168910#favorited-by-110604369766908871",
+      "published": "2023-06-25T13:19:37Z",
+      "wm-received": "2023-06-25T13:19:37Z",
+      "wm-id": 1690103,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110604853349168910/110604369766908871",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/civilization/",
       "wm-property": "like-of",
       "wm-private": false
     }
