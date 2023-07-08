@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-07-07T06:07:23.978Z",
+  "lastFetched": "2023-07-08T06:06:11.240Z",
   "webmentions": [
     {
       "type": "entry",
@@ -28827,6 +28827,276 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/while-waiting/",
       "repost-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/while-waiting/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-109483621978440168",
+      "published": "2023-07-07T12:52:13Z",
+      "wm-received": "2023-07-07T12:52:13Z",
+      "wm-id": 1693497,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "normshaw",
+        "photo": "https://webmention.io/avatar/mamot.fr/f5c12974fa00bb0e4a3040edd0aa33cc8b4a705005801a06709b9154bdf228f4.jpg",
+        "url": "https://newsie.social/@normshaw"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-109356067261888270",
+      "published": "2023-07-07T12:52:13Z",
+      "wm-received": "2023-07-07T12:52:13Z",
+      "wm-id": 1693498,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/109356067261888270",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peque",
+        "photo": "https://webmention.io/avatar/mamot.fr/04e4502005d88cfbc5661a86f2d858985b44943a3383dd23441b813cf82bedc9.jpg",
+        "url": "https://mastodon.social/@elpeque_29"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-109316209372726542",
+      "published": "2023-07-07T12:52:13Z",
+      "wm-received": "2023-07-07T12:52:13Z",
+      "wm-id": 1693499,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/109316209372726542",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Simply Syd 🇪🇺",
+        "photo": "https://webmention.io/avatar/mamot.fr/85aff714f3dd2977c5102fa1fd3a499f25e5d0dc51fa830a6800bc7d5a378e7c.png",
+        "url": "https://mstdn.social/@missingbrighton"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-109501240479349114",
+      "published": "2023-07-07T12:52:13Z",
+      "wm-received": "2023-07-07T12:52:13Z",
+      "wm-id": 1693500,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/109501240479349114",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-109377158218702543",
+      "published": "2023-07-07T12:52:16Z",
+      "wm-received": "2023-07-07T12:52:16Z",
+      "wm-id": 1693501,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TᴀᴄᴋᴇʀTᴀᴄᴋᴇʀ 🐰",
+        "photo": "https://webmention.io/avatar/mamot.fr/5ee56d4bbca66bcd326009760122b6b878eec40a8ad87445caadab4df6ccfa62.png",
+        "url": "https://mastodon.gamedev.place/@TackerTacker"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-109428372170761754",
+      "published": "2023-07-07T13:21:10Z",
+      "wm-received": "2023-07-07T13:21:10Z",
+      "wm-id": 1693510,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/109428372170761754",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Arnaud Malon",
+        "photo": "https://webmention.io/avatar/mamot.fr/9c5f791e9c298a7fc9cf21bbbf9f87a1e9b51d9c6329d864f78fe12d63744cba.png",
+        "url": "https://mamot.fr/@zemoko"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-244880",
+      "published": "2023-07-07T13:21:11Z",
+      "wm-received": "2023-07-07T13:21:11Z",
+      "wm-id": 1693511,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/244880",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Seth Petsching",
+        "photo": "https://webmention.io/avatar/mamot.fr/cf1daacb8a0889a4e60636d8079ebdfa584ba934809e98cd01b0342aa6d3df2d.png",
+        "url": "https://mastodon.social/@Seth_Petsching"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-110016388520291155",
+      "published": "2023-07-07T13:21:11Z",
+      "wm-received": "2023-07-07T13:21:11Z",
+      "wm-id": 1693512,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/110016388520291155",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myriad Misadventures",
+        "photo": "https://webmention.io/avatar/mamot.fr/efacae4a1053ecdd0f8388735395ea9daf30ece2a53c54b70b7b382e8ecc4481.png",
+        "url": "https://mastodon.social/@myriadmisadventures"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-110333758004704394",
+      "published": "2023-07-07T13:21:15Z",
+      "wm-received": "2023-07-07T13:21:15Z",
+      "wm-id": 1693513,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/110333758004704394",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Catherine Babault",
+        "photo": "https://webmention.io/avatar/mamot.fr/a670c7d11a7bb97f4931f63f7a90e33308db3eeeeb85669013f7950ea6d9ac45.jpg",
+        "url": "https://mstdn.ca/@CatherineBabault"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-109297572548510605",
+      "published": "2023-07-07T13:21:18Z",
+      "wm-received": "2023-07-07T13:21:18Z",
+      "wm-id": 1693514,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/109297572548510605",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kevin C. Tofel",
+        "photo": "https://webmention.io/avatar/mamot.fr/357a487cf20d647d3e2e487c244773c8bb97dab30faf400e9c7ca8d609c41a74.jpg",
+        "url": "https://hachyderm.io/@kevinctofel"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-109407380532599609",
+      "published": "2023-07-07T13:21:19Z",
+      "wm-received": "2023-07-07T13:21:19Z",
+      "wm-id": 1693515,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/109407380532599609",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "James Fine Art",
+        "photo": "https://webmention.io/avatar/mamot.fr/8fb756c89dcfa42cc9029c9cf32181a6cfd59032075d45c70d580896dafb9a20.jpg",
+        "url": "https://mastodon.art/@jamesfineart"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#reblogged-by-109355215997123454",
+      "published": "2023-07-07T13:21:20Z",
+      "wm-received": "2023-07-07T13:21:20Z",
+      "wm-id": 1693516,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/110672801585892569/109355215997123454",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jack",
+        "photo": "https://webmention.io/avatar/mamot.fr/fbcce305485af1c012620a5f960d9f64eb651e27d86814685a50478f29c12496.jpg",
+        "url": "https://pixelfed.social/maybeits_jack"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#favorited-by-110673142060938572",
+      "published": "2023-07-07T14:21:53Z",
+      "wm-received": "2023-07-07T14:21:53Z",
+      "wm-id": 1693525,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110672801585892569/110673142060938572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Saahrimei the Blue-Hearted",
+        "photo": "https://webmention.io/avatar/mamot.fr/f66ec705faeb8b87c42b25d1fc7937096dc22847ed91ff9d7dd2cc28eb77deaa.png",
+        "url": "https://universeodon.com/@Ypsilenna"
+      },
+      "url": "https://mamot.fr/@nhoizey/110672801585892569#reblogged-by-110525038345549787",
+      "published": "2023-07-07T17:03:09Z",
+      "wm-received": "2023-07-07T17:03:09Z",
+      "wm-id": 1693562,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/110672801585892569/110525038345549787",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "g m",
+        "photo": "https://webmention.io/avatar/farm1.staticflickr.com/a0d7a98805731fb19b75368179cf9a7f8349c8e6d40f3dfda5a064b55600111a.jpg",
+        "url": "https://www.flickr.com/people/146775083@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-146775083@N05",
+      "published": "2023-07-07T17:22:54Z",
+      "wm-received": "2023-07-07T17:22:54Z",
+      "wm-id": 1693565,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/146775083@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
