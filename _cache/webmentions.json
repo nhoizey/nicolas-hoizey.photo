@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-07-08T06:06:11.240Z",
+  "lastFetched": "2023-07-09T06:06:31.372Z",
   "webmentions": [
     {
       "type": "entry",
@@ -29097,6 +29097,150 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110678462613666192#favorited-by-109483621978440168",
+      "published": "2023-07-08T12:34:21Z",
+      "wm-received": "2023-07-08T12:34:21Z",
+      "wm-id": 1693776,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110678462613666192/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110678462613666192#favorited-by-109377158218702543",
+      "published": "2023-07-08T12:34:21Z",
+      "wm-received": "2023-07-08T12:34:21Z",
+      "wm-id": 1693777,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110678462613666192/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tina",
+        "photo": "https://webmention.io/avatar/mamot.fr/2551583dc5ae50b1c0cd912b8b231246b5f24faf1b741f3c7f40772377f606b6.jpg",
+        "url": "https://photog.social/@tvpin"
+      },
+      "url": "https://mamot.fr/@nhoizey/110678462613666192#favorited-by-110577782804837355",
+      "published": "2023-07-08T13:26:15Z",
+      "wm-received": "2023-07-08T13:26:15Z",
+      "wm-id": 1693794,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110678462613666192/110577782804837355",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gull (Thomas)",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a38abfc3a28c1002d37f329e60935afaaaabc1a5ef01c54a7a7fd5606bf59a7.png",
+        "url": "https://mstdn.ca/@gamergull"
+      },
+      "url": "https://mamot.fr/@nhoizey/110678462613666192#favorited-by-109604344860018263",
+      "published": "2023-07-08T13:26:18Z",
+      "wm-received": "2023-07-08T13:26:18Z",
+      "wm-id": 1693795,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110678462613666192/109604344860018263",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jason Morse",
+        "photo": "https://webmention.io/avatar/mamot.fr/95552cb9d4d38959511ab7765b1298e88063525232dcb1c52585e8dd5e27b91b.jpg",
+        "url": "https://mstdn.ca/@cloudhands"
+      },
+      "url": "https://mamot.fr/@nhoizey/110678462613666192#favorited-by-109316842776155526",
+      "published": "2023-07-08T13:26:18Z",
+      "wm-received": "2023-07-08T13:26:18Z",
+      "wm-id": 1693796,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110678462613666192/109316842776155526",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Arthur Rigaud",
+        "photo": "https://webmention.io/avatar/mamot.fr/3e33cbcdcc4458eb180d27e1bdcbe2be8ea1ca1608a2767da062b6a7e0e80cd0.jpg",
+        "url": "https://a11y.info/@arigaud_ca"
+      },
+      "url": "https://mamot.fr/@nhoizey/110678462613666192#favorited-by-109293066997502003",
+      "published": "2023-07-08T13:57:00Z",
+      "wm-received": "2023-07-08T13:57:00Z",
+      "wm-id": 1693805,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110678462613666192/109293066997502003",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vince",
+        "photo": "https://webmention.io/avatar/mamot.fr/737b7865f4b03a92082029cd50f3f98cd51ff011545b73748852f6694549e902.png",
+        "url": "https://mastodon.green/@vincent"
+      },
+      "url": "https://mamot.fr/@nhoizey/110678462613666192#favorited-by-109241526838978377",
+      "published": "2023-07-08T14:31:20Z",
+      "wm-received": "2023-07-08T14:31:20Z",
+      "wm-id": 1693811,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110678462613666192/109241526838978377",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vince",
+        "photo": "https://webmention.io/avatar/mamot.fr/737b7865f4b03a92082029cd50f3f98cd51ff011545b73748852f6694549e902.png",
+        "url": "https://mastodon.green/@vincent"
+      },
+      "url": "https://mamot.fr/@nhoizey/110678462613666192#reblogged-by-109241526838978377",
+      "published": "2023-07-08T14:31:20Z",
+      "wm-received": "2023-07-08T14:31:20Z",
+      "wm-id": 1693812,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/110678462613666192/109241526838978377",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
