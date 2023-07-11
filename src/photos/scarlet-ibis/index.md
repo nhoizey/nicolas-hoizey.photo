@@ -56,6 +56,7 @@ dimensions:
 geo:
   latitude: 45.687469166666666
   longitude: -1.1641091666666668
+  map: true
   country: France
   city: Les Mathes
 colors:
