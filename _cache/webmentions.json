@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-07-13T06:07:15.620Z",
+  "lastFetched": "2023-07-14T06:06:31.107Z",
   "webmentions": [
     {
       "type": "entry",
@@ -30237,6 +30237,78 @@
       "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/56937331@N07",
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110706776558659416#favorited-by-109483621978440168",
+      "published": "2023-07-13T12:49:02Z",
+      "wm-received": "2023-07-13T12:49:02Z",
+      "wm-id": 1695020,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110706776558659416/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110706776558659416#favorited-by-109377158218702543",
+      "published": "2023-07-13T12:49:02Z",
+      "wm-received": "2023-07-13T12:49:02Z",
+      "wm-id": 1695019,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110706776558659416/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin 📷",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/110706776558659416#favorited-by-110384238815662749",
+      "published": "2023-07-13T13:18:51Z",
+      "wm-received": "2023-07-13T13:18:51Z",
+      "wm-id": 1695026,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110706776558659416/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/110706776558659416#favorited-by-110651355078160221",
+      "published": "2023-07-13T23:12:07Z",
+      "wm-received": "2023-07-13T23:12:07Z",
+      "wm-id": 1695185,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110706776558659416/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/hippopotamus/what-are-you-waiting-for/",
       "wm-property": "like-of",
       "wm-private": false
     }
