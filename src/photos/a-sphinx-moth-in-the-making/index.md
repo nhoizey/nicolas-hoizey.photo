@@ -65,6 +65,7 @@ dimensions:
 geo:
   latitude: 45.943363055
   longitude: -1.2891611116666666
+  map: true
   country: France
   city: Saint-Pierre-d'Oléron
 colors:
