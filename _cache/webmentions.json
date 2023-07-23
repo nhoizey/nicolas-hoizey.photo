@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-07-22T06:06:23.876Z",
+  "lastFetched": "2023-07-23T06:06:07.252Z",
   "webmentions": [
     {
       "type": "entry",
@@ -32094,6 +32094,96 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110746410261809104/109294357144505913",
       "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/the-moroccan-high-atlas/",
       "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/the-moroccan-high-atlas/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mathieu LESNIAK 🇫🇷",
+        "photo": "https://webmention.io/avatar/mamot.fr/d8b2861f2f29ce8f4112d0e24b8cad3f8b8f78f417ed1c0f724eed1b9090c4c0.jpg",
+        "url": "https://toot.eskuel.net/@maverick"
+      },
+      "url": "https://mamot.fr/@nhoizey/110746410261809104#favorited-by-109269297754584131",
+      "published": "2023-07-22T10:06:31Z",
+      "wm-received": "2023-07-22T10:06:31Z",
+      "wm-id": 1697242,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110746410261809104/109269297754584131",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/the-moroccan-high-atlas/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/the-moroccan-high-atlas/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110757734089058375#favorited-by-109377158218702543",
+      "published": "2023-07-22T12:39:35Z",
+      "wm-received": "2023-07-22T12:39:35Z",
+      "wm-id": 1697263,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110757734089058375/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/follow-the-rythm/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/follow-the-rythm/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110757734089058375#favorited-by-109483621978440168",
+      "published": "2023-07-22T12:39:35Z",
+      "wm-received": "2023-07-22T12:39:35Z",
+      "wm-id": 1697262,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110757734089058375/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/follow-the-rythm/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/follow-the-rythm/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin 📷",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/110757734089058375#favorited-by-110384238815662749",
+      "published": "2023-07-22T13:07:35Z",
+      "wm-received": "2023-07-22T13:07:35Z",
+      "wm-id": 1697273,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110757734089058375/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/follow-the-rythm/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/follow-the-rythm/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Omstero",
+        "photo": "https://webmention.io/avatar/mamot.fr/9bdc1b8ba3ba3013ae2ac50580d2fb2286ef8d227fd9f7e03b7b4829727586ea.png",
+        "url": "https://mastodon.gamedev.place/@Omstero"
+      },
+      "url": "https://mamot.fr/@nhoizey/110757734089058375#favorited-by-109644419529215084",
+      "published": "2023-07-22T13:34:48Z",
+      "wm-received": "2023-07-22T13:34:48Z",
+      "wm-id": 1697281,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110757734089058375/109644419529215084",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/follow-the-rythm/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/follow-the-rythm/",
       "wm-property": "like-of",
       "wm-private": false
     }
