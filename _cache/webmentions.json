@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-07-29T06:06:32.367Z",
+  "lastFetched": "2023-07-30T06:06:16.784Z",
   "webmentions": [
     {
       "type": "entry",
@@ -33068,6 +33068,114 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110791707581845859/290444",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/occitania/cite-de-carcassonne/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/occitania/cite-de-carcassonne/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra Bohemica 😺🏳️‍🌈🇨🇿🇪🇺",
+        "photo": "https://webmention.io/avatar/mamot.fr/a292b024879cd9176e34fe2da6b2974ea718763d184933051d0f3bade446e679.jpg",
+        "url": "https://mastodon.social/@petra_bohemica"
+      },
+      "url": "https://mamot.fr/@nhoizey/110797368900330926#favorited-by-109870405591058136",
+      "published": "2023-07-29T12:35:51Z",
+      "wm-received": "2023-07-29T12:35:51Z",
+      "wm-id": 1698826,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110797368900330926/109870405591058136",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110797368900330926#favorited-by-109377158218702543",
+      "published": "2023-07-29T12:35:51Z",
+      "wm-received": "2023-07-29T12:35:51Z",
+      "wm-id": 1698825,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110797368900330926/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110797368900330926#favorited-by-109483621978440168",
+      "published": "2023-07-29T12:35:53Z",
+      "wm-received": "2023-07-29T12:35:53Z",
+      "wm-id": 1698827,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110797368900330926/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dylan",
+        "photo": "https://webmention.io/avatar/mamot.fr/038bf9dbf0e72f0e1f9774f9e947ba5c8760cba77742d633c094693e25aa425e.jpg",
+        "url": "https://pixelfed.social/Swanton"
+      },
+      "url": "https://mamot.fr/@nhoizey/110797368900330926#favorited-by-110735690450813537",
+      "published": "2023-07-29T14:28:52Z",
+      "wm-received": "2023-07-29T14:28:52Z",
+      "wm-id": 1698837,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110797368900330926/110735690450813537",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin 📷",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/110797368900330926#favorited-by-110384238815662749",
+      "published": "2023-07-29T17:24:03Z",
+      "wm-received": "2023-07-29T17:24:03Z",
+      "wm-id": 1698874,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110797368900330926/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dear Heart",
+        "photo": "https://webmention.io/avatar/mamot.fr/ed1bdd6cb588b5fc8f3b4c83b7bf64822c04d64c53e39e4b11b878dd284fa5fb.png",
+        "url": "https://mas.to/@N2Priest"
+      },
+      "url": "https://mamot.fr/@nhoizey/110797368900330926#favorited-by-109354803878055320",
+      "published": "2023-07-29T23:00:29Z",
+      "wm-received": "2023-07-29T23:00:29Z",
+      "wm-id": 1698934,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110797368900330926/109354803878055320",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/the-locomotion/",
       "wm-property": "like-of",
       "wm-private": false
     }
