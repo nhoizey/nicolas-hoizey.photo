@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-08-02T06:06:04.768Z",
+  "lastFetched": "2023-08-03T06:06:13.728Z",
   "webmentions": [
     {
       "type": "entry",
@@ -33669,6 +33669,114 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110814357630059032/110384238815662749",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/hard-manual-work-in-the-fields/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/hard-manual-work-in-the-fields/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Frank Gaughan",
+        "photo": "https://webmention.io/avatar/farm4.staticflickr.com/808a2bc9808aa0dd51aa036cd0dcbcb778eebf20777a21731a2f1885c2e08eee.jpg",
+        "url": "https://www.flickr.com/people/130692126@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-130692126@N07",
+      "published": "2023-08-02T08:22:08Z",
+      "wm-received": "2023-08-02T08:22:08Z",
+      "wm-id": 1700473,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/130692126@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110820022175855028#favorited-by-109377158218702543",
+      "published": "2023-08-02T12:56:05Z",
+      "wm-received": "2023-08-02T12:56:05Z",
+      "wm-id": 1700529,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110820022175855028/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/prendre-un-enfant-par-la-main/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/prendre-un-enfant-par-la-main/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110820022175855028#favorited-by-109483621978440168",
+      "published": "2023-08-02T12:56:05Z",
+      "wm-received": "2023-08-02T12:56:05Z",
+      "wm-id": 1700528,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110820022175855028/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/prendre-un-enfant-par-la-main/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/prendre-un-enfant-par-la-main/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "0gust1",
+        "photo": "https://webmention.io/avatar/mamot.fr/c44a9226d8f9a87123505345a39f3212e79a2b115672097907d753b35bad1ced.png",
+        "url": "https://merveilles.town/@0gust1"
+      },
+      "url": "https://mamot.fr/@nhoizey/110820022175855028#favorited-by-163764",
+      "published": "2023-08-02T12:56:07Z",
+      "wm-received": "2023-08-02T12:56:07Z",
+      "wm-id": 1700530,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110820022175855028/163764",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/prendre-un-enfant-par-la-main/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/prendre-un-enfant-par-la-main/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin 📷",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/110820022175855028#favorited-by-110384238815662749",
+      "published": "2023-08-02T18:58:09Z",
+      "wm-received": "2023-08-02T18:58:09Z",
+      "wm-id": 1700602,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110820022175855028/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/prendre-un-enfant-par-la-main/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/prendre-un-enfant-par-la-main/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Clémentine Vandenberghe ♐",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/3bc474f7ffdf7acf3fd4bd6753df8790e86ac2d093c9e916ab86bccf7731e9cd.jpg",
+        "url": "https://www.flickr.com/people/143390244@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-143390244@N07",
+      "published": "2023-08-02T22:28:12Z",
+      "wm-received": "2023-08-02T22:28:12Z",
+      "wm-id": 1700677,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/143390244@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-property": "like-of",
       "wm-private": false
     }
