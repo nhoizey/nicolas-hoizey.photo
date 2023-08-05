@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-08-04T06:06:12.349Z",
+  "lastFetched": "2023-08-05T06:06:05.334Z",
   "webmentions": [
     {
       "type": "entry",
@@ -33867,6 +33867,96 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110825682036975134/110384238815662749",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110831344631798299#favorited-by-109483621978440168",
+      "published": "2023-08-04T12:48:19Z",
+      "wm-received": "2023-08-04T12:48:19Z",
+      "wm-id": 1701227,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110831344631798299/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ldcolton",
+        "photo": "https://webmention.io/avatar/mamot.fr/e0ee65dcfa2ff9667a81cf1d35445166b27c752a5d98fbd530fb858a89c33ecd.jpg",
+        "url": "https://masto.ai/@ldcolton"
+      },
+      "url": "https://mamot.fr/@nhoizey/110831344631798299#favorited-by-109362213113446669",
+      "published": "2023-08-04T12:48:19Z",
+      "wm-received": "2023-08-04T12:48:19Z",
+      "wm-id": 1701226,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110831344631798299/109362213113446669",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110831344631798299#favorited-by-109377158218702543",
+      "published": "2023-08-04T12:48:21Z",
+      "wm-received": "2023-08-04T12:48:21Z",
+      "wm-id": 1701228,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110831344631798299/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris Coleman",
+        "photo": "https://webmention.io/avatar/mamot.fr/a73d82dc2dc9b1f25d7abac0fdd67e348d03fda78b7e6eb52edc60428d77c7f4.jpg",
+        "url": "https://mastodon.social/@Chris"
+      },
+      "url": "https://mamot.fr/@nhoizey/110831344631798299#favorited-by-129936",
+      "published": "2023-08-04T17:27:55Z",
+      "wm-received": "2023-08-04T17:27:55Z",
+      "wm-id": 1701446,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110831344631798299/129936",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin 📷",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/110831344631798299#favorited-by-110384238815662749",
+      "published": "2023-08-04T23:23:02Z",
+      "wm-received": "2023-08-04T23:23:02Z",
+      "wm-id": 1701722,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110831344631798299/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/what-are-you-staring-at/",
       "wm-property": "like-of",
       "wm-private": false
     }
