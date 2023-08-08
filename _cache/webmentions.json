@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-08-07T06:06:18.744Z",
+  "lastFetched": "2023-08-08T06:07:14.767Z",
   "webmentions": [
     {
       "type": "entry",
@@ -34523,6 +34523,258 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110837004685174014/109390022743300737",
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/larva-of-tenthredo-marginella/",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/larva-of-tenthredo-marginella/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-109483621978440168",
+      "published": "2023-08-07T13:01:43Z",
+      "wm-received": "2023-08-07T13:01:43Z",
+      "wm-id": 1702532,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-109377158218702543",
+      "published": "2023-08-07T13:01:44Z",
+      "wm-received": "2023-08-07T13:01:44Z",
+      "wm-id": 1702533,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "prozacchiwawa",
+        "photo": "https://webmention.io/avatar/mamot.fr/4b5fd349957e3fb926c010cce94e87da393538ba1c05af8b6e1046d1e1c70cd0.jpg",
+        "url": "https://functional.cafe/@prozacchiwawa"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-109321038064767366",
+      "published": "2023-08-07T14:03:34Z",
+      "wm-received": "2023-08-07T14:03:34Z",
+      "wm-id": 1702542,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/109321038064767366",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-110651355078160221",
+      "published": "2023-08-07T14:03:34Z",
+      "wm-received": "2023-08-07T14:03:34Z",
+      "wm-id": 1702543,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Atomito Radiactivo",
+        "photo": "https://webmention.io/avatar/mamot.fr/834e29fe356fc6bb484b80c84bd49138ab3b95dfdc984a9eb317460d2f45602b.jpg",
+        "url": "https://universeodon.com/@AtomitoRadiactivo"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-109443076940209280",
+      "published": "2023-08-07T14:03:36Z",
+      "wm-received": "2023-08-07T14:03:36Z",
+      "wm-id": 1702544,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/109443076940209280",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "prozacchiwawa",
+        "photo": "https://webmention.io/avatar/mamot.fr/4b5fd349957e3fb926c010cce94e87da393538ba1c05af8b6e1046d1e1c70cd0.jpg",
+        "url": "https://functional.cafe/@prozacchiwawa"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#reblogged-by-109321038064767366",
+      "published": "2023-08-07T14:03:38Z",
+      "wm-received": "2023-08-07T14:03:38Z",
+      "wm-id": 1702545,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/110848331423442757/109321038064767366",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Arnaud Malon",
+        "photo": "https://webmention.io/avatar/mamot.fr/9c5f791e9c298a7fc9cf21bbbf9f87a1e9b51d9c6329d864f78fe12d63744cba.png",
+        "url": "https://mamot.fr/@zemoko"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-244880",
+      "published": "2023-08-07T15:41:37Z",
+      "wm-received": "2023-08-07T15:41:37Z",
+      "wm-id": 1702570,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/244880",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Johannes Odland",
+        "photo": "https://webmention.io/avatar/mamot.fr/c3c06afa10b5412129d680ea0b1561f184d6187d1985c0f1eaf21a6eb82c1cb0.png",
+        "url": "https://front-end.social/@johannes"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-109546142772858834",
+      "published": "2023-08-07T16:10:10Z",
+      "wm-received": "2023-08-07T16:10:10Z",
+      "wm-id": 1702575,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/109546142772858834",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Snail Wizard",
+        "photo": "https://webmention.io/avatar/mamot.fr/e367b5e31c1d33a3760072647b9acad2c65ad9d6b517386997c103051fc8e0ca.png",
+        "url": "https://sunny.garden/@thecalchemist"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-110683271468425210",
+      "published": "2023-08-07T16:10:10Z",
+      "wm-received": "2023-08-07T16:10:10Z",
+      "wm-id": 1702576,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/110683271468425210",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lothar Heller",
+        "photo": "https://webmention.io/avatar/farm5.staticflickr.com/86e4e0cbf2ba44d2b99392625f1b0cb4a364f8b06f5e8e45658b576e75171506.jpg",
+        "url": "https://www.flickr.com/people/119084734@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52866743781/#liked-by-119084734@N04",
+      "published": "2023-08-07T17:31:08Z",
+      "wm-received": "2023-08-07T17:31:08Z",
+      "wm-id": 1702594,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/119084734@N04",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paul",
+        "photo": "https://webmention.io/avatar/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://fosstodon.org/@mrapplegate"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-109385206308732176",
+      "published": "2023-08-07T19:42:24Z",
+      "wm-received": "2023-08-07T19:42:24Z",
+      "wm-id": 1702625,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/109385206308732176",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TansterInJakarta (she/her)",
+        "photo": "https://webmention.io/avatar/mamot.fr/4cf229371db216b86ad47d120068ef1ee1ee5f39c3e8dc40b280bc08c61baa7e.jpg",
+        "url": "https://mastodonapp.uk/@Tanster1402"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-109328495656309368",
+      "published": "2023-08-08T00:55:37Z",
+      "wm-received": "2023-08-08T00:55:37Z",
+      "wm-id": 1702689,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/109328495656309368",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TansterInJakarta (she/her)",
+        "photo": "https://webmention.io/avatar/mamot.fr/4cf229371db216b86ad47d120068ef1ee1ee5f39c3e8dc40b280bc08c61baa7e.jpg",
+        "url": "https://mastodonapp.uk/@Tanster1402"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#reblogged-by-109328495656309368",
+      "published": "2023-08-08T00:55:38Z",
+      "wm-received": "2023-08-08T00:55:38Z",
+      "wm-id": 1702690,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/110848331423442757/109328495656309368",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DuckDuckGPT :verified_gold:",
+        "photo": "https://webmention.io/avatar/mamot.fr/c64fadb81bd46110c67bf685f91907b5a1c02d7997cf4104ad79e6fbd9134d80.png",
+        "url": "https://technodon.org/@duckduckgpt"
+      },
+      "url": "https://mamot.fr/@nhoizey/110848331423442757#favorited-by-109876407639697841",
+      "published": "2023-08-08T05:05:16Z",
+      "wm-received": "2023-08-08T05:05:16Z",
+      "wm-id": 1702759,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110848331423442757/109876407639697841",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/biohazard/",
       "wm-property": "like-of",
       "wm-private": false
     }
