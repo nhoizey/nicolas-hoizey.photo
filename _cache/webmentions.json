@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-08-09T06:06:15.076Z",
+  "lastFetched": "2023-08-10T06:06:15.114Z",
   "webmentions": [
     {
       "type": "entry",
@@ -34865,6 +34865,114 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110853993254439206/109728233752474392",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110859656964521811#favorited-by-109377158218702543",
+      "published": "2023-08-09T12:59:00Z",
+      "wm-received": "2023-08-09T12:59:00Z",
+      "wm-id": 1703324,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110859656964521811/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Iza ❤️‍🔥 :manjaro:",
+        "photo": "https://webmention.io/avatar/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://fosstodon.org/@Amaranth"
+      },
+      "url": "https://mamot.fr/@nhoizey/110859656964521811#favorited-by-109311338826183776",
+      "published": "2023-08-09T12:59:00Z",
+      "wm-received": "2023-08-09T12:59:00Z",
+      "wm-id": 1703323,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110859656964521811/109311338826183776",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "graceinnyc",
+        "photo": "https://webmention.io/avatar/mamot.fr/e2458f9bc7295e9283e0b177092d5b42fd2ea54c3c3bed81f6937f175522ea4b.jpg",
+        "url": "https://mstdn.social/@graceinnyc"
+      },
+      "url": "https://mamot.fr/@nhoizey/110859656964521811#favorited-by-109368102122431960",
+      "published": "2023-08-09T12:59:00Z",
+      "wm-received": "2023-08-09T12:59:00Z",
+      "wm-id": 1703322,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110859656964521811/109368102122431960",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carina",
+        "photo": "https://webmention.io/avatar/mamot.fr/8033c53133fd1fa82bf470280b47fc04e852ae95dfd200f61caf81b9afa901bc.png",
+        "url": "https://mstdn.social/@carina033"
+      },
+      "url": "https://mamot.fr/@nhoizey/110859656964521811#favorited-by-109520925450117452",
+      "published": "2023-08-09T12:59:02Z",
+      "wm-received": "2023-08-09T12:59:02Z",
+      "wm-id": 1703325,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110859656964521811/109520925450117452",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110859656964521811#favorited-by-109483621978440168",
+      "published": "2023-08-09T12:59:03Z",
+      "wm-received": "2023-08-09T12:59:03Z",
+      "wm-id": 1703326,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110859656964521811/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Penie 🕊️",
+        "photo": "https://webmention.io/avatar/mamot.fr/e58b5cb55a2253d3947658dcf5cfdf04edc6983c65cb6164687ef554fbdd0c20.jpg",
+        "url": "https://mastodon.social/@1penie"
+      },
+      "url": "https://mamot.fr/@nhoizey/110859656964521811#favorited-by-110486822491235287",
+      "published": "2023-08-09T12:59:06Z",
+      "wm-received": "2023-08-09T12:59:06Z",
+      "wm-id": 1703327,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110859656964521811/110486822491235287",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/yvelines/saint-remy-l-honore/down-to-the-sky/",
       "wm-property": "like-of",
       "wm-private": false
     }
