@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-08-11T06:06:13.075Z",
+  "lastFetched": "2023-08-12T06:05:55.219Z",
   "webmentions": [
     {
       "type": "entry",
@@ -35118,6 +35118,186 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h/ploumanac-h-b-and-w/",
       "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h/ploumanac-h-b-and-w/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Andrei Torres",
+        "photo": "https://webmention.io/avatar/mamot.fr/c1dd234c05d83554dae9bbcb2125e9f774b830aabaa540d046d15695f384189d.png",
+        "url": "https://mastodon.sdf.org/@andreitorres"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-109314687841166452",
+      "published": "2023-08-11T12:41:59Z",
+      "wm-received": "2023-08-11T12:41:59Z",
+      "wm-id": 1703819,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/109314687841166452",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-109483621978440168",
+      "published": "2023-08-11T12:41:59Z",
+      "wm-received": "2023-08-11T12:41:59Z",
+      "wm-id": 1703820,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-109377158218702543",
+      "published": "2023-08-11T12:41:59Z",
+      "wm-received": "2023-08-11T12:41:59Z",
+      "wm-id": 1703821,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Shibanarchiste :verified:🏳️‍⚧️",
+        "photo": "https://webmention.io/avatar/mamot.fr/37f2a3d8836ccd208017ac82ee09e1bf0f10978783f23a7b7c2fb678adcb3488.png",
+        "url": "https://piaille.fr/@Shibanarchiste"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-109290409438343847",
+      "published": "2023-08-11T12:42:02Z",
+      "wm-received": "2023-08-11T12:42:02Z",
+      "wm-id": 1703822,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/109290409438343847",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Shibanarchiste :verified:🏳️‍⚧️",
+        "photo": "https://webmention.io/avatar/mamot.fr/37f2a3d8836ccd208017ac82ee09e1bf0f10978783f23a7b7c2fb678adcb3488.png",
+        "url": "https://piaille.fr/@Shibanarchiste"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#reblogged-by-109290409438343847",
+      "published": "2023-08-11T12:42:04Z",
+      "wm-received": "2023-08-11T12:42:04Z",
+      "wm-id": 1703823,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/110870979887518672/109290409438343847",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dylan",
+        "photo": "https://webmention.io/avatar/mamot.fr/038bf9dbf0e72f0e1f9774f9e947ba5c8760cba77742d633c094693e25aa425e.jpg",
+        "url": "https://pixelfed.social/Swanton"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-110735690450813537",
+      "published": "2023-08-11T13:42:35Z",
+      "wm-received": "2023-08-11T13:42:35Z",
+      "wm-id": 1703837,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/110735690450813537",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jaime Herazo",
+        "photo": "https://webmention.io/avatar/mamot.fr/e09b9c3373d87b5ff3a07872aef15f1c68998ad74ce440c13e19d9379bff6b62.jpg",
+        "url": "https://mastodon.ie/@jherazob"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-110572950990444493",
+      "published": "2023-08-11T13:42:35Z",
+      "wm-received": "2023-08-11T13:42:35Z",
+      "wm-id": 1703838,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/110572950990444493",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Muzukun",
+        "photo": "https://webmention.io/avatar/mamot.fr/349c3725e454b46920d0f0ada3afbb5f35aeefc8c24f612bbb16c0f79e8fb4c2.png",
+        "url": "https://meow.social/@Muzukun"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-109525114694001884",
+      "published": "2023-08-11T14:17:51Z",
+      "wm-received": "2023-08-11T14:17:51Z",
+      "wm-id": 1703842,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/109525114694001884",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "thanks4thefish",
+        "photo": "https://webmention.io/avatar/mamot.fr/17e0b29c6e2d9515d193fda96086773b7527d146fc3469bba9ac97ae779dc2db.png",
+        "url": "https://universeodon.com/@thanks4thefish"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-110511093033311142",
+      "published": "2023-08-11T15:16:52Z",
+      "wm-received": "2023-08-11T15:16:52Z",
+      "wm-id": 1703850,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/110511093033311142",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "IMcPwn",
+        "photo": "https://webmention.io/avatar/mamot.fr/75ebb692594feadfcf32f6e94996bbc8254ef925444925e3e582888ca6411f36.png",
+        "url": "https://infosec.exchange/@IMcPwn"
+      },
+      "url": "https://mamot.fr/@nhoizey/110870979887518672#favorited-by-109552632641452133",
+      "published": "2023-08-11T20:36:00Z",
+      "wm-received": "2023-08-11T20:36:00Z",
+      "wm-id": 1703890,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110870979887518672/109552632641452133",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/shy-scarlet-macaw/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
