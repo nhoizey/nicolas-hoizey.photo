@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-08-16T06:06:28.293Z",
+  "lastFetched": "2023-08-17T06:06:06.066Z",
   "webmentions": [
     {
       "type": "entry",
@@ -35901,6 +35901,60 @@
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110893629147135793/110838900094683670",
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/arachnids/spiders/red-legged-golden-orb-weaver-spider/",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/arachnids/spiders/red-legged-golden-orb-weaver-spider/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110899291681571102#favorited-by-109483621978440168",
+      "published": "2023-08-16T12:43:48Z",
+      "wm-received": "2023-08-16T12:43:48Z",
+      "wm-id": 1705451,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110899291681571102/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/oceania/new-caledonia/le-roof/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/oceania/new-caledonia/le-roof/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110899291681571102#favorited-by-109377158218702543",
+      "published": "2023-08-16T12:43:48Z",
+      "wm-received": "2023-08-16T12:43:48Z",
+      "wm-id": 1705450,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110899291681571102/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/oceania/new-caledonia/le-roof/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/oceania/new-caledonia/le-roof/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mike Graphy",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/d7b6af12364e5b9a8abea0000ac70984a0ff8cd200253e38992aa8613699afe7.jpg",
+        "url": "https://www.flickr.com/people/149952532@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52866743781/#liked-by-149952532@N06",
+      "published": "2023-08-16T23:12:02Z",
+      "wm-received": "2023-08-16T23:12:02Z",
+      "wm-id": 1705701,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/149952532@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
       "wm-property": "like-of",
       "wm-private": false
     }
