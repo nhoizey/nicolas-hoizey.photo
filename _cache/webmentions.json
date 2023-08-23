@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-08-22T06:06:25.294Z",
+  "lastFetched": "2023-08-23T06:06:29.248Z",
   "webmentions": [
     {
       "type": "entry",
@@ -37251,6 +37251,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-spotted-woodpecker/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-spotted-woodpecker/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110933266207605253#favorited-by-109483621978440168",
+      "published": "2023-08-22T13:02:18Z",
+      "wm-received": "2023-08-22T13:02:18Z",
+      "wm-id": 1707769,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110933266207605253/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/the-many-faces-of-iron-man/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/the-many-faces-of-iron-man/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/110933266207605253#favorited-by-109377158218702543",
+      "published": "2023-08-22T13:02:18Z",
+      "wm-received": "2023-08-22T13:02:18Z",
+      "wm-id": 1707768,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110933266207605253/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/the-many-faces-of-iron-man/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/the-many-faces-of-iron-man/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin 📷",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/110933266207605253#favorited-by-110384238815662749",
+      "published": "2023-08-22T22:24:23Z",
+      "wm-received": "2023-08-22T22:24:23Z",
+      "wm-id": 1708027,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/110933266207605253/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/the-many-faces-of-iron-man/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/the-many-faces-of-iron-man/",
       "wm-property": "like-of",
       "wm-private": false
     }
