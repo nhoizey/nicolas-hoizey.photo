@@ -1,3 +1,0 @@
----
-title: Loir-et-Cher
----
