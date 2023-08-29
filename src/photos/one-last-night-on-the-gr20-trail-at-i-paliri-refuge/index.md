@@ -15,24 +15,37 @@ tags:
   - Europe
   - evening
   - France
+  - GR
+  - GR footpath
+  - GR20
+  - grande randonnée
+  - hiking
   - I Paliri
   - I Paliri refuge
+  - itinéraire balisé
   - landscape
+  - long trail
   - montagne
   - mountain
   - paysage
+  - randonnée
+  - randonnée pédestre
+  - sentier de grande randonnée
   - soir
   - soleil
+  - sport
   - sun
   - sunset
   - tent
   - tente
+  - walking trail
 dimensions:
   width: 2007
   height: 1110
 geo:
   latitude: 41.79449083666667
   longitude: 9.259606416666667
+  map: true
 colors:
   vibrant: 74 74 181
   darkVibrant: 38 38 94

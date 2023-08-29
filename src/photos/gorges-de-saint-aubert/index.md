@@ -18,7 +18,14 @@ tags:
   - forêt
   - France
   - Gorges de Saint-Aubert
+  - GR
+  - GR footpath
+  - GR34
+  - grande randonnée
   - green
+  - hiking
+  - itinéraire balisé
+  - long trail
   - Norman Switzerland
   - Normandie
   - Normandy
@@ -26,13 +33,18 @@ tags:
   - peaceful
   - plant
   - Putanges-le-Lac
+  - randonnée
+  - randonnée pédestre
   - river
   - rivière
   - Saint-Aubert-sur-Orne
+  - sentier de grande randonnée
+  - sport
   - Suisse normande
   - tree
   - végétal
   - vert
+  - walking trail
 settings:
   focal_length: 11.3
   focal_length_35mm: 55
@@ -45,6 +57,7 @@ dimensions:
 geo:
   latitude: 48.788003368333335
   longitude: -0.30291813333333334
+  map: true
   country: France
   city: Putanges-le-Lac
 colors:
