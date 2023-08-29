@@ -14,8 +14,10 @@ tags:
   - Europa
   - Europe
   - evening
+  - Fra Li Monti
   - France
   - GR
+  - GR 20
   - GR footpath
   - GR20
   - grande randonnée
@@ -46,6 +48,8 @@ geo:
   latitude: 41.79449083666667
   longitude: 9.259606416666667
   map: true
+  country: France
+  city: Bavella
 colors:
   vibrant: 74 74 181
   darkVibrant: 38 38 94
