@@ -53,8 +53,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 49.699535311666665
-  longitude: 0.18267743666666666
+  latitude: 49.699640816666665
+  longitude: 0.18258245666666667
   map: true
   country: France
   city: Étretat

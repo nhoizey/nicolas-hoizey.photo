@@ -3654,7 +3654,7 @@
       "DigitalCreationTime": "132200",
       "Byline": "Nicolas Hoizey",
       "City": "Ãtretat",
-      "State": "Normandie",
+      "State": "Seine-Maritime",
       "CountryCode": "FR",
       "Country": "France",
       "CopyrightNotice": "Nicolas Hoizey",
@@ -3664,25 +3664,24 @@
       "FNumber": 2.8,
       "ISO": 100,
       "DateTimeOriginal": "2013-07-28T11:22:00.000Z",
-      "OffsetTime": "+01:00",
+      "OffsetTime": "+02:00",
       "FocalLength": 34,
       "LensModel": "EF24-70mm f/2.8L USM",
       "GPSVersionID": "2.2.0.0",
       "GPSLatitudeRef": "N",
       "GPSLatitude": [
         49,
-        41.971,
+        41.9548082,
         0
       ],
       "GPSLongitudeRef": "E",
       "GPSLongitude": [
         0,
-        10.9583333,
+        10.9806752,
         0
       ],
-      "GPSAltitude": 22.2707,
-      "latitude": 49.69951666666667,
-      "longitude": 0.18263888833333333
+      "latitude": 49.69924680333333,
+      "longitude": 0.18301125333333335
     },
     "lqip": "data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAADQDQCdASpkAJYAP3Gqxly7v7+sLNUrO/AuCWNuiIksBPBWRSTbobH4EssbGFg7/8qritr+kUHy2/a6UazNskJHekKYDhJC9DhimHHHVbKd59jfvufkPBVy7bv4FIG1HlrWPag73ES2rXxXj9amnwS+CoiUXtCBgAD+5wxWTYEEpOIQ3q41FjJ3OJ8uJe4tniAHyFJSPHYwkc1G7a0kb322xIUosfQyiSKnr0uPtP/bEA62EQpk290KGQfsXdb/rOFI+kLWhbSuJCBzHUQkpoiZrAxFBo9aaZmB+AHQkJ/ZBCPQTb+9GQQoaapyP3UQ2Kebpa8rN7N53HT1SVsms7ewdECNIoxFRFrDxie79SA/2abYYpuhuJRDqxU4Ux9RFlrdbPp1jtpshAiVX7tMi3AVxZCCH7OFgypJoyxXwCYOamosYxctI1U6xYl/I74RHNy5bdHkD6dZ49p9YegWRwGBY7SG07emngeIf15nZhMNS+RLX6+LequHjkDBSuksnu3qAw+KbENxPWDxIqngixgJv8iuuFd0oIQlE47+0A+aClb3DJNTMmJJ9rKSqPhREh7gO6EfMLh86dRvINk7IQNRbIu9YanAAAA="
   },
@@ -28143,17 +28142,17 @@
       "GPSLatitudeRef": "N",
       "GPSLatitude": [
         49,
-        41.9721187,
+        41.978449,
         0
       ],
       "GPSLongitudeRef": "E",
       "GPSLongitude": [
         0,
-        10.9606462,
+        10.9549474,
         0
       ],
-      "latitude": 49.699535311666665,
-      "longitude": 0.18267743666666666
+      "latitude": 49.699640816666665,
+      "longitude": 0.18258245666666667
     },
     "dimensions": {
       "width": 3500,
