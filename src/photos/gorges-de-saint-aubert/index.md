@@ -19,6 +19,8 @@ tags:
   - France
   - Gorges de Saint-Aubert
   - GR
+  - GR 34
+  - GR de Pays Tour de la Suisse normande
   - GR footpath
   - GR34
   - grande randonnée
@@ -42,6 +44,7 @@ tags:
   - sport
   - Suisse normande
   - tree
+  - TSN
   - végétal
   - vert
   - walking trail
