@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-09-16T06:06:39.613Z",
+  "lastFetched": "2023-09-17T06:06:30.036Z",
   "webmentions": [
     {
       "type": "entry",
@@ -45369,6 +45369,44 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/mangrove-tree-in-south-new-caledonia/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/mangrove-tree-in-south-new-caledonia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111074821735618858#favorited-by-109483621978440168",
+      "published": "2023-09-16T19:13:16Z",
+      "wm-received": "2023-09-16T19:13:16Z",
+      "wm-id": 1717368,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111074821735618858/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111074821735618858#favorited-by-109377158218702543",
+      "published": "2023-09-16T19:13:16Z",
+      "wm-received": "2023-09-16T19:13:16Z",
+      "wm-id": 1717367,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111074821735618858/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
       "wm-property": "like-of",
       "wm-private": false
     }
