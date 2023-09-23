@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-09-22T06:06:32.733Z",
+  "lastFetched": "2023-09-23T06:06:03.707Z",
   "webmentions": [
     {
       "type": "entry",
@@ -46262,6 +46262,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TᴀᴄᴋᴇʀTᴀᴄᴋᴇʀ ????",
+        "photo": "https://webmention.io/avatar/mamot.fr/5ee56d4bbca66bcd326009760122b6b878eec40a8ad87445caadab4df6ccfa62.png",
+        "url": "https://mastodon.gamedev.place/@TackerTacker"
+      },
+      "url": "https://mamot.fr/@nhoizey/111108797440626509#favorited-by-109428372170761754",
+      "published": "2023-09-22T14:01:46Z",
+      "wm-received": "2023-09-22T14:01:46Z",
+      "wm-id": 1719686,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111108797440626509/109428372170761754",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/waiting-for-the-high-tide/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/waiting-for-the-high-tide/",
       "wm-property": "like-of",
       "wm-private": false
     }
