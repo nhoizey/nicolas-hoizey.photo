@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-09-23T06:06:03.707Z",
+  "lastFetched": "2023-09-24T06:06:15.874Z",
   "webmentions": [
     {
       "type": "entry",
@@ -46281,6 +46281,44 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/waiting-for-the-high-tide/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/waiting-for-the-high-tide/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mark H",
+        "photo": "https://webmention.io/avatar/mamot.fr/da6f94178d37c6924fad5fb199a2a16c66585d0c3c61fb872ae72aa3170cae8e.png",
+        "url": "https://mstdn.social/@neonbubble"
+      },
+      "url": "https://mamot.fr/@nhoizey/111114458162417831#favorited-by-109316326319570534",
+      "published": "2023-09-23T12:55:01Z",
+      "wm-received": "2023-09-23T12:55:01Z",
+      "wm-id": 1719843,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111114458162417831/109316326319570534",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/a-view-from-the-hong-kong-avenue-of-stars/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/a-view-from-the-hong-kong-avenue-of-stars/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Axel Beckert ⌨???????????????? XTaran",
+        "photo": "https://webmention.io/avatar/mamot.fr/6427e25c34bcc193440e958e93579868ccca8d0d478be5c10f94be30be9465f8.jpg",
+        "url": "https://chaos.social/@xtaran"
+      },
+      "url": "https://mamot.fr/@nhoizey/111114458162417831#favorited-by-234885",
+      "published": "2023-09-23T12:55:01Z",
+      "wm-received": "2023-09-23T12:55:01Z",
+      "wm-id": 1719842,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111114458162417831/234885",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/a-view-from-the-hong-kong-avenue-of-stars/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/a-view-from-the-hong-kong-avenue-of-stars/",
       "wm-property": "like-of",
       "wm-private": false
     }
