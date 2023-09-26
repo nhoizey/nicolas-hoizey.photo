@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-09-25T06:06:59.024Z",
+  "lastFetched": "2023-09-26T06:06:50.618Z",
   "webmentions": [
     {
       "type": "entry",
@@ -46586,6 +46586,25 @@
       "wm-protocol": "webmention",
       "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/kaleidoscope-house/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "gabriela pascucci",
+        "photo": "https://webmention.io/avatar/farm9.staticflickr.com/23a8b2500ae960194696a40a6e1e79ab1cc0ce1c6da957f26bacea54907018b3.jpg",
+        "url": "https://www.flickr.com/people/131308317@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-131308317@N05",
+      "published": "2023-09-26T00:41:01Z",
+      "wm-received": "2023-09-26T00:41:01Z",
+      "wm-id": 1720689,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/131308317@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
