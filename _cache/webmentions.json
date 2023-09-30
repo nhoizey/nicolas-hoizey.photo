@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-09-29T06:06:30.518Z",
+  "lastFetched": "2023-09-30T06:06:23.231Z",
   "webmentions": [
     {
       "type": "entry",
@@ -46965,6 +46965,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra Bohemica ????????️‍⚧️ ????️‍????????????",
+        "photo": "https://webmention.io/avatar/mamot.fr/6fb33991d31eade3b2436ef4bcdebacbbaebf4695f5d3dd4164c00fa65ea9d62.jpg",
+        "url": "https://mastodon.social/@petra_bohemica"
+      },
+      "url": "https://mamot.fr/@nhoizey/111148433770890774#favorited-by-109870405591058136",
+      "published": "2023-09-29T13:41:25Z",
+      "wm-received": "2023-09-29T13:41:25Z",
+      "wm-id": 1721585,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111148433770890774/109870405591058136",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/calvados/le-galatee-sans-voie-lactee/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/calvados/le-galatee-sans-voie-lactee/",
       "wm-property": "like-of",
       "wm-private": false
     }
