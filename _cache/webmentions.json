@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-01T06:06:07.793Z",
+  "lastFetched": "2023-10-02T06:07:12.330Z",
   "webmentions": [
     {
       "type": "entry",
@@ -47307,6 +47307,120 @@
       "wm-received": "2023-10-01T05:24:24Z",
       "wm-id": 1722138,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111154094472034329/109424796302051437",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wild Birds of Heaven",
+        "photo": "https://webmention.io/avatar/mamot.fr/a8df3114ef44ee63faebe53d7a1832ae65998b8ac4c56bca305f8d6df779cb9b.jpg",
+        "url": "https://pixelfed.social/wildbirdsheaven"
+      },
+      "url": "https://mamot.fr/@nhoizey/111154094472034329#favorited-by-110945327874019269",
+      "published": "2023-10-01T06:21:28Z",
+      "wm-received": "2023-10-01T06:21:28Z",
+      "wm-id": 1722143,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111154094472034329/110945327874019269",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marjamjars :mastoart:",
+        "photo": "https://webmention.io/avatar/mamot.fr/79c47b8b2ff78a2aa650ade5262fa0274d8dd66c22c95b60f04c46d3b5700b03.jpg",
+        "url": "https://mastodon.art/@Marjamjars"
+      },
+      "url": "https://mamot.fr/@nhoizey/111154094472034329#favorited-by-109262558594689817",
+      "published": "2023-10-01T10:47:31Z",
+      "wm-received": "2023-10-01T10:47:31Z",
+      "wm-id": 1722186,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111154094472034329/109262558594689817",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hugo",
+        "photo": "https://webmention.io/avatar/mamot.fr/c0716cc3d40b4f7891576369dcdd6fecf74b77aab9bbadefbae63d93d3b67446.jpg",
+        "url": "https://social.dev-wiki.de/@Hugo"
+      },
+      "url": "https://mamot.fr/@nhoizey/111159757356167772#favorited-by-109551919021400692",
+      "published": "2023-10-01T13:21:10Z",
+      "wm-received": "2023-10-01T13:21:10Z",
+      "wm-id": 1722205,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111159757356167772/109551919021400692",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "scott",
+        "photo": "https://webmention.io/avatar/mamot.fr/8d3f4948d67b6e8eba560e55d48b0f37ad933a1b8ad24dbf4cdb5f0f79a0c7dd.jpg",
+        "url": "https://pixelfed.social/scottmc"
+      },
+      "url": "https://mamot.fr/@nhoizey/111159757356167772#favorited-by-110876689421862091",
+      "published": "2023-10-01T13:55:41Z",
+      "wm-received": "2023-10-01T13:55:41Z",
+      "wm-id": 1722211,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111159757356167772/110876689421862091",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stephen",
+        "photo": "https://webmention.io/avatar/mamot.fr/493cc2a6247b76d76f60c6c6c1d8435d7e9e25323b9ef1e30669561069c14597.jpg",
+        "url": "https://fedinerds.net/@stephen"
+      },
+      "url": "https://mamot.fr/@nhoizey/111154094472034329#favorited-by-109476087199743865",
+      "published": "2023-10-01T16:53:35Z",
+      "wm-received": "2023-10-01T16:53:35Z",
+      "wm-id": 1722278,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111154094472034329/109476087199743865",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vadim aka t-maker",
+        "photo": "https://webmention.io/avatar/mamot.fr/b2973bc2ec854c7d9cd5a7bb230c26b58a061caad01df09e5e42926d25e59faa.jpg",
+        "url": "https://body.social/@vadim"
+      },
+      "url": "https://mamot.fr/@nhoizey/111154094472034329#favorited-by-110169357916746098",
+      "published": "2023-10-01T18:18:58Z",
+      "wm-received": "2023-10-01T18:18:58Z",
+      "wm-id": 1722311,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111154094472034329/110169357916746098",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/rome/vatican-city/double-helix/",
