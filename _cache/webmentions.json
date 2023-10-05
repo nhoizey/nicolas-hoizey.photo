@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-04T06:06:31.652Z",
+  "lastFetched": "2023-10-05T06:06:33.642Z",
   "webmentions": [
     {
       "type": "entry",
@@ -47693,6 +47693,101 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/the-tour/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/the-tour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pflege42",
+        "photo": "https://webmention.io/avatar/mamot.fr/8dff38bc17eb33d2979db06097b6b16cf8522b55c57a8e17fcdad744af2dcef8.jpg",
+        "url": "https://hostsharing.coop/@Pflege42"
+      },
+      "url": "https://mamot.fr/@nhoizey/111171083870143785#favorited-by-109618558156631132",
+      "published": "2023-10-04T08:45:35Z",
+      "wm-received": "2023-10-04T08:45:35Z",
+      "wm-id": 1723216,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111171083870143785/109618558156631132",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/the-tour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/the-tour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111176746908225227#favorited-by-109377158218702543",
+      "published": "2023-10-04T12:59:08Z",
+      "wm-received": "2023-10-04T12:59:08Z",
+      "wm-id": 1723262,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111176746908225227/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "providenz",
+        "photo": "https://webmention.io/avatar/mamot.fr/30fedb5b8f58092eec93c8c1f56c2f555288cfd5e2f3256d13dc4327e8aea47f.jpg",
+        "url": "https://social.targaryen.house/@providenz"
+      },
+      "url": "https://mamot.fr/@nhoizey/111176746908225227#favorited-by-107875783680138137",
+      "published": "2023-10-04T13:29:08Z",
+      "wm-received": "2023-10-04T13:29:08Z",
+      "wm-id": 1723271,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111176746908225227/107875783680138137",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111176746908225227#favorited-by-110651355078160221",
+      "published": "2023-10-04T15:29:57Z",
+      "wm-received": "2023-10-04T15:29:57Z",
+      "wm-id": 1723316,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111176746908225227/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wild Birds of Heaven",
+        "photo": "https://webmention.io/avatar/mamot.fr/a8df3114ef44ee63faebe53d7a1832ae65998b8ac4c56bca305f8d6df779cb9b.jpg",
+        "url": "https://pixelfed.social/wildbirdsheaven"
+      },
+      "url": "https://mamot.fr/@nhoizey/111176746908225227#favorited-by-110945327874019269",
+      "published": "2023-10-04T16:02:28Z",
+      "wm-received": "2023-10-04T16:02:28Z",
+      "wm-id": 1723325,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111176746908225227/110945327874019269",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
       "wm-property": "like-of",
       "wm-private": false
     }
