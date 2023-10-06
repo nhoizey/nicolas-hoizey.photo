@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-05T06:06:33.642Z",
+  "lastFetched": "2023-10-06T06:06:45.442Z",
   "webmentions": [
     {
       "type": "entry",
@@ -47788,6 +47788,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/kilchurn-castle/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Khalid ⚡",
+        "photo": "https://webmention.io/avatar/mamot.fr/9d191e9dfa9c23d3abdbfad7c259611817409c14773a87a6049def16ddcb1a3e.gif",
+        "url": "https://mastodon.social/@khalidabuhakmeh"
+      },
+      "url": "https://mamot.fr/@nhoizey/111182409139204188#favorited-by-109246258669325217",
+      "published": "2023-10-05T13:14:27Z",
+      "wm-received": "2023-10-05T13:14:27Z",
+      "wm-id": 1723639,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111182409139204188/109246258669325217",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/leslie/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/leslie/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carl Johnson",
+        "photo": "https://webmention.io/avatar/mamot.fr/1d566fbe23deab4affac526e541590c095c1429b9fb235fdc615e4ce64bb60c0.png",
+        "url": "https://mastodon.sdf.org/@cjonthehudson"
+      },
+      "url": "https://mamot.fr/@nhoizey/111182409139204188#favorited-by-109265086675070985",
+      "published": "2023-10-05T13:14:27Z",
+      "wm-received": "2023-10-05T13:14:27Z",
+      "wm-id": 1723638,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111182409139204188/109265086675070985",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/leslie/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/leslie/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Smoke & Mirrors",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/9d4c0ba5bf015ef5749d24d710ae58d983214bd0b5f39404f54c365db95cc8fc.jpg",
+        "url": "https://www.flickr.com/people/189696523@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52866743781/#liked-by-189696523@N06",
+      "published": "2023-10-05T23:50:24Z",
+      "wm-received": "2023-10-05T23:50:24Z",
+      "wm-id": 1723879,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/189696523@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
       "wm-property": "like-of",
       "wm-private": false
     }
