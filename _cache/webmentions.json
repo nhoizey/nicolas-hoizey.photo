@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-10T06:07:13.761Z",
+  "lastFetched": "2023-10-11T06:06:47.034Z",
   "webmentions": [
     {
       "type": "entry",
@@ -48523,6 +48523,63 @@
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "djohngo",
+        "photo": "https://webmention.io/avatar/mamot.fr/442c9c93329256340ca587208f4882090f89d31493f802c0a3caaa3742ba8906.jpg",
+        "url": "https://mastodon.social/@djohngo"
+      },
+      "url": "https://mamot.fr/@nhoizey/111210719753917813#reblogged-by-109258601189958602",
+      "published": "2023-10-10T12:36:18Z",
+      "wm-received": "2023-10-10T12:36:18Z",
+      "wm-id": 1725345,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111210719753917813/109258601189958602",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/grand-est/joinville/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/grand-est/joinville/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Derek",
+        "photo": "https://webmention.io/avatar/mamot.fr/41e93e7962b3acc30cef7a5a0ce41ab568f0bb3e913a75d63da75eeeb4b0758f.jpg",
+        "url": "https://gaycity.lgbt/@RainbowWarrior"
+      },
+      "url": "https://mamot.fr/@nhoizey/111210719753917813#favorited-by-109911904988741446",
+      "published": "2023-10-10T14:49:40Z",
+      "wm-received": "2023-10-10T14:49:40Z",
+      "wm-id": 1725396,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111210719753917813/109911904988741446",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/grand-est/joinville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/grand-est/joinville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Derek",
+        "photo": "https://webmention.io/avatar/mamot.fr/41e93e7962b3acc30cef7a5a0ce41ab568f0bb3e913a75d63da75eeeb4b0758f.jpg",
+        "url": "https://gaycity.lgbt/@RainbowWarrior"
+      },
+      "url": "https://mamot.fr/@nhoizey/111210719753917813#reblogged-by-109911904988741446",
+      "published": "2023-10-10T14:49:41Z",
+      "wm-received": "2023-10-10T14:49:41Z",
+      "wm-id": 1725397,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111210719753917813/109911904988741446",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/grand-est/joinville/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/grand-est/joinville/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
