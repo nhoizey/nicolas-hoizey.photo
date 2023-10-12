@@ -13,7 +13,7 @@ permalink: /feeds/mastodon/photos-test.json
     {%- set gear = photo.data.origin.data.gear -%}
     {%- set settings = photo.data.origin.data.settings -%}
     {%- set breadcrumb = collections.photo_galleries | breadcrumb(photo.url) -%}
-    {%- set contentStart -%}&lt;a href=\"{{ photoPageUrl }}\"&gt;{{ photo.data.title | decodeEntities | escapeQuotes(true) | safe }}&lt;/a&gt;\n\n{%- endset -%}
+    {%- set contentStart -%}<a href=\"{{ photoPageUrl }}\">{{ photo.data.title | decodeEntities | escapeQuotes(true) | safe }}</a>\n\n{%- endset -%}
     {%- set contentStartLength = contentStart | length -%}
     {%- set contentEnd -%}\n\n📅 {{ photo.data.date | readableDate }}{%- if gear and gear.camera -%}\n\n📸 {{ gear.camera.brand }} {{ gear.camera.model -}}{%- if gear.lenses %} + {% set plus = joiner(" + ") -%}{%- for lens in gear.lenses -%}{{ plus() }}{%- if lens.brand != gear.camera.brand -%}{{ lens.brand }} {% endif -%}{{ lens.model }}{% endfor %}{% endif %}{%- endif -%}{%- if settings.iso or settings.aperture or settings.shutter_speed -%}\n🎞️ {% if settings.iso -%}ISO {{ settings.iso }}{% if settings.aperture or settings.shutter_speed -%}, {%- endif -%}{%- endif -%}{%- if settings.aperture %} ƒ/{{ settings.aperture }}{%- if settings.shutter_speed -%}, {% endif -%}{%- endif -%}{%- if settings.shutter_speed -%}{{ settings.shutter_speed }}s{%- endif -%}{%- endif -%}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}{{ item.data.title | tagToHashtag | safe }} {% endif %}{%- endfor -%}#Photography{% endset -%}
     {%- set contentEndLength = contentEnd | length -%}
