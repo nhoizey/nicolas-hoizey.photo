@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-13T06:06:25.100Z",
+  "lastFetched": "2023-10-14T06:06:17.612Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49069,6 +49069,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "luc_makesphotos",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/43e40cc96d390cba1e4556fda966d96cd0128019988806dcbfe6c3ca749c5dac.jpg",
+        "url": "https://www.flickr.com/people/66860745@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-66860745@N02",
+      "published": "2023-10-13T19:06:19Z",
+      "wm-received": "2023-10-13T19:06:19Z",
+      "wm-id": 1726387,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/66860745@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-property": "like-of",
       "wm-private": false
     }
