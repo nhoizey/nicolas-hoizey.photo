@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-14T06:06:17.612Z",
+  "lastFetched": "2023-10-15T06:06:07.109Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49088,6 +49088,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jose Manuel Casado Sanchez",
+        "photo": "https://webmention.io/avatar/farm5.staticflickr.com/5ba567d04956f40f4aca3af8d1eca52bcc69e41ac810614ef9578f9a9d8c80ef.jpg",
+        "url": "https://www.flickr.com/people/27613568@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-27613568@N03",
+      "published": "2023-10-14T09:38:41Z",
+      "wm-received": "2023-10-14T09:38:41Z",
+      "wm-id": 1726542,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/27613568@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dominique BEAU",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/faac4786f611919d0a347892c79a5597066ab2a62e5a287b25417ecda755fef0.jpg",
+        "url": "https://www.flickr.com/people/92529415@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-92529415@N06",
+      "published": "2023-10-14T13:34:13Z",
+      "wm-received": "2023-10-14T13:34:13Z",
+      "wm-id": 1726568,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/92529415@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "esu_lietuvis",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/48d54dd6e5f42fec93b7798a7ec217112dd6433b4804d3da9cf7a64648862e6e.jpg",
+        "url": "https://www.flickr.com/people/140658017@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-140658017@N02",
+      "published": "2023-10-14T14:22:37Z",
+      "wm-received": "2023-10-14T14:22:37Z",
+      "wm-id": 1726577,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/140658017@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-property": "like-of",
       "wm-private": false
     }
