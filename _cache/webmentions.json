@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-17T06:06:50.380Z",
+  "lastFetched": "2023-10-18T06:06:46.489Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49224,6 +49224,101 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Zap Productions",
+        "photo": "https://webmention.io/avatar/mamot.fr/8151471120638131001bd2311de820cce7cbe59f0bc422d44c3962ae81bbdab2.png",
+        "url": "https://mastodon.social/@zapproductions"
+      },
+      "url": "https://mamot.fr/@nhoizey/111250356083250421#favorited-by-108646927422213809",
+      "published": "2023-10-17T12:53:49Z",
+      "wm-received": "2023-10-17T12:53:49Z",
+      "wm-id": 1727477,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111250356083250421/108646927422213809",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111250356083250421#favorited-by-109483621978440168",
+      "published": "2023-10-17T12:53:53Z",
+      "wm-received": "2023-10-17T12:53:53Z",
+      "wm-id": 1727478,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111250356083250421/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111250356083250421#favorited-by-109377158218702543",
+      "published": "2023-10-17T12:53:56Z",
+      "wm-received": "2023-10-17T12:53:56Z",
+      "wm-id": 1727479,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111250356083250421/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wally Slowik",
+        "photo": "https://webmention.io/avatar/mamot.fr/0b240df5befcb23d2fc69ea79c566bf476f22635c3aa60225ba75128039fa79b.png",
+        "url": "https://mastodon.sdf.org/@weslowik"
+      },
+      "url": "https://mamot.fr/@nhoizey/111250356083250421#reblogged-by-109310338478943911",
+      "published": "2023-10-17T12:53:57Z",
+      "wm-received": "2023-10-17T12:53:57Z",
+      "wm-id": 1727480,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111250356083250421/109310338478943911",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111250356083250421#favorited-by-110651355078160221",
+      "published": "2023-10-17T14:24:34Z",
+      "wm-received": "2023-10-17T14:24:34Z",
+      "wm-id": 1727491,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111250356083250421/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
       "wm-property": "like-of",
       "wm-private": false
     }
