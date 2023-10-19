@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-18T06:06:46.489Z",
+  "lastFetched": "2023-10-19T06:06:38.548Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49319,6 +49319,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/driving-south/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin ????",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/111256018494258619#favorited-by-110384238815662749",
+      "published": "2023-10-18T23:02:21Z",
+      "wm-received": "2023-10-18T23:02:21Z",
+      "wm-id": 1727846,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111256018494258619/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/peaceful-cohabitation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/peaceful-cohabitation/",
       "wm-property": "like-of",
       "wm-private": false
     }
