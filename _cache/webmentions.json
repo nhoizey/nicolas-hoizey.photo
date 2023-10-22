@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-20T06:06:41.938Z",
+  "lastFetched": "2023-10-22T06:06:48.070Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49414,6 +49414,44 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/crowded-place/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/crowded-place/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin ????",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/111273003363673483#favorited-by-110384238815662749",
+      "published": "2023-10-21T14:20:20Z",
+      "wm-received": "2023-10-21T14:20:20Z",
+      "wm-id": 1728564,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111273003363673483/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/a-nap-in-the-shade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/a-nap-in-the-shade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "My Cat Sighs…",
+        "photo": "https://webmention.io/avatar/mamot.fr/31209541b789d9bc54ea65f003fbe1b8f60bb8bb7d091c1f214bc964b0434cf9.jpg",
+        "url": "https://mastodon.social/@laneybk"
+      },
+      "url": "https://mamot.fr/@nhoizey/111273003363673483#favorited-by-110589234499706741",
+      "published": "2023-10-21T14:50:47Z",
+      "wm-received": "2023-10-21T14:50:47Z",
+      "wm-id": 1728567,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111273003363673483/110589234499706741",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/a-nap-in-the-shade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/a-nap-in-the-shade/",
       "wm-property": "like-of",
       "wm-private": false
     }
