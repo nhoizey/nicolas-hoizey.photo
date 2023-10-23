@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-22T06:06:48.070Z",
+  "lastFetched": "2023-10-23T06:06:51.300Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49452,6 +49452,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/a-nap-in-the-shade/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/a-nap-in-the-shade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin ????",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/111278665724357568#favorited-by-110384238815662749",
+      "published": "2023-10-22T13:07:55Z",
+      "wm-received": "2023-10-22T13:07:55Z",
+      "wm-id": 1728816,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111278665724357568/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/newborn-african-buffalo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/newborn-african-buffalo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marie Roy",
+        "photo": "https://webmention.io/avatar/farm1.staticflickr.com/91fc6ad2e8d9d470d578ab3773157aa8f1d39314846e730d7283f019c9d916d6.jpg",
+        "url": "https://www.flickr.com/people/129060298@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-129060298@N06",
+      "published": "2023-10-22T13:48:51Z",
+      "wm-received": "2023-10-22T13:48:51Z",
+      "wm-id": 1728824,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/129060298@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gavroche",
+        "photo": "https://webmention.io/avatar/mamot.fr/f483adf39a2d38de4da656d983ddf22c01c55ad6cdc9c8ce3094b15aae21b90c.jpg",
+        "url": "https://mamot.fr/@jesuisgavroche"
+      },
+      "url": "https://mamot.fr/@nhoizey/111278665724357568#favorited-by-381500",
+      "published": "2023-10-22T14:10:17Z",
+      "wm-received": "2023-10-22T14:10:17Z",
+      "wm-id": 1728831,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111278665724357568/381500",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/newborn-african-buffalo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/newborn-african-buffalo/",
       "wm-property": "like-of",
       "wm-private": false
     }
