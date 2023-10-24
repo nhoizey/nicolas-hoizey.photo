@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-23T06:06:51.300Z",
+  "lastFetched": "2023-10-24T06:06:37.981Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49509,6 +49509,44 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/newborn-african-buffalo/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/buffalos/newborn-african-buffalo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GoOz",
+        "photo": "https://webmention.io/avatar/mamot.fr/380d832886ee513f375311fcc1aa9b091f135884ebd955c804b3f318e53a72f1.jpg",
+        "url": "https://mamot.fr/@GoOz"
+      },
+      "url": "https://mamot.fr/@nhoizey/111284330030657773#favorited-by-55857",
+      "published": "2023-10-23T14:41:54Z",
+      "wm-received": "2023-10-23T14:41:54Z",
+      "wm-id": 1729168,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111284330030657773/55857",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Johan Neven",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/619faf33af09430daf0204f83f5788fd66d851e88694ab1162f4f61fa9315f4e.jpg",
+        "url": "https://www.flickr.com/people/75612671@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-75612671@N03",
+      "published": "2023-10-23T20:54:56Z",
+      "wm-received": "2023-10-23T20:54:56Z",
+      "wm-id": 1729326,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/75612671@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-property": "like-of",
       "wm-private": false
     }
