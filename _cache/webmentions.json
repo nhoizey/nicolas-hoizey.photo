@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-24T06:06:37.981Z",
+  "lastFetched": "2023-10-25T06:06:35.660Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49547,6 +49547,82 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tomi Toivio",
+        "photo": "https://webmention.io/avatar/mamot.fr/71473ad712cc8afbef51c0e448fdc9f6b7e0a93bd65196bab9a206d916e54194.jpg",
+        "url": "https://mastodon.social/@ukuli"
+      },
+      "url": "https://mamot.fr/@nhoizey/111284330030657773#favorited-by-111233956860389466",
+      "published": "2023-10-24T10:01:34Z",
+      "wm-received": "2023-10-24T10:01:34Z",
+      "wm-id": 1729575,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111284330030657773/111233956860389466",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "logienick",
+        "photo": "https://webmention.io/avatar/mamot.fr/d9cc8b21f4683463f95945db8f3ec91a226ee3a27c45d93c2ee3eb269cd3b56c.png",
+        "url": "https://ieji.de/@logienick"
+      },
+      "url": "https://mamot.fr/@nhoizey/111284330030657773#favorited-by-109800673134931221",
+      "published": "2023-10-24T13:41:04Z",
+      "wm-received": "2023-10-24T13:41:04Z",
+      "wm-id": 1729626,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111284330030657773/109800673134931221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/lake-nakuru/sunset-on-lake-nakuru-s-flooded-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ash Qin ????",
+        "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
+        "url": "https://focal.love/@ashqinmoe"
+      },
+      "url": "https://mamot.fr/@nhoizey/111289991591724774#favorited-by-110384238815662749",
+      "published": "2023-10-24T23:26:54Z",
+      "wm-received": "2023-10-24T23:26:54Z",
+      "wm-id": 1729813,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111289991591724774/110384238815662749",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/overlooking-tbilisi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/georgia/overlooking-tbilisi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "lumierespearman",
+        "photo": "https://farm0.staticflickr.com/0/buddyicons/68647386@N05.jpg",
+        "url": "https://www.flickr.com/people/68647386@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52866743781/#liked-by-68647386@N05",
+      "published": "2023-10-25T02:39:46Z",
+      "wm-received": "2023-10-25T02:39:46Z",
+      "wm-id": 1729862,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52866743781/68647386@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
       "wm-property": "like-of",
       "wm-private": false
     }
