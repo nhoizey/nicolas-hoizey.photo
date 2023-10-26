@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-25T06:06:35.660Z",
+  "lastFetched": "2023-10-26T06:06:45.847Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49623,6 +49623,44 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111295654095939209#favorited-by-109377158218702543",
+      "published": "2023-10-25T13:02:23Z",
+      "wm-received": "2023-10-25T13:02:23Z",
+      "wm-id": 1730091,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111295654095939209/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/black-rhinoceros-in-lake-nakuru-national-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/black-rhinoceros-in-lake-nakuru-national-park/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris Coleman",
+        "photo": "https://webmention.io/avatar/mamot.fr/a73d82dc2dc9b1f25d7abac0fdd67e348d03fda78b7e6eb52edc60428d77c7f4.jpg",
+        "url": "https://mastodon.social/@Chris"
+      },
+      "url": "https://mamot.fr/@nhoizey/111295654095939209#favorited-by-129936",
+      "published": "2023-10-25T13:04:43Z",
+      "wm-received": "2023-10-25T13:04:43Z",
+      "wm-id": 1730092,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111295654095939209/129936",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/black-rhinoceros-in-lake-nakuru-national-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/black-rhinoceros-in-lake-nakuru-national-park/",
       "wm-property": "like-of",
       "wm-private": false
     }
