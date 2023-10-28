@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-27T06:06:13.110Z",
+  "lastFetched": "2023-10-28T06:06:09.464Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49776,6 +49776,44 @@
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/makeshift-telephoto-lens/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111306978285720083#favorited-by-109377158218702543",
+      "published": "2023-10-27T12:37:15Z",
+      "wm-received": "2023-10-27T12:37:15Z",
+      "wm-id": 1731433,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111306978285720083/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/staying-close/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/staying-close/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Yves",
+        "photo": "https://webmention.io/avatar/mamot.fr/2abb80bc131b9f737600d93eae3712bc1798b5beceb28bca4e13a72e5e25c96f.jpg",
+        "url": "https://mastodon.gougere.fr/@yoseph"
+      },
+      "url": "https://mamot.fr/@nhoizey/111306978285720083#reblogged-by-315225",
+      "published": "2023-10-27T12:37:22Z",
+      "wm-received": "2023-10-27T12:37:22Z",
+      "wm-id": 1731434,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111306978285720083/315225",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/staying-close/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/staying-close/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
