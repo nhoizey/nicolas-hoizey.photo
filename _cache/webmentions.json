@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-10-28T06:06:09.464Z",
+  "lastFetched": "2023-10-29T06:06:04.007Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49814,6 +49814,44 @@
       "wm-protocol": "webmention",
       "repost-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/staying-close/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kevin C. Tofel",
+        "photo": "https://webmention.io/avatar/mamot.fr/357a487cf20d647d3e2e487c244773c8bb97dab30faf400e9c7ca8d609c41a74.jpg",
+        "url": "https://hachyderm.io/@kevinctofel"
+      },
+      "url": "https://mamot.fr/@nhoizey/111312638989541015#favorited-by-109407380532599609",
+      "published": "2023-10-28T15:38:24Z",
+      "wm-received": "2023-10-28T15:38:24Z",
+      "wm-id": 1731885,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111312638989541015/109407380532599609",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/centre-val-de-loire/setting-sun-on-chambord/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/centre-val-de-loire/setting-sun-on-chambord/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Everydayhero",
+        "photo": "https://webmention.io/avatar/mamot.fr/f3285de2fb56e523629a32c95da5b9dc7ade4e876552b170fce32bd4daddcfb1.png",
+        "url": "https://troet.cafe/@everydayhero"
+      },
+      "url": "https://mamot.fr/@nhoizey/111312638989541015#favorited-by-109552982831123920",
+      "published": "2023-10-28T17:41:34Z",
+      "wm-received": "2023-10-28T17:41:34Z",
+      "wm-id": 1731938,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111312638989541015/109552982831123920",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/centre-val-de-loire/setting-sun-on-chambord/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/centre-val-de-loire/setting-sun-on-chambord/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
