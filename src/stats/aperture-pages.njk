@@ -1,0 +1,38 @@
+---
+pagination:
+  data: collections.apertures
+  size: 1
+  alias: apertures
+  filter:
+    - all
+  addAllPagesToCollections: true
+layout: aperture
+eleventyComputed:
+  title: "Photos taken with aperture ƒ/{{ apertures.aperture }}"
+permalink: /stats/apertures/{{ apertures.slug }}/
+---
+
+{% from "macros/css.njk" import css %}
+
+{% block content %}
+
+{{ css('components/photos', build.env) }}
+
+{% from "macros/photo.njk" import photo %}
+
+{% set photos = collections.photos_in_galleries | at_aperture(apertures.aperture) %}
+{% set photosNumber = photos | length %}
+<p>Here {% if photosNumber < 2 %}is the single photo{% else %}are the {{ photosNumber }} photos{% endif %} shared here that I took with the <strong>aperture ƒ/{{ apertures.aperture }}</strong>:</p>
+<ul class="photos">
+  {% for item in photos %}
+    {% if loop.index < 4 %}
+      <li>{{ photo(item, "eager", build.env) }}</li>
+    {% else %}
+      <li>{{ photo(item, "lazy", build.env) }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<p>Look for <a href="/stats/">all statistics</a>.</p>
+
+{% endblock %}

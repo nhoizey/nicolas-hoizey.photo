@@ -38,27 +38,26 @@ module.exports = {
   },
   shot_with: (photosCollection, gear) => {
     const slugs = [];
-    const collectionWithGear = photosCollection.filter((item) => {
-      if (slugs.includes(item.page.fileSlug)) {
+    const collectionWithGear = photosCollection.filter((photo) => {
+      if (slugs.includes(photo.page.fileSlug)) {
         return false;
-      } else {
-        slugs.push(item.page.fileSlug);
-        pageGear = item.data.origin.data.gear;
-        if (`${pageGear?.camera?.brand} ${pageGear?.camera?.model}` === gear) {
-          return true;
+      }
+      slugs.push(photo.page.fileSlug);
+      let pageGear = photo.data.origin.data.gear;
+      if (`${pageGear?.camera?.brand} ${pageGear?.camera?.model}` === gear) {
+        return true;
+      }
+      if (pageGear?.lenses !== undefined) {
+        if (gear === 'Fujifilm Fujinon XF 27 mm f/2.8') {
+          console.dir(pageGear.lenses);
         }
-        if (pageGear?.lenses !== undefined) {
-          if (gear === 'Fujifilm Fujinon XF 27 mm f/2.8') {
-            console.dir(pageGear.lenses);
+        let lenseFound = false;
+        pageGear.lenses.forEach((data, lense) => {
+          if (`${data.brand} ${data.model}` === gear) {
+            lenseFound = true;
           }
-          let lenseFound = false;
-          pageGear.lenses.forEach((data, lense) => {
-            if (`${data.brand} ${data.model}` === gear) {
-              lenseFound = true;
-            }
-          });
-          return lenseFound;
-        }
+        });
+        return lenseFound;
       }
       return false;
     });
@@ -66,6 +65,21 @@ module.exports = {
       console.dir(collectionWithGear);
     }
     return collectionWithGear;
+  },
+  at_aperture: (photosCollection, aperture) => {
+    const alreadySeenSlugs = [];
+    const collectionWithAperture = photosCollection.filter((photo) => {
+      if (alreadySeenSlugs.includes(photo.page.fileSlug)) {
+        return false;
+      }
+      alreadySeenSlugs.push(photo.page.fileSlug);
+      if (photo.data.origin.data.settings?.aperture === parseFloat(aperture)) {
+        return true;
+      }
+      return false;
+    });
+
+    return collectionWithAperture;
   },
   cameras: (collection, brand) =>
     collection.filter((gear) => gear.type === 'camera' && gear.brand === brand),
