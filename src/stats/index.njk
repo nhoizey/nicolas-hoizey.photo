@@ -16,22 +16,24 @@ nav:
 <h2>Apertures</h2>
 {{ css('components/apertures', build.env) }}
 
-<table class="chaarts bar" style="--scale: 25">
-	<caption id="caption-1">Apertures used to shot photos shared on this site</caption>
-	<thead class="sr-only">
-		<tr>
-			<td></td>
-			<th scope="col">Apertures</th>
-		</tr>
-	</thead>
-	<tbody>
-{% for aperture in collections.apertures %}
-		<tr>
-			<th scope="row"><a href="/stats/apertures/{{ aperture.slug }}/">{{ aperture.aperture }}</a></th>
-			<td style="--value: {{ aperture.number }}">
-				<span>{{ aperture.number }}</span>
-			</td>
-		</tr>
-{% endfor %}
-	</tbody>
-</table>
+<div class="chaarts-container">
+  <table class="chaarts bar" style="--scale: 25">
+    <caption id="caption-1">Apertures used to shot photos shared on this site</caption>
+    <thead class="sr-only">
+      <tr>
+        <td></td>
+        <th scope="col">Apertures</th>
+      </tr>
+    </thead>
+    <tbody>
+  {% for aperture in collections.apertures %}
+      <tr>
+        <th scope="row"><a href="/stats/apertures/{{ aperture.slug }}/">{{ aperture.aperture }}</a></th>
+        <td style="--value: {{ aperture.number }}">
+          <span>{{ aperture.number }}</span>
+        </td>
+      </tr>
+  {% endfor %}
+    </tbody>
+  </table>
+</div>
