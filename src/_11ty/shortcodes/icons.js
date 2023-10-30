@@ -31,6 +31,7 @@ const ICONS = {
   focal_length: { name: 'telescope-line', source: 'majesticons' },
   shutter_speed: { name: 'timer-line', source: 'majesticons' },
   aperture: { name: 'aperture', source: 'feather' },
+  statistics: { name: 'pie-chart', source: 'feather' },
   download: { name: 'download', source: 'feather' },
   feeds: { name: 'rss', source: 'feather' },
   mastodon: { name: 'mastodon', source: 'simple' },
