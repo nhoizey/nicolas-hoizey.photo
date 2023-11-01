@@ -28,7 +28,7 @@ nav:
     <tbody>
   {% for aperture in collections.apertures %}
       <tr>
-        <th scope="row"><a href="/stats/apertures/{{ aperture.slug }}/">{{ aperture.aperture }}</a></th>
+        <th scope="row"><a href="/stats/apertures/{{ aperture.slug }}/">ƒ/{{ aperture.aperture }}</a></th>
         <td style="--value: {{ aperture.number }}">
           <span>{{ aperture.number }}</span>
         </td>
