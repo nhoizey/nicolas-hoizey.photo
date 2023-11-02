@@ -109,13 +109,13 @@
               {% endfor %}
               <br />
             {% endif %}
-            {{ settings.focal_length }} mm
-            {% if settings.focal_length_35mm %} (eq {{ settings.focal_length_35mm }} mm){% endif %}
+            <a href="/statistics/focal-length/{{ settings.focal_length.slug }}/">{{ settings.focal_length.readable }}</a>
+            {% if settings.focal_length.eq35mm %} ({{ settings.focal_length.raw }} mm with crop factor){% endif %}
           </li>
         {% endif %}
-        {% if settings.iso %}<li class="iso">{% inline_icon 'iso' %} ISO {{ settings.iso }}</li>{% endif %}
-        {% if settings.aperture %}<li class="aperture">{% inline_icon 'aperture' %} ƒ/{{ settings.aperture }}</span></li>{% endif %}
-        {% if settings.shutter_speed %}<li class="shutter_speed">{% inline_icon 'shutter_speed' %} {{ settings.shutter_speed }} s</li>{% endif %}
+        {% if settings.iso %}<li class="iso">{% inline_icon 'iso' %} <a href="/statistics/iso/{{ settings.iso.slug }}/">ISO {{ settings.iso.readable }}</a></li>{% endif %}
+        {% if settings.aperture %}<li class="aperture">{% inline_icon 'aperture' %} <a href="/statistics/aperture/{{ settings.aperture.slug }}/">{{ settings.aperture.readable }}</a></li>{% endif %}
+        {% if settings.shutter_speed %}<li class="shutter_speed">{% inline_icon 'shutter_speed' %} <a href="/statistics/shutter-speed/{{ settings.shutter_speed.slug }}/">{{ settings.shutter_speed.readable }}</a></li>{% endif %}
       </ul>
       <div class="geo">
         {% if geo.latitude and geo.longitude %}

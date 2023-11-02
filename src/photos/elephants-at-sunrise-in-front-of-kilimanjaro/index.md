@@ -34,11 +34,27 @@ tags:
   - Parc national d'Amboseli
   - paysage
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 250
-  aperture: 3.2
-  shutter_speed: 1/500
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 250
+    computed: 250
+    readable: "250"
+    slug: "250"
+  aperture:
+    raw: 3.2
+    computed: 3.2
+    readable: ƒ/3.2
+    slug: f-3-2
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3464
   height: 2309

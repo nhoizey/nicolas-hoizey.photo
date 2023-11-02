@@ -35,11 +35,27 @@ tags:
   - street light
   - traffic light
 settings:
-  focal_length: 20.9
-  focal_length_35mm: 31
-  iso: 4000
-  aperture: 4
-  shutter_speed: 1/60
+  focal_length:
+    raw: 20.9
+    eq35mm: 31
+    readable: 31 mm
+    slug: 31-mm
+    computed: 31
+  iso:
+    raw: 4000
+    computed: 4000
+    readable: "4000"
+    slug: "4000"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.016666666666666666
+    computed: 0.016666666666666666
+    readable: 1/60 s
+    slug: 1-60-s
 dimensions:
   width: 3500
   height: 2333

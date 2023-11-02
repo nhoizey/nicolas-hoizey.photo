@@ -33,10 +33,26 @@ tags:
   - staircase
   - stairway
 settings:
-  focal_length: 70
-  iso: 3200
-  aperture: 4
-  shutter_speed: 1/50
+  focal_length:
+    raw: 70
+    readable: 70 mm
+    slug: 70-mm
+    computed: 70
+  iso:
+    raw: 3200
+    computed: 3200
+    readable: "3200"
+    slug: "3200"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.02
+    computed: 0.02
+    readable: 1/50 s
+    slug: 1-50-s
 dimensions:
   width: 3500
   height: 2333

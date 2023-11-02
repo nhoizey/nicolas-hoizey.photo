@@ -75,7 +75,8 @@ module.exports = {
       alreadySeenSlugs.push(photo.page.fileSlug);
       if (
         photo.data.origin.data.settings !== undefined &&
-        `${photo.data.origin.data.settings[setting]}` === `${value}`
+        photo.data.origin.data.settings[setting] !== undefined &&
+        photo.data.origin.data.settings[setting].readable === value
       ) {
         return true;
       }

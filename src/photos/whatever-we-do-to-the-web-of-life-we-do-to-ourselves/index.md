@@ -55,10 +55,26 @@ tags:
   - voyage
   - web
 settings:
-  focal_length: 24
-  iso: 100
-  aperture: 3.5
-  shutter_speed: 1/500
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 3.5
+    computed: 3.5
+    readable: ƒ/3.5
+    slug: f-3-5
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333

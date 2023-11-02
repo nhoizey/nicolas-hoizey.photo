@@ -22,10 +22,26 @@ tags:
   - rouille
   - rusty
 settings:
-  focal_length: 100
-  iso: 800
-  aperture: 2.8
-  shutter_speed: 1/500
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3456
   height: 2304

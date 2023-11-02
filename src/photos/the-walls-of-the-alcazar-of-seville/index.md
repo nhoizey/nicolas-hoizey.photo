@@ -37,11 +37,27 @@ tags:
   - Spain
   - wall
 settings:
-  focal_length: 8
-  focal_length_35mm: 39
-  iso: 100
-  aperture: 4.7
-  shutter_speed: 1/160
+  focal_length:
+    raw: 8
+    eq35mm: 39
+    readable: 39 mm
+    slug: 39-mm
+    computed: 39
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 4.7
+    computed: 4.7
+    readable: ƒ/4.7
+    slug: f-4-7
+  shutter_speed:
+    raw: 0.00625
+    computed: 0.00625
+    readable: 1/160 s
+    slug: 1-160-s
 dimensions:
   width: 2304
   height: 1704

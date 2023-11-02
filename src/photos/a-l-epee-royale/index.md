@@ -25,10 +25,26 @@ tags:
   - voiture
   - Yvelines
 settings:
-  focal_length: 100
-  iso: 100
-  aperture: 5.6
-  shutter_speed: 1/400
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.0025
+    computed: 0.0025
+    readable: 1/400 s
+    slug: 1-400-s
 dimensions:
   width: 3500
   height: 2333

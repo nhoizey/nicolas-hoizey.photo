@@ -43,10 +43,26 @@ tags:
   - Utrecht
   - zoo
 settings:
-  focal_length: 300
-  iso: 400
-  aperture: 5.6
-  shutter_speed: 1/50
+  focal_length:
+    raw: 300
+    readable: 300 mm
+    slug: 300-mm
+    computed: 300
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.02
+    computed: 0.02
+    readable: 1/50 s
+    slug: 1-50-s
 dimensions:
   width: 3456
   height: 2304

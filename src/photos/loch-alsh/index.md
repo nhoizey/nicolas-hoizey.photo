@@ -41,10 +41,26 @@ tags:
   - United Kingdom of Great Britain and Northern Ireland
   - water
 settings:
-  focal_length: 24
-  iso: 200
-  aperture: 6.3
-  shutter_speed: 1/400
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 6.3
+    computed: 6.3
+    readable: ƒ/6.3
+    slug: f-6-3
+  shutter_speed:
+    raw: 0.0025
+    computed: 0.0025
+    readable: 1/400 s
+    slug: 1-400-s
 dimensions:
   width: 3500
   height: 2333

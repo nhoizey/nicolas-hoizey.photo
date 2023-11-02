@@ -46,10 +46,26 @@ tags:
   - ⴰⵟⵍⴰⵙ ⴰⵎⵥⵢⴰⵏ
   - ⴰⵟⵍⴰⵙ ⵎⵥⵉⵢⵏ
 settings:
-  focal_length: 135
-  iso: 100
-  aperture: 2
-  shutter_speed: 1/4000
+  focal_length:
+    raw: 135
+    readable: 135 mm
+    slug: 135-mm
+    computed: 135
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2
+    computed: 2
+    readable: ƒ/2
+    slug: f-2
+  shutter_speed:
+    raw: 0.00025
+    computed: 0.00025
+    readable: 1/4000 s
+    slug: 1-4000-s
 dimensions:
   width: 3500
   height: 2333

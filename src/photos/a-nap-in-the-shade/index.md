@@ -37,11 +37,27 @@ tags:
   - Panthera leo
   - reserve
 settings:
-  focal_length: 200
-  focal_length_35mm: 300
-  iso: 800
-  aperture: 13
-  shutter_speed: 1/105
+  focal_length:
+    raw: 200
+    eq35mm: 300
+    readable: 300 mm
+    slug: 300-mm
+    computed: 300
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 13
+    computed: 13
+    readable: ƒ/13
+    slug: f-13
+  shutter_speed:
+    raw: 0.009523809523809525
+    computed: 0.009523809523809525
+    readable: 1/105 s
+    slug: 1-105-s
 dimensions:
   width: 3500
   height: 2333
@@ -52,13 +68,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 197 203 43
+  vibrant: 198 203 43
   darkVibrant: 141 151 33
-  lightVibrant: 236 231 140
+  lightVibrant: 237 220 148
   muted: 159 159 100
   darkMuted: 79 68 58
-  lightMuted: 188 168 134
-lqip: data:image/webp;base64,UklGRhACAABXRUJQVlA4IAQCAAAQEQCdASpkAEMAP2Wiw1izLSejsVa9emAsiU1UC3E57B1tcQAUJoEaq5/rwjY+ULaN7aXE3sjg+A0d7FBmSuNbYuag+JBu7UYggE93lZ+6C5bf25QcnzzscvyuXlkN+ckAMoA/nYJxABI9DZYkPv7dqiekh86k4d8JbFodSBDrtFu/q2kN11Vddhf2mfgm+aoAAP7kZPZS+8gqR3HzAsYij6nB0DxhN1CbU217fLMsfBpRiHg6KC4b3m45sbUbrEMQuSsYbbtwpVGx+fybQY7/BsGPxvNSKVjDVS1o8gc/z5SSVuWf4jULym07TBk6GmRhRafQsVCYiNE9RuJMes0o5F//mwQ4n8ZX8yo0kNyhd20VOcOV+xNMBev+/qSRHzqsfX/Vme0O/YjYFwdJ9zDHznTqySJYUIRhG9PXYEIM1pgTLPQEkbrjpOlUIWhFWiJ4/Lw2gTBGAtS+/2J6HQZrbF0qfhDcOiMco/sXGvTIVDEH7hDc9dwRkmmG39yLFsNS9KZNXSpc/XYE/Ab0LYj+jTJBWPOz1G4BU+PBaoGJNqZTrAel78j6q5HCQZiXwBBDGLc9YJN1l2Ay/rvDcgj6pl4f4ivrhuhQ5/TMGGN/arFFi3Jb+BU0cI3z+4fj4l0wsqwOjnAP/1T2oLnVxFHY8D6UygTNIsqkgNJgvDAYjKeAAAA=
+  lightMuted: 201 189 159
+lqip: data:image/webp;base64,UklGRggCAABXRUJQVlA4IPwBAABwEQCdASpkAEMAP2WkxFizLSejsHcdomAsiUcAAZ3iH/kzpPVpuUnT0G81S+33NdjKOIOBmaEzAzMbQ6X9tvr0pZjKWSOXiNG/4QEEtfE6ME4V5ulO851q95J48fkcX/pCiLc0PssbY9rR+4pcSSJHKLceokTfD2Ah6u4o18GlEKTw0fsI/kBVggqjSvilZWarOKMAAP7kZPZS+9c+It6mpI7DdLhA5IXa90k+yV2uNWyjQuUV2NKhZIVvIIK1jjppmsVyE72kz/cugURHBYaw/FFc9q5rhaOhdNxSn4QixAjw+jYLwG3BoMTFA0GY56qZzlg7lk9lpTQrAazeIEV/3GLD0d72v0FNU11k3H4B+YE8DPr0oSc/1hYeAPstRQHU9DZsexGUiikb/z3F+zpWb86zNh990LYdQiO/aozR+mfgWrb654ebETvH2UbdtNQuWGivPVltSoyKB1B78onVaGTecv0MB6fSexJGq2ABoutq3URa+5SFywx9Zadxpc7Sxh113Ls67xOYSa0IMdNCfQRBw9v/VBRSxuDQ0m0NdW3TajhMAAhaUjlIoIwoZBj48JBjXvNZDGnxg7D+ARebCgRtYf8YjOyjOLgbG9ZCYF3YbwPI2jSaGFWpbSm3YE26t259AhVP8xhMO+yv0+Xry9CpsuidbUQvgAAA
 ---
 
 Some people say lions sleep 22 out of every 24 hours. It's true we often see them lying in the grass, sometimes yawning. But it doesn't mean they sleep when we're not there.  "Lions lying sleeping in the shade on a hot day are […] conserving energy during the least energetically efficient time of the day. […] If the energy costs involved in an activity aren’t outweighed by its potential benefits, they simply won’t do it."  Clever. 

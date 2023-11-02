@@ -24,10 +24,26 @@ tags:
   - Hong Kong City
   - statue
 settings:
-  focal_length: 135
-  iso: 400
-  aperture: 4.5
-  shutter_speed: 1/4000
+  focal_length:
+    raw: 135
+    readable: 135 mm
+    slug: 135-mm
+    computed: 135
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 4.5
+    computed: 4.5
+    readable: ƒ/4.5
+    slug: f-4-5
+  shutter_speed:
+    raw: 0.00025
+    computed: 0.00025
+    readable: 1/4000 s
+    slug: 1-4000-s
 dimensions:
   width: 3500
   height: 2333

@@ -40,11 +40,27 @@ tags:
   - skyline
   - ville
 settings:
-  focal_length: 10
-  focal_length_35mm: 15
-  iso: 400
-  aperture: 6.4
-  shutter_speed: 1 1/2
+  focal_length:
+    raw: 10
+    eq35mm: 15
+    readable: 15 mm
+    slug: 15-mm
+    computed: 15
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 6.4
+    computed: 6.4
+    readable: ƒ/6.4
+    slug: f-6-4
+  shutter_speed:
+    raw: 1.5
+    computed: 1.5
+    readable: 1 1/2 s
+    slug: 1-1-2-s
 dimensions:
   width: 3500
   height: 2333
@@ -57,7 +73,7 @@ geo:
 colors:
   vibrant: 17 197 205
   darkVibrant: 97 17 7
-  lightVibrant: 225 203 169
+  lightVibrant: 224 203 169
   muted: 160 149 83
   darkMuted: 81 69 51
   lightMuted: 193 199 155

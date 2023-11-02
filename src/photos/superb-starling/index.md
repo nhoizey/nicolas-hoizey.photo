@@ -40,11 +40,27 @@ tags:
   - Superb Starling
   - The Netherlands
 settings:
-  focal_length: 80
-  focal_length_35mm: 120
-  iso: 3200
-  aperture: 2.8
-  shutter_speed: 1/20
+  focal_length:
+    raw: 80
+    eq35mm: 120
+    readable: 120 mm
+    slug: 120-mm
+    computed: 120
+  iso:
+    raw: 3200
+    computed: 3200
+    readable: "3200"
+    slug: "3200"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.05
+    computed: 0.05
+    readable: 1/20 s
+    slug: 1-20-s
 dimensions:
   width: 3500
   height: 2333

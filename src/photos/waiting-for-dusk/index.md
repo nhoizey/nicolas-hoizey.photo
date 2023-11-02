@@ -54,11 +54,27 @@ tags:
   - wild animal
   - wild animals
 settings:
-  focal_length: 560
-  focal_length_35mm: 840
-  iso: 320
-  aperture: 9
-  shutter_speed: 1/500
+  focal_length:
+    raw: 560
+    eq35mm: 840
+    readable: 840 mm
+    slug: 840-mm
+    computed: 840
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333
@@ -70,7 +86,7 @@ geo:
   city: Amboseli National Park
 colors:
   vibrant: 157 131 59
-  darkVibrant: 102 94 36
+  darkVibrant: 101 94 36
   lightVibrant: 211 187 157
   muted: 164 140 94
   darkMuted: 86 75 42

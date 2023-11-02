@@ -40,11 +40,27 @@ tags:
   - Spain
   - spot
 settings:
-  focal_length: 8.8
-  focal_length_35mm: 24
-  iso: 4000
-  aperture: 8
-  shutter_speed: 1/50
+  focal_length:
+    raw: 8.8
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 4000
+    computed: 4000
+    readable: "4000"
+    slug: "4000"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.02
+    computed: 0.02
+    readable: 1/50 s
+    slug: 1-50-s
 dimensions:
   width: 3461
   height: 2307

@@ -20,16 +20,16 @@ nav:
   <div class="chaarts-container">
     <table class="chaarts bar" style="--scale: {{ collections.apertures | max_number }}">
       <caption id="caption-1">Apertures used to shoot photos shared on this site</caption>
-      <thead class="sr-only">
+      <thead class="visually-hidden">
         <tr>
-          <td></td>
-          <th scope="col">Apertures</th>
+          <td scope="col">Apertures</td>
+          <th scope="col">Number of photos</th>
         </tr>
       </thead>
       <tbody>
     {% for aperture in collections.apertures %}
         <tr>
-          <th scope="row"><a href="/statistics/aperture/{{ aperture.slug }}/">{{ aperture.readable_value }}</a></th>
+          <th scope="row"><a href="/statistics/aperture/{{ aperture.slug }}/">{{ aperture.readable }}</a></th>
           <td style="--value: {{ aperture.number }}">
             <span>{{ aperture.number }}</span>
           </td>
@@ -45,16 +45,16 @@ nav:
   <div class="chaarts-container">
     <table class="chaarts bar" style="--scale: {{ collections.focal_lengths | max_number }}">
       <caption id="caption-2">Focal lengths used to shoot photos shared on this site</caption>
-      <thead class="sr-only">
+      <thead class="visually-hidden">
         <tr>
-          <td></td>
-          <th scope="col">Focal lengths</th>
+          <td scope="col">Focal lengths</td>
+          <th scope="col">Number of photos</th>
         </tr>
       </thead>
       <tbody>
     {% for focal_length in collections.focal_lengths %}
         <tr>
-          <th scope="row"><a href="/statistics/focal-length/{{ focal_length.slug }}/">{{ focal_length.readable_value }}</a></th>
+          <th scope="row"><a href="/statistics/focal-length/{{ focal_length.slug }}/">{{ focal_length.readable }}</a></th>
           <td style="--value: {{ focal_length.number }}">
             <span>{{ focal_length.number }}</span>
           </td>
@@ -70,16 +70,16 @@ nav:
   <div class="chaarts-container">
     <table class="chaarts bar" style="--scale: {{ collections.isos | max_number }}">
       <caption id="caption-3">ISOs used to shoot photos shared on this site</caption>
-      <thead class="sr-only">
+      <thead class="visually-hidden">
         <tr>
-          <td></td>
-          <th scope="col">ISOs</th>
+          <td scope="col">ISOs</td>
+          <th scope="col">Number of photos</th>
         </tr>
       </thead>
       <tbody>
     {% for iso in collections.isos %}
         <tr>
-          <th scope="row"><a href="/statistics/iso/{{ iso.slug }}/">{{ iso.readable_value }}</a></th>
+          <th scope="row"><a href="/statistics/iso/{{ iso.slug }}/">{{ iso.readable }}</a></th>
           <td style="--value: {{ iso.number }}">
             <span>{{ iso.number }}</span>
           </td>
@@ -95,16 +95,16 @@ nav:
   <div class="chaarts-container" id="shutter_speeds">
     <table class="chaarts bar" style="--scale: {{ collections.shutter_speeds | max_number }}">
       <caption id="caption-4">Shutter speeds used to shoot photos shared on this site</caption>
-      <thead class="sr-only">
+      <thead class="visually-hidden">
         <tr>
-          <td></td>
-          <th scope="col">Shutter speeds</th>
+          <td scope="col">Shutter speeds</td>
+          <th scope="col">Number of photos</th>
         </tr>
       </thead>
       <tbody>
     {% for shutter_speed in collections.shutter_speeds %}
         <tr>
-          <th scope="row"><a href="/statistics/shutter-speed/{{ shutter_speed.slug }}/">{{ shutter_speed.readable_value }}</a></th>
+          <th scope="row"><a href="/statistics/shutter-speed/{{ shutter_speed.slug }}/">{{ shutter_speed.readable }}</a></th>
           <td style="--value: {{ shutter_speed.number }}">
             <span>{{ shutter_speed.number }}</span>
           </td>

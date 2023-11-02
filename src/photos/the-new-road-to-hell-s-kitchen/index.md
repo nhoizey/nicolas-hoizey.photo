@@ -43,10 +43,26 @@ tags:
   - végétal
   - worker
 settings:
-  focal_length: 50
-  iso: 100
-  aperture: 1.4
-  shutter_speed: 1/5000
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 1.4
+    computed: 1.4
+    readable: ƒ/1.4
+    slug: f-1-4
+  shutter_speed:
+    raw: 0.0002
+    computed: 0.0002
+    readable: 1/5000 s
+    slug: 1-5000-s
 dimensions:
   width: 3500
   height: 2333
@@ -60,7 +76,7 @@ colors:
   vibrant: 228 141 53
   darkVibrant: 4 60 148
   lightVibrant: 184 215 243
-  muted: 176 92 116
+  muted: 178 92 116
   darkMuted: 54 66 93
   lightMuted: 189 179 166
 lqip: data:image/webp;base64,UklGRtABAABXRUJQVlA4IMQBAAAwEgCdASpkAEMAP3Gkx1m0rD+lMHVbS/AuCUAaXhGWN0CidLEJblVUp4jLNhowZrZTeF4lpXuUBSCqA7ZILFPy2UEA4gutr4UtPNeuejTRwiUHLzOAcTphnyjkkRog8PjnoWuyzE6FUtH+qrjFjRdxSmS1a1gtxpo08Hm6/VW0x40sAQnD4jFOD21BnR4l87EiYO/cxR0G8JwQAP7B8k1XrJZaqSDPuMOd0+4tq82gtQM1KAx4RZWiDMdxGia4f6Mo3W4QLMSfA7S7m2t+6nmsUPUSaN2vhskMQZcdDEveSrgjZ88T5Q2PGA/dzXuOQc5wyt5PUv1CKf2uhzJFLdbb++Wnrb/ImoVrD+AeDckIWYUiLUsTWe9XCrSQqzxudfIe5ra1C8h3Xr8PTkmwUILySNg6SvrBhzLm+ZYC6fSI513ZF45dSNJ6p8Ro3BwpxVsmjoplAaFck/GIubR/R4bASp5L3yV6wGSbmz/k78sfpfS+jkpEI6pB044ac4RLxvCBNya2qWTvKTv0/os9tICSZPENiA0lUnWdO2awf5zQ+OAaH8uyZYbRsFTQjAT4FK/7XgdhM6hN0vJs5Iu3wLXSEOAAAA==

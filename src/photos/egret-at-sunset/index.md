@@ -41,11 +41,27 @@ tags:
   - sunset
   - water
 settings:
-  focal_length: 400
-  focal_length_35mm: 600
-  iso: 640
-  aperture: 5.6
-  shutter_speed: 1/60
+  focal_length:
+    raw: 400
+    eq35mm: 600
+    readable: 600 mm
+    slug: 600-mm
+    computed: 600
+  iso:
+    raw: 640
+    computed: 640
+    readable: "640"
+    slug: "640"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.016666666666666666
+    computed: 0.016666666666666666
+    readable: 1/60 s
+    slug: 1-60-s
 dimensions:
   width: 2726
   height: 1817

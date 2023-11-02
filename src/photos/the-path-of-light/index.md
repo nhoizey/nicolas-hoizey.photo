@@ -36,11 +36,27 @@ tags:
   - საქართველო
   - სვეტიცხოვლის საკათედრო
 settings:
-  focal_length: 12.6
-  focal_length_35mm: 19
-  iso: 3200
-  aperture: 9
-  shutter_speed: 1/60
+  focal_length:
+    raw: 12.6
+    eq35mm: 19
+    readable: 19 mm
+    slug: 19-mm
+    computed: 19
+  iso:
+    raw: 3200
+    computed: 3200
+    readable: "3200"
+    slug: "3200"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.016666666666666666
+    computed: 0.016666666666666666
+    readable: 1/60 s
+    slug: 1-60-s
 dimensions:
   width: 3500
   height: 2333

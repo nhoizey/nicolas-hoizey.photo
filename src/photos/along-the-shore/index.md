@@ -35,10 +35,26 @@ tags:
   - sky
   - vague
 settings:
-  focal_length: 54
-  iso: 50
-  aperture: 2.8
-  shutter_speed: "30"
+  focal_length:
+    raw: 54
+    readable: 54 mm
+    slug: 54-mm
+    computed: 54
+  iso:
+    raw: 50
+    computed: 50
+    readable: "50"
+    slug: "50"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 30
+    computed: 30
+    readable: 30 s
+    slug: 30-s
 dimensions:
   width: 3500
   height: 1524

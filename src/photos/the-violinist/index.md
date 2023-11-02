@@ -30,11 +30,27 @@ tags:
   - violin
   - violon
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 200
-  aperture: 1.2
-  shutter_speed: 1/8000
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 1.2
+    computed: 1.2
+    readable: ƒ/1.2
+    slug: f-1-2
+  shutter_speed:
+    raw: 0.000125
+    computed: 0.000125
+    readable: 1/8000 s
+    slug: 1-8000-s
 dimensions:
   width: 3500
   height: 2333

@@ -57,11 +57,27 @@ tags:
   - wild animal
   - wild animals
 settings:
-  focal_length: 265.8
-  focal_length_35mm: 399
-  iso: 800
-  aperture: 9.4
-  shutter_speed: 1/13
+  focal_length:
+    raw: 265.8
+    eq35mm: 399
+    readable: 399 mm
+    slug: 399-mm
+    computed: 399
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 9.4
+    computed: 9.4
+    readable: ƒ/9.4
+    slug: f-9-4
+  shutter_speed:
+    raw: 0.07692307692307693
+    computed: 0.07692307692307693
+    readable: 1/13 s
+    slug: 1-13-s
 dimensions:
   width: 3500
   height: 2333
@@ -72,10 +88,10 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 188 133 92
+  vibrant: 188 132 92
   darkVibrant: 32 78 124
   lightVibrant: 238 205 202
-  muted: 156 115 87
+  muted: 156 115 86
   darkMuted: 52 80 74
   lightMuted: 200 178 188
 lqip: data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAACwDgCdASpkAEMAP2GevViyrKYjttR8ylAsCWMAz6UrBxLy9Ip6Vcr40pqhyP4Oe8UTV3+G62y+rSiPX5YLmTE6oBSUNWKNuOweo/CFPKTmPeH9JLsQngUE4cr/0EqnWGzpivXhT1qFBMP/QAxi1lqOWZJ1o8fzxeri9AErpAAA/K83L8B3NsIZn12N0TAce5+e3Eib1SIjURPjQhYxTHaetNvpb/EbfahAKG8o69d13C3cg6/BJRMqut1DthT8H1zw3mjKqYwnfW4Ll8dw744N6sWdCVzZSBOzX6WyPAhrF7+Lj2IqmUi6CT7C1Rmjb3rIZH9yVYIoHXogGTe1qc1lJGmfGOkn7tPlS4fOjC4+m27t1e6mdzJuzN7pr7ZmnBmHDsZC555VzQ9XlCf4mi2TN0ScCUn4TJr4yw+5QpmZrzgNmvLudk1ZsmhwwZ0kXONueEEYm62Quf0xQ45GdEDdcVQ15MHgDnn74ccPP4DxZ1Cm3vGf+zwGE/LPQAcs8Oz1wg7eBSSKB+KUMma+2k4DXyUpbYP2+GWqz2WeuEqA0Lx2lo/JZTRQWOQAAA==

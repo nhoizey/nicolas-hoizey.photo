@@ -35,11 +35,27 @@ tags:
   - pont
   - vert
 settings:
-  focal_length: 26
-  focal_length_35mm: 39
-  iso: 200
-  aperture: 11
-  shutter_speed: 1/500
+  focal_length:
+    raw: 26
+    eq35mm: 39
+    readable: 39 mm
+    slug: 39-mm
+    computed: 39
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333

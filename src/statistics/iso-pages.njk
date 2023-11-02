@@ -8,7 +8,7 @@ pagination:
   addAllPagesToCollections: true
 layout: statistics
 eleventyComputed:
-  title: "Photos taken with ISO {{ isos.readable_value }}"
+  title: "Photos taken with ISO {{ isos.readable }}"
 permalink: /statistics/iso/{{ isos.slug }}/
 ---
 
@@ -20,9 +20,9 @@ permalink: /statistics/iso/{{ isos.slug }}/
 
 {% from "macros/photo.njk" import photo %}
 
-{% set photos = collections.photos_in_galleries | with_setting('iso', isos.raw_value) %}
+{% set photos = collections.photos_in_galleries | with_setting('iso', isos.readable) %}
 {% set photosNumber = photos | length %}
-<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>ISO {{ isos.readable_value }}</strong>:</p>
+<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>ISO {{ isos.readable }}</strong>:</p>
 <ul class="photos">
   {% for item in photos %}
     {% if loop.index < 4 %}

@@ -52,10 +52,26 @@ tags:
   - USA
   - violet
 settings:
-  focal_length: 50
-  iso: 160
-  aperture: 1.4
-  shutter_speed: 1/50
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 1.4
+    computed: 1.4
+    readable: ƒ/1.4
+    slug: f-1-4
+  shutter_speed:
+    raw: 0.02
+    computed: 0.02
+    readable: 1/50 s
+    slug: 1-50-s
 dimensions:
   width: 3500
   height: 2333

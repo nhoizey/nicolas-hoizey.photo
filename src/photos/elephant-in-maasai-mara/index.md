@@ -37,11 +37,27 @@ tags:
   - Narok County
   - reserve
 settings:
-  focal_length: 452.5
-  focal_length_35mm: 679
-  iso: 800
-  aperture: 8
-  shutter_speed: 1/220
+  focal_length:
+    raw: 452.5
+    eq35mm: 679
+    readable: 679 mm
+    slug: 679-mm
+    computed: 679
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.004545454545454545
+    computed: 0.004545454545454545
+    readable: 1/220 s
+    slug: 1-220-s
 dimensions:
   width: 3500
   height: 2333
@@ -52,10 +68,10 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 181 196 116
+  vibrant: 136 164 76
   darkVibrant: 20 4 4
   lightVibrant: 215 200 165
-  muted: 159 124 102
+  muted: 159 124 101
   darkMuted: 74 56 47
   lightMuted: 199 197 158
 lqip: data:image/webp;base64,UklGRngBAABXRUJQVlA4IGwBAAAwDQCdASpkAEMAP1mawFiyLDajuLOd+tArCWMAy23dMvhunANumv1gPiseI3ms9NI6KQvL3FMAjYWgaJOx14fmppd2GyHCNPpDixfpaWavHm+FGh9pAiQS+gWiZfRXPTDW97zcY2KpcMWw+c5BdlQexAAAsG9nqqGg9/YhBzsIPHaZUhzrrTBaXjLhJ/Jq9J3Yz2XaBrsfJwVlRLyKHHt+vsJCGx7vbuZg+YR0AXJ4I00QrWzD2HSD6ECAL6mTRfbbxmdnXx7cO+YTmw4F4JqkqBz4z7J5hkI+HUUa+H8tm4HdEcgqU7Wos/8ANFTmE74SwvmS41X/VuaSVGMxUZdB4Aan4RFG8nS0sA2biKryTNOjutAy+tlMsf2Vh3T51F7RKiMWG5kIVZj1ApZP2h5L9s5HN2O+G7yP5xDv8Ge7swsaLpUdwFJpxe/sLEpcTrICHSHOCIuyb7tc9Tz6HaoLp9XJB9Nav1iQ0gAA

@@ -29,11 +29,27 @@ tags:
   - track
   - track and field
 settings:
-  focal_length: 400
-  focal_length_35mm: 600
-  iso: 1000
-  aperture: 5.6
-  shutter_speed: 1/500
+  focal_length:
+    raw: 400
+    eq35mm: 600
+    readable: 600 mm
+    slug: 600-mm
+    computed: 600
+  iso:
+    raw: 1000
+    computed: 1000
+    readable: "1000"
+    slug: "1000"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333

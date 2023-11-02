@@ -52,11 +52,27 @@ tags:
   - soleil
   - sunset
 settings:
-  focal_length: 407.4
-  focal_length_35mm: 611
-  iso: 800
-  aperture: 10
-  shutter_speed: 1/340
+  focal_length:
+    raw: 407.4
+    eq35mm: 611
+    readable: 611 mm
+    slug: 611-mm
+    computed: 611
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 10
+    computed: 10
+    readable: ƒ/10
+    slug: f-10
+  shutter_speed:
+    raw: 0.0029411764705882353
+    computed: 0.0029411764705882353
+    readable: 1/340 s
+    slug: 1-340-s
 dimensions:
   width: 3500
   height: 2333

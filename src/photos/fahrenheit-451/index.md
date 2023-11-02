@@ -35,11 +35,27 @@ tags:
   - roman
   - water hose
 settings:
-  focal_length: 80
-  focal_length_35mm: 120
-  iso: 160
-  aperture: 16
-  shutter_speed: 1/2
+  focal_length:
+    raw: 80
+    eq35mm: 120
+    readable: 120 mm
+    slug: 120-mm
+    computed: 120
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 16
+    computed: 16
+    readable: ƒ/16
+    slug: f-16
+  shutter_speed:
+    raw: 0.5
+    computed: 0.5
+    readable: 1/2 s
+    slug: 1-2-s
 dimensions:
   width: 2333
   height: 3500

@@ -30,11 +30,27 @@ tags:
   - კავკასია
   - საქართველო
 settings:
-  focal_length: 10
-  focal_length_35mm: 15
-  iso: 200
-  aperture: 9
-  shutter_speed: 1/1800
+  focal_length:
+    raw: 10
+    eq35mm: 15
+    readable: 15 mm
+    slug: 15-mm
+    computed: 15
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.0005555555555555556
+    computed: 0.0005555555555555556
+    readable: 1/1800 s
+    slug: 1-1800-s
 dimensions:
   width: 3500
   height: 2333
@@ -46,7 +62,7 @@ geo:
   city: Tbilisi
 colors:
   vibrant: 219 175 71
-  darkVibrant: 126 105 22
+  darkVibrant: 125 104 22
   lightVibrant: 190 163 116
   muted: 169 132 83
   darkMuted: 95 77 50

@@ -41,11 +41,27 @@ tags:
   - wild animal
   - wild animals
 settings:
-  focal_length: 317.2
-  focal_length_35mm: 476
-  iso: 800
-  aperture: 8
-  shutter_speed: 1/210
+  focal_length:
+    raw: 317.2
+    eq35mm: 476
+    readable: 476 mm
+    slug: 476-mm
+    computed: 476
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.004761904761904762
+    computed: 0.004761904761904762
+    readable: 1/210 s
+    slug: 1-210-s
 dimensions:
   width: 3500
   height: 2333

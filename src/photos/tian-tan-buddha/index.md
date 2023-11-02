@@ -25,11 +25,27 @@ tags:
   - Tian Tan Buddha
   - 天壇大佛
 settings:
-  focal_length: 25.7
-  focal_length_35mm: 70
-  iso: 250
-  aperture: 8
-  shutter_speed: 1/80
+  focal_length:
+    raw: 25.7
+    eq35mm: 70
+    readable: 70 mm
+    slug: 70-mm
+    computed: 70
+  iso:
+    raw: 250
+    computed: 250
+    readable: "250"
+    slug: "250"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.0125
+    computed: 0.0125
+    readable: 1/80 s
+    slug: 1-80-s
 dimensions:
   width: 3500
   height: 2333

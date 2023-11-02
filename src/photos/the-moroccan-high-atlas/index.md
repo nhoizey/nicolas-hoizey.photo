@@ -43,10 +43,26 @@ tags:
   - اَلْأَطْـلَـس الْـكَـبِـيْـر
   - تارودانت
 settings:
-  focal_length: 50
-  iso: 50
-  aperture: 6.3
-  shutter_speed: 1/320
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 50
+    computed: 50
+    readable: "50"
+    slug: "50"
+  aperture:
+    raw: 6.3
+    computed: 6.3
+    readable: ƒ/6.3
+    slug: f-6-3
+  shutter_speed:
+    raw: 0.003125
+    computed: 0.003125
+    readable: 1/320 s
+    slug: 1-320-s
 dimensions:
   width: 3500
   height: 2333

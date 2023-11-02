@@ -37,11 +37,27 @@ tags:
   - Parc national d'Amboseli
   - Saddle-billed Stork
 settings:
-  focal_length: 306.6
-  focal_length_35mm: 460
-  iso: 160
-  aperture: 9.6
-  shutter_speed: 1/450
+  focal_length:
+    raw: 306.6
+    eq35mm: 460
+    readable: 460 mm
+    slug: 460-mm
+    computed: 460
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 9.6
+    computed: 9.6
+    readable: ƒ/9.6
+    slug: f-9-6
+  shutter_speed:
+    raw: 0.0022222222222222222
+    computed: 0.0022222222222222222
+    readable: 1/450 s
+    slug: 1-450-s
 dimensions:
   width: 3500
   height: 2333

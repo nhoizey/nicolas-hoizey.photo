@@ -42,11 +42,27 @@ tags:
   - voiture
   - volant
 settings:
-  focal_length: 8.8
-  focal_length_35mm: 24
-  iso: 6400
-  aperture: 4.5
-  shutter_speed: 1/125
+  focal_length:
+    raw: 8.8
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 6400
+    computed: 6400
+    readable: "6400"
+    slug: "6400"
+  aperture:
+    raw: 4.5
+    computed: 4.5
+    readable: ƒ/4.5
+    slug: f-4-5
+  shutter_speed:
+    raw: 0.008
+    computed: 0.008
+    readable: 1/125 s
+    slug: 1-125-s
 dimensions:
   width: 3500
   height: 2333

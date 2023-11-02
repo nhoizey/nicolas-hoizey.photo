@@ -29,11 +29,27 @@ tags:
   - track
   - track and field
 settings:
-  focal_length: 100
-  focal_length_35mm: 150
-  iso: 200
-  aperture: 4.5
-  shutter_speed: 1/420
+  focal_length:
+    raw: 100
+    eq35mm: 150
+    readable: 150 mm
+    slug: 150-mm
+    computed: 150
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 4.5
+    computed: 4.5
+    readable: ƒ/4.5
+    slug: f-4-5
+  shutter_speed:
+    raw: 0.002380952380952381
+    computed: 0.002380952380952381
+    readable: 1/420 s
+    slug: 1-420-s
 dimensions:
   width: 2333
   height: 3500

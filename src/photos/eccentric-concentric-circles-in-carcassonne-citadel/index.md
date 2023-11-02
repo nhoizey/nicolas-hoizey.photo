@@ -37,11 +37,27 @@ tags:
   - ville
   - wall
 settings:
-  focal_length: 16
-  focal_length_35mm: 24
-  iso: 200
-  aperture: 11
-  shutter_speed: 1/170
+  focal_length:
+    raw: 16
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.0058823529411764705
+    computed: 0.0058823529411764705
+    readable: 1/170 s
+    slug: 1-170-s
 dimensions:
   width: 3500
   height: 2333

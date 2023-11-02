@@ -32,11 +32,27 @@ tags:
   - voyage
   - Wan Chai
 settings:
-  focal_length: 24.82
-  focal_length_35mm: 68
-  iso: 4000
-  aperture: 6.3
-  shutter_speed: 1/80
+  focal_length:
+    raw: 24.82
+    eq35mm: 68
+    readable: 68 mm
+    slug: 68-mm
+    computed: 68
+  iso:
+    raw: 4000
+    computed: 4000
+    readable: "4000"
+    slug: "4000"
+  aperture:
+    raw: 6.3
+    computed: 6.3
+    readable: ƒ/6.3
+    slug: f-6-3
+  shutter_speed:
+    raw: 0.0125
+    computed: 0.0125
+    readable: 1/80 s
+    slug: 1-80-s
 dimensions:
   width: 3500
   height: 2333

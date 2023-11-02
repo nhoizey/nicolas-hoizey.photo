@@ -43,11 +43,27 @@ tags:
   - Panthera leo
   - reserve
 settings:
-  focal_length: 800
-  focal_length_35mm: 1200
-  iso: 800
-  aperture: 11
-  shutter_speed: 1/340
+  focal_length:
+    raw: 800
+    eq35mm: 1200
+    readable: 1200 mm
+    slug: 1200-mm
+    computed: 1200
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.0029411764705882353
+    computed: 0.0029411764705882353
+    readable: 1/340 s
+    slug: 1-340-s
 dimensions:
   width: 3500
   height: 2333

@@ -52,11 +52,27 @@ tags:
   - ville
   - water
 settings:
-  focal_length: 14.5
-  focal_length_35mm: 22
-  iso: 400
-  aperture: 9
-  shutter_speed: 1/60
+  focal_length:
+    raw: 14.5
+    eq35mm: 22
+    readable: 22 mm
+    slug: 22-mm
+    computed: 22
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.016666666666666666
+    computed: 0.016666666666666666
+    readable: 1/60 s
+    slug: 1-60-s
 dimensions:
   width: 3500
   height: 1969

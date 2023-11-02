@@ -34,11 +34,27 @@ tags:
   - Sverige
   - Sweden
 settings:
-  focal_length: 24
-  focal_length_35mm: 36
-  iso: 200
-  aperture: 9
-  shutter_speed: 1/35
+  focal_length:
+    raw: 24
+    eq35mm: 36
+    readable: 36 mm
+    slug: 36-mm
+    computed: 36
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.02857142857142857
+    computed: 0.02857142857142857
+    readable: 1/35 s
+    slug: 1-35-s
 dimensions:
   width: 3500
   height: 2333
@@ -49,12 +65,12 @@ geo:
   country: Sweden
   city: Åkersberga
 colors:
-  vibrant: 106 131 188
+  vibrant: 84 124 180
   darkVibrant: 108 108 36
   lightVibrant: 154 174 214
-  muted: 89 115 164
-  darkMuted: 49 66 98
-  lightMuted: 143 162 201
+  muted: 96 120 166
+  darkMuted: 43 58 86
+  lightMuted: 135 156 198
 lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAAAwEgCdASpkAEMAP1GKuFiwqSUjuZyLahAqCWcA0YUsPxfJDOpBjQdgxgWmEL4kkPK6MPC6xrRZYY8tuooSiYjMImW3OVYs/NTxDOnAmw4YDulRAig59ttH7Pawe4jhbMDnEneJYNoAsnIqlRkkvEFBeYn3RRgh+S2pmq0pdiXhR0o/giytAcCAhTNmrw7PtPysrfobM3pp+lwAAP68ngSKyj+/AtYgYeAoy1jXTe6wPY4Ufo9CdNqmYK4Y192ldC/XUrgn/KbbeXOe2gtVSAU/SPQskM4YxEqKz/5tRHwBETNLZhWjodLKporQS+ojXyti5oWhftmJVTd0sqXKFJavELvqhPQfNVqh7difUI6rNHfK4cTEz6hEuyda9SNZsxlXRIeaxFRvzby2usLj+KzKiDaMo8+/HfDyxo3GTeeMN/1Dg+Ad9sYoVd+BlPUDIYQlimR2uFNf6FutnlL0rr+P+mJFY4jwIGK9HKJQ8geFwpbPkziiWKeFuyNBWQ5rBwdiVhThzjMyz1UcklS4RaYG8BjBNKmkJBZADxW7Fgr7BiU/Z9MD/kq0+YTt6WZjUgESa0aa5q8AAA==
 ---
 

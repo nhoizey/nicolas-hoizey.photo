@@ -45,11 +45,27 @@ tags:
   - volcan
   - volcano
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 200
-  aperture: 8
-  shutter_speed: 1/1100
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.0009090909090909091
+    computed: 0.0009090909090909091
+    readable: 1/1100 s
+    slug: 1-1100-s
 dimensions:
   width: 3500
   height: 2333

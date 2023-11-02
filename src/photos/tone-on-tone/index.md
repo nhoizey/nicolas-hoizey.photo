@@ -31,10 +31,26 @@ tags:
   - vert
   - window
 settings:
-  focal_length: 85
-  iso: 100
-  aperture: 8
-  shutter_speed: 1/200
+  focal_length:
+    raw: 85
+    readable: 85 mm
+    slug: 85-mm
+    computed: 85
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.005
+    computed: 0.005
+    readable: 1/200 s
+    slug: 1-200-s
 dimensions:
   width: 2114
   height: 2114

@@ -38,10 +38,26 @@ tags:
   - Ήμερη Γραμβούσα
   - Κρήτη
 settings:
-  focal_length: 17
-  iso: 200
-  aperture: 13
-  shutter_speed: 1/400
+  focal_length:
+    raw: 17
+    readable: 17 mm
+    slug: 17-mm
+    computed: 17
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 13
+    computed: 13
+    readable: ƒ/13
+    slug: f-13
+  shutter_speed:
+    raw: 0.0025
+    computed: 0.0025
+    readable: 1/400 s
+    slug: 1-400-s
 dimensions:
   width: 3500
   height: 1384
@@ -53,7 +69,7 @@ geo:
   city: Kissamos
 colors:
   vibrant: 6 128 186
-  darkVibrant: 9 91 135
+  darkVibrant: 6 96 147
   lightVibrant: 241 182 124
   muted: 110 138 149
   darkMuted: 79 62 48

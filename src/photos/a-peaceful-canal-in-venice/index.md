@@ -27,10 +27,26 @@ tags:
   - Venise
   - water
 settings:
-  focal_length: 17
-  iso: 100
-  aperture: 8
-  shutter_speed: 1/125
+  focal_length:
+    raw: 17
+    readable: 17 mm
+    slug: 17-mm
+    computed: 17
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.008
+    computed: 0.008
+    readable: 1/125 s
+    slug: 1-125-s
 dimensions:
   width: 3318
   height: 2212

@@ -52,11 +52,27 @@ tags:
   - Vatican Museums
   - vue d'en haut
 settings:
-  focal_length: 10
-  focal_length_35mm: 15
-  iso: 1600
-  aperture: 9
-  shutter_speed: 1/40
+  focal_length:
+    raw: 10
+    eq35mm: 15
+    readable: 15 mm
+    slug: 15-mm
+    computed: 15
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.025
+    computed: 0.025
+    readable: 1/40 s
+    slug: 1-40-s
 dimensions:
   width: 3500
   height: 2333

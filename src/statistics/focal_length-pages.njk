@@ -8,7 +8,7 @@ pagination:
   addAllPagesToCollections: true
 layout: statistics
 eleventyComputed:
-  title: "Photos taken with focal lengths {{ focal_lengths.readable_value }}"
+  title: "Photos taken with focal lengths {{ focal_lengths.readable }}"
 permalink: /statistics/focal-length/{{ focal_lengths.slug }}/
 ---
 
@@ -20,9 +20,9 @@ permalink: /statistics/focal-length/{{ focal_lengths.slug }}/
 
 {% from "macros/photo.njk" import photo %}
 
-{% set photos = collections.photos_in_galleries | with_setting('focal_length_35mm', focal_lengths.raw_value) %}
+{% set photos = collections.photos_in_galleries | with_setting('focal_length', focal_lengths.readable) %}
 {% set photosNumber = photos | length %}
-<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>focal length {{ focal_lengths.readable_value }}</strong> (35mm equivalent):</p>
+<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>focal length {{ focal_lengths.readable }}</strong> (35mm equivalent):</p>
 <ul class="photos">
   {% for item in photos %}
     {% if loop.index < 4 %}

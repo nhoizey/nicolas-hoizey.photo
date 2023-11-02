@@ -30,11 +30,27 @@ tags:
   - voiture
   - white
 settings:
-  focal_length: 8.8
-  focal_length_35mm: 24
-  iso: 125
-  aperture: 8
-  shutter_speed: 1/160
+  focal_length:
+    raw: 8.8
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 125
+    computed: 125
+    readable: "125"
+    slug: "125"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.00625
+    computed: 0.00625
+    readable: 1/160 s
+    slug: 1-160-s
 dimensions:
   width: 3500
   height: 2333

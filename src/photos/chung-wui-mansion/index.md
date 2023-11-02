@@ -20,11 +20,27 @@ tags:
   - Hong Kong Island
   - Wan Chai
 settings:
-  focal_length: 8.8
-  focal_length_35mm: 24
-  iso: 125
-  aperture: 6.3
-  shutter_speed: 1/500
+  focal_length:
+    raw: 8.8
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 125
+    computed: 125
+    readable: "125"
+    slug: "125"
+  aperture:
+    raw: 6.3
+    computed: 6.3
+    readable: ƒ/6.3
+    slug: f-6-3
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 2282
   height: 3423

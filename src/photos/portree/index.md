@@ -59,10 +59,26 @@ tags:
   - United Kingdom of Great Britain and Northern Ireland
   - ville
 settings:
-  focal_length: 32
-  iso: 200
-  aperture: 11
-  shutter_speed: 1/100
+  focal_length:
+    raw: 32
+    readable: 32 mm
+    slug: 32-mm
+    computed: 32
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.01
+    computed: 0.01
+    readable: 1/100 s
+    slug: 1-100-s
 dimensions:
   width: 3500
   height: 2333

@@ -29,11 +29,27 @@ tags:
   - ruin
   - ruine
 settings:
-  focal_length: 16.6
-  focal_length_35mm: 25
-  iso: 200
-  aperture: 4
-  shutter_speed: 1/550
+  focal_length:
+    raw: 16.6
+    eq35mm: 25
+    readable: 25 mm
+    slug: 25-mm
+    computed: 25
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.0018181818181818182
+    computed: 0.0018181818181818182
+    readable: 1/550 s
+    slug: 1-550-s
 dimensions:
   width: 3500
   height: 2333
@@ -44,9 +60,9 @@ geo:
   country: Italy
   city: Rome
 colors:
-  vibrant: 157 218 37
-  darkVibrant: 84 116 20
-  lightVibrant: 204 236 142
+  vibrant: 152 210 45
+  darkVibrant: 84 116 25
+  lightVibrant: 201 231 146
   muted: 131 123 116
   darkMuted: 55 65 30
   lightMuted: 180 192 204

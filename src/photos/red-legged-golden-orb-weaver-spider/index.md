@@ -52,11 +52,27 @@ tags:
   - wild animal
   - wild animals
 settings:
-  focal_length: 400
-  focal_length_35mm: 600
-  iso: 800
-  aperture: 5.6
-  shutter_speed: 1/125
+  focal_length:
+    raw: 400
+    eq35mm: 600
+    readable: 600 mm
+    slug: 600-mm
+    computed: 600
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.008
+    computed: 0.008
+    readable: 1/125 s
+    slug: 1-125-s
 dimensions:
   width: 3500
   height: 2333
@@ -70,7 +86,7 @@ colors:
   vibrant: 239 166 29
   darkVibrant: 85 107 9
   lightVibrant: 246 206 131
-  muted: 153 141 102
+  muted: 152 141 102
   darkMuted: 74 76 44
   lightMuted: 195 185 167
 lqip: data:image/webp;base64,UklGRkwBAABXRUJQVlA4IEABAACQCwCdASpkAEMAP3GiyFq0v7srMVKMe/AuCWMAzYngZr5R4LHQR1v/vQuYK4Ql86zBL3rfB5rmPUpve9+Y3Agj5bx5UBu8S9xOFDshG2antAQySUhk2lc3dF5C0u3ufCIFoUrJAADdQeAWO2Yx5EfOCx0QGW9ZRMaA4xJxvBBIOqK+F8q8wQ0jKbBqCtQttF1GzFv8qekBWn7nuQg2z7yAnv8U53P8VD4ZZKLAucCvYgRQ3Os8opCDYxH5B5YxsF1OamtdjIhzwP3Zxa/7SGV7olG3mUwmGQ//XN83wTQd1r56aG+QpWmcvUd7fytwyHrEWNqQCrvHS1zlQyrUCJk2sNt1RzjSvPwlPoVFcrlSEV2LC2k3qDqj1zr25HweSj0vStuPBIKZouMP61dNa1FyAma38DRwqWeBnKevqAAAAA==

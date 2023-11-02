@@ -41,11 +41,27 @@ tags:
   - Trachyphonus darnaudii
   - white
 settings:
-  focal_length: 581.2
-  focal_length_35mm: 872
-  iso: 800
-  aperture: 10
-  shutter_speed: 1/105
+  focal_length:
+    raw: 581.2
+    eq35mm: 872
+    readable: 872 mm
+    slug: 872-mm
+    computed: 872
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 10
+    computed: 10
+    readable: ƒ/10
+    slug: f-10
+  shutter_speed:
+    raw: 0.009523809523809525
+    computed: 0.009523809523809525
+    readable: 1/105 s
+    slug: 1-105-s
 dimensions:
   width: 3500
   height: 2333

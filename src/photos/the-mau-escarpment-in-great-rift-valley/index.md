@@ -23,11 +23,27 @@ tags:
   - Narok County
   - paysage
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 160
-  aperture: 1.2
-  shutter_speed: 1/9000
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 1.2
+    computed: 1.2
+    readable: ƒ/1.2
+    slug: f-1-2
+  shutter_speed:
+    raw: 0.00011111111111111112
+    computed: 0.00011111111111111112
+    readable: 1/9000 s
+    slug: 1-9000-s
 dimensions:
   width: 3500
   height: 2333
@@ -38,7 +54,7 @@ geo:
   country: Kenya
   city: Narok
 colors:
-  vibrant: 212 76 76
+  vibrant: 212 76 68
   darkVibrant: 85 80 19
   lightVibrant: 156 187 228
   muted: 134 114 96

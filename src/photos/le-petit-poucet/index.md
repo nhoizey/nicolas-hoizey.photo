@@ -31,11 +31,27 @@ tags:
   - table
   - vintage
 settings:
-  focal_length: 18.2
-  focal_length_35mm: 27
-  iso: 2000
-  aperture: 5.6
-  shutter_speed: 1/60
+  focal_length:
+    raw: 18.2
+    eq35mm: 27
+    readable: 27 mm
+    slug: 27-mm
+    computed: 27
+  iso:
+    raw: 2000
+    computed: 2000
+    readable: "2000"
+    slug: "2000"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.016666666666666666
+    computed: 0.016666666666666666
+    readable: 1/60 s
+    slug: 1-60-s
 dimensions:
   width: 3500
   height: 2333

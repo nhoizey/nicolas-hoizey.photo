@@ -32,11 +32,27 @@ tags:
   - Victoria Harbour
   - 張保仔
 settings:
-  focal_length: 8.8
-  focal_length_35mm: 24
-  iso: 5000
-  aperture: 2.5
-  shutter_speed: 1/30
+  focal_length:
+    raw: 8.8
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 5000
+    computed: 5000
+    readable: "5000"
+    slug: "5000"
+  aperture:
+    raw: 2.5
+    computed: 2.5
+    readable: ƒ/2.5
+    slug: f-2-5
+  shutter_speed:
+    raw: 0.03333333333333333
+    computed: 0.03333333333333333
+    readable: 1/30 s
+    slug: 1-30-s
 dimensions:
   width: 3500
   height: 2333

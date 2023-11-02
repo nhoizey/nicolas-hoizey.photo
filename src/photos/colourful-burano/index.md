@@ -31,10 +31,26 @@ tags:
   - Venise
   - water
 settings:
-  focal_length: 26
-  iso: 100
-  aperture: 10
-  shutter_speed: 1/200
+  focal_length:
+    raw: 26
+    readable: 26 mm
+    slug: 26-mm
+    computed: 26
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 10
+    computed: 10
+    readable: ƒ/10
+    slug: f-10
+  shutter_speed:
+    raw: 0.005
+    computed: 0.005
+    readable: 1/200 s
+    slug: 1-200-s
 dimensions:
   width: 3456
   height: 2304

@@ -50,10 +50,26 @@ tags:
   - ville
   - vue d'en haut
 settings:
-  focal_length: 24
-  iso: 800
-  aperture: 2.8
-  shutter_speed: 1/4
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.25
+    computed: 0.25
+    readable: 1/4 s
+    slug: 1-4-s
 dimensions:
   width: 3500
   height: 2333
@@ -65,7 +81,7 @@ geo:
   city: Central and Western District
 colors:
   vibrant: 188 121 20
-  darkVibrant: 107 65 18
+  darkVibrant: 107 65 19
   lightVibrant: 238 213 137
   muted: 161 94 76
   darkMuted: 68 57 54

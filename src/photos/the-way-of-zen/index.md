@@ -30,11 +30,27 @@ tags:
   - végétal
   - zen
 settings:
-  focal_length: 8.8
-  focal_length_35mm: 24
-  iso: 250
-  aperture: 6.3
-  shutter_speed: 1/30
+  focal_length:
+    raw: 8.8
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 250
+    computed: 250
+    readable: "250"
+    slug: "250"
+  aperture:
+    raw: 6.3
+    computed: 6.3
+    readable: ƒ/6.3
+    slug: f-6-3
+  shutter_speed:
+    raw: 0.03333333333333333
+    computed: 0.03333333333333333
+    readable: 1/30 s
+    slug: 1-30-s
 dimensions:
   width: 3500
   height: 3247

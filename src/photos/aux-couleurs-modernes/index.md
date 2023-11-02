@@ -32,11 +32,27 @@ tags:
   - store
   - yellow
 settings:
-  focal_length: 18
-  focal_length_35mm: 27
-  iso: 400
-  aperture: 2.8
-  shutter_speed: 1/420
+  focal_length:
+    raw: 18
+    eq35mm: 27
+    readable: 27 mm
+    slug: 27-mm
+    computed: 27
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.002380952380952381
+    computed: 0.002380952380952381
+    readable: 1/420 s
+    slug: 1-420-s
 dimensions:
   width: 3500
   height: 2333
@@ -52,7 +68,7 @@ colors:
   lightVibrant: 251 234 34
   muted: 146 113 75
   darkMuted: 64 52 43
-  lightMuted: 164 174 180
+  lightMuted: 190 186 187
 lqip: data:image/webp;base64,UklGRlACAABXRUJQVlA4IEQCAACwEwCdASpkAEMAP3Gsx1y0raemLbIrMpAuCWIA1Z3S4WA1ZnMRjJaVygFkB0Hsn3HnEG7hNu/y1BfKtlgmgATPV1R3T2YTx5RY4lgHBTGhIQsKXGy8TELGEcCBg8WyklKLYSNn5hHMcp/Jw8FtP4r0K4OkE2ByYBZmFO0ZOxAD5iuphw3LcvWgwgGKBfc68i9+mR9drD7gwewX8hdSELVM71D+q8bQAP6Rpsus4eKnAZ9LCCLdK8h7rTLr2e7/79gPXbcPCgzoCmW8PTb6WPslCR8vgsuvFsms/65197MUm7AS4eMd3gHJhCnXMVce17si5jYZqMYtQHwun3ppauEkxAehmbQGMX6//JbfTI0vRr/6BqjGkF7pR+16h1taDX4zfrdmf6m7xM51vh6O7kPLa3V/R/6Ty29GCU+XS3qlPmibYi+vGXnY3wnd2c7DFleD4QrBq0h9CNoL4m2+Sq/5R6WivIKXDkIAZP40cuAqUCAeZLd3z+G6Wvj9NGxDzgDrwvbj/X+lyGS59+qdFrS8W+ia/BVvW1gC2Lx7pVMZdtHOpKwTmIPLiE3KZZX9No1DBWy5t3p8z6KAVknRjZJc+FcegL+9GtnRT8uXHhFb4OyCQboVTkw5cepwWnhfQ5OsPXfVCE3Z8vevO5lA4OzXkSKZA143dI9Jg3grQJm5E7xVJG9Y/KDSkBLIbege8wP5FdokUIsprskonNgMjNaCV8oII6fEYOHFTtxeZ3309E8358VbddQz89ki11DG6rfAAAAA
 ---
 

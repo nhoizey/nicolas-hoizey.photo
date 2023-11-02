@@ -40,10 +40,26 @@ tags:
   - sunset
   - water
 settings:
-  focal_length: 34
-  iso: 200
-  aperture: 10
-  shutter_speed: "30"
+  focal_length:
+    raw: 34
+    readable: 34 mm
+    slug: 34-mm
+    computed: 34
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 10
+    computed: 10
+    readable: ƒ/10
+    slug: f-10
+  shutter_speed:
+    raw: 30
+    computed: 30
+    readable: 30 s
+    slug: 30-s
 dimensions:
   width: 3500
   height: 2334
@@ -58,7 +74,7 @@ colors:
   darkVibrant: 4 70 104
   lightVibrant: 127 208 250
   muted: 161 113 88
-  darkMuted: 46 56 73
+  darkMuted: 47 56 73
   lightMuted: 6 99 147
 lqip: data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAAAwCACdASpkAEMAP3GqzGC7t6mvqFHLY3AuCWMA0BgZwzUS1iGug6K7dOfIlHDPSMKti/5bLBi6vv5rQ7YR85cgX7cznzy1AwKMYAD+7HwBD/UO/cTUsGqnfwqrzaCMFp9NtmO+Qbabe5uS0OTQNbTNgH1y7nb7E1cc71Uyo6USM4fatgjcJb4qeAxGX7XEBOUXTKvbHjIzXSAg8z8cHAX49tLJ1IhqoofduUCvSxjVpN5pg4wIRkKYzmPgAAAA
 ---

@@ -50,11 +50,27 @@ tags:
   - zèbre de Grant
   - zèbre des plaines
 settings:
-  focal_length: 406.8
-  focal_length_35mm: 610
-  iso: 320
-  aperture: 8
-  shutter_speed: 1/500
+  focal_length:
+    raw: 406.8
+    eq35mm: 610
+    readable: 610 mm
+    slug: 610-mm
+    computed: 610
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333
@@ -67,7 +83,7 @@ geo:
 colors:
   vibrant: 127 141 59
   darkVibrant: 99 76 44
-  lightVibrant: 207 180 150
+  lightVibrant: 207 181 150
   muted: 156 156 100
   darkMuted: 79 65 54
   lightMuted: 194 196 172

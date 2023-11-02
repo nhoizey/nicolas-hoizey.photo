@@ -34,11 +34,27 @@ tags:
   - ჯვარი
   - ჯვრის მონასტერი
 settings:
-  focal_length: 10
-  focal_length_35mm: 15
-  iso: 200
-  aperture: 10
-  shutter_speed: 1/400
+  focal_length:
+    raw: 10
+    eq35mm: 15
+    readable: 15 mm
+    slug: 15-mm
+    computed: 15
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 10
+    computed: 10
+    readable: ƒ/10
+    slug: f-10
+  shutter_speed:
+    raw: 0.0025
+    computed: 0.0025
+    readable: 1/400 s
+    slug: 1-400-s
 dimensions:
   width: 3500
   height: 2333

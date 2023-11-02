@@ -25,11 +25,27 @@ tags:
   - Roma
   - Rome
 settings:
-  focal_length: 10
-  focal_length_35mm: 15
-  iso: 200
-  aperture: 9
-  shutter_speed: 1/600
+  focal_length:
+    raw: 10
+    eq35mm: 15
+    readable: 15 mm
+    slug: 15-mm
+    computed: 15
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.0016666666666666668
+    computed: 0.0016666666666666668
+    readable: 1/600 s
+    slug: 1-600-s
 dimensions:
   width: 3500
   height: 2333
@@ -40,9 +56,9 @@ geo:
   country: Italy
   city: Rome
 colors:
-  vibrant: 140 108 60
-  darkVibrant: 65 15 27
-  lightVibrant: 204 164 124
+  vibrant: 204 164 124
+  darkVibrant: 66 14 26
+  lightVibrant: 218 189 160
   muted: 100 124 156
   darkMuted: 66 58 42
   lightMuted: 181 184 190

@@ -32,10 +32,26 @@ tags:
   - water
   - zoo
 settings:
-  focal_length: 100
-  iso: 1600
-  aperture: 2.8
-  shutter_speed: 1/100
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.01
+    computed: 0.01
+    readable: 1/100 s
+    slug: 1-100-s
 dimensions:
   width: 2304
   height: 2304

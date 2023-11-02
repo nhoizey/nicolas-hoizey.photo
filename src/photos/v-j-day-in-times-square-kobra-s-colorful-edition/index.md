@@ -44,11 +44,27 @@ tags:
   - USA
   - violet
 settings:
-  focal_length: 11.69
-  focal_length_35mm: 32
-  iso: 125
-  aperture: 6.3
-  shutter_speed: 1/125
+  focal_length:
+    raw: 11.69
+    eq35mm: 32
+    readable: 32 mm
+    slug: 32-mm
+    computed: 32
+  iso:
+    raw: 125
+    computed: 125
+    readable: "125"
+    slug: "125"
+  aperture:
+    raw: 6.3
+    computed: 6.3
+    readable: ƒ/6.3
+    slug: f-6-3
+  shutter_speed:
+    raw: 0.008
+    computed: 0.008
+    readable: 1/125 s
+    slug: 1-125-s
 dimensions:
   width: 3440
   height: 2293

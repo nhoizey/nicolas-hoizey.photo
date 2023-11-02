@@ -32,11 +32,27 @@ tags:
   - The Netherlands
   - ville
 settings:
-  focal_length: 8
-  focal_length_35mm: 39
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/8
+  focal_length:
+    raw: 8
+    eq35mm: 39
+    readable: 39 mm
+    slug: 39-mm
+    computed: 39
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.125
+    computed: 0.125
+    readable: 1/8 s
+    slug: 1-8-s
 dimensions:
   width: 2248
   height: 1525

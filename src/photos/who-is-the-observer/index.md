@@ -52,11 +52,27 @@ tags:
   - voiture
   - wild
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 200
-  aperture: 2.8
-  shutter_speed: 1/6000
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.00016666666666666666
+    computed: 0.00016666666666666666
+    readable: 1/6000 s
+    slug: 1-6000-s
 dimensions:
   width: 3500
   height: 1702

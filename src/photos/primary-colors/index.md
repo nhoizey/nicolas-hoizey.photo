@@ -28,11 +28,27 @@ tags:
   - travel
   - voyage
 settings:
-  focal_length: 4.15
-  focal_length_35mm: 29
-  iso: 25
-  aperture: 2.2
-  shutter_speed: 1/1900
+  focal_length:
+    raw: 4.15
+    eq35mm: 29
+    readable: 29 mm
+    slug: 29-mm
+    computed: 29
+  iso:
+    raw: 25
+    computed: 25
+    readable: "25"
+    slug: "25"
+  aperture:
+    raw: 2.2
+    computed: 2.2
+    readable: ƒ/2.2
+    slug: f-2-2
+  shutter_speed:
+    raw: 0.0005263157894736842
+    computed: 0.0005263157894736842
+    readable: 1/1900 s
+    slug: 1-1900-s
 dimensions:
   width: 3164
   height: 2373

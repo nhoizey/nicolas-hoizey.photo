@@ -42,10 +42,26 @@ tags:
   - vert
   - water
 settings:
-  focal_length: 35
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/1000
+  focal_length:
+    raw: 35
+    readable: 35 mm
+    slug: 35-mm
+    computed: 35
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.001
+    computed: 0.001
+    readable: 1/1000 s
+    slug: 1-1000-s
 dimensions:
   width: 3500
   height: 2333

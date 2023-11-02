@@ -24,11 +24,27 @@ tags:
   - Rome
   - toit
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 1600
-  aperture: 1.2
-  shutter_speed: 1/18
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 1.2
+    computed: 1.2
+    readable: ƒ/1.2
+    slug: f-1-2
+  shutter_speed:
+    raw: 0.05555555555555555
+    computed: 0.05555555555555555
+    readable: 1/18 s
+    slug: 1-18-s
 dimensions:
   width: 3500
   height: 2333
@@ -39,7 +55,7 @@ geo:
   country: Italy
   city: Rome
 colors:
-  vibrant: 250 182 60
+  vibrant: 252 182 60
   darkVibrant: 156 60 4
   lightVibrant: 245 201 122
   muted: 116 100 108

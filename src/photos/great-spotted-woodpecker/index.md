@@ -34,11 +34,27 @@ tags:
   - végétal
   - Woodpecker
 settings:
-  focal_length: 400
-  focal_length_35mm: 600
-  iso: 200
-  aperture: 5.6
-  shutter_speed: 1/320
+  focal_length:
+    raw: 400
+    eq35mm: 600
+    readable: 600 mm
+    slug: 600-mm
+    computed: 600
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.003125
+    computed: 0.003125
+    readable: 1/320 s
+    slug: 1-320-s
 dimensions:
   width: 2875
   height: 1917

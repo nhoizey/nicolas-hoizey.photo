@@ -32,11 +32,27 @@ tags:
   - ნარიყალა
   - საქართველო
 settings:
-  focal_length: 24
-  focal_length_35mm: 36
-  iso: 200
-  aperture: 8
-  shutter_speed: 1/4400
+  focal_length:
+    raw: 24
+    eq35mm: 36
+    readable: 36 mm
+    slug: 36-mm
+    computed: 36
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.00022727272727272727
+    computed: 0.00022727272727272727
+    readable: 1/4400 s
+    slug: 1-4400-s
 dimensions:
   width: 3500
   height: 1464

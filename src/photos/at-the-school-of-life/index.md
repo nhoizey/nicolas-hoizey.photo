@@ -51,11 +51,27 @@ tags:
   - zèbre de Grant
   - zèbre des plaines
 settings:
-  focal_length: 200
-  focal_length_35mm: 300
-  iso: 160
-  aperture: 9
-  shutter_speed: 1/340
+  focal_length:
+    raw: 200
+    eq35mm: 300
+    readable: 300 mm
+    slug: 300-mm
+    computed: 300
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.0029411764705882353
+    computed: 0.0029411764705882353
+    readable: 1/340 s
+    slug: 1-340-s
 dimensions:
   width: 3500
   height: 2333
@@ -66,7 +82,7 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 172 100 44
+  vibrant: 172 100 43
   darkVibrant: 92 44 12
   lightVibrant: 228 184 149
   muted: 153 150 97

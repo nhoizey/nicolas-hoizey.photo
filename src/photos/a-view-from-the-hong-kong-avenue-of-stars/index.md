@@ -42,10 +42,26 @@ tags:
   - urban
   - ville
 settings:
-  focal_length: 24
-  iso: 100
-  aperture: 9
-  shutter_speed: "20"
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 20
+    computed: 20
+    readable: 20 s
+    slug: 20-s
 dimensions:
   width: 3500
   height: 1271

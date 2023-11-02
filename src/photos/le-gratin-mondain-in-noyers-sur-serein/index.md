@@ -38,11 +38,27 @@ tags:
   - ville
   - Yonne
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 320
-  aperture: 1.2
-  shutter_speed: 1/150
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 1.2
+    computed: 1.2
+    readable: ƒ/1.2
+    slug: f-1-2
+  shutter_speed:
+    raw: 0.006666666666666667
+    computed: 0.006666666666666667
+    readable: 1/150 s
+    slug: 1-150-s
 dimensions:
   width: 2333
   height: 3500

@@ -25,11 +25,27 @@ tags:
   - კავკასია
   - საქართველო
 settings:
-  focal_length: 14.5
-  focal_length_35mm: 22
-  iso: 6400
-  aperture: 4
-  shutter_speed: 1/35
+  focal_length:
+    raw: 14.5
+    eq35mm: 22
+    readable: 22 mm
+    slug: 22-mm
+    computed: 22
+  iso:
+    raw: 6400
+    computed: 6400
+    readable: "6400"
+    slug: "6400"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.02857142857142857
+    computed: 0.02857142857142857
+    readable: 1/35 s
+    slug: 1-35-s
 dimensions:
   width: 3500
   height: 2333

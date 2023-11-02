@@ -30,10 +30,26 @@ tags:
   - urban
   - ville
 settings:
-  focal_length: 14.333
-  iso: 82
-  aperture: 4
-  shutter_speed: 1/640
+  focal_length:
+    raw: 14.333
+    readable: 14.333 mm
+    slug: 14-333-mm
+    computed: 14.333
+  iso:
+    raw: 82
+    computed: 82
+    readable: "82"
+    slug: "82"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.0015625
+    computed: 0.0015625
+    readable: 1/640 s
+    slug: 1-640-s
 dimensions:
   width: 2816
   height: 2112

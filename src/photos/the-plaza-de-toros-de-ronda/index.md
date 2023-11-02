@@ -31,11 +31,27 @@ tags:
   - Spain
   - yellow
 settings:
-  focal_length: 14.2
-  focal_length_35mm: 69
-  iso: 100
-  aperture: 6.1
-  shutter_speed: 1/590
+  focal_length:
+    raw: 14.2
+    eq35mm: 69
+    readable: 69 mm
+    slug: 69-mm
+    computed: 69
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 6.1
+    computed: 6.1
+    readable: ƒ/6.1
+    slug: f-6-1
+  shutter_speed:
+    raw: 0.001694915254237288
+    computed: 0.001694915254237288
+    readable: 1/590 s
+    slug: 1-590-s
 dimensions:
   width: 2304
   height: 1704

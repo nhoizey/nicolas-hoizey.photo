@@ -45,11 +45,27 @@ tags:
   - reserve
   - shadow
 settings:
-  focal_length: 602.2
-  focal_length_35mm: 903
-  iso: 640
-  aperture: 10
-  shutter_speed: 1/500
+  focal_length:
+    raw: 602.2
+    eq35mm: 903
+    readable: 903 mm
+    slug: 903-mm
+    computed: 903
+  iso:
+    raw: 640
+    computed: 640
+    readable: "640"
+    slug: "640"
+  aperture:
+    raw: 10
+    computed: 10
+    readable: ƒ/10
+    slug: f-10
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333
@@ -60,8 +76,8 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 175 160 67
-  darkVibrant: 96 88 37
+  vibrant: 175 160 68
+  darkVibrant: 95 87 37
   lightVibrant: 221 190 114
   muted: 181 153 117
   darkMuted: 85 80 69

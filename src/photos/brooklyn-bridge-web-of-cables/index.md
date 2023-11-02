@@ -54,10 +54,26 @@ tags:
   - voyage
   - web
 settings:
-  focal_length: 50
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/500
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 2333
   height: 3500

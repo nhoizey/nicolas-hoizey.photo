@@ -31,11 +31,27 @@ tags:
   - sky
   - water
 settings:
-  focal_length: 15.1
-  focal_length_35mm: 23
-  iso: 800
-  aperture: 8
-  shutter_speed: 1/150
+  focal_length:
+    raw: 15.1
+    eq35mm: 23
+    readable: 23 mm
+    slug: 23-mm
+    computed: 23
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.006666666666666667
+    computed: 0.006666666666666667
+    readable: 1/150 s
+    slug: 1-150-s
 dimensions:
   width: 3500
   height: 2333

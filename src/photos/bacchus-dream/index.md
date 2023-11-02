@@ -41,13 +41,29 @@ tags:
   - Vranken-Pommery Monopole
   - wine
 settings:
-  focal_length: 17
-  iso: 1600
-  aperture: 4
-  shutter_speed: 1/5
+  focal_length:
+    raw: 17
+    readable: 17 mm
+    slug: 17-mm
+    computed: 17
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.2
+    computed: 0.2
+    readable: 1/5 s
+    slug: 1-5-s
 dimensions:
-  width: 3456
-  height: 2304
+  width: 3377
+  height: 2251
 geo:
   latitude: 49.243113023333336
   longitude: 4.052492393333333
@@ -55,12 +71,12 @@ geo:
   country: France
   city: Reims
 colors:
-  vibrant: 164 95 44
-  darkVibrant: 100 52 12
-  lightVibrant: 241 198 145
-  muted: 170 130 90
-  darkMuted: 87 59 44
-  lightMuted: 187 156 112
+  vibrant: 160 92 36
+  darkVibrant: 71 37 4
+  lightVibrant: 240 201 142
+  muted: 168 130 90
+  darkMuted: 86 58 44
+  lightMuted: 135 88 18
 lqip: data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAADwDACdASpkAEMAP22iyVi0rKklMHgLSpAtiWMGcAz5krrxqM0AHckJNIP+q2jYSkfwZgjfLnQQOP1z2ylPOGXzoBXbMspR7G7WDbZulQP4Dc1vTdIJH8MT4xXfeRqcDI6fRNeu1kcUgBNe18wTuYJwAP7t4Rs/X/6drmnNiBh7ajTitx7ZVU21zXNTc6UXXivEsvxqjTDPQH8YA0oQkvLgSpcAwPd3/67ldKy8A8iCPYLdCabHlyGZqVc+iqx6evnKPB1Wd6JND7deYhHyfIusZ1TIPwijqMMyTiT6P62kBC6/cZADo8NCDHRWuNZY9tceVWtdPK+ATLVG24Qab9Dyic1o6FgmshbcEQJDx8e9WzbyFVNkKh1pQ+AVqfpGx9kIymRI9Tca1y6AWajKXoJTq+7pnQXOC7U+vSMC7XnzCF3teQG3L+ITYz+TPl0JEAAAAA==
 ---
 

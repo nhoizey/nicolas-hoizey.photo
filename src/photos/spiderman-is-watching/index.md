@@ -42,11 +42,27 @@ tags:
   - Squamata
   - Squamates
 settings:
-  focal_length: 265.8
-  focal_length_35mm: 399
-  iso: 800
-  aperture: 13
-  shutter_speed: 1/180
+  focal_length:
+    raw: 265.8
+    eq35mm: 399
+    readable: 399 mm
+    slug: 399-mm
+    computed: 399
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 13
+    computed: 13
+    readable: ƒ/13
+    slug: f-13
+  shutter_speed:
+    raw: 0.005555555555555556
+    computed: 0.005555555555555556
+    readable: 1/180 s
+    slug: 1-180-s
 dimensions:
   width: 3500
   height: 2333

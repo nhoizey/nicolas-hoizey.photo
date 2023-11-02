@@ -28,10 +28,26 @@ tags:
   - scale
   - scale model
 settings:
-  focal_length: 17
-  iso: 800
-  aperture: 4
-  shutter_speed: 1/25
+  focal_length:
+    raw: 17
+    readable: 17 mm
+    slug: 17-mm
+    computed: 17
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.04
+    computed: 0.04
+    readable: 1/25 s
+    slug: 1-25-s
 dimensions:
   width: 3327
   height: 2218

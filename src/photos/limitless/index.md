@@ -32,10 +32,26 @@ tags:
   - tenue
   - type de photo
 settings:
-  focal_length: 135
-  iso: 1600
-  aperture: 2
-  shutter_speed: 1/640
+  focal_length:
+    raw: 135
+    readable: 135 mm
+    slug: 135-mm
+    computed: 135
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 2
+    computed: 2
+    readable: ƒ/2
+    slug: f-2
+  shutter_speed:
+    raw: 0.0015625
+    computed: 0.0015625
+    readable: 1/640 s
+    slug: 1-640-s
 dimensions:
   width: 2333
   height: 3500

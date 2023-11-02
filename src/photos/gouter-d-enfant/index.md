@@ -39,10 +39,26 @@ tags:
   - rouge
   - vert
 settings:
-  focal_length: 100
-  iso: 100
-  aperture: 16
-  shutter_speed: 2/5
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 16
+    computed: 16
+    readable: ƒ/16
+    slug: f-16
+  shutter_speed:
+    raw: 0.4
+    computed: 0.4
+    readable: 2/5 s
+    slug: 2-5-s
 dimensions:
   width: 2333
   height: 3500
@@ -55,7 +71,7 @@ geo:
 colors:
   vibrant: 229 220 96
   darkVibrant: 142 123 43
-  lightVibrant: 239 188 191
+  lightVibrant: 239 189 191
   muted: 163 144 100
   darkMuted: 102 62 51
   lightMuted: 207 193 186

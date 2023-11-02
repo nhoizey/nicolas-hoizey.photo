@@ -41,11 +41,27 @@ tags:
   - Tisserin baglafecht
   - yellow
 settings:
-  focal_length: 800
-  focal_length_35mm: 1200
-  iso: 640
-  aperture: 11
-  shutter_speed: 1/500
+  focal_length:
+    raw: 800
+    eq35mm: 1200
+    readable: 1200 mm
+    slug: 1200-mm
+    computed: 1200
+  iso:
+    raw: 640
+    computed: 640
+    readable: "640"
+    slug: "640"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333

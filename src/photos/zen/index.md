@@ -32,10 +32,26 @@ tags:
   - tenue
   - type de photo
 settings:
-  focal_length: 50
-  iso: 800
-  aperture: 2.2
-  shutter_speed: 1/160
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 2.2
+    computed: 2.2
+    readable: ƒ/2.2
+    slug: f-2-2
+  shutter_speed:
+    raw: 0.00625
+    computed: 0.00625
+    readable: 1/160 s
+    slug: 1-160-s
 dimensions:
   width: 3500
   height: 2333

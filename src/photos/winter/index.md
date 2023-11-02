@@ -17,10 +17,26 @@ tags:
   - ski
   - vacances
 settings:
-  focal_length: 70
-  iso: 200
-  aperture: 2.8
-  shutter_speed: 1/2500
+  focal_length:
+    raw: 70
+    readable: 70 mm
+    slug: 70-mm
+    computed: 70
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.0004
+    computed: 0.0004
+    readable: 1/2500 s
+    slug: 1-2500-s
 dimensions:
   width: 3500
   height: 2333

@@ -49,11 +49,27 @@ tags:
   - vert
   - walking trail
 settings:
-  focal_length: 11.3
-  focal_length_35mm: 55
-  iso: 100
-  aperture: 3.3
-  shutter_speed: 1/70
+  focal_length:
+    raw: 11.3
+    eq35mm: 55
+    readable: 55 mm
+    slug: 55-mm
+    computed: 55
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 3.3
+    computed: 3.3
+    readable: ƒ/3.3
+    slug: f-3-3
+  shutter_speed:
+    raw: 0.014285714285714285
+    computed: 0.014285714285714285
+    readable: 1/70 s
+    slug: 1-70-s
 dimensions:
   width: 2304
   height: 1704
@@ -70,7 +86,7 @@ colors:
   muted: 146 162 78
   darkMuted: 93 114 57
   lightMuted: 166 174 117
-lqip: data:image/webp;base64,UklGRigCAABXRUJQVlA4IBwCAACQEgCdASpkAEoAP1GWv1iwvScjuLce+6AqCUAZsRD/HzgRhjbrg2+Rv4sWcPPvAts0DRWANrnHx5PCSaGUTF93Daz/z4DA7vS9SQ6JDYYsCgXHOKqJ0OJxaYjQFo7TfBxjbBQrDbefZqVL7Zw4nUfDjuX7ZIu42Akr1S5CxNjGZmPYVw0VPkRNu+vt26tHq+HyCJ/O+EBtPIfCUOwAAP0QlbGA3BP4wmknODoLk3UqytU8VVDYjkWoebDEXxhRoN3pK6fk5RbGM7+QaMLNnMqKwcgrpYap0VI1VZfZJbXdIzvJ9azW/Cq33PqyEhAM4BMJbhRbw1dDUkqG2xmt4gUN1zgcN00lT8LLkEaDKXpRdBtwqUvaD41Jc8G+HFu/mE4ThFVP44tdIW95ZCokfoGBs7QE4it2YPMmep9BbW+HPJsqe4p83HNQlqDIObh+6wGwTZ03VuPJeCL3GI/LLWyQxB8K0V6dt9uzFFrfMyCGGBnW8Jmg2Snmk1N6fX9N+aXuTREHi0wAxL0YESUw0Ucsebs1q5SPLXVeXYKPtav9oU/EVrXtjfDfSygo56+InL6Q8I7wZ94iFoForOVqBjr8jam3rSf63hRpTDgo6pxK9P4jKBW5DqeI4r+8tDD3H1rYXjGn5X4fkuGsd5tXcKsWqnNbpuOCWCxncJVZR49UwF2j9adwDTSZrZox9/liSVLWUJzyGROmMUgAAAA=
+lqip: data:image/webp;base64,UklGRiICAABXRUJQVlA4IBYCAADQEQCdASpkAEoAP1GWwFiwvSejt7bPG6AqCUAZwBD/HvvfsG71B7NiDl+kAtH1Zl7xMEsDLw5aCpWUNOovi9gc+1zdoajVruDB3KciPYW/hWCWRoxc5SO6fVj85PIj888+G6CfRwPvJUvkmwQanr1MJ89NL8XGrvMR7p8v4t7IF/hvCSVkppviwrG37wmMOfgyxOmW39oAAP0QlbGA3Ad4wmknOEITZcsA8sU7R9vRrbSWMvFWbRWgA4aWnapp/Yi5uH44mwFEicbYb+RK/rDKCH/nGzWZfpXfdCZytZrWXYr5KDd1M0VJ0NmELtgBk8H+ExntxII8GPWf8MbzIurICA6EgAXX4mV7u9mOzLgqZXkznTkxNOevscxfEPV0JdWUKUPkCmeBXNEHoH4ItVqZFxn91patuXnxLpGPddf/YAEQyFT9HT0JBH30cLtjMm7Y8gRifzR84K8MbE2wgFpQ5dywzJJy9BO3pvFayWshHyIOOZQGi/C5zaZ1O2+mjt3ojkvILxh9pICzzUTXnab2i3kc8z7j+6W7bOi8CycLIcpJwQKPRAbmN3BImEvf/5rbXuupjNCuc/RwZ9DmI0SKiiVxlKVIOAHHCbKaVY20FRUzkzYckn5wh8I/ahB0/Uym9rjKkxfue+wCOdCPEMooMWmWKtCaVut50sJpQj3tjljoHC8v3JWlmyTqv0DbFp9mzKYcAAA=
 ---
 
 There are places so protected that they can only be discovered on foot. For lovers of uneven and steep paths, this exceptional site in « Suisse Normande », a tiny part of Normandy in the northern half of France, is only accessible on foot thanks to the hiking trail GR36.

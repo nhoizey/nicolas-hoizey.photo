@@ -34,11 +34,27 @@ tags:
   - Trouville
   - Trouville-sur-Mer
 settings:
-  focal_length: 24
-  focal_length_35mm: 36
-  iso: 6400
-  aperture: 4
-  shutter_speed: 1/25
+  focal_length:
+    raw: 24
+    eq35mm: 36
+    readable: 36 mm
+    slug: 36-mm
+    computed: 36
+  iso:
+    raw: 6400
+    computed: 6400
+    readable: "6400"
+    slug: "6400"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.04
+    computed: 0.04
+    readable: 1/25 s
+    slug: 1-25-s
 dimensions:
   width: 3500
   height: 2333

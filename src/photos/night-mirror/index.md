@@ -18,10 +18,26 @@ tags:
   - urban
   - ville
 settings:
-  focal_length: 34
-  iso: 2500
-  aperture: 2.8
-  shutter_speed: 1/40
+  focal_length:
+    raw: 34
+    readable: 34 mm
+    slug: 34-mm
+    computed: 34
+  iso:
+    raw: 2500
+    computed: 2500
+    readable: "2500"
+    slug: "2500"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.025
+    computed: 0.025
+    readable: 1/40 s
+    slug: 1-40-s
 dimensions:
   width: 3500
   height: 2333

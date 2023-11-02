@@ -54,11 +54,27 @@ tags:
   - water
   - waterscape
 settings:
-  focal_length: 16.5
-  focal_length_35mm: 25
-  iso: 80
-  aperture: 6.4
-  shutter_speed: 1/90
+  focal_length:
+    raw: 16.5
+    eq35mm: 25
+    readable: 25 mm
+    slug: 25-mm
+    computed: 25
+  iso:
+    raw: 80
+    computed: 80
+    readable: "80"
+    slug: "80"
+  aperture:
+    raw: 6.4
+    computed: 6.4
+    readable: ƒ/6.4
+    slug: f-6-4
+  shutter_speed:
+    raw: 0.011111111111111112
+    computed: 0.011111111111111112
+    readable: 1/90 s
+    slug: 1-90-s
 dimensions:
   width: 3500
   height: 2333

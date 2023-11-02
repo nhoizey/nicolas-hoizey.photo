@@ -13,10 +13,26 @@ gear:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
 settings:
-  focal_length: 100
-  iso: 1600
-  aperture: 5
-  shutter_speed: 1/250
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 5
+    computed: 5
+    readable: ƒ/5
+    slug: f-5
+  shutter_speed:
+    raw: 0.004
+    computed: 0.004
+    readable: 1/250 s
+    slug: 1-250-s
 dimensions:
   width: 2285
   height: 2285

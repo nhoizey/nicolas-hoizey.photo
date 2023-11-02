@@ -15,13 +15,29 @@ tags:
   - lac
   - lake
 settings:
-  focal_length: 17
-  iso: 1600
-  aperture: 8
-  shutter_speed: 1/1600
+  focal_length:
+    raw: 17
+    readable: 17 mm
+    slug: 17-mm
+    computed: 17
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.000625
+    computed: 0.000625
+    readable: 1/1600 s
+    slug: 1-1600-s
 dimensions:
-  width: 2304
-  height: 1536
+  width: 2177
+  height: 1451
 geo:
   latitude: 46.67242
   longitude: -73.006345
@@ -34,7 +50,7 @@ colors:
   lightVibrant: 189 189 189
   muted: 124 124 124
   darkMuted: 68 68 68
-  lightMuted: 180 180 180
+  lightMuted: 181 181 181
 lqip: data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAAAwCwCdASpkAEMAP3Gsylo0v7wqsVUYg/AuCWkAABpIMQdXHSjXCu/CwhHb/p2AolCKAYG0iv9XYJ8wPnKJNuknBNpnt8flmtI4JK2dDpQ7fPrBiW64K/cxu5bnM714/xBYAAD+40USoPJlCOAoGCdEaEC++aG4pWuW6trnIbBlqofhjNrLxR4TPxrV9A/0YBYvF5mwageXbzzOitUw4Gqt8NJqEcS0w2Hkt6px+HAVxXLF/ooxKP+LWTaq7mlYXH+v8diPGawPXKx3aoZ6ooTUYG52lslETTYmiq+gY4srm1mg21hhA3zusM3fX7C0yB4qRggA
 ---
 

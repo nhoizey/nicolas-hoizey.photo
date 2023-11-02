@@ -33,10 +33,26 @@ tags:
   - vieux
   - writing
 settings:
-  focal_length: 100
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/160
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.00625
+    computed: 0.00625
+    readable: 1/160 s
+    slug: 1-160-s
 dimensions:
   width: 3500
   height: 2333
@@ -52,7 +68,7 @@ colors:
   lightVibrant: 204 172 132
   muted: 143 124 108
   darkMuted: 76 61 54
-  lightMuted: 190 190 188
+  lightMuted: 192 193 192
 lqip: data:image/webp;base64,UklGRpwBAABXRUJQVlA4IJABAACQEACdASpkAEMAP2WcwlizK6cqNRZMqmAsiWMAzQw8zIzJzg4oHPnsGy6zPAghyN0uQ7tqpRhcPzu9/EVlYB67VshlgtMDJkHw+OopEmIoOv5v/nb8/jC/cYPQRmxw+FnM/hIme8wUOtLxVVPDzlqQwSD+XkDv/1HN02EFmgTTO5gpHIqjh3XdNo166hgA/tn2sFrkCBfd2PMqefq5YJZmwf2K+l6iaoEZXaGRYW7rJ+mHjY5moECM1HwD1XaDgv9ZN1Yu0bTM1AJSIXcvHYUR6r3/4zrfZhXQ7iO64XANWy7FQVqln2pNeB5G+dtCt8i8++3Lj0uft7+4koeM5v6iH4+cRGIub4wNhzoHVBDl1fGywrHoCvSLR9lrlL4VfiQPVQXh03pKG1yQYjRXVWihMEKEiBPgdBoJ4kQ9Yv/3llFEeY+MoIiHJYLYar6J7WJbQXtVDOetsjnMbzGiWG6ul7NuIkZ1N0nYLxBW5licsCKyaobEl4LqVyO/hjkG3752G+QfNG6+F0bZVnj6JHQA
 ---
 

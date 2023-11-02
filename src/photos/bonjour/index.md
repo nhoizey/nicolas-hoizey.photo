@@ -32,11 +32,27 @@ tags:
   - sign
   - window
 settings:
-  focal_length: 25.7
-  focal_length_35mm: 70
-  iso: 2500
-  aperture: 5.6
-  shutter_speed: 1/80
+  focal_length:
+    raw: 25.7
+    eq35mm: 70
+    readable: 70 mm
+    slug: 70-mm
+    computed: 70
+  iso:
+    raw: 2500
+    computed: 2500
+    readable: "2500"
+    slug: "2500"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.0125
+    computed: 0.0125
+    readable: 1/80 s
+    slug: 1-80-s
 dimensions:
   width: 3500
   height: 2333

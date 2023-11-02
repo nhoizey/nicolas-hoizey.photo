@@ -35,10 +35,26 @@ tags:
   - ville
   - تارودانت
 settings:
-  focal_length: 50
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/200
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.005
+    computed: 0.005
+    readable: 1/200 s
+    slug: 1-200-s
 dimensions:
   width: 3500
   height: 2333
@@ -51,7 +67,7 @@ geo:
 colors:
   vibrant: 4 108 187
   darkVibrant: 4 100 180
-  lightVibrant: 226 150 104
+  lightVibrant: 225 150 105
   muted: 174 119 94
   darkMuted: 86 60 54
   lightMuted: 184 177 194

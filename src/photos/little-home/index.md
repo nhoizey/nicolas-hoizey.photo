@@ -21,11 +21,27 @@ tags:
   - maison
   - Tsavo
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 320
-  aperture: 2.8
-  shutter_speed: 1/8000
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.000125
+    computed: 0.000125
+    readable: 1/8000 s
+    slug: 1-8000-s
 dimensions:
   width: 3500
   height: 2333

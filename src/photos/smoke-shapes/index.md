@@ -22,11 +22,27 @@ tags:
   - studio
   - volute
 settings:
-  focal_length: 80
-  focal_length_35mm: 120
-  iso: 200
-  aperture: 11
-  shutter_speed: 1/250
+  focal_length:
+    raw: 80
+    eq35mm: 120
+    readable: 120 mm
+    slug: 120-mm
+    computed: 120
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.004
+    computed: 0.004
+    readable: 1/250 s
+    slug: 1-250-s
 dimensions:
   width: 2333
   height: 3500

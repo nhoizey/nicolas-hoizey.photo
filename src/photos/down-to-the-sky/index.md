@@ -38,11 +38,27 @@ tags:
   - water
   - Yvelines
 settings:
-  focal_length: 24
-  focal_length_35mm: 36
-  iso: 640
-  aperture: 10
-  shutter_speed: 1/60
+  focal_length:
+    raw: 24
+    eq35mm: 36
+    readable: 36 mm
+    slug: 36-mm
+    computed: 36
+  iso:
+    raw: 640
+    computed: 640
+    readable: "640"
+    slug: "640"
+  aperture:
+    raw: 10
+    computed: 10
+    readable: ƒ/10
+    slug: f-10
+  shutter_speed:
+    raw: 0.016666666666666666
+    computed: 0.016666666666666666
+    readable: 1/60 s
+    slug: 1-60-s
 dimensions:
   width: 3500
   height: 2333

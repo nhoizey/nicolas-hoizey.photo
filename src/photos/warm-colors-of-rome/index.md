@@ -35,11 +35,27 @@ tags:
   - wall
   - window
 settings:
-  focal_length: 19.1
-  focal_length_35mm: 29
-  iso: 200
-  aperture: 4
-  shutter_speed: 1/100
+  focal_length:
+    raw: 19.1
+    eq35mm: 29
+    readable: 29 mm
+    slug: 29-mm
+    computed: 29
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.01
+    computed: 0.01
+    readable: 1/100 s
+    slug: 1-100-s
 dimensions:
   width: 3500
   height: 2333

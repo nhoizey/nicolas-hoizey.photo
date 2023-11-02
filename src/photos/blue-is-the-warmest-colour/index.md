@@ -30,11 +30,27 @@ tags:
   - Wan Chai
   - yellow
 settings:
-  focal_length: 14.5
-  focal_length_35mm: 40
-  iso: 125
-  aperture: 6.3
-  shutter_speed: 1/250
+  focal_length:
+    raw: 14.5
+    eq35mm: 40
+    readable: 40 mm
+    slug: 40-mm
+    computed: 40
+  iso:
+    raw: 125
+    computed: 125
+    readable: "125"
+    slug: "125"
+  aperture:
+    raw: 6.3
+    computed: 6.3
+    readable: ƒ/6.3
+    slug: f-6-3
+  shutter_speed:
+    raw: 0.004
+    computed: 0.004
+    readable: 1/250 s
+    slug: 1-250-s
 dimensions:
   width: 3500
   height: 2333

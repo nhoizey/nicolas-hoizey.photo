@@ -22,11 +22,27 @@ tags:
   - studio
   - volute
 settings:
-  focal_length: 80
-  focal_length_35mm: 120
-  iso: 200
-  aperture: 14
-  shutter_speed: 1/250
+  focal_length:
+    raw: 80
+    eq35mm: 120
+    readable: 120 mm
+    slug: 120-mm
+    computed: 120
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 14
+    computed: 14
+    readable: ƒ/14
+    slug: f-14
+  shutter_speed:
+    raw: 0.004
+    computed: 0.004
+    readable: 1/250 s
+    slug: 1-250-s
 dimensions:
   width: 2253
   height: 1502
@@ -37,10 +53,10 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 81 132 169
+  vibrant: 80 131 174
   darkVibrant: 10 74 112
   lightVibrant: 166 200 229
-  muted: 97 129 159
+  muted: 94 131 164
   darkMuted: 45 68 87
   lightMuted: 156 180 204
 lqip: data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBgCdASpkAEMAP3G2z2A0uymnp1QKE2AuCWcAAInY2fI8ZwKZu/gHKoAbYZ/MQqNxF62SEzMT8dHMJTgAAP7vTL9e0GuvQJa83skMi3IY3xe3eVcus8td7UNW4wEzk+bnkECEp+ifmBihIBB9Xy3GnGZM1cgoiwnckUgd0vQQDphAAAAAAA==

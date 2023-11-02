@@ -28,11 +28,27 @@ tags:
   - Reims
   - voûte
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 800
-  aperture: 2.8
-  shutter_speed: 1/25
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.04
+    computed: 0.04
+    readable: 1/25 s
+    slug: 1-25-s
 dimensions:
   width: 2333
   height: 3500
@@ -43,9 +59,9 @@ geo:
   country: France
   city: Reims
 colors:
-  vibrant: 204 135 56
+  vibrant: 203 135 57
   darkVibrant: 97 35 17
-  lightVibrant: 112 162 219
+  lightVibrant: 113 162 219
   muted: 108 148 76
   darkMuted: 68 54 46
   lightMuted: 175 173 178

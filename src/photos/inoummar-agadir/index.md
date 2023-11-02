@@ -35,10 +35,26 @@ tags:
   - ⴰⵟⵍⴰⵙ ⴰⵎⵥⵢⴰⵏ
   - ⴰⵟⵍⴰⵙ ⵎⵥⵉⵢⵏ
 settings:
-  focal_length: 50
-  iso: 100
-  aperture: 9
-  shutter_speed: 1/100
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.01
+    computed: 0.01
+    readable: 1/100 s
+    slug: 1-100-s
 dimensions:
   width: 2333
   height: 3500

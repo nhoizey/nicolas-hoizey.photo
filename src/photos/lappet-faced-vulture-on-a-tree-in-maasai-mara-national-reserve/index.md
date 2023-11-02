@@ -39,11 +39,27 @@ tags:
   - Vautour oricou
   - vulture
 settings:
-  focal_length: 800
-  focal_length_35mm: 1200
-  iso: 400
-  aperture: 11
-  shutter_speed: 1/500
+  focal_length:
+    raw: 800
+    eq35mm: 1200
+    readable: 1200 mm
+    slug: 1200-mm
+    computed: 1200
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333
@@ -54,11 +70,11 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 19 124 188
+  vibrant: 20 124 188
   darkVibrant: 4 52 124
-  lightVibrant: 223 197 146
-  muted: 170 92 102
-  darkMuted: 93 83 57
+  lightVibrant: 135 201 242
+  muted: 173 150 112
+  darkMuted: 84 79 53
   lightMuted: 209 192 182
 lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAAAwDQCdASpkAEMAP2mgw1izrCejsVhsenAtCWoAxnpAXqBEplNiQSFYmXI67h/t5Vk0A4o9lJpaemtIBtVzF8TGVW4BwGYSd2yZRUGeB/3SkqCaqgw0J1tHUKJgiovUTowYqE4SDPoGGyk01SdJYUodgAAA/tom6lZs34VvdDyq7hnWcmEWlxFgiqxAvVPJCR/OC1o2Vj53+ScJ6F4HvBZ1GYYREBtGTk49vkksq/0ZxMDMVDvYArCo7SY/ZFmnuIdmtM80ey4LstvHxnv01ACstholmT/Nr0prMV4bBqsHmKLtkzftcBhICLiQUC7Ovv4rmbu7IJfJcUcmEgOuxp+PSN4RwErk1oOyJ97JGIaHFG6LG2TETEB5XSWBfnlNPvzp0TQC3QhkmXTgI0eA4sh9SnOWei1BkIEuoZ/9RY5+e12t9okYXTlmnVBAnidGn58P7V4Km/LPhmFVive4AupDMc951aHbo8mudWCCv8+o2q5vCjUwAtjuzZ8eLVZ3FuCsWZl3oAb8jjf/x8oqsmNZAjYwoYpnPKlYex2hAhFqAAAA
 ---

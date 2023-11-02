@@ -31,11 +31,27 @@ tags:
   - reserve
   - village
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 200
-  aperture: 6.4
-  shutter_speed: 1/750
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 6.4
+    computed: 6.4
+    readable: ƒ/6.4
+    slug: f-6-4
+  shutter_speed:
+    raw: 0.0013333333333333333
+    computed: 0.0013333333333333333
+    readable: 1/750 s
+    slug: 1-750-s
 dimensions:
   width: 3500
   height: 2333

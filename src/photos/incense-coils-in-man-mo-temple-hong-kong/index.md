@@ -37,10 +37,26 @@ tags:
   - temple
   - worship
 settings:
-  focal_length: 45
-  iso: 200
-  aperture: 2.8
-  shutter_speed: 1/50
+  focal_length:
+    raw: 45
+    readable: 45 mm
+    slug: 45-mm
+    computed: 45
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.02
+    computed: 0.02
+    readable: 1/50 s
+    slug: 1-50-s
 dimensions:
   width: 3500
   height: 2333

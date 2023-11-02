@@ -61,10 +61,26 @@ tags:
   - voyage
   - water
 settings:
-  focal_length: 24
-  iso: 200
-  aperture: 11
-  shutter_speed: "30"
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 30
+    computed: 30
+    readable: 30 s
+    slug: 30-s
 dimensions:
   width: 3500
   height: 2333

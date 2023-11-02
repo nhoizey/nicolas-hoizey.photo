@@ -26,11 +26,27 @@ tags:
   - tree
   - végétal
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 400
-  aperture: 2.8
-  shutter_speed: 1/8000
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.000125
+    computed: 0.000125
+    readable: 1/8000 s
+    slug: 1-8000-s
 dimensions:
   width: 3500
   height: 2333
@@ -42,7 +58,7 @@ geo:
   city: Taita
 colors:
   vibrant: 63 130 192
-  darkVibrant: 111 43 18
+  darkVibrant: 110 43 18
   lightVibrant: 153 194 229
   muted: 148 111 78
   darkMuted: 75 71 39

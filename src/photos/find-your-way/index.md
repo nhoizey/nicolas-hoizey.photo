@@ -39,11 +39,27 @@ tags:
   - Vatican City
   - Vatican Museums
 settings:
-  focal_length: 10
-  focal_length_35mm: 15
-  iso: 1600
-  aperture: 13
-  shutter_speed: 1/25
+  focal_length:
+    raw: 10
+    eq35mm: 15
+    readable: 15 mm
+    slug: 15-mm
+    computed: 15
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 13
+    computed: 13
+    readable: ƒ/13
+    slug: f-13
+  shutter_speed:
+    raw: 0.04
+    computed: 0.04
+    readable: 1/25 s
+    slug: 1-25-s
 dimensions:
   width: 2334
   height: 3500
@@ -53,9 +69,9 @@ geo:
   map: true
   country: Vatican City
 colors:
-  vibrant: 182 133 56
+  vibrant: 183 133 56
   darkVibrant: 148 92 4
-  lightVibrant: 224 197 154
+  lightVibrant: 224 196 153
   muted: 104 117 141
   darkMuted: 66 58 53
   lightMuted: 192 186 177

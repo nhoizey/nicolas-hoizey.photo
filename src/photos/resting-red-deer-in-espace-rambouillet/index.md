@@ -47,11 +47,27 @@ tags:
   - végétal
   - Yvelines
 settings:
-  focal_length: 560
-  focal_length_35mm: 840
-  iso: 1600
-  aperture: 8
-  shutter_speed: 1/55
+  focal_length:
+    raw: 560
+    eq35mm: 840
+    readable: 840 mm
+    slug: 840-mm
+    computed: 840
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.01818181818181818
+    computed: 0.01818181818181818
+    readable: 1/55 s
+    slug: 1-55-s
 dimensions:
   width: 3500
   height: 2333

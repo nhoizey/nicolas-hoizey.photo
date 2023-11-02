@@ -34,10 +34,26 @@ tags:
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
 settings:
-  focal_length: 24
-  iso: 200
-  aperture: 11
-  shutter_speed: 1/200
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.005
+    computed: 0.005
+    readable: 1/200 s
+    slug: 1-200-s
 dimensions:
   width: 3500
   height: 2333
@@ -48,7 +64,7 @@ geo:
   country: Scotland
 colors:
   vibrant: 132 164 196
-  darkVibrant: 102 85 24
+  darkVibrant: 103 85 24
   lightVibrant: 165 189 212
   muted: 180 132 108
   darkMuted: 86 70 46

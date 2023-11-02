@@ -45,11 +45,27 @@ tags:
   - zoo
   - Zoo de La Palmyre
 settings:
-  focal_length: 275.2
-  focal_length_35mm: 413
-  iso: 400
-  aperture: 6.8
-  shutter_speed: 1/400
+  focal_length:
+    raw: 275.2
+    eq35mm: 413
+    readable: 413 mm
+    slug: 413-mm
+    computed: 413
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 6.8
+    computed: 6.8
+    readable: ƒ/6.8
+    slug: f-6-8
+  shutter_speed:
+    raw: 0.0025
+    computed: 0.0025
+    readable: 1/400 s
+    slug: 1-400-s
 dimensions:
   width: 3500
   height: 2333

@@ -22,11 +22,27 @@ tags:
   - Rome
   - toit
 settings:
-  focal_length: 24
-  focal_length_35mm: 36
-  iso: 1600
-  aperture: 4
-  shutter_speed: 1/3
+  focal_length:
+    raw: 24
+    eq35mm: 36
+    readable: 36 mm
+    slug: 36-mm
+    computed: 36
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.3333333333333333
+    computed: 0.3333333333333333
+    readable: 1/3 s
+    slug: 1-3-s
 dimensions:
   width: 3500
   height: 2333

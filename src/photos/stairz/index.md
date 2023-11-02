@@ -42,10 +42,26 @@ tags:
   - urban
   - ville
 settings:
-  focal_length: 58
-  iso: 100
-  aperture: 22
-  shutter_speed: "30"
+  focal_length:
+    raw: 58
+    readable: 58 mm
+    slug: 58-mm
+    computed: 58
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 22
+    computed: 22
+    readable: ƒ/22
+    slug: f-22
+  shutter_speed:
+    raw: 30
+    computed: 30
+    readable: 30 s
+    slug: 30-s
 dimensions:
   width: 3500
   height: 2333
@@ -56,12 +72,12 @@ geo:
   country: France
   city: Paris
 colors:
-  vibrant: 20 151 232
-  darkVibrant: 111 22 7
-  lightVibrant: 227 188 138
-  muted: 157 101 81
-  darkMuted: 68 54 35
-  lightMuted: 151 164 206
+  vibrant: 15 152 235
+  darkVibrant: 4 44 138
+  lightVibrant: 228 187 129
+  muted: 156 102 83
+  darkMuted: 77 81 43
+  lightMuted: 199 187 175
 lqip: data:image/webp;base64,UklGRnQCAABXRUJQVlA4IGgCAAAQEwCdASpkAEMAP3Guy160railKFOcSpAuCWIAzYZ2aUNx+bKlQPm8U7u43uBegxd4FEfqaqKh/pkzyH08QKq+jUsgrf0CwpNYG4QIx7bnzFM9i//1V0+b+juKrpSRhgDvLx7ecEI28f9le1s2hCSYrFRSrZRkL4CHK1yzfi15CD7jFSrT4Y/n7Aa3c3pbx2jYJ5eRQXy0lFv46UT2glnFYAD+6+uOLOeAF/GFRv9yJF1FS5h0sJa9Uayh7mLydQuz1pSStmmoYpeg5cVgCAMfzDKeEO3jbhU6D/877oP0rC3SbZmRwZinNB43p4rNuvtrsMx2FcKP6zEu0lXcR7RKYCCkcOa7QU3E6f+taBVVvpt5nvjS23KbS/1eXgHKz+xfrxCWXo2sQMpUYHsw0L2RTBQXIHbNtaibNqiTq5QzKUpkThA6BIWWMSr3a3/wIT3yHr0dznzaqYHN3V2OxcX8wee9oymLmhd1IegOslmXwRIQnbcRMkoXKdbE6UR2X17qzbgHWMgbvMJ4znGiMoQFy8N8fsOsIX7Iyy3ZgB6MQHbDOmMcFA8PsCo+cf3zyZzSKhgL81RG7keJ6mSwZbTqTK+GaIl7jC1CLJLFkj3/d1Mbcs0enu5JTmPajuAwloWrEkjdkmgYHbQ2nML8Edaj7fzHZoljbbwkaZY0MrnwWWsWumJ7N4KFtQBY9DtPOCHDZciO3XTADr7s2k3q9Yv+ciDVeS+GngpoRWUi6Y6tuGuu8EQJY/IJabc342pY0+L03F3nodW7LcjqkaX085ner6WsAz3diajdi4BshnYLKNbeHSFQAAAA
 ---
 

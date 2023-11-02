@@ -36,11 +36,27 @@ tags:
   - treatment
   - zombie
 settings:
-  focal_length: 80
-  focal_length_35mm: 120
-  iso: 160
-  aperture: 5.6
-  shutter_speed: 1/8
+  focal_length:
+    raw: 80
+    eq35mm: 120
+    readable: 120 mm
+    slug: 120-mm
+    computed: 120
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.125
+    computed: 0.125
+    readable: 1/8 s
+    slug: 1-8-s
 dimensions:
   width: 3500
   height: 2333

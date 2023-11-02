@@ -57,10 +57,26 @@ tags:
   - water
   - yellow
 settings:
-  focal_length: 24
-  iso: 200
-  aperture: 16
-  shutter_speed: 1/60
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 16
+    computed: 16
+    readable: ƒ/16
+    slug: f-16
+  shutter_speed:
+    raw: 0.016666666666666666
+    computed: 0.016666666666666666
+    readable: 1/60 s
+    slug: 1-60-s
 dimensions:
   width: 3500
   height: 2333

@@ -43,11 +43,27 @@ tags:
   - torso
   - woman
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 100
-  aperture: 7.1
-  shutter_speed: 1/125
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 7.1
+    computed: 7.1
+    readable: ƒ/7.1
+    slug: f-7-1
+  shutter_speed:
+    raw: 0.008
+    computed: 0.008
+    readable: 1/125 s
+    slug: 1-125-s
 dimensions:
   width: 3500
   height: 3500

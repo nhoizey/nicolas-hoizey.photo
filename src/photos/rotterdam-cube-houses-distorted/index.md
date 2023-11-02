@@ -38,11 +38,27 @@ tags:
   - yellow
   - Zuid-Holland
 settings:
-  focal_length: 16
-  focal_length_35mm: 24
-  iso: 320
-  aperture: 4
-  shutter_speed: 1/6400
+  focal_length:
+    raw: 16
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.00015625
+    computed: 0.00015625
+    readable: 1/6400 s
+    slug: 1-6400-s
 dimensions:
   width: 3500
   height: 2333
@@ -58,7 +74,7 @@ colors:
   lightVibrant: 123 177 236
   muted: 92 116 172
   darkMuted: 50 65 79
-  lightMuted: 190 189 175
+  lightMuted: 189 189 172
 lqip: data:image/webp;base64,UklGRkgCAABXRUJQVlA4IDwCAADwEACdASpkAEMAP22gw1i0rCevMVXtepAtiWwAuJ/Hkvyqb34ILtX4ZqYT9HE2ZJjqcJIa0WuroU4iZUuPsGMVKsB7yQTVmO1Gx5uMFV4pBeSfhD/0ZjxWxE3QjyLpPytxs647AShzp+L1X4HCdxhUT+BflR8HxmnvAJvg6QQIC2A8fr2WxLYTq/aE1/4uJ4AA/qN74xr3J0SNbMnCSufoFCoGPvn2NtGnNoIKp7R0dGcD5Y3uuG5/dtoFEtGG50REVRE3mgEfkVDdEF2DkzB6HXR4Pq6HfARFILjqTq2AIpaqMuqW3os9Hgq01Qt1vZjNWo5KjIzFpSj6ft1pn9Zr5ZGo6qh47xlOazhbHKPFx+8q5bEfIQtff7GK9N/ZeivhtkUgjqqkRxjDy91Kbq8nufL7sJU4qAgxhck8o00zJcKLW/a0XMYeSszD9ssk8FoaAV5EPaQ1xtiZ1MFo1lZPas+HhnOfaPLdlouTWKKBCAFlwEzmyXGlFN2epICAH7QqbIHBJepAJRUk1nS5TCoDTMSQwul5n1QBE5RJFRP2EUoNOc7QaQ0cHaJyNoYC+NDFxJRPFTsVsLo69yS2DKqi3aVCsyH6Lgyi8+/a7vn+H79euFkmTcZg+XEo15JlhbXYXJOcUPI+j8H58qyePffWZJ9FJe8VCD0+6Tu7hp1nSiyx5oVrYB6D59pQUEBA94xRZHFe3B7QRPEHHrjJ7i0KI9ZDvh1cvZJxQZpx/x1hVQArUf2GeJzOlJxYAA==
 ---
 

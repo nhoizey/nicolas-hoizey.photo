@@ -24,11 +24,27 @@ tags:
   - photographie culinaire
   - thé
 settings:
-  focal_length: 70
-  focal_length_35mm: 70
-  iso: 200
-  aperture: 8
-  shutter_speed: 1/30
+  focal_length:
+    raw: 70
+    eq35mm: 70
+    readable: 70 mm
+    slug: 70-mm
+    computed: 70
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.03333333333333333
+    computed: 0.03333333333333333
+    readable: 1/30 s
+    slug: 1-30-s
 dimensions:
   width: 3500
   height: 2329
@@ -39,7 +55,7 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 164 105 35
+  vibrant: 164 104 35
   darkVibrant: 132 52 4
   lightVibrant: 203 170 119
   muted: 145 118 104

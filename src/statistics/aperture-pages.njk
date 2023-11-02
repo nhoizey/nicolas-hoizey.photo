@@ -8,7 +8,7 @@ pagination:
   addAllPagesToCollections: true
 layout: statistics
 eleventyComputed:
-  title: "Photos taken with aperture {{ apertures.readable_value }}"
+  title: "Photos taken with aperture {{ apertures.readable }}"
 permalink: /statistics/aperture/{{ apertures.slug }}/
 ---
 
@@ -20,9 +20,9 @@ permalink: /statistics/aperture/{{ apertures.slug }}/
 
 {% from "macros/photo.njk" import photo %}
 
-{% set photos = collections.photos_in_galleries | with_setting('aperture', apertures.raw_value) %}
+{% set photos = collections.photos_in_galleries | with_setting('aperture', apertures.readable) %}
 {% set photosNumber = photos | length %}
-<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>aperture {{ apertures.readable_value }}</strong>:</p>
+<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>aperture {{ apertures.readable }}</strong>:</p>
 <ul class="photos">
   {% for item in photos %}
     {% if loop.index < 4 %}

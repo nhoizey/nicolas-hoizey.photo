@@ -38,11 +38,27 @@ tags:
   - yellow
   - Zuid-Holland
 settings:
-  focal_length: 16
-  focal_length_35mm: 24
-  iso: 320
-  aperture: 4
-  shutter_speed: 1/2900
+  focal_length:
+    raw: 16
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.0003448275862068965
+    computed: 0.0003448275862068965
+    readable: 1/2900 s
+    slug: 1-2900-s
 dimensions:
   width: 3500
   height: 2333

@@ -34,10 +34,26 @@ tags:
   - Rhône-Alpes
   - type de photo
 settings:
-  focal_length: 135
-  iso: 800
-  aperture: 3.2
-  shutter_speed: 1/800
+  focal_length:
+    raw: 135
+    readable: 135 mm
+    slug: 135-mm
+    computed: 135
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 3.2
+    computed: 3.2
+    readable: ƒ/3.2
+    slug: f-3-2
+  shutter_speed:
+    raw: 0.00125
+    computed: 0.00125
+    readable: 1/800 s
+    slug: 1-800-s
 dimensions:
   width: 3500
   height: 2333

@@ -38,11 +38,27 @@ tags:
   - yellow
   - Zuid-Holland
 settings:
-  focal_length: 16
-  focal_length_35mm: 24
-  iso: 320
-  aperture: 10
-  shutter_speed: 1/750
+  focal_length:
+    raw: 16
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 10
+    computed: 10
+    readable: ƒ/10
+    slug: f-10
+  shutter_speed:
+    raw: 0.0013333333333333333
+    computed: 0.0013333333333333333
+    readable: 1/750 s
+    slug: 1-750-s
 dimensions:
   width: 3500
   height: 2333
@@ -53,10 +69,10 @@ geo:
   country: Pays-Bas
   city: municipalité de Rotterdam
 colors:
-  vibrant: 181 137 6
-  darkVibrant: 154 117 6
+  vibrant: 224 175 4
+  darkVibrant: 153 115 6
   lightVibrant: 135 190 243
-  muted: 134 127 118
+  muted: 134 128 118
   darkMuted: 87 74 53
   lightMuted: 193 209 219
 lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAADwDgCdASpkAEMAP3Gmx1m0rLGjrbRNmpAuCWoAy9iBe2FasghYpJHFki6WQMRX7JdYydAglQ/8/OhP/8dXkQM14KjCN2VjSKuFhEqrDMrLwG1KVwIzCBKlEm24SadXwtel/Z4tsZYXYVp2mvmIYyACGYm5eJ4T+81Py5wkfU1hAAD+7eINapmDg/OInuL07qfhW6vGI3piZhU9HLXcI4R4moWargBUHcQJrAiBiDUSWDjU41cqE7wxNC4a8zA0QFWng3xQoJb/gk+DKlxPDxhrCaSzFOEkqCP1N/qBZw0Rp5tciruty7UKgFgbEXAj4gGJbZF/HbpLORGpM3dExVucxQeT5Hh6cHzdMfOAHEydc1x588yLpAPxV4Vz4Xr77rwqSMr+5xUygAqhqw9yNRV9cad2EkFvF4zZrtpFw7uMp0r5cROje0AN+SU35AdWC8v4i8L9y4zkgaObFa+S+51MtNns/Gr8o+tLZHnJ/+ZaJA/R5k/qFnxUiU2bi7Wuy2v+uXmrMxdqeL61KEr2mzjOoVypeoY7yBvllKvGAcNTyV8G1gbxiP7drjUJnDRQvaWgLUdIeQIUW/c0S+QPErWP6asGLFgsSibi1AAA

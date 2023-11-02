@@ -41,11 +41,27 @@ tags:
   - Phoenicopterus roseus
   - water
 settings:
-  focal_length: 200
-  focal_length_35mm: 300
-  iso: 320
-  aperture: 9
-  shutter_speed: 1/900
+  focal_length:
+    raw: 200
+    eq35mm: 300
+    readable: 300 mm
+    slug: 300-mm
+    computed: 300
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.0011111111111111111
+    computed: 0.0011111111111111111
+    readable: 1/900 s
+    slug: 1-900-s
 dimensions:
   width: 3500
   height: 2333

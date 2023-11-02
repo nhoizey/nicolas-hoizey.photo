@@ -43,11 +43,27 @@ tags:
   - sky
   - violet
 settings:
-  focal_length: 10.5
-  focal_length_35mm: 16
-  iso: 1600
-  aperture: 4
-  shutter_speed: 1/10
+  focal_length:
+    raw: 10.5
+    eq35mm: 16
+    readable: 16 mm
+    slug: 16-mm
+    computed: 16
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.1
+    computed: 0.1
+    readable: 1/10 s
+    slug: 1-10-s
 dimensions:
   width: 3500
   height: 2333

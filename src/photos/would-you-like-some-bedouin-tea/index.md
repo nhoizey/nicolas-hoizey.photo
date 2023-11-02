@@ -29,11 +29,27 @@ tags:
   - thé
   - قصير‎
 settings:
-  focal_length: 24
-  focal_length_35mm: 116
-  iso: 100
-  aperture: 4.9
-  shutter_speed: 1/220
+  focal_length:
+    raw: 24
+    eq35mm: 116
+    readable: 116 mm
+    slug: 116-mm
+    computed: 116
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 4.9
+    computed: 4.9
+    readable: ƒ/4.9
+    slug: f-4-9
+  shutter_speed:
+    raw: 0.004545454545454545
+    computed: 0.004545454545454545
+    readable: 1/220 s
+    slug: 1-220-s
 dimensions:
   width: 2304
   height: 1704

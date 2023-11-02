@@ -41,11 +41,27 @@ tags:
   - ville
   - voyage
 settings:
-  focal_length: 8.8
-  focal_length_35mm: 24
-  iso: 2000
-  aperture: 7.1
-  shutter_speed: 1/30
+  focal_length:
+    raw: 8.8
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 2000
+    computed: 2000
+    readable: "2000"
+    slug: "2000"
+  aperture:
+    raw: 7.1
+    computed: 7.1
+    readable: ƒ/7.1
+    slug: f-7-1
+  shutter_speed:
+    raw: 0.03333333333333333
+    computed: 0.03333333333333333
+    readable: 1/30 s
+    slug: 1-30-s
 dimensions:
   width: 2333
   height: 3500
@@ -59,7 +75,7 @@ colors:
   vibrant: 40 116 166
   darkVibrant: 11 100 150
   lightVibrant: 170 205 229
-  muted: 101 128 149
+  muted: 100 127 149
   darkMuted: 54 85 103
   lightMuted: 236 240 241
 lqip: data:image/webp;base64,UklGRh4CAABXRUJQVlA4IBICAADQEwCdASpkAJYAP3Gwzl20rjSzq/RZopAuCWUHB5xjoHUbinbFFQLMz6lqzeoc9lan+D3aDWItMeEoEaKo3hoarKEnpMBXOJa+pj+2xdPuVm4osFR1Yx87hF0h8FfmqSqSw6MdXHEAQA1j+97SO1QuHpuBWl7Y6bWyRVLPsWIdfDq28yfy4MSk5ojN3jWACqHleOalu4drC9Z5LMGPHaMB/OBDSJh2AAD9HBOqSGzOwW5KWmtZyebrc5k1vJyA3iABCgKWUubuCf999CSzfnkBtXlChsQYn7U+z0B4V7t4fdRMzXN5lys8vhm68vsNzB6CQtXbC2mTramQAxWq1XcSokHfXJ4aa7wjJZ3PV5Fu1zAGxETu1IjvwkTklatWNZSKx5bXGBHQetmNUoN+0i1dTrK8GXb9AMqfyDjT4QYMjSVBxg2Ago32TIi6cHVUkVXdbP/mRfXHJf2i1DvIw6eroz7A/BHtu0Z0FNdEMA7IKpUSb4zdsCIQABI78GHBjBme3jexru3wdTLmCzStWHBgqNNvZhNTLmj7sNzDFJwSfWkwISoO0mTAbyCa+XnWFe+OkI+SGk0TICl8ziKepp3opsKqjOwcd44NlO097UhiwC408wIi4qR3wiUndJKdYZUs/pJ4sPBQ6VaTafS+qa+L/LeAMzxxNuGyTKPNaCoPWVcrjMYukMEKHHEv8YMN8gAAAA==

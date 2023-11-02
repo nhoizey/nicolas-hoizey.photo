@@ -30,11 +30,27 @@ tags:
   - rouge
   - végétal
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 200
-  aperture: 16
-  shutter_speed: 4/5
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 16
+    computed: 16
+    readable: ƒ/16
+    slug: f-16
+  shutter_speed:
+    raw: 0.8
+    computed: 0.8
+    readable: 4/5 s
+    slug: 4-5-s
 dimensions:
   width: 3500
   height: 2333

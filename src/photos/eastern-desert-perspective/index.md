@@ -32,11 +32,27 @@ tags:
   - اطبيه
   - قصير‎
 settings:
-  focal_length: 11.3
-  focal_length_35mm: 55
-  iso: 100
-  aperture: 3.3
-  shutter_speed: 1/190
+  focal_length:
+    raw: 11.3
+    eq35mm: 55
+    readable: 55 mm
+    slug: 55-mm
+    computed: 55
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 3.3
+    computed: 3.3
+    readable: ƒ/3.3
+    slug: f-3-3
+  shutter_speed:
+    raw: 0.005263157894736842
+    computed: 0.005263157894736842
+    readable: 1/190 s
+    slug: 1-190-s
 dimensions:
   width: 2263
   height: 1674

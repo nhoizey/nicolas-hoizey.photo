@@ -30,10 +30,26 @@ tags:
   - USA
   - water
 settings:
-  focal_length: 189
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/1600
+  focal_length:
+    raw: 189
+    readable: 189 mm
+    slug: 189-mm
+    computed: 189
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.000625
+    computed: 0.000625
+    readable: 1/1600 s
+    slug: 1-1600-s
 dimensions:
   width: 3500
   height: 2333
@@ -45,7 +61,7 @@ geo:
   city: New York City
 colors:
   vibrant: 238 196 84
-  darkVibrant: 20 51 92
+  darkVibrant: 19 51 92
   lightVibrant: 217 180 111
   muted: 90 118 152
   darkMuted: 84 49 62

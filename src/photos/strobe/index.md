@@ -24,11 +24,27 @@ tags:
   - stroboscope
   - studio
 settings:
-  focal_length: 24
-  focal_length_35mm: 36
-  iso: 1600
-  aperture: 7.1
-  shutter_speed: "6"
+  focal_length:
+    raw: 24
+    eq35mm: 36
+    readable: 36 mm
+    slug: 36-mm
+    computed: 36
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 7.1
+    computed: 7.1
+    readable: ƒ/7.1
+    slug: f-7-1
+  shutter_speed:
+    raw: 6
+    computed: 6
+    readable: 6 s
+    slug: 6-s
 dimensions:
   width: 3140
   height: 3140

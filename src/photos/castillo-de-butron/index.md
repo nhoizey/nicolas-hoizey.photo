@@ -39,11 +39,27 @@ tags:
   - Vizcaya
   - wall
 settings:
-  focal_length: 16
-  focal_length_35mm: 24
-  iso: 160
-  aperture: 13
-  shutter_speed: 1/320
+  focal_length:
+    raw: 16
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 13
+    computed: 13
+    readable: ƒ/13
+    slug: f-13
+  shutter_speed:
+    raw: 0.003125
+    computed: 0.003125
+    readable: 1/320 s
+    slug: 1-320-s
 dimensions:
   width: 3500
   height: 2333

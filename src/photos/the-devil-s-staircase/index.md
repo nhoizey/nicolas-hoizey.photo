@@ -39,10 +39,26 @@ tags:
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
 settings:
-  focal_length: 24
-  iso: 320
-  aperture: 13
-  shutter_speed: 1/20
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 13
+    computed: 13
+    readable: ƒ/13
+    slug: f-13
+  shutter_speed:
+    raw: 0.05
+    computed: 0.05
+    readable: 1/20 s
+    slug: 1-20-s
 dimensions:
   width: 3500
   height: 2333

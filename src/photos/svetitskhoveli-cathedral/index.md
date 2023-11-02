@@ -32,11 +32,27 @@ tags:
   - საქართველო
   - სვეტიცხოვლის საკათედრო
 settings:
-  focal_length: 10
-  focal_length_35mm: 15
-  iso: 200
-  aperture: 8
-  shutter_speed: 1/2200
+  focal_length:
+    raw: 10
+    eq35mm: 15
+    readable: 15 mm
+    slug: 15-mm
+    computed: 15
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.00045454545454545455
+    computed: 0.00045454545454545455
+    readable: 1/2200 s
+    slug: 1-2200-s
 dimensions:
   width: 3500
   height: 2333
@@ -47,7 +63,7 @@ geo:
   country: Georgia
   city: Mtskheta
 colors:
-  vibrant: 196 92 44
+  vibrant: 204 88 44
   darkVibrant: 18 40 9
   lightVibrant: 227 185 115
   muted: 92 144 177

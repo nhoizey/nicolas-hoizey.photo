@@ -36,10 +36,26 @@ tags:
   - vague
   - water
 settings:
-  focal_length: 24
-  iso: 200
-  aperture: 9
-  shutter_speed: 1/80
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.0125
+    computed: 0.0125
+    readable: 1/80 s
+    slug: 1-80-s
 dimensions:
   width: 3500
   height: 2333
@@ -52,7 +68,7 @@ geo:
 colors:
   vibrant: 12 118 184
   darkVibrant: 4 52 122
-  lightVibrant: 157 197 236
+  lightVibrant: 156 197 236
   muted: 112 146 181
   darkMuted: 86 60 44
   lightMuted: 183 193 209

@@ -38,10 +38,26 @@ tags:
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
 settings:
-  focal_length: 300
-  iso: 200
-  aperture: 5.6
-  shutter_speed: 1/1600
+  focal_length:
+    raw: 300
+    readable: 300 mm
+    slug: 300-mm
+    computed: 300
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.000625
+    computed: 0.000625
+    readable: 1/1600 s
+    slug: 1-1600-s
 dimensions:
   width: 3500
   height: 2333

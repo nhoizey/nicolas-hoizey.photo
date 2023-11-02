@@ -28,11 +28,27 @@ tags:
   - Paris
   - sky
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 160
-  aperture: 9
-  shutter_speed: 1/70
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.014285714285714285
+    computed: 0.014285714285714285
+    readable: 1/70 s
+    slug: 1-70-s
 dimensions:
   width: 3500
   height: 2333

@@ -34,11 +34,27 @@ tags:
   - Sverige
   - Sweden
 settings:
-  focal_length: 24
-  focal_length_35mm: 36
-  iso: 320
-  aperture: 4
-  shutter_speed: 1/1000
+  focal_length:
+    raw: 24
+    eq35mm: 36
+    readable: 36 mm
+    slug: 36-mm
+    computed: 36
+  iso:
+    raw: 320
+    computed: 320
+    readable: "320"
+    slug: "320"
+  aperture:
+    raw: 4
+    computed: 4
+    readable: ƒ/4
+    slug: f-4
+  shutter_speed:
+    raw: 0.001
+    computed: 0.001
+    readable: 1/1000 s
+    slug: 1-1000-s
 dimensions:
   width: 3500
   height: 2333

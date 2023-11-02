@@ -33,10 +33,26 @@ tags:
   - poisson
   - Poissons
 settings:
-  focal_length: 100
-  iso: 6400
-  aperture: 5
-  shutter_speed: 1/160
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 6400
+    computed: 6400
+    readable: "6400"
+    slug: "6400"
+  aperture:
+    raw: 5
+    computed: 5
+    readable: ƒ/5
+    slug: f-5
+  shutter_speed:
+    raw: 0.00625
+    computed: 0.00625
+    readable: 1/160 s
+    slug: 1-160-s
 dimensions:
   width: 3500
   height: 2333

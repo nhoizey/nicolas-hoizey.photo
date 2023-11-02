@@ -28,10 +28,26 @@ tags:
   - Ile de France
   - Port aux Cerises
 settings:
-  focal_length: 70
-  iso: 400
-  aperture: 2.8
-  shutter_speed: 1/400
+  focal_length:
+    raw: 70
+    readable: 70 mm
+    slug: 70-mm
+    computed: 70
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.0025
+    computed: 0.0025
+    readable: 1/400 s
+    slug: 1-400-s
 dimensions:
   width: 3500
   height: 3500

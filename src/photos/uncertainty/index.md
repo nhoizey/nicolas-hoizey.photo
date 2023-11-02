@@ -26,11 +26,27 @@ tags:
   - studio
   - wall
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 200
-  aperture: 1.2
-  shutter_speed: 1/150
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 1.2
+    computed: 1.2
+    readable: ƒ/1.2
+    slug: f-1-2
+  shutter_speed:
+    raw: 0.006666666666666667
+    computed: 0.006666666666666667
+    readable: 1/150 s
+    slug: 1-150-s
 dimensions:
   width: 3500
   height: 2333
@@ -44,7 +60,7 @@ colors:
   vibrant: 180 116 68
   darkVibrant: 21 47 77
   lightVibrant: 220 162 126
-  muted: 167 118 88
+  muted: 168 118 88
   darkMuted: 94 62 49
   lightMuted: 152 164 188
 lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAADQDACdASpkAEMAP3Gsxlm/rr+vq/xMW/AuCUDOAZXIrAqfL2LT9gmukJzYiNskFtyzBVWkrQBFSh0qO9aq95JVbTouw/Fs3RI/xBuAL6YwqsDZWGlFYejJYuUeCpqDlwq1Ujo48nwdAS01l4ry8AAA/ufBYg6lp3jwueYmHaTq2rdjvu+8kvMAjtEHKy9Thywb2m74+XmyW45nO/vE6TlkI0RZEL+8jIfRAqAvLyIYxHWMmYpsTMSpj4mrydlapTQ1eteWD4JMioIMblaRLQYDl2WKtITIQlOw+uN29gWhU3j5PbpDIqXUfr/cGrbuHaRjaYHlk5Qplwxgr82LmSgYSRgvVp2SgUI58az/ucHAhO04pkOTZBrSsbvEGzq2sSDaes5Fqa96U5LBLTQBnT1it833FVIagKjouwqJF/IQ7h/AkYF5sZcJnstzXOxm8QJFseZLUiUoJvrBFC2GNwAA

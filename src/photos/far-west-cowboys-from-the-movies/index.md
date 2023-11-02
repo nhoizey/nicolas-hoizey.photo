@@ -50,11 +50,27 @@ tags:
   - theme park
   - western
 settings:
-  focal_length: 8
-  focal_length_35mm: 39
-  iso: 100
-  aperture: 4.7
-  shutter_speed: 1/750
+  focal_length:
+    raw: 8
+    eq35mm: 39
+    readable: 39 mm
+    slug: 39-mm
+    computed: 39
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 4.7
+    computed: 4.7
+    readable: ƒ/4.7
+    slug: f-4-7
+  shutter_speed:
+    raw: 0.0013333333333333333
+    computed: 0.0013333333333333333
+    readable: 1/750 s
+    slug: 1-750-s
 dimensions:
   width: 2304
   height: 1704
@@ -67,7 +83,7 @@ geo:
 colors:
   vibrant: 156 76 28
   darkVibrant: 86 26 4
-  lightVibrant: 170 196 244
+  lightVibrant: 169 196 244
   muted: 160 131 99
   darkMuted: 73 68 62
   lightMuted: 199 175 142

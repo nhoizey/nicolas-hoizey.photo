@@ -36,11 +36,27 @@ tags:
   - zygoptera
   - zygoptères
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 200
-  aperture: 1.2
-  shutter_speed: 1/105
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 1.2
+    computed: 1.2
+    readable: ƒ/1.2
+    slug: f-1-2
+  shutter_speed:
+    raw: 0.009523809523809525
+    computed: 0.009523809523809525
+    readable: 1/105 s
+    slug: 1-105-s
 dimensions:
   width: 2872
   height: 1915

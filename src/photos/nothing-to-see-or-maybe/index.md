@@ -43,11 +43,27 @@ tags:
   - wild animal
   - wild animals
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 200
-  aperture: 2.8
-  shutter_speed: 1/2900
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.0003448275862068965
+    computed: 0.0003448275862068965
+    readable: 1/2900 s
+    slug: 1-2900-s
 dimensions:
   width: 3500
   height: 2333
@@ -59,12 +75,12 @@ geo:
   city: Maasai Mara National Reserve
 colors:
   vibrant: 162 164 74
-  darkVibrant: 97 93 35
+  darkVibrant: 97 92 35
   lightVibrant: 213 214 164
   muted: 145 132 77
-  darkMuted: 81 78 49
+  darkMuted: 82 78 49
   lightMuted: 172 186 197
-lqip: data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAADwCACdASpkAEMAP3GmxVk/v6iqL5abi/AuCWVt2YAFMgFhdTozrClCQ8j0d4pBZwgxBENJb2gq4w+H19AARitnV60r70jVxjcbRq61CYnygAD+5rCZwKA7p8G2QhaNLc/Iy1Ap7TOMWZ60f73a8JaKTrGGstaXIAum5NkdOrr9z/prW3cuOoJbB19dX3cGrBnKe0jNBAk9zm3eH2WeIwd9WdobSd5yptT172E0vYzX91as0cCyURu8eDDwWwJl1iFrfh+ZECBqOv2dnHlEI0dKtQ6tUZP7OIy9RPWk+H+Bv8HlJWzHKQXFA4REsNd1vQXSNQTxKbbrE449QjLAFIvv4GiHegBkFwiPXTgxXA4Lgv82Wn9IQAAA
+lqip: data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAABwCgCdASpkAEMAP3GmxVm/v6iqr5abG/AuCWUAzU3gfD8LBoYh7bE6nO4UebKqEXydlzgba002OqGVsDQ3reQHFI35iKVhIXnen0ysfLB4bfS6VF8H4cW94vrKAAD+5rCZwKA7ynOr9gmVw2kAjXU44jfk/NW+VPlWdbuwVkMH1K4VQrnFFCwZa7PNmQMFrqDHOV0ox77pF9aNvBhP+TEh088Rg77UxfuV/3xNW3i0FHrsn3mICzYoNFYZCoi9ClkhOlW4ZZTV1Q0CCSTLNqvQpOtisWG3rilfKlBAssixUg29+MD5HnOkr3FOcXUoktzURlnx3jww4225txbu6Om14vFXNPp8wUh+TvkRCl19TIs8wSoTeIAAAAA=
 ---
 
 As we drove slowly through the large empty spaces of the Maasai Mara National Reserve, I was fortunate enough to perceive a spot of slightly different color in a small group of bushes.

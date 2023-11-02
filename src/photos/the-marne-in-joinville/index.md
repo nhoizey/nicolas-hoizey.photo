@@ -29,11 +29,27 @@ tags:
   - rivière
   - water
 settings:
-  focal_length: 80
-  focal_length_35mm: 120
-  iso: 160
-  aperture: 2.8
-  shutter_speed: 1/170
+  focal_length:
+    raw: 80
+    eq35mm: 120
+    readable: 120 mm
+    slug: 120-mm
+    computed: 120
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.0058823529411764705
+    computed: 0.0058823529411764705
+    readable: 1/170 s
+    slug: 1-170-s
 dimensions:
   width: 3500
   height: 2333

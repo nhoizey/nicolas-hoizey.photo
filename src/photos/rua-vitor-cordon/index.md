@@ -30,10 +30,26 @@ tags:
   - urban
   - voyage
 settings:
-  focal_length: 50
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/1600
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.000625
+    computed: 0.000625
+    readable: 1/1600 s
+    slug: 1-1600-s
 dimensions:
   width: 2333
   height: 3500

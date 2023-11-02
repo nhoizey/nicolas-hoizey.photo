@@ -45,10 +45,26 @@ tags:
   - water
   - white
 settings:
-  focal_length: 42
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/3200
+  focal_length:
+    raw: 42
+    readable: 42 mm
+    slug: 42-mm
+    computed: 42
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.0003125
+    computed: 0.0003125
+    readable: 1/3200 s
+    slug: 1-3200-s
 dimensions:
   width: 3500
   height: 2333

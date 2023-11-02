@@ -58,10 +58,26 @@ tags:
   - woman
   - yellow
 settings:
-  focal_length: 189
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/800
+  focal_length:
+    raw: 189
+    readable: 189 mm
+    slug: 189-mm
+    computed: 189
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.00125
+    computed: 0.00125
+    readable: 1/800 s
+    slug: 1-800-s
 dimensions:
   width: 3500
   height: 2333

@@ -43,10 +43,26 @@ tags:
   - vert
   - water
 settings:
-  focal_length: 24
-  iso: 200
-  aperture: 16
-  shutter_speed: 1/25
+  focal_length:
+    raw: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 16
+    computed: 16
+    readable: ƒ/16
+    slug: f-16
+  shutter_speed:
+    raw: 0.04
+    computed: 0.04
+    readable: 1/25 s
+    slug: 1-25-s
 dimensions:
   width: 3500
   height: 2333

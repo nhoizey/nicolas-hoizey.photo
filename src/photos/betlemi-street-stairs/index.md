@@ -25,11 +25,27 @@ tags:
   - კავკასია
   - საქართველო
 settings:
-  focal_length: 11.5
-  focal_length_35mm: 17
-  iso: 200
-  aperture: 8
-  shutter_speed: 1/280
+  focal_length:
+    raw: 11.5
+    eq35mm: 17
+    readable: 17 mm
+    slug: 17-mm
+    computed: 17
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.0035714285714285713
+    computed: 0.0035714285714285713
+    readable: 1/280 s
+    slug: 1-280-s
 dimensions:
   width: 3500
   height: 2333
@@ -44,7 +60,7 @@ colors:
   darkVibrant: 111 36 18
   lightVibrant: 117 189 242
   muted: 98 130 168
-  darkMuted: 88 66 54
+  darkMuted: 88 65 54
   lightMuted: 188 151 128
 lqip: data:image/webp;base64,UklGRpABAABXRUJQVlA4IIQBAADwDgCdASpkAEMAP3GmyFm0rLIjrrQMopAuCU2iy5e/44hismL+/BqXkkCF+DWrVVGeIDkfzG5uPmMjMNITOwgMpG05EgBRR+5hqlKwsxlfmsPTMtOe560SbV4dE6l3fG5ZSFVJvWZVjHnHrsxHA5eU5VmQfJQGF/diVxIYnjkcAAD+6MkzAew36aXOqEfe4VprVZt2aYcGMXl8W1gZIPIm1gL7w7nT4L8XyFVEGPR1xLvFiQ4dkvIOEJDMfo2ywoxqu//4aWlyMfccjqM7us0ZvxPJpMYbfrhyE/tKba2Ee30gOYdd6qE09JpRlN/6KBu0tf8iDgedvtACLYtJceQL3bVGpkpO4+XK7lMWXhKd1w1VfjJ0y8xdXJP8cofImRkiei24K25a/iLUm7yLe7639xNT1ps2f+Xr5lWdLXSR+FJ2mjTCGmLlsdA165iCioXz1fj5JyxR92LPwJnU/QzV4XT731RsYhc0GJS6c2GvyJMn2iWIp4QOQEAp6j/eTUcEAAAA
 ---

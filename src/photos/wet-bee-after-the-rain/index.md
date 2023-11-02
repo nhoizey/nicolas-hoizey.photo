@@ -22,10 +22,26 @@ tags:
   - water
   - wet
 settings:
-  focal_length: 100
-  iso: 800
-  aperture: 4.5
-  shutter_speed: 1/160
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 4.5
+    computed: 4.5
+    readable: ƒ/4.5
+    slug: f-4-5
+  shutter_speed:
+    raw: 0.00625
+    computed: 0.00625
+    readable: 1/160 s
+    slug: 1-160-s
 dimensions:
   width: 2897
   height: 1931

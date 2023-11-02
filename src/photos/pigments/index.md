@@ -29,11 +29,27 @@ tags:
   - still-life
   - wall
 settings:
-  focal_length: 10.9
-  focal_length_35mm: 24
-  iso: 1600
-  aperture: 11
-  shutter_speed: 1/60
+  focal_length:
+    raw: 10.9
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.016666666666666666
+    computed: 0.016666666666666666
+    readable: 1/60 s
+    slug: 1-60-s
 dimensions:
   width: 3500
   height: 2333

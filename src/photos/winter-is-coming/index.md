@@ -17,10 +17,26 @@ tags:
   - ski
   - vacances
 settings:
-  focal_length: 68
-  iso: 200
-  aperture: 11
-  shutter_speed: 1/160
+  focal_length:
+    raw: 68
+    readable: 68 mm
+    slug: 68-mm
+    computed: 68
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 11
+    computed: 11
+    readable: ƒ/11
+    slug: f-11
+  shutter_speed:
+    raw: 0.00625
+    computed: 0.00625
+    readable: 1/160 s
+    slug: 1-160-s
 dimensions:
   width: 3500
   height: 2333
@@ -31,7 +47,7 @@ geo:
   country: France
   city: Les Allues
 colors:
-  vibrant: 116 68 44
+  vibrant: 116 68 45
   darkVibrant: 94 57 38
   lightVibrant: 212 228 244
   muted: 156 116 93

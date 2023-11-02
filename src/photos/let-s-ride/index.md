@@ -34,10 +34,26 @@ tags:
   - woman
   - Zuid-Holland
 settings:
-  focal_length: 135
-  iso: 100
-  aperture: 5
-  shutter_speed: 1/320
+  focal_length:
+    raw: 135
+    readable: 135 mm
+    slug: 135-mm
+    computed: 135
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 5
+    computed: 5
+    readable: ƒ/5
+    slug: f-5
+  shutter_speed:
+    raw: 0.003125
+    computed: 0.003125
+    readable: 1/320 s
+    slug: 1-320-s
 dimensions:
   width: 3500
   height: 2333

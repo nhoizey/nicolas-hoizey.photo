@@ -37,10 +37,26 @@ tags:
   - white
   - window
 settings:
-  focal_length: 68
-  iso: 100
-  aperture: 5.6
-  shutter_speed: 1/50
+  focal_length:
+    raw: 68
+    readable: 68 mm
+    slug: 68-mm
+    computed: 68
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.02
+    computed: 0.02
+    readable: 1/50 s
+    slug: 1-50-s
 dimensions:
   width: 2935
   height: 2201

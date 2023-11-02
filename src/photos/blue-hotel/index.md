@@ -30,11 +30,27 @@ tags:
   - urban
   - ville
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 160
-  aperture: 1.2
-  shutter_speed: 1/10500
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 160
+    computed: 160
+    readable: "160"
+    slug: "160"
+  aperture:
+    raw: 1.2
+    computed: 1.2
+    readable: ƒ/1.2
+    slug: f-1-2
+  shutter_speed:
+    raw: 0.00009523809523809524
+    computed: 0.00009523809523809524
+    readable: 1/10500 s
+    slug: 1-10500-s
 dimensions:
   width: 3500
   height: 2333
@@ -49,7 +65,7 @@ colors:
   darkVibrant: 23 70 101
   lightVibrant: 216 175 151
   muted: 140 109 92
-  darkMuted: 27 42 61
+  darkMuted: 27 43 61
   lightMuted: 173 187 199
 lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAAAwEQCdASpkAEMAP3Gixlm0rCelMHR8OpAuCUAZIgW0VICPrimVRtb161BAEc54u1BsKvvUIW/XuZAqgKu0wOh8S+Z7IonAUlryzaIBk0Glzoof6Uu6cGIp4McjhveBhTLjMT+AXHaGNAgVEjLObb8IBtqJpbjqFUq9gI7aZh9e9+n8JQITjDa+ouT8IU6CPKoRAAD+00/WVTWOJ9A2cTUwkMjeWRsvnok6RwHSM35xRf/RhiPTCCa78Xd3HsMUMaRzTSY4p9z/PFqoEuIAtPZzX2ca1IB9L72M66dPKMLY30nsSTsjFovcVvAwR48YKXtuj8ljkzQc7UZjc2x5XMnKA82OCTnfASQQi2IDC+/NBD32/zWoebyaAAzpiNGd546WuXHjol3tgt2KlPDwv9KX02MkAm1KXhEbxT5G8D8IilqOEaYXZiUK4KgHeaolmVIhWIYfE3VfefPzol9MtamXBCIWD0SEngGg2zqHXERUUtAvre/MdYgUaw+FSi25Ly8QR349vUMJ14OGgVQZ9Sc+J3fLFrp5Rf7xbpdQFS8KimlIllSyua4XquxFZeGirXF3TwFz6sgHraR0zujOHf5EmyOZHvdKfFZCncAA
 ---

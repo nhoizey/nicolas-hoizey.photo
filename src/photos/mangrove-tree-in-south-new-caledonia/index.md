@@ -32,10 +32,26 @@ tags:
   - tree
   - végétal
 settings:
-  focal_length: 30
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/250
+  focal_length:
+    raw: 30
+    readable: 30 mm
+    slug: 30-mm
+    computed: 30
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.004
+    computed: 0.004
+    readable: 1/250 s
+    slug: 1-250-s
 dimensions:
   width: 3500
   height: 2333

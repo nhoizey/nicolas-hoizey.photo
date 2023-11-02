@@ -45,11 +45,27 @@ tags:
   - Narok County
   - reserve
 settings:
-  focal_length: 200
-  focal_length_35mm: 300
-  iso: 500
-  aperture: 9
-  shutter_speed: 1/300
+  focal_length:
+    raw: 200
+    eq35mm: 300
+    readable: 300 mm
+    slug: 300-mm
+    computed: 300
+  iso:
+    raw: 500
+    computed: 500
+    readable: "500"
+    slug: "500"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.0033333333333333335
+    computed: 0.0033333333333333335
+    readable: 1/300 s
+    slug: 1-300-s
 dimensions:
   width: 3500
   height: 2333
@@ -64,7 +80,7 @@ colors:
   darkVibrant: 94 103 34
   lightVibrant: 244 214 164
   muted: 171 145 90
-  darkMuted: 91 92 50
+  darkMuted: 91 93 50
   lightMuted: 185 172 134
 lqip: data:image/webp;base64,UklGRqYBAABXRUJQVlA4IJoBAADwDgCdASpkAEMAP3GkxFi0rLCqMzPbapAuCWMAyrdQkmD9UYYx+zZ9/9Z3EBNJjmBw7+JOLNSBgRbkKQf3mNw0ycGIo313PyAnxNngylh1fxmahN4cGGH6sIEjRgHiK00Zv+yq/xyIgM7Wb966Dg6Ksw/7CnYrIT3Cn0PwE4TxeAD8Tt1+Rs6ms8F6Ih1n4oTERxiPD4LsBbPRFg4vMOtSBX65MlNFsMpYemVAc8caebYextitdV22jMxn06gIdyAATVMZwUFyVDtqoqZxu2T6eF/q/BP4zm1mbYISHo488MKRVfufu9V8oYhF3Wc3M0lq/i2kjUaN0wMAGUxGSem9MLJPIt7FnEgFoRoWZSI+t3up/lxsGdKI4OBItS/zF6Xexdp+w9nK1nIR7wclIV4zjGJaz0CZXsrhMp1FfiyrHn41ZP8138TqNiIE7KBQA/Ah0O4fm4KEISgPFBWQgNPSssXL/LgPYoPitGlmvrHuH8Xnc9GI+7a2Vj2t3XtLmPUJedQ2bjCCfnzVf0oE+6pIjr7RqMzoN6oAAA==
 ---

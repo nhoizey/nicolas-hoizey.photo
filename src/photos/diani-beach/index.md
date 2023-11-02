@@ -44,11 +44,27 @@ tags:
   - The Baobab Hotel
   - water
 settings:
-  focal_length: 4.15
-  focal_length_35mm: 29
-  iso: 25
-  aperture: 2.2
-  shutter_speed: 1/2100
+  focal_length:
+    raw: 4.15
+    eq35mm: 29
+    readable: 29 mm
+    slug: 29-mm
+    computed: 29
+  iso:
+    raw: 25
+    computed: 25
+    readable: "25"
+    slug: "25"
+  aperture:
+    raw: 2.2
+    computed: 2.2
+    readable: ƒ/2.2
+    slug: f-2-2
+  shutter_speed:
+    raw: 0.0004761904761904762
+    computed: 0.0004761904761904762
+    readable: 1/2100 s
+    slug: 1-2100-s
 dimensions:
   width: 3500
   height: 834
@@ -60,7 +76,7 @@ geo:
   city: Diani Beach
 colors:
   vibrant: 35 203 223
-  darkVibrant: 5 57 172
+  darkVibrant: 4 57 173
   lightVibrant: 144 186 236
   muted: 88 128 158
   darkMuted: 79 82 54

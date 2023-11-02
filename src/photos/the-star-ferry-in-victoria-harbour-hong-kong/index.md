@@ -27,11 +27,27 @@ tags:
   - strait
   - Victoria Harbour
 settings:
-  focal_length: 8.8
-  focal_length_35mm: 24
-  iso: 2500
-  aperture: 9
-  shutter_speed: 1/30
+  focal_length:
+    raw: 8.8
+    eq35mm: 24
+    readable: 24 mm
+    slug: 24-mm
+    computed: 24
+  iso:
+    raw: 2500
+    computed: 2500
+    readable: "2500"
+    slug: "2500"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.03333333333333333
+    computed: 0.03333333333333333
+    readable: 1/30 s
+    slug: 1-30-s
 dimensions:
   width: 3500
   height: 2333
@@ -42,12 +58,12 @@ geo:
   country: Hong Kong
   city: Kowloon
 colors:
-  vibrant: 214 148 71
+  vibrant: 214 149 75
   darkVibrant: 23 80 120
   lightVibrant: 172 180 244
   muted: 81 133 168
   darkMuted: 55 86 97
-  lightMuted: 191 174 200
+  lightMuted: 210 176 157
 lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAADQDACdASpkAEMAP3GmxFm0v6g1MVNrg/AuCWMtmAnkyy9RgkMnRUsDRe+XE9FhMFnsuI3aASueIpgLivNkArLk1FyX9RHM3amY0ney5dNIx9MRWs/DbCwUJnJc7B2Glb5yKCPZwzsgQC2XZiGPpgAA/sMVWp9YimYIIh6MxjuTrkZQiYRtthOdEsZqAXV4xFS0KXvLzCwxAv8swEWWhAX8MHZxWe/W35N2vRrg+qPmDv6Q7xQQhYU4KpYPpCi7CCB66+8RXnR6ht/sY4/xOQMgqAM2xfxuTDie2Drl2DgGeEOgb0Nf+1ccT4GzOVyOqHJscnCT6EFO6tLC6EfTZ+CoJ+DqKP6UYUpsnMkWnvQXNyQAJQjrgLzBP6aJGtjOtkhw9i2KshmQkGPpqFIAA76x+fFRBob5MPoLyNkuekWbUKlZ2STwigAEVUYl8kANSOVuyG74he9YegM2Jawt4VUEx0rKA614AAA=
 ---
 

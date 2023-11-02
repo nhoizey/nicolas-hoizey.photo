@@ -50,10 +50,26 @@ tags:
   - United Kingdom of Great Britain and Northern Ireland
   - vert
 settings:
-  focal_length: 50
-  iso: 200
-  aperture: 5.6
-  shutter_speed: 1/160
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 5.6
+    computed: 5.6
+    readable: ƒ/5.6
+    slug: f-5-6
+  shutter_speed:
+    raw: 0.00625
+    computed: 0.00625
+    readable: 1/160 s
+    slug: 1-160-s
 dimensions:
   width: 1948
   height: 1299
@@ -65,7 +81,7 @@ geo:
   city: Blair Castle
 colors:
   vibrant: 55 135 189
-  darkVibrant: 16 137 134
+  darkVibrant: 16 137 135
   lightVibrant: 152 196 225
   muted: 149 141 102
   darkMuted: 72 71 56

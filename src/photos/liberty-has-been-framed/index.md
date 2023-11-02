@@ -38,11 +38,27 @@ tags:
   - xenophobia
   - xénophobie
 settings:
-  focal_length: 22.77
-  focal_length_35mm: 62
-  iso: 125
-  aperture: 2.8
-  shutter_speed: 1/640
+  focal_length:
+    raw: 22.77
+    eq35mm: 62
+    readable: 62 mm
+    slug: 62-mm
+    computed: 62
+  iso:
+    raw: 125
+    computed: 125
+    readable: "125"
+    slug: "125"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.0015625
+    computed: 0.0015625
+    readable: 1/640 s
+    slug: 1-640-s
 dimensions:
   width: 3236
   height: 2157

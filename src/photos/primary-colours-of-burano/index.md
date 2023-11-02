@@ -31,10 +31,26 @@ tags:
   - Venise
   - ville
 settings:
-  focal_length: 17
-  iso: 100
-  aperture: 7.1
-  shutter_speed: 1/100
+  focal_length:
+    raw: 17
+    readable: 17 mm
+    slug: 17-mm
+    computed: 17
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 7.1
+    computed: 7.1
+    readable: ƒ/7.1
+    slug: f-7-1
+  shutter_speed:
+    raw: 0.01
+    computed: 0.01
+    readable: 1/100 s
+    slug: 1-100-s
 dimensions:
   width: 3280
   height: 2187

@@ -308,22 +308,62 @@ SYNC ${photo}`);
       photoExif.ExposureTime
     ) {
       photoYFM.settings = {};
-      if (photoExif.FocalLength) {
-        photoYFM.settings.focal_length = photoExif.FocalLength;
+
+      // Focal length
+      if (photoExif.FocalLength || photoExif.FocalLengthIn35mmFormat) {
+        photoYFM.settings.focal_length = {};
+        if (photoExif.FocalLength) {
+          photoYFM.settings.focal_length.raw = photoExif.FocalLength;
+        }
+
+        if (photoExif.FocalLengthIn35mmFormat) {
+          photoYFM.settings.focal_length.eq35mm =
+            photoExif.FocalLengthIn35mmFormat;
+        }
+
+        photoYFM.settings.focal_length.computed =
+          photoYFM.settings.focal_length.eq35mm ||
+          photoYFM.settings.focal_length.raw;
+
+        photoYFM.settings.focal_length.readable = `${photoYFM.settings.focal_length.computed} mm`;
+
+        photoYFM.settings.focal_length.slug = slugify(
+          photoYFM.settings.focal_length.readable
+        );
       }
-      if (photoExif.FocalLengthIn35mmFormat) {
-        photoYFM.settings.focal_length_35mm = photoExif.FocalLengthIn35mmFormat;
-      }
+
       if (photoExif.ISO) {
-        photoYFM.settings.iso = photoExif.ISO;
+        photoYFM.settings.iso = {
+          raw: photoExif.ISO,
+          computed: photoExif.ISO,
+          readable: `${photoExif.ISO}`,
+          slug: slugify(`${photoExif.ISO}`),
+        };
       }
+
       if (photoExif.FNumber) {
-        photoYFM.settings.aperture = photoExif.FNumber;
+        photoYFM.settings.aperture = {
+          raw: photoExif.FNumber,
+          computed: photoExif.FNumber,
+          readable: `ƒ/${photoExif.FNumber}`,
+          slug: slugify(`f/${photoExif.FNumber}`),
+        };
       }
+
       if (photoExif.ExposureTime) {
-        // Add exposure time as a fraction
+        photoYFM.settings.shutter_speed = {
+          raw: photoExif.ExposureTime,
+          computed: photoExif.ExposureTime,
+        };
+
+        // Add exposure time as a fraction for readability
         let t = new Fraction(photoExif.ExposureTime);
-        photoYFM.settings.shutter_speed = t.toFraction(true);
+
+        photoYFM.settings.shutter_speed.readable = `${t.toFraction(true)} s`;
+
+        photoYFM.settings.shutter_speed.slug = slugify(
+          photoYFM.settings.shutter_speed.readable
+        );
       }
     }
 

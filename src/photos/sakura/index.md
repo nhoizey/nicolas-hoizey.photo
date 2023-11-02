@@ -21,10 +21,26 @@ tags:
   - Ile de France
   - Jardin Albert Khan
 settings:
-  focal_length: 68
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/500
+  focal_length:
+    raw: 68
+    readable: 68 mm
+    slug: 68-mm
+    computed: 68
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.002
+    computed: 0.002
+    readable: 1/500 s
+    slug: 1-500-s
 dimensions:
   width: 3500
   height: 2333

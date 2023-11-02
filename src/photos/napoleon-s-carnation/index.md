@@ -57,11 +57,27 @@ tags:
   - Thomisidae
   - végétal
 settings:
-  focal_length: 80
-  focal_length_35mm: 120
-  iso: 1600
-  aperture: 8
-  shutter_speed: 1/150
+  focal_length:
+    raw: 80
+    eq35mm: 120
+    readable: 120 mm
+    slug: 120-mm
+    computed: 120
+  iso:
+    raw: 1600
+    computed: 1600
+    readable: "1600"
+    slug: "1600"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.006666666666666667
+    computed: 0.006666666666666667
+    readable: 1/150 s
+    slug: 1-150-s
 dimensions:
   width: 3500
   height: 2465

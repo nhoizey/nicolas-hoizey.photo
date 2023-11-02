@@ -39,10 +39,26 @@ tags:
   - Seine-Maritime
   - water
 settings:
-  focal_length: 34
-  iso: 100
-  aperture: 2.8
-  shutter_speed: 1/3200
+  focal_length:
+    raw: 34
+    readable: 34 mm
+    slug: 34-mm
+    computed: 34
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.0003125
+    computed: 0.0003125
+    readable: 1/3200 s
+    slug: 1-3200-s
 dimensions:
   width: 2333
   height: 3500
@@ -59,7 +75,7 @@ colors:
   muted: 73 126 121
   darkMuted: 47 98 84
   lightMuted: 175 146 139
-lqip: data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAADQDQCdASpkAJYAP3Gqxly7v7+sLNUrO/AuCWNuiIksBPBWRSTbobH4EssbGFg7/8qritr+kUHy2/a6UazNskJHekKYDhJC9DhimHHHVbKd59jfvufkPBVy7bv4FIG1HlrWPag73ES2rXxXj9amnwS+CoiUXtCBgAD+5wxWTYEEpOIQ3q41FjJ3OJ8uJe4tniAHyFJSPHYwkc1G7a0kb322xIUosfQyiSKnr0uPtP/bEA62EQpk290KGQfsXdb/rOFI+kLWhbSuJCBzHUQkpoiZrAxFBo9aaZmB+AHQkJ/ZBCPQTb+9GQQoaapyP3UQ2Kebpa8rN7N53HT1SVsms7ewdECNIoxFRFrDxie79SA/2abYYpuhuJRDqxU4Ux9RFlrdbPp1jtpshAiVX7tMi3AVxZCCH7OFgypJoyxXwCYOamosYxctI1U6xYl/I74RHNy5bdHkD6dZ49p9YegWRwGBY7SG07emngeIf15nZhMNS+RLX6+LequHjkDBSuksnu3qAw+KbENxPWDxIqngixgJv8iuuFd0oIQlE47+0A+aClb3DJNTMmJJ9rKSqPhREh7gO6EfMLh86dRvINk7IQNRbIu9YanAAAA=
+lqip: data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAACwDgCdASpkAJYAP3Gqxly7v7+sLNUrO/AuCWMtltgJ4CLz4DWfoNzdrQyiv/1+N8KWTeuAf/IjuqyRCBfY9iDniTwHc2D1cNM68oR0HvC0tJRy7efljk3+jJNRiifyAOy2DpWz/d/YP2keyc5z7X6Y43lo+6zZ96nPWs5+U4AA/ucMV3p0dmBcfTSbErNqeVs/LiXuLZ4guooKBbrNL+1YozRU8Qpj/4kuTcavWqWCr8m+BlqJrPagKkE9/LnN+xqw9i8vok1wrAxJeYTyg6Qgcx1EJKaImdHDFbd3AHebZJJvT4EYR0bYYrx/vfSFETxYdRCnKCVTFNXeHqMCZA+JmF23E+ZqlbmYB9Z1/NCNgcK7Sb1/iLeU4AAAOnH75cxI7/ivsG4scSrwuSFmfrPhi2xpHtwGC4+iisiPrG4jXizdQgCRj1d6wkjiGKeClGz62N5ZuBRj5jr1xlb74+Fuf6Zz1gSizIcCZTyZ0htZdltNc5w8hQGdc0iKTdIgX6D5mR1jK8vmIf7OHekSCF4VoA/Hm9+OBwvHFsuIuZZeGv0EuOSAaZtRwsK0HXYNyJ15TxJ8NIeaHTlYopkRBy+2I+KlbLTgAAA=
 ---
 
 

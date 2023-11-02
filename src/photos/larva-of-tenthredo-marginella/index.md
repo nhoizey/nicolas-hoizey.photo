@@ -18,10 +18,26 @@ tags:
   - wild animal
   - wild animals
 settings:
-  focal_length: 100
-  iso: 400
-  aperture: 4.5
-  shutter_speed: 1/80
+  focal_length:
+    raw: 100
+    readable: 100 mm
+    slug: 100-mm
+    computed: 100
+  iso:
+    raw: 400
+    computed: 400
+    readable: "400"
+    slug: "400"
+  aperture:
+    raw: 4.5
+    computed: 4.5
+    readable: ƒ/4.5
+    slug: f-4-5
+  shutter_speed:
+    raw: 0.0125
+    computed: 0.0125
+    readable: 1/80 s
+    slug: 1-80-s
 dimensions:
   width: 2304
   height: 2304

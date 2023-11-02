@@ -24,10 +24,26 @@ tags:
   - photographie culinaire
   - saucisson
 settings:
-  focal_length: 50
-  iso: 100
-  aperture: 8
-  shutter_speed: 1/25
+  focal_length:
+    raw: 50
+    readable: 50 mm
+    slug: 50-mm
+    computed: 50
+  iso:
+    raw: 100
+    computed: 100
+    readable: "100"
+    slug: "100"
+  aperture:
+    raw: 8
+    computed: 8
+    readable: ƒ/8
+    slug: f-8
+  shutter_speed:
+    raw: 0.04
+    computed: 0.04
+    readable: 1/25 s
+    slug: 1-25-s
 dimensions:
   width: 3447
   height: 3447

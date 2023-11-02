@@ -40,11 +40,27 @@ tags:
   - wild animal
   - wild animals
 settings:
-  focal_length: 56
-  focal_length_35mm: 84
-  iso: 200
-  aperture: 1.2
-  shutter_speed: 1/26000
+  focal_length:
+    raw: 56
+    eq35mm: 84
+    readable: 84 mm
+    slug: 84-mm
+    computed: 84
+  iso:
+    raw: 200
+    computed: 200
+    readable: "200"
+    slug: "200"
+  aperture:
+    raw: 1.2
+    computed: 1.2
+    readable: ƒ/1.2
+    slug: f-1-2
+  shutter_speed:
+    raw: 0.00003846153846153846
+    computed: 0.00003846153846153846
+    readable: 1/26000 s
+    slug: 1-26000-s
 dimensions:
   width: 3500
   height: 2333
@@ -60,7 +76,7 @@ colors:
   lightVibrant: 109 159 196
   muted: 100 141 172
   darkMuted: 90 97 46
-  lightMuted: 142 166 186
+  lightMuted: 164 180 194
 lqip: data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAACwCQCdASpkAEMAP3Gsxl00uDEzLNJMkwAuCWMGfAQB2ZBawla6cRkxxuN3sKVUyMuQZuBEPYAXVRxRHwBmzotQYtlr5kuRmy7uQ2YvPCizj4JJ7w/OAAD6Ke88GWp3/pLoWioxHZB/bTGEjFIok5/qxysTtHmpAYR1BBtd6aSLYeK1N7h2R5d3AZAHBI5wejtm34q1Ln7A8tzTTzp14vLuGQNk7N/SNFpI23EUenJTVQKslqlp4ubm8CiD656D7d8T6lCfATUEzgnZTNL13rjZrDhiG/Nt0rT9cTA9Q1YXUBVRtX6cHZKWZWH3zx7AMGCCX7SINswIDB3IxMtWe44gAAA=
 ---
 

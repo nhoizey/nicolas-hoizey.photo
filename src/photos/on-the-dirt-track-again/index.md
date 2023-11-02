@@ -32,11 +32,27 @@ tags:
   - track
   - voiture
 settings:
-  focal_length: 27
-  focal_length_35mm: 41
-  iso: 640
-  aperture: 2.8
-  shutter_speed: 1/8000
+  focal_length:
+    raw: 27
+    eq35mm: 41
+    readable: 41 mm
+    slug: 41-mm
+    computed: 41
+  iso:
+    raw: 640
+    computed: 640
+    readable: "640"
+    slug: "640"
+  aperture:
+    raw: 2.8
+    computed: 2.8
+    readable: ƒ/2.8
+    slug: f-2-8
+  shutter_speed:
+    raw: 0.000125
+    computed: 0.000125
+    readable: 1/8000 s
+    slug: 1-8000-s
 dimensions:
   width: 3500
   height: 2333
@@ -48,9 +64,9 @@ geo:
   city: Kwale
 colors:
   vibrant: 197 108 68
-  darkVibrant: 116 68 36
+  darkVibrant: 79 76 18
   lightVibrant: 236 148 113
-  muted: 163 116 90
+  muted: 163 116 91
   darkMuted: 89 83 60
   lightMuted: 175 192 209
 lqip: data:image/webp;base64,UklGRqIBAABXRUJQVlA4IJYBAADQDQCdASpkAEMAP22iyFi0rKiqMVQ8epAtiU2jOQH4GEdjvLmagSLmYoPlZqL9q01YJtuJgco+V9AhkjR8PTu+I3fg9O1ja2DMn4F8I1mMQIhU17gFHdXVQphY+9OXuMfY0Y5P9Gpb/6nzJsuTj4xYPpKuNZuSAAD3HxhN0dv9rN7439lGXDHD+5pcBRbQ0F/po8QmaCF6kUkaK6IMPRA/m1XQ6+xyZZvqXpBKfTe2J4fT5Trpj31YAcz6WC5zPfjG2tHYg653REbpbMJOFkxcR8TuUQjgNyPFYn26dwTJ6fpjJtHNdJyWzfGylN4yaVwjHb2HYqWfYGzZOzX1H3WFnhKbT4pVNIaU2qL2kh01ew8QSjQO40mAGcGkHmj1OT2WExNIHiaJs/9KHYTvksiSJnJms7h/yOMTJp4fASWncPGoZZTriqNNJbqbm/k0mZpX+aQJJ2cR3poH4yWBPjJf/utN+zK4Xn7qTU0RYWacElQ2GEkveq+lyslNcUxdFa96JnkuUoDM6Dunmiu80FnKq89AIAAA

@@ -44,10 +44,26 @@ tags:
   - white
   - winter
 settings:
-  focal_length: 70
-  iso: 50
-  aperture: 5
-  shutter_speed: 1/100
+  focal_length:
+    raw: 70
+    readable: 70 mm
+    slug: 70-mm
+    computed: 70
+  iso:
+    raw: 50
+    computed: 50
+    readable: "50"
+    slug: "50"
+  aperture:
+    raw: 5
+    computed: 5
+    readable: ƒ/5
+    slug: f-5
+  shutter_speed:
+    raw: 0.01
+    computed: 0.01
+    readable: 1/100 s
+    slug: 1-100-s
 dimensions:
   width: 3500
   height: 2333

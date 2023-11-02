@@ -36,11 +36,27 @@ tags:
   - Secretary bird
   - Secretarybird
 settings:
-  focal_length: 560
-  focal_length_35mm: 840
-  iso: 800
-  aperture: 9
-  shutter_speed: 1/80
+  focal_length:
+    raw: 560
+    eq35mm: 840
+    readable: 840 mm
+    slug: 840-mm
+    computed: 840
+  iso:
+    raw: 800
+    computed: 800
+    readable: "800"
+    slug: "800"
+  aperture:
+    raw: 9
+    computed: 9
+    readable: ƒ/9
+    slug: f-9
+  shutter_speed:
+    raw: 0.0125
+    computed: 0.0125
+    readable: 1/80 s
+    slug: 1-80-s
 dimensions:
   width: 3500
   height: 2333
@@ -52,11 +68,11 @@ geo:
   city: Amboseli National Park
 colors:
   vibrant: 38 108 165
-  darkVibrant: 36 80 122
+  darkVibrant: 36 83 128
   lightVibrant: 147 193 230
   muted: 163 130 84
   darkMuted: 66 64 38
-  lightMuted: 168 184 205
+  lightMuted: 168 184 204
 lqip: data:image/webp;base64,UklGRoYBAABXRUJQVlA4IHoBAADQDACdASpkAEMAP3Goy120q7MmqTM9GpAuCWNq+oEJ6IRCEyihmsNzzQRhJRby/zfhMgBQamOnPZweNf5RtKs62En4PL7cBVoStTofbqKHBbkZECuR9qYY1jSYqZEVkqo0U+VrUHlK/elpumvI8QAA/p77v0PjBi/9OHwdQuJGm6nkwZoxuYOOEf9fmB3YxOkX+mhf0Ir5XiB88avVLQzmqZ9QCtNUXddkY8rZBj8BXtbzU5EZPi+7rJu31AUm1KIpD6JnIA4urmcLDlieoAMK1fYs3YmGPWqXil+MdpVm1Z9F7RIpFazFOulPp/GdnyKSh1zKIgudk98O840Cq+ufydiTP06Ao0xIeeNsZbk14G5St2uYj/KeXUQ0iuPjWzyxOgCVeGoVboIa7X2i80FVSpR0X/Et6LqK3UQN6p9L09HTBJAbv8Z+pO8FjP8IU7aZlvnCwygc+bg3dnhXEqP77En9W7cZaNcCVuz12panXUrUBp7z074wAAA=
 ---
 
