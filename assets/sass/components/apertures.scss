@@ -1,70 +1,19 @@
 @use '../components/chaarts' as *;
-
-// Bar charts
-
-.chaarts.bar {
-  --offset: 12.5em;
-}
-
-.chaarts.bar caption {
-  text-align: initial;
-  text-indent: calc(var(--offset) + 1rem);
-}
-
-.chaarts.bar tr {
-  display: grid;
-  grid-auto-rows: 1fr;
-  grid-row-gap: 0.5rem;
-  grid-template-columns:
-    minmax(min-content, var(--offset)) repeat(var(--scale, 100), minmax(0, 1fr))
-    10ch;
-  transition: opacity 0.2s var(--move);
-}
+@use '../tokens/colors';
 
 .chaarts.bar td {
-  --size: calc(var(--scale, 100) * 100%);
-  --position: calc(var(--value, 0) / var(--scale, 100) * 100%);
   background: linear-gradient(
-        to right,
-        var(--chaarts-green),
-        var(--chaarts-gray),
-        var(--chaarts-blue),
-        var(--chaarts-purple),
-        var(--chaarts-red)
-      )
-      var(--position) 0% / var(--size) 100%,
-    var(--background) center/contain;
-  background-blend-mode: hard-light;
-  grid-column: 2 / max(2, var(--value, 0));
-  margin: 0.5rem 0 0;
-  position: relative;
-}
-
-.chaarts.bar span {
-  background: inherit;
-  background-clip: text;
-  color: transparent;
-  font-weight: bold;
-  inset-inline-start: 100%;
-  line-height: 1.5;
-  position: absolute;
+      to right,
+      colors.$brand-700,
+      colors.$brand-600,
+      colors.$brand-500,
+      colors.$brand-400,
+      colors.$brand-300,
+      colors.$brand-200
+    )
+    var(--position) 0% / var(--size) 100%;
 }
 
 .chaarts.bar:hover tr {
-  opacity: 0.5;
-}
-
-.chaarts.bar:hover tr:hover {
   opacity: 1;
-}
-
-@media (prefers-contrast: more) {
-  .chaarts.bar td {
-    background: var(--chaarts-blue);
-  }
-  .chaarts.bar span {
-    background: var(--background-lighter);
-    background-clip: unset;
-    color: var(--chaarts-blue);
-  }
 }
