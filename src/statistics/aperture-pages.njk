@@ -6,10 +6,10 @@ pagination:
   filter:
     - all
   addAllPagesToCollections: true
-layout: aperture
+layout: statistics
 eleventyComputed:
-  title: "Photos taken with aperture ƒ/{{ apertures.aperture }}"
-permalink: /stats/apertures/{{ apertures.slug }}/
+  title: "Photos taken with aperture {{ apertures.readable_value }}"
+permalink: /statistics/aperture/{{ apertures.slug }}/
 ---
 
 {% from "macros/css.njk" import css %}
@@ -20,9 +20,9 @@ permalink: /stats/apertures/{{ apertures.slug }}/
 
 {% from "macros/photo.njk" import photo %}
 
-{% set photos = collections.photos_in_galleries | at_aperture(apertures.aperture) %}
+{% set photos = collections.photos_in_galleries | with_setting('aperture', apertures.raw_value) %}
 {% set photosNumber = photos | length %}
-<p>Here {% if photosNumber < 2 %}is the single photo{% else %}are the {{ photosNumber }} photos{% endif %} shared here that I took with the <strong>aperture ƒ/{{ apertures.aperture }}</strong>:</p>
+<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>aperture {{ apertures.readable_value }}</strong>:</p>
 <ul class="photos">
   {% for item in photos %}
     {% if loop.index < 4 %}
@@ -33,6 +33,6 @@ permalink: /stats/apertures/{{ apertures.slug }}/
   {% endfor %}
 </ul>
 
-<p>Look for <a href="/stats/">all statistics</a>.</p>
+<p>Look for <a href="/statistics/">all statistics</a>.</p>
 
 {% endblock %}

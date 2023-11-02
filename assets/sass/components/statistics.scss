@@ -1,6 +1,15 @@
 @use '../components/chaarts' as *;
 @use '../tokens/colors';
 
+details summary {
+  font-size: var(--step-3);
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}
+
 .chaarts.bar td {
   background: linear-gradient(
       to right,
@@ -12,6 +21,10 @@
       colors.$brand-200
     )
     var(--position) 0% / var(--size) 100%;
+}
+
+.chaarts.bar span {
+  color: colors.$brand-700;
 }
 
 .chaarts.bar:hover tr {

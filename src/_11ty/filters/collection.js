@@ -66,20 +66,23 @@ module.exports = {
     }
     return collectionWithGear;
   },
-  at_aperture: (photosCollection, aperture) => {
+  with_setting: (photosCollection, setting, value) => {
     const alreadySeenSlugs = [];
-    const collectionWithAperture = photosCollection.filter((photo) => {
+    const collectionWithSetting = photosCollection.filter((photo) => {
       if (alreadySeenSlugs.includes(photo.page.fileSlug)) {
         return false;
       }
       alreadySeenSlugs.push(photo.page.fileSlug);
-      if (photo.data.origin.data.settings?.aperture === parseFloat(aperture)) {
+      if (
+        photo.data.origin.data.settings !== undefined &&
+        `${photo.data.origin.data.settings[setting]}` === `${value}`
+      ) {
         return true;
       }
       return false;
     });
 
-    return collectionWithAperture;
+    return collectionWithSetting;
   },
   cameras: (collection, brand) =>
     collection.filter((gear) => gear.type === 'camera' && gear.brand === brand),
@@ -153,4 +156,9 @@ module.exports = {
       return allBreadcrumbs[url];
     }
   },
+  max_number: (collection) =>
+    collection.reduce(
+      (max_number, obj) => (max_number > obj.number ? max_number : obj.number),
+      -Infinity
+    ),
 };

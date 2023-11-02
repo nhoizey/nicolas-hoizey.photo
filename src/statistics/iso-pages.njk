@@ -1,0 +1,38 @@
+---
+pagination:
+  data: collections.isos
+  size: 1
+  alias: isos
+  filter:
+    - all
+  addAllPagesToCollections: true
+layout: statistics
+eleventyComputed:
+  title: "Photos taken with ISO {{ isos.readable_value }}"
+permalink: /statistics/iso/{{ isos.slug }}/
+---
+
+{% from "macros/css.njk" import css %}
+
+{% block content %}
+
+{{ css('components/photos', build.env) }}
+
+{% from "macros/photo.njk" import photo %}
+
+{% set photos = collections.photos_in_galleries | with_setting('iso', isos.raw_value) %}
+{% set photosNumber = photos | length %}
+<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>ISO {{ isos.readable_value }}</strong>:</p>
+<ul class="photos">
+  {% for item in photos %}
+    {% if loop.index < 4 %}
+      <li>{{ photo(item, "eager", build.env) }}</li>
+    {% else %}
+      <li>{{ photo(item, "lazy", build.env) }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<p>Look for <a href="/statistics/">all statistics</a>.</p>
+
+{% endblock %}

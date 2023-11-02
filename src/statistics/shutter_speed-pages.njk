@@ -1,0 +1,38 @@
+---
+pagination:
+  data: collections.shutter_speeds
+  size: 1
+  alias: shutter_speeds
+  filter:
+    - all
+  addAllPagesToCollections: true
+layout: statistics
+eleventyComputed:
+  title: "Photos taken with shutter speed {{ shutter_speeds.readable_value }}"
+permalink: /statistics/shutter-speed/{{ shutter_speeds.slug }}/
+---
+
+{% from "macros/css.njk" import css %}
+
+{% block content %}
+
+{{ css('components/photos', build.env) }}
+
+{% from "macros/photo.njk" import photo %}
+
+{% set photos = collections.photos_in_galleries | with_setting('shutter_speed', shutter_speeds.raw_value) %}
+{% set photosNumber = photos | length %}
+<p>Here {% if photosNumber < 2 %}is <strong>the single photo</strong>{% else %}are <strong>the {{ photosNumber }} photos</strong>{% endif %} shared here that I took with the <strong>shutter speed {{ shutter_speeds.readable_value }}</strong>:</p>
+<ul class="photos">
+  {% for item in photos %}
+    {% if loop.index < 4 %}
+      <li>{{ photo(item, "eager", build.env) }}</li>
+    {% else %}
+      <li>{{ photo(item, "lazy", build.env) }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<p>Look for <a href="/statistics/">all statistics</a>.</p>
+
+{% endblock %}
