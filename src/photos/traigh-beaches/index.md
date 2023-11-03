@@ -50,9 +50,9 @@ tags:
 settings:
   focal_length:
     raw: 46
+    computed: 46
     readable: 46 mm
     slug: 46-mm
-    computed: 46
   iso:
     raw: 200
     computed: 200

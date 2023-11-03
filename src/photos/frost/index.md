@@ -30,9 +30,9 @@ tags:
 settings:
   focal_length:
     raw: 70
+    computed: 70
     readable: 70 mm
     slug: 70-mm
-    computed: 70
   iso:
     raw: 400
     computed: 400

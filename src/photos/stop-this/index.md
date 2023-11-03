@@ -15,9 +15,9 @@ gear:
 settings:
   focal_length:
     raw: 100
+    computed: 100
     readable: 100 mm
     slug: 100-mm
-    computed: 100
   iso:
     raw: 1600
     computed: 1600

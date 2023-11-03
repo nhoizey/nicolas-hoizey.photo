@@ -51,9 +51,9 @@ settings:
   focal_length:
     raw: 560.8
     eq35mm: 841
+    computed: 841
     readable: 841 mm
     slug: 841-mm
-    computed: 841
   iso:
     raw: 800
     computed: 800
