@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-02T06:06:39.080Z",
+  "lastFetched": "2023-11-03T06:06:20.722Z",
   "webmentions": [
     {
       "type": "entry",
@@ -50483,6 +50483,181 @@
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pedro Baptista",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/a5237d9d659a60ab6953094803a78e11b764252f416e4dd64e3a6e93481ba1c6.jpg",
+        "url": "https://www.flickr.com/people/184714116@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-184714116@N04",
+      "published": "2023-11-02T10:12:39Z",
+      "wm-received": "2023-11-02T10:12:39Z",
+      "wm-id": 1733641,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/184714116@N04",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "A Stream of Sand :v_enby:",
+        "photo": "https://webmention.io/avatar/mamot.fr/d0f0adf03aaaead7e0d5b83e3bbc79f8756b93ab0e655eba225b6dcc6708b503.png",
+        "url": "https://tech.lgbt/@desertcave"
+      },
+      "url": "https://mamot.fr/@nhoizey/111340952345610119#reblogged-by-109330438304469796",
+      "published": "2023-11-02T12:37:00Z",
+      "wm-received": "2023-11-02T12:37:00Z",
+      "wm-id": 1733674,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111340952345610119/109330438304469796",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/eilean-donan-castle/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/eilean-donan-castle/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Infoscot ????????????????????????????",
+        "photo": "https://webmention.io/avatar/mamot.fr/42032656df92146c0db6363907978cab4c2f1d838f575c86bf17ee0055ce523a.png",
+        "url": "https://mastodon.social/@infoscot"
+      },
+      "url": "https://mamot.fr/@nhoizey/111340952345610119#reblogged-by-111341105968690040",
+      "published": "2023-11-02T13:33:49Z",
+      "wm-received": "2023-11-02T13:33:49Z",
+      "wm-id": 1733690,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111340952345610119/111341105968690040",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/eilean-donan-castle/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/eilean-donan-castle/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/mamot.fr/46db122dbb31fe47f9d54cd6b37edc875807209a0c1f9d0a8da12a397743b88d.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/111343733091088772",
+      "published": "2023-11-03T00:15:36+00:00",
+      "wm-received": "2023-11-03T00:32:40Z",
+      "wm-id": 1733861,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/111343721036097274/111343733091088772",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p>Bar graphs are built with HTML and CSS thanks to <span class=\"h-card\"><a href=\"https://mamot.fr/@ffoodd\" class=\"u-url\">@<span>ffoodd</span></a></span> 's Chaarts: </p><p><a href=\"https://ffoodd.github.io/chaarts/\"><span>https://</span><span>ffoodd.github.io/chaarts/</span><span></span></a></p>\n<a href=\"https://ffoodd.github.io/chaarts/\">chaarts</a>",
+        "text": "Bar graphs are built with HTML and CSS thanks to @ffoodd 's Chaarts: https://ffoodd.github.io/chaarts/\nchaarts"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy ???? v2.0.1",
+        "photo": "https://webmention.io/avatar/mamot.fr/0f6c0e1d5a979a0eaa7d09b97e46a3200b3671f07777b7a36e0fd9b01ad9ba47.png",
+        "url": "https://fosstodon.org/@eleventy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111343721036097274#favorited-by-109325940915654395",
+      "published": "2023-11-03T00:32:40Z",
+      "wm-received": "2023-11-03T00:32:40Z",
+      "wm-id": 1733862,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111343721036097274/109325940915654395",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eleventy ???? v2.0.1",
+        "photo": "https://webmention.io/avatar/mamot.fr/0f6c0e1d5a979a0eaa7d09b97e46a3200b3671f07777b7a36e0fd9b01ad9ba47.png",
+        "url": "https://fosstodon.org/@eleventy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111343721036097274#reblogged-by-109325940915654395",
+      "published": "2023-11-03T00:32:43Z",
+      "wm-received": "2023-11-03T00:32:43Z",
+      "wm-id": 1733863,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111343721036097274/109325940915654395",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "xflux",
+        "photo": "https://webmention.io/avatar/mamot.fr/db91fff23bbbeb6888efe2ad57f4d60634be08525a20c86a2e12a5e6b9908f8c.jpg",
+        "url": "https://exile.social/@nflux"
+      },
+      "url": "https://mamot.fr/@nhoizey/111343721036097274#favorited-by-109271199181986604",
+      "published": "2023-11-03T01:03:26Z",
+      "wm-received": "2023-11-03T01:03:26Z",
+      "wm-id": 1733870,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111343721036097274/109271199181986604",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cale Mooth",
+        "photo": "https://webmention.io/avatar/mamot.fr/2f2a6e788d3c30909412efb6b95bf072115871ac6bac39438ced4e69a64e52a2.jpg",
+        "url": "https://mastodon.social/@elac"
+      },
+      "url": "https://mamot.fr/@nhoizey/111343721036097274#favorited-by-109350781009115898",
+      "published": "2023-11-03T01:30:01Z",
+      "wm-received": "2023-11-03T01:30:01Z",
+      "wm-id": 1733876,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111343721036097274/109350781009115898",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cale Mooth",
+        "photo": "https://webmention.io/avatar/mamot.fr/2f2a6e788d3c30909412efb6b95bf072115871ac6bac39438ced4e69a64e52a2.jpg",
+        "url": "https://mastodon.social/@elac"
+      },
+      "url": "https://mamot.fr/@nhoizey/111343721036097274#reblogged-by-109350781009115898",
+      "published": "2023-11-03T01:30:03Z",
+      "wm-received": "2023-11-03T01:30:03Z",
+      "wm-id": 1733877,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111343721036097274/109350781009115898",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
