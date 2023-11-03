@@ -11,12 +11,14 @@ nav:
 {% include 'components/breadcrumb.njk' %}
 
 <h1>Statistics</h1>
-<p>Here are some statistics about the photos available in this site:</p>
+<p>Here are some statistics about the photos available in this site.</p>
 
 {{ css('components/statistics', build.env) }}
 
+<h2>Camera and lens settings</h2>
+
 <details>
-  <summary><h2>{% inline_icon 'aperture' %} Apertures</h2></summary>
+  <summary><h3>{% inline_icon 'aperture' %} Apertures</h3></summary>
   <div class="chaarts-container">
     <table class="chaarts bar" style="--scale: {{ collections.apertures | max_number }}">
       <caption id="caption-1">Apertures used to shoot photos shared on this site</caption>
@@ -41,7 +43,7 @@ nav:
 </details>
 
 <details>
-  <summary><h2>{% inline_icon 'focal_length' %} Focal lengths (35mm equivalent)</h2></summary>
+  <summary><h3>{% inline_icon 'focal_length' %} Focal lengths (35mm equivalent)</h3></summary>
   <div class="chaarts-container">
     <table class="chaarts bar" style="--scale: {{ collections.focal_lengths | max_number }}">
       <caption id="caption-2">Focal lengths used to shoot photos shared on this site</caption>
@@ -66,7 +68,7 @@ nav:
 </details>
 
 <details>
-  <summary><h2>{% inline_icon 'iso' %} ISOs</h2></summary>
+  <summary><h3>{% inline_icon 'iso' %} ISOs</h3></summary>
   <div class="chaarts-container">
     <table class="chaarts bar" style="--scale: {{ collections.isos | max_number }}">
       <caption id="caption-3">ISOs used to shoot photos shared on this site</caption>
@@ -91,7 +93,7 @@ nav:
 </details>
 
 <details>
-  <summary><h2>{% inline_icon 'shutter_speed' %} Shutter speeds</h2></summary>
+  <summary><h3>{% inline_icon 'shutter_speed' %} Shutter speeds</h3></summary>
   <div class="chaarts-container" id="shutter_speeds">
     <table class="chaarts bar" style="--scale: {{ collections.shutter_speeds | max_number }}">
       <caption id="caption-4">Shutter speeds used to shoot photos shared on this site</caption>
