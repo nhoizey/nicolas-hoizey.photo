@@ -80,8 +80,6 @@ const getStatistics = (collection) => {
     );
   });
 
-  console.dir(statistics.focal_length);
-
   return statistics;
 };
 
