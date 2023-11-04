@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-03T06:06:20.722Z",
+  "lastFetched": "2023-11-04T06:06:30.383Z",
   "webmentions": [
     {
       "type": "entry",
@@ -50658,6 +50658,159 @@
       "wm-protocol": "webmention",
       "repost-of": "https://nicolas-hoizey.photo/statistics/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jakub",
+        "photo": "https://webmention.io/avatar/mamot.fr/bb15a3e262c99cff194d713cc5b99794a8064199d1a3d1fab1b4a2fc2029feb4.jpg",
+        "url": "https://pol.social/@kukrak"
+      },
+      "url": "https://mamot.fr/@nhoizey/111343721036097274#favorited-by-111086950418300346",
+      "published": "2023-11-03T06:56:00Z",
+      "wm-received": "2023-11-03T06:56:00Z",
+      "wm-id": 1733910,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111343721036097274/111086950418300346",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/mamot.fr/46db122dbb31fe47f9d54cd6b37edc875807209a0c1f9d0a8da12a397743b88d.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/111345418424199940",
+      "published": "2023-11-03T07:24:12+00:00",
+      "wm-received": "2023-11-03T14:06:49Z",
+      "wm-id": 1734022,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/111343721036097274/111345418424199940",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@chsmc\" class=\"u-url\">@<span>chsmc</span></a></span> you didn’t miss anything, I still have to write about this.</p><p>I export photos from Lightroom, and run a Node script that extracts EXIF/IPTC data and generates Markdown files for each photo.</p>",
+        "text": "@chsmc you didn’t miss anything, I still have to write about this.I export photos from Lightroom, and run a Node script that extracts EXIF/IPTC data and generates Markdown files for each photo."
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "thomas wilfert",
+        "photo": "https://farm0.staticflickr.com/0/buddyicons/157252539@N04.jpg",
+        "url": "https://www.flickr.com/people/157252539@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-157252539@N04",
+      "published": "2023-11-03T13:22:28Z",
+      "wm-received": "2023-11-03T13:22:28Z",
+      "wm-id": 1734010,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/157252539@N04",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Darek Kay",
+        "photo": "https://webmention.io/avatar/mamot.fr/4c3c24cf5afaf1eb9ab89c16719b1a6e976fd2823959b028cbac96094a2eff5a.jpg",
+        "url": "https://fosstodon.org/@darekkay"
+      },
+      "url": "https://fosstodon.org/@darekkay/111346936060029984",
+      "published": "2023-11-03T13:50:10+00:00",
+      "wm-received": "2023-11-03T14:06:55Z",
+      "wm-id": 1734024,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/111343721036097274/111346936086513474",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@chsmc\" class=\"u-url\">@<span>chsmc</span></a></span> <span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> I use a similar approach, as described in my post: <a href=\"https://darekkay.com/blog/photography-website/#metadata-update\"><span>https://</span><span>darekkay.com/blog/photography-</span><span>website/#metadata-update</span></a></p><p>You might also like this approach: <a href=\"https://www.11ty.dev/docs/data-custom/#feed-exif-image-data-into-the-data-cascade\"><span>https://www.</span><span>11ty.dev/docs/data-custom/#fee</span><span>d-exif-image-data-into-the-data-cascade</span></a></p>\n<a href=\"https://darekkay.com/blog/photography-website/\">Building a photography website</a>",
+        "text": "@chsmc @nhoizey I use a similar approach, as described in my post: https://darekkay.com/blog/photography-website/#metadata-updateYou might also like this approach: https://www.11ty.dev/docs/data-custom/#feed-exif-image-data-into-the-data-cascade\nBuilding a photography website"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Darek Kay",
+        "photo": "https://webmention.io/avatar/mamot.fr/4c3c24cf5afaf1eb9ab89c16719b1a6e976fd2823959b028cbac96094a2eff5a.jpg",
+        "url": "https://fosstodon.org/@darekkay"
+      },
+      "url": "https://fosstodon.org/@darekkay/111346943535229757",
+      "published": "2023-11-03T13:52:04+00:00",
+      "wm-received": "2023-11-03T14:07:02Z",
+      "wm-id": 1734027,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/111343721036097274/111346943563506442",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> Great addition! I was expecting a different image for the 1/30000 shutter speed ???? </p><p>Depending on whether you ever use a flash, this could be another useful category.</p>",
+        "text": "@nhoizey Great addition! I was expecting a different image for the 1/30000 shutter speed ???? Depending on whether you ever use a flash, this could be another useful category."
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/mamot.fr/46db122dbb31fe47f9d54cd6b37edc875807209a0c1f9d0a8da12a397743b88d.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/111346971696146117",
+      "published": "2023-11-03T13:59:13+00:00",
+      "wm-received": "2023-11-03T14:06:43Z",
+      "wm-id": 1734020,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/111343721036097274/111346971696146117",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@darekkay\" class=\"u-url\">@<span>darekkay</span></a></span> I guess `dk-chart` in classes and custom properties means it's your own, indeed. ????</p><p><span class=\"h-card\"><a href=\"https://mamot.fr/@ffoodd\" class=\"u-url\">@<span>ffoodd</span></a></span></p>",
+        "text": "@darekkay I guess `dk-chart` in classes and custom properties means it's your own, indeed. ????@ffoodd"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/mamot.fr/46db122dbb31fe47f9d54cd6b37edc875807209a0c1f9d0a8da12a397743b88d.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/111346996356236612",
+      "published": "2023-11-03T14:05:30+00:00",
+      "wm-received": "2023-11-03T14:07:01Z",
+      "wm-id": 1734026,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/111343721036097274/111346996356236612",
+      "wm-target": "https://nicolas-hoizey.photo/statistics/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@darekkay\" class=\"u-url\">@<span>darekkay</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@chsmc\" class=\"u-url\">@<span>chsmc</span></a></span> the main script which synchronizes data from EXIF/IPTC to Markdown is there: <a href=\"https://github.com/nhoizey/nicolas-hoizey.photo/blob/main/_scripts/sync-photos.js\"><span>https://</span><span>github.com/nhoizey/nicolas-hoi</span><span>zey.photo/blob/main/_scripts/sync-photos.js</span></a></p><p>It also:<br />- normalizes some gear (body and lense) names<br />- generates different thumbnails for list pages and the map<br />- generates a LQIP to visually enhance page transitions<br />- extracts main colors to use as background for images but also for photo page background and text colors<br />- checks if the photo already has a map image and an opengraph image</p>\n<a href=\"https://github.com/nhoizey/nicolas-hoizey.photo/blob/main/_scripts/sync-photos.js\">nicolas-hoizey.photo/_scripts/sync-photos.js at main · nhoizey/nicolas-hoizey.photo</a>",
+        "text": "@darekkay @chsmc the main script which synchronizes data from EXIF/IPTC to Markdown is there: https://github.com/nhoizey/nicolas-hoizey.photo/blob/main/_scripts/sync-photos.jsIt also:\n- normalizes some gear (body and lense) names\n- generates different thumbnails for list pages and the map\n- generates a LQIP to visually enhance page transitions\n- extracts main colors to use as background for images but also for photo page background and text colors\n- checks if the photo already has a map image and an opengraph image\nnicolas-hoizey.photo/_scripts/sync-photos.js at main · nhoizey/nicolas-hoizey.photo"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/statistics/",
+      "wm-property": "in-reply-to",
       "wm-private": false
     }
   ]
