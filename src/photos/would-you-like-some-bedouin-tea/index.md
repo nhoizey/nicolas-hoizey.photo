@@ -25,6 +25,7 @@ tags:
   - El Qoseir
   - Gouvernorat de la Mer-Rouge
   - Red Sea Governorate
+  - tent
   - tente
   - thé
   - قصير‎

@@ -1,7 +1,7 @@
 ---
 title: The miniature workshop
 file: the-miniature-workshop.jpg
-date: 2006-12-26 17:00:35 +02:00
+date: 2006-12-26 16:00:35 +01:00
 dates:
   iso: 2006-12-26
   human: 26 December 2006

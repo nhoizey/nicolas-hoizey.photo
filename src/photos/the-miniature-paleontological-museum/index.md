@@ -1,7 +1,7 @@
 ---
 title: The miniature paleontological museum
 file: the-miniature-paleontological-museum.jpg
-date: 2006-12-26 17:01:05 +02:00
+date: 2006-12-26 16:01:05 +01:00
 dates:
   iso: 2006-12-26
   human: 26 December 2006

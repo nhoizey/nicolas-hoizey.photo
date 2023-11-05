@@ -2,7 +2,7 @@
 title: One last night on the GR20 trail, at I Paliri refuge
 file: one-last-night-on-the-gr20-trail-at-i-paliri-refuge.jpg
 alt_text: Photo of sunbeams on the mountain, with a tent in the foreground
-date: 2002-08-22 20:28:12 +02:00
+date: 2002-08-22 19:28:12 +01:00
 dates:
   iso: 2002-08-22
   human: 22 August 2002

@@ -28,6 +28,7 @@ tags:
   - quad
   - Red Sea Governorate
   - Red Sea Hills
+  - tent
   - tente
   - transportation
   - vehicle
@@ -54,10 +55,10 @@ settings:
     readable: ƒ/4.1
     slug: f-4-1
   shutter_speed:
-    raw: 0.010526315789473684
-    computed: 0.010526315789473684
-    readable: 1/95 s
-    slug: 1-95-s
+    raw: 0.011111111111111112
+    computed: 0.011111111111111112
+    readable: 1/90 s
+    slug: 1-90-s
 dimensions:
   width: 2304
   height: 1704

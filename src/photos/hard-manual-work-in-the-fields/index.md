@@ -59,4 +59,4 @@ colors:
 lqip: data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAABwCACdASpkAEMAP3G4yV+7sKkup1v6q3AuCWUAznQdMAfqfG6ZuEElzWpgDHMu8UYfIfjwZjFCCeH79zh6/ZAcfWpy3wIqoOPMuiYAAP7c6uFRfXg9BclajchcwVytUfFRyR6Pg4XpWsIx64F0Z7WyPlFvHJk0mUECnXvG2RrUJIAruU3ZEqBxFweFMNBzrrl0yhxo+Xyqtl/O03jOxilnUr1wB93k0o7gdCEBuamZnz/XjEXIEt4wDZjywR+BXsbiAg8MAAA=
 ---
 
-
+I shot this photo from a very shaky 4-wheel drive vehicle on a bumpy dirt track, so I made sure to have the fastest shutter speed by using my ƒ/1.2 lens…

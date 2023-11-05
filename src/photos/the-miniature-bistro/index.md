@@ -1,7 +1,7 @@
 ---
 title: The miniature bistro
 file: the-miniature-bistro.jpg
-date: 2006-12-26 17:02:08 +02:00
+date: 2006-12-26 16:02:08 +01:00
 dates:
   iso: 2006-12-26
   human: 26 December 2006

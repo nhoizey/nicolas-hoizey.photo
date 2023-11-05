@@ -2,7 +2,7 @@
 title: Gorges de Saint-Aubert
 file: gorges-de-saint-aubert.jpg
 alt_text: Photo of a river under trees filtering the sun light
-date: 2004-08-22 14:56:57 +02:00
+date: 2004-08-22 13:56:57 +01:00
 dates:
   iso: 2004-08-22
   human: 22 August 2004

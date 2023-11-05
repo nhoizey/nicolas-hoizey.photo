@@ -27,6 +27,7 @@ tags:
   - mountain
   - Red Sea Governorate
   - Red Sea Hills
+  - tent
   - tente
   - ʿAtbāy
   - اطبيه
