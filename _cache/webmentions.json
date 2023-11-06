@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-04T06:06:30.383Z",
+  "lastFetched": "2023-11-06T06:06:26.290Z",
   "webmentions": [
     {
       "type": "entry",
@@ -50811,6 +50811,25 @@
       },
       "in-reply-to": "https://nicolas-hoizey.photo/statistics/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111357938273154389#favorited-by-109483621978440168",
+      "published": "2023-11-05T12:46:11Z",
+      "wm-received": "2023-11-05T12:46:11Z",
+      "wm-id": 1734518,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111357938273154389/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
