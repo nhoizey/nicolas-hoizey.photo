@@ -3,7 +3,7 @@ title: A sphinx moth in the making
 file: a-sphinx-moth-in-the-making.jpg
 alt_text: Macro photo of a green caterpillar with black and white stripes,
   hanging upside down from a branch.
-date: 2021-08-19 16:12:33 +02:00
+date: 2021-08-19 15:12:33 +01:00
 dates:
   iso: 2021-08-19
   human: 19 August 2021

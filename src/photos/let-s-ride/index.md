@@ -21,6 +21,7 @@ tags:
   - flou
   - girl
   - La Haye
+  - macro
   - madurodam
   - Madurodam
   - man

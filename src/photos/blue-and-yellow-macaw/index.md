@@ -2,7 +2,7 @@
 title: Blue-and-yellow macaw
 file: blue-and-yellow-macaw.jpg
 alt_text: Photo of a Blue-and-yellow macaw's head
-date: 2021-08-17 12:34:38 +02:00
+date: 2021-08-17 11:34:38 +01:00
 dates:
   iso: 2021-08-17
   human: 17 August 2021

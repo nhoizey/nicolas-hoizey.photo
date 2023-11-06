@@ -16,6 +16,7 @@ tags:
   - barbe
   - beard
   - brun
+  - close-up
   - eye
   - gros plan
   - homme

@@ -68,4 +68,6 @@ colors:
 lqip: data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAQCgCdASpkAEMAP3Gwzl+0raolqhXZApAuCWcAAI+/opsgnhrVEU3Vd8whFkiJD5cFqP/7eFUZ+0CW/fWUJtlpsnHyavoCyhAotkaRpRfQjfpWAemQr+KJwAD+7xAAEXDUZFNMwke4qgQjpy/sVXVHgv2esI9wEyeDJGwMRTBA/c5vKQkpSG3Cf7XGaqitURoctx3tZU4y2hP25OsnPBsqpYe+78Chn7z2nIKJVMwgV972QNnZitq67GjAuSagAAAAAA==
 ---
 
+Is that close enough? 😅
 
+I "unfortunately" never managed to have in macro the tiger variant, yet in strong presence at my place, they are untenable in photo shoot...

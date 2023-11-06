@@ -17,6 +17,7 @@ tags:
   - Europe
   - France
   - Lyon
+  - Marie Gallée
   - mur
   - ochre
   - ocre

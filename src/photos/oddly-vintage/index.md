@@ -24,6 +24,8 @@ tags:
   - macro
   - maquette
   - miniature
+  - scale
+  - scale model
   - voiture
   - Yvelines
 settings:

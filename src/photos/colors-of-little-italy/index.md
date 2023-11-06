@@ -20,6 +20,7 @@ tags:
   - escalier
   - États-Unis
   - États-Unis d'Amérique
+  - facade
   - façade
   - green
   - jaune

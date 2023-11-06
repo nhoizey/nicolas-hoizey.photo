@@ -33,6 +33,7 @@ tags:
   - nuit
   - orange
   - pavé
+  - paving stone
   - place
   - pride
   - purple

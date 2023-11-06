@@ -3,7 +3,7 @@ title: Makeshift telephoto lens
 file: makeshift-telephoto-lens.jpg
 alt_text: Photo of a miniature figure of a photographer, seen through the lenses
   of a pair of binoculars
-date: 2023-04-17 22:59:40 +02:00
+date: 2023-04-17 21:59:40 +01:00
 dates:
   iso: 2023-04-17
   human: 17 April 2023

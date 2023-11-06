@@ -3,7 +3,7 @@ title: Le Gratin Mondain in Noyers-sur-Serein
 file: le-gratin-mondain-in-noyers-sur-serein.jpg
 alt_text: Photo of a small cobbled street, with a sign on one wall reading "Le
   Gratin Mondain".
-date: 2019-12-26 17:56:09 +02:00
+date: 2019-12-26 16:56:09 +01:00
 dates:
   iso: 2019-12-26
   human: 26 December 2019

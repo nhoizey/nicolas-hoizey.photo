@@ -29,6 +29,7 @@ tags:
   - Rhône-Alpes
   - robe
   - Sandrine
+  - Sandrynn De
   - tenue
   - type de photo
 settings:

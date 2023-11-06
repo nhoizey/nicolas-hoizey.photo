@@ -24,6 +24,7 @@ tags:
   - contre-plongée
   - Europa
   - Europe
+  - facade
   - façade
   - fenêtre
   - France
@@ -34,13 +35,15 @@ tags:
   - immeuble
   - metal
   - métal
-  - métalique
+  - metallic
+  - métallique
   - minimaliste
   - moderne
   - motif
   - nuage
   - Paris
   - sky
+  - steel
   - tube
   - window
 settings:

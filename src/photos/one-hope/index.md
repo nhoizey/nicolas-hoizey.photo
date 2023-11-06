@@ -24,6 +24,7 @@ tags:
   - femme
   - France
   - Lyon
+  - Marie Gallée
   - mur
   - noir et blanc
   - portrait

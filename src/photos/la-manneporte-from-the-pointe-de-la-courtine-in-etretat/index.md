@@ -2,7 +2,7 @@
 title: La Manneporte from the Pointe de la Courtine, in Étretat
 file: la-manneporte-from-the-pointe-de-la-courtine-in-etretat.jpg
 alt_text: Photo of Étretat cliffs, from the Pointe de la Courtine
-date: 2013-07-28 13:23:08 +02:00
+date: 2013-07-28 12:23:08 +01:00
 dates:
   iso: 2013-07-28
   human: 28 July 2013

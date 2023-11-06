@@ -24,6 +24,7 @@ tags:
   - Blue Note Jazz Club
   - Club
   - concert
+  - Dave Holland
   - drum kit
   - États-Unis
   - États-Unis d'Amérique
@@ -33,6 +34,7 @@ tags:
   - guitar
   - guitare
   - instrument
+  - jazz
   - Jazz
   - Jazz Club
   - light

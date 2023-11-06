@@ -15,6 +15,7 @@ gear:
       model: Fujinon XF 56mm f/1.2 R
 tags:
   - 1:87
+  - 1/87
   - carnation
   - Caryophyllaceae
   - dianthus

@@ -18,6 +18,7 @@ tags:
   - beard
   - black and white
   - brun
+  - close-up
   - eye
   - gros plan
   - homme

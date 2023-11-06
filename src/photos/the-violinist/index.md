@@ -25,6 +25,7 @@ tags:
   - musicien
   - musique
   - pavé
+  - paving stone
   - Roma
   - Rome
   - violin

@@ -2,7 +2,7 @@
 title: Around the World in 80 Seconds
 file: around-the-world-in-80-seconds.jpg
 alt_text: Photo of miniature figures of boy scouts hiking on a tennis ball
-date: 2023-04-17 21:29:02 +02:00
+date: 2023-04-17 20:29:02 +01:00
 dates:
   iso: 2023-04-17
   human: 17 April 2023
@@ -27,12 +27,12 @@ tags:
   - macro
   - miniature
   - randonnée
+  - randonnée pédestre
   - sac à dos
   - scout
   - sport
   - tennis
   - vert
-  - walk
   - yellow
 settings:
   focal_length:

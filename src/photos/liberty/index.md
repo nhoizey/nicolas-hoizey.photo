@@ -15,6 +15,7 @@ gear:
 tags:
   - America
   - Amérique du Nord
+  - city
   - eau
   - États-Unis
   - États-Unis d'Amérique
@@ -28,6 +29,7 @@ tags:
   - United States
   - United States of America
   - USA
+  - ville
   - water
 settings:
   focal_length:

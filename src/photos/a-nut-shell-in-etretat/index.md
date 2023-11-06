@@ -1,7 +1,7 @@
 ---
 title: A nut shell in Étretat
 file: a-nut-shell-in-etretat.jpg
-date: 2013-07-28 13:22:00 +02:00
+date: 2013-07-28 12:22:00 +01:00
 dates:
   iso: 2013-07-28
   human: 28 July 2013
