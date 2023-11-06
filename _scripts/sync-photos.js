@@ -514,6 +514,12 @@ SYNC ${photo}`);
 
           if (diff > 0) {
             thisLog(`${diff} different pixels for ${photoPath}`);
+
+            // Create temporary folder for image diffs if it's missing
+            if (!fs.existsSync(path.join(DIFFS))) {
+              fs.mkdirSync(path.join(DIFFS));
+            }
+
             fs.writeFileSync(
               path.join(DIFFS, `${slug}${ext}`),
               PNG.sync.write(diffImage)
