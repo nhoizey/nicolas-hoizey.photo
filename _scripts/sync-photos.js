@@ -310,8 +310,11 @@ SYNC ${photo}`);
     photoYFM.geo = {};
     if (photoExif.latitude && photoExif.longitude) {
       if (
-        Math.abs(photoExif.latitude - process.env.HOME_LATITUDE) < 0.01 &&
-        Math.abs(photoExif.longitude - process.env.HOME_LONGITUDE) < 0.01
+        (Math.abs(photoExif.latitude - process.env.HOME_LATITUDE_1) < 0.01 &&
+          Math.abs(photoExif.longitude - process.env.HOME_LONGITUDE_1) <
+            0.01) ||
+        (Math.abs(photoExif.latitude - process.env.HOME_LATITUDE_2) < 0.01 &&
+          Math.abs(photoExif.longitude - process.env.HOME_LONGITUDE_2) < 0.01)
       ) {
         photoYFM.geo.latitude = 48.692803;
         photoYFM.geo.longitude = 2.422789;
