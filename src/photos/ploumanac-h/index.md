@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Bretagne
   - Britany
@@ -66,13 +68,13 @@ geo:
   country: France
   city: Perros-Guirec
 colors:
-  vibrant: 12 118 184
+  vibrant: 11 118 184
   darkVibrant: 4 52 122
-  lightVibrant: 156 197 236
+  lightVibrant: 156 196 236
   muted: 112 146 181
   darkMuted: 86 60 44
   lightMuted: 183 193 209
-lqip: data:image/webp;base64,UklGRr4BAABXRUJQVlA4ILIBAACQDwCdASpkAEMAP2GcwFi/q6aqNtepm/AsCUAZBKVJtAX50qmdTIb+cBusR3jV2Q06585/Ur5A8//pe9+XagMvUtPTXTNZMAGVna/7LugKQnXSEsu0KgiEEtUEmemodIxCiCaZ5U5mylO8Uh4DWPjY0pvET3icajpPM+lxnV0ftLABUC1AAP7fuPIaMzLuk/U/0Xri5sjDH3/IIDw2uLXiXnnCk627kLwGdClGC0cjkP5svUj4YTuXo3UZprHFHXp0UXDFo903Jy6+AFHCbGgy0TQ8qByXOVC7QVWGPv2EVTH0BtPxlEi8oTDcWDcmIiHpKeWKkauKpIx6bW17ELW+MCaRlav5YBjGgLrG/21uu5bn4rp6pi64mPUI2g+llFbjO9hGPGFMdbZjeZAXWKZd35Rzfp7WnJ7bmYjyzsXzDEky0QaXXk2tU7CCaXW7t/WJtFkNZs9uUYA2Uzd8VjhpsLbuectkxWgPhS+R6XCIL92CyIkz1SsE/VJrHqvC3tw9wEJkOIr2YngnHfQbsLqWRktRDpfzlW2z7LJNXqr4Lcq6N59yzIJwoth0KxOUZYAAAA==
+lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAACQDgCdASpkAEMAP2Gct1i/q6UqN7dqq/AsCUAYsiVj4a7Fq1O0P/WKmRU7xbo7WDkwPqVdShlqugC8GIBje80C7g0Vb2fE5hWezRUy+0gk70XrgIr8OIzEHjNiQBr01aqo6eLTNVGzvadsjtC/iLQM6eXoaVoJopMB49a6AAD+37jyGjMy6stRDkf5ZnCvuSBuS/tKYhn3TgwfUVwzoRRjIxOUYJhh2FCpAhUT0HUJ69XVeOm/rmL3qAdcHBHu3aZYIGAzbc6F+KZAzaxM1exsnubhaQIDmcISibhIpR25en+aPF5ttyqMwRsynudCEDUNj36toq4OksXp9SyvrzaPKbVuIrrj4Q12aILqhOKmwfmF59QbcBOUkZtunl5SagEoZb/2+db8WSlyjfdbMH3m6iPDTWcZvytBJu3fG00RU1zXDUAharKYk+n9ghbhy9vg50pGeW7UZDeT/O4RP/PuthrLGDOWS2fS97CsZJX6RdCZ2HTx1EvrOUYqt+9VdgPkX73UqArXJa2aVFBgVuvHaoR3wZz2Ociwqu4jEsTDgDSeKl50TYxNy+L7pfadarckvIjceAAAAA==
 ---
 
 The lighthouse of Ploumanac'h is a still active lighthouse in Côtes-d'Armor, near Perros-Guirec.

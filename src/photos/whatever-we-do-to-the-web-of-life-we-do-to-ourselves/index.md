@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - America
   - Amérique du Nord
@@ -91,7 +93,7 @@ colors:
   muted: 95 126 159
   darkMuted: 45 55 72
   lightMuted: 133 156 182
-lqip: data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAADQCQCdASpkAEMAP3Gqxlw/v7EmLNScM/AuCWUDsB3DgX9TZwCQZh8UmQJbMn6GolQ7QYrm+ckozIUdo3GR/JLd465csd4XyFbgV3o7fn6kzA5pDu6xDAAA/tGJQLg2TvSyPCsjjuma384oZ7ZhesPHoBc2oAfmiDCNPvtKtCJFyBh9Bijwu0+6lxUq0coFyG1n89Ln5EVD/DR9NA/MoDaFXoq95zPUwQpUy4PDphEqbQMb8/71ZiIaZd6KpbgDx6SWkakdefeGH6G15OoMpMTVDuYZlFq8qGc9PU4caUPsaFH6CoZQKpB3v11Ea2OAd/YNKcIQwrka0i8S/LrY4AAA
+lqip: data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAACwCQCdASpkAEMAP3Gqxlw/v7EmLNScM/AuCWUDsB2ZAX9TZwCQZh8UmQJvDSEk1z9/1+Qc7FC3eCm83U2wwZq7/W9Jq3FMFf506otPcDtCiHCXv2MsAAD+0YlAuCooo+2ewbkTl6ANwN5kmmIDVycnShqMSwBAMoBPLXAt45mWcGVhPuZLA7cfk7nLsOPWlBOWWE6PDvmcF1Y+cwut9VAvu4rqZaw8XmiKd12OLyvfFOjaCe1gpoHoYQjXHpJZuSo21Fl5bwKoFzZiqzG9fxlny8K+W3OenqVmyR+2XFZUVoCObucEOe/XURrY4DPD2jO3qBXWH19zhc+zcfMalCgA
 ---
 
 Here is <a href="https://www.brainyquote.com/quotes/quotes/c/chiefseatt104989.html">the full quote from Chief Seattle</a>: "Humankind has not woven the web of life. We are but one thread within it. Whatever we do to the web, we do to ourselves. All things are bound together. All things connect."

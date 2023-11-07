@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -78,13 +81,13 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 146 152 72
-  darkVibrant: 61 70 28
+  vibrant: 146 151 72
+  darkVibrant: 61 69 28
   lightVibrant: 209 212 165
   muted: 124 136 123
   darkMuted: 76 80 56
   lightMuted: 182 177 178
-lqip: data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAACQCgCdASpkAEMAP3Gwyls0uT+kKvVcK/AuCWVtBh5JxoGgFENa0nYWbDP8UeZyOEgCszJYly/OCpeUBYUiGMQCjNQDgWmmtfjYLh21vAytTSyyzgLkkYWKmAiPBqAA/tr/MHb8+o8vJDJeRWbCXH7JXCQZFuroQb19zpRp0SD2w8H3urnCzMW2imhnZKwrX/rtJL7OMGmlpMBsVu7j7fj4CYpuyQsVKSfg/AesdrQFWAIaGH2ciHB/BW5ZXN1Q3jUpSfBqw9E7Z4TD5VAiwpZHs6OGjQxKFqCI9zDEgv5xuyi/5Y/TIgqrITST1FRgDwvPUM6O7wVTtTE3FB691NrkjmEzN3nSq/ON5fncv0MdeE7TriXtvCRd7sadk7Zw3+l96rhF2PnAAAAA
+lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAACwCwCdASpkAEMAP3Gix1k7v6ijr5lrG/AuCWUA06HdMwzp8JDqqcHlGEjYTe7qcTMIbD4AkBukc6MkcMg4nAs4iDhsskEBZM2gRzDj94z0L+Wzg64C1mJC1Ru8dIeXViGvMMdAlrgA/thu8Mr5kadctPrZOVI86qG6Lvb2aMOP8hJQsJaHXfGAGinfFucQ9iMc4aGlZLlnU9MownVrfIRcOSHHPXqaVCgLdy8p7Mcfwb47OvSY4zYt4aaxd04vRQjBnu0XRXOoLNuBUTU7Z1cE48g5omtug2Xj5g8FYITy6BRLq/++9vqXZEt3fBrhnExH9mZu/Z8yUvPALDp3IbmSrn2OmUA7/gDBnnsxH3UtbMkPng1JFzK/Rl9pv0NmsFuhnGx2S4PAHmOI0HIIM4LK2qgAAA==
 ---
 
 Named for their preferred proximity to water, the Common Waterbuck feeds on plants near bodies of water in various habitats, including savannas and forests.

@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - action figure
   - armure

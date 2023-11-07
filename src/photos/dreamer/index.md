@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - adult
   - adulte
@@ -63,9 +65,9 @@ geo:
   country: France
   city: Lyon
 colors:
-  vibrant: 165 106 58
+  vibrant: 165 106 59
   darkVibrant: 62 114 24
-  lightVibrant: 221 185 157
+  lightVibrant: 220 185 157
   muted: 164 92 108
   darkMuted: 44 79 42
   lightMuted: 196 182 154

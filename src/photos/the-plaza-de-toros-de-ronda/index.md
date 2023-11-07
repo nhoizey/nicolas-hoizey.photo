@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - Andalousie
   - Andalucía
@@ -68,7 +69,7 @@ colors:
   muted: 166 136 91
   darkMuted: 100 80 55
   lightMuted: 193 165 125
-lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAABwDQCdASpkAEoAP2mixFizrLClMlZsQnAtCWNtols57fAjZBsT6YzOvMY1b7SUT/Neo/F8ZbTEvMd2faAVEbImjVN2J81w0M170xEEWXcVDJUfleG9BKhZZI0NgM6fiaL6CWDJsQM8hU4j5x0ofMRy20fsAADoeUI+s6dHL3jnyIvCJLEeht+cPVTnLGsPopyffeE5DPBcWPCiCfSQODozYSmxHU235pw35pM+0zYHQbkssCZhHXXJDmC+gBwyQnB7H4K/1cGf292va08FGPwh88Qm4EU9iwWSPNreV3v8rjX3iw4NKEs3GC89Fb1jqxUJzEGex8OOYGckLeD0NgVjZSqPRfJ7A+BzXp6ZTlA2Grlg6k6l0njnRdtEliGIoqGaRxdw8BbrD+Amu1GcgS2oWigEwVgG9Z3Lp/Xu79gWG3Vz2/qEujhcJX38DZvB2kUuDuAk0UkAAA==
+lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAACwDgCdASpkAEoAP2miw1izrLAlMlZsQnAtCWMAzjtQ4Fb0v8eTHFz+w0pbLHtsjvdxLAGqnFLQ7D7eGTpKR/uKX6oPj7wfjl+LjJq2uV0/hd8H7OrBh/DbkMZZACiZMRAjb1ot68Acbvjs/itMh370m38MTAKZzgYFfhN+BoAA6HlBqNmOnG8Vt1xF4SKvMmOx0o9Z8HN1KlQIDWQvMLZgyoZLfLfEANNvcDvypjkbvPHrODU3zOtLqHTKS6eaKSjWNeqZFN5tUNRTB5rXTFJyCuB8drYR+Bio5Pt+8BhTbd8ci3V+l/VqohSS8cIPGe+1REXghILnsqrvNMNxW52LQfoUQD1uSEYVZ+3E1AWg0CPHCP7yAfdI2c/ZBuo8W33TVB6eKB2OhEb94CG88eYT3iVCxws2x1eNKl3EgmJw7wKq9CgmpjcIXodtQAnrS4O4CS8YAAA=
 ---
 
 The Plaza de Toros de Ronda is a Bullring in Ronda. There are two layers of seating, each with five raised rows and 136 pillars that make up 68 arches. The Royal Box has a sloping roof covered in Arabic tiles.

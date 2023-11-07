@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Méribel
   - ski
@@ -53,7 +55,7 @@ colors:
   muted: 156 116 93
   darkMuted: 100 70 54
   lightMuted: 167 178 201
-lqip: data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAAAQCACdASpkAEMAP3G01mA0rqwlpnbZcpAuCWcA1FAqD8It4Auy+DwNRJiBPsbCKkwWEorRSzpEMNVxndUETn3qGqHXv+xdfnOAAP7rB2v7E0xXpWStvajN8ID7jJIZ7Ryy1DOwXo+NnpGVJHCR3xVCJg4u75sgjpX5VBp/KPWl1t41HNLeGxWh3Eh8WLFi6xrUgkNieFB1/7nJKSWBxDEQBfl6iRNh3nTPfwIj/0m3dxi+H0XlyAfHkCAAAAAA
+lqip: data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQCACdASpkAEMAP3G01mA0rqwlpnbZcpAuCWcA02AqD8It4Auy+DwNRJiBPsbCKkwWEorRSzpEMNVxEeAAGE7eIx2W3qEZZ4iAAP7rB09CrzTXueHgmFGb4QELr2u2PEilTWU6DTw90jKkjhI74qhEvCe2TOY1tUJYbSNAN9iBvepScuPL0uKD1HCkAc+fGCsaku6TWMgcEmJEFW6sWsCAPLleM10i9+KxgpMteVs26r+YJeeRKoIgMl4Fr8AAAAA=
 ---
 
 

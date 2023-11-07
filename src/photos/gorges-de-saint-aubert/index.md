@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - arbre
   - calme

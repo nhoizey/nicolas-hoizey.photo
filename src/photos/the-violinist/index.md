@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Europa
   - Europe

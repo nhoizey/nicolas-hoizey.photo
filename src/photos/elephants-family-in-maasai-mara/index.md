@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -66,12 +68,12 @@ geo:
   city: Maasai Mara National Reserve
 colors:
   vibrant: 5 99 157
-  darkVibrant: 6 79 130
+  darkVibrant: 6 78 130
   lightVibrant: 141 178 217
   muted: 142 143 99
   darkMuted: 67 75 60
-  lightMuted: 196 171 142
-lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAADwDgCdASpkAEMAP3Gkxlk0v6ilL5acA/AuCWNtXFuk24TuQPSoWHppya44LEW0FtJf9KkzV8blBJQtg4PHwbiH03O09Ym/slyia8drKNmZwpMmzH6H8mBAUOZMHYcI1iWLHlF7W/Xixup7dPhl5TzX4+mQCORhXBFgy3oG14pRgAD9zkuHcVjm0TnZDlcrfPq9PggjPvei1XSJyQC8P+WTb4J+pCJqwaRZs3QfqCHJLofAYohapKPq1JHMhs2uT0CDcrVPNxnG56PNrHikgfI+qg0IAExIF+B1TBzGpt5XC7iUJ6FrphYRk/9l6sLNZj1vAVEtwczkbS0CsUHSrSndLZebWYe7+N+LldgS3K44NCRoF+OaEFnjljb5uD8gZWhM2vOLlUFSEfK/CJUGBamtEsl95HYzsZhl/Xe5kpwypuHFdlC3X6C/Rgd7jv3WVUPvltU4Q8khLzM9ffYAAA==
+  lightMuted: 196 171 143
+lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAABQDQCdASpkAEMAP3Gkxlk0v7EqL5acA/AuCWMtgApwK2AJGFTZeS2lRN5TCUupJWrnQPwWhzDgUr6kN5LsAeJv1yykw7PGCjY6O5e+V1FdapmHPl2CEWr1mXvz/QMvKIPoIXEPrKEp9AjA7CG38zdxKE74AP3OS4dxGNpeP2ygGMmGYZ4XkYgf4vAV2H/TRGXRhwcZtTzWsjlcKC6m8BsNtIPoibG7urmPzNNblucMp3XuKgrcdCX48diWXLV7PUO1oKYmFw1pmZYEdiMNNlVP2GKXPFIiNIXbcDkjLxKgbu+y1HSr7YugS2D59OCZspZfJTKc5mh+59kYnUcKLo0Xw5u2TKiOWoK0sQ3CMW5HAvIrVeOElEjSWXJyZYehFiNZK6bmMVvCZbx2bC/8qvV5L3YweHtR2EV00CWT1Hhde3IlosnSoThHRSgBpjiUI59/eHKEUPpHeSmLCywAAA==
 ---
 
 Elephants are highly sociable and have similar life cycles to humans. The maternity herd is very protective of young, but males are ejected at 12-15 years old, after which they become nomadic males, often associating with other males.

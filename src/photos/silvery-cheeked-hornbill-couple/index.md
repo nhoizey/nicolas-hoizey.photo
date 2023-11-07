@@ -11,11 +11,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -81,7 +84,7 @@ colors:
   muted: 166 153 120
   darkMuted: 78 68 45
   lightMuted: 151 176 204
-lqip: data:image/webp;base64,UklGRq4CAABXRUJQVlA4IKICAABQFQCdASpkAEMAP12cwViyrCejszhuQlAriWwAxnSSjWlF2kQ2+qW1OijrP+4pRhWDuCGoWnBGsMQN+ivUr1WqXpWbQiPytZ4y9yruTCPn8jXCQs+dSNIMnCOa3CDDCxZETBk23tEOy9L+IMJAJaC7VvSZgKr7K7OkEt1o8Xe++eSEr0z2rVPByA0ne623YF7qHahyc8AflCkm9gVSZ2IpVA1A3+tJo/2e4yoGAGlCyy8lgAD+jTayRhSfcVassbGWki5w+0/1mJ0N53ScZ/oUW+uF72OYsZ11Y6/JK/A2CQnVH47YAEoxLmm1ctwUqXxg40xpbgF0cW6jj9DiAjeCQ2dXURRtKgivtrcXzeZIdA+jOWbUxFopbLXKqiwJ4j+Zn+gO7Juxy5kbKZtqYYfFsybzdLAYvKGCCqij3rALbcGZyUKa2qEb6fGV7pDlJoqF0zJV8c/aZig2ckcmpaSUXooj6ffedJEjeXIJAYMckSlbgSKFBXZ3guOWAnDKln1wZ0z3mQJ7i67SXtSeOPw3YM5Y/9fFAoKq4k8p81mmcA9s3+Csh2266OMOrPNsopsVrGNx9iKOcyHJeIE3nxEkIeHVBm3LJF+CdAvD/kOJpInXmdWpaZwqn9IFvnXt8gcTuu12p0rJx26Y0yC19WdsIsaHmKRm80UpjXqBc7d+vdRWNYQiQ4detwZiJhi2DjhzOgwYMN5nN7K0QSFBughYULs4AKRwLxBjy+OnnSEQjik3tSKV86hXefBmhWbWnkZMlP8yfeICruMQC5T4CkUfMIwR7Y4Cp+UPO9pcOZ00Ip5ypjP5AvVMozv4zV7gq2K4AD+OUOltCsPv9Fa48Ja8O4VKpqlkVd/DuHeBN7ljhycj3JY9gcSTiSr9jLXhBYAAAA==
+lqip: data:image/webp;base64,UklGRqoCAABXRUJQVlA4IJ4CAADQFQCdASpkAEMAP12awViyq6ejszhuQlAriWwAxNCT1AlM7zDJoGklrzrzlI6Hhf+v/EOQVNQla2GJzwPRtjRz7/A7OJ+M6Xp0DkSwqAI0eAfYw7QliNPO4gxqGshGMFirsi7x3yECE4uBBqBDHFPBRSJYkaTMBVfZW4dSVO72j8+kXWE5OaSUY4x+kXDTh/Mnkac0KvL2A2Ym9c0hxqPtdTBPKllzticFpS77SElZE0o9Ir/L9wAA/o02sUHaYYR/m5uBFThWsvAhIs1C2kSZzK/rf58msmyw5V6bPQ9had05MmB0qtusjrZEJflr4drTnmZqmk7lIzkhdDu++PXbTJ2cC+uEJMle7xChsPoppfO3Pt+5I9Y4Kj/9m6H2TH8P7Wqw7CCJtH+Nb9nPZuOggFf3m6XU6aGKwi0uguViJf5iG9Vx8LHhMw6mIzrB6CTfGd37QWcB3o8o//mPvb5WGM71yJpkzcVbTFd2swiTOwj6OU4bD+L8RMdEaZsHIpUSTIl8D2XdIYpX1ahi53Ptw3wYEli5ti3hie4djeQ7XboCIQSfN04TIpb10bOzmMLWWbBMy5INi4bLFAa1eBkOqvu8pJsidTNKau9zFtv3ICeT/v9jXKaZveKI1ne0uGUtoppNhkJ4W0rJbvG06Z7RA6d/TET+32/hksLdD7ws2gkZc00evCHsUzlpr4F1ysENsJk5k3pADecEUeJOc9o75LNalHGDsjBIuMSA2eekoGBK15mSxHI87HSbdDgcHpYG63d9OqA0lGskrKs+E3W1o3VEFPDvBMdafHKYvStAP3WP1XRUyk8gHPhyv3WACi9Z2R4kgPFcROxXHsq0aWv3TwWb8VZDL4QY2ea7f5Y4DtKqrYMT7RLdUWI8UoAA
 ---
 
 The silvery-cheeked hornbill (Bycanistes brevis) is a large species of hornbill found in Africa. Silvery-cheeked hornbills are residents of the tall evergreen forests of East Africa from Ethiopia to South Africa.

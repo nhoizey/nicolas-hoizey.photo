@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -82,13 +85,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 172 100 43
-  darkVibrant: 92 44 12
+  vibrant: 172 100 44
+  darkVibrant: 97 80 19
   lightVibrant: 228 184 149
   muted: 153 150 97
   darkMuted: 97 96 52
-  lightMuted: 211 195 179
-lqip: data:image/webp;base64,UklGRswBAABXRUJQVlA4IMABAACwDwCdASpkAEMAP2mmxVizraiqLrn9CnAtCU2V/gC6r+9H8FSH6wS0BJdOHPKL4/D3YkxzxTt6ZQFoXPeMXTLJPu4K+uc6vUsa9kZX4aug6qFszB4TOMI6w06tbsBjsbtaLwN0rOm4t/i9+n0VQWGLYmpTHuTOcHb/Dgy907ug54oStxKIAAD+4xB+irQp6fluviOQWffh5QnDY4IEPmYfB1TNXu6c1m6mOfmaANlJmA0wq47OzNfmdlVSYAOosD96TOOq7hsV0f8SNG/kwJVhAyV+197EIg1lHZQFNGUVMg8wHYo3k51LtQ+VRx9YtGNEbKhLJf8JqiwCfR4MyAzsud0RBOJdEtbc1UC7DIKpj5JIKnDYeQCRxqKwCcL3cniIPHohg2hQMuQxyqr5/ljau6JJfvq8m3t7fOUwO9iub0uQvxJpis0Qos0nZ9aR+bNMTnyjnsAjxwqEhb2+B9yXW+28wFI32pi6WjleFEFzf64Me9HSJ420gqA3UO2tA7xrY9CVtSbTM2BRy6a16U+zBfuicriFAjGt8ebRdH0uh07KeFX7rx97miwiKkw0E5y7IEzr7HEEiQ23KBg4AAAA
+  lightMuted: 211 195 180
+lqip: data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAAAwDgCdASpkAEMAP2WWwFizKqeqMzqtImAsiU2RS3TD0ZunuZmsB9vgACWqrjW0Wwn6RSY/uY4/0HDAlFobslWbozESvDrvHscyzla2TwHkJSLSQywIRu8OXX4tM1pf1BW5T6iJO37pya89rs5xE+ZrDYzRmLBUkD6HAAD+5TQDlhDqj4Hbk6vXHChmV5FuVIliVvSCh3J4TIRcWjMZOcVsZv20shnp/B3LpFGc/Lhsagry/8ky6snjX329+UoXp22kN21VU/tWvZnXuxgEgWt38StyDQ5ZpO9nFOsIHdXTz/IYs7JNka8ZT3rW2SB7FZXdd8sjpzxfuaXbNP2uIqaXpHDRVf6PudDXAOkWr1SrKWQYnqIjwjERjqvE7pytJOH7XsPN1Eew8WM5mdpVmpddmHaKCC7P29ym0ObFRcMamsP01iwoImepLG7SQ4pzRJv912h7O22mK14e1Lo+bUt2cG28Wuda2poCOez/tpJXZCYDjuEUm44atBFuTWDHuk7f1hC9pneiAZrbX6UM/Yq/bZyKSvEYaAaIMI17HdRrXoZAWLTywmDRZTBAAA==
 ---
 
 

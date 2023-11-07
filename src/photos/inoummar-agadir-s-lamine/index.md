@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Sigma
       model: 50mm F1.4 EX DG HSM
+      short: Sigma 50mm
 tags:
   - Africa
   - Afrique
@@ -71,12 +73,12 @@ geo:
   city: Tassegdelt
 colors:
   vibrant: 196 92 60
-  darkVibrant: 113 54 20
+  darkVibrant: 113 56 20
   lightVibrant: 227 190 167
-  muted: 160 104 78
+  muted: 160 106 79
   darkMuted: 119 73 56
   lightMuted: 213 174 161
-lqip: data:image/webp;base64,UklGRi4CAABXRUJQVlA4ICICAADQFACdASpkAEMAP1mYw1iyK6gjtRb+qkArCWM4AAyzSODjyDHBzJOZGqp3EpXTPG+Xpq4QuoqBwUpFTsce8wpKFFuFCrI8gYqHsVMAZm8ucWGjDQoEYDqI6vEF3ZpYAUm/lPfxOU4P81uvjvJyr53IjmlHiLynk7EeaQf3zOg5uaC5s6vZd5nNELmWAmInQcU+CrBOB5R5sM2EjeqS8+S90Sw/kVsxd9+tpDaS/0EAAP6xk5qA9jEMwHMjMKuG1iJhq1KKCBb6frSidP0Qx4JQZmVgEK0+xpUZxDvLzB1Zs+67CV9ErbC/9RRat8tAWd/MJ8Aax7ZIzBe/zVltkpKku5e21MOVEwx6H93xd0DvmAtzqG97e2MM/34etAMyoWXi2jDJTAa/PwqwaAtrsU6iV0dNk8NhBqjfCkagA/ayIuoeLzOaPg31kytqu/NrBQCxrKjQMx++0Z+WVVOSROCONicOJjy3gYoq4EgTvOja1NlhJSkxvquVpMsA02xr/1pdrTCM3nVsOLAgdCeGIBBoaU6MsZmkgtADjLnfNVrYIElol72uDlhoQ/YFj2eh29x3HFIRaUp//aGvp3cwAlRiae55VsEJg8mlqWNWkbYWc1DrJckK692fKb61LuJ43kVq3ghQoQDi//+EM0rwmraSKhZo9hzSeoy9P2xO5l9CKqIoK6BS4Dn1wdB9JasMfwgo9jVmn9GFh+03/RJBsOYAAAA=
+lqip: data:image/webp;base64,UklGRiwCAABXRUJQVlA4ICACAADwFACdASpkAEMAP1WWwlixqyejttcOYjAqiWMAycko3wJh/g9l9bnkIjlBkxeQbs7HAhtbBY18XNsQ+UJbOPuxE5KykZ3XjgK5m7ZOVfN0uL3f4ytc6HBcCAczEmOS+P1r2Vbkcu/EOBsp3fP802DDl1rkwCww0de7iyG1cNB1Tv3PmCI19+/jLATGITWwhfw8BQQwBuHXCJfxiAioECeS/NjmVjHCs+V/Pp9lA9wrAAD+2jppsBthX9SPTj7dHszfIdfEe7NScBia5VnOak6GyIQgSCkEh3eZoUjfRbLMB3QTWWrmg2Pt2j7sEdxNeI92+WoUvZIvovd52PPs4MUfzugsis/crVPzQBpjb7bmM9zLhAXIyRsTBHbgMlwS2EnkVbAEKG2O2Zkl+th1+deyP+kUt3bHu0OqztfVvsQfbOiZGp68z0P/5s93GEzIPC3PkkEFlQhbT/5WEMDl9K4i/6p72DEeJHsjUbpgkuZl9jG7/OU7R0MX7Q1fL/xCPOFcMHhXAgM7XRG10q4UNTJCe77Nk8XcFNIGcVm5fW5KLsSEDID7OeP1tBYdNHKHy3J4pvinCugjHIQMW/G6j9sRzQg9/P8PxTx1WYWnY3iM/VE6/1aFFuOsiX24Lho8SFU/XchO5ytdEt4snxZuZVxyB3A4WNa3XkEEvH3mwsVCGwnXZW+E3JaoP9r/iZnPthw5pBT/t/2/2e0uZgXy4AAA
 ---
 
 The management of the "igoudar" reveals an outstanding organization. Indeed, the trusted man "lamine" who watches over the granary is paid in kind. Thus, the inhabitants pay him with part of their harvests. To maintain the granaries against the dreaded invasions of mice and bugs, Lamine of the granary is supposed to domesticate cats, he receives for this service an additional share called "the cat's ladle".

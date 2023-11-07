@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
+      short: Fuji 16-80mm
 tags:
   - architecture
   - bleu
@@ -70,12 +72,12 @@ geo:
   city: municipalité de Rotterdam
 colors:
   vibrant: 60 161 247
-  darkVibrant: 100 69 4
+  darkVibrant: 99 69 4
   lightVibrant: 108 175 247
   muted: 92 140 156
   darkMuted: 43 61 68
   lightMuted: 160 178 201
-lqip: data:image/webp;base64,UklGRkwCAABXRUJQVlA4IEACAABQEwCdASpkAEMAP2Gcw1iyq6gjsVeeelAsCWwAwYfMVqkyaPsyGpx7mkMwoEMtciPe/FOWn0+33PdESQIqkYtB5iI5S7+Gyc4t1tpRPIMfE2h+JJuVfjw6vA3YXNa/wtfNhBDafKULYhls9VBECAah9+6B9fQiV07dhz6EFf4fBdVxmTb4LD82NIXNH5MKXcf3wyjtCPwx+K3enxCzLdCiZLUAAP5gOVLgO5wjfpvZjH9qqTHLBx5Fn1vgknxDhxMibtQ4OssClUT9Nwgab5xAtQfcafmMLbyuqmwW3buMiqNFlNkHjwTDy97V5sItry21F6JFBGYLXeSBzS71F015yhzQ2dg3+Ebt8TLNoPUr3dtOfGAqInC3N80EfaYOyDCLWpOO0cNG576o2CF6nxpx42e76rx+tEQ9cqRyvwNCMz8FJ5GlmIU3+8RA4opk5xl4UA8Iy5hAKuySCHzhlwegsCY2+ChssuthHdv76m3ZBp3IiwgVHXw2XcNqbvzvzYIFm1oOt+pvIq1DNR1o1Bm8w1FS3CqecZQDA6+wMARZe1Hg3+ydUamwnagZ6jkN6LVLBc4SPPyppoaLuMHWhIwesOiE57oRhtGZMYpDyakUsaf0PHchQpfT2t3OB6u0hzoMS1W3PaQD4CcmfsLXhhyjPIAGWgAyj7AbDS5a0kd52CsMkFXlti+rRgMLYJqUYYNdFY6EUJfqi0kUWzduJCWXzn9ZMFuUIrDV+JUY4kgnZUfufA+hWH4UKpSzLZV0wAA=
+lqip: data:image/webp;base64,UklGRkwCAABXRUJQVlA4IEACAACwEgCdASpkAEMAP2Gcw1iyq6gjsVeeelAsCWwAvvPMVjkkaMsyhpx7mkMwoEMtciPe/FOWn0+33PdESQIqkYtB5iI5S8Gn7lo5m09o78NhKFOsVw5U2WywVohreZU8aUgcATh3CZ+eRjEYgGgDOmDeUsJu06BLePrxcVepEUWeUA1kv2L/ZY1XkVM5v1Fq0nURASO3+3psUso0p33BAAD+TyfoAewu0ucWZJnejfPcn4g/SF4HEk7Ge0MgiVbNXaHTSs2As9Y9CKGOndQlqaaj1HvMFMqEM6mx3+Y+hrYqnVJLGdLIxdGnx6wwBBs41KXSAJULkz9rq8ROn1qfgd4b/CBO161BHxLo/hmmfFEjDrBbnJpCAfzJ5tAivhP3PSq+htilzVPbL0CmOYNlwUjuV7d4ovo567uxsO1Dt1eKjlnOLQHo7xXnK0vx8meufu1KsySABn3c3Ehn8vV9WPnwoI2mpFGrI3Y+XaMywgT6yK8E8WcWc7qmMWlDOpNiUk7J5Jp4oMuW/baHoCqQGkN5lvSj3k6rFfrBejTPT/9RAk18jev0HAI4FSeC8H8YhdFKKYVhyetBYsMGQy9u1N2cUvsG0csd4mK9QWkN5DwUcq0ngjqlmsfS8RnupoRB71irXoQmDhC07+zT4MxCG+CThYctvcN2I4So7ohZLEixzWz6fm7ZipP9VXl9/OzDddhpMm3jGPETYw9dH1DpMOr2KBv38H2BXB3eBtiDoM84c23ySqEKi8Lk3N6t32MxEAA=
 ---
 
 Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.

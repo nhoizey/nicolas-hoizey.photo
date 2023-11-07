@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Sigma
       model: 50mm F1.4 EX DG HSM
+      short: Sigma 50mm
 tags:
   - Africa
   - Afrique
@@ -67,11 +69,11 @@ geo:
 colors:
   vibrant: 4 108 187
   darkVibrant: 4 100 180
-  lightVibrant: 225 150 105
+  lightVibrant: 225 149 104
   muted: 174 119 94
   darkMuted: 86 60 54
   lightMuted: 184 177 194
-lqip: data:image/webp;base64,UklGRoYBAABXRUJQVlA4IHoBAAAwDACdASpkAEMAP3GmyVo7rLu6rrcK83AuCWQAyFSw0Xy70unuuS2XaOczfyfu069A41h8gVFeJEXkXVIoSblct427tdxlr+ekZUVd/bap08ArljgUcU2WZ6O/TvvI7BKvny+iRBimJQsAAP7h5o5vyOkfjJ4fm3N+bglKCFtVmnWda9KNdvxWdC3D/lsC7BqeqYbxRUJS9TTATI+mQfTaigRhu+FjOF4FzeU2YjE3HNuxKFFm0GKS3M4HHIeoHSxScRkje+bWzDYFCZ3EZXQWYoVOnA4HYtAn6ouK24M6HlFDlwUOOyp40JUIUIJP1in6PjFnsYe1e9ahlrMnTsU7JA28JkBhQPf02GSSApke8iQBUtNfyHEM/atQs5SN9VFk37U7djyBBSRUpqRUUZ/LOV0AzzVVsUmTBzG9NBtAf8yqG7x5fPQV5ujyEoGWtZzLIvfR7HFKAclE7vjFNcDYhT2E7KwadQC8zExPJjd46KuPt/riA1idgAA=
+lqip: data:image/webp;base64,UklGRoYBAABXRUJQVlA4IHoBAABwDACdASpkAEMAP3GmyFo7rLs6rrcK83AuCWQAx9y1kXy70xdBM6VwDti4zVgewiGcHGsPkCorxIi8i6pFCNzToQ27tdro1Mg3IoqlVrYTyd3caVgW9QSwcj67EI7sH4RLmlGlWcKRQKB0KAAA/uHmjm/I6R+Mnh+bc35uCUoJPpj3jpp/He78hseU4J0qyZU/kO4kN4opvpepoyfuC8vpHPDSUyEGr1P71GIGU2YkS8WdOeTQQCKDNKLKZuQiUWK5F7JT5OwSkBMXAfJuYZwJt/bO1qBOC4H4FSKuPGbEvoZp06vIrsy8x9kMRTsqI0w5SqwEqICyrSGRlir9Ef2UHlSsPpWFT9UyVf+yaWR9xyIiDbG8G/T667GYLXFyr21A2aiXX3xQdvkCCkipTgY30UiiHmLbmEb6JirrWPYjdL4AMrSEVEiVVxW27dnFoHLRN0NOHGAZ/TpNMmY4GnT3qelTk+lYrWz1pbiviMtG3d8YsF/riBStgAA=
 ---
 
 

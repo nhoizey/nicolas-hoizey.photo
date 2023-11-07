@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Méribel
   - ski
@@ -53,7 +55,7 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 188 188 188
-lqip: data:image/webp;base64,UklGRoICAABXRUJQVlA4IHYCAAAwFwCdASpkAEMAP2miyFizrKijtBgJOnAtCWkAFIBhTczQv03LK0tZaNXxA1UcoVitgvqVyoz/u9Gbki66QC49j/nxcTbbrTY+EvG3WeQATWV955Cpem0k+oxYPJTYCAm4qicTNfTTYTu4bCHzdGnlIf4/uSm3G7IzEPck+16bL6Cmkr8x/mobAyv05ZuKTysGxrQDNK3+KZWeAKcvZ9x1ivZ8rLeyIr56X39ZcA8xhd5U238KtUhKpVnLqCMDdXu5QAD80OfKExr4bRxbNFyk9pihhjd9Eb6EorEfh4tSqWz7lag3ijrlqDxeTJZHQP2Xz0ij8jH90cSHFbgBBH0Vqix+Zq8hvLUyAazdYIbeLwyn8KgU4EYuWX7ZeOWHqn31bVOsFJruyrIsrdNiOUCe8sIYyYlBMmIpHOCO8lt7uylnVI79oK3wZcQ/SuXGuXQucNCz3CyuXecGmY+y4Kf2KupNQURl9Z8abhTiRMnq0y3R/UIjai8wTK6J3XzCg5w+uJqmsbLtHSwV/cWQ1SvxcFkErgAHeosDglnMd2nlvfSCkqFYg1OP1BHdb1Ehm0x8yfbsvk5xfhM5zZ1MsOyihvV9vJp3dnDExteCGrWj+Xdc9aHlt4/n2mLhaLi/p5RI7rEwKwQagHkCn5jH6gN8aumwxcT/Uo/fnj2Szk4SYMMSjQnkrSABOVWThBcaj//VnixkjAZ7Pxj3ibSky7LuQxc4PnXec195fDuEkIz9SBwIzQh5XO9wHJVXaPtfuqblDEjMtSiNsKilaTtJTEMdWVEyYb4QxLrrpxHusHT7/wPbdIt8jcObEKEGh1TL1vrMs4hwAAA=
+lqip: data:image/webp;base64,UklGRoQCAABXRUJQVlA4IHgCAABQFQCdASpkAEMAP2mkyFizrKijtBdJOnAtCWkAFIl1D2MbtoWb/BandtB3mmpEJ91fv13Kg35tMoj2WkxsvD89DmGcvldloCwAYnzmChL3XWtcehpuhPP+j+R5/kHrycMLVub2Z81OojTYPIFd3fef8UmepZz1fY4e1Ijv+1mqdj11YmyC2sKxAIy7aT7VG0gY5n5HThOm7Qu962A0Ap1C0wK1F4oInuWqLFq+VZh4f7RagAD80OgE39ZNBnC2UiSkdi4tDJtn7jJpJ1xy6KEXPB2id/XM1R4tOsi0zauBd87/RC/VYmgVg9/a5ZhP1g4K1IS3txw+RN7VkXACxcMPclpYOmqT2A1c6CJyclITl1zgYjqfSwCisP8663qBVxvvi9MOABGu95rp+4wpc8n74egkeHtiM5R/J+M4MX94qP7FzIbOsdgROQAOwp7rOwlNAT7Ma9mR09yFSvFP5wEFvIXcUg52UsUucO6b/w2dbdjGtXb4XQxvUzK4kLPNU7W5JtxjslNk9utCHktL3oJCpQhh/o1sNo83YeDmYQaQ3faHkq558Ij4XvIntRbVDWqXjjQUA++h9232v8c2bg/we1/NpbFj36FaOaH9eABfqrqYqE79oLsiCD4N/OBaUyVpnBJ2LhEtx7X8gZQmdBy0SWammponVLCmQmiUzOHmclw2BBUNd0CtKRgnRf6mO7gpGIPKN7Ab+wIscV2ldQr1Dr5xmzR95Kq/DvF3SB50e3sTrzn4aBoyLUlBFLFWzFsXAWlCkhu45FHoBQ7TgYRhCDweQB8wwKyan28SkwNKlYNtzfpXyqJPNejzN5vpPxdIeRW4s1AAAA==
 ---
 
 

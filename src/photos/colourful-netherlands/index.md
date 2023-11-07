@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - bateau
   - bleu
@@ -97,8 +98,8 @@ colors:
   lightVibrant: 192 252 125
   muted: 113 135 146
   darkMuted: 59 78 88
-  lightMuted: 171 188 204
-lqip: data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAABQDgCdASpkAEMAP3Gkx1i0rCgvLrj8MpAuCU2uEACl5adW6haTrEE5XO3p7xwNALk0a48OR71oo7zL8pxoEhPqj3WKrUMqsa5N7sVIpqMcI4FXb9hPE5+D80uc5T2Pgy9oBRk5TSVsguPfy5L3LCVdZ+Eyjbq8qcGdXQAA5+Mt9FqbgTcY8ld6q3xXOIG7fabtXmjI8era7U8UbMZYowB9B7DzEvbmPmj2UGfNQVO30vLzB6z7OtQ6PDIl/4YCwWz6d0Bwn1iVyo+cR9SM+LQeiQorPAPFAzAk7SW3p5jybLb3pFaTrABnfoKApEoA1fdPGaAlyVIgMRQFhD66jDeC2A6V86cMPged/VSfa2E4pJLd+5fpd7pJozA26esxRRbgjp+EggVBTLotmwKC11mY8aS6UTTtjBhwOKRupp2LisjK3U5jXVTbv7etS5eJXkKsc/A1w17m3Hort/7C/gDwucQxjL4bj37AKc43bPfPaPWu0bEAAA==
+  lightMuted: 171 187 204
+lqip: data:image/webp;base64,UklGRn4BAABXRUJQVlA4IHIBAAAwDgCdASpkAEMAP3Gkx1i0rCgvLrj8MpAuCU2ycACoJadW6haTrEE5XO3p7xwNALk0a48OR71oo7zL8pxoEhPqj3WKrUMqsa5N7sVIpqMcI4FXb9hPE5+D80u15ZnWnkJv9gBmrMehEHX2d0zo7mf1n3jRAi14eGj74ADn4y30WpuEll7UmTOIRcJW6KqwOQXAiQnCKhwq/fiGvfPNbPeq++N8XL/+x0g7z5qCp2+l5eYQtrMbiARC55DpD3oBvBPCOP3xfSu0yoh2y50I6jw4Yw2Gmqa7wpb5fsnR2VpOW3vSK0nWADPEfL/r2Bhq+6edROe9dIn3yyimpYfoCo2p3Cn0bVUGIV8jjZw8Ue4deJGQmnwlviJTjW2/1xWCv+5bgjEOrFKPi1AiQmGOdmY8aS6URqENt5xZV/kwHws4wyt1OY11U27+1dj7V7McF/TZInejm80C7EQw+rRv1NVJVc0xooUN1ANK31lg2cgEAAAA
 ---
 
 This is Reitdiephaven, in Groningen, in the north of The Netherlands.

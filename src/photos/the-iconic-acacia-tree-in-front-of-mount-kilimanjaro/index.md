@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - acacia
   - Acacia faux-gommier
@@ -70,11 +72,11 @@ geo:
 colors:
   vibrant: 7 159 217
   darkVibrant: 6 140 196
-  lightVibrant: 133 191 220
+  lightVibrant: 133 191 221
   muted: 97 142 164
-  darkMuted: 51 65 77
-  lightMuted: 172 172 188
-lqip: data:image/webp;base64,UklGRn4BAABXRUJQVlA4IHIBAABQDwCdASpkAEMAP2mkxFiztielMlc7MsAtCU2lUTiep71NcPhs5BN+QN0fD/Q5g99pBXsavW+qNPvPGeWu4P74pEucGfM3mfwzf35S+/D6SeTdpMlUAlKr5E9d1OMgQmqmYRK3PmQ/rUnasLIjCQe5JrBoFcvhB2wLFZ7sWm5yVMsN3AD+vwisqLlVovofwanh1abtPBUhc+MsTgnIcFU0X/3W06ecgeLlhykT0g8sL2YIRCxTC5cx0MsAxnYvnJ4TMztwrAmnVEHskm7zy7WBJKg8S7g8hpNnANjDLXWxuC7prk3cbNUJkrryB7TEinuCf6VeYZsLIRqY8OiF1ekk/+VFhuTXGc29CNEy+8Qbo3KUl3o5hB3ska4D/s1JE8eH8PmRl7LIQH/D1+c+kQwgljQBdn0oTJiv0HdKflreB8/evq5g7DIT/EiqYHFyO3spsyTlkHBNUdwVdkBcR6IPgE6mZlkB+dcG4JVxMZWsAAAA
+  darkMuted: 51 65 76
+  lightMuted: 173 180 190
+lqip: data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAADwDgCdASpkAEMAP2mkw1iztieqMzba2sAtCU2ycAUQCvdvOm9geYSOsfi1pvPr8rXVPdQvx/n2LPR+1bJZSvma6CGEi+JDigWCaN+r5afNs0HJ8EEkkdQsIzOjayqEqB9QbiR7fdNNBywOoCAy3FMzx85U3lckfpG//j0WRePzMAD+vwisrNlXq8yr6qp5s5jMaKQPIlM9vmJDw9gW4sg/HQHkipkzC273AZiRotlyAUcRLTnhNESLEf1S9TM+sdD2UAaNDZt4M0fjNUPvR+gDIcG1Ro4HfFcgasobsJx2oVFTR2x7GzVHIUpl36pf68qJWyJ+hh/Ku0562iNHC/Cs6WJBk853qdJczocB/iveZAJbARX5EEqTQA7S/SfnEOC1uPt5BCwujGqaVTR5Mix5uK+dzGC02GDZeKaEftlN+nOcmtfOBYK0n2EO8L+/SjaBGAnounwX7T4A+KBHhPqFy9jfLcLKr82AAA==
 ---
 
 The plains surrounding Kilimanjaro (the "lowlands"), are located between 600 and 800 meters above sea level. The climate is very hot and dry.

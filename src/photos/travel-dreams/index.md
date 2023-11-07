@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -68,7 +70,7 @@ colors:
   muted: 159 112 82
   darkMuted: 102 71 53
   lightMuted: 179 200 219
-lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAAAQDQCdASpkAEMAP22gwVi0rD+qNBRrs/AtiWMDsB0R1QQA3N+lTXySB8cBdZld8SoxlQ5GEoNNWIhnGxD5V/wzI0e5BAhLgiSMGqT+2ySS6qkeFkTScLeuxs2Welkp4wsi2cZDYrKg7AHmgYCQF3syLACGnPB86WZ8Zr8G8RYK4N6YYaXujan336XXBH9i7+L8ecGIvav7eL49INiQJNx7AX4rg3PRYSPhTJ5ZXTjeTzQrc5IHrP2a6ME1Ye94U1b9ECLenZ5GbePox1+tORR1UcDUv0H5UkKtDTuKFTHCHAZzZhDgV1vZjABSu1AXh9R4cwFRD3Uyxw9AanuZuvEh6pXY+Nj+3/N5PBTCzTNNnjjG6/9IrI7XacglcAWDH2DoCFM9C3wARXRYwTuNAUAqUb5Ev7pnMiFbvwyg52//yzyn+SUJrRU3FXpZYU8HadXKNAAA
+lqip: data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAACQDACdASpkAEMAP2mewVizrD+qNBdLs/AtCWMAyj9T2AQQKKNF9jKHBTOnBQ8MDg0hMHadcMCtpy7lbM8bM2f9LoNEyACLtHfsmPk/rx19qu6ylyOkTQeuax99Zklo0xf0DXfrOCmnPkVAT1dAAIRuJ3bUhNenfg3cmbsAFVFbUFbQt4UkHUVPZVZ4quljPiUX0DZb/jlwElL7iNEcBCf90AONc7FbnFBuutfCY+sFgWezR8P/O9aJEGhrvsTgYnjXb955WpVEWtkcmRDqo4Ar4GR8GZtjDY1PfKISBq4a8S3tfCggyu6K9NQ/Hnqf2tU0NOAB9R/12ggyM/7i2tAG3ax7suGHyBI4GC9IQuF06UkixTHGJPhsk+TkZpio+8aByF2n6Z0yejTELwsWqW7mRCtxZEVCBvQiziexOcD+1oPaJmRXw6wCBzomkumAAAA=
 ---
 
 Possibly Africa’s most famous ethnic group, the Maasai people are semi-nomadic people located primarily in Kenya and Northern Tanzania.

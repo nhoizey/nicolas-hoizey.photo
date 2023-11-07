@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - chinese
   - chinese garden
@@ -75,7 +77,7 @@ colors:
   muted: 74 144 134
   darkMuted: 88 86 59
   lightMuted: 163 152 132
-lqip: data:image/webp;base64,UklGRhwCAABXRUJQVlA4IBACAADQEACdASpkAEMAP3GqyFu0rSgkKhXdUpAuCWwAxfxkU3PkczBBg6mR3Fxabg0yHC1GhKE4ctqAG721kj3GDiNgCq+CpslcJJGuqVVQE0/ht1PwliZFMeu/ejHjY9coPMB4HskZ1iQPi8bCg/zMmLcs0WXLAEZNLliKJcBqbws/oY08ltngeRAP7jUnRB+/AAD+2ietwatrPn0BtxOttj+2o7VYsOGmeRIy3OW7ZRXKVtZo2hVzyKCgtP+HBX8fdL7Hhg/HwjXoh3AwBNcpnJnl0X1cSjomt8an42ZRD39C9XzCsCsahP6dP335a75k9VYj+DLYPHfWHFDdQ2yjGD3qkMsH2uHHr17t8rR0Tjpk0kiCI8WO8FGxzz6CQRxaqE6fz/KJx6uTa4KW+NhJhMIoH9IW8f3PATSMxQnkYgPChvVZ3EMpn5kF+vl+TgY1mbCxwpMFq7G+vFkRHZe0TSynMDRVdsghno1yOMAQKibGy/CTj7ArBW7SQI0ZKsNe8uxWq2vuoIzkWeiFRK51xCARlOwqVowCMBKhimzL5hCkUOIHhRjTJ/9BW23OofqHhQbVdo19kv0h4V+nQpaGIVIp2Enzx3j3F8zAfc+FkDUgthVxGLq//r395k5OJiIRH0KkPlwLESXuHQkVz08sX9nu+1jTB25kQpfwx69S4k4tJBXgOBFzrWVDy4w1g3UQAAA=
+lqip: data:image/webp;base64,UklGRiICAABXRUJQVlA4IBYCAADQEACdASpkAEMAP3GqyFu0rT+kKhXdU/AuCWwqvFP/MLt1hdtgPN6sksoJMDE7/ZZUXTyEEm4UqrsuLmXZ7OcCCJqadI0mKR4rSc2yyPpmbA8UAUYBXD7ItD1tyZQ9QOrPaeQYtYNvyliHkCYRR5wPIAIgKt3WhfiTv2qWaGnPffQjgTYj9yud+jEpR7i6AAD+2h8TY5uuDRyBmYAEyHeHFbELCX6pa/cIxCVrCJ7nR4m4Y4/PN02B0YG4mUWR0/122PDB+PhGGH51F4BO8pnJnl0X1V/ZMBemT2jyMY+QfuPcz1fi+NoxVGji7feNMet1jcWI/pNo3GjETelpp/FKv4duRq58V1Cay/4ovpMkQQHi2XgobHa89VYG3+VpWG8dpVOYyFyXtjGIaiUfnoi8bzjk/+qR3Q0Zo/t7Uz9iOhswhWWCNz5n1/BRak4ZBwqNNJktdCFlfeNUXnh2EIyLvnpUErUkhks47ydHUffK60jxNp9gpHH9rHJs/ZMrIiUzzvSSuMuRtX7LZyxUU+AKgdfZ2lEpXG7903bq18o1Kkb4UXK1p5nb0xYMezmHNSawQ6JXsVayOBzPQc6Zjv/0xwTepHrWRAHhWElcb0BiJLl7qm23/r3/cPn5o5Ej8pzo4YcuG9Q3rH1TTNU8saLEFWU+dZfk3bNdqoxBZ9Y4hn80KzOKqqKV8SiH9UbNnOGlN7Kk+AA=
 ---
 
 Yili Garden is a traditional Chinese garden of 10,000 square meters, created with the participation of the Suzhoua City Green Spaces Department, with materials from China.

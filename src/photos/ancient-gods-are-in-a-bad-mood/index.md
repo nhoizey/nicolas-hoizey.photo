@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Colisée
   - Colosseo
@@ -56,13 +58,13 @@ geo:
   country: Italy
   city: Rome
 colors:
-  vibrant: 204 164 124
-  darkVibrant: 66 14 26
-  lightVibrant: 218 189 160
+  vibrant: 140 116 60
+  darkVibrant: 65 15 26
+  lightVibrant: 204 164 124
   muted: 100 124 156
   darkMuted: 66 58 42
   lightMuted: 181 184 190
-lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAAAQDwCdASpkAEMAP2GcwFi5LCelNtXMAyAsCWcA0nbZaXZgTW/Fp9/+WY6CiNmdxAroaFFwTTHoeywMa6lDAWIHpDeVHvIU4ng7Tc2Ri2MnaYDGB5qthg+XCSODY+XXB4WS8/QgiWmZ5ZOfd9nznOxSjaCOCuUX3OtqgN1B6/8XQAwA/r8fvvW0XrPIbQ+tT+U9Ib3U7buFEOEAY39MFpTi4yl0lrU19wvDBjv3fw9abo0ao5dUZ9/qVBuXEc6ys0XqF/zbbza0cyA9rH5fc8QiXeGYfg8Sb+8jWM9JaL+5XikuPaik/95+dhwttqwP/FtjgFfb7bKYliCFLCjVOUhbhKsS71LfjT8XZeRJPOYOO42aG36U8mV4ntAXCy7tlXJTlKTD0LUGEqDuPDa61QJjI59e6WkU1IooXllYOGd38FjS+eFOLZHdOfI8uKOXQgVhHhCqjEAAAA==
+lqip: data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAADwDgCdASpkAEMAP12cv1iyrCcqNtcMAlAriWcA0nba6XugT2AL/31b8IgZxc6iFYF1Rojfjpn1isQfTvQh/4WARl5FhJc1o8EAY52m5sjTZAdKhjuuv8t4yXWVb9o9ZpWOMLWQQCwBmEM8v4flZTjvwq+OZV0z2tQR7IBRkW+YdAD+vwvmSoturSmDmtKDoa39mOzaEiS2n6ptXcL8SUyuJjOwGhUo4XtFimgfkz495zDuNfG9UILE0RGyJYvu0mz7NoDT0b+2eS2zdYW6g9RWm6Ja74daho92f4XcfNl4JkEyUNP59WkKM36RD2V35Gc5biWCdcCAb9niN2/Q5UOZth70ZYM868R1bsbe8xh49MnnqkbIDikkx9uMoRKNkjP7/XtxmXPhf10CN+sOtfjQkEcWCFDHNCnD9pgZxof4nDO7+CxpfPQpjAzkw/I0dkMuhArCWdiETt3AAAA=
 ---
 
 The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.

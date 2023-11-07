@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - 1:87
   - 1/87
@@ -58,7 +60,7 @@ geo:
   city: Draveil
 colors:
   vibrant: 147 88 69
-  darkVibrant: 90 30 28
+  darkVibrant: 91 30 28
   lightVibrant: 156 192 211
   muted: 100 125 146
   darkMuted: 82 61 51

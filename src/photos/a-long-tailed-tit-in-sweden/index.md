@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Aegithalidae
   - Aegithalidés
@@ -82,9 +84,9 @@ colors:
   darkVibrant: 40 61 93
   lightVibrant: 166 186 217
   muted: 148 135 131
-  darkMuted: 57 70 103
+  darkMuted: 57 70 104
   lightMuted: 187 176 180
-lqip: data:image/webp;base64,UklGRqQBAABXRUJQVlA4IJgBAACwEACdASpkAEMAP12Wtli4qySjunWMAxAriWVsZ13Q0SE1+HnXqFUxQs+IffCwfMyBztHVXF2pKi7AlQpE7FF6mKm17tcoyoURzhjMWTzWEBnNsnGmmrGQs4247+hyoE+6PXrFmsMAKNURU/GNerVwExdWl7HdKA05fX8MxEE5c7HQVMJKUhmvERK3j2SQAP4PzQzOGFmbCTRAhcdZgoKl0BtSp07W/hzySzOG4d90hWQpwJychLPaT/ptwGp4W2ZfC2JgivrYP/jjHbYmn/qpdtNHejvISGpWKDIbxZs4lQutFNUs1omidlE0ZoeWSILkT5FombuT1WtyTO2L7bGi/wrY9ikz1/+eL2jBqNcRC/2KK2g2IRhfj9jvrlcYdUd+T2BgrQV9FMCy3q1GuE87x98Pu7oh2kdZ3de8H49IX0rY+yy3R67MSFh/zh09EUN/2NNvR2Vh7BAXTvxyow7qcC4M37xciWQ4DHJD9eYLPPCCIbdR161M2YwKfJm+fEvJ8Omr8y1XOefikcTk8u+kxGNzeAQAAAA=
+lqip: data:image/webp;base64,UklGRqQBAABXRUJQVlA4IJgBAACQEACdASpkAEMAP12WuFiyqqUjunT8AlAriWdr+Izu5FiLv3uGDuRLH+4PwQVq3RGcjLYpCSnrI/IYx4bI5JJWUxcfyPhGdIG4/466dr0/vPv9cWEVoIHMkkYwGPfgQrc1vvmDPzWgvlXQzyF2ciS64a3iuNPGuKzqwPlJ/jN6KQGMKMyaL2KPf9goZgAA/jMa088PXjYzi7FM9a8DeLcunb8FuNZqA9Nf8et7ZDjAMrxU+WTmJ2OQQ5dr8ctuH13HLNkxjruLM5cb/xxjtZHg7XjA+v7qttfTUk7eCtasxSBFUSu6ICi56WlPqW4pmK3BveNs0Slh/I3RwSHaxN2bCAmO34qxLXMTTmdqAHFcnHDUHMXJhZcxVpO70IxTUQtV6deVy/gdM4o0I88WHXBNjZTL/QDM3Y5wFjug97zhVSgTsoHaCnLL+cjt7LisOR4V/4lKyUHkLcapXSATIL8AGjYgmZLN4YVdd3TtfucHEBLr3ybxSQI1wc8VydcYrk4C595fjLhmnr1CeyxHfzoMBp6ge1uWyAA=
 ---
 
 The Long-tailed Tit is called "Stjärtmes" in Swedish.

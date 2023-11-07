@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -79,13 +82,13 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 151 133 104
-  darkVibrant: 79 69 54
-  lightVibrant: 201 192 176
+  vibrant: 150 134 105
+  darkVibrant: 78 70 55
+  lightVibrant: 200 192 177
   muted: 140 127 112
   darkMuted: 75 61 43
-  lightMuted: 191 180 162
-lqip: data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAABQCwCdASpkAEMAP3GoxFm0v7C6sHR7S/AuCWdtOV0ydCX3ESQsuc/7nn10fo3ksg7V0KD8H4fW9Hpy/L42WL2fTOG8tRoua/ybfgM3MRsF4V/2W2nVlsD3L6ooQAUL2HK7jWgAyzb2QtTFbf9aa3TrtHXeSoM8qk9FQkyQPphu0JyYgEbSkZpBaD9Fh6s5q5VQHT22P8WJFBc53uSGHdMPoTJsYn4Z9cMqflJ67+Q3T0IF3KVTF4rco1SdZjnVWavMqr4lxDw4ylFzU0iJGr+yf/yC2JL+uGq08Yi8rLle2rXuZhpwzwk23uhbExkb1nokRMV+BTx4Z2w1y40ih+eJA8ti9jl2iULi1JhB2oEnVq3/LG5+jI1+73ckMfcnlm4K5qiFrkGfjff6QmsFvvNwmrNNDAAA
+  lightMuted: 190 180 162
+lqip: data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAADQCwCdASpkAEMAP3Gmw1m0v7g6sHR7w/AuCWdtTYASqVJ9oPzRxoLcF6HDLShOBaHerqJWwqIjx+wm36cW1K6oNnqHZXaH2DcAbH2pWtqd8+IUHhl7Uby2EhsAD1/GP0CN7LgfmsEAAMs29kLT3XQ8P36A0pc29Q4D2adBGIglChk4QR7vAOIab3ctwtdFh6tERfn1ObfptkIEXfzhZm3JDB4smyrn59XYXOPzel9AXHIcK1+gCik8+uUvB2zDfJzzDyvcgy9NMbeHzng3gqY1HIWJMpZrWRK22FJ0uQNi1VQz501wQvtr1qyPyRPiSObBNifz8f9st63rLIfZ1Ph0ktr/x4qHgeyuHYHuiZz6889gP4sOaYXTYeqX+Ep+P739d1ZkP/EiY83ZvNtYflo45mhDJAAA
 ---
 
 The Rhino Sanctuary in Lake Nakuru National Park was the first Rhino sanctuary in Kenya and is currently home to the largest number of black rhinos in the country. The rhino sanctuary was established in 1984 when the first two rhinos were introduced to the lake Nakuru National Park grounds.

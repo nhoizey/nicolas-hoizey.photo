@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF 70-300mm f/4-5.6 IS USM
+      short: Canon 70-300mm
 tags:
   - animal
   - ara
@@ -71,7 +73,7 @@ colors:
   muted: 168 130 98
   darkMuted: 77 58 41
   lightMuted: 185 153 125
-lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAABwCwCdASpkAEMAP3GgyFq0v7Iwr5WsA/AuCUAZBAaYWIb9gFdP7k8UNAEaww3iECYVeXK0deq86OkaWmoTmmf+ILn5sf3n/TfRjaSY+N1cvitOmkfnx3zaWr8SSPdmech1BQgAAP602W5nVTvPp4umLk63jCsVKfuGOU5BQ5PFJDNUNafYpLNw7gkiBIiF9RkQKPyFhtEz4juT6zkv3JTzokEcclSgeUdLuTOlI88eA6sxEhJcaO10FyOqV+TlRAE5wJQOcj1+Er3WtaSdSXDRA6CxIHvs3muB0Gmh6ubjO7O4cNXLDBoyAkAgMTCV6xoGWJShd740t5JpB7kmK0C5HI73rsoWTVuQGj2F+xKwC9diq+86k3iCxiHXcsZ2MdX/Ql4RV872n7bOJMEL2Q9t7c9rHdS6U1+lZQ+fXNhe2S4xqEoIjxJCuGFq1VRze89/GxgvJeIAAA==
+lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAAAQDgCdASpkAEMAP3GiyVq0v7+wrbZsY/AuCUAY0DyARxXvAmVyJcXIyRi2V04IkgS05zyAD1x7fUvCnvfanN4RJ4LQHXB7Tyo+g6kDWENFcb2W1pdEDfTSMOrlMTWNVRr5QOtc81HWhPSgzaISj82OEZ1wu0d1us+AAP602W5nVTvPp4umLk6zC3EmMXLgnQAuOsMrXNNw0qufI2wpGUu6czeYj/XVpVwAff+uqHRjZapzGhGbsySlzpsFV9IvJXDrj+Ny16Re0ReMVS1eZKKTfxSawYdHZj4OyXDUQiT36bVmUKnecpvGxesLEy5P7OPgMkqGY0+EGISuKpBuReSHFdPIKxKRpWYhHbt253NkuDqOYIUjManW2ESQTUDpnOsiho0gd7saAoXuN+zfZae1zAxnbNJLa1vceg93ARAKarB0Rpj75BjsyTkWajTkWi2QA/K4KaQuwAAA
 ---
 
 

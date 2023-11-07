@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Bretagne
   - Britany
@@ -72,7 +74,7 @@ colors:
   muted: 124 124 124
   darkMuted: 68 68 68
   lightMuted: 202 202 202
-lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAABwDgCdASpkAEMAP12axFiyq6gqN7iY4lAriWltDl5gPYPLBSrwqmyneG2at2gMwIRP/03FoaeX+By8J5g3216W7+61R+xT9kjwn/Oclt13Gou9SvoJ2dgjAkmSGPF78IQWNrwZjdlmkOcj2d1tPca2cz9jadRWtWRfg5wAAP7m731GUnYiTbyOm2ebOn+f3DMRGQ+UAnmZyoxqKKZwXMFnxpZhbxRgLz1aLDbUrE1T+ij81p4xChPXKaI30FqlJAUksQ0ftz2it7mVvrANqDxR8wfZjmkrbeDuCp0sBuwLl/DJyChBA9ZzUvLYTwWEoszfoh6awgqdwYB5fZosR3VgZwtFR/7tPbd+6o4D5lhJal8Kj/kSvTfgfoXJA9CERkBdGYrfT1c1fN2cMfwQkb35k8el3r/XssuFkcVBbVCqcpkXRw8E0IvSGdrmQSHSExgAAAAA
+lqip: data:image/webp;base64,UklGRloBAABXRUJQVlA4IE4BAADQDgCdASpkAEMAP12axFiyq6gqN7iY4lAriWltd15gPYlLBN8+vIMOYjTTKSRfESxlauybuxe9UG2Jd8X5wXO9ZrsEd40280B+PVAX1LQN2+xRwNE9cC3RZOJ47bVJQkmVfWXUb8dNA+nzZ/vHm2bhvk7iLsKkeVgQYR/0WQnYAP7m731GUnY1kMB393O5BUtW2cHa24C8bA0allhHPN4SJzg9Cu0kbxUslCZiM4bepORBLVXkeAeYgHjeuU0SDILUXdW0UNJ9cC01JXU4KzoQjcqFE20RMTGiV2IQ4Efnqo9tKkLyBcNh9ENzPqXdyl6E/UGV8z8c0/KSwiEz95hQvzDLQPC7LDwddqwGiLegd7MFoxt/4r69jeiTmqXX+XDtIczsgXTBz3XKuVkKN5ow8XSXOeZAXzVrwHEXRnj/6z4qB24QdR6cKLAAAAAA
 ---
 
 The lighthouse of Ploumanac'h is a still active lighthouse in Côtes-d'Armor, near Perros-Guirec.

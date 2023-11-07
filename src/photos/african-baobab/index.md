@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Adansonia digitata
   - Africa
@@ -61,9 +63,9 @@ colors:
   darkVibrant: 110 43 18
   lightVibrant: 153 194 229
   muted: 148 111 78
-  darkMuted: 75 71 39
+  darkMuted: 75 71 40
   lightMuted: 128 151 156
-lqip: data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAADQDgCdASpkAEMAP3GmxFk0rTi5sVQ7gzAuCWoAxfx30QXq4AsnFNEsMhh4rKyZPxIU9P5UwhRF9166fhqc9hhdoTfLMHmW3GMud2ypgbo+fHD3epIU3ZsOWcTmhd9M/jQ1Iq2QOjf113exWSIV+bjMImKg89u5vjQZU/EQ1PwAAP7Yc5YgPkdCF2HL5ZpbNmgFqYnOl9u91HNtDqGthVaNCC916duEaLlnACep1oT71+fgPN9sZ0AxIxJpIUKSvmuBB14fb1LdFsFKxSPNy2X7xfeG4iRO3QtFYyF5QHdeU8RH/Jy1/K3Xzrs92si6ndxskphQ+9M67B6SAYKbkdJtbWCTq+/RlC80XSKWCnQbnZOge/QRuR/olNeAkWLy+ugHL/bynVfcbxAX9FRHdkjoztrsDvKWxgJSV/9xFsb0Q7cnWEQXeUdfta9YvPXj7Y2+2wFOm6K5TMuW1jVzrV2+lbLYUID+YYO8ULM4ilNfOaa1n+B8m55vrvoQof637314RiCWi0m9NTBl0KgenhEiOSTLnFsd/jfb2U7v4dHTJHUt6uVofnEXbEHwKyAaif0CALyY0miJpBD1ZdqctEFVQe7+Q1pzAAA=
+lqip: data:image/webp;base64,UklGRtIBAABXRUJQVlA4IMYBAAAQDwCdASpkAEMAP3GmxFk0rTi5sVQ7gzAuCWoAxQyEj/UMXVcRE1RdcSb58XWl9rj8YTF5CWj4xmhzRExYm7tYzH6DBN9VKnAmeP13mlTA3WQC72je+eWeJ95XRa2sWXgifeuKWaHwc39dd3sVkiFfm519rMTo+TfDE/YA6itQWIAA/thzliA92bRWgVvg04XJgDDrPeBfcvdTjyn96ALwQcpnSMZ71svBZwAnqdaE9TKG31id/LGdAMSMSaSFCtGyldwIO7OPp8+WqSiXCS1EJShCeHZDfnOuWdgHDfvbYJ9Krog/UoIAv2O64dzzdw/s3xQCP3ut6/wwEOF2tN8Ux2AKP+8EXfTiRUDWIVs7keVVpwAblOhXm+vleLfQfVdPDKn27Z05GssgInEtkGNJZYCP8Vve0Kewn0xMhsC7fcdNkYOEYv0xaJOoIbCHYRWKiOqSWl9EBJtD0uqlBe4XBA6F/oGKPRdWsGYiKU185plFclPlHo0v+hCh/rfvfXhGKVBCtJvTUwZdCoHp6DEjhA0YUC5OmRVjruOjpgM+f+IfPWxp87tfAEavf67SBYE2PyDLmGEzcqgsx4fB9zWJiO9piIAA
 ---
 
 The African Baobab is a multipurpose, drought resistant, wild fruit tree, endemic to arid and semi-arid lands of Sub-Saharan Africa. Baobab populations have been showing a lack of regeneration, and therefore causes concern for the species survival.

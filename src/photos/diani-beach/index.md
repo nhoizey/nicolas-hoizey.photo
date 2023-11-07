@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Apple
     model: iPhone 6s
+    short: iPhone 6s
 tags:
   - Africa
   - Afrique
@@ -75,13 +76,13 @@ geo:
   country: Kenya
   city: Diani Beach
 colors:
-  vibrant: 35 203 223
-  darkVibrant: 4 57 173
+  vibrant: 35 203 224
+  darkVibrant: 5 57 172
   lightVibrant: 144 186 236
   muted: 88 128 158
   darkMuted: 79 82 54
   lightMuted: 169 195 212
-lqip: data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAACQCgCdASpkABgAP3GozVy0rCmkrbgJApAuCWQAxcBfwMaxn9i/O2boOLkZ+J6c0EsuSmrAfuGPnRi0ihHe15Riucs8cxnaq99lqbunxHL7DbWLWyevUkUt2HKgU4AA1TZBezu+9zJtAULiF5Y9QeMfUnh7qakYHy7iGKEdbfnb5wCiFYlBDEZP3D2jO6QuYBpimltcGgcQiOWsiSe8RwHQ80C8FaiVIX56rr/WTVrg0pHDf1jne/mi3dW27HdHYTu2qFM08x2cBwCo30q7LaTwnntVp3kehNi2O3YE0lGPoCp0HxUSgx62QB1yUuFGKeAhLaX5HSDM2DphwhHR9AVqJiw5JXfj9ML/gwAA
+lqip: data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAACQCgCdASpkABgAP3Goy1y0rCkkrbgJApAuCWQAxcBfwMaxn9i/O2boOLkZ+J6c0EsuSmrAfuGPnRi0ihHe15Riucs8cxnaq99lqhWvyUQgOPDXjAdM8yGyfnx0PQAA1TZBezu+9zJtAULiF5Y9QeMfUnh7qakYHy7iGKEdbfnb5wCiFYlBDEZP3D2jO6QuYBpimloRYg8srijdFy3c4/3xvj4VJla9AYIatq8sPobuckDxNkZltcIQONzubAXwsET+IuX1/RMDZmocnXaQguSpZ+7ThSxMjY737JY+p6PBpF5+2POMMm3sVyUuzMBxwlWHF1ksr1Ajmwtwk/mUdPXBEhZVVKbPmNWJk0AAAAA=
 ---
 
 Diani Beach is a large beach on the coast of the Indian Ocean in Kenya. It is located 30 kilometers south of Mombasa in Kwale County.

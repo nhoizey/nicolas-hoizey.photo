@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - barbe
   - beard
@@ -62,7 +64,7 @@ colors:
   muted: 172 100 141
   darkMuted: 102 52 76
   lightMuted: 208 194 181
-lqip: data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADQCgCdASpkAEMAP3Gow1s0v6gwr5aaO/AuCWUA0bw00BJ872l7ZyGh5wSuB88OwGNsIPzBCZVfWUfW+XwX7vO/dSmHI5aixTi5PJ7Q4lLg207DC3qE3D2L74DnsSCpAAD+7s6OIknkzVoz4wdPEBKKaZu5UzGuDIbL7e4fKVBJnUBLRmOcnulZVX0o1mvcxy/1wgir7GS9eMVS5L2/sUxyi9HcCudGRGQ83YCZJEE1Y/huFcNWLKEFdPAyO+K0rb/pU3tIKrgKjT4iVjSFGV12cw/UBcaRn+myB0S52Q79nIjRQpRIAsgEfa2bedG1PhgAAA==
+lqip: data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAACwCgCdASpkAEMAP3Gowls0v6ewr5aaO/AuCWUA0JA00BJ872l7ZyGh5wSuB88OwGNsIPzBCZVfWUfW+XwX7vO/dSmHAd3zOLTqNJaUquFS+Ni2pogcEp0F/HSDbSMAAP7uzoGOpvjWlCqB1QWw8vpIMxeB/oKj9RHMEDpe8fdadwzOkgvnkhn9MqjWZV+GQ7AmP1HetrOdInEnbt+ItJ3vRV5suhXvInCN9G4rQOgqFqJStp2KdRGN3if6nNXn/hUrUxLPxtrXl1U78h93i6ipTwd4tZcxD7/xqKTm+b4lZ5SofU3ZvQVlrNCD5XL6ouPPWi44P2AAAA==
 ---
 
 Portrait taken during a <a href="https://photo-club-draveil.fr/">Photo Club de Draveil</a> session.

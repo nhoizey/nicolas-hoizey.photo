@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - blanc
   - bleu
@@ -81,7 +83,7 @@ colors:
   muted: 166 135 102
   darkMuted: 84 65 54
   lightMuted: 180 197 219
-lqip: data:image/webp;base64,UklGRpgBAABXRUJQVlA4IIwBAACwDQCdASpkAEMAP12ewli/rK+lNBXeI/AriU2UeqSzuGNnGHzdN0UDtZBFPoUOBasYy8JVuAWngHSuOFCy5FvfJAhK/gmmUuBZnewLxeEB2KQLEDEVjRJglNBwqPjDS2LNJvUp8Kl4MQI+/a6BMyhZunfYBs+gAPylfuS49ULUFElB8SMoqlIqtL+pSUO58Y6JT52mjKT/K6eMZYWkuHGAZgUPk4dN6BnoSlm/BjiHiW3QC2gVDK13SxpkYMquK2GPX2Z43uFNjGcQDnfH3wHa7Y+tcfaMBE6dbIhqLHhEJwfUcAQ0mnkT7CywIHfpIL2pqqPhfrM2IVCjRoFaGGRibDFiAVDj9BdJwZ9O4yBSR2LbFD/29HolA77AzmNTgxcyylsQPvJiXq1R/BSbTVey1fQ5F1CYbAARf/fkVyJczPcQt1bqZIqqsSkZOEkwXznhHkkTzcX9N+QKuLsivbspYZ/mw5zX53nxVxRKiDCn7IQdUNLlcJ4I/hz4f0FO/FjROBoaUBYbIhtfkAA=
+lqip: data:image/webp;base64,UklGRqABAABXRUJQVlA4IJQBAABQDgCdASpkAEMAP1mcwVi4LC+lNRWd+wArCUAY5uID2L9SIEdaOp5ampBkZYVqdYW0+1l6vLPCiMVXCrTwOPKDmN3FzjIFROKi6LCsMSYYqjBMXebnT6Az+Ycng6lL8rAYrUHPOOiOE6Bx2G2XHFuOI4busTIY7330bUAA/G1eLcufNqv2/PEYZ/H5+PAw4GQVEEnzG3PbQwJhfpJXtvocAeW7sscEsrd4078wZUaPEPw3WheSZJGOyel8FVPySq0eRZS4jSn/Wnjo51y1PzXKXGNsF401MOZT25yjZr/WLHtEIhMTduLI3RaTY6UPUkHDgk2SOzAObetqADEFljwzgNRYvd9/EPW8W44eUyAyhFWvQK4hje1NL41IztKSJotsUaPmlsmRKzQ1Q/FJ1vtfbCJaads2O8IrzwtNDOzfzPbNWK5WrP/P5R6yN7cggKV3uM7kcck54R0VkFDUSFjuTB/lBepVhxaRhw7BgdRHRTbAWyX8PwZ1Ny6EJVfPbIFodm2inV4pjRTTxBr1+Un+QAAAAA==
 ---
 
 Étretat, in the Normandy region of Northwestern France, is best known for its chalk cliffs, including three natural arches and a pointed formation called L'Aiguille or the Needle, which rises 70 metres (230 ft) above the sea.

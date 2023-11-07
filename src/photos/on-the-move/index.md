@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -69,10 +71,10 @@ colors:
   vibrant: 35 143 206
   darkVibrant: 93 65 35
   lightVibrant: 128 185 228
-  muted: 97 132 165
+  muted: 97 131 165
   darkMuted: 73 61 48
   lightMuted: 209 190 171
-lqip: data:image/webp;base64,UklGRhoCAABXRUJQVlA4IA4CAADQEQCdASpkAEMAP3Gkw1k0rCcjsHY8OpAuCUfGo+8fwkxVpMCbbqh3IoU7+NLdLFrUPwR6gRZ8K4QG5dRGKMKZEO3jtcRfIcirIUZApN7zqQkKsFbIPgaBt9OvEMWSuvs4HIH5R7Oo7HmBAbpyLG/WUphtNQzf0EqOxTFFb5OXN+7qC5Cd31OUt2srKJaFNij5oiybQdbwAP7dh9vyMjdsn9sLsMIkGqVB5CCChrJjJCn1+u61GoTO2QMLZakkgUGQu4yW94UBxactNCaJSKJ3iXN7hY28A191dUJFCu9GYwFq4AyY4fNirxYLlDmaO55+C6S9s966c3cqcxJFI5QbUxN+ZBwBJRvDPBMqPklqnOreKf58UOnT1wK1T7W3mO+0USUeKI2RfQYcNmBQJokTrVIlCFc1Qgk+EFlsIPFyUc4MGGAUsipjM8O9QOaRV+A+GUWeLBx5PCZ2KfhqAHg+6UBnGLoEHjklaJbtijcf6mkjK8DAszlZjQVztwo+5i98VAm24ERaFCfwFCMkpfThbhmABDIW+o/77BiRni1gSVwtaj5bCDbM3x8fp39R0pOE8y72afjXFUDmYRbyhVFNTjQElX/mJGtiunUhcVo3G7kNgWKeiGpS/y1dwr77ykzSW2M0HpPkh8Kjifcd23AtYFzWR17d/xUq2iLPm9qWDnbeY6C3dBd1dOJmVAAA
+lqip: data:image/webp;base64,UklGRiYCAABXRUJQVlA4IBoCAADwEwCdASpkAEMAP3Gkw1k0v6cjsHY8O/AuCUAY9B06I8gaQMv6QeLwgkRoPQnDtaS0aJt/J9PWFfoC+lSooOCPlp4GIe73a0hwbwWBtkNa+6wpXX5semGIj0EmdgKMPgzBfnYtx9hRCZf9qRTj/duIgVn2NExM38mrtllCrFOioqg+MTxtg9vQeStKeQ3sD7/gKJxGj+J91kLyP5kfeISIHzSC2q2PNKAA/t2H3AxfLq6ss/5+L90Ax0l+tuTY5Pb5gd1YcYPFmUnhIRRwuDlH8Dbaa4ua+1jKljdHvD66B1e1Y1/8ITTPmvDm5B+18A4KrQFGzaeFEUAkcAKI7uq1Wbw5ZFqjhX7at/ZSSRW8YMBJSXrZ0yqjfdyVVmQQokPspzZWW3f/cqotVaxKI2Ao8r8DQmKgLwd/vV07JZ9iIyRu5cKqGxo+EZE2EAEsKQ9fii1coGAdEplkucCXu6TcacFC+f9RgnrSJ2nAnJeEb3VWn6YhaHL/B44cIPz0jn09P/mRspCOmFIFrkt351X9oxmMyzjNGbTGz0xlOkqzSj2H2fyhEawHabGOWJb6E2Dr9QwfxjhZT/PB9W90dCGJ27Ys4AFEgPbre4Ihj8cdCAPd8wxnhqZnypkvO0lBWsy2GYtqPIHEVd/5jo+f3nliqqPxnQsNFjeGYwpYJPJFtQ061crdjngbEX3RyBApRyBS2d6rrcBayAAA
 ---
 
 

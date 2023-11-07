@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Accipitriformes
   - Africa
@@ -67,13 +70,13 @@ geo:
   country: Kenya
   city: Amboseli National Park
 colors:
-  vibrant: 38 108 165
-  darkVibrant: 36 83 128
-  lightVibrant: 147 193 230
-  muted: 163 130 84
+  vibrant: 39 108 164
+  darkVibrant: 36 84 128
+  lightVibrant: 160 184 215
+  muted: 162 130 98
   darkMuted: 66 64 38
-  lightMuted: 168 184 204
-lqip: data:image/webp;base64,UklGRoYBAABXRUJQVlA4IHoBAADQDACdASpkAEMAP3Goy120q7MmqTM9GpAuCWNq+oEJ6IRCEyihmsNzzQRhJRby/zfhMgBQamOnPZweNf5RtKs62En4PL7cBVoStTofbqKHBbkZECuR9qYY1jSYqZEVkqo0U+VrUHlK/elpumvI8QAA/p77v0PjBi/9OHwdQuJGm6nkwZoxuYOOEf9fmB3YxOkX+mhf0Ir5XiB88avVLQzmqZ9QCtNUXddkY8rZBj8BXtbzU5EZPi+7rJu31AUm1KIpD6JnIA4urmcLDlieoAMK1fYs3YmGPWqXil+MdpVm1Z9F7RIpFazFOulPp/GdnyKSh1zKIgudk98O840Cq+ufydiTP06Ao0xIeeNsZbk14G5St2uYj/KeXUQ0iuPjWzyxOgCVeGoVboIa7X2i80FVSpR0X/Et6LqK3UQN6p9L09HTBJAbv8Z+pO8FjP8IU7aZlvnCwygc+bg3dnhXEqP77En9W7cZaNcCVuz12panXUrUBp7z074wAAA=
+  lightMuted: 191 169 160
+lqip: data:image/webp;base64,UklGRoABAABXRUJQVlA4IHQBAACQDACdASpkAEMAP3Gmy140q7MmqTM9GpAuCWNq5l1L7fCAUJY5yZNPQ3NF9Bo/2X1xP9gK00C7mkCqkO4ohoUwjlesI183sAP8Ooh50uBl+5GsaOLKOOHnbW7jMqdnlv2fC8SA+f2rvbvO0SoWAP653PQ+MGbEqJk7GbIOrkwHip3YKkITV3hKtHi1VxIeVa4R+Cz9RDP0wa846x4i5hdWZREEsFLj9GF39vdxD73RUd0rW5Sexm6uXybFFL3f+DgTP8BjkEv/WJtAcgoN0vKIPXS0/ZPz4ZixMPLUHG/SB2C62K+HC69DbBD0d6nq9Js+Sd+8lEj0cRm3vVV9Q3C/ahJD9wlWZm4ysAGQufJbHYwdrYk7Atjc08mNVECcXK1E6N0CJc3yUAUuVxVExFbZqY2jaeb7/T5Nh7urMPmDCa1zNAbGalFpM7q+NfuMQ2CzHQ7atexR/iI1HW9MU2TmSEX6lytcTn04vqfDLwggmEjwAAA=
 ---
 
 The secretary bird is a very large, mostly terrestrial bird of prey, endemic to Africa.

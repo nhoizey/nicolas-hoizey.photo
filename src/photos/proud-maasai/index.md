@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -63,11 +65,11 @@ geo:
 colors:
   vibrant: 208 16 54
   darkVibrant: 117 7 24
-  lightVibrant: 240 208 110
+  lightVibrant: 239 208 110
   muted: 164 118 90
   darkMuted: 72 59 47
   lightMuted: 209 215 229
-lqip: data:image/webp;base64,UklGRj4CAABXRUJQVlA4IDICAADQEgCdASpkAEMAP3GixVi0rCelLbd9+pAuCWwAxfyET81H6402889DdfMHpkyrVHZw9RiKGmsz5qJ3DZKuO+5KsNwZlE+VCGcbSVKrbTVbX17uwXMONFDJqli2/vJXM7RyhVGlFyVyAv/VSfX3RRGAALHhjN9XAMIvKah42+pHAfrjBWkpmTtfzSO7bV3isKVkS4Z9OWHlL5JR7EyPssAA/ctYIrT6lSWdQ8Hli/gMB8D+uHu5pdOmuU1O9tpbeG1EjxBHgY5hVFm4gQIvYeDEml18Lkg8FDPcm2o2z0VF18lRk0AY0Vm6VDLacSZtIhMoZ5CeUMd2cgHgHunzpYpvbHQTVE5CgHeIHVu9t31yD8tpMuTkXxA74yvIHGxif0yjV55rw4ZzLbAiWSIpy2bnMQJAs9nIIbGLk64mKywsrqcURpVWW4Vn+cZHmN1MuRE4prEGpmMs971ISMgvr4jG75Jdl48N0r1er7Ym6O9whI3v92DW0O4UoOiQl485xEiQHc6OMjSZUksGPTKcvh803ms/BdEJbfYBtEz7PLFSILtFtRzgPLoPeQZzsksl2cXQFpY9+YRefSPJmlmcgLxGrgQvWEotfLzs53/edSs127pASfMncAzK3Z7n1DaY5808xPIk1vg+esiuh+nmzaAcu1IGKJQa7rbKk6o9O8M5w/8sTCUctqM2h/vLpLe4CgxIxjvvyuVJcBhUKYr/wJzsSHZZThiQSWBj/pI4VMC4AAAA
+lqip: data:image/webp;base64,UklGRjwCAABXRUJQVlA4IDACAAAwFACdASpkAEMAP3GixFi0rCejrrcN4pAuCWwAxNB/jr1Gs6CSD1E21QsrDWaMfevwvQE7J+3zE0uUSlLX+Yj4yNSezTOww1imHTOE0fdyIuBvKT2a2zh1zjiJnUksdidQP8KVKoOs61+nJbgL/QXm804y56wzO2VpIYJb+ee0wIqETrooeEIKPq2xXJgLYD8jGknaaLqyXSfLSM+S7pgU2I33KY0mCwKBNAD9y1gitPqVJZ1DweWL90JKDb6qXTL+TLtOtlz8zKrt9138WRfuqvPTa8mYAoFjAdnArQe3WqpNyg9hDouL9pj4jsz8kMtYcv8jabbMLzPTXD6+69WyTHgN0LxYZmVvtMLZyXhZX5K4eJdz1vM7l+90CGkAGYpyYWpTrya8XfUPme1pJZJl3YCoCPergBvwTwMj+El5pxoWGYHPa1tut9zIDpGqVxlH5LcgqePYsPX4tZUknxTi+RA9cUBsmw1Muqs92/nBGGUE4aqT9rz5GQ1elKuNjwuXs7Of8DD6IGEjgCVbTMJL0OIqAne+3SOtxrXjBWQ7CLeB67xchmVKuB2SONLxwfHxdtjvfT/ygOGceyyLWfmiqalnFxYSuKT76d9U7s17wsJTzHiNm3s5IIG9MsBOx7qf1/gNiDRBFlYy9SCsG8mxXC9ehmK2ngpIqRhsNd9tEYDMM2nCHzEmspFGpsf8I3dbfbRs0Pw+OVB/0jf3gM6lqwhFaAhMq4J+He8gRcAAAA==
 ---
 
 Standing proud in the savannah with their red blankets and painted shields, the Maasai people have become one of the more widely known symbols of East Africa; the Maasai shield is even featured on Kenya’s national flag. It’s not uncommon in Kenya and Tanzania to see the Maasai in their traditional dress, not only in their villages but also in the streets of the cities.

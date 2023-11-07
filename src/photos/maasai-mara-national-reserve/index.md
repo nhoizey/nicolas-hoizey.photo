@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -59,8 +61,8 @@ colors:
   lightVibrant: 114 183 226
   muted: 96 127 150
   darkMuted: 80 75 46
-  lightMuted: 154 181 187
-lqip: data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAACwCQCdASpkAEMAP3GqzFy0rL+yq/O7Q/AuCUAZ3YTfRDp3+Aq9l7Ie+nQkxrBscj/nj+h6Vk4fUPrjv5NVr7y+LGNVGYW1YUQInYkQWLpLVxDNDr8YAAD+4hAsH/uk/WmOP9cbm9h+qMwqo64ARbVLcXQVwu8EItEgVvDOJ05eVJEL6eABILRLyoYBGV+kEtBqIWM7cXARy7D5Vj0GsRrJ5fRJmaIsPaJNcynyEy0BhqTfXTB8k/v8meHYk6h3Xyoss3KP2OBl4H+vvB7re8qaOQJ/pLCjdVy1q+qt5feraXebaEcSnowOhzxReKpZnXjnbsj+HMxyrdXiG0YIfbjxMAmu8cYa9rn0bSN/tAAAAA==
+  lightMuted: 155 181 187
+lqip: data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAABwCgCdASpkAEMAP3GqzFy0rL+yq/O7Q/AuCUAZXgTfRDp3+Aq9l3rS5HS6OwLA/ne6Km7DjijpMQ8U2uTK0yZBpLc2IFzarrVy5jxkkvGsLfvfSkt7AyTQeSph8AD+4hAsH/natmDsf643N7D9QGFPVkWW++pRm0M0F9jx4rHKVvYGXfOQTr+ogpj1l0rbAzmVEr3h7+tC0ufElBFobNlG7hlRZrgIT58RLcsuPMhxgBrUYYS8RFbrgqFjx2/VV8G1Ucp0S8p5MwZUyzco/Q/xXwKnl95jFbynlyfv9Et/jW7UZ4ThOZ61n6TbPSGeugAy+kXPBp2yu5lqSdXIDl0IVnzy0AnSowt5KBYGufRtVV/JnBAAAA==
 ---
 
 It's not just about the wild animals, landscapes are great too!

@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -59,13 +61,13 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 134 166 198
-  darkVibrant: 114 88 34
-  lightVibrant: 171 196 218
+  vibrant: 134 165 198
+  darkVibrant: 113 88 34
+  lightVibrant: 177 196 228
   muted: 92 132 164
   darkMuted: 84 74 51
-  lightMuted: 167 185 211
-lqip: data:image/webp;base64,UklGRvQBAABXRUJQVlA4IOgBAADQEACdASpkAEMAP22gwFi0q7+lMHnNK/AtiWMAx+dNwMIEyR6SrrXrxsffSeAbG7ypXF3Tp4dm8F0vX9+YAXNh5LMJhozafR8nUHSwkPHwh1X+R9ypDuyY6ROhkicHabm4R2hjRmOWrh1b/aAz1QpJQCU43AXCJO3p8gCZGB1S/vX5A2DuEygPmnrKUBtZAAD+qTi6f8ID9JfiJDvd2YL4LE5Nk9Om+tBjJi2xR061S9IrXwZp66as7kxqVVnEni8uHKumJqZQbbhh7WqPBT/A64p0XfTOYllsZSat4Eh2eW8lNtUCK41quksoWigLvbpXMY3umiTFuBHxJnf8GDq8+JY/C1vb/J3vvESQpvLmKyJW31TlCKQAo+sxauIORgr6IfJdofgajDS6d20Gg+HMTylJsdU9yrwbkYJlc/hZUQIo4rZpZ9olGQ8JcHsSmUZzzHDQN1qd68BTnY/t61o700IP0DeI+YJ14iY1wtVWWpkJ0IOWIb6fONXDA7V+laB0mQRVtVaVNEC8Lani3OhipTbgH0MDQn8WYVDOpB6jfV0ijCpSOciY+JHHpMUGG93nzoDEGGelEgzEW2mlYe4a+kn6tXLpgcNnlAWcepSPA877gXuX5592pPC/rl3SFnFldsmxdgAAAA==
+  lightMuted: 168 187 212
+lqip: data:image/webp;base64,UklGRvoBAABXRUJQVlA4IO4BAAAwEACdASpkAEMAP22cwFi0qz4lMHqtK8AtiU17ayhNbgs5cnzkwrT1lcM0z2wTGss3p08O+L1Xp11lh/4stIZmE6Qpz5K/Pup2LMGwh1Im4lGkyKZKUNDUfJJIejH2QUJrf+/x2qyXhudW5ziTG8yN9anNk3FxDUX4X/icR7lPLwzc5FpE/cjwDAAA/qk4en/CA/SX4iQ790LwOBHoTkE6z+9sli3MuK+Wrvr2w70kbhL4UWylb7NyUyDxKnYSifJ0QyPg1qF6VNbC8k7+5EPQUEN6ADQV4EzyhGj4YxM+kT7cDkGto8z+70xLHb3R8pXm1yXOo7SAz7T4y21Khw55pdIsqL61SOkUXAxb7XkAzMV8Pa0GQ7MgkzRqffI7wLJS8wIuyoom/tgWGchtvOwZyshk6c7blR+xz1XMCRjS0VYQQIX4Kbb4xhEw5jXpB17Lfco+blMla5N/t+RslPeAGfzu1+YKM8K3mqC1gFKD+s7V3ONLZsH0nv4melYHjrxgrH5owUdVX+3v1Z9qiy7i8q/gsAhfTiVou/sdKDBjKIVkLUAS3AcE+FTRl8xW2Uw4oOQ9ABD1A1X2Xb9TRwrezAzarwLNVU0kkNHQ4fb0HK3OuwSSrSXYv5I1Q29LRXlVy8CMu9w+0CyAU8AAAA==
 ---
 
 Lake Nakuru joined in 2013 the list of other lakes in Rift Valley whose water levels have abnormally increased endangering the lives of residents and the ecosystems around the lake.

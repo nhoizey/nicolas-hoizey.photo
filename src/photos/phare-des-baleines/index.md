@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - architecture
   - Charente-Maritime
@@ -70,9 +72,9 @@ colors:
   darkVibrant: 62 32 20
   lightVibrant: 212 185 165
   muted: 142 117 109
-  darkMuted: 79 56 44
+  darkMuted: 78 56 44
   lightMuted: 187 172 168
-lqip: data:image/webp;base64,UklGRtIBAABXRUJQVlA4IMYBAADwEACdASpkAGQAP3Giw1i0tb+5sPbMg/AuCWc7f1gAqXSfYe0ifDWfjaI++2ara8SfovqS5d9KiKPdH3WJaOJjvdyHGg7oQ62GwBIovG3mOgULszRwSB5BAkebxtAZdnrCuyJjJMaksSwKkUtylxexNkJwG3srxjelUu91BRj4XCCpOsJ6fQ9354oJ7OPN0wAA/uusHj3j4uNC2l/5pjLRbE7DDcb4tfYydeTs3/7Mn71F490A/JL22alhZwDYoz7WpXlMGKUZsX2z2Jc+V2w2kRBMu0u2QatatYhbvl0m8M4CG6otuipvGMGVx52bOS+OVhya2mnPNbVZ6FDC4puOCUMJLNJaC0lD0CZbmpOlyhM+FZ78k+OCA9gfXu/hWGvzcBZT7L1hHBtRn3fpEplNeEVzLXSAnKT4s9kMHJrStbLnqgR4oKzXJpOp5/NIMcXSISlhljHKc5GK5PG+A1pbM9ZYMUvtMtuvi8ZA5le+Rsdo5ujTryBhuQX77AWy5yEGSP76aPahPqsBHreduaHcvs22S8i32gFRsWgMEcLhH7jsOKGFXcUTv5XzDv2w8CtONHaNCBOyMlkYATkIUJ9p4BLXoAAA
+lqip: data:image/webp;base64,UklGRs4BAABXRUJQVlA4IMIBAACwEACdASpkAGQAP3GixVk0v7m5sPYr0/AuCWcDsB4QvVYh+aShZGhNOG0s+dmnRsov1xdvyh5FiqQLPGZ8tUfaQUugF+1kxDGyrJENuzoS1QwGx5M5+LXPKqEPAoOukFY72f5rDMpn0/3+srITgNvZXjFBpDMz6LP7Sf58KPZyo7loCLseUnXsKxH8gboAAP7rrB4949/fbtKeAmSYBr8iRiODUYgKFx0cdoj97rteiw/j8jn57MuD4yHgXl7rU8AUWsSR8b2zBbJrIm6J0IFKNHb3VxLrGSMyxT2E5KRFDpge+Ub3BCpQ23HO4oRTSOc5TYrtIGNFke65jRq8X84Q02eGqlNr0SBkllPE88EbN5daxA6BWGzEGNN4pdDKcNRtFKKIxbKY82rgK06IZvZRD7pgME3db0ExCDJsT/Rb6e3tD2wmC9CYiA3WHi8xH6mDiIpmuPx+zkviBbpdlJ1zYeKfREUqKMQJgUgDeSerewTXPHVvsD5d3RBxOZC319A/Dbjz9kAGfaDJukz3ScMUUR2+X2bbMENaGRD7emq9P/MqnLSZfjUcCrhWVT2WrGHJJrIWjwjZNhTAn6wWWFAAAAA=
 ---
 
 How can you not feel caught up in this hypnotizing prospect... before having your calves on fire after 257 steps to climb.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Bethlehem Street
   - Betlemi Street
@@ -61,12 +63,12 @@ geo:
   city: Tbilisi
 colors:
   vibrant: 156 174 74
-  darkVibrant: 19 127 127
-  lightVibrant: 150 192 220
-  muted: 109 154 168
-  darkMuted: 86 69 49
+  darkVibrant: 18 127 127
+  lightVibrant: 148 191 220
+  muted: 108 154 168
+  darkMuted: 86 68 49
   lightMuted: 131 184 179
-lqip: data:image/webp;base64,UklGRtoBAABXRUJQVlA4IM4BAABwEACdASpkAEMAP2WcvlizK6clNBi8SmAsiUAY7J3SJYKyY93N2giR10tYqd2NhnG0SWhX8xNB2I+yRVbfHdhOqaA7kxvyvvIxUwzDXy81IBtxVNycvZHn3aPMOnyQf+4FuaEjx7FV7GOOTgeUuOT7bS1j6+gYuYtwHRiXLyUGjEy59f35ik+en76rgADwNV8V2Vz+eQBtK8JT1MuLsUjWiLeJ/nojlxYrVOjIvAWmARVPzjaKD+vb1XOaTo14KPZDEs3FwOhGKIvv/YJ69lO3rN4PHAb81MmeCO5UByYjDAU5nUj0IB3vqXPfpAQyuq18BxclmfPu6B0YAHpLv2ZvwEBgM6NTgS0mIURoz4eiX0WQnhlNN8aZ8KEbLSSf5nQnesxXjYERcxZ7orl+6dA2Tk+FE15Snl1vBPekXng8xOt0VpjlBmgVpy0RahJjGL0q8DVYOOwuQnK0N+vzac2J/rbY7PxEavzLKdKolbpQzhwLvVrT++71kyOgAlX5itapsT44WBoPEQVHVyFE3mATte9FCzTt63000mbzVUjEL0zDXxz0mg5F3i5DtQ7XqpCSs/kg7uuzeS6NQrXPSfCSZrRewb0ZhvWdDzcAAAA=
+lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAACQDgCdASpkAEMAP2mix1izrKivMHnLSnAtCU2Iiy8EqwUsx7ttDRh+Nm03H6gwal2WVY37ZTFS8vlPGqPlPNHgrTCmnLKhSeUozAmL5hL/04Zf4NIZxrnRThKc7RuR+e2YScdwAAPlFSYESMn2dJlu94QZHPnjVUtEXiBvIADwNV+2NDIy3MBAkq1gB1GNbaF/pfvVjnv4BT/hMNfhbj+QQf13MPe4IA2Xe5oahCMdaFu81Okln5LSUs84JmHe95kndDhqWd+DR1NecjawkN0TYwSSRlATZoP0+AhxYcS/jqzsO2G/sz8D+8sG3RPdlOhyHmZFqMFjwYAsivfpxWqnJwkOOS7xuMtyjVmSG+sxG6PIs4DMdZwEHFSaq8VzUS+9OCSn6e/uh5YRaNAHGZYLzIkE6DRTxUU7d90EzeXVGSiqbaBP9lRuLW1T6CKnZgrQYU29xd2Q1JbKr88vMu3kSyRl3XtPIsjAg98g2TLG+m+d3MCWVIPsk6Xw8H6pj17grdeZRE41Q7I8EU1Ek7sKtw6vIcDRBw2qL3jGq5RPQPXL0W3579+ow6SWKrs2xoECdeyAjh5ROZCd+ulQ3iFOTp4Ru3DsRVDnG8AA
 ---
 
 Paradnaya Kaleidoscope is famous for its colorful stained glass staircase, but the whole 19th century old wooden house is worth a visit, with a great atmosphere.

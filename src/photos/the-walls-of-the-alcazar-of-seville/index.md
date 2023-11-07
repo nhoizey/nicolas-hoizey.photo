@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - al-Qasr al-Muriq
   - Alcazar
@@ -71,10 +72,10 @@ colors:
   vibrant: 232 145 81
   darkVibrant: 92 32 4
   lightVibrant: 198 213 251
-  muted: 128 118 168
-  darkMuted: 123 93 68
-  lightMuted: 173 181 212
-lqip: data:image/webp;base64,UklGRlgBAABXRUJQVlA4IEwBAABwDACdASpkAEoAP3GqzF20rL2tKTgLM7AuCWIGcAyq8VN1Da1CfnElSpCxEClDCnd78DPfbZ4QjS6AmE50WrP3oYRrt+XoDEO9A9oYw1aXbp4RDinCPrniZ4+uM/Rna09i69YsHIMglBSfUAAA/s/jQlaK6X7xGGiZa53uppcMU6eG6GeDA004ZzrI3INm32BZEdp+G+/gatMxzkxq4a1A0X+RTIkXJFhrfkSh/oIPRz32NUb6F4C0wMyyxeJPcjW1exgHQkMghujzYASFrshYpOZPbYF/BN2y3/+0XIK0q0+TK3QpxWfixxP9O1/pO1IR5QY1F8Y+XETpEO5h5nL0MpBUz3XIy+itM/QaXEnuV4McC2ewPykELv/RXrFjZjwNnRW86tEib6OSF3zXSgRxsl/+OBA9XXFKa35hc3J0yB+0lxdxJFas5AAAAA==
+  muted: 130 119 168
+  darkMuted: 124 94 68
+  lightMuted: 176 183 217
+lqip: data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAABwCwCdASpkAEoAP3Gyzl40rr6tpnkrs9AuCWIAxzXjAtu5gqT1VBlth+R8RxjDoRp6uww8XTvvPTbxNLX5s1DGO3qOoNma5Fo4glE84gCZShy+YzZq+tj9eBEl1n3mipml6oDAAP7P40JV6vRlUHxaVk+KjzbWVKt3FpXp8eN542ydEP7EuaUT8F1iZ0a2Dz6KyfIj7lgIWBady9M+llZ/twtAp45a3v6GP/jZ1+SlSwU9B3t77YV0oDQtmsU69Z78Prbh8iHgH9tM7xC+r4ntGnFs+D4LfLlv4r5IjhAjF2QCvz8PVHqy/CXXVb9p7GN7fBIG894bcgmU1zN/llxLL93JDwcJZ0muEN6sdB6O7/z/JO5bNvADVFuLwa0FLpsCOm6ukIGMPkbAamEs/XJV2xMt8SA91n4TEB3okQc1HyNCHl3rkYAA
 ---
 
 The Alcázar of Seville is a fortified palace (alcázar) built in Seville by the Umayyads of Spain and modified several times during and after the Muslim period. It is considered the most brilliant example of Mudejar architecture on the Iberian Peninsula.

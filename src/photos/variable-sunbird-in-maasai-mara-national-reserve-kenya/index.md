@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -84,7 +87,7 @@ colors:
   muted: 96 131 142
   darkMuted: 51 76 41
   lightMuted: 211 197 159
-lqip: data:image/webp;base64,UklGRm4CAABXRUJQVlA4IGICAAAQEwCdASpkAEMAP2WYv1izKqajtfatymAsiWw4LYuzPBkGBtVf9lgNiinQAPeh4Y8ajfWrVFraZRF5ZrcPzSSabocb/rilYW1acGNjHPWQo+k0dwwGmqoD0VFaXhCx12pk/oy646Kw39EfxWDVBdLzpSV9TLqeBrGNoRLnotAXKXBOVpw7sF9oQ2TXsqlfNPuIqPSt8K1QuXyPs+RbtFV+AADuLu/ES+b/0YOfmwkEHpFAGQjvmfnFK1oEJHWlABHMiW7aNld6RzTm8QNWX7gs73bg8wLImDk81EkmJom6RSo4t/GEDfwFAtwaMQSTJ1wAx048fsXnKp9HcEFIKakwCbTmpqkPCBc6HpNfswGumPNLIe2f/jlEIILnar5nvWMeorh2Ld/IH+xJhLr5oK2YiuRT+MAtPGUZSO18TPvzlO0rCI3Xa57Vp5LlpgxFK+GmYThKk9CIJOE8gnRj0VMbriP1mRC9w86ky36WDv2kDgK0fsTfvTNi3Pz6NSNZokC2FKRCZUsrfk8wcSXRrYFySw1P3VRv8sF2TurZFD/2MJPWLr2fxYK8HGxKDt0VDF+yD/6pbnX9M0gkkrenl9YnF31vrob2L0iK7DfidXon+nN76GmBOzohGKMatSIHLKI9UKeP0wJqowAyznuPg7swwdPqqfNQEQixUCeZuc1ZSL/0gn7cDxHDtr8UBy8+MuER7Dq0yUjiT46xnxjBK1AeEX9A+ot7EuBpCyEDvHNzjVN5go/A7VlP/E4VFimBKTZ3jFcP/cpS9Pm15miQQTu8iGE6Lss7DB0ola5wDxGeKAAA
+lqip: data:image/webp;base64,UklGRngCAABXRUJQVlA4IGwCAAAQEgCdASpkAEMAP2GWvliyqqYjttZtmlAsCWw4NIw2f/TTBs8p47bRrTJivAK9A1bRRYbszvuz90MrSSabxCICsDcSmJCcM//p/ghWPJk1wIX+MMBNKQOGTN8EK6JzxmMz3LKUYL4d+NQ9GO7aUKgKbJFG5pivnmKQ0O800bG6AyW+VtP+C0MwDk89dVYl5+tPvyak7XvD6AAA7i7v6gqAYUNgt0zxIi/JaAOfPwgD0h2HQf2v5geYYFW0Y5AAVHan1J5mcJNszK3xP4wwAsR/ztG+vrhhbHg6FH4pjmgQPR3i2L3yC83lCAzZmsloijhgeI8CRy+89yum6deF5GT7Y0tpMZ40v8ptebAcy2glbBIbz/UmmDcxEv9fWnMlE+QugWNcXyYXknRh9BorAsRvTA7GPcxdzpQk2Xca4mf3hDQ1unRpjAHIt5qjsh3V06j7pFHXIPCPpbt/NwU5rR05FrJw6WgMBZTFKQQB4anbOuePI1grMEiix7TUIEmNquHJIbpAWoT+nZAfvscFBn66QAX1GEIxikrNOMlBYDNU96c1K+9hJgt/MEFVrDcVuP9lJOfkW520Rp6oOFENyjyF3HrgkzwyDsqetVnC+lmGntT2Ul6sDs1vqJa2frbHZTEytKZFgKx1tntaSjd8YY6WoadmCyZXZ6QB1YvnL4u2spbswaLxjSlQ2Jl6ZrFMX/Gio4/uMfWg4vnlRecjhlgAyH4YmL06IM8nfa1aTN2ftwtSgPLoYYL3az/o6p/ulP4xQeyAJsg8sXwgE6AQgeO7xLk41ZxNSHfrLe/xwTWrkztH0tl+rsIybwAAAA==
 ---
 
 The variable sunbird (or yellow-bellied sunbird) is a passerine bird which feed largely on nectar, although it will also take insects, especially when feeding young. Flight is fast and direct on their short wings. Most species can take nectar by hovering like a hummingbird, but usually perch to feed most of the time.

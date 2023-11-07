@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
 tags:
   - Aigrette
   - Aigrette garzette
@@ -72,13 +74,13 @@ geo:
   country: France
   city: Rillé
 colors:
-  vibrant: 204 156 147
+  vibrant: 204 156 148
   darkVibrant: 11 79 126
   lightVibrant: 212 172 165
-  muted: 142 108 92
+  muted: 144 108 92
   darkMuted: 63 57 71
   lightMuted: 208 170 161
-lqip: data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAQCACdASpkAEMAP3Gq0Fm0v6svr5PKO/AuCWcA0bwzDifgDjQpg8VMKzL6dpWL0UYU3hnE+2hDhFBPlRpAX7G4Q/rU2qbP3A9oAP7uSlwbQGPnGABVbi/ZBn79YyS2IClBywC7q5lQT/xC1rMTG4+Gvadz4cCeDhd5qcPHQtlCGwf5d9NPkCxLRqQHKgHvXoP441T7Q9N6Uz9T4lLtLJfEAjDXJsfdxtf7c0rCkzp4pAVSVDjgrgAAAAA=
+lqip: data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADQBwCdASpkAEMAP3Gozlq0v6owsVG5g/AuCWcA09g1yEY/MqHHrO5NKs+Y7JsgIS0YFqAB1lpe8PlPZlt9tyIbZGRxnAllgAD+7nzTG0wDL42SzTLIM/esF45b93ZoPAvZzxk1WpElo2/ipP+7v22ozZ4PProVEnd33vX+1v0sqWZF+lXh5b1Zz8GvpZnCAeexTivU4H80qwrXHscHDR0LwS9rLxfVXUqYAV5tggAAAA==
 ---
 
 

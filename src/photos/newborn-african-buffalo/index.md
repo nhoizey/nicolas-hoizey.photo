@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - african buffalo
@@ -80,13 +83,13 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 195 153 84
+  vibrant: 195 154 84
   darkVibrant: 79 61 33
-  lightVibrant: 221 196 157
+  lightVibrant: 221 197 157
   muted: 148 124 100
   darkMuted: 85 70 55
   lightMuted: 174 148 119
-lqip: data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAACQCgCdASpkAEMAP3Gsyls0rjKlq/YropAuCWdtVE3MiknmnOJzS4JW67bgSWgAXoFRX2nTdg4Q3eY38xulNSIKFDaBJ2jgu+Fn96w4vbyhGIuSpNQoBTZyWX6iGgAA/pgmfdh878IEL9/S4g6NqYM0CUpmfEzjcYdW/Nnnkk+3Lg71mETeMV6VfsF/WX5Uy7EZ+hkRlHKrtrsCaTymzh76pibsAXXdJOTcehIM8EWO+uvIRfElKoHeEbfA9h34dECVY/3U18e1yvZPnTJZzXNJa2GVXQrRwO7DllHELbJLmm+4uUgeqTqh+leH4edjEk6SaohzukXfjnEtsgAAAA==
+lqip: data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAADQCQCdASpkAEMAP3Gqyls0rbKrK/dropAuCWdtKoAFXZW/GmNmF9K8fA7bAmcVx5Y/jAl9aAKdwBxg+lp/cG8j55C07LIOK0nUFrckgsc3VQnx+nob4wAA/pgmagxI0qilBexKP3d6c2VCWsuHN+1k0b/tVtqQNsk4wrW6wm/Z+GCIFJtzO+gYgE/XVK6WhTJ66ZWkqZ0hVG6v/rCUWFCrK2656wSRH0RrfBtqmev2yl6OW0P9g3o6jyHInTr00qmHHV2/7Dke+7cHnSLktootI40XK2h+0on2QuVcshjWPSa/v9AQtdqTD4LgnzfdOrRJ56AmR/ll06MEHpLreo94N5kKrcfAAAA=
 ---
 
 Newborn calves remain hidden in vegetation for the first few weeks while being nursed occasionally by the mother before joining the main herd. Older calves are held in the centre of the herd for safety.

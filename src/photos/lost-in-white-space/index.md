@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - blanc
   - ciel
@@ -54,11 +55,11 @@ geo:
   country: France
   city: Paris
 colors:
-  vibrant: 123 166 230
-  darkVibrant: 21 57 111
+  vibrant: 122 166 230
+  darkVibrant: 21 58 112
   lightVibrant: 156 204 252
   muted: 119 117 166
-  darkMuted: 24 66 129
+  darkMuted: 24 67 129
   lightMuted: 212 164 177
 lqip: data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQBQCdASpkAEoAP3G42mS0ry0nIOh6kC4JaQAAGdm+rHm0+hNntPoSuJ6E1hrQkrT/DAAA/u2sRAbkAOE2lS1iLCgHCevQtyygAA==
 ---

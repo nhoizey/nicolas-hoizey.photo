@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - anvil
   - Arnhem
@@ -75,7 +76,7 @@ colors:
   lightVibrant: 217 196 169
   muted: 153 123 88
   darkMuted: 86 59 39
-  lightMuted: 145 156 185
+  lightMuted: 148 156 188
 lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAADQDQCdASpkAEMAP22iwVi0rCeqNRQ6ApAtiWUAz2krHxUMU5VDlhTl2Y0yY+Q9uIHE/pxMa1adcduSvT1C9CEBNLSJoxL0ELFS+y0vzuSiTViLoRJMt4mt5ININX82aAECgWs9dUCOS7BOvqlmFrxFd6IgQinsAAD+5EYVWzCZrKnxe31ntWFnf+BUyiyCtca/mQux8AtfNxtoTduxtenV4+4694c66Mpz6OnIDbWuKZN5VCAOZLZC95gzzbJfsZPqACzir79FfhFbuiijXJY1e2r+WckI7nLAMIbY7/Ox2stOKbw2rvae7OcSILUVVxdwa1/BkID38bdh5HjbI22h7y1DeIRDGDUQ+2Ts0XvipKsdQ988iZzEr47HmbV5O+ZsMBX7dSndLvdu/h0VHAFZ0tytNrV+1e9Q8f33RHSN7rdA4DqqWipvWCdTvAWl786gc5Gn2efE7FgG0WxwAAAA
 ---
 

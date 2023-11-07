@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - bleu
   - blue
@@ -74,9 +76,9 @@ colors:
   darkVibrant: 4 70 104
   lightVibrant: 127 208 250
   muted: 161 113 88
-  darkMuted: 47 56 73
+  darkMuted: 46 55 73
   lightMuted: 6 99 147
-lqip: data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAAAwCACdASpkAEMAP3GqzGC7t6mvqFHLY3AuCWMA0BgZwzUS1iGug6K7dOfIlHDPSMKti/5bLBi6vv5rQ7YR85cgX7cznzy1AwKMYAD+7HwBD/UO/cTUsGqnfwqrzaCMFp9NtmO+Qbabe5uS0OTQNbTNgH1y7nb7E1cc71Uyo6USM4fatgjcJb4qeAxGX7XEBOUXTKvbHjIzXSAg8z8cHAX49tLJ1IhqoofduUCvSxjVpN5pg4wIRkKYzmPgAAAA
+lqip: data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBwCdASpkAEMAP3GszGC7uDOvqFHLY3AuCWMAznQa43wpP1VMh0OgQDaM7W/rYcWValHvGXYitOMqI6xMql+uEeLd0OAA/ux8AQpoo+4erlU5iF7lEGmMDKLI22rD756kK+fWqS1lYcMDsmgkrwyaH2LGM/ksnUAKQxb2ULa4cO1XSn1Xpqsg9qw5UjT/S7rYJD1Yszob1ilV+TB049pAeoY31lREyoz6IBhY35OoAXEzSf3CSA2xZnSqGIAA
 ---
 
 The Ploumanac'h lighthouse (officially the Mean Ruz lighthouse) is an active lighthouse in Côtes-d'Armor, France, located in Perros-Guirec. The lighthouse is closed to the public.

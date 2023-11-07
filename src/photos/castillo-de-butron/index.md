@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
+      short: Fuji 16-80mm
 tags:
   - architecture
   - Basque Country
@@ -76,7 +78,7 @@ colors:
   muted: 144 132 114
   darkMuted: 59 72 43
   lightMuted: 145 170 200
-lqip: data:image/webp;base64,UklGRvwBAABXRUJQVlA4IPABAAAwEACdASpkAEMAP2mcxVizqygjsVa9+nAtCWJqoFhuz30t4rxRvaVTuSJuBE6GZyMeqpe+/ZqxRov+/5ULje6yTWtoqKPJLyvy4ixNLa1UvwGJQ2DatXPUM3lJugkLrfnPssYCgXkzqM9iHfF1JNcrWdjCWGEaoy4iJfaYrmX69QB4aa7XQs4EqVAA/rQEgaOvXdBRy2tSWEXC5R5AEcm27eA+kDPSiegeh9Hfs7gc8Bzz27tE7eRrU0pnCU3hogyzWQ2IQVP7/J9+bSdhwsuwrum8+X/A0vyNVi3ad6n/da3V6r82qdP5bJQbEcCgtO5jVJw+TyAYOAAlgLD5CjxyXXwjGfxl8GnWxn7L3F95eNZCgzHGWgy9L1MVyT+VU3wN8YqApeZG4WX9THgzZY9qk9bdEJTqlBxpIRfMpH41TG3MQYg2XMvKCbGnUxxT6s4Iv06rD20wPzuOOVjAc0caXb4kE0LiuCwGScCrH5AjYDwT/mAx/ZjUGm1KYkhQwrJhFjbDxkBlVv6NMuE3MctaKGUPV3MUFsgIamhtWprr+WXLD5EBLHYlYjiAu+9BI2kmzDFDeLMBmCRwLNhcgXRkHkfafaeuwAutmwDU+q3bcmRSpI4DNVgnhEfWrQG2eYqT+oyKx1tD/g8uHrQAAAAA
+lqip: data:image/webp;base64,UklGRvwBAABXRUJQVlA4IPABAABQDwCdASpkAEMAP2mcxVizqygjsVXt+nAtCWIAyNglLrKlL29HSqdPUgfvaT0Y5skCSovSzOO8MDownP8MOqEUc+kL6HtLxVaiudlEjUekS0ZvkajmW5Ko5FEAysMtSBXR3/wAlCBzBwZ1+A31DiGgFhBc0gnKDmt7mEhbInvUeFdQAAD+tAZ6dNHoMJB4QY0RV2YQkpaBjR2ATAcfWcvax7mWPVHaQWEWDmeIMVq3LB1gA4+2x7Y+XfAm63Ywe/A8QBJxTI2NVYUzZejkzTYD66rpJauWh/0Fmd1Z4sUNOtpX0gc3LI5DU7XNYJx1RrkaM7afdeuVCLE2lNaEyXJFKEuElCVR6u2FfVDJtEVwuz1Y3vtUJcsHccujfV/uHPOLTXO1ZR0yo+63C5fTIkTEoOMyslIQ1vc8c2kkldqHg3rSXvHBAE8i+sQVzDOPEWX9S8f5oANI6lfDQ+y8Pd3BzTcgoQCsYNHJ3kUfKJTtZVtbyu0c1QHaNXLBxWogEMm6q0rqUluAtrNui4RfgDHbKEQtdW2VpehvyX3J0sbX90aQxubd7SYrfwp8yG6QA+stGj01WwfuU0ZBAU7tSp9EGMWoR9maZl6/bnm6MQpiFJt3ZgBLSj8QvtbHVqSkPYmwU5dAs9QTur/DHGZwAAAA
 ---
 
 Butrón is a castle located in Gatika, in the province of Biscay, in northern Spain.

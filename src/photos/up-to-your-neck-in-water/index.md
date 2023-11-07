@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - bridge
   - crue
@@ -65,13 +67,13 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 43 95 133
-  darkVibrant: 12 76 124
-  lightVibrant: 155 194 223
-  muted: 115 132 151
+  vibrant: 46 98 134
+  darkVibrant: 117 76 11
+  lightVibrant: 156 195 221
+  muted: 116 119 144
   darkMuted: 51 57 79
-  lightMuted: 140 153 190
-lqip: data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAABwCgCdASpkAEMAP3GoyFi0v7IqMVhpg/AuCWcA1BQ5/Md51IdSYr8BN7At+/cSzj9lGqv/H0EAt9v4lsrqOGKlTWsBfl4e3zAbZ62IN1LuE33yMSBIS7ajonfKAAD+6LSsZvnsp0q07zPewE1n3BZxXvOI0Aba/Y0xZLHzD/DWGD/XCWLYKfe6r4nwBunwaySfw2OJyc6oIzaPoelXV5Q9sYllTK+4ud6IR+rdBf94HpjQyMLbumxbaxDYWTzdq75bsu5Ea961sT8husVxUlI5u/I1cP+bfEVqnF1sbeSswWRqpXxGU9FbOOrc3Q9gRUaMd6bzhyT/UAAA
+  lightMuted: 140 152 190
+lqip: data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAACwCgCdASpkAEMAP3GoyFi0v7IqMVhpg/AuCWcA0ftSSuNrdSDcnbDgN6iYeUQOg59wm15LyDgYwAfOavJ8R3CXqil3u3FVa7syV5Kz6Mm0J2h3COUt+yJf+1mHy9YAAP7otKy2mMNJzVyPdHYMbfu7xtuR/BtnH7a/fAF0cPnsZVoUy3Hsq35lCbnbt7eOGy/0UfAxmzU51leopsKr4B6da0vZc//M8iMegdSpEEHLRfL2NQ7OlYDhev8t9U0lCxpeh1I+1MtQCE6gZU4UaSZ9iomxDl82+IrVJY9BlrJcXqaGU8QB8CRFJsw2n/aoi3gdUNdaeaUZhELjwAA=
 ---
 
 This photo was taken under the bridge connecting Draveil to Juvisy, during the great flood of the Seine at the end of January 2018.

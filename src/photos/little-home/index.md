@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -53,12 +55,12 @@ geo:
   city: Taita
 colors:
   vibrant: 12 151 234
-  darkVibrant: 4 112 211
-  lightVibrant: 130 191 243
+  darkVibrant: 4 119 216
+  lightVibrant: 131 192 243
   muted: 156 110 73
   darkMuted: 88 65 41
   lightMuted: 211 183 161
-lqip: data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAACwCgCdASpkAEMAP3GmwVo0v7clMHR8s/AuCU2qhP/S7V5/+AumSfYIfAyhdHcVqviAMfAQXmnuTu5CZie7BbVq9O9XEZQhKAM1hyiKUOc1JIL+ZOy+kbJ7RU8/XLgAAP7a6Z6ln4u7EcZPD8O92fEXY80GGQ4z3mxim0GXJMAnjoFAg7Pp3v8Dy19An7iElHA3Zvp8Fbj/JO7kITZ2av5+M0s66IWjkQfrMX3x/uXqZEKsC19mX/ElhtvFvyxWOOvO+DiHyIvl6zn7umviaHOkDVKheEO2d5tOApRoP/0JGHMLrMXHNlFIs5xJI5PD2hOLGiqJbbJvWMZ8DqMO8I+yhsoEhYRSGqCnh3AFMP7seUJ1CRMnpjwbCspF/kXzI18xtYstoSV3SQnrdoBe6/r+MQDCp6X5Kmf4a8U/70MEZEvOfe61wyAuXpt/ct3zq74pek52Nel6sxwAAAA=
+lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAAAwCwCdASpkAEMAP3Gowlm0v7elL5Wsc/AuCU2/kBieTMfX+AtgYUwhVE6mRcuWFOJW/AO2JucGtJLkHUbw78AJHIk4Lf84wFSnAVVWxmVAkAYYEYdCejitgV1CRSKDajiIAAD+2HOWFX+LuxHGTw/Xrp72WOe6DIKWq9IiKhLDBqLZzCiHHtrjHRSR0/JqqoUh+AbVHoyl1QcfZESAWyb3DgW2YBq/n8nKwwsghsb9lYlqlDpMKDiVqPPhEncUHa2Oj7UOLKt+jt/5IEiMhG+BwmAa4C/XS+ASm6Np89pn1e7mSroNVP8Me/22SuTOnF766xjGRkvTFAOmn6dYSRV0hPNhtyRyAZ5zIajGXzMYV6oIBZ/TwIz7wE/l9sxCa7vsWADuqnNfwsVJzWjy0H7J79Aib4v//1Wuwl+RCg+OYxx7CgyWDarPk/AXWa3O0X5AAAAA
 ---
 
 

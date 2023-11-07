@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -78,7 +81,7 @@ colors:
   muted: 149 124 104
   darkMuted: 116 95 69
   lightMuted: 202 183 172
-lqip: data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAAAwCACdASpkAEMAP3G0y1+/urMnKTZoo/AuCWUIkLYFtTE8zfPAqeFdG98k4IluJtAuP7UWuEooIK/0LabDUxVxt6jlm3ZUC0CCAAD9kV2+RaxywuIAcj6pCxvwDMvC58BH5Kx6btJ0J/s6KZolBlKEosiXOMNI4xpltvtOOXWsCmIhSpxNKQSV9XdskgLxCJ3ZrA7pr0YSJh2gChJX0RU4eFZ8EfMaSu/n9pVZKMOwd2ctoSDhZbcrcj/3NavRZlDovsaxly0AAA==
+lqip: data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAwBwCdASpkAEMAP3G2y1+/r7MnKTZoo/AuCWUIkCbcSNH////kZJYwwnBEtxNoTLnuYjyv6+O0J3M3ygmNywPqdAAA/ZFdvl9D3c2PbqLV45TR+K7hpPgP4gYpIZvjxbViztUQVQm/RO8TxONBrhYM/CHsqKYxQomlL/l84HKhJGfaIS0WVc/9noShMQsjDavhqyee7iquEy3bcSBNaLvvptZAVrjsoMqsjLiXfYwaW4h9BqcTAAAA
 ---
 
 The lakes in Amboseli National Park are seasonal and mainly located in the Western part of the park and usually fill up during the rainy season.

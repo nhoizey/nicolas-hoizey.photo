@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - America
   - Amérique
@@ -76,7 +78,7 @@ geo:
   city: El Limón
 colors:
   vibrant: 15 138 203
-  darkVibrant: 4 73 135
+  darkVibrant: 4 73 136
   lightVibrant: 233 188 146
   muted: 172 116 76
   darkMuted: 83 75 50

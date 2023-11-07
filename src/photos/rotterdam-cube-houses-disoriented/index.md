@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
+      short: Fuji 16-80mm
 tags:
   - architecture
   - bleu
@@ -75,7 +77,7 @@ colors:
   muted: 134 128 118
   darkMuted: 87 74 53
   lightMuted: 193 209 219
-lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAADwDgCdASpkAEMAP3Gmx1m0rLGjrbRNmpAuCWoAy9iBe2FasghYpJHFki6WQMRX7JdYydAglQ/8/OhP/8dXkQM14KjCN2VjSKuFhEqrDMrLwG1KVwIzCBKlEm24SadXwtel/Z4tsZYXYVp2mvmIYyACGYm5eJ4T+81Py5wkfU1hAAD+7eINapmDg/OInuL07qfhW6vGI3piZhU9HLXcI4R4moWargBUHcQJrAiBiDUSWDjU41cqE7wxNC4a8zA0QFWng3xQoJb/gk+DKlxPDxhrCaSzFOEkqCP1N/qBZw0Rp5tciruty7UKgFgbEXAj4gGJbZF/HbpLORGpM3dExVucxQeT5Hh6cHzdMfOAHEydc1x588yLpAPxV4Vz4Xr77rwqSMr+5xUygAqhqw9yNRV9cad2EkFvF4zZrtpFw7uMp0r5cROje0AN+SU35AdWC8v4i8L9y4zkgaObFa+S+51MtNns/Gr8o+tLZHnJ/+ZaJA/R5k/qFnxUiU2bi7Wuy2v+uXmrMxdqeL61KEr2mzjOoVypeoY7yBvllKvGAcNTyV8G1gbxiP7drjUJnDRQvaWgLUdIeQIUW/c0S+QPErWP6asGLFgsSibi1AAA
+lqip: data:image/webp;base64,UklGRtoBAABXRUJQVlA4IM4BAAAwDwCdASpkAEMAP3Gmx1k0rTGlLbRNmpAuCWoAy5yUUR5tyxd6TuSGjKL5t+E7RLEnTB6uQSn//TsYjCKmOLX8zq7fevkg17WpW4zzSCrb0vrdzNDM2zD3LdmhP+yVLZ0PIlMH4t3gMenYlhiLX4hyyrjaqRTdbN+Do4K1w0bvlWbgAP7t4g1ql2dJWIf1YmkRyF4YhOQ+oXfOC1Ltny8qFamLqZcaVOM3xq1jTMYUMajUHOpteeKSDCH8TQm1LC4shLZJvkdr57dPCglv+SJW2u6Oi6nNqb5pyCMHMATkGC1I7tZg/DGJjV4bXO5Sxr+Exa4F+XaDaZ9dUav8swgFZB1ckt4FCi1PMb2FAA5th3t5pBillXTzdqLA44oRzPzUmeyOqfwkVJ66x8esWIYV+HYE11gxWAHGXxmkdiolCLT6GO6Og8tPpCfSc1x+mwc8HX/riLtltx9EBaegAO27ufhJXFF0peWfkyj/qoG71q/kYVeo3Og+HxOqUdhFz89/+Zu84ONCTABx/u2EWV8aIdqVseLANPqm/gjvEvhDGI6+iY1CKGXgjOmsvgyci6Ry3O3AACuTqfbZ4R42yG5Q4UouInWOQuB+VNOsAAA=
 ---
 
 Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.

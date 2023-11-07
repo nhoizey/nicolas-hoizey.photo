@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - animal
   - animal captif
@@ -77,13 +79,13 @@ geo:
   country: Hong Kong
   city: Central
 colors:
-  vibrant: 44 92 154
+  vibrant: 43 91 153
   darkVibrant: 24 58 106
-  lightVibrant: 152 184 226
-  muted: 160 126 80
+  lightVibrant: 151 184 226
+  muted: 159 127 80
   darkMuted: 81 64 41
   lightMuted: 180 181 178
-lqip: data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAADQCwCdASpkAEMAP3Giw1i0v7gvMlWbu/AuCWcGe9UT3ggyGx2qeCggYsTfiNm5SiVZKncbBIe+aY3ZbXyq5cRqmPIdkH4WweBBtGz0zXXB0Zf4phpyGLQNXshP36cF7XuiFq+sxqgAAP7rRmbqheSDjB9kVipVwJ81pTArGur6hctDDdmDtAdXlShw8gqvXgJOzV5VLsruZ23XocILRD5slt7yhm9jD/y3jT76qE3BT0M9hcOmhqve3mgf32ED9DjlM2uL+h3VqH4MvziAkDXqAcsCwnRtIdbRDL1oxgABmvpahJ6rJEtYuLgYVLfzqSqfJOmcurLv+1TtLpEqH7Q2+zUy25R87g42XvDKq2UMYG1AgAA=
+lqip: data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAQCwCdASpkAEMAP3Giw1i0v7gvMlWbM/AuCWcDsB2QiaUEjB6Mz/rqn/EbNylEqx1OCEpO2+kBZZS+vvqfxmSqpa0mKAiqtn9ABDS/SL0X+UKwwEc/ePPfSRBdpuXox8wAAP7rRmbqheRpzXBN7hs+GTR4nmevq1DKMTheNFG1ZjcVFCmcb7YbNizmgNBYCVtQqfvy8M0A4v2ljaBn5J7Roy5UpT91qA1CBc4/Ro0Re0TpKI65lK/FEtTThN11qPqbdiL/wSPpRb1vqrl2QXmr1GOdcNaEy/VcFYnKtUauZ5bQbHbwskiaT+t20NlOwhXKVYp1sI1yNZ0JYpcLjRpRW9mpf10oVedErztDfCIe7CdIAAAAAA==
 ---
 
 The Bali Mynah is restricted to the island of Bali and its offshore islands in Indonesia (and this aviary in Hong-Kong), where it is the island's only endemic vertebrate species. In 1991, the bird was designated the faunal emblem of Bali. Featured on the Indonesian 200 rupiah coin, its local name is jalak Bali (Balinese script: ᬚᬮᬓ᭄ᬩᬮᬶ).

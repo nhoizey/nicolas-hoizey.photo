@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
+      short: Fuji 16-80mm
 tags:
   - architecture
   - art
@@ -74,7 +76,7 @@ colors:
   muted: 88 118 141
   darkMuted: 59 69 75
   lightMuted: 164 189 203
-lqip: data:image/webp;base64,UklGRsABAABXRUJQVlA4ILQBAABwDgCdASpkAEMAP22cwFi0qy8qNRZLUpAtiUDOAaAen+ddsfvH0nRVbzO/YO8UY5y1P0F/GXbLir9CMW/0VwGvU5KrMDIYA7p6xyfhroMrh1WUepe5dLzLJkPw6I3SiWX5R7NYAEIEvKImXWLOIPyGwr2qGHNx4RuyZfT4AP7P7Tlr9a8/ciVH69aW5s2TATYQ0Pix01NdRKqlprNV8FoY9Ak1g3MoIoNhKAz91BmsD3XVcRd57riyASZxpbfHL/Tcc7engZGlAt4nAHjgvUEzaka4NObP8v/EzHN3wbIKq/CJo71jxWIJK+erVFGfhi6T6L3+4Zs0Ex8M79gmKdV2SuNIC1Yd0F/3xkqZQYqd0hWCV9xA66G290Z6Kfkt2BF/w4nZgxDQ/MEAu4dBnG60ic2AGo22BAWk2vHrY4WiKacRK/ce0yrtcfHdDAdeTQ3mX48pY5KLuwTT89OM6ICMw1V2MO0HW4BbZeqCYJlLhopVc1zLQ0+BnSN2Zvj+2vQ/FaMGEnkU1mMu2EaKQwAbckK0iOjqXBs4aqJ278iU9PX4D8QYUEshyLpVyBGA2YdpiSAA
+lqip: data:image/webp;base64,UklGRsIBAABXRUJQVlA4ILYBAAAwDgCdASpkAEMAP2mav1izqzWqNRerUrAtCUAZkomOmVBFEBN6b2G3jCGou7TVIclsGS8lsF8hQ1z0NZwJLQZv7kBbhUZrQ0KFICrB24ghyNba5iCBKuppwrMv4WYu1fnDNCx48wlPTzIPWn3M1agRx0nWH7/NpL+9jgD+z+05a/WvP3IlR+vWlubNzoVfM+dHXA8UvGjS793iCqzeVQC0k5lXeoo+UxvGPGml/BPcaZjv5GH1nwnrz6lFm639czJSq5rQ5Rr78cxvrZu012RZmWQayl44zVt0TPe+5b70RMkbvBBcc65Nk/VLwzw2YdCckcv2DD3Nr6dlmHOXrhinLJe3/LN6lmOef/dG8TL8PKWBkE8yRlNpEyHndWHGkq1dHgaIXT2grTfbehmk/xTWHfuFTUNfH3H+jAd3dFItNtp+nkuM5bqhaMFz97pPqYbEtCtB5oTV4eAKA9S8ej2h/jFUziaSCMoO4dJBnG/bbvBHEKCrosOJdBtditOdGDWPect2j6871VxtmgmVz8xkO7KOqLHZWuY10x3V8c/u6e324b529VlxkWo0pzFwFBs8DyppsAA=
 ---
 
 In the summer of 2018, the city of Carcassonne — a medieval fortress dating back to the Gallo-Roman period — celebrated its twentieth anniversary as a Unesco World Heritage Site by inviting Swiss artist Felice Varini to create an ephemeral work on the city's ramparts and towers.

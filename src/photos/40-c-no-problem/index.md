@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -55,13 +57,13 @@ geo:
   country: Kenya
   city: Amboseli National Park
 colors:
-  vibrant: 76 108 188
+  vibrant: 72 108 192
   darkVibrant: 89 22 21
   lightVibrant: 210 191 152
-  muted: 159 139 103
+  muted: 159 140 103
   darkMuted: 83 75 56
-  lightMuted: 195 211 225
-lqip: data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAADwDwCdASpkAEMAP22YxVi0qiijsVobgpAtiWVqoFs6peONmkBjgg6yw5VDCaFH05dcV8GjGw+0dmsyFdxstZ44+zHIN2FVcPh/TBlZnBpGDOjAgMjOrw4r7Gq8jj1GCXy8fDuE6V+J7sC08noDZGXGkN+wiE7iwchodYiQLPm5FhVwajL+5yEAAPh3xKJRebI/cPh8ptBzVpH2gl76cgviPsDiu6pVxXhzcXK/RkQNvmjRVIp/i9lL8Tqe5AL79DNQw9ajjDZ1T+nydUwsOPtJx5Vxd2QDnvngQPdMPO4OQQ8mFLO2T4UZENc4jUFwuqVXEJwbddopCwj0lmYnjVRhhrWmZLqfcLunDN0CqO1QKtlB6M+nNcthnzRQvRGQxdLruUWtEO/qP2V8M48jMzn0WYIhqxUpFoe2wocpQX64VOKkpy10U6Myxxuiv6moT6M2Yd8XyBdqq0X1PiNRLmv9X/U6JbFipnUU4gOn8SK/SjxYBGNj0Do1okBG5lwwjfxj7gk7Lict4AAA
+  lightMuted: 195 212 225
+lqip: data:image/webp;base64,UklGRpgBAABXRUJQVlA4IIwBAADwDgCdASpkAEMAP2mcxFizqygjsVlMenAtCWVrlVuKJdeKKdctIOssOVQwfwf3pNY6ZbsUgv/+VSNUWR3mt2E1UuyTL6Z35LRbjRJi1Ki7aL46mO1WaqPXLQgaxzF2J8lL7iwSECQHOouHxm1wtec+B05DECiIQ15tkPp8haFw4AD4dcSv4YXzASOuiCMXEhBpmzbkngG/JwBWDxeQJRaCDGNskK7x/oxe4QhXYI8blHNV3xyVktvJLOSBZNVFw0HDLFmd28mZ83Nzsx/fJuhx/ebFt7i1VAFd0+tSmICxKmNQUWkOSlvx4FoobAa5EmyMHPjlnkL9VKhlm6KjZq5Supz+Nqy3zwmU+e8nnPMZX6V9rZqEL20Q38M4lxV0Sgel9af00qAkqHv5v1Emh0cRirbtoK7hw5X+o16Xj+ocHltV8e/V6RragJy1cihLm61rXAu8ncMSgu1MKmc+ryp0YKN/EHssF8UMX0eT1zY6gZrIwl9WkyrsW0pI8nM6QWXTRkXAFkzqYrAAAAA=
 ---
 
 It is impressive to see these Kenyans playing soccer in the sun at 40°C, while we could hardly stand the heat even in the shade.

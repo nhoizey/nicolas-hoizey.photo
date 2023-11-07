@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -61,13 +63,13 @@ geo:
   country: Kenya
   city: Narok
 colors:
-  vibrant: 44 148 164
+  vibrant: 44 148 163
   darkVibrant: 23 70 101
   lightVibrant: 216 175 151
-  muted: 140 109 92
+  muted: 156 121 102
   darkMuted: 27 43 61
   lightMuted: 173 187 199
-lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAAAwEQCdASpkAEMAP3Gixlm0rCelMHR8OpAuCUAZIgW0VICPrimVRtb161BAEc54u1BsKvvUIW/XuZAqgKu0wOh8S+Z7IonAUlryzaIBk0Glzoof6Uu6cGIp4McjhveBhTLjMT+AXHaGNAgVEjLObb8IBtqJpbjqFUq9gI7aZh9e9+n8JQITjDa+ouT8IU6CPKoRAAD+00/WVTWOJ9A2cTUwkMjeWRsvnok6RwHSM35xRf/RhiPTCCa78Xd3HsMUMaRzTSY4p9z/PFqoEuIAtPZzX2ca1IB9L72M66dPKMLY30nsSTsjFovcVvAwR48YKXtuj8ljkzQc7UZjc2x5XMnKA82OCTnfASQQi2IDC+/NBD32/zWoebyaAAzpiNGd546WuXHjol3tgt2KlPDwv9KX02MkAm1KXhEbxT5G8D8IilqOEaYXZiUK4KgHeaolmVIhWIYfE3VfefPzol9MtamXBCIWD0SEngGg2zqHXERUUtAvre/MdYgUaw+FSi25Ly8QR349vUMJ14OGgVQZ9Sc+J3fLFrp5Rf7xbpdQFS8KimlIllSyua4XquxFZeGirXF3TwFz6sgHraR0zujOHf5EmyOZHvdKfFZCncAA
+lqip: data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAAAQEQCdASpkAEMAP3GmyFo0rKglLrUMMpAuCU1/y0XyPkPLFNaWB05wrOeB0FFfQiU46yUYbkMz3lKsxuVhrkKT+8pUfWi0SW/aRDPtumArbn19w+oz7031m3bq2RzFj1wHpvDQxxOeQ7rS78GdTVuXFpAYdYwyFnrmlV2rmmQizWjhKUMuWAqwoU4F+reUIpAAAP7TT9ZVNIAvNN3xfXo8OH4/LIvj28QqneliO0aaXhnSlU7JyYXtIwO5+sjbqOSLyrP6n3VwZahhLdhGQ6X7w7vGQG5cbUckumDp4X46E2ccL88X7Kqqi6iwoBz3sXzguKZTPMzg+IreVX2HUjbcGYFBCLYgMLR+HfSaXOaEzgAe4jeuNwdEXUDZqMWR8Bn2mn91F1LbugPEmNeqLOkwNdNXSSOrmyHHz1RvcLC78ROdiEVUaTDpEeHqlODukCuPs8/OiX0vKxfOMcT3OgC5PxpFs6iVsffeXPQmT0YcV5oY9vksbDeFbqA3zmDc1UB6B+b7rLSLbXMDR92TuzS3cQnWh2dUHVN2+5UBbeMybY5zRNh5fpZvCkIhiDeXguiRNks5E1YUiRGk30XfQ5msv1JrWUlAAAA=
 ---
 
 Does it remind you about Chris Isaak's song? 😁

@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Canon
     model: Digital IXUS 800 IS
+    short: Canon IXUS 800 IS
 tags:
   - bâtiment
   - België
@@ -63,8 +64,8 @@ colors:
   vibrant: 69 154 212
   darkVibrant: 107 85 45
   lightVibrant: 149 196 236
-  muted: 143 128 82
-  darkMuted: 56 56 38
+  muted: 143 128 83
+  darkMuted: 56 56 39
   lightMuted: 169 187 207
 lqip: data:image/webp;base64,UklGRtYBAABXRUJQVlA4IMoBAABwEACdASpkAEsAP3Gow1m0rSgvrbZtMpAuCUWwAUwTqY8DdE9Ci/5fa9Duwgp8l8FlmlrOVsKzsWt7aSM0ftJ5Qv+GdvhuxE3BpKJLrtY+o1PInXNjFHAs5ulXjZxeAjnzGOBpZwtzrAiWJdm0jxD+dhg3C4A2ytbtC2CqWzQ13JXZyYBK2AC7JTkQAAD+6lIVAwF1QkLi9IdEoDI1k6ZAXP195kewcOYS7dJdwlv48AD3uCi+A/iaDOcpmRluuo8FYwQ+DiMvRZ5E6JQdAJmc31hvh6PskyoQHPMlQGcov2FhhYwsM9wErTksVUw8xFLgGsDfSGBhQPb2SC8x8sKf6aHO+Md+Ip3IVPcI3JYEImVHEcT0IONY28Ymq2CS8wZ5EOoTyshd/4gRzg6LxttE2mw4Qa23tVwTtVLIMfo3SUim2+fepRSIhfMP+wedzghpJXS25aAss2c+OCgIZTOlf74SS3zAtIbjVenuBGZ60yFTrEIlbn5hCFfkP4BtoHM0GwP9BQ5z3qpRVS7s9IfOcRwI57/ETODkMHTYdGqd3lRGsuXfYKbSuAkAgjW6ndDv1Yjpdmt8xWZQSLeUixykj8R6IVpFEjAAAA==
 ---

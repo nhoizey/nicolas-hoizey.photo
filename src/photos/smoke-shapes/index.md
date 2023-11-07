@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - encens
   - fumée
@@ -53,13 +55,13 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 206 132 54
-  darkVibrant: 10 70 112
-  lightVibrant: 156 204 242
+  vibrant: 209 136 59
+  darkVibrant: 11 70 111
+  lightVibrant: 156 204 240
   muted: 103 121 151
-  darkMuted: 49 68 84
-  lightMuted: 167 179 202
-lqip: data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAABwCwCdASpkAJYAP3G41mI0sCwmJRdIipAuCWcA1uyr8QrLxtqKVRm2cwE3haPqUfsjcPNDsWYFWNDnMEZLxSGZZXQ14PSrV31JwXviQ3H1Xi7jszkDq4aiw9Aew+fsIT7KFswAAP7uzkBOg+jL3ggT1mYvJOijW0le4qz2DrtVwFPrqwl+vaZkwuZ9UiQdwvt5yl+no0VYTMmZFszJ0hW1hsnIzr46TM6EIi/TvW5jCo7yWtxyJvQs9MoN/Q+nJwOZleF2cA6XvHdkfm07CIObXMpdBAAA
+  darkMuted: 44 68 76
+  lightMuted: 169 178 201
+lqip: data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAABQCwCdASpkAJYAP3G41mI0sCwmJRdIipAuCWcAFtZCiazbUUqjNtPjWvnFvKe/n+OsY6zVJQTdqPcwRkvFIZlkuZxkOlWrvqTgky/x75SvNElOtpf6j9gRgDk14ZmYhVjavYAA/u7OQgBpbTvqZBYzV8ugPfeLhzw4mmtKDJdhrY6C3NE/WZhqK9qQ7tMvkTnvcOZB1KmwlDJmuI3X670f1aEB9FhP0DsEzlbzQ3OSrKJK1tTYB7mLmFcZIx0Fe1+szI9bZ63BMc50wgAAAA==
 ---
 
 Photo session in studio organized by Virginie from the Photo Club of Draveil

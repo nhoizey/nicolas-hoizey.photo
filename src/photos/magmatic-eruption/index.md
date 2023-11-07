@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - 1:87
   - 1/87
@@ -73,8 +75,8 @@ colors:
   lightVibrant: 252 225 125
   muted: 179 95 84
   darkMuted: 72 46 39
-  lightMuted: 228 219 204
-lqip: data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAAAwCwCdASpkAEMAP3GqzV60rDQtqvK6cpAuCWYAzuxBWs+m/j0nTztB4vypG/jYLFdsCR3VssOGTzi2wWy/I9IIeLHnmp4Lm7QzjA16TPjY/3+cqO5zxlZQXY6qlStbshf8YAD+7t/5MdbmJ3QzLyT6IH+rV8Rub9C+IH/Z4DK78St1eDX1DFULPjdrR9VAqWBO8eGzEYsuYpXsgoDpNl8rn5XDkpGz+tn0UcxIVlJ7U5NgL9df3Ta7iVI3PjcUZge7Bn4eWix8TIgwnmjbw8FcFTauaLnkRMAEx763cIn4raVQSfDSWKkxJJrikXRBBqpsKcas4vim7eQmqhXopRBlfM8a4FYxMxOXqlPgDi12PyF1iWcdNY6aCqZBbkXBawmccP/dyJDnC0PiofX0/IXVIa1PMRHlagAAAA==
+  lightMuted: 229 218 204
+lqip: data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAABQCwCdASpkAEMAP3GqzV80rDQuKvK6cpAuCWYAyl3uRd/2kcE8z6dzloKmjE1neD9ocU0udHiK2BPOBY0HJB5R3iArpbncRxSWKDjgRDaCw/wA+fRnCH936NWnmOgvSSwP1YAA/u7f+ONi4yPFSrlLvqhbtQzmfE5I9E9y6UWktdQCFRIBNbo4EdgQcqPYeo82uwR25aTb8WxU+MNS6VTfUOqScDjYs2qj3S4fHUrSQCaFjlU9cy/oOR+zmFEijMJpWmrB9RY+JkQYTzRoBo7jV0fG2kMjgkwATE6mNUk8DDEIqIWJ9CbbkQoORWYqljD7xUzvX/uKAvCJpQRaARpSh9EV9igLW7p+uAQTnLWevIrP+aJnOznHmmj4ppUSDZyXrCl41xZMIN/Dd/aMSgKHlhCm3gU96o99cPp0AAA=
 ---
 
 The volcano has erupted and volcanologists are observing the lava emissions to determine the impact on the surrounding human, animal and plant populations.

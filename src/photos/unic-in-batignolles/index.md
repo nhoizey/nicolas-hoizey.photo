@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - architecture
   - Batignolles
@@ -64,7 +66,7 @@ colors:
   muted: 108 140 172
   darkMuted: 80 72 61
   lightMuted: 196 185 169
-lqip: data:image/webp;base64,UklGRlYBAABXRUJQVlA4IEoBAACwCwCdASpkAEMAP3Gsxlk7uCijsHgJa3AuCUAZmqWnI8QzYJNA/LVt8ISTbP7ZxRNiKTGDAxFLa7l3kf1xdCu7W0pcVxHeRs76Ob2BRacZnvUXNAA97xV1v8BT9NhkFMMCeynvcwAA/ubO2DLc6rPe9LXDVvb/Go6+YLajabWRUKlFsdjmwC9OEQCV+Ffpu5NoS6lXBpB8m5+yTacn3ysOslUP0FxI2+t9n2wKohf+1bbo5GZ9dzywsprqiM+ZByq4MjfUG8pHdPZIEYF0sOKvs5I2VCMyJ7BtSaXEQYa619osWzgUP6YoVtZ6Z/uid6PRwJA/AmcAUrgriiHWnZmGQyuB2hu4SWFL5jWiwtvhUkIBkBJBh4a1AA8M6KTVR7uv9Hvs6O2dAU77xNbFhhZgqetOnWSnJov+U+B0ffuwBFRe8KRp6n2IAAA=
+lqip: data:image/webp;base64,UklGRloBAABXRUJQVlA4IE4BAABQDACdASpkAEMAP3GqxVi7rjEjsHnJa3AuCUDOAZRqWN4gex/VVlt91iRNyJGpIUsEWNmwnMyvBWJpfhs465hQZrTg2vj0dpaWhC2EBAIiryGLIOgfnOEf6gM8ni2JGvJT4FbWI4yOqZSmgAD+5vQmDXek+LvelrhberfUKkoLJL/64oh3ufFJu9XYx6NthjfnRYTZWovVtGTMRMFQr1uZw9GFBfNYvgXmJDY+o+3Xa8w0I8vyCivLlM9X+5+UTmBU8plePgzszZ22kBoH77R6L50WO3zxctVSBfwTKM67kEnW0rV+K0Itol/HSgDBGI4rTn3MBu2sA9VrO+9LBm1GSSm5PZZPOMxYbL42SU3jkrAQa+JpjWF92AdEeBKdwbbhMVZjj02iT8ycvM4TtVnmC8eKBEsokdKTX56J2S8+Sa1odWqIQuLu1mo0wAAA
 ---
 
 At number 22 of Mstislav-Rostropovitch street in the new Clichy-Batignolles district of Paris, this "Unic" apartment building was designed by Chinese architect Ma Yansong in collaboration with French architect Christian Biecher.

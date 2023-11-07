@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - castle
   - château
@@ -64,13 +66,13 @@ geo:
   country: Scotland
   city: Dornie
 colors:
-  vibrant: 188 132 86
-  darkVibrant: 60 72 9
-  lightVibrant: 108 180 196
-  muted: 148 136 114
-  darkMuted: 76 71 48
-  lightMuted: 177 182 190
-lqip: data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAACQDACdASpkAEMAP2WYvFizKqWvNResqmAsiWUA0f5WrZhZEzYITldIkr2wHpe1HsS2bP1+/1ekQHjRZ8VYRc6fQL63o7mlhPYUtFDez0gZLtnAEP9coiyYC/3Ba5nYtFCOF40LBn2thi3juZcAAP7S8y4m23ooekrbjae8ZTMQL1VWjRqUbynO0OVSBWwillydsq/1H6Cy0q8d8FUgDN6YS7kW3uhKHn8nUpH348kp1u8rsIyfLR4FLHSHWawPH9hVd/0baBXkCqQEd9QHAYtIwTRUWlxtY0/ifT0OMt8zqMiDxF5u9cjCraE6wD+Dk2YKlASnesAs1XEzkOF2OesceJPo1jM+1KLs6r7DiJBZy74t+3vJKVT4RpycElDC6t4dxtyt+pdt64yy0wqapdumpDegYkw5FGOcRQDdA6pd74TtuFH8Wcq88dtJNqAi0IAAAA==
+  vibrant: 188 140 68
+  darkVibrant: 59 72 9
+  lightVibrant: 168 206 220
+  muted: 172 174 92
+  darkMuted: 84 85 55
+  lightMuted: 173 191 205
+lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAACQDQCdASpkAEMAP2mcvVizqyavNRb8qnAtCWVsgl+tCEn9gPDLrXvTmkJBUd9B5GNIekVll3JZhIZUeNFuN+O6Co3eXQz5YjdTrvgEyOriRffXxx5vZP2Z19eTNLNJ6/N9rcznJn80vjLWj7nOALoyE5EDrYAA/tMAnZhzKhM6UbQjdzzl5iCOs1oP1Uit97AKFogU1QK2YQ0BF8Ol+R/UAfQJV698FU835SZO3BdohCAIAoN7WemawWviC7fVb2LPSQFZCwE369SPiyXo0jRVl8a6c69r4HfDnMynrmApX813O9fqGkwYUHcuPFTRiUphXdrLqZDIfDTS170P+PHdi6bJGSBggFqp5A7JUzqnUVPYMOrN2jOumgqYTRIVYwe8bQoC3vJT6udEkL6qh+kdaNJ7a4nLOSGKSEp+tVfDVSmAAAA=
 ---
 
 Eilean Donan is a small tidal island where three sea lochs meet, Loch Duich, Loch Long and Loch Alsh, in the western Highlands of Scotland.

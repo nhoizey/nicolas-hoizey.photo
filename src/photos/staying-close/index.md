@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -74,13 +77,13 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 119 123 136
-  darkVibrant: 62 64 71
-  lightVibrant: 184 186 193
-  muted: 140 134 115
+  vibrant: 118 124 137
+  darkVibrant: 61 64 71
+  lightVibrant: 184 187 194
+  muted: 140 135 115
   darkMuted: 84 70 51
-  lightMuted: 161 164 173
-lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAAAQDQCdASpkAEMAP22gwFi0q6avMVhs+pAtiWdsil2cc2YCVvxNdDn8JTG4GEQVAdsQuECyDnaY1jkEVAEDV9kKmBKruWrIgftsIxRtISwdlx/C2gTxPdC3S1Ju6aHg/8miaLLefTkxp4xdqTQIxlrGAAD+EYqb0SSYqyP2BysOdGmXGOQdrBzOKXmML1ioMu3bt6oywMz4e2sI0D4JGrkP1afl4mgdz310KuzRhBfJ+gItuG0cKIThc8F29CUrpWMYInSxh0avZrCillSx4vfcI1hSJohFmxUrePJ9PjQkmSlmBGxjSod9fEEGgSlMlyVXa/AOIFUsOTscirfsXZ24+H8ucMYhHceo4UBpgWogrfT9aMpXtvie3H2v7wNCyJvyQQ8jfFoJMwarJQImuQHJag1VRuipcJ7zA9qLnpNdURNjgB7hxuT6fxXUS+a3FEHxxMUI28ddTwwWui4cAAAA
+  lightMuted: 160 164 173
+lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAABQDgCdASpkAEMAP22gwFi0rCaqMVhs+pAtiWdsIV476OS7MCq34muhz+EpjcDCIKgQ6ndjJXc2WuZ7SXJY/AKeIuc/ayXQQJ76jWKWoq5htLYukcEhWd7G1yYgPEMNhNz86hCBgyuNthDtsaVit+rOYqGIgc8sIGaTyAAA/hG9Wr5TrGbCclhKekSBL9+aM5hL7m8B5CCGQgRrVor+x9FOvu35XCEVtwqNBCIuPESDPQToDCYWsAl1NVWB4T+zhHdn1S6HsJtOUZMwx8ddf5vtwbK6mXnjo+kuF7iD0mD5mQmJempjmRNkPjHQXAWthciZ5IgLHm3wi2dcvNdCkQHMMTbrwH4p46sQOT9sMEWzQWqtC2yxPp/GiGZh9k8PjcCJwhuKJu/9a9A28apqDBqw46pbWlmnbmMr+ClZejAjPQBbO1x3I4asmjNT8JEi/KIaA+UFk3/0Dl+2XAAAAA==
 ---
 
 Lake Nakuru National Park lies deep in the Great Rift Valley. The park is a rhino sanctuary (both black and white) and a bird watchers’ paradise.

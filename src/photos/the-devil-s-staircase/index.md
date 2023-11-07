@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Aonach Eagach
   - ciel
@@ -74,7 +76,7 @@ colors:
   muted: 133 101 78
   darkMuted: 91 61 41
   lightMuted: 180 184 190
-lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAADwDgCdASpkAEMAP22gw1i0q7gqMzVbawAtiWNtf1sGJ/9P9j3zUQGCO9oLE+K7GZ4er2L+cgMyBO+vup1bRcppeVgLGzXvVuAu3BD3FKvfg6rkUEOIQf2rE/23sA3Ic2sFdfEgrIpzxcRAEJ1lTEe2EDYN6e+MzOSiDn3vwkfBwAD+3ofvoC/74lyVa5aGcR/BTmyzEupoty86joA8ZIq01v0kTKHyY1rAY1UZKLBLcxlAnPk0PTHXwIWcRKxvfTt4tQwACQ1oUTd7yoTPOJQw/tzgv5/x8rOWBmOufOZCFwf/O+DEUnmRFDmLaetlpspDYZyIVZiJJpDTNETVg85k+P+QorwDXWvjV2W2Z7YuQxoK5ulP5Qr1+MB4xY3XzKX7jAl5/La/reBiL3JwhhZMEq0/9UYGtcGOAU51GUxHiT22Rh6w/wHoHSOcXScqysPPAEFAAAA=
+lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAAAQDgCdASpkAEMAP22gw1i0q7gqMzVcAwAtiWMtgFEArqo//ywK8aLmCSEPW8CdynKNghKblhaWIcC6P3/Hn5gJOpt6tvATaGkzxNKU6c5pGCFa65fjvlFQGDFd18SE2qepPdxAawd9sM0J94enj79hOwI+9OVd4w1AAP7eiIyN1AYP9DLesoaL0ibM16G3mQCROG78T6SJ3eRJPW+Ufu1/FH+QaViDUbid+janCDtBPY4iDW8eSRRH3/cpVMmAJPwbyReCI9BJsIk8GWR9eC0XPpjns32BskWxoLjtHNGpJwoqDCJk5pGqKZ3nstV+usu5zx+jnltaTLFgPtJiazDL8ZRmCPQhaFw8iArPmID5wIsrI2fQL2gQXhWSAKJXKQEfooBuZtPEPf/DHTHLNiCfYvRSQ17/ahP6TSQ3BPT0+Wek5V4kiYX6FLIC8q4c3rZWhyPTL46eKK+n2EfwAA==
 ---
 
 The Aonach Eagach is a rocky ridge lying to the north of Glen Coe in the Scottish Highlands, boasting two Munro summits.

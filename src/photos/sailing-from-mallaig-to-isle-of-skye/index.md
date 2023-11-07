@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 70-300mm f/4-5.6 IS USM
+      short: Canon 70-300mm
 tags:
   - ciel
   - cloud
@@ -68,13 +70,13 @@ geo:
   country: Scotland
   city: Mallaig
 colors:
-  vibrant: 92 140 196
-  darkVibrant: 19 64 94
-  lightVibrant: 165 186 220
+  vibrant: 92 141 196
+  darkVibrant: 33 74 106
+  lightVibrant: 156 180 220
   muted: 96 126 168
   darkMuted: 49 78 108
-  lightMuted: 162 181 207
-lqip: data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAABwCQCdASpkAEMAP3Gmw1k0tjglMHnJ4wAuCWUtgDDBletFhDygrvARqSe5P7cTgUpAj99IRMAOLKrzULvk+Tog8mJ3yRDZBfpaJDo/MmbDrM/skAAArNTeCuVF/T0amXekCs9ranOiHxDijNCCVQqrPlCLEo/jZmTNZswJ5E7dZUjnbjhgXxiDF2jNHNQK8c1+0Zn1OxbbJbxiQfvGJJPPtAelz/IqrxG8GDf214bbrEXpCttg5lAJ/C2hxVAmkVPLidxGIictowSQ0e850fmm/2VIWB8YdBW1AAAA
+  lightMuted: 168 188 213
+lqip: data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAADQCACdASpkAEMAP22gvli7NS4lMVoce2AtiWUAznnjgAAdVr8YDaKB4R+cIDMoitqaf4KzOoEe0Rr895ou828hbuTDWlQx6NVzl0R2jy8AAKz3yYAnMhuO5NL+RvvSxm/OfSMljXALdjxNl0ouMzq/OIwb4nDDE26f9cMYKTZyRVwk1NgXRD44Bf3bbgID2EcZmS3x8U6S2K28NBeMOjkjp11x2WC02B8EhEpMxq7c+xOjewpJ0RMthQGDY/6JW7/wOyxXc/FgdxJttYuXpyCVc9nkmei2AAAAAA==
 ---
 
 Mallaig is a port on the west coast of the Highlands of Scotland, and the terminus of the West Highland railway line coming from Glasgow.

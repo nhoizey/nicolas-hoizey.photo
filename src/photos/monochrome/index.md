@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Nikon
     model: D700
+    short: Nikon D700
   lenses:
     - brand: Tamron
       model: SP 24-70mm f/2.8 Di VC USD
+      short: Tamron 24-70mm
 tags:
   - beverage
   - boisson
@@ -55,13 +57,13 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 164 104 35
+  vibrant: 164 105 35
   darkVibrant: 132 52 4
   lightVibrant: 203 170 119
-  muted: 145 118 104
-  darkMuted: 83 60 41
+  muted: 156 126 109
+  darkMuted: 82 60 41
   lightMuted: 188 172 159
-lqip: data:image/webp;base64,UklGRm4BAABXRUJQVlA4IGIBAAAwDQCdASpkAEMAP3Gexli7q6gvNBUbE3AuCWMAzy3ee+gXtW+3NaQJaJuVZK1wJhHf70UalM1yB39VLpw2ulb8lvZezXlVVQ+rQKLeh4qyDOyaNBNXScCdX1WagB50xzCY37iNUhEIRVZxhdFqXF8lmAAA97Mctzn48MrUk07HvmBZRzx+ZIYAcgiellev4YclFwzTUSWNpa8N2Rzt45SuFXlxuuDnaS93tjHsPMVfgEau3J/V6N7bs/u8mSsi8pK4MgYhl+FKiPIn1esFLgzA8M/XgJIAXp7mkn6tv3Xlf7T65YM5bmrGLoeY5Lzpl3iLMb4tuPE68qTVeZpOc/Ljr8lnFcI+IEFhiBlNbaYP4F0OdfI6LTI/6Bz6nNrVDbQrnlvyDWS5ifvsC2lrJXvK2xKIE/sxpevtrmnFA0uJAW3kUDp7r5eKpQR0iNsmScJDDS72tXentwdKrReLkDgcAAA=
+lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAACQDQCdASpkAEMAP22exli0qygvMzYbapAtiWNsZ1uKc7oM1ticOG67rJ5gXebEID8WMnmqKk0r1L+7Rs2pfoAULO0bABsTo4yp+wK3NU9h5kft9qj+5LKhUZpxJeIYWVTQWpF8tmlULlZfhMVSYTEloA/iwuAA952y3fONm2xNU1RRXh5mSurVQHjOelp0DNlpOJwpHU4oL+5u3s12zQoWHB5fyc2IoS1aO/e2Mew8xV+ARbG9mkXYM79l9S+wOphEKTtHRM8+YAUO5X9NYV7cbA+lJdPfRRtV1nsGF/rsmpCa5xmV0WECvy6vuKZ0Hg7gaoEky/w3xjVEZI4Prp4ZXgwT6mK8mV6LLYifaTXvZJtTwGNM+bO8beUHrj03WiFOytOZReIquJCzNKckwCZutrfyvYSOSir7O51evD9DzEedODTD0Ryw/qDMf7fhRL0CBTtTToxzdXyUHT301Z2QsviE+VMiAAA=
 ---
 
 Very interesting experiment of culinary photography, conducted at the Photo Club of Draveil.

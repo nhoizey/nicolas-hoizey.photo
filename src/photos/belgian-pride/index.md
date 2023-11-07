@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - arc-en-ciel
   - België
@@ -76,12 +78,12 @@ geo:
   city: Brussels
 colors:
   vibrant: 47 33 217
-  darkVibrant: 96 11 24
+  darkVibrant: 96 11 23
   lightVibrant: 247 206 152
   muted: 115 180 102
   darkMuted: 101 53 65
   lightMuted: 142 85 11
-lqip: data:image/webp;base64,UklGRpwBAABXRUJQVlA4IJABAABwDACdASpkAEMAP22kxVi0rLEjrrn9CpAtiWgAzQTWicLF/4AW18VyabDKjB+4LWK29jmOD+NGB8X6qJ9bzbTL2NOVeA0FfXwc7EeVRa0miOyeNpfOB9PEHFZ4ZWaWdzm6DsqstuKvtPcTEigA/vA02WHrgaDLkhUYHhjUA3o+6L1gSmVOgQ/Dn26Kfif6vER3bajlH4zGHsj4VfjMBBAS1X5Tc/loUHK1rgK+4P8kyU+1mi3wqReXnaD4roXKD6z77raIbHZjXuHv1JFEdQjcEqDlhATbUuMNF9J3y84nTyFemaS1UA1c4aY6unGz8/+I5Q36IujFYH/8saUGsYSfrVPJURUUMvz160sWPkxecgFuNs5h/eUrwYPVQ85NeZrI2Ebm9XL/nwAvCdGeAA/XEbqJ5RYiJz+TR6C9dqNEZz/SXvAvBBh0dAf1IIH/pEcDbmIhQORRr+1cv7n0aBstDp0XX/rBjAybEgqM04G18QvOF3asv02ZSeLkqLY+O2sPbFXbzLYFIpkBkDjjYUAA
+lqip: data:image/webp;base64,UklGRpoBAABXRUJQVlA4II4BAADwDACdASpkAEMAP22kxVi0rKijrrn9CpAtiWgAzXy6CcLF/4AW/uH9hbmklLVFroQPo2WqSU/k/yFyZqHHlc6qU+CVCfiHPG+ERea7xVrKewrQR5UdWaJEaFLjV6NntyZBMnV/FOi9BJ4dOQVMMSKAAP7wNNvn64Ggy5IVOBuygK9Gt3cp8RI71copNfdqFvA0JL4LQpGyqicS8yDCdy/lggJYJMCLGhP3Th7saYEVP4TyvAvk3a2gHu3nrCuiZhb7dpkdZRDxhIUSIxtKGyiZXkQSIlHR+uXP0wJwtrNWB4VmAu4diqu7m2WLgpV5CL9epJmYtpN/0ysNNmntJZgZGS7Pn62OISkHqg3e5y84Ee0tW7qHvRB/ucMB7RD1pkE4ZqDrkqygFFiJdo77CviIxiijcpmy8dKdIQ3P/BvXajRIqCW7Llqry85v33t6BuPLOCsQYSPWrmBWQk/ub/SSV27LSc+/VQRCzUV0r7hn8TLTfylDIbSS9sWs3fzPiSz7j6otkZfZhEhixAAAAA==
 ---
 
 For Belgian Pride 2017, the city of Brussels was draped in rainbows for 15 days, with beautiful illuminations on iconic buildings in the city, including the famous Grand-Place.

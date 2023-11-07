@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - Africa
   - Afrique
@@ -68,13 +69,13 @@ geo:
   map: true
   country: Egypt
 colors:
-  vibrant: 230 171 110
+  vibrant: 230 171 109
   darkVibrant: 111 45 20
   lightVibrant: 250 200 137
-  muted: 165 126 92
+  muted: 156 127 107
   darkMuted: 48 34 29
-  lightMuted: 180 142 114
-lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAABwDQCdASpkAEoAP3Goylw0v6kmK/O8W/AuCWMAz6NT29CJKSMl0Fpk+1VCecvtODYZyZH8/LQGH+IIwjo+2bbWaG0JyMot8c52+CIkzOrYQbnmUOLoIuNM2QfnDl08PMx/eJjOjwO3YKC3QsOfMNoIsybKoAD+3obomPEAr2rYgaGhQQ4tGN9ieFh6qJoIncmQAPXdroqfM4ENatBI4VkklpdVtJyVzJYZbfzq0frgXVBknJqckDAJuaBuN5S7gls3uguX+JNGNVNm9Db5IVugeDPag89bt2dR4/B258mzWEtfMg10uneGuP4HlbB8dc1Z3URvsLSVuKQXSnuoJIvdsBGdCZeilrGwIJilO2tzPShfdT0ZjcUktzPhFBBro/NfKEjxKn/WTXpoAAA=
+  lightMuted: 188 149 118
+lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAACQDQCdASpkAEoAP3Goylw0v6ksK/O8W/AuCWMAz99T29CJKSMl0Fpk+1VCecvtODYZyoZRny0mvqKCpEZKXsXoljyP8K/YxLQkbrRTlBM4i3bRsXvBBsBT8HCsC9zrASA2AUSEqV9vc+OJEz20if6aKPOFHyAA/t6G6JjxALRq2IOh4UEOLSfHFYe2yYgHAjJE8YFY6y6Tbaw9paSb/RlwnA63vhmSzGN+XB+KspdAnaTAL7X11E1rXs7Ys8RGiZvyoU0SWNZyvJptj4LEQHOcMLYmFVQZGgbHZg8X/LnDzgrDyPNpgHwqoQNwgxgucYwGJkb5snwfop1m+N/S7COAgqPDedN+ScwZfEf7GKdN0WjDSuQx9745kCpSmIoQH+AKF5WcNo+ULKYAAAA=
 ---
 
 

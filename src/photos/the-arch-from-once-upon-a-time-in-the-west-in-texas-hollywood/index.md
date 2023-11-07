@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - Almería
   - Andalousie
@@ -65,12 +66,12 @@ geo:
   city: Tabernas
 colors:
   vibrant: 188 133 70
-  darkVibrant: 98 58 15
-  lightVibrant: 140 170 212
-  muted: 162 133 100
+  darkVibrant: 98 57 15
+  lightVibrant: 140 168 212
+  muted: 162 133 101
   darkMuted: 97 72 43
   lightMuted: 175 187 205
-lqip: data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAABwCgCdASpkAEoAP3Gsx100rTG5qvlayzAuCWMAzB9T24JapqYpfPkrmIgcIzCF9Nb74KvSCmqZAhwBrb6SyWa874eJQSJTRit+xdtwUldXklFJ/I1JZF8Y8lWpAAD+s9DlrlXq8yq5P0uiqDcPadoGQRWD3u8jLDD/VJFIu4AtNPIPQ2Ng/DYq+VzBfU7YmTVnXFUEPMDM7lpj6351NmsbbHVYsU7Hcsm3ytEQSstSTHHrMjRr/euYwapm82oAhNAP0k0fz8RQFvLEBJ+JfBelm09sPie7hFpM/INcy+pSkC/GkN6d79+QIdGRJ1t3OdjQqyKgIYIU3AYvk7OFXiiC6xJsM3oDnOZUddgisRSi91O6/uWzNpOAAAA=
+lqip: data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAADQCgCdASpkAEoAP3GsyF00rTIzKvlacpAuCWMAzNNT22FmtdnFIV5SFLmB4jaPrgQY8IJ+QmWMfxz+puy+TRYwrIa8dFz6PX0zFTLmiyKAbCSIFzvcl5fEmc9U1DYjGAD+oI2D/bKBPW+g+LjJ66Dmp17P7MHyoGCcbICebbXgQSyZUR98Hj9jOPl7C3WLat4VbWllvpJXID2Gazw0FoYGPzZvi63Z/fIWq9iyGaLdN60ssILO66aSSiCQ0FmguyToLeVKJJ+Ksmkjek9gMTx7WnYkxJ2n5dcp9rG8SYGbbmolSOP9QY7Ncjb9X78xAok/Ad0YuEnPUy2l71Yniz3BfJt9PNvNuxkQBrxCVTL/ypTaj7+dvCcDxv/gAA==
 ---
 
 This is the arch under which "Franck" (Henri Fonda) hangs "Harmonica" (Charles Bronson) 's brother in the great Sergio Leone movie  "Once Upon A Time In The West".

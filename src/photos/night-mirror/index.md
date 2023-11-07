@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - city
   - urbain
@@ -49,12 +51,12 @@ geo:
   city: Bordeaux
 colors:
   vibrant: 228 104 52
-  darkVibrant: 151 70 16
-  lightVibrant: 251 213 87
+  darkVibrant: 149 69 16
+  lightVibrant: 251 213 88
   muted: 155 133 104
   darkMuted: 81 62 39
-  lightMuted: 167 208 165
-lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAADwDACdASpkAEMAP3Gkylo0rCklLrv5spAuCWUAzuxI5/ALW+8eRxJhaBUA8nHBPd1AvxBpKGuV09Hn1JWsCSwS71bcYOYgBHHsmNCeUoKAjM5L+QmozG8tix2dtyWuSv3JIsYOVwV79m3V9J1I7xCwAP7ucQ8Xzwk7JG4AXcNXvaRHBi81TRUj963xiHP7uivOYyu4fBfbPzmhjLxK3rKXl1BAz5iFCnOTt/ERgh2UV1GvM43Jo3Vd3wO1Z8c+V93/CbRAS5u6nIMpOF2fhpYlOMCFyJ68VDdhEbHeTxgEjmDy7OUlwwfmeoKdMbG950AdUL2LPoA2jTBDBRUMVJqw5tiEQuTDWijF81OiiEBpMfwLbib0aulJoLcblINTjkRO6gEm6SA4A5FfM4lTlvX2T4H9fvYZIc7PDvKs/ecLajQ0AAA=
+  lightMuted: 167 209 166
+lqip: data:image/webp;base64,UklGRkwBAABXRUJQVlA4IEABAAAQDQCdASpkAEMAP3Giylo0rCklLrv5spAuCWUAzyhI5/ALW+8eRxJhaBUA8nHBPd1AvxBpKGuV09Hn1JWsCSwS71bcYOYgBHHsmNCeUoKAjM5L+QmozG8tiENK/nzLqT3dPCaGjpxnSsM8mk/PJScGeAD+7nEPF90KmSqYAHGzaCYCtABb3T/UDdMe+6WDPvV7Xuoj0NRDRZmkG1EPAOPPKX9AgO0UBkBunx2H6+ODOeeJtd8RV1MXXL1E8Wtz24Q7F4L0jqMgxXc30qXqsYaWJTrAhcievFQ3YRGx3k8YBI5g8uz0pJc/wn79LI8EVnM4zOPIHCv6YAGsEZfpiGVoZbkEJ0vRmiv9/E+kHHAniqZHFIiY2Gh6RFzdAUP1ws9ZDt97DARrllVHCmC0IaSI8srf2hsDbTTpmqiZMAAAAA==
 ---
 
 The water mirror is one of the attractions of the beautiful city of Bordeaux. It is located on the quays of the Garonne, opposite the Place de la Bourse.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
+      short: Canon 17-85mm
 tags:
   - bateau
   - boat
@@ -63,7 +65,7 @@ colors:
   muted: 155 134 100
   darkMuted: 101 74 54
   lightMuted: 155 175 191
-lqip: data:image/webp;base64,UklGRgYCAABXRUJQVlA4IPoBAACwEQCdASpkAEMAP3Goylo0rL+lK/J9c/AuCWQAxcDDgs4l4RqEsaBNTX88Q/eTLX0tZmaglcPsKUJn4l8XNqwNP2MPu48diTnU4YwFyVJTJXBtxgitgzpre5ekJfEF1ogmJE5N0FnrY88ZO5UKFRcJvo7sJ1HdJ1i2mJJBcTztvIpTLFjEKJU9qfcTI+RfeLAGkOgkBGgAyJqXswh5rL2DDqtUYXUfC2AejoKojSueBFpSVZpEyhoo48QKFxNhbJtRHplU2ebuZQ1bZeK6TDozz1TWmemr1Kk6f6Y7NrtNlSK6NB/Yf+Sna/rCsgV2FBJ7F1DjIu7qNyfmMjPUeZIfG184KFp23Snbklo4fFDKYcfcpaSsqMYQ3u37hOHbPSQHvOL+kFwdd4D6mhBIhHRB2prM+5VWQoQJWUEgcLAgkwt4C5hsNomfEjrI25gkY3bn9SYlP0WbvXOuZ0RmlGhuiJKdGE7J7T/c4d/gVEo5e0QS+Obwgf9VsOG7OC1E2whVlUnTTddPLleJmhaaqi9AJCrTfF+3PqcO5v06moz7owSwtww4hye190ztrj9m6JCAqIcVsTecWEwsfA8dkKRMHxVQpd5vJSXKE/ZyvemsPfN5uDIeFInPZqdY7dCu1VgFgQ6xDKNBsI5SoVhmYn/AcVwnAeipcwAAAA==
+lqip: data:image/webp;base64,UklGRgICAABXRUJQVlA4IPYBAACQEQCdASpkAEMAP3Goylo0rL+lK/J9c/AuCWQAxGAcrZglyJ50KMbDJv2I31oXgdppnJo10eeqjzHj/VZQvxr5HsI/qIF8us84j+YLlclLRwjrn9svKhzwwhNOnuWttGdXsFxqaLZ31FCbi2NottRk2jmhDh7EsitjOg339kEz1jmnPVcwxXKoOdssWcrcV4FlAkBGgADImpezCHmsvYMOq1RhdR8Lcmq+fJVX2mj2P+UIDh24QLzZdDAJ+Eayx/MUtu7gceV8UXdZXAQvnyc8q0y2gYaS0EBZg5vrLhKbuLsQV7fhYX0JWEYagnb+WLK/JCBlnusplpJ35o8jFNA1/dF2FuKhe4OMo9+Tq4XYGT4Ql6W43OuBosy4Rzr0avu1ivdwdS4Ou8L1fvLCIHY5o3s5yny45YFZy1zz3c91JRNvmYbDaJ4guBzYThKb9QOkg9F0h1GQn3HA2QqMgJYP0y6KPznn3+5w7/AqJRy9ogl8c3aXe9PcmF25qBdeVT2juKWv9yQZiaOw6I1JBrsnDtwSQoECmB7VEJR6R5goQ4v7eyJ/20fHYYiIwPhRCS8mgBW+maiHTrJC+wXT7+Ui0DU3m8lJcoT9jkBbOYjijLM8mq6I1oEZwiLfXLZ3uTnhcaDqK+4w7FTC+sRFJlvXoOlk4AAA
 ---
 
 In the end, it is not difficult to find quiet areas in Venice, in the alleys/canals far from the main ones, overflowing with tourists.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Europa
   - Europe
@@ -64,7 +66,7 @@ colors:
   muted: 168 118 88
   darkMuted: 94 62 49
   lightMuted: 152 164 188
-lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAADQDACdASpkAEMAP3Gsxlm/rr+vq/xMW/AuCUDOAZXIrAqfL2LT9gmukJzYiNskFtyzBVWkrQBFSh0qO9aq95JVbTouw/Fs3RI/xBuAL6YwqsDZWGlFYejJYuUeCpqDlwq1Ujo48nwdAS01l4ry8AAA/ufBYg6lp3jwueYmHaTq2rdjvu+8kvMAjtEHKy9Thywb2m74+XmyW45nO/vE6TlkI0RZEL+8jIfRAqAvLyIYxHWMmYpsTMSpj4mrydlapTQ1eteWD4JMioIMblaRLQYDl2WKtITIQlOw+uN29gWhU3j5PbpDIqXUfr/cGrbuHaRjaYHlk5Qplwxgr82LmSgYSRgvVp2SgUI58az/ucHAhO04pkOTZBrSsbvEGzq2sSDaes5Fqa96U5LBLTQBnT1it833FVIagKjouwqJF/IQ7h/AkYF5sZcJnstzXOxm8QJFseZLUiUoJvrBFC2GNwAA
+lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAABwDACdASpkAEMAP3Gqxlm/rj+vq/xMW/AuCUDPU5XIrwkBDCzh7f4Dpg2WnzacKeaLJL2j9FBQ04++5eV3IWvi6I7uYJF9aCuvb/FnWGSkQon+OnuEophNdkdAHUFwiOrURXbP5LhNXK7xVAAA/ufBYvkR0SFyDypWI0wFcdyx/xxdLDiv+hScAXUeMXUGYoANfpPtb/TLRVWx0u3/6ymOrcT4t0Vu8/c80ERpMEgSwRlyAowL3xT5zF75jN8md3UWgriVm8tkHmV7yPR2svvpdFsZEo6s3Eou0LXnomfdeKhDGNrN+jJvqbFRdH2Vmi2141GJIqX2jPCfCBIuPkOHsiZICAjDnxrP/m0Wmlsnm/+IshBRrdqzJ9feqlEkNi/t1QoaD3RiSQH/8pf4l5o7NcUHttl4cfYPkpCIU5BApgy5Rn9J2ZnR7Yt3GbMr4+PyfWmL0czp21JjCkVgAAAA
 ---
 
 Super aperitif / shooting improvised by Thanh and Pierre with some others during my brief passage in Lyon.

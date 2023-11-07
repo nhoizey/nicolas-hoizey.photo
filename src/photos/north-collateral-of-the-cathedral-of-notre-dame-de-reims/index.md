@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - arcade
   - cathédrale
@@ -59,13 +61,13 @@ geo:
   country: France
   city: Reims
 colors:
-  vibrant: 203 135 57
-  darkVibrant: 97 35 17
-  lightVibrant: 113 162 219
-  muted: 108 148 76
-  darkMuted: 68 54 46
-  lightMuted: 175 173 178
-lqip: data:image/webp;base64,UklGRmgCAABXRUJQVlA4IFwCAABQGQCdASpkAJYAP3Goy100v70zLVPqi/AuCWdtGTA7geKnt2KHvd8CVriMgmMm+QHb/0SuK+Xn99jXg4T14Grk09vS925/wyZhBCJRrS15p9GOVpyVmQn4qNkks/XJMfQWpZtikERP0yhQHAog1nPtuGtVNDMeYraz9Okt1Z1Hdb96353/ZjwZElMQ+RaOUmOtMVVf331Ao5+oYDIElPaeKVmIjesEN7IBtM/+dSubPR6ZwcdyHg1M3Gv4pFaxHBPrrGuCd5KOjCITbGtOFdPnaAmAAP7vXBXVa2B4J3kHT4SzqmV4IMnzmQnAz730BfQQHBiAvf4F8hcQoOWtMV742hcb98h/96KE69+rM2x0BI09SNxDfstwHlMSovoksY5XzsbOdQPrsM2G0MbDl0sq7ewc8tS1bx64kTLwaTeHTAWTDsMdOIyIN5agAyD7Q4agmQ43Fhwzl0RdInqHsfN3jilV33fxVneOlQ/XZd3AEvZyD+kTNgkr3iK9M5pvzel9vOWMA//Ha4jpZURokZYCbcmJ7I8bYLPVPwR6Kxb2OPy+uW0hgNpRzubIFusAuXlSr6cfIZ9MxVivq+493wvAcaP82LteZyVRHwCL8gZ2DttW4fvNZ4FCJ5RgheRYvE/E5rGBDmPcS1kwAJzswaMsv81yB0ZT9b4wO191yXJOieorWDclCsHsczJEH09987NzkvRrHKWHy0iRL6nqT7S/N5H1XMF8aW0UCW6+sfDKpWMLg8YQxvD1b/VsoOxBaHaa/DNQZJhYRm8U+iwuAuLIOU83c0cqLbkaoAAA
+  vibrant: 205 135 56
+  darkVibrant: 97 35 18
+  lightVibrant: 204 213 233
+  muted: 114 117 152
+  darkMuted: 66 49 42
+  lightMuted: 181 180 184
+lqip: data:image/webp;base64,UklGRmQCAABXRUJQVlA4IFgCAADQGACdASpkAJYAP3GqzFy0rL2yq/Ra67AuCWdtu/vcs3AXQbYONGO7vO3r59u8ovWobZQRFYy5aZbMhmkXVjTFh/LCFPooY3JJW/TcWloTPSCDzdT19BAZVUaRzHfd1LIpVPKd4xnV+MwNQH06OZXqyaLpw3mlcon5QUQsgzyz07LLwLywMf6nTY6OGDZzVxkMhI0tjVFowC0UfyTYaXrE4ta2jcvCUsT/MfWqHPHpyPsB5zjs56BBgTeDACr/HAaa11SH3Ho6vfaL2PLj4gAA/u80eYvidY5RUxfN2mPCkne19T5OJUXLXnO2Gg+OlwAD/z7sKLiOFV/UCb+kLTZtp93SLpImOQw1AlC0oHSoHGyvVRGvQJE6zFBqodgOvCp4D1KWb+RBLKmpiUVFajPRJQS+NyOVwif8qnu/aJjLgLZ9eGC7w4zE3hxTFiu/5CASPsWAyd+is5yMLoPIDbHe3fBLXCb/BlDWu0AahIl0d9TEEQH/hXJXgj68OhYF0+i+gAUFK0rULxv2INZ9m4x1ZsEyXFJb4PYttQMmwyJngngGJ2Q5pNncOQIWQnbBiMMeUqevJF7jpjn131qKH2CPHUu/oV8EdFywaSHVEZ5Ky193h/11sG+gIasceTfO/4Q4CqbYL39PfgEXmwAnO0Hpg9SohU7xDgWWBVh5VUHXbYfNPwMBB5miLxZTJPEMk2qqOt5sBbsLHPXujOy6LlKju9RNmtC+cWApCT68oXkYNR+NxQHCR/R3SgCKqz6W4jULMObDq/j2MbUVdvh0zYs/j6WquW8gAAA=
 ---
 
 

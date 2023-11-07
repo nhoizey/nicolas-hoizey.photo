@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Africa
   - Afrique
@@ -78,10 +81,10 @@ colors:
   vibrant: 143 117 112
   darkVibrant: 74 61 58
   lightVibrant: 197 183 181
-  muted: 141 130 122
+  muted: 132 124 112
   darkMuted: 79 86 58
   lightMuted: 177 159 155
-lqip: data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAACwCQCdASpkAEMAP3GixFo/v6gwL5eLG/AuCWcA0jsatzpIBiVJr6IbrummxZARuUAs/7Dzy79Wd0mbdH/FM11n2CflrN0enUDfeakFvxynBmPxf+nkQAD+5k7OQXOT7XntxqhpLZny8csDNOL6UZChrCKmpkG6TDjbYGLH4qJjGU1s/pVk+6qdajJ0/5WlLSLXqaZfVGrBRduv6wRxCgcdvfjTr5hUsj9hvehC8Gxwgz0R11R7nxV8KG93VNQH5KqMqa+0hjXY1cnCtU18yQpyfFWJTTck8zwb1HHxVUUpgbrjKAStGOddhgCnocNcg1Ct4oIC+QgAAA==
+lqip: data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAQCQCdASpkAEMAP3Giw1m/rDAvrrn8M/AuCWdt6bAOEeQQEnVC0IyD1RL1zEYXke31ANlwJRTkSdGia1G5U4tg7EY5oMpHm2FIfqTcuwUJi6QA/uZOzj0EwKqPOqhhzR35wirnVXSufNU9GYy7Gv0yjSZLm8xNQZO5n5+tbQNupgfdRtTlbg8mNrX6RUS4tGPuFZnLFXQ1vvtClL5HjOT46RYt5RTPSDcyiTVeQpGLHH/aW1It3XFHM/zoNKGJdoP4VAsgZqx6g3VzEZsrAVgO9cSmcxH+UzZJSCMSgOiey9hveZnOwLMuJq3Wo7ySrNOuhKnLIAA=
 ---
 
 Female lions are the pride's primary hunters and leaders. They often work together to prey upon antelopes, zebras, wildebeest, and other large animals of the open grasslands. Many of these animals are faster than lions, so teamwork pays off.

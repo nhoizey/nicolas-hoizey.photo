@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
+      short: Canon 17-85mm
 tags:
   - bateau
   - boat

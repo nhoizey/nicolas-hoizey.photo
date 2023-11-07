@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - ancien
   - bar
@@ -65,10 +67,10 @@ colors:
   vibrant: 184 129 91
   darkVibrant: 100 52 12
   lightVibrant: 215 184 162
-  muted: 148 132 104
+  muted: 148 132 100
   darkMuted: 89 63 45
   lightMuted: 107 71 46
-lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAABwDACdASpkAEMAP2WoulizNzMqMljNUuAsiWMAzFgTTDz4IRKMmlYdTh4hPUEhAEX7rLcM04GJN9DEY5OYcHpquuO6XxKkCXwNq4g4cQLf2BhIz8GIiKYukFzB4Ojr9wtEibhq+5tONdbLToAA/nS2kxRpj1OQ9vzDF5xA/5h6G8PXHZKmGKD7V2MRHkWOGS2oHUUhWZDy/itZqUwHJHQ9hI5UmdhACKyxjPca30se1vIEKtMwdgSSH4vtRlRU9YNQzN+eITEdBKRJNgmIsxB+os+OGyzMlj9+76N7iwYJbhzEGyDSuffo2DF9a1yKIYUTHp64EPQQhQBVp730f+v1uPv97ePQiw8RkwEX9K54zuvgv0QBw1tbrcWXLwWGleaLoMwSFo919EHS968GkKAWgi6BWWN4yj4PNfnSTKdszIwSPRsgdYMVjH9GnrdUvuYdSiGtFAA=
+lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAACwCwCdASpkAEMAP2mou1iztzOqMljMQuAtCWMAy6yPZqhH+ZBuY4DKbcotM3DMOGbwssrVwVDICOp+kYxn/5PA5p27Fax8NhaQmMUlDyhPr/6lR6GUgJ2DdQeYeC1QhetqNx1CWOAA/eltAYmlkJrjEqBe2odkGqeYim0wld3iDssWeJZtUv1jR4cVI6m9OlB8yYTNe0SpVcaTrCIufx2ePeVQ9xsMi02Fe8kTZVlyNNl1Wrk+VS4LNjeA54dephDOeb0PAMjZpa37BEr8ixOy30zmJ7v71DrAzRb3sVDIYshw9B61yAXYme4fiWDYB0Kn4eL2Hc6aokR9GRhUlTBMhe3i/PfWDQd7nMpmqFXR6WsDBCV23YyyDT2k7/mROhNM92w7wMciOTD6GGVIVdZFqi2QjsASWPZa0TT2ojGIv4uMuMwcUzCX4NnZiBq28t0poZ9Q97WFCxAAdABVYAAA
 ---
 
 This café-brewery has a very nice decoration with old woodwork and vintage furniture.

@@ -11,6 +11,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - Arnhem
   - bateau
@@ -67,12 +68,12 @@ geo:
   city: Arnhem
 colors:
   vibrant: 44 132 172
-  darkVibrant: 22 28 67
+  darkVibrant: 122 136 42
   lightVibrant: 195 124 149
   muted: 98 147 181
   darkMuted: 64 86 52
-  lightMuted: 192 182 150
-lqip: data:image/webp;base64,UklGRlICAABXRUJQVlA4IEYCAAAQFACdASpkAEMAP02UvFiwqyajt7nfGhApiWIAxuzukMNe1DFJCxvfFGx+BTTCal7B8PoeJCuhczz3uB4qX5qLbasWFYN6+DYHRtYtgB/TfTuNL2Drh7cUOgObLXmdsFoBoiGbZuqngloZpFZvQXPpJcEkWJdwx+GYSEPR+Vu9kJQOkadFg33T+w++hbzV5EwASYr3AZhHfD3uqwUog3wtg+eer/3vZsGAAP50Hqa6CkRE5sNKHE4zwYaz58nFz9bRXVrzcp+Ab4amMBNlaZZyUWrJSk8YQhsjQdosoYB9nlwDoHjZuYqchgWKhefUmimHBGpiNZrqJnZZj4K7KQd4nql12WNdrx5Z+fSJNrb+p3YuZuRsh/BYLktwYGbIqQD5Z5sbNSU/VFkUE60U/NEE7+C+U5uuUnSZfySLA2okORD80lM6D3yGTwiI63GlJyldr81Gq80UrgCj34ISClV2JdN/uuOzQs4SviTbxAjVhcqL8Tz9ABDCw20Mg3GIfFziGf+V+bVpNl5hpTuKwqhZp7X8ejY5JAcw/B+yG6cF5Gg1PPVW81VKM1Dq00FSFucUX3AtPurP6CNYnHE4FlyaXRtd1HiEuMqh48WW4uPJaDaIEeu4nStxqnfQGQ0ezJqPjxIRPhAxvIXNmO1DR1AwmBHz7egrmZAUcw53hRqCsKrQthX5g5suQMQ0XqyXjhoP0gMeuNYkdBc9dUWjUeKXEN4X4LBPspcgbGLg0ca6HFAH2c6RO8eWcsCSJJgAXljtxoyAAAA=
+  lightMuted: 146 181 186
+lqip: data:image/webp;base64,UklGRkwCAABXRUJQVlA4IEACAACQEwCdASpkAEMAP02WvViwq6ajt7k/GhApiWInABSPOTfJQMppl/ivo/fE1Ivpjw8KL0S5zpfF+8unjARCmowMMIQc5qMHRpXKt8w634+F2iC6UdCojaIom7iAitXUdzu7rbN1U5D2v098MRYMO+yoX1pHyPD4b3xpu0Qf5W7adJNPDPmCbxG6R7Lk7QVH17o9K8AWpp9y+0T/wgJWpfYFjh9nVlAA/nQndhtblI50qqDK0P3l9rPnxDTLSqHCMtxNmhSlFfyeZ3z1Vc95vRkzkhdB8mv85r5KUfalb5yYSmksYYwjhH76hhXb7sYqrd/IvTAXZ2kA/SGhi7SYnOFdaFEjN/IYPpPP8f1EZokcNGV5Ew86FsTaysGejz7CFp2H1SYD8NgoXTWX4hn1k6RDewaneWXZnDW5YJlr3oWyXcLdgjd4knA0NBFVah+Uppc2S78AkXWkAvTswJcoUNc2dgp5VQp33BZvrVF1oQTTs2aQgGJwbmCizVU78/GbN/zK7Fx6ZJdUuvOvJPLBBvLg9vJkZQRyBuw3oEP/5zKU+nw+qWoHXR7qTzmIK7tEa6S3AnJmvUlvH+X+pgYAANehE/xtLHw4IU4ftrKODiO5AzA78AmCq1BxcZ0zwyHby2TAU0U3iShRDU4SIz9wWLsELe0iz4laMYZBvLsDNHFyv9LJwlue1logbsXRVoClDrxSBQFzLdbDObOF/CHTvwS7sfjZBZgrudEj9CInMROYicjEXaKjzdFFliak7ItAAAA=
 ---
 
 The Netherlands Open Air Museum (Openlucht Museum in dutch) is an open-air museum and park (44 hectares) located near Arnhem, with antique houses, farms and factories from different parts of the Netherlands. It focuses on the culture associated with the everyday lives of ordinary people.

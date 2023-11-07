@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - Africa
   - Afrique
@@ -64,13 +65,13 @@ geo:
   country: Egypt
   city: Al Qusir
 colors:
-  vibrant: 180 116 60
+  vibrant: 180 120 60
   darkVibrant: 98 57 15
   lightVibrant: 236 212 203
   muted: 136 95 68
   darkMuted: 130 89 60
   lightMuted: 204 188 172
-lqip: data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwCQCdASpkAEoAP3GuyVu0uLKlrNN7axAuCWcA1BQpASL2qJ8dY7URoUkGYQSrAhMZTVtQ21wzErxsfw36JsCkFQsuyaxEInbdnB2i4JFv9MOAAP7jZkZxmwxYGJQw61IG+mPPblmtVgv7XikFxHW9qS1wR+hnSE9zzsGyQvgjacPcJnEtZ4e565m4ka1B21hO3n4UIdhgdHaKhOETw6Fwp+NzUO50Ov+s6SBVyfRfTLClrVBwX6UXFLg6FXSm9/Wfd8SjW6Ye+rYg7mZ0pVdqbutuBvEogAA=
+lqip: data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAACwCgCdASpkAEoAP3GuyFo0uLIlLNgLaxAuCWcA0YNT2lebGXP7tLpqHawvhE8iOCjwMXugggc2najAUCh8ONslQ1T5QAHf7YF09ysVlEcyf3SAKB9eUIdj3oMqdOMAAP7juwedruNz8uDuKgVVIJS/PGgNAiAJM7LaFuJJ2O/qwqGAvTI6wvxaExwJkipzCUTe0GZan6+4/7lH8lm1n2zUIkni3u1i4WN3ZVfB007bQml0DnhsNV3q9qV9mQULJaPWmEF+rOYXBZ7pAYRYJL0go0sPF5eaWVTEC42TsHeC1CNTB8m3sy7go7PI+EEunqIoAAAA
 ---
 
 Itbāy (Arabic: اطبيه‎) or ʿAtbāy is a region of southeastern Egypt and northeastern Sudan. It is characterised by a chain of mountains, the Red Sea Hills, running north–south and parallel with the Red Sea. The hills separate the narrow coastal plain from the Eastern Desert.

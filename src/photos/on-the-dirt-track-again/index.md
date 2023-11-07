@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - 4x4
   - Africa
@@ -63,13 +65,13 @@ geo:
   country: Kenya
   city: Kwale
 colors:
-  vibrant: 197 108 68
+  vibrant: 198 108 68
   darkVibrant: 79 76 18
   lightVibrant: 236 148 113
   muted: 163 116 91
   darkMuted: 89 83 60
   lightMuted: 175 192 209
-lqip: data:image/webp;base64,UklGRqIBAABXRUJQVlA4IJYBAADQDQCdASpkAEMAP22iyFi0rKiqMVQ8epAtiU2jOQH4GEdjvLmagSLmYoPlZqL9q01YJtuJgco+V9AhkjR8PTu+I3fg9O1ja2DMn4F8I1mMQIhU17gFHdXVQphY+9OXuMfY0Y5P9Gpb/6nzJsuTj4xYPpKuNZuSAAD3HxhN0dv9rN7439lGXDHD+5pcBRbQ0F/po8QmaCF6kUkaK6IMPRA/m1XQ6+xyZZvqXpBKfTe2J4fT5Trpj31YAcz6WC5zPfjG2tHYg653REbpbMJOFkxcR8TuUQjgNyPFYn26dwTJ6fpjJtHNdJyWzfGylN4yaVwjHb2HYqWfYGzZOzX1H3WFnhKbT4pVNIaU2qL2kh01ew8QSjQO40mAGcGkHmj1OT2WExNIHiaJs/9KHYTvksiSJnJms7h/yOMTJp4fASWncPGoZZTriqNNJbqbm/k0mZpX+aQJJ2cR3poH4yWBPjJf/utN+zK4Xn7qTU0RYWacElQ2GEkveq+lyslNcUxdFa96JnkuUoDM6Dunmiu80FnKq89AIAAA
+lqip: data:image/webp;base64,UklGRp4BAABXRUJQVlA4IJIBAADwDQCdASpkAEMAP22iyFi0rKiqMVUcepAtiU2iyxsjzK6QYCN2S5m7XQ/W05qIYqgtarc2IPoyLi/4AWi9ueGo/NKfH9zYdpKL/mjEU4mIIiFHybXWeesNTSjgxC4vRy9xjEEJN28vy+VQLWQT/Q6zt5dR2ZoF7UAA9x8YTlrvqDbrYNGlr1iQLQp0eQudgh9eJFOXylMwMirtw4Nd3CacxDQA4OauCFzw7Pi6s/Ho0AX+vNr41elwtdHqzQcTuEucvF9cxjPGkRzsb2qt1ih1jop59U+XvhorTUa5JoFk9Ao8lSUjKN9GIa3FPc8Fq9YCpk1E5LsOdk6i1RQz+htRyu8zEpqV0YS+jT/NJL4xRvm67XoO6kXy15Sp/LMS21JyZQQk6D1hNn4f2evnG3pqAGAGj9+AkunbSmFIFz+g6AmUyv528MIBOR8LJKktjg6Qhz/tA2d7g82o4KHtcubRSk0T2ixKJznfpzXJhPizXdKJjphxDjBPFFjRpgUG2KYm+1Og7p5pY8MAcGxcC0NpIAA=
 ---
 
 We spent many hours in the all-terrain vehicle on dirt tracks like this.

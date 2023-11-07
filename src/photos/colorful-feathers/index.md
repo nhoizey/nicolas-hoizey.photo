@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF 70-300mm f/4-5.6 IS USM
+      short: Canon 70-300mm
 tags:
   - dierenpark
   - Europa
@@ -56,11 +58,11 @@ geo:
 colors:
   vibrant: 233 164 9
   darkVibrant: 131 23 4
-  lightVibrant: 232 153 52
+  lightVibrant: 232 154 52
   muted: 150 117 86
   darkMuted: 56 66 80
-  lightMuted: 137 84 16
-lqip: data:image/webp;base64,UklGRqoBAABXRUJQVlA4IJ4BAABwDACdASpkAEMAP3Gkxlk0rD+vrrQNc/AuCWgAwRCgz88NOX9/pgxr3aunH4Y0fym9oSTCf1mcH6DPg5TzMjzF4g3CaRFJ/0/ysne+c98OdauyJm5Qgj81GeLhN2ukOGDhTnx5bIKBr0knCzQA/uqNk5x18uoq2VugsyyKDecXMbZri124BQ4OgITM+2+GCTZcjiUIHU8SZkYvqIcuWVanBJZWM/wXmtHgbFTcmlq39XBELw0nqVjwbVAXUp7QAXtom2ZST5pk7wCZP8IZu9GMoXnShOOkoU6shXCH5PHdvghaNSUvcshhSha6fYjkG+ni6Fg52W4fvwcbcQUAGbg69Ytiqbc3IHp79PKMyCzlrUJgxAPQNgDXWbgBvTbf6EeS13N/K/aprLDmVnGfgMBGnAUfEdGEiKLOHVPiNtDuu5evR6+Im4QMCtsHD52hYn9wrnNNC9Oo2ptRXXSM2TuP8bisLU8d6yubYm2obGqbFzwvFth8Qe0MiYzKjT4bZi1VzH47YmggLo5Loy/9j/IU/6vy1OUlHlAj+r4AAAA=
+  lightMuted: 137 85 16
+lqip: data:image/webp;base64,UklGRqoBAABXRUJQVlA4IJ4BAABwDgCdASpkAEMAP3GkxVi0v7mvL5S9U/AuCWgAvkCKVMPqITym66+IGkIrQ1yDoa7k9Ij3NyJucCedDs85tW19WnsHDSfL8/rQSSqOJFht1M5dtvjYos4ncW7EPNYdh+HQX8qse1DmbyjLF/aBqxnd2tfKdbtiMFIRzOgAAP7q+A0t9RLqNHrpND3binnWqKID5WWibjtvxgITPrrDVzQGe0CzTepeu98B3HJVCkZ4FTn8mwiX/tzct8dZYkf2G6ozB1nugMcRuoWwaUqyb05spkDmumSHTU/1ZvPPBTQauIrdbR/QlPuVxuQwyBxqSSAv6JjHHZADAisZM4wXhsnTrG12JPhtpOpmS/CDLcD6MZiY/2Uxu2VR5fbXGr+PgnKOEFfj2w+xEEmm3+/SgWYr34OdxrScrip15suPA4ngYnn03EAagh1rMkH3xOyJxMvwmT/x7RxfX+Gef2zgj0+p23SG47OvCdMecqVof5S6Ndy5q+ZpAOkJtvvU0f9Mqnt/wc4aMeq/rMIw2V4C02R1DqQlSQZj/1WKx2OCAAA=
 ---
 
 The feathers of the Ara form a wonderfully colorful patchwork.

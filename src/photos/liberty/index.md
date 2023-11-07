@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - America
   - Amérique du Nord
@@ -63,12 +65,12 @@ geo:
   city: New York City
 colors:
   vibrant: 238 196 84
-  darkVibrant: 19 51 92
+  darkVibrant: 20 51 92
   lightVibrant: 217 180 111
   muted: 90 118 152
   darkMuted: 84 49 62
   lightMuted: 213 193 181
-lqip: data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAADQCACdASpkAEMAP2mev1i6q7WjsH47w1AtCWUG+Bsepj82MA9tw40aNPcDZinTtEnr0NoPHo8/iz7HxkmAWbrfg0xfPmyhB2tXLSw1TE+AAP7NPfapRV7aRxjbnjx7EpqCKALptdO2ils5cYWxmAGrW8/idbwB3pLKRNuG1Mt0uwTTXYIX0fFpTgadS3ykfGUFyoe5mqvfQdeKkxjVt9G3fWqb4e5rjLX5Vz+G4ZVFPdS+ClQa0kYSMytS/v2Cidi4QcX9xLspdw2cTL0vpKfHOAc7i+7Qf5Ds3mEs/9cxI+SzhtFBbO/dMYczOoAA
+lqip: data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAADQCACdASpkAEMAP2mev1i6q7WjsH47w1AtCWUG+Bsu5j82MJ680kuwxvUtIIhtNmFUEaJoxrWzm0g/NcucuYDSj0s0sxHscobhfn3y+Z4AAP7NPixOxV7aRxjbtzx7KpqCKTjw5VqkEUTCOp7nPfYugakLQRKVq4sYIv+JRqC2vfbYKKXzI8RaXlIbrdRDwLIWCgN1bnTcWHipMZnCLsxpdKYuu6oA99XhZZfJX3vUPrx8oYYMdYOxgYbE7NxfgonYuEHF/c5BG3cNnE1YD6Snx+PNcw/OOiYQ+JtEnCluEdNQShvlSsT4/t7zcAAA
 ---
 
 The Statue of Liberty, in addition to being a very important monument of New York City, has become one of the symbols of the United States and represents more generally freedom and emancipation from oppression.

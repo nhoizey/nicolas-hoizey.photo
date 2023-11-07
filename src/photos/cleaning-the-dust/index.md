@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -58,11 +60,11 @@ geo:
 colors:
   vibrant: 11 88 170
   darkVibrant: 29 64 108
-  lightVibrant: 224 163 137
-  muted: 147 116 91
+  lightVibrant: 224 163 138
+  muted: 148 116 91
   darkMuted: 45 53 72
   lightMuted: 194 210 228
-lqip: data:image/webp;base64,UklGRvwBAABXRUJQVlA4IPABAABwEQCdASpkAEMAP22kxVi0rKivMVUcApAtiUAZeLtoy+b9C1SwuKKTVch48XFFA0aEJaVG3GOk5K2dGJktEXk5byzs+LktSXTmcY0jdo8sBH+H2CWx4d0tO6tXPFJOxfB7XnJxI9ZnORtmoADWm/QfaCE6RKgkPJDPBD0tTJi2re8XEgDrhJOzkhc8OD1cOo2NMhxgAP3MXzC5RFxrw3xcXY1nqgteLT0QL2cDFEz5M3Q3Qob3QzX+7G/Dl5G2P45bQ4+No6A5CCpDi8+YsEOrDIjobupMZRCrUj6alb5ZQendCtM+09LIbz3csnNKgXzxlV0XGZ3JvzPNcH1cojxFRLASIUMmNW37py8wy5M1Ph0DsjASvuxcNwOY8S2lK51HXpoSQvv7TUPDBYEP96SsvQECFoqvb1E5etMwVbMPG9ruNUPpdIBnyvy17qqwEZ9K5+/1vWyZ7QEj7rzH6D1ZOtlMHvqcp+p+KDAimB0AQgPhHwwD2dzHIORVn1J9efmmue5gdMLg+1n8zEWv4LhmX56ekGGnpujHkcljlLiXd0ttOKqbcz6J3Zrmn4Tqe+wqzwMdqltDEuOhrqQUQWpyvF7g7jZIvhJ3IvP/Dn9/pfCa8rJycmo0CPjEPNJxXzg2sUFpEDU6Zlqc5k6nysAA
+lqip: data:image/webp;base64,UklGRv4BAABXRUJQVlA4IPIBAABQEACdASpkAEMAP3Gmxli0rSivMVQ8ApAuCU1/y1uq9dUiacjUVZHxZ/x5O7rIqKqeoW1cdwaYRGTj2om+qDNuM1SJSJBtoc+zKwwJW0rNE7v6Z55QH5P5wT5x24Qydbj78rctnFtVeuZCsAo0T3mfdh5RDS/1PpUgndFNvZYfqr23bRYyHaxEXbOAAPxchhUgFSMsr03BwjOl2+qC11/qRwyqT3lKFhk1GUCBQ3u3IiFW527pZdu/OQ++sjFuwldqiKA7gD5bpOaHG7mUV3IGf+SVoxZpS0JNzVcvbmzALaxnIqjcxsWoBcJiMGsNIQvHD7yrea8Vzz1AkqjIDBBZCdPEQifoqOTVM1dVnZO6CCHyXlSEm1lGmeR4/UVgqKRf7NWE7bdpA4rT/WpPQqCwXFd/8hicMAE77b5/iplfYMLBZVk8Yk/isV6mGZTniw4Knaju8Ypd9XDQ5XLGWyn6kf1uVWOoBXHFkyksSQvC6opRp7CZllnSWU52W3gREz//1rDfuPjaacUSgmMc3LWSrGorsjmbu54VC/NcRWTsXHU9z1M3vSjN9VXcew8Z4tPSMp7YQ23/a16o7bzW7wfSX7NpmVVY2anrGqgqPCTM01BPNP+t2DhzZo6i2rsYBraLuBB4d4T8GtYy4NVMfVYAAAA=
 ---
 
 Dust is omnipresent in Kenya, and Kenyans take great care of their motorcycles, the main means of transportation at their disposal.

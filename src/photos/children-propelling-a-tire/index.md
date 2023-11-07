@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -59,11 +61,11 @@ geo:
 colors:
   vibrant: 179 93 108
   darkVibrant: 28 70 104
-  lightVibrant: 190 208 226
+  lightVibrant: 189 208 226
   muted: 129 118 111
-  darkMuted: 51 66 86
+  darkMuted: 52 66 86
   lightMuted: 168 193 213
-lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAAAQDACdASpkAEMAP12cuFi/tKUjtfn8W/AriWVsiluk89gikqiaxLNCp6k6Xu8SvJsnj7hNDF0CtiHTqQaS6OmR3j7sJv8IbLcj8Xbw9QqMWBdw94YDD4UcvCzKPkGVMPflp+ZziqLH1lwA9wb5udIbL30wI/Gz1Q9krk/G8HFKKUSfUqP4ZJuyh2MFL90Le5LOuQD9kbxYV2EyWPC9arLb8TersUQk6XiE5s/GzGHcQTwAMSe4XQfzzl/Nw1Vo4h9rJjj2nCC4BIQ8ymws4wqTgMyHtPhxYWFRh2FviZ6cb/fO+utB6n4QfSYgnIUDu0iMUJiQPsLag063tX2pjK3CIuM1x9egxp6kAcBDKGLCyL8UAo3ZfHvxydWALsiZAgLlHIvmvfOtPFUF1W/pSaebDLHh6+tcoigG6VdwkczlEaktSKVPf63lZH6kkrE+iau70EAA
+lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAAAwDACdASpkAEMAP2WiuVizLSYjtfYMWmAsiWVs0FuLAgAUCOCwdefP6zbi4/EOxXe7wpeYHdX0Qd/VkbM4oGSpTXnuVErNw31sK85XafBxAGsn9hhAlrg7Zc6q4d6MRu1951HtZTFgN0+AANnE0IVG3/Q2+ssxaEzTbk/GAvzH4VTjJ8KgZh6W4h4KX19ZcwbmlYBUZ5mRorNdLjfYnpKjDaqHRKkIUrXaLGN5c8YpTP1iUXF1+3OgS318pySmACsVUrWEmJdIW3Q0gM0HzB7/k/VPd2QVV3sgr/nHkLUWCSVmbmDHnV+2gIC7yBuZzb9U741vR8Sl5uEomLKFijgVDuQ8qKsHEfNEVEL6eJLYC3MHaM8YpcOCWCzVnr2O0EFUqinFcrhNnFfhnAvFZQjeOXztrXZkH4aUrd5S89bvkdsX1je0vuan0ejjfb8v2kogB5tL2MvpDB8WnFgAAA==
 ---
 
 Children love to play, and they don't need much in the way of accessories.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Caucase
   - Caucasia
@@ -58,11 +60,11 @@ geo:
 colors:
   vibrant: 91 173 235
   darkVibrant: 111 36 18
-  lightVibrant: 117 189 242
+  lightVibrant: 120 190 243
   muted: 98 130 168
   darkMuted: 88 65 54
   lightMuted: 188 151 128
-lqip: data:image/webp;base64,UklGRpABAABXRUJQVlA4IIQBAADwDgCdASpkAEMAP3GmyFm0rLIjrrQMopAuCU2iy5e/44hismL+/BqXkkCF+DWrVVGeIDkfzG5uPmMjMNITOwgMpG05EgBRR+5hqlKwsxlfmsPTMtOe560SbV4dE6l3fG5ZSFVJvWZVjHnHrsxHA5eU5VmQfJQGF/diVxIYnjkcAAD+6MkzAew36aXOqEfe4VprVZt2aYcGMXl8W1gZIPIm1gL7w7nT4L8XyFVEGPR1xLvFiQ4dkvIOEJDMfo2ywoxqu//4aWlyMfccjqM7us0ZvxPJpMYbfrhyE/tKba2Ee30gOYdd6qE09JpRlN/6KBu0tf8iDgedvtACLYtJceQL3bVGpkpO4+XK7lMWXhKd1w1VfjJ0y8xdXJP8cofImRkiei24K25a/iLUm7yLe7639xNT1ps2f+Xr5lWdLXSR+FJ2mjTCGmLlsdA165iCioXz1fj5JyxR92LPwJnU/QzV4XT731RsYhc0GJS6c2GvyJMn2iWIp4QOQEAp6j/eTUcEAAAA
+lqip: data:image/webp;base64,UklGRpIBAABXRUJQVlA4IIYBAADQDgCdASpkAEMAP3GmyFm0rLIjrrQMopAuCUAZ9KVthOn97n6jMymGYa4+KG3A0Thu84LczYG8kEszPlaN+GTKg98D0MJGU9Q258IGVooGy6Xx8nJPOFAKSk6gvyO0zs7vkWYXS4/XF58LQ5u6Gf2mcEMhnaNn9BO+uThPr7cAAP7o/g+xUrRd6UURSp3FNWTMrSBq5FHMtSJI0Iy8KKA2iyC2Ia7MtqfCC6oU8/A7mdmwgCpGcBtYm9vzbq7PpDsJ/SmhavEbOYFYuO6O7W47sucvofemkez1mTYy6LyHQgJg/FYlbU/I+Z3VZ1waEZMYF0uNaWN8fu6eUAaWKegxQPSDrxXf73SaNpS0GZY51a2ckUO9wuKb3dAyQbJBxNu9QZCX/5k1zCL4Jgu3utd1ybVJFlHG/vMAGyrpC2gvhK+Ox8/vY3iAVUIzIVRdWvZ6VbyPtetKTW1Wry/AVI65PTfZYrV05NmLl5fk1HnkIpJ/AU7BTe6yoQZdJygQNwCBy0gAAAA=
 ---
 
 On the steep slopes between the Narikala fortress and the old town of Tbilisi, the Betlemi Street Stairs offer superb views of the city below, and the stunning Mother of Georgia statue nearby.

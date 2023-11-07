@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Africa
   - Afrique
@@ -81,13 +84,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 127 141 59
+  vibrant: 134 146 68
   darkVibrant: 99 76 44
-  lightVibrant: 207 181 150
+  lightVibrant: 208 175 137
   muted: 156 156 100
   darkMuted: 79 65 54
-  lightMuted: 194 196 172
-lqip: data:image/webp;base64,UklGRjQBAABXRUJQVlA4ICgBAAAwCwCdASpkAEMAP3GuyVw0rqgyLNW6SpAuCWMA0q9T2So+kPGQTJvhe0AkUSjqqnGcH0KUdQ+FmfnZJy005yUKA7SIXyns1W5DzH6h98SFdRF3fnH8WMnCZFb2dA4qm3S7uADSc1LKiryH3iSsKozcvToVdjzhXm5rSZrXECA7ydXOOx88TNqvlapenhy/T1hBLXxgoGwxTQao9RPoiy0v+toKbSbCzYWiAf6U5WMY5L3v5yA4ASTV7N8I40A/Yd4jsQFdG8ntVQ2KfIkl5jt6AEYg+OezKhmvSQvcDNqzlZwAIn4pzt6dQK6qDnLa0ISrL+7sqVRt+vXhANwtHK4NXmsfy5BW+rYl0kxtRKSY+7kYy+Hp4Vnc89NIa96CkzHuohAL4YAAAA==
+  lightMuted: 192 188 162
+lqip: data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAACQCwCdASpkAEMAP3GuyVw0rqi4LNbaSwAuCWMA02Aa6m/spPnpmFmuoQSfcaWJOds80TAyvXHqx4vRoK/5cFeUdaol1bGq36y2UZcGVB5lQC4kEjNymotOyEYciLbSrW6om4MUAADScwZSU2xB+vCGhky/1wXaB9Mn9h8oEZ7BIQZ+t8CHNj0qu4lQEqx0TutjiYVymkiwf9gs8q2aathvDfU6a/33ZEtHXpjS7An6vI7KL4VLgp2ijibvtlcOJHcDbx9OWarnT7BtvZspQrZMtDPAMtZYpGWbyD1is/6bHKkkuXRzTkJgVzsMhJKLztIHlseQArlcWQtCmAD5LIHmXpwoMveEHQ+nJaTxfaqeMtabRYVmqR1tAkq0O17LyPekBmwAgGTJgAAA
 ---
 
 More Grant’s zebras are in the wild than any other species or subspecies of zebras. Unlike Grevy and mountain zebras, they are not endangered.

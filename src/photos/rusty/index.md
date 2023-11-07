@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
+      short: Canon 100mm Macro
 tags:
   - bolt
   - boulon

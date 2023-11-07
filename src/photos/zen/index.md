@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Sigma
       model: 50mm F1.4 EX DG HSM
+      short: Sigma 50mm
 tags:
   - adult
   - adulte

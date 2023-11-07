@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Benodet
   - Bretagne
@@ -71,7 +73,7 @@ colors:
   muted: 81 98 142
   darkMuted: 44 60 84
   lightMuted: 139 148 192
-lqip: data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBwCdASpkACsAP22gyli0q7wqMlqo44AtiWIAxy4/y/wEnOUukAJbB+xCIWER6XDtvg7rm/w6IjFbpBIvPsknYqr10AD+4hC5v6grxeYlNKLp7n9Hl1kCKJ/JxlpJLlSvF9yFNGmYfqoX0tiZ7STHpfh2vdmz36/MZhsvEMJSlwFU2nr+gpiuPKFSSiryrVbaNF7P4GKOKgk0Y1Ad8JL+uBTL6vEx+CXYSTQ760jh8jwtupB0rA7f615AAAAA
+lqip: data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBwCdASpkACsAP22gy1i0q70qMNuZm6AtiWIAyAIfYL9GL7HpYRJtxBazHv/ijejbngKqGqj9ilRmGuYfbBtKD0QAAP7iELm/qCvF5iV4mStGHr1/Ihl44DD/LUfb+Pho5KxqOu4tsQBR9geXP/LSTHpfh2uPj2DxWniyop6BC/zi6gBrkc4FSyNgrH8C2RjkXwP9gJwgX4ulw445yDbGtc0rlGOHaGKdIYZVuqym3FgRpR+jFzcpHAAAAA==
 ---
 
 

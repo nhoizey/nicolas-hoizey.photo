@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Boulogne
   - Europa
@@ -57,7 +59,7 @@ colors:
   muted: 84 116 156
   darkMuted: 89 79 54
   lightMuted: 174 174 212
-lqip: data:image/webp;base64,UklGRjICAABXRUJQVlA4ICYCAAAQFQCdASpkAEMAP2Wav1izKy6jtfYNEmAsiWIA0Fu4ZJoSMXP7sBJ6mvjlXStNHBCapJUoJNjAW4PaD0ZhMcIFpCmGQARFO/4ZDCqqo5tNIsJ7au/SpOMPa2/L46IISC4yGvcvQi5MDwdFu93sojF76DcLFe76XUBaeboC2givtSoXJYzoDOYM5M1lMOEvFD4GLaQIUAMxvZLRz7qYMbt7EfJBMbbMvi4sNYinFSAv7eAA/oNNp3sSiDW927j4WoDlhk7iR/MQyvUXrdtM05NsYoWFt3LyY2t/R0xmbpPi1gYGUw+CVtOeq5yXyctvJoqTCNWtYjWMOH9M33k+7Pjc3LKV0HZ11ad4m/lJ6uxb3E9HSzg8voq4Hz/RzmSf9W7PX1H6ZkPzESVWOdG/g68uESSLT20sj/sic0lw80oNGvgJrvCLKoHS6FJ0CvXSXbkCA2BN+GCCaeiHnGTWYFZkMrGZS8rQZ5WZqlyuRJX+TCvfXNOrkPX/iSfy8bjsBi+oS8jYX31LCRm6QlFjR1GflBZzP3KvbOGBVOrnzeY7SxQkC2yXETnBUzLmIIeje7PRRZSe3X7PT0mIRQ8rE9p3KuERWcUZJRdllwJ/TYZwAHrN2PtNGSUCpvO7yanODo5HbkuTamlZnMfXMuEy3Aeob7e323oZgxEDHNJ8X3DHYeLBuBs2NzQZxwrywiYA/5ym+gNuM/XBpQrPucIUQPoKBlM8wAAA
+lqip: data:image/webp;base64,UklGRiwCAABXRUJQVlA4ICACAAAwEwCdASpkAEMAP2WcwFizKy8jtRWdUmAsiWIA0FdPeiYrEqBbe8zR6qrPQh11jr5jQjF7k5zfSE7JRkkkBIfEBgaF29buKtZ7+9HsWQzrPL9JLCuFvOiyiJDsRBFyYHlSYAZHvJdZ9NJI/qyG2zWnfb5+kXtB+JENgnQA8iwlR3yfeJcXMFYYd5gR1XwQBNqdzXOyV9gESoznvw6WWk23mrAA/oNgkeqawl3aqzeCC2JUKaFoovfidMQ9HkTR6uR7fvFG8if3UrGZCvIuqczUNWKe0ohmy7KIO3VF8uxlQ5W8amYYKg9n+7WuA8u+xRG/zzwXpIJGrd6t65x9qGg6tNRMzKKWR0Q6At0ipUOJxZK8W+tZLLMM4vNC2KgTmEjxj0DHCUTxyZrbZAOjIARJhmu6kskwQ0YXAJEZ2kploNzpB0h00GgmNMv/0+mP+hm26UiCAcqZ1dK01h5bhgV4EmhSDxeupTLJNX+8gxiX4jDRc28lMZe0u1PDK3UtCOBY1JqT3Z7FAzcBtahjPvFSYv44CQruzK9M6o+QjXRzkoF1mbBdI1YT1dQMM4lqdic6fadzokl29hBe12jsfgg2KdL8Ac++In2bWaFJe9ikDo/7GVJmrinXyhjIwrmyOcY/MNcAsf5kJTf1Iccc9410ybzSk/PysX0j9Foqq1DsOFlcrB2/kLGUaAF4DS8n1vSG8vR5yJJWJOu6jIWLXuAA
 ---
 
 Beautiful blooming Cherry Blossom in Albert Khan's Japanese Garden in Boulogne, near Paris, France.

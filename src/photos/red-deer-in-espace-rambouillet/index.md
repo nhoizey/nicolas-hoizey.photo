@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - animal
   - animal captif
@@ -81,10 +84,10 @@ colors:
   vibrant: 154 130 60
   darkVibrant: 102 93 22
   lightVibrant: 180 188 220
-  muted: 155 137 92
+  muted: 155 138 92
   darkMuted: 70 66 47
   lightMuted: 220 203 188
-lqip: data:image/webp;base64,UklGRsABAABXRUJQVlA4ILQBAAAwEACdASpkAEMAP1mWvViyKyalNtheYkArCWUA0cAoWrimdPQyL7122OGmy8eMQyhZWJymml/NIzujqzKv4+ZWxxl8ACtEKygc8ArTl3XL2PLGZq9Fyvd005hzEpma3vfZru9EKieOgTOY5W/s+GZpCJB5Ysp1zNLpTI6eaQpXfo2aScfAI2OcHgAA/uUnIFf708R+nBN1bkMvrjGg0hvYvAlvfTqPmJ9sClWJPAh8aQrV+iiGU8TbXdinTTEpMa8XoDx46u6eJRhXzTkzAEYCmR3EAYUQxQyUCpSy6WwM/FFgUUj5PHEw1ZGK5GrGohFy06GYLa+P+BbQhAoC0zE/Qx2LoU/k6qbLYKI038dm4y+Xyj9OHbAJ72llxpH0KtjQfTCDz8qq4VnjlN7cEyyluYYuwMymkIDZE/6MswUGCVFhjShUqaUSoofPpVLWlypRSKQCJOyelpLHlwGqBlompOptqHQLuQIZEbrEHGnG6CCFTS1QhWAAeZ4+ELhjpi6EiyMGdFkEkuJ4vRmM7OJ6W5gSwYGzUVAlfFIT49Saya+/2MVI7fHTWVNqalChoD22AAAA
+lqip: data:image/webp;base64,UklGRsgBAABXRUJQVlA4ILwBAABwEQCdASpkAEMAP1mWvFiyKy2qNtheYkArCWMA0nQlsrimdPQyL7122OGmy8eMQyhZWJw9B7RYbS8XIiiJXj9lX67v1TpGDJnnmR4mW4Cz7zUeGXH2Osi9pWhEysGFHY8GQnxWywvHvIOurkzpLjv6K9ouhqhjUDdbibcSShepzec6Vw/v2ZiGFb+zmXey82fQXJSAAP7lH/71v8VX/UxEtnMwAb6t0rob2K0IW3eCV6WgOHchCaUtKvci4CxDYrgjfgnXJv8EtJ4oquyskdBc0TYe9D+RwQ2kSTCTSU0jHosLkLQhiGxcXfHaxOrb+aONqRi9YcwE0fZcA6P5Ke8iEnZpT1gl9tMo8+6j3bhSLUynGjN9aOuREt8/OvMhvArMIpnuBO2cTwjUV4hH+0Qb6Y3eLgi6ADBGPPgGSGv58+W2YpxvZFSJfuwF9rBI1AxO6Nczht9CqaKTFTdkP4zrDsV5jSPkgUp6xjLJrMuq3decdx7lNzQOiupuk+7HCIFCNzmfmpwzYPUh+p3iHsP+Ty6JsvEzkgrlrd+N57vL57rBCdMdjbIft6j2GKJg72oYwppqUKRDui0AAAA=
 ---
 
 The red deer (Cervus elaphus) is one of the largest deer species. Although at one time red deer were rare in parts of Europe, they were never close to extinction. Reintroduction and conservation efforts have resulted in an increase of red deer populations, while other areas, such as North Africa, have continued to show a population decline.

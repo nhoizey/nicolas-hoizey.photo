@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - castle
   - Centre-Val de Loire
@@ -63,12 +65,12 @@ geo:
   city: Chambord
 colors:
   vibrant: 194 133 84
-  darkVibrant: 138 92 52
-  lightVibrant: 156 174 212
+  darkVibrant: 137 91 52
+  lightVibrant: 156 174 211
   muted: 146 114 120
   darkMuted: 75 59 55
   lightMuted: 167 176 210
-lqip: data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAAAwCwCdASpkAEMAP3GmzVo0tj+qrrcKi/AuCWMAzcA0knGmw89ar2ex9XCmHFqJpaLGkUN36rpxYCijvrgb88EesA2fG5sfuCYjeEhW0Bft62NovblsrmBvrgSrzcEwEW1FgAD+2bCN+jse4M4/Yj92EFGXivsllNBX7L2w+b8b3b2crHEsCLTuP+jgpLnEJyZMno2SmEyPNVkcF/qGOPe7iwV1cAta4LyJAv/B1Itf0RWoRD50bvX2qe6u0ZnsefAZ3DenUr4RAp8Fh7qYFz4epiY6/4LGykshJas6nr9opAA3MDv9pFxdcaddVeeF8sOLNs3uM9e7kloJYpNIUZ9KTxtG0w5Q33dfwevIXFjLDZZcXHhZ5AKT1LxPgR7iwzqSwDRV366OE+SBQO4rhIAA
+lqip: data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAAAwDACdASpkAEMAP3GgvFk0v6alNBXac/AuCWMAx+REW4DOqcyJHWXQ7vmRjrUxkvNVydM/St4rSJ6I1xesoTdJz/XYnojmbJWV+tgJAY/Xoh666C/3+OWssEIyP3w+r8+01TNiicUv+1NgAP7b7095C1A7AWYQjwF2siCWBsi+7Zxr853DSeaLPbqQEPHwvvX3sPJwVvheUI0EjNOkM3wga6RI5/DhusyDtoTQ1UreIN0ian0t0htRRWegdxiyCrKrjDrR6ugzj/RAdAaRY9hsFTNAeCK6E+CAmM/boP8bJvulYHutMLOSVLOfL6e03nnKhDJ+uUYFukP8aqfrDM73HJ85yf5eb0X7aOSvXZhvwwOMF5Ps9Sfp8uD5PEP3jEXf7J2SoRgL1MgYsJKYMTww3+flIAAA
 ---
 
 The Château de Chambord in France is one of the most recognisable châteaux in the world because of its very distinctive French Renaissance architecture which blends traditional French medieval forms with classical Renaissance structures.

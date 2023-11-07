@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - bateau
   - boat
@@ -65,8 +67,8 @@ colors:
   lightVibrant: 108 156 188
   muted: 100 128 152
   darkMuted: 75 77 55
-  lightMuted: 172 196 210
-lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAABwDQCdASpkAEMAP2mawlizv6+lMljMy/AtCWNtf1tu7ZIzBs/+08dpm7C7DOSBMvWFFNqYQUFX8WwqWI3ZrpUlvNGzTVeNRBWLwdn5HZvK9JdGzfKaxHw43ckcD2xAf/0ee9TSJ0pl0fO4GK4ATUwFDdezIADkJNpOEOx7g+hEVY6Oc8pNn8WHxvbjRQxMKr2iqtqxceOQL0H5ynKZKb1QtRqxCmfr7Q05yvnm/FGaEjI27A2pBncdqUr4LlF9ld4ypm+AcT1y1avvph1vhjQdk0CqqW34ScJNxa4bvObZdcOa2si7u5iXBm0AQ/66cjvT+ti1Ridf/JvJcFU46K+3HRcrvrgp2B7ZT4lEWTP23q2L+zOXGmg7us5h5/j8MpKk7SpTNWU2utO9qnIAQfvj9hTDxgxFpnY+Hgjm2WusiTGAYJP3qtXnQbpJvhyuc2FYHhIE/O2kt2mvGZKPmu1zZPCAmmIAAAA=
+  lightMuted: 171 196 210
+lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAAAQDQCdASpkAEMAP2mawlizv6+vMljMy/AtCWNtGTA7gdXfbUtMnei1CSg9SOI9hjoC4RgR+WnVb/GZmn72svhIYS2TMOR1tWcLg1S0sk6+6leXsJKIGzAANNitthuksYRfaoFJ4xbipBI+gsqakasqdADj4P/B/snel7lRmPW+xA7azTZbJhs7TPgg3tFVbVgTML0vd1FWt9ym9UDs+vhCNXwbswUCdLemsAqv2Q4wIrhMWxxMGK4nbqnEZBA6osrSfSpRkQogYJcde6ppC7oLrOd0zs0DFMQBCCCxoWey9suog/Q62b7wgftC78LJZY2Jm2hiztLvjFysilP2lPoTQJHoUGCcScw5/d1ys0JXt/8tlGoPfe1/d1BnGH9Ntw2Wf+R47E/rtFKBpB247GiDLKYgm4b5Pr4WMkhp7P/1A0z46EYE72M914CVNFzJaSnE2j1rtGydG+1kfKmSOIodmIbj6TIAAAA=
 ---
 
 The Sant'Angelo Bridge (Italian: Ponte Sant'Angelo) is a bridge in Rome, which connects the two banks of the Tiber in front of the Castel Sant'Angelo, near St. Peter's Basilica and the Vatican.

@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Accipitridés
   - Accipitriformes
@@ -75,12 +78,12 @@ geo:
   city: Amboseli National Park
 colors:
   vibrant: 116 93 50
-  darkVibrant: 92 79 36
+  darkVibrant: 100 84 36
   lightVibrant: 215 197 162
-  muted: 154 127 86
+  muted: 153 127 87
   darkMuted: 100 84 44
-  lightMuted: 206 191 165
-lqip: data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAACQCQCdASpkAEMAP3Gqyl20rKktKhdLUpAuCWUDvr3Dhao1kEqx7x9tPnqy/wPbFLH58LsYpaZQdKaxsrP6AbjlAwS++VjHa1eM75TVGkqxJpcKgDQAAP4rseXMEKTVyfpZAzU4PLgAJzew0YuhTn92iG3uTverh3VdUQC6wJPO4QxTCXSOVz/o8UnGPmH6PFiZakYW9z+2VYNcK2MklXCej0fC0gcABA9c5o30sbpIbD+2HDZE42flY6Rn2rFN37mCwG4CGo8kXaCch1FyEFjyl4AdXEfLTn+mBrud1mQgAAAA
+  lightMuted: 206 191 166
+lqip: data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAwCQCdASpkAEMAP3Goy140q7MtqhdLApAuCWUAz9wnL4givSgF85RmIe1fVBEBFZjchiA1x3jyM0VaK5RG16Al4Crii7CH8spKonESBJN77oUAAP4sJNcXUy1LrSIPr4S/F0BsaavFmPfZ5zKWPoEz9b3E2aXrm6jfK6zudtAgFV1iLgmMFVLT8uHZweURTDlSyO1ZDP7MEkeyWLvsOjlFSSHI5cH+BLPDIQHRisnh47oJm6hqIGktIZbheCmGbnfQXgST9Fn+Db6tPZQ8SDgLWXsntYJ15NFmmDJZC8X6hY9uU9AAAA==
 ---
 
 The African fish eagle is a large species of eagle found throughout sub-Saharan Africa wherever large bodies of open water with an abundant food supply occur.

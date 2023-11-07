@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - animal
   - animal captif
@@ -77,7 +79,7 @@ colors:
   muted: 132 115 107
   darkMuted: 84 63 52
   lightMuted: 108 74 45
-lqip: data:image/webp;base64,UklGRqQBAABXRUJQVlA4IJgBAACwDgCdASpkAEMAP3GuyF80rTslJnSeQ2AuCUVXiqxK3A4Ib1s6j2StaRm4zOiQ4PJNWvVyi9ejtQYXrlCUZBKK75upIT7GYXlIS8zwYY34GRvwDMEHiwCBEe1BC08xv5ubbZsu9ydB4ezN9Q64N2drMqggPSilYgHFLzt9KQAA/uyJOGLQQqIl7ExxQrCA/rVnb/AZhlInGTsxd3ZgHXBSfJvBx/pjS1kq4onLnmFsa4XGct5snrVjvgBcgQc+rAU4UFV0J6jqFWSXwskpgkjYknFq7gqJitLhGf1LuiR0rS6UhZmrI0J1trDzVc/siFLv+NLbP/vBerII1jY8JDAQwNhXeVkJFIzkuu7kqc/YUjPFzTsfx5JSfFsLA7L8e9BMLhKwhq2nULf+3/bOEXNJw3sfOy73STi6zqrEcqOOlagB3aj2Sl7sTnmvG3H72dtzuZoVxav3RpJ4/IoHI6yvdEf6HN6co1FILlpfFvJ9+VB23vPjxuV5f8COqVTKi1wrH5JyHGRQ6ZEXyV6PtlOTwCGUdLeAAAA=
+lqip: data:image/webp;base64,UklGRp4BAABXRUJQVlA4IJIBAACwDgCdASpkAEMAP3GwyV+0rb+1pZVdy/AuCUVXiqiN7DpUZyE/zYjc8ebVzGtSjFS0V9B4mKofzmCdEaPmg+PlMrLtgGB2n6kTj59+SrP5y5OO34aWXLlh06Jh0eu90WkAU5c6OVIWsHs91hejYFvb8OY00Z447vkjtWFD2gAA/uw7uXy8dH22mL1SafFuZn0Q76+otsrK3Hw+Dhbyx3fNCyr+gpunLipbMcL61LVGwnIvOaKxYPONIDNT0bo6FuRMyNPx3qYYp1oVgXDQ7V0hMDonftJwTzGBgTr/6M/VZR6cIhnH/y4TqXDcYzD6xCFjADqfsam30F6KnzcYFEy8jAGrAhD4mxjFwq+q2IkQmP1NN+mhLnoqYa/uEh+7jBW8XCoQL3QxGSMXu5HLky1Is2s68QAyejZHjFSaiUCzWHJe2B/rc0ydJMlTL6N2txio9a4RE27lW84WrRbzy2uirQt0NNHds9I/hYwO0yDz48boGmNkplvYzKA+8w/4OUecOmWoCV6PyMh4nuHvHEAAAAA=
 ---
 
 The Superb Starling is a member of the starling family, formerly known as Spreo Superbus.

@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -73,12 +76,12 @@ geo:
   city: Maasai Mara National Reserve
 colors:
   vibrant: 206 171 134
-  darkVibrant: 81 75 27
-  lightVibrant: 235 208 181
+  darkVibrant: 80 75 27
+  lightVibrant: 232 204 177
   muted: 168 145 96
   darkMuted: 87 78 50
   lightMuted: 179 198 212
-lqip: data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAABwCQCdASpkAEMAP3GqxFy0v7CsLrQK8/AuCWUA0ftT2mLOFqFeLEDYho1qEP72C+LNCw+Ggh/b2zMp7F7lK/O+GVOtMw9D44VSy2NmcrgNgAgmtAAA/ufjNourGJR5g9hBWLINF73mwfXd5aNb/iHK/kfEcVhPk4j0YoEPs7CcCQKiyYKosg/o2qpJR3CmJZyvnzHr92GlEIMknceZY5HZkddJ3QGJju7NmF84pkJcXGMBGShecXiNI8lFr76P5Aas/Eok+OpkN/phX8xADoV2bviRMsbkS325dIgyWRPb/je0mCQcbyVF8O4G7ILxcEgkgAAA
+lqip: data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwCQCdASpkAEMAP3GqxFy0v7CsLrQKi/AuCWUA0nNT2mIbyyJzMaoxAiE3BswgLt9WacIPC3ZHRhovZPGqGyCX33W+EB7NRmLdidNsiNJ2bMNAAP7n40l07rKS4qwdME1tAzMEzGTuFSzNJWkoffNqtCY3LRJV/fEHUFn5WicUO4+2LF+BmGYkr10XSxnQrhSK0p4BoReu3vXpPYJYEVn23/7B9i9vYm6nCEgVQYXgmYnLkiRN6lwvF4lmzIPBvuOJVLwp1ER1ad7dXtN4SW/UyvltLuPSaHEA4YwuCyv44dgqMJYwnBsyUEAVzWYVYNmry2gqUAA=
 ---
 
 The ostriches of the Kenyan savannah have never been so prized: first by jockeys, who ride them to the delight of spectators, and then by meat lovers, their flesh being reputed to be healthy.

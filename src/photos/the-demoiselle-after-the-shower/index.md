@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - animal
   - aube
@@ -73,13 +75,13 @@ geo:
   country: France
   city: Étiolles
 colors:
-  vibrant: 108 62 49
-  darkVibrant: 91 52 41
-  lightVibrant: 214 175 164
-  muted: 162 89 102
+  vibrant: 106 62 49
+  darkVibrant: 91 53 42
+  lightVibrant: 213 175 164
+  muted: 162 89 103
   darkMuted: 69 42 51
   lightMuted: 178 189 211
-lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAAAwDACdASpkAEMAP3GexFi0vycqNBRrE+AuCWdtXF47J1CfP83kKY7/E+O9fa5SAQ9V6OnrjXKzyOM36aPCGdl6zCQhHpLy1XUY9N548/YIM6nlwRXdcfEGQBZMgof/7EbA/Sct9i80CLeAAP7POxmmxbc6GFru2Dp/90nuHnL6H+1yudqL+jpa90SpqbJbWGyZi4OQiTeMetNrKhx21YvkYWBbG3ldUXZHIWir77ytnX7xzWNt3TBUUEBbrSJ+mPBmzdS92Hbya7chCFy2PuZBJVAkcT1c34+mTJmS6MIOg8R6WpdQ3RQa+0/lCJGC4Kwpxlru2PqhGlSrmMkJIrkwINp9JYsVJhkPwb8aphamIIzZxvu1a4krLaHNF0O2DGY6CgEwnwUCHYYAAAA=
+lqip: data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAACQCwCdASpkAEMAP22cwli0vqcqNRWaq9AtiWcGcA1iRIU2zFE6Jhux00w4aElyimOXJmnbtAbkQ1qa+wDYcCCygQmHsztxO9U4vIzGae0e+6J2TxKArB/O7AmZwzA3y/8helGxhgD+zzsZ7MtyyHBaNvjIu6hCvan1WuBTHEF+rT+V8XNahHYOZt7Kd/fadJw1tzc8nTD+Zj6zjTsKsGzrctzBmp0a9m3mECYprGQcRxWPZGQlQAyE9Yn+GG6bG8xoDJkUY6jxYnOO/3sgj7flrUij1Jp67eubrIEvh9tR5KZd7acREJ9ZQBSskZjTnTmzmvLya1/GYYQ4I3LGDGAzy4/taXxuXQCPseoyDDbfI9fIvJRMhmyl26sDZUkqnXNnX7OKAAA=
 ---
 
 When you wake up, after a dew shower, the sun is welcome to dry all those droplets!

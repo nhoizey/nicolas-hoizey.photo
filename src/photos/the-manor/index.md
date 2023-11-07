@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
+      short: Canon 100mm Macro
 tags:
   - castle
   - château
@@ -62,10 +64,10 @@ colors:
   vibrant: 60 116 156
   darkVibrant: 26 64 97
   lightVibrant: 159 194 218
-  muted: 164 164 110
+  muted: 85 111 141
   darkMuted: 74 68 54
   lightMuted: 165 178 205
-lqip: data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAADwCwCdASpkAEMAP3Gu0Fw0rrU4KhdKqwAuCWUGep1L9SS1YLHtadU+4IHvL7QYVj0kyEr5DcnpzoQW5e/9S9++VGOx60Gl5Us363BtgHFB8UkZGdCIQea8Z+L9wRhIPJMnhYoYrvoOAAD+7rMgr8Mk65i5dqnHFP5ZLpVKxPVsiB6e5bD1AqvMZtx2JRqgyoW39YTfVQyDHggS/NstrYgdlxuw4b1+qaUzlrYCOiaWMSYDVITzy/JaNYRfguF8aezMMxXxa81VdEKm8ki8G2Th1QJYkwfLAwyN6WBmqINjHDZBhmGFDHxk3ZH5NacyrP99Nc8GCFJL6dCJh+MybCCTEiA5mwofNSQNoq89uSSouqnD6d2jclipwMYJ4KMMaadapS/Wgf+/6I5yk9gIAAAA
+lqip: data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAABwCwCdASpkAEMAP3Gu0Fw0rrUyKhdKqqAuCWUGe9VTdT21YLHtadU9mP6wtiCznvun1xv8lYJ+1ZpMRbHi9sXIwfTCPCp5nRAC0vPod0dEdYXMgTQqHSlMDXCvyJ5NMDiEKLHAAP7usyC9KfyPSQxeqcgFyFkuk2e9gqF32hfyh+BJoPgeicv0acvoBhb49cCOll4w1ZHH6jklR/KB00iEXdW31Fq4tQBchYyAjB5HH3BHh676a5wKPKuu3SZgH1Ux8TCG6mThUOnxk++lLCxAQU/yjB5Q/wpGH6XJKesyeiTjYMMg6EA7HCzPvqDngwQpKMZT1PZx+eVy3r/64cFprSLLlpbQZ65pzGpS+5HNkK/B+fs3rewzXxnQ6kBkrj/fdFYJBEzKq7Zq22XqAAAA
 ---
 
 Visiting the Mont-Saint-Michel, the Roman Theatre of Orange and Notre-Dame de Paris in less than 12 hours is a piece of cake! Just slip on your seven-league boots and whisk the kids off to France Miniature.

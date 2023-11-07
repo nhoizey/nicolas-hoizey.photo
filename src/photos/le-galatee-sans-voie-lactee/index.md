@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - beach
   - Calvados
@@ -69,7 +71,7 @@ colors:
   darkVibrant: 124 92 4
   lightVibrant: 251 218 127
   muted: 79 104 130
-  darkMuted: 34 57 72
+  darkMuted: 81 82 59
   lightMuted: 194 196 199
 lqip: data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQBQCdASpkAEMAP3G412O0sCumo7gIApAuCWkAACPg4gNhGKfEzYRYb6Eyldt0QMps7AAA/u48i8MggFwTLd+YNFKtxTYFBqvAQgBZYAA=
 ---

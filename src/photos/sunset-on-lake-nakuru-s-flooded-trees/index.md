@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -79,11 +81,11 @@ geo:
 colors:
   vibrant: 176 117 85
   darkVibrant: 4 45 71
-  lightVibrant: 251 203 116
-  muted: 85 117 144
-  darkMuted: 47 68 83
-  lightMuted: 121 148 168
-lqip: data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAACwCwCdASpkAEMAP2mkxliztiglMzSbasAtCWNtxrANtvOcfQ2tmVOMB21e2h5MxXtDKlHAuNy7UEWW3N1qFig5h7lJqStnguhvuzOTqPiHIFYNAwJNel2xCUket1OARSrJZW2BXAAA/tkNVJlFOgOwQGIu9n6TfQ4frug7t0ccwdQyofs9VsgKf3gvi9ApPWVW5beIxh2/TEjfz72FLDB7Zzd3O62M79akIwBgaqDhEc1EC2nYDU3DLXoOKqAP9mIQwXbJLmVzZiW0d58nTnpv3XDB3Cb03aMvkX4BXRbN6tpUxOdYBEoqN5fxGGUJ21BxqwXuSGvaUxKQVJpWTSXBPlnp3HpkrD4jUpMgDAj2D2VLMPckz4X59O96tZTzmOF0quQpgWq5D56LWyMCiByAAAA=
+  lightVibrant: 251 204 116
+  muted: 86 117 144
+  darkMuted: 47 68 84
+  lightMuted: 122 148 169
+lqip: data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAABQCwCdASpkAEMAP22myFi0tiilMzMa2sAtiWNtf1s57fE27aQH6Qn/VeMRW3PO9wjfYPbUV1urEk7hMuingLTpJtEOjNdt8alJHjum+cykPSNWXI5WQr2hoyx5I3fpWMXkAAAA/uw7f8Me3Dj2yKJoPAq3tyZSEKMq7g7K4FxQeak0CTUwh6w5wSu56d16yj9ZkByEtAARy5L3YkNlSAnl21luV69TnSRWSscz/kzvfs1D19mWE4Wrghl7EVuZGIXAltLHCYJgyDyC5wqAfnJzDpn0+9GkYPjQEIHmMtJZHWhdfd/6PuYU5b/A43JMwfLiLhM1JaXPj7f4waLrO9tagBX9JLzfwxs7j/8Oq4QbU9v3m8hMEi2sJMBgPnm8R0MnoYG/FPMfnUExVaOtlOJaAAA=
 ---
 
 There are many lakes along the length of the African Rift Valley, which runs from the Red Sea in the north to Mozambique in the south. Kenya’s eastern Rift Valley has a string of eight lakes.

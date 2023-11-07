@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
 tags:
   - bleu
   - blue
@@ -61,10 +62,10 @@ geo:
   city: Burano
 colors:
   vibrant: 180 164 68
-  darkVibrant: 16 52 116
+  darkVibrant: 124 20 12
   lightVibrant: 219 210 159
   muted: 168 157 86
-  darkMuted: 112 104 59
+  darkMuted: 111 104 60
   lightMuted: 111 101 42
 lqip: data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAACQCQCdASpkAEsAP3Gwy1o0r6mlLrgJQpAuCWIAz9wmBY+bA8ye0extcCBQQ9Cq0xjSNnSE9SSahfgO2aD+gY8ND4zsO4BQ2dwAkNk5A1gg/bTC4YcAAPcEGvGllQ/1xc3IM4V/KK7C6F2nj2heLv8A4XjYU2FnonqXdbYM2XJGY0Q6FLmxwEmVVZdCFeqlSB9gfUjVqBmJYybaAKx8OjgEIFwI7BmftAA8D9KGa7dlAut2+r1rhhRDFt7+T62n7AmPuqVO95xx/CjdIgomQxHfJN3WtVmo8y1pqAAA
 ---

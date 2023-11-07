@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 18-55mm f/2.8-4.0R LM OIS
+      short: Fuji 18-55mm
 tags:
   - color
   - coloré
@@ -68,8 +70,8 @@ colors:
   lightVibrant: 251 234 34
   muted: 146 113 75
   darkMuted: 64 52 43
-  lightMuted: 190 186 187
-lqip: data:image/webp;base64,UklGRlACAABXRUJQVlA4IEQCAACwEwCdASpkAEMAP3Gsx1y0raemLbIrMpAuCWIA1Z3S4WA1ZnMRjJaVygFkB0Hsn3HnEG7hNu/y1BfKtlgmgATPV1R3T2YTx5RY4lgHBTGhIQsKXGy8TELGEcCBg8WyklKLYSNn5hHMcp/Jw8FtP4r0K4OkE2ByYBZmFO0ZOxAD5iuphw3LcvWgwgGKBfc68i9+mR9drD7gwewX8hdSELVM71D+q8bQAP6Rpsus4eKnAZ9LCCLdK8h7rTLr2e7/79gPXbcPCgzoCmW8PTb6WPslCR8vgsuvFsms/65197MUm7AS4eMd3gHJhCnXMVce17si5jYZqMYtQHwun3ppauEkxAehmbQGMX6//JbfTI0vRr/6BqjGkF7pR+16h1taDX4zfrdmf6m7xM51vh6O7kPLa3V/R/6Ty29GCU+XS3qlPmibYi+vGXnY3wnd2c7DFleD4QrBq0h9CNoL4m2+Sq/5R6WivIKXDkIAZP40cuAqUCAeZLd3z+G6Wvj9NGxDzgDrwvbj/X+lyGS59+qdFrS8W+ia/BVvW1gC2Lx7pVMZdtHOpKwTmIPLiE3KZZX9No1DBWy5t3p8z6KAVknRjZJc+FcegL+9GtnRT8uXHhFb4OyCQboVTkw5cepwWnhfQ5OsPXfVCE3Z8vevO5lA4OzXkSKZA143dI9Jg3grQJm5E7xVJG9Y/KDSkBLIbege8wP5FdokUIsprskonNgMjNaCV8oII6fEYOHFTtxeZ3309E8358VbddQz89ki11DG6rfAAAAA
+  lightMuted: 164 174 180
+lqip: data:image/webp;base64,UklGRkwCAABXRUJQVlA4IEACAACwEgCdASpkAEMAP3Gsxlw0raemLbM7mpAuCWIA1HHVhu5LrjGS2wAYzTBqyxQ2rylZRJlMnKfzUEaY+9rCH2c6ZVrDMDrDyWKQZydLCBg67MCBbvth6mV+XiQaRJ13q6D1C8VqV25HLhfPCVg1sEEBvuVI13D/REANEf9ZtUjMgMiVTIjRQi+c+1t83B2HRJYJ9FkDYIM28j2JE/OaAAD+kaaKI/4ykb/Zv88ktbmQVFXe4TqKsNhOfEF9ZzSkUg2jfiDSdUazYtcI2qSpFfXi2TWgYT0j9wlDuffd5t8Z6U2wZ53bpygObhFyoR2ZFPbt8Ln7fnhIOO5lcBE2k0HCmuQr0LWqnN8zzBsk7n+XzSLtPL6E7BxWdeSrMibS4NVPJQCSGfBiqwh9nCGju5DuMaOovl8v5IAOwSny6W5Ep80TXFrsdVnHy4WcwcDnrDFgzu7CgtXMy/BVVTmhNCNK93NmH6wZRisGrRmO3BFS/yDf6FLAmNdK5UF66mNbmUpcxH+i7qUFi7YtnLYLapcOmbWK+FFhHY+7pLJ6Aezm8Hvg1EGYrnr4Of51gBzChcnWk9G4afqSwrKef0KiyulV+/K5fvC4tm/MNcUvWQz5kLGp9MVPcEoYoayGJPoVXyhOFlXpTbnU20KNI66M9CZsxbeomQYvIqO+NTm2PaD8bAax7uIM8bAo1cnr3Q5YYQ0ND30qKizV0KzJW603OFmxKWYI44vNUa638dR0uhxDUmE5WArnbTkL+j9jfCW9gAA=
 ---
 
 I usually really don't like partial desaturation, but the pun was too tempting, with this store named "with modern colors".

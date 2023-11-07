@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - action
   - airplane
@@ -74,13 +76,13 @@ geo:
   country: France
   city: Lieusaint
 colors:
-  vibrant: 250 128 43
+  vibrant: 251 128 43
   darkVibrant: 121 16 39
   lightVibrant: 251 176 99
   muted: 87 161 160
   darkMuted: 80 46 82
   lightMuted: 170 150 117
-lqip: data:image/webp;base64,UklGRiQDAABXRUJQVlA4IBgDAADQFACdASpkAEMAP2mkx1izrSilLNSe2nAtCWwAt6+5VVkK/UX+ttDgM/+kiQPoDxuFpjxoz9Ioty3LdJmR+i827QlJfbM0B1tdFK5N/YH5YnUdsktBNvN+LdsaM9LDhNUe6QaZSYwWWrC2oB/4gNbl6IJ7y5Iu0Nwh83gNNhfY803+dqqcsNca7ufYnI3BvGdIgv+2fX9bPBvFOU+iWlthfHxIBP+8iH0f/DSmv3IAAPqD6/HkKnZiUGWsrPBQWNbmGSQpl61WyrQ4TWwMNAmusKtXke8o9uaeGmqcrgNBzZrP0IODqMSpGWMQHV8NKXDQ01knY+WgGdcQoKeElH29Og8VxRTkUABn/F1NAnNvxIgIZ79R3AJNgasS1xXz+Hstcqgv/BP5QZ9MICV2WvKyC+S4NVwMm4/24TWr4xPN+pTgbbzArabn9VATnCOQ00EDbekzcAtsU+wHgrdLPBglbl5ItpCApwqEAXnWDUxlfyKe6m0UOu0UBOrgTJibEqzVquf4Xp6FPLTGAt33uVmraEj3gwKF3xwGQSkE5pdvGGR4NF5R2D6ZvEPXtRqvnMkQQ89xoBJbcuwEgb5XoiGuMXG67gP/YT3SaYHL7kutbol8odXMkI9oo8S4ywycLf2zlgiAsCzX/3vqW4q6rep2kuFd/MonfCYNmf2kTeuXVSFSf6BFvFeWwlA9N5uAcKVJCr8ZOwJN13ypUSRpsqTPEqtfG7b8odQB1BmjHO1mwsKNF9ngfmhEl9TQga3rcvHaVe6a0JBOIhjKWoyRQOif1b9btKfjdWL+VID1g3PKoogOszrp6CfjMgL2rt8ioeVsEq4NBiW8FkW1a26gfrPOwy2oIr+wTo2jOXBeYCXa/Qh8lzXLYMw4mAFdWEmMfhXfkRK4+JkfKhhhBmZx02ax+7FgkxJEjVXDH+rsCyaesx1U2vwQf63Tr1R2SyiBZ/XnZLvOQDFkHwGKk+ZuJnAQ8FDfau/p+WLG0TDJZXl5uPex4qfpRL9Xu93Xux0zse323Yv0EVfF+c8fqAar3SW+SvOAD/gAAAA=
+lqip: data:image/webp;base64,UklGRiIDAABXRUJQVlA4IBYDAABwFACdASpkAEMAP2mgx1izrCilLbVeynAtCWwcAA1RR/Mt3420AeRQhTC4TG//Kkxh57ErcR5nV27fBEYZ4hiKO42k9hvH10yn4YIApuwniYSatLzGBtt61itOLSCo+VSZRDjjb3+GzdEFuPiEIzfrKOBMjmiBEKzvC8ZKX6UXHUyLUzb/BfSzlTKTHEUcrHk9N8ElJny1zalR777oRycnZgz50OVuZ3d1YtGAAPqX7WXOaYM+MHGs8tdlJCA2SYpoMX61xI/myCMFD8RMhif6dJXHIhTd2ltQSM5gXlow9+C8SNqbWK8EWWLz4/DOlY0A+REaz4cEvWFwqF4opakM9N4GAj9EYBfSw5XPrRw1/IJitT2oUm3Jfdu7c2yd9Bgn6wWzp9xgZkzZovMQK5Ywzr42xRcwn2SWMbAduD8UAkTfNEBhuU7rLanUAgh3LJOHyyATToZQyDwiHiPjf7hlpz0z6wtiMLQSJ3FmodFAd/7E2VGAK1LfBMcdsjyl8m7TX2gG0ses35rrZ48GZ0y/qgwvO+H+oDzv0FFXw25kwWJ6tNH4wj9v8YiyPIrsEwhYtgEGjMOLViSEbBXOFqLz8KLamzgXFe1gW9uUieX0m5ZmgwUGPHDNAywyaZIyK03QFNhpXEyfQvUI/AnSki/nQLqk2AvsiTb5tzX4lHDo66RxzzC3sM+LaSY1H6aBYDcuNBlsEzJwGPDBRfUZGTgBe15+HwxMfS6tGGtXmTE8C5o4yd336j+NRt2wSnGZgqFVVATuNl/sE/d7AU6P7ITJZQb67vsSkMtBXFwkIxB+5sJNh7EY3yyxhCnd/Be74TvJcrP96qGbdXtQ81x79+weAUWweGcXiJxFm9DEX1hfWkotdeU3NLtGbza47Cs1IY8IRb3WEMUnM1PIYxCyaFnZo3d9RYDh/a0/ai7VpdetJvZPVnV8Y7KsvCqXySmJD7EMZzlSDxCxtv2JeK1HYFof6lJPw3upOwSphKW1nuaSRYtfc21y+muTkLIE5iUOGk82yGvGxm6icsftpOAtPOrKW3ARs+AA
 ---
 
 Koezio's puzzle game will undoubtedly unsettle you, you will be questioned on all subjects and maybe where you don't expect it.

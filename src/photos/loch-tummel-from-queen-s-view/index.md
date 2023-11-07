@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - ciel
   - cloud
@@ -64,12 +66,12 @@ geo:
   country: Scotland
 colors:
   vibrant: 132 164 196
-  darkVibrant: 103 85 24
+  darkVibrant: 63 57 10
   lightVibrant: 165 189 212
-  muted: 180 132 108
-  darkMuted: 86 70 46
+  muted: 180 140 108
+  darkMuted: 87 72 47
   lightMuted: 171 188 212
-lqip: data:image/webp;base64,UklGRnwBAABXRUJQVlA4IHABAAAwDgCdASpkAEMAP22ew1i0v7glNBUcS/AtiWUAz2dPoz6KVK4WcLRwC861k54m9JqMXBhTVuW3+H01E6pfVoUXtzDiacd8QKVHlgv8M4/SNkzp4UL2wxcNX7xEIJ0v1B46crAI47T4ndmYsygcOKBJ65OFEMnzcWwgvAD+6CA1+HfOh/zhpBTABdgvqn7ykcK/D2IqOY1NYaMJc/UCr4Dkn45pQOIjzbU1ZfM6oHmRxK+kEdbrSf9GIgi6wCQg53Q+etP55JYluKR9Hr2jwpQrUz048v3dOpp9b+mxOJ+ya5F7Gm1knEnl63YRcQ5N+TlNhNJ+sAg/e3OFNNhtpenw146QSpx4N+lU9/S21X1clBHxzli/dvWzgj6uIoJmsDUqrqsayHSFPmCccvgDowVRb2aS63IuDwrZY8L1T+mVjFMF3WUW6yx8KMqW3OMqYiOt160bR2NE943zofqPZUjkmcEUubalrP4LtunbGAAAAA==
+lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAACwDgCdASpkAEMAP22ew1i0vzglNBUcS+AtiWVtXFsfbHEjpRA3l1d/Qvbzv5Ehs9WxJvSazWSejHkBTAmXK6hPQ2u2bH87Kr7Ug1M+ijtbCn9EXjAhkacfDsL9kl7bxEOm4Gupn56sjlG+DWOGhBJRkxM6FLpPsAXr63PCXAAA/sP5OX2bQWK4BIiluwL9QDU/eLxL+bFRy2jFj+wlohhfUNYo1F2I3aW6mbY11dOrYiL/fdqpn/1l14rN3jd2CDDxd8Zm1jWJOcIU0T6wxLFiFW9miLqRMTm5Xted8j6WB6Z5B2sXEzLXfFAWglpHnyPSkV3/JhQ1uujMyYzhjTVMVuXskYdbPfzx2UIS0VyP2yoTxXh+fVqsjW33LH7HfAqwSFteduFc+sdETQ8fPGk1nynCP0DOVmUig+b3YUUrffohVsPDJPlFeiCNV0XTNNxJOoVw2hGMOE7ZLHp9Kv0flQj0b51tV0zJT8AAAAA=
 ---
 
 Overlooking the long Loch Tummel, the Queen's View Scotland is one of the most famous panoramas in the area of Pitlochry (also known as Queen's view Pitlorchy). 

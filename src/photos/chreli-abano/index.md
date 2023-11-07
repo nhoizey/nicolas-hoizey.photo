@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Abanotubani
   - bath district
@@ -59,13 +61,13 @@ geo:
   country: Georgia
   city: Tbilisi
 colors:
-  vibrant: 44 175 222
-  darkVibrant: 84 102 33
+  vibrant: 43 174 222
+  darkVibrant: 56 88 12
   lightVibrant: 151 193 233
   muted: 107 134 152
   darkMuted: 48 76 102
   lightMuted: 213 187 181
-lqip: data:image/webp;base64,UklGRuwDAABXRUJQVlA4IOADAADQIwCdASpkAJYAP12cw1iyrCgvMzQ/alAriWYAxnTp+037Sm3NPsg/AuZeqtxj26YtAmp+q3MQFQk2qrQidRgWg5CYQY41KeNdpmlP0k8qDKIcz+XuYIm00VQrCn0DIJPamFUx7s+HUmAZOXvvViEAzlaxBoiQ0YOXe/uPRscixIpnW2U33/a063I9t1e9ECVaaqJarnHnsWlKBZoZHVELD1sOFluXmIQw/N4gOtkr638HnGdOvuV3UHMSN1LQdas9xUwP6ZDHfNx1vlEMdlvGsYQo5PIGYB3BsGz+rY4LsDxiP3ySSmXkXQ2nZXohALNLmKaJXANSZPC/4hCzWC+CRnA8sMJVwIfydVKZCGFyyZcv6KU+0bSW+0EROWUK+BH5iLRU2oggAP5eM0X619v6LklC/IpLwrMfphLZ4aJt5Ekh0eGJ5jeDzoIqnuKmeLZANGqPN0Ym4al/fjyZ7g3JzWH8QHpF6z5VHeAVQcPQ9EaG412oyntPbgeCkrl40Np0BGR8gJBjSTDg7/Y5OYjjdvuoL3VqobmZk6MGSA/aFLesCbSOdzelkEehbOjhYZL6csenwqmKXJfRHmMBBfJbuYE7LFE+zVIRh19aeaUTjuK5BKi/x0PRpVtToO7K5GMIntagmI+8T24P3sTSUuhBkdP76POwFNmrH/pDSJpqlv8np99F9BPvMzMJzPEa/U4c47hebXejQc03dkvKbkvuh/he8Yj6d+b4wJ4wu9NXq2nLKUz934SQlY/rOfvgvdGIBoJS1lj3+tqh9mMUVBnHNTzGLRiVF6RRUsYiDh4nzhX8i+MoZxSga5VTfWz3LdAWZZl6xrHVZ6jHKOVanv5ZT1r+ps+N+wxG0RvF1cfGIzqVWMZeK+UceLgC4cU2Q5PIXixeLTPfXZAbxa6g8yYz4bmDYGb6Wa5ie/SebFOo8pGSFC5KjWRtnVqdxcApklR5Z+xmFKF9aRRM9IQ8C1jWF2M1ELyghj0ZtwXQKwu7eEb/tybg7p+6m/0O3Nn5TkFzzEk0Y1Gd/z9dmkB9O3r1rt3iT26HG1yVtyIzuiYQiHTliyp0FVkFGZgHCjsAuimiJ/PRvFHzyxOmDex2BmMcT+dneqxROwR1IodIzLTLap3Ew+J53CtnnDxPcMIjqXUK9nNso3LvDo8DBzWwodyXs/LrUGcL5FPupgOMFOFTtYpsgJsGsKZ01aMUxgcMIWsZebvMtqVVcDa9lgOAdxyPtiyLyfyIDoWSjz5p8exuSXJtwH7OBrFw3GH70kp+1oUa9EXqcgR0sgtQ1HdPbnGjU3UkZlj9XRlB1yNEOnBqAA==
+lqip: data:image/webp;base64,UklGRvYDAABXRUJQVlA4IOoDAABQIgCdASpkAJYAP2Gcw1iyrCgvMzPfalAsCWYAxB0LkI+6FI9gNqAgnEOA7pcA49ueYyKRK2eLjMC+6JjqacPBBD60ccA6+8WklZCvnG0IPuCcHptEvVlopKh1FQ4ClBE7XPc5GK1/IO90rVadWujCOhOyDIkgZ4cflUpO8gdYEQWu4rs3svV5ggx1KNo6r1WnxWDLctOAce/3aUWisbyIN9c0cGOAe6/ORdZgt2jxkBn/5isfvwO6A+6yw6+gG00EdUvndPkghPUCODjnLrx62EInoYbAatUGqbnThfiHURlP8pyHoa4q7dwZL/P9OCFKtqQdxDDVf+bbW7vROscQhjP4MtpzEY1cYuZJKgaOOZsx8v7QrKu1vIgAAP3o4yNFEbVu2dAw0UsSOV0OayKx1l9j5zDDeDHwieBYJ7h8PJ2JNc/42rY6MyGO7B1eRibu3XS9d+nm6C1qQwtwC5hXKYtitb0uG7+/cnOf/YlMU/JIzD1Gl6uyVnvB+Zid39f3wwsqogKICaIdq52Eclrbr2gLpsfMjJpfu48EB1E6CLMn7IjUJDuRdurl8bLDi69iMFfB48whTX3XSaKqh7jqZZiosflkVpU/9z1ZAsd+XLpnOYgljDU8t/wV6OM3jijEhDpNdo8yVJXIWbZhdCDI6b6G2+pUIWur/xvNK3WZaqFShS95I1jAqbHqox+bN2+Zos6255XNn43KTOp5G3izfZDQgeK6kBkuwsUwENMn4RL0NnM4Z6fP4V4uVP6k4FPlaakDTtO0+jBO3H8/ffqnf7M16c4Yy3WzyCg0hPbfc89RO+tA7cbNguin9ic0J9LNbpQmYa3Y+Ju5K5G8G3g+vuToz0ToyN6r0ea3N8ytjXI2XzmJjY0olFXkAS63tU0qJH2/kzUCvN26d+QM/bUufc53r+uQFnEaHz5ls1Lv0qz+uSIND1lEodSp8aSSOr0Ok6GttU/qP1iIZ7n0AqXWjm0suWs1aLvKcntqM3vG4yQhZPM5d1i4lIAML5+NJlyuh3C8ayWprh3zm/XKua8Vw8m7BD3hxYT+m/kzcbguUrQW0/35Vt3IKDncjMfYCp5gHnOkYpE9MtWBHRVU/tE7YyEQr4n9axXjCDB8qmULTIenY9NRMSMI5utXCs9M5/LuTHepPCHALzM/0Wkjd5zhJNpTNTLta/mrPR/7j/prfCzdp2LsDWRy57Cgpv83XevEa293MINUrDpCnB2CiHRHLJpJORkQbrMRMu7kqzY1znlVnaa3wABKg+8v/JL/p8Dx7ry8BCLqLrrbqhb8TN5EVygD1GZNid1V93QNgjyYvAqUuYqHZOAAAAA=
 ---
 
 With its splendidly tiled mosque-like facade, Chreli-Abano (sometimes called Orbeliani Baths) is without a doubt the most iconic bathhouse in Tbilisi.

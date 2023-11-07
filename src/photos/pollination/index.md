@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - abeille
   - animal
@@ -66,9 +68,9 @@ colors:
   darkVibrant: 120 136 15
   lightVibrant: 212 217 160
   muted: 146 137 109
-  darkMuted: 81 92 48
+  darkMuted: 81 92 47
   lightMuted: 197 181 165
-lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAACQCwCdASpkAEMAP3Gsylu0rjK3K/TrouAuCWQAyntSnA667sW0Tl7y5i8ao39OJKF9z+rsJ0GDkU9fHjQiM/ZXYBkAfBVCt3SmrYrR2KtNjgAYpgk1VMP5dzTLijXdwAq2X8AeiAD+6X+sdS4wmkkY/tMyjv22xXdtFVRM8sILqrUUPKz9rD58KBOITSd5KmA7Si87xmz0Hwp9qElcvRCgjGEpEelWT7tfL1yqArQPSboOBKKellcKdJZYy7UxB55kO0UotXl23dkVfD7I96ZwA/UnWE5VXYUPR+nWmWfN0iIg5BshTg4aq2RTUzb+fmRdt9i9QNYTKcVXcoJmbIuFGNkezJz9dSxlnLnZ4JkaDA7JFs3cdzlQ/Xmufwho3x6tMAntniPfGAeLlduLSrgfTHo4DncUOeAIdZ89xH2c1zz/PZR/CfNZZDwsc6aBpVRnKsavqFNVpux/ZrF+zZpA3Y18ynwZQAA=
+lqip: data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAACwDACdASpkAEMAP3Gsylu0rjKxK/YropAuCWQAzJdSnA667sW0Tl7y5i/hT+wCiwm00ygoFb7kaELWaRZuMZUNzMY9EbLEBSWl3ry3MYkrvkUsVk/f6CbfzQbgg/yY8ixhm8zxqHSBnFiHhImPwAD+6X+sdS4wmkkiPqDrDplbPqqM2BoLnZtZxdS6ai/OhRW9ZxoQAiH4G8lwz9Ylqw2Hwp9mwSOgonFGH1o339q0VxlvJcm5RimrtkgLOE6ebR1xwEBqIsJo2ImGHvB3uNgeoNW8ggDLzUDOyGNYwoga6QiUZtuDzNjrhxbJcwmvGNTdcQ+RnchTn9XoOZjMmuHKwn41IWImKQihmc0EFu+sEcYPTwLGh3xmgICZZPwhOVwJEiVzMNsKk42fNOafHCvGYYaMK7AXHC+zhSdRa1VC1HtQN+OBPA7F+0+a/tYG2jmjLlY//BCQ/8CXDcQxDrYV3sSSc6AA
 ---
 
 The reproduction by cross-pollination of many species depends on wild bees. With them, the survival of certain species of animals is also threatened (such as certain birds, butterflies, bumblebees...).

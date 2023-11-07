@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - America
   - Amérique du Nord
@@ -75,7 +76,7 @@ colors:
   muted: 140 136 116
   darkMuted: 76 56 44
   lightMuted: 184 189 182
-lqip: data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAAAQCgCdASpkAEMAP22gv1i0rCclMH1bwpAtiWcA1QQc7XPkmJRb1Qbxddxq0d1Kb89RlR+BZV/D4HItWzY2NsP7U/zi1NqZHVNO523ewrGygFxPq9GeQzXPAAD+4rJv0JATSGFCiGuOy/uKQGnpeMN5SGBkFz7NycdgPwtQ5EMUUhmUF4r2Iw4+MG0Epk6CUEowsMZKtNAIRZMyh8H84xtgFwEs/Z98G6yOIMxmPvc3K1eomY7TM/TgAPH80AAA
+lqip: data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQCgCdASpkAEMAP22gv1i0rCclMH1bwpAtiWcA1FAc7XPkmJRb1H2Fddxq1EtAmlOwdkBachze3yIPlR6Iju3vk7Xz7G4KG5QMSsWA0GSvtTMmM2EWRtM8QAD+4rJv0JARx87ZrBN4yqwWOwqK4AzSuaM50XPs3JihELzcQzKy8fISYnVm1/3hHG4JbO5d7bVXXSnQhsAFuBGboqKZiXrGhsjXRDODQ+1kTThalhsWkv+YRvx+gRW2TpAAM/E/gAA=
 ---
 
 The Statue of Liberty was a gift to the United States from the people of France. It is an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad.

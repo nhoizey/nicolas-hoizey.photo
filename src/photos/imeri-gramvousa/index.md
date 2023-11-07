@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
+      short: Canon 17-85mm
 tags:
   - bateau
   - boat
@@ -70,11 +72,11 @@ geo:
 colors:
   vibrant: 6 128 186
   darkVibrant: 6 96 147
-  lightVibrant: 241 182 124
+  lightVibrant: 241 182 125
   muted: 110 138 149
   darkMuted: 79 62 48
   lightMuted: 185 197 202
-lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAABQDACdASpkACgAP22exVi0q6gjsNXdmpAtiWZm71eyda5Wr/w5SfwRdAqpMY/X+R5XJ8+pzity+XNLF6Xo1Wqixc8ZdQkDd0+LcKXZuY14rnxQ6qOMNp1rZc9Z8c8T0QT8ly2+SDbaDPEaAADNnqqzIZKkU4Evm9sO0WfOrlqZZqtFjRz+SdaAoJuKgaRGirzY5oLJgkLpbjhCO2PpyKy3kuu0TzRojozzlET9T400T0togPJZctpt8eEm7SQ7xrzr2KSjIXK6oC+hitg8+uHfuopudYuWdvd1leiG2M2M6seFT3DOBXrkTzHONilIO8LBhwOD3M4/1cq7mmGQAP4tMCpsSpIkstbJdF+ZU+1o8l2ArhfZUaGcr9kPS78h09a4VM4DEm8lIdhM7st6qDkntR2wWobXJ0qmClkn+MzsLYyrhqKy46XG0gOeSrGwnqTZzM0xnSAAAA==
+lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAACwCwCdASpkACgAP22exVi0q6gjsNXdmpAtiWZmQFdgPr9//5VxgMUhVJjH6/yPK5Pn1Ymyj4SGhvnckNXbqtSW3AXswvMudqUERsYhLB7lYFR9rpTXEzuo2Zi/EwRvWXGajC0tQAAAzY+40uCRTQ4k1O7/FsCHPwnA6zsx6gCO2qTKmKblZvDqiPQ8uUZkwZMEhdLcc5KSih2vyLOQHOxwECErY7WWtfCXZ+LxBL4UtdGJl0NBokF6d9Vn7f7th3neuc/S8UhGJB5ERzk8ckaTkobDru+7oSstXZRRCVWUJ2OKYHu9xVaDTwZ1Siho2vD8eWEvzmsMuxqOkmzo50JV3Bb3kEh3N7ki8N0EWoKNkV9mt8jZyjSL/ESMPjJ/bpywcCDf8OwbvjdOgqDyF0WJJhV+50juKsmt5Nfqjs28WVPuICeoTTL6CL/+/JdKaoWbTgVAApN93p1B9nIAAA==
 ---
 
 Imeri Gramvousa hosts the remains of a Venetian fort and the remains of buildings left behind by Cretan insurgents, who were compelled to live as pirates during the Greek War of Independence.

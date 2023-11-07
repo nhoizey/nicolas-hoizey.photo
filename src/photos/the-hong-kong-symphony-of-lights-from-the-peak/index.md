@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - A Symphony of Lights
   - above
@@ -80,10 +82,10 @@ geo:
   country: Hong Kong
   city: Central and Western District
 colors:
-  vibrant: 188 121 20
+  vibrant: 188 120 20
   darkVibrant: 107 65 19
-  lightVibrant: 238 213 137
-  muted: 161 94 76
+  lightVibrant: 238 213 138
+  muted: 161 93 76
   darkMuted: 68 57 54
   lightMuted: 196 177 133
 lqip: data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAABQCQCdASpkAEMAP3GmwVi7ti+jsHjrS3AuCWUA0FQ8ewIKXHWdxmh+9TdeAhkpvlOGVuEyRol7MFCBGRlz6CQBSFZ2410Fv5bDI4oeRxpPABpYgAD+7RzxIGa2a2yNoNXeN1X7F+6UaAyYyFtxY9BUtXyE35QgqM29AJ8TM6IRziotEvrE8gSk2m9ppi/YDObA6pve+Mp7Rfoyuk55Mm47SHCILbgVnfWhnqhpLvo2pQiS5xbIpiUH9YscWBqui3aVh9avV/ysiNbMAbsWvtB+WaaUYQwZgX9Z3aplI0kuPwkAn79CTJ4qh5aLTVnxEM911s5793QGigAAAAA=

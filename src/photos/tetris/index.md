@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -52,12 +54,12 @@ geo:
   city: Nakuru
 colors:
   vibrant: 62 122 167
-  darkVibrant: 108 94 36
+  darkVibrant: 108 92 36
   lightVibrant: 176 200 227
   muted: 165 141 100
   darkMuted: 61 85 41
   lightMuted: 164 180 212
-lqip: data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAABwDQCdASpkAEMAP12YtViyqzYjt7iccsAriU20S2cUSXVcynLk0b0FwV+/YYa2DPcfLpv/mhpgZc+CWZW+wZ3s7Jh+pDtSFK0PX4hFGKH3/QRgr+2n15Ikc59OCXiPTzZ1rJXn3mY25MbJCLLPybd7iW5JwAD+hEdCu5ZRIgnR3sWLt3uZlRZiR3zD4SmKBixdzPggI+krTEIsg34n8gJNSqZrSuA/b3A8iEZ3OvnmAOrYIeIuOR0xW/i8vCQrV8O5FaKU/lbHiq6llavC/pX254pFC8YfDqDUMocBjjzZqVyMPFxEMS8kr7eQILfHwZW98ot8Mq5BXd2wPinuMwIS5ApIlp91W8qTSlK/1SXgV163VrWB3HNPq/jy4Rdhr7e19jUFsiTSq0Re+VWiNAmpEaurJ3TtXSd1LMX3i7MlKh2Nn+w6XvNjT37U5ksqZCLxHQbmoEdBnLOgYYmy5qL/yfcNutOmmIEAAA==
+lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAADQDQCdASpkAEMAP12YtliyqzYlN7k7isAriU2ri0lEZpumYw7k0b0GO4uQfKI+hGbH6rY67WKke6qLXQHvoK8bLL2hXFWRNMnXI0+WuPG0qC2NNRwOCo0dfcw2JPe9E4WhIlnCzP/l+W86VBFcuBsqJsc9Hn20gAD+hEdCu5ZRF5PTJxHLjKy4clI1xr787VeoVuwzzPggI8f5DBfiQ5vNQnK6Y9fxf/G87OXDAYfnBgdDisKYgeAr9YeTH4C8vCQqwk7xQ7LHAiu46zJhDr9qfbc/XZPGYvyItRwbqGUNuH3575Yy0IL6LwQZZ2P6mfkT8hvYmFE8IZVmBEUL6dlqxs4JvT4QEIR8v3nkJ9Jj/hVjSpe8JYpCDrLcTOh6JkRvjE3OlqXWVM0E52ZsMqJcplfKR/zpmKQAfyUf0PE76Cmmt/JHtUUCH8TnwFM0s6L7Hf9JxJZPTs2OAFIr2jZ0HcXcYQK9Q2HGBnAAAAA=
 ---
 
 

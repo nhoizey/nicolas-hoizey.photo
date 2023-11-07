@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
+      short: Canon 100mm Macro
 tags:
   - animal
   - At home
@@ -68,7 +70,7 @@ geo:
   city: Draveil
 colors:
   vibrant: 197 56 17
-  darkVibrant: 108 138 11
+  darkVibrant: 107 138 11
   lightVibrant: 220 154 182
   muted: 145 166 91
   darkMuted: 103 106 55

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - bleu
   - blue
@@ -60,12 +62,12 @@ geo:
   city: Nouméa
 colors:
   vibrant: 58 114 179
-  darkVibrant: 19 91 139
+  darkVibrant: 19 90 140
   lightVibrant: 143 175 208
   muted: 98 131 171
   darkMuted: 55 79 94
-  lightMuted: 164 179 205
-lqip: data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAACwCwCdASpkAEMAP3GgwVi0v6+jslTdU/AuCUAZv4cfPCwUiMkTJDSGaxTisAwnJYzfbN+h01u6Zlq62sK2YDGpU5FKZdhs/FD7gK02Ot8QlI+l97KqekgmFGMERpqFHogXu9rmZTYA/u4D9g7sKFqAQyTqp/sMpSEJYMal18nmov+d7ocL9ULRh6YMnAlGLQfom4DdaWqKyVv2u2Bmd0gI3tcxFXxSTKrIg+j6P7mYb5+859jSAxxZv4H8sRgpvi+v8VC04PL2Xps8LLu20Kc2gkJXMQMB11T48A/Jgvm5xUmIrcFiQfATnklTlckt3kbnqgZ4iCX1f2TCxctj/Pfml1pHDMSs1brxY9eAPxnwOpSIyyYioBbkNwAcD+/cbtgcY8S7ZN9rlKzXgzjFzmnYQAA=
+  lightMuted: 164 178 205
+lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAACQCwCdASpkAEMAP22ewFi0vy8qMlZtU+AtiUAZQAeRSPxteU3X3uQgwtXgAoGE7s0svMGBvMbt95If7BwjJEuU0Xq4hV29A8oQvQKNWgI2tw3RlEgvN6TcBcz7ejTh8UsiST4yQAD+7gxHZuEFfMUi+0qjSnQESIjxKvyeai/56BzHRlZf0vSnWJm4EXYLQfom4DdaWoTi3+eo57boZDMQLS2HmVWOehdHowpS9gmdUokYFj36jd12tFXPeDbH2dAuS96hXA304MIhMuCG+xjx2zDBTGM3R+COUydaNp2gYvAJS6yL0ANoat0j8uSjQuRXuWolNf6i89nNWVYtEDuk1qU9FIAbF+uoOUS4XGZMUq+yZxzFldWuIbdhK2kbp6smna1KnpvC2FlY1iFsdCk2CMIAAA==
 ---
 
 Le Roof is a restaurant on stilts, with a room open to the lagoon. Above the water, at the end of the jetty, it welcomes people in a wooden decor with a contemporary style. At lunch or dinner, the spectacle of the sea, the fish and the reflection of the sun is splendid. Some evenings, dolphins come and party around the restaurant.

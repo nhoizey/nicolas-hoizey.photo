@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
+      short: Fuji 16-80mm
 tags:
   - architecture
   - bleu
@@ -75,7 +77,7 @@ colors:
   muted: 92 116 172
   darkMuted: 50 65 79
   lightMuted: 189 189 172
-lqip: data:image/webp;base64,UklGRkgCAABXRUJQVlA4IDwCAADwEACdASpkAEMAP22gw1i0rCevMVXtepAtiWwAuJ/Hkvyqb34ILtX4ZqYT9HE2ZJjqcJIa0WuroU4iZUuPsGMVKsB7yQTVmO1Gx5uMFV4pBeSfhD/0ZjxWxE3QjyLpPytxs647AShzp+L1X4HCdxhUT+BflR8HxmnvAJvg6QQIC2A8fr2WxLYTq/aE1/4uJ4AA/qN74xr3J0SNbMnCSufoFCoGPvn2NtGnNoIKp7R0dGcD5Y3uuG5/dtoFEtGG50REVRE3mgEfkVDdEF2DkzB6HXR4Pq6HfARFILjqTq2AIpaqMuqW3os9Hgq01Qt1vZjNWo5KjIzFpSj6ft1pn9Zr5ZGo6qh47xlOazhbHKPFx+8q5bEfIQtff7GK9N/ZeivhtkUgjqqkRxjDy91Kbq8nufL7sJU4qAgxhck8o00zJcKLW/a0XMYeSszD9ssk8FoaAV5EPaQ1xtiZ1MFo1lZPas+HhnOfaPLdlouTWKKBCAFlwEzmyXGlFN2epICAH7QqbIHBJepAJRUk1nS5TCoDTMSQwul5n1QBE5RJFRP2EUoNOc7QaQ0cHaJyNoYC+NDFxJRPFTsVsLo69yS2DKqi3aVCsyH6Lgyi8+/a7vn+H79euFkmTcZg+XEo15JlhbXYXJOcUPI+j8H58qyePffWZJ9FJe8VCD0+6Tu7hp1nSiyx5oVrYB6D59pQUEBA94xRZHFe3B7QRPEHHrjJ7i0KI9ZDvh1cvZJxQZpx/x1hVQArUf2GeJzOlJxYAA==
+lqip: data:image/webp;base64,UklGRkYCAABXRUJQVlA4IDoCAAAwEQCdASpkAEMAP2mgw1izrCevMVXtenAtCWwAuJ/RElG7z6d29acgQvUOCezWQ59J9wTQ+xbXT2e2148Rk3ksai5I8W6ZAEix0PTnj5GWuk56L8D6nuNQ7twHQWkgrtj4iwJsJB1CJS0ScMqMJuSw0J6Yg5JOLeQvt45B8WqEQQHj6d+7u8XjAzb26P6Lv6mFgAD+o9UAcaGmZypbFhFeP+ueBttIkQWZwaNvbVRoNwgCeBCbI+ZAZaVnwQG7Ms7CWYUiOdYVLbbSz9aQhZwI1rO6FAjVwpSw1+P7fHAZOsC43HnZUwzc1aj5qlQFBwjrezGatRyVVhCYY6NO+edVpXIilROukFmqdxLvaAjjA2GnOCmc08zpxpHUl34jWPEdOP7776hPCu/KIkCF08Hjxkq3i9eGrpY6rhQWCo83E3FoSU7FlmAc433kcmw4+Ln+ph658wRcKEpO5yTMzK7C+eApCk9DNEuwwBBtlsSipY9/x5xa9yNJvutskzhnHGCR5oIVWfIHNmzOv2F7kHqxaiKxRqwhJXYMT571EdABuYiRBCjolL/BquYVTT6DwIj07t3ElGrS/GFRSwPddAxFyitNhs0gZgOpcsGNScujR6NBeZEqHHqOFN5GFiuWWJRWtghy+GYB3vg/E9SL7hnVOD13fwPRaO3AH8VXEoD+r8dv60FRiMjoQdl3fcEgtrMreOzlJ/LvnbrOYs/9T871xMyFYbXqwDqH+2p1gXz7+xr38XX+mWfoAAA=
 ---
 
 Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.

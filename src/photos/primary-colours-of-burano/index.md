@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
+      short: Canon 17-85mm
 tags:
   - bleu
   - blue
@@ -61,8 +63,8 @@ geo:
   country: Italy
   city: Burano
 colors:
-  vibrant: 11 127 180
-  darkVibrant: 123 35 23
+  vibrant: 11 127 181
+  darkVibrant: 123 36 23
   lightVibrant: 143 206 238
   muted: 170 110 102
   darkMuted: 55 95 115

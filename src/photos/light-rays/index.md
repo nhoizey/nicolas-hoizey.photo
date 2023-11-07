@@ -10,11 +10,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - arbre
   - Espace Rambouillet
@@ -68,7 +71,7 @@ colors:
   muted: 192 180 138
   darkMuted: 52 66 84
   lightMuted: 119 137 163
-lqip: data:image/webp;base64,UklGRrYBAABXRUJQVlA4IKoBAADQEQCdASpkAEMAP3GcxFm0qqcjszPdIpAuCUAZ1qXNhED6Kwv/6rJhRA/S7+uGMoRDsK1Z9/sZEHIIqlQZnSdozwdD9cwmki8NawfWJ/aZus3r3B2P099Ut1ju7QH1zm/IcX4LUhuijqU35/yWDbEYd5/miCtg3Tt+p4Zyl01k4NpmEgDu4yTMJ9fdva93Q1FGtd4ygWdAAP42BuP5Xwpy/l1xa2iRaYBwn0aJnrcIIxHaEsLMJ7dm6lQWgBf5pqXNomFabsZCvblSX5Hr2eZ9wNSEHlzKAIH8qpTxH2JskuEWU4xCMILWM5iOxth9AMVg6jiiS13F8q95u3YrjlrNXBP1pY58Iz4355n+F7kiApeH+XJO8DzdPcgoC7s9P/HAi2gLqrBnj8ZNqRhwZKlI89tW5XnJRyYMAzCt3y9YXGDA13q9YdGXcCecPdlQ5gg9OBFGF5WiyYb1kQXe/jzVWvws4RXhEdH81C1pmfgKFhLbB6JK0UiK57QAVAB+vLMzoaC945ENkI/ViMrh15Swo5dvw7E/7QfXkXlU9fovL+yCaJV9LvsAAAA=
+lqip: data:image/webp;base64,UklGRr4BAABXRUJQVlA4ILIBAAAQEQCdASpkAEMAP3GcxFm0qqcjszPdIpAuCUAZx6WUg+D6Kwv/6rJhRA/S7+uGMoRDsK1Z9/sZEG+u4pxAUQlu+EN71l1Z8QJVnDU8irjvRI3r26lsIuqC9Ry3U1XRP3lDrUac8l0+JbDKFpQrTsbDI/OyqGKYlRw8HuJ8DLJb/bwDDGIpP/zu569U3ElhQjb+AP4xT+9rYN6cEDAMXyjG5tLBkSbakZIDBBGqEULMIlNg8TWQcxGBeWD8UzkM8ffwsM5w3llyyNHwxBkRB3Qsi0175vQ8LRTnXlxTl4D7RclBYc0DyLTIgdLJsTYoktdWvGZp6fHGs4raVOsxERsOKwynrjLo81lMCzhClVV5lYeFgn37p7j8gU4++63z5lIHZmKv0/DH9Aj8+e+DGFX2q8us1gvvfisaMWhEtpRITSfly611fwx9WVuFcPY3ukpFNl/Ve6zBITNqngZ133abD8yXtD+kKh75J7OFgAM2r9DEOp8J+RcEHZ6ugo8AEIFuicbqt1lhsXWWF/2HfVjBMPKqBrJbt+HYeTCiZNG0NDMqxDye4ec2AJeVPBLTDMnAAA==
 ---
 
 Espace Rambouillet is a privileged place of observation of animals and the forest created by the French National Forestry Office (ONF). It is located in the heart of the forest of Rambouillet.

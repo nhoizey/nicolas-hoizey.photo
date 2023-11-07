@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - architecture
   - circle
@@ -75,7 +77,7 @@ colors:
   muted: 104 117 141
   darkMuted: 66 58 53
   lightMuted: 192 186 177
-lqip: data:image/webp;base64,UklGRmwCAABXRUJQVlA4IGACAAAwFACdASpkAJYAP2WcwFizPq8lNXfbI9AsiWNtgjA7gdqnaSuMQQpMTTwXlRrSf06c0/jwcDGSvaxeCEtaDfyJk0T+KkIgxj1smclgjH8kIUbH6DGGgJfLzCGdzSwIiaBrqQslnPJIGxDsFf1Gn07Qdzo2Z2zUeyFvVsBzYtFnwqLyzR6gnYWRYQK5Q89jl7wrtq/Qr/yYUw390tuu32EnpjWfkMi4DoPBQAD+7/pkrJJo1llvJJsoyWTeD6fMWMlePYkTGhE1asVY1yoTPTBva8MgNIUKFLwXKeLFf/C7i/YsAqFEvec9dp6cwsfj7Yfo0Lqi+ba8acECJ2EL7TPWUktyhmPkpW/jdzEYycnpU9TOvhlMmo18oVgGuLtsYtxEKHeUaGVLk0pfDmd7+Rn2SwRF4Eani5YsjP6ywXk43VtYr/vRb86PzHHYjbcr5TM27eQDHMT/3TiNcoUiFbdRxp/8oWG7VDVpwY2B8ooVwfk0sWWU8tX/hOs3bauCk8ynTkRlaRUHyskBuqn7jkuWto0pIEJzc40XuuysK31h1Ji9XKS9Wz8XyrbxYMhRL5xRjuJLraEqEI7s1kKt1ZbXE2IjtiPyVaONQ1BGtmAjrFQsDiTVehG8R/nZ8yFut9I2Fulan7AAMBTjH//M1rtDfgidW766XN4Y1Htd6XHPCP4Tx8LHg6Rei7M/BWivW08y7tsqTcoeA2PPN+4KPIoff4AFNPYaEoyPPWIo6dWhRR9UL0KMJES3uMCySFUGwAlCuz4Kgr820at4uqPf7VJr/qj6JTJaA8ecKaFewAAAAA==
+lqip: data:image/webp;base64,UklGRmoCAABXRUJQVlA4IF4CAAAwFACdASpkAJYAP2WcwFizPq8lNXfbI9AsiWNtgjA7gdu3aSuMQQpMTTwXlRrSf06c0/jwcDGSvaxeCEtaDfyJk0T+KkIgxj1smclgjH8kIUbH6DGGgJfLzCGdzSwIiaBrqQslnPJIGxDsFf1Gn07Qdzo2Z2zUeyFvVsBzYtFnwqLyzR6gnYVVceKPSbajyvm1QCWGdRId0z13XhbEf6glxsGdy1k77vRMHAD+7/pu2pH5dAyBJJtQyWTeD6hN4LsMBrhbGhE1a2sBV3vO0gQobMMgNIUKNkB9Bf9tA/Dr4BzkVY1Evec9dp6cysq4ggpblGcsekL21q5XpUE8BEos5uAl6XMOUcb7c6uepBTdBXt+QDf4x0+Jn1/pyCBlKH+OBrns1aTmi9KgQ3JeDRDw+OtzVrUC0s/gVZw92pJO3VtYr/vRb87NPlK5xbCThJ3datr45JkXimXu/fAEITD/EaKmXUFn6OQdyJjAsI79mG5+9e0f6sHcfFIvYfTob8MFAlrTfttpnzqfimL2GZJJDBwCQgGoa2Ab1sHrOctl23vzryBPjjNA7iGKCcTmJmS2DYuBs2raehbGRkuhZayO3Ho45tatD9DXoqqj/BGQvp/4NSw9SJ1HpQZjZUjWMP/TCOwzXrX2Bz2JsnVs88/7i9XQmfJvP5MavlpzIqKUS1p3KDo6/UKBX/uRTUhB8Zx0af76gS1jkto/oXvcF+t11uyK/5sWhISjI7bRy7hCSTK19ZHYwwt9UBRawa72cUEmFtHeZRgoog8Q+8lLkI1+Kum3Ca3X6U0NSYIAAAA=
 ---
 
 The Bramante Staircase is a double helix staircase in the Vatican Museums. Wrongly attributed to Donato Bramante, this staircase was designed by Giuseppe Momo in 1932, inspired by an older one actually designed by Bramante. This staircase is a double helix, that is to say it has two staircases, one to go up, and one to go down. This way no one crosses each other in the opposite direction.

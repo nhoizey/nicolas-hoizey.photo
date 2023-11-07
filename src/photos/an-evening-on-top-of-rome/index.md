@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Europa
   - Europe
@@ -59,7 +61,7 @@ colors:
   muted: 77 118 157
   darkMuted: 82 60 48
   lightMuted: 202 181 151
-lqip: data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAAAQDACdASpkAEMAP3Goy1u0tzMlqvVcKuAuCU2iy0/hL0Cmx+OqXrIdSWw8yY4H+qSmAcXaWUXiFG+K12ie1CSeN/xl8hc4N1Xz1TjiEA6Pj3YGlL64VbLvvQaK9cPcmFGQoRZqzbvpxAAA/RufDsDYco+lbbKBPW+Jj0aVmKcLvkx5LxM01oIDJ/Do1TAIiL/JZY4QBctkSk7/yNtFjYPFaEnbAlFs++X/RUxeLlZEJ5CJ0qGsPLaPZ3ej3NcqVQe9nUunb5vbtPCZINpIM1eKxEfFZb7MO9OkHQxJahwAjkp4DYRMRWfGRINaifyNRLyVN9lt5MfSc6eI4sSDSDlEbNujAk/VUi1CAGYm2vP0MGrMuNXHCT3rTFFVUW6Vkw4PQGlFY6ydv9r5ZDKxejsHw9bhqfbKJEHCJ5MW2MdwdJvspTVcjl8kWMPYln/Kknmv0uao74RkunT1Ux988ipKt4x2g4dYGnfob844gQRy6iY+jUAAAA==
+lqip: data:image/webp;base64,UklGRooBAABXRUJQVlA4IH4BAADQDACdASpkAEMAP3Goy1u0tzMlqvVcKuAuCU2nKzW9K0o3hFJegU2Px1S9ZDqS2HmTHA/1SUwDi7Syi8Qo3xWu0Tw43lLFk+Iv1icbZ/J3NlcAkfuqHD2aBOrjr5c5e0aNxU9wBvTU7vOboBrqsSAA/VNIZfNgLXJi5V6vMqoaNQwJeIbPx5Q6WHG6QcsrZm1pai1d4j2pE4tuX0rXTnUY3r77mYJCiFw8DeVdfZq9/Kby+2Dt1Mga1acOXqTJ49zUDzpukvuVjx+4vjA8wMZUkP1Yy0hbRTTbm2O6xHV0Q4vFv4I5mDBiGC0Sgn5wzEBTOwipm8bTuutY1xItWAm7QHLKENpSJ2zsEF+BMqxGUI+T2ddvTpgYCvJ00RjlpVyClUwGfcrl+CdjrTR8kZ/lXa0YNdg+HrcNs/NuGI4UECU67KxVQNE5LWUkkNJqJ5kzYtLOcj4NciblnC1cCwJ04CR6SotZfchl5AEqITmY+KmuQ0cOIBojpoc5qzAA
 ---
 
 

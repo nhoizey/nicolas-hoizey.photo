@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - Asia
   - Asie
@@ -79,7 +80,7 @@ colors:
   muted: 166 99 97
   darkMuted: 89 60 55
   lightMuted: 159 206 212
-lqip: data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAADQCgCdASpkAEMAP3Gwyl20rr+tKhoqU/AuCUAaPwfcHMKllxMvRc3bPg7e7s/E7EWGT2s+aBhJkHoxD+vumihWoYY6TQ7dLJKfbRrXj2AzNGbv8RU5zoStsr6W/Kk4AAD+73+L2SWIUlglzGbcNgzyd9Gs/XNZtXPnNRhLEUKLguR6QnU1YcNoWgAq2SYEtc3FAissAwmiF7/nof4AnCYu87rhlQnMWkJZy45Q6dvhBcWY+6s+bHzJkVLgG8oYfcbo8avhwy+QzrmHSdiSaljUBlvh9YFjHb6xZThpXE3yiTkJO/YgfQF45cyDjNJtrzpu77T2fnlnNE9RMGyQfOkUgLaCSGunsGA+IqoAAAA=
+lqip: data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAADQCgCdASpkAEMAP3Gwyl20rr+mqhoqU/AuCUAaPwfcHMKllxMvRc3bPg7e7s/E7EWGT2s+aBhJkHoxD+vumihWoYY6TQ7dLJKfbRrXj2AzNGbv8RU5zoStsr28GajAAAD+73+L2SWIUlglzGbcNgzyd9Gs/XNZtXPnNRhLEUKLguR6QnU1YcNoWgAq2SYEtc3FAissAwmiF7/nof4AnCYu87rhlQnMWkJZy45Q6dvhBcWY+6s+bHzJkVLgG8oYfcbo8avhwy+QzrmHSdiSaljUBlvh9YFjHb6xZThpXE3yiTkJO/YgfQF45cyDjNJtrzpu77T2fnlnNE9RMGyQfOkUgdjFyLQRELk4HnlAAAAAAA==
 ---
 
 Inside a Hong Kong taxi, riding though the night

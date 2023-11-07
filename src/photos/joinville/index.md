@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - Europa
   - Europe
@@ -52,12 +54,12 @@ geo:
   city: Joinville
 colors:
   vibrant: 5 80 165
-  darkVibrant: 16 78 154
+  darkVibrant: 12 77 154
   lightVibrant: 223 231 246
   muted: 107 120 173
-  darkMuted: 57 68 73
+  darkMuted: 57 68 72
   lightMuted: 172 174 184
-lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAABQEQCdASpkAEMAP2WaxVizKygjslWeYmAsiWMA0f0q1xOt5xhCs8+g7+cz0dRCUc0dJWYmocvwX4JjpcfvleTP+/NBFJzc0ndx2kCxn8TSIfoCyl+f9b8+EGMmjM8AGsa+MhtfzFOdVaP8FR/p3wcKgtww5zCYmftt59dKeFeDm7B8bZYU/ZO4JlYktCxuwTLZ6gAA/uoUJIRJV9vF2Ej4IVvM4SYXjNnY/WV+bz//0azTKdrGEAzGBxO5kkC6SVyOPKjYHiYe+OQRql7/VeuJ/UD2JJ5hTLTAmFcGXRUY8DXSl4BLt9ETuozVPjx64MkCclYjEdPKU2GKWaFcim8kuVUOlTgsapAj/Cp0aldqWNYWJ46gZQ7xeLwWBR64RoTXqra3ANzYhar9m1trJBExWOjVIYguO8SoeUonKyNTd7M+D+X8sLyoRXwA0q4Dx9xEinvFW0lWW6ZADxgASzpgQKlTPdwpoyc2IZaLweY8zbvsX2zMkJRjO8r+UskgXIw18M6CFHwNzIN6gESdYHjl34AiUpeLkwgdv2obOK+6AAAA
+lqip: data:image/webp;base64,UklGRqQBAABXRUJQVlA4IJgBAAAQEQCdASpkAEMAP2WcxlizKygjslTeYmAsiWMA0QtQuynGEKqYK2p/aZwOtygNL+wD1o7YMGi9Yi/5h2wRktarESWNcvIAv+RPfd0xXrQYwnqFGdHgYybvr9m1HesgfDCYfCwdWmkha4fPA8dfBrnkLiwgCaN146813J+GgK6APTDXweb1z4V7CYBc08jKf5lAAP7plSIpm+C1p8umqjNZEr7lOl3vEBthW1BGrhjmkd47Nywbk5nDjHFyNLQvJ7Zh9P4O37wtQzQ53yfCgGxoZC4b5VNDxGBv1ljypTl5dWUdlgWv677hc+cuqikvqcsGrq8wKqwyhzvnbGvZTDeUybjywLzWDUVHZsY3DjVoERqSH+yMr7csqhYru2q5Bvgn0idC6WykQo/IbCRBZd6wen/XXSfQD3lCvyqDD+uNgIkyD+kxSgjphwcyyOpZhKqKqPWrD+x+yoX21clF1FhLmsgMtUkZN4ym/c6lr/lvV4cC0esNiQhGJCMg3Lz6LkLu32h2uIT8iQZWFUC34pn50oYeSNsuAAA=
 ---
 
 Joinville, also called Joinville-en-Vallage or Joinville en Champagne, is a French commune located in the Haute-Marne department, in the Grand Est region.

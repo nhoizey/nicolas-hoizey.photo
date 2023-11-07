@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
+      short: Canon 100mm Macro
 tags:
   - animal
   - aquarium
@@ -69,7 +71,7 @@ colors:
   muted: 80 142 147
   darkMuted: 52 82 88
   lightMuted: 182 184 161
-lqip: data:image/webp;base64,UklGRk4CAABXRUJQVlA4IEICAAAwEACdASpkAEMAP3GoyVu7rDKlrNScM3AuCWwtgAnEk+sWE7Syx5tinYvvTb/093Zzwendnt7GJWAhOFkbHMyxunCExq7ZbI2y3LVEgbWtZBqUF/tJkBHA6gCM7MgadlSDnc74Sgd6xAlIJXb1o0DhJs5YZLfoJ2Y6NpIPekfImcesknPPP0Om1AAA/utWacFeWnYebAHWeOGCib23UC4BC6Ze/QCRgjlOFfK+ZB344MN7dbD0IIER/hikSDMhPO3KS/a9SfijTW37H5VAR3HM2WO8psPDIbErRKgClqaljhAUorLb26jyM8Sl5iqfxFGodQHjnRg5HX+ggmlAFiLjvLnhdTLabvASCBlVWaGbsxDQREyyayqpn6kTVdmo3LnOwzBEs8R983tnC1Q9Aa8PzrHUf7djHqGz1lN/MTDFRFM0zzx9mO4y58ImOgH8AQ1jBiIwKNijM4mDaxUwEjBKF8lENXvJltvDu+juCSN096A4Qwd/D15p6yxvljdtL3+zRUzhHJrSexo+WZhLZCkrm08Rfz97W6C3gyZ5j3wRvRa72dtHJ+v+U3y63hkiTPXouB2iiz6xNxvsUKNvepALT8KE7jpEJLfFHYgI8LeOUnihycb6C2Y2RMVh7pDkl/TycTN5vOK9ZpHc76hFGxFNerAeDZKkHTMLpM7OFcrV5siagRKVtco+YXbOBJCt64Sc/fJ96v6d/9dWsefcH5klXIoRWULRXxunaHLTwPqsTwPMNFCtthPkk0ADjiXDrKAAAA==
+lqip: data:image/webp;base64,UklGRlYCAABXRUJQVlA4IEoCAAAwEACdASpkAEMAP3GmyVu7rDKlrNScM3AuCWwtgAmglCcZ08CyX6pieYwPTb/093ZzwunbN2Cd8d6IJSbGms4vJLez71DjFQnNRYb0AEdHBmgTaqlCPoInK8AfZk2HgUgXrzGub699neIIzo1EdAJcCFYtMn7ei2fGWX1RiQI3bhPsiryxC97g+AAA/utWaa8n+iwYOc8x/+Skw3Ixgid0dy8prikHLRCtlW2jBFOJZos5yxH7jFxKzFHtrREgkKU/du0mJwBldAL0s4AncZhcT6cKmGmDwlIZh0XERMB/hvYbd6HAMjPbTy7lTdtlGZG/TG/sZgDVl5wiZNlIKpOPIl6QccU+Vg+cwVYKRspjjXVDVyDAKK/mpgrpQ2eYS5NY1HcRjj22HNWSCBQTPVUa6YViy0rchnOMAYUXSmgt74YG8tY7YLswoymyNCeUiAJ66KPC4VZ4Iw/M4SindNlSdkQfwa9hSOS26+T7FM+xxez5SrW8Xq96YDMCbM70GxUOYbXW+qQkObV5kFPBXZ2C7t7GtVG4kpkwiNUTi4reICDJYGas5snQmqeK5oFzKBfJQblYKfKa/hDoJtzOSZLk7mUtGynw/ZK0ot0SynfwXljIAgwDpPFDlO+Amr39D+GezA/rSd/Gz4bw/lrZi445bNB9GxoNehjeKV7drrkPezRjbMSOJbVSk6afpCGNzc3OgNP8AtsnYPfVF5OX42ebV2ilCT23hUCu7yCAy1rr7Gs0jcjmTxpfbJlIXb9xPkxAG0Yy1y7P4AAA
 ---
 
 

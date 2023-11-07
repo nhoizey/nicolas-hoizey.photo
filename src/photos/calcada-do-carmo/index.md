@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Baixa
   - Europa
@@ -56,8 +58,8 @@ colors:
   lightVibrant: 153 194 241
   muted: 115 138 158
   darkMuted: 63 48 40
-  lightMuted: 172 191 207
-lqip: data:image/webp;base64,UklGRioCAABXRUJQVlA4IB4CAAAwEACdASpkAEMAP2mcyFizqykjsVa8enAtCWIAyon/5hQgvxWJXQD96r4WBS76mmEY2eR/OP82IEfJQQNUaRU48cqWzM3KXGXHJjEmcFSmI9QXqUvfJNd8RHoF8p8lgrcUwV63M7PWerIHMteLtOeSa/K0603TYXQ2CDqPyg4LTCSti3SRegduPAAA/lp1R651dFDpgk9bDDOVd+pHExgoV1fVKhcF2Rm8ZqnLe0aqyXLQi/HU3vp8+FywPNCBLf2Gbd+wQ39aDmexhvg7XEGNX5/NnXOVPuiFhd0iySeOQneDdb8KSR21b8lKtSvDMRiRtfA/R5VOE8abonAhXq/A9+vXT6AXIyetpjWbXSzxlQLbf1YFfWQ9acaFOVxDxMyJ8rKY2Qe6ba8F1Aa3vDcOjIu3WL9FvGcTBCnXS44y45GBa8FnoNgs6eFfI0+2T8Qpze/AIZRtOK9vfgOAniaXGKn1znPIe1+pOLNyK5TBrftyia0WUg9earTyqIcFhDCeqjCFsJMS/yoyg4rFN/7ektwaMfTObf42KM4U3I79XxnH0H+8ZmS4wYHrI+HwK7uswJ3uLn02mkOTUHwpx5RTCk3iT9UQ46E0oPGfXEmwRuZluBtsAKIg2nZRtungwkRvc0iPaa65lzDo6x0q67ePu8PuhpaE+lVMnyhzCYee4yKeISPo3+f1W062q0Ob6DO9Eux6otRM3Q+bCTwAAA==
+  lightMuted: 173 191 206
+lqip: data:image/webp;base64,UklGRioCAABXRUJQVlA4IB4CAACQEQCdASpkAEMAP22myli0ramlKvgNipAtiWIA0QDJ7/7lC+H4cb1TS4ggYBfLPjBMqMB8JfUnBtQjStvlVu4nTqSBRDiQPhCbcFg+KYOfNnPrR9onObZPY3vsvIeXEZ8Q8rz82f/8FDQEwE6QyPFyj7hrrYX5PDYB4emXM5Djv5YIdVNImDxnObY8U4brT3iXHzV4gAD+WddStk6ow6KAr2xb4jaFmwLydXXl4ps5DUmgqvpcfM7xxAoOyN2DSJp4h24iXSoCgDhPB6IhPDg6OOGTErCsw8P8Biu08m6DeJXeJRprH4s2AvrFCS0aC3qXj4a2/CPALO8INq2DMot74fSGzs7QydUx7kcPNwSgYorE9hWLxTdaS/UCa/ciKVhEivBeTRXhFk7xQ1pm+5MPEJl7NcZXG4cODK+CP8H9/CMJl2JiFo99Bn+fDxNenjiVqHFXlvCU3CxN3bahV3uPHq1cyXP7vmiWkXqdm+IMrv0JSN2sEPaZEr3j8+jZH0UuofnxUQ8ijz/34YfwmDvfJ6LiJpJRLlYaQWCiYmHUt45dSrRgZIZs9y6SfDzxz84JwIJ4H8YfpwVPdqFWd+r9IYBRDirRBrzR1P04ljdEVkViL5nz96rIBbA3oK4ghJk45udYge6C8XAQI2FeufKMFr48LKbK4rc1a0KqikhlUvCoi6pPU8IYDq07DWAjwoG7DtOtvQrdHoJvdDKAAA==
 ---
 
 The steep and curvilinear Calçada do Carmo, formerly known as Calçadinha do Carmo, descends from Largo do Carmo to Rossio and is one of the oldest routes of the historical route connecting the hill of Carmo and Baixa.

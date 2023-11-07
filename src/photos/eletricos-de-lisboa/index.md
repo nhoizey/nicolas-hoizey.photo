@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Europa
   - Europe
@@ -70,11 +72,11 @@ geo:
   country: Portugal
   city: Lisboa
 colors:
-  vibrant: 4 100 220
+  vibrant: 4 108 220
   darkVibrant: 107 76 14
   lightVibrant: 133 184 236
-  muted: 156 126 112
-  darkMuted: 48 69 94
+  muted: 156 125 112
+  darkMuted: 49 69 93
   lightMuted: 186 200 212
 lqip: data:image/webp;base64,UklGRnwBAABXRUJQVlA4IHABAADQCwCdASpkAEMAP3Gkx1m0rCiqsVa6ApAuCUAZ1qVNI1o8Vv47ZLh50GF2MoSB/kua2Acw40DQncCPR6fDDuD4liiHMNtvlqOuo1cjwU057GaLLZnv+9Z66nn37xzz8HKEtSo9fXEAAP7tDDi359mekRKTTs2P4LvHTE81VI0IxU70/OnSnQ4YVFjUhAIs/QgxuGNmzvYkQ8g6g6ctuejfXpQQGyRuni+KnbfCjJoUkpjatBjgcc3aT8/DdqDfbkJmzWL4/vni4qy0GiPWe/A2EBl2wdX9HZ908I48q/3652oQl5qSNF3y3O/l82LT9UMlhKbkL6uGuIh629OxG1qq4nUgsS8qQ5KZ2uDi2VV3WPloCF++vvmjLkhIUzMmuuFxbOEa91TWteMjQQd9MGxspr9OzzJnLlCWTk/ohIOeb80J+YwiKHUkwroHkeg2fdwswuLUWXAXqknq1/nVqBv0D2U2e0LHD8gGO39MAAAAAA==
 ---

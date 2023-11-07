@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - ambiance
   - atmosphere
@@ -71,7 +73,7 @@ colors:
   lightVibrant: 249 209 121
   muted: 147 122 101
   darkMuted: 75 55 43
-  lightMuted: 173 176 188
+  lightMuted: 172 176 188
 lqip: data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBwCdASpkAEMAP3G42GK0r6ymJJzISpAuCWcA1QyroOPQlsE/PMCTuX44s5AGNEuY4lnHmivFEhmr5WJrJ95gAAD+7c1NvorbgiVcnlFn4A+yqNdTQScDDL7i2iZzdDCpdHrbR6EYcNJ5tYtjmDM12gVIwZ8as+wmbfx32uAv0f/BCWrOgpQZeOwAbPW5RAA=
 ---
 

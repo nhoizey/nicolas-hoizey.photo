@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - Aqua Luna
   - Asia
@@ -63,13 +64,13 @@ geo:
   country: Hong Kong
   city: Kowloon
 colors:
-  vibrant: 142 26 30
+  vibrant: 142 25 29
   darkVibrant: 98 16 12
   lightVibrant: 147 182 210
-  muted: 94 106 157
+  muted: 93 106 157
   darkMuted: 94 49 63
   lightMuted: 203 177 178
-lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAAAQDACdASpkAEMAP3GozFw0rL+kKvQMK/AuCUAZkoo3U+h5W9AcO0GCpiKjHN3cYuxDiSH2JkKPFaIddTrIWdIbAtITP4ywLVZ/X8DIVEXh6Up+aH3DP7Mfp0C0sX3Vd6f+5rF24Qo7wAAA/tFqj/af493NF784r9I2abQInmBTKjs2A4eEArPB8oi4VEpC1JlNNtZEHAc67Dvpwrp13NfamPpy/9AIfiJ09e6w3SsycOpPzdY1vGbnMv7yzHkVJkmc4XWgcM9nyBjYGCYB5ksi9OTQT27ggELxxxJfd5GXZpFW9dcxmykcdUziqXf1U1Sx9T7+YozNkSlPjr/JfbkdqUep0DCB7nc9jZR6jWVm20Ns1f8LDBwMqsgkiLiiMKXkWsRLkIkJePwTvMWH8M3ZUnB5+eC/81vnySewkUBSBV+DzWeBbwOzDOUwTAVrzYVwqgAA
+lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAABwCwCdASpkAEMAP3Goy1y0rD+kqvK8K/AuCUAZbQrpKNpUaMN5NJwKcjIGr40UkAlTxDiSGc7wCZtMOmvjtVzg8GD5Br1r+QmINnZvKMzYlEpzXY0DWS7+6OdHMEC+pghLZ9zAAP7RamUb9j+JcFXAKobMPFWZ342uniiKQZ4YPnV4NYoNLbQ21U9rI0mtjws0pdD/uAGwsJZc1yIzWivkeVu91VXmSA4+HCPtd+dnUl/Pqk4unUadfAW+W1eH58iJ7avXclKWe8DDyhheJXFsHPBWoazbq6Cuu+W8FJGOLxQhvym5nW9S6ZAS0sfU+/mXxECWBuPEf96I6lYf1Wa2AiqgBB2gMM5r8P0AQJ3aA+s702uUDh+nPFiOHmIoMbWC8YyyhYGTUahuVD4NxWf1skK+pn5FOH/xiegnEkbyEi4PozxbNtnGuGiPr25liTFPaEQAAAA=
 ---
 
 Many boats sail on Victoria Bay in Hing-Kong, but none of them are as spectacular as the <a href="https://aqualuna.com.hk/">Aqua Luna</a>, her red sails and small lights make her the most famous Chinese sailing boat in Hong Kong.

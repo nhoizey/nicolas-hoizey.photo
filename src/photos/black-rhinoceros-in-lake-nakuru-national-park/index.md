@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -80,7 +83,7 @@ colors:
   muted: 144 127 120
   darkMuted: 80 65 57
   lightMuted: 215 195 179
-lqip: data:image/webp;base64,UklGRqABAABXRUJQVlA4IJQBAACQDQCdASpkAEMAP2WavlizK6YjtRZN+mAsiWdrLF5wJmeI0qFHKJVPn2eEzPHdn+e5C8PliimxSsGjhh5jN9UNQETrTemMYuY9kUmydBbsAIbf7BuTDVBF7LeYluQ377O91WL06qqMbD7P6sb06v2Iht+xFlAAqPrH1QI+Ojck3JZ7hXsueuItZytIOKQ5pQbxnyziNEsnk/+OtTzM0jPKLpH/CBKlu73ithEm7UXbssLznTKHIFyJOT9ZnDPAfso+9GwTnsVHfG1b3EYF5lvNKpnwx8BPtPvqzvWWtAN2+NWcXYLzWG1bC+Xu9Sa7+0Lh33Qk2JpPVFTvRwAYn2HCpW6fvh1kSH+/Fg42nPODAsTvsfriVR4mpJi+cIiKS0p24CH2P6O/epaucvcfb/S80WiGcDVcLoBv75wg51Xeoc9wEY8xa2Se2s3ihdZOBoimjDxBREJlK02yka6HCEMwipm1xxXdQANgkotnxoqqbtRu1G7UzWZ3w3rMikiqF0wefhfOGh9Gl+53W67vtGoRxYAAAA==
+lqip: data:image/webp;base64,UklGRpwBAABXRUJQVlA4IJABAACwDgCdASpkAEMAP2mcvlizqyYjtRTt+nAtCWcA1JLWNJngwKQW/vm4beMROEZpJvazX7uWzKEhzjM8rCsNTpKFQba5/1m3R6XmpUbSNqB3rynqEQpCqk3hMbf6xNZoYiZPOzqMFlHh68ll7utJ2u3eJWSp8+9Jv83ARfsKqAAAqPtPlmdk8uaa6zU7/YdQKqOFxTXctuegEPEvmt8U/qQ9HS4P9VAXK703nvxjwcjrngr+rie58jLpRfc29T22qkohodhwWwwzYqUK7Ww6DPqiM0tdr+84mpKithwZqukSlWq6OstUT6MRJcimP/ez2TUSnTW1tKABcbekNpmZFyqI/q0xVNfIMQJKDSiK9DoIGovzFKIgewQlkRPwn8iv0fjoz3Up9+CO9lQMChNDjAWvtQigVFWirw/d/29jh92lhhj5JYnXy08gLdtaH6ynqo9JRnEICs/qkymfuDg6D5cHEZOHaaLwRPjoAilMvnETeRVQX/lp3QFot7O3Kyc8P+lskYm/EgLfXoCDZPgLt8gA
 ---
 
 Lake Nakuru is well known in Kenya for its rhino population, and it has one hundred white and fifty black rhinos to be seen.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -61,12 +63,12 @@ geo:
   city: Kiambu
 colors:
   vibrant: 5 89 182
-  darkVibrant: 5 73 149
-  lightVibrant: 119 168 228
+  darkVibrant: 6 74 149
+  lightVibrant: 119 169 228
   muted: 163 119 91
   darkMuted: 87 59 45
-  lightMuted: 146 163 190
-lqip: data:image/webp;base64,UklGRuABAABXRUJQVlA4INQBAABQEACdASpkAEMAP3GoyVo0rTulLbRMY3AuCWQAzFCcDnPblP8wvtT0w6LODHrJJqz0NmXFkFe3w+ACdoghxDcSjHovW6+lLvZSvdUQT5lIxx57kji/MPM+EyvYaFWgx7xRLA7CLw73QBM1SiRIiOcyv9QTqCogHm5mNz8up0392OOZg796MfpzJg9wAMvgF9dmnGI/+07NiUDaZI2IFPKQICuiNOgircWBLTpahCxsoVACq0dnls5Fw6YsqDBiXKLfMnp7xEYLMAQ94yUhPZD0kfwFIajxzyqJt8PxpGaCdXjKgPWIe+ESuQnKVc6p/QhHSSpPOsthqa2CkgVyBY5Uit2Hl53CVSGr9yR7aLhzZ1fHhjemWOdkdgJ2wdJ15Hpj6HTXU2ufPeJlCLerM4paTUMJR7NseGeEL5aPn2X7mcrVZyPUbqWi8AwXbPjY22JUCAlM/JWYouPXJpvGdYnQo8VTwtlMWlcmD6MsGIQsKl612jrcqbeb1/vCMr8wK2glAPVYxu5n6gdEXp6JM3MMB1HQr6TWIOo6E2Aet7OU8BvbMRQdap+RZypHlke+eFrb+7d9dIgOX2b1NjBHFxkB5VwDRdDrcFt4y5Y47AdbqoAAAAA=
+  lightMuted: 145 163 190
+lqip: data:image/webp;base64,UklGRt4BAABXRUJQVlA4INIBAAAwDwCdASpkAEMAP3GoyVo0rTulLNSck3AuCWQAyUThr/5hXikHaHnS0fKF0xETa66KuEadLIT3ua2AxLhcsK8BHlKAe26lEOMTXdvBqOgDZa4pHzVHEpIMLUi3z3Qr1SFdF6Vl3novfVLQGMjjMhwuHtDx2dHwxNynnmoSjgFkhU3AAMvgF9dmlOjh92kzBmloGtzxy4EmdlnMgFyPRDmbZK8Dit7WxeaIx+5OcC4oEXeoy7zf1ka3YcQAhKISPlX453orQV2mZOifa8wF6glly+0oUZMtXEebqs1cE0AS4GkTT6EufAF1dqC+himrynpDTgtgj6XZeY9nEWPh7hpI43YbwTsp0PTAb1FD1YuBEk78Ef/mW87gxC4UVQjlwUAYqhKUELvw8EjefQU+MGOiJhFZQJBQHepcgJc7rtAn9hl0/T3Sbgu9hN7nwf9K+kRui/JVE3F3RirAj5kH44epaOzcPCDDul4fWBOquRR+Hn4UyTufgMbGKIFVXGIgN0Irdbj50FQNSmBzQVlkuCQJ+BlGpqHxgRMlSZjfxfapKwzAlGVV9+bB4hcxWY/vH8SEvNKRpnfMgZDL/yrrzN2LkJiQmLz3AlxwzViIU2JZAgAA
 ---
 
 Kenya is among the countries identified as having unsafe tap water. It is one of 187 countries in the world where tap water is considered unsafe.

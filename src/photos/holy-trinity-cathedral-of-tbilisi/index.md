@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Cathédrale de la Sainte-Trinité de Tbilissi
   - Caucase
@@ -62,12 +64,12 @@ geo:
   city: Tbilisi
 colors:
   vibrant: 219 175 71
-  darkVibrant: 125 104 22
+  darkVibrant: 124 104 21
   lightVibrant: 190 163 116
   muted: 169 132 83
   darkMuted: 95 77 50
-  lightMuted: 192 199 194
-lqip: data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAADQDACdASpkAEMAP3GkyFm0rD+vq/idE/AuCWUAz9xbV4Rc/DGg02+TEmile2UWrwphkd24x26BT9KA289dySygwg/i0qakq3MWIR+LL0lbFO8/9bPjZnsd4NvQFI3JXkAKzJsc12ACWRL1sKNM5oAA/u3E1c8nulm/KfO2sYffSzKRW3xgjYzmErlNmtSQwQjfpopO4lv1QgN1sHJOONanETbhQiQmnCkz/PwtxPzSx+8llxZaL1Iv0MfBTIhI8wAceAPOUwL8xfTkHOhNGHKi0tOuZfEUQJlVL1fOG3wnO3afFdC4q81Don6Kf6DvgX9nA0VipZflHPI7kkvcItnOkzA1aANAT/0H+zjqRetzjDJAo7lgrrg8DGAxm8XKed4LGFVVi/RfhD9jl9e8+hdD95cHgiuf+fHfWVyrWdbecWIKL3Z/vrhwUYIwMuHgAAA=
+  lightMuted: 191 191 177
+lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAADwDACdASpkAEMAP3GmyVo0rL+wKvlc2/AuCWUA0JBWoTHQC7t9rH8tE27KMJ5mp3m6ceBk/dofiZXaHuQwhaOLycyQ/+Jy33g/0I66eAnxDTqV1y9vGR+DR9S/iFmRjamjaJNPcQL9CSSPhgS3gRFUAP7txNXPK1qbWPRsBGC61I3UzDmtqQcwcTeVg+TtxjVmo0uTKD0W+ZZgcI9OKSM1s0Xxy5sjNHwt0VvKs+rINnJpfMIZIa0K//5SKBofDPs69szxbY+BAT34WTZ/z+sceFGtB4hj0mW/HSjkcd1eOyLCMefFMgswK7C1lugmbANM8A3r2t1GaiECVzQGbfJAVyheUpJ0HccLXmwpmlEikF+LCFz5mqjcKf4uZu5xGoTPhXUHpBCHqa0uPE3i3X/lsppPQrcXms17Kz8SQsrobZvXzY+hQN5ZIo7eoEjAXgJTu3uqAAA=
 ---
 
 The Holy Trinity Cathedral of Tbilisi (commonly known as Sameba) is the third-tallest Eastern Orthodox cathedral in the world and one of the largest religious buildings in the world by total area. Sameba is a synthesis of traditional styles dominating the Georgian church architecture at various stages in history and has some Byzantine undertones.

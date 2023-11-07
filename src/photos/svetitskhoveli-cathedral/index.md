@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Cathédrale de Svétitskhovéli
   - Caucase
@@ -63,13 +65,13 @@ geo:
   country: Georgia
   city: Mtskheta
 colors:
-  vibrant: 204 88 44
+  vibrant: 206 92 46
   darkVibrant: 18 40 9
-  lightVibrant: 227 185 115
+  lightVibrant: 226 185 115
   muted: 92 144 177
-  darkMuted: 85 75 56
-  lightMuted: 204 193 164
-lqip: data:image/webp;base64,UklGRngBAABXRUJQVlA4IGwBAADQDACdASpkAEMAP3Gqy1s0rTMrLNN7ypAuCWIAx29RhC7tz4oI77jggfOrtFNpyKaAn+5YN2Gz9VFz3xegPUE1gj7Pm2mQ3p6FyithBXauI0NjobV7YcbhtwZrOB9KwwsEFzAD0ByrmXPVguQTpAAA/d/HCiU25ezjCaSWtdU60qZqVoJh5DD9ITLBWy/pZb/VRUhRdwGKo/Vb+frvLRTQSxXoZbTc2oZzfbQrckOzDs3xHB4pLknyhqqfmXFs3UjXgBA/VdJZnuQs8FbIT5EOrvaZkHLPGY9Q/WvYE4x8XoOl0RoHx3C212RqRoLotY7yE9TtsPepx8msBPjrSEkPgK9pXlXZkQxfQrBfIOxRxJwZnig8D2zCGkyj1VMwl6u5r9zCtttrQhqTR24wReTn9kEpPg++zxogqhoD1CX5Tux3cWmYjaYXnHMSMzCqB7jDGVXxjiGnHDDT9SOxeajZEGLN+pGtplCQAAAA
+  darkMuted: 85 75 55
+  lightMuted: 205 193 164
+lqip: data:image/webp;base64,UklGRoYBAABXRUJQVlA4IHoBAADQDACdASpkAEMAP3Goy1w0rDMsLNJLypAuCWIAxzBTaCx3+93REVgnw9Wq8GkiomPBIBQMTcJ1ej9RaBxESKl5negJq4Wp38HpIbXkfIP+cp+fjMZbirJr9BdXjfMVABU2svK+IEgC1t/JvvP450AA/d/HCiVemwP4wmklKsEPm9T7ZUVdxnyiDZcODcmw6h5fa7MhGq+DFUfqt/HjEAxnRTuUE8qK0eT9xBzRAeYyAJdVDzsgFFmDma6cuSJ+QvEq2bqRkQDrE63sThkmwNMGmJ/c2iEFpG7Pt2AB4y46YIC5djFhoaZnXrlHPzsmYElFi+7fRK4SWcc1gKbXhWFxW3HfAESJFn8w6dL6sVEfn7r/kb99U9k7QGC+dNgiNvZX66J5uVp7EA/j8f7DiIl6HTZmMxnXRuGTR24wPUh/4xAXqWI2CPv6MwqRmqflHDDPjUdCXORa4um89rEzPTtDBEcIlr5PtOnmbr7Ztf9d6GnYDRgAha5AAAA=
 ---
 
 A masterpiece of the Early and High Middle Ages, Svetitskhoveli is recognized by UNESCO as a World Heritage Site.

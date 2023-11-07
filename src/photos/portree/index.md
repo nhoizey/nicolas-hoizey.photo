@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - bateau
   - boat
@@ -95,7 +97,7 @@ colors:
   muted: 170 83 140
   darkMuted: 80 73 58
   lightMuted: 156 180 196
-lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAACwDgCdASpkAEMAP2Gew1iyrLAvNBl7slAsCWctgAq1K3AyqAXm9RML1A1cOydCG+01MdM32/SVXixaA50QznFg6H7Zsji6DpYblZrg30tIKdNg//JGuQN5co0ddCpk8g5+broG9E4OqznFk72BlM0oaicFX2iX9K2DH2BOaQAA/uK3VHOH93hm6LE0g87u30A+VplWjv5bkmxIOdc7tXhoiAbXFznoGXNcXDWiOaewXFa2Z12hdPTOb5jlnZSwo9yHlwQeQ+IFJU8POTbVd2wJG0UeJcLKXgLK6extFLLfUoKa0adVjYywush/PJaU0v2nDdnAqeWsY3CsnftIMpLkUVx3TRPDey9R8Szuu7StgGc34iyctOxDEvnIzYv1Sx9bY3ehNBC4RYwzjo5utLb4sFNcO0Kuq8pW//bB/N8XBbtAaw9VFUSh5I0MKSzMJ9G8uRSaAAA=
+lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAACwDwCdASpkAEMAP2Gew1iyrLAvNBl7slAsCWcA1BdR08AwkKJtuXM+vcr1bld+s+D4qXtF1fyVKV4bounJXraH7GAR6X8iAADVpEkf/OWCD0YBCbiBvwrVY6dGvEArTPS2+7FzTWiOp++9rqNoxUuWZfFW5i8W+96v+NlRPO52z1qDlWbkAAD+4rdUc4f3imkP60wQoaWwCbRRMGTDqdJ4z+HgWTuMoV/PlU2LC54IrM0Y/oRek6llhjdLtiy6emc3zJp2iJSueKTGQ6E5pTGMCLH1A9mDFbjFcgH+zui976SO5pWEYpPR7l/A1WFai7aWv16K+3wbYWHwlDxlJKxGwVt0qBHedGszeXxmNaSSUlGd1Pf4HXoR+IsnLTsaNBXsGvCkxgOSsSwahPY510AmaSb2WMO94Toioapm7MY6dAGtr896evWNtk0AN3MrqxdozUiLQcacoAAA
 ---
 
 Portree is the largest town on the Isle of Skye in the Inner Hebrides of Scotland.

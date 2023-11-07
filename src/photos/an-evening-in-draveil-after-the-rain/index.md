@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - arbre
   - ciel
@@ -73,13 +75,13 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 52 100 156
-  darkVibrant: 26 65 94
-  lightVibrant: 148 180 228
+  vibrant: 52 100 152
+  darkVibrant: 27 65 95
+  lightVibrant: 148 180 229
   muted: 97 107 158
   darkMuted: 50 53 73
   lightMuted: 202 179 175
-lqip: data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAADQCwCdASpkAEMAP3Gkxlk7rCejr5Wsc3AuCUAZopGn2oF7NawAAAM31S8Ragm5wAn2h/JTzL6BQGfoZOXwi1/IN/rYyo4kLqMpzTnUj9c0xTY+bjxl0ZU8y/OcZPrKBSmG4FtUBRygAPRZ0oNPYQRgXVS5P4j9BZJpoLFN4rSl/xBPXSSGykJH6Kjvp5MbXRi8ohhBc7QpvFtC9IMvZFHrRm5K1VMfOIHDbsL9vXzuWDBnRqiMmeKoPQrtx/N3W4MABTgzcAJQqur4Zw/QE1fIYGDoFIiwZsAPiDqhuzr2OOOCqxTR4mXewVFQMDe+TKSqtEXZdChJzHtkVpKpIBeJfhIZkYcOHa9E1oeyQykVnw0Iyogq5pWd4E9dGSeptvDkTpiznjrvZjRwJ6Ww6rgUypgz7j/KJayP32f3FKq15+dsD5t3mTiyVeQcNaaYBDS4Yul/T0v6hcFQAAA=
+lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAAAQCwCdASpkAEMAP3GixVk7taejsHVcO3AuCUWwAU+K99SSv3QAAATZKeoPJJi9OAQWwRxzkhGYpwktCR+XLiBg3jrs658FLfUl8EOPwOqEjhk/eTA0eSABtddie3yEJC8AAPnZigB/sWBygycxYdbZh+czGtqOzhXrcdWz27dfgDvLVznjZivPLsG5T2ccR42/k+mLZmo35wwv9JQVseIt+3OhOk8mzLCsY+lkoO9+cz7UmBdofqGyAvwdRWEeENYjK/bKz4MOqMvtQQiBEX+FKsZ8nishX/vfxc+DAId+8jqjxrn1JrW7oKHTLkw7m9DSuHySwkExwr1XF6wpwZHgpp5TjEekS0v6+N4Jg/qdnq0/T3lWcN4aGG3ByHrisIsLYwePyRJ+QOJWsjXHQeXswTxdk1PtQij+Kyp7kXxcnwuWhCEIXpF4A+5HkfU2jHIeifg2sgAAAA==
 ---
 
 On the shore of Étang Laveyssière, in Draveil's Port aux Cerises

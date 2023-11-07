@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Angleterre
   - England
@@ -74,7 +76,7 @@ colors:
   muted: 113 139 168
   darkMuted: 58 68 82
   lightMuted: 164 179 203
-lqip: data:image/webp;base64,UklGRnoCAABXRUJQVlA4IG4CAACQFwCdASpkAJYAP3GmzFs0rL2wrjKbe7AuCUAZ7VrE+fnpYoANsczM1+F12I+KaDPjwNhJGGBHpyINZZK2GjS0ZMWZlCBM299obgE+rCWWwmyiq/PP8YeMJ9gMT88v2Jxh2ncFV+lZcrDWEKyuD4GGSbxVaJD9QSFwfj/eHpT1paDNglsR/ViKQFM6x+ZHR9Z/dZa1gu4VJtB/hsUzD7/HqFMwOMTusXbz0W2uDtU0K3B0cj3dZJQQVhymusrey5h2WSuWCAD+kU61u9WksWxoPi5U6oqTsnOhOi9sFEX47y5CvbP1X+CZ+SXcjWdjuzNk8D1VFz/txOkSZVI6V4I7ZysTaCNRyBgcwvK4NH0V3MkMn/d1R/uOPemhAc4NV6EK22bY9DxagBdMySID7jIsywtPsIscUPmfEggghmsWYZxrvQ7l5WwsXm+VEe+bPLqH6zs7zbv4TyOBJo+8dG+MVznMZaF6Ex0XkIE9xLClMsHDqKagr6G1esgTJ26ZDKGEwD7R/zRZWjf/W79pER43i4SKzefZdrretg/wJ7OpbQ4N8N4SV+MqRbpA7EDpYPx7VClQ48/LiL+/cAt5Lpf27DHAhcjTQ46du55iD7KfAb65R9cF1mWHFUMCtGTkFRifa8Im2i5nQ/Dt/rXi/cTu6NxQWYNKYwfyx96CzR1foWtiKLejwgpnnp/JRhT4G9o0TCn/bjjYt3Ax9DRFR5hIFliEQo5ytJWympPrscAn8D6XV/oS06MET5hhfBwGNZP4JLSpBZh3URia/8EcwXprv4sR4H1ajoE3575fBeyOU9CufKHvc5tgAnNoAAAA
+lqip: data:image/webp;base64,UklGRoQCAABXRUJQVlA4IHgCAADwFwCdASpkAJYAP3GmzFu0rD2xLbK7m7AuCUDPU6Oq/y90Ppl6WJ54cHojzTNJ/LlX1s5xGIyt9leErinE1LYflMB3Uu3yiPwdFSPuC6X/ilg1Bzfe77X6UFZVwNg1V7KinbigM65nzjWv6MZMa4mwu1xW92K2U4FXBNJ9EM/tdMbZxEMcFMdtE8iCNE3FVpLJi5cjui/R1HAUQBuN/lC1J3W8fR3Y0f0iVUVdRba4Np2Iw5cMm8UG2IY3HsxL2xdzY4b79rJf4AD+kU61u8q9Ngfcn6WtozmZ2s3IhvEJe9LdJvtKPXlchdN/jj7wNODlx0PIZR1ahGgpAI09Q803St/2WhaiDEdDFku8/3vdFW7mID7q6ASd76TG6UlFy9adphScR35Pg3OSMF+w8znSz2R9aszdUv46RygrX8xbQ//s8VP8cEHQnplkvWu+OOHzQDDsmBO2vDGBhZxKn4/lpgZXQU5AbuRgfjTgTNIfieyHuhI6SPS+4oQqcC4MzeRpx2ewSQSrB5lsLqdM30Na+HErs5Caz4zred5djBQ/pLgJjlVdVATGBqOa/+Q3hgLiWpOLXLkriyjnCGktpByAQMbUfel2W0Q5CCQdXjdOYhGw7DWaQBCFIp+OARfSVzzeKB6rqDeTdZV/9UqJZvs94dv9a9TxsmQIEYwfCaz00sWPcIAlt2LsWyoTsD1fsnl8NrfaLVt10MS0TAEd6wMJLq+frsaJSR68ndWrIXcJfEtFm1/DEj2qmChWO1zL9MinfTnqGLFbDKCtaxGgmKZMD9mmIqRsxlHSLL3IaOHNDvWmxsLgOYuOe5X+ZykFAR6CYwh5lEAAAA==
 ---
 
 St. Pancras station is the terminus of the Eurostar in London.

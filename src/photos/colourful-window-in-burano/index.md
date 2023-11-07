@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
 tags:
   - blanc
   - Burano

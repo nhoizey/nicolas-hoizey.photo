@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - arbre
   - Asia
@@ -67,7 +68,7 @@ colors:
   muted: 170 148 104
   darkMuted: 54 73 45
   lightMuted: 181 178 171
-lqip: data:image/webp;base64,UklGRhgCAABXRUJQVlA4IAwCAABwGACdASpkAF0AP02UvViwqzulOdgN+3ApiWUA0rSSHkqXEg5JnrbOBKTU2zwxaRuK5xzmgjyb11nLPs0I+E7+kXUd395ZajjqqO6userHHfFdf6SEjIn5PHbfRm9NIW3/f+IxcrbbvcXkW6f9KxE1aqYBJjXEaKNTEx6FRzFizpZd/z4kw6csb3BeVUNPpUeOaPInkl6iRZ7uGP3JIA6VQzg7SOvZJ6/wma+i0KKMTQXQnv5OwFjSQFHOU8A6Vs0okr7sca+oqS2vYKAA/u805WTqLkG7Curtj0qczBAkxBR4DnTtQfpRP9ygLZF1VV75Eq7iq/zDKbOVpeYqB+C6shSZxqFFhtzDfKohD+Hsr4bU+jB1Ku9mcZGLsYADuwjW+LMFH/fU+F1LB80N5KH8/g+eun0Fa0dlq9yB9IfW2gkRxkH0oWXZArUUGKEBH33Uf0jipZsDDXeE64GFNDqVJ1dofY7LRzhFWheIQRKrRuIj4Wx4d0MRwbh3RHwkz7SPz5buzBQFPeJ7nBKms3hCoE3jcmAW9VHE/ufC9PMRJhzF+RAzCEjkccCmW1/aH00JABUEy47ikHCPMMmuiVdNYrggV4L7lptIBoBtz0sHTkBdXYAf2GnzRFjR5I7Y4V741pHIz2bM76/2iD81RHKy/zOmtJ/QGIZEKIHTCwRW0Bg3gTLUKcZS4A4QAA==
+lqip: data:image/webp;base64,UklGRgwCAABXRUJQVlA4IAACAABwFwCdASpkAF0AP1GUv1iwqyc5uFh9mzAqCWUA1BkphwVKgbWOK+zfJt3VLcpvnoJhMdhKUvSf6Y+DE+R44mvfPAR5WzTuZwUT3+av5pUHo5+DuHTnZ15VPMFr9kVG3PynQhMHXul5UF0HSOl6PCbYFqFDtty+9KqifyZytyyAr2N0xbQKcxKWCS2uBVnc0413tRSKr5FSPAgW3zG0PiBw7uw8Ojdc0qV1OLAdHu+Mh+fzVh1KZ9+HNi1aJqYT8E9MxAIAAP7u4Iuiaa2ent/0R6qQXzbaYMxzcD+xReufMEKUcKo9aZwtT6zdMOPNZWL0u8XSYe5/OTZQLihJOC26xvGDtF4iMoiRak4Rex7k4vHC+KwWa/bZFvMisKsbM5eFr0Pw8BNvUhdf5xOJdGiWrizPfTub5Slubua6OzgViI4yD6ViPYf6cJBxw8xvVbhCmWo5aVccAh4MbwVi3xcGTPGDZWAhPNDLKGN7t++D25OCHfivYwuxDqnqhsN92i1iDyCZ+WBCyvHz5Z445qoHssxuAAb5FPDi/SZojfNcx81bIzSKYOELIJweFG9gmI6JU/ehU95s5KLc9NCIoDWDn97vXYZtY5a3NhIDq9U2lX2xJZLsdW9qpexeikGCUO5EEscn7WDNTChMoxDNmnwuq/HnXd8PyQrFTr+Lpl8AAA==
 ---
 
 Tai Chi Garden — inside Hong Kong Park — is a colonnade arena garden with multiple courtyards, which is used for Tai Chi exercise.

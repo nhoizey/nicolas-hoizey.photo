@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - 1:87
   - 1/87
@@ -56,12 +58,12 @@ geo:
   city: Draveil
 colors:
   vibrant: 217 108 44
-  darkVibrant: 185 95 17
+  darkVibrant: 176 71 28
   lightVibrant: 236 129 74
   muted: 183 128 105
   darkMuted: 52 31 26
   lightMuted: 210 182 172
-lqip: data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAACQDACdASpkAEMAP3Guxls0rrE2K/ibosAuCWYA0BZAXUA4ETRwOMDym5aVhanSh0XQ5uHh7TDg42rsldV8hF26M3TzQ3qBtNK1fyG2X+bQaC8FOWEGpCFxC/c0K8sRlS+R6ZchYMUXhoWmaqrAAP7naVQ4UQyuoOJuRXMSVLAN1QHsArIDLmxcSmSjs86FP7lufiAz3tfGDLS1Q1WDXREJtvHTEOp17+fNLqjlnJqDfuNnlPmCO4scNjrdOw+SSlPUbtNq1mwKhuSZuWeiPBChVSWpoTFAcBYalYesmphixtXx3gO7tcnlL2dUhVxI92WhkCPtV4SFTRosxPh0p5khShcCMaA1Xq69lQvTu0io42d+vxy1Kj8iAqnJuYXNVtDZX3XlLdCZySLH0gvS/f1a6GaG/kKWq8eQauiB3+bsC/Ndqrn3roPXHJtpQCBQF8VwgIN0wr1VClMxRUIw1+HrgXQfPDTPTN5gAA==
+lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAAAwDQCdASpkAEMAP3Gux1w0rrG4K/YrowAuCWYA0MRbCAmaXTOJ5qi82gyZ9VsLGGPrfcGEzKtzlj0HMtWHL336VAx8kVpJ1id5xSuqPVlK82IdxRmGjHndXGI1rDSYPZyHsubATss/foIeLEIgay3fCxAA/udpVDUXVcjuRQf9luagQhS6+NlqYvbjoWJa58AWuSsDBoQeFYyZW0qKZrUJ6xy8tWWB4eg8nVC5J3lP2fIDckgnjM8VIHypQtz0BT8oiKfhH46/J7MdLbY0jKLYKFU1zoEbeAqJJ/pqJlr4fiIre7q7raemSBuZXSiRsZVY/JhTpLbGUjBGwoAQ3Zzm3iDwM7gt/fio6RACAbqETxInHzsQ+m0XFx/Jl+MEd6KmF3KUF3Heb0lGsYZ3+7mME4B7putJhnzdtd0Ts9mcMgsX22KPAu6pbI3TSRBp4GYPhbdMoUkfKGd+jgCA3RBV+Yuvo2k+P3NGMEXCAAA=
 ---
 
 The yellow jersey is in a bit of trouble on this very hilly stage of the Tour de France, but the crowd of admirers came in large numbers to the sides of the road.

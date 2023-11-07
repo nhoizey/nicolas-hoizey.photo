@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - african buffalo
@@ -93,9 +96,9 @@ colors:
   darkVibrant: 132 60 4
   lightVibrant: 222 216 156
   muted: 141 126 104
-  darkMuted: 76 74 49
+  darkMuted: 47 71 94
   lightMuted: 200 194 195
-lqip: data:image/webp;base64,UklGRqgBAABXRUJQVlA4IJwBAAAQDwCdASpkAEMAP1mSvFiyP6YlN7k9U/ArCWUA0nUsVw4xjorkKaOnfsJMJYwrtzj3f/CLvyKgysMzVgrc7Ea+WWS/PcU/wQEsNKdiPYWPEJbuYiLKFDMBUMxB9Tg7Zyw3Mr+gOXUiVIG4a/vQ6Pnol5LMBFshsmCpyFv7Iw/JlAAA/h0m0aWuuSV1lMCry4gooly6mpdpbt81XvpabsYA3ch8/E0KE15VRAYAqxW/kH1+eb/Al30AV9B0Dv1oWMNER4KWBc+Du1jhTXDbEAwTXI8Y4Z0FaxL1BqfIG4oQG4Nr341GRD+hfbXTfNWhy/3YVXFItV2dYfLpVJfklnjAluYF0jq5fyRMf6CEOQPfSukj4ivmYkhTdHdqlEL4DXqrjoRfQJyTqeRuQZ/RyoHP5ddw9MGRlrzu5BIPkcD9SkJqBu9nVPf1oXIExNFZo2GAN2lrSxUz3eyr3+KgFDs3Tsychhtb7uziiWpgpbSEaZCFdWkoWRChLlTD9edV9PEw6jhqyHwW5Ew8pSw1erxyuTqcdhgAuQ83AAAA
+lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAACwDgCdASpkAEMAP1mQu1iyKaYlN7k9UkArCWVsRF24HxQSfDjGO2H4P2pC23tOKTwbiRTVXAs61OLJZL6MYFNRnmLyI5TKboTwbKWzeiDuA67nKqp5qBMVHp6FQW/5H4kdQqegOeUcEVgzDS4iFmiCpmquf+sw++pK3vSPUAAA/T2eqqPYpV6GDMuIwMpgAHKwUkIfl0oLrAllGd82HhBdt1VIhWzgL9Ju/qEb5zg4EvRk3ATzPByB4iwambfgxGl+Tp6zGKjxCJoFIEQCV7i0H7VPBrsXe4yX74NMZWQO145XCOIqhSmh7rP4a/ZQEe+La4IkrgBS6My72fGQWCD2iZLQUo/qlWBCAA0PfS+cXPwYigqQyUb7GSviRFA+uHTng7xYvAaTRutub/ZagzR6idHzvetjsPLKJsK2YxZP2azjwyJ8k2iRbltbXIblGT69xRZ3QaUmm4PLct06L63t7hHZrdpPMbqBXoH9MvsdIQm8pFTSc73Z8QEdVvn+NyCkoM/yVigoVf51BnPr7njFrwPZIr8iQHiux+mgrFTAAAAA
 ---
 
 While many might assume that the birds are a constant annoyance to the majestic buffalo who carry them across the plains of Kenya, they would only be half right.

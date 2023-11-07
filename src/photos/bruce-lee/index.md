@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - Asia
   - Asie
@@ -54,13 +56,13 @@ geo:
   country: Hong Kong
   city: Kowloon
 colors:
-  vibrant: 59 108 135
+  vibrant: 59 108 134
   darkVibrant: 4 76 148
-  lightVibrant: 163 196 215
+  lightVibrant: 163 197 214
   muted: 105 121 145
-  darkMuted: 54 75 96
-  lightMuted: 176 182 195
-lqip: data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAADQDQCdASpkAEMAP2miwVizrK+lMzMdsnAtCWUAzCHg5q6/iaY6P3s5RheYkbHPweAIpl/2UhRRvxrOhp7HExycViAhTtSosBCa2M4uhzKj1vITFgtUd1m5Mz6Y4irAkeiSZSKZok7YXAxCnhL/5C0z8Rt4J2oYAAD+q0/AYqhM/qQWjHvzi+GgZK/gnlE17/78GFZtAyc2Z1LP+CVLHd30DuWkypsPoW8yz71RAG97ABUyzbLOdVRezkyL8jHrwv3VUOL1fF6tJcDavAm7/qLJ3a3JpJ4MzXOjlN35xFB25OQFLXn2QMdimH6lzVj7p+My0WNcSpXJ1ejycJ0bUgraZ42u4epRxxgsVQJACJLIlrDGWrFlbywPqZZy4iaL/jOIYKw+7lB0nO9KQRAzuALfYOo54mVzT+JkPDMAAAA=
+  darkMuted: 55 76 96
+  lightMuted: 175 182 195
+lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAABwDQCdASpkAEMAP2miwVizv78lMzMds/AtCWUAzU3fRUoi2aiy0gA2QnDo5Ni0go0p3I3zAEAinaFs5jSyR4AOL7vQBhRJMIcM6U4sv8FyA6E3us3JotkqVUCy6Y6m0qtXmOLyjQ12uyf/9ZO6MyzZXyNY8AD+q0/AYqhM/qXm1CrcASpDxrWKRY/lbiuWMhNu54WPfHBbauz8+ut8GyPIqw6NZlMDYMcV2lalWaXR7/1uBD/IYRrtbr6o1XlqPDRc/n5Jwhjne72PSJlVMRoj0iBCJZ+YmZn2KPTbNYtiCSpi/ojsIUoYQpQioV2NzPcFKTGf+kAW8kXRhI6hP6gBRth9AfJC1gR50DAmTNFvVWAt15QOj5ADLPjpGCFDdyxLsNbJp0HtXLE6KqXS+d78fxK1xH+5G/Nuh0zxElcR5B3IAAA=
 ---
 
 The Hong Kong Bruce Lee Club raised US$100,000 for a statue to be erected after pleas to the government to honour his legacy. A 2.5 m (8.2 ft) bronze statue by artist Cao Chong-en was erected along the Avenue of Stars attraction near the waterfront at Tsim Sha Tsui. It shows a classic 'ready to strike' Bruce Lee pose, as seen in the 1972 movie Fist of Fury.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - België
   - Belgique
@@ -63,10 +65,10 @@ geo:
   country: Belgique
   city: Frasnes-lez-Anvaing
 colors:
-  vibrant: 68 108 148
-  darkVibrant: 12 53 84
-  lightVibrant: 164 189 213
-  muted: 96 119 142
+  vibrant: 61 101 142
+  darkVibrant: 12 54 85
+  lightVibrant: 162 188 215
+  muted: 96 120 142
   darkMuted: 32 47 68
   lightMuted: 162 174 183
 lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAACwDgCdASpkAEMAP22gv1i0v7+lNfK8W/AtiWcAz+ArzEZoWaWgbx0I2lX3908pvQhOLG5o/wipsoyNMoTrAib/jTZK6n0aeh/Ir7W2bLiWGbW8V3sSRZa3SOtTcTyN0+fuHm9upgHRo9OT+oBqBFQzD89zKhwx3jYN2LpWa+AAzPhYY/q20xfnjCscPs6l071VhhLfKGXqCtDoE9qqlQBBQIMRMRwITPkGLm9MUYf1c8xcO84P6gPdVXqUzc+7IdGzeXr0aB2D6CTi9MQZDTOV8CzjfqjdfDf5LrMuBymgCw5j4AeratTSHjxapfvGl0FQJjzD656lRW95gB8v98epxGA6nSfpMZHOa8DqYr7c0iY8KvX4xQY4T9bpfsQUp/+200/mTPsAPU4VzBBnuwPDimpv7s9Pk0LvY5yCs/Dm02PXatRr41b5pKaSUD+tECpl+qAA

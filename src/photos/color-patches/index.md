@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - bâtiment
   - building
@@ -71,13 +73,13 @@ geo:
   country: France
   city: Saint-Denis
 colors:
-  vibrant: 17 197 205
+  vibrant: 17 198 206
   darkVibrant: 97 17 7
-  lightVibrant: 224 203 169
+  lightVibrant: 224 203 168
   muted: 160 149 83
-  darkMuted: 81 69 51
+  darkMuted: 52 48 84
   lightMuted: 193 199 155
-lqip: data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAADQCQCdASpkAEMAP3GyzF20rymmqTgKkpAuCWUA0UdSmavHUMbYstH6Y3/xUgXGUWu/69p06biqEQAhuByiCvkH7+gxd0bEo5tXNNZnx+b11MSnhiSVwAAA/ur5ENmjzWaCxH2l5IYBnppPBI22ISJW421juZrkvBgstQCWEDAyLK2bCNFhfqOg94bJrfgV2ixFEBGU65Mg1qDlW1mXryfSZXbsT7LGxDDcURZFTuxPXo4RjcFoQqIG3a10YhewFqh9T+7gtp+CKBcZHWI49epLDuddsUEb1FMGPy0IYQOJc/747j12+hefisfBVRYQO/rHqEcRhiAAAAAA
+lqip: data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAABwCQCdASpkAEMAP3GyzF20rymmqTgKkpAuCWUA0QtSmavOBkEU9h5IsiqfJpokuSAuXSFxxeYgoMzapivr/Mv/iTEumzCNCwFvXqPQ9wBojIQYzjAA/ur5ENmjzWaCqLgZjE2FDYJu0KFychIlOeJrMs1yWfJ5WoBLCBgZFlbN7NFOLNllzKTf8obCUtUuG49fh+fKxp0E80SyiET3EjLYqb4JqJQeriiLOopJMy2U5/HOjm1TogbePO19PEjgm17GdrXnZ4i93dKXnx0S48JU40+4rwRYfIdNMmWcXu9e9xNi6IU+vHqR4kllaIeYS5I4Z0NQAAAAAA==
 ---
 
 For some time to come, this group of buildings will house a good part of the Altice Campus, including SFR. They will then move to Balard, and leave the place to the SNCF.

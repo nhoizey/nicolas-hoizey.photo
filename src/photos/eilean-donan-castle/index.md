@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - bridge
   - castle
@@ -75,8 +77,8 @@ colors:
   lightVibrant: 156 186 222
   muted: 148 76 92
   darkMuted: 74 66 41
-  lightMuted: 188 192 199
-lqip: data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAACQDgCdASpkAEMAP12auliytCWjtfitEoAriWdqovAGCBZn7gC/Z/HiV33R12RgGG6aJIgvBViu9o/yk9HDZWK1moX05N2EyTxJOjrghtRHGoptcRcgEcJY2+xAoy6EC0FNw0DnTI0z+XMnBq8iBr5K49wKgdnZ0H8iXA1ZKAD+6TkW/sMxbvROgrotJywR2xX0Z540ZIRoskbkhxPwIqixgpMMUslKENXIYVwD7m80faHI6Gi5VpIM/i+4ZbWyhbQv6SPhFOXkTO/6qRS6XrQaAiM/rQBBf7+igdnz0jKCHJ6O24iB0mWyY9cNbEmWY9sN+VXzZZLdx3vF1EcFsbxUlVX3ACRe/ZZU7wz7LqZ6krsJGp6kqjbctgDKYC1YUKne3TmRUtc18ecP5SXZdzKGSxcRMC/8FaPr7AE+Sij5T6hyAOoneuZ7JfGaUvw21zayPp2JJd296lefYhkjn+IR4zhrJyxs2BBZNgT4q9Xck/+ASQAAAA==
+  lightMuted: 180 185 193
+lqip: data:image/webp;base64,UklGRooBAABXRUJQVlA4IH4BAADQDgCdASpkAEMAP12auViytCWjtfldEoAriWdsil4GWozrpeNnPTvD3s/kQKb58m5T2R5tIuEFAQerRebmcUMn0A+nLYi8iPoTVgtviWQbZtrkdcSJZmi5XgZplB56gBMppm2+AoajjvZDdECsmS2vZuESOaZgOr/bDtdBg9YAAP7opBTtMW5ewQFqKC32IkJP/0KIkNDtTdb9kgt71QR/YsnK29JvIo72Prrr8h5uE5bnllZUdsExp0hzOse8lQtUhbgXdMkopMeIZOPDDNNYbgDTrfcw1+toDxy8iAi+IBtagS8P6ADlUCmnFoq9+dlu/FTFkdMDOnlod5IW8vZHmIiU5Slo75LXcQUm8caDiS80w2nSe0QexfUltIk682nK6ac5lk7LryIbvCU1Vv2Gl5TBASUpTZZPBcetwVhQIU2sNpM+R81sABwrPwVD7OzWxNv4o4wNrBWlg5RaEdb0MFt260VsJy3CkQMoBLzWTllVfzuLiMkhaQQ/XgAA
 ---
 
 Eilean Donan is a small tidal island where three sea lochs meet, Loch Duich, Loch Long and Loch Alsh, in the western Highlands of Scotland.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - America
   - Amérique du Nord
@@ -91,10 +93,10 @@ colors:
   vibrant: 212 134 10
   darkVibrant: 4 116 161
   lightVibrant: 201 153 129
-  muted: 141 117 109
+  muted: 140 117 109
   darkMuted: 74 37 47
   lightMuted: 189 184 183
-lqip: data:image/webp;base64,UklGRnoCAABXRUJQVlA4IG4CAADQEwCdASpkAEMAP3Gixli0v7+lL5eMc/AuCWwAudITWR6iZs+TaNnYosQDu6nB7CuRHagBmJa51O50ZW0h2Nnqi3053ENB7ICsNdiaRgHmI0/5fE+LXdPMZsNb9Kj9fNHJljJLTO16axehIPoPeMKTbgN3FF2B2eDMew8UlPlbHIksjwUwAUQEKBVHMdep4JD6N1idWVtEvYBjMk5l/qbO4pkr7M6+YAD+uQdYH2EsOaeIH382Rn2p26HsPv/98EC/B+A7gcu8Ww2DYO5Kx0gWwjR2TyDWHl7KLNqKVlOYCOUBbly+SOs2gVsJCAf4hmI11jdLNEYSy9VRfJL5UYFuDmCGIgZ8fFuFLG8IPGWn+nGXis9tGCgNk3m9iMXxfMreZtgFvpESX/pHcvM4Rgmipj3Wvd0F+Oo5hqDF0keKsAQjGZVsFMapJpj1Ir5LotGBR1SEcVuDN10iDFj5c1OI1wbAUpLCgmM3Ni6u+ial5BqGe5utgFReSPcU3qYF7CQtAHFBwpiggao9xUMm9eOkHUU/t7qFCSgZ/wo1g1wmi4t7DEgUdy2nP4pqjv8ZPuF+7E5/TqSSY7QU9srTisePFK+KKo56h/QAqDe0uLJ/8mAOSQ7I4g7tM+qaQFId4CPWvdSGU3mAVC6IYHvDU6L+sjgS++TuO9Xioz+SE2OFalajw0ZEBpwjfR1nb2+5oveYFEgdoBQWlSfPDaEU5c/9CixIeM0QwQolfLWCtSJjHFIkuS/Jn+Eq7orC9HwQfzSAvLn+Sky3dppZj7bzhD1ciIzfqwvsgm3l0Jma67QphhwAN2o7XS2OAn4u0wAA
+lqip: data:image/webp;base64,UklGRn4CAABXRUJQVlA4IHICAAAQFACdASpkAEMAP3Gixli0v7ElL5eMc/AuCWwAuzoTWV6iZs+SmOFYcsPju6nB7CuRHagBmJa51O50ZW0h2Nnqi3053ENB7ICsNdiaRgHmI0/5emV6sW+nIVz2sI2k8FZ6plmlY/eKHqzxhJUWqfiMcv18xZqVdPdaSCYCuNY5viXohHPUS6Sk+f6aR/PsBW2RaTm4ycWyThM21LfLaWjmfnC5O2YqdpZ0AP65B1gfYS09p2365TZGftHboew+//3zP38I4DuBy7xbCL3stYHOfkcRrgOTGRngcie6Vvc5FjTrKAEXQYY+wHGD2W9RQohQKv7h3Xd0Rig0PiwDbZGxVnjrYIYjBntgAZhkbwg8ZXf6cZeKz254MImKIlcVYmT3lx6VDCng2r0xXBFtzIKDOK2kFC/qaFvYPGYfM0bi1jAMqvh5HcFVW+hebmOenxLrw+BMSqqVxvJl5lJWxkwKrXjmkMd4UlODLAvqzis8nWer9PKHnNH9fXyAlFGfVQrXof1UOj8fSZ406wvRk3rx0g6in9vdQoSUSQtbGsGuE0XF2XOxS8TCJYPZMo4iwEtxkBHuY3PbpQ3s9f6K0xPNHtbYkEOvIypKKzHv+BaUOP7L9Gqh2OTSFMOQMpET2HnWwT1I/iQVPYmA9+eIKDKZsT6VIbxweQ1SvLBCPhn98phHEyy2pncFOSS/P28ZstDC2UNbajmX+OHwUnzAzQt1ykfdnWe4m7Yvf1hq5dWkKpAuYOjQuV7iwP40xy33yJWiW9jfCzfv06i5r5k20r3YqMIcnLtSTPF+LPr/nquU7dQqtRIS2vGq4jcwQgLKIIAAAA==
 ---
 
 Shot in Manhattan, New-York City.

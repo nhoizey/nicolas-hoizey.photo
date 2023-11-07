@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -70,11 +72,11 @@ geo:
 colors:
   vibrant: 4 119 184
   darkVibrant: 4 108 178
-  lightVibrant: 149 185 208
-  muted: 142 106 73
+  lightVibrant: 161 196 228
+  muted: 141 108 79
   darkMuted: 99 74 51
   lightMuted: 182 200 211
-lqip: data:image/webp;base64,UklGRroBAABXRUJQVlA4IK4BAAAwDgCdASpkAEMAP2Waw1izK6elNRWdUmAsiU2NPgCxJXW8uvuA8RS4srz5+z6hC33nT+PU8GpK2WB1nIuN2XC342HSwC/YbWBYgPxZLvA4VkomQ5w/BrPQP/kFjuCH/Q+w4J0PBoVx8P2rn8iIVaSiNKBNP/vTQ6xDgAD+sR/JjyN4+3VTvAloZyP+cMjUQKgApTBnDQVqMTbg77pzISLK35kZuKfgOAT9ty5wP8NN9IH4dcPnzRdeZTmxtvICKQonUdei33BIXb3tdK3ll3JrtTC3T5vFpLhu/zGx2+yVaDxD4uV/jO9e1ZZsshdeEDvTIYEmEm1C57/2bKStavsaEuPwZfmIqBAzUlcYDBJNnC124hZgw7faOpVJ1fzl9ZGmlCVy4X0s06SrySNOrsHE1dvsFiXeCd0nf/MGHf5WwupaEYwPYraJZjeSRuJwq2q8exWON2MJQLbxs91r1sdsBEkyxuX3Vhf0FhXbqC/Ee4Cj4QqLBLhjrXsfo2TMuiQKvPvhSzhrUI+o+GmgFfkdlo898uEstX2UAUQujspa3JB3cOIiDBGhmQG+cPQA
+lqip: data:image/webp;base64,UklGRrIBAABXRUJQVlA4IKYBAAAwDgCdASpkAEMAP2WexVizLCiqMlWd2mAsiU2lUkCiIrTgu/5QFan2CdYU3BQfF7wbI/kyk0L5HPYJzVTyG6thuTf9PuiYHC+RsspN3oiuKyA2fcJy/0HTsKi6cQF4S//sFxgJicQ9lvXH8oDAUXc0bo52g31y5aBYAAD+sR/JjyODg6Zt9WbtFL/+cNzbRerYaSDFJLSPqmfObngaqafCHo8PJTFicA6rcgWn3D9r7qwLDqumpnE4mJwQ2zJvrM6NO1AzoDqLKOxhw94i5wQ5t0a+dWycLTK8NowxHuHDGZLUmuEvl0trR6DkjvEPw3SRqi3yp4MyGjsjx0CYwJMSS53Gda6Gpt9uVGtN5U2lCQiGRC2SZGLUF5oDFrDtB/liNdQpuKmIId0J0zwrCkbLD44b0e8GWyIsiKhpRteVth3lk32EvAUjv7ytg6hl6O+I0ZT2DsgKcccHzxZCa9WNvm1ehzmt3LWjNhn/N16O26cIaM9K0LZPZIBSRjqEH6L0LUCAnW+ciROH8b+tcxbdFWR/HW6vxuL497XmeuL9htvvhQAAAA==
 ---
 
 

@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -76,13 +79,13 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 121 160 205
-  darkVibrant: 36 64 97
+  vibrant: 141 170 203
+  darkVibrant: 42 65 91
   lightVibrant: 180 212 244
-  muted: 78 114 157
+  muted: 78 114 158
   darkMuted: 59 63 78
-  lightMuted: 175 196 216
-lqip: data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAACQDwCdASpkAEMAP3Gex1k0qyilMVQ8epAuCWUA09g5WzRc4bIhHkJEd8Fh02IEKb7BGoFqfoxhFnvjB6WKjXt2FlC9cQxOgXikTbjlu3wIzkZrNGfGS5Z6YRdr3Or/AiZZNayAzUKZW4X6ljMS2DIAWDQQokJgpxSefnnkZOt3PI8PcAQoAP7prfbJ3pfcnT5Fj/9uUDCq56FhnX9mS14jOs5nHfDAA1nqz21oXq5qKw/ioNhK3Nf/K3XutZhMr1fOSRrkIOwmLhMrkW8OvRMK8k/SHq0ERP2PEXalGwnfCKrmMdqKX9TgKNQgxuyli/faT4dZaruasOAz9K0ouMY6ApilB4GXw13PLXJ2ACQ9SzOZAr+k4FNPGQ1uXU2tiJ67HOGo8/GSgtdo6S0ajsaml0yywNtyTrrX1jluKYt+u48fFMEzr6fXnHKi0NBw7e9GBWW80zsfw0vyCtCHfhxF8Qwt4ib0MBzwAA==
+  lightMuted: 171 191 218
+lqip: data:image/webp;base64,UklGRm4BAABXRUJQVlA4IGIBAABwDwCdASpkAEMAP3Gex1k0qyilMzPcApAuCWUA1BQ+fizsTFgEP9fUdBZmi1qUveLgM+0y8id+fD53/djTpTwRGlOHO41owyEW9F0rEqG1SDfTSKxgzEG63TdaNfiaF4RERlEN0Nk7ArgavltFFORa4jkXmwwP82QwOqwRSPZHJ70hfiAA/umt9snel+Iu5yFH2s7SqEJ9vuE84LzjiZ7nRxV3qlcC3z7PHQbSOGiLO0hJRxKXqqrjsYkddo7O6L0iIiQrcRwKcIBCTDOnc6GgBJ2ZvvnsNjqcKL6Owi2P85JY6hxIjwidD9My8EGxD0BbBJ/5xOsN5LXc/SmlSRFMaOqHUGXw13PLXJ8UCJUrOBDeN+vvvRbbZMq0B1UIzbq5oTb7tUh1qGtKl4ech2+qM9HiqCYViluFLLcWW9AGCDnBwPEnLVoHUP2xKsrBu/nRfA11VTBgMkaNaEhq9aQcQAA=
 ---
 
 The pied kingfisher is a species of water kingfisher widely distributed across Africa and Asia.

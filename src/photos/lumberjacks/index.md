@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - 1:87
   - 1/87
@@ -65,7 +67,7 @@ colors:
   muted: 107 172 92
   darkMuted: 54 91 42
   lightMuted: 204 178 160
-lqip: data:image/webp;base64,UklGRnwBAABXRUJQVlA4IHABAADwDgCdASpkAEMAP3Gmylo0rKkkLbiLMpAuCWQAzqiYx+EhKmO0USpUMST/9PyWKJsZ9O+cZwkGmNHnJn+jLQx/eaAWOzTZBR4yMSge1V5HLodtdrId8J6ILIT44UgX90/XsfFgT90Z2jJwzLZ3KiEY64sSEdjFUDtnFhWGeThCgAD+3tY6TJrhr9hLLz/9+LxL2HITWy7Su4nPm19uhzzhhVgETw6+agMHPl4KUSaiQtGkmGZ+RbjHoMiAqH5a9NetahiRyopcOFE0us6wkCbe+PvW0jZ62u42sc68zIS2si8TSEbnwfFfhGFzF1NBkw4qyxP9K1LnEL0rrdHnYj3S8PyJ6Dl4Xf00aBIJsq8LFtSeEnnD83T2iJDX99RkgI/lJRzK69y7yEBoptV/hgdGqxsvRry37SejAS6hxnPnaFm02XCIrQcs2VoFbUS39dcYtB2I5fJFIXheuUKcK+wCwxguApsPjUgFOyAZEAAAAA==
+lqip: data:image/webp;base64,UklGRngBAABXRUJQVlA4IGwBAAAwDwCdASpkAEMAP3Gmylo0rKkkLbiLMpAuCWQA0Ii6hZ06T2+LbsqDee+X+kdcSJKtWNxv6lAjZGs/u2oxUqXJHOd4Xo7vDFAWls+e9Q7UMa5mf1QmfbgfB0yTQusCRtpMadSxN7/RyCOHaEved2/2mVa5KU5b55ElUh5/EQ2lOJgAAP7e1jvdhzS34vtfnynp0P+0VA6EfC63RilUVx+KBy+4Y3+uG3ZjWvYPyHaEJNAxDd00g0yxZz8p51uK+zeNOxKGVtajcvuh3iP5xZl65gFPJ6/lFpFaSa6TlTDvivRVsLVHg+K/CuH63ldxb2cWrqmE/+RvIMu5VoJa++0qWVT/5CmE0F4spw5hGkHHjnfBgqhZP5pcEmm79UpAyTqD6Qk2nexuhdpN6Sx2mgNP5is+KJm4x9CWYGB5Zn6K8qSuQPSVWDfU9S9uBpDTJIet/cFUSii/5zz9NGrwOxXkPHr2qqW/iLOKYAAA
 ---
 
 Do you need a hand assembling your furniture? They will be there at the rendezvous!

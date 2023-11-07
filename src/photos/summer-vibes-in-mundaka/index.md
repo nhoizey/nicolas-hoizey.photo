@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
+      short: Fuji 16-80mm
 tags:
   - action
   - amusement
@@ -85,13 +87,13 @@ geo:
   country: Espagne
   city: Mundaka
 colors:
-  vibrant: 221 53 49
-  darkVibrant: 144 12 13
+  vibrant: 220 53 49
+  darkVibrant: 144 11 13
   lightVibrant: 157 198 226
   muted: 150 100 84
   darkMuted: 56 88 85
-  lightMuted: 174 187 208
-lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAADwDACdASpkAEMAP3Gqyl07rKksqvVbe3AuCWNtXFuijbhSpEZDyaSJM0wkkWiUmv/uenDQOfddf92ecuTrAiR3wF0LI/+m7yrdtap8H+UJ5fkOlY01mbGLTyoqyIa3eDA+4RxMBqHNBc567SbDsVXAAP6MOz3wvee1gdq8RXU/oq1Rzg6VHt39opJyYCd0qHkNFAgJYyX/4fGyow/QYgNEXXVyziQzNDf5oDqVyoir/SWkLOPuYifUzNvYEdOC+yHiDlgYJet7zg97c3p2a1hK8UwT3Z/yLJk9R0I0mkaRjxpo9GGpiHUOwFQ7ohcy604dsqUX2zftlrQKre3EDmkkiWAgNSMUlfooWFX2CDUjxi3DMTlb6hoxKso3UOQeE4txv8HFVPCDSF+bWMD8DOMCWKKKQ6Yt/LcW81Xl7ukCW//WDAZZ3TeFqzQfkJBNWNd2hv72OnAWaAAA
+  lightMuted: 173 188 207
+lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAACQDACdASpkAEMAP3Gqyl07rKkzKvVb03AuCWNtf1vyDbhSpEZD1RUVhILcT2c++q/tB1mOuWxqgu71XNi8P/RabUXb++eManYuVHWU/j/OZJRFZzRPqjekGoL43j5MvBaotcuJ/xLmS+MeomWAAP6MOz3wvefCjvuQ9IC2b0El3TlpAeZvOAVPKFJqvYwnyYIX3tX0d73diJPm+JI1+bpQTuovDPzW0fVEChXwipGcdxLhaPpw/jbCRcOIMg2+/+8HU+jq0CL4CGIMrG6r1zKUbXTAHMQJL0XV70P9kZa0Xs7NPlJltb88JhLWXmYmHx6gaf0rYNhYlTPcEntkEQGZpIjkJgSNrPJgVW3xBSK1fO1ygnX3uh9hnzaGKecLXwKt+kCfyF9XC9qroHUheEmqhBm5RxOZEwCztmQunAUQ3Se4xu7comiTQCn4coAYPc5AZ6+R3gAAAA==
 ---
 
 This picturesque seafaring village, known worldwide for its left wave that attracts many surfers every year, is located on the left bank of the estuary of the Mundaka ria, in the middle of the Urdaibai Biosphere Reserve, a natural area formed by large marshes and 12 km of large sandbanks that serve as a refuge for thousands of migratory birds.

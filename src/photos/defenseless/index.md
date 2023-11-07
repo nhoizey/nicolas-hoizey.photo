@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - black
   - building
@@ -77,7 +79,7 @@ colors:
   muted: 115 115 115
   darkMuted: 63 63 63
   lightMuted: 188 188 188
-lqip: data:image/webp;base64,UklGRrIBAABXRUJQVlA4IKYBAABwEQCdASpkAEMAP12YxViyqzEjtfVdylAriWls0ABNjaFb2LxIH+RHyHyAh3g5Oedd4+0oe4EJjZN2fg3oX8X/cLp8IiMjSRY2WRD+3fh7Dr21a3dWa3NEo55v2j17ozqeySNBHvsCFDvGOJyq8BsERmrrxiBq5NGygUHBpFbQ+EW5Fkb+9k27SvYhtk63fLizP7gAAP7Y4xN3PTUQo9QUbi+mABRddwrcfBv7vk1DE5oHMOCrCrQowEe1EDRPMgnYdpPcAjS6FHPZ58qdmE74ajzA1mUy0XT3fgFWadcxeXXx+wz66C73qtxcrOEWFvXUjJedS67JhYjVi/eY01VUdvvqY6wJuvbZROB9Kfh9mIBi0spo6Tk0u/c6E3djqLo7oeso4kOYO08bapZFywJXxup9SX/0P6YoQbmIEpTEwNn+vqJBCLFMdKSsW3qrU9QHZ0nBnyrZGtjG7drfprZ914fm8Bs728q8jESa07Z2xikGOMt+Eo1RPYsLv1rL7piI6jIrt3GRJkF3QzpgqFkofsDRA8ItDKBp3wOWAksD48e0H7AAAA==
+lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAAAQEQCdASpkAEMAP2GYxViyqqijttPdmlAsCWkIcAABP8VSrXZgziq9pLj7rW0s5cwYdnSxsA1P3js2DJwFv4q4F+s+xpOfwKA9nKfncgEur67B/RfQK5eXxEngDf3eU84jfe5qZwcJOVXJEWbQPWDFVCxCFiMQgW3woRmFQht9ChDutt8UXnSM7n6C/hZA8zIwAP7Y4xN3PTUQo9QUbi+mABRddwrcfBv7vk1DE5oHMOCrCrQowEe1EDRPMgnYdpPcAjS6FHPYtct3xR2OmXoFly17q6ogGQOXDKw59zzafxZX32lSaNpBP9Yv+BbLPKcR2m7iH+xDnBfO6wcWsyJchj0VL+e9Qyj72SurBZP7R8DtJQSush74eoD2Xj0bYV9ckPhTWpoXWlyd7y39PDKp674Za5pQyU7Z0a+sfIOpzJAaaMqUNq6h4t9M9/Dc9zATaxsY3lyIeicWsxg3Nf784BYfHAA1HIhDzMlZzQD31th4wR/MUCwI8JcaEW3mVq+2i3PnUbLSRGpRJ14LVLZBZRxY8X5fQsDAAck7f6p/t9AA
 ---
 
 

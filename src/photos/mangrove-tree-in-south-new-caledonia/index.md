@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - arbre
   - beach
@@ -63,9 +65,9 @@ geo:
   city: Le Mont-Dore
 colors:
   vibrant: 72 122 168
-  darkVibrant: 33 33 4
+  darkVibrant: 33 34 4
   lightVibrant: 153 196 236
-  muted: 166 125 91
+  muted: 167 125 92
   darkMuted: 89 71 54
   lightMuted: 183 195 205
 lqip: data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAACwCACdASpkAEMAP3Gqylo0t6kqrrcKivAuCWMtgFEAs9oYAEGAKIEXfXRBAEJ4RvMQeheKZmJgWyVqixz3dnvCWiY0GoduTzOR3nSHHUAA+omw+PZNps1f3bfhLToc8rgnvoZRYAAtDDWOmBscn87b/0eDd1ZOld89lXEM5NAuyqVf+bw2pZlY1Ya8iD9CfjMPAX8yRcWw59cSbEmIORJDUGTVFcCvpi8tBQ4QNFtyHZ1QIk3mo291J1Owf0exf6PaHAkUy8KUUVtkNdwntas4hpiMEdWLh0W8smzHba0f+Gzd+ZzdL6BVtE28ZCl7CfUfWU8IAHmBF/FsrCoUTZHMho9CTzAvJCMOQAAA

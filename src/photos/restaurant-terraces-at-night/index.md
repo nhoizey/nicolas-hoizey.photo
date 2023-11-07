@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Caucase
   - Caucasia
@@ -58,11 +60,11 @@ geo:
 colors:
   vibrant: 228 161 27
   darkVibrant: 124 57 6
-  lightVibrant: 249 213 119
-  muted: 171 130 94
-  darkMuted: 82 78 54
-  lightMuted: 193 172 153
-lqip: data:image/webp;base64,UklGRtYBAABXRUJQVlA4IMoBAAAQDwCdASpkAEMAP2WWwVizKqclNfgLomAsiWoAw6S+xxTOZeHLVwd5ca+ni5uW78sLCAH6EX2EgcOrsry/AU3gH2YnoHIsrrQNlXfYBhIwHt3CYbHc3r/flcURzNaMgzdsQIK6cqTlzUN5srFMFDoEqZp7wS7X1V3Vo7GXooS0vQAA/ujLQryvbO62J1+myVjR1DkK5fDVQw5NzbScDqJMClk09UBH8DkL+XD7bQr4r6Ix542EU73wE0HJNwg7kX5xQyuIs+ZCm3ngl7h+QKlTjnVeG3ErS8VQER1iI8+MqUyvnntbKVeptLVT7+69nK57WsbeVYqBL3+1nohGpYC5sbAlUkSgQye98xCsQMA/J1/92gs8w0jpihGI1NI5hrMeNm7xheEluzyQRx+PPi8FdENpYL+DAfh0rdX6dwDqDAoVhX510U+nxI4y9bopuLntXCr+40k1ZQMa5//2NyKpSBYwCW02SIFzV8KC+kmPXgzCESi2tQZv8XnbxGGaBaUHCRhzbjsgHOIJqFmunKnVu0Mja02AfIUjtOGQ6pI0oRz4lhpYBmhGMqxWBpKJqUMVf0ZGeUof+MFi/C7UfT8XoLVgb+ZKJoAAAA==
+  lightVibrant: 249 214 119
+  muted: 171 130 93
+  darkMuted: 82 78 53
+  lightMuted: 192 172 153
+lqip: data:image/webp;base64,UklGRtYBAABXRUJQVlA4IMoBAAAQDwCdASpkAEMAP2mcxFizqyglNBXcSnAtCWoAwRCUe2lZkilLZsbqP1+VYWkvax9LKf8zNALIf8ROhrpnkSMt8p1TuL36wXCytALX0OF8TjKciJnyemFiImU8MYCVGZVrCPpqppTSlypZTrI8uvBqWqGGYzTJBYLWuOpPSP6rFywA/uwbLrDUIMzYK0wq+2DjLnt0f4HYSv4ygjABR0pDPHVuHeJAR+xaQNtuvGwqWl60KVlNXLDeD9GeNUs8iDuo9L4kOItMHnoNVenjptRT54Bkymz8ZElI6yQU9GEjdyG6WIQphdlYuLVFZgVvC+C/g6FKVrovbpRZTNZA+Ad83EF0rC1WtTRQ4DOfCjU9z34JWTn4bMf02aMNFwCBJWCBYRsGfa7jzJYyTzDTMUL1LA1y2+EnoongpLVO841JfkoE90IjxA1CB5Omnwea1+8oc3v3zoOZnKaQarz3O0xlgZQRBY42saF3WNKGUbwRHSE4Myon33q7kq9+ftfpriEuo9+J9Yphzbjf2syrHupWyKLluYiyv0olSOThH1crWJEpcJS4Sr6YNr3eFt0bsRCWxGMgOrMD+hZSh2d1AuHElwVg+xoBsfxgAA==
 ---
 
 King Erekle II Street is a cozy pedestrian street in Old Tbilisi. It is one of the favorite places for tourists and locals, with lots of nice outdoor cafes.

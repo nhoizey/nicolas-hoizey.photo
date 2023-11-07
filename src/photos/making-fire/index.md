@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -64,7 +66,7 @@ colors:
   muted: 96 126 171
   darkMuted: 43 45 64
   lightMuted: 213 197 174
-lqip: data:image/webp;base64,UklGRgwCAABXRUJQVlA4IAACAAAwDgCdASpkAEMAP3Gmx1q0rKglrrMMopAuCWxsZ1udLI3VAj4P81SI6oe+9NW35FoKo+O9nZR3bEdrcv+QuXoJCSGCuLhM+1MsIaptGU+mnGOY7po35rPhnInU89NIPiBmd/VmAlVXYWtl0V5sWMU9G2TO3thA+GUmEAD+6Yat5cbSIXOjx3lvenhXBaVZMfMuVrGou3XbL3DqyKX6g8E7LpzRdt2VbZ1pVRHOivHxRO7wNsNmzUYQ+6SBxj8ZPFHc2GoG1x2hzXyXQ00S6ZQThVcVsMoJFGVwF7jS1D+8fYY3UYRdL9Ru3GyaLlYfvSRaqLRftq4neAtBrZC7L3aoSclloCsJ0ozfCsYD221AC509MnaFtJnk0sE/fs5xXFS9Om6H86t3ae8WniCsXA/v4MqVQy/gKlmcocyMzcoSEgdYiZuoNuEYl08Lu8GcACRkg7Lq3ENOdgYG/sTA6GBfZZbDp4FbvsO2/Q6qGRleDJk2BhV8QW8Fdc1uqbfdjhG8EokvI8dZnysK6nVKl+cL0s7gwdvw/ACMgEJJIAlOLiif5PCWcOmhjIubmwiseXRAUaKkv7y8kMDYPm1LrUKYk7l2ieyO3iBcP1kljtJkVL1Zqz8406tr9CggX1zjrOY8qmtwwKTJ9Zvsy5/zZ0EX6REIIJm4zND6yTYoDbQAAA==
+lqip: data:image/webp;base64,UklGRhACAABXRUJQVlA4IAQCAACwDQCdASpkAEMAP3Gmx1q0rKglrbRMypAuCWxrclwT/VAiU4b9wTFNE5uLu35U6eZ0rUrioRmaIdk7htePTedTvW961f8WPSgjpAiBGLfYCgzy9iAkBuZCYSynENKl9cpX1iTzX+u6daSoMcumIl4+Q1Oe36eMAP7phq3lxtIhc6PHehQxNaZZ5+DObFb+OfghxtoSDQuoptz6PTxCOTSWbW3napabD4jHS3LSEz+NyN5TeFEv3XmO7TYvVHU2ovEaxcUudJnhmZfBadETs3UuwxHweXHiNKT9TbKrv05dEFspTDyKGwWUC/9tDalVedNVIZ3FkAG+NqXxKkp7FxObNjQi8OFqhx2XDruStF0E/igGKrs+lJNgmAwxE9XLnbSMd7keggBB1jf9cAfTu7HLpRa9LF+hDK/J3u4F8fP9oIAcqBQxtwHRiN+NqphHTD/Hk88tZkeuwjsiYQKeMOmWOPPUg8WbCIuPpoIayDW5Dh9uwjrRvDRc3DMX1iCwIPBT2Kzia2T1QRT5GOQgE0Erkk1BG95OD/S0AQeAfv/ANnvaP9pVh9rj80PF8HE/TzhqGBU1YXCvKer5XaYlfGDAOD7LEtM0Hkm0QA6AVLSSu6eBYXciHr8G/ukDpuRABZfsg8djucxqRfvg1UgSKi/y6qyYU78ouzgNladIKp+zgsaAAAA=
 ---
 
 Real practice or only folkloric demonstration for the easily impressed tourists, the realization of a fire by rubbing two pieces of wood is mastered by the Massaï.

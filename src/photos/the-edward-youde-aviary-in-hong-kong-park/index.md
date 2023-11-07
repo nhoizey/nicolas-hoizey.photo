@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - Asia
   - Asie
@@ -59,7 +60,7 @@ colors:
   muted: 156 176 118
   darkMuted: 54 72 46
   lightMuted: 189 192 174
-lqip: data:image/webp;base64,UklGRtYBAABXRUJQVlA4IMoBAACQEgCdASpkAEMAP2GcwViyq6clMls9UlAsCWMA0FkqT7/ZqB0oPbs0lY7riJN5HjLgJohFNbGb3rwoCtiHdz17TF0kzgJnYkcsVkMM0LcirjdBO/AJck1zoDUK3iv9ADw5QunNQVHFlCk0oStCo+JlUh3kOHUkGOLTKN5ErVcmwnrUL4bb+eERE6IABKygTUT+d0BV4UwQxHbRdJ/KAPptEKwb8VhBI0Hk6Z89CF8Mt/0egm9T89jPuVT2i0vVGnpvuXMANF5WhoQSif7W90rZDLo8FOSvhhDcWJQkksdVrUkluSR9kfM+AewsCEJVcFKjpum2a+LraIkCGTx1jaWRxtUVnNn7GzHyBNyXhCgG5FP5qJJhRVsgpy6FLftNy+C/HzWnJbX05Wb/hRcXEtuH2EGQCQyTqyPTmPtpUe7N2dS5ZAhd4E4iMlKN4IXu/NCLFaPUEqB+NbsIHrJUYd7ZVOeerhu5FgPGtENzLxbYecndU3O5A7nLmN8QgkcMFIvdMTqVMtUTvUQxlb/2giWJECGE6kfzBMLu6UBefD4btcHPxDwWQG56WGvhoEAXdjAuHZiJRLM0dvz6QdvrM3WQPHgjMngydBRYAA==
+lqip: data:image/webp;base64,UklGRsoBAABXRUJQVlA4IL4BAADwEACdASpkAEMAP12UvliyqiajtRptUlAriWMAzvEqB7/yd0zgY57QcEAzd351ce5L130a/dNZ23HRm0XlIKombQNaNtRSY1pvy1Cbxh10kfuOIBYtTUoUyPqZzbDeWnkQc5spf6HGSIQLoHzti58c3BhyBxPnrw0/rbrue6k31TBOdoB1yS4M+IV3norYHfQA+maKaDzhFc4/lZ1iLvAsPJBTMpN+lPaa+auIJyC4gXQ6hDa3NOuYsiPYz/oAeERXYIPa+89XYwqQipVLkGoLZn7H6TUKJw5yvIyK/N9lN3xZSa0uBH1yOGZ97T+/GMvGrmiaN31Zm9+e+8HQle4BLfWUtkw/+CX/ApvkBk39a9qBTRxI7tlGHqRc/VfhE68vPjnev0nWomkfDT2HMH8iKvlOyQ7jvYP+LQcBu8JtX+uEcKrDNt6QjI+GjsqTSxQxLiL8/Oc8piWu0puss8Nwb+IThc/tF/NgCavL8huB7QvfCY88ShFOJee4PrIT5pon0G1dklme1FMG1xSfcf+fOH+cpN1Y/Z2rGo0ci3LV++0qVtkXYTzo86tUSJKecOJr3AHJ8YvuYoFBo4AAAA==
 ---
 
 The Edward Youde Aviary (尤德觀鳥園) is a 3,000-square-metre (32,000 sq ft) aviary built over a natural valley at the southern corner of Hong Kong Park, which is located in Central at the bottom of the north eastern slope of Victoria Peak in Hong Kong. The Edward Youde Aviary, largest in Southeast Asia, is named after the late Sir Edward Youde, the Governor of Hong Kong from 1982 to 1986.

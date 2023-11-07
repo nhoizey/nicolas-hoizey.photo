@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -70,10 +72,10 @@ colors:
   vibrant: 5 123 175
   darkVibrant: 8 108 164
   lightVibrant: 99 180 218
-  muted: 63 105 130
+  muted: 64 105 130
   darkMuted: 41 68 89
   lightMuted: 158 186 197
-lqip: data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAACQCgCdASpkAEMAP22kwli7P6eqMHY9K/AtiWNtTYAFUwBsc/1dEhyrfFLLXxseO9/522LUgrVEYNaqe5YYAUxBaS0SI/y0MM6I1OZF9U5y98+A7cPqN93xaF626KAA/qk/pXfSTCXPwa7b8/8O3LIX+kWIQ4/ne0g+F+0NqqW5Rd+n/r31mmb6l1faf4xQNSck6+kqwfVimbihyLqF+t3f+WWd/yyxdmD5l8BoMZqkgtZbNhvtZ3bbIWXKptUUqbOH3tqUFaq15qZJjNS2q6asU2OKTk3TKhSD7jR6oXLHoPjo4kGUrTieBcQj7pUHGVkoNBnXQ7/DBt76nAkxrFI92iGhhSJzwyBOFrWSxNF3M2eZ14VC5gVluGDh4AAA
+lqip: data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAAAwCgCdASpkAEMAP22kwli0v6eqMHY9K/AtiWNtOrAN3lEc4NHxUPot+Y1jjZiNx/HQ5rcYTs7iH4+vV+SGnqpEnDq9FyDc2GF5ud+q0rR/yZODHHEbTYraS0AA/qk/pXfSUBRubZr0Kv9VaWh3t4hrPDXSiqZaZpW2KFIpzbTJW9bg8CoCLecu1uMkqlEr40tgcZLR0axLXqeY795BF9dPzOexrbA0GAdEDQYxrPVFR6nUTFMadHYZcSQ7CKfkhFozlGYsgcvoLnMDZM8kKxUJBcXTcVhiDNjsOLo5yt/TGvm7D1zvqVl3q4Nw3Lg2qs6v594Wln03K79zTOdAy0wLYQg826EJeq63ZDIv+PBei6OdduqaSOwbsEiGgAAA
 ---
 
 There is a strong contrast in Amboseli National Park, in Kenya, between swamps filled with animals and desert zones like this one.

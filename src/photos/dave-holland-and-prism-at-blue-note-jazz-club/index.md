@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Sigma
       model: 50mm F1.4 EX DG HSM
+      short: Sigma 50mm
 tags:
   - America
   - Amérique du Nord
@@ -84,13 +86,13 @@ geo:
   country: United States of America
   city: New York City
 colors:
-  vibrant: 173 16 233
+  vibrant: 174 16 233
   darkVibrant: 6 42 112
   lightVibrant: 248 125 202
   muted: 109 138 150
-  darkMuted: 7 12 16
+  darkMuted: 4 4 4
   lightMuted: 145 8 94
-lqip: data:image/webp;base64,UklGRoQBAABXRUJQVlA4IHgBAADwCgCdASpkAEMAP3Gszl40rTStqhRqqpAuCWwAzXy9Tfcd1G5R57o7HFvEv/wtD9yUMSYjyYYZJFS8Huiz+zqrDDo7YGbSnoDF/vMLiUprjBfELCOuWOceF1g9osx1vFgA/vEIghnuSvMmdwngFiJJnEJBU3vPvSIicdsok5iUG2PMC7RMKoDEuK1MaHiHR1Zp1H2acaWBJPPVrbQze+f7qYppI8ioRcPrr9jYaub5bqQTOTEf6jNJrwLhXNUGQIvs6CXzIjDoyOMfbrL5BT6kjzDEst4BB95xvVvQb35NK/NS0grgfE1pyuU7d6Vue+eRXMzRiFyIrOHjpMKawpdFPgFPBAcZUUFX/K+JyFCQLUOaIJDI3aedTs2niH6469IFhauDHRGNGzKMWAZeB9PEZnC4U1EM5LGSjYttUiN3tKy8ZnQOWPivWSgXFelL2BamR6j4V94LaygAMU61kOoAc0ryipeNCdbWnqBHEio7VwgF2s3QpAAA
+lqip: data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAADQCwCdASpkAEMAP3Gszl40rTStqTTa4pAuCWwAzUDDUrlACqpHEx53bOhXlTHj1Pk1M1kOnKNmrJIqWOQIJa7tmOmkokU5cDi/tAOZpseIFZfCDJR+yw1WIIG4TDuly9yR2FkTkTQAAP7xCIIBLkrjJncHa6ss28Oem9uP/b5P2Lhl1KfHIbY8iNENcSIFlxWpjJOfiRr6YYJ6akm6vgzRqHXrvW/91MKYTCrMAzXv28a6RszF3GVJSTs4cKFNBs9uJaWlV8vLr5WEGaoG9rQtBmoiCJ3j3odGj/gBh1gtQXzxmPrs16eSmW8W3iMGFVKywurZRxvy0RP1Mq+80N6ZAnoFxgjOD+lZeYAdQ8kthzQSSD8aZ98utZKJXoorybnjONnXhTe7Y2DGDA/0txGzmdpPsDtebfM3cur+gOe9B5FdGG+y5U8QUCrFW/KhvP7mb3qKbidT+tOG7yOvzuyDAPDGqQtMwOzNch8yvUuco8UxN8oAAA==
 ---
 
 Blue Note Jazz Club is a jazz club and restaurant located at 131 West 3rd Street in Greenwich Village, New York City. It is still considered one of the world’s most famous jazz venues and one of the best known and most expensive in New York.

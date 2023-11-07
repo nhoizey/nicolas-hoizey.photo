@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Caucase
   - Caucasia
@@ -56,13 +58,13 @@ geo:
   country: Georgia
   city: Tbilisi
 colors:
-  vibrant: 60 164 222
+  vibrant: 60 164 221
   darkVibrant: 25 65 97
   lightVibrant: 135 195 237
   muted: 84 112 138
   darkMuted: 42 58 75
   lightMuted: 188 170 162
-lqip: data:image/webp;base64,UklGRsIBAABXRUJQVlA4ILYBAADQEQCdASpkAEMAP22gxVi0rDmvMlWcQzAtiWMAzUDbqbfRIceT4h3+OQwnjSZCmqmy0/1Wb1DS9dcdjT2NvdTip462xqPPky+xwNq6Zey+4cZ+oNRriZCK4ObQH1odk66cAOv7aITa39n/gzuRQq1dnv3nRU/OZfpGrhiMnYyEy2cZtaoGeJHRDScZ5syeO4Cned4WQagAANnDZb/H/bVS7Y7BDOxRAsS5oQ2WzpXad/tWAplrtc/OMkemjbFTpoCZMAuabpyOjFOd5MjgGxt208nP/e0tv+TkefIdfyIaD7zsG3ve6gUpbyAb/eB0NPadn43S5fC/0zJkW17/32rJYJVtaFgeigv6COAoHzCLc9QpiSAmHAO8tLLb1S/o2T2PJhDoiOK3mjvWUquIxzV6Kjv7yOihLZPQGEx4fjk+PbwDKuXRJk+NKsK18imuF14bZH/8T6bE9Vsw5DX691Fdg4b69O717Kq34EKy9VTcVOErJh7Oy5GMiT7T3O+mOXPa1e+lXLPy9b8lt4bcqZBZvneOB4EWL4TRAhSE4lehMpCcNb0iceLQ4u6JluBPCwGSJWgAAAA=
+lqip: data:image/webp;base64,UklGRroBAABXRUJQVlA4IK4BAADQEACdASpkAEMAP2WewlizPz+vNBaMS/AsiWMAyntSIoS3lHimYIrK5pQu8b8Rd6UTJpdAbxuKQGtJV+Yx2BoTWA3B1I28ndS8DokFs1cCe0irD5KI6JtSFQKw98rRZphLRInLnWR+hVn/4CtF4I+5f2zEUwUL94daBI+MGrCXD2xLs53s7nqdsPa9ITaYAADZxCOOs+EWwJR1kxnMMKsTkYM8jcvvK2YbM2E+VTzWdsq/3f5nffasP4gBFNv16eIaA9q0F4tmD6afF8aKWEkjoj5M+ab0G77QS7p7wOwTS8SUGQFQE6Q2KxFg5hciBqq2I9hQszM+jNfoUDP2X2TR1Cmzd6h7mF07cNd28f+ReAATgH/wXtes7CDULs/IwJivEoOMePu6Ir/2WznE9/XLnMQjGOhIvCWNeFGxwYq+aCOJ3d4qx5lk4U7xNw7m04nsunghRx8yMUGdDns174TEr+dkmnHM3kXM5jMm/+laNyHjeKTC9Aif1ClDQpM+clYhbKqhS179DfmjaagR5B0zu56dKGETc2XReqUthXgPAqfbd0Cf4gKxi4AAAAAA
 ---
 
 Sultanishani Street is a good example of an anonymous street in Zemo Kalaki, the former royal district of Tbilisi.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - ciel
   - cloud
@@ -68,7 +70,7 @@ colors:
   muted: 100 141 175
   darkMuted: 56 68 76
   lightMuted: 173 185 200
-lqip: data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQCwCdASpkAEMAP3GyzF80rrOnKTM6OpAuCWUAz2yo0ORAMxK1bUqvfdf3upYZsWSjrGt2CDppoCGp/bwa3qt5M+zrei0lJpiiIX8x1jf9W/lxtTJEurXE2T6QPn2yQPKgAP7zKpBQmQXjwB8VOeNvlbx69Hh5rNWGE9UZY2zZPzoeMxOIgFTrhsTo9Xa4lGOFzxzUxrJOUGtx7ncFQPSGeiI9tStQdtql+xnThlrzfadbEfeDk5kYS7qKgKiAcmRcppQuojwfRAyI9Av8ZoG8VwBxAaKKoS9gJL01P83VTlAARvBWvQAAAAA=
+lqip: data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAABwCgCdASpkAEMAP3Gwy160rjMlKhXaApAuCWUAzgSrUSF7LMu6n/YGggkg3MdSm4MgYps1Aw92hGLQSTy3DFzZ4uVIkztCgMNpSaIpYuCDof7CxTpiv98Yiv8wAAD+90Gwhq9voJvJclNlq3ZtaMb4H4Bla7JFFWQ9pPhF1fi2mMxGOOhulPes89ACdsM/fSYw5Yvwz/IkwiGX/kW5QQCb9DEpKrUIx0amcoYvV5hiUIOFKLH2kyXE83ldrxSJkBBIGQ9baE8ZCj/pDyboa5n2uy3Hy5sXHAf6c1shJA+oEMi5j7eAAAAA
 ---
 
 

@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
+      short: Canon 17-85mm
 tags:
   - ardoise
   - beverage
@@ -72,12 +74,12 @@ geo:
   city: Reims
 colors:
   vibrant: 160 92 36
-  darkVibrant: 71 37 4
+  darkVibrant: 70 37 4
   lightVibrant: 240 201 142
   muted: 168 130 90
   darkMuted: 86 58 44
   lightMuted: 135 88 18
-lqip: data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAADwDACdASpkAEMAP22iyVi0rKklMHgLSpAtiWMGcAz5krrxqM0AHckJNIP+q2jYSkfwZgjfLnQQOP1z2ylPOGXzoBXbMspR7G7WDbZulQP4Dc1vTdIJH8MT4xXfeRqcDI6fRNeu1kcUgBNe18wTuYJwAP7t4Rs/X/6drmnNiBh7ajTitx7ZVU21zXNTc6UXXivEsvxqjTDPQH8YA0oQkvLgSpcAwPd3/67ldKy8A8iCPYLdCabHlyGZqVc+iqx6evnKPB1Wd6JND7deYhHyfIusZ1TIPwijqMMyTiT6P62kBC6/cZADo8NCDHRWuNZY9tceVWtdPK+ATLVG24Qab9Dyic1o6FgmshbcEQJDx8e9WzbyFVNkKh1pQ+AVqfpGx9kIymRI9Tca1y6AWajKXoJTq+7pnQXOC7U+vSMC7XnzCF3teQG3L+ITYz+TPl0JEAAAAA==
+lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAAAQDQCdASpkAEMAP22iyFi0rCkqMVebApAtiWNtf1uKc2YAVtxSkCOmeC6ghv4DJcqxFuo0lxo0oAj3ETQtfMr3DmbuFAA828wsJ8nhs4Xf6MrvH8fPnxN2V6DRgUlNLWsS6nSa8fNhYfYLLNH5mz5sAAD+7eEbH5Nx81hgd8/0+hJvTnFginY+TZF6bEKwAf44jkpx08Y1V7ZQ5z+awLArmXoRIuOXrbZzBOPtVru2HwLJ/sef1QEys7lnESCzrr1QcQOSDdjQGs8HrdY1YDqvxSI0eQBKQ360yMBTN5ytF56VY/ZQdFYxI26ONOMYMpXXyn0GmPhqjaAaFRQhc1fpwgPGqbEs2tS3dtyuq7Gg2UFKAFCUiVSJy0KYZ1ovC2W6yhEn3g+Y8C4CZcVOADTkGntX670JeFLf/JwJGgKW7oy0QR0n2maAIHzWYhwkJ0HBAAAA
 ---
 
 Sometimes you wonder if some bottles of champagne should be drunk, rather than left to gather dust for decades.

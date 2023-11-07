@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -71,13 +73,13 @@ geo:
   country: Kenya
   city: Amboseli National Park
 colors:
-  vibrant: 76 138 180
+  vibrant: 75 138 179
   darkVibrant: 62 72 4
   lightVibrant: 109 159 196
-  muted: 100 141 172
-  darkMuted: 90 97 46
+  muted: 100 141 171
+  darkMuted: 89 97 46
   lightMuted: 164 180 194
-lqip: data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAACwCQCdASpkAEMAP3Gsxl00uDEzLNJMkwAuCWMGfAQB2ZBawla6cRkxxuN3sKVUyMuQZuBEPYAXVRxRHwBmzotQYtlr5kuRmy7uQ2YvPCizj4JJ7w/OAAD6Ke88GWp3/pLoWioxHZB/bTGEjFIok5/qxysTtHmpAYR1BBtd6aSLYeK1N7h2R5d3AZAHBI5wejtm34q1Ln7A8tzTTzp14vLuGQNk7N/SNFpI23EUenJTVQKslqlp4ubm8CiD656D7d8T6lCfATUEzgnZTNL13rjZrDhiG/Nt0rT9cTA9Q1YXUBVRtX6cHZKWZWH3zx7AMGCCX7SINswIDB3IxMtWe44gAAA=
+lqip: data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAABwCQCdASpkAEMAP3Gsxl00uDEzLNJMkwAuCWMGcAzbQnELPLaHZaTByI0CqoKOa3Zj8WEhxhHtSt1zoaiJazeI90KTpB2yLfJk8YDUJNc3Rv0TlgAA+vUsBlNuKvxhMdtAazstMbeQ6mQMw92e7kApfy+EgXe0F3NTFSUP5pO/dgK4Wi1ygOMD9usz6ByBaQfoCtSRV8+epdde3qm6JTbx4TG+Pk6ZjrXuuA7yO/0qYB8ZbunIXOaPv3+qbwJ8wX4SJncGJXVnE45ChsedncJvVTTTOKYKmu0MmWO3VmadFJJIkjH32u4gcHv9dyjpQD+QFjQx6YOFOz7kJoAJjWAYAAA=
 ---
 
 Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It is one of the best place in the world to get close to free-ranging elephants.

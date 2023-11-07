@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - 4x4
   - Africa
@@ -76,13 +78,13 @@ geo:
   country: Kenya
   city: Amboseli National Park
 colors:
-  vibrant: 14 158 216
-  darkVibrant: 84 65 30
-  lightVibrant: 151 194 223
+  vibrant: 13 159 216
+  darkVibrant: 84 66 30
+  lightVibrant: 151 195 223
   muted: 102 123 147
-  darkMuted: 75 62 53
+  darkMuted: 74 62 53
   lightMuted: 168 189 204
-lqip: data:image/webp;base64,UklGRpIBAABXRUJQVlA4IIYBAACwDwCdASpkAEMAP1WWw1i/syijtRevU/AqiUAZKJmqLWPxqSQFdBeHSPvkjS4OA0alZH9H8vrcp8nJbFwPbOkBqukkeW2Jad9Y80z2G95m9lli31+Bf8AQf/28b+Q62qAFKrvHqHcraVa0R8plpulHwJoEGxoH0/JimQZ0BYEGbMThTJlGAAD+qpvU6+LTqzI3A1+vusB6yujDKv0xsJ1Ms79CllJGRg4ef2lzkFD0MSiBPT0z+vFiYtsfxwMUolH19hW92agd1xnIO8LSeAIGIVipZtftQQlBisTHrku1e7W9ifSsg/PDKcP83CJPKrSAVbUmYK2LDuOmALCWOnYQ66I71RfreBkucD0Pt7ZCKfZLVFp4dDD40isaS0hZ2X64bdJVTC+TIzqwP/63kvn9rkTVsSK4WQ7nLMj9owBiMMAVSULuVjCZYp4oTdjgXoyplCaPgTJPtRP+w5JhVSnaNsnbCDXxpP8i9y6hDbXSHPZHCZ7swH4GieD/XpVM7tClnJgAAAA=
+lqip: data:image/webp;base64,UklGRowBAABXRUJQVlA4IIABAADQDQCdASpkAEMAP2WexVizP6ijsVG/e/AsiUAZfGpiUPfOB430Z3fYB/4E4zh5EWh+v/moxiBihzHcsazdA+pxRA/GUmBmkkkJeX4k9tb8gVPURj4+mC+AGtHvN+zABdUWUqGzYkwHOFIQ4e3JZPW4tqrn45KuAAD+qpvU6+LT5HYQRC/9Hm8vmN20jH3qvTGwnUy0TYrrJkpewT58hBPt7AR+c7noZcNHtI293cfflWhSWZijZM9XZEd8xUlghwDDBRgj07cgnsdvZUubFE2JlGMvzGF3YjnMnWR+SLjfDxY41d4tJJPp93sOLQJLgjrjtRO3VYzV8LusPQrIJ8f/7glIb2aNyB3G4B5w1dT9W2EXEYagzKcbjyIT0AQZNJDdJm8y8cWSspnCuH605aTpZtqFoeoBGhF+zdjRCugZXlh4vwRI3k4gmihlz63Z8xPrHV8gwjDTPnAgWLnZD23xuhNfoiSzdWoHTPWfoiFyBmtI89rBznk0rk1UycFtAAA=
 ---
 
 Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It has great views of Mount Kilimanjaro, the highest free-standing mountain in the world.

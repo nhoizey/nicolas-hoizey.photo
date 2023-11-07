@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Sigma
       model: 50mm F1.4 EX DG HSM
+      short: Sigma 50mm
 tags:
   - Africa
   - Afrique
@@ -79,7 +81,7 @@ colors:
   muted: 169 140 86
   darkMuted: 49 70 60
   lightMuted: 153 180 202
-lqip: data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAABQCwCdASpkAEMAP3GmzF00v725rbIrM/AuCUAZE2oIBPYp046XOjgfcwnmwQYntXQLcONbrgwNLisMRyuwvtfeEYCfPDIN77PQfebb9BiZLGtXamd9LNtC/hSevkD6aCxHGAAA+de7BbdjjkhRFCg61I1ZKVoDUVuP7X2GOph0T0aUmKpJnd4T51EFeF1AOzCZnDCzc/VDmQttMm4i5b1ZsNWOrgcWiOlPWOjJ5d+Paj/isbVXLuRQ3taciZDwoFvXWrrycKmLVnuUSHnNEnPYDwTbHG844Ntku5/1UWDjwrVyYYGjcdwQAHvnAXRrbUYJ0RMZ+5TmbA9LD83y7xXzbD65gjb1Kvjo6FiVw4lZVG05glmLE2x39GvjksOXmW9EZ9Zc71rKvpR3I4OxDyKHlmzvzeZGR8eI8AZ6ZWTmmsV7wIAAAA==
+lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAABQCwCdASpkAEMAP3GmzF00v725rbIrM/AuCUAZC+owBPYp046XOjgfcwnmwQYntXQLcONbrgwNLisMRyuwvtfe0Dlwxtaee5nX1TQKSF8ETbL+azSsTAxFB05YJRlASLyeogAA+de7BcBIvWnDcS6q8OEud9UMsMjKGWNEW2m1aKboZ5wNvE5bAKhaIXKdVesBJG5MbMUDd0RNs9Ii5b1ZLA38xZL6J2KXMuZ35d+Paj/isbVXLuRQ3taciZDwguMOTeWPNDt/OcWWmWBhLKc3pYN/vgGyUMRyAzEkEoBCirYFVdT5of3EVBNqfORnm6iXvsM4BiR7mPIOO/uXeK+pdb3MEbeqQ047jXqpJv/KZ73MEsu/cBiK91SUjwmg8r0IgntZz7ruLJkdsWDfDVyIx3+w39rMbdJUArL5N5ntnTBgAAA=
 ---
 
 Here is a splendid view of the High Atlas mountain range, in Morocco, from the plain of Taroudant, near the town of Tioute, on the foothills of the Anti-Atlas.

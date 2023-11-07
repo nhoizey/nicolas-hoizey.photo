@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
+      short: Canon 100mm Macro
 tags:
   - animal
   - animal sauvage

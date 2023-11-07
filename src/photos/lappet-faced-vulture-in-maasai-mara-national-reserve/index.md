@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Accipitridés
   - Accipitriformes
@@ -71,12 +74,12 @@ geo:
   city: Maasai Mara National Reserve
 colors:
   vibrant: 52 124 188
-  darkVibrant: 9 51 93
+  darkVibrant: 10 51 93
   lightVibrant: 151 191 226
-  muted: 89 124 159
+  muted: 90 124 159
   darkMuted: 90 65 47
   lightMuted: 141 164 197
-lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAABwCgCdASpkAEMAP3Gszl20rSmkqhLrApAuCWQAzmhB00dWAMFABePkix1uVC1mzzeljotF4wGnEbIZjiKyYUYlJn+Q6kGnonYUCE+drQrrIz3+LRTiKJ0qf+0FAAD+y7fwGwZ+r+uHNXiIS9PFT0mC47sZA+rrjEVKsn7l14NuIJh8g25x12ZZX4uaBy4Yw+QyTUQAGeVu+baSK40Dz4G2kBctmTEdNpdvxyIOO02qQmtyHf3QIPNi+/vU28NHOSB9rGFA5V7620XL3lR8Pi7ge8yfa6Xrzw6A3vidDVBQsxj2tBX4HdOt0sKPusAUUk6AF6mAnadS3LHxNa/ew4ufzU5bdKtaBVaqTqbc89+3UWnoIOksB7slgTr2VgvyAoWhAgsvOuCnf+QKIOg6HxkUYWgAAA==
+lqip: data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAADQCwCdASpkAEMAP3Gsz120rSokqhLrApAuCWQAz1hsU21WAMFABeTAF4sVDHAI5SgZLCRGXTBZMFy4KgPV6D2Ahg+NZamc8OPjkO5fQe/4/3MspDUd7vrfx9tc8My6KwdjCSf5cDIAAP7Lt/Ou4kqL64EN/vsWKGeAhWXQ1wmdLRHj5p/DqB3DABX4NuxMDdoKjYHg7s1bpnlVtrBeTKsnSxAA8v5+zpj3158teePtORs9//Z14i28RaZt5SOef4AXmrjRPxJ17hVO1GjDmWMDkisTkW21iAfjzTpSX94ruHQG8+z3BS8ttjHRokzeNbFxRYUeSTznzOvjA04DDVYIbPhD4oKjn1dbpOlJIY+DQd3Y7M5DZkyAzNU5l+UuRV4nZGdSGG1SsvcnJgfiFMX58chmwAAA
 ---
 
 This vulture prefers to live in dry savannah, thornbush, arid plains, deserts with scattered trees in wadis, open mountain slopes. They are usually found in undisturbed open country with a scattering of trees and apparently prefer areas with minimal grass cover.

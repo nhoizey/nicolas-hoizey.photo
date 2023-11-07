@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Bethlehem Street
   - Betlemi Street
@@ -63,10 +65,10 @@ colors:
   vibrant: 224 147 9
   darkVibrant: 12 15 124
   lightVibrant: 94 186 204
-  muted: 80 124 173
+  muted: 81 124 173
   darkMuted: 39 58 79
   lightMuted: 195 184 164
-lqip: data:image/webp;base64,UklGRuoBAABXRUJQVlA4IN4BAADwDwCdASpkAEMAP3Gkx1q0q7+lrbZsY/AuCWQAyZn8b3mzNfzkzsfiVWZ303jzr8GIgm3HGb2y73gEZ1r5BL529D9wtMGU43QTEblilyEN1LOUejpOVd6NF1mh8mpWgheDfRYr3QhYPKO4/UoIG7i1E8RpD3tlHkDINpSVvDLr9Jh4EsugUEtAAP1NM4h51ftTFDS20QEGB/HS8MY+gJK7Q2kvIYqNqhfe+v/VaVOyP7jiDYyaMQSq/vEkzueBW/SREswDmB99QB6XmXx65ZsvDON2Cq+Xciq61CbEuY2o0AWgExkFy43BgBjovnkwAs5BWxrB3V6H2Rpe4k7ItGKXkP+A6tKre4rrPJWl766eEJSzCf/CZTcHHJGYrcWnEICCQHwiEoB3O5H6dtnuhj3pMXqrjKrUkHTmfx9iNdCu2NcDPpiKG3jw+dWFHU7rJDom53n1982P1O9RruZpFRUZuOIAm8+Fj3Gm/eMeGdlcCAs+zJM+r+rLCbdXzBz/7mrbLQ7n1cGv8x3k+WUUmccKlWKdtMeLZNzW6Lx81XflON19te3VZfWxDSg/+eIRDq08aZKFC86aIY/xjkq2+wos5WFDDRic5M0YJ+dhsFa55bQlGyqBIPB6Pry1gAAA
+lqip: data:image/webp;base64,UklGRuwBAABXRUJQVlA4IOABAABwEQCdASpkAEMAP3Gkx1q0q6ilrbZsYpAuCWQAzBSVr8ZhdPnJnX5k1I9RS5Xc+9BGo5Lz5nixK/AuEcVVOsAgvrtqH53uY8ASyJ/CfxatqX3ElvA9F4EKfz22Ze3qJNpI2mGS7XSUOxX9RNacvzvLl48c2BW89CMrfJJWlvbjWy2q+qSxK28/dDFY2CPWHQZdA2rQAP4mmcgOh3Q9KkCuQ04bWv2bHfq+pEgnZednxqc+T1m++smSrEgag2Y6QCnvwxBd8v2bn6MnI7oNbWNFj2YVoP0YY0AA4XkQ3HpgwGBMA3/MAp4gUDArX3X8gUCR0WL/1JFw/2EhS0xZbrIWK8e9iroNjOlYuySe0XwN4A/l5cUypQOU2Pa4onIGGh72wVE+Dju07s9YWwKdXINwGya3eZvRqFJUdciaVMJ9KoZUTG5uRoivbj2P/7LxK69mJ3VXV+AbIOcysfPOyXg6m8qegpCLZQ7eiDo71lBezPXeyQN+H0vzDC35e/Y/jdoRoMTYw2Abrz6jxvKQ8UnPUsonV5+LC1R79/1jE+h3mywi/rMovY9dXiG6rlB9/YFjQ5THfvd9JcMQ+3WYz4Wy2+1aqhsWoc8Uzt334dolmRfvxNWxE2iO+muW9598uAA=
 ---
 
 In its heyday, mosaic stained glass was a common architectural feature of Tbilisi. Sadly most examples have been lost to time – but there are a few buildings that still boast gorgeous rainbow windows.

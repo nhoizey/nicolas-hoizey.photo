@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - ciel
   - cloud
@@ -69,13 +71,13 @@ geo:
   country: Royaume-Uni
   city: Bridge of Orchy
 colors:
-  vibrant: 137 100 55
-  darkVibrant: 81 77 4
-  lightVibrant: 190 145 98
-  muted: 161 120 78
-  darkMuted: 99 73 46
-  lightMuted: 212 180 172
-lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAACQDQCdASpkAEMAP12Yu1i4v6ajuLXsA/AriWUA0nbf/T/z94C1txvK5mcNZRk2W3qbbLts5mE+268SUyOfjbAdpjEsjUu3bOMW75aoUOy7hPJIHyNO0KtCcjPwd4t0JbQiSz3Ge2NrAIRlKF9FNl1MJxSFSCAA/u16N/ecGRxd8hVmaZn1CY4E/JDmtlusVkKirwE53HeYNmd7KzHsN3F5fX2GrpH2FJ4V054hp5XCUdIogEFgMIlcc5x6/9NYq/V1dgcga0MWHyMilljJCxeeVi27HAISxZ+qxj1+WLWHEC9V7SIGcAdwT0hNQ82w72fclo6zNGF9yxwiYM0mvmJGVKx4Cdt4utR7oL+FPun2ORzmt7HcOjZtgaVpT+4XRatR4XvpNqyEdikYAAA=
+  vibrant: 138 103 57
+  darkVibrant: 91 84 10
+  lightVibrant: 197 153 106
+  muted: 161 121 81
+  darkMuted: 44 41 23
+  lightMuted: 191 192 193
+lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAACwDACdASpkAEMAP1mYu1i4P6ajuLe7A/ArCWVtMV+tCE8mkdjJudMiLg2LTtRyEmU0R4shqNe+5/3wO3PFVzwSbVZ0o4QAEglBKjSLAvF/l+OT4XuUv2StaKRWSk0+KR7CBMSW52zdex7qwcqYAAD+7Xo395wYm8kmgudOhhKSz18wriHbisz4nKX+PBiUwgb14xcmyR/X6ty4Jcp4Hu/vN8zkhj1a/VCNvFD+LNiVH/eirdJA2xWA2kJPFRdnvwN1WZSwbv8QQ5FVxWX6WKk2NAGYr7BV+TBlGTbHSEr82zzbSum4brVlHG3vtjgqD8WBNLKdZ//les1t+mEUKRmrsBfjr2yWZwNxAP2yU9tYxADwUnTau2HAcwOnyVHD3Gat72zWQSA1T5aAAAA=
 ---
 
 This is one of the smaller lochs along the West Highland Way and can be found close to Inveroran and Bridge of Orchy. The views around here are amazing.

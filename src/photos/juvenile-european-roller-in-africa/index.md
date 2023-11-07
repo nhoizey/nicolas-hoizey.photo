@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Africa
   - Afrique
@@ -73,9 +76,9 @@ colors:
   darkVibrant: 88 77 31
   lightVibrant: 217 193 160
   muted: 156 123 88
-  darkMuted: 94 83 50
-  lightMuted: 179 185 160
-lqip: data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADwCACdASpkAEMAP3Gsy100uCmzK/TqiwAuCWUA09gSJfcHnZTImCpL4Z16QFRoZKStM+jZgWBFoW17HC2VOnMAjIpKSa4bD3EpyHfGYaviAADs6JHBtxGGjFd4nKV6XJhvIgfpalDKDedA8KlrquM/PiEMvS2aPO3FFfb63ykKsYj2FJ7cXpDkIDSpg29Wl+BqL6kOQDuDDNReramE8GM9jagSIy5pJlyq66FJZDP4M2vk8oLiO6FACEEc9bWk2HWXqY4qTdyrchQHU/gSvID9IsviH4z7DspSncJSoSMimHgDi5cEdtWgAAA=
+  darkMuted: 94 84 50
+  lightMuted: 179 186 160
+lqip: data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBwCdASpkAEMAP3Gqyl00t6gzLbRJmvAuCWUDsB5D1RYe5u+iVx4jwLJWfamEQBruaqE3UZdfY8xQF3yqLb6fEzMz1hgEb8AA8WD4SZiMNGE538tmQ5IVN912f9oSM73eYb8p5bntrfIZeQtaK+MvHngcuCAj1MZnzmHrkSlS+97Gu+TEWjOFvsN2yMY8ZpY49DhDM1Q+nQCx6UZ18zFfUvOQ/BupycS3tPxoT8plDQk4CS3Ok6lDyITrfy2bVDTHeSfJC5b2S/7yV017fmE4twsqhkM6pAvt4wO5BSAcVF9DwAA=
 ---
 
 The European roller is a long-distance migrant, wintering in Africa south of the Sahara in two distinct regions, from Senegal east to Cameroon and from Ethiopia west. It is a bird of warm, dry, open country with scattered trees, preferring lowlands.

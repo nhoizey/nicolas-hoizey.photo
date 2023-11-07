@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
+      short: Canon 17-85mm
 tags:
   - Burano
   - course à pied
@@ -66,8 +68,8 @@ colors:
   lightVibrant: 223 199 166
   muted: 97 150 173
   darkMuted: 95 64 41
-  lightMuted: 134 167 126
-lqip: data:image/webp;base64,UklGRloCAABXRUJQVlA4IE4CAACQEwCdASpkAGQAP12cx1iyrCmlMvhNMlAriWJtf1i5LeBr14Nw74UiVEnjyHhKuH/6qp/UwqK9ty5uUQEveXMsuDe7MJc5UaonqOb5gj0KWnp15HnUutx2GJao46XJWeLSYFZZz3YPy19eOdsxJHEgMO5vrPjZmgWzicJBq6AV8nbbIcnf9Avl+YwuHTbZlPf/+RnVX+YCs4PUx1wsSwtJWjSM+AAA0mPOxw2eLXCtiqloJaymVKPQhAJlTVA30CH6aUJwsgTGndUX1wQqj85IGuBXXHy+nOqawM1oZJPLwQ9A5h2XSQHCBR2MsXgM/RGOoNAEO6Mwg8Ft/+motc75uc4B2j6riKdQc/IExoT1dtr04H3pqWjbBQkEuoSgHgKkh1fIeD/yofOhWiDEjbXwKzSQrgH/FflymlfsvlA3NieIIlG5BaETOnTYBjf1Lg3BuveC5WEza+Nzeh9XmawT9YEe/87K8zpEZl+w8Hyq+QOn1tN1OeFnyLMyAFWg8I/JrF7Jp9UPtzCIVHSfwcARRLswDCLtETl9TyqeIlon0YBU7vAyBAtCAgkW5Ir3InbuusAujCgOQjhHGpQF9QEw5AIy8/HiUo5wA2XC3ygs3Iq0mPKyB6gbgAMZ2WjinuYsT9uxFs3xXm8hdc4dke1U49BPK0Wyi63KrZW+6HBhAap1L9vyAvE9IK+n61CfUdoraJ38lBRpBlILg32ve1Uikyeu4sY3jS2BEQT+rmTQo3khfmy/wmpSt5ZouZH1x3KhxsahkyT125GlwItiAA==
+  lightMuted: 135 167 126
+lqip: data:image/webp;base64,UklGRlgCAABXRUJQVlA4IEwCAADQFACdASpkAGQAP12ax1iyrDGlNDe84lAriWI7f1gAokn2gLm3O0JW6MQUjGiyXNoiu8BVVxSSHk8PWdVmgqzUEPNFLnmz8eZx4NxfTnEa0VUPqI1616NLxkEwFZ5PAtb7XPDYiwbYfi/vASJF3tuY0aQQFZmL+/z79n8jkovyeoob8sRTvkV0NoTMM13CfBBAtHtSOD6R0FOTzGAhqoj0Lh3jmUs7vTXkkyi2dg4AANJjzscNni1016OSh8uuxS0icjuOJUd5zQTZHCQFm0qR5Xg1aN5DWqMA+OcSpOxRknoNaELJS2peU7a+khNibsrFWnCIHFfSV1Gn9h2Oyo2+Jed3Oz5DM/cy91UUjMsduRUEa5/d6FXxmH8FiB2mDGVZeiWBHXim7GigIJp2lHKn2+fhteSliz0ikommfxmrj4sxRgDtG/a29GMYYBtiiTDMifWry2ljfFXogdtlDaF1fZccrMz2idh0f+5QfN8tCPvh463NAh6CFQ8niejgxdh5Lnekjd4BxoihN018vUmRfhuZz1VYxJBz+ZSM8mBNuYXlWDCX6KTPKZy2PDmH9l0rakHP7svUw7fnhBkNWvm1tuD+mnmLKIuWvmfE+TReVx8O3QY3TwG4cj3TONGIL4dlkyvQ4P5QvQ4oENpKRLxAYSoLBu2BBWlRpKTbu7WuVbQQ82DgQJfKGJ5cWSzXn8uf+ragL7NPvzmoh7r/uU0d7/DpDbzdICaI/i9Hb9ksMBiOW4KaUMibHOcrHdsPLcyvTkjppqyb3SK78AA=
 ---
 
 Near the colorful Burano, Mazzorbo is one of the other various islands in the northern part of the Lagoon of Venice.

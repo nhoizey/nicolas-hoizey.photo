@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark IV
+    short: Canon 5D Mark IV
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8L Macro IS USM
+      short: Canon 100mm Macro
 tags:
   - beverage
   - bleu
@@ -59,13 +61,13 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 182 129 55
-  darkVibrant: 127 84 19
+  vibrant: 182 130 55
+  darkVibrant: 108 52 14
   lightVibrant: 230 217 183
   muted: 119 156 163
   darkMuted: 85 65 37
-  lightMuted: 179 201 207
-lqip: data:image/webp;base64,UklGRm4DAABXRUJQVlA4IGIDAABQIQCdASpkAJYAP22mxli0rb+vLjWti/AtiUdv6wCwDWBuUXHtQPZ4w/Z8kEVnpXIfVplslRe8hvhFO9r8aze6lIVlEzlarSZ0oZkr+yKJk/lgaKMGK3IPqc5NIE/ePVn0ziU9NLbwU6AlwxXqyxRU2a3g6M2dtkVKELBbZCNfIWoQXNpkh7LIGdXEDftArOiJFkrWUnbXiEjPMfCnjxtawt4yEqnJS4Mc1YHr4yLTFefUuIq8BuSyAwLxqYTMGuDJMr7vOn5rxaJEboHDZ/iXvECqRHkLyQizhxFyElzYn3niabSQVIYIv6jNbuGxmFwfmtgt6TLZx3qQPfRr3eLs57S8AnIoDtkBIOfLVdPAQgeNwAD+7aOBhBEL2BVfFtJcZX4iAfOgnM7GPP69AJ9Nsk52WrsABL9XoXekumpq0JuWqChw9v1msx7rRY9mmaE9Es6ZYSgAhSeEcH8MXUl0VyQQWt6Z8UcKEpOgMqCIPKJATle/J1lWCmMjIsDrrrpfZZ1HU2amApkUHSSgKLtaeCWs6QMjk5Vug1JrXHB2fqTkkIwrKsLaPtrQkV82c10tGVwFWtMxxExVm1Sz/AfVwB4dys5ZTLRdSWO75937NTqEpJYeYy9gH6cGhpXWktcohz7FCIe6CEetUlwnF5JxVQgKWXPPYn8JPMXjy6YhlU6JjZD3BaMnNafJNLLFmX9WyZEQBxPh6GBn2soRpWeEC2oq7qjMBiGIxstXjCfsQOIOFLEdbYrzq9Ik1mupZoiFuZRce0UgkW7PQ7DsWytDPnKXhr92uQ0zyZr0IP/7N0lFMyuWR9vdfiDpuWIuxTyohzJlQMspouc2xS714oLS0nNW4b1Q0ucaC4i7BLovYGrxR2hyNFSqn4Fz0m9nb0yOc0woPGDalQjSPeopeZe5jibQRJdzq0UfEhmxEsRImOIZ5RRIeh+dLlBEYnhV4Eixrhp2nPSH6eaxeA7HRT2ODxxPHr9dGnv8ZGipe67CLDhF0xbWN80QTI4YzFXxMMuQibA1BGf8uLNjt/rRbnhFh6HlIUefkW7fsBjW1pJBIbKXS5GZJeg6lRW54HroPra2jtZLR3ga8yKoR+5M030DYX7G4N9UounmWosBX15n2yabeTSo53E2mj4DGzkEejfAAA==
+  lightMuted: 188 189 177
+lqip: data:image/webp;base64,UklGRmIDAABXRUJQVlA4IFYDAABwHgCdASpkAJYAP3Gox1i0rb+vLVWNo/AuCUWy2wDWBtfQ9gTP7hy/yCyWy9qiMWtfjfqNNtuV8GgIcJYzrciHJ3UWg5FcVXgPr4OH5CIgNkywXByoju44UP54y34z9QVG4wBQjk4kYvfoJKVFYLNNukqs3mBXoDiSCFIWfPymU7CLS9xnOk/J7AGDbWRFTRjWx0rD835JV3u4F+G7SXevUYKgk0LuqKK2d0HPxg738FAtrXVYs50vEinM8347wrX/PgzmqtmWZTsHC6amGjFr8NGcpyhh6KYH224GCqIr8LItt79jQuJccKUB5mQuAHElVvjbiytW9F+NYsAA/u1jEeJIKyB8GZ5Fp9SpKfzOr/8kkIvd+vQDGrUYeranUS1gHKJ1qu5rlrvtJ1GfZTPIOFXi4kr0u/E2ASb5XO/igFgXPj9YI181RI6LTP+hRuiUsw5fj0gxZlr35k5mpe4X4Q9F74kk7hlGFd9vJ/7YKBsYEOLkSnXk3++CwQdR5lonQPhbu86LIajxApKQLr3xxTs5KiTFigzm2DJgS+/6RAt6FK9v3t8GNb8pelxFNPTPZmsGnA6z+EFzsbVwbEN+bdWMt+QuVptihHG1ab/eFkS1BRB2Yj8+LdTmIikRLIzZdJJhzNEDH5HVTz+Co9K5c47ImZx850G/50ixG0HW+4jatqFmpNXwzK/fhMYK/vtaQsDFYBVG7iMonNzJD+/Y/CUhxUVPr+Z9x+VIvON/v/fNUSAbi8CtfCOixcqhR6FdXoyhwtZfKbC1HsnbGBrsS1n5A93yEjqmTSEl2kLZYjGqWkla2WJ5FsbQVjcG7sc6np2KEusckja1kP2vVITOi0rHejlxdJAizkmmDBN9YIxAJ14g4RIMSWfOFL4UMDKlS9cQoJU95J/nTM/dV/sDTYWmssLcyN90mBWAnleWMcxuIH+ooL1mBkHu+/Z1CUPjntmQy7gNKUuze3C6NPtbO5Z56/kPmGxQq2O0pMzo8kSuIwpcIBDAb1pKoNdzr7E8Pw/5N0GCibOuQI6wrXnw8He99VTzMtlBZ+qNOhZ4uax33T479ECgrnURUq7t+u4z9z43eB6wDOJBOj6O1Ih3RGCNwbPJbU/HNsF/26lIFLOMmUAAAA==
 ---
 
 Very interesting experiment of culinary photography, conducted at the Photo Club of Draveil.

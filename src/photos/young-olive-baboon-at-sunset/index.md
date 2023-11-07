@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -83,13 +86,13 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 205 127 55
-  darkVibrant: 49 23 4
+  vibrant: 205 128 56
+  darkVibrant: 86 49 28
   lightVibrant: 212 180 164
-  muted: 148 125 110
-  darkMuted: 85 64 49
-  lightMuted: 189 176 175
-lqip: data:image/webp;base64,UklGRuoBAABXRUJQVlA4IN4BAACQEwCdASpkAEMAP2WexFizLCejtRFt+mAsiWMAy27V4Q7ZPD0Xuf8ccHLcdVhyVNeO8zQq1W1ZfD+VdIyk1oyQtZQ/4qnwJTBVGFaT6xHtgxlJ5PZb2I9fnx+y6lSerYu73SfpnrVw7JsqOGxvhXVRZD2cJQzlYiGwycB2Fo6ktc5uKMxRhJIe+cCUAtAT3Z22JZPINz+cR31bnX/A9QuDeexBkAAA/dCkwrpE99NVrzyy0Xkwn5e6vk+UGaRGt2xaxAv45Yb9OzZ5nKfQHHzIBsBrCqV7VtsOCqYgBosmLUCNMD7KLO1Gd9DrpQJuXBBBXkIbg1KbZh6AwFcTfl2I+KmwWS4XfTRfKwgB+VvMnx+d46ELOPrnNrXek7j2PBiLOsATzLKf6nv5F/lgg2WXmENoT6wVVnwmTrTOmovw3LcFCVnU8vjASLtO95A3VFvkPc5XTtBM8yW8SdfSND0fyVEsYiOvG5anCs2PF04lwbsWoWKFtahpUAeocFOv0sMIYvJPKs/DezR3KXWLl+WQYtu9Eo0hoDvSxegsCZzNf/Su+si1SkNSSjURHoKDrLKX3yvsQDB2Z1sMfXzIGU4ZAH4HiCfk8rFJCb6xJQigoOZDdEAD/rj3GEp3TAAA
+  muted: 164 133 110
+  darkMuted: 84 62 48
+  lightMuted: 204 180 172
+lqip: data:image/webp;base64,UklGRuQBAABXRUJQVlA4INgBAADwEwCdASpkAEMAP12ew1iyrKgjtRQ9+lAriWMAzNAwnMXN0VLWcqxF9jFDi3Anzg9x5vdKVdaGHnImW4NdQEHBLus0KLwr+bTUSH9L/vkXqV4/NHfatxFnrB3wnkSsggUfi3DxS2pKSu5+jTswTNhZkeopWvEYK5xOSifebDCVSMoywU2vymZX5RtvwDW7JSWFubZHsTg11y6vw/mS295JUC/GM5eRAgAA/dCkwrpE9nR7KRsn9UxRK1De18kUw3430i12fawrOQeJjWUP0XVYCepgoOud41NMXjDLhBlvVQxIzsK0oHU831c59RrhZltDC+NSxt5DcL1RcrcAkCgv9sub9LnT4u+f5Mvk6UpBtbu3NukIuG1agamz1mfYv8ZTIMFh0m7F6Gr5R1vSoYHN/WoirWEGZ2SaILiWuBrdZkGOdnTB807wJwA7JQfORWiGzz1umHzIZfdHhkYWh7h5I3BQ7AFOag8zGZ7xLDy3tQZ/w11aDCnN0koVHTms8dEaWJ80AzQebwjCHkgQ1RkQ0ooAKAqJ2lNjoWs1LyJzQjJreFU1zroLXDsbSoyKTEFFGmStjATBBBhe/bBH+wweWyOGwM7XGA0fkWVnJGHGqB79PGXgAAAA
 ---
 
 Olive baboons have a greenish-grey coat covering their bodies. Infants are born with a black natal coat that changes to the adult coloration as they age.

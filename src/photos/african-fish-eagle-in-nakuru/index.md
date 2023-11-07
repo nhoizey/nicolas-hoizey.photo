@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Accipitridés
   - Accipitriformes
@@ -75,13 +78,13 @@ geo:
   country: Kenya
   city: Lake Nakuru National Park
 colors:
-  vibrant: 182 124 44
+  vibrant: 182 124 52
   darkVibrant: 20 60 92
   lightVibrant: 252 250 247
-  muted: 147 143 123
-  darkMuted: 78 86 44
+  muted: 147 141 119
+  darkMuted: 78 86 45
   lightMuted: 196 190 173
-lqip: data:image/webp;base64,UklGRtICAABXRUJQVlA4IMYCAAAwGACdASpkAEMAP2Gauliyq6WjtRkN+lAsCWUA0B3HwOw5FmArXMepFzSR/cDyL2G2/j6W4W+e+bl7+h7Fw38epd4qzL0E+jcmVSYkUJctdS4XGoqgjJqXgE9wd89aH1zbUdNKhlTxrhRK5QUlvd5tjrmRC7b7PIW0ZscOm4SXzKnurainf2jW8Jh+SlVRNdbrqYQHwIhpeCZm4y1n6J4zdc3cgGn5Xba5oE1USaopKLPapJoVAQICEEm40ypUqfadBUmlOwD6bucAAP5xKOyecUVL8ln+Av5dRhRc+6B6Zm2OD9nKOVWEmpwxnaNrkRYVt/y0kN7tQsgAuwpSMI6FH71gckwuzky/wCKLtK9n1MU/du6ZIrxtuWb1WbuHShC7uh1Ie5wOZut8KpBjP6wvZ/Z8uzLmmFUCAaH6j1clnCeO/+E2zp3dJTPF49woJUPFKbu/hmsedNb5zFy20jrrNABz/+cnq6jO7XLw1l8Fzk8jYw2NeRrp2xs0a7Bk5uGToVTQUCxcvNxqsOEvPLTuEDGp5KPhBsAoNLrPhvdGa35VLWp+ZE64VgW1IDtXzPnkZXCrCAJfCQbGWRI2MxXWkiRBYhbdlnclajUWZ6xIcIfv0p9Yk1jFwJhLZ4j2kA/dQWkvHX/qG+nN5RIyasIdMi3MsE2l2AWZhbkGBDKPAtjjdDeNTcbYEuaEcJ5te1tSjYnrCczQZkTC7wEs/N6/qnptUhgJ6W9jwwReeN6gIvR81hnSXQThVUG1FM/DpMY8jJxulq9bqaY4tYrPJXlrTUVFqmdP/Nce1me/b7XWVsmuyMmAiOVzvmjo/NCSXrMVDVUs6/8j3knW731BVrtirvwBwygVfQYvKP58j4XWzWU8NKCHGHXt+uE79axGQBmwZxZ4okIkk+bmmPz9PUV+1PgCgVjvECWD6kMHrRlQWTOdM5iAAA==
+lqip: data:image/webp;base64,UklGRswCAABXRUJQVlA4IMACAACQFwCdASpkAEMAP2WcvFizKyWjtRkKqmAsiWUAz6e47wHCC9oiAFoOSAXlCrbsp/jXjqB6lD3wTv4Ljl6wkEUWvSfA7UUi8gb6vkLF/C+BsX7bN1nGfOR07TEfYeJr0wEvXeTpiyp8RfeLwaG6vFcZiHDTFVP8AdsZH0fhbSr+6YUIbaXs9EQnS+dCHzGRdr1+6EDuDoiHKfwmye0UiDy7PzvzKTPaHncOZn3RdCyvOlh6NujZnvz2edoAdwk2+hV51DCaAAD+cQHPk6fPlEK+YcDA1/oOnCBm91u4vo2ZsPS+PiaLF0rs0bN7oo0I4x+BPE6TKh0Pq5Jhx1q4FgeeGdP4V8ROZ8Lsbjy0lo3rtyFdX4U7SK/8v6ujT7WnBSsL+kJq6kWDc54a3YCKLlwfXj7NOfMQL/fLH4GaZ92MHsctcvXCkxr0Pp+mWh3D+ZpIuB5GHtRzg3db9VCg8b4CEHUror6IMSUN6sgYh7U6FGE+ia2fGCQe2+yNQxJa9mpscBDc0FbC5kOz/HlGb+/TZz55x0zflHjwnzU9/uNN7xD8GCiS9d4PQnyd2a5pJUaifUrjtTVT49xJz+nb7Q+u1QYL+p6txlRozNNk2f+tsCdhlkIgG2+OSnwQlN25jipnsto0K40B7p60F/Wem0dtrlJXWHsIXerX1H6SHNuP6T1ErY9a7RSBrh/oj83HbGCdOOh+ofYQ9P/vsgoCuGHsqC1RFmBqS7PsdV19TojpzU3DxqbnO1X3KqO+PHtGwWEuv9nLxiabqVGVd68IzYK9LQn5+vuKbgO+0Umi4hvp5CtM71tpULyL2hS8S7VtHcSBiuxqVjsBMebjwm6+dClBhD1d+27ZijcCTOiv0hRVj5l1Aqhgc+T8iqTROV8WRqlJ8JYa45IBIbKmRGdF7ktZF+5kAJf2mZ+SYikIbwAAAA==
 ---
 
 The African fish eagle is a large species of eagle found throughout sub-Saharan Africa wherever large bodies of open water with an abundant food supply occur, like lake Nakuru.

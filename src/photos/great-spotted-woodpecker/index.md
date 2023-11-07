@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
 tags:
   - animal
   - arbre
@@ -65,13 +67,13 @@ geo:
   country: France
   city: Soisy-sur-Seine
 colors:
-  vibrant: 69 136 187
+  vibrant: 70 141 191
   darkVibrant: 37 70 102
   lightVibrant: 131 187 236
-  muted: 101 134 170
+  muted: 104 137 173
   darkMuted: 62 44 28
-  lightMuted: 122 164 195
-lqip: data:image/webp;base64,UklGRhACAABXRUJQVlA4IAQCAAAQEwCdASpkAEMAP3Gkylu0q6ilqhLt+pAuCWYAyPX2gBqzpUFSv8r8iR4TWW69z08I4bbZLyZvCKwQcP+H3mr6g8iK1jSHI1jr2DasMP2ATr4YDCuZvY5u7KOz1HBt0IBZ8/mRd9moei7QqieFTZanVfPhAfMvNJA5J5RlptSAFtt6RkaPHPSUGGp5VDCPhQTWOSBp/gKKetlhpqie0rmBgAD5tNdQsqa3xedM3BXtaSZdrN3a+5s1UdxWdcwvRUsNOzLFgL+BJn3Yyrp2KNhK3N2v+y5TMmt/GF6nvntRi48wqNIewPtNqFomxVSSs417755cRlPLfG/nAnwUGryzJvI9DIN2XpzpcLHsJFCxtJq+Ss2FyErsmlpIC80h7uwwCCgIUlmP3ukpdJ/aM0bad66raYNE11i+Yj6U6iqn68gAW4zloN7TsY78TunNVTDgeKqIwnkJnCevBA48J2WPoWEAlXmzEoYHdtXX2zrLe2mgDcP4ltwiTobxqUB5EcnQxsS5x/sUfPL7SXyXr9Gjb5B8d9Vcd4gGABD0ZQyHCdvfHmLyTgAijZWwrgRycm94UtlaRHBQ9iYCq9BkNioHXIadcmG9zmvYQBKfMfTivDZFtjq+EPKOJawI4es8FPDmNjOuwHNXZKanSAH7tADxai4GN5/ezHHwqtBOFbxbujdSAAA=
+  lightMuted: 116 157 194
+lqip: data:image/webp;base64,UklGRhACAABXRUJQVlA4IAQCAAAQEgCdASpkAEMAP3Gmylu0rCklqhLt+pAuCWYAyvABNIVW7Yvoem2MOJWpObnUuyDzqrjHIV78y+Rb6jHtaFeZxEuGgXu+syZ+qlM5ODAj/iPPigjfJH8MEk8CrapJkUW8aQ521W89xAIxS8qvA3gIRIYY9BSGBZ2zSBzD7ZarSKV8JZTJAnl9+pjvosKIrpNlxlDLkQrKHgAA+bTXULKmt8XnTNwV7WkmXPViWAbt4oHnH2zlxfS1f9IBIE/Cs7rWZ3j0yiFmMZ0oPG7hePUlFIII6jpOufpURNwKC9YgLYQhaQ7BazFRi8lSEltzA9mPVS9qNUpOQU3FxU7bbSZ1BAMiH1p8YpOhEEXi0d+RGggVdjDf19FgsoO8FZA4cS9czUSra4GRvhPIywaZ1i0EvRyTdl7ujUNt204M9A9QHTg4METLOhRH2TED/d6//1DdPqQ9VCq6fN9gCpWKYRaWhgcTRSOy5nrwOSqnpSafjk01nywdL2sy2uTZfdfZnPxL5tx2PBbCZpL4aVl+ZOjC17LMODtO/EzBrW8G8103LPUkYWfHTLQbZSBCGCH4RwgqXTmljj4HAky5Z2/oyE6sAXwcx+2Pu8QNX9h+9qJhv6q8DSzkvgYbEC4GskknVmIl3KLXodPTRAWkUqr4b7JrdYSMSe2jfuE1Pe4I6LKmTMgAAAA=
 ---
 
 

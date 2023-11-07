@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - animal
   - animal captif
@@ -79,7 +81,7 @@ colors:
   muted: 109 145 170
   darkMuted: 101 87 56
   lightMuted: 153 196 189
-lqip: data:image/webp;base64,UklGRvYCAABXRUJQVlA4IOoCAACwFgCdASpkAEMAP3GmyFm0rSgqsHHMOpAuCWwAwRBUzeEG+nTb68645RfhJr/Y7Y6bdQk/CqlaCsLKqBaX/FQ/wZAEtluuP/B1DPR2JMJ+2/VrzFdnEYNZlbjxrAvsTLD4e+ghIfh94QBQbf8AtmSd9wUzbJeNTS1nY/E0PgUl+Bhaw82YPPWTVJ7selrAo+dSrQwoeJLEFQo9VicK3y2e81kScZHhnouFgl88UdB0lQ8hJFGyahdWxN6gO6YAAP52+vVaEfP8PiZEDWy2cC2tPxnZMtic9tJmm5Y2OulMN0yIGXrJ2qBjkiFeWbhOc8cCRkKV3IBYql1Ih9ikKanit1gQoXZKP9FWnmWFrAbAuTEO4i5Jz074rmztjsdNyVQHk2cGjjmeh6Ylx1r7XeDjBK+aM3Fb49CfLSod9kqLibRAN+YWk/53UH4kTD9wQFDYrpgUWz3gHW3MokZdDMVphW7XHhvM3tK/Gu2Owr8JAVETTbck5TN+kqMgPB5G1iK9ncMcYyZldq/Dnj7a0fds9p04uBifnweTB7PIhvf+ZOf8eE+9Mk5xBQbpGc0qSM2eXb6Ges8lNrrZDvG5N4AZNiopwjHhQ+ECtGFCoIoxGW6QgbV5Zr74XBXxBIn/g56oRjQLbpnn/3c7TG+hYALVq68D9xSRpUeDGoetibrJra94W9EuJqrMZ0kdSY6Roc+XTUMphof3jZscveYwewjdpFjOxWH5DdhEVXA7N/zMUQmHP6z0XHBkD8E4JjzYPA7sEBb/viUDaIaSdSRgCMEuiS+a5GcFh3Xqx2EACrBDxEVSwyZz7n39jOASgsxMF6qvz5OHkQIUpU77lEQnQ+NUTlCmqXNOOt8eGbUwB47bnkJwxBuzWf/If5OH2NokXvgXl5P6Gac6nySNIkjrXuBRUvm9FNnsEH3jey174lT2lql7kJ8DiOswjRZTcD85qJCShH87FAKBtS7OvQe1pFq+4epAtDtjOeIAAA==
+lqip: data:image/webp;base64,UklGRvACAABXRUJQVlA4IOQCAADwFACdASpkAEMAP3Gkx1m0rCgqsVG8ApAuCWwAvchsjNEJZ+TnXHJqxfskaORko7fFer7wzXFiX/FTKh1gks3LcSHUM5Ih98tuy9UEdnIId+3EeVS19m5/Y9A8ex19rB891L3G+/2BKHU+/qx7Y234q8rKniPcC6T6Na6tPiL1BPnuiWKX+/lyDyLGISVZS6G/MIqEEIxmZOtTahnYIomJZi8sLol/JsuRJGmvxEJv+AD+dvU5keWG/dcaWmHyvLtcDIswfYvEN+XM9a8wfrFvK4WNjFM22I+J2nvhwx5gzpepXgYz4WfWtJQW31yW3vea3nV4n5tobmGNVI6leu5Ym5KgxzrML9T/9sl1ekc5BKlG+/3PHF6gezyesYSFo8UOir7YBNhAH3zU72PRxouf3vsJf76A4RQCd9/rVZe/g381TJa+qV0AzKSe0FiRU06DO7NH4fFwHiPkYukxuakkNgddI7AdXDcYD/n5PLxWRhT1tL1KGfPdy4i/M1LQwGbOV9W2BbAFsP0KvI0hJtF4IY3HUXt1TVO1CU/D+mWuczSBlWyOl80yjS5ahXNJ5Ftde6iQzZP2KIo0CLAmAKkbmG/0xsMK8aeFRF/ETkDHeWmUEmVPtOS+C3NtAsf9PDIezo9PA2jSKPpBguGJt5SpVRepgzVQVK4/1nPwurBNZRcuWJI8N9HL7mgmCwVzqG7tJ7hO5EFr6zwm3ngcL/9TXbriO510O7E37WRDtbjTgc4gTlQQS1/MGKNW332It9W5We3k2YYVXv8eZ7xeXGkPhWMlPwxOpD7L68yhpockvO2mQe2ENGV4hdRBt1GCx2HUaMzcruq1FwVQGDRw9fmnkdPmU/Y6JKJYqGDXV7Z7EkX9danBIAsjdfYQGGDsBheFKcM5BpBvXfDq8EYhO/R9MKvxIRUUjWiOkWZkre74yF6wjXWA4wDQOCBTN+r8cLlj6295szGvFF1TpAvJD4uIB9gAAA==
 ---
 
 The Lesser Blue-eared Starling is a species of passerine bird in the family Sturnidae, which lives in sub-Saharan Africa.

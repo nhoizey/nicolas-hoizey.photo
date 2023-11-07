@@ -11,11 +11,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - animal
   - animal captif
@@ -81,7 +84,7 @@ geo:
   country: France
   city: Les Mathes
 colors:
-  vibrant: 40 142 217
+  vibrant: 40 141 217
   darkVibrant: 4 68 132
   lightVibrant: 242 153 136
   muted: 158 151 81

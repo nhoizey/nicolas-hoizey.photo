@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
 tags:
   - Africa
   - Afrique
@@ -89,7 +91,7 @@ colors:
   muted: 152 141 102
   darkMuted: 74 76 44
   lightMuted: 195 185 167
-lqip: data:image/webp;base64,UklGRkwBAABXRUJQVlA4IEABAACQCwCdASpkAEMAP3GiyFq0v7srMVKMe/AuCWMAzYngZr5R4LHQR1v/vQuYK4Ql86zBL3rfB5rmPUpve9+Y3Agj5bx5UBu8S9xOFDshG2antAQySUhk2lc3dF5C0u3ufCIFoUrJAADdQeAWO2Yx5EfOCx0QGW9ZRMaA4xJxvBBIOqK+F8q8wQ0jKbBqCtQttF1GzFv8qekBWn7nuQg2z7yAnv8U53P8VD4ZZKLAucCvYgRQ3Os8opCDYxH5B5YxsF1OamtdjIhzwP3Zxa/7SGV7olG3mUwmGQ//XN83wTQd1r56aG+QpWmcvUd7fytwyHrEWNqQCrvHS1zlQyrUCJk2sNt1RzjSvPwlPoVFcrlSEV2LC2k3qDqj1zr25HweSj0vStuPBIKZouMP61dNa1FyAma38DRwqWeBnKevqAAAAA==
+lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAADQCwCdASpkAEMAP3Ggxlk/v7EvszMcA/AuCWUGcAzqnfQcHH38crfQbGWGnk4B4eQPjBehiez8cP+zv4jkcBvYYjM9xvVNz8BHqwRVLYRANoqZQH5mi85PkaFU2XYIECODINrOanQAANzfQQaowKN7gbk8juEz9DQt68FsnmbeGRQ5qdBxpbY94iSkNsvaiuHorrtuQAkId9B4zU/TAc+4LfGF8uMKSbuUzro2Y5k/19JdcgNyCv8xhiVcHeMNg/EnfHggRgc987yiQSnMZufi82TbtAaR0qfx+RwcSfda9t8Et4RWtMTjXkqp2C82mcojmTdYKsynhCQvsjjv6R1gB2kSRdo68ctDXVibKPs9AIE+3TooIlvLTVK2dR1308O8pEdeeLMNBAEehTyno9arLpL0oys6hsZCGYHXkxZUI6oAAAA=
 ---
 
 Like other spiders in the subfamily Nephilinae, the red-legged golden orb-weaver spider can weave webs so strong that sometimes even birds and bats get caught.

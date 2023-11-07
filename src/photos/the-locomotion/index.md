@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -58,13 +60,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 29 186 188
+  vibrant: 28 186 188
   darkVibrant: 140 147 17
-  lightVibrant: 135 198 241
+  lightVibrant: 135 198 240
   muted: 154 134 82
-  darkMuted: 78 59 36
-  lightMuted: 212 180 188
-lqip: data:image/webp;base64,UklGRiYCAABXRUJQVlA4IBoCAAAQEQCdASpkAEMAP3Gsy2C0rD+npnJNI/AuCWI/Zx+upAwXTj9xI2rZMOI4ki7wvwL7ENPiBIfGsMX6/7gKxSbA6PIx6dx3wfhlfmUebdeqhg+Q6F1x91bGXg0qUU0mURGgyc4FbYAG2EyrN1DAZzRrFemrXO2RnBUPvhXEHEogNt3mVV5pr2oVlWDEbFj1mrsAAP7mqHkcwK/AaRsL5ZTGfGZotRiT7XDMkP6xymCLlsqKiDwfN0rNbzLAlNL0mlz9fOwTIc0Ht0Gx7S2FBqerJCoH0M3lMt1pr56nSma0sph/I1ZWPBygLnEbRCQPt7/imUTWkvs1YuDjOZMDOYqT7cZR8X5g6GKi1B7yTCZvcxHp5AYufNcesMXqLIhMwe2fo8+A/XXAFmACzw4qXAiE24tgi4bhqnquu0YbllENemQ8/qJR5xMTmNMFC3JqaItODCCnnZ+K3MYoXmAWONUdvxwWki1cYxKUz9lRE05+Xz9yAlQrILxOx7LQVJJDdX3T0xZpGBpen1coy4xBXOMthVJt02OL+BPjYTz90lxSAOCrbmLHqJkHbO4eyoEEvgGimDpvjQBwPCJFDqp/Tht1DItxb+Cg/TZsT2FW6PIFQe8p3FwhdNqVjFWVFkDDaMKlvD3tlRWj0SiLBMpvdKjOyiN2LG3TOGSKal58Ap6rMby21h4pckB6vBviI+EwCWp68g+Z4x47gAAA
+  darkMuted: 80 93 40
+  lightMuted: 168 194 208
+lqip: data:image/webp;base64,UklGRh4CAABXRUJQVlA4IBICAADQEQCdASpkAEMAP3Gqy2C0q7+npnJNI/AuCWI+CB8RbQwZjj9xI2rZMOI4kiQJLl5MzPdQ9OU7TRHADb5gAxt5TsXOtwGeXFxXm0ENo5klJ6G8yNNneVGLRHBx/GJphDicKRx+m56Wr3DnMuMj3lqGFbyAFeDhMH/NhaDhKcC4XhwMymRweB/qwrqVCI06jlqx08oMZyoAAP7mqHkcwK+6InS74NSfTeihjWeuZ2Z69qRaJxCpDBpxZfBqrrTNb63dcE3/ogC5UReTrr5DZBkUihZOZSlMoH0npSxZLVg3So5j4ev2ngQ3MgZsELSCc+4KWlRlWzlbhPx9D+YashzCcLXHjWVBmlpza9+fUIslhs/Jd4As1xLD9FHblYFsUz1lLmmTpuXO60cShgEiAAsQzgc4o0C5qU0lEbbiMB8Ax5Wmfw08EP/6tM5xSJb/dgLQLzC/aUsEYSTazV+FQh672CY1GABB+WC47XAavKtX9E7aYyDLDjXcFJ4ALrrEqa/SZ7xL1dX3qRkOzNxkiF5HCKfaED421wmugEtuWgkTWcW3Sn0nrMHIFCQpCGv8MDUUzWIyaZ0s/9K2466bwJnPUbELUgoxX/YtuDEaEiAHlWbBCyEeaNQ+uOxewVooB8KAVBNkEoiwgwQpjNVkZ8Afj2fgF/xArQDOrKRKY8fjuXDunRib8TDXo7esLTz4RKwAAA==
 ---
 
 Most Kenyans travel with motorcycles, and sometimes one of these is shared by multiple families, at least in Maasai villages.

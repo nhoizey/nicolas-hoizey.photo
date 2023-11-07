@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - animal
   - animal captif
@@ -72,13 +74,13 @@ geo:
   country: Hong Kong
   city: Central
 colors:
-  vibrant: 147 140 6
+  vibrant: 148 140 7
   darkVibrant: 14 102 64
-  lightVibrant: 130 204 145
+  lightVibrant: 130 204 144
   muted: 91 158 141
   darkMuted: 51 77 88
   lightMuted: 208 189 175
-lqip: data:image/webp;base64,UklGRnwBAABXRUJQVlA4IHABAABwDQCdASpkAEMAP2mew1iztLAjtBdLEpAtCUAZ7OnbHa8gDx3lLKkSrxhoELRcB5ep8UXMwYP3xwfnGfaCoZ/NjFVzvCd9A/9ACgflX2KJXMI3NVBhtv9+a2wfF0Q6vm9ctA0BKp3n2+ebxzBMZd+JBpVAAAD+2TZtNWjsoRs5hqjQ4CPxOZvg/Q9Lo+/S35AUQTMbWaDDVjfdazH9Vy43QkW/09ETOa3sWobSZvKxBJgMm2W2WzsHR7AQIbWoZwG1MInjr7BbFd2XpaTb76dtsO6dADyfxs0IEd/0U9Z9UjpZcOxTeOzpzhkyY3sY9jhbi6dLoCA4kRploZjZ9Bqf0dv08avY6ko8fGCE+9c/AHnxF8+JA3Ra+VKULln2+j94HfQtffJ1f+yWzaPgYlRlE8NOyRT2gz6RLeihc9NA2HK+BblBjgw74LW9WeeZyLWh+qck9Lc+qqlXWZdSavCfwSYF5l/g/RzS52QCS0EAAA==
+lqip: data:image/webp;base64,UklGRn4BAABXRUJQVlA4IHIBAAAQDgCdASpkAEMAP2mew1izv7AlNBdLE/AtCUAZ1mnvHa8gDx3lLKkSrxhoELRcB5erQmojZ9nsG3IPzjPtBUM/mxiq6+l5+GjlxUW/eroal8DHezKwhg/gbzGoejj2fSLLGxg0RQ/1O4+kjbjK2Ptq0iZN/4Dlq9YAAP7ZNmXkijzO5ZdJJUMzdBHdehIjfJWZzcC8a/dU7SXvrhxy+CcomrUjkrOm4Wo5lhKwrfANCkZIp2nE/sm2W2W2kOcuCMvtUvjb8hyy6iyOu1l4mizJeYepeCOPU8IlBNu6wIUKmLH3nuHCqVjtN5p3rx7ssnCLuMAS2ftgRG/INgnRXosA3UgAWuXVV8NCd1ux1M/mqbHV1dmBZ4GazhiktgFnDLd52pjjmU2CFMJUzYq5mLTAxHS14Jers9U1W1IESWHtvnb38xmo7/1Lc20haM/Ju8RWnp8YZgtaSatU6nwoSt4tNnKHDMVQTUNK/bVJrt3neAAA
 ---
 
 The long-tailed broadbill (Psarisomus dalhousiae) is a species of bird that is found in the Himalayas, extending east through Northeastern India to Southeast Asia.

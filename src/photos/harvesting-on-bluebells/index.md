@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
+      short: Canon 100mm Macro
 tags:
   - abeille
   - animal
@@ -65,8 +67,8 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 144 86 190
-  darkVibrant: 118 74 24
+  vibrant: 144 86 191
+  darkVibrant: 117 73 24
   lightVibrant: 195 124 252
   muted: 127 114 76
   darkMuted: 83 69 47

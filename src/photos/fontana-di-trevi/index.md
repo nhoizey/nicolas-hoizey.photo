@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - eau
   - Europa
@@ -61,13 +63,13 @@ geo:
   country: Italy
   city: Rome
 colors:
-  vibrant: 99 126 156
-  darkVibrant: 51 65 81
-  lightVibrant: 174 188 204
-  muted: 113 145 154
+  vibrant: 52 92 108
+  darkVibrant: 43 76 90
+  lightVibrant: 165 199 212
+  muted: 156 107 92
   darkMuted: 73 63 57
-  lightMuted: 162 178 196
-lqip: data:image/webp;base64,UklGRgQCAABXRUJQVlA4IPgBAACQEgCdASpkAE0AP1mcwViyLDclNfVdyuArCWUAzyp39fT8m34R4M1XGwzotR8nWyZiGs/9SUc6f/fuP6bqt5h/uRPTglb9Wz00neHVwVzQu//Fum7sfAmkyFTPsL/Vm09UByO+gOPhtCrHwIZn8vzi9wxKv0qspU1l2KYube7/Gxysr3/MEFHJ1NA4JtXuvRfnGdEXBD/o5lA+SqgAAKkna1IqKIH8AQHrVhXOQkzk2Na1s6RbonuuOZuGncjkcrKJ45Gvenc6v/7JRjEfzDNNVKDFpQRA9ZDEcwqah/XZtf5NHq/LnA9ByeHXEbr2IdUamyMH/o51EQlXOU2r2Ft2IYgXWjESMG7hOW3DnPLg+JxxkOjJOTIsc509Lk9KbWLSROJOf89NdHHOs+ClPXSz0jM3eDiOa596NsVZv6kVf68Th5hw/KrxdCelGL0xZgKRWFJMV+yD8v84wsVRG4knQLGSpZswqHRfvqf5QM8YgOR4otdmM6OhYrFX1Cl8PwJkkb38ZkbO/HPXZBYOT2lBEv9cFDr3gURuxOoMP605AT+qeDN2z8uY7Mh/+sRVpjj2Q8r6U4PFgQPWIG2kOIPA3OVypRZuUH6fVn+p+OcIwl9wOIUvfTm39baAlTZsU/J7nl/AmUunCqZfme4phTGSRSKEh/cAAAA=
+  lightMuted: 189 200 214
+lqip: data:image/webp;base64,UklGRgICAABXRUJQVlA4IPYBAADwEgCdASpkAE0AP12cwViyrDclNtR9muAriWMAz6iOVz+wQruiyV/4TOaVN7GXIjz3CaqXS0HIQQAa9YVY6/fbGgI2sbogSfdLFGCEXlk7mjtnM3JLogY+LMXM9wlMllayoaUqPxggprDX0GO0LKwcI1sfv1tTT3IemQl18sv7doFpdkBzT3UeNglZS9AzuIBTnJtVwdai5cLDqs1ZkTewADwoA0zselPGjvC0sKkpRpcMi941TvrjEfJd751it8s2fxKN5di7Fv+jhsd4jtZMSpIS7xMa0c93QvK6Xr6jSj57OE3fTx+yRsBTotSnBpqY7ltU2xeALbuGQCRDOKO8mx7WlqYPpwuroL7tTZX1XAK3q0tqc8xhBM0qpc5glZmRexlXYqZqWbRrhk4vQNT/SeKDpI3DIIbbzM0mmbBMLGYToTHd6Xm5ca2mzVKoE886THv5zDfKoX/Ad08bKSROvi0ylQRJ0heE84Gr5naicQ9fqzlt7mabuiN1KJ00Nu5GSkAoC1AVoein/OUJTzvUEPfaX9ppdGX6DwSPsSKsGajRBgmtVyKLwJ/fhCRYZbtm386zAy5qEPPo0JdJiUQFUvb9FJwQm+2HsBi5rJRc+Esfdcvv5NlEOYvQkPpEsz8d9VeMIkEXEdh6rRUcaOrdxsVMwAAA
 ---
 
 The Trevi Fountain is a fountain in the Trevi district in Rome, Italy.

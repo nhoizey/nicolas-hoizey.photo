@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - animal
   - animal captif
@@ -83,8 +86,8 @@ colors:
   lightVibrant: 239 166 138
   muted: 141 135 99
   darkMuted: 49 59 84
-  lightMuted: 184 164 143
-lqip: data:image/webp;base64,UklGRm4BAABXRUJQVlA4IGIBAAAQDQCdASpkAEMAP2mgy1izrCojsHY8OnAtCWUA0BhXSS9RCPNp6Kp5vu3OgvtifB5KFi/CL/IFEpob4vx89OEhdABNI5nvr7OzVAfYMTH9D8KopZJBu9PWrS8WJUN4fHQcmPgkkhud75rNDWmh/XNcAAD+4zmqt7lBd+6jr6dfT+OFN5qClwcCs7fmaiXsD/Tg5NKWtQyFSLEcil7EzBvmXtkM9+yMcy+r/Fel5vvEqQUzezx8oGAl/ZfghImTcWQOoJaND5TZ8qN6nk+ox74XB52TtY1f9wILz6plZTar/+Fa2QvN2h67lQv9+MW7eCChliOcsbsUp/olsl/4aawSz4cv4BnDjdYz7P8/92FpCpmqmpfI0BDcvuGhfVJeGSnjoX1tpV7kBhh4Q8l9baezsgMp1hTgs0t9uhfY7jAUC4myZTKoDKIZRhmCQa3I/HRMV7CT45g+qXM2cXL3o9r8QAA=
+  lightMuted: 184 165 143
+lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAACwDACdASpkAEMAP2meyVizq6mjtRWaqnAtCWUAzyhjYil7DrIJ2PZJJtRWIBDNTbw5uYsD+W3pZC3ubysiBgJbBDsXJoeiC1zrdAzyHW0wSaNJzWT01En4hppBb/I2JUDntx70de8rs582dy/RCAD+6NVTfBIFPgdYlKC4x38Axb//q4V262ip6KYmKrJphNB7Ogi3bPygTrG2N32ejDEUmlHl7QmM/vL7aZp8osPP717sydVU1yazUzPlfdPk+cG929x659A2uWxHk8Gqy1SUczVSxkpkIf8I5WYX7Phy5sa/OGVYSkCasrizPK56gFxd6AessVs6uLxJoaVAZBwbTN5YXZZI2CI1UhTre6ZrwdzgGbFxV+7oh5DAsKm8RE8Hehklat4Nx5K9puOEXgsc0hhfQno2gqWgHLuKcNKLLnLmoLuAktlabT+DgyoGoFcM3OTspgKsK7AzDrMKAAAA
 ---
 
 The red deer (Cervus elaphus) is one of the largest deer species. Although at one time red deer were rare in parts of Europe, they were never close to extinction. Reintroduction and conservation efforts have resulted in an increase of red deer populations, while other areas, such as North Africa, have continued to show a population decline.

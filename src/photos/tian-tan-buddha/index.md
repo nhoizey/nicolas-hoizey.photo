@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - Asia
   - Asie
@@ -62,7 +63,7 @@ colors:
   muted: 133 124 104
   darkMuted: 71 64 56
   lightMuted: 196 204 203
-lqip: data:image/webp;base64,UklGRlgBAABXRUJQVlA4IEwBAADwDQCdASpkAEMAP3Gix1i0rDqqMzSa21AuCWcA0yRhPdvffCb0NeAX45Gtzrmavqx4h7AVVzWfUg7sn0Ibu7sYWspudad6pgB04pd4oYa7Fo1icMblYjrGtT3fNuS1XW6B82b7XmNxnMBkURL7/aYC7PDMWBW36gAA/uqx2kwCKSFTYFt15mF1EByGxJ0My44/X1tSSR2A3ZNSkVb/iR3pU9jB8zKAMxN8EXVSBNBbRGF6y0dPwrWXCjSGVLdRX0NOVlXjnxE+3MzmIGvPfIR0gshPQtkYd9yd92F10PQ6PI/yp5DnHh8gflXvN+/xT65gEGynXghX3IlccaTKflfvBLCenl5iEElSma2iFp6PN6bN82dn60b+o5CCurYoni522KC7Jw8rKEO5ZEhmm2f+OjVjTcwgXM5CL0G+7jj86DJZ6TLm0q+QmmAAAA==
+lqip: data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAACQDgCdASpkAEMAP22iyFi0rDsqMzSa22AtiWcGcA1mcSQ7h6nUyOctF3jC25OpA4ynKl9G6WY6/VfjjaIPG8D0eV/URX1DLD2+CEITqmT55xJKLXindBwyaiRs1D8OOm+i053HxNRD+ZEPrPFuaOgI81NY9y/QySISBDFWwAD+6rQk5+olo+S7DMu7sTmlkXmoHz71WL6ozlJJHYJl8xXzAN1q7ZtZaJP/ohyvGGwkG/qoSru5m0lPF3RcN+HUcwWPiraj1vmdTWy7ZuOI5i9/CElny1kl/NxIr5w/E50JIYqlw+zPMhuLoUVblwqsQUhg8QlRq8f7NsMwDv2HKNo7JyGgEpgwbTtBP/XdR1ZexnhTIPbRoOpd0owx3u1z18UGvslfEV3zxF2pP8/Cj1NDRRdIZNibFulN+ZOkmqJwrXmJZbnVFpIhi/4iFFgAAAA=
 ---
 
 The Big Buddha (Tian Tan Buddha) is a large bronze statue of Buddha, completed in 1993, and located at Ngong Ping, Lantau Island, in Hong Kong. The statue is sited near Po Lin Monastery and symbolises the harmonious relationship between man and nature, people and faith. It is a major centre of Buddhism in Hong Kong, and is also a tourist attraction.

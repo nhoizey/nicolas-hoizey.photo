@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Africa
   - Afrique
@@ -85,13 +88,13 @@ geo:
   country: Kenya
   city: Amboseli National Park
 colors:
-  vibrant: 157 131 59
-  darkVibrant: 101 94 36
-  lightVibrant: 211 187 157
+  vibrant: 157 130 59
+  darkVibrant: 102 94 36
+  lightVibrant: 211 188 157
   muted: 164 140 94
   darkMuted: 86 75 42
   lightMuted: 178 150 108
-lqip: data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAAAQCACdASpkAEMAP3G0y180rz0nJntrI6AuCWdt/IAYYM+MNesbLoz0MZLwEvAVwwQAzz4w7Cc6H4W6zAAnokmF3o/AvU14vRMAAO2XnIE71ou/LubiXh5uIzELLpw80sD1UBoFfk+DP4dwIKRK3+NU1IocXKGz10gsxzHm16Sa+dumI0aVuk3ioDY5S3OJ3pVrCc/2nC/fNF93D7Gp7hPK+nm5QbS/Iz1T/YAKGGKL1t0roQ37RLIM1BYrqbVVawp2ZbpdrNQaQ30RFqFWTNmtBQbDurMllVtrA50pRMYhG0SAAAA=
+lqip: data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAwCACdASpkAEMAP3Gyy180rr0nJntrI6AuCWVtvV8+8xAQ94TwUrjPxDmvC9Yp1S+qFl25BqUyDWXYR6oB69zM3fyANNh1XNPHAADtl5x6+9aLvy+1vn/z6Zvdj5fxdK1qBxO60wdRhaIy9szT8rCXLzza4HXbGD65EEe0uGPPliCJlsbTD2dmWkJzEu+ahKzfTdvzYKdP4Ag+ZaISGbLMy0BoAEUQzAdYON+M5+DqheG/cCzbXckpDPlUPtMKRhoMLV2aqmiI6bPxMU8UL7eSZZ+l/Bi+nxqFWR2ne9NcOR1ICBmP7CwAAAA=
 ---
 
 In the last two decades alone, the African lion population is estimated to have decreased by over 40% and now occupies approximately 17% of  its historical range. 

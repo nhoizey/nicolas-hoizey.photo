@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - America
   - Amérique du Nord
@@ -90,7 +92,7 @@ colors:
   muted: 84 116 164
   darkMuted: 83 58 54
   lightMuted: 181 188 196
-lqip: data:image/webp;base64,UklGRs4CAABXRUJQVlA4IMICAACQGwCdASpkAJYAP12cxFiyrCgqNfasulAriWNtolxeJJYLwNH3cZ5OzOtoQ8zVAyjnjJlDteNq35+vt+9vbJVuU5309c1OPMcVnmw+mCuERewcAp0BGHLjMIGgSAHfSUtt0s3vsePnIaqYmhg+sVXWm0rUoQ5PHeGmN4wtvqFSzrrydK26mf39RC6DSl/v+FoxsByePncsNwGFIPoMHudJr12EPds6eLwlz3G1s0cckkk6Kfg1PBIaS1ka2/JnL020SxolJuJgDO368Zz4OL2DqDfy2ibzGwV9wZ7lVlWOuJgmJ1PgAP54ODzJiWWdqwm7DtWOuWuZ2Ud1KNzf5xkfNC3doasXOZmwpzh6C/fLN5YEIJhJw3K0RLaOA7OMm6/qX82GQR3+OyB5k3SJXjyEsIvL9aL+QJnckRcWCSm8cB3MaDJmPADgffGJBCV/4q+hwC/Xpuhs92SFlP8tJ5aNOVEvESyVZGnFGg695vmObXdOZYBVQn8njGZbTHzm0evZWQtSVpz+9M2j+3JNUyssdUMrzHvtdZYEkcOLF+ORDcwUxakGt+L2wvarghZLtxMi3ksbB7DJwRC5xPltnoLVybvS+ipyT3eEFxb2QRLyu2qIFwK6p0cesuW/sjlan1gXgGYD1ITlPlX4LpkuwsvhRH+vB3QPsCKQMddPIIQ9SRicSzpSfWY7ohq7tJ6RzD4kxCOCH1MvtmCn5M3CmH+PHMEg+aqmVvCgISkpQwpsbS73+JkH8s6oO5mH5Q322d0L0L1Ub2mHKufDZn1eq8KpQv3xWFvMNGOYRXrqviJgu7BcKYuLgWBZNdbDh1E6Sw69DJrRybbT6Gi7Oezu1ceYjQ/AsWbHCq9OMa0yUDtIXGn7beh2v0jN4ry4gNvsLyo+4domfVg1GY3+++hPcxE8DMOZjNFakUp/StTTvNQcCgAA
+lqip: data:image/webp;base64,UklGRtYCAABXRUJQVlA4IMoCAACQGwCdASpkAJYAP12cxFiyrCgvNfasulAriWNtf1wfuAzidf6HIerWEnZnW0IeZqgZRlB53sIixAMPi2ZVmW2YaYkSH9E2wHM9/4lBlsXVqlzXW+d/gCxC592Tqlj88CftrxxQxltwA6JVKKJEiutkZcE7IbxNLUBbxRbSeJMLb6hUhkOD9K3Bxs73APbGCY6eh4LDTvjTSQaHK8wl7yjSfm/f+RaWI1qdNSsywqWYotdWPC/4w0xMwBNHnwTg/PglrfZuDFk0HPeli/XjOfByqjg9A6Q4owLVFvxP92e8B2ygWX8AAP5xrrtSXQuUKmyd/vsqNx2KOT9xPTyxVSc/UKU/7aszkYpYnpf/knzis1M/Lko5O4HUg38NoT//WBG/Xd7EHGesOjROwaHR3h1HqsUeXZVfGeCQkcL6sMmeu36Rm5/IVNGIFS8D0ISv+zHduK05HC2mVVs2feBLXCmUuQxZvBi64z/FhMo6ZGuPzdPxzFc7RscxX/Tc11I09Kub1gfzkcuc9BeTyzZqU6uBKZWngF7GV2YP5aVgdW3mqAlxAg3IwLuy7g/qM+vppICxWwmF4dmGhlmPZPr5RzzaQAyntP/D3e+Hs2nKj+PaTCwrerY5xTbUGYC+R9B4Epvk0oJLedAkLuH9//elu7saiiSoz34N+BBb6gaRFb7j+S7vNifDJORRY5ZkcIvSnwNZcRacxQEky9/J0ytCwgJ8ufLzXRkG+d8PuvubZ9jwvw8i4wdsv1N++EKdKU4nGNbo1OQ1e30Dpz25XqfGQj48oYtJmXh4aW1+NiTr+YwS4zcqjFKNm8gpvgeCOVpTB09Gb4BXKFgTMWa+rw+4kiWR+59UpM2pnYZC7rsv0Z6C2fIKzSbSFoUlszVLdrN9OYM11CB8ckiQcXL4zBALSs2pnQMy8L44/wTh2Rpnk9vqFjM641EngmyJFAA=
 ---
 
 The Brooklyn Bridge is one of the most prominent sights in New York City. It spans over the East River, linking Manhattan and Brooklyn. With massive masonry towers and a web of cables, this suspension bridge is instantly recognizable even to many who have never been to New York.

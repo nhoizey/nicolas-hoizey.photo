@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - ciel
   - cloud
@@ -71,13 +73,13 @@ geo:
   country: Scotland
   city: Kyle of Lochalsh
 colors:
-  vibrant: 60 162 195
-  darkVibrant: 28 76 92
-  lightVibrant: 153 206 224
+  vibrant: 52 92 108
+  darkVibrant: 71 79 27
+  lightVibrant: 165 199 212
   muted: 108 132 156
-  darkMuted: 81 70 50
+  darkMuted: 70 56 36
   lightMuted: 183 184 191
-lqip: data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAACwCgCdASpkAEMAP3Gkwlk7v6+lMVUcA/AuCWdtol4ej2lEYCZFEGMink0M++xNNLoJvy3qqq0eo+SNocno8g6xZOktV6Mf+0fJTPdTvyIAdIoPHX/TvGmO0Klt1KIAAKkoe0n6wOIXoh7Wzc/GKQpSrUbnks5DSxBMKWxy76WvyMZ48BGaVkGCOGZuuIIF/jTkA4x08pXMa5xqMYyaCLwxox+ZHUeqmvTfL+lF3uknSIY+aS9NjImqVeFclJOKq2imiV6oVS/kGmVUfh7xc9NKf+B5KDHRolIcrUxAmZDkyGmOgZuIjfKrcn29Jhdl8W7HyHTfnXFdN2qv0m9QjuvvLY8dk3p1eo6mdKFQA+yMNfi/WwwlouDyEYAAAA==
+lqip: data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAACQCgCdASpkAEMAP3Gkwlm7v6+lMVUce/AuCWdtol0wD2lEYCZFEGMink0NKz7BuYD1BBC/rEtbFNyjlx1QR0a4WeHg1nch95ADXOL+CAOIAqoMhiUN293bj3PuiAAAqSh7SfrA4heiHEKF7iqwtZmOUkl1pFCre7R0Wz+4CVfXNwprT3JYw2vc41XsYCBT1riamlKh3OV6f7LkvZQsLSTbI1X0D3n3jlSRdaHQImo30Xv6rlh6CjlAMAcRf40+vFzYdwsmx1whZRTlr1R72bzEMZVAY4HRNeaEt0hoTiLwDJKOQ2ZzfZ4fkmUm31OtmOJYtjcMUv1RmR5fD3HWydnk3pcu6nURtmBkX6oP6t2dX8BilNChbmOv+0KdqMUAAAA=
 ---
 
 Loch Alsh is a sea inlet between the isle of Skye in the Inner Hebrides and the Northwest Highlands of Scotland. The area is rich in history, and is increasingly popular with tourists.

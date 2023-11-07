@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - barque
   - bateau
@@ -61,12 +63,12 @@ geo:
   city: Joinville
 colors:
   vibrant: 228 36 84
-  darkVibrant: 39 51 11
+  darkVibrant: 100 44 28
   lightVibrant: 220 228 252
-  muted: 139 138 84
-  darkMuted: 61 86 50
+  muted: 146 140 92
+  darkMuted: 62 86 50
   lightMuted: 188 195 218
-lqip: data:image/webp;base64,UklGRuABAABXRUJQVlA4INQBAACwEACdASpkAEMAP2GgxFiyrLClNRZLUlAsCWMAzQ9PxGYLxr8k9IEuUoPkVgiYamS6TI+cs5vrhIAc/C2olna8HhktjEwTASQ9ddQ/+aTP9iR9gA3H5kDe/Xx4V7CPDc6EoRC44ZITB0NTlEASn/qeSB+O/qy726uBWYmGvjQAfChAFgea+NrcqlJmC8AAAP6ijnoDKFs9yz3QfFwvk3pZiP9QI9w9QHH/kKDfKPAWTWy2w9oSwG+w5ZULhQXRKfXHCI7d0+T0C+OCNf4ZtyN0cut9L6mIiW1L9dxSYJQt84I8ntnHd4t9z0XwSj8xrqp00zmqgXheKHUBSuX4lMl02uQa08vQpbSaJeQ/ezcEVLbR8+I8ZdsQuGClAML8cFzVi8M/2gwJr83KlUoxTNts4ZhNMFMdrxkLUhNSKCfHHS3uEjbDDtzhVAPRlvy+SDaOq/DwSCggXk9CljieIk1UczQ/jd80MXreq09Hq1gxOw9y58QJlLWvBV92X7NZpONwdfluYvVBdf12jaVSv6BGipOfAAApWTEbZFb7QKZu8GIfRJfVWluIzpTm0KjtExovYsOX1yeGWDy1g8QsQwnZroAoLNER6Z9xerRX4XVJpK994AA=
+lqip: data:image/webp;base64,UklGRuIBAABXRUJQVlA4INYBAABwEQCdASpkAEMAP2GgxFiyrLClNRWbUlAsCWMAzcNO1GYLakS5UX8+eCL6HjrDH9C5zxvZR0IMS2O8woUeS+MqQo01rkv8QBOiJXL/5Mh5AgmbO50YicuxWbZLTuax5WDdBrw0S66wvCI4bdVKS2ZSt3gAm0x7gg0LuV5hv/MKF5Pq7HZhT5jsnkRppSuR0WKodo4AAP6iiQ0SRS4mCDubjTkMyV4DI0MlWow9QIjrohZ8+V18o2xn9nDx006+2FHiDiF0SnzYMXod1zef2SVQgQ4ZqjkHAKRxaLd8nS7X2y7oYYokLLNzVxXCxr2WP/ujVmyxMsnP6xKYMZ0MS2Y0CV8QNxiG+rC9AZqxR/tUtbfXO9jxXcQmOFgGnYoyvY9No8US3YwOKMzKFQHi8vrTIuicwIxMw+JjUbFfS8SmamozLKWODYNSFBlsCGYPJ7pKntdH/LW59gqxCZ+LvpkYusK1J3SHYUddSz+bjl8zWdIErgZsPcZIlEqzS1+jarkgMR+784I+VKRMeXoeITn9KPhXDSNHTmwrVMXw6c5DMgfb7q0d0lfE2CezWJ2tL68E8yBVMZ7X8+KxHagFMQyjnsPBfRTm9AO0dvdZcBV3AJlJs6ToAA==
 ---
 
 The natural and cultural heritage form a coherent and preserved setting around the city. The valley of the Marne is hilly, oscillating between meadows in its bed and hillsides covered with forests. In Joinville, the Marne splits in two, with a reach that waters the old town. To this is added the canal. The natural setting thus provides a quality heritage ensemble.

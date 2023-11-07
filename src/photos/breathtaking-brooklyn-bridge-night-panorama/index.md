@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - America
   - Amérique du Nord
@@ -108,8 +110,8 @@ colors:
   lightVibrant: 233 164 144
   muted: 178 151 120
   darkMuted: 73 57 51
-  lightMuted: 122 118 173
-lqip: data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADwBgCdASpkACMAP3GkxFm0ticjrzgLosAuCWcAzYQ2sDOzqdC7t9z8VvA9XKUQOgbxtOAluBIkMgze/AsrEP0AAP7s1SJstsDKpfTX5dPZfio/ofmbVn+3pkO0jHYokYukZwhuChCWQYQRWVDb0DYwGIOurkgMVgwF/Bf/qLqNcf3cGgUXe2etypLoiEHzpsNf6W4rRooh+XaloNS7f1ZvTtcs65T4Diq6iLRvUNd+B4F0FhI2l6IUCoAAAA==
+  lightMuted: 122 118 174
+lqip: data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBwCdASpkACMAP3GkxFm0ticjrzgLosAuCWcAzjg2sDOzqdC7t9z8VvEwlzSLNqB/nBu6lfpUgQyDN78B2dDV+COAAP7s1SJtN+DS+uvjx664WXFKiu0f8Xb+IRTS7PAbN9VSDfWTaMHdvM3LLd3rVfZsYgwIMtrfCsAv8MG4XKoORk+c+4PylilWMZ0D8DAcZNZLsH7NnHKvp653q8NOWT0SU6cSjF/UCi/fsY0MgHeLCqf1lsAA
 ---
 
 The view from the Brooklyn Heights Promenade after sunset is amazing, I couldn't resist making a long exposure panorama of Lower Manhattan, the Brooklyn Bridge and the Manhattan Bridge. You can also see the Statue of Liberty in the left side, and the colorful top of the Empire State Building.

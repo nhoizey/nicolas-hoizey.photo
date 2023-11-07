@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - 4x4
   - Africa
@@ -84,12 +86,12 @@ geo:
   city: Maasai Mara National Reserve
 colors:
   vibrant: 167 132 74
-  darkVibrant: 113 94 26
-  lightVibrant: 145 191 225
-  muted: 154 140 79
-  darkMuted: 50 46 30
-  lightMuted: 171 186 202
-lqip: data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAABwCQCdASpkADEAP2mexFizv6glMlgMq/AtCUVXioDA2uHoCh96TlLhLNiSoZ/Y25OGAUHxMRcuawoTEnMEQEEmx9RgLlL/1LCr4rBzelt9Krs5YAAA/uwPHugHexEvLoOjhMUnuit3Epk5j3QKvUyhh5fGUK5W/bwcSWJjaMmKbE7tkqH4ipFE3RvPIgI7J0lcM9dfZbWoVZM/1dfnpetl9C331k25tf1uqn59tGjrDLAjOjANERx41CXyge2fEzni6RoFZ0OQCSrCeRt8WT6AH1sz7K+4rvF3/4IGE+JQy8Cvwbz25AyVNuhbfkn3Q9HBeMpIMYIo9EBAj+71VINBBEJQHslmeUDJ5ITQAAA=
+  darkVibrant: 113 93 26
+  lightVibrant: 145 190 225
+  muted: 154 140 78
+  darkMuted: 89 77 40
+  lightMuted: 172 186 202
+lqip: data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAQCgCdASpkADEAP2Wcw1izP6glM3eMW/AsiU23eAC4UVeGLJhPfbMRcpcJZ6NMuff23hFAupjHWKjKvnN/b/S+nsMTgIYXCt6VWZKYWuHJOgdNJSRQd+it4AD+7A8e6Ad1kH1bWOJPCJajDOPky1pzkDzXnOtDbCMRTYP0oe8rT0FROf3ELnLhzSLr0ocOkqukcIRFjN6vWLZHBkL6+5anC/o+fhOlLChylg0HiewfqNejs52AmR7dvJIjjqbcK1Zhv4nCqRKtVJn4a8FC705t0mHSiC7lZeNnAJ9FKJ8Z24ya9nlVyj7yNzzE/bQTvNqPtvuL9hDDY6PIJFHNxZ94wQ/Yl3CmAAA=
 ---
 
 The Masai giraffe is the largest subspecies of giraffe, making it the tallest land animal on earth.

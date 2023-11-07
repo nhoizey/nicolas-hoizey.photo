@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - arbre
   - beautiful
@@ -75,12 +77,12 @@ geo:
   country: The Netherlands
   city: Achterveld
 colors:
-  vibrant: 234 109 66
+  vibrant: 234 108 66
   darkVibrant: 40 61 100
   lightVibrant: 249 188 138
-  muted: 149 124 127
+  muted: 149 125 127
   darkMuted: 52 67 105
-  lightMuted: 204 164 139
+  lightMuted: 204 164 138
 lqip: data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADQBwCdASpkAEMAP3G2yl6/sDKtqFqqK/AuCWUAzBwOd0OGqVjldxqc7ejabU6XM94sgxCbuq/ncVtFSYHNO3tojT4t2kDIAAD+5qhzuf3jCY/qqinzDjJXIK6Sm5u+NMZtJ4BVBSP3kc87sAOspfBkWayQQEgYsWwVhJxBAlmToAEZ3Hl+lv/KjfI8/pg5/8B1NLFwLLnmk0PlXhs3FNj0kbF8af2zXihJJaiXN3mIgeS3oVgQMgiieaDZs1VkQvBhCp0AlcClL/gAAAA=
 ---
 

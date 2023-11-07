@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Comté de Stockholm
   - Europa
@@ -61,12 +63,12 @@ geo:
   city: Åkersberga
 colors:
   vibrant: 166 66 31
-  darkVibrant: 69 19 15
-  lightVibrant: 235 209 179
-  muted: 96 127 148
-  darkMuted: 68 56 46
+  darkVibrant: 4 4 12
+  lightVibrant: 236 209 179
+  muted: 97 127 149
+  darkMuted: 68 55 46
   lightMuted: 164 191 208
-lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAADwCgCdASpkAEMAP3Gox1k0tz+vr5eKq/AuCWUAzgErKAVq00dArNIzTw7oxjmnqLvPmFeUlgDlf73u6Ys2QUqmwxkpSmnjbPleMlFsInQizOpeQuodZam/0/fuWqCL3kAApquP+Q/oE/Z2CAxGGjXqZekIkhHmZAnA/Yls+BljsBX2mbqNzU8u0lQArV51M75o4PqTVgpp/CoJqwKHG158U1ick6Lv7T1fCKqN8C7SvwQVpUkpyHM6sM1Qdt/QAD+OPz0aeTfxyuYGtLAiMUNiLtj46MjLAqDUj9BDJ9qm6AAYLsTQJcS+f+Jy1s7ABXCWh7SV38n/mPBDqn1hCZo5JxJ/olDWXBYLWGMoVQD758H8m2brPXCwBtqQw3/sqc1GXqgcyi0klPJcb846i7nicAsiU5CneyB0+HU3uOJef0dcSlbl8UMVTl+giu46ZTCcjJE4Z3RtJi2BHFhwAAAA
+lqip: data:image/webp;base64,UklGRm4BAABXRUJQVlA4IGIBAADwCwCdASpkAEMAP3GoyFm0tzsvr5aaq2AuCWUAzy3cQDT07BCQyV6zcTUwUITYXHAHKVBm5GpUmPy0Vp3leX5Rvt0OxpDPncNCHEOuv9BnJLBBK+4uVx30aHccWuoaIAF8UIWPtb0SAACn2fobZziNUOa6D4mrHsxm5chEasB2Yff8bUPgsnCUogy+QDZUvySKzQrWCFbeFY77YZud3buGda3bXqUpQE7IMwCFpXIDsb5i6Or5QXP4//MOSZKwEt9J9joeHARLznF5LFrlpamy42n6HmZgAfriTRVysDXu/pN09R0b+VeMa+mKYw15sj6CGccACuGtmFN4dkN3udk1c8bepiA1wp0lms5gjL8n88I1X/oQlZ3D9MVazIC4mMrVeiwiM1Oit8u6piImnY3bjSDraDOIhAdMKWGv3Csvw6VVmCMjzUmSnBIYzuuoUPfT5HjjN+e6Khzj5vfl+L5kAAA=
 ---
 
 Österskär is eastern part of Åkersberga, Österåker Municipality in Sweden. The area is located in a hilly peninsula between Tunaviken and Sätterfjärden northwest of Trälhavet. Due to the height differences and the possibility to get a sea view, many Stockholmers have their boats in one of Österskär's many marinas.

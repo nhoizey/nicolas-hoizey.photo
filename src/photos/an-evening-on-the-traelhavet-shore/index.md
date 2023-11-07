@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Comté de Stockholm
   - Europa
@@ -62,13 +64,13 @@ geo:
   country: Sweden
   city: Åkersberga
 colors:
-  vibrant: 51 126 190
-  darkVibrant: 28 69 105
+  vibrant: 50 126 190
+  darkVibrant: 19 28 13
   lightVibrant: 132 180 244
   muted: 103 131 166
   darkMuted: 55 68 94
-  lightMuted: 172 190 212
-lqip: data:image/webp;base64,UklGRsABAABXRUJQVlA4ILQBAACwEQCdASpkAEMAP3Goxli0rTojrNW9s0AuCWMAzj0qRxZgf5BGNYhVE+2On2tbIXyRspkWdVlqVYmGbH/I2ke+VHoN68YvJUA3oJrOsK4LVbYEl+d4kXAyOqyHcphpXfmuRMNg3OCGBxuTP62c6FeFNksdX+2Br3E/5MM+8k1BEYPWim3ag0H6mcvXhSJw0pkBKwcIoAAA+nR/Bp/XfQVN4gKeU24q9aNsz06LZnQnp7yaXydvqqgpIHNJy+geSu6xLBBOJFNxGiYe3UPNdW6ChxOQmoPOZsSQsD8OkNSjZRE7Qgy0ghnReh6zwvDuO/ha3DxeXmZMnQtvhALEO1BIOboOPkDiU89T6cD+Yta7HB5iZZzt8UZT0n+RGOQZ6i7xqxWyxL86XbOI91/z8cEjHoBy2EMpjvpVEzBP0sklTSzFLBvl6G38NQGsR/H6HvtLiYHo7kPdVEAb4gITdl760iCHtuoVPtEfx3qh65W/Tf9ZUvt2FrUaGAEud0EdYJsTfIJ+9Hd98XmfBJKBSDuiwQd/SVKtlBuZNTbgCjx3v6+2Fw2U2yioPyK+qrmp5EtFLQAA
+  lightMuted: 172 189 212
+lqip: data:image/webp;base64,UklGRswBAABXRUJQVlA4IMABAACwEACdASpkAEMAP3Gmxlk0rT+jrNW9s/AuCWMAy+NSmDqIQyYia7LB6RwvJOJ838j+gUp4mzakRC6j6dY0kV4eJzlxSdRqxKeZm2+aU2y4P84IvZKCTAwKMlnDc8kAI3skVh+UFUoUpQU2uLFGn3pHpIvr5OVDb1OX9bZAiIQIBcZJT1/n+pyMcLqHVHhwAPnXv6L4Hj7opnZueCaaJMRc4dhSyhTSX8dCC/gXseVLuuSv6l4TxaEML74OxdpYEpJ5KEpp716VPnplrJaHIXMDjKHJhRWK/7Rv9KHDcSlvf76vOAL3xuZi9fDWp4Z+kde/4ovplXbhXTNpDTih6sMg3Ou+R8LRGGYeHxPxWWYr7CS2m+4lXuEuFyCAQ5tB4CurKdQpp+83pDw/8FAiG62l2trhbKIjBtNDWT8xjRebXX9Mxe+M5qQVjEekrJCMW6iU/UwKlv4xa5oVYPVxBl89Tzse/B1pEEJfi+fKmZvFnxdO59x0UfM2KNbNsQHmPfKdQl0U5CgZz6p59GlSB/hlgB9ckCWRp+Ccc/hbbeEgKMm8NShGEL9dJJyY5t1+yNzq16nCD9t3Z6oFVhWGAAAA
 ---
 
 

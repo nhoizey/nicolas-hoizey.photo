@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Accipitridés
   - Accipitriformes
@@ -70,13 +73,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 20 124 188
+  vibrant: 18 124 188
   darkVibrant: 4 52 124
-  lightVibrant: 135 201 242
-  muted: 173 150 112
-  darkMuted: 84 79 53
+  lightVibrant: 223 197 146
+  muted: 169 92 102
+  darkMuted: 93 83 57
   lightMuted: 209 192 182
-lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAAAwDQCdASpkAEMAP2mgw1izrCejsVhsenAtCWoAxnpAXqBEplNiQSFYmXI67h/t5Vk0A4o9lJpaemtIBtVzF8TGVW4BwGYSd2yZRUGeB/3SkqCaqgw0J1tHUKJgiovUTowYqE4SDPoGGyk01SdJYUodgAAA/tom6lZs34VvdDyq7hnWcmEWlxFgiqxAvVPJCR/OC1o2Vj53+ScJ6F4HvBZ1GYYREBtGTk49vkksq/0ZxMDMVDvYArCo7SY/ZFmnuIdmtM80ey4LstvHxnv01ACstholmT/Nr0prMV4bBqsHmKLtkzftcBhICLiQUC7Ovv4rmbu7IJfJcUcmEgOuxp+PSN4RwErk1oOyJ97JGIaHFG6LG2TETEB5XSWBfnlNPvzp0TQC3QhkmXTgI0eA4sh9SnOWei1BkIEuoZ/9RY5+e12t9okYXTlmnVBAnidGn58P7V4Km/LPhmFVive4AupDMc951aHbo8mudWCCv8+o2q5vCjUwAtjuzZ8eLVZ3FuCsWZl3oAb8jjf/x8oqsmNZAjYwoYpnPKlYex2hAhFqAAAA
+lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAADQDACdASpkAEMAP2mgxFizrCejsVhsenAtCWoAynBpSdL5wbNVNnPpLZZL+e7mWtUUBFXHYSzXDJmkjLMAammyS8oAg4Sz0oPCDTVs/lyTbOTk14BJvwW2dxvJjDWyhalUzLgC5w6k4CuOpfZ6QQAA/tom/i7Yifep/oV1l5PzqIn9DOMaB53trG/Y7XoYoTH9NVTjmHj0VjVL2UeNgabf09t9Ou0zjjQ1TmEeWbcpOskIvLxXyPUmRjWQYBLmQbvmWQFBx3LntIA+ZXpUaOb9be4uT/4OK+1qrgVotrwIBqj++5DV0Hc0fR9FxDeJXYKm/KBh3b/AhH+nbhMa4NPnqdM5vQHIEBHl0x9DmFFsr7sEboss3ycyDBNh066biBaqXdaUgRNzbUzMSushsiVyALrZUwAEA+QzsUY9qfM7QtVMdDmk9sWHDbMzVKfMA/6DQefROIBToTif1CEs/H2IFLKIOIbAAiqf0PvWwMSnb5KABEbt5di16ZNzVxa2cMTI59JxxiC2YPw6hE8vv5RUnKQwKJ+ZlXfCOJ2LMgg0AAAA
 ---
 
 This vulture prefers to live in dry savannah, thornbush, arid plains, deserts with scattered trees in wadis, open mountain slopes. They are usually found in undisturbed open country with a scattering of trees and apparently prefer areas with minimal grass cover.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Sigma
       model: 50mm F1.4 EX DG HSM
+      short: Sigma 50mm
 tags:
   - America
   - Amérique du Nord
@@ -73,13 +75,13 @@ geo:
   country: United States of America
   city: New York City
 colors:
-  vibrant: 228 141 53
+  vibrant: 228 141 52
   darkVibrant: 4 60 148
   lightVibrant: 184 215 243
   muted: 178 92 116
   darkMuted: 54 66 93
   lightMuted: 189 179 166
-lqip: data:image/webp;base64,UklGRtABAABXRUJQVlA4IMQBAAAwEgCdASpkAEMAP3Gkx1m0rD+lMHVbS/AuCUAaXhGWN0CidLEJblVUp4jLNhowZrZTeF4lpXuUBSCqA7ZILFPy2UEA4gutr4UtPNeuejTRwiUHLzOAcTphnyjkkRog8PjnoWuyzE6FUtH+qrjFjRdxSmS1a1gtxpo08Hm6/VW0x40sAQnD4jFOD21BnR4l87EiYO/cxR0G8JwQAP7B8k1XrJZaqSDPuMOd0+4tq82gtQM1KAx4RZWiDMdxGia4f6Mo3W4QLMSfA7S7m2t+6nmsUPUSaN2vhskMQZcdDEveSrgjZ88T5Q2PGA/dzXuOQc5wyt5PUv1CKf2uhzJFLdbb++Wnrb/ImoVrD+AeDckIWYUiLUsTWe9XCrSQqzxudfIe5ra1C8h3Xr8PTkmwUILySNg6SvrBhzLm+ZYC6fSI513ZF45dSNJ6p8Ro3BwpxVsmjoplAaFck/GIubR/R4bASp5L3yV6wGSbmz/k78sfpfS+jkpEI6pB044ac4RLxvCBNya2qWTvKTv0/os9tICSZPENiA0lUnWdO2awf5zQ+OAaH8uyZYbRsFTQjAT4FK/7XgdhM6hN0vJs5Iu3wLXSEOAAAA==
+lqip: data:image/webp;base64,UklGRtIBAABXRUJQVlA4IMYBAACwEgCdASpkAEMAP3GoyVm0rT+lLNbcM/AuCUAaQBFQXD+fA2iarM2Fb3USoJfPD3yFvPBCZWk7X8Nb2pBb9JYhmR2XjkbhXJKx0E7AckqT2BxkW+qVcDOVpOrpcMFSiJeOmZZ3KPi9HjkuI65juxzSmf1p+f+DVMTQGiMUfTsvSWWuQ7FDRDPxEe4Z42GT/Z26yF4gzWAO53jnv4cIYAD+yL144nvAHwsMmw3tO9exHQoYQK4fyI1cPoWUWKcZz95fboezSAsNloXN5KUCKmwUnK2Q9/9ElvbqX1puy97XOWunoyhaiSxFvRNBNJ8CShGZjHLMLYm+TkcQ6ORx01yiFPCwOtfKfVP2X9ZAxQClf2eCd5YzGuwyeccp5M+hwKlbswkG9Pc+5glcORSIlhq44dCrZtEIKNrb4phPnsmDHF6LlgD78lSPD3gy5KWCEp5uwbHjjN26I6pFLYic/cTFS0A/R7SEm5HgQ6MLJOY7Jp/LmvuLTT3atNmrK8mRy9Hhk1JYLY2suP636+gI2yB64qBZCw3fL9F24z8x++fQdjJBMeEGygJTKnnUX2fAEMrCJCrOdNeMiwaYde2K+6YdMYPdAAAA
 ---
 
 Hell's Kitchen is a neighborhood in the Manhattan borough of New York City, bounded by 34th and 59th streets, 8th Avenue and the Hudson River.

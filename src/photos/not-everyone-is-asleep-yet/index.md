@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Europa
   - Europe
@@ -58,10 +60,10 @@ colors:
   vibrant: 252 182 60
   darkVibrant: 156 60 4
   lightVibrant: 245 201 122
-  muted: 116 100 108
-  darkMuted: 46 52 72
+  muted: 116 100 100
+  darkMuted: 50 76 105
   lightMuted: 142 95 11
-lqip: data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACwBgCdASpkAEMAP3G0zF+7rym1pnbba3AuCWcA1UAH8dhFR2nRcEI4gQpV5qauWFY+1ziV0KHMrYj6q4IJoAD+7QK/ZpdwxCei3VuIxMKv1O9GJFgItr00j05/d4SZwulHOcwekbBSF9bl8GriTw+6rsF70Y4UKBhEpy6TbXNJk8qaQ90MIkbSVExZIAAAAAA=
+lqip: data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABQBgCdASpkAEMAP3GyzF87uamnJnbbs3AuCWcA1QQH9ahFVCtJBoUwL1AiTS9rZ/kgo2OtE7F1VyycAAD+7QKcDifRiA1AYwlKxjndru9UikpHHg0WiIBZfj6deKbQWobY1rXXsreyEHRSMgktK8b4pOBBSFgoOhF9pSY7p3tf12Z0m68Vu/cAAAAAAA==
 ---
 
 When the night comes, everyone falls asleep, except for a few insomniacs, who watch over the city.

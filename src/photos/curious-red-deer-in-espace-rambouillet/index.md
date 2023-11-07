@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - animal
   - animal captif
@@ -82,9 +85,9 @@ colors:
   darkVibrant: 103 95 32
   lightVibrant: 224 216 154
   muted: 136 151 94
-  darkMuted: 92 44 40
+  darkMuted: 92 44 44
   lightMuted: 176 173 136
-lqip: data:image/webp;base64,UklGRtoBAABXRUJQVlA4IM4BAAAQEACdASpkAEMAP3Ggx1q0qygkLbM+ypAuCUAaTg1FRjSfakZVvfTCy943frS8GEqYEvDszD6ur5hBI2ELEieELD0KEE3ujnYB53SoxMkbrf6NzWJxLykAhtpcSE9nRgbf6ayePlhd25si1BoGSgUD2XA17fLYH1cFOBF5/w8DmaA4IPSMRIIcAAD+7aT9WmyO3cP0zb4yQlX25shXNnnU4QtmduwnI/u1GfFgy+yiWcrNxCaqfv3uay0HJjKSK+0z00HsmjBGvMCqs5wUigJ+3sZ/MOHaMSaLqkTir/JhykhEyUt2RjlrY6iBE2HdJG8bm8BUOBLoXNqA43+PHakfBkfpsfLFvDBiNfDVNiFeLVt/LFKH80A6yNF1KkWLQdOxj22SJd3D6+5lE2coyd5IWI1cHNEJhzp/vo5VuYEaxlC105UyfsXLyRigfEYvDu0U3DXjyAWdrRPPrqzevre/Ey/Z1xnoBI21SPgoMIDrpZ2jUbQAf85K/OVJmMxAC1zV/n/roUjc3n800mGn6xt8ZNW/8nDx2xHCFC4mK7JjHYZ0IhkNw5McPb9vBdGGs0pauWzZF5faky5mnj4SOe8N6XBJLGZl7I3LqiUZ5AA=
+lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAADwEACdASpkAEMAP3Ggx1s0qqgkLbM+YpAuCUAaTgzlpSgDN3xbeSTS8Xgq5qs1jRebgicuoZce5hvlfeFEndimHOJgHA+P+PdANWWOE+GAk7QbY9pXmnjYljT2SVJQ+pgJlVa3o3Bs4v3ZUlmaNZQOUucqUqOQK39QED1ZoUzxSi6nYS7V43dd4VasND8z4wAA/u2k/Vpsjt3D9M2+MjiGNf7pOXPOm+bYMbVGsoFrYMax+FhD4dplQMYZ1DAihpHhjPxo+/jPIis8F9TAgpTnd6bmIwsFiRJc+8Z9KfbtGR2FLyq9VK+PMXG8q1VdL7WY90Sna1ds9NR7YKhoCsCBus1imD7l+KpZEYy8jPZ8NS37oamFm0o3YnD9gIeutYv0s9KG1pkKklVMuKzwRdzFQDm5Pcdj1WlXls1zRP9p57qCrXnuV/hjHghCrkTkN1UwjJ7yO67HBVDEKEX93bGY8/krTsBaby3k32TLcCq37+D6O3+LUkIBrJ35zUTq+lecibQxMrh16USCZRr735eve6SprHUCwmPemk8xDtu9OhQzMu7WIJ8NuhmPyMQktu57EfGbkymxn0YPUSZWNQY329EiMxz3oPkl7iAA
 ---
 
 The red deer (Cervus elaphus) is one of the largest deer species. Although at one time red deer were rare in parts of Europe, they were never close to extinction. Reintroduction and conservation efforts have resulted in an increase of red deer populations, while other areas, such as North Africa, have continued to show a population decline.

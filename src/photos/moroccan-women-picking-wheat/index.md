@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
+      short: Canon 135mm
 tags:
   - Africa
   - Afrique
@@ -81,7 +83,7 @@ colors:
   muted: 156 129 97
   darkMuted: 113 82 63
   lightMuted: 206 186 164
-lqip: data:image/webp;base64,UklGRqwBAABXRUJQVlA4IKABAABwEACdASpkAEMAP3Goy1u0rKmkKhRs+pAuCWVs4x5JjKXX6euSsEyKsHINEqQKY5i5nMlJoO03OfuBxxGyTI7ksn6uDiCn0IACCfnDKDG4cI5WMpmS9jqgybmczCL2KJMvLK/otoGj581QwwF+sTNQR9xqCotMu09Z1ACChftiKde/mPQgCl/YM40mwAD9zjUGgLZduzDwyhDs+vezvzVKil+sEVXiQinM6iuKy19U1EJOPRj9uf2m0YDWoISSfqZSUE2w+48I2S7uhvF7dq7beyqTdl9bmmQEQ4dA0p4dja+x/G2C4jTcbI1BoY0Cnb5tMtD6WHXxvBRPEKrxPN53vlns3Pt258qGyAn3xRkf2s3AdU7eSOwqsv2/kwcPfn4GOJFEJr6aseaXZEe0e6ZTAAjAWojIVWwOhOBxr3jWRW0h2J5jp3lOw9XPHp5eHZ3Zc0Om43ouzsmeTRlWoUWKPG8iwCzoYdChhIZAH0J2jYYl4HhD5G8/EEwiWJ1Qj50dbyY7eNQyTYoo2xFYW96jQjWW/yLvPvjK+ZM0gAAAAA==
+lqip: data:image/webp;base64,UklGRqYBAABXRUJQVlA4IJoBAABwDwCdASpkAEMAP3GgyVo0qzKkL5WsApAuCWVsRFys7DD2qnCtN7kZ6K9OEy7Ptlx4GyFK5S2GaYuDkW2A/QireGMoB3z+M6HezH0FDIZ5oJMW/q2Mo5CcAI7LBmEBIRL+8CaHSEkOT42IcY4jVC/jZUCOCvv0S4Gqkztrl3g4O8dVegAA/cxFhkPh+3g8OQGaMHNijJ3jmJ2Vb+sbGfDZde7P7jYRM2GdpMsylueOvdARGGVALxudPu0GAo2Aekn1rFRZMd3I908mQdcm+5Ogi+wwjPGOTsNwBeI/jYMO2aXsF/Id0zNvdTfw+lhKQM3VICBu9aj6zKeiR0Xv4alPGaD+8zYM1bDPlkrAwAaIlapOGVtiYGGlXYRlBt5oQhmGnsU9sP2tCc2kQz9lmWxkfhRRx/ZfSriEMYadp5Ox2tGKdDgZOUrvavqC4CxCmEi1jG6lofhnYDaBwuAyV1BgD22KI+BNoOK6Wr871cYjnwlQe1vntVgN/xCnPCODVjCL+8D2KB6AhkJAR/HijWLEnyjyMGSFs0AAAA==
 ---
 
 

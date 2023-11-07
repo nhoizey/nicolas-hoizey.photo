@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -67,12 +70,12 @@ geo:
   city: Amboseli National Park
 colors:
   vibrant: 154 172 57
-  darkVibrant: 94 106 8
-  lightVibrant: 200 177 128
-  muted: 175 157 104
-  darkMuted: 52 68 75
-  lightMuted: 163 183 204
-lqip: data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwCACdASpkAEMAP3G0y120sD+mqFcbs/AuCWMDvr0RCfBmcYVVNARDYkPtPhS99q04DVae66EmvTnZXWC7k+nd7crCqJY6JmfGc+RifcB4AAD+bxVD2SnmH29UcmgaUAQgu7ZZMf9Vp3jEZiFBbIa6/WUr4RCItxe/VzgjMmnGWQ1OzFwruik3xlJ38Ksinv3dtI9iIm/G34T8982VW/jQLw1V5W4ugAk5AC4m/sMa/vL+yaPF0RGR92pDoGrXtz52n0xemQ7IanujcNy7BOBmvGWoeGIM+0oqCSBO44zEBm5S4NBAVq6Ua1QMk57KlOOAAA==
+  darkVibrant: 94 105 8
+  lightVibrant: 195 172 123
+  muted: 159 142 87
+  darkMuted: 52 68 76
+  lightMuted: 162 183 204
+lqip: data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADwCACdASpkAEMAP3Gwy140rj+mqTZrg/AuCWMDyE3b5UDvVKWN0O9i9C0IfhWgALKd3BtX7EB7L5tEqEOEf052AKvBg0HdchPYBe/BDtbeSAD+bxg/f1gcW8GF3oy+xqqmD4+euex7hOLgsreG+Ui8ciS4Z4g9Xu2I9b4SwBSNIjLpi6De9eByptkJEB/nmjzjBOftep6SNMLfdmKrbpFDQ8AAO3MFyHfL+yaPF4TMVq1OljMwTMm8Vw62lloN3XEBjHZ1gCqW/iRJTSD/J2JQJj1tBA/k2HeB8CCzxcEgyJWcpJy/iq0bgAA=
 ---
 
 

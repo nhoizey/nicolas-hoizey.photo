@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - animal
   - Arachnid
@@ -89,12 +91,12 @@ geo:
   city: Étiolles
 colors:
   vibrant: 58 76 210
-  darkVibrant: 18 57 181
+  darkVibrant: 18 57 180
   lightVibrant: 190 165 232
   muted: 177 123 90
   darkMuted: 44 76 36
   lightMuted: 181 141 143
-lqip: data:image/webp;base64,UklGRr4BAABXRUJQVlA4ILIBAADQDgCdASpkAEYAP2WgxlizLKijslprumAsiWwAy5zbSZ745rmVQ4hgOjGqDjL4mBKYegpgXDvLolKFIeDS/+GmRKgZtDN3Va0v02RLXvQ5F6MXUOloS0dHJxgSwmmHa35vyoIVcSeCw/WKAqVSh38LTE7pvYzWl6/V+RrW1rjQAP7rjlgr3ygrv/KHtp6ndwdNfuLy1hXn6fPj9CC8PHmSFmAp98NeVpL0ROKqXMoGCRQilrenmC8NgmO6FNcAt4LCbF5OPJJ/g9O/GddPXAM/7I0PjWCs3sTCjXxD1zEk8gBJbhk/Rhc6lIAAOd9qVGeB8QUW/+1Dxp9eB8l48Ir4uV1qAGSVgNaJNyfRk/BiyIdPhRluMAdPOx77yfqaKEodPxrcDylQPTL8JDtrvb0wLp+mjaqeJYcx52alix+BvH1N+DnKrqzl+jvmgq68q/Dq0UZN7bbNP1WT/oH1ws9CVblZKeqVntrCPaQlTaYAFcG+YUo84YHDhfSp3SiSyHqatbICfGw1v+L3ae4m1ZKnrTq8pcFFrrCrVA10XPTonxKCTrcnjm4RYOgNVEATDIwAAA==
+lqip: data:image/webp;base64,UklGRsABAABXRUJQVlA4ILQBAADQDgCdASpkAEYAP2WexlizLCijslprumAsiWwAyikoxVFj6iVGVQaSII0fu8MvuS2uGsw5VcW3TbR2UO77qlMj0gJPgoSs3wccy4lO7V2LqFlcl8Rxc8R8akk0ISv2xkVbyHFpIRXxC87EpQsj/jzPXfTxbwu7rNLwlGaDuEmAAP7rjlbsp7i9tsDqPPF8Xy1IC9yI/4hpnEHTvCSdBHFFxCbKPT8v7UvhSU1fTZ7XiDj35sv4svLA5kYPVIEU0hEeMRfw1zfTDXw2g9nOsh+VtTqp9g61gOQs1VerA1Qw8BsDyxD+Zb2oPsLzYuJp6ADgVyIZlWyOzKlX6WRHPDrQXxlCsZ8KpWuzXMNjyeRJmKMV2zIymKpn5TzSFQsfCCFoWzTaRkca3Beyrxo31Ab49Ar0cY7Pe3qcOIAo7xk+QcieIrFdKkZ58CgjSLF+kDVrUBj7BzT3ncsPtZ6OvNQHSDtIkjzZKJ10eSjYpsiuHAGEx+Hum8SC6JPpQSLcHP9R/vnGwuNnDxZZOlXNdrCSedYmxNao7O2S1oOTDbGUgNFRobbC6OhyUsliBotfRPVzuYAA
 ---
 
 This Synema globosum is sometimes called the Napoleon spider, because of a supposed resemblance of the markings on the abdomen (not visible here) to a silhouette of Napoleon wearing his iconic hat.

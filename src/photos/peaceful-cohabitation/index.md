@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -80,12 +83,12 @@ geo:
   city: Lake Nakuru National Park
 colors:
   vibrant: 193 153 109
-  darkVibrant: 108 60 36
+  darkVibrant: 133 76 36
   lightVibrant: 215 190 162
   muted: 167 128 90
-  darkMuted: 96 77 56
+  darkMuted: 96 77 55
   lightMuted: 145 150 168
-lqip: data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAACQCwCdASpkAEMAP3Gmylq0v6krLrULW/AuCWUA0QgnzOdPr38w0a+a6+reDP7krKluZFZj4Yd6JcbpjCHp8mmzK6GoYvSNMIEK4L+k4QvjExA1mAH1VBLtbIAkNxkp6urO0fbiAAD9MuTcKB7CUdn1dgwMY69d/utQU/aG92a1qU09de9Fh8+KHtfLf5pMZ7c255ewd0E29NJDPg+mKwivfnmbBuH5Hsudp3AlYPg4TK8xhjNQqs03TG/NkAEUQEZ+QDApvjxSy18hzmTnE4/7BTWPThhO2B8eYOV2rwOt8Uvc4Zf+8z+CWhEB1qQsGrX5AjY64Z6LgoxBvSwQS3ff8keZRuykyvQwckTWvS3o2aJcC1RviCFL2gA=
+lqip: data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAAAwCwCdASpkAEMAP3Gmy1q0v6mrLNW7y/AuCWUA0MxKYMzfc54oisw3AwgLpdsWZ5YQvS9J/rLr1/uAanSpcGU8Ng4hfylqJbs5PO4HlPxnfYBRHCfgNzJZ1R1TM74Jbf9yAAD9MuWWFdo9ABARb/iTAROc177Oj/bQ2aLnNdikkE/Swna1nJM6e9IPKU1FI1CiUd7GDhiFW7TrFYRXvzzNg2C8Am8UMM7lyrNYMeesHHf9WN3oQlALJTqyUvd6ASGAp14L4Cs+IyxqwRyNHomD5XCdsTaVRUV1SHOYiMRcrPV3XyeghfnwDQ4675KvLeVHSue22LU5aclRgN8Kerzm9A8wziYwA4umE8a9LejaKGZ3F++RmnPDCAA=
 ---
 
 

@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Abyssinian black-and-white colobus
   - acacia
@@ -89,12 +92,12 @@ geo:
   city: Lake Nakuru National Park
 colors:
   vibrant: 188 132 92
-  darkVibrant: 32 78 124
+  darkVibrant: 31 78 124
   lightVibrant: 238 205 202
   muted: 156 115 86
   darkMuted: 52 80 74
   lightMuted: 200 178 188
-lqip: data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAACwDgCdASpkAEMAP2GevViyrKYjttR8ylAsCWMAz6UrBxLy9Ip6Vcr40pqhyP4Oe8UTV3+G62y+rSiPX5YLmTE6oBSUNWKNuOweo/CFPKTmPeH9JLsQngUE4cr/0EqnWGzpivXhT1qFBMP/QAxi1lqOWZJ1o8fzxeri9AErpAAA/K83L8B3NsIZn12N0TAce5+e3Eib1SIjURPjQhYxTHaetNvpb/EbfahAKG8o69d13C3cg6/BJRMqut1DthT8H1zw3mjKqYwnfW4Ll8dw744N6sWdCVzZSBOzX6WyPAhrF7+Lj2IqmUi6CT7C1Rmjb3rIZH9yVYIoHXogGTe1qc1lJGmfGOkn7tPlS4fOjC4+m27t1e6mdzJuzN7pr7ZmnBmHDsZC555VzQ9XlCf4mi2TN0ScCUn4TJr4yw+5QpmZrzgNmvLudk1ZsmhwwZ0kXONueEEYm62Quf0xQ45GdEDdcVQ15MHgDnn74ccPP4DxZ1Cm3vGf+zwGE/LPQAcs8Oz1wg7eBSSKB+KUMma+2k4DXyUpbYP2+GWqz2WeuEqA0Lx2lo/JZTRQWOQAAA==
+lqip: data:image/webp;base64,UklGRqoBAABXRUJQVlA4IJ4BAACQDgCdASpkAEMAP2GevliyrKYjttR8ylAsCWMqvFTYVrQSSeMQWYcc1vECJf3b4KVToZtkCyiDspkg6DJBrFN8QQLRqJTRemlR9JlUArwHyqwajEOyotG9O7asfLCMuN8Ntb2WJ2Y1+14H2DH1ur9Fj1moIVu0maYtkLe5AAD8fxHf2JMHugJmmhPg8Vq+vPNF44nEI0iGiPG5tnksIJDGFPUd8sXP0XQVollk8oCVHqBOu5B1+CL1xHnoVLb7s/pa3jdrKGNeLH+3SCb+qN8pIy29rVHr8jw2wTyKvjTikKny43EZyBV/k4HNPoS9lv16MNp0KZeXGgismKMizdhxrfCWExuzJL13vL3tUYm9i1cVyN9cUvVAKz/HjZB6r3K6HNFpnTnRIQYSFTHXbOFKj712aciBsYZpfAf4IEq1K+Nf0SCxTNHyPI0jc5wtdMBqztO2HRW0fEuZXscG3NhlrbbWAVTddukqNfwHizpCchenXBc6vEF2E5arFhnKRCRkdzPu07SpaU/JzH9R/PMRPeT8OI6wxu3XqqwyAAA=
 ---
 
 The mantled guereza (Colobus guereza), also known simply as the guereza, the eastern black-and-white colobus, or the Abyssinian black-and-white colobus, is a black-and-white colobus, a type of Old World monkey. It is native to much of west central and east Africa.

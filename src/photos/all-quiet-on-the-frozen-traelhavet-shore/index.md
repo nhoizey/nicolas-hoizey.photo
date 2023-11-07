@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - baie
   - bay
@@ -75,7 +77,7 @@ colors:
   muted: 103 127 166
   darkMuted: 43 57 80
   lightMuted: 165 175 199
-lqip: data:image/webp;base64,UklGRqQBAABXRUJQVlA4IJgBAAAwDwCdASpkAEMAP2miwVizv6ejszYcA/AtCU2M611ueyrEHo/zImQKuPhY8bGux/QkG0VheG/lelsus+JaDNw/bCefvyiGQPyASz/Pieb11Wbe8KIQ25/mA6uIUYCAogcgtLGKnm1VZbiL2onTG0+xN9XqQg0iLdiKNKUvTiIpPYkAAP7KKPfFHNzYMtUrfpDhLxaJomD9d0zlSAwtjCPIHtvHHIrfBf6nFoXBzjit0YIYq0B0f4eNr9T/Bce5eqVeGNsxkoccscFTkQKDN0opLLR90F5K8idFTGkpWouYJmbjLQob5Te7PxiOyjaIrEgORlNwWazzhJ7oHrqtPdWtB1j3O3EPS7jhEJEXRY8eLhzgulScf1DI+wuWneXr3R4CO2QbqVZqeuaXvJ1+hke3Epvrwr8s7hwHVgQOEZX2xYmLx70m2sbSWxi6NFTfOT/+BA5Y2kWjuvM5cnXXjREAAwEZTHoFughc7JLCvD2dPL1TYpQ8wwSmOrslPYazFpvui2dK9Z/+ktlYNBhbDWoQ/rMCG/kgAAA=
+lqip: data:image/webp;base64,UklGRqgBAABXRUJQVlA4IJwBAACwDwCdASpkAEMAP2mgwVizv6elMzbcA/AtCU2Ii1atgi2qePC8Feu9o04PqnYif1Wl4rodRZ0HvU1p75dsru1LhAuI8JX8Lltj3yXZNTaf+F2tiig128VE4GItGqZC8cRzUOBaP0VXldm/W8+u8GWO0cMCiPLn7j3++4t5cPUSvOCSpdsWgAD+yij3xRzbWDLVK36S6ERvHtead8MJjT7qmDuVl621iNNQNaGsf4RDTFC4JhxjpvAjRWIm5fL8BIGEoE0Kgu9LJ3GP72b5DmR/cmr76YSdZdTJJrHtY1Z4g2MUUX/6HHIcQojfX0JfahJoGxEf/2OAyRG8Mim2o5GDAEhNJflrMwr1l11+nWEdQ53kdP6KM3lci08KinQJHacJD6iIQyRZDCIsblfCJ+hke3Epvrwl4H8qiThbQ2AHl+6SLjRODpVQ5O6UDtEH6T2/DSv7x/S3ghlV7MWd3qgL1LQAfGPkFAXXvHNh67S3yfWRLFDb7LlmnUBOhpbWtEsICRL8+L9nXdOXqz3QN5wV2PHCGQzEE9GV6AAA
 ---
 
 

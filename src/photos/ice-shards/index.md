@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Comté de Stockholm
   - Europa
@@ -71,7 +73,7 @@ colors:
   muted: 96 120 166
   darkMuted: 43 58 86
   lightMuted: 135 156 198
-lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAAAwEgCdASpkAEMAP1GKuFiwqSUjuZyLahAqCWcA0YUsPxfJDOpBjQdgxgWmEL4kkPK6MPC6xrRZYY8tuooSiYjMImW3OVYs/NTxDOnAmw4YDulRAig59ttH7Pawe4jhbMDnEneJYNoAsnIqlRkkvEFBeYn3RRgh+S2pmq0pdiXhR0o/giytAcCAhTNmrw7PtPysrfobM3pp+lwAAP68ngSKyj+/AtYgYeAoy1jXTe6wPY4Ufo9CdNqmYK4Y192ldC/XUrgn/KbbeXOe2gtVSAU/SPQskM4YxEqKz/5tRHwBETNLZhWjodLKporQS+ojXyti5oWhftmJVTd0sqXKFJavELvqhPQfNVqh7difUI6rNHfK4cTEz6hEuyda9SNZsxlXRIeaxFRvzby2usLj+KzKiDaMo8+/HfDyxo3GTeeMN/1Dg+Ad9sYoVd+BlPUDIYQlimR2uFNf6FutnlL0rr+P+mJFY4jwIGK9HKJQ8geFwpbPkziiWKeFuyNBWQ5rBwdiVhThzjMyz1UcklS4RaYG8BjBNKmkJBZADxW7Fgr7BiU/Z9MD/kq0+YTt6WZjUgESa0aa5q8AAA==
+lqip: data:image/webp;base64,UklGRrwBAABXRUJQVlA4ILABAADQEgCdASpkAEMAP1GQvFiwqiYjt7zschAqCWdbCl2BpRoOSl0tH70+1yPTmCoJHjP2MM+MQN8/Eo4p+IjV3Edbxue9KkXup9C1IfQmtaMpW5XOQ1sJkN068Sgj6MruwSHqvzScgCHXkakIEblTNzwqwz2P0y6LiU68Wz8ZOLylD/G5U28mptQByQNkmz7X4FXAc0LK3u6bzbcR8MXJUAAA/rvoOjNZZ8L7irL/w5n0yeBJ6xIKrmPbeFbkTCS48J0WuHH29T6krKUBZpA7b29zxQh+TIjCI4lytjiaI2bn9ouMalEWcxv2oANnKCvRe9AKVEJ603V/0mdDxwwg2C+UrI/NdCyzl8St2uSMuYQYbrYw9WhwVNP3p1/quRDPMQce8HLdo/gFshuEsiBVFcXn92p8MyptRINYc11K9R+LnmISzF6ygI9DBw7pnLGG5v2kzbRDLL6HQkN6Jmb3rDveB39Ho6FR53Dah9Zzx9OfuepUx+5qjZzjoX0n8X8zu5jHoQwrt+eflnt4SYdw9caN9FBvxpvLCZchdIoP26Jr3CEpLGjyx44wT4c89/gAAAA=
 ---
 
 The biting frost opposes the movement of the water, producing shards of ice.

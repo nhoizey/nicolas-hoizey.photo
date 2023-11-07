@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
 tags:
   - athletics
   - athlétisme
@@ -62,11 +64,11 @@ geo:
 colors:
   vibrant: 196 75 59
   darkVibrant: 156 10 97
-  lightVibrant: 218 142 127
-  muted: 148 98 81
+  lightVibrant: 219 142 127
+  muted: 147 98 81
   darkMuted: 29 21 24
   lightMuted: 119 48 34
-lqip: data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAADQDACdASpkAEMAP3Gqyls0rTKrJ1n96pAuCUAaA7vs18iOlvwAumjOe0I5bxkfZis04XWyblRMi5B6vw7q2lfgTWlqppJqqS5Fh0O9x+GlKDEGRvrAOUKmYP3eHwi06Ex1pW0rFnxpEXHFxuUwSAAA/SEbFbY0EOy8P81XX+VG4RQnTKDrRhF+ctap5oosKDHMrCZeRPs9T51BNPqvIvRL50VP88ij7AWgqUFSf6fkOH/RPp9RX3+boRpPSxbtVxKXJI7eROJYI9n6mwZZZIsdfyCkEZbniSBCB0Ylx9ke6SaAS5FbzIDVrXrT5eJoRGVwhHZbrYV3lJvWNc6K3DftI12uGGGJ9R9WHlgkLmbkC4YPfyXYowb/J/W7lBecjx7Iupb+aJD4IOrALeOZ86yYEm81aIiMcWDEA80FIOmfQI+vud3Ng943pPlAoiJxPFroXxKR85FY4uGAAAA=
+lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAACQDQCdASpkAEMAP3GmyVs0rLKkKFjt0pAuCUAZ1rwc18iQlvwAuujQgLCcKNAWkHbJW+0ZZ6hgnO6oZ3AyCF8xbCD4wPKtWxPmCesl8vrmlsg16Fatro1qztvE33xhDa/YFBpULVxZviCgxPJmPFwWN+FhygAA/SEbFbY5p/O/AcBHGJej1InUQKDrRhGJHqkZ55f6pG8hQfps+IUQBx9ZJfVeRekW8Zm+EruhtLxkvbVKCY/tdbRUNEiKSrePBawkbK7PtIvQvgJQwu6bNXvCgb+O4Z1ZKVVO5FBGW54kgQgdGJcfZHukmg4lwBpcbUndyY+SdBwXn+EaRgRMaGy84NYrNxtulCTZ16uTJGU7egF5QOhyNrt+pmN+0xjW7ZlT7EBhkJNBXZebokabIJ1z9TLiY5T3/8/RXsXpvE3H6NEnY1SDHr/MZUpX2irWAMAgnzXLGEkcAAAA
 ---
 
 Photo taken during the 34th Elite International Track and Field Meeting in Montgeron-Essonne, France, Sunday, May 13, 2018

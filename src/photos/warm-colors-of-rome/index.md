@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - ancien
   - coloré
@@ -66,13 +68,13 @@ geo:
   country: Italy
   city: Rome
 colors:
-  vibrant: 184 118 71
-  darkVibrant: 94 60 36
-  lightVibrant: 222 233 244
-  muted: 86 126 167
+  vibrant: 180 109 75
+  darkVibrant: 86 52 36
+  lightVibrant: 220 228 244
+  muted: 149 104 84
   darkMuted: 97 64 51
-  lightMuted: 164 189 207
-lqip: data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAABQEQCdASpkAEMAP2WcwlizKyclNtM8ymAsiUAZMYUkB/TW6KrZCnlQFRS/WKuXvP0VoyU/aOovZzPV/U1c/ubiBCq+noNE9FYvpQzhGSlpQFLqIMWDyqqHkAoET2aTRj495zxBgspJns4Q5hvp7T8R5N5tnrJjSJPTPjRpoVlX5ZK1j6qQY073j/I/h9JRxl4SOwAA/qUMJAUG2JZguuF19KL0QaZOJ5uxLljr2hceU5xH64VUhqJOjLTzTr0DbrijBOMzTV3qTlfMZ45aL/qxQueUisOzgF5KTCZK8pvmt1dKAx6Dy0fpnO2c2TgisObIqCvBIJA8tolXbtOirrRHe+otKDLr2qF1bx9U88zQJnqgr48kozcOrvTB2kOyhAhzacs9QSe35iZYQBdZECMEZ0thWGi6+j57/p0j4SHIOZuXQ4FyHcvHHb5h2Y3c5KJf2dnbpA4bdI2+ocG71H5cS6ktcKS97+IB7TFORVuphuYDLPo7EsYWYceKvmuuErOVh/f3na6cgtj2KDKzgitSIMzrG/+DLIPuy13yJHyJRakBcnnL/ncUnIAAAA==
+  lightMuted: 175 197 212
+lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAADQDwCdASpkAEMAP2Wew1izLCelNRN9UmAsiUAZdQUQB/TW9nBMWfexmkzWCqt3H0wMOOuieCyV/aaZCUiUMH1cvgs1mpuSmsLI3rfEbt6BmpKttY2TWIMtZTSQ6NDXABj6lii76PPiXzz56X/FrnimEMfn27DAsZE75LTd1ooiOPSMULEqxAAA/qUGOAOWY48JQIJEasiyVDKVk89uExdiNXJfgDk5UCDPg/uYmTOGCPT9zKNGTsUbYm0M0N3+hxXstLCtXAZIPfenqv7HLom91EZcJKZuRV32OiXD+myYwDIMhEIL2JVjBNiw4H3FLDgpB6J9ZRd8zdi6hd5n8LCsSMrl4qYEfaWuL0WOkhhLkh6IwHfwED1J8tPo8Y5SHO4LqhQOvBb3evWz5xvk+Aq0/ym9Je6boibwfbrCPco87UmDsHFjbHLaBEY7u7UGuE7gipm45KYGMOf3c8M+4nOVEIPYEfGZWrUr2YAh/MtJ3UZzQMuS5z2ZUGndUDWzY5hh3/zIdnKUqGrWFr+6iosvGih9ZU88gKUt0Ql/33MjO85mm2CV5gAA
 ---
 
 Colour is an ongoing concern in Italy due to the economic benefits that can be obtained from the restoration and re-use of buildings at historical sites, and because of the deterioration of the construction materials used in facades.

@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - Asia
   - Asie
@@ -71,13 +72,13 @@ geo:
   country: Hong Kong
   city: Wan Chai
 colors:
-  vibrant: 187 52 134
+  vibrant: 187 52 135
   darkVibrant: 91 17 34
-  lightVibrant: 244 228 214
+  lightVibrant: 244 232 225
   muted: 129 122 110
   darkMuted: 46 64 79
   lightMuted: 197 173 195
-lqip: data:image/webp;base64,UklGRpQBAABXRUJQVlA4IIgBAAAQDwCdASpkAEMAP3Gox1q0rKgkLbRMYpAuCUAaVYtK/P8nAYWOD/u4SqozotiW6aodwoqKHe1BAL+vL3CEDfXXnUry9I4FBdi3HBMUotKKgR6ACFoVIOlG0qXeLOsrj5Z/mvoNFrO33O5+RRwF/GjE1wRxtMeF4hZlVOQfu8Z5DIAA/uvPlMuNe+dOcJBHtTH/n4Lcv2F9KCJJLvJ269aIgIStLX7wSlfritnwyJc1NB4b99+jTux28p0y3WZ5rowTx1VvTXwgxWxIArcWGJNg8xw6wYSmXATgnnfWMsGnGErnkZc2WNzkLnVuJTxUgtIkCFOQCdkS1UV4S7mPF5KUQbYUPaoLIu9CRkJQQpHzAiA1aLlgB/+FA4zHRxmbu+q13TZ/4fjteQ/H4lER4YNxmMVUP7V7jzvKEmIwCXrSrNpKRs/4YDkuarj4WA2GkgrF69vGa8OAu+oXu7kb1cLlhhbKco8LNuLy9IlbLTI+eDtfXF9GwtEu8zYjiovLc62O+chvTGgQAA==
+lqip: data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAAAwDwCdASpkAEMAP3Gox1q0rKgkLbRMYpAuCUAac4tK/NO6PZag/7uEqwPRdq0hZhTo6N6/PchbMQwZZ4XmkUfe9GdI1uK3LBSK6dG9RTGYKjpjSOoYIC3UTRjBFdM+wqQ4Lv7KLqaAp8T5cztimEb5vcy9AdY6p9stexGlolTY5pSAAP7rz5TLqkWevD08xWm+doXvIomeutouq8zKqK4tcyGkXxoXg8le1/7yW89FGU0fOMS1pd6aBprnUvBTyeU54IpEd+C+hborISYH0xJr2xQvOMsramIONoikJkZbUl5tzq3PNxweIBVN3zfn5llOIyOFqr9ziciKXiC1OOfJXdFkgNk8zswXR3R6pyTjx1HkaBjPPIowycMbOxUsZ4mJKOcKt2qfP9G0e5kvA2rMmvpej2Qgls819t7PoIC9dQ986SJ4HCh40BkbUNaDBzH7yoI5G5iElArjBF8yMZlQFUHlOnrMpLg7PPbL5ne1OMMHX1xfZIhgB7DlcZjop+VWdVB6Qj9hDyAA
 ---
 
 Blue House (Chinese: 藍屋), in the background, is a 4-storey balcony-type tenement block located at 72-74A Stone Nullah Lane, Wan Chai, Hong Kong, China. It is named after the brilliant blue colour painted on its external walls. It is one of the few remaining examples of tong lau of the balcony type in Hong Kong and is listed as Grade I historic building.

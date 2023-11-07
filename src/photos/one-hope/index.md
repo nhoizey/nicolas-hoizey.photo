@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - B&W
   - black and white
@@ -71,7 +73,7 @@ colors:
   muted: 136 136 136
   darkMuted: 72 72 72
   lightMuted: 206 206 206
-lqip: data:image/webp;base64,UklGRu4BAABXRUJQVlA4IOIBAAAwFACdASpkAGQAP3Gmy1o0rL0qrlOsI6AuCWkAC0dBgctHlWU4jVyeegsc92lDX0tJyk2fTPBk+prTarODwIBsL0Ky6sZEUZSt//tQVoqiUxOyoYltYLtrImenJNay1A7vJBxqxtC0cqP/Ocwd114gNVGniwpNSXJvvAsfZX1UlwGDTAJAjgSaw+31RDgaC4DMuy0i3yrhzQIkXrbYCm4q8IJNdM8pZ3pMgAD555QlqPkXzmDpWPDNSbSPlbKIGOQe1i676VK7tXLJL/t/kt4e/qpGAsrfQ/Pa5z5Gi93lYeOy6SQyzXZOled5sk7wgXgr/QjG39PhEDS01K1Qu2YZa8LXq4D6ZC8aU5PMgkNnDO0QwfAz+QhswXCsU9GkC0oxVOTkLQPCPt9BPUI9kBZSbO9oBzFr+PHa46en7pfwoASPPT1aIkTLwtXmIHemduxtvd7tdCbySuNqwzDL/+NbY2/66Ldj3aq4HT40Xb1ut/X63vlQ/WjNqiWBJA8btkuJ4VXVvZc3wshLtKRk9/yVoiNAXuVk2Co0LRshvRrHoqSDJiFPGIn3gBFgn0qHOYP4NDNvUjGhNjHiv5lSO/W2CqfBXy5pSzPWDCuNGq8L4Ih5ls4KxSkfATKJcIK2d7/AAA==
+lqip: data:image/webp;base64,UklGRvoBAABXRUJQVlA4IO4BAACwFQCdASpkAGQAP3GqzFo0rb21qxS8e7AuCWkADSuTWKs1SNiIzGZ7mWsyqdinSsOezFCJxtstON8kpkOlywr5pOkqav1kJ7soNh6kU+HUBOCP3EBVIouQyp9Q1FTOvYHQpIYPbL/t9/qLOeE9rslFoqxuv2DBj/xu21fMk3KvDUFKE7jspb+gYgIDro4nnDTZS2lpYtX76uVhxQu2sP43AFSMAiwuz9oMuRLmnTbQe7WfaVfbQAD557VElFrNnoTnLUttWeBRbwknC55RC8aTW5GCxz0QG7BtmEfpX7M8sBdY3ED5q/HmsTuQDPAWC9blUffwGItiM4ttt7lojvcfjp8/3gSpuirOohZG1SMZhZ8J1ODMHIBWEHKHXRSJ3AUpOpFT2BLIIB/F11J80V2JLdUn0kzLwbebLXTTl63elcUz/iPhfz0pa9xswSaMxQDRbkzzkiWo5R3hJsxP/WvkKD5/fB8HB2xFfj0Wf3ZHBuvOeuDIF/whysIbxD8wG/O9kdTP1Wm3XKJ188a4iJHlVaiI61rf6ZejZyDRQUHlXdtg/SZ5FAn23Onp1uEIgTHfPYnoL0a5pdLt5Gz/hKpKw5eVOKoKuBhtE0jEwgRXy/u8JSs+U+8EyFcEi1rwQnf8gZDgw5oWJoFTt/oAAA==
 ---
 
 Super aperitif / shooting improvised by Thanh and Pierre with some others during my brief passage in Lyon.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - arbre
   - bleu
@@ -76,10 +78,10 @@ colors:
   vibrant: 31 121 188
   darkVibrant: 5 37 51
   lightVibrant: 124 180 220
-  muted: 88 136 168
+  muted: 88 136 167
   darkMuted: 96 74 56
   lightMuted: 194 182 172
-lqip: data:image/webp;base64,UklGRogBAABXRUJQVlA4IHwBAAAwDQCdASpkAEMAP22ev1i0q66jszSeQpAtiUAZN5yiLdF0LwaB7UA4x6YyHcSO1HecjK26VPieRSqxSM1iNEmxWz0+yGJYYpukrvURlVzDW3J3JZ9c5dryowd73iV/xVjST6bdYRn9QpQX73Q0zz9L/nAA+beI2G1pADGy3Bf0B/84v4HJ2/OaE4QhAJFjgANvsQBIsFi1IRzEjqPnQQTK/mARt8NOUfGiP1r8ZwObhssNpKswOG74n0SP6TYv4+gK5lJYxzGWN8qIx2JdcpKoOg8DJ1YaYp0BhsH8mS8vcPF743GrnleGXNQlfRZIXbgr7FGfjLw2EWhJSsK5Dq/exAKp+EooZ6WxucX6j20dDEVIdB1OBfOuCeKjhPAQ5jOiKUICDgfkPfLZ7/Yg2CIr6PW+YTM6ZA3D10y3x2BFSmG38pxtzVQd2lDTAA7OAN3heAOHwyzqN1TAhvbSVxyfhIIG0IWlzLyCPWaxYLekbejAbswKcqasAAAAAA==
+lqip: data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAACQDACdASpkAEMAP22ev1i0tK6jszSeQpAtiUAY9WpnEBcAkCK5TReNo75wD5ohkq1KsfLxYyBMt61o1+PuExBpjQ/bKkmCd+qPRbiuYwiNZ2Wn1J+yDzE8oG5jE6pLHzsSBv/nxcSfPBiyBoJwAPm3iNhtaQAxsttk/zL6vGE0rqbgyCQ2tey23rQJri4fFpbQW0kUE3qcGxggmV/MAjb4adwSB0iH5kUOFyDf3Z6KrWBxmpQp+t+wH/0PCppYV++VQJwsRhoUeBFCf/N1yUXWbRLqEGLhsXcJZMN+DfQjUSV3K+8dDVys6bQIHx2T0Ym1u4prl3/bHOITpZxgIftFRN996SAiI7zz4pRFyxqzBwy8ElsBse+tX/9jbvqUJx2BPo/e8RD+QZMEUR85AQ5+tW1AM3TLfHXIImNqgWcIlDqueTUOWrZlxm5vM8DNs2vHocKU5khs3DsTXVgWWS5UeJSplyw6tuGwbvSSvfeyqHvGrlGAAA==
 ---
 
 Lahérez is a magnificent place, in the heart of the equally magnificent Landes de Ploumanac'h, near Perros-Guirec, in the Côtes d'Armor, in Brittany.

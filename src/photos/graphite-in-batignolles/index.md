@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - architecture
   - Batignolles
@@ -64,7 +66,7 @@ colors:
   muted: 72 116 162
   darkMuted: 38 52 75
   lightMuted: 24 73 129
-lqip: data:image/webp;base64,UklGRhwCAABXRUJQVlA4IBACAACwEgCdASpkAEMAP2Wcw1izKyejsVa++mAsiWJrLFgaL157W8T/3EunZ9CxKlG/ioYRzlwRHiNm1TcrAp3Pg11uGOxeOT2siZOcrRjfN/Z4R37JoydzIrs8fEMmTGPUkObOUAlkmkg1Iv03JyvuXJMPjGMZiGzfQsuB6yr9ChkON1diVKq6s7BhCFb2xK/6sDaAECoWVyVh1ZyVxdoKKAD+E7X5NTXF3+LH/F2/TPVo/OGRhQ5YKbxqo9UwzQDyYT3x2JeUFa+gE+p81Qet0zJvXtf+x2Gm4hUcUXrPZgypl9mECokOgl8iH7qVg9OAoTPFT1lDUTwBosOcZ972CBdxZBjgyPcRIFF17mP90dF4zCjiizxB3EhMD3ACKdXliOUTgEBC/dN1CEv7tGLjbEmbRIBRdkMjCVPwlUVtUKWXmZh4qAFxqHz5klIQ9VgVSWl3MT2p46SW7NWpbQzj4jQXm9XT+QtyLEbeZ4Iv7xWz9L66R5vhRqWvzCGrkiE8st9LMx9vBnTyi7wFLljVf5uS9QLmP3rKhAbBtcDUf+hQDvIMaADXm9+zfKJSCzm8fvjhYzsuRfauTCameZkVMmKgIq/OpUXG6xepQtWuQ03Dp6aJdE1btiD8rU2GhSILQQwvQna+Ur4StN1gdJ+eTu7Dj3BkxjByhLwYQI4TDC8S/9ICYyfdmjq4TnT7UGj+AAA=
+lqip: data:image/webp;base64,UklGRgoCAABXRUJQVlA4IP4BAAAQEwCdASpkAEMAP2Wcw1izK6ejsVa++mAsiWJrT1eVvB7bW95f4JHHmpj2KVvm6lxnOH8XAeLNQFXf0uKNF2C8+gq8SAkkUZZzL1EcGCDNn6lP1DSZM8JN2rvA91qJhcNnsIDEJEruowCf2rkJkRsK2TAn6W9oXoENXsAoGUzgoCgJmRrSXnOQfZ9B6Hnh/30zFbzaMEkEXFmXhJMxxv24AAD+E7X5NTXF3+LH/F2/TU/x/OGRhqX3eJIBe+P0ligQKYgrXkM0GAvTWlBejNcVXosDD1iK8zHj8UmqXSFXE85vgJpfssqbryLiU8NeXM1+Ns5908+JBI6rCX9Y4JgV+tZ3ObjAuZNXyeQXEmTJtWL41zjJJhLHNnOWItkCIXhkw+laGO0TwwZ2jlD12gHgWesI2wQDzD1/98jXAM5OHLNVNU1AdnrBoeo0RAAN17hFCNKFQruTpt4d7gNAkX1F9D2FR9bXK15DjYcPJmxmSUEEwBEsi1tk57MocQ1fK6IXK/uYKk38T3bfqWIdKJaaAO+UpvhcbSNAnpFnjFFaAYMQ4EE4ShrXUC5WpLRuSeFoP68Vvs3Crcx+1e5xYrnlivE78k75P0kdkQLBAKurN5AXGUUH7Gk3G7ZxtRpIVQKFVBcF7XbYeyedYRFUUDkuC2S7o+rQ3MRRAFGawAA=
 ---
 
 This black office building in the Mstislav-Rostropovitch street in the new Clichy-Batignolles district of Paris is called "Graphite".

@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - Asia
   - Asie
@@ -69,7 +70,7 @@ colors:
   muted: 138 131 125
   darkMuted: 73 45 37
   lightMuted: 213 196 202
-lqip: data:image/webp;base64,UklGRjoCAABXRUJQVlA4IC4CAACQEwCdASpkAEMAP3GkyFq0q6glqvQOQpAuCWIAyujgCCf2LINGKWqo1GpXcqcVmDsPE98uEAfWpFH0+5I58vgIno3Co4yac2heChoKz3DSADqqm6cHNS2pUoezvqBaMR6YSzpNxVswznpmFbuqoJ+XYT6SO1zFkcUonGGhpjQzKQxjyKgG4T12WCCQMSqH5wJUcUp0/V2wkHpN9Uu9xXLovpj86AAA/uvpDWMiB/M+4oO38EkocRvgOi8+I8/ZvmF0GxfTJEthruvyGcgOd5ENu27pFZRcGHN+kWCxRHlpNl4L7L1rCn78KOCoxfLQMhijrRj/bTpan7l2YJYqwQ9ZHmXo0xuTvk8FSEcyM5hvbiR/p71uPiTSAJgzmw5W0gbVRZV/hKnXTx7cRy3kwRIajdL8/Z1t0FutK+iEDjaYAHcAk/IlezuNQ5z4d/U7rRkLZB7K4D2X7670bEzqpeH+jjWbaQ8I1Ac7rUPLCzJncBPweC0eNvyCMNqWcq+19GVOc1Ke6/bbWDSnHJbLWCD5dIbXlAwUDOxJ3Q5af4prGkfT25phBTUSDBA6NOSpE1cQzIvlzijDvvEyERr7VJejdmsk8EJygC9CrcJNgi3zIcKsrE71Ksh7DyzBKmlY2ICKshMep+CG5uzgu5SFWkUVVBvwpEXPbFB/1+ptPPABlBpclLa0uzLickjobcgtvufFIB4VoUrbeznkSZf/kd5aV04lSBWXKj60uGfMAAA=
+lqip: data:image/webp;base64,UklGRkACAABXRUJQVlA4IDQCAABwEwCdASpkAEMAP3Ggx1q0qyglrrMN4pAuCWI4AAzBTbkMbox5+RB9KKsvQ80fjlUQ3vmYmcpjGLGF8T5Q9Z/0HFluO4Xg89R9Uwaq92NiZqFmo/gyNVY9hw4XIdQjCwfh5F+l61wJLvj13xnhV7GhhZwPkH1M8fd4+wslo6tbSsQ3cXujziiK2Sonr4w3NR0g1renjDz4hIMDbt+6pbKUsmywAAD+6+kNYyIIWuyIkbJHcn6xy+Nxb2W/039BTpNL5jSHI68Zd46SqH6XZ3YEyPMbwlWVuka1h0gGzEl4/76sMrnbsz2o0tHQnkiSGBEkwSJOExs8W9EOWStYbUGx+/uVJXxAViXacH/GmPjkOynfwRkcj57Pbgo6q0CVTEY1p7wvIJKzR7VVoypkYdWvAeaE++uc1iBp6YBYpJjn9QEgVHM+wyDw7moC/+yVmop5vK1vEr53uAwUyFFLKA+WBTFFu0yYbqSIk1725oh7c8l/wL6P8dbX7hNhPl7ZyFiHpTMHNHz9+zGFpRZim/b4tivftbtkeV/AvB8bEwurntoCo6wYdTzoLAozeGfSwH8FGM4ZpZqrlM5YhdFiZWtOdJef4YNNB0ZotgRsJQqwJgdI0LD80qy72dac/Wv2SrZP0kN5B6Xka3VRZLLDDNZzkZX+29Say/KZc10NGMBwRv5T8nHMpN75ZTAzjon/jz/XulWDiCBnSVT5oRfPo+ae9oZd5I9DN4SxwBWB09985vY7wAA=
 ---
 
 Even at night, the temperature can be pretty high in Hong Kong, hence the rather light clothing of this fishmonger in a night market in Wan Chai.

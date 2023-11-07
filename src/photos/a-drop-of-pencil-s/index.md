@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
+      short: Canon 100mm Macro
 tags:
   - blanc
   - blur
@@ -62,11 +64,11 @@ geo:
 colors:
   vibrant: 206 152 19
   darkVibrant: 200 189 11
-  lightVibrant: 220 112 158
+  lightVibrant: 220 113 158
   muted: 158 90 114
   darkMuted: 60 107 88
   lightMuted: 193 185 204
-lqip: data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAABwCgCdASpkAEMAP22ixFi7P7+0r5eM4/AtiWIG+BoZqrFG3Z1Vpfo28W4qMfHNju964WaRNsATSf1ioXoFi8hGkqIQSSIOdf9gjl1p8xff33xrSgF0Vq8qefxmAAD+v7oFnkB4EF814SF0Uu5U526sOzqesazv2brwH9PWnzj3XfgkQsTzHB1GHRQ1wgpts3lbPRCecEX2rbvgOl8GMiiL6Yayc8bX4p2oU/P7xVT07i3mgHssixFavXgU0RqzlrnFQnvstC/2FU9KThf0TQlicgw2UTGW9CKWwFy6AJmvj6TivCRqXyoonC8i+2vZqZNZzeqyLQoTyzejRNCP3FAr35HFJxKBUM/LA3sd2R1P2D7yjU9/qvhsORqNyIoJbxhwYDFR1ljz7VFnGb0sxgxGdrzhAH/H3nzsR1gAAAA=
+lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAACQCgCdASpkAEMAP22kxVi0v7+0rrgNC/AtiWIAvvxfnmkLl373ahjZro72oYl7pHkIdi53w9JvQd2gOzn13t5AlaOFzl/9oh/uYnNJB4bho2Sub9svgpPyfuGj44AA/r+6BZ5CJ7Q3zXhIXkz+xWe3Vr7XgRRKs/Wt28LBFi/5qJ1h8smHM+DNqwUP6Rskaq1mFRO6hUwcVqs6xNJqKqEdfRE6Ol90mQjpFcFpf8TiLUlvJuLlewiB2mX6/VSAXJDmRYjoTL7YTujSzjDdU+h129NhF4YGETFHupxyl1bA431p87d6+ocE+9dRg3dPWh4jQ2YcE0PvRG1+QwtXbStyhQrgQ+NxJYLth1oX1BFlKztDj8hQuOHc1EjcAf6PN1c6YrbnGl4Ah4nDvIl42z7Vu2V4gJlibQFRCGhQVdQkCr6AAAA=
 ---
 
 Photo taken during a session of the <a href="https://photo-club-draveil.fr/">Photo Club de Draveil</a> hosted by <a href="https://www.facebook.com/MVuarnesson">Marjolaine Vuarnesson</a>.

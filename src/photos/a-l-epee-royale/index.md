@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
+      short: Canon 100mm Macro
 tags:
   - Élancourt
   - Europa
@@ -57,13 +59,13 @@ geo:
   country: France
   city: Élancourt
 colors:
-  vibrant: 194 138 47
+  vibrant: 194 137 47
   darkVibrant: 7 15 75
   lightVibrant: 229 198 148
   muted: 170 127 101
-  darkMuted: 54 63 75
+  darkMuted: 54 63 76
   lightMuted: 189 184 177
-lqip: data:image/webp;base64,UklGRvwBAABXRUJQVlA4IPABAACwEwCdASpkAEMAP12cwViyrCejttPeYlAriWMAy+A9H9JUgOj5cd4p1G1XCarUqSJLnrkhr1FRx9JH4s8xJw+iOnWfF+SjmbQiPFejiNgUPgyiAHhd+8b8cjbNl+0DtzY4kCwWStIUzB+Oqn0MjTjCdY9BSvBTfFZGQJ5xA1CBXPF6UIXI67Z8i1jOl+acczQ5EQ/yKKtcTdu7XodhbhQbK/mL65CwAP0y7l6PS6blg9gn6BcnRXvjwHKgXOWO9TzhLIaH280gtTtkPIwxfbPBmVQ7QHPLiHtRsETsJycF2tBUTlbuE3iKqDGYwMSiHOWz86e2xi1HmpJpiMjY2+xV4IKRs+BDlsyQRCtZPhLN97viApWsf2l6yP3ZPT6KVr+lZrHUPshlN0TeVsjpzivbWx62+FDauw8T4zQHkVViB+t6Bh8ecwFZsepg4MgNLLcQDqoL6Pdqg+MARDp36xvuKgzX0lAmthNTTB8kXrrrHj+RueD5N2mlwAcV4C50G5boxk3ajksIw/L1Lb1Lghjb81XgRc9Q1sJHPAXfPrb1op7qFL5vbaeLgPCzRJldcmSmlODU1bGvR3ozLgYZL12Bp6+BEk3ZpFhaOtXIIu9Pv9DRYufZI/uIcJwqGqZph0haSK09i7k8qq5oT8ykCAAA
+lqip: data:image/webp;base64,UklGRv4BAABXRUJQVlA4IPIBAACwEgCdASpkAEMAP12cwliyrDejtRQ+qvAriWMAyYhw+vQEhjH7WAHfXqxC7ydQGE0ovmzNE1+v0YYtxmejv7Ve4qIUHh2+Q6z6AtB5e0Rpg3NGIkVhFm1Zp0aU/nA/nADkArsFEsXcVsud1+8pbiIoRnlOu179n0gu+SQtcS3J+PX9pXL1dGpe8CicAJQ8t4jJu/l1SMJ31kj3zYd5gAD+QDlE2Pwq9QOTw7g6D9Xh7Mv2La5FduFfmYx1ozkDkBw7eBPzvTOip/XzTWleqFqRlM2u4+va1XY/SJRwaUm806YIc/bSQWD+0Osn3Z4zan5x6Cnv/XVUpTKxcxCKF1TlLiZvuiISjaMiAFGqQ3cvGnew/ccv3P0Xr+TJO8P5G3uZnzk1UQH2Qymq8N/QKmAd7NQ80Dil5bpF3cIMmNfXkfE7hKbptI5DA3uEjggFHXh4ueNfl/95HBz82MNkqqqsr0Ygy5DtXY4wO37cag7kfgMqSrAke82u3tiTHntQ8Rrl4ortnGcBwTx4IBOym1jUFnK88Criih+SVk956HYaKtG/FPzL109FkejkTSJBiu3+lnnKDRMTzUNFOYTbvjejtB/1UK3xsECBVncU5PC89GTkwfk8WioKouZxhzDf/nylr9ev8ZGLFm9NtSyMn/2KyAA=
 ---
 
 Visiting the Mont-Saint-Michel, the Roman Theatre of Orange and Notre-Dame de Paris in less than 12 hours is a piece of cake! Just slip on your seven-league boots and whisk the kids off to France Miniature.

@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Panasonic
     model: GM1
+    short: Panasonic GM1
 settings:
   iso:
     raw: 200
@@ -31,12 +32,12 @@ geo:
   city: Paris
 colors:
   vibrant: 76 140 164
-  darkVibrant: 44 87 106
+  darkVibrant: 44 88 108
   lightVibrant: 164 200 213
-  muted: 100 132 156
+  muted: 122 149 137
   darkMuted: 73 78 59
-  lightMuted: 180 204 164
-lqip: data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAAAwDACdASpkAEMAP2mkwli/v6e5szhq2/AtCWUA0Fnhpr5JJMbdiR4VUm6Jpl1mbPB3hC4QoJA/DKMa14D4pQt6+CjhaSzP+ibUZtbfYd6QQAubOm+Oh1MZwTwJEGbfec5y4qtMfottl7AAAP5wxxdDVKMofW2HZBnbIWuY1eSygOpCIcjMtlYdZSqansjICHOMY/2BpuajRtPZXwrJi73MgwQxMc/ICqjD3eL3ednbeEUqPnrJnZNyyhQxemWwD66U7jymK88cjVOib3pnNbe/3ANUdqotrahAEPnBPuAUw0j54XWzr8ALD+Zam1XbA1VDpGmRSweGHzPZYd8mvIWuq1Jae/oNGQMlDcgTPQARC7IKPH6A1VeO2ARrmSJAAAA=
+  lightMuted: 180 204 170
+lqip: data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAADQCwCdASpkAEMAP2Wivli/v7U5tBgLs/AsiWUIcAGNkIdBTZg6k6dmBKQo6GDq2WgR3IehfsPMyC3Hg6YWgeqsXio0FPA15GUk5MTTYTqp1FlYdkt1HgJ+5vNvDXmwZ/t9pmJJseIAAP5wyOmjg2TXz9AfCGDhZulyIxVpZUytAg3dWdc7AeM7mvsvF5AYy5Lcf67sfJXG2tIQ4kwyJbBOE03ciPaSD4D9sNDblEecPjarZ767mdgP6MLE2YV5BUJYmDShwraTFp1mDr9S6bzHfykooJ/ZEC5KePbjhAdTOtoB30LonAtCVu22u91lMhEI6uMhds953fJq8/O4hPc3HRiVfg344SC5bAEUBtBbp0/WYJb8EDUgjkAlwdODkAAAAA==
 ---
 
 Actually shot in Paris, on the dock of the Seine river.

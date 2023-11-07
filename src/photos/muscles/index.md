@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - America
   - Amérique du Nord
@@ -64,10 +65,10 @@ colors:
   vibrant: 226 48 6
   darkVibrant: 138 28 11
   lightVibrant: 134 180 208
-  muted: 148 172 92
+  muted: 148 172 100
   darkMuted: 76 42 47
   lightMuted: 182 197 206
-lqip: data:image/webp;base64,UklGRioCAABXRUJQVlA4IB4CAACwFACdASpkAEMAP3GqyVs0rakkKhRtqpAuCWJs0F6dgzjD/FpdVcyDX8D+uI3p1tt52V1KLn8BWo3GeEr95wJyZnDE1xw90xHPTWSqNt2ra9fLcPXyiRy4paxaKAQOTkTQuGfv57XB2PsKGwGYTghXgkYpsJna1BqSijs2Gi319pHlCHDRZ3uE3L+E2oVd2VYPXzMPFixHMBDgP9l+Nzqu94bHwZLtdEBBcwnmNxgA/u/CqusDiQr9saZNjYV/tAYOJSNCuJyS1vtbvccDeqolOum2Xjvv07xCl2zaKPbqq5S6ozbzHVqGLY6n2XAgU11efNGKh0UNYD5ktg73X/GYl1JwTBAASoa2l/tOIu1s3h2YuAYaQ562CbZ8Tj5fJOcdJYF2KOM806HlNr8xB1AoFghr6UDzsX/9mHQpNiY8xhss1DGEe08UB+ucNpCSW1GFSxB7bVYRp0HHFNCe0wc+bM9VeMuoy6kZqKSHvfpwgw/SFY5op1yoPETnSDhe/Agtu0FmQKTTCisjU/BoWRDQ9NwNzzXS3JkCcA3ICAoeM8L/sxPrcGWeRKMcnEI6rGIPt53a8Zrd3I2/wpdVn04ueSyeGKgApfgzCPYMqXsrwcKKTd+61e7eYJqVIqrE8d5qY3P3sJz/3cbB1556v6SwCErWUait06sAmfXHIlrntus09w4FxpMp7do+Y+jB18O4k0FJvjzIwsGzQAAAAA==
+lqip: data:image/webp;base64,UklGRi4CAABXRUJQVlA4ICICAADQEwCdASpkAEMAP3GqyVs0rakkKhRtqpAuCWJs0F5ojDjL/CpdVc2xP9cRvTrbbzsrqUXP4CtRuM8JX7zgTkzOGJrjh7piOsJvZBLv0jPwRcGciIwrtP8lFvk3x7KZ/ojr6vrri2uPlDIVQhrDCkmd3r1jHMMWJmHPf42J9E428bTOLtgKWyLoD7cpE/uHDhv9SW3A/i5muTXr3M7DGETg+Dgre7FqAAD+78Kq6v4OKHhNcSRLuB/E11El8Slas5YN/py7WlfeKAIXWcuXyfiE1hFLSAGkiktHzwb2y2iRNObXkrPZL8TapsXwclZRrxCJu6FS2Qssxq4eAgPJetaXbEMpYTr6mPvVeHtOeU0lh58qCs379X+m7g/8M08fM6dhNyTlgUzj+34RIw3to7qdloPqWKuWVFRGyFsjerlDbEB3RnGQ2iJ1ba1vE+SxCOW1+ZdW8Xec0Tb0v3Q8NDSnf4MsRq+sxLf3+mT4xNY/E8Q5bQkTdMOSlfEOIWKdI8l03hqgpNLV78HuAZCQbmC6y4curlOxoXBACkfjgfZT0Zo0gq27BYUZ59qUpZnSUyzwND/8jvTu9i+lAX2tA+pSHVYpCnjppWEy6b/YQQnUFut+ow/kq5PjsFKYJ+KgYnROt950JpL86eS1pHXxiYVYiP52STkzsutfG4haR5m2ZPO3X8yDjTwBuT7ITgCMtbPkgeZBZilDt2DRp/0CY2gAAAA=
 ---
 
 The Dodge Challenger is a mythical American muscle car. Here is the 1969 model (I think).

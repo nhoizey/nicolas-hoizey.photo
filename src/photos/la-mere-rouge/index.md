@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - Africa
   - Afrique
@@ -62,13 +63,13 @@ geo:
   map: true
   country: Egypt
 colors:
-  vibrant: 60 164 212
+  vibrant: 60 164 220
   darkVibrant: 5 40 86
-  lightVibrant: 131 188 230
+  lightVibrant: 129 186 229
   muted: 105 120 148
   darkMuted: 51 72 104
   lightMuted: 180 184 204
-lqip: data:image/webp;base64,UklGRiABAABXRUJQVlA4IBQBAACwCwCdASpkAEoAP3GuyFu0rr+kKTTeE/AuCWMA0BhbJU2WJDEHv9Hc/FwInpfyhyiSPZn6/bmDURDxmQw0snj5xlVn0tl1p9OboA/5TqGLS+EfLzdaDjhtos86AUmLUBlQYCv12QAA/t8u+VbWqfj0MsDol86907eG6jLE3QLG+zQACjJhqeFKPEKSZO3wu2nN8hZCpTpiCDdChZS79NV83O78t4u0zC7fDgYn9j3XQtLSnnQXF7IClW8aAyqUfimFNcd1M58Qboa0iyBXkzBwAl+BVvQ8n1TXP+tXwsvck5OJYC3SosYwVn3sJte8WdYnXMzx/MHU37DfocQR5nCHbSmtp85KQOhpZM59efpjc68ggAA=
+lqip: data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAwCwCdASpkAEoAP3GuyFu0rrIkKTTeEpAuCWMA0FRbJU2WJDEOC9hOfi4FmX1Jzt4kUS2c1k1NsSIx7vHxWCbUvOUf6s6crhwCA8yP94aDfwQGZnbALa4lLxTSd3fCkzCtPAD+3y7/Ne0zfM3lZrBkDOv3RL1cnhjK2An9elQbdble0peweMqGDmAmIRkcOTwEWtnxg0czwja1nJ3tEJvNMwxiXCnK3DKM1+r7kMLQy/D8hzrD0IYeFifVgEOO2LtHK0rdOa0Qboa0iXr633/PZ9UXqd+on+ypxt/hKdAX/dpsX9z9rLGbCXee0kyxZaHlYb7SDf3Yl6kYr/KUryP5lCC4g/NA4s5k6Om0tgYR8iKerIAAAA==
 ---
 
 This photo title is a play on words in French, where « mère » ("mother") and « mer » ("sea") are homophones.

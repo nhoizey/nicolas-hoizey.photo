@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - beverage
   - boisson
@@ -63,10 +65,10 @@ colors:
   vibrant: 223 6 43
   darkVibrant: 91 8 16
   lightVibrant: 249 129 180
-  muted: 108 132 144
+  muted: 108 132 142
   darkMuted: 84 44 56
   lightMuted: 208 183 189
-lqip: data:image/webp;base64,UklGRiYCAABXRUJQVlA4IBoCAADQEgCdASpkAEMAP3GmxVo0rKelLbiMYpAuCWMA1b3EhDI1N5pRoGPMPmo1XpIzj+S0FBH67GX0TwHSiLVhHj5pL5USPJ3NmklmGY2YhNPlN2itMATgsgeuCPHDIEkMusmvcUFLVc65w3ko73g9jv7EEu0CatOt5VEO1hyk9Q47a39GwgnUmpZdw7agOa8yx7UYbOj09fVMP60QfHs5C7AA/vBP6GtwOYlpZBciYF+j2hqA/k6LQ8/y1ol63ikFdll9g7TKVOElP7YrDt1GVRg9j4zjhh3HQSxMpLdVQXX8SWxWFGmr22TY/bmuWJ74DikOxKstJpz0YQ/nLoSGpLBikEH7Lw2hsk20S27Mots9eZdZWvf7tGerhLE+TuXPWT/ikIRHdAwMg2G1vdNB5kXIQUpccTIKtGklaexaWOLqaGRF7XsKHFzKOHiG0cObz2k8Il+6WcQErMOLtWisAAi6QFVOSPBjeM6m3FRRwJ0MMWm3l+jzJUPpykME62ZkgFcJTjq6OMpjcG7LVdO3tdTNyHUi2JMe8o/Z0F4MqPcR7H9qjIqWHjvvEX4FAbzfO0CaFghOXvyFVgmD/t4n5N+pBk0gfx/50d5g5cizgxGmodrJ+8em/oOo4VedmQY0/5ZCJe9VmssNtpO3KeH8DOs7Fpa14CgsGFgyyhpoapFoFQKaZlse2rzoWBlFBypfRpwdCwrGraNgAAAA
+lqip: data:image/webp;base64,UklGRigCAABXRUJQVlA4IBwCAADQEgCdASpkAEMAP3GmxVo0rKelLbiMYpAuCWMA1bhYuC8FfT64jrwpDrEWgRCW4rgrNJ24+rpGyKiLVhHirDmz9c2e/lEo2geXUUsxGkrhVD+8Cn9Oy9Aa0lNzzC/UFRWWPadUxwAP7RnS69Q5/nsrhAY3aP1pIiTXF26h0PEkQuLIYaZN1fV8Mf0EeIaEZ9QfStvtBZ9any7Xg6+QogAA/vBP6LnI4pvuXEbnSeTOsch7fGrxJbI5Dm8A9rHcjem6pO+b/SSxbY8n9qV4MhFBS/0LAQJzNFkVzRp+ib8wQQvJ/BQ9xGt2wQGSf6oCpr4c5IY4d/ymqDBJxhIBQ+MB8Ky+sJyauWf5yZfXc4jl351hBKPYdS4iCkHC3j2VII5FdMEILXKVWw2y2brG6NSoaAhSEgWCJPM8tsZQJiwDwh9G9haGwVCrF0FzQeA7rbudg/bb6LAbgrexvhjVKsGCt7fDkSf9yCYmuqmT7hqXWEZbNEBypI8iZ7fOchcgAbej2U6lcsdL/0+tf9lj1RZ8ozrtrYkx7yvNCsdJdP/MgLiOW5LshcPxc6EMA54xQduBReZV7vHTa1ySZHdmGiEcd8xQSywA/kB66jPOrcxIqohiQ/zRpB9VTEbXcYYzN5w4ISvKZ7nZwQJv66405K9sgVl3HjcITTuf3MIsT2KtpdzZLohyqesusMHIZaaq/IGGY+EUZIzegAAAAAA=
 ---
 
 A little creative exercise in the studio.

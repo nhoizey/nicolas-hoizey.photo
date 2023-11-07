@@ -11,6 +11,7 @@ gear:
   camera:
     brand: Fujifilm
     model: Frontier 340 (Minilab Laser Printer)
+    short: Fuji Frontier 340
 tags:
   - Africa
   - Afrique
@@ -48,7 +49,7 @@ colors:
   muted: 6 127 147
   darkMuted: 4 52 149
   lightMuted: 13 119 140
-lqip: data:image/webp;base64,UklGRvoBAABXRUJQVlA4IO4BAACQEACdASpkAJUAP3GoxFq0v6gwrVnrs/AuCWIHEUuv6XNTwfvIyGKjLDm2dsVsjAIscGq5BjV4z+puBxsZQ/+UvMVHEOdGoI2i6Cb4JkXAHsRajWqBxMahEt0TOe4tD5RzOQ/Fyf5z96Egty8pR/mwugAJ69csVzP7HH/TZZs1m1t97e2TBuI2QqP9KgAA/rlD+JwWq6APHtl9i9/QH5LQ4l4aVM+g2MCQLe5dZdUw8PBebYLNzkNpEA/wetA+PjIwNu6hfUWmOVlm7BgIUs5tmlAVpVru5Fp4Am1wBW/FpgLwOWHmftOOob37P+KO4KhEy2noVqxdJNte9AkuDoXw6QzZ0o9aEXakO2/3qHA8rqIlKCGtR10U/1KI+6x1Dgipf2E7KocNPhYsMdZ31UMq/Pfm32tMDWe7zayqgSrvlYMiputzf2OJWe6w9pbPlZ2WwvI7VZgqPJow+OswLKNNx2XU599XZoxL3vcEXSy86Jzjt9cFgLVR4iXgAcxrpUtb+EJmEo3L8DtZiqvOZJjnUNS7SXX4u74cjsY5zDu5jjRHcS+ntD4aDgpyZ+scgZZLm5kk3FMV7SucpRpxKGbTS0OFp4RM+1B3TE/rft9Sbrt663sno2xF35xiBicl6bX3T/q+B6y5gEObMAAAAA==
+lqip: data:image/webp;base64,UklGRvYBAABXRUJQVlA4IOoBAACwDwCdASpkAJUAP3GoxFq0v7CwrVnrg/AuCWIAy9ii5v9MPElB0zF+xy13BUZUiwEoEWpMyQ/fnsCc2hXyiYpCSyBMcsimULxKOnePL9TM98JPdHEZmaSr5kC5DTkthqQtaWc90bcfavw+7eABq1oUWjjPqLe+9pA/8ChlQNmD+D/cbNsZMAD+vGvk0+uXNzPVq7lYd9fsekf9pW+9vczAfluW9zxTo6pQn8iuZ6o9x9B21IUvM12JibCngz5kYPL8buj2CXmK1TXYkzdSK2YBhusIhAqsqlyjBOo5F0TJhSzhN4nwSP6vuRCyJo8Td0y77+FdxwY9Vok7+Ly+Qd/3wKiH8v3Rs7uOjpjXcTYEBAyPkZAwNJaKrvcnqpMGX3xhlbZFnmMMq9y4BJpuDxv8lUN6Tc93iZPIKPhBRjCsG/tmwj172cynW7eb0JE7RofQEwDKj/5V8eaekhN9Dpyj7J01sPvnvaiseqcFTx0015BR1RF1NFURyoVhbHT6rHR3pbvgPeh8y8l7b4IxgEEugwEGc+yXIyX+V4Lh0h6I00/yWS6eUHubkAi7Ki4r9Z8ozo1uREch8tsGr7ZS5RKYZv1hVzPQYs4VeIVof5GOFAu2z8IP6XmKKsrmDk7HBp7Ad7w89wGMAAAA
 ---
 
 This photo title is a play on words in French, where « plongée » means "dive" and « contre-plongée » means "low-angle shot".

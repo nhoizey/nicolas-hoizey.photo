@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Caucase
   - Caucasia
@@ -66,10 +68,10 @@ colors:
   vibrant: 4 145 210
   darkVibrant: 4 132 196
   lightVibrant: 123 191 230
-  muted: 168 148 88
+  muted: 168 148 100
   darkMuted: 88 65 53
   lightMuted: 198 203 209
-lqip: data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAACwBwCdASpkACoAP3Gmy2C0v6gnqrJK2/AuCU2aCzix0Dhfy6lu1nxzDiFo9l4yJJv9ZvbUkWaP9R7zYqqoKQhVpWkZU6zQAOFHtWvWd+tefsMSf6FesvIcZnUanEtzNwc9XZco3CReZL56+rHAUPJWVn9vITsy+Yg9MT23fXnj4fVrPc4jcgtIIhqi5gzSvBwPL+DmnRItIpJwGAPIXDvIT/HJZntj1ZxNHrOSxNRZ2YijZyDF1iVuJ/9DL3Mss6ElKunCJ0QcIndl/lny/QutMjXsSjAi7me79ZyKD+V5QOmpm6rJNtTaVsgqO6xf1Jsq6OYIAAA=
+lqip: data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAABQCQCdASpkACoAP3Gsz2E0rD+npjQK0/AuCUAYsYgt5iP+e2i+uHpn27YPCzK0Lg0HVoQLsoOo6Y7vt6kEbuZxKmKTJJJ0hnIgV6H3bdMbZlwSAADhR8GC+LTyOwhaNr/dD31aVBRLlebFd1v9tgc5r7PoO4Q48hK4eHkTeyw8TNQch2xGUX0VIIJ4tzZNlBaRT+Nk+yHyg3xMS+MSPyOq5B23HlQtDFKwrVdcWxt4Y9yfDYdrNWufjOjBgHOt/W4rQiCdukDhbsjXzZDS9ziWzUSvbU8u6/UTk8qXlvuvl1Tx+banxrWH+68WtLAcAXES442SIxOdY1FBMcAAAA==
 ---
 
 Narikala is an ancient fortress overlooking Tbilisi and the Mtkvari (Kura) River.

@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - baie
   - bay
@@ -67,13 +69,13 @@ geo:
   country: Sweden
   city: Åkersberga
 colors:
-  vibrant: 194 143 81
+  vibrant: 194 144 81
   darkVibrant: 68 116 156
   lightVibrant: 144 190 229
   muted: 100 133 166
   darkMuted: 85 78 52
-  lightMuted: 156 174 193
-lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAACQDACdASpkAEMAP3Gmy1u0v6mlr5LbG/AuCUAZrlfCAZQDym8OAaJR4lL478cvH3Oz6EVWOM6VmD3CZpXqZty1SMW6vC/xOZrxqhk9ltqMz8ksMN2KNGsTBJcvtNN2go35c5gtgOBlbz1GLUdYAP7nTveKpHC1BDkTHbRwidrjbtCS1/izi+UjNccF6ZmtjkADZWWBGxy79eMovtowTzEIZlpHZVktfW88MQK6hGKNJWYlkwjexvccpPGJ/h2xH0AEoT3WffyLWb3btveEJ+9Hy8h8fCFqVSc5/PGeR5sCtUgmOzFeZu9DToHO/2564agXdEqvp4gh5duu+UD7APANcIpGEMwx/danRn5189EomDoH81CxHnDnsgC0gjeoUvRaXEt6TBPgmszre6JLKYQI12BhOPEhXRjQc6sTB0sBOUUyPQEbcaTnle+4rad5VjnOv6WFwaVa14UjDIjrfh2fp0u8/yxmgs/gkHIAAAA=
+  lightMuted: 155 174 193
+lqip: data:image/webp;base64,UklGRoQBAABXRUJQVlA4IHgBAAAQDQCdASpkAEMAP3GkyVs0v6klr5Lbi/AuCU2aC2AEK82yvisWXO+rc1GQEQN4nQwskSQZIKbh3q7CPf2E3o/8QMJf1WhHZ+zSv8sNmDfoWw/lCoJpUVSb3wh5i1e4NfF3tWO+FMwGZEjgkBo7GAQFGAD+5073ip1WUJTNzHKkrtClBP0lAefAploS7XST1TGH8ozDaqLm+1tT2PbbPEvcBrYwIGm9UalXyyHnPzlYB776LcHlLi0BnlS1k1aiWNvuEAjtD/RZKXgEQ528xEIrk8TImWyVGq9jvA7O+rOb8vRm51YYx2cZeWLwJS5XTXviBBwxzdsLh6fxpH+4+5yK3RxZub6HeAS7tTEgql1qA4vGx4XeqXlDHqDS/eVaQ/hlbnnTWm61FvCre1kx1nGU4efyfmZRHA6PK086nO5t7vB2NZegauveyva8bpWMft5bbl3Ejvdl/nfO28VRBnHE6aYBwSS42PMeVrFyOQSoNsVioN77QAAA
 ---
 
 Trälhavet is a bay in Stockholm's inner archipelago north of Resarö, south of Åkersberga and west of Saxarfjärden. The shipping lanes to Stockholm go from Saxarfjärdarna across Trälhavet through either Kodjupet or Oxdjupet.

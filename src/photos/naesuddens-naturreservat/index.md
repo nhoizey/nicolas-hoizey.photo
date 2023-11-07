@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Comté de Stockholm
   - Europa
@@ -60,13 +62,13 @@ geo:
   country: Sweden
   city: Åkersberga
 colors:
-  vibrant: 207 166 80
-  darkVibrant: 86 61 10
+  vibrant: 206 166 80
+  darkVibrant: 85 60 10
   lightVibrant: 225 195 152
   muted: 177 141 106
   darkMuted: 82 62 43
   lightMuted: 191 199 209
-lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAABQEACdASpkAEMAP3GkyFq0q7+wslGrM/AuCWUAyjwsEKXLcvn2A1jjMYUq/2YlTIui2aT/VIhLAFb+Dq1uVyWJGlhivD8vSf3urZ0MsP5/fj2XdLblP2o2bK8+C8jMVrwgvS0oWGnMytwWX8lm6h1HvMCMuKR4x2a2NCjhYz12pF/uZNvShkQ7dSsAAPi7n2xEAlSzLjEdiCljy1ZL2QNQNn+s7ViTFFSseSClTI69QeemzT+WTESi2//NcS0Fi5AZupLzxzRSGUC8L2j/eSDpEmZyfXNX9TJERdT3CNVLaUvAv4EZKHFDRcr9k+1F5ypDm1r+QlMiTrtCSfMt5gBHcgHIOW1euVyABoXEhM6+3hoozjKi6UcNCFRrUr0VsTtWsWSlhVtDHjyH5bvFaEvdVA7+W5DXPxifjZhejG8d4+kLwKyj+anX+2W7fzzqvqCBSceFB4e9D+Zwslv5NW+9bmDMRLzVauKTZ+WeqUhKK+iSwOmQbxodb5JLKrP0mWlR2ShtOwbZaEb3oug4rs1Eqo9qR5qfM5hL7JWOGtFMev79uqlMSdgvQrIDh2aQCI3wjLnq6UC4AA==
+lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAACQEACdASpkAEMAP3GkyVm0rD+vsVKLg/AuCWUAyntM0jHui11KgLjUKo4PUKf7ZGUgr8ohBBAd7TY/XdytG0CQq9bbzX+EagnygMHwvwtqFvoanXPh5JhANXcIDkNglrWXYRj0ccNta3liQ8XG0boU8j6+3eSGvA3kksjUNkUtZsK2ykTbAj3u94BFfAAA+L2fOF1xe30xiPol3V1cnnN/V7KHrO2kjGlf1MSEom5mCCM0eo2fFcWY+MIfmQxDXgwCSV1D/pnD3tDJ9Wiq7eTKXow6mu4riWWGV4CcydqpYEbc6HyqXsPNjQaIKqkgAG/2Hl43jT3bErsgO9KDpRol2DmjcbIs0ZXR0E5UMV+5re4FiB/EFFW8JXneL3+Yk8YUE+aRfSfoASNDLhWU7/Y03Yzn4PQ4UsxOVgdfiRdCyNaO0g1gLMfLgdJcXXc0T9B+wXXI0D3vfB/f5ghFXQ3t0jCOQqR9sBp7MxOF0288D9u8Ot+++mOI4Kq09YxGaRf+zzQAANHZBJRwQJz6LNGL+eN0u3PE/vgusqES1rxSyd4cddvd7codOza7EwK7ZXXHyNr/nAAAAA==
 ---
 
 Näsudden nature reserve consists of a peninsula located in Stockholm's inner archipelago, surrounded by Täljöviken/Svinningeviken to the west and Tunafjärden to the northeast.

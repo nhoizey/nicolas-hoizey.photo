@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Panasonic
     model: GM1
+    short: Panasonic GM1
   lenses:
     - brand: Panasonic
       model: Lumix G Vario 12-32mm f/3.5-5.6 MEGA OIS
+      short: Lumix 12-32mm
 tags:
   - Europa
   - Europe
@@ -60,7 +62,7 @@ colors:
   muted: 111 138 153
   darkMuted: 51 93 104
   lightMuted: 165 186 192
-lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAADwDQCdASpkAEMAP3GkxFi0v7CjsHcbw/AuCWM4AAygATf4vJiuHRFDz3wFCqX3S2iZDuUtIZ4Zo9zJ9t54r+MFbiw3m/lAYeW02B5mruByoKy/A2wdsUIFAvvQrqJlkOuvnIwf3m5DAbyiX/GSmoSi+8gFzJtYPLAA/tvyLo3vf1kK5QGripC/px1qstcyGsaPsK8G5LK4T4Haplj8EQd7A0VpFyuiq5943JfiYglPFDyYbd4o9LrvFxv02+Ma/eWmiEE18//Y0msw0D1QFcsOk6jKi4VgMAws+KODf8F1EUkgMhdmquFrQl0NF4kCbbK00NLNb3mT/bAkriktR9hlZ64gWfkn+bDOFgqqcrVdtTP+2FKknllReekCUo+7YZjTB07/BTIo+AxFWhkAsTtrhF8/iPe25zvgLoAFfxbY6tnURgfhvhlB9JpxSEDpymQ+8554GlAqA/Tl9vTrO8s/VfUcB6N4AAA=
+lqip: data:image/webp;base64,UklGRnABAABXRUJQVlA4IGQBAAAQDgCdASpkAEMAP3GmxFi0v7ClMHcbw/AuCWM4AGcAzTwTZ2T32XVqdDyiwnp9K2EO9h3e1kNSiq7qN8sMMI5v8/2NeImA+eLPzGFwiSa/kWHtBjDLjAMJ99KkUKOkWxSYlt5gDkD/ERzdsN/67SQsfntUkSaZqbXgAP7b8i6N73+jvuUBq4qQv6edjk9KbxRRC7R/bCF3mPi+06fBKwsqt5b3lqXcDsBCt590mRqicEKtXIKa5PYcsk4ecgoHsnGkxQYz9QK1vq+qW6pkgXwDLkw/LIMmqU0ULucgMGOUPVZcadcUygZyHit2fE/i9OE5qewjem95vUvY3PgRlmdP4tGl+UqngH1qBGoqVbeGDxzkLohiUFJ8y3RwGjctElH7G63LOu8m2v0I3krKnHUDSQe1oKQct+AGUPkpywjbsPqfoHGnvrAmNpnLUdA0mma3WCWjC0q1WZltbEbj3owSwEwAAA==
 ---
 
 

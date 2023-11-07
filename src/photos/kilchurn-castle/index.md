@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Argyll and Bute
   - castle
@@ -65,13 +67,13 @@ geo:
   country: Scotland
   city: Lochawe
 colors:
-  vibrant: 211 208 44
-  darkVibrant: 71 70 15
-  lightVibrant: 232 230 146
+  vibrant: 211 205 44
+  darkVibrant: 71 69 15
+  lightVibrant: 232 229 146
   muted: 115 124 136
   darkMuted: 79 84 44
   lightMuted: 151 153 155
-lqip: data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAQDACdASpkAEMAP3Gkw1o0v7A1r5S84/AuCWcA0Jcagav8FJ2BlBj0MrvSuxjrbRqs+YCQqg7nLQNhIMLhNEEO6LIVtnQBv3oOhrCdcdPZV19R/HUb8RnY037SCpTSisRbuX60hJd3IgAA/ujQQ6ku+BQxFEIGWJAtmXZFnxreu4Pcts+9SFRt4O2xDf0OMjtvuNi1hc5rZmJSi8eHDwnk3m1EumYLctmVk5WhXnoTKHWiVs7dP6ofoF4uro0uJICh6ZBMyWxYsX0GoFGwpdjPX56aYVLzpHcS7ubHY6zIlRiRYhctHutxUbQK+I0x3fiEhiVY9mSjL/0QqqtJJGhCoaLxOlgZqC5/hbg4qiha4q30HYAAAA==
+lqip: data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAACQCwCdASpkAEMAP3GmxFs0v7CrL5PM4/AuCWcA0FngAf6xJlnNPciGnD6eYJuGp5ukM/BTqiQul00jFHHb3tisfhECag0QOwk5dF0Wyz6zFE127nXxheZhfh7XlzYNb2tfz8ksAAD+6M/fgCzKM4cRclgcxBg9k4L6fOI6gLHoj1mKwawrx1MjAcsP9dH6sIrfTS1ZpALFd8rgMmBzSzDFdMI6lCaEI14uPzKWKyWDuTOF3SFCOLKz4vUyLxiaQY5LM066s/8CmCOERSRme/mPQxe0YyNgJRyeAq31cyJUCXeJH9x4A+mw2F2VKn5v9EKqrri+DM4rrl7mvInmvJOCHAjQwAAA
 ---
 
 Kilchurn Castle is a ruined 15th century castle located at the north-eastern end of Loch Awe in Argyll and Bute, Scotland.

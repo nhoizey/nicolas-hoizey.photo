@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Colisée
   - Colosseo
@@ -60,13 +62,13 @@ geo:
   country: Italy
   city: Rome
 colors:
-  vibrant: 152 210 45
-  darkVibrant: 84 116 25
-  lightVibrant: 201 231 146
-  muted: 131 123 116
+  vibrant: 162 224 31
+  darkVibrant: 84 116 16
+  lightVibrant: 207 239 138
+  muted: 132 124 117
   darkMuted: 55 65 30
-  lightMuted: 180 192 204
-lqip: data:image/webp;base64,UklGRr4BAABXRUJQVlA4ILIBAAAQDwCdASpkAEMAP1mauliyLCyjttj8ykArCWUGcA0fSQwQQmzU6zirJ7+jBWRaLli3T7Dfs9bfK7hIQRyZy7VZhcl/s/ONNE7to8EdOnDhCHw8sfotnovHrUjRBc6UzDqnYIniGJvjvle98EZMpvOM3VY+B9wpVQeFHuK50XmjZFAA/pt6KgHQCRPu4Ohw6t6icOhWUIVjElv/DZ3116Zgfs4qIz3kle51iuTDH1OEDe9qGccXBFfxbn5YgAMO8Gs8vSfaXyj0iLNNJl+s50S7qLz5QM6WreQZlWcEEJDEeleBR9ayb5o9+BMis6yszBZhsImxlCGjjGg+Jne5nDG7SwSZz5GEyHDrxIn8Qh8OWyhc+x7ZWsE0mUswLXPSKAs42/1EOL8sypLv0cwTlZXCKX3HpI1r/pDgZoyVXe1aPlqbeCtBFjxnMrsJjJcAdKj997I0cu5bUqcDG/r/V10siQ9hvL5uvINiLh2eAAl0Pbak/TlrLfAU2mhIXTkxvjLLq2UX4/AOMbzlUEYq1phpexwRaj1YEvSAIdw7DW6MvtP3CWWXMOBlxQB29YAAjSAAAA==
+  lightMuted: 192 201 210
+lqip: data:image/webp;base64,UklGRrIBAABXRUJQVlA4IKYBAADwDwCdASpkAEMAP12au1iyrC0jttj8ylAriWUA0Bp39IcTZqtEsHgYj11EkQtfqC7zrmj6rRWyOWf7X61fU2rUNOe0YY2G7cCfSuxeo+/XndKe019+Hz0PqJhqRDpaWYTXN3oq/Q3xmVLbHwwP0LwovETXcRVx8neZ8jPk9dTy+dvdLLmd8MQAAP7LUXHKkkaOXyhROWsWq/IBCHBLbtnHcWPdzV+DvBlVIlx0JYs/Vq+a0B8elDu+Cibl6zgS3Y3oxja6ljSKuQNoESZqyzr6y5Y1CFktT5z8/e+j+ONWReYgSGVXB2ruGPzAYx5gFN6Vk9UNk+vKoj+i6ehrlkzptLVwRbUVky1QhNTGQ5OHXemKZc1NQDAOgcoeHCYDFKLQ2NqnKDDuGIHd3uCaRwi5ofKCiPdnhvnY9of69nkyFkozD2ApHJU/iIhOq8lS4BBFn0kWhqLm/YYwsw2rzzprDUtGnL8DHIOPGdPJaSuGtI/JJxjDbQJIiKI4yv7TtrLsAznKoIxbRQXKC2oAtwj5keRqPkcMLkay5riDvTR5X3tFL7AAAA==
 ---
 
 The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.

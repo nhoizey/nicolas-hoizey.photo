@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - bust
   - buste
@@ -80,7 +82,7 @@ colors:
   muted: 175 91 112
   darkMuted: 74 44 42
   lightMuted: 191 148 156
-lqip: data:image/webp;base64,UklGRvYBAABXRUJQVlA4IOoBAADQEwCdASpkAGQAP2mkxFizrTClMlgLCnAtCWQA0MBZBRgr65JKKct+5m3IIj9Ac+ynrdmy4j1ppj/v1ny3WJFr7swO/capie9LeIiNEmIe4BzRsKWX+X+KWM1gm0M0eWG2EuOe57ivILTGyd6xZoVz8vPjMPz8q3TE13a0i6J5Cr+EgBEFnh0poBKJMu6cQv+EwoBE++pN/EzcMJYr3zS1QWDVAkr2AAD8U6ZkLI/1E29Zq//PhYBtDO2RjrdYDkBbRawCUt+LQmqKsJbPqJGsetxaPhCHcKNndfzwwRbNUR2Qpt2rgdnBq6RyNkCw6CoTjR6x8p6DPz+6Ubrh/blBk5/84aTm3k2afSAf/dgaXB1LJczxZRFxHAvE8qaqfs036fsjj9tXFugUyHMgpL5XS1qGFhHtMvWHavi3k8VtKnca91kevflZVCYtUk1tm0Sz/cmLBp6gZYE5H+thHK09CYHG0W7+GlAAt5l0iwI0VsyGBBAYv+RjdVMZt2y4mXslsV5/CPo2yYljalp9yDYTYg8Ir1dTOh6k57PcWxNRXIGYsXpcaMnZKv5pilGu/kJUCLQSCms/Od3097Q66cQEtYaJSpZdxC6TogGsRoa0r6dHAqisLQNCSwD6lkJA1YyM0BJn8T/SQAAA
+lqip: data:image/webp;base64,UklGRvgBAABXRUJQVlA4IOwBAABQEwCdASpkAGQAP2mkxFizrTClMlgLCnAtCWQA0MCDhRgr65JKKct+5m3IIj9Ac+ynrdmy4j1ppj/v1ny3WJFr7f8guZNXJ6oJTb48enWxvZM8llfhzl063sFVtM0r1oQ6iUbt/q8NPS6G1N9Xh843MAq2R0j/7W6ZJlE0gifH5AcCmnR/dwbGmT+2koDcbRLB9tqdLj6XZ1Ko5ag1TOYl6TMAAPxTpmQsj/UTfhsHZYoB4fq8HxFukfK/hZyyFmdv0ybaabsflz92//UGvNfxah95kgiBSTkj+Ly9wSgWaS8zJMKSL1xSOZ7zjVzvuGwkFRuua1GIgP51vJzj+06uyvCuUBDQIlitEncLNM5H8BxtkW2JjclAtSl7ebY2335SPZwcQT44ozV621gFwSmF9ow2I8PFbHSxsFWu7VUatwE7yHDTgR19Cup4IdnIWOKqMRgelLM+DpYaL3mB0935r3NwBrvOj9b+2+oIwg0owlOnrUzOStjEDj48DmAUlqSNXn8I+jbOuyp0Ix1Jgf7SFkc/zZmEpB0KpyW5a6CGzp/YctxI9MyixQYZ6ZEahml06gCPirZMZg6XsujGZWhpsYUE7656toKn/wgZn9FLnU8tqj4e0MX21/c7iIL4Kkw0sOBgRSF/E/0kAAA=
 ---
 
 I'm trying my hand at fashion photography in the studio.

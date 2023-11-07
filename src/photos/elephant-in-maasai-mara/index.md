@@ -10,11 +10,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Africa
   - Afrique
@@ -74,7 +77,7 @@ colors:
   muted: 159 124 101
   darkMuted: 74 56 47
   lightMuted: 199 197 158
-lqip: data:image/webp;base64,UklGRngBAABXRUJQVlA4IGwBAAAwDQCdASpkAEMAP1mawFiyLDajuLOd+tArCWMAy23dMvhunANumv1gPiseI3ms9NI6KQvL3FMAjYWgaJOx14fmppd2GyHCNPpDixfpaWavHm+FGh9pAiQS+gWiZfRXPTDW97zcY2KpcMWw+c5BdlQexAAAsG9nqqGg9/YhBzsIPHaZUhzrrTBaXjLhJ/Jq9J3Yz2XaBrsfJwVlRLyKHHt+vsJCGx7vbuZg+YR0AXJ4I00QrWzD2HSD6ECAL6mTRfbbxmdnXx7cO+YTmw4F4JqkqBz4z7J5hkI+HUUa+H8tm4HdEcgqU7Wos/8ANFTmE74SwvmS41X/VuaSVGMxUZdB4Aan4RFG8nS0sA2biKryTNOjutAy+tlMsf2Vh3T51F7RKiMWG5kIVZj1ApZP2h5L9s5HN2O+G7yP5xDv8Ge7swsaLpUdwFJpxe/sLEpcTrICHSHOCIuyb7tc9Tz6HaoLp9XJB9Nav1iQ0gAA
+lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAAAQDgCdASpkAEMAP1mawFiyLC8juLOd+kArCWMAzCApnDJz5GntnJkjzSGL5FZTE4hyq6K4RZhyqg7m5Gj6/NSdjrw/NVt0UInM8cfx210uqbOhZJiPt70FUhjbsZZT0G7Yy0CDdt9b4cwJETSWHX6tC2YgkAgNGvTgAK5eG7G6b2bEK002RpsfZuEhLaYm3KLJQJ8vLZvoXW9uPPIvniHi+Mku3Xtd0FmCpLcgBJrSOQvVdYia0Win6dPxy0H6RfBTO9cZ2qy9Ywb6xlhZBICXowvqS0UQoqDLeb5aeQmdStEPiC5D0h6nZE7gdbNPcWyRr9MRJ8ZUfpSGejuB5lE+9Ab4+7sR2I89PItH3zMznL/9t2IOgOPpvuR29Nf8Te+T7uMfrO/oyCHocS2pevMRr8tNL3W4QRFcYxdbC+ddVK8p7Em5AjCXAgvfcVUSSqs8gJJzE4Y2p1s+7Ia7yfGF1w/gIbkBhaflX50Y6AA=
 ---
 
 Elephants have to eat 5% of their body weight every day and so sleep for only 4-5 hours a day. They can drink up to 200 litres in one drinking session!

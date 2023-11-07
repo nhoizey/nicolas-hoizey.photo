@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Africa
   - Afrique
@@ -76,9 +79,9 @@ colors:
   darkVibrant: 83 68 49
   lightVibrant: 206 190 172
   muted: 129 138 114
-  darkMuted: 52 84 54
+  darkMuted: 52 84 55
   lightMuted: 207 192 174
-lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAADwDQCdASpkAEMAP2GkvliyrbUlNBi7sqAsCWUAzU3dA3BNQSqFqTjugYrzSGZe7mJUi6Ey6wfiBt134ZA8G7Q8vC2y5GX0viAHKj861vf5JnX3rMwIPTUNhj1hVbI9diQGhL4yWQuZawtLR+j5B9o1UG2PAJ/sWAAA/rdZR5k6faCbWwI2RHj2F+xc+uGKR5bUXisYt2tYvrL2yvQdEG79EOPXWRHPbeaaWwcJUv2/wwl005U/rD98FQHKMP79aAicbEfW7QKimWtb4uZc/ZGGcxT4VqW99LGtnDJ/H+ArSinBBHW9hLbxZtHmrFzRrRBf5hz2PCXmcNr+X6rcyu99zqRMHi27JkRDQKfRxnKKxmzsM5ToSV0ao/HuAcZvecd19swjmqwU376GUfoYY0QU/92eUUS/EYIWWbICjCmmovIvunUg2TSllnfJLOSmEXwMTXjDRjlgAAAA
+lqip: data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAACwDQCdASpkAEMAP12gvFiyrTsjtRsbU2AriWUtgBsgDO70cMzR5xB1bx61ouLqab0NmGusEc4ERrQslxO4Fgc+mRpnm4Mvu4zIvT5cGW5oGnVOK5SHcqEteoggemv3blriCkr5RtukOBJmiAWMMBreBII2Z1kwANcz+frHwbI0wESFs1UelwtAoE0l9FxX3nfKSAJpUeIKNk0vlLltAm4oYapuZLXs8owCMcvBYVoJODUGZn9pgRZIH6DIodaPNgSzOTWbmRSCtCyoSkpACW0zzgNIY1kcVvAI2D7gI0M9/0pVtSUk7ugfym2haA43M69gFrqkGJttWKhXvieVNGaEIFm2yzJCCEh37ecx41OBwfryjYNk9I1Ynx5Q/uCfPVWfkOUsGKEJEggbO0ZZfC3BQUuTcF7C46w4a+yvyTq7vQgzcKajC0GFMXC+uiXNDnZO6NrdHDID/ewAAAA=
 ---
 
 

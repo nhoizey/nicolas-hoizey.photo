@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    short: Konica KD-400Z
 tags:
   - Africa
   - Afrique
@@ -62,12 +63,12 @@ geo:
   city: Al Qusir
 colors:
   vibrant: 173 125 78
-  darkVibrant: 112 56 25
+  darkVibrant: 113 56 25
   lightVibrant: 234 186 137
-  muted: 168 123 98
+  muted: 167 123 98
   darkMuted: 51 60 75
   lightMuted: 205 184 173
-lqip: data:image/webp;base64,UklGRvYBAABXRUJQVlA4IOoBAACQEQCdASpkAEoAP2GaxFiyq7ijtRZNUxAsCUAY/Id33M2DmpanfGHXejH2QC3n2/XiixE8zZvHO/oVWCLKtf3/aZ+5jHmttNrYzhExcX4OxsCWJkzD5QH0hLRlINBJ9GcpmaE1ejVZcCPJ1QI6O4yAOmCvyICvB+N7hdo4ilxLMcsUiqhJTNOlcwOeavbFd2oExEV/nAD+6PEPeRsizsMIEDI13cxGbW3P279XI+YHJNETHYDms4kSzX5hSQLtGa6NTh6BR9qdF6GFIu+en7UIWkPWPBh/sMlVktZ1jGVaPeA3DyFmJbLwi6vwS6kZuAHBR6uG8lqSzIL6ks1gt3paP8EU6nFjBHMFOZ8vghRzd5orY4O/p5G8unAoMR+vsA2NnNrFSoQTOSARi6ATdM1FIRlDt1ySHifW/7QiwndjhLHGb+tJLgWyDwfYfXcZvnWd99TP63d/aDa8EuDuYC4uKADJh86zc3oQR70MJv+YWTfd87BOpRGvthGPSTr/kQFGTAcBxO6LRgTgqKqF5ZTC83Xy8wdcys3lstGgLydkqhYH7zXk/uRrYSFNr88UT1jXz05V9kLwkUJ6PVxkRnIxAGvm4WSRF3xtWUztV5lViKf0PvhwCtv/EAfu08DGhyStM8/nzhZB5QAA
+lqip: data:image/webp;base64,UklGRgQCAABXRUJQVlA4IPgBAACQEACdASpkAEoAP2GaxFiyq7CjtRWdUlAsCUAZGocv2Kf5D88xiwgwP/I2qVRJdlVvmP1hL/O6u/m7lykpGkuagj46XqQcpyXdSrzawCDx57jtQclkvWpsxJeZdEPpnUUldGLWPu/pFD9cUl+sw+Lt/LWIZ+uBdt3edR1St+FP9KIslgRFZGl5lv0kYAAA/ujxD3kbIs7DCBAyNd3NRowJdk7S1EuTI6lRVXGxC7cEArFU28dVMvQ19R141u5GQMd/9cYqk4MmlOpcRCtslbd56XMpEOzK1D1o1A9XU5XXqq5nJ8XbCjGAm7idJlnlx+9zjwempnJfz2DY0aGrLXXlXvvxV9uIEh5zKqOPTdxahd0EjDnTTK099TvR6PPWKlrFu7x7R0gAD2M5vt8XwMfje2TiObJfHhY5GytqECwlzggXpLT6TRG3P1yo+qH+CVwupLoMA2+xoD0wLZrXXQCXSJJGQeoq4hojOIZApLZ+uI1s00fhUT5J1ZC+iaGNwBkcEWqWjC3FxOTvnpYn78GMysrq5Bv3a2ykuCJ1z3X0aytl9txbTMNALek9hhxyklh1Z4spIZIkdvgkLxVbLmy11mlGRjhGR8OrDehXJ0VE7zWBlPPDRDy4xnTHyteedE6BZD4V7aQBq9ImBeK8bJqlOs1uMW4wUAA=
 ---
 
 The Bedouin, Beduin or Bedu (Arabic: بَدْو‎) are nomadic Arab tribes who have historically inhabited the desert regions in the Levant, the Arabian Peninsula, Iraq, and North Africa. The English word bedouin comes from the Arabic badawī, which means "desert dweller", and is traditionally contrasted with ḥāḍir, the term for sedentary people.

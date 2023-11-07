@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - 1:87
   - 1/87
@@ -71,7 +73,7 @@ colors:
   darkVibrant: 150 8 26
   lightVibrant: 228 69 76
   muted: 168 99 132
-  darkMuted: 44 38 81
+  darkMuted: 44 38 82
   lightMuted: 199 157 187
 lqip: data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAADQCwCdASpkAEMAP22mw1i0tiejsls5EsAtiWQAynga9yOQ3QA/k1nu47/ESf4qRZWvRhU/wZkiP0ALROhcXvTYmrDOJ5IFh6Um2MHDh+xC5BBrQc988G5aMG2MCpClSjiqIJE9qMoQAP4NpaSTt/jYIg5EL+R2EEuEmAww3Z8PrDs0gkbHpiWrEGTEeiOevhewnmmo8OuG29jNtoYZZHel0BjbRy22fyPF0Mdw2QPfGGWXd+r/oFqhoYWBb/5+6t0TbrGVrNAmZZWMlRWrpnTUyiua6mb/YazSHX9dtDUyVaqNoPhNxDMcnNpJwBaYEAHl7aQ3jKkrbbyYhYknEE3oOB9qN5zIHN5louN/+U3xCTCWiUrr2lSjlWogUxSNuv+BGm2lLeDtrDzH+A8DEFrAu/XlyAAA
 ---

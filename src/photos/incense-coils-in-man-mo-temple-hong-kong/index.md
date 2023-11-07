@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 5D Mark II
+    short: Canon 5D Mark II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
+      short: Canon 24-70mm
 tags:
   - Asia
   - Asie
@@ -67,10 +69,10 @@ geo:
   country: Hong Kong
   city: Tai Ping Shan
 colors:
-  vibrant: 225 206 45
-  darkVibrant: 106 18 18
+  vibrant: 226 205 47
+  darkVibrant: 106 19 18
   lightVibrant: 239 178 107
-  muted: 88 109 152
+  muted: 176 99 88
   darkMuted: 50 59 87
   lightMuted: 172 189 214
 lqip: data:image/webp;base64,UklGRtIBAABXRUJQVlA4IMYBAADQEACdASpkAEMAP3Gkx1m0rCgqrbd8YpAuCUAZZYpFfCynJFvUNeYtxImFt7LFEcx15u8jKWIti1zTe/imLISgbaNJK88OpEqfwy6iCHLT51XsiKc9qpFIJIkue9afGDDyoRxVpJ24DdZ23VFTnPEWENhfhZrMtMlMIK0V4sEVHQysPnI3TXcoOkWm2sXl2AD+7oL5ZEihp3RQNwfxca7wbiue6WaUnrHymH0pA6YayEL9PlBnu+uwrZgduJelHbAxXxVFLGqXkgMT96/8GjGn2YyEor6BmDYpdfPi1R+Gku0rpdn79QMDY6DymcXu9tp8AzGKXDb9OwndtVODqUZvxTymCqzDVUtXYZSADpY5zH5n4bFASyN+fJJAewFddXeWWQAvbTflb5z4imrrAVgVG6oYhghblZFx5rDcNpdvSf7yMcFtN86h6c48SuoKeXevpbgMrK58SvMeyWsFzkTaZSUKeZCnEfGrrg4beSVyN07W//dUYUXfU5+8G8Slj7FF3hH5qx2lJBoTQfhbmj0fjKN9ZrduHRAnH2u5pC1mwFE96Eid1ZwvznaAMMPHVmEwj+kVQclCSzPuvvnGCaqz9BvsAAAA

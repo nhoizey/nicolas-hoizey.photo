@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -59,10 +61,10 @@ colors:
   vibrant: 113 155 189
   darkVibrant: 92 44 12
   lightVibrant: 164 191 213
-  muted: 151 116 88
-  darkMuted: 106 82 59
-  lightMuted: 155 176 191
-lqip: data:image/webp;base64,UklGRpIBAABXRUJQVlA4IIYBAADwDgCdASpkAEMAP2WcvVizK7SvNfdbopAsiU1/y1nUWjt/sy0bY6q/8PXPJ5Zvsif/m6htu/YfpLJ1Z+uHWzrAWR2nHIu2Gq7bio5d9Va4PDi0PF8nwvyAGCZq2bFN/Hnbg4lhXrDpPwrbQijojWd6WxGtVKmj8jf1w7iDKvpXAAD+7RIeQNvGYNgwy/oEF62dbwqzb106X0VBWOr8l5JOx8TkHipVwy0Qy7wZ2ait2ETfHXSk/avV5DriWVtGcVMTuO1JMCegJLRg3/MQpcqrwBFR9afwDNv2ys4DcrdGz1pUiYJjGjSroBN7wNfLnkG1fJl8QzisClA3i4Tful8pOzTHYgvaUwQ9LukVEzWTYiEubeyjwdEqy/fY3jkbWzxe4dVAm6Bcdf5IfNoDhnbXoswanPvUvfHDoLLJ/Me6d+1wIqeaK1LF/MM3QQgsvYJFJG4jlntihzEFBIJd4nYbAdRryeIWWQtn3ci1fvacdVixP92lPHzx4Mx4FeJLXPQThBUAAAA=
+  muted: 93 118 140
+  darkMuted: 70 58 36
+  lightMuted: 136 168 192
+lqip: data:image/webp;base64,UklGRpABAABXRUJQVlA4IIQBAAAwDwCdASpkAEMAP2WcvVizK6YvNfdbomAsiU2RS0ZQLqg9RzIyDIhX+ZinbkT4+rXEPWPHGcIHzGvz91w0LbVjYG5wMT82hbWKDwPORhfS9R95uWPLXF6GDVucIUJ6P8um0gxtgytWHXF/UoJT2gRNOfnigrXDqj/Yt2Oq6QDsWZMQAP7tEh5Bb9GWhSJQmpusiXZMfLVTsN0UmpGPWCNQHz6wJyQdkufMBVz2ly+wXnz8OS35rkJuxzV6K4awSyto8b6DuR7U8ZFiF2sOcFMI+qAZuriiNIDi0/jYnzWb128uBsUBTqu7jC7nojWPSkWkKi2/XNumXwd/WP0OXfXcYsALkns+ARz89hEUxRZpHfKgBJ/AOk8/lceDCHO9bwCEPWVfXeb37QALwuYzYC47h6+U/oSS9T7D1IgOOoZT7IYYLa2lA9aRdL/n22F+ZwyK2pMU1kA1N8ooEj0xUsZCNgv4aFc1fZXMvLxtdvdnY/L7fnlf4vAfqRtm4MO8dlHsZ2AA
 ---
 
 We have been fortunate enough to visit an actual Maasai village with the son of the village's chef, an incredible experience.

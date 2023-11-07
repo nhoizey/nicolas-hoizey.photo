@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Abanotubani
   - bath district
@@ -65,7 +67,7 @@ colors:
   muted: 137 160 79
   darkMuted: 78 97 53
   lightMuted: 187 185 161
-lqip: data:image/webp;base64,UklGRjICAABXRUJQVlA4ICYCAADwEgCdASpkAEMAP2WixlizLSgjtBRrsmAsiUAaA07iGHY3VL4SpIV3mPvx0hk0JcNIZOGaSXELiC+LT1xs5acOMlLqHuPWR/wlJg4HRwQf3/BWq4LyEOZGTpxfvyVpeHjexFx8cVQ/iNenL/61UksCU0r5aIOy/mVlp15lVOgZZzzZK/0mdYqnEchp4ThR6PUl+YcTE6+7g+1DN5D6b8FAAPx3BNq7K+mCz4E/2msqyG+JMDmtFX9E7yTkHb4OoeW4OHi/LWjhSVhH6qson5Ut0T6gad50S3vuJF9HM5N8QuD6hk6n8WUwBvgguFsgzNhxmU/0TECotXx3Q836/MoBXjkKRWQg5O/vUDPZ4POd1Gy6YayaZYT8fXq4uW89lGO/CjMmH6YUSi0iBp7cQdSqgEAoJ66R1d7EfWWne7C66K6VU300Dd9XXZKw256lsXWTybEWfyTc4kZTUqJEPlGWX9TEzoszyoqG2tBLfdjb46KrA2JtNsHY3c4nJLWKf/FOaG5f36jTjho6MSgSRw19QUapMxPytelTAi5xEI+TtBCYrMmsnn8kz9EHPSIU13cmU0B6c+BDz2X/CWwAV4fHGSwVuVvnSpq+KqKASNmQzouatOgIUjB20oDrEh62szEXyTQwQkIIgS4QqO5/LR0TsfoGwpFadpMzfBD8Re8bB1tq9nWAeLhsLrFtQvEA0CtqWEcCs99yWPNGCKhzLy5WsO7/z4AA
+lqip: data:image/webp;base64,UklGRi4CAABXRUJQVlA4ICICAABQEgCdASpkAEMAP2WixlizLSijtBUbsmAsiUAaIQVJeZYD7TVXesuol660hZXJUdk4ZpLSiiVKKptDaUWPZKEdp85LBXcuSuR4UMugITKu326KjRfmS3cNZili259KF3evvJioVjdF5dhBXw8QcX5OyKLLlqXthsOAlX7rF/nyOLA9Ad0Ly60dozDSvVUmaGwhh/MTJqROrEkXQAD8dwTauyvpgs+BP9prKshvSPlyR3wJ66XKWEdijFn2QlcQjxV1MOQnUftI3st3WH3JBFFZP6Lz8MvxNKoMiX+xm0bxGCXACgX+ixi+2QXawuA4umecclUeF93XMe5s7wVXfEJklJA9pt2gcPkEJ2oLzgX6lI/9xRvAlTl30dtRGJh+mFEotEVW6CyPrtW2rJtZkCmjaZiFRD3swz/+j6gk+BYs7J3/HTAsIJNExlVOijGbM2VKf4+/AM5RodtO1Nh6BeXLrfIDu/pfG0ahYyYNE0IzJLoA0L9z3y34+g3rRWQ96DgGDNbtfvQCSJKGhTaNWQ9xHghZgNUVGxt30OV6dMeJhb4qCPc7gvT/VZb8pcW7hIKYnnsve/B2IVGABzGqZYcqlT5Q756YxSdpWkvH2eidpVO/Q/x0aiZrZhQArCMx0CLybJx0RB7qw4l0lz6wkoFMojTwx7joLf5mM+g6CLWATmb7RmVJpihrkouC0QY4mrcPHSo9KB0Nth/xwMX8xxAAAAA=
 ---
 
 Tbilisi’s baths are very different to those in Istanbul, Budapest, or anywhere else.

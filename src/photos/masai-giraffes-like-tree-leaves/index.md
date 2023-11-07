@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -76,13 +79,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 185 152 104
-  darkVibrant: 94 103 34
+  vibrant: 185 152 103
+  darkVibrant: 93 101 34
   lightVibrant: 244 214 164
   muted: 171 145 90
-  darkMuted: 91 93 50
-  lightMuted: 185 172 134
-lqip: data:image/webp;base64,UklGRqYBAABXRUJQVlA4IJoBAADwDgCdASpkAEMAP3GkxFi0rLCqMzPbapAuCWMAyrdQkmD9UYYx+zZ9/9Z3EBNJjmBw7+JOLNSBgRbkKQf3mNw0ycGIo313PyAnxNngylh1fxmahN4cGGH6sIEjRgHiK00Zv+yq/xyIgM7Wb966Dg6Ksw/7CnYrIT3Cn0PwE4TxeAD8Tt1+Rs6ms8F6Ih1n4oTERxiPD4LsBbPRFg4vMOtSBX65MlNFsMpYemVAc8caebYextitdV22jMxn06gIdyAATVMZwUFyVDtqoqZxu2T6eF/q/BP4zm1mbYISHo488MKRVfufu9V8oYhF3Wc3M0lq/i2kjUaN0wMAGUxGSem9MLJPIt7FnEgFoRoWZSI+t3up/lxsGdKI4OBItS/zF6Xexdp+w9nK1nIR7wclIV4zjGJaz0CZXsrhMp1FfiyrHn41ZP8138TqNiIE7KBQA/Ah0O4fm4KEISgPFBWQgNPSssXL/LgPYoPitGlmvrHuH8Xnc9GI+7a2Vj2t3XtLmPUJedQ2bjCCfnzVf0oE+6pIjr7RqMzoN6oAAA==
+  darkMuted: 92 92 50
+  lightMuted: 186 172 134
+lqip: data:image/webp;base64,UklGRqABAABXRUJQVlA4IJQBAABwDgCdASpkAEMAP3GkxVi0rLElMzPa2pAuCWMAzB9RgmFkV9p0k8KsNrBMVblGX72CJxwM/YYlLw3fu1cQFE7xnIsBCCSopgGJCKI4RaGBy0Rc1fRxG3+jQCMQzHs8B3bYcyd8WE2UlEfJLwsULXtr28OgH5xUewa8TGgAAPxO3X5G0xqIT8Q90rVkjVxypxybsBmcCjpnF5h1qhzl+HduFNu7Qe920dWZ0LZDktWdktiozL/FZh4UcNwdzqDt29U8Alt1QPaNPVyntnM1NdNenH8MjT0MKFMKou5EEApbc8PJnX5YV6OhQ2xQ+flNwj9f3txAKV1Bu/emGSmkwn4e2BpysHFGIM6AcXMKpe8lgfe+evlSzYDTtJsYA2V4jO4/PhK+MYmRVbA2gJVmFVGF5iGFk1eC43b09cvaUPuUqaG4nUabTeygdR2gB3tIv/RSH/UoSAhGlYWc5CZ7HHbQSnIRBlbFpPXcXXFvVwTxT6ZSvFjZZRp8X8hKWNIIYMN+kZc6d5aLjP00UAgZ54BUmiwAAA==
 ---
 
 The Masai giraffe (Giraffa camelopardalis tippelskirchii), also spelled Maasai giraffe, also called Kilimanjaro giraffe, is the largest subspecies of giraffe. It is native to East Africa. The Masai giraffe can be found in central and southern Kenya and in Tanzania. It has distinctive, irregular, jagged, star-like blotches that extend to the hooves. A median forehead lump is usually present in bulls.

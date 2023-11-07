@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Africa
   - Afrique
@@ -80,11 +83,11 @@ geo:
 colors:
   vibrant: 190 117 60
   darkVibrant: 124 68 38
-  lightVibrant: 241 208 175
+  lightVibrant: 241 209 176
   muted: 155 116 92
   darkMuted: 86 65 56
   lightMuted: 196 172 180
-lqip: data:image/webp;base64,UklGRo4BAABXRUJQVlA4IIIBAABwDgCdASpkAEMAP3Gkxli0rLolMlM7u0AuCWNrlVq1bWEyNzxP6+CrAHuB4i77+7mjahyxhPr42ANgVu4DJJF3kHBVotpRDP0KV2+CSLYQpsVYA1UfoLmCB6zkAONSEPyJGbC20Rru6P3oT0+u2n4uBKHrb0559pKjz4kAAP7mH+XM64TduQ6E7VUG8C0OyI77aIwXMXEczTO/lyPmYxRKlkYD7FAYECau1QyXWRIvWUEYD4lL/jBglMczaenBsiORNAS2/LQsHvlTD7NzT3+OAcAm0rN1B9a1PVB9r0tiAO5EXu7ga7c5tf/+rfWHyJa4HiFpNn8NU7Ype3kFwy1+cfOdPzOB4vqXy6bi29omUuByzZ4zLI2CGNQxg/vOjsJMC1yZXMoi+lu0ZAr+Tcfac6VesUkq4eX3NYrb9iwQ0FGix8TId4tb3jIXjla1IQT7CRm9eQ225NWQbFsdupL8HU7K6cxc5huL5WNlMyAz7iabSuGaL1pEkw/DwsP5acAAAA==
+lqip: data:image/webp;base64,UklGRoYBAABXRUJQVlA4IHoBAAAwDQCdASpkAEMAP22kxVi0rLmlMzPbazAtiWNqfVpLbQFKfq7vAzOlvyZInJkTylazgS1/MoLCTMleppLB5z1QirBhGY43oJ6sV0XIB07g1qKe6E6rpRWnGAdsIEbo6hLkqF9jXgiPTnvetvGxqnPdqwwA/uYf5czquhLbyytce6IR0RW4F7pzpQel0MdBOrCAfiMK3889pajMiCpQSitA0fDmqF3QXzuh2+wyHzcQhP2lLBrAgJ7B6kGda+eNr30Le+a9zfBBkBMf8hhnGUhOopexNcy+9s5MaVM0fJo0Xkf8GTDWpFaMJiXbDe8sW4YPc8rXq6oLpUUWlCUsdbN93dF1FbpVP40lOityQ6Cd7Wyi17Gy167OvTB4N4T4p5Hffj/0pCbm4h67JQm0sg1YlLWnOv718j7uVdLx2ZIRe66SSMbnOw7UUjgvlN2KeIJF0GOv24u2V55BQbZKFK0Ql6kFx9XJAOD3DRle6PIgOkox9MJ14iwp0AA=
 ---
 
 "Baby" elephant with one of his parents, wandering in the rising sun, in Amboseli National Park, Kenya.

@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Comté de Stockholm
   - Europa
@@ -66,12 +68,12 @@ geo:
   city: Åkersberga
 colors:
   vibrant: 120 147 196
-  darkVibrant: 44 60 100
+  darkVibrant: 40 59 92
   lightVibrant: 170 187 225
   muted: 116 140 178
-  darkMuted: 49 56 74
+  darkMuted: 46 60 92
   lightMuted: 180 183 198
-lqip: data:image/webp;base64,UklGRsoBAABXRUJQVlA4IL4BAACwEACdASpkAEMAP2WewFizPyejszVeQ+AsiWVrclp7oWPmiEw5gSw6SXOYRLS2s2b75fVBfSbDzi0JAXOpcG55+LY3Wp/ChM4w+oZBsk0Z8NY6wO11KH/rbxaJNV7Y7Sg27Lq3Xz5D+Xdg76L5gOPbhNp4q5Waw7nmY7O13HnJLHGlQB0WIQv5XyHQmKIAAECmWPxpCUxFNBe4R4ILhzbmWTSlPBUttThH45I4rhX9m/eeIpcVBTSwl7ZJeLQR7fbl5+xZlors/u0DET8OPDmnrrygjbLfMaojQC7MAMO44+MyM5wNTiqexKEMlC3yc+5iJ8K8rDeZkFkBxeDTdVNaPQ2yneqwgoeKnNQJDabH8RQ0oAqYlhqyfUd+WzgihO69BxIdb3KCMx0K0FGN0FEoFmbeKsl083qhowURV+0YqlG29fWMghRAW6PaBdU0W47yrqncYyc5+ZwP+ECeOiFF0RlPLc1lhJZZrloz6WfYqZBoHypRtOoofdDQFIvoVf+dgI2IcUJ5vsWpcJI/kNSQqMDmqvydjOi7w0YZawSZ8Mh7oSAmwl5KcXlipqUjzoZF4gcc6Hya4kFGNIAAAA==
+lqip: data:image/webp;base64,UklGRsIBAABXRUJQVlA4ILYBAAAQEQCdASpkAEMAP2mgwliztSejsVUeeqAtCWUAyrdPeVtpblly8i8YT1AA2hndITmD9e1sQDMSadlkRc3vASy/avDl+tDXIVNq+9VHt9Clg6g+E/S1togOYeIOxXXLhMn/VTn5zaVeyZhkuexzVe/g5Wr1nsiXWNgxnRm019cX0iqS4WBE1Noc3/DGGoniJbKAAECmWPxpCOwP49PwVYtUStj1aC/ieL/+qkz9iKbLjEU3TTtFk8Ed2gaGH7M12/RNxdI9x5tNC+r8j0Q0PZEXlo0ET+oiV93fS+3lTlk6axaj2If3oX+I82TNVGHTSOL05rot6Xahl/+FNW2qSbhw+6THvbZhVM5Vyc83UKTLfv84M1+3buQ+FC9NuR4cQfXF6s5hUVuYuBYVQmtMOy+DgG+gIK8QHegtP5+JFFTvGDNmnlSULB42VRBRugC9hosDe45AbjD4EqBr/kCLe4aJ9Hghz7nIH3Kui3g11w+exgfAvqAje3vE7Qkg+UqxBB/DWnIt/IgfK1zOHm8PR34U1XU+GpmeAWJueYZFHoQ4Uh6GgjnMbmEfQcVtqpNez8dxd7oggAA=
 ---
 
 It's not every day that you see the sea freezing. Here, it was in Sweden, a little north of Stockholm.

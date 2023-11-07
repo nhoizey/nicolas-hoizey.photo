@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -57,12 +59,12 @@ geo:
   city: Maasai Mara National Reserve
 colors:
   vibrant: 210 147 16
-  darkVibrant: 39 34 12
-  lightVibrant: 128 192 244
+  darkVibrant: 158 97 29
+  lightVibrant: 125 190 239
   muted: 167 135 101
-  darkMuted: 88 75 54
-  lightMuted: 206 178 161
-lqip: data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAAAwDwCdASpkAEMAP3GoyFk0v6ilMlJqq/AuCUAZgp06IEgo8xc8R1y6OPZHwO/kGmK2hyoRcvrQ7ZyuKUNdBLcT1D/WDnbR4k7Sb06vUk6nN4VVrcEdzHXu+BKMlkT/21OdOXv+hvL0n1Hea25oK70yD4uhCVgatc+q8Fb4SE2bKKQAAP7jpFJdWrLQVh3taD57SqGFDHhzMfxcbaXrnnleevO266I0c+BR9ErxaseZiQIt88MeNWAhdmIVPtZ5K/MOH+BsHSp1YWJTou3bTAb5etdH1bvoZUaGFfbmtpnPZE7sPZLTDESNd9ivN54BCtyvmbPksR+MxPkLU1b9U0jK6QTUcJZxHdM281j+1+/HB5M4D3idLszBVe+mkvxYyjxTBByWskoi0o6tDOgRM3VopgL8ANUEMo5oOcaMkHti+c6jN2ziALg1xWgT+SWz6MIY8OhV0NpKcpec2Dh/l9MDNjX3RjSatFZ2olA/XvAEXAy2JFM9rzIVn0/9wvNLitgRB4outnjiAAAA
+  darkMuted: 89 68 54
+  lightMuted: 207 178 161
+lqip: data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAACQDwCdASpkAEMAP22ox1i0v6ilMlM6q/AtiUAZYff0FrAyH0m2wZyGmodWrzGyWGm7sCWI0Sl0NVYS4QO4XPTE5x1ppqP4ymqjcTk8NiEucoqk0cUAJ2bUmErh+5X73RNTUlj7WKRVhec4rz2spVIhy3y6VPfErGIwoGeI+f4+scG9q94AAP7jpFJdWVemwP7DCJwtwYxvMEEFd5vUIXd4ufF69TlYikDyKVsS7wUhZmSYNYUKTrYajTlhC7MRIM2QHyo3Tp1tuXsPIAr3g/W4GwTI/T1wJI08u0U+Ws5ffFgqIqCpkW7dH9XL1ZrwXunIyH9sVnrDV4DQn+4HmlfHQ/2cKjTzSs6fjOtSaxkBTjLjDN0mUnXEs+IGjGstdTO3ORdsh/2CF2Qkw2orbY9kpp3Dikli2FtdsoaA3jKQJTZ9DFm/orPzT5VF8IweeSuWfMNVNnUM6z0Q7Po1AHZVKZpc3shb2pPdpF4FrXjESgEFeGK5hz402G4qAkKf3QpTK8AF9kMoEAAA
 ---
 
 

@@ -10,9 +10,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Draveil
   - eau
@@ -64,13 +66,13 @@ geo:
   country: France
   city: Draveil
 colors:
-  vibrant: 196 131 108
+  vibrant: 196 130 108
   darkVibrant: 34 47 84
   lightVibrant: 236 164 172
-  muted: 108 172 172
+  muted: 113 121 127
   darkMuted: 68 57 56
-  lightMuted: 176 197 209
-lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAACQEQCdASpkAEMAP2maw1izqz+lNBUeI/AtCWUAzy0P4YIsASpCS+YMreBxDAeWy+c8/kfdcVQQcNdM+LEw6yofKs8AVIIMf9KRuOS0FsEQpXYKckBctkOkevHuhmWgg6S8rdz8Ka1b5K3ZIQEuCyFWxYmAYQNrYXTJyjtrosEbJXXyC6Wj3A657EjNJdv9onjjLcpAAAD3QbJJak1Y7AAaNVCyyJ9rjLz9LAHCzQyM8Zo8ne/5C5UgIscYNs9IrcjFV4s3XyJBKQc2VtHdxn6v6LZ8jfApiMsg8q706YL2XWDaLus/bsJZ60OiNrWlaWEo7H4PfFVjX/b07SNP6HEz1wrZPRL8rNNGOvw/P5qy/LORuaYDrG3nHljKuJsi/+x3zRvCkk0CUppS/tLZx1Pom6z3ACg5m9ZaWFlmYfo7lFB+oK4RBYkjKR/GekMqaplTJPd92GIozho9inaOuNZ9qp6xIMuCTENsCsF6baYKQWWpcq3A42vZNlAGZx+SmlHlfivyadXtQo5HfJrLaUAoIvTbs9MeEh+4N93h1gGDpjkzYy3cugAA
+  lightMuted: 180 196 207
+lqip: data:image/webp;base64,UklGRrIBAABXRUJQVlA4IKYBAABwEQCdASpkAEMAP2mYwlizqq+lNRTt+nAtCWUAz2kP4ZCTwUoRuHcvxtZ3OBe4a+66M0IQ6qJLqS2bJEtjDEKaLvNaL4Nl0baSOWkqSlGMmfUUR+x0iVyiUTs9ZAQyhaEFUwApnWe1v8STnhEExodUAqVuDjQUnT+sDKBjOXIu9yshUh+IxKjjbEbZ+e8YIo55qfpIAPdBsklqTVjsABo1ULLIn2uMzP0sAcLNDIzxmjyd7/kPlSAixxiqEQ3cON+DTP3GivR+qTPw0f+DQGPjJ7YIR9PqTPsjMAW9TNrtKn18TaCRfM4tydK0hBSk4Yfd/Ci33lvNUW5Rnpa3Mmdj8jeOnrm8rgfmyKGYLLKkRDFC6scUhdJCykEXJCz2iiOo8D9vHQ1P8gA6sGUZ4/fHQSGcMcyPMNIErdNx591GizAYSP4z0hJ7EbYCiOKx+9pRsyfQSAfG/j1ogO51mSPFAdZewiUHFs3sbz8tiFP2AhIBQ8cT4QfIFISuixCz1n4bhGZgdqmn/CBj1hiL08ecutQkU3AdXwLT5eWkcJIcy2xaBSoAAA==
 ---
 
 

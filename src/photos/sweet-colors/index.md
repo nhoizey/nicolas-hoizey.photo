@@ -11,9 +11,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
+      short: Fuji 80mm Macro
 tags:
   - 1:87
   - 1/87
@@ -75,9 +77,9 @@ colors:
   darkVibrant: 13 126 183
   lightVibrant: 222 160 139
   muted: 165 108 116
-  darkMuted: 50 39 36
+  darkMuted: 49 39 36
   lightMuted: 236 220 228
-lqip: data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAAAwDACdASpkAEMAP3GuzV60raolKhdJqpAuCWIA1IAzgyUBe9xBdEzVoOU0UJdpwiwADzZU2rYMt3rGu5cSg+X6S0rIZvYafCHrgnxaWEctPmP3+0DNhTv+AqjRuisVoNzX30zK9UYXUPnAAP7uaj/nT5XXuVw28NfZ+UvR458lizSn3D91pTxmoiCdaC/rBpCTnHMnwaYO9JtMa3ooA4ky+EtI51Mv3aqS1dc0fiMCr9IdwTqZYJi5C6Ky11iCXB/tgjUtIDVQdguMz3hTEFmWy+nnYG2wGr5iTZ4moiacUzo1jvvfVEh8D5uz8Xb2Bs6O+/KFV0LoT+xTZtxey+BnJFFJIwHCZpYxkgCEFwSxKPItTDzcfhAA
+lqip: data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAABQDACdASpkAEMAP3GuzV60raolKhdJqpAuCWIA1AhAAyUBe9xBdEzVoOU0UJdpwiwADzZU2rYMt3rGu5cSg+X6S0rIZvYafCHrgnxaWEctPmP3+0DNmq56drVlg8dzEcw/tR52YQmueatPQAD+7mo450+V17lDme5amkiog2nVdYr5EjYP4ob2S0tMXOp/3l3nal5zo1i/MAQAnCj/vXopvMClokvczUobs1mczJigNf5Wl+X+6phDrHCbpQEzVD9RiCyDQHvz8k2lxfE7LhHjkDcuJs3hzdWxRgxzl42A37eC4gSNRNKFtk2Bkx5w4R97eDcDlB2bhOfg2bCsT0AZTfiCSMBzmVieW+kNU8W1SAHqXQKjtjCAAAA=
 ---
 
 Did you really think that candies were colored as soon as they were made?

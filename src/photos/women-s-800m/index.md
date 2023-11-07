@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
 tags:
   - athletics
   - athlétisme
@@ -61,12 +63,12 @@ geo:
   city: Montgeron
 colors:
   vibrant: 19 155 192
-  darkVibrant: 111 69 8
+  darkVibrant: 125 85 7
   lightVibrant: 205 138 130
-  muted: 158 104 92
+  muted: 174 89 78
   darkMuted: 80 46 42
   lightMuted: 199 197 198
-lqip: data:image/webp;base64,UklGRkYCAABXRUJQVlA4IDoCAAAQEwCdASpkAEMAP22iwVi0rKcjtBRrspAtiWoAxrDp0NSy1l7QUscNEih63SdhwuK21IgtC3VA71fokqSWvx4OWpiKLhqAPH7dEwvBJ+yKHQq4bQQR0kwmkJ6TPc1aPvoej9wucOmMjRIYuIR9hoHY7APVbGalEuH1B0SZQYzOCmHPkVWuw6uEYvfLJM455dtOVikiav5rD0dyhgNBC/E1gAD72Py5jxI727DdEQ4ng3XY94SHqi5ztR0aN+7QFUQ4P3PvR42POs38xYgCO6QvytTbzKHJIzVYkev4C2dWlwBHQTQR2hknjEaJdKQr8u59J/3xTSD4WENphKqc+DD4qy9+lhZfmDNSmXU0rYcfmVtraph0XUNQivjkTKm0+dnGfyNWrY2/zaecTKTq6tNt0V8RqauDTBFFQlmH5okzybDIgbAeFVCm04R5sNF9bl2ZzAxOvl9iksAefKJPHjmKPaUK7wWd5vioeUn7PSeceiVqkCJoytbESqtrDx/zaxoJnByj0CTa9I7w8NaNATUjCfcdGG3gKhWntX34oSPSDuX+7OdIvUU2F/TvJz7nT8Ji50UiHlF9urioDIjoCGDITRzQPl1mojUyBq75hQ7kl+YHFJgK7vFMq6g56kD3Gy5pj8XaAVJXm3POcxSolfVZc3jzrfhlX9bkC6cekYa5czdFwseVfWzKKOQwQoJy7kso3HTr8LWYjIckHURw8PKKGB8ATwPKcM3HgZ20UFALVyHa7asEiwKAAAA=
+lqip: data:image/webp;base64,UklGRlICAABXRUJQVlA4IEYCAAAwEgCdASpkAEMAP22iwVi0rKcjtBRrspAtiWoAxyjbkNEy1l7QUscNHr9l6qznxqO2FRsizX0NUDvV+iSpJa/Hg5amIouFc5QLakTPC6gMHRKwA21lBKcb8E4e8EydAtT5TKkqq924eNshk7fGkVSiijedNIJh0SZPgq4p5Ris2zkHtlDIG0Vp+9k+KUyR6M5EKvQDy5dQUAyAAPvY/LmPEjvbsN0RDCeDddj2QPBsrJ1UowyiBg7VvIgoG/JUPq/vj7Ge90Yssc1d7auqxuNNXoR+PISfxxKzqUvOF2Zh203waEyh31QhLMYDTrclRUeepA99ecRQyY0BZfzI9MMDhjFg4MitETldtVr9m0wYyfzYbfv0T04DjXGLkUJIl+GMPe4uRE0W+ZUdMjFTsSL+7VfpO0A6yOavjtK/UTUTJC+r+3eCqzxUCyhP5oxa7uqramh5P98uom/HyJ2MTNs48l+zLcyV3RY+vJLf34bsVJCWqvjfRX8BvxvWQ7HJzF+s4BSagKFUoYasesX79ucdfZ+WePG3Ww2vE0p04xy68OYLazHh7nlGxFgrxPvOxiaC7Zj8Yf4w/9IJT7k2jpNx/vWReefAUqWJ7odFoL2FknynBti2A931D0GUvk6jks2HTagfl0jeA5W9pfKc9MOnlKPcMAsgtFYxq4oGJOY/CvkwfMFmC3AvFcUob8rR/uEvSSN7NPWskb2atVbJLe2PcyZrUyR2WAO2GAyidzAIkG8NPV3kaZFs4iuTO60KM/b6uu4AAAA=
 ---
 
 Photo taken during the 34th Elite International Track and Field Meeting in Montgeron-Essonne, France, Sunday, May 13, 2018

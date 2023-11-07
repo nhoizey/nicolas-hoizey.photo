@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Canon
     model: EOS 350D
+    short: Canon 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
+      short: Canon 17-85mm
 tags:
   - Cinema and Miniature museum
   - Europa
@@ -63,7 +65,7 @@ colors:
   muted: 141 122 106
   darkMuted: 75 52 39
   lightMuted: 207 207 203
-lqip: data:image/webp;base64,UklGRvgBAABXRUJQVlA4IOwBAADQEQCdASpkAEMAP3GewFk0qzajsVa9etAuCWYAyj9OZofKEPA63mTfKMVJJPGEHNQZjZEdrRCs23ngotBRmErUZf2XPDRmFV60GXw/evGWLN4qNpugc552al3NpUVxZBa6+LiOm6XUFKepysG58uAIeBtR/7Ff2kvFRTOdFDOPxtYLl+UNmpEH2cP2Hz6BmpGT6MXEStsAAP7sLbF9gFza/Cn1n8vh5zm9BPke/t0CftvJD+BvSUOT74NYVjE2qnUnTZiK+OiW7FrdlqotJ889ONgjr3tD1MDAE+pRJ4naijTIHjMXmlLqenwX0qn+yNj315CtkRlS+ORgd0vFgoT5BoS9wN0HdKVvBLHpXTc4uY7uxCif3ksAm3JQHFpZaKga8UdsnHDhlRDsLrkbGuFI1h2/v09qv7D2NXd7Vg775F3w3lcBtP4ACsZ2pvZorFCfD4r9gtbiJAbJnrfKNTc64pBAw8W1ClTfwveFAPaPdIyINlESMWT0c1o+LMMwf53pkwarJVkygFgKPPJ9rWaAhT3uh4qlrNBsKsf3he7YIjycw33CMjgheziSJ6Dl2bQO1rhqJoTmhXC4VyGwOpuoARKYyAezqmF8C8U+n8voihSX9qScxa6lbYEi9ti/KwyjFz5umkgsVH2cAAA=
+lqip: data:image/webp;base64,UklGRv4BAABXRUJQVlA4IPIBAADQEACdASpkAEMAP3GewFi0qyejsVa9+pAuCWZsitEA3LWfBU72s3xHCiLubiPDVVa6XRK3d6kT5xZe++V6851ffn6Y+DPDRl0I3iJaJFCRxCeO7IC4Iwf52dNGoMEjrEQoc2YRH6lFYbOeclGG5EDcooh7lMh492cSVQOBq1Dc0TPT5U9VQpfWQGoulra0AAD+7+X+T+rNcTr4f7IeMPOc3qgOjx+9tFa7z0kNJS23aDj49Nbmu5iDAU3xG5oInGin/VSTc5YqYIhp+XlkYUR7ZzktUzKo3u2kaDNcgc6Y9lHlVaD1ilV+Dt3YCft4VuMIWcUIHh8NgZ7TZhZGcdIHGdvWgIjqP8uWGFRB/uQGDhxk4RlX9b1RN/LzK/G+RoCuQ3AxK3mLtsR5plnuyDe6+A+mmbLIDB3aMlE3AZfhedNJpz9W0Rjuh6sgfxQyZGMaAgskTD19PtfXLYk72bDlzegwysT2IRBN4FCox6WYIMdZRlgaI89UCjzjFb9et4nX0Ur4yWqqyY0Q2/C6A6eNkqRtVIsS9yE6VabVThb3NokJpgiPKepa2uOvBC861+qCkgU+gmOwMRYv9o6ynkmmsw0BfRlyDjNdU6EfJBxV5ALpvj9wpRSWE1Sk2xsLw+UAsfhsQSCY6Ae22wu3SyngAAA=
 ---
 
 The Cinema and Miniature museum is located in the Presqu'île, the central part of the City of Lyon, France.

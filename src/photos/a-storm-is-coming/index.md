@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
+      short: 1.4×
 tags:
   - Africa
   - Afrique
@@ -72,13 +75,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 174 166 26
+  vibrant: 174 164 26
   darkVibrant: 18 84 132
-  lightVibrant: 214 197 123
+  lightVibrant: 214 196 123
   muted: 148 138 78
   darkMuted: 83 84 44
-  lightMuted: 204 190 154
-lqip: data:image/webp;base64,UklGRsABAABXRUJQVlA4ILQBAACwDgCdASpkAEMAP2Gev1iyrCajtfStElAsCUAZVxEBf7luQbm4o8rtUumc5fAYeTtImYPMhHV7Pv5iUA06finpvSYG9mkIbYQS4ly9/0NjqRsFcf2WWDHXc7b2DXqJZMTwIsNJ8aycKvHVMvb31FX1OUMfdqa16Cld1eLjDgAA/pxSzeGnXyf+dESmfZYQn3OidU0DV2qwHR+trX6Mvx1MuHO6iKt/dyq2xhcrzOKIV97wHsZiJ/uRcKtRTGl8w+aQ9vH5QaiEbLmW0ZXXE9MY88msVPaMXNzuQ5kOuSw196BzhHn0X6H6gFrxPCjumNxIR3Tk47QsytuBCmO6Ew6xhESFdcRNfv5LEQX2u3Tsk+RA932ngjXbIsQRV9x3LoBLjbImbuayTxRHAclN/LRYOj8wSuXWwj01MIdv6zuCW/1Es7RFfgwyq/a1f1xLwG37tQyEytUskSMI6erjz+/dpsxRVFRYhAxbjJJ7gdACGu+zvzAqptvG96yfQ3eeyjgviDbV56c4oCEiDJ7zuD9eIEhFnJ3TpIyAqpiD8oOt47H5bnUa0cH7bxw8GCysvFzqgAAA
+  lightMuted: 205 190 154
+lqip: data:image/webp;base64,UklGRsABAABXRUJQVlA4ILQBAACQDgCdASpkAEMAP2Gcvliyq6YjttR8ylAsCUWwAUPlbcZiDEDKrXybAUtxMEUOQPvNVunkWzIUcrOVJBh8doS6MVAKN2umNgiOhqCvOXLpvFnfQQ+fc8M61A+MFcN4ofe4wwhWsAhN3GN9hUCZsl94QEl0YkJFb0DI0twrAAD+5v408HhpCKWyCLcRiL8DRMBdCvc3NiFE99IgHa2tIQS4KIhFDBJUIO+3sHILuHIMYJruDteG0BF+f3G9o7vi8qiVbfIZa2eZj1ynx/vYplamBjqmpUKMwqJc8K6Lio2F6llNvrkLkD0thyCzxahybrCHftAUBif+tFzYUooNwNhM4VN0z3c70RDYjmHdFuXdMj0oqF770byWMW4f0q2gSXeOpuWrx2gMCkgwrQJmX5not1759JOfYDf2Nmf7DvNULzrrHn54R1OKFJ2JirZ/MI0LxhO9gd4yum9LrgwZi5LC0I3/M38TChnW6AvDunjbsHnDQtuFhSulXJPGyQ/VvrnRY3O3npzhRFwTVJun/rxH18HjqdOc9XINeNtdv1w+8MuDKla46Vd0OvGY8gGsEpSxGAAA
 ---
 
 Elephants may be very large animals, but they seem just as small and fragile as others when bad weather arrives with low, threatening clouds...

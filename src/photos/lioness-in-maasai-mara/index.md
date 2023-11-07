@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -75,12 +78,12 @@ geo:
   city: Maasai Mara National Reserve
 colors:
   vibrant: 180 165 71
-  darkVibrant: 103 114 22
+  darkVibrant: 104 116 22
   lightVibrant: 231 213 152
-  muted: 144 127 89
-  darkMuted: 75 93 54
-  lightMuted: 202 177 140
-lqip: data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAACQDQCdASpkAEMAP3GmzF60q7OtqTGsepAuCWMAyrgpcvU8hMlBW4i+L2RkhW0BpGBKWnKL1ys/sGTgT7VZVsGOSO+Hj9uvszxw4Ul3uwS3WqxWMz+3s2WrpqjQxcbJQPc/98Wveewy7CX5s3jYuINu0mEWmXgA/t8MpsJDYKb9kfY75vqXLnLY2QE7YlCPM1igcZG6JvYWZWvsZzekt27mWwG2Iu/6AA3wkE/D7Gy4V0j0dA/ORGTYWYm6F5zzuXgkeXrxIVJT7jtVLy7WEmudYuXNUR+yDn115b/9DCmRqg9meaMlQ5r/2phTmRFILx6Svzx1N0bZ6X8xClMcwua9/HencpJJxmV7f9HDm7jUoW0OFmpSfVHAclLq07s3u5gqv2/i8xgvY1AU0j704dc5EBm+NpSecEscIbgPP7Hmi3g8CBS0XLg7OpgSsOS86wKYnGxpApnEbi4zEgvLmsdeUrmReFQeGKOuAUUkZpJhj1VV0i74iLHYAIqu+XKJoskH9SnXZ1bQTAAA
+  muted: 144 127 90
+  darkMuted: 68 67 62
+  lightMuted: 201 177 140
+lqip: data:image/webp;base64,UklGRp4BAABXRUJQVlA4IJIBAADQDACdASpkAEMAP3GozF60q7OtqTGsepAuCWNtnF+OPKyNL1PITJQW0GbHxlpXtfxCRrY4KbmDHHkTpaafwn4actOjIHLw9YqXTVGm/pxXRJY+nb62hjruQfCg/fOaMAdw3vY0n4stlQpakKPjumAA/t8MpsDXpDlq5ag2CVVWvxFRk9jRA31sEkrzALsTUI1KHMgHpkDMXqdEXNOZqj2Hqx8yl23Tp6JbHKVRGNuhjDmrSRNUSi/lspTNv/Kf67hy0bwXBE7mQBNpOyS1xisuAT0kqiBFwupz7KY1C7RClbGZsrqltkBWVlAH09jtNpuJ9RJGO++GmwpuTv3Tx1Iy5m1OYNxqMS4ZryCvgt0DoVoEbSlVXdP/hAFDbkU6KE2LF42XMhPWLFU7YGs81t99HU/4i1Yy1gzJNWoumiUKhKs7qTwU6/c6lBpbsWB3HTkFXKTz3yDSqhdsq4ZFbn7tk0p0sAKgo5Ij6uXv7YOAN5LUr+d0/27duys7f6r3uqo7BlB5iqC5X0tSvYQfeZwAAAA=
 ---
 
 Maasai Mara is home of the largest population of African big cats, not only in Kenya but in Africa.

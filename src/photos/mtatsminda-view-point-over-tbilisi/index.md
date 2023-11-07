@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
+      short: Fuji 10-24mm
 tags:
   - Caucase
   - Caucasia
@@ -57,13 +59,13 @@ geo:
   country: Georgia
   city: Tbilisi
 colors:
-  vibrant: 193 214 41
-  darkVibrant: 47 52 10
+  vibrant: 190 215 40
+  darkVibrant: 47 53 10
   lightVibrant: 239 249 250
-  muted: 172 108 97
+  muted: 172 108 96
   darkMuted: 76 66 43
-  lightMuted: 183 204 203
-lqip: data:image/webp;base64,UklGRsYBAABXRUJQVlA4ILoBAABwEQCdASpkAEMAP22iw1i0rDAjsHR+GpAtiWUAzB9OYklx6bEaygoKNt/9Gf/VimenLZy0CicZXT+1e+uy83zAScB6K8thMquvQspZuB3IAChPhyWAE8ZCEkBpd7NXImZmAhO6+p6GP/EQjt86fbCu3SZ8oQ6seDO8YbDwC+OjSkolhmvPDC0VbuRjfnWi50psRwiQAP65kzrUC9IihZ6betyGUpUyE8E9qR+RgV2AXJeQ6OocPic5rurUv5uX5SWXeugeTW5Yk59ZgaE2U6PcOeZYQIBi3gX+TssiKMYdqsULCtnhXT1CdErAJv049ikt2S2FQh4HYZPBN/AzG2XtQDCqyK+Lgmrr70lwbkGCSUS5stiT7r/F5rrf/Xnq4VJW8jgB7TLbRshdCA8FQs0W79zWG6QXdmJtdVDQl8HbaU80RrIiEpo4K6HcZ/Pc4F+93D5bdG++nI3+5lyB4BJIBXGvbJrN2B40dQAjooTek8VaXS/My9bQEgZVu+KGkjN5lBVvw7jSaxkJN2cuf9Y4jfbI3DLm7Q+eW6u8IFxU02bbMY2l/KoB4c54ahd6AbDj7iDHOP0zgAAA
+  lightMuted: 182 202 202
+lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAADQEQCdASpkAEMAP22kw1i0rLgjr5S+MwAtiWVsIVn9aDPumCc0h5I0FGpeSOVoeXn9iKog+xZyz8GaD94fstMLUIk/PfdtxbFOpMP3fZyFXntDy+7EagdaHCGrvvDW2aPF4g4jkFYpVdrUZhiW/9Vi77WltzYeTDn8HT+Q+wR5YyQ7KyBWHTmQVm9V+bCZErFHEuNo1LoAAP64x0rVaRFJVjoZjDH9wFsFYvh1aa1cHWWDS4GLFxSLSU/rHEu8wrRRMYqcm8NbJY6h6S59YOON62MrYJYracambIfl3jVew9eY6f0U7R/WQgOks7SnR30ZjZTd/E1oS2uQ/kmcfwv0iXK0zVzBKv6iiwk2MHg7k4kLHRzq1Jzgnt7+Imy45z/TN29LYA4jlyVI70B0z+2bOM0xjbq8PUPz/8L/AdiqB7inJABUUfChJch1iQ4IPwFvI5+JYGmaoglS2XNQxghHAWpZNZ3RiuqeQRwXrVTfKmvT0jaepSXE3QvMwFJQQGgcagJrbrzJTgHmAZZfNEkvigwuYFeK3RwrD8EQp8g1Jj/heC7QxtEJbgFS8zXQMymBFQeTZDSAAA==
 ---
 
 Mtatsminda ("Holy Mountain") is the highest point in Tbilisi so it’s naturally a great place for panoramic views. The large terrace in front of Restaurant Funicular is a giant balcony over the city and the ideal place for photos.

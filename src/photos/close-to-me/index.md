@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T2
+    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
+      short: Fuji 27mm
 tags:
   - Africa
   - Afrique
@@ -69,13 +71,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 200 199 50
-  darkVibrant: 84 140 4
+  vibrant: 192 193 52
+  darkVibrant: 84 132 4
   lightVibrant: 151 194 227
-  muted: 154 153 82
-  darkMuted: 72 81 56
+  muted: 174 167 89
+  darkMuted: 72 81 55
   lightMuted: 123 161 184
-lqip: data:image/webp;base64,UklGRvABAABXRUJQVlA4IOQBAACwDwCdASpkAEMAP2GcvFiyvqWjtRprU9AsCWIAxn9RW/NT3jL//dkwIwoVavIGs6xpSH3tt8BU+8EqHeNF2z9gHORvHvE4CIo1mHW0kAIuqzOtkRclGJPryFVjZDXiyBBHw23/gjtvMUx6tGiXQfu2tOBnUyrQ9tu+diWVxtrM14SA+40BQAD+kVsiLcB/36s/BoE/Uy3j7LRj6ctLeQuySssPzgvcUlRskvrHAIIWLKWLqtbLZ4DvOXNqhmxl6IQ25uZTL+IOWhm5a1ymHI3t6EHUWW+yy90oX3MvVOm7HN9BxHAbBIW0UPCO/bRwQ+ZOsBa/835FZq7Y/mwaAbqoBpOjWMvDtdaPX63Hl24H14KwKcWHlyA0F/yZgYcXdnShv+d0iat+efRqjMMBD/NZQXps8qLWVl0E8+uz/tl0JiJ72nkKyZ9zYASYrvFgaTe93kPv3uQOhYUKB27kxoVlhuMje8NsvmAYvmF2SwX5wXBpNrIvKeFO6y4aTZ3AURp5UTAK3X1hvY5i2THMIVEBBT/yd7dkvn+cXqQ9y7A6qpGeno9IbXlzBChB1lV6Ua/sq8HKpZoI8KswTtnY3Rxno9psjz2OCb1hil12dsdcExWfJfGSAVrlWDxkKyutZrhgAAAA
+lqip: data:image/webp;base64,UklGRvIBAABXRUJQVlA4IOYBAACQEACdASpkAEMAP2WgvVizP6alNRerU/AsiWIAyJtRW5unQ47Z3WrEViGqOLzZdRPCjE5qvNXwtiswvyVttNsiEUzbaNRtoNwiO/8FEv54t9KIEUO7jxkMs7SPWWRoD8a14VFdPf6oAZFXc4Yi0Ek4pOIpD+eWAS0Pd5Xc7EhMTzN4KKlOvOogdYchBtAA/mSHl6+rEskBvGLDdYQcdyOyK5dtLJBg9avR/cXjdZdn70sPOaMRxWpByJcvS0OE0j2oJLqMfYw25uZZMdxcRhHpBmQ8hqPSX59zC8jOWHWKHcFrSQkDi/DWSeXeuzAxKIggM14TXp7BsRA7UBX4WlrUROFna6/Sh3Z98Vl1bh20netPhR7bBPlATxPOiWccyO6Qrul0RvKXaNW5Z6NoZqz+oaYk4InED61QtFqXxrY5yWH6tVqK3JE/WqLKYObdvE4TA/Ltxz1WEo6SwTE/4XeE9j23riQy3f3OUi2jtdVb2Q090+D6EPd5o9e+rDfFmgHf3SvIJyF1CLTsTYzJR4uRpVX3TgAaHk41AVnsKk+qUzdvQojLHTCCC5VIvJBnm1IveeInCygKHsQXInvySq6uKy16hnts31KQqwYCgRu39BPcaa2KXD/so47aX1EyT1raafpQAAA=
 ---
 
 Elephant mothers carry their babies for nearly two years before giving birth. Then they ensure their babies get the best food, teach their children the most useful skills and show their children how to lead the herd during hard times.

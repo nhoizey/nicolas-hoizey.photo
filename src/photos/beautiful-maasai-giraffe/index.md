@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -74,13 +77,13 @@ geo:
   country: Kenya
   city: Maasai Mara National Reserve
 colors:
-  vibrant: 173 180 17
-  darkVibrant: 114 141 8
+  vibrant: 173 179 17
+  darkVibrant: 68 124 5
   lightVibrant: 230 217 173
   muted: 191 159 123
   darkMuted: 63 73 40
   lightMuted: 131 138 151
-lqip: data:image/webp;base64,UklGRj4CAABXRUJQVlA4IDICAABQEgCdASpkAEMAP3GixVq0q6ekMHK9opAuCWIAyqzIuVSqkJtfnRe0k7bHmRqzMhGasex1d83vFt8SqF9cmsCEhfNbH0R/WQF4pHzIEj9IFiNBi+TJRZavmPe4888eSdiBWUqFkTCOq5bBcvsjdy64v/EBa/F0TdGNgdlwl6ijfznN1Amaoh+q3SYi/EERrXGe4URAnAPo1z2IAAD56mphHAiIpL5c2gqaLTPTpOTw+mYJgM/7vbYAgUwj4tlqC3fBGwqtNjYCmNuzaiytF0V5rY5CYW6moX6oF3Iq+DgfF8Inmd8yvFlFDse5cOaAUULmpjeihKvrZ5I9P+5Y5yuTFbqjVIRtc3Ne019bJKOsUdcs/5E9C8oEve4rPd14/bk5/6KCBYKw+UZGQ/vVvYHNbEdGWq+fnJpqdk+35D7QExUqujZdIqdzKmoMynHYiCJdsAuif9tCMlXyfZRqAK6PVC+2SMtbGwTX0g78b4g4r/KADDFSRrYMXTpdbF1w0IM0wVpbpfLcCfGvE6pAgVtvQe0rlcW3SZ6n5kWIqk0dq2l9NVswdtIuLvHysSTt+u32x4Rm7RDSrnop+Rd61tmhbIKaQWzlV/ALXmWd7gdt1SRJEVfWgJoPHe41XwZQM/52Ioqj+TaviX16sn+f/5K2XsHYu9S2X0Lw/7vL+GRfGB0Oja9Cykiu2GQWPlGQyCJ+vaTDsO8CbZu0KsvCz7NZQ/uY+ECLPmyJQ7p+WOdH38AA
+lqip: data:image/webp;base64,UklGRjwCAABXRUJQVlA4IDACAABQEgCdASpkAEMAP3Gkx1s0q6gkLNN+EpAuCWJnnlldly+7Mv6pDKF1JBH6N0WRVxXkcVkg1HjnIZoJbfR7a2IV5hlkaG5mH9j5/7hz9rhm/26pM8fTX24035o+s/AwVan5J7OGOZcVHKfGy4/QCzcQ//1mLHjNc+ZBN00i9CSNDdIC+ILkHaoZ2+8xzM2gH9tQ+1G4egDcL2LJuAD56w/khxYxju39b9jCDF+tI1MbMcmC9AevBkCVe9nWB/w6ZEfkJ8AvND9Bpo+okkHPUkSCK3usWdu8N3o3kUVRFt+ezgROXLMPnaCpUwLJMzmlOwefufTjf3XWGr3ZQO4GK/wlaifP7Ig1+EK4+yceEJSQhNWj/e1r1XN57CfUy5clBAJJ/5CWXS+A9QbQXZwZ672TJpfeGFoOhtJ6zk/bVv5hs6DoK0VvccvZEYERn73l6m9H9ExROmCxP7FwiS/hjVTNOvt/LezIFLow1nPvAgBVz1tBOPc5dmxjELZ0qE6tmr1IBJtIoIV0e8ZKZVWTl4Q3zEaciqp4v38xneTXmT1ZJ42doZmMAj3XYknb92fo0xZhhzQtnIt23z6h3u9BMSyl7WzrNGVW9G3H3CLBAGf/8uG4a5GTZtXTfK1YmRGK+0vi663o5x31JlypiG9h8SqX7YfUqlgDpUmnieQC0hR+iRMwCP4kYiEuwCSBzBllD24Qs7SQxfCvGgtN1d+UiUoEJgtXhdGvtxP5D8iSAAAAAA==
 ---
 
 The Masai giraffe (Giraffa camelopardalis tippelskirchii), also spelled Maasai giraffe, also called Kilimanjaro giraffe, is the largest subspecies of giraffe. It is native to East Africa. The Masai giraffe can be found in central and southern Kenya and in Tanzania. It has distinctive, irregular, jagged, star-like blotches that extend to the hooves. A median forehead lump is usually present in bulls.

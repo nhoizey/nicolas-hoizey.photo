@@ -9,11 +9,14 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
+      short: Fuji 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
+      short: 2.0×
 tags:
   - Africa
   - Afrique
@@ -68,13 +71,13 @@ geo:
   country: Kenya
   city: Amboseli National Park
 colors:
-  vibrant: 220 218 35
-  darkVibrant: 94 93 15
-  lightVibrant: 237 236 141
-  muted: 111 132 152
+  vibrant: 220 220 35
+  darkVibrant: 94 94 15
+  lightVibrant: 237 237 141
+  muted: 110 132 152
   darkMuted: 81 93 51
   lightMuted: 209 190 173
-lqip: data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABwBwCdASpkAEMAP3GszWE0rDQnpZVbUpAuCWVtxrYOCaFUz32HajOKP/Asz9xiwJbQWMM/8DR2mEBz5PVgl9gYsxU6AAD+4tRBU4itICOHygJV7ZhfaQHSxkuACwHO4lGWGDwQ5rsmoArONE3W1uc1mYHjwi/ENq5WBcR7iYouD4Z1HtMHtusFt8qlrkYlliTEnJyA3fqRWzCBG7ioFdMOniRd/5dweqJ1MeQ3rFk0Fbjsma5Aq6+1pJ2i0OSDUvxe1dpeGNzbY8ye+PlgEAAA
+lqip: data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADwBwCdASpkAEMAP3GszGE0rCmnpnSbapAuCWUDsB5tgzNPXmRdOcE/5ylcmXvMOAbsOOboO36AEzQa4Hlh3vZ04wVEtpf82rAA/uLgdmOW7GtXiRSq69tXROBWf+LmP/cuuPufS9YeX29d/MCKiF+V6lGQT9zquRjPgUjt9tl66M/tnNezfGMGcRNmqvQ8kLqmXyGM3gZDrkdhQXkBdhSKuW/pytq3Zy6FPBpfVFj3ox+yGFBAKQXI43cEVBQQXu6AH8sVIAA=
 ---
 
 The saddle-billed stork, or saddlebill (Ephippiorhynchus senegalensis) is a large wading bird in the stork family, Ciconiidae. It is a widespread species which is a resident breeder in sub-Saharan Africa from Sudan, Ethiopia and Kenya south to South Africa, and in The Gambia, Senegal, Côte d'Ivoire and Chad in west Africa.

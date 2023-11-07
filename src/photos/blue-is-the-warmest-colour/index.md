@@ -9,6 +9,7 @@ gear:
   camera:
     brand: Sony
     model: RX100 Mark III
+    short: Sony RX100 III
 tags:
   - Asia
   - Asie
@@ -63,11 +64,11 @@ geo:
 colors:
   vibrant: 215 154 48
   darkVibrant: 9 85 123
-  lightVibrant: 122 194 206
+  lightVibrant: 122 194 207
   muted: 171 137 86
   darkMuted: 97 67 51
-  lightMuted: 154 150 137
-lqip: data:image/webp;base64,UklGRp4BAABXRUJQVlA4IJIBAACwDgCdASpkAEMAP3GyzF20rymtKFcbYpAuCWgAyxV/i4YMGWye/dDvOuuY0IS2TXqFNZ4kMV3vODZ6fmI+c9qJ/hfzNTaUQbtXeoLq6hczuHMNksT7zLMJDs7Z+GRnC3WXs9BWbjhjn2BYQt9MivfS/sM+o8NEZE7EgmIZ2oAA/tIII0ddxBfMNlGP7gm9vG3QKQsVeL+gEvXXE4mcSbiyTF0QACqVzc+hvZCZuKYAU5vKOQhBjHrXXqPB3f16Ri5CDxmVnwyYHKD5JQq1N1ITTDTdA5XOOWSZc2iePluVvCBSmMjiO50ZBI5H5+vPgP/4mX/HFybm3qCDiXe3KnbIidsLrORjJm7s0Tds6B8M+TrIJsHRPLTM8bhFXrO+VWhtmzLhErQ49zWaexhvKv8MEtbDwOJtRTQIHBngEmGt8+B2v6cUhxcGvQO8AR2tTOMbqgouGQbcAURoKyjx8gdFfEgbbIy0I9vRvmuuRJ7UhE75DApm/gxBEyrMDBnGQAwpZfZkTCbf/6OvB6YYfcWiAAA=
+  lightMuted: 155 150 137
+lqip: data:image/webp;base64,UklGRqoBAABXRUJQVlA4IJ4BAABQEACdASpkAEMAP3Gmyly0q7KsK/iaipAuCWgGcAyudSc8CrTrpysZOeYPGC3a/85yaRn14om55cpaicYvhQPnBQyi2cRb9lqLO0S4Z41YKwJ1qd6fKnfS1OQlZvTFPHqmZyKK3WU0lSsUEFY17TPwbxAh1xd9WNeqcdaLRdmiTBqXG0WXqDB4vOkAAP7SUw3fy0RK/CuDAnIBdWnDqZdBA2v9ZCw4YqD36bogIyA8bM2gAy5Lnyj2C51NMoAF52UJeulI4Nt7vaL5bID56W1NdutPmwpxnBEo28bPSVd/RCcLXpzPIKFqH0VTwvMYqwAcFiqUslBlMvLnxfjcfY3Y8+5DUNlviXcFJsvTcQTUNlZfQTm0cGWzu8UMUo+IsdPmmPqUAx3CDrlkdlRevWEUSpI9y09h8pS0Czv0d2asyxiNvJ8b8CDs1h8KW0lwDuawZSvwN9vjCGiuKEmveYVZOOHucsFCE0v4150UJNcxeoilwIJrEg5HLoj5X4X+Sqw9hAFfeUCxQgSUael9+pipFr7dvgmqb+jagqAAAAA=
 ---
 
 I saw this man pushing a cart of gas cylinders while I was on the Hong Kong tram, and I immediately saw the blue and yellow correspondences between his outfit, the cylinders, and the pedestrian crossing on the ground.

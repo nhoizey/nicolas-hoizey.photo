@@ -9,9 +9,11 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
+      short: Fuji 56mm
 tags:
   - Africa
   - Afrique
@@ -53,10 +55,10 @@ colors:
   vibrant: 63 102 139
   darkVibrant: 76 68 12
   lightVibrant: 164 189 214
-  muted: 104 123 152
-  darkMuted: 84 59 39
-  lightMuted: 141 153 185
-lqip: data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAABwCACdASpkAEMAP3G4yV+7sKkup1v6q3AuCWUAznQdMAfqfG6ZuEElzWpgDHMu8UYfIfjwZjFCCeH79zh6/ZAcfWpy3wIqoOPMuiYAAP7c6uFRfXg9BclajchcwVytUfFRyR6Pg4XpWsIx64F0Z7WyPlFvHJk0mUECnXvG2RrUJIAruU3ZEqBxFweFMNBzrrl0yhxo+Xyqtl/O03jOxilnUr1wB93k0o7gdCEBuamZnz/XjEXIEt4wDZjywR+BXsbiAg8MAAA=
+  muted: 91 123 164
+  darkMuted: 84 59 40
+  lightMuted: 141 154 186
+lqip: data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADwBwCdASpkAEMAP3G4yV+7sDKup1v6q3AuCWUA0QgdMAfqacuIz9vn/0IfNQCRDbbX0SEfNCr34aOYqWwdjZyULA2cPLk+nMAA/tzq7ET9TUhLwxE0mGn1A/P/3JUpo2bWBy8FKa/ILLsYvvo4waPt8qBGa678pOc988VaJPa7cgO6mJnUbDlu0uDpViWsAX03LT0erjYRosqxRebj/689P0qZHS2FsIr1gqHQuRXb2/YVoipp71MvN9uETFn7Kju59uUBFRp/93AAAAA=
 ---
 
 I shot this photo from a very shaky 4-wheel drive vehicle on a bumpy dirt track, so I made sure to have the fastest shutter speed by using my ƒ/1.2 lens…
