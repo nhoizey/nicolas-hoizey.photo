@@ -170,6 +170,7 @@ SYNC ${photo}`);
           photoYFM.gear.camera = {
             brand: photoExif.Make || 'unknown',
             model: photoExif.Model || 'unknown',
+            short: CLEAN_GEAR.cameras[makeAndModel]?.short || 'unknown',
           };
         } else {
           photoYFM.gear.camera = CLEAN_GEAR.cameras[makeAndModel];
@@ -183,7 +184,11 @@ SYNC ${photo}`);
             MISSING_GEAR.lenses.push(photoExif.LensModel);
           }
           photoYFM.gear.lenses = [
-            { brand: 'unknown', model: photoExif.LensModel },
+            {
+              brand: 'unknown',
+              model: photoExif.LensModel,
+              short: 'unknown',
+            },
           ];
         } else {
           if (CLEAN_GEAR.lenses[photoExif.LensModel] !== false) {
@@ -540,6 +545,7 @@ syncAllPhotos().then(() => {
     }
   );
 
-  console.log(`Missing gear clean names:`);
+  console.log(`
+Missing gear clean names:`);
   console.dir(MISSING_GEAR);
 });
