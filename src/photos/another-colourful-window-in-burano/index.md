@@ -6,10 +6,11 @@ dates:
   iso: 2008-04-26
   human: 26 April 2008
 gear:
+  short: Canon 350D
   camera:
     brand: Canon
     model: EOS 350D
-    short: Canon 350D
+    short: 350D
 tags:
   - bleu
   - blue

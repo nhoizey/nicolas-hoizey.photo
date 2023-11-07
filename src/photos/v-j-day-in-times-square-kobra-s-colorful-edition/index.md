@@ -8,10 +8,11 @@ dates:
   iso: 2015-05-21
   human: 21 May 2015
 gear:
+  short: Sony RX100 III
   camera:
     brand: Sony
     model: RX100 Mark III
-    short: Sony RX100 III
+    short: RX100 III
 tags:
   - America
   - Amérique du Nord

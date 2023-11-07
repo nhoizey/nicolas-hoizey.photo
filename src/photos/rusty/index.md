@@ -7,14 +7,15 @@ dates:
   iso: 2008-08-24
   human: 24 August 2008
 gear:
+  short: Canon 350D + 100mm Macro
   camera:
     brand: Canon
     model: EOS 350D
-    short: Canon 350D
+    short: 350D
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
-      short: Canon 100mm Macro
+      short: 100mm Macro
 tags:
   - bolt
   - boulon

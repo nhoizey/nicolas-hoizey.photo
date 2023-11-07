@@ -7,14 +7,15 @@ dates:
   iso: 2007-11-03
   human: 3 November 2007
 gear:
+  short: Canon 350D + 17-85mm
   camera:
     brand: Canon
     model: EOS 350D
-    short: Canon 350D
+    short: 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
-      short: Canon 17-85mm
+      short: 17-85mm
 tags:
   - ardoise
   - beverage

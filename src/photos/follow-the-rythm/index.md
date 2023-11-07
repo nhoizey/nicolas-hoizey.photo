@@ -8,10 +8,11 @@ dates:
   iso: 2014-09-27
   human: 27 September 2014
 gear:
+  short: Sony RX100 III
   camera:
     brand: Sony
     model: RX100 Mark III
-    short: Sony RX100 III
+    short: RX100 III
 tags:
   - Balearic Islands
   - bleu

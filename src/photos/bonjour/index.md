@@ -6,10 +6,11 @@ dates:
   iso: 2015-08-15
   human: 15 August 2015
 gear:
+  short: Sony RX100 III
   camera:
     brand: Sony
     model: RX100 Mark III
-    short: Sony RX100 III
+    short: RX100 III
 tags:
   - Asia
   - Asie

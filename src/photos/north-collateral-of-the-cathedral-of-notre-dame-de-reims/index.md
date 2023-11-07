@@ -6,14 +6,14 @@ dates:
   iso: 2019-04-28
   human: 28 April 2019
 gear:
+  short: Fujifilm X-T3 + 27mm
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
-      short: Fuji 27mm
+      short: 27mm
 tags:
   - arcade
   - cathédrale

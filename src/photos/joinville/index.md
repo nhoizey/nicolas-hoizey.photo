@@ -6,14 +6,14 @@ dates:
   iso: 2020-10-17
   human: 17 October 2020
 gear:
+  short: Fujifilm X-T3 + 80mm Macro
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
-      short: Fuji 80mm Macro
+      short: 80mm Macro
 tags:
   - Europa
   - Europe

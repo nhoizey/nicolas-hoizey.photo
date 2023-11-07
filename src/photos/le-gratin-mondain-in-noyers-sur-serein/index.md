@@ -8,14 +8,14 @@ dates:
   iso: 2019-12-26
   human: 26 December 2019
 gear:
+  short: Fujifilm X-T3 + 56mm
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
-      short: Fuji 56mm
+      short: 56mm
 tags:
   - Bourgogne-Franche-Comté
   - city

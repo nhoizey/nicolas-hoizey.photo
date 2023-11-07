@@ -7,10 +7,10 @@ dates:
   iso: 2004-08-22
   human: 22 August 2004
 gear:
+  short: Konica KD-400Z
   camera:
     brand: Konica
     model: KD-400Z
-    short: Konica KD-400Z
 tags:
   - arbre
   - calme

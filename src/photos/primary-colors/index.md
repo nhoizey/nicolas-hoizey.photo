@@ -6,10 +6,10 @@ dates:
   iso: 2016-09-30
   human: 30 September 2016
 gear:
+  short: Apple iPhone 6s
   camera:
     brand: Apple
     model: iPhone 6s
-    short: iPhone 6s
 tags:
   - aéroport
   - Aeroporto de Lisboa

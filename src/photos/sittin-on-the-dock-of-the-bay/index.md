@@ -6,10 +6,10 @@ dates:
   iso: 2014-03-14
   human: 14 March 2014
 gear:
+  short: Panasonic GM1
   camera:
     brand: Panasonic
     model: GM1
-    short: Panasonic GM1
 settings:
   iso:
     raw: 200

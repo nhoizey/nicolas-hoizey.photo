@@ -6,14 +6,14 @@ dates:
   iso: 2022-08-10
   human: 10 August 2022
 gear:
+  short: Fujifilm X-T3 + 16-80mm
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
-      short: Fuji 16-80mm
+      short: 16-80mm
 tags:
   - architecture
   - Basque Country

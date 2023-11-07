@@ -8,10 +8,10 @@ dates:
   iso: 2004-12-27
   human: 27 December 2004
 gear:
+  short: Konica KD-400Z
   camera:
     brand: Konica
     model: KD-400Z
-    short: Konica KD-400Z
 tags:
   - Arnhem
   - brouillard

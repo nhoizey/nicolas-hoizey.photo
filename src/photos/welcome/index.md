@@ -6,14 +6,15 @@ dates:
   iso: 2009-10-10
   human: 10 October 2009
 gear:
+  short: Canon 5D II + 135mm
   camera:
     brand: Canon
     model: EOS 5D Mark II
-    short: Canon 5D Mark II
+    short: 5D II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
-      short: Canon 135mm
+      short: 135mm
 tags:
   - België
   - Belgique

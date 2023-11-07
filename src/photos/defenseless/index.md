@@ -6,14 +6,14 @@ dates:
   iso: 2018-06-11
   human: 11 June 2018
 gear:
+  short: Fujifilm X-T2 + 27mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
-      short: Fuji 27mm
+      short: 27mm
 tags:
   - black
   - building

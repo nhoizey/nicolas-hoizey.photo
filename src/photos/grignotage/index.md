@@ -6,14 +6,15 @@ dates:
   iso: 2019-03-10
   human: 10 March 2019
 gear:
+  short: Canon 7D + 50mm
   camera:
     brand: Canon
     model: EOS 7D
-    short: Canon 7D
+    short: 7D
   lenses:
     - brand: Canon
       model: EF 50mm f/1.8 II
-      short: Canon 50mm
+      short: 50mm
 tags:
   - bread
   - charcuterie

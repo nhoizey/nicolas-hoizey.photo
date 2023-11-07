@@ -6,10 +6,10 @@ dates:
   iso: 2019-03-06
   human: 6 March 2019
 gear:
+  short: Apple iPhone 6s
   camera:
     brand: Apple
     model: iPhone 6s
-    short: iPhone 6s
 tags:
   - Africa
   - Afrique

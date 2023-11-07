@@ -6,14 +6,15 @@ dates:
   iso: 2006-12-26
   human: 26 December 2006
 gear:
+  short: Canon 350D + 17-85mm
   camera:
     brand: Canon
     model: EOS 350D
-    short: Canon 350D
+    short: 350D
   lenses:
     - brand: Canon
       model: EF-S 17-85mm f/4-5.6 IS USM
-      short: Canon 17-85mm
+      short: 17-85mm
 tags:
   - Cinema and Miniature museum
   - Europa

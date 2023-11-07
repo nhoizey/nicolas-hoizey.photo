@@ -8,14 +8,15 @@ dates:
   iso: 2011-05-06
   human: 6 May 2011
 gear:
+  short: Canon 5D II + Sigma50mm
   camera:
     brand: Canon
     model: EOS 5D Mark II
-    short: Canon 5D Mark II
+    short: 5D II
   lenses:
     - brand: Sigma
       model: 50mm F1.4 EX DG HSM
-      short: Sigma 50mm
+      short: 50mm
 tags:
   - Africa
   - Afrique

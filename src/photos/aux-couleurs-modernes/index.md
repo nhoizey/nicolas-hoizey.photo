@@ -6,14 +6,14 @@ dates:
   iso: 2017-02-03
   human: 3 February 2017
 gear:
+  short: Fujifilm X-T2 + 18-55mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 18-55mm f/2.8-4.0R LM OIS
-      short: Fuji 18-55mm
+      short: 18-55mm
 tags:
   - color
   - coloré

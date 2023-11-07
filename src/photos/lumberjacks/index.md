@@ -6,14 +6,14 @@ dates:
   iso: 2021-12-01
   human: 1 December 2021
 gear:
+  short: Fujifilm X-T3 + 80mm Macro
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
-      short: Fuji 80mm Macro
+      short: 80mm Macro
 tags:
   - 1:87
   - 1/87

@@ -6,10 +6,10 @@ dates:
   iso: 2015-04-27
   human: 27 April 2015
 gear:
+  short: Panasonic LX100
   camera:
     brand: Panasonic
     model: LX100
-    short: Panasonic LX100
 tags:
   - bocal
   - bocaux

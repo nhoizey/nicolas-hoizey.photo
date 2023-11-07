@@ -6,14 +6,15 @@ dates:
   iso: 2015-01-13
   human: 13 January 2015
 gear:
+  short: Canon 5D II + 100mm Macro
   camera:
     brand: Canon
     model: EOS 5D Mark II
-    short: Canon 5D Mark II
+    short: 5D II
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
-      short: Canon 100mm Macro
+      short: 100mm Macro
 tags:
   - blanc
   - blur

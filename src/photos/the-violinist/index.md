@@ -7,14 +7,14 @@ dates:
   iso: 2017-05-14
   human: 14 May 2017
 gear:
+  short: Fujifilm X-T2 + 56mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
-      short: Fuji 56mm
+      short: 56mm
 tags:
   - Europa
   - Europe

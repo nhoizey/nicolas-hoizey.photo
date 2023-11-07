@@ -6,14 +6,15 @@ dates:
   iso: 2014-02-14
   human: 14 February 2014
 gear:
+  short: Canon 5D II + 24-70mm
   camera:
     brand: Canon
     model: EOS 5D Mark II
-    short: Canon 5D Mark II
+    short: 5D II
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
-      short: Canon 24-70mm
+      short: 24-70mm
 tags:
   - Méribel
   - ski

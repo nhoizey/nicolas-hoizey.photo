@@ -6,14 +6,14 @@ dates:
   iso: 2019-02-28
   human: 28 February 2019
 gear:
+  short: Fujifilm X-T2 + 56mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
-      short: Fuji 56mm
+      short: 56mm
 tags:
   - Africa
   - Afrique

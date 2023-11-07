@@ -6,14 +6,14 @@ dates:
   iso: 2022-08-10
   human: 10 August 2022
 gear:
+  short: Fujifilm X-T3 + 10-24mm
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
-      short: Fuji 10-24mm
+      short: 10-24mm
 tags:
   - Basque Country
   - bateau

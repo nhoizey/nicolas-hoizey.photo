@@ -6,14 +6,15 @@ dates:
   iso: 2014-06-14
   human: 14 June 2014
 gear:
+  short: Canon 5D II + 135mm
   camera:
     brand: Canon
     model: EOS 5D Mark II
-    short: Canon 5D Mark II
+    short: 5D II
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
-      short: Canon 135mm
+      short: 135mm
 tags:
   - accessoire
   - adult

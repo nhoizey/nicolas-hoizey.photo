@@ -6,14 +6,14 @@ dates:
   iso: 2017-03-25
   human: 25 March 2017
 gear:
+  short: Fujifilm X-T2 + 56mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 56mm f/1.2 R
-      short: Fuji 56mm
+      short: 56mm
 tags:
   - bust
   - buste

@@ -8,14 +8,14 @@ dates:
   iso: 2021-08-19
   human: 19 August 2021
 gear:
+  short: Fujifilm X-T3 + 16-80mm
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 16-80mm f/4.0 R OIS WR
-      short: Fuji 16-80mm
+      short: 16-80mm
 tags:
   - animal
   - animal sauvage

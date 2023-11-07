@@ -6,14 +6,14 @@ dates:
   iso: 2019-02-28
   human: 28 February 2019
 gear:
+  short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-      short: Fuji 100-400mm
+      short: 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 2.0× TC WR
       short: 2.0×

@@ -6,14 +6,15 @@ dates:
   iso: 2014-05-01
   human: 1 May 2014
 gear:
+  short: Canon 5D II + 70-300mm
   camera:
     brand: Canon
     model: EOS 5D Mark II
-    short: Canon 5D Mark II
+    short: 5D II
   lenses:
     - brand: Canon
       model: EF 70-300mm f/4-5.6 IS USM
-      short: Canon 70-300mm
+      short: 70-300mm
 tags:
   - ciel
   - cloud

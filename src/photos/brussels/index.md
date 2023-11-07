@@ -7,10 +7,11 @@ dates:
   iso: 2007-08-27
   human: 27 August 2007
 gear:
+  short: Canon IXUS 800 IS
   camera:
     brand: Canon
     model: Digital IXUS 800 IS
-    short: Canon IXUS 800 IS
+    short: IXUS 800 IS
 tags:
   - bâtiment
   - België

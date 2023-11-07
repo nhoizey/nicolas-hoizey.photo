@@ -160,7 +160,7 @@ SYNC ${photo}`);
 
     if (photoExif.Model || photoExif.LensModel) {
       // Get gear
-      photoYFM.gear = {};
+      photoYFM.gear = { short: '' };
       if (photoExif.Make || photoExif.Model) {
         const makeAndModel = `${photoExif.Make || ''} ${photoExif.Model || ''}`;
         if (CLEAN_GEAR.cameras[makeAndModel] === undefined) {
@@ -170,14 +170,24 @@ SYNC ${photo}`);
           photoYFM.gear.camera = {
             brand: photoExif.Make || 'unknown',
             model: photoExif.Model || 'unknown',
-            short: CLEAN_GEAR.cameras[makeAndModel]?.short || 'unknown',
           };
+          photoYFM.gear.short = [
+            photoExif.Make || '',
+            photoExif.Model || '',
+          ].join(' ');
         } else {
           photoYFM.gear.camera = CLEAN_GEAR.cameras[makeAndModel];
+          photoYFM.gear.short = [
+            CLEAN_GEAR.cameras[makeAndModel].brand || '',
+            CLEAN_GEAR.cameras[makeAndModel].short ||
+              CLEAN_GEAR.cameras[makeAndModel].model ||
+              '',
+          ].join(' ');
         }
       } else {
         thisLog(`  ⚠ exif.Model missing`);
       }
+
       if (photoExif.LensModel) {
         if (CLEAN_GEAR.lenses[photoExif.LensModel] === undefined) {
           if (!MISSING_GEAR.lenses.includes(photoExif.LensModel)) {
@@ -187,9 +197,9 @@ SYNC ${photo}`);
             {
               brand: 'unknown',
               model: photoExif.LensModel,
-              short: 'unknown',
             },
           ];
+          photoYFM.gear.short += ` + ${photoExif.LensModel}`;
         } else {
           if (CLEAN_GEAR.lenses[photoExif.LensModel] !== false) {
             if (Array.isArray(CLEAN_GEAR.lenses[photoExif.LensModel])) {
@@ -197,6 +207,13 @@ SYNC ${photo}`);
             } else {
               photoYFM.gear.lenses = [CLEAN_GEAR.lenses[photoExif.LensModel]];
             }
+            photoYFM.gear.lenses.forEach((lens) => {
+              photoYFM.gear.short += ` + ${
+                lens.brand !== (photoYFM.gear.camera.brand || '')
+                  ? `${lens.brand}`
+                  : ''
+              }${lens.short || lens.model || ''}`;
+            });
           }
         }
       } else {

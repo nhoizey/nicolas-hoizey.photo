@@ -6,14 +6,14 @@ dates:
   iso: 2016-12-04
   human: 4 December 2016
 gear:
+  short: Fujifilm X-T2 + 100-400mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-      short: Fuji 100-400mm
+      short: 100-400mm
 tags:
   - animal
   - arbre

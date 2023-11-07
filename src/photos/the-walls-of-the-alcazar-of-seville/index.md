@@ -6,10 +6,10 @@ dates:
   iso: 2004-09-21
   human: 21 September 2004
 gear:
+  short: Konica KD-400Z
   camera:
     brand: Konica
     model: KD-400Z
-    short: Konica KD-400Z
 tags:
   - al-Qasr al-Muriq
   - Alcazar

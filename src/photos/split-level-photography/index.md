@@ -8,10 +8,11 @@ dates:
   iso: 2004-05-17
   human: 17 May 2004
 gear:
+  short: Fujifilm Frontier 340
   camera:
     brand: Fujifilm
     model: Frontier 340 (Minilab Laser Printer)
-    short: Fuji Frontier 340
+    short: Frontier 340
 tags:
   - Africa
   - Afrique

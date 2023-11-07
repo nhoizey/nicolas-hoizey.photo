@@ -7,14 +7,14 @@ dates:
   iso: 2018-02-28
   human: 28 February 2018
 gear:
+  short: Fujifilm X-T2 + 10-24mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
-      short: Fuji 10-24mm
+      short: 10-24mm
 tags:
   - America
   - Amérique

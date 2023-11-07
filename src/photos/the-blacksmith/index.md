@@ -7,10 +7,11 @@ dates:
   iso: 2014-07-12
   human: 12 July 2014
 gear:
+  short: Sony RX100 III
   camera:
     brand: Sony
     model: RX100 Mark III
-    short: Sony RX100 III
+    short: RX100 III
 tags:
   - anvil
   - Arnhem

@@ -6,14 +6,15 @@ dates:
   iso: 2019-01-13
   human: 13 January 2019
 gear:
+  short: Canon 5D IV + 100mm Macro
   camera:
     brand: Canon
     model: EOS 5D Mark IV
-    short: Canon 5D Mark IV
+    short: 5D IV
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8L Macro IS USM
-      short: Canon 100mm Macro
+      short: 100mm Macro
 tags:
   - beverage
   - bleu

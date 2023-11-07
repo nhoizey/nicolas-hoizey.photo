@@ -3,72 +3,65 @@
     "Canon Canon DIGITAL IXUS 800 IS": {
       "brand": "Canon",
       "model": "Digital IXUS 800 IS",
-      "short": "Canon IXUS 800 IS"
+      "short": "IXUS 800 IS"
     },
     "Canon Canon EOS 350D DIGITAL": {
       "brand": "Canon",
       "model": "EOS 350D",
-      "short": "Canon 350D"
+      "short": "350D"
     },
     "Canon Canon EOS 5D Mark II": {
       "brand": "Canon",
       "model": "EOS 5D Mark II",
-      "short": "Canon 5D Mark II"
+      "short": "5D II"
     },
     "Canon Canon EOS 5D Mark IV": {
       "brand": "Canon",
       "model": "EOS 5D Mark IV",
-      "short": "Canon 5D Mark IV"
+      "short": "5D IV"
     },
     "Canon Canon EOS 7D": {
       "brand": "Canon",
       "model": "EOS 7D",
-      "short": "Canon 7D"
+      "short": "7D"
     },
     "Panasonic DMC-GM1": {
       "brand": "Panasonic",
-      "model": "GM1",
-      "short": "Panasonic GM1"
+      "model": "GM1"
     },
     "Panasonic DMC-LX100": {
       "brand": "Panasonic",
-      "model": "LX100",
-      "short": "Panasonic LX100"
+      "model": "LX100"
     },
     "SONY DSC-RX100M3": {
       "brand": "Sony",
       "model": "RX100 Mark III",
-      "short": "Sony RX100 III"
+      "short": "RX100 III"
     },
     "Apple iPhone 6s": {
       "brand": "Apple",
-      "model": "iPhone 6s",
-      "short": "iPhone 6s"
+      "model": "iPhone 6s"
     },
     "Konica Corporation Konica Digital Camera KD-400Z": {
       "brand": "Konica",
-      "model": "KD-400Z",
-      "short": "Konica KD-400Z"
+      "model": "KD-400Z"
     },
     "FUJI PHOTO FILM CO., LTD. SLP1000SE": {
       "brand": "Fujifilm",
       "model": "Frontier 340 (Minilab Laser Printer)",
-      "short": "Fuji Frontier 340"
+      "short": "Frontier 340"
     },
     "NIKON CORPORATION NIKON D700": {
       "brand": "Nikon",
-      "model": "D700",
-      "short": "Nikon D700"
+      "model": "D700"
     },
     "FUJIFILM X-T2": {
       "brand": "Fujifilm",
-      "model": "X-T2",
-      "short": "Fuji X-T2"
+      "model": "X-T2"
     },
     "FUJIFILM X-T3": {
       "brand": "Fujifilm",
-      "model": "X-T3",
-      "short": "Fuji X-T3"
+      "model": "X-T3"
     }
   },
   "lenses": {
@@ -76,105 +69,105 @@
     "17.0-85.0 mm": {
       "brand": "Canon",
       "model": "EF-S 17-85mm f/4-5.6 IS USM",
-      "short": "Canon 17-85mm"
+      "short": "17-85mm"
     },
     "24-70mm F1.8-2.8": false,
     "50mm": {
       "brand": "Sigma",
       "model": "50mm F1.4 EX DG HSM",
-      "short": "Sigma 50mm"
+      "short": "50mm"
     },
     "70.0-300.0 mm": {
       "brand": "Canon",
       "model": "EF 70-300mm f/4-5.6 IS USM",
-      "short": "Canon 70-300mm"
+      "short": "70-300mm"
     },
     "100.0 mm": {
       "brand": "Canon",
       "model": "EF 100mm f/2.8 Macro USM",
-      "short": "Canon 100mm Macro"
+      "short": "100mm Macro"
     },
     "EF24-70mm f/2.8L USM": {
       "brand": "Canon",
       "model": "EF 24-70mm f/2.8L USM",
-      "short": "Canon 24-70mm"
+      "short": "24-70mm"
     },
     "EF50mm f/1.8 II": {
       "brand": "Canon",
       "model": "EF 50mm f/1.8 II",
-      "short": "Canon 50mm"
+      "short": "50mm"
     },
     "EF70-300mm f/4-5.6 IS USM": {
       "brand": "Canon",
       "model": "EF 70-300mm f/4-5.6 IS USM",
-      "short": "Canon 70-300mm"
+      "short": "70-300mm"
     },
     "EF100mm f/2.8 Macro USM": {
       "brand": "Canon",
       "model": "EF 100mm f/2.8 Macro USM",
-      "short": "Canon 100mm Macro"
+      "short": "100mm Macro"
     },
     "EF100mm f/2.8L Macro IS USM": {
       "brand": "Canon",
       "model": "EF 100mm f/2.8L Macro IS USM",
-      "short": "Canon 100mm Macro"
+      "short": "100mm Macro"
     },
     "EF135mm f/2L USM": {
       "brand": "Canon",
       "model": "EF 135mm f/2L USM",
-      "short": "Canon 135mm"
+      "short": "135mm"
     },
     "iPhone 6s back camera 4.15mm f/2.2": false,
     "LUMIX G VARIO 12-32/F3.5-5.6": {
       "brand": "Panasonic",
       "model": "Lumix G Vario 12-32mm f/3.5-5.6 MEGA OIS",
-      "short": "Lumix 12-32mm"
+      "short": "12-32mm"
     },
     "TAMRON SP 24-70mm F2.8 Di VC USD A007N": {
       "brand": "Tamron",
       "model": "SP 24-70mm f/2.8 Di VC USD",
-      "short": "Tamron 24-70mm"
+      "short": "24-70mm"
     },
     "XF10-24mmF4 R OIS": {
       "brand": "Fujifilm",
       "model": "Fujinon XF 10-24mm f/4.0 R OIS",
-      "short": "Fuji 10-24mm"
+      "short": "10-24mm"
     },
     "XF16-80mmF4 R OIS WR": {
       "brand": "Fujifilm",
       "model": "Fujinon XF 16-80mm f/4.0 R OIS WR",
-      "short": "Fuji 16-80mm"
+      "short": "16-80mm"
     },
     "XF18-55mmF2.8-4 R LM OIS": {
       "brand": "Fujifilm",
       "model": "Fujinon XF 18-55mm f/2.8-4.0R LM OIS",
-      "short": "Fuji 18-55mm"
+      "short": "18-55mm"
     },
     "XF27mmF2.8": {
       "brand": "Fujifilm",
       "model": "Fujinon XF 27mm f/2.8",
-      "short": "Fuji 27mm"
+      "short": "27mm"
     },
     "XF56mmF1.2 R": {
       "brand": "Fujifilm",
       "model": "Fujinon XF 56mm f/1.2 R",
-      "short": "Fuji 56mm"
+      "short": "56mm"
     },
     "XF80mmF2.8 R LM OIS WR Macro": {
       "brand": "Fujifilm",
       "model": "Fujinon XF 80mm f/2.8 LM OIS WR Macro",
-      "short": "Fuji 80mm Macro"
+      "short": "80mm Macro"
     },
     "XF100-400mmF4.5-5.6 R LM OIS WR": {
       "brand": "Fujifilm",
       "model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
-      "short": "Fuji 100-400mm"
+      "short": "100-400mm"
     },
     "XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x": [
       {
         "brand": "Fujifilm",
         "model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
-        "short": "Fuji 100-400mm"
+        "short": "100-400mm"
       },
       { "brand": "Fujifilm", "model": "Fujinon XF 1.4× TC WR", "short": "1.4×" }
     ],
@@ -182,7 +175,7 @@
       {
         "brand": "Fujifilm",
         "model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
-        "short": "Fuji 100-400mm"
+        "short": "100-400mm"
       },
       { "brand": "Fujifilm", "model": "Fujinon XF 2.0× TC WR", "short": "2.0×" }
     ]

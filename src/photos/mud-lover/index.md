@@ -7,10 +7,11 @@ dates:
   iso: 2008-05-11
   human: 11 May 2008
 gear:
+  short: Canon 350D
   camera:
     brand: Canon
     model: EOS 350D
-    short: Canon 350D
+    short: 350D
 tags:
   - animal
   - boue

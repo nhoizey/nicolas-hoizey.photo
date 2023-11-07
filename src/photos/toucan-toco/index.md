@@ -6,14 +6,15 @@ dates:
   iso: 2008-05-11
   human: 11 May 2008
 gear:
+  short: Canon 350D + 70-300mm
   camera:
     brand: Canon
     model: EOS 350D
-    short: Canon 350D
+    short: 350D
   lenses:
     - brand: Canon
       model: EF 70-300mm f/4-5.6 IS USM
-      short: Canon 70-300mm
+      short: 70-300mm
 tags:
   - animal
   - animal captif

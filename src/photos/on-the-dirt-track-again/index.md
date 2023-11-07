@@ -7,14 +7,14 @@ dates:
   iso: 2019-03-02
   human: 2 March 2019
 gear:
+  short: Fujifilm X-T2 + 27mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8
-      short: Fuji 27mm
+      short: 27mm
 tags:
   - 4x4
   - Africa

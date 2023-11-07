@@ -6,14 +6,15 @@ dates:
   iso: 2013-08-14
   human: 14 August 2013
 gear:
+  short: Canon 5D II + 100mm Macro
   camera:
     brand: Canon
     model: EOS 5D Mark II
-    short: Canon 5D Mark II
+    short: 5D II
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
-      short: Canon 100mm Macro
+      short: 100mm Macro
 tags:
   - castle
   - château

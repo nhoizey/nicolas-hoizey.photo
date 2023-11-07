@@ -6,14 +6,14 @@ dates:
   iso: 2017-05-11
   human: 11 May 2017
 gear:
+  short: Fujifilm X-T2 + 10-24mm
   camera:
     brand: Fujifilm
     model: X-T2
-    short: Fuji X-T2
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
-      short: Fuji 10-24mm
+      short: 10-24mm
 tags:
   - ancien
   - coloré

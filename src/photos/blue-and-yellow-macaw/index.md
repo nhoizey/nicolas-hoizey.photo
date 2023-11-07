@@ -7,14 +7,14 @@ dates:
   iso: 2021-08-17
   human: 17 August 2021
 gear:
+  short: Fujifilm X-T3 + 100-400mm + 1.4×
   camera:
     brand: Fujifilm
     model: X-T3
-    short: Fuji X-T3
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
-      short: Fuji 100-400mm
+      short: 100-400mm
     - brand: Fujifilm
       model: Fujinon XF 1.4× TC WR
       short: 1.4×
