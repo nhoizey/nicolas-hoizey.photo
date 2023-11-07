@@ -9,7 +9,7 @@ dates:
   iso: 2019-02-10
   human: 10 February 2019
 gear:
-  short: Canon 5D IV + 100mm Macro
+  short: Canon 5D IV + 100mm macro
   camera:
     brand: Canon
     model: EOS 5D Mark IV
@@ -17,7 +17,7 @@ gear:
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8L Macro IS USM
-      short: 100mm Macro
+      short: 100mm macro
 tags:
   - biscuit
   - bleu

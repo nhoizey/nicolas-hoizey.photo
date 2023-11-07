@@ -6,7 +6,7 @@ dates:
   iso: 2009-05-14
   human: 14 May 2009
 gear:
-  short: Canon 5D II + 100mm Macro
+  short: Canon 5D II + 100mm macro
   camera:
     brand: Canon
     model: EOS 5D Mark II
@@ -14,7 +14,7 @@ gear:
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
-      short: 100mm Macro
+      short: 100mm macro
 tags:
   - animal
   - aquarium

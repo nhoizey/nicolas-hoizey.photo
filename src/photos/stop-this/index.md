@@ -8,7 +8,7 @@ dates:
   iso: 2007-10-28
   human: 28 October 2007
 gear:
-  short: Canon 350D + 100mm Macro
+  short: Canon 350D + 100mm macro
   camera:
     brand: Canon
     model: EOS 350D
@@ -16,7 +16,7 @@ gear:
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
-      short: 100mm Macro
+      short: 100mm macro
 tags:
   - close-up
   - Essonne

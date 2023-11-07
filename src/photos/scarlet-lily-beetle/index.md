@@ -7,7 +7,7 @@ dates:
   iso: 2008-06-14
   human: 14 June 2008
 gear:
-  short: Canon 350D + 100mm Macro
+  short: Canon 350D + 100mm macro
   camera:
     brand: Canon
     model: EOS 350D
@@ -15,7 +15,7 @@ gear:
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM
-      short: 100mm Macro
+      short: 100mm macro
 tags:
   - animal
   - At home
