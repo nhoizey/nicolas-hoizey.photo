@@ -310,14 +310,21 @@ SYNC ${photo}`);
     photoYFM.geo = {};
     if (photoExif.latitude && photoExif.longitude) {
       if (
-        (Math.abs(photoExif.latitude - process.env.HOME_LATITUDE_1) < 0.01 &&
-          Math.abs(photoExif.longitude - process.env.HOME_LONGITUDE_1) <
-            0.01) ||
-        (Math.abs(photoExif.latitude - process.env.HOME_LATITUDE_2) < 0.01 &&
-          Math.abs(photoExif.longitude - process.env.HOME_LONGITUDE_2) < 0.01)
+        photoExif.latitude >= parseFloat(process.env.HOME_1_LATITUDE_MIN) &&
+        photoExif.latitude <= parseFloat(process.env.HOME_1_LATITUDE_MAX) &&
+        photoExif.longitude >= parseFloat(process.env.HOME_1_LONGITUDE_MIN) &&
+        photoExif.longitude <= parseFloat(process.env.HOME_1_LONGITUDE_MAX)
       ) {
-        photoYFM.geo.latitude = 48.692803;
-        photoYFM.geo.longitude = 2.422789;
+        photoYFM.geo.latitude = parseFloat(process.env.HOME_1_NEW_LATITUDE);
+        photoYFM.geo.longitude = parseFloat(process.env.HOME_1_NEW_LONGITUDE);
+      } else if (
+        photoExif.latitude >= parseFloat(process.env.HOME_2_LATITUDE_MIN) &&
+        photoExif.latitude <= parseFloat(process.env.HOME_2_LATITUDE_MAX) &&
+        photoExif.longitude >= parseFloat(process.env.HOME_2_LONGITUDE_MIN) &&
+        photoExif.longitude <= parseFloat(process.env.HOME_2_LONGITUDE_MAX)
+      ) {
+        photoYFM.geo.latitude = parseFloat(process.env.HOME_2_NEW_LATITUDE);
+        photoYFM.geo.longitude = parseFloat(process.env.HOME_2_NEW_LONGITUDE);
       } else {
         photoYFM.geo.latitude = photoExif.latitude;
         photoYFM.geo.longitude = photoExif.longitude;
