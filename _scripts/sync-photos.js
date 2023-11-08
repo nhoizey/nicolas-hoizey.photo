@@ -315,6 +315,7 @@ SYNC ${photo}`);
         photoExif.longitude >= parseFloat(process.env.HOME_1_LONGITUDE_MIN) &&
         photoExif.longitude <= parseFloat(process.env.HOME_1_LONGITUDE_MAX)
       ) {
+        thisLog(`  ⚠ changing position for photo in home 1 area`);
         photoYFM.geo.latitude = parseFloat(process.env.HOME_1_NEW_LATITUDE);
         photoYFM.geo.longitude = parseFloat(process.env.HOME_1_NEW_LONGITUDE);
       } else if (
@@ -323,6 +324,7 @@ SYNC ${photo}`);
         photoExif.longitude >= parseFloat(process.env.HOME_2_LONGITUDE_MIN) &&
         photoExif.longitude <= parseFloat(process.env.HOME_2_LONGITUDE_MAX)
       ) {
+        thisLog(`  ⚠ changing position for photo in home 2 area`);
         photoYFM.geo.latitude = parseFloat(process.env.HOME_2_NEW_LATITUDE);
         photoYFM.geo.longitude = parseFloat(process.env.HOME_2_NEW_LONGITUDE);
       } else {
