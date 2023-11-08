@@ -16,6 +16,17 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro
       short: 80mm macro
+tags:
+  - 1:87
+  - 1/87
+  - champignon
+  - HO
+  - jaune
+  - macro
+  - miniature
+  - plant
+  - végétal
+  - yellow
 settings:
   focal_length:
     raw: 80
