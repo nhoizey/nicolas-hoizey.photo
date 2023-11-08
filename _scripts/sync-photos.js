@@ -307,7 +307,6 @@ SYNC ${photo}`);
     }
 
     // Get coordinates
-    photoYFM.geo = {};
     if (photoExif.latitude && photoExif.longitude) {
       if (
         photoExif.latitude >= parseFloat(process.env.HOME_1_LATITUDE_MIN) &&
@@ -315,43 +314,42 @@ SYNC ${photo}`);
         photoExif.longitude >= parseFloat(process.env.HOME_1_LONGITUDE_MIN) &&
         photoExif.longitude <= parseFloat(process.env.HOME_1_LONGITUDE_MAX)
       ) {
-        thisLog(`  ⚠ changing position for photo in home 1 area`);
-        photoYFM.geo.latitude = parseFloat(process.env.HOME_1_NEW_LATITUDE);
-        photoYFM.geo.longitude = parseFloat(process.env.HOME_1_NEW_LONGITUDE);
+        thisLog(`  ⚠ Removing position for photo in home 1 area`);
       } else if (
         photoExif.latitude >= parseFloat(process.env.HOME_2_LATITUDE_MIN) &&
         photoExif.latitude <= parseFloat(process.env.HOME_2_LATITUDE_MAX) &&
         photoExif.longitude >= parseFloat(process.env.HOME_2_LONGITUDE_MIN) &&
         photoExif.longitude <= parseFloat(process.env.HOME_2_LONGITUDE_MAX)
       ) {
-        thisLog(`  ⚠ changing position for photo in home 2 area`);
-        photoYFM.geo.latitude = parseFloat(process.env.HOME_2_NEW_LATITUDE);
-        photoYFM.geo.longitude = parseFloat(process.env.HOME_2_NEW_LONGITUDE);
+        thisLog(`  ⚠ Removing position for photo in home 2 area`);
       } else {
-        photoYFM.geo.latitude = photoExif.latitude;
-        photoYFM.geo.longitude = photoExif.longitude;
-      }
-      // Get map for the photo
-      const mapFile = path.join(distDir, 'map.png');
-      if (fs.existsSync(mapFile)) {
-        photoYFM.geo.map = true;
-      } else {
-        thisLog(`  ⚠ map image missing`);
-      }
+        photoYFM.geo = {
+          latitude: photoExif.latitude,
+          longitude: photoExif.longitude,
+        };
+        if (photoExif.Country) {
+          photoYFM.geo.country = utf8.decode(photoExif.Country);
+        }
+        if (photoExif.City) {
+          photoYFM.geo.city = utf8.decode(photoExif.City);
+        }
 
-      // Check opengraph image for the photo
-      const opengraphFile = path.join(distDir, 'opengraph.jpg');
-      if (!fs.existsSync(opengraphFile)) {
-        thisLog(`  ⚠ opengraph image missing`);
+        // Get map for the photo
+        const mapFile = path.join(distDir, 'map.png');
+        if (fs.existsSync(mapFile)) {
+          photoYFM.geo.map = true;
+        } else {
+          thisLog(`  ⚠ map image missing`);
+        }
       }
     } else {
       thisLog(`  ⚠ geolocation missing`);
     }
-    if (photoExif.Country) {
-      photoYFM.geo.country = utf8.decode(photoExif.Country);
-    }
-    if (photoExif.City) {
-      photoYFM.geo.city = utf8.decode(photoExif.City);
+
+    // Check opengraph image for the photo
+    const opengraphFile = path.join(distDir, 'opengraph.jpg');
+    if (!fs.existsSync(opengraphFile)) {
+      thisLog(`  ⚠ opengraph image missing`);
     }
 
     if (photosData[photo].colors) {
