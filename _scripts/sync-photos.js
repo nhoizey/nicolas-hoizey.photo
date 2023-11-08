@@ -341,6 +341,59 @@ SYNC ${photo}`);
         } else {
           thisLog(`  ⚠ map image missing`);
         }
+
+        // Generate thumbnails for 1x screens
+        const thumbFile = path.join(THUMBNAILS, 'icons', `${slug}.png`);
+        if (!fs.existsSync(thumbFile)) {
+          const mask = Buffer.from(
+            '<svg><circle cx="15" cy="15" r="14" fill="black"/></svg>'
+          );
+          const border = Buffer.from(
+            '<svg><circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="2" /></svg>'
+          );
+          sharp(photoPath)
+            .resize(30, 30, {
+              fit: sharp.fit.cover,
+              position: sharp.strategy.cover,
+              position: sharp.strategy.entropy,
+              // background: { r: 0, g: 0, b: 0, alpha: 0 },
+            })
+            .composite([
+              { input: mask, left: 0, top: 0, blend: 'dest-in' },
+              { input: border, left: 0, top: 0, blend: 'over' },
+            ])
+            .toFile(thumbFile, function (err) {
+              if (err) {
+                thisLog(`Error while creating thumbnail for ${slug}`, err);
+              }
+            });
+        }
+
+        // Generate thumbnails for 2x screens
+        const thumb2File = path.join(THUMBNAILS, 'icons@2x', `${slug}.png`);
+        if (!fs.existsSync(thumb2File)) {
+          const mask2x = Buffer.from(
+            '<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>'
+          );
+          const border2 = Buffer.from(
+            '<svg><circle cx="30" cy="30" r="28" fill="none" stroke="white" stroke-width="3" /></svg>'
+          );
+          sharp(photoPath)
+            .resize(60, 60, {
+              fit: sharp.fit.cover,
+              position: sharp.strategy.cover,
+              position: sharp.strategy.entropy,
+            })
+            .composite([
+              { input: mask2x, left: 0, top: 0, blend: 'dest-in' },
+              { input: border2, left: 0, top: 0, blend: 'over' },
+            ])
+            .toFile(thumb2File, function (err) {
+              if (err) {
+                thisLog(`Error while creating @2x thumbnail for ${slug}`, err);
+              }
+            });
+        }
       }
     } else {
       thisLog(`  ⚠ geolocation missing`);
@@ -497,59 +550,6 @@ ${photoDescription}
         .toFile(smallVersion, function (err) {
           if (err) {
             thisLog(`Error while creating feed thumbnail for ${slug}`, err);
-          }
-        });
-    }
-
-    // Generate thumbnails for 1x screens
-    const thumbFile = path.join(THUMBNAILS, 'icons', `${slug}.png`);
-    if (!fs.existsSync(thumbFile)) {
-      const mask = Buffer.from(
-        '<svg><circle cx="15" cy="15" r="14" fill="black"/></svg>'
-      );
-      const border = Buffer.from(
-        '<svg><circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="2" /></svg>'
-      );
-      sharp(photoPath)
-        .resize(30, 30, {
-          fit: sharp.fit.cover,
-          position: sharp.strategy.cover,
-          position: sharp.strategy.entropy,
-          // background: { r: 0, g: 0, b: 0, alpha: 0 },
-        })
-        .composite([
-          { input: mask, left: 0, top: 0, blend: 'dest-in' },
-          { input: border, left: 0, top: 0, blend: 'over' },
-        ])
-        .toFile(thumbFile, function (err) {
-          if (err) {
-            thisLog(`Error while creating thumbnail for ${slug}`, err);
-          }
-        });
-    }
-
-    // Generate thumbnails for 2x screens
-    const thumb2File = path.join(THUMBNAILS, 'icons@2x', `${slug}.png`);
-    if (!fs.existsSync(thumb2File)) {
-      const mask2x = Buffer.from(
-        '<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>'
-      );
-      const border2 = Buffer.from(
-        '<svg><circle cx="30" cy="30" r="28" fill="none" stroke="white" stroke-width="3" /></svg>'
-      );
-      sharp(photoPath)
-        .resize(60, 60, {
-          fit: sharp.fit.cover,
-          position: sharp.strategy.cover,
-          position: sharp.strategy.entropy,
-        })
-        .composite([
-          { input: mask2x, left: 0, top: 0, blend: 'dest-in' },
-          { input: border2, left: 0, top: 0, blend: 'over' },
-        ])
-        .toFile(thumb2File, function (err) {
-          if (err) {
-            thisLog(`Error while creating @2x thumbnail for ${slug}`, err);
           }
         });
     }
