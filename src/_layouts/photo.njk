@@ -4,7 +4,7 @@
   {% set dimensions = origin.data.dimensions %}
   {% set gear = origin.data.gear %}
   {% set settings = origin.data.settings %}
-  {% set geo = origin.data.geo %}
+  {% if origin.data.geo %}{% set geo = origin.data.geo %}{% endif %}
   {% set content = content or origin.content %}
   {% set tags = origin.data.tags %}
   {% set colors = origin.data.colors %}
@@ -119,7 +119,7 @@
         {% if settings.shutter_speed %}<li class="shutter_speed">{% inline_icon 'shutter_speed' %} <a href="/statistics/shutter-speed/{{ settings.shutter_speed.slug }}/">{{ settings.shutter_speed.readable }}</a></li>{% endif %}
       </ul>
       <div class="geo">
-        {% if geo.latitude and geo.longitude %}
+        {% if geo %}
           <data class="p-longitude" value="{{ geo.longitude }}"></data>
           <data class="p-latitude" value="{{ geo.latitude }}"></data>
 

@@ -7,6 +7,7 @@ eleventyExcludeFromCollections: true
   "type": "FeatureCollection",
   "features": [
 {%- for item in collections.unique_photos %}
+  {%- if item.data.origin.data.geo -%}
     {
       "type": "Feature",
       "geometry": {
@@ -23,6 +24,7 @@ eleventyExcludeFromCollections: true
         "url": "{{ item.page.url }}"
       }
     }{%- if not loop.last -%},{%- endif -%}
+  {%- endif -%}
 {% endfor %}
   ]
 }

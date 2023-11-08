@@ -9,6 +9,7 @@ eleventyExcludeFromCollections: true
     <name>Nicolas Hoizey photography</name>
     <description>The photography portfolio of Nicolas Hoizey</description>
 {%- for item in collections.unique_photos %}
+  {%- if item.data.origin.data.geo -%}
     <Style id="{{ item.page.fileSlug }}">
       <IconStyle>
         <Icon>
@@ -59,6 +60,7 @@ eleventyExcludeFromCollections: true
         <coordinates>{{ item.data.origin.data.geo.longitude }},{{ item.data.origin.data.geo.latitude }}</coordinates>
       </Point>
     </Placemark>
+  {%- endif %}
 {% endfor %}
   </Document>
 </kml>

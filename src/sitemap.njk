@@ -18,7 +18,7 @@ eleventyExcludeFromCollections: true
       <image:loc>{{ 'https://nicolas-hoizey.photo/photos/' + entry.page.fileSlug + '/' + entry.page.fileSlug + '.jpg' }}</image:loc>
       <image:title>{{ entry.data.title }}</image:title>
       <image:caption>{{ entry.data.title }}</image:caption>
-      {% if geo.city and geo.country %}<image:geo_location>{{ geo.city }}, {{ geo.country }}</image:geo_location>{% endif %}
+      {% if geo and geo.city and geo.country %}<image:geo_location>{{ geo.city }}, {{ geo.country }}</image:geo_location>{% endif %}
     </image:image>
   </url>
 {% endfor %}
