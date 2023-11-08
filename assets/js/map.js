@@ -25,10 +25,8 @@ import polylabel from 'polylabel';
       container: mapElementId,
       style: `${window.location.origin}/map/mapbox-style-terrain.json`,
       projection: 'globe',
-      bounds: [
-        [0, 70],
-        [0, -40],
-      ],
+      center: [3, 35],
+      zoom: 3,
       minZoom: 1,
       maxZoom: maxZoomLevel,
       scrollZoom: false,
