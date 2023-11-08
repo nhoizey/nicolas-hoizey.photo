@@ -90,9 +90,9 @@ dimensions:
 geo:
   latitude: 53.2359
   longitude: 6.523519445
-  map: true
   country: The Netherlands
   city: Groningen
+  map: true
 colors:
   vibrant: 94 174 4
   darkVibrant: 6 116 164

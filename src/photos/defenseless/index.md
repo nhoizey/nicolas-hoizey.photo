@@ -69,9 +69,9 @@ dimensions:
 geo:
   latitude: 48.892390111666664
   longitude: 2.235918805
-  map: true
   country: France
   city: Puteaux
+  map: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

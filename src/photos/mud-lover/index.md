@@ -62,9 +62,9 @@ dimensions:
 geo:
   latitude: 51.958405813333336
   longitude: 5.589261265
-  map: true
   country: The Netherlands
   city: Rhenen
+  map: true
 colors:
   vibrant: 173 131 73
   darkVibrant: 92 63 34

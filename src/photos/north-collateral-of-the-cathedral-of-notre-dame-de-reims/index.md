@@ -57,9 +57,9 @@ dimensions:
 geo:
   latitude: 49.253916528333335
   longitude: 4.0339785316666665
-  map: true
   country: France
   city: Reims
+  map: true
 colors:
   vibrant: 205 135 56
   darkVibrant: 97 35 18

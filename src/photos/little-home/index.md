@@ -50,9 +50,9 @@ dimensions:
 geo:
   latitude: -3.4570783333333335
   longitude: 38.203408333333336
-  map: true
   country: Kenya
   city: Taita
+  map: true
 colors:
   vibrant: 12 151 234
   darkVibrant: 4 119 216

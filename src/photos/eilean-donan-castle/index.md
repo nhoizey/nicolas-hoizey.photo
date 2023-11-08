@@ -69,9 +69,9 @@ dimensions:
 geo:
   latitude: 57.27417777833333
   longitude: -5.5137194449999996
-  map: true
   country: Scotland
   city: Dornie
+  map: true
 colors:
   vibrant: 44 84 132
   darkVibrant: 100 12 52

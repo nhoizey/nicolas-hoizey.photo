@@ -66,9 +66,9 @@ dimensions:
 geo:
   latitude: 22.284166666666668
   longitude: 114.150275
-  map: true
   country: Hong Kong
   city: Tai Ping Shan
+  map: true
 colors:
   vibrant: 226 205 47
   darkVibrant: 106 19 18

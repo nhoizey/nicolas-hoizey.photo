@@ -86,9 +86,9 @@ dimensions:
 geo:
   latitude: 57.411965503333334
   longitude: -6.192072153333333
-  map: true
   country: Scotland
   city: Portree
+  map: true
 colors:
   vibrant: 213 56 75
   darkVibrant: 134 35 40

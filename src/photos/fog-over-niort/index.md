@@ -64,9 +64,9 @@ dimensions:
 geo:
   latitude: 46.324781116666664
   longitude: -0.466844355
-  map: true
   country: France
   city: Niort
+  map: true
 colors:
   vibrant: 230 155 13
   darkVibrant: 132 60 4

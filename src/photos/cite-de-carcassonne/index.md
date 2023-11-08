@@ -64,9 +64,9 @@ dimensions:
 geo:
   latitude: 43.21165222166667
   longitude: 2.358885278333333
-  map: true
   country: France
   city: Carcassonne
+  map: true
 colors:
   vibrant: 112 172 222
   darkVibrant: 76 92 41

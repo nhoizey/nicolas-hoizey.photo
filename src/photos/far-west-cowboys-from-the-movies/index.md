@@ -78,9 +78,9 @@ dimensions:
 geo:
   latitude: 37.04949480166667
   longitude: -2.4214167616666664
-  map: true
   country: Espagne
   city: Tabernas
+  map: true
 colors:
   vibrant: 156 76 28
   darkVibrant: 86 26 4

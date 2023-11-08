@@ -61,9 +61,9 @@ dimensions:
 geo:
   latitude: -4.122146666666667
   longitude: 39.314975
-  map: true
   country: Kenya
   city: Kwale
+  map: true
 colors:
   vibrant: 198 108 68
   darkVibrant: 79 76 18

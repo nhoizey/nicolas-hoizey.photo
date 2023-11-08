@@ -62,9 +62,9 @@ dimensions:
 geo:
   latitude: 48.38997222166667
   longitude: -4.435844445
-  map: true
   country: France
   city: Brest
+  map: true
 colors:
   vibrant: 4 140 172
   darkVibrant: 7 95 120

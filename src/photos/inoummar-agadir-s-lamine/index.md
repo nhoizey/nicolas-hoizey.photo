@@ -69,9 +69,9 @@ dimensions:
 geo:
   latitude: 30.163096666666668
   longitude: -9.108833333333333
-  map: true
   country: Morocco
   city: Tassegdelt
+  map: true
 colors:
   vibrant: 196 92 60
   darkVibrant: 113 56 20

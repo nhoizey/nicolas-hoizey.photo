@@ -67,9 +67,9 @@ dimensions:
 geo:
   latitude: 35.60827625333334
   longitude: 23.576639096666668
-  map: true
   country: Greece
   city: Kissamos
+  map: true
 colors:
   vibrant: 6 128 186
   darkVibrant: 6 96 147

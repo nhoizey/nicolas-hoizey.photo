@@ -60,9 +60,9 @@ dimensions:
 geo:
   latitude: 51.978883333333336
   longitude: 5.913263333333333
-  map: true
   country: The Netherlands
   city: Arnhem
+  map: true
 colors:
   vibrant: 215 189 52
   darkVibrant: 131 112 8

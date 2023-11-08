@@ -69,9 +69,9 @@ dimensions:
 geo:
   latitude: 50.06413888833333
   longitude: 1.3695666666666666
-  map: true
   country: France
   city: Le Tréport
+  map: true
 colors:
   vibrant: 209 153 134
   darkVibrant: 9 118 110

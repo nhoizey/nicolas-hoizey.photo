@@ -49,9 +49,9 @@ dimensions:
 geo:
   latitude: 48.440403333333336
   longitude: 5.13971
-  map: true
   country: France
   city: Joinville
+  map: true
 colors:
   vibrant: 5 80 165
   darkVibrant: 12 77 154

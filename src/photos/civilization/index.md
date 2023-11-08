@@ -61,9 +61,9 @@ dimensions:
 geo:
   latitude: -2.7555083333333332
   longitude: 37.428066666666666
-  map: true
   country: Kenya
   city: Kajiado
+  map: true
 colors:
   vibrant: 14 145 211
   darkVibrant: 62 38 19

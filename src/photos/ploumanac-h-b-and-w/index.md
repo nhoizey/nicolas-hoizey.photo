@@ -65,9 +65,9 @@ dimensions:
 geo:
   latitude: 48.836349778333336
   longitude: -3.4839227283333334
-  map: true
   country: France
   city: Perros-Guirec
+  map: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

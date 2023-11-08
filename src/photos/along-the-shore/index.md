@@ -64,9 +64,9 @@ dimensions:
 geo:
   latitude: 47.862052778333336
   longitude: -4.097894445
-  map: true
   country: France
   city: Bénodet
+  map: true
 colors:
   vibrant: 25 115 174
   darkVibrant: 5 72 114

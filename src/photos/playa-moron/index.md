@@ -73,9 +73,9 @@ dimensions:
 geo:
   latitude: 19.31711333333333
   longitude: -69.41788333333334
-  map: true
   country: Dominican Republic
   city: El Limón
+  map: true
 colors:
   vibrant: 15 138 203
   darkVibrant: 4 73 136

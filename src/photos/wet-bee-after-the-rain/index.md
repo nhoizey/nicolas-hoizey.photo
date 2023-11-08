@@ -51,9 +51,9 @@ dimensions:
 geo:
   latitude: 48.55212023833333
   longitude: 1.044283405
-  map: true
   country: France
   city: Senonches
+  map: true
 colors:
   vibrant: 135 88 176
   darkVibrant: 45 75 10

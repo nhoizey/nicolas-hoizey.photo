@@ -63,9 +63,9 @@ dimensions:
 geo:
   latitude: 48.67514963
   longitude: 2.488652255
-  map: true
   country: France
   city: Soisy-sur-Seine
+  map: true
 colors:
   vibrant: 70 141 191
   darkVibrant: 37 70 102

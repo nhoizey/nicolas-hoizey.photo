@@ -64,9 +64,9 @@ dimensions:
 geo:
   latitude: 30.467730555
   longitude: -8.884002778333333
-  map: true
   country: Morocco
   city: Taroudant
+  map: true
 colors:
   vibrant: 4 108 187
   darkVibrant: 4 100 180

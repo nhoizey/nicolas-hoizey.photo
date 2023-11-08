@@ -60,9 +60,9 @@ dimensions:
 geo:
   latitude: 48.764527511666664
   longitude: 1.8883957516666667
-  map: true
   country: France
   city: Saint-Rémy-l'Honoré
+  map: true
 colors:
   vibrant: 39 159 223
   darkVibrant: 20 80 122

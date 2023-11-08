@@ -46,9 +46,9 @@ dimensions:
 geo:
   latitude: 45.386998945
   longitude: 6.569370916666667
-  map: true
   country: France
   city: Les Allues
+  map: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

@@ -47,9 +47,9 @@ dimensions:
 geo:
   latitude: 44.841980555
   longitude: -0.5690000000000001
-  map: true
   country: France
   city: Bordeaux
+  map: true
 colors:
   vibrant: 228 104 52
   darkVibrant: 149 69 16

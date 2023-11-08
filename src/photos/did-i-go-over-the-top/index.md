@@ -79,9 +79,9 @@ dimensions:
 geo:
   latitude: 56.773540005
   longitude: -3.85580866
-  map: true
   country: Scotland
   city: Blair Castle
+  map: true
 colors:
   vibrant: 56 135 188
   darkVibrant: 16 137 135

@@ -69,9 +69,9 @@ dimensions:
 geo:
   latitude: 38.885975
   longitude: 1.4036888883333334
-  map: true
   country: Spain
   city: Ibiza
+  map: true
 colors:
   vibrant: 13 4 241
   darkVibrant: 4 4 115

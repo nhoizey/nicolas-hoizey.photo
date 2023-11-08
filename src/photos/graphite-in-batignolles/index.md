@@ -57,8 +57,8 @@ dimensions:
 geo:
   latitude: 48.88948664833333
   longitude: 2.313517376666667
-  map: true
   country: France
+  map: true
 colors:
   vibrant: 6 118 203
   darkVibrant: 12 52 100

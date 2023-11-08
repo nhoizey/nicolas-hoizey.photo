@@ -51,9 +51,9 @@ dimensions:
 geo:
   latitude: 49.29791138
   longitude: -0.09877974333333334
-  map: true
   country: France
   city: Cabourg
+  map: true
 colors:
   vibrant: 151 81 35
   darkVibrant: 76 44 12

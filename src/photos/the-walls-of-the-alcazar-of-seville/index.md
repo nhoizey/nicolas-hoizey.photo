@@ -65,9 +65,9 @@ dimensions:
 geo:
   latitude: 37.38436848333333
   longitude: -5.9906464816666665
-  map: true
   country: Espagne
   city: Séville
+  map: true
 colors:
   vibrant: 232 145 81
   darkVibrant: 92 32 4

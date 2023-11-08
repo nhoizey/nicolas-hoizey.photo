@@ -76,9 +76,9 @@ dimensions:
 geo:
   latitude: 59.4802025
   longitude: 18.013016666666665
-  map: true
   country: Sweden
   city: Täby
+  map: true
 colors:
   vibrant: 76 116 179
   darkVibrant: 40 61 93

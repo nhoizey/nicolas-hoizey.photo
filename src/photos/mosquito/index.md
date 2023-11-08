@@ -58,9 +58,9 @@ dimensions:
 geo:
   latitude: 48.018102371666664
   longitude: 3.702400643333333
-  map: true
   country: France
   city: Venizy
+  map: true
 colors:
   vibrant: 180 116 65
   darkVibrant: 58 34 19

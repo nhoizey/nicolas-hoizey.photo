@@ -63,9 +63,9 @@ dimensions:
 geo:
   latitude: 59.45694460833333
   longitude: 18.299465586666667
-  map: true
   country: Sweden
   city: Åkersberga
+  map: true
 colors:
   vibrant: 84 124 180
   darkVibrant: 108 108 36

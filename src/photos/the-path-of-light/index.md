@@ -65,9 +65,9 @@ dimensions:
 geo:
   latitude: 41.842058333333334
   longitude: 44.720798333333335
-  map: true
   country: Georgia
   city: Mtskheta
+  map: true
 colors:
   vibrant: 212 112 30
   darkVibrant: 129 64 6

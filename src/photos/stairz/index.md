@@ -71,9 +71,9 @@ dimensions:
 geo:
   latitude: 48.860899185
   longitude: 2.351757158333333
-  map: true
   country: France
   city: Paris
+  map: true
 colors:
   vibrant: 15 152 235
   darkVibrant: 4 44 138

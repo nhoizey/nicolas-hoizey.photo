@@ -43,9 +43,9 @@ dimensions:
 geo:
   latitude: 46.67242
   longitude: -73.006345
-  map: true
   country: Canada
   city: La Mauricie
+  map: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

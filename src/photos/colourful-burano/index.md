@@ -60,9 +60,9 @@ dimensions:
 geo:
   latitude: 45.48542777833333
   longitude: 12.415352778333334
-  map: true
   country: Italy
   city: Burano
+  map: true
 colors:
   vibrant: 17 136 185
   darkVibrant: 94 85 31

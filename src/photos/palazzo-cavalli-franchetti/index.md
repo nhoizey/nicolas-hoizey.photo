@@ -59,9 +59,9 @@ dimensions:
 geo:
   latitude: 45.43178611166667
   longitude: 12.329047221666666
-  map: true
   country: Italy
   city: Venice
+  map: true
 colors:
   vibrant: 194 123 30
   darkVibrant: 21 117 162

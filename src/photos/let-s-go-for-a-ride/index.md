@@ -71,9 +71,9 @@ dimensions:
 geo:
   latitude: 22.308375
   longitude: 114.17160277833334
-  map: true
   country: Hong Kong
   city: Kowloon
+  map: true
 colors:
   vibrant: 235 102 44
   darkVibrant: 161 85 12

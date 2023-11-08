@@ -52,11 +52,6 @@ settings:
 dimensions:
   width: 3500
   height: 2333
-geo:
-  latitude: 48.692803
-  longitude: 2.422789
-  country: France
-  city: Montgeron
 colors:
   vibrant: 232 140 66
   darkVibrant: 68 20 12

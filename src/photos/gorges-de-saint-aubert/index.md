@@ -77,9 +77,9 @@ dimensions:
 geo:
   latitude: 48.788003368333335
   longitude: -0.30291813333333334
-  map: true
   country: France
   city: Putanges-le-Lac
+  map: true
 colors:
   vibrant: 180 116 36
   darkVibrant: 67 92 16

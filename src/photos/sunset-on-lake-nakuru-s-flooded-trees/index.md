@@ -75,9 +75,9 @@ dimensions:
 geo:
   latitude: -0.30809833333333336
   longitude: 36.109235
-  map: true
   country: Kenya
   city: Lake Nakuru National Park
+  map: true
 colors:
   vibrant: 176 117 85
   darkVibrant: 4 45 71

@@ -76,9 +76,9 @@ dimensions:
 geo:
   latitude: 22.276657225
   longitude: 114.16060013166667
-  map: true
   country: Hong Kong
   city: Central
+  map: true
 colors:
   vibrant: 43 91 153
   darkVibrant: 24 58 106

@@ -64,9 +64,9 @@ dimensions:
 geo:
   latitude: 56.400980555
   longitude: -5.024969445
-  map: true
   country: Scotland
   city: Lochawe
+  map: true
 colors:
   vibrant: 211 205 44
   darkVibrant: 71 69 15

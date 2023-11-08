@@ -63,9 +63,9 @@ dimensions:
 geo:
   latitude: 49.368072221666665
   longitude: 0.07846388833333333
-  map: true
   country: France
   city: Trouville-sur-Mer
+  map: true
 colors:
   vibrant: 247 183 8
   darkVibrant: 124 92 4

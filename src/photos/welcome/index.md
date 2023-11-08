@@ -62,9 +62,9 @@ dimensions:
 geo:
   latitude: 50.651988196666665
   longitude: 3.5396000333333335
-  map: true
   country: Belgique
   city: Frasnes-lez-Anvaing
+  map: true
 colors:
   vibrant: 61 101 142
   darkVibrant: 12 54 85

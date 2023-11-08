@@ -60,9 +60,9 @@ dimensions:
 geo:
   latitude: 47.61696638833333
   longitude: 1.514963055
-  map: true
   country: France
   city: Chambord
+  map: true
 colors:
   vibrant: 197 138 73
   darkVibrant: 66 49 10

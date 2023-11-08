@@ -64,9 +64,9 @@ dimensions:
 geo:
   latitude: 52.09919166666667
   longitude: 4.296975
-  map: true
   country: The Netherlands
   city: Den Haag
+  map: true
 colors:
   vibrant: 174 183 51
   darkVibrant: 34 46 10

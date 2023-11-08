@@ -77,8 +77,8 @@ dimensions:
 geo:
   latitude: 56.940038273333336
   longitude: -5.854871491666667
-  map: true
   country: Scotland
+  map: true
 colors:
   vibrant: 48 107 161
   darkVibrant: 26 74 106

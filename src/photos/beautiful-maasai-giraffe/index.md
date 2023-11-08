@@ -73,9 +73,9 @@ dimensions:
 geo:
   latitude: -1.6264699999999999
   longitude: 35.30825333333333
-  map: true
   country: Kenya
   city: Maasai Mara National Reserve
+  map: true
 colors:
   vibrant: 173 179 17
   darkVibrant: 68 124 5

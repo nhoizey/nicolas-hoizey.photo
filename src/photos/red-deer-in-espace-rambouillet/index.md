@@ -77,9 +77,9 @@ dimensions:
 geo:
   latitude: 48.62625388833333
   longitude: 1.8730799999999999
-  map: true
   country: France
   city: Rambouillet
+  map: true
 colors:
   vibrant: 154 130 60
   darkVibrant: 102 93 22

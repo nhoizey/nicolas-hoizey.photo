@@ -67,9 +67,9 @@ dimensions:
 geo:
   latitude: -2.6523165116666667
   longitude: 37.27466943666667
-  map: true
   country: Kenya
   city: Amboseli National Park
+  map: true
 colors:
   vibrant: 220 220 35
   darkVibrant: 94 94 15

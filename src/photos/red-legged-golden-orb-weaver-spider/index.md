@@ -81,9 +81,9 @@ dimensions:
 geo:
   latitude: -4.334515
   longitude: 39.56908
-  map: true
   country: Kenya
   city: Diani Beach
+  map: true
 colors:
   vibrant: 239 166 29
   darkVibrant: 85 107 9

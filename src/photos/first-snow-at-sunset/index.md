@@ -74,9 +74,9 @@ dimensions:
 geo:
   latitude: 52.13452460166667
   longitude: 5.534147773333333
-  map: true
   country: The Netherlands
   city: Achterveld
+  map: true
 colors:
   vibrant: 234 108 66
   darkVibrant: 40 61 100

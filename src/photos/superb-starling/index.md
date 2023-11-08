@@ -69,9 +69,9 @@ dimensions:
 geo:
   latitude: 51.67220394
   longitude: 5.99632914
-  map: true
   country: The Netherlands
   city: Heijen
+  map: true
 colors:
   vibrant: 62 185 215
   darkVibrant: 105 41 4

@@ -59,9 +59,9 @@ dimensions:
 geo:
   latitude: 36.74212234833333
   longitude: -5.167100268333333
-  map: true
   country: Espagne
   city: Ronda
+  map: true
 colors:
   vibrant: 194 152 72
   darkVibrant: 125 41 5

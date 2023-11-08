@@ -50,9 +50,9 @@ dimensions:
 geo:
   latitude: 38.713985895
   longitude: -9.140727516666667
-  map: true
   country: Portugal
   city: Lisbonne
+  map: true
 colors:
   vibrant: 208 74 65
   darkVibrant: 161 83 44

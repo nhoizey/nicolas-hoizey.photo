@@ -54,9 +54,9 @@ dimensions:
 geo:
   latitude: -0.6318183333333334
   longitude: 35.99901833333333
-  map: true
   country: Kenya
   city: Nakuru
+  map: true
 colors:
   vibrant: 11 88 170
   darkVibrant: 29 64 108

@@ -72,9 +72,9 @@ dimensions:
 geo:
   latitude: 48.62179341666667
   longitude: 2.5426980283333336
-  map: true
   country: France
   city: Lieusaint
+  map: true
 colors:
   vibrant: 251 128 43
   darkVibrant: 121 16 39

@@ -102,9 +102,9 @@ dimensions:
 geo:
   latitude: 40.70333333333333
   longitude: -73.99638833333333
-  map: true
   country: United States of America
   city: New York City
+  map: true
 colors:
   vibrant: 213 80 42
   darkVibrant: 96 36 19

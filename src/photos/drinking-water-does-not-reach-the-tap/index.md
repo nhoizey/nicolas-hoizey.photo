@@ -58,9 +58,9 @@ dimensions:
 geo:
   latitude: -1.1429966666666667
   longitude: 36.63648333333333
-  map: true
   country: Kenya
   city: Kiambu
+  map: true
 colors:
   vibrant: 5 89 182
   darkVibrant: 6 74 149

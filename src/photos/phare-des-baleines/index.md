@@ -64,9 +64,9 @@ dimensions:
 geo:
   latitude: 46.24420277833333
   longitude: -1.56115
-  map: true
   country: France
   city: Saint-Clément-des-Baleines
+  map: true
 colors:
   vibrant: 108 76 52
   darkVibrant: 62 32 20

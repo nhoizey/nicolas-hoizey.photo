@@ -66,8 +66,8 @@ dimensions:
 geo:
   latitude: 25.89765467166667
   longitude: 34.29447104166667
-  map: true
   country: Egypt
+  map: true
 colors:
   vibrant: 230 171 109
   darkVibrant: 111 45 20

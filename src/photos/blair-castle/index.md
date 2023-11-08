@@ -70,9 +70,9 @@ dimensions:
 geo:
   latitude: 56.774012543333335
   longitude: -3.85714532
-  map: true
   country: Scotland
   city: Blair Atholl
+  map: true
 colors:
   vibrant: 195 236 19
   darkVibrant: 52 63 5

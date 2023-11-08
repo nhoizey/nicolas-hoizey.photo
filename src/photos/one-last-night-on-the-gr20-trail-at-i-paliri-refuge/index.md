@@ -47,9 +47,9 @@ dimensions:
 geo:
   latitude: 41.79449083666667
   longitude: 9.259606416666667
-  map: true
   country: France
   city: Bavella
+  map: true
 colors:
   vibrant: 74 74 181
   darkVibrant: 38 38 94

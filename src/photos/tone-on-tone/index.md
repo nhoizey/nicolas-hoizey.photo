@@ -60,9 +60,9 @@ dimensions:
 geo:
   latitude: 45.488904471666665
   longitude: 12.410688083333334
-  map: true
   country: Italy
   city: Mazzorbo
+  map: true
 colors:
   vibrant: 178 86 45
   darkVibrant: 7 124 73

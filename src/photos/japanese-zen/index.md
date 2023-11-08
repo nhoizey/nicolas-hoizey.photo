@@ -71,9 +71,9 @@ dimensions:
 geo:
   latitude: 48.84175277833333
   longitude: 2.2267861116666667
-  map: true
   country: France
   city: Boulogne-Billancourt
+  map: true
 colors:
   vibrant: 199 128 101
   darkVibrant: 116 92 22

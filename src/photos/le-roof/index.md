@@ -58,9 +58,9 @@ dimensions:
 geo:
   latitude: -22.304684938333335
   longitude: 166.44731622333333
-  map: true
   country: New Caledonia
   city: Nouméa
+  map: true
 colors:
   vibrant: 58 114 179
   darkVibrant: 19 90 140

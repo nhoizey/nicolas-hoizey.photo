@@ -59,9 +59,9 @@ dimensions:
 geo:
   latitude: 41.90084330333333
   longitude: 12.483434845
-  map: true
   country: Italy
   city: Rome
+  map: true
 colors:
   vibrant: 52 92 108
   darkVibrant: 43 76 90

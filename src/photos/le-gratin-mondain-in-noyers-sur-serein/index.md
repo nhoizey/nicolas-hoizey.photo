@@ -67,9 +67,9 @@ dimensions:
 geo:
   latitude: 47.695832376666665
   longitude: 3.9949279216666667
-  map: true
   country: France
   city: Noyers
+  map: true
 colors:
   vibrant: 89 153 180
   darkVibrant: 84 62 22

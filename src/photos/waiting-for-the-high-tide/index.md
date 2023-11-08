@@ -60,9 +60,9 @@ dimensions:
 geo:
   latitude: 48.82571007666667
   longitude: -3.4906246916666666
-  map: true
   country: France
   city: Trégastel
+  map: true
 colors:
   vibrant: 4 143 239
   darkVibrant: 4 66 136

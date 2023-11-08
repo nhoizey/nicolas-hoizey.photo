@@ -66,9 +66,9 @@ dimensions:
 geo:
   latitude: 51.529916666666665
   longitude: -0.124130555
-  map: true
   country: England
   city: London
+  map: true
 colors:
   vibrant: 76 132 158
   darkVibrant: 90 67 20

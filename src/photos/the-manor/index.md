@@ -58,9 +58,9 @@ dimensions:
 geo:
   latitude: 48.77651547166667
   longitude: 1.9620263066666666
-  map: true
   country: France
   city: Élancourt
+  map: true
 colors:
   vibrant: 60 116 156
   darkVibrant: 26 64 97

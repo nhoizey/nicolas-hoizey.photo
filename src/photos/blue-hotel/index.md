@@ -59,9 +59,9 @@ dimensions:
 geo:
   latitude: -1.0973783333333333
   longitude: 36.08354166666667
-  map: true
   country: Kenya
   city: Narok
+  map: true
 colors:
   vibrant: 44 148 163
   darkVibrant: 23 70 101

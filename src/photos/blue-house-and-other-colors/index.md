@@ -69,9 +69,9 @@ dimensions:
 geo:
   latitude: 22.274421666666665
   longitude: 114.17389333333334
-  map: true
   country: Hong Kong
   city: Wan Chai
+  map: true
 colors:
   vibrant: 187 52 135
   darkVibrant: 91 17 34

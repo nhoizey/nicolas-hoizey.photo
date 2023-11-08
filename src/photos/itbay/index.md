@@ -61,9 +61,9 @@ dimensions:
 geo:
   latitude: 25.885788668333333
   longitude: 34.24826244166667
-  map: true
   country: Egypt
   city: Al Qusir
+  map: true
 colors:
   vibrant: 180 120 60
   darkVibrant: 98 57 15

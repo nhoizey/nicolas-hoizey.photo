@@ -54,9 +54,9 @@ dimensions:
 geo:
   latitude: 41.694536666666664
   longitude: 44.80416666666667
-  map: true
   country: Georgia
   city: Tbilisi
+  map: true
 colors:
   vibrant: 19 134 202
   darkVibrant: 8 60 91

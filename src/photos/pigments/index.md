@@ -57,9 +57,9 @@ dimensions:
 geo:
   latitude: 47.477666666666664
   longitude: 1.180830555
-  map: true
   country: France
   city: Chaumont-sur-Loire
+  map: true
 colors:
   vibrant: 205 22 121
   darkVibrant: 132 11 47

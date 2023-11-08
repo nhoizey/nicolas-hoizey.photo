@@ -61,9 +61,9 @@ dimensions:
 geo:
   latitude: 45.76658333333334
   longitude: 4.833569445
-  map: true
   country: France
   city: Lyon
+  map: true
 colors:
   vibrant: 128 128 128
   darkVibrant: 66 66 66

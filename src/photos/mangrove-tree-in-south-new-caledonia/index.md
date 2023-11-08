@@ -61,9 +61,9 @@ dimensions:
 geo:
   latitude: -22.297055028333332
   longitude: 166.66152543333334
-  map: true
   country: France
   city: Le Mont-Dore
+  map: true
 colors:
   vibrant: 72 122 168
   darkVibrant: 33 34 4

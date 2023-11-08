@@ -68,9 +68,9 @@ dimensions:
 geo:
   latitude: 43.371453055
   longitude: -2.9139641666666667
-  map: true
   country: Espagne
   city: Gatika
+  map: true
 colors:
   vibrant: 172 68 4
   darkVibrant: 180 84 20

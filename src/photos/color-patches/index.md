@@ -69,9 +69,9 @@ dimensions:
 geo:
   latitude: 48.92033888833333
   longitude: 2.3539527783333334
-  map: true
   country: France
   city: Saint-Denis
+  map: true
 colors:
   vibrant: 17 198 206
   darkVibrant: 97 17 7

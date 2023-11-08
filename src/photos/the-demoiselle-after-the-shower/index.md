@@ -71,9 +71,9 @@ dimensions:
 geo:
   latitude: 48.65318480333333
   longitude: 2.5035789716666668
-  map: true
   country: France
   city: Étiolles
+  map: true
 colors:
   vibrant: 106 62 49
   darkVibrant: 91 53 42

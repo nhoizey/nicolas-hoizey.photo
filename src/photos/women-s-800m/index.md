@@ -58,9 +58,9 @@ dimensions:
 geo:
   latitude: 48.69822939833333
   longitude: 2.4519665083333333
-  map: true
   country: France
   city: Montgeron
+  map: true
 colors:
   vibrant: 19 155 192
   darkVibrant: 125 85 7

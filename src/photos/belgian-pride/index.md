@@ -73,9 +73,9 @@ dimensions:
 geo:
   latitude: 50.84643363833333
   longitude: 4.353030788333333
-  map: true
   country: Belgium
   city: Brussels
+  map: true
 colors:
   vibrant: 47 33 217
   darkVibrant: 96 11 23

@@ -59,9 +59,9 @@ dimensions:
 geo:
   latitude: 38.707975
   longitude: -9.142055555
-  map: true
   country: Portugal
   city: Lisboa
+  map: true
 colors:
   vibrant: 54 71 144
   darkVibrant: 108 72 23

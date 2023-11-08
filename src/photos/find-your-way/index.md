@@ -68,8 +68,8 @@ dimensions:
 geo:
   latitude: 41.906585228333334
   longitude: 12.455174858333333
-  map: true
   country: Vatican City
+  map: true
 colors:
   vibrant: 183 133 56
   darkVibrant: 148 92 4

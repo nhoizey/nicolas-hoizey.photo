@@ -58,9 +58,9 @@ dimensions:
 geo:
   latitude: 48.68200319166667
   longitude: 2.405349703333333
-  map: true
   country: France
   city: Draveil
+  map: true
 colors:
   vibrant: 182 130 55
   darkVibrant: 108 52 14

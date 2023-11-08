@@ -58,9 +58,9 @@ dimensions:
 geo:
   latitude: 49.425637546666664
   longitude: 0.22933463666666667
-  map: true
   country: France
   city: Honfleur
+  map: true
 colors:
   vibrant: 73 142 14
   darkVibrant: 55 118 16

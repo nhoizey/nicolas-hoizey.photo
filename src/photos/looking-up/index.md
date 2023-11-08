@@ -60,9 +60,9 @@ dimensions:
 geo:
   latitude: 38.79768333333333
   longitude: -9.390661111666667
-  map: true
   country: Portugal
   city: Sintra
+  map: true
 colors:
   vibrant: 187 129 66
   darkVibrant: 4 36 76

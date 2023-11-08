@@ -74,9 +74,9 @@ dimensions:
 geo:
   latitude: 49.699640816666665
   longitude: 0.18258245666666667
-  map: true
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 196 108 60
   darkVibrant: 89 63 32

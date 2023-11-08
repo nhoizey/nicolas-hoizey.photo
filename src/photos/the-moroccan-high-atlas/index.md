@@ -72,9 +72,9 @@ dimensions:
 geo:
   latitude: 30.417451858333333
   longitude: -8.673681001666667
-  map: true
   country: Morocco
   city: Caïdat de Freija
+  map: true
 colors:
   vibrant: 4 122 196
   darkVibrant: 4 96 170

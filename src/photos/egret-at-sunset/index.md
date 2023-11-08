@@ -70,9 +70,9 @@ dimensions:
 geo:
   latitude: 47.464144445
   longitude: 0.22411388833333332
-  map: true
   country: France
   city: Rillé
+  map: true
 colors:
   vibrant: 204 156 148
   darkVibrant: 11 79 126
