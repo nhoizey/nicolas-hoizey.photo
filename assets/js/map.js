@@ -313,7 +313,8 @@ import polylabel from 'polylabel';
         }
         setTimeout(requestAnimationFrame, rotationInterval, spinGlobe);
       };
-      requestAnimationFrame(spinGlobe);
+      // TODO: allow activation of spinning with a button
+      // requestAnimationFrame(spinGlobe);
 
       // Pause spinning on interaction
       map.on('mousedown', () => {
