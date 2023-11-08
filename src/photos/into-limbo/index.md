@@ -48,6 +48,7 @@ geo:
   longitude: 9.19475
   country: France
   city: Ghisoni
+  map: true
 colors:
   vibrant: 19 146 152
   darkVibrant: 4 92 132

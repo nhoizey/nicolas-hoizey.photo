@@ -65,6 +65,7 @@ geo:
   longitude: 2.487422088333333
   country: France
   city: Yerres
+  map: true
 colors:
   vibrant: 180 156 60
   darkVibrant: 129 16 8
