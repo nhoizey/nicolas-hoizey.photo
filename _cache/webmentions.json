@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-08T06:07:15.447Z",
+  "lastFetched": "2023-11-09T06:06:46.343Z",
   "webmentions": [
     {
       "type": "entry",
@@ -49668,6 +49668,33 @@
       "type": "entry",
       "author": {
         "type": "card",
+        "name": "Darek Kay",
+        "photo": "",
+        "url": "https://darekkay.com/"
+      },
+      "url": "https://darekkay.com/blog/photography-website/",
+      "published": "2023-10-25T20:49:41",
+      "wm-received": "2023-11-08T21:53:31Z",
+      "wm-id": 1736270,
+      "wm-source": "https://darekkay.com/blog/photography-website/",
+      "wm-target": "https://nicolas-hoizey.photo/",
+      "wm-protocol": "webmention",
+      "name": "Building a photography website",
+      "content": {
+        "html": "<p>Last year, I started a photography hobby. Soon after, I've created a <a href=\"https://photos.darekkay.com/\">place where I can share some of my work</a>, without any attention-driven algorithms dictating the terms. Here's a technical write-up of my journey.</p><p><strong>Table of contents:</strong></p><ol><li><a href=\"https://darekkay.com/blog/photography-website/#motivation\">Motivation</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#inspiration\">Inspiration</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#design\">Design</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#implementation\">Implementation</a><ol><li><a href=\"https://darekkay.com/blog/photography-website/#content-management\">Content management</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#loading-performance\">Loading performance</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#navigation\">Navigation</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#rss\">RSS</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#accessibility\">Accessibility</a></li></ol></li><li><a href=\"https://darekkay.com/blog/photography-website/#pipeline\">Pipeline</a><ol><li><a href=\"https://darekkay.com/blog/photography-website/#preparation\">Preparation</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#metadata-update\">Metadata update</a></li><li><a href=\"https://darekkay.com/blog/photography-website/#content-update\">Content update</a></li></ol></li><li><a href=\"https://darekkay.com/blog/photography-website/#further-steps\">Further steps</a></li></ol><h2><a href=\"https://darekkay.com/blog/photography-website/#motivation\">Motivation</a></h2><p>Why should one build a photography website in the first place?</p><p>Similar to this blog, I want to reduce my dependency on social media and third-party services. Even if I ignored Instagram's privacy issues and dark patterns, the fact they can delete my account at a whim is unacceptable. In fact, they shadow-banned my first Instagram account because of \"suspicious activity\". <a href=\"https://pixelfed.org/\">Pixelfed</a>, a federated photo sharing platform, solves many issues of Big Tech. However, I can't guarantee the instance I chose to stand the test of time. <a href=\"https://glass.photo/\">Glass</a> has potential, but there are some issues like no way to provide image alt descriptions.</p><p>Instead of relying on third-party providers alone, I practice <a href=\"https://indieweb.org/POSSE\">POSSE</a>: I publish photos on my own site and syndicate them to my <a href=\"https://pixelfed.social/i/web/profile/425185433823763122\">Pixelfed</a>, <a href=\"https://glass.photo/darekkay\">Glass</a> and <a href=\"https://www.instagram.com/darek.kay/\">Instagram</a> accounts. This approach brings some further advantages:</p><ul><li>Anyone can <em>access</em> my photos, without the need for an account.</li><li>People can <em>subscribe</em> via RSS to view my latest photos, without an algorithm-driven feed.</li><li>I can use a custom, personalized <em>design</em>.</li><li>I can <em>update</em> my photos, e.g. make changes after getting more experienced with RAW development and photo editing.</li><li>I can use any <em>aspect ratio</em>. Instagram will often crop the image preview despite choosing \"original size\" on upload.</li><li>I own my content.</li></ul><h2><a href=\"https://darekkay.com/blog/photography-website/#inspiration\">Inspiration</a></h2><p>Most photography websites are from professional artists who provide a showcase for potential clients. I was looking for a more personal look and feel. Fortunately, some fellow software developers share a photography hobby: <a href=\"https://nicolas-hoizey.photo/\">Nicolas Hoizey</a> (my favorite site!), <a href=\"https://moritzpetersen.de/index.html\">Moritz Petersen</a>, <a href=\"https://morning.photos/\">Artem Sapegin</a>, <a href=\"https://gregmorris.co.uk/\">Greg Morris</a>, <a href=\"https://photos.alanwsmith.com/\">Alan W. Smith</a>, <a href=\"https://where.hiddedevries.nl/\">Hidde de Vries</a> (<a href=\"https://hidde.blog/photo-blogging-with-sanity-and-eleventy/\">write-up</a>), <a href=\"https://shom.bandopadhaya.com/photos/\">Shom Bandopadhaya</a>, <a href=\"https://coma.photography\">Jens Comiotto-Mayer</a>, <a href=\"https://www.matthewhowell.net/photos\">Matthew Howell</a>, <a href=\"https://paulstamatiou.com/photos/\">Paul Stamatiou</a>, <a href=\"https://jesperreiche.com/category/photography/\">Jesper Reiche</a>, <a href=\"https://jamiedumont.com/\">Jamie Dumont</a>, <a href=\"https://www.chuq.me/photography\">Chuq von Rospach</a> and <a href=\"https://matze.rocks/images/\">Matze</a>. All those websites helped me narrow down the features I want for my own portfolio website.</p><h2><a href=\"https://darekkay.com/blog/photography-website/#design\">Design</a></h2><p>As mentioned, I don't want to convey a business feeling. I want a personal website that <a href=\"https://whimsical.club/\">sparks joy</a>. I've decided to go for a pinboard design:</p><ul><li>The background mimics a corkboard.</li><li>The photos get a big white border, simulating printed Polaroid photos.</li><li>There are three variants of a sticky tape effect.</li><li>The website uses a handwriting font (\"Itim\").</li></ul><p>Previously, I have rotated the photos randomly on every build for some chaos. I loved the effect, but the rotation required the pictures to be interpolated, making them slightly blurry.</p><p><img src=\"https://darekkay.com/blog/photography-website/screenshot.jpg\" alt=\"Website screenshot of the home page gallery\" width=\"750\" height=\"455\" /></p><p>I'm sure this design will change over time — check <a href=\"https://photos.darekkay.com\">photos.darekkay.com</a> for the current state.</p><h2><a href=\"https://darekkay.com/blog/photography-website/#implementation\">Implementation</a></h2><p>Let's get a glimpse into the technical side.</p><h3><a href=\"https://darekkay.com/blog/photography-website/#content-management\">Content management</a></h3><p><a href=\"https://darekkay.com/blog/hexo-to-eleventy/\">Similar to this blog</a>, I went with the <a href=\"https://www.11ty.dev/\">Eleventy</a> static site generator.</p><p>I've decided to index my photos, starting at <code>0001</code>. For each photograph that I publish, there are five files:</p><pre><code>???? content\n└─ ???? photo\n   └─ ???? 0001\n      ├─ ???? 0001.11tydata.json\n      ├─ ???? 0001.md\n      ├─ ????️ 0001-medium.jpg\n      └─ ????️ 0001-small.jpg\n      └─ ????️ 0001-small.webp</code></pre><p>The <code>11ydata.json</code> file contains the photo metadata. The markdown file contains the actual content: title, alt description, location, publish date and a short text. The <code>small.webp</code> and <code>medium.jpg</code> images are used for the gallery and the preview page respectively. The <code>small.jpg</code> file is used as social image preview card, as <a href=\"https://www.ctrl.blog/entry/webp-ogp.html\">WebP support is still lacking</a>.</p>In the beginning, I was using a single <code>photos.json</code> to store both the metadata and content. Using <a href=\"https://www.11ty.dev/docs/pagination/\">Eleventy pagination</a>, I didn't have to create dedicated markdown files. As I have started adding short descriptions to my photos, this workflow was no longer viable. But it's still a good alternative for basic photo galleries.<p>I store the <code>medium</code> and <code>small</code> images as part of the project's Git directory. Git is not the best choice for storing binary files, but it doesn't cause any bottleneck, yet. Each photo triplet is on average 350 kB big. I could use Git LFS, but it's not worth the effort for now.</p><h3><a href=\"https://darekkay.com/blog/photography-website/#loading-performance\">Loading performance</a></h3><p>I've put much thought into the loading behavior to ensure a good user experience even on slow networks. I also wanted to avoid <em>pagination</em> and <em>infinite scroll</em> for the image gallery.</p><p>First, every image provides its width and height to <strong>prevent layout shifts</strong>.</p><p>Second, I use <strong>lazy loading</strong>, a performance strategy to load resources (like images) only when needed. Fortunately, <a href=\"https://caniuse.com/loading-lazy-attr\">most browsers</a> support <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-loading\">native lazy loading</a> for images:</p><pre><code><span><span><span>&lt;</span>img</span> <span>loading</span><span><span>=</span><span>\"</span>lazy<span>\"</span></span> <span>[...]</span> <span>&gt;</span></span></code></pre><p>Third, the gallery serves <strong>WebP</strong> images at 75% quality. This saves around 50% of space compared to the original 85% JPEG file. I accept the quality loss for the gallery, but I still use full quality JPEG files on the individual photo pages.</p><p>The last technique is to provide <strong>a good fallback</strong> while images are still being loaded. I provide two fallbacks:</p><ul><li>A fixed background color.</li><li><a href=\"https://blurha.sh/\">BlurHash</a>, a compact representation of an image placeholder.</li></ul><p>While the JavaScript BlurHash script (1.6 kB) is loaded, we see a fixed background color:</p><p><img src=\"https://darekkay.com/blog/photography-website/loading-background.jpg\" alt=\"Loading visualization 1: beige rectangle\" width=\"330\" height=\"224\" /></p><p>After the script has been loaded, the BlurHash placeholder is applied:</p><p><img src=\"https://darekkay.com/blog/photography-website/loading-blurhash.jpg\" alt=\"Loading visualization 2: blurred picture\" width=\"330\" height=\"224\" /></p><p>Finally, we see the actual image:</p><p><img src=\"https://darekkay.com/blog/photography-website/loading-done.jpg\" alt=\"Loading visualization 3: example picture\" width=\"329\" height=\"222\" /></p><p><a href=\"https://www.kryogenix.org/code/browser/everyonehasjs.html\">Not everyone has JavaScript</a>, despite many developers ignoring this fact. The nice thing about BlurHash is that it's progressively enhanced: without JavaScript, only the fixed-color fallback will be displayed.</p>If you like BlurHash, check out <a href=\"https://evanw.github.io/thumbhash/\">ThumbHash</a>, which returns more detailed placeholders.<p>How do we test the loading behavior? Browser network simulations are useful, but not so much for local images, as they will still load almost instantly. Instead, I've created custom <a href=\"https://darekkay.com/blog/eleventy-delay-middleware/\">Eleventy middleware</a> to delay image loading artificially during testing.</p><h3><a href=\"https://darekkay.com/blog/photography-website/#navigation\">Navigation</a></h3><p>On each page, there is a link to the \"previous\" and \"next\" photo. I've implemented this using a <a href=\"https://github.com/11ty/eleventy/issues/529#issuecomment-568257426\">custom Eleventy collection</a>:</p><pre><code>eleventyConfig<span>.</span><span>addCollection</span><span>(</span><span>\"photos\"</span><span>,</span> <span>(</span><span>collection</span><span>)</span> <span>=&gt;</span> <span>{</span>\n <span>const</span> photos <span>=</span> <span>filter</span><span>(</span><span>\"content/photo/**\"</span><span>)</span><span>(</span>collection<span>)</span><span>;</span>\n\n <span>for</span> <span>(</span><span>let</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> photos<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>\n   <span>const</span> prevPost <span>=</span> photos<span>[</span>i <span>-</span> <span>1</span><span>]</span> <span>||</span> photos<span>[</span>photos<span>.</span>length <span>-</span> <span>1</span><span>]</span><span>;</span>\n   <span>const</span> nextPost <span>=</span> photos<span>[</span>i <span>+</span> <span>1</span><span>]</span> <span>||</span> photos<span>[</span><span>0</span><span>]</span><span>;</span>\n\n   photos<span>[</span>i<span>]</span><span>.</span>data<span>[</span><span>\"previousPost\"</span><span>]</span> <span>=</span> prevPost<span>;</span>\n   photos<span>[</span>i<span>]</span><span>.</span>data<span>[</span><span>\"nextPost\"</span><span>]</span> <span>=</span> nextPost<span>;</span>\n <span>}</span>\n <span>return</span> photos<span>;</span>\n<span>}</span><span>)</span><span>;</span></code></pre><p>I can then access the page URLs in my layout file:</p><pre><code><span><span><span>&lt;</span>a</span> <span>href</span><span><span>=</span><span>\"</span>{{ previousPost.url }}<span>\"</span></span><span>&gt;</span></span>Previous photo<span><span><span>&lt;/</span>a</span><span>&gt;</span></span>\n<span><span><span>&lt;</span>a</span> <span>href</span><span><span>=</span><span>\"</span>{{ nextPost.url }}<span>\"</span></span><span>&gt;</span></span>Next photo<span><span><span>&lt;/</span>a</span><span>&gt;</span></span></code></pre><h3><a href=\"https://darekkay.com/blog/photography-website/#rss\">RSS</a></h3><p>I consider RSS a must for any blog-like website. A photo gallery is no different. Here's <a href=\"https://photos.darekkay.com/atom.xml\">my RSS feed</a>. The RSS feed contains the entire post content and the small image preview. I've also <a href=\"https://darekkay.com/blog/rss-styling/\">styled the RSS feed</a>, so it matches the website design.</p>Pixelfed, Glass, Flickr and Pinterest also provide RSS feeds.<h3><a href=\"https://darekkay.com/blog/photography-website/#accessibility\">Accessibility</a></h3><p>I care a lot about web accessibility. I've tried my best to make sure anyone can use my website, including people with impairments or disabilities.</p><p>An important part is to provide descriptions for every image via an <code>alt</code> attribute. As long as there is no AI to translate a picture and its essence into words (and I don't think we'll get there anytime soon), artists have to handle this themselves. I try to describe what a photo contains, but also the feeling it conveys. This has a great side effect, as it lets me think more about my photos. I must admit, I struggle with this as much as I do with photo titles, but I think this will become easier with more experience.</p><p>Apart from that, I've followed the usual path:</p><ul><li>Use my experience to ensure accessible implementation.</li><li>Check the website with a keyboard and with a screen reader.</li><li>Run <a href=\"https://darekkay.com/evaluatory/\">Evaluatory</a> to check if I've made any obvious mistake.</li></ul><h2><a href=\"https://darekkay.com/blog/photography-website/#pipeline\">Pipeline</a></h2><p>Here's my workflow pipeline for publishing a new photo, using <code>05.jpg</code> as an example file:</p><p><img src=\"https://darekkay.com/blog/photography-website/photo-pipeline.png\" alt=\"Diagram. '05.jpg' points to 'strip most Exif data' points to 'resize and convert' points to '05-small.webp', '05-small.jpg' and '05-medium.jpg'. '05-medium.jpg' points to 'extract Exif data' and 'calculate' blurhash, both pointing to '05.11tydata.json'. 'add content' points to '05.md', which is connected to '05.11tydata.json'.\" width=\"721\" height=\"341\" /></p><p>Most of those steps are automated.</p><h3><a href=\"https://darekkay.com/blog/photography-website/#preparation\">Preparation</a></h3><p>In the first step, I strip irrelevant photo metadata using <a href=\"https://exiftool.org/\">ExifTool</a>. I leave all the data that other photographers might be interested in, e.g. aperture, exposure and ISO:</p><pre><code>exiftool <span>-all</span><span>=</span> <span>-tagsfromfile</span> @ <span>-AllDates</span> <span>-Make</span> <span>-Model</span> <span>-LensModel</span> <span>-Artist</span> <span>\\</span>\n  <span>-FNumber</span> <span>-ISO</span> <span>-ExposureTime</span> <span>-ExposureProgram</span> <span>-ExposureMode</span> <span>\\</span>\n  <span>-ExposureCompensation</span> <span>-FocalLength</span> <span>-WhiteBalance</span> <span>-Flash</span> 05.jpg</code></pre><p>Next, I use <a href=\"https://imagemagick.org/index.php\">ImageMagick</a> to create two files: a small thumbnail and a medium-size photo:</p><pre><code>magick convert <span>-resize</span> x100<span><span>0</span>&gt;</span> 05.jpg 05-medium.jpg</code></pre><pre><code>magick convert <span>-resize</span> x37<span><span>5</span>&gt;</span> 05.jpg 05-small.jpg</code></pre><p>The entire pre-processing takes one click using <a href=\"https://www.xyplorer.com/\">XYplorer</a>, my indispensable Windows file manager.</p><h3><a href=\"https://darekkay.com/blog/photography-website/#metadata-update\">Metadata update</a></h3><p>The next workflow step creates an <code>11tydata.json</code> file, which contains relevant Exif data and the blurhash.</p><p>I use <code>exiftool</code> and <code>jq</code> to create a temporary <code>exif.json</code> file containing the Exif metadata from all photos:</p><pre><code>exiftool <span>-ext</span> jpg <span>-json</span> <span>-FileName</span> <span>-all</span> <span>-d</span> %Y-%m-%d content/photo <span>-r</span> <span>\\</span>\n  <span>|</span> jq <span>'map(select(.FileName | contains (\"medium\"))) | map(.+{\"id\": .FileName[0:4]}) | map(del(.SourceFile,.FileName))'</span> <span>\\</span>\n  <span>&gt;</span> temp/exif.json</code></pre><p>To calculate the blurhash, I use <code>blurhash</code> and <code>sharp</code>:</p><pre><code><span>const</span> sharp <span>=</span> <span>require</span><span>(</span><span>\"sharp\"</span><span>)</span><span>;</span>\n<span>const</span> <span>{</span> encode <span>}</span> <span>=</span> <span>require</span><span>(</span><span>\"blurhash\"</span><span>)</span><span>;</span>\n\n<span>const</span> <span>encodeImageToBlurhash</span> <span>=</span> <span>(</span><span>path</span><span>)</span> <span>=&gt;</span>\n  <span>new</span> <span>Promise</span><span>(</span><span>(</span><span>resolve<span>,</span> reject</span><span>)</span> <span>=&gt;</span> <span>{</span>\n    <span>sharp</span><span>(</span>path<span>)</span>\n      <span>.</span><span>raw</span><span>(</span><span>)</span>\n      <span>.</span><span>ensureAlpha</span><span>(</span><span>)</span>\n      <span>.</span><span>resize</span><span>(</span><span>32</span><span>,</span> <span>32</span><span>,</span> <span>{</span> <span>fit</span><span>:</span> <span>\"inside\"</span> <span>}</span><span>)</span>\n      <span>.</span><span>toBuffer</span><span>(</span><span>(</span><span>err<span>,</span> buffer<span>,</span> <span>{</span> width<span>,</span> height <span>}</span></span><span>)</span> <span>=&gt;</span> <span>{</span>\n        <span>if</span> <span>(</span>err<span>)</span> <span>return</span> <span>reject</span><span>(</span>err<span>)</span><span>;</span>\n        <span>resolve</span><span>(</span><span>encode</span><span>(</span><span>new</span> <span>Uint8ClampedArray</span><span>(</span>buffer<span>)</span><span>,</span> width<span>,</span> height<span>,</span> <span>4</span><span>,</span> <span>4</span><span>)</span><span>)</span><span>;</span>\n      <span>}</span><span>)</span><span>;</span>\n  <span>}</span><span>)</span><span>;</span></code></pre><p>Both results are then normalized and piped into an <code>11tydata.json</code> file.</p>With Eleventy 2.0, it's possible to <a href=\"https://www.11ty.dev/docs/data-custom/#feed-exif-image-data-into-the-data-cascade\">feed Exif image data into the data cascade</a>. This approach eliminates the metadata synchronization step at the cost of having to parse all photos on every build.<h3><a href=\"https://darekkay.com/blog/photography-website/#content-update\">Content update</a></h3><p>Last but not least, I need to handle the content. A script creates a template markdown file that I then edit manually. While I don't always come up with an image title or description, I will always provide an alternative text as explained in the accessibility section. I include the photo location only if it's relevant.</p><h2><a href=\"https://darekkay.com/blog/photography-website/#further-steps\">Further steps</a></h2><p>I'm happy to have a place to share my photos that I have full control over. It's also a nice way to see my progress as a photographer. While there are photography areas that I like more than others, I probably won't settle on a certain niche. I might introduce browsable categories someday <em>if</em> the number of photos becomes too overwhelming. I might also introduce filtering photos by camera or lens.</p><p>Check out my photos at <a href=\"https://photos.darekkay.com\">photos.darekkay.com</a>.</p>",
+        "text": "Last year, I started a photography hobby. Soon after, I've created a place where I can share some of my work, without any attention-driven algorithms dictating the terms. Here's a technical write-up of my journey.Table of contents:MotivationInspirationDesignImplementationContent managementLoading performanceNavigationRSSAccessibilityPipelinePreparationMetadata updateContent updateFurther stepsMotivationWhy should one build a photography website in the first place?Similar to this blog, I want to reduce my dependency on social media and third-party services. Even if I ignored Instagram's privacy issues and dark patterns, the fact they can delete my account at a whim is unacceptable. In fact, they shadow-banned my first Instagram account because of \"suspicious activity\". Pixelfed, a federated photo sharing platform, solves many issues of Big Tech. However, I can't guarantee the instance I chose to stand the test of time. Glass has potential, but there are some issues like no way to provide image alt descriptions.Instead of relying on third-party providers alone, I practice POSSE: I publish photos on my own site and syndicate them to my Pixelfed, Glass and Instagram accounts. This approach brings some further advantages:Anyone can access my photos, without the need for an account.People can subscribe via RSS to view my latest photos, without an algorithm-driven feed.I can use a custom, personalized design.I can update my photos, e.g. make changes after getting more experienced with RAW development and photo editing.I can use any aspect ratio. Instagram will often crop the image preview despite choosing \"original size\" on upload.I own my content.InspirationMost photography websites are from professional artists who provide a showcase for potential clients. I was looking for a more personal look and feel. Fortunately, some fellow software developers share a photography hobby: Nicolas Hoizey (my favorite site!), Moritz Petersen, Artem Sapegin, Greg Morris, Alan W. Smith, Hidde de Vries (write-up), Shom Bandopadhaya, Jens Comiotto-Mayer, Matthew Howell, Paul Stamatiou, Jesper Reiche, Jamie Dumont, Chuq von Rospach and Matze. All those websites helped me narrow down the features I want for my own portfolio website.DesignAs mentioned, I don't want to convey a business feeling. I want a personal website that sparks joy. I've decided to go for a pinboard design:The background mimics a corkboard.The photos get a big white border, simulating printed Polaroid photos.There are three variants of a sticky tape effect.The website uses a handwriting font (\"Itim\").Previously, I have rotated the photos randomly on every build for some chaos. I loved the effect, but the rotation required the pictures to be interpolated, making them slightly blurry.I'm sure this design will change over time — check photos.darekkay.com for the current state.ImplementationLet's get a glimpse into the technical side.Content managementSimilar to this blog, I went with the Eleventy static site generator.I've decided to index my photos, starting at 0001. For each photograph that I publish, there are five files:???? content\n└─ ???? photo\n   └─ ???? 0001\n      ├─ ???? 0001.11tydata.json\n      ├─ ???? 0001.md\n      ├─ ????️ 0001-medium.jpg\n      └─ ????️ 0001-small.jpg\n      └─ ????️ 0001-small.webpThe 11ydata.json file contains the photo metadata. The markdown file contains the actual content: title, alt description, location, publish date and a short text. The small.webp and medium.jpg images are used for the gallery and the preview page respectively. The small.jpg file is used as social image preview card, as WebP support is still lacking.In the beginning, I was using a single photos.json to store both the metadata and content. Using Eleventy pagination, I didn't have to create dedicated markdown files. As I have started adding short descriptions to my photos, this workflow was no longer viable. But it's still a good alternative for basic photo galleries.I store the medium and small images as part of the project's Git directory. Git is not the best choice for storing binary files, but it doesn't cause any bottleneck, yet. Each photo triplet is on average 350 kB big. I could use Git LFS, but it's not worth the effort for now.Loading performanceI've put much thought into the loading behavior to ensure a good user experience even on slow networks. I also wanted to avoid pagination and infinite scroll for the image gallery.First, every image provides its width and height to prevent layout shifts.Second, I use lazy loading, a performance strategy to load resources (like images) only when needed. Fortunately, most browsers support native lazy loading for images:<img loading=\"lazy\" [...] >Third, the gallery serves WebP images at 75% quality. This saves around 50% of space compared to the original 85% JPEG file. I accept the quality loss for the gallery, but I still use full quality JPEG files on the individual photo pages.The last technique is to provide a good fallback while images are still being loaded. I provide two fallbacks:A fixed background color.BlurHash, a compact representation of an image placeholder.While the JavaScript BlurHash script (1.6 kB) is loaded, we see a fixed background color:After the script has been loaded, the BlurHash placeholder is applied:Finally, we see the actual image:Not everyone has JavaScript, despite many developers ignoring this fact. The nice thing about BlurHash is that it's progressively enhanced: without JavaScript, only the fixed-color fallback will be displayed.If you like BlurHash, check out ThumbHash, which returns more detailed placeholders.How do we test the loading behavior? Browser network simulations are useful, but not so much for local images, as they will still load almost instantly. Instead, I've created custom Eleventy middleware to delay image loading artificially during testing.NavigationOn each page, there is a link to the \"previous\" and \"next\" photo. I've implemented this using a custom Eleventy collection:eleventyConfig.addCollection(\"photos\", (collection) => {\n const photos = filter(\"content/photo/**\")(collection);\n\n for (let i = 0; i < photos.length; i++) {\n   const prevPost = photos[i - 1] || photos[photos.length - 1];\n   const nextPost = photos[i + 1] || photos[0];\n\n   photos[i].data[\"previousPost\"] = prevPost;\n   photos[i].data[\"nextPost\"] = nextPost;\n }\n return photos;\n});I can then access the page URLs in my layout file:<a href=\"{{ previousPost.url }}\">Previous photo</a>\n<a href=\"{{ nextPost.url }}\">Next photo</a>RSSI consider RSS a must for any blog-like website. A photo gallery is no different. Here's my RSS feed. The RSS feed contains the entire post content and the small image preview. I've also styled the RSS feed, so it matches the website design.Pixelfed, Glass, Flickr and Pinterest also provide RSS feeds.AccessibilityI care a lot about web accessibility. I've tried my best to make sure anyone can use my website, including people with impairments or disabilities.An important part is to provide descriptions for every image via an alt attribute. As long as there is no AI to translate a picture and its essence into words (and I don't think we'll get there anytime soon), artists have to handle this themselves. I try to describe what a photo contains, but also the feeling it conveys. This has a great side effect, as it lets me think more about my photos. I must admit, I struggle with this as much as I do with photo titles, but I think this will become easier with more experience.Apart from that, I've followed the usual path:Use my experience to ensure accessible implementation.Check the website with a keyboard and with a screen reader.Run Evaluatory to check if I've made any obvious mistake.PipelineHere's my workflow pipeline for publishing a new photo, using 05.jpg as an example file:Most of those steps are automated.PreparationIn the first step, I strip irrelevant photo metadata using ExifTool. I leave all the data that other photographers might be interested in, e.g. aperture, exposure and ISO:exiftool -all= -tagsfromfile @ -AllDates -Make -Model -LensModel -Artist \\\n  -FNumber -ISO -ExposureTime -ExposureProgram -ExposureMode \\\n  -ExposureCompensation -FocalLength -WhiteBalance -Flash 05.jpgNext, I use ImageMagick to create two files: a small thumbnail and a medium-size photo:magick convert -resize x1000> 05.jpg 05-medium.jpgmagick convert -resize x375> 05.jpg 05-small.jpgThe entire pre-processing takes one click using XYplorer, my indispensable Windows file manager.Metadata updateThe next workflow step creates an 11tydata.json file, which contains relevant Exif data and the blurhash.I use exiftool and jq to create a temporary exif.json file containing the Exif metadata from all photos:exiftool -ext jpg -json -FileName -all -d %Y-%m-%d content/photo -r \\\n  | jq 'map(select(.FileName | contains (\"medium\"))) | map(.+{\"id\": .FileName[0:4]}) | map(del(.SourceFile,.FileName))' \\\n  > temp/exif.jsonTo calculate the blurhash, I use blurhash and sharp:const sharp = require(\"sharp\");\nconst { encode } = require(\"blurhash\");\n\nconst encodeImageToBlurhash = (path) =>\n  new Promise((resolve, reject) => {\n    sharp(path)\n      .raw()\n      .ensureAlpha()\n      .resize(32, 32, { fit: \"inside\" })\n      .toBuffer((err, buffer, { width, height }) => {\n        if (err) return reject(err);\n        resolve(encode(new Uint8ClampedArray(buffer), width, height, 4, 4));\n      });\n  });Both results are then normalized and piped into an 11tydata.json file.With Eleventy 2.0, it's possible to feed Exif image data into the data cascade. This approach eliminates the metadata synchronization step at the cost of having to parse all photos on every build.Content updateLast but not least, I need to handle the content. A script creates a template markdown file that I then edit manually. While I don't always come up with an image title or description, I will always provide an alternative text as explained in the accessibility section. I include the photo location only if it's relevant.Further stepsI'm happy to have a place to share my photos that I have full control over. It's also a nice way to see my progress as a photographer. While there are photography areas that I like more than others, I probably won't settle on a certain niche. I might introduce browsable categories someday if the number of photos becomes too overwhelming. I might also introduce filtering photos by camera or lens.Check out my photos at photos.darekkay.com."
+      },
+      "mention-of": "https://nicolas-hoizey.photo/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://darekkay.com/blog/photography-website/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
         "name": "Ash Qin ????",
         "photo": "https://webmention.io/avatar/mamot.fr/5a8e6d9ee47242e5aeefda7d2a3544bac8915d8d215e9806325c5fc3654ee7db.png",
         "url": "https://focal.love/@ashqinmoe"
@@ -50985,6 +51012,585 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/basque-country/castillo-de-butron/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/basque-country/castillo-de-butron/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "·dron·",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/5854aa8797ff29dadd157ab81fe889a977471fd29e60af783dcb5cbfe1d2fe5e.jpg",
+        "url": "https://www.flickr.com/people/192737731@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#comment72157720311425571",
+      "published": "2023-11-08T10:37:35+00:00",
+      "wm-received": "2023-11-08T10:55:24Z",
+      "wm-id": 1736023,
+      "wm-source": "https://brid.gy/comment/flickr/38608514@N00/53316965282/204349-53316965282-72157720311425571",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "Truly beautiful ????"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/f649b179c41a3fcce750f4ad095256d02558adb9e1675583fa22b3df257cfcd2.jpg",
+        "url": "https://www.flickr.com/people/nicolas-hoizey/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#comment72157720311296584",
+      "published": "2023-11-08T10:41:39+00:00",
+      "wm-received": "2023-11-08T10:55:24Z",
+      "wm-id": 1736024,
+      "wm-source": "https://brid.gy/comment/flickr/38608514@N00/53316965282/204349-53316965282-72157720311296584",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "[https://www.flickr.com/photos/192737731@N02] thanks! ????"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jason Watts",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/4b249dcaafab5fa63c6f67461998c26ea6bc2e14e0d16f1a91247bde5e9a0687.jpg",
+        "url": "https://www.flickr.com/people/199404386@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-199404386@N08",
+      "published": "2023-11-08T10:55:25Z",
+      "wm-received": "2023-11-08T10:55:25Z",
+      "wm-id": 1736025,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/199404386@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Gschwind",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/0d5ce5ff47ab55351ed640e6fb2678e97ff8276244936265c67109ba21853020.jpg",
+        "url": "https://www.flickr.com/people/158685238@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-158685238@N03",
+      "published": "2023-11-08T10:55:25Z",
+      "wm-received": "2023-11-08T10:55:25Z",
+      "wm-id": 1736026,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/158685238@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Lyon",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/f4c1aaf65b871db355e0b124a68f424fb3e43b9d041bbda2eccdd6697f469caf.jpg",
+        "url": "https://www.flickr.com/people/16095954@N00/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-16095954@N00",
+      "published": "2023-11-08T11:58:47Z",
+      "wm-received": "2023-11-08T11:58:47Z",
+      "wm-id": 1736042,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/16095954@N00",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "klickpix70",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/4bcdcd98180eceb090aeb38df75b21808910581bb5041785f0607a9420ea1284.jpg",
+        "url": "https://www.flickr.com/people/130489185@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-130489185@N04",
+      "published": "2023-11-08T11:58:49Z",
+      "wm-received": "2023-11-08T11:58:49Z",
+      "wm-id": 1736043,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/130489185@N04",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "edwin hoppentocht",
+        "photo": "https://webmention.io/avatar/farm1.staticflickr.com/b46836e5c4cd259269bb0c19d42a1e23622a5a87be348de98cd6188a393f8a41.jpg",
+        "url": "https://www.flickr.com/people/125336272@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-125336272@N06",
+      "published": "2023-11-08T11:58:53Z",
+      "wm-received": "2023-11-08T11:58:53Z",
+      "wm-id": 1736044,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/125336272@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "peter Amateur Wildlife Photographer Butler",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/3c6fb902994507e37d65be5067c74c2ec0ebe0dbe66c2c25c7edc120f5511415.jpg",
+        "url": "https://www.flickr.com/people/38700587@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-38700587@N07",
+      "published": "2023-11-08T11:58:55Z",
+      "wm-received": "2023-11-08T11:58:55Z",
+      "wm-id": 1736045,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/38700587@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Foster",
+        "photo": "https://webmention.io/avatar/mamot.fr/5e17a883ddfa74f85d60490daed28454bcfaa4a7e150973e93d86b2fb8735146.jpg",
+        "url": "https://backend.newsmast.org/@michael"
+      },
+      "url": "https://mamot.fr/@nhoizey/111374926361047461#favorited-by-111323007732886846",
+      "published": "2023-11-08T12:46:15Z",
+      "wm-received": "2023-11-08T12:46:15Z",
+      "wm-id": 1736053,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111374926361047461/111323007732886846",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111374926361047461#favorited-by-109377158218702543",
+      "published": "2023-11-08T12:46:15Z",
+      "wm-received": "2023-11-08T12:46:15Z",
+      "wm-id": 1736054,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111374926361047461/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111374926361047461#favorited-by-109483621978440168",
+      "published": "2023-11-08T12:46:18Z",
+      "wm-received": "2023-11-08T12:46:18Z",
+      "wm-id": 1736055,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111374926361047461/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jamie Davis",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/1540d92774e4bdffa68ed2a15d527b85b7560f13330217cbed9ecc4765559e8d.jpg",
+        "url": "https://www.flickr.com/people/195669656@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-195669656@N08",
+      "published": "2023-11-08T13:56:10Z",
+      "wm-received": "2023-11-08T13:56:10Z",
+      "wm-id": 1736079,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/195669656@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wei J",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/a40e9f8ca2281fd5c278909c76729b60efdbe6f884745e4f0735a5cc271a74ee.jpg",
+        "url": "https://www.flickr.com/people/37033095@N00/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-37033095@N00",
+      "published": "2023-11-08T13:56:11Z",
+      "wm-received": "2023-11-08T13:56:11Z",
+      "wm-id": 1736080,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/37033095@N00",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "blinky bot",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/c46bf08f04f4f49f3a320707dbb4f57188ede85ff4e0810ccbca26c5d82f595b.jpg",
+        "url": "https://www.flickr.com/people/187688945@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-187688945@N04",
+      "published": "2023-11-08T13:56:14Z",
+      "wm-received": "2023-11-08T13:56:14Z",
+      "wm-id": 1736081,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/187688945@N04",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Alexander Tromp",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/eaf4f4f3b6d856aa7a9f8557993983a677b9b6ad2c87891f1c478603041a2886.jpg",
+        "url": "https://www.flickr.com/people/65313476@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-65313476@N06",
+      "published": "2023-11-08T13:56:15Z",
+      "wm-received": "2023-11-08T13:56:15Z",
+      "wm-id": 1736082,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/65313476@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nucleophile",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/e89016cbf824403f6beed0760ca360d5c2461c53f1e3e0dbd397da6d725b1267.jpg",
+        "url": "https://www.flickr.com/people/194919549@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-194919549@N02",
+      "published": "2023-11-08T13:56:17Z",
+      "wm-received": "2023-11-08T13:56:17Z",
+      "wm-id": 1736083,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/194919549@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Baertges",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/91d396265e3cc551c8ab95826291d53853587fef495e88c2ca292e9004a6a59f.jpg",
+        "url": "https://www.flickr.com/people/60687036@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-60687036@N08",
+      "published": "2023-11-08T14:44:43Z",
+      "wm-received": "2023-11-08T14:44:43Z",
+      "wm-id": 1736091,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/60687036@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mayor Paprika",
+        "photo": "https://webmention.io/avatar/farm4.staticflickr.com/c270f91c435a1026319cda62a4005036e8c06a57b347892eb4ffeb386a5e4862.jpg",
+        "url": "https://www.flickr.com/people/132352906@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-132352906@N08",
+      "published": "2023-11-08T14:44:44Z",
+      "wm-received": "2023-11-08T14:44:44Z",
+      "wm-id": 1736092,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/132352906@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kevin C. Tofel",
+        "photo": "https://webmention.io/avatar/mamot.fr/357a487cf20d647d3e2e487c244773c8bb97dab30faf400e9c7ca8d609c41a74.jpg",
+        "url": "https://hachyderm.io/@kevinctofel"
+      },
+      "url": "https://mamot.fr/@nhoizey/111374926361047461#reblogged-by-109407380532599609",
+      "published": "2023-11-08T14:46:13Z",
+      "wm-received": "2023-11-08T14:46:13Z",
+      "wm-id": 1736094,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111374926361047461/109407380532599609",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jan",
+        "photo": "https://webmention.io/avatar/farm8.staticflickr.com/a7c3c982d421f106c6491c2e7dd2b4b02812f37a9637d0b55be4525ba48681f1.jpg",
+        "url": "https://www.flickr.com/people/41909159@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-41909159@N05",
+      "published": "2023-11-08T17:27:28Z",
+      "wm-received": "2023-11-08T17:27:28Z",
+      "wm-id": 1736188,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/41909159@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rogue_ RoboT.",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/1e62e4798625e75e6fd148668733e2e548851e2b1c55753a0e062d4bfbb9b558.jpg",
+        "url": "https://www.flickr.com/people/198638231@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#comment72157720311479988",
+      "published": "2023-11-08T19:43:09+00:00",
+      "wm-received": "2023-11-08T20:34:24Z",
+      "wm-id": 1736232,
+      "wm-source": "https://brid.gy/comment/flickr/38608514@N00/53316965282/204349-53316965282-72157720311479988",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "This is wonderful. I’d love to photograph these kind of models but can never find them anywhere to buy. Fantastic shot and description, I love it!"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rogue_ RoboT.",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/1e62e4798625e75e6fd148668733e2e548851e2b1c55753a0e062d4bfbb9b558.jpg",
+        "url": "https://www.flickr.com/people/198638231@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-198638231@N03",
+      "published": "2023-11-08T20:34:24Z",
+      "wm-received": "2023-11-08T20:34:24Z",
+      "wm-id": 1736233,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/198638231@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Reverse Alchemy",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/9d9306afc970516bdede95b07323baf152b62d7e0c7b9493d6cfde4ac040d3de.jpg",
+        "url": "https://www.flickr.com/people/141114050@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-141114050@N06",
+      "published": "2023-11-08T21:44:33Z",
+      "wm-received": "2023-11-08T21:44:33Z",
+      "wm-id": 1736261,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/141114050@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "De Witte Haas, Schiermonnikoog",
+        "photo": "https://webmention.io/avatar/mamot.fr/2c5745777965d377da862eac0a47c9d6801fa95ee6561ded6a11fb18079dd839.png",
+        "url": "https://mastodon.social/@dewittehaas"
+      },
+      "url": "https://mamot.fr/@nhoizey/111374926361047461#favorited-by-215567",
+      "published": "2023-11-08T21:51:13Z",
+      "wm-received": "2023-11-08T21:51:13Z",
+      "wm-id": 1736264,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111374926361047461/215567",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/unic-in-batignolles/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Indigo621",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/5f06423e6ec41cf48edb41ced9524e731463112cbec19e3224b80cf07a0e4ec2.jpg",
+        "url": "https://www.flickr.com/people/161220445@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-161220445@N03",
+      "published": "2023-11-09T00:56:17Z",
+      "wm-received": "2023-11-09T00:56:17Z",
+      "wm-id": 1736322,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/161220445@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thinesh Mathavan",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/0c5905b1215578246bb6b90de472d3a4c76c99564bb6a0dd514ed1cb8239538b.jpg",
+        "url": "https://www.flickr.com/people/196331519@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-196331519@N05",
+      "published": "2023-11-09T01:56:05Z",
+      "wm-received": "2023-11-09T01:56:05Z",
+      "wm-id": 1736329,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/196331519@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "incidencematrix",
+        "photo": "https://webmention.io/avatar/farm3.staticflickr.com/1098214969024c7cdd14893d4cdfbf31703d1959744deb790d1c24ee44f6676f.jpg",
+        "url": "https://www.flickr.com/people/114641806@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-114641806@N08",
+      "published": "2023-11-09T01:56:05Z",
+      "wm-received": "2023-11-09T01:56:05Z",
+      "wm-id": 1736330,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/114641806@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Onesharp",
+        "photo": "https://webmention.io/avatar/farm6.staticflickr.com/2459bc17e46ee01f39fd548b76c9933f2f6bba86c4a558c2b4f5b1be105e92e2.jpg",
+        "url": "https://www.flickr.com/people/34703765@N00/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-34703765@N00",
+      "published": "2023-11-09T02:50:53Z",
+      "wm-received": "2023-11-09T02:50:53Z",
+      "wm-id": 1736337,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/34703765@N00",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Russell Y",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/a8f49c7882b6a9b935391d31d662d699a8cbcc6fa9621d801d9780db9848fa90.jpg",
+        "url": "https://www.flickr.com/people/143717117@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-143717117@N05",
+      "published": "2023-11-09T03:55:55Z",
+      "wm-received": "2023-11-09T03:55:55Z",
+      "wm-id": 1736348,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/143717117@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mikhail Ershov",
+        "photo": "https://farm0.staticflickr.com/0/buddyicons/197694307@N05.jpg",
+        "url": "https://www.flickr.com/people/197694307@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-197694307@N05",
+      "published": "2023-11-09T04:50:18Z",
+      "wm-received": "2023-11-09T04:50:18Z",
+      "wm-id": 1736377,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/197694307@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-property": "like-of",
       "wm-private": false
     }
