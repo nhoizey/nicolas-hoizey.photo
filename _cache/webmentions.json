@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-11T06:06:22.222Z",
+  "lastFetched": "2023-11-12T06:07:04.802Z",
   "webmentions": [
     {
       "type": "entry",
@@ -52228,6 +52228,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111386251165242596#favorited-by-110651355078160221",
+      "published": "2023-11-11T16:39:31Z",
+      "wm-received": "2023-11-11T16:39:31Z",
+      "wm-id": 1737308,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111386251165242596/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/tubes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/tubes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111391911905170210#favorited-by-110651355078160221",
+      "published": "2023-11-11T17:10:30Z",
+      "wm-received": "2023-11-11T17:10:30Z",
+      "wm-id": 1737316,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111391911905170210/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/on-the-move/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/elephants/on-the-move/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Coralie Mercier",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/2a4a1138d61d79b5c8ca998a9365e967f8be50a0beea5e486369e9381bb68f66.jpg",
+        "url": "https://www.flickr.com/people/18276635@N00/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-18276635@N00",
+      "published": "2023-11-12T01:05:06Z",
+      "wm-received": "2023-11-12T01:05:06Z",
+      "wm-id": 1737456,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/18276635@N00",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-property": "like-of",
       "wm-private": false
     }
