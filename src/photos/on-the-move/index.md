@@ -4,7 +4,8 @@ file: on-the-move.jpg
 alt_text: Photo of three elephants in the savannah of Amboseli Park in Kenya. A
   relatively young one with visible tusks is quite close to the camera and seems
   interested, ears spread. Two other elephants are a little further away. Around
-  them, a few white little eg
+  them, a few white little egrets are looking for food. In the distance, we can
+  recognise the typical silhouette of Kilimanjaro, covered by its ice cap.
 date: 2019-03-01 08:25:10 +01:00
 dates:
   iso: 2019-03-01

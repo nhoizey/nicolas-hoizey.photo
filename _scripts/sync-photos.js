@@ -56,6 +56,8 @@ let exifrOptions = {
     pick: ['latitude', 'longitude'],
   },
   iptc: true,
+  // xmp: { pick: ['Headline'] },
+  userComment: true,
 };
 
 async function syncOnePhoto(photo) {
@@ -108,14 +110,20 @@ SYNC ${photo}`);
     const distDir = path.join(DIST, slug);
     const distPhoto = path.join(distDir, `${slug}${ext}`);
 
-    // Get description for alt text from IPTC's Headline
+    // Get description for alt text from IPTC's userComment or Headline
+    // TODO: remove support for Headline
     let photoAltText = '';
-    if (photoExif.Headline) {
+    if (photoExif.userComment) {
+      photoAltText = Object.values(photoExif.userComment)
+        .map((char) => String.fromCharCode(char))
+        .join('')
+        .replace('ASCII\0\0\0', '');
+    } else if (photoExif.Headline) {
       photoAltText = utf8.decode(photoExif.Headline).trim();
     }
     if (photoAltText.length === 0) {
       thisLog(
-        `  ⚠ alt text missing ("Headline" / "Gros titre" field in Lightroom)`
+        `  ⚠ alt text missing: userComment or Headline ("Gros titre" in French) field in Lightroom`
       );
     } else {
       photoYFM.alt_text = photoAltText;
