@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-15T06:07:05.992Z",
+  "lastFetched": "2023-11-16T06:06:56.878Z",
   "webmentions": [
     {
       "type": "entry",
@@ -52571,6 +52571,120 @@
       "wm-protocol": "webmention",
       "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stéphane Deschamps",
+        "photo": "https://webmention.io/avatar/mamot.fr/b1a221493a21d8befad5e4df2c1f6a497c0511ec13f1a77a1e782d8eccc9339e.jpg",
+        "url": "https://piaille.fr/@notabene"
+      },
+      "url": "https://mamot.fr/@nhoizey/111411303329240923#favorited-by-109660244211710945",
+      "published": "2023-11-15T10:22:13Z",
+      "wm-received": "2023-11-15T10:22:13Z",
+      "wm-id": 1738575,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111411303329240923/109660244211710945",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/on-the-move/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/amboseli/on-the-move/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111414563329497872#favorited-by-109483621978440168",
+      "published": "2023-11-15T12:56:09Z",
+      "wm-received": "2023-11-15T12:56:09Z",
+      "wm-id": 1738593,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111414563329497872/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111414563329497872#favorited-by-109377158218702543",
+      "published": "2023-11-15T12:56:11Z",
+      "wm-received": "2023-11-15T12:56:11Z",
+      "wm-id": 1738594,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111414563329497872/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "xs4me2",
+        "photo": "https://webmention.io/avatar/mamot.fr/ef69993ec11fe53ad8acb46d2853abc065070e5b2f646c26780e1db0963375aa.jpg",
+        "url": "https://mastodon.social/@xs4me2"
+      },
+      "url": "https://mamot.fr/@nhoizey/111414563329497872#favorited-by-109256452918959097",
+      "published": "2023-11-15T12:56:12Z",
+      "wm-received": "2023-11-15T12:56:12Z",
+      "wm-id": 1738595,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111414563329497872/109256452918959097",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wayne Moran Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/bf1607d1e575ba7f205fd30b14e8fe22938ae5f290e3515fa7f23abac6c61011.jpg",
+        "url": "https://photog.social/@WayneMoranPhotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/111414563329497872#reblogged-by-110505224867045603",
+      "published": "2023-11-15T12:56:14Z",
+      "wm-received": "2023-11-15T12:56:14Z",
+      "wm-id": 1738596,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111414563329497872/110505224867045603",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kurt Wagner",
+        "photo": "https://webmention.io/avatar/mamot.fr/eb52950df2e528da525188d0d10a7f6af865b4283a1bd68e6bce817dc82b9190.png",
+        "url": "https://mas.to/@kurtwagner"
+      },
+      "url": "https://mamot.fr/@nhoizey/111414563329497872#favorited-by-109809781088321962",
+      "published": "2023-11-15T13:56:14Z",
+      "wm-received": "2023-11-15T13:56:14Z",
+      "wm-id": 1738608,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111414563329497872/109809781088321962",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
