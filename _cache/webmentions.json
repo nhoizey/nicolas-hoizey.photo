@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-17T06:06:49.867Z",
+  "lastFetched": "2023-11-18T06:06:11.216Z",
   "webmentions": [
     {
       "type": "entry",
@@ -52855,6 +52855,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/the-star-ferry-in-victoria-harbour-hong-kong/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/asia/hong-kong/the-star-ferry-in-victoria-harbour-hong-kong/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "hendrickx karel",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/835b7553244dd80aacdf911f9c599638ba8fab5df1d1fc680b1580f8d7724806.jpg",
+        "url": "https://www.flickr.com/people/182514075@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-182514075@N03",
+      "published": "2023-11-17T08:02:57Z",
+      "wm-received": "2023-11-17T08:02:57Z",
+      "wm-id": 1739751,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/182514075@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-property": "like-of",
       "wm-private": false
     }
