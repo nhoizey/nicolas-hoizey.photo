@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-18T06:06:11.216Z",
+  "lastFetched": "2023-11-19T06:06:09.206Z",
   "webmentions": [
     {
       "type": "entry",
@@ -52874,6 +52874,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ginger",
+        "photo": "https://webmention.io/avatar/mamot.fr/436420cd97bad9222d8935a202cb312371a3a1d1484b35538d2d66ec1f488097.jpg",
+        "url": "https://queer.party/@gingerchew"
+      },
+      "url": "https://mamot.fr/@nhoizey/111431237234704158#favorited-by-109265256957866752",
+      "published": "2023-11-18T23:31:52Z",
+      "wm-received": "2023-11-18T23:31:52Z",
+      "wm-id": 1740573,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111431237234704158/109265256957866752",
+      "wm-target": "https://nicolas-hoizey.photo/tags/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/tags/",
       "wm-property": "like-of",
       "wm-private": false
     }
