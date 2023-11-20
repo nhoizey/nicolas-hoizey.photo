@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-19T06:06:09.206Z",
+  "lastFetched": "2023-11-20T06:06:48.780Z",
   "webmentions": [
     {
       "type": "entry",
@@ -52893,6 +52893,63 @@
       "wm-target": "https://nicolas-hoizey.photo/tags/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/tags/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Masayuki Iwahashi ???????? ???????? ???????? ????",
+        "photo": "https://webmention.io/avatar/mamot.fr/269e613f9bb1f95652562be16d0d572683080001a3e0e3414ed27f8cb404ef3d.jpg",
+        "url": "https://mastodon.world/@mi6860"
+      },
+      "url": "https://mamot.fr/@nhoizey/111437210625049565#favorited-by-109405619187394875",
+      "published": "2023-11-19T14:46:27Z",
+      "wm-received": "2023-11-19T14:46:27Z",
+      "wm-id": 1740901,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111437210625049565/109405619187394875",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-bistro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-bistro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "nathaïs Photographie",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/26e27b08d381f6d775535af7c1ce2d2adb5f9c9021938d91b0062e447f1863f6.jpg",
+        "url": "https://www.flickr.com/people/198927559@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-198927559@N02",
+      "published": "2023-11-19T19:07:46Z",
+      "wm-received": "2023-11-19T19:07:46Z",
+      "wm-id": 1741225,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/198927559@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Yolande FREY",
+        "photo": "https://webmention.io/avatar/farm1.staticflickr.com/57ec30022d0d18c945a7aefd04d8058fb6f02df9b5985648baa4c371484f27bb.jpg",
+        "url": "https://www.flickr.com/people/160370554@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-160370554@N07",
+      "published": "2023-11-19T20:17:53Z",
+      "wm-received": "2023-11-19T20:17:53Z",
+      "wm-id": 1741262,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/160370554@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-property": "like-of",
       "wm-private": false
     }
