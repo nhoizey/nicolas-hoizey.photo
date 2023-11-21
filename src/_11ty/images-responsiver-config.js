@@ -40,10 +40,12 @@ const runBeforeHook = (image, document) => {
       image.setAttribute('height', imageDimensions.height);
     }
     if (imageSrc[0] === '/') {
-      imageUrl = site.url.replace(/\/$/, '') + imageSrc;
+      imageUrl = imageSrc;
+      // imageUrl = site.url.replace(/\/$/, '')  + imageSrc;
     } else {
       // This is a relative URL
-      imageUrl = site.url.replace(/\/$/, '') + distPath + imageSrc;
+      imageUrl = distPath + imageSrc;
+      // imageUrl = site.url.replace(/\/$/, '') + distPath + imageSrc;
     }
     image.setAttribute(isData ? 'data-src' : 'src', imageUrl);
   }
