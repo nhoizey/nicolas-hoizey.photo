@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-20T06:06:48.780Z",
+  "lastFetched": "2023-11-21T06:06:48.705Z",
   "webmentions": [
     {
       "type": "entry",
@@ -52950,6 +52950,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Four Bricks Tall",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/bad197d93733ef8d603fc6a3c7a6f182d65e217e888e3939c69302d98a93a911.jpg",
+        "url": "https://www.flickr.com/people/128161151@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-128161151@N08",
+      "published": "2023-11-20T13:15:05Z",
+      "wm-received": "2023-11-20T13:15:05Z",
+      "wm-id": 1741633,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/128161151@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hugo????",
+        "photo": "https://webmention.io/avatar/mamot.fr/fcdf1c69ce2e0716fe59ef3e2124981ca2e7ea4a404afc714bf32f98d08541cc.jpg",
+        "url": "https://mastodon.social/@hugobbezerra"
+      },
+      "url": "https://mamot.fr/@nhoizey/111442875088051879#favorited-by-109294357144505913",
+      "published": "2023-11-20T13:19:09Z",
+      "wm-received": "2023-11-20T13:19:09Z",
+      "wm-id": 1741634,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111442875088051879/109294357144505913",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Musa Nony",
+        "photo": "https://webmention.io/avatar/mamot.fr/9eeae9c95ecd0d7edbd55fdf1ae5f3887f6023c969d4314522e067076446df2c.jpg",
+        "url": "https://mastodon.social/@jadugar63"
+      },
+      "url": "https://mamot.fr/@nhoizey/111442875088051879#favorited-by-110804017648249333",
+      "published": "2023-11-20T13:44:51Z",
+      "wm-received": "2023-11-20T13:44:51Z",
+      "wm-id": 1741640,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111442875088051879/110804017648249333",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
       "wm-property": "like-of",
       "wm-private": false
     }
