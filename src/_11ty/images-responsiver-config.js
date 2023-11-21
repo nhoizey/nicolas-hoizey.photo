@@ -90,8 +90,8 @@ const runAfterHook = (image, document) => {
 
 module.exports = {
   default: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_1600_20_10:${width}/${src}`,
+    resizedImageUrl: (src, width) => `.netlify/images?url=${src}&w=${width}`,
+    // resizedImageUrl: (src, width) => `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_360_1600_20_10:${width}/${src}`,
     runBefore: runBeforeHook,
     runAfter: runAfterHook,
     fallbackWidth: 800,
@@ -103,8 +103,8 @@ module.exports = {
     },
   },
   landscape: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,fl_progressive:semi/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/q_auto,fl_progressive:semi/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -113,7 +113,7 @@ module.exports = {
   },
   portrait: {
     resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,fl_progressive:semi/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
+      // `https://res.cloudinary.com/nho/image/fetch/q_auto,fl_progressive:semi/w_auto:breakpoints_360_3500_20_10:${width}/${src}`,
     maxWidth: 3500,
     steps: 7,
     sizes:
@@ -121,8 +121,9 @@ module.exports = {
     figure: 'never',
   },
   evantail_large_front: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_220_988_20_10:${width}/${src}`,
+    resizedImageUrl: (src, width) => `.netlify/images?url=${src}&w=${width}&h=${Math.floor((width / 3) * 2)}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_220_988_20_10:${width}/${src}`,
     fallbackWidth: 220,
     minWidth: 220, // 16 * 16 * 12/14
     maxWidth: 988, // (16 + 4 + 16) * 16 * 12/14 * 2 (no need for more than 2dppx)
@@ -150,8 +151,9 @@ module.exports = {
     figure: 'never',
   },
   evantail_large_back: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_202_906_20_10:${width}/${src}`,
+    resizedImageUrl: (src, width) => `.netlify/images?url=${src}&w=${width}&h=${Math.floor((width / 3) * 2)}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_202_906_20_10:${width}/${src}`,
     fallbackWidth: 202,
     minWidth: 202, // 16 * 16 * 11/14
     maxWidth: 906, // (16 + 4 + 16) * 16 * 11/14 * 2 (no need for more than 2dppx)
@@ -161,8 +163,9 @@ module.exports = {
     figure: 'never',
   },
   evantail_small_front: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_220_439_10_10:${width}/${src}`,
+    resizedImageUrl: (src, width) => `.netlify/images?url=${src}&w=${width}&h=${Math.floor((width / 3) * 2)}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_220_439_10_10:${width}/${src}`,
     fallbackWidth: 220,
     minWidth: 220, // 16 * 16 * 12/14
     maxWidth: 439, // 16 * 16 * 12/14 * 2 (no need for more than 2dppx)
@@ -172,8 +175,9 @@ module.exports = {
     figure: 'never',
   },
   evantail_small_back: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_202_402_10_10:${width}/${src}`,
+    resizedImageUrl: (src, width) => `.netlify/images?url=${src}&w=${width}&h=${Math.floor((width / 3) * 2)}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/ar_3:2,g_auto,c_fill/q_auto,f_auto/w_auto:breakpoints_202_402_10_10:${width}/${src}`,
     fallbackWidth: 202,
     minWidth: 202, // 16 * 16 * 11/14
     maxWidth: 402, // 16 * 16 * 11/14 * 2 (no need for more than 2dppx)
@@ -183,10 +187,11 @@ module.exports = {
     figure: 'never',
   },
   thumbnail_landscape: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/h_${Math.floor(
-        (width / 3) * 2
-      )},c_limit/q_auto,f_auto/w_auto:breakpoints_320_640_10_10:${width}/${src}`,
+    resizedImageUrl: (src, width) => `.netlify/images?url=${src}&w=${width}&h=${Math.floor((width / 3) * 2)}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/h_${Math.floor(
+    //     (width / 3) * 2
+    //   )},c_limit/q_auto,f_auto/w_auto:breakpoints_320_640_10_10:${width}/${src}`,
     fallbackWidth: 320,
     minWidth: 320,
     maxWidth: 640, // No need for more than 2dppx
@@ -195,10 +200,11 @@ module.exports = {
     figure: 'never',
   },
   thumbnail_portrait: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/h_${Math.floor(
-        (width / 2) * 3
-      )},c_limit/q_auto,f_auto/w_auto:breakpoints_214_427_10_10:${width}/${src}`,
+    resizedImageUrl: (src, width) => `.netlify/images?url=${src}&w=${width}&h=${Math.floor((width / 2) * 3)}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/h_${Math.floor(
+    //     (width / 2) * 3
+    //   )},c_limit/q_auto,f_auto/w_auto:breakpoints_214_427_10_10:${width}/${src}`,
     fallbackWidth: 214,
     minWidth: 214,
     maxWidth: 427, // No need for more than 2dppx
@@ -208,8 +214,8 @@ module.exports = {
     figure: 'never',
   },
   photo_map: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_300_450_10_10:${width}/${src}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_300_450_10_10:${width}/${src}`,
     fallbackWidth: 300,
     minWidth: 300,
     maxWidth: 450, // The source image is 450px wide
@@ -218,8 +224,8 @@ module.exports = {
     figure: 'never',
   },
   logo: {
-    resizedImageUrl: (src, width) =>
-      `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_200_400_10_10:${width}/${src}`,
+    // resizedImageUrl: (src, width) =>
+    //   `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/w_auto:breakpoints_200_400_10_10:${width}/${src}`,
     fallbackWidth: 200,
     minWidth: 200,
     maxWidth: 400, // Enough for >= 2dppx
