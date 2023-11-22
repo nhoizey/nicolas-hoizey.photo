@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-21T06:06:48.705Z",
+  "lastFetched": "2023-11-22T06:07:32.729Z",
   "webmentions": [
     {
       "type": "entry",
@@ -53007,6 +53007,44 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/travel-dreams/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mark Llobrera",
+        "photo": "https://webmention.io/avatar/mamot.fr/3fd1ebcb348236019165cac941a921e511d443bea1de0e45e9d99d4d3007df37.jpg",
+        "url": "https://mastodon.social/@markllobrera"
+      },
+      "url": "https://mamot.fr/@nhoizey/111448537494631540#favorited-by-110046683029709971",
+      "published": "2023-11-21T15:11:45Z",
+      "wm-received": "2023-11-21T15:11:45Z",
+      "wm-id": 1742278,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111448537494631540/110046683029709971",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111448537494631540#favorited-by-110651355078160221",
+      "published": "2023-11-21T15:11:45Z",
+      "wm-received": "2023-11-21T15:11:45Z",
+      "wm-id": 1742277,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111448537494631540/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
       "wm-property": "like-of",
       "wm-private": false
     }
