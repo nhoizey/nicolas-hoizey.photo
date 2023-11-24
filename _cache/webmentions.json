@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-23T06:06:55.687Z",
+  "lastFetched": "2023-11-24T06:07:22.170Z",
   "webmentions": [
     {
       "type": "entry",
@@ -53330,6 +53330,86 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/a-long-tailed-tit-in-sweden/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/a-long-tailed-tit-in-sweden/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111459861580166130#favorited-by-109377158218702543",
+      "published": "2023-11-23T12:58:58Z",
+      "wm-received": "2023-11-23T12:58:58Z",
+      "wm-id": 1743626,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111459861580166130/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/eilan-donan-and-loch-alsh/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/united-kingdom/scotland/eilan-donan-and-loch-alsh/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111454199643293940#favorited-by-110651355078160221",
+      "published": "2023-11-23T14:59:21Z",
+      "wm-received": "2023-11-23T14:59:21Z",
+      "wm-id": 1743672,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111454199643293940/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/a-long-tailed-tit-in-sweden/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/a-long-tailed-tit-in-sweden/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gerald (Wayne) Prout",
+        "photo": "https://webmention.io/avatar/farm4.staticflickr.com/33de2bf8a859b91d8dbc5c4846111dc96451d4fb44db4c26b8c6dca166cb00b5.jpg",
+        "url": "https://www.flickr.com/people/73683441@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#comment72157720315253730",
+      "published": "2023-11-24T01:45:56+00:00",
+      "wm-received": "2023-11-24T01:55:37Z",
+      "wm-id": 1743921,
+      "wm-source": "https://brid.gy/comment/flickr/38608514@N00/53149384848/204349-53149384848-72157720315253730",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<b><i>This is a Wonderful Work!</i>\n</b><a href=\"https://www.flickr.com/groups/3000-views/\"><img src=\"https://farm4.staticflickr.com/3849/19325764736_6b377b6965_m.jpg\" alt=\"19325764736_6b377b6965_m.jpg\" /></a><b> <i> <a href=\"https://www.flickr.com/groups/3000-views/\">\nSeen in 3000 views at least (NO LIMITS)</a> </i></b>\n\nWE NEED MORE YOUR PHOTOS!\n<b></b>",
+        "text": "This is a Wonderful Work!\n  \nSeen in 3000 views at least (NO LIMITS) \n\nWE NEED MORE YOUR PHOTOS!"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gerald (Wayne) Prout",
+        "photo": "https://webmention.io/avatar/farm4.staticflickr.com/33de2bf8a859b91d8dbc5c4846111dc96451d4fb44db4c26b8c6dca166cb00b5.jpg",
+        "url": "https://www.flickr.com/people/73683441@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-73683441@N07",
+      "published": "2023-11-24T01:55:37Z",
+      "wm-received": "2023-11-24T01:55:37Z",
+      "wm-id": 1743920,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/73683441@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-property": "like-of",
       "wm-private": false
     }
