@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-25T06:06:20.080Z",
+  "lastFetched": "2023-11-26T06:06:31.293Z",
   "webmentions": [
     {
       "type": "entry",
@@ -53584,6 +53584,82 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Natxus",
+        "photo": "https://webmention.io/avatar/farm4.staticflickr.com/57df2b861bb31d3d71091b56aa342e380d189c60301ee250e07192f1e90f2bfd.jpg",
+        "url": "https://www.flickr.com/people/64182024@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-64182024@N06",
+      "published": "2023-11-25T08:02:12Z",
+      "wm-received": "2023-11-25T08:02:12Z",
+      "wm-id": 1744612,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/64182024@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Western Exposure",
+        "photo": "https://webmention.io/avatar/mamot.fr/ca8c6d52c56f3f85b6c5efe224ed53ddb4c8b2e56452f2dd971e62795d8efb70.jpg",
+        "url": "https://mastodon.ie/@WesternExposure"
+      },
+      "url": "https://mamot.fr/@nhoizey/111471184550482013#favorited-by-109396117120686015",
+      "published": "2023-11-25T13:49:16Z",
+      "wm-received": "2023-11-25T13:49:16Z",
+      "wm-id": 1744700,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111471184550482013/109396117120686015",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/portugal/lisbon/primary-colors/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/portugal/lisbon/primary-colors/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111465523190868896#favorited-by-110651355078160221",
+      "published": "2023-11-25T16:53:21Z",
+      "wm-received": "2023-11-25T16:53:21Z",
+      "wm-id": 1744740,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111465523190868896/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/the-little-one/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/rhinoceros/the-little-one/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rony Cohen",
+        "photo": "https://farm0.staticflickr.com/0/buddyicons/199220186@N06.jpg",
+        "url": "https://www.flickr.com/people/199220186@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-199220186@N06",
+      "published": "2023-11-25T18:26:54Z",
+      "wm-received": "2023-11-25T18:26:54Z",
+      "wm-id": 1744762,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/199220186@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-property": "like-of",
       "wm-private": false
     }
