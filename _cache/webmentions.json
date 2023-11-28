@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-27T06:06:53.117Z",
+  "lastFetched": "2023-11-28T06:06:39.692Z",
   "webmentions": [
     {
       "type": "entry",
@@ -54029,6 +54029,82 @@
       "wm-target": "https://nicolas-hoizey.photo/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111482510911335637#favorited-by-109377158218702543",
+      "published": "2023-11-27T12:45:45Z",
+      "wm-received": "2023-11-27T12:45:45Z",
+      "wm-id": 1745507,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111482510911335637/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/a-nut-shell-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/a-nut-shell-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111482510911335637#favorited-by-109483621978440168",
+      "published": "2023-11-27T12:45:48Z",
+      "wm-received": "2023-11-27T12:45:48Z",
+      "wm-id": 1745509,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111482510911335637/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/a-nut-shell-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/a-nut-shell-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SherBeareth⚜️",
+        "photo": "https://webmention.io/avatar/mamot.fr/533f21a73ad60ce8c957bd56aff8bdeca985e63d79e30dbe3988a6168606bcd7.png",
+        "url": "https://mastodon.world/@SherBeareth"
+      },
+      "url": "https://mamot.fr/@nhoizey/111482510911335637#reblogged-by-109366371278365636",
+      "published": "2023-11-27T12:45:48Z",
+      "wm-received": "2023-11-27T12:45:48Z",
+      "wm-id": 1745508,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111482510911335637/109366371278365636",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/a-nut-shell-in-etretat/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/a-nut-shell-in-etretat/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Denis Aydarov",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/e4472b76d2b1df314c61436616911b7a7ca9e7823e4342a373a2c06d5ab74408.jpg",
+        "url": "https://www.flickr.com/people/194433621@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-194433621@N07",
+      "published": "2023-11-27T19:33:59Z",
+      "wm-received": "2023-11-27T19:33:59Z",
+      "wm-id": 1745657,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/194433621@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-property": "like-of",
       "wm-private": false
     }
