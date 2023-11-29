@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-28T06:06:39.692Z",
+  "lastFetched": "2023-11-29T06:06:46.000Z",
   "webmentions": [
     {
       "type": "entry",
@@ -54105,6 +54105,177 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris Coleman",
+        "photo": "https://webmention.io/avatar/mamot.fr/a73d82dc2dc9b1f25d7abac0fdd67e348d03fda78b7e6eb52edc60428d77c7f4.jpg",
+        "url": "https://mastodon.social/@Chris"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-129936",
+      "published": "2023-11-28T12:38:39Z",
+      "wm-received": "2023-11-28T12:38:39Z",
+      "wm-id": 1745942,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/129936",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "decibyte",
+        "photo": "https://webmention.io/avatar/mamot.fr/dd22256eae120fe2eb558073acfe8e8ea232052a3b745efa1b9f7a25d8005166.png",
+        "url": "https://social.data.coop/@decibyte"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-108271170489164264",
+      "published": "2023-11-28T12:38:41Z",
+      "wm-received": "2023-11-28T12:38:41Z",
+      "wm-id": 1745943,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/108271170489164264",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-109377158218702543",
+      "published": "2023-11-28T12:39:03Z",
+      "wm-received": "2023-11-28T12:39:03Z",
+      "wm-id": 1745944,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dany",
+        "photo": "https://webmention.io/avatar/mamot.fr/1f5efcfd78f14c02ddb2165ac5b140942b5d449b2494356f37c8b1c2fd93746d.jpg",
+        "url": "https://pixelfed.social/Aerodany"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-111484739634635382",
+      "published": "2023-11-28T13:11:33Z",
+      "wm-received": "2023-11-28T13:11:33Z",
+      "wm-id": 1745955,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/111484739634635382",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "alex jegtnes ✨",
+        "photo": "https://webmention.io/avatar/mamot.fr/01e87dba37854ee74233b6c1507fb57400618e29a1d5a3d6641a19fd758e7319.jpg",
+        "url": "https://indieweb.social/@jegtnes"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-109364920589184832",
+      "published": "2023-11-28T13:39:40Z",
+      "wm-received": "2023-11-28T13:39:40Z",
+      "wm-id": 1745964,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/109364920589184832",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thomas Herrmann",
+        "photo": "https://webmention.io/avatar/mamot.fr/e680c096c4a248944e8dfe985e146356e2d6c1c47abda8ce9987b199363cf379.jpg",
+        "url": "https://photog.social/@BKLronin"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-109325617259039811",
+      "published": "2023-11-28T13:39:40Z",
+      "wm-received": "2023-11-28T13:39:40Z",
+      "wm-id": 1745963,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/109325617259039811",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "De Witte Haas, Schiermonnikoog",
+        "photo": "https://webmention.io/avatar/mamot.fr/2c5745777965d377da862eac0a47c9d6801fa95ee6561ded6a11fb18079dd839.png",
+        "url": "https://mastodon.social/@dewittehaas"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-215567",
+      "published": "2023-11-28T15:09:22Z",
+      "wm-received": "2023-11-28T15:09:22Z",
+      "wm-id": 1745981,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/215567",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CP93",
+        "photo": "https://webmention.io/avatar/mamot.fr/cd6fd4910bfc47e4bea2adfe471a8a5c18ad0252bc36f09ed72dbc89b7fc10f6.jpg",
+        "url": "https://mstdn.social/@CP93"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-109350066584662908",
+      "published": "2023-11-28T16:18:34Z",
+      "wm-received": "2023-11-28T16:18:34Z",
+      "wm-id": 1746015,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/109350066584662908",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eric Lathrop",
+        "photo": "https://webmention.io/avatar/mamot.fr/fa63a0d8c4ce1f4f3fdbaba7dc63cc491019530031758d1c10e2ce89f04e276a.jpg",
+        "url": "https://mastodon.ericlathrop.com/@eric"
+      },
+      "url": "https://mamot.fr/@nhoizey/111488173129506096#favorited-by-343742",
+      "published": "2023-11-28T19:46:38Z",
+      "wm-received": "2023-11-28T19:46:38Z",
+      "wm-id": 1746138,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111488173129506096/343742",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/scarlet-ibis/",
       "wm-property": "like-of",
       "wm-private": false
     }
