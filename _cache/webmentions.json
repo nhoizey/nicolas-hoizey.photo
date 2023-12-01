@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-11-30T06:06:32.126Z",
+  "lastFetched": "2023-12-01T06:07:09.210Z",
   "webmentions": [
     {
       "type": "entry",
@@ -54409,6 +54409,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/deux-sevres/fog-over-niort/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/deux-sevres/fog-over-niort/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dany",
+        "photo": "https://webmention.io/avatar/mamot.fr/509ab754dac0c190a1d4673ec96e23c409540001e5607eff9523bb197e7f00e4.jpg",
+        "url": "https://mastodon.art/@danyaero"
+      },
+      "url": "https://mamot.fr/@nhoizey/111499497864123977#favorited-by-111362358722068623",
+      "published": "2023-11-30T14:24:25Z",
+      "wm-received": "2023-11-30T14:24:25Z",
+      "wm-id": 1746952,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111499497864123977/111362358722068623",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/the-city-that-never-sleeps/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/manhattan/the-city-that-never-sleeps/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carlos Perulan Esteban",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/5b60bf32605cdbd193d9193e16923870bd4a65babd5533128a71c141a5714833.jpg",
+        "url": "https://www.flickr.com/people/124304205@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-124304205@N07",
+      "published": "2023-11-30T18:05:09Z",
+      "wm-received": "2023-11-30T18:05:09Z",
+      "wm-id": 1747109,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/124304205@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "oʇ[◎]ɥd | ʍɟɐ",
+        "photo": "https://webmention.io/avatar/farm8.staticflickr.com/b435684ab299e196a2d111fadb1574a721f87881212cb27f5a4e7a10e4851315.jpg",
+        "url": "https://www.flickr.com/people/126687905@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-126687905@N03",
+      "published": "2023-12-01T04:54:05Z",
+      "wm-received": "2023-12-01T04:54:05Z",
+      "wm-id": 1747327,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/126687905@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-property": "like-of",
       "wm-private": false
     }
