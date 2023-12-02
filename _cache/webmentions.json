@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-01T06:07:09.210Z",
+  "lastFetched": "2023-12-02T06:06:59.758Z",
   "webmentions": [
     {
       "type": "entry",
@@ -54466,6 +54466,82 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Daniel Schildt",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3086645cd791b96b7a045f8280a426bf4a7fa642b5d05ff3b0268099bae1a1e.jpg",
+        "url": "https://mastodon.social/@autiomaa"
+      },
+      "url": "https://mamot.fr/@nhoizey/111505159972221033#favorited-by-109244933165754513",
+      "published": "2023-12-01T12:49:24Z",
+      "wm-received": "2023-12-01T12:49:24Z",
+      "wm-id": 1747426,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111505159972221033/109244933165754513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/around-the-world-in-80-seconds/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/around-the-world-in-80-seconds/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "juma",
+        "photo": "https://webmention.io/avatar/mamot.fr/bbb01a076591705640b223e9ca74ffad7e5479f36a0bda5b280c65bc4abdf20c.jpg",
+        "url": "https://mas.to/@juma"
+      },
+      "url": "https://mamot.fr/@nhoizey/111505159972221033#reblogged-by-109299527049650464",
+      "published": "2023-12-01T15:06:52Z",
+      "wm-received": "2023-12-01T15:06:52Z",
+      "wm-id": 1747496,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111505159972221033/109299527049650464",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/around-the-world-in-80-seconds/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/around-the-world-in-80-seconds/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jaydeep Godara",
+        "photo": "https://webmention.io/avatar/mamot.fr/02fef60b26458a487e65c65a4feb17ed94fadb6a5b96f98fd16be36f63f34c8a.png",
+        "url": "https://fosstodon.org/@jaydeepgo"
+      },
+      "url": "https://mamot.fr/@nhoizey/111505159972221033#favorited-by-109320779948234115",
+      "published": "2023-12-01T17:50:50Z",
+      "wm-received": "2023-12-01T17:50:50Z",
+      "wm-id": 1747549,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111505159972221033/109320779948234115",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/around-the-world-in-80-seconds/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/around-the-world-in-80-seconds/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paul",
+        "photo": "https://webmention.io/avatar/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://fosstodon.org/@mrapplegate"
+      },
+      "url": "https://mamot.fr/@nhoizey/111505159972221033#favorited-by-109385206308732176",
+      "published": "2023-12-01T21:29:17Z",
+      "wm-received": "2023-12-01T21:29:17Z",
+      "wm-id": 1747628,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111505159972221033/109385206308732176",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/around-the-world-in-80-seconds/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/around-the-world-in-80-seconds/",
       "wm-property": "like-of",
       "wm-private": false
     }
