@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-03T06:06:28.144Z",
+  "lastFetched": "2023-12-04T06:07:07.353Z",
   "webmentions": [
     {
       "type": "entry",
@@ -54618,6 +54618,405 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eric Johansson",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/3e284c4d2fc2420fb1e8ba67c37746bd9c1f7c81daec4b68140b46e0ce3395d3.jpg",
+        "url": "https://www.flickr.com/people/195040359@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-195040359@N02",
+      "published": "2023-12-03T06:27:28Z",
+      "wm-received": "2023-12-03T06:27:28Z",
+      "wm-id": 1748141,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/195040359@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109483621978440168",
+      "published": "2023-12-03T12:54:02Z",
+      "wm-received": "2023-12-03T12:54:02Z",
+      "wm-id": 1748193,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109377158218702543",
+      "published": "2023-12-03T12:54:02Z",
+      "wm-received": "2023-12-03T12:54:02Z",
+      "wm-id": 1748194,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hugo",
+        "photo": "https://webmention.io/avatar/mamot.fr/c0716cc3d40b4f7891576369dcdd6fecf74b77aab9bbadefbae63d93d3b67446.jpg",
+        "url": "https://social.dev-wiki.de/@Hugo"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#reblogged-by-109551919021400692",
+      "published": "2023-12-03T12:54:04Z",
+      "wm-received": "2023-12-03T12:54:04Z",
+      "wm-id": 1748195,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111516483107325305/109551919021400692",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Christian \"Schepp\" Schaefer",
+        "photo": "https://webmention.io/avatar/mamot.fr/3829f676c9cdd996595c6f1852d595f2edf2fbc599423eb30604b2a2eeea65ad.jpg",
+        "url": "https://mastodon.social/@Schepp"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-118620",
+      "published": "2023-12-03T14:03:03Z",
+      "wm-received": "2023-12-03T14:03:03Z",
+      "wm-id": 1748205,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/118620",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "John Samuel",
+        "photo": "https://webmention.io/avatar/mamot.fr/2214a6dfaf98d36be2430e3bba24a0ceb2624bebf36a8d6ab456ff2dd7ae6a67.jpg",
+        "url": "https://pixelfed.social/jsamclicks"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109609676061675302",
+      "published": "2023-12-03T14:03:04Z",
+      "wm-received": "2023-12-03T14:03:04Z",
+      "wm-id": 1748206,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109609676061675302",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "⚓️ k_lavande",
+        "photo": "https://webmention.io/avatar/mamot.fr/9048056d8c1322b272ab05a9887d4da02e254b5e632397868553e907f33ab4ed.png",
+        "url": "https://troet.cafe/@Dagobert"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109284688278053014",
+      "published": "2023-12-03T14:35:16Z",
+      "wm-received": "2023-12-03T14:35:16Z",
+      "wm-id": 1748210,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109284688278053014",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Masayuki60 ???????? ???????? ????????????",
+        "photo": "https://webmention.io/avatar/mamot.fr/8f44c467c8083b281b61e02866f662ec28c84bee7d2e762ac6c73c5009727342.jpg",
+        "url": "https://social.vivaldi.net/@masayuki60"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109384676287276559",
+      "published": "2023-12-03T15:07:21Z",
+      "wm-received": "2023-12-03T15:07:21Z",
+      "wm-id": 1748219,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109384676287276559",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "helder simao",
+        "photo": "https://webmention.io/avatar/mamot.fr/5ec6981f44bb1044c90408266adb8baaced8b6f321f8c158cdc34c8ade8d85a7.jpg",
+        "url": "https://masto.pt/@heldersimao"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-108214780979342529",
+      "published": "2023-12-03T15:40:51Z",
+      "wm-received": "2023-12-03T15:40:51Z",
+      "wm-id": 1748247,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/108214780979342529",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rob",
+        "photo": "https://webmention.io/avatar/mamot.fr/62cf0994273b1dda9e755d530a00443a7846302c0a13bf9b071ee5670c2f8ec1.png",
+        "url": "https://mastodon.social/@RobMunic"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-111408453931182186",
+      "published": "2023-12-03T15:40:52Z",
+      "wm-received": "2023-12-03T15:40:52Z",
+      "wm-id": 1748248,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/111408453931182186",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Picture(s) of the Day",
+        "photo": "https://webmention.io/avatar/mamot.fr/e3f55d644ef4713222456d6919969b3676ac3c53b98ae1c33742fe75fcc955f2.jpg",
+        "url": "https://mastodon.social/@picture_of_the_day"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#reblogged-by-109726406479141454",
+      "published": "2023-12-03T15:40:54Z",
+      "wm-received": "2023-12-03T15:40:54Z",
+      "wm-id": 1748249,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111516483107325305/109726406479141454",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "I Care About The World",
+        "photo": "https://webmention.io/avatar/mamot.fr/06408c2d567648efd9f1466a636be65ce60bfa2291baae5a37ff7f29a0beb7a1.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109322251141889536",
+      "published": "2023-12-03T15:40:55Z",
+      "wm-received": "2023-12-03T15:40:55Z",
+      "wm-id": 1748250,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Picture(s) of the Day",
+        "photo": "https://webmention.io/avatar/mamot.fr/e3f55d644ef4713222456d6919969b3676ac3c53b98ae1c33742fe75fcc955f2.jpg",
+        "url": "https://mastodon.social/@picture_of_the_day"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109726406479141454",
+      "published": "2023-12-03T15:41:00Z",
+      "wm-received": "2023-12-03T15:41:00Z",
+      "wm-id": 1748252,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109726406479141454",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PixlLotta",
+        "photo": "https://webmention.io/avatar/mamot.fr/5fb03b42b7d73a2fd18ac27b55228d1828fb6f73ead574759bd5797cc9d84f85.jpg",
+        "url": "https://troet.cafe/@ShutterRatata"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-110858420973948775",
+      "published": "2023-12-03T15:41:00Z",
+      "wm-received": "2023-12-03T15:41:00Z",
+      "wm-id": 1748253,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/110858420973948775",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "georg fischer",
+        "photo": "https://webmention.io/avatar/mamot.fr/55e3d47c4442f9f5ac1d67541c8d05adeb63303d5b54e0a436e93cb026b899b1.jpg",
+        "url": "https://mastodon.social/@snorpey"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-92939",
+      "published": "2023-12-03T16:12:09Z",
+      "wm-received": "2023-12-03T16:12:09Z",
+      "wm-id": 1748258,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/92939",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hella De Boo Bird-Artist",
+        "photo": "https://webmention.io/avatar/mamot.fr/8767e567491b6db0bbfa2f8b9273e7fc4eb0294f125e8b761b5fdbf15190fa06.jpg",
+        "url": "https://mastodon.social/@helladeboo"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-111177606775484628",
+      "published": "2023-12-03T16:38:11Z",
+      "wm-received": "2023-12-03T16:38:11Z",
+      "wm-id": 1748261,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/111177606775484628",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jimlindstrom",
+        "photo": "https://webmention.io/avatar/mamot.fr/5455a239842618d904e5eceac94da8e04ffe85c352749a6d215b099d396e4b3e.png",
+        "url": "https://toot.community/@jimlindstrom"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109304079351808475",
+      "published": "2023-12-03T16:38:14Z",
+      "wm-received": "2023-12-03T16:38:14Z",
+      "wm-id": 1748262,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109304079351808475",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hackl Bär",
+        "photo": "https://webmention.io/avatar/mamot.fr/27007834ce56b4f1597f35e2ffd94f231ee270a553cfc8ac5abb903511501dcf.png",
+        "url": "https://sueden.social/@hacklbaeri"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109756059178766056",
+      "published": "2023-12-03T17:07:09Z",
+      "wm-received": "2023-12-03T17:07:09Z",
+      "wm-id": 1748264,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109756059178766056",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dany",
+        "photo": "https://webmention.io/avatar/mamot.fr/509ab754dac0c190a1d4673ec96e23c409540001e5607eff9523bb197e7f00e4.jpg",
+        "url": "https://mastodon.art/@danyaero"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-111362358722068623",
+      "published": "2023-12-03T17:07:17Z",
+      "wm-received": "2023-12-03T17:07:17Z",
+      "wm-id": 1748265,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/111362358722068623",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "kcǃ",
+        "photo": "https://webmention.io/avatar/mamot.fr/f147ccb87ecf1cdd8c2411f4ff122a2c0c80a003381f4ecd99f999bdba93d4a9.jpg",
+        "url": "https://mastodon.social/@exkclamation"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-105706",
+      "published": "2023-12-03T17:36:55Z",
+      "wm-received": "2023-12-03T17:36:55Z",
+      "wm-id": 1748273,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/105706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Enesto1948",
+        "photo": "https://webmention.io/avatar/mamot.fr/bda3ece25a0d2afa56a220fdaf07699a6bcf47ed8a10798a69504b5df9bef541.jpg",
+        "url": "https://sueden.social/@ernesto"
+      },
+      "url": "https://mamot.fr/@nhoizey/111516483107325305#favorited-by-109330664476418891",
+      "published": "2023-12-03T18:44:39Z",
+      "wm-received": "2023-12-03T18:44:39Z",
+      "wm-id": 1748281,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111516483107325305/109330664476418891",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
       "wm-property": "like-of",
       "wm-private": false
     }
