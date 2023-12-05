@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-04T06:07:07.353Z",
+  "lastFetched": "2023-12-05T06:06:35.677Z",
   "webmentions": [
     {
       "type": "entry",
@@ -55017,6 +55017,158 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/cotes-d-armor/ploumanac-h-lighthouse/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/652fac6fba9297cbafac497232562e72f5126d5c69ff0d43db37b649e12d8aa4.jpg",
+        "url": "https://mastodon.social/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111522146922884902#favorited-by-109483621978440168",
+      "published": "2023-12-04T12:49:27Z",
+      "wm-received": "2023-12-04T12:49:27Z",
+      "wm-id": 1748494,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111522146922884902/109483621978440168",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peque",
+        "photo": "https://webmention.io/avatar/mamot.fr/d211b4eb20f5563e5f693473ba7f01c4aa83149fca17b68a0a56f67bb5932476.jpg",
+        "url": "https://mastodon.social/@elpeque_29"
+      },
+      "url": "https://mamot.fr/@nhoizey/111522146922884902#favorited-by-109316209372726542",
+      "published": "2023-12-04T12:49:27Z",
+      "wm-received": "2023-12-04T12:49:27Z",
+      "wm-id": 1748493,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111522146922884902/109316209372726542",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MKHardy Photography",
+        "photo": "https://webmention.io/avatar/mamot.fr/6203a5db5ffaa1364bf92d39a9a90c1b1a66c31d4d457310acff8c7497ab19a3.jpg",
+        "url": "https://mastodonapp.uk/@mkhardy"
+      },
+      "url": "https://mamot.fr/@nhoizey/111522146922884902#favorited-by-109377158218702543",
+      "published": "2023-12-04T12:49:30Z",
+      "wm-received": "2023-12-04T12:49:30Z",
+      "wm-id": 1748495,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111522146922884902/109377158218702543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Heiko Röbke",
+        "photo": "https://webmention.io/avatar/farm5.staticflickr.com/be4a0144fa772af2aa51ebbb5871b4d9dc44075a804216512d58e142af91652c.jpg",
+        "url": "https://www.flickr.com/people/156227259@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-156227259@N08",
+      "published": "2023-12-04T13:00:33Z",
+      "wm-received": "2023-12-04T13:00:33Z",
+      "wm-id": 1748503,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/156227259@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Zach Leatherman",
+        "photo": "https://webmention.io/avatar/mamot.fr/f4e48698b4079b12cff61448419d6cf2a13293b27bdaa0a551de22a70e402f70.png",
+        "url": "https://fediverse.zachleat.com/@zachleat"
+      },
+      "url": "https://mamot.fr/@nhoizey/111522146922884902#favorited-by-109286920283211014",
+      "published": "2023-12-04T14:21:38Z",
+      "wm-received": "2023-12-04T14:21:38Z",
+      "wm-id": 1748530,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111522146922884902/109286920283211014",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Øystein E. Nilsen",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/150d85b58708bb79355490a4e9283a78cefd1a3747946e38ab6f9fa79a27135c.jpg",
+        "url": "https://www.flickr.com/people/63409074@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-63409074@N07",
+      "published": "2023-12-04T14:56:42Z",
+      "wm-received": "2023-12-04T14:56:42Z",
+      "wm-id": 1748564,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/63409074@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paul Mindeman",
+        "photo": "https://webmention.io/avatar/mamot.fr/5d550a104e149fba90fcccf98923e9a9b19e01580b973850584d563614047a1c.jpg",
+        "url": "https://pixelfed.social/lwbadger"
+      },
+      "url": "https://mamot.fr/@nhoizey/111522146922884902#favorited-by-109512669620173335",
+      "published": "2023-12-04T15:30:13Z",
+      "wm-received": "2023-12-04T15:30:13Z",
+      "wm-id": 1748586,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111522146922884902/109512669620173335",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111522146922884902#favorited-by-110651355078160221",
+      "published": "2023-12-04T16:30:24Z",
+      "wm-received": "2023-12-04T16:30:24Z",
+      "wm-id": 1748629,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111522146922884902/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/lions/don-t-be-afraid-i-m-just-yawning/",
       "wm-property": "like-of",
       "wm-private": false
     }
