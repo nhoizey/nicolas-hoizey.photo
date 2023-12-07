@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-06T06:06:41.385Z",
+  "lastFetched": "2023-12-07T06:06:48.894Z",
   "webmentions": [
     {
       "type": "entry",
@@ -55344,6 +55344,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/scarlet-lily-beetle/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/scarlet-lily-beetle/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Victor",
+        "photo": "https://webmention.io/avatar/mamot.fr/064349c8f98a4ae1f018133bb029f11c48f940a78bfedf97f3a7d5307617fc86.jpg",
+        "url": "https://pixelfed.social/victorvicpal"
+      },
+      "url": "https://mamot.fr/@nhoizey/111533471865513129#favorited-by-109319722599900828",
+      "published": "2023-12-06T13:42:59Z",
+      "wm-received": "2023-12-06T13:42:59Z",
+      "wm-id": 1749766,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111533471865513129/109319722599900828",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
       "wm-property": "like-of",
       "wm-private": false
     }
