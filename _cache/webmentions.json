@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-07T06:06:48.894Z",
+  "lastFetched": "2023-12-08T06:06:43.444Z",
   "webmentions": [
     {
       "type": "entry",
@@ -55363,6 +55363,101 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kevin C. Tofel",
+        "photo": "https://webmention.io/avatar/mamot.fr/357a487cf20d647d3e2e487c244773c8bb97dab30faf400e9c7ca8d609c41a74.jpg",
+        "url": "https://hachyderm.io/@kevinctofel"
+      },
+      "url": "https://mamot.fr/@nhoizey/111539134081149620#favorited-by-109407380532599609",
+      "published": "2023-12-07T13:12:58Z",
+      "wm-received": "2023-12-07T13:12:58Z",
+      "wm-id": 1750117,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111539134081149620/109407380532599609",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hugo????",
+        "photo": "https://webmention.io/avatar/mamot.fr/fcdf1c69ce2e0716fe59ef3e2124981ca2e7ea4a404afc714bf32f98d08541cc.jpg",
+        "url": "https://mastodon.social/@hugobbezerra"
+      },
+      "url": "https://mamot.fr/@nhoizey/111539134081149620#favorited-by-109294357144505913",
+      "published": "2023-12-07T13:12:59Z",
+      "wm-received": "2023-12-07T13:12:59Z",
+      "wm-id": 1750118,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111539134081149620/109294357144505913",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kevin C. Tofel",
+        "photo": "https://webmention.io/avatar/mamot.fr/357a487cf20d647d3e2e487c244773c8bb97dab30faf400e9c7ca8d609c41a74.jpg",
+        "url": "https://hachyderm.io/@kevinctofel"
+      },
+      "url": "https://mamot.fr/@nhoizey/111539134081149620#reblogged-by-109407380532599609",
+      "published": "2023-12-07T13:13:04Z",
+      "wm-received": "2023-12-07T13:13:04Z",
+      "wm-id": 1750119,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111539134081149620/109407380532599609",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Laura Cochran",
+        "photo": "https://webmention.io/avatar/mamot.fr/0b8b17508695fa0d0d6698da12f5cc484d463ae34a738c025496a2ca0fb3a899.png",
+        "url": "https://universeodon.com/@lacochran"
+      },
+      "url": "https://mamot.fr/@nhoizey/111539134081149620#favorited-by-109406592803454049",
+      "published": "2023-12-07T13:39:57Z",
+      "wm-received": "2023-12-07T13:39:57Z",
+      "wm-id": 1750126,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111539134081149620/109406592803454049",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Musa Nony",
+        "photo": "https://webmention.io/avatar/mamot.fr/9eeae9c95ecd0d7edbd55fdf1ae5f3887f6023c969d4314522e067076446df2c.jpg",
+        "url": "https://mastodon.social/@jadugar63"
+      },
+      "url": "https://mamot.fr/@nhoizey/111539134081149620#favorited-by-110804017648249333",
+      "published": "2023-12-07T14:10:28Z",
+      "wm-received": "2023-12-07T14:10:28Z",
+      "wm-id": 1750137,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111539134081149620/110804017648249333",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/kenya/maasai-mara/proud-maasai/",
       "wm-property": "like-of",
       "wm-private": false
     }
