@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-12T06:06:54.684Z",
+  "lastFetched": "2023-12-13T06:06:56.737Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57016,6 +57016,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/grand-est/north-collateral-of-the-cathedral-of-notre-dame-de-reims/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/grand-est/north-collateral-of-the-cathedral-of-notre-dame-de-reims/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hugo????",
+        "photo": "https://webmention.io/avatar/mamot.fr/fcdf1c69ce2e0716fe59ef3e2124981ca2e7ea4a404afc714bf32f98d08541cc.jpg",
+        "url": "https://mastodon.social/@hugobbezerra"
+      },
+      "url": "https://mamot.fr/@nhoizey/111567445442311574#favorited-by-109294357144505913",
+      "published": "2023-12-12T12:56:44Z",
+      "wm-received": "2023-12-12T12:56:44Z",
+      "wm-id": 1752480,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111567445442311574/109294357144505913",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JR",
+        "photo": "https://webmention.io/avatar/mamot.fr/0933e404d5be9da6f5289e873bc1b0f54a0d7c8af81deaa3bbed143030c84333.jpg",
+        "url": "https://pixelfed.social/jollyrogue"
+      },
+      "url": "https://mamot.fr/@nhoizey/111567445442311574#favorited-by-111317518510363393",
+      "published": "2023-12-12T16:09:27Z",
+      "wm-received": "2023-12-12T16:09:27Z",
+      "wm-id": 1752578,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111567445442311574/111317518510363393",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MARCO HAYEK",
+        "photo": "https://webmention.io/avatar/mamot.fr/6ae48c918fa3f033b7145562723c8a646cf7e6d4a40614669b0d569bb66ce5d3.png",
+        "url": "https://mastodon.art/@marcohayek"
+      },
+      "url": "https://mamot.fr/@nhoizey/111567445442311574#favorited-by-110661146147629296",
+      "published": "2023-12-12T17:08:17Z",
+      "wm-received": "2023-12-12T17:08:17Z",
+      "wm-id": 1752611,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111567445442311574/110661146147629296",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/urban/architecture/graphite-in-batignolles/",
       "wm-property": "like-of",
       "wm-private": false
     }
