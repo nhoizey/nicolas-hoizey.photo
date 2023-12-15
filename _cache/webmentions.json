@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-14T06:08:03.762Z",
+  "lastFetched": "2023-12-15T06:06:58.020Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57339,6 +57339,101 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "normshaw",
+        "photo": "https://webmention.io/avatar/mamot.fr/73e1ac7723e799722a4b36c980513043e34a587dea5884c93bd19d091febcfdb.jpg",
+        "url": "https://newsie.social/@normshaw"
+      },
+      "url": "https://mamot.fr/@nhoizey/111578769703000982#favorited-by-109356067261888270",
+      "published": "2023-12-14T13:12:28Z",
+      "wm-received": "2023-12-14T13:12:28Z",
+      "wm-id": 1753511,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111578769703000982/109356067261888270",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "NYSloth",
+        "photo": "https://webmention.io/avatar/mamot.fr/d623a8bbbb5f909d9123ee263cc5ef56222f4a788e63b268d6be063df1b536ca.jpg",
+        "url": "https://pixelfed.social/NYSloth"
+      },
+      "url": "https://mamot.fr/@nhoizey/111578769703000982#favorited-by-109587351073193226",
+      "published": "2023-12-14T13:12:28Z",
+      "wm-received": "2023-12-14T13:12:28Z",
+      "wm-id": 1753510,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111578769703000982/109587351073193226",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dwayne",
+        "photo": "https://webmention.io/avatar/mamot.fr/0766426f038db6aea33e7f11e42ed0eaf392811c4b56b593708e5be97ee90072.jpg",
+        "url": "https://hachyderm.io/@imaginethatok"
+      },
+      "url": "https://mamot.fr/@nhoizey/111578769703000982#favorited-by-109908369828406850",
+      "published": "2023-12-14T13:37:09Z",
+      "wm-received": "2023-12-14T13:37:09Z",
+      "wm-id": 1753518,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111578769703000982/109908369828406850",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PierParty ????",
+        "photo": "https://webmention.io/avatar/mamot.fr/8135fa5668b63b96e78f6491e30775a15f4e206d0fd3978fecbcda8ba1961d8d.jpg",
+        "url": "https://masto.ai/@PierParty"
+      },
+      "url": "https://mamot.fr/@nhoizey/111578769703000982#favorited-by-109386450192991939",
+      "published": "2023-12-14T13:37:09Z",
+      "wm-received": "2023-12-14T13:37:09Z",
+      "wm-id": 1753517,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111578769703000982/109386450192991939",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Roland C. Vogt",
+        "photo": "https://webmention.io/avatar/farm6.staticflickr.com/c2935d2c8d5e7545471290ab1fb4c36c97c87fe3fdeddb9b71f9a822b4cc8bef.jpg",
+        "url": "https://www.flickr.com/people/54157353@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-54157353@N05",
+      "published": "2023-12-14T22:10:39Z",
+      "wm-received": "2023-12-14T22:10:39Z",
+      "wm-id": 1753708,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/54157353@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-property": "like-of",
       "wm-private": false
     }
