@@ -76,8 +76,9 @@ body {
   background-color: colors.$surface;
   color: colors.$text;
 
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
-    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  // https://github.com/system-fonts/modern-font-stacks#humanist
+  font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans',
+    source-sans-pro, sans-serif;
   font-size: var(--step-0);
   line-height: $line-height;
 }
@@ -119,7 +120,7 @@ h6 {
 }
 
 h1 {
-  font-size: var(--step-4);
+  font-size: var(--step-3);
 
   .breadcrumb + &,
   .flag + & {
@@ -128,16 +129,16 @@ h1 {
 }
 
 h2 {
-  font-size: var(--step-3);
+  font-size: var(--step-2);
 }
 
 h3 {
-  font-size: var(--step-2);
+  font-size: var(--step-1);
   margin-block-start: spaces.$xxxl;
 }
 
 h4 {
-  font-size: var(--step-1);
+  font-size: var(--step-0);
   margin: spaces.$xl 0 spaces.$s;
 }
 
