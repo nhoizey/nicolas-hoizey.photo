@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-15T06:06:58.020Z",
+  "lastFetched": "2023-12-16T06:06:28.345Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57434,6 +57434,158 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jeanleu",
+        "photo": "https://webmention.io/avatar/mamot.fr/19215660c3bd979f9067500b2adb1807fde35d667b47cf6de12dbc5b6a187860.png",
+        "url": "https://piaille.fr/@jeanleu"
+      },
+      "url": "https://mamot.fr/@nhoizey/111584432126939489#favorited-by-109364632925167272",
+      "published": "2023-12-15T13:33:41Z",
+      "wm-received": "2023-12-15T13:33:41Z",
+      "wm-id": 1753933,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111584432126939489/109364632925167272",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "decibyte",
+        "photo": "https://webmention.io/avatar/mamot.fr/dd22256eae120fe2eb558073acfe8e8ea232052a3b745efa1b9f7a25d8005166.png",
+        "url": "https://social.data.coop/@decibyte"
+      },
+      "url": "https://mamot.fr/@nhoizey/111584432126939489#favorited-by-108271170489164264",
+      "published": "2023-12-15T14:00:53Z",
+      "wm-received": "2023-12-15T14:00:53Z",
+      "wm-id": 1753976,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111584432126939489/108271170489164264",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell",
+        "photo": "https://webmention.io/avatar/mamot.fr/f1e055fa7b5749d299051665201dc9d7cc2694a52e5cf33fee0ebf43f05b9423.jpg",
+        "url": "https://photog.social/@ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/111584432126939489#reblogged-by-109310382166525404",
+      "published": "2023-12-15T14:52:38Z",
+      "wm-received": "2023-12-15T14:52:38Z",
+      "wm-id": 1754018,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111584432126939489/109310382166525404",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell",
+        "photo": "https://webmention.io/avatar/mamot.fr/f1e055fa7b5749d299051665201dc9d7cc2694a52e5cf33fee0ebf43f05b9423.jpg",
+        "url": "https://photog.social/@ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/111584432126939489#favorited-by-109310382166525404",
+      "published": "2023-12-15T14:52:38Z",
+      "wm-received": "2023-12-15T14:52:38Z",
+      "wm-id": 1754017,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111584432126939489/109310382166525404",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marina Kraus",
+        "photo": "https://webmention.io/avatar/mamot.fr/6b1f5470af1e6983cc477a725aa1d6bc27b965f507bda0c3918b549eacf736dd.png",
+        "url": "https://toot.community/@marina"
+      },
+      "url": "https://mamot.fr/@nhoizey/111584432126939489#favorited-by-109346622989497744",
+      "published": "2023-12-15T15:28:56Z",
+      "wm-received": "2023-12-15T15:28:56Z",
+      "wm-id": 1754069,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111584432126939489/109346622989497744",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HelloMstdn",
+        "photo": "https://webmention.io/avatar/mamot.fr/07a51f5436e061ac57e8cbe86b31f034e9326775c2b69cd8d915102ccc844c60.jpg",
+        "url": "https://mstdn.social/@montrebei"
+      },
+      "url": "https://mamot.fr/@nhoizey/111584432126939489#favorited-by-109314164485289043",
+      "published": "2023-12-15T16:25:19Z",
+      "wm-received": "2023-12-15T16:25:19Z",
+      "wm-id": 1754147,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111584432126939489/109314164485289043",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HelloMstdn",
+        "photo": "https://webmention.io/avatar/mamot.fr/07a51f5436e061ac57e8cbe86b31f034e9326775c2b69cd8d915102ccc844c60.jpg",
+        "url": "https://mstdn.social/@montrebei"
+      },
+      "url": "https://mamot.fr/@nhoizey/111584432126939489#reblogged-by-109314164485289043",
+      "published": "2023-12-15T16:25:20Z",
+      "wm-received": "2023-12-15T16:25:20Z",
+      "wm-id": 1754148,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111584432126939489/109314164485289043",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111584432126939489#favorited-by-110651355078160221",
+      "published": "2023-12-15T17:54:02Z",
+      "wm-received": "2023-12-15T17:54:02Z",
+      "wm-id": 1754205,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111584432126939489/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
       "wm-property": "like-of",
       "wm-private": false
     }
