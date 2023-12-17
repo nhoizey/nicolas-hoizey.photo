@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-16T06:06:28.345Z",
+  "lastFetched": "2023-12-17T06:06:13.633Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57586,6 +57586,44 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/lumberjacks/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "John Samuel",
+        "photo": "https://webmention.io/avatar/mamot.fr/2214a6dfaf98d36be2430e3bba24a0ceb2624bebf36a8d6ab456ff2dd7ae6a67.jpg",
+        "url": "https://pixelfed.social/jsamclicks"
+      },
+      "url": "https://mamot.fr/@nhoizey/111590092772537364#favorited-by-109609676061675302",
+      "published": "2023-12-16T13:41:49Z",
+      "wm-received": "2023-12-16T13:41:49Z",
+      "wm-id": 1754571,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111590092772537364/109609676061675302",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/giraffes/masai-giraffes-like-tree-leaves/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/giraffes/masai-giraffes-like-tree-leaves/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111590092772537364#favorited-by-110651355078160221",
+      "published": "2023-12-16T15:55:10Z",
+      "wm-received": "2023-12-16T15:55:10Z",
+      "wm-id": 1754633,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111590092772537364/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/giraffes/masai-giraffes-like-tree-leaves/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/giraffes/masai-giraffes-like-tree-leaves/",
       "wm-property": "like-of",
       "wm-private": false
     }
