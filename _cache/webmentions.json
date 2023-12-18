@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-17T06:06:13.633Z",
+  "lastFetched": "2023-12-18T06:07:21.571Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57625,6 +57625,139 @@
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/giraffes/masai-giraffes-like-tree-leaves/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Coralie Mercier",
+        "photo": "https://webmention.io/avatar/mamot.fr/906a6d035e2de3e16e61b38318c05d10486852f79ae7a04a73e68c40f81680f1.jpg",
+        "url": "https://mastodon.social/@koalie"
+      },
+      "url": "https://mamot.fr/@nhoizey/111595755480080913#favorited-by-21900",
+      "published": "2023-12-17T13:02:39Z",
+      "wm-received": "2023-12-17T13:02:39Z",
+      "wm-id": 1754973,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111595755480080913/21900",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Christian \"Schepp\" Schaefer",
+        "photo": "https://webmention.io/avatar/mamot.fr/3829f676c9cdd996595c6f1852d595f2edf2fbc599423eb30604b2a2eeea65ad.jpg",
+        "url": "https://mastodon.social/@Schepp"
+      },
+      "url": "https://mamot.fr/@nhoizey/111595755480080913#favorited-by-118620",
+      "published": "2023-12-17T14:22:26Z",
+      "wm-received": "2023-12-17T14:22:26Z",
+      "wm-id": 1754991,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111595755480080913/118620",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Quin Rock",
+        "photo": "https://webmention.io/avatar/mamot.fr/15940a286b1e32b80b618327d9277838fa660a866ef879ff9352f1ae1787b7a8.jpg",
+        "url": "https://mas.to/@quinrockphoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/111595755480080913#favorited-by-111588230351091207",
+      "published": "2023-12-18T01:31:10Z",
+      "wm-received": "2023-12-18T01:31:10Z",
+      "wm-id": 1755167,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111595755480080913/111588230351091207",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Barbara Monaco",
+        "photo": "https://webmention.io/avatar/mamot.fr/a5e2ff0689b2844d05131d30f5716dd775c0da1ea349279cfde2234ff0ab3b24.jpg",
+        "url": "https://mas.to/@Barbramon1"
+      },
+      "url": "https://mamot.fr/@nhoizey/111595755480080913#favorited-by-109440638698778684",
+      "published": "2023-12-18T01:31:15Z",
+      "wm-received": "2023-12-18T01:31:15Z",
+      "wm-id": 1755168,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111595755480080913/109440638698778684",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Krishna Tekale",
+        "photo": "https://webmention.io/avatar/mamot.fr/87ee45aed1853bb48282a2007e8f37b457de43e3990316b032ca009bf0d42282.png",
+        "url": "https://mastodon.world/@kktekale"
+      },
+      "url": "https://mamot.fr/@nhoizey/111595755480080913#reblogged-by-109745403239152020",
+      "published": "2023-12-18T01:31:19Z",
+      "wm-received": "2023-12-18T01:31:19Z",
+      "wm-id": 1755170,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111595755480080913/109745403239152020",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Krishna Tekale",
+        "photo": "https://webmention.io/avatar/mamot.fr/87ee45aed1853bb48282a2007e8f37b457de43e3990316b032ca009bf0d42282.png",
+        "url": "https://mastodon.world/@kktekale"
+      },
+      "url": "https://mamot.fr/@nhoizey/111595755480080913#favorited-by-109745403239152020",
+      "published": "2023-12-18T01:31:19Z",
+      "wm-received": "2023-12-18T01:31:19Z",
+      "wm-id": 1755169,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111595755480080913/109745403239152020",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "thepoliticalcat",
+        "photo": "https://webmention.io/avatar/mamot.fr/8ada7c979dfde98b5a63f20db7b674ddcbebfa366857611580a4ac25defaa1a5.jpg",
+        "url": "https://mastodon.social/@thepoliticalcat"
+      },
+      "url": "https://mamot.fr/@nhoizey/111595755480080913#reblogged-by-109491610571219840",
+      "published": "2023-12-18T01:31:23Z",
+      "wm-received": "2023-12-18T01:31:23Z",
+      "wm-id": 1755171,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/111595755480080913/109491610571219840",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
