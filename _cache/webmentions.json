@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-18T06:07:21.571Z",
+  "lastFetched": "2023-12-19T06:06:47.767Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57758,6 +57758,25 @@
       "wm-protocol": "webmention",
       "repost-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/united-states/new-york/brooklyn/breathtaking-brooklyn-bridge-night-panorama/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lime Bar on Pixelfed",
+        "photo": "https://webmention.io/avatar/mamot.fr/d2c278d5e2dea630f2f365a7fb137b0ce7ab83838c6dc884a914b004bad8989f.png",
+        "url": "https://pixelfed.social/limebar"
+      },
+      "url": "https://mamot.fr/@nhoizey/111601419294284090#favorited-by-110063746091364292",
+      "published": "2023-12-18T13:46:47Z",
+      "wm-received": "2023-12-18T13:46:47Z",
+      "wm-id": 1755349,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111601419294284090/110063746091364292",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/now-you-see-me/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/now-you-see-me/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
