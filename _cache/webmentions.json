@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-19T06:06:47.767Z",
+  "lastFetched": "2023-12-20T06:06:09.355Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57773,6 +57773,25 @@
       "wm-received": "2023-12-18T13:46:47Z",
       "wm-id": 1755349,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111601419294284090/110063746091364292",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/now-you-see-me/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/now-you-see-me/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paul Mindeman",
+        "photo": "https://webmention.io/avatar/mamot.fr/5d550a104e149fba90fcccf98923e9a9b19e01580b973850584d563614047a1c.jpg",
+        "url": "https://pixelfed.social/lwbadger"
+      },
+      "url": "https://mamot.fr/@nhoizey/111601419294284090#favorited-by-109512669620173335",
+      "published": "2023-12-19T14:07:03Z",
+      "wm-received": "2023-12-19T14:07:03Z",
+      "wm-id": 1755788,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111601419294284090/109512669620173335",
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/now-you-see-me/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/now-you-see-me/",
