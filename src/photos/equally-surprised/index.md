@@ -72,6 +72,7 @@ geo:
   longitude: 6.522579166666667
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 156 52 52
   darkVibrant: 96 79 16
