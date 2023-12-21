@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-20T06:06:09.355Z",
+  "lastFetched": "2023-12-21T06:06:51.879Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57795,6 +57795,82 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/mammals/now-you-see-me/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/mammals/now-you-see-me/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Guillermo Peregrino",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/ad1dcfc236f35ab52d11f4cc22db00614ec4e73bf8461d73c00ab46acb204c9a.jpg",
+        "url": "https://www.flickr.com/people/146741733@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-146741733@N06",
+      "published": "2023-12-20T11:13:14Z",
+      "wm-received": "2023-12-20T11:13:14Z",
+      "wm-id": 1756452,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/146741733@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silly Little Bricks",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/f28d613a55d8a3ccd16c95dd7391bf9ba8c8476ffb8b50ac644f9366e21abb0c.jpg",
+        "url": "https://www.flickr.com/people/198024506@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-198024506@N04",
+      "published": "2023-12-20T19:13:36Z",
+      "wm-received": "2023-12-20T19:13:36Z",
+      "wm-id": 1756594,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/198024506@N04",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Riffle",
+        "photo": "https://webmention.io/avatar/farm4.staticflickr.com/c37ae5053264d05bb088219bca1fedcff1c734098cd9d7f55f00ca215628b701.jpg",
+        "url": "https://www.flickr.com/people/53020444@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-53020444@N06",
+      "published": "2023-12-20T20:55:53Z",
+      "wm-received": "2023-12-20T20:55:53Z",
+      "wm-id": 1756612,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/53020444@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "L'ART",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/b0f8977c26b6924123d0978995f41797e8b27b5f52500d11453999a7ae9729b4.jpg",
+        "url": "https://www.flickr.com/people/199419143@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-199419143@N04",
+      "published": "2023-12-20T20:55:54Z",
+      "wm-received": "2023-12-20T20:55:54Z",
+      "wm-id": 1756613,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/199419143@N04",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-property": "like-of",
       "wm-private": false
     }
