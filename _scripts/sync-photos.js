@@ -56,7 +56,7 @@ let exifrOptions = {
     pick: ['latitude', 'longitude'],
   },
   iptc: true,
-  // xmp: { pick: ['Headline'] },
+  xmp: { pick: ['AltTextAccessibility', 'ExtDescrAccessibility'] },
   userComment: true,
 };
 
