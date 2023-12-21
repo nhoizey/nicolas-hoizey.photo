@@ -1,8 +1,8 @@
 ---
 title: Far West cowboys from the movies
 file: far-west-cowboys-from-the-movies.jpg
-alt_text: Photo of a cowboy on horseback in the dirt street of a wild west town
-  (photo taken in a movie studio)
+alt_text: Photo of a person riding a horse in a Western-style town (a movie
+  studio)) with historic buildings, including a photo studio.
 date: 2004-09-29 13:35:27 +01:00
 dates:
   iso: 2004-09-29
@@ -91,4 +91,4 @@ colors:
 lqip: data:image/webp;base64,UklGRogBAABXRUJQVlA4IHwBAABwDgCdASpkAEoAP3Gky1k0rCmqLrQMMpAuCWMAzBwwdNT4Alv8LcnkQVFTPFUDNDN7Dux0AJhJAfRaaJlvseLJ/ENHtZnnFM7mpqYV0NAwBSII5Xt5tdqwDGd10yEVkrnyeNplLV5IX7YJKPPCoEogE8qyQjyJTex2zVgAAP7oF7I7HuD4WsBzVuDX2706gufV8Vs3PqryMge+xwEYYm+NscGIfUg2pmeC4O+CeLpSzKkfDIUhVYLSLKIUuj1pp/O2qsa54PcGnSC5ZqhMwvHWnRPP9N18VLpcPEBkKU0qHAzk265c5LweHQF+wdVyLIkswDCYnz/JkOtHhrxxOvcadua3SCh7bteamidcHM4yYKETf65YjWwtgs/T3A/yTHlKyKOy/d2L4jDRR2+O9PWteecGKR2Vh42RlUSPOOysNDrdiCCEQjgjZXwU8WH5ens7kaupk9jkCtGkVhQDXvKliJgxl5hbPfvG6TRxoc7KqUcBE3IVv3x/ZoAAAA==
 ---
 
-Located near Almeria in the south of Spain, Texas Hollywood is a cinema studio open to tourists, where stuntmen mimic (from 9 to 5... ;-) ) famous Western movies as Sergio Leone ones. This is where "Once upon a time in the west", "The Good, the Bad and the Ugly", or more recent "Blueberry" were shot…
+Located near Almeria in the south of Spain, Texas Hollywood is a cinema studio open to tourists, where stuntmen mimic famous Western movies as Sergio Leone ones. This is where "Once upon a time in the west", "The Good, the Bad and the Ugly", or more recent "Blueberry" were shot…
