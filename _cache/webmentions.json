@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-22T06:06:28.295Z",
+  "lastFetched": "2023-12-23T06:06:26.120Z",
   "webmentions": [
     {
       "type": "entry",
@@ -57986,6 +57986,67 @@
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Patrick Walsh",
+        "photo": "https://webmention.io/avatar/mamot.fr/783de5520d4e8086b502b2fc68b51e7a1fe0427c303a24a0a9134f1fdeb314ba.jpg",
+        "url": "https://photog.social/@patrickgwalsh"
+      },
+      "url": "https://mamot.fr/@nhoizey/111624067156440550#favorited-by-109333650119290128",
+      "published": "2023-12-22T13:03:20Z",
+      "wm-received": "2023-12-22T13:03:20Z",
+      "wm-id": 1757303,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111624067156440550/109333650119290128",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Suitcase Travel Blog",
+        "photo": "https://webmention.io/avatar/mamot.fr/aca199d7392e0205339f4a0afcd6742d262a7cb8115a4162580b4b83a7824399.png",
+        "url": "https://mastodon.social/@suitcasetravel"
+      },
+      "url": "https://mamot.fr/@nhoizey/111624067156440550#favorited-by-111624436162570996",
+      "published": "2023-12-22T14:02:50Z",
+      "wm-received": "2023-12-22T14:02:50Z",
+      "wm-id": 1757366,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111624067156440550/111624436162570996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paul",
+        "photo": "https://webmention.io/avatar/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://fosstodon.org/@mrapplegate"
+      },
+      "url": "https://fosstodon.org/@mrapplegate/111625755784029510",
+      "published": "2023-12-22T19:37:41+00:00",
+      "wm-received": "2023-12-22T19:48:28Z",
+      "wm-id": 1757513,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/111624067156440550/111625755795055829",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> I like this. It reminds me of your website’s footer image.</p>",
+        "text": "@nhoizey I like this. It reminds me of your website’s footer image."
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "in-reply-to",
       "wm-private": false
     }
   ]
