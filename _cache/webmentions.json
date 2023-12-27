@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-26T06:06:41.647Z",
+  "lastFetched": "2023-12-27T06:06:31.057Z",
   "webmentions": [
     {
       "type": "entry",
@@ -58540,6 +58540,63 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "aarontgrogg",
+        "photo": "https://webmention.io/avatar/mamot.fr/0502487485535e09c61394550587307484a09e8a54cf129e115360f1fcba50f5.jpg",
+        "url": "https://mastodon.social/@aarontgrogg"
+      },
+      "url": "https://mamot.fr/@nhoizey/111646716340903725#favorited-by-111613931548932054",
+      "published": "2023-12-26T14:17:01Z",
+      "wm-received": "2023-12-26T14:17:01Z",
+      "wm-id": 1758628,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111646716340903725/111613931548932054",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Patrick Walsh",
+        "photo": "https://webmention.io/avatar/mamot.fr/783de5520d4e8086b502b2fc68b51e7a1fe0427c303a24a0a9134f1fdeb314ba.jpg",
+        "url": "https://photog.social/@patrickgwalsh"
+      },
+      "url": "https://mamot.fr/@nhoizey/111646716340903725#favorited-by-109333650119290128",
+      "published": "2023-12-26T14:17:01Z",
+      "wm-received": "2023-12-26T14:17:01Z",
+      "wm-id": 1758627,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111646716340903725/109333650119290128",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "S. Page Looney",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/3c9281d6bc65340c5a4a3e64f53c98a957fc4e35ace912e926548031554351a6.jpg",
+        "url": "https://www.flickr.com/people/147775620@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-147775620@N02",
+      "published": "2023-12-26T23:29:47Z",
+      "wm-received": "2023-12-26T23:29:47Z",
+      "wm-id": 1758763,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/147775620@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-property": "like-of",
       "wm-private": false
     }
