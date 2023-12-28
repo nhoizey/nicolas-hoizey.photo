@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-12-27T06:06:31.057Z",
+  "lastFetched": "2023-12-28T06:06:50.067Z",
   "webmentions": [
     {
       "type": "entry",
@@ -58594,6 +58594,63 @@
       "wm-received": "2023-12-26T23:29:47Z",
       "wm-id": 1758763,
       "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/147775620@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111652378824809736#favorited-by-110651355078160221",
+      "published": "2023-12-27T15:35:14Z",
+      "wm-received": "2023-12-27T15:35:14Z",
+      "wm-id": 1758878,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111652378824809736/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/studio/uncertainty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/studio/uncertainty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mateo Brigande",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/23ebe209de675fbbaf891f8a09c6515356fde01e7f758497ecb3e069da890f98.jpg",
+        "url": "https://www.flickr.com/people/97227177@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53149384848/#liked-by-97227177@N06",
+      "published": "2023-12-27T16:40:38Z",
+      "wm-received": "2023-12-27T16:40:38Z",
+      "wm-id": 1758883,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53149384848/97227177@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/etretat/la-manneporte-from-the-pointe-de-la-courtine-in-etretat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "erwan grandpierre",
+        "photo": "https://webmention.io/avatar/farm5.staticflickr.com/030c03bec4101fa683497206b9f48754b26b33d3c4ef7ce831ba18cc8880a6f4.jpg",
+        "url": "https://www.flickr.com/people/128891706@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53316965282/#liked-by-128891706@N05",
+      "published": "2023-12-27T17:41:58Z",
+      "wm-received": "2023-12-27T17:41:58Z",
+      "wm-id": 1758904,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53316965282/128891706@N05",
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
