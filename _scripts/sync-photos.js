@@ -37,27 +37,31 @@ if (!fs.existsSync(path.join(THUMBNAILS, 'icons@2x'))) {
 }
 
 let exifrOptions = {
+  mergeOutput: false,
+  crs: false,
+  dc: false,
+  lr: false,
+  photoshop: false,
   ifd0: {
     pick: ['Make', 'Model', 'ImageDescription'],
   },
-  exif: {
-    pick: [
-      'DateTimeOriginal',
-      'OffsetTime',
-      'ExposureTime',
-      'ISO',
-      'FNumber',
-      'FocalLength',
-      'FocalLengthIn35mmFormat',
-      'LensModel',
-    ],
-  },
+  exif: [
+    'DateTimeOriginal',
+    'OffsetTime',
+    'ExposureTime',
+    'ISO',
+    'FNumber',
+    'FocalLength',
+    'FocalLengthIn35mmFormat',
+    'LensModel',
+  ],
+
   gps: {
     pick: ['latitude', 'longitude'],
   },
-  iptc: true,
+  iptc: { pick: ['ObjectName', 'Caption', 'Country', 'City'] },
   xmp: { pick: ['AltTextAccessibility', 'ExtDescrAccessibility'] },
-  userComment: true,
+  userComment: false,
 };
 
 async function syncOnePhoto(photo) {
@@ -82,6 +86,8 @@ SYNC ${photo}`);
   let photoYFM = {};
   const photoExif = await exifr.parse(photoPath, exifrOptions);
 
+  // console.dir(photoExif);
+
   if (undefined === photoExif) {
     thisLog(`  ⚠ error reading EXIF data`);
   } else {
@@ -96,12 +102,12 @@ SYNC ${photo}`);
       copyPhotoFile = true;
     }
 
-    if (undefined === photoExif.ObjectName) {
+    if (undefined === photoExif.iptc.ObjectName) {
       thisLog(`  ⚠ "iptc.ObjectName" missing`);
       photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, '$1');
     } else {
       // Get title
-      photoYFM.title = utf8.decode(photoExif.ObjectName);
+      photoYFM.title = utf8.decode(photoExif.iptc.ObjectName);
     }
 
     // Compute folder and file paths from title
@@ -110,20 +116,15 @@ SYNC ${photo}`);
     const distDir = path.join(DIST, slug);
     const distPhoto = path.join(distDir, `${slug}${ext}`);
 
-    // Get description for alt text from IPTC's userComment or Headline
-    // TODO: remove support for Headline
+    // Get alt text from XMP's AltTextAccessibility or IPTC's userComment or Headline
+    // TODO: also use ExtDescrAccessibility as long description
     let photoAltText = '';
-    if (photoExif.userComment) {
-      photoAltText = Object.values(photoExif.userComment)
-        .map((char) => String.fromCharCode(char))
-        .join('')
-        .replace('ASCII\0\0\0', '');
-    } else if (photoExif.Headline) {
-      photoAltText = utf8.decode(photoExif.Headline).trim();
+    if (photoExif.Iptc4xmpCore?.AltTextAccessibility?.value) {
+      photoAltText = photoExif.Iptc4xmpCore.AltTextAccessibility.value.trim();
     }
     if (photoAltText.length === 0) {
       thisLog(
-        `  ⚠ alt text missing: userComment or Headline ("Gros titre" in French) field in Lightroom`
+        `  ⚠ alt text missing: fill AltTextAccessibility field in Lightroom`
       );
     } else {
       photoYFM.alt_text = photoAltText;
@@ -131,8 +132,8 @@ SYNC ${photo}`);
 
     // Get caption/description
     let photoDescription = '';
-    if (photoExif.ImageDescription) {
-      photoDescription = photoExif.ImageDescription.trim();
+    if (photoExif.ifd0.ImageDescription) {
+      photoDescription = photoExif.ifd0.ImageDescription.trim();
     }
     if (photoDescription.length === 0) {
       thisLog(`  ⚠ description missing`);
@@ -140,15 +141,18 @@ SYNC ${photo}`);
 
     // get photo date
     let luxonDate;
-    if (photoExif.DateTimeOriginal && photoExif.OffsetTime) {
+    if (photoExif.exif.DateTimeOriginal && photoExif.exif.OffsetTime) {
       luxonDate = DateTime.fromHTTP(
-        photoExif.DateTimeOriginal.toGMTString()
-      ).setZone('UTC+' + parseInt(photoExif.OffsetTime, 10));
+        photoExif.exif.DateTimeOriginal.toGMTString()
+      ).setZone('UTC+' + parseInt(photoExif.exif.OffsetTime, 10));
     } else {
       thisLog(`  ⚠ exif.DateTimeOriginal missing`);
-      if (photoExif.DigitalCreationDate && photoExif.DigitalCreationTime) {
+      if (
+        photoExif.iptc.DigitalCreationDate &&
+        photoExif.iptc.DigitalCreationTime
+      ) {
         luxonDate = DateTime.fromFormat(
-          `${photoExif.DigitalCreationDate} ${photoExif.DigitalCreationTime}`,
+          `${photoExif.iptc.DigitalCreationDate} ${photoExif.iptc.DigitalCreationTime}`,
           'yyyyLLdd HHmmssZZZ'
         );
       } else {
@@ -166,22 +170,24 @@ SYNC ${photo}`);
       human: luxonDate.toFormat('d LLLL yyyy'),
     };
 
-    if (photoExif.Model || photoExif.LensModel) {
+    if (photoExif.ifd0.Model || photoExif.exif.LensModel) {
       // Get gear
       photoYFM.gear = { short: '' };
-      if (photoExif.Make || photoExif.Model) {
-        const makeAndModel = `${photoExif.Make || ''} ${photoExif.Model || ''}`;
+      if (photoExif.ifd0.Make || photoExif.ifd0.Model) {
+        const makeAndModel = `${photoExif.ifd0.Make || ''} ${
+          photoExif.ifd0.Model || ''
+        }`;
         if (CLEAN_GEAR.cameras[makeAndModel] === undefined) {
           if (!MISSING_GEAR.cameras.includes(makeAndModel)) {
             MISSING_GEAR.cameras.push(makeAndModel);
           }
           photoYFM.gear.camera = {
-            brand: photoExif.Make || 'unknown',
-            model: photoExif.Model || 'unknown',
+            brand: photoExif.ifd0.Make || 'unknown',
+            model: photoExif.ifd0.Model || 'unknown',
           };
           photoYFM.gear.short = [
-            photoExif.Make || '',
-            photoExif.Model || '',
+            photoExif.ifd0.Make || '',
+            photoExif.ifd0.Model || '',
           ].join(' ');
         } else {
           photoYFM.gear.camera = CLEAN_GEAR.cameras[makeAndModel];
@@ -196,24 +202,27 @@ SYNC ${photo}`);
         thisLog(`  ⚠ exif.Model missing`);
       }
 
-      if (photoExif.LensModel) {
-        if (CLEAN_GEAR.lenses[photoExif.LensModel] === undefined) {
-          if (!MISSING_GEAR.lenses.includes(photoExif.LensModel)) {
-            MISSING_GEAR.lenses.push(photoExif.LensModel);
+      if (photoExif.exif.LensModel) {
+        if (CLEAN_GEAR.lenses[photoExif.exif.LensModel] === undefined) {
+          if (!MISSING_GEAR.lenses.includes(photoExif.exif.LensModel)) {
+            MISSING_GEAR.lenses.push(photoExif.exif.LensModel);
           }
           photoYFM.gear.lenses = [
             {
               brand: 'unknown',
-              model: photoExif.LensModel,
+              model: photoExif.exif.LensModel,
             },
           ];
-          photoYFM.gear.short += ` + ${photoExif.LensModel}`;
+          photoYFM.gear.short += ` + ${photoExif.exif.LensModel}`;
         } else {
-          if (CLEAN_GEAR.lenses[photoExif.LensModel] !== false) {
-            if (Array.isArray(CLEAN_GEAR.lenses[photoExif.LensModel])) {
-              photoYFM.gear.lenses = CLEAN_GEAR.lenses[photoExif.LensModel];
+          if (CLEAN_GEAR.lenses[photoExif.exif.LensModel] !== false) {
+            if (Array.isArray(CLEAN_GEAR.lenses[photoExif.exif.LensModel])) {
+              photoYFM.gear.lenses =
+                CLEAN_GEAR.lenses[photoExif.exif.LensModel];
             } else {
-              photoYFM.gear.lenses = [CLEAN_GEAR.lenses[photoExif.LensModel]];
+              photoYFM.gear.lenses = [
+                CLEAN_GEAR.lenses[photoExif.exif.LensModel],
+              ];
             }
             photoYFM.gear.lenses.forEach((lens) => {
               photoYFM.gear.short += ` + ${
@@ -229,31 +238,34 @@ SYNC ${photo}`);
       }
     }
 
-    if (photoExif.Keywords) {
-      photoYFM.tags = photoExif.Keywords.map((keyword) =>
+    if (photoExif.iptc.Keywords) {
+      photoYFM.tags = photoExif.iptc.Keywords.map((keyword) =>
         utf8.decode(keyword)
       ).sort((a, b) => a.localeCompare(b, 'en'));
     }
 
     if (
-      photoExif.FocalLength ||
-      photoExif.FocalLengthIn35mmFormat ||
-      photoExif.ISO ||
-      photoExif.FNumber ||
-      photoExif.ExposureTime
+      photoExif.exif.FocalLength ||
+      photoExif.exif.FocalLengthIn35mmFormat ||
+      photoExif.exif.ISO ||
+      photoExif.exif.FNumber ||
+      photoExif.exif.ExposureTime
     ) {
       photoYFM.settings = {};
 
       // Focal length
-      if (photoExif.FocalLength || photoExif.FocalLengthIn35mmFormat) {
+      if (
+        photoExif.exif.FocalLength ||
+        photoExif.exif.FocalLengthIn35mmFormat
+      ) {
         photoYFM.settings.focal_length = {};
-        if (photoExif.FocalLength) {
-          photoYFM.settings.focal_length.raw = photoExif.FocalLength;
+        if (photoExif.exif.FocalLength) {
+          photoYFM.settings.focal_length.raw = photoExif.exif.FocalLength;
         }
 
-        if (photoExif.FocalLengthIn35mmFormat) {
+        if (photoExif.exif.FocalLengthIn35mmFormat) {
           photoYFM.settings.focal_length.eq35mm =
-            photoExif.FocalLengthIn35mmFormat;
+            photoExif.exif.FocalLengthIn35mmFormat;
         }
 
         photoYFM.settings.focal_length.computed =
@@ -267,32 +279,32 @@ SYNC ${photo}`);
         );
       }
 
-      if (photoExif.ISO) {
+      if (photoExif.exif.ISO) {
         photoYFM.settings.iso = {
-          raw: photoExif.ISO,
-          computed: photoExif.ISO,
-          readable: `${photoExif.ISO}`,
-          slug: slugify(`${photoExif.ISO}`),
+          raw: photoExif.exif.ISO,
+          computed: photoExif.exif.ISO,
+          readable: `${photoExif.exif.ISO}`,
+          slug: slugify(`${photoExif.exif.ISO}`),
         };
       }
 
-      if (photoExif.FNumber) {
+      if (photoExif.exif.FNumber) {
         photoYFM.settings.aperture = {
-          raw: photoExif.FNumber,
-          computed: photoExif.FNumber,
-          readable: `ƒ/${photoExif.FNumber}`,
-          slug: slugify(`f/${photoExif.FNumber}`),
+          raw: photoExif.exif.FNumber,
+          computed: photoExif.exif.FNumber,
+          readable: `ƒ/${photoExif.exif.FNumber}`,
+          slug: slugify(`f/${photoExif.exif.FNumber}`),
         };
       }
 
-      if (photoExif.ExposureTime) {
+      if (photoExif.exif.ExposureTime) {
         photoYFM.settings.shutter_speed = {
-          raw: photoExif.ExposureTime,
-          computed: photoExif.ExposureTime,
+          raw: photoExif.exif.ExposureTime,
+          computed: photoExif.exif.ExposureTime,
         };
 
         // Add exposure time as a fraction for readability
-        let t = new Fraction(photoExif.ExposureTime);
+        let t = new Fraction(photoExif.exif.ExposureTime);
 
         photoYFM.settings.shutter_speed.readable = `${t.toFraction(true)} s`;
 
@@ -315,31 +327,34 @@ SYNC ${photo}`);
     }
 
     // Get coordinates
-    if (photoExif.latitude && photoExif.longitude) {
+    if (photoExif.gps.latitude && photoExif.gps.longitude) {
       if (
-        photoExif.latitude >= parseFloat(process.env.HOME_1_LATITUDE_MIN) &&
-        photoExif.latitude <= parseFloat(process.env.HOME_1_LATITUDE_MAX) &&
-        photoExif.longitude >= parseFloat(process.env.HOME_1_LONGITUDE_MIN) &&
-        photoExif.longitude <= parseFloat(process.env.HOME_1_LONGITUDE_MAX)
+        photoExif.gps.latitude >= parseFloat(process.env.HOME_1_LATITUDE_MIN) &&
+        photoExif.gps.latitude <= parseFloat(process.env.HOME_1_LATITUDE_MAX) &&
+        photoExif.gps.longitude >=
+          parseFloat(process.env.HOME_1_LONGITUDE_MIN) &&
+        photoExif.gps.longitude <= parseFloat(process.env.HOME_1_LONGITUDE_MAX)
       ) {
         thisLog(`  ⚠ Removing position for photo in home 1 area`);
       } else if (
-        photoExif.latitude >= parseFloat(process.env.HOME_2_LATITUDE_MIN) &&
-        photoExif.latitude <= parseFloat(process.env.HOME_2_LATITUDE_MAX) &&
-        photoExif.longitude >= parseFloat(process.env.HOME_2_LONGITUDE_MIN) &&
-        photoExif.longitude <= parseFloat(process.env.HOME_2_LONGITUDE_MAX)
+        photoExif.gps.latitude >= parseFloat(process.env.HOME_2_LATITUDE_MIN) &&
+        photoExif.gps.latitude <= parseFloat(process.env.HOME_2_LATITUDE_MAX) &&
+        photoExif.gps.longitude >=
+          parseFloat(process.env.HOME_2_LONGITUDE_MIN) &&
+        photoExif.gps.longitude <= parseFloat(process.env.HOME_2_LONGITUDE_MAX)
       ) {
         thisLog(`  ⚠ Removing position for photo in home 2 area`);
       } else {
         photoYFM.geo = {
-          latitude: photoExif.latitude,
-          longitude: photoExif.longitude,
+          latitude: photoExif.gps.latitude,
+          longitude: photoExif.gps.longitude,
         };
-        if (photoExif.Country) {
-          photoYFM.geo.country = utf8.decode(photoExif.Country);
+        if (photoExif.iptc.Country) {
+          photoYFM.geo.country = utf8.decode(photoExif.iptc.Country);
         }
-        if (photoExif.City) {
-          photoYFM.geo.city = utf8.decode(photoExif.City);
+        if (photoExif.iptc.City) {
+          // photoYFM.geo.city = photoExif.iptc.City;
+          photoYFM.geo.city = utf8.decode(photoExif.iptc.City);
         }
 
         // Get map for the photo
