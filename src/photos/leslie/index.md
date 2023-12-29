@@ -20,6 +20,7 @@ gear:
 tags:
   - adult
   - adulte
+  - Auvergne-Rhône-Alpes
   - B&W
   - black and white
   - espace vert
@@ -35,7 +36,6 @@ tags:
   - promenade
   - Promenade du Bas Rhône
   - Rhône
-  - Rhône-Alpes
   - type de photo
 settings:
   focal_length:
