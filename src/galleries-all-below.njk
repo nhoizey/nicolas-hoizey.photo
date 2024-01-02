@@ -8,7 +8,7 @@ pagination:
   addAllPagesToCollections: false
 layout: base
 eleventyComputed:
-  title: All photos below gallery “{{ gallery.data.title }}”
+  title: All photos below gallery “{{ gallery.data.title | safe }}”
 permalink: "{{ gallery.data.page.filePathStem | dirname }}/all/"
 ---
 
@@ -21,6 +21,8 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/all/"
   {% include 'components/breadcrumb.njk' %}
 
   <h1>{{ title }}</h1>
+
+  <p>See <a href="{{ gallery.data.page.filePathStem | dirname }}">sub galleries of “{{ gallery.data.title }}”</a>.</p>
 
   {{ css('components/photos', build.env) }}
 

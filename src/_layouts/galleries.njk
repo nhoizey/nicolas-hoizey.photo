@@ -22,12 +22,23 @@
   {% endif %}
   <h1>{{ title }}</h1>
 
-  {{ css('components/gallery_content', build.env) }}
-  <div class="gallery__content">
-    {{ content | safe }}
-  </div>
+  {% if page.url== '/' %}
+    {% set gallery_root = '/galleries/' %}
+  {% else %}
+    {% set gallery_root = page.url %}
+  {% endif %}
 
-  {% include 'components/sub-galleries.njk' %}
+  {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
+  {% if sub_galleries | length %}
+    <p>See <a href="./all/">all photos below gallery “{{ title }}”</a>.</p>
+
+    {{ css('components/gallery_content', build.env) }}
+    <div class="gallery__content">
+      {{ content | safe }}
+    </div>
+
+    {% include 'components/sub-galleries.njk' %}
+  {% endif %}
 
   {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
   {% if photos_here | length %}
