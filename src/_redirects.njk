@@ -1,0 +1,13 @@
+---
+layout: false
+permalink: _redirects
+---
+/ui/thumbnails/:sprites_signature/sprite.png /ui/thumbnails/sprite.png 302
+/ui/thumbnails/:sprites_signature/sprite@2x.png /ui/thumbnails/sprite@2x.png 302
+
+/galleries/nature/* /galleries/:splat 301
+
+# Redirect photo page to a location in galleries
+{% for photo in collections.unique_photos %}
+/photos/{{ photo.page.fileSlug }}/ {{ site.url }}{{ photo.url }} 302
+{%- endfor -%}

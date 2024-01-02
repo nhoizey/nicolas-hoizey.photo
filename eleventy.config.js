@@ -197,8 +197,7 @@ module.exports = function (eleventyConfig) {
     )
     .addPassthroughCopy('src/ui')
     .addPassthroughCopy('src/robots.txt')
-    .addPassthroughCopy('src/favicon.ico')
-    .addPassthroughCopy('src/_redirects');
+    .addPassthroughCopy('src/favicon.ico');
 
   eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.addWatchTarget('./ui/');

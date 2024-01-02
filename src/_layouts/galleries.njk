@@ -30,7 +30,7 @@
 
   {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
   {% if sub_galleries | length %}
-    <p>See <a href="./all/">all photos below gallery “{{ title }}”</a>.</p>
+    <p>See <a href="./all/">all photos below gallery “{{ title }}” on a single page</a>.</p>
 
     {{ css('components/gallery_content', build.env) }}
     <div class="gallery__content">
