@@ -48,7 +48,8 @@
     "docker": "docker run --rm --network host -v $(pwd):/work/ -w /work/ -it mcr.microsoft.com/playwright:v1.22.0-focal /bin/bash",
     "webmentions": "node ./_scripts/update-webmentions.js",
     "flickr": "node ./_scripts/update-flickr.js",
-    "unsplash": "node ./_scripts/update-unsplash.js"
+    "unsplash": "node ./_scripts/update-unsplash.js",
+    "pixelfed": "node ./_scripts/update-pixelfed.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
@@ -96,6 +97,7 @@
     "markdown-it-bracketed-spans": "^1.0.1",
     "markdown-it-container": "^3.0.0",
     "markdown-it-footnote": "^3.0.3",
+    "masto": "^4.11.1",
     "mbsprite": "^0.2.0",
     "netlify-build-plugin-speedcurve": "^2.0.0",
     "node-fetch": "^2.7.0",

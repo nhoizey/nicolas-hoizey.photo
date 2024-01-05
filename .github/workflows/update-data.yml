@@ -38,6 +38,12 @@ jobs:
           FLICKR_USER_ID: ${{ secrets.FLICKR_USER_ID }}
         run: npm run flickr >> $GITHUB_STEP_SUMMARY
 
+      - name: Update Pixelfed
+        env:
+          PIXELFED_URL: ${{ secrets.PIXELFED_URL }}
+          PIXELFED_TOKEN: ${{ secrets.PIXELFED_TOKEN }}
+        run: npm run pixelfed >> $GITHUB_STEP_SUMMARY
+
       - name: Update Unsplash
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
