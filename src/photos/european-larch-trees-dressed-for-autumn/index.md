@@ -17,6 +17,7 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
       short: 10-24mm
 tags:
+  - Alpes
   - arbre
   - Arrondissement de Briançon
   - Clarée
@@ -30,6 +31,8 @@ tags:
   - larch
   - Larix
   - mélèze
+  - montagne
+  - mountain
   - PACA
   - paysage
   - Pinophyta
@@ -65,10 +68,11 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 45.026802685
-  longitude: 6.5621814983333335
+  latitude: 45.026800205
+  longitude: 6.562330873333333
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 161 123 70
   darkVibrant: 104 77 10

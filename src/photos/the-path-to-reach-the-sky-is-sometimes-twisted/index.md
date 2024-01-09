@@ -17,6 +17,7 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
       short: 10-24mm
 tags:
+  - Alpes
   - arbre
   - Arrondissement de Briançon
   - Clarée
@@ -30,6 +31,8 @@ tags:
   - larch
   - Larix
   - mélèze
+  - montagne
+  - mountain
   - PACA
   - paysage
   - Pinophyta
