@@ -6,7 +6,7 @@ dates:
   iso: 2019-04-14
   human: 14 April 2019
 gear:
-  short: Nikon D700 + Tamron24-70mm
+  short: Nikon D700 + Tamron 24-70mm
   camera:
     brand: Nikon
     model: D700

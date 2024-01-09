@@ -6,7 +6,7 @@ dates:
   iso: 2014-06-14
   human: 14 June 2014
 gear:
-  short: Canon 5D II + Sigma50mm
+  short: Canon 5D II + Sigma 50mm
   camera:
     brand: Canon
     model: EOS 5D Mark II

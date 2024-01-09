@@ -6,7 +6,7 @@ dates:
   iso: 2011-05-04
   human: 4 May 2011
 gear:
-  short: Canon 5D II + Sigma50mm
+  short: Canon 5D II + Sigma 50mm
   camera:
     brand: Canon
     model: EOS 5D Mark II
