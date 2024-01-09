@@ -225,11 +225,11 @@ SYNC ${photo}`);
               ];
             }
             photoYFM.gear.lenses.forEach((lens) => {
-              photoYFM.gear.short += ` + ${
+              photoYFM.gear.short += ` +${
                 lens.brand !== (photoYFM.gear.camera.brand || '')
-                  ? `${lens.brand}`
+                  ? ` ${lens.brand}`
                   : ''
-              }${lens.short || lens.model || ''}`;
+              } ${lens.short || lens.model || ''}`;
             });
           }
         }
