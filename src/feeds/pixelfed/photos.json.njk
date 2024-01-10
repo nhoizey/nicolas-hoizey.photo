@@ -9,7 +9,7 @@ permalink: /feeds/pixelfed/photos.json
   "feed_url": "{{ site.url }}/feeds/pixelfed/photos.json",
   "items": [
   {% for photo in collections.unique_photos %}
-    {%- set photoPageUrl -%}{{ site.url }}/photos/{{ photo.page.fileSlug }}{%- endset -%}
+    {%- set photoPageUrl -%}{{ site.url }}/photos/{{ photo.page.fileSlug }}/{%- endset -%}
     {%- set gear = photo.data.origin.data.gear -%}
     {%- set settings = photo.data.origin.data.settings -%}
     {%- set breadcrumb = collections.photo_galleries | breadcrumb(photo.url) -%}
