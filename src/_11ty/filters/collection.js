@@ -146,7 +146,7 @@ module.exports = {
   last_published_first: (collection) =>
     collection.sort((a, b) => {
       // Sort photos by date of publication in galleries
-      return a.date - b.date;
+      return b.date - a.date;
     }),
   sub_galleries: (collection, url) =>
     collection.filter((item) => {
