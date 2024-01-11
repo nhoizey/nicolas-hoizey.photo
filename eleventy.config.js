@@ -4,13 +4,14 @@
 
 const glob = require('fast-glob');
 const path = require('path');
-const config = require('./pack11ty.config.js');
 
 module.exports = function (eleventyConfig) {
   // ------------------------------------------------------------------------
   // Collections
   // ------------------------------------------------------------------------
 
+  // Initialize global variable to store a list of all photos
+  // Will be filed during computing of collections with getUniquePhotos() function
   let globalUniquePhotos = [];
 
   glob.sync('src/_11ty/collections/*.js').forEach((file) => {
