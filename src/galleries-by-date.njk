@@ -1,0 +1,69 @@
+---
+pagination:
+  data: collections.photo_galleries
+  size: 1
+  alias: gallery
+  filter:
+    - all
+  addAllPagesToCollections: false
+layout: base
+eleventyComputed:
+  title: "{{ gallery.data.title | safe }}"
+permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-date/"
+---
+
+{% from "macros/css.njk" import css %}
+
+{% block content %}
+
+  {% set gallery_url = page.url | replace('by-date/', '') %}
+
+  {% set breadcrumb = collections.photo_galleries | breadcrumb(gallery_url) %}
+  {% include 'components/json-ld/breadcrumb.njk' %}
+  {% include 'components/breadcrumb.njk' %}
+
+  {% if gallery.data.flag %}
+    {{ css('components/flag', build.env) }}
+    {% flagSvg gallery.data.flag %}
+  {% endif %}
+  <h1>{{ title }}</h1>
+
+  <div class="gallery__content">
+    {{ gallery.content | safe }}
+  </div>
+
+
+  {% set gallery_root %}{{ gallery.data.page.filePathStem | dirname }}/{% endset %}
+
+  {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
+  {% set sub_galleries_number = sub_galleries | length %}
+
+  {{ css('components/photos_sort', build.env) }}
+  <div class="segmented">
+    <p class="label">Sort photos:</p>
+    <ul class="segmented">
+      {% if sub_galleries_number > 0 %}
+        <li><a href="../">in galleries</a></li>
+      {% else %}
+        <li><span class="disabled">in galleries</span></li>
+      {% endif %}
+      <li><span class="current">by date</span></li>
+      {# <li><a href="{{ page.filePathStem | dirname }}/popularity/">by popularity</a></li> #}
+    </ul>
+  </div>
+
+  {{ css('components/photos', build.env) }}
+
+  {% from "macros/photo.njk" import photo %}
+
+  <ul class="photos">
+    {% set photos = collections.photos_in_galleries | photos_here_and_below(gallery.url) %}
+    {% for item in photos %}
+      {% if loop.index < 4 %}
+        <li>{{ photo(item, "eager", build.env) }}</li>
+      {% else %}
+        <li>{{ photo(item, "lazy", build.env) }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endblock %}

@@ -22,6 +22,10 @@
   {% endif %}
   <h1>{{ title }}</h1>
 
+  <div class="gallery__content">
+    {{ content | safe }}
+  </div>
+
   {% if page.url== '/' %}
     {% set gallery_root = '/galleries/' %}
   {% else %}
@@ -29,14 +33,25 @@
   {% endif %}
 
   {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
-  {% if sub_galleries | length %}
-    <p>See <a href="./all/">all photos below gallery “{{ title }}” on a single page</a>.</p>
+  {% set sub_galleries_number = sub_galleries | length %}
 
+  {{ css('components/photos_sort', build.env) }}
+  <div class="segmented">
+    <p class="label">Sort photos:</p>
+    <ul>
+      {% if sub_galleries_number > 0 %}
+        <li><span class="current">in galleries</span></li>
+        <li><a href="./by-date/">by date</a></li>
+      {% else %}
+        <li><span class="disabled">in galleries</span></li>
+        <li><span class="current">by date</span></li>
+      {% endif %}
+      {# <li><a href="{{ page.filePathStem | dirname }}/popularity/">by popularity</a></li> #}
+    </ul>
+  </div>
+
+  {% if sub_galleries_number > 0 %}
     {{ css('components/gallery_content', build.env) }}
-    <div class="gallery__content">
-      {{ content | safe }}
-    </div>
-
     {% include 'components/sub-galleries.njk' %}
   {% endif %}
 
