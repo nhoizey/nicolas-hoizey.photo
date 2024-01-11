@@ -22,6 +22,7 @@
   {% endif %}
   <h1>{{ title }}</h1>
 
+  {{ css('components/gallery_content', build.env) }}
   <div class="gallery__content">
     {{ content | safe }}
   </div>
@@ -36,7 +37,7 @@
   {% set sub_galleries_number = sub_galleries | length %}
 
   {{ css('components/photos_sort', build.env) }}
-  <div class="segmented">
+  <div class="photos_sort">
     <p class="label">Sort photos:</p>
     <ul>
       {% if sub_galleries_number > 0 %}
@@ -51,7 +52,6 @@
   </div>
 
   {% if sub_galleries_number > 0 %}
-    {{ css('components/gallery_content', build.env) }}
     {% include 'components/sub-galleries.njk' %}
   {% endif %}
 

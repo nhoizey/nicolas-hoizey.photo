@@ -28,6 +28,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-date/"
   {% endif %}
   <h1>{{ title }}</h1>
 
+  {{ css('components/gallery_content', build.env) }}
   <div class="gallery__content">
     {{ gallery.content | safe }}
   </div>
@@ -39,9 +40,9 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-date/"
   {% set sub_galleries_number = sub_galleries | length %}
 
   {{ css('components/photos_sort', build.env) }}
-  <div class="segmented">
+  <div class="photos_sort">
     <p class="label">Sort photos:</p>
-    <ul class="segmented">
+    <ul>
       {% if sub_galleries_number > 0 %}
         <li><a href="../">in galleries</a></li>
       {% else %}
