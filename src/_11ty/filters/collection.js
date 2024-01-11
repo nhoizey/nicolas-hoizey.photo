@@ -133,6 +133,21 @@ module.exports = {
   },
   not_featured: (collection) =>
     collection.filter((item) => !item.data.featured),
+  newest_first: (collection) =>
+    collection.sort((a, b) => {
+      // Sort photos by creation date, not date of publication in galleries
+      return b.data.origin.data.date - a.data.origin.data.date;
+    }),
+  oldest_first: (collection) =>
+    collection.sort((a, b) => {
+      // Sort photos by creation date, not date of publication in galleries
+      return a.data.origin.data.date - b.data.origin.data.date;
+    }),
+  last_published_first: (collection) =>
+    collection.sort((a, b) => {
+      // Sort photos by date of publication in galleries
+      return a.date - b.date;
+    }),
   sub_galleries: (collection, url) =>
     collection.filter((item) => {
       const r = new RegExp(`^${url}[^/]+\/$`);
