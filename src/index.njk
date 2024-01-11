@@ -30,7 +30,7 @@ layout: false
   <section class="latest">
     <h2>Photos shared recently</h2>
     <ul class="photos">
-      {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | limit(6) %}
+      {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | last_published_first | limit(6) %}
         <li>{{ photo(item, "lazy", build.env) }}</li>
       {% endfor %}
     </ul>

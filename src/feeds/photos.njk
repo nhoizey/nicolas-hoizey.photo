@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
     <name>{{ site.author.name }}</name>
     <email>{{ site.author.email }}</email>
   </author>
-  {% for entry in collections.unique_photos | limit(20) %}
+  {% for entry in collections.unique_photos | last_published_first | limit(20) %}
     {% set absoluteEntryUrl %}{{ entry.page.url | url | absoluteUrl(site.url) }}{% endset %}
     {% set photoUrl = 'https://nicolas-hoizey.photo/photos/' + entry.page.fileSlug + '/small.jpg' %}
     <entry>

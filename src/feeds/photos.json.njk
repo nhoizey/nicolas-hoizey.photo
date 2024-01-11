@@ -4,7 +4,7 @@ layout: null
 eleventyExcludeFromCollections: true
 ---
 [
-{%- for item in collections.unique_photos %}
+{%- for item in collections.unique_photos | last_published_first %}
   {
     "title": "{{ item.data.title }}",
     "date": "{{ item.data.origin.data.dates.iso }}",
