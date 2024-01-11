@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-01-10T06:07:50.814Z",
+  "lastFetched": "2024-01-11T06:07:01.304Z",
   "webmentions": [
     {
       "type": "entry",
@@ -63103,6 +63103,44 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale-1-87/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Fredi Schefer",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/d8c9a331b5a6c486928fa9ed9b552533e5137e76170a7279dda50976dc594a22.jpg",
+        "url": "https://www.flickr.com/people/15783125@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/52973224113/#liked-by-15783125@N06",
+      "published": "2024-01-10T09:13:32Z",
+      "wm-received": "2024-01-10T09:13:32Z",
+      "wm-id": 1765629,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/52973224113/15783125@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bourgogne-franche-comte/yonne/le-gratin-mondain-in-noyers-sur-serein/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Øystein E. Nilsen",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/150d85b58708bb79355490a4e9283a78cefd1a3747946e38ab6f9fa79a27135c.jpg",
+        "url": "https://www.flickr.com/people/63409074@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53433841580/#liked-by-63409074@N07",
+      "published": "2024-01-11T04:26:25Z",
+      "wm-received": "2024-01-11T04:26:25Z",
+      "wm-id": 1765950,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53433841580/63409074@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/european-larch-trees-dressed-for-autumn/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/valee-de-la-claree/european-larch-trees-dressed-for-autumn/",
       "wm-property": "like-of",
       "wm-private": false
     }
