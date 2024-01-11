@@ -42,11 +42,12 @@
     <ul>
       {% if sub_galleries_number > 0 %}
         <li><span class="current">in galleries</span></li>
-        <li><a href="./by-date/">by date</a></li>
+        <li><a href="./newest-first/">newest first</a></li>
       {% else %}
         <li><span class="disabled">in galleries</span></li>
-        <li><span class="current">by date</span></li>
+        <li><span class="current">newest first</span></li>
       {% endif %}
+      <li><a href="./oldest-first/">oldest first</a></li>
       {# <li><a href="{{ page.filePathStem | dirname }}/popularity/">by popularity</a></li> #}
     </ul>
   </div>
