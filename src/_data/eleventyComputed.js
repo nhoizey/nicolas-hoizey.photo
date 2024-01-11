@@ -52,6 +52,20 @@ module.exports = {
       return photoData.data.title;
     }
   },
+  // platforms: (data) => {
+  //   if (isPhotoInGallery(data)) {
+  //     const photoData = getPhotoData(data.page.fileSlug);
+  //     return photoData.platforms;
+  //   }
+  //   return {};
+  // },
+  interestingness: (data) => {
+    if (isPhotoInGallery(data)) {
+      const photoData = getPhotoData(data.page.fileSlug);
+      return photoData.interestingness || 0;
+    }
+    return 0;
+  },
   layout: (data) => {
     if (data.layout !== undefined && data.layout !== '') {
       // A layout has been set in the content Front Matter

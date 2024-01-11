@@ -75,27 +75,4 @@ module.exports = {
     });
     return globalUniquePhotos;
   },
-  // popular_photos: (collection) => {
-  //   const distinctPhotosSlugs = [];
-  //   popularPhotos = getPhotosInGalleries(collection)
-  //     .filter((item) => {
-  //       if (distinctPhotosSlugs.includes(item.page.fileSlug)) {
-  //         return false;
-  //       } else {
-  //         distinctPhotosSlugs.push(item.page.fileSlug);
-  //         return true;
-  //       }
-  //     })
-  //     .map((photo) => {
-  //       photo.platforms = platformsData[photo.fileSlug] || {};
-  //       return photo;
-  //     })
-  //     .sort(
-  //       (a, b) =>
-  //         (b.platforms.flickr?.favs || 0) +
-  //         (b.platforms.unsplash?.likes || 0) -
-  //         ((a.platforms.flickr?.favs || 0) + (a.platforms.unsplash?.likes || 0))
-  //     );
-  //   return popularPhotos;
-  // },
 };

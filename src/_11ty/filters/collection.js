@@ -148,6 +148,11 @@ module.exports = {
       // Sort photos by date of publication in galleries
       return b.date - a.date;
     }),
+  by_popularity: (collection) =>
+    collection.sort((a, b) => {
+      // Sort photos by computed popularity
+      return b.data.interestingness - a.data.interestingness;
+    }),
   sub_galleries: (collection, url) =>
     collection.filter((item) => {
       const r = new RegExp(`^${url}[^/]+\/$`);

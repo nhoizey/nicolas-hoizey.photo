@@ -59,7 +59,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-popularity/"
   {% from "macros/photo.njk" import photo %}
 
   <ul class="photos">
-    {% set photos = collections.popular_photos | photos_here_and_below(gallery.url) %}
+    {% set photos = collections.photos_in_galleries | photos_here_and_below(gallery.url) | by_popularity %}
     {% for item in photos %}
       {% if loop.index < 4 %}
         <li>{{ photo(item, "eager", build.env) }}</li>

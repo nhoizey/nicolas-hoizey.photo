@@ -1,4 +1,5 @@
 const matter = require('gray-matter');
+const platformsData = require('../../_data/platforms.json');
 
 let photoDataMemoization = {};
 
@@ -8,6 +9,27 @@ const getPhotoData = (slug) => {
     return photoDataMemoization[slug];
   } else {
     let photoDataCollection = matter.read(`src/photos/${slug}/index.md`);
+
+    let interestingness = 0;
+    if (platformsData[slug] !== undefined) {
+      photoDataCollection.platforms = platformsData[slug];
+
+      if (
+        platformsData[slug].flickr !== undefined &&
+        platformsData[slug].flickr.favs !== undefined
+      ) {
+        interestingness += platformsData[slug].flickr.favs;
+      }
+      if (
+        platformsData[slug].pixelfed !== undefined &&
+        platformsData[slug].pixelfed.favs !== undefined
+      ) {
+        interestingness += platformsData[slug].pixelfed.favs;
+      }
+    }
+
+    photoDataCollection.interestingness = interestingness;
+
     // Keep a copy of this collection in memoization for later reuse
     photoDataMemoization[slug] = photoDataCollection;
 
