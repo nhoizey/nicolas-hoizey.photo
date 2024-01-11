@@ -26,6 +26,12 @@ const getPhotoData = (slug) => {
       ) {
         interestingness += platformsData[slug].pixelfed.favs;
       }
+      if (
+        platformsData[slug].unsplash !== undefined &&
+        platformsData[slug].unsplash.downloads !== undefined
+      ) {
+        interestingness += platformsData[slug].unsplash.downloads / 100;
+      }
     }
 
     photoDataCollection.interestingness = interestingness;
