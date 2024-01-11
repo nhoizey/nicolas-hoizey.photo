@@ -19,9 +19,10 @@ const getAllPhotos = (collection) => {
   if (allPhotos !== undefined) {
     return allPhotos;
   }
-  allPhotos = collection
-    .getFilteredByGlob(allPhotosGlob)
-    .sort((a, b) => b.date - a.date);
+  allPhotos = collection.getFilteredByGlob(allPhotosGlob).sort((a, b) => {
+    // Sort photos by creation date, not date of publication in galleries
+    return b.data.origin.data.date - a.data.origin.data.date;
+  });
   return allPhotos;
 };
 
@@ -32,7 +33,10 @@ const getPhotosInGalleries = (collection) => {
   }
   photosInGalleries = collection
     .getFilteredByGlob(usedPhotosGlob)
-    .sort((a, b) => b.date - a.date);
+    .sort((a, b) => {
+      // Sort photos by creation date, not date of publication in galleries
+      return b.data.origin.data.date - a.data.origin.data.date;
+    });
   return photosInGalleries;
 };
 
