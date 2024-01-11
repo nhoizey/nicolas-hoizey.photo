@@ -9,14 +9,14 @@ pagination:
 layout: base
 eleventyComputed:
   title: "{{ gallery.data.title | safe }}"
-permalink: "{{ gallery.data.page.filePathStem | dirname }}/newest-first/"
+permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-popularity/"
 ---
 
 {% from "macros/css.njk" import css %}
 
 {% block content %}
 
-  {% set gallery_url = page.url | replace('newest-first/', '') %}
+  {% set gallery_url = page.url | replace('by-popularity/', '') %}
 
   {% set breadcrumb = collections.photo_galleries | breadcrumb(gallery_url) %}
   {% include 'components/json-ld/breadcrumb.njk' %}
@@ -48,9 +48,9 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/newest-first/"
       {% else %}
         <li><span class="disabled">in galleries</span></li>
       {% endif %}
-      <li><span class="current">newest first</span></li>
+      <li><a href="../newest-first/">newest first</a></li>
       <li><a href="../oldest-first/">oldest first</a></li>
-      <li><a href="{{ page.filePathStem | dirname }}/by-popularity/">by popularity</a></li>
+      <li><span class="current">by popularity</span></li>
     </ul>
   </div>
 
@@ -59,7 +59,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/newest-first/"
   {% from "macros/photo.njk" import photo %}
 
   <ul class="photos">
-    {% set photos = collections.photos_in_galleries | photos_here_and_below(gallery.url) %}
+    {% set photos = collections.popular_photos | photos_here_and_below(gallery.url) %}
     {% for item in photos %}
       {% if loop.index < 4 %}
         <li>{{ photo(item, "eager", build.env) }}</li>
