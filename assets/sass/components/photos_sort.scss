@@ -8,29 +8,46 @@
   font-size: var(--step--1);
 
   display: inline-flex;
+  flex-wrap: wrap;
   gap: 0.3rem;
   align-items: center;
 
+  margin-block-end: variables.$gap;
+
   ul {
-    padding: 0.1rem;
+    margin: 0;
+    padding: 0;
     list-style: none;
 
     display: inline-flex;
-    gap: 0.3rem;
+    flex-wrap: nowrap;
+    gap: 0;
     align-items: center;
 
-    border-radius: 0.5rem;
+    p {
+      margin: 0;
+    }
 
     li {
-      padding: 0.3rem;
+      margin: 0;
+      padding: 0;
       color: white;
+      white-space: nowrap;
 
       a,
       span {
-        padding: 0.3rem 0.6rem;
-        border-radius: 0.5rem;
+        margin: 0;
+        padding: 0.3rem 2vw;
         background-color: color.scale(colors.$surface, $lightness: 20%);
         box-shadow: inset 0.1em 0.1em 0 rgba(255, 255, 255, 0.2);
+      }
+
+      &:first-child :is(a, span) {
+        border-radius: 0.5rem 0 0 0.5rem;
+      }
+
+      &:last-child :is(a, span) {
+        border-radius: 0 0.5rem 0.5rem 0;
       }
 
       .current {
