@@ -7,8 +7,6 @@ const ignoredSlugs = [
   'gourmandise',
 ];
 
-let platformsData = require('../../../src/_data/platforms.json');
-
 const allPhotosGlob = 'src/photos/*/index.md';
 const usedPhotosGlob = glob('src/galleries/**/*.md', {
   ignore: 'src/galleries/**/index.md',
