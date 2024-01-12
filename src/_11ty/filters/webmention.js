@@ -4,7 +4,11 @@ const glob = require('fast-glob').sync;
 const { readFromCache } = require('../../_utils/cache');
 
 const rootUrl = require('../../../package.json').homepage;
-const ownSocialUrl = `https://mamot.fr/@nhoizey`;
+const ownSocialUrls = [
+  'https://mamot.fr/@nhoizey',
+  'https://twitter.com/nhoizey',
+  'https://pixelfed.social/nhoizey',
+];
 
 const WEBMENTION_CACHE = '_cache/webmentions.json';
 const WEBMENTION_BLOCKLIST = '../webmention-blocklist.json';
@@ -34,7 +38,12 @@ const getWebmentions = memoize(() => {
 
 function isSelf(entry) {
   return (
-    entry['wm-property'] === 'repost-of' && entry.url.startsWith(ownSocialUrl)
+    entry['wm-property'] === 'repost-of' &&
+    ownSocialUrls.reduce(
+      (accumulator, currentValue) =>
+        accumulator || entry.url.startsWith(currentValue),
+      false
+    )
   );
 }
 
