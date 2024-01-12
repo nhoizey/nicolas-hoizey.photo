@@ -148,7 +148,7 @@
     </p>
     {% endif %}
 
-    {% set pageUrl = page.url %}
+    {% set pageUrl = '/photos/' + page.fileSlug + '/' %}
     {% include "components/webmentions.njk" %}
   </div>
 {% endblock %}

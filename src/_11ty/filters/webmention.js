@@ -1,5 +1,6 @@
 const memoize = require('fast-memoize');
 
+const glob = require('fast-glob').sync;
 const { readFromCache } = require('../../_utils/cache');
 
 const rootUrl = require('../../../package.json').homepage;
@@ -8,12 +9,27 @@ const ownSocialUrl = `https://mamot.fr/@nhoizey`;
 const WEBMENTION_CACHE = '_cache/webmentions.json';
 const WEBMENTION_BLOCKLIST = '../webmention-blocklist.json';
 
+const GALLERY_URL_REGEX =
+  /^https:\/\/nicolas-hoizey.photo\/galleries\/([^/]+\/)*([^/]+)\/$/;
+
+const allPhotos = glob('src/photos/*/index.md').map((photo) =>
+  photo.replace('src/photos/', '').replace('/index.md', '')
+);
+
 const getWebmentions = memoize(() => {
   const cached = readFromCache(WEBMENTION_CACHE);
   const webmentionBlocklist = require(WEBMENTION_BLOCKLIST);
-  return cached.webmentions.filter(
-    (mention) => !webmentionBlocklist.includes(`${mention['wm-id']}`)
-  );
+  return cached.webmentions
+    .filter((mention) => !webmentionBlocklist.includes(`${mention['wm-id']}`))
+    .map((mention) => {
+      // Rewrite photo URLs to use the “short” canonical URL
+      if ((galleryUrl = mention['wm-target'].match(GALLERY_URL_REGEX))) {
+        if (allPhotos.includes(galleryUrl[2])) {
+          mention['wm-target'] = `${rootUrl}/photos/${galleryUrl[2]}/`;
+        }
+      }
+      return mention;
+    });
 });
 
 function isSelf(entry) {
