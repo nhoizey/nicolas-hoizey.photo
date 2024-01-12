@@ -30,7 +30,7 @@ const getPhotoData = (slug) => {
         platformsData[slug].unsplash !== undefined &&
         platformsData[slug].unsplash.downloads !== undefined
       ) {
-        interestingness += platformsData[slug].unsplash.downloads / 100;
+        interestingness += platformsData[slug].unsplash.downloads / 1000;
       }
     }
 
