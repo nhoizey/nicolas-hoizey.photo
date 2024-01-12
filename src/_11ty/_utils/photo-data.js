@@ -12,28 +12,28 @@ const getPhotoData = (slug) => {
 
     let interestingness = 0;
     if (platformsData[slug] !== undefined) {
-      photoDataCollection.platforms = platformsData[slug];
+      const platforms = platformsData[slug];
+      photoDataCollection.platforms = platforms;
 
       if (
-        platformsData[slug].flickr !== undefined &&
-        platformsData[slug].flickr.favs !== undefined
+        platforms.flickr !== undefined &&
+        platforms.flickr.favs !== undefined
       ) {
-        interestingness += platformsData[slug].flickr.favs;
+        interestingness += platforms.flickr.favs;
       }
       if (
-        platformsData[slug].pixelfed !== undefined &&
-        platformsData[slug].pixelfed.favs !== undefined
+        platforms.pixelfed !== undefined &&
+        platforms.pixelfed.favs !== undefined
       ) {
-        interestingness += platformsData[slug].pixelfed.favs;
+        interestingness += platforms.pixelfed.favs;
       }
       if (
-        platformsData[slug].unsplash !== undefined &&
-        platformsData[slug].unsplash.downloads !== undefined
+        platforms.unsplash !== undefined &&
+        platforms.unsplash.downloads !== undefined
       ) {
-        interestingness += platformsData[slug].unsplash.downloads / 1000;
+        interestingness += platforms.unsplash.downloads / 500;
       }
     }
-
     photoDataCollection.interestingness = interestingness;
 
     // Keep a copy of this collection in memoization for later reuse
