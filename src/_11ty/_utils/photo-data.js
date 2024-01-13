@@ -52,6 +52,10 @@ const getPhotoData = (slug) => {
         platforms.pixelfed.favs !== undefined
       ) {
         interestingness += platforms.pixelfed.favs;
+
+        if (platforms.pixelfed.reblogs !== undefined) {
+          interestingness += platforms.pixelfed.reblogs * 5;
+        }
       }
       if (
         platforms.unsplash !== undefined &&
