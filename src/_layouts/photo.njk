@@ -93,31 +93,43 @@
     {% endif %}
 
     <div class="meta">
-      <ul class="exif">
-        <li class="date"><svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg> <time class="dt-published" datetime="{{ dates.iso }}">{{ dates.human }}</time></li>
+      <dl class="exif">
+        <dt class="date-icon"><svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg></dt>
+        <dd class="date"><time class="dt-published" datetime="{{ dates.iso }}">{{ dates.human }}</time></dd>
         {% if gear and gear.camera %}
-        <li class="gear">{% inline_icon 'camera' %}
-          <a href="/gear/{{ gear.camera.brand | slugify }}/{{ gear.camera.model | slugify }}/">{{ gear.camera.brand }} {{ gear.camera.model }}</a>
-        </li>
+          <dt class="gear-icon">{% inline_icon 'camera' %}</dt>
+          <dd class="gear"><a href="/gear/{{ gear.camera.brand | slugify }}/{{ gear.camera.model | slugify }}/">{{ gear.camera.brand }} {{ gear.camera.model }}</a></dd>
         {% endif %}
-        {% if settings.focal_length or gear.lenses %}
-          <li class="lens">{% inline_icon 'focal_length' %}
-            {% if gear.lenses %}
-              {% set comma = joiner(", ") %}
-              {% for lens in gear.lenses %}
-                {{- comma() }}
-                <a href="/gear/{{ lens.brand | slugify }}/{{ lens.model | slugify }}/">{{ lens.brand }} {{ lens.model }}</a>
-              {% endfor %}
-              <br />
-            {% endif %}
+        {% if gear.lenses %}
+          <dt class="lens-icon">{% inline_icon 'lens' %}</dt>
+          <dd class="lens">
+            {% set separator = joiner("<br /> + ") %}
+            {% for lens in gear.lenses %}
+              {{- separator() | safe }}
+              <a href="/gear/{{ lens.brand | slugify }}/{{ lens.model | slugify }}/">{{ lens.brand }} {{ lens.model }}</a>
+            {% endfor %}
+          </dd>
+        {% endif %}
+        {% if settings.focal_length %}
+          <dt class="focal-length-icon">{% inline_icon 'focal-length' %}</dt>
+          <dd class="focal-length">
             <a href="/statistics/focal-length/{{ settings.focal_length.slug }}/">{{ settings.focal_length.readable }}</a>
             {% if settings.focal_length.eq35mm %} ({{ settings.focal_length.raw }} mm with crop factor){% endif %}
-          </li>
+          </dd>
         {% endif %}
-        {% if settings.iso %}<li class="iso">{% inline_icon 'iso' %} <a href="/statistics/iso/{{ settings.iso.slug }}/">ISO {{ settings.iso.readable }}</a></li>{% endif %}
-        {% if settings.aperture %}<li class="aperture">{% inline_icon 'aperture' %} <a href="/statistics/aperture/{{ settings.aperture.slug }}/">{{ settings.aperture.readable }}</a></li>{% endif %}
-        {% if settings.shutter_speed %}<li class="shutter_speed">{% inline_icon 'shutter_speed' %} <a href="/statistics/shutter-speed/{{ settings.shutter_speed.slug }}/">{{ settings.shutter_speed.readable }}</a></li>{% endif %}
-      </ul>
+        {% if settings.iso %}
+          <dt class="iso-icon">{% inline_icon 'iso' %}</dt>
+          <dd class="iso"><a href="/statistics/iso/{{ settings.iso.slug }}/">ISO {{ settings.iso.readable }}</a></dd>
+        {% endif %}
+        {% if settings.aperture %}
+          <dt class="aperture-icon">{% inline_icon 'aperture' %}</dt>
+          <dd class="aperture"><a href="/statistics/aperture/{{ settings.aperture.slug }}/">{{ settings.aperture.readable }}</a></dd>
+        {% endif %}
+        {% if settings.shutter_speed %}
+          <dt class="shutter-speed-icon">{% inline_icon 'shutter_speed' %}</dt>
+          <dd class="shutter-speed"><a href="/statistics/shutter-speed/{{ settings.shutter_speed.slug }}/">{{ settings.shutter_speed.readable }}</a></dd>
+        {% endif %}
+      </dl>
       <div class="geo">
         {% if geo %}
           <data class="p-longitude" value="{{ geo.longitude }}"></data>

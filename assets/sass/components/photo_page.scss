@@ -203,8 +203,6 @@
   align-items: flex-start;
 
   .exif {
-    list-style-type: none;
-
     margin-block: 0;
     padding-inline-start: 0;
 
@@ -215,12 +213,58 @@
 
     display: grid;
     gap: spaces.$s;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: min-content 1fr min-content 1fr min-content 1fr;
+    grid-template-areas:
+      'date-icon date date date date date'
+      'gear-icon gear gear gear gear gear'
+      'lens-icon lens lens lens lens lens'
+      'focal-length-icon focal-length focal-length focal-length focal-length focal-length'
+      'iso-icon iso aperture-icon aperture shutter-speed-icon shutter-speed';
 
-    .date,
-    .gear,
+    dd {
+      margin-inline-start: 0;
+    }
+    .date-icon {
+      grid-area: date-icon;
+    }
+    .date {
+      grid-area: date;
+    }
+    .gear-icon {
+      grid-area: gear-icon;
+    }
+    .gear {
+      grid-area: gear;
+    }
+    .lens-icon {
+      grid-area: lens-icon;
+    }
     .lens {
-      grid-column: 1 / -1;
+      grid-area: lens;
+    }
+    .focal-length-icon {
+      grid-area: focal-length-icon;
+    }
+    .focal-length {
+      grid-area: focal-length;
+    }
+    .iso-icon {
+      grid-area: iso-icon;
+    }
+    .iso {
+      grid-area: iso;
+    }
+    .aperture-icon {
+      grid-area: aperture-icon;
+    }
+    .aperture {
+      grid-area: aperture;
+    }
+    .shutter-speed-icon {
+      grid-area: shutter-speed-icon;
+    }
+    .shutter-speed {
+      grid-area: shutter-speed;
     }
   }
 
