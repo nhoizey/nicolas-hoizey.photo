@@ -77,13 +77,13 @@
         <p>{% inline_icon 'share' %} You can also find this photo on other platforms:</p>
         <ul>
           {% if photoLinks.flickr %}
-            <li>{% external_icon 'flickr' %} Add it to your favs <a href="https://flickr.com/photos/nicolas-hoizey/{{ photoLinks.flickr.id }}/">on Flickr</a>, like {{ photoLinks.flickr.favs | rough }} others</li>
+            <li>{% external_icon 'flickr' %} Add it to your faves <a href="https://flickr.com/photos/nicolas-hoizey/{{ photoLinks.flickr.id }}/">on Flickr</a>, like {{ photoLinks.flickr.faves | rough }} others</li>
           {% endif %}
           {% if photoLinks.unsplash %}
             <li>{% external_icon 'unsplash' %} Like and download it for free <a href="https://unsplash.com/photos/{{ photoLinks.unsplash.id }}">on Unsplash</a>, like {{ photoLinks.unsplash.downloads | rough }} others</li>
           {% endif %}
           {% if photoLinks.pixelfed %}
-            <li>{% external_icon 'pixelfed' %} Like it <a href="https://pixelfed.social/i/web/post/{{ photoLinks.pixelfed.id }}">on pixelfed</a>, like {{ photoLinks.pixelfed.favs | rough }} others</li>
+            <li>{% external_icon 'pixelfed' %} Like it <a href="https://pixelfed.social/i/web/post/{{ photoLinks.pixelfed.id }}">on pixelfed</a>, like {{ photoLinks.pixelfed.faves | rough }} others</li>
           {% endif %}
           {% if photoLinks.locationscout %}
             <li>{% external_icon 'locationscout' %} Find where and how to shoot the same <a href="https://www.locationscout.net/{{ photoLinks.locationscout }}">on Locationscout</a></li>
