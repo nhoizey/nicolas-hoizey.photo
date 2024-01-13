@@ -11,19 +11,26 @@ const allPhotos = glob('src/photos/*/index.md').map((photo) =>
 );
 
 const webmentionsInterestingness = {};
-require('../../../_cache/webmentions.json').webmentions.map((mention) => {
-  // Rewrite photo URLs to use the canonical URL
-  if ((galleryUrl = mention['wm-target'].match(GALLERY_URL_REGEX))) {
-    if (allPhotos.includes(galleryUrl[2])) {
-      const photo = galleryUrl[2];
-      if (webmentionsInterestingness[photo] === undefined) {
-        webmentionsInterestingness[photo] = 0;
-      }
-      webmentionsInterestingness[photo]++;
+require('../../../_cache/webmentions.json')
+  .webmentions.filter((mention) => {
+    if (mention.url.startsWith('https://www.flickr.com/')) {
+      // We already have Flickr data in platforms
+      return false;
     }
-  }
-  return mention;
-});
+  })
+  .map((mention) => {
+    // Rewrite photo URLs to use the canonical URL
+    if ((galleryUrl = mention['wm-target'].match(GALLERY_URL_REGEX))) {
+      const photo = galleryUrl[2];
+      if (allPhotos.includes(photo)) {
+        if (webmentionsInterestingness[photo] === undefined) {
+          webmentionsInterestingness[photo] = 0;
+        }
+        webmentionsInterestingness[photo]++;
+      }
+    }
+    return mention;
+  });
 
 let photoDataMemoization = {};
 
@@ -41,28 +48,12 @@ const getPhotoData = (slug) => {
       const platforms = platformsData[slug];
       photoDataCollection.platforms = platforms;
 
-      if (
-        platforms.flickr !== undefined &&
-        platforms.flickr.favs !== undefined
-      ) {
-        interestingness += platforms.flickr.favs;
-      }
-      if (
-        platforms.pixelfed !== undefined &&
-        platforms.pixelfed.favs !== undefined
-      ) {
-        interestingness += platforms.pixelfed.favs;
-
-        if (platforms.pixelfed.reblogs !== undefined) {
-          interestingness += platforms.pixelfed.reblogs * 5;
-        }
-      }
-      if (
-        platforms.unsplash !== undefined &&
-        platforms.unsplash.downloads !== undefined
-      ) {
-        interestingness += platforms.unsplash.downloads / 500;
-      }
+      interestingness =
+        platforms.flickr?.faves ||
+        0 + platforms.pixelfed?.faves ||
+        0 +
+          (platforms.pixelfed?.reblogs || 0) * 5 +
+          (platforms.unsplash?.downloads || 0) / 500;
     }
 
     // Add interestingness from webmention likes (not from Flickr)
