@@ -20,27 +20,38 @@ const syncFlickr = async () => {
   let flickrPhotos = await flickr.people
     .getPublicPhotos({
       user_id: process.env.FLICKR_USER_ID,
-      extras: 'count_faves',
+      extras: 'count_views,count_faves,count_comments',
       per_page: 500,
     })
     .then((res) => res.body.photos.photo);
   flickrPhotos.forEach((photo) => {
-    const favs = parseInt(photo.count_faves, 10);
+    console.dir(photo);
+
+    const views = parseInt(photo.count_views, 10);
+    const faves = parseInt(photo.count_faves, 10);
+    const comments = parseInt(photo.count_comments, 10);
+
     if (flickrIds.hasOwnProperty(photo.id)) {
-      platformsData[flickrIds[photo.id]].flickr.favs = favs;
+      platformsData[flickrIds[photo.id]].flickr.views = views;
+      platformsData[flickrIds[photo.id]].flickr.faves = faves;
+      platformsData[flickrIds[photo.id]].flickr.comments = comments;
     } else {
       const flickrSlug = slugify(photo.title);
       if (platformsData.hasOwnProperty(flickrSlug)) {
         platformsData[flickrSlug].flickr = {
           id: photo.id,
-          favs: favs,
+          views: views,
+          faves: faves,
+          comments: comments,
         };
       } else {
         if (fs.existsSync(`./src/photos/${flickrSlug}`)) {
           platformsData[flickrSlug] = {
             flickr: {
               id: photo.id,
-              favs: favs,
+              views: views,
+              faves: faves,
+              comments: comments,
             },
           };
         } else {
