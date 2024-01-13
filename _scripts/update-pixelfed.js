@@ -30,13 +30,13 @@ const syncPixelfed = async () => {
   for (const photo of pixelfedPhotos.value) {
     // console.log(photo);
 
-    const favs = parseInt(photo.favouritesCount, 10);
+    const faves = parseInt(photo.favouritesCount, 10);
     const reblogs = parseInt(photo.reblogsCount, 10);
 
     if (pixelfedIds.hasOwnProperty(photo.id)) {
       platformsData[pixelfedIds[photo.id]].pixelfed = {
         id: photo.id,
-        favs: favs,
+        faves: faves,
         reblogs: reblogs,
       };
     } else {
@@ -48,7 +48,7 @@ const syncPixelfed = async () => {
         if (platformsData.hasOwnProperty(pixelfedSlug)) {
           platformsData[pixelfedSlug].pixelfed = {
             id: photo.id,
-            favs: favs,
+            faves: faves,
             reblogs: reblogs,
           };
         } else {
@@ -56,7 +56,7 @@ const syncPixelfed = async () => {
             platformsData[pixelfedSlug] = {
               pixelfed: {
                 id: photo.id,
-                favs: favs,
+                faves: faves,
                 reblogs: reblogs,
               },
             };
