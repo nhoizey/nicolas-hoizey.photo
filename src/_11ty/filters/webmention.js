@@ -24,7 +24,16 @@ const getWebmentions = memoize(() => {
   const cached = readFromCache(WEBMENTION_CACHE);
   const webmentionBlocklist = require(WEBMENTION_BLOCKLIST);
   return cached.webmentions
-    .filter((mention) => !webmentionBlocklist.includes(`${mention['wm-id']}`))
+    .filter((mention) => {
+      if (
+        mention.url.startsWith('https://www.flickr.com/') &&
+        mention['wm-property'] === 'in-reply-to'
+      ) {
+        // Comments on Flickr are crappy, so we only keep likes
+        return false;
+      }
+      return !webmentionBlocklist.includes(`${mention['wm-id']}`);
+    })
     .map((mention) => {
       // Rewrite photo URLs to use the “short” canonical URL
       if ((galleryUrl = mention['wm-target'].match(GALLERY_URL_REGEX))) {
