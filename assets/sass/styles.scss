@@ -202,6 +202,8 @@ figure {
   background-color: colors.$gray-50;
   padding: 0;
   box-shadow: 0 0 0 4px colors.$gray-50, 0 0 0 5px colors.$gray-500;
+  font-size: 1rem;
+  overflow: clip;
 }
 
 /* ********************************************
