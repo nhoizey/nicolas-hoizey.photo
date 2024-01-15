@@ -16,6 +16,10 @@
   <meta property="og:description" name="description" content="{{ content | markdownify | excerpt | striptags | safe }}" />
 {% endblock %}
 
+{% block canonical %}
+  <link rel="canonical" href="{{ site.url }}/photos/{{ page.fileSlug }}/" itemprop="url" />
+{% endblock %}
+
 {% block styles %}
   style="--ambiant-background: #{{ colors.darkMuted | bgcolor }}"
 {% endblock %}

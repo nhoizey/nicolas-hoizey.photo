@@ -30,7 +30,10 @@
 
     <meta name="view-transition" content="same-origin" />
 
-    <link rel="canonical" href="{{ site.url + page.url }}" itemprop="url" />
+    {% block canonical %}
+      <link rel="canonical" href="{{ site.url + page.url }}" itemprop="url" />
+    {% endblock %}
+
     <meta property="og:url" content="{{ site.url + page.url }}" />
 
     {% if page.layout != "page" %}
