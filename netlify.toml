@@ -1,12 +1,15 @@
 [build]
-  command = "npm run build"
-  publish = "_site"
-  functions = "functions"
-  edge_functions = "edge_functions"
+command = "npm run build"
+publish = "_site"
+functions = "functions"
+edge_functions = "edge_functions"
+
+[build.environment]
+NODE_OPTIONS = "--max_old_space_size=4096"
 
 [[edge_functions]]
-  path = "/*"
-  function = "headers"
+path = "/*"
+function = "headers"
 
 [[plugins]]
 package = "netlify-build-plugin-speedcurve"
@@ -18,43 +21,43 @@ package = "netlify-build-plugin-speedcurve"
 #   force = true
 
 [[redirects]]
-  from = "/images/:width/*"
-  to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_:width,c_limit/https://nicolas-hoizey.photo/:splat"
-  status = 200
+from = "/images/:width/*"
+to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_:width,c_limit/https://nicolas-hoizey.photo/:splat"
+status = 200
 
 [[redirects]]
-  from = "/landscape/:width/*"
-  to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_:width,ar_3:2,c_fill/https://nicolas-hoizey.photo/:splat"
-  status = 200
+from = "/landscape/:width/*"
+to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_:width,ar_3:2,c_fill/https://nicolas-hoizey.photo/:splat"
+status = 200
 
 [[redirects]]
-  from = "/portrait/:width/*"
-  to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_:width,ar_2:3,c_fill/https://nicolas-hoizey.photo/:splat"
-  status = 200
+from = "/portrait/:width/*"
+to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,g_auto,w_:width,ar_2:3,c_fill/https://nicolas-hoizey.photo/:splat"
+status = 200
 
 [[redirects]]
-  from = "/kml/*"
-  to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_300,h_300,c_limit/bo_1px_solid_black/bo_2px_solid_white/https://nicolas-hoizey.photo/:splat"
-  status = 200
+from = "/kml/*"
+to = "https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_300,h_300,c_limit/bo_1px_solid_black/bo_2px_solid_white/https://nicolas-hoizey.photo/:splat"
+status = 200
 
 # Cache all assets for 1 month
 [[headers]]
-  for = "/ui/*"
-    [headers.values]
-    Cache-Control = "public, max-age=2592000, immutable"
+for = "/ui/*"
+[headers.values]
+Cache-Control = "public, max-age=2592000, immutable"
 
 [[headers]]
-  for = "/*.webmanifest"
-  [headers.values]
-    Content-Type = "application/manifest+json"
-    Cache-Control = "public, max-age=2592000, immutable"
+for = "/*.webmanifest"
+[headers.values]
+Content-Type = "application/manifest+json"
+Cache-Control = "public, max-age=2592000, immutable"
 
 [[headers]]
-  for = "/ui/thumbnails/sprite.*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
+for = "/ui/thumbnails/sprite.*"
+[headers.values]
+Access-Control-Allow-Origin = "*"
 
 [[headers]]
-  for = "/photos/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
+for = "/photos/*"
+[headers.values]
+Access-Control-Allow-Origin = "*"
