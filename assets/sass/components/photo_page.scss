@@ -9,7 +9,7 @@
   --height: auto;
 
   display: grid;
-  gap: spaces.$s spaces.$xl;
+  gap: spaces.$xl;
 
   grid-template-areas:
     'header'
@@ -114,11 +114,11 @@
     // - body padding: spaces.$m
     // - breadcrumb: $line-height * var(--step--1)
     // - title: 1.2 * var(--step-4)
-    // - 2 grid gaps: 2 * spaces.$s
+    // - 2 grid gaps: 2 * spaces.$xl
     --base: var(--full-height);
     --height: calc(
       var(--base) - #{spaces.$m} - #{$line-height} * var(--step--1) - 1.2 *
-        var(--step-4) - 2 * #{spaces.$s}
+        var(--step-4) - 2 * #{spaces.$xl}
     );
     --width: calc(var(--height) * var(--ratio));
 
@@ -148,12 +148,12 @@
     // - page gap: spaces.$xl
     // - breadcrumb: $line-height * var(--step--1)
     // - title: 1.2 * var(--step-3)
-    // - 2 grid gaps: 2 * spaces.$s
+    // - 2 grid gaps: 2 * spaces.$xl
     --height: calc(
       var(--full-height) - #{spaces.$m} - calc(var(--logo-wide) / 9) - #{spaces.$m} -
         #{$line-height} * var(--step-0) - #{spaces.$xl} - #{$line-height} * var(
           --step--1
-        ) - 1.2 * var(--step-4) - 2 * #{spaces.$s}
+        ) - 1.2 * var(--step-4) - 2 * #{spaces.$xl}
     );
     --width: calc(var(--height) * var(--ratio));
 
@@ -162,22 +162,21 @@
       // - body padding: spaces.$m
       // - breadcrumb: $line-height * var(--step--1)
       // - title: 1.2 * var(--step-3)
-      // - 2 grid gaps: 2 * spaces.$s
+      // - 2 grid gaps: 2 * spaces.$xl
       --height: calc(
-        var(--full-height) - #{spaces.$m} - #{$line-height} * var(--step--1) -
-          1.2 * var(--step-4) - 2 * #{spaces.$s}
+        var(--full-height) - #{spaces.$m} - 1.2 * var(--step-4) - 2 * #{spaces.$xl}
       );
     }
 
     @media (min-width: breakpoints.$l) {
       grid-template-areas:
         'header header'
-        'photo description'
-        'photo meta'
+        'description photo'
+        'meta photo'
         'platforms platforms'
         'tags tags'
         'webmentions webmentions';
-      grid-template-columns: var(--width) auto;
+      grid-template-columns: auto min(var(--width), 50%);
 
       .meta {
         align-self: end;
