@@ -63,6 +63,7 @@ geo:
   longitude: 6.5252013883333335
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 132 155 199
   darkVibrant: 20 4 4
@@ -75,6 +76,6 @@ lqip: data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAAAQCgCdASpkAEMAP3Gwyl00v7K
 
 The phrase “One does not simply walk into Mordor” originates from a scene in Peter Jackson’s 2001 film adaption of J.R.R. Tolkien’s Lord of the Rings: The Fellowship of the Ring.
 
-In the scene, the Council of Elrond reveals that an evil ring must be destroyed by being thrown into the fires of Mount Doom, a volcano deep in the territory of Mordor. Boromir promptly points out the difficultly of the task by saying, “One does not simply walk into Mordor."
+In the scene, the Council of Elrond reveals that an evil ring must be destroyed by being thrown into the fires of Mount Doom, a volcano deep in the territory of Mordor. Boromir promptly points out the difficultly of the task by saying, “One does not simply walk into Mordor.”
 
 Here, between the Queyrellin and Châtelard ridges, the path leads into a very old glacial valley with a distinctive U-shape.
