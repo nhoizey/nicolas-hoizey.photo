@@ -1,6 +1,8 @@
 ---
 title: Color Patches
 file: color-patches.jpg
+alt_text: Nighttime view of modern office buildings with colorful illuminated
+  windows reflecting in a still body of water
 date: 2017-12-19 18:35:09 +01:00
 dates:
   iso: 2017-12-19
@@ -82,4 +84,4 @@ colors:
 lqip: data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAABwCQCdASpkAEMAP3GyzF20rymmqTgKkpAuCWUA0QtSmavOBkEU9h5IsiqfJpokuSAuXSFxxeYgoMzapivr/Mv/iTEumzCNCwFvXqPQ9wBojIQYzjAA/ur5ENmjzWaCqLgZjE2FDYJu0KFychIlOeJrMs1yWfJ5WoBLCBgZFlbN7NFOLNllzKTf8obCUtUuG49fh+fKxp0E80SyiET3EjLYqb4JqJQeriiLOopJMy2U5/HOjm1TogbePO19PEjgm17GdrXnZ4i93dKXnx0S48JU40+4rwRYfIdNMmWcXu9e9xNi6IU+vHqR4kllaIeYS5I4Z0NQAAAAAA==
 ---
 
-For some time to come, this group of buildings will house a good part of the Altice Campus, including SFR. They will then move to Balard, and leave the place to the SNCF.
+Some companies are trying to make their office buildings a little more interesting, not just functional, by adding a little artistic dimension.
