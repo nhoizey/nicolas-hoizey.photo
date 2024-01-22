@@ -1,19 +1,1 @@
-User-agent: *
-Disallow: /photos/
-
-User-agent: CCBot
-Disallow: /
-
-User-agent: ChatGPT-User
-Disallow: /
-
-User-agent: GPTBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: Omgilibot
-Disallow: /
-
 Sitemap: https://nicolas-hoizey.photo/sitemap.xml
