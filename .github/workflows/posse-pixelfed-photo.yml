@@ -1,0 +1,36 @@
+name: "📸 → 🖼️ POSSE photos to Pixelfed"
+on:
+  schedule:
+    # https://crontab.guru/#3/27_7-22_*_*_*
+    - cron: "3/27 7-22 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  Pixelfed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 📥
+        uses: actions/checkout@v3
+
+      - name: POSSE photos to Pixelfed
+        uses: nhoizey/github-action-jsonfeed-to-mastodon@canary
+        with:
+          feedUrl: "https://nicolas-hoizey.photo/feeds/pixelfed/photos.json"
+          mastodonInstance: ${{ secrets.PIXELFED_URL }}
+          mastodonToken: ${{ secrets.PIXELFED_TOKEN }}
+          cacheFile: "posse-pixelfed-photo.json"
+          cacheTimestampFile: "posse-pixelfed-photo-timestamp.json"
+          globalDelayToots: 600 # 10 hours
+          nbTootsPerItem: 1000
+          delayTootsSameItem: 600 # 23 hours
+
+      - name: Pull any changes from Git 📥
+        run: git pull
+
+      - name: Commit and push 📤
+        uses: stefanzweifel/git-auto-commit-action@v4
