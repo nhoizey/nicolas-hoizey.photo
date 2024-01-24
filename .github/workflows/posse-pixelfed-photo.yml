@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout 📥
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: POSSE photos to Pixelfed
         uses: nhoizey/github-action-jsonfeed-to-mastodon@canary
@@ -34,4 +34,4 @@ jobs:
         run: git pull
 
       - name: Commit and push 📤
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
