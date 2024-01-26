@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-01-25T06:06:43.992Z",
+  "lastFetched": "2024-01-26T06:06:18.083Z",
   "webmentions": [
     {
       "type": "entry",
@@ -66816,6 +66816,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/mountains/one-does-not-simply-walk-into-mordor/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/mountains/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Axel Kuhlmann",
+        "photo": "https://webmention.io/avatar/farm1.staticflickr.com/db3ac2015603df114df5018a014f7697b243cf04a8b1c35c03afec9fe197a172.jpg",
+        "url": "https://www.flickr.com/people/21617436@N00/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53480724241/#liked-by-21617436@N00",
+      "published": "2024-01-25T12:56:58Z",
+      "wm-received": "2024-01-25T12:56:58Z",
+      "wm-id": 1772421,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53480724241/21617436@N00",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/mountains/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/mountains/there-was-once-a-glacier-here/",
       "wm-property": "like-of",
       "wm-private": false
     }
