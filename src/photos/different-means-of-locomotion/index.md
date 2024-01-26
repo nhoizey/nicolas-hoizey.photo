@@ -1,6 +1,8 @@
 ---
 title: Different means of locomotion
 file: different-means-of-locomotion.jpg
+alt_text: A man standing beside a seated camel with a row of ATVs in the
+  background in a desert setting.
 date: 2004-05-14 17:46:27 +01:00
 dates:
   iso: 2004-05-14
@@ -78,4 +80,6 @@ colors:
 lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAACQDQCdASpkAEoAP3Goylw0v6ksK/O8W/AuCWMAz99T29CJKSMl0Fpk+1VCecvtODYZyoZRny0mvqKCpEZKXsXoljyP8K/YxLQkbrRTlBM4i3bRsXvBBsBT8HCsC9zrASA2AUSEqV9vc+OJEz20if6aKPOFHyAA/t6G6JjxALRq2IOh4UEOLSfHFYe2yYgHAjJE8YFY6y6Tbaw9paSb/RlwnA63vhmSzGN+XB+KspdAnaTAL7X11E1rXs7Ys8RGiZvyoU0SWNZyvJptj4LEQHOcMLYmFVQZGgbHZg8X/LnDzgrDyPNpgHwqoQNwgxgucYwGJkb5snwfop1m+N/S7COAgqPDedN+ScwZfEf7GKdN0WjDSuQx9745kCpSmIoQH+AKF5WcNo+ULKYAAAA=
 ---
 
+While tourists tour the desert on quad bikes, locals continue to travel by camel.
 
+Unless the camels are there just for the tourists, as the locals have hidden their 4WDs behind the tents where they also serve tea?
