@@ -29,6 +29,7 @@ jobs:
           globalDelayToots: 660 # 11 hours
           nbTootsPerItem: 1000
           delayTootsSameItem: 660 # 23 hours
+          instanceType: "pixelfed"
 
       - name: Pull any changes from Git 📥
         run: git pull
