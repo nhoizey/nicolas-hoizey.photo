@@ -1,7 +1,8 @@
 const slugifyString = require('../_utils/slugify');
 
 const extraHashtags = {
-  '#Landscapes': ['#Landscape', '#LandscapePhotography'],
+  '#LandscapesAndNature': ['#Landscape', '#LandscapePhotography'],
+  '#MountainLandscapePhotography': ['#Mountain', '#MountainPhotography'],
   '#Travels': ['#Travel', '#TravelPhotography'],
 };
 
