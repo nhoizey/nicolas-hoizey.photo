@@ -63,14 +63,19 @@ module.exports = {
   },
   unique_photos: (collection) => {
     const distinctPhotosSlugs = [];
-    globalUniquePhotos = getPhotosInGalleries(collection).filter((item) => {
-      if (distinctPhotosSlugs.includes(item.page.fileSlug)) {
-        return false;
-      } else {
-        distinctPhotosSlugs.push(item.page.fileSlug);
-        return true;
-      }
-    });
+    globalUniquePhotos = getPhotosInGalleries(collection)
+      .sort((a, b) => {
+        // Put travel photos first
+        return a.page.filePathStem.match('/travels/') ? -1 : 1;
+      })
+      .filter((item) => {
+        if (distinctPhotosSlugs.includes(item.page.fileSlug)) {
+          return false;
+        } else {
+          distinctPhotosSlugs.push(item.page.fileSlug);
+          return true;
+        }
+      });
     return globalUniquePhotos;
   },
 };
