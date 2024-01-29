@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Panasonic
     model: LX100
+    hashtags: "#Panasonic #LX100"
 tags:
   - bocal
   - bocaux

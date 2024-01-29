@@ -14,6 +14,7 @@ gear:
     brand: Canon
     model: EOS 5D Mark IV
     short: 5D IV
+    hashtags: "#Canon #5DMarkIV"
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8L Macro IS USM

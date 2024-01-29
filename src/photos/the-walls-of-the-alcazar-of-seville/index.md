@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    hashtags: "#Konica"
 tags:
   - al-Qasr al-Muriq
   - Alcazar

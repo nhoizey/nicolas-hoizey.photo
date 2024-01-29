@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Apple
     model: iPhone 6s
+    hashtags: "#iPhone #iPhonePhotography"
 tags:
   - Africa
   - Afrique

@@ -12,6 +12,7 @@ gear:
     brand: Canon
     model: EOS 350D
     short: 350D
+    hashtags: "#Canon #RebelXT"
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM

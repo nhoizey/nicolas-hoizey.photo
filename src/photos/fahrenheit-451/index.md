@@ -12,6 +12,7 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    hashtags: "#Fujifilm #Fuji #XT3"
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 80mm f/2.8 LM OIS WR Macro

@@ -11,6 +11,7 @@ gear:
     brand: Canon
     model: EOS 7D
     short: 7D
+    hashtags: "#Canon #7D"
   lenses:
     - brand: Canon
       model: EF 50mm f/1.8 II

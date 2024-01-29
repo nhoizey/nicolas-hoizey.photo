@@ -13,6 +13,7 @@ gear:
     brand: Canon
     model: EOS 5D Mark II
     short: 5D II
+    hashtags: "#Canon #5DMarkII"
   lenses:
     - brand: Sigma
       model: 50mm F1.4 EX DG HSM

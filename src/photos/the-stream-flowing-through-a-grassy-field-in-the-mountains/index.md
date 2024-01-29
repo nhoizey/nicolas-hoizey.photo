@@ -12,6 +12,7 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    hashtags: "#Fujifilm #Fuji #XT3"
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
@@ -83,6 +84,7 @@ geo:
   longitude: 6.536159445
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 124 150 198
   darkVibrant: 70 61 28

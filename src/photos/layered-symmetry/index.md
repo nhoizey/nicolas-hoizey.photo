@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Panasonic
     model: GM1
+    hashtags: "#Panasonic #GM1"
   lenses:
     - brand: Panasonic
       model: Lumix G Vario 12-32mm f/3.5-5.6 MEGA OIS

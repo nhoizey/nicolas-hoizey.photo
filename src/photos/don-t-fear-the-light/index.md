@@ -12,6 +12,7 @@ gear:
   camera:
     brand: Konica
     model: KD-400Z
+    hashtags: "#Konica"
 tags:
   - Arnhem
   - brouillard

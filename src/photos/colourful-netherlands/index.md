@@ -11,6 +11,7 @@ gear:
     brand: Sony
     model: RX100 Mark III
     short: RX100 III
+    hashtags: "#Sony #RX100MarkIII #RX100M3"
 tags:
   - bateau
   - bleu

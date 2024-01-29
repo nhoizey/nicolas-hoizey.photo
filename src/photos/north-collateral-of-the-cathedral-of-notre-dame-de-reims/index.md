@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    hashtags: "#Fujifilm #Fuji #XT3"
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 27mm f/2.8

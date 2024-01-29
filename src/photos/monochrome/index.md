@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Nikon
     model: D700
+    hashtags: "#Nikon #D700"
   lenses:
     - brand: Tamron
       model: SP 24-70mm f/2.8 Di VC USD

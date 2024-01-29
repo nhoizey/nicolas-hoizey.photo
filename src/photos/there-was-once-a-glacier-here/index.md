@@ -13,6 +13,7 @@ gear:
   camera:
     brand: Fujifilm
     model: X-T3
+    hashtags: "#Fujifilm #Fuji #XT3"
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS

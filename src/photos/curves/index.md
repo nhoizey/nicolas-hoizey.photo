@@ -11,6 +11,7 @@ gear:
     brand: Canon
     model: EOS 350D
     short: 350D
+    hashtags: "#Canon #RebelXT"
 tags:
   - baigneur
   - bather

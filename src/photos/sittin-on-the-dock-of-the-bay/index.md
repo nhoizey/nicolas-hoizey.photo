@@ -10,6 +10,7 @@ gear:
   camera:
     brand: Panasonic
     model: GM1
+    hashtags: "#Panasonic #GM1"
 settings:
   iso:
     raw: 200

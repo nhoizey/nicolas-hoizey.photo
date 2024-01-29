@@ -12,6 +12,7 @@ gear:
   camera:
     brand: Fujifilm
     model: X-H2s
+    hashtags: "#Fujifilm #Fuji #XH2s"
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS

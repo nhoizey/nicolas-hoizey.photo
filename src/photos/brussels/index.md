@@ -12,6 +12,7 @@ gear:
     brand: Canon
     model: Digital IXUS 800 IS
     short: IXUS 800 IS
+    hashtags: "#Canon #Ixus"
 tags:
   - bâtiment
   - België

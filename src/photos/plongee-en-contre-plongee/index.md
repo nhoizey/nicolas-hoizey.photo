@@ -13,6 +13,7 @@ gear:
     brand: Fujifilm
     model: Frontier 340 (Minilab Laser Printer)
     short: Frontier 340
+    hashtags: "#Fujifilm #Frontier"
 tags:
   - Africa
   - Afrique
