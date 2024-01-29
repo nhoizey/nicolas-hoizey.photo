@@ -2,8 +2,13 @@ const slugifyString = require('../_utils/slugify');
 
 const extraHashtags = {
   '#LandscapesAndNature': ['#Landscape', '#LandscapePhotography'],
-  '#MountainLandscapePhotography': ['#Mountain', '#MountainPhotography'],
+  '#MountainLandscapePhotography': ['#Mountain'],
   '#Travels': ['#Travel', '#TravelPhotography'],
+  '#RiversAndLakes': ['#Water'],
+  '#MaasaiMaraNationalReserve': ['#MaasaiMara', '#NationalPark'],
+  '#LakeNakuruNationalPark': ['#LakeNakuru', '#NationalPark'],
+  '#AmboseliNationalPark': ['#Amboseli', '#NationalPark'],
+  '#TsavoWestNationalPark': ['#Tsavo', '#NationalPark'],
 };
 
 module.exports = {
