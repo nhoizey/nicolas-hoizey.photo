@@ -8,6 +8,12 @@ const shuffle = (array) => {
   return array;
 };
 
+const chronoSort = (a, b) => {
+  // Sort photos by creation date, not date of publication in galleries
+  // Oldest first
+  return a.data.origin.data.date - b.data.origin.data.date;
+};
+
 const getMinFocalLength = (lense) => {
   let minFocalLength = lense.model.replace(/^[^0-9]*([0-9.]+)[-m×].*$/, '$1');
   return parseInt(minFocalLength, 10);
@@ -27,63 +33,60 @@ module.exports = {
   },
   taggued: (collection, tag) => {
     const slugs = [];
-    return collection.filter((item) => {
-      if (slugs.includes(item.page.fileSlug)) {
-        return false;
-      } else {
-        slugs.push(item.page.fileSlug);
-        return item.data.origin.data.tags?.includes(tag);
-      }
-    });
+    return collection
+      .filter((item) => {
+        if (slugs.includes(item.page.fileSlug)) {
+          return false;
+        } else {
+          slugs.push(item.page.fileSlug);
+          return item.data.origin.data.tags?.includes(tag);
+        }
+      })
+      .sort(chronoSort);
   },
   shot_with: (photosCollection, gear) => {
     const slugs = [];
-    const collectionWithGear = photosCollection.filter((photo) => {
-      if (slugs.includes(photo.page.fileSlug)) {
-        return false;
-      }
-      slugs.push(photo.page.fileSlug);
-      let pageGear = photo.data.origin.data.gear;
-      if (`${pageGear?.camera?.brand} ${pageGear?.camera?.model}` === gear) {
-        return true;
-      }
-      if (pageGear?.lenses !== undefined) {
-        if (gear === 'Fujifilm Fujinon XF 27 mm f/2.8') {
-          console.dir(pageGear.lenses);
+    return photosCollection
+      .filter((photo) => {
+        if (slugs.includes(photo.page.fileSlug)) {
+          return false;
         }
-        let lenseFound = false;
-        pageGear.lenses.forEach((data, lense) => {
-          if (`${data.brand} ${data.model}` === gear) {
-            lenseFound = true;
-          }
-        });
-        return lenseFound;
-      }
-      return false;
-    });
-    if (gear === 'Fujifilm Fujinon XF 27 mm f/2.8') {
-      console.dir(collectionWithGear);
-    }
-    return collectionWithGear;
+        slugs.push(photo.page.fileSlug);
+        let pageGear = photo.data.origin.data.gear;
+        if (`${pageGear?.camera?.brand} ${pageGear?.camera?.model}` === gear) {
+          return true;
+        }
+        if (pageGear?.lenses !== undefined) {
+          let lenseFound = false;
+          pageGear.lenses.forEach((data, lense) => {
+            if (`${data.brand} ${data.model}` === gear) {
+              lenseFound = true;
+            }
+          });
+          return lenseFound;
+        }
+        return false;
+      })
+      .sort(chronoSort);
   },
   with_setting: (photosCollection, setting, value) => {
     const alreadySeenSlugs = [];
-    const collectionWithSetting = photosCollection.filter((photo) => {
-      if (alreadySeenSlugs.includes(photo.page.fileSlug)) {
+    return photosCollection
+      .filter((photo) => {
+        if (alreadySeenSlugs.includes(photo.page.fileSlug)) {
+          return false;
+        }
+        alreadySeenSlugs.push(photo.page.fileSlug);
+        if (
+          photo.data.origin.data.settings !== undefined &&
+          photo.data.origin.data.settings[setting] !== undefined &&
+          photo.data.origin.data.settings[setting].readable === value
+        ) {
+          return true;
+        }
         return false;
-      }
-      alreadySeenSlugs.push(photo.page.fileSlug);
-      if (
-        photo.data.origin.data.settings !== undefined &&
-        photo.data.origin.data.settings[setting] !== undefined &&
-        photo.data.origin.data.settings[setting].readable === value
-      ) {
-        return true;
-      }
-      return false;
-    });
-
-    return collectionWithSetting;
+      })
+      .sort(chronoSort);
   },
   cameras: (collection, brand) =>
     collection.filter((gear) => gear.type === 'camera' && gear.brand === brand),
@@ -92,15 +95,12 @@ module.exports = {
       .filter((gear) => gear.type === 'lense' && gear.brand === brand)
       .sort((a, b) => getMinFocalLength(a) - getMinFocalLength(b)),
   photos_here: (collection, url) =>
-    collection.filter((item) => {
-      const r = new RegExp(`^${url}[^/]+\/$`);
-      return r.test(item.page.url);
-    }),
-  photos_below: (collection, url) =>
-    collection.filter((item) => {
-      const r = new RegExp(`^${url}[^/]+\/([^/]+\/)+$`);
-      return r.test(item.page.url);
-    }),
+    collection
+      .filter((item) => {
+        const r = new RegExp(`^${url}[^/]+\/$`);
+        return r.test(item.page.url);
+      })
+      .sort(chronoSort),
   photos_here_and_below: (collection, url) => {
     const distinctPhotos = [];
     return collection
@@ -115,7 +115,8 @@ module.exports = {
           distinctPhotos.push(item.page.fileSlug);
           return true;
         }
-      });
+      })
+      .sort(chronoSort);
   },
   featured: (collection, number) => {
     const allFeatured = collection.filter((item) => item.data.featured);
@@ -133,16 +134,6 @@ module.exports = {
   },
   not_featured: (collection) =>
     collection.filter((item) => !item.data.featured),
-  newest_first: (collection) =>
-    collection.sort((a, b) => {
-      // Sort photos by creation date, not date of publication in galleries
-      return b.data.origin.data.date - a.data.origin.data.date;
-    }),
-  oldest_first: (collection) =>
-    collection.sort((a, b) => {
-      // Sort photos by creation date, not date of publication in galleries
-      return a.data.origin.data.date - b.data.origin.data.date;
-    }),
   last_published_first: (collection) =>
     collection.sort((a, b) => {
       // Sort photos by date of publication in galleries

@@ -48,8 +48,8 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/newest-first/"
       {% else %}
         <li><span class="disabled">in galleries</span></li>
       {% endif %}
-      <li><span class="current">newest first</span></li>
       <li><a href="../oldest-first/">oldest first</a></li>
+      <li><span class="current">newest first</span></li>
       <li><a href="../by-popularity/">by popularity</a></li>
     </ul>
   </div>
@@ -59,7 +59,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/newest-first/"
   {% from "macros/photo.njk" import photo %}
 
   <ul class="photos">
-    {% set photos = collections.photos_in_galleries | photos_here_and_below(gallery.url) %}
+    {% set photos = collections.photos_in_galleries | photos_here_and_below(gallery.url) | reverse %}
     {% for item in photos %}
       {% if loop.index < 4 %}
         <li>{{ photo(item, "eager", build.env) }}</li>
