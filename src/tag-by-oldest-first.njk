@@ -31,10 +31,20 @@ permalink: /tags/{{ tag.slug }}/
 {% from "macros/photo.njk" import photo %}
 
 {% if tag.number > 1 %}
-  <p>There are {{ tag.number }} photos with this tag:</p>
+  <p>There are {{ tag.number }} photos with this tag.</p>
 {% else %}
-  <p>There is only one photo with this tag:</p>
+  <p>There is only one photo with this tag.</p>
 {% endif %}
+
+{{ css('components/photos_sort', build.env) }}
+<div class="photos_sort">
+  <p class="label">Sort photos:</p>
+  <ul>
+    <li><span class="current">oldest first</span></li>
+    <li><a href="./newest-first/">newest first</a></li>
+    <li><a href="./by-popularity/">by popularity</a></li>
+  </ul>
+</div>
 
 <ul class="photos">
   {% set photos = collections.photos_in_galleries | taggued(tag.tag) %}

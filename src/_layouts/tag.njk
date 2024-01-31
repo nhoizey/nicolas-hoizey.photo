@@ -11,7 +11,9 @@
 {% endblock %}
 
 {% block content %}
-  {% set breadcrumb = collections.all | breadcrumb(page.url) %}
+  {% set gallery_url = page.url | replace('newest-first/', '') | replace('by-popularity/', '') %}
+
+  {% set breadcrumb = collections.all | breadcrumb(gallery_url) %}
   {% include 'components/json-ld/breadcrumb.njk' %}
 
   <div class="tag" style="--ambiant-foreground: {{ tag.colors.lightVibrant }}">

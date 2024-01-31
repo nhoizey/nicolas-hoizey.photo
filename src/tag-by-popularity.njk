@@ -1,0 +1,59 @@
+---
+pagination:
+  data: collections.tags
+  size: 1
+  alias: tag
+  filter:
+    - all
+  addAllPagesToCollections: true
+layout: tag
+eleventyComputed:
+  title: Photos tagged “{{ tag.tag }}”
+permalink: /tags/{{ tag.slug }}/by-popularity/
+---
+
+{% from "macros/css.njk" import css %}
+
+{% block content %}
+
+{% if tag.logo or tag.description %}
+  {% if tag.logo %}
+    <img src="/{{ tag.logo }}" class="logo" data-responsiver="logo" />
+  {% endif %}
+
+  {% if tag.description %}
+    {{ tag.description | markdownify | safe }}
+  {% endif %}
+{% endif %}
+
+{{ css('components/photos', build.env) }}
+
+{% from "macros/photo.njk" import photo %}
+
+{% if tag.number > 1 %}
+  <p>There are {{ tag.number }} photos with this tag.</p>
+{% else %}
+  <p>There is only one photo with this tag.</p>
+{% endif %}
+
+{{ css('components/photos_sort', build.env) }}
+<div class="photos_sort">
+  <p class="label">Sort photos:</p>
+  <ul>
+    <li><a href="../">oldest first</a></li>
+    <li><a href="../newest-first/">newest first</a></li>
+    <li><span class="current">by popularity</span></li>
+  </ul>
+</div>
+
+<ul class="photos">
+  {% set photos = collections.photos_in_galleries | taggued(tag.tag) | by_popularity %}
+  {% for item in photos %}
+    {% if loop.index < 4 %}
+      <li>{{ photo(item, "eager", build.env) }}</li>
+    {% else %}
+      <li>{{ photo(item, "lazy", build.env) }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endblock %}
