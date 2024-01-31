@@ -25,7 +25,7 @@ const syncFlickr = async () => {
     })
     .then((res) => res.body.photos.photo);
   flickrPhotos.forEach((photo) => {
-    console.dir(photo);
+    // console.dir(photo);
 
     const views = parseInt(photo.count_views, 10);
     const faves = parseInt(photo.count_faves, 10);
