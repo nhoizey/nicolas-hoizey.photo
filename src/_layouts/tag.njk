@@ -11,14 +11,11 @@
 {% endblock %}
 
 {% block content %}
-  {% set gallery_url = page.url | replace('newest-first/', '') | replace('by-popularity/', '') %}
-
-  {% set breadcrumb = collections.all | breadcrumb(gallery_url) %}
-  {% include 'components/json-ld/breadcrumb.njk' %}
+  {% include 'components/json-ld/breadcrumb-tag.njk' %}
 
   <div class="tag" style="--ambiant-foreground: {{ tag.colors.lightVibrant }}">
     <div class="header">
-      {% include 'components/breadcrumb.njk' %}
+      {% include 'components/breadcrumb-tag.njk' %}
       <h1>{{ title }}</h1>
     </div>
 
