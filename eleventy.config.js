@@ -74,13 +74,13 @@ module.exports = function (eleventyConfig) {
       require(path.join(__dirname, 'src/_11ty/images-responsiver-config.js'))
     );
 
-    eleventyConfig.addTransform(
-      'htmlmin',
-      require(path.join(
-        __dirname,
-        'src/_11ty/transforms/html-min-transform.js'
-      ))
-    );
+    // eleventyConfig.addTransform(
+    //   'htmlmin',
+    //   require(path.join(
+    //     __dirname,
+    //     'src/_11ty/transforms/html-min-transform.js'
+    //   ))
+    // );
 
     // eleventyConfig.addPlugin(require('eleventy-plugin-auto-preload'));
   }
