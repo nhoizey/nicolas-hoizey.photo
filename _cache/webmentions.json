@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-02-01T06:07:08.709Z",
+  "lastFetched": "2024-02-02T06:06:04.232Z",
   "webmentions": [
     {
       "type": "entry",
@@ -67724,6 +67724,44 @@
       "wm-protocol": "webmention",
       "repost-of": "https://nicolas-hoizey.photo/tags/night/by-popularity/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://webmention.io/avatar/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/111853633958130266#favorited-by-110651355078160221",
+      "published": "2024-02-01T14:56:20Z",
+      "wm-received": "2024-02-01T14:56:20Z",
+      "wm-id": 1775696,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/111853633958130266/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/tags/night/by-popularity/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/tags/night/by-popularity/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Gschwind",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/0d5ce5ff47ab55351ed640e6fb2678e97ff8276244936265c67109ba21853020.jpg",
+        "url": "https://www.flickr.com/people/158685238@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53461905018/#liked-by-158685238@N03",
+      "published": "2024-02-01T15:20:14Z",
+      "wm-received": "2024-02-01T15:20:14Z",
+      "wm-id": 1775711,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53461905018/158685238@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/la-main-de-crepin-mountain-peak/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/la-main-de-crepin-mountain-peak/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
