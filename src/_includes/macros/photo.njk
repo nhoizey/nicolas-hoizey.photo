@@ -33,7 +33,11 @@
       {% endif %}
       data-responsiver="thumbnail_{% if dimensions.width < dimensions.height %}portrait{% else %}landscape{% endif %}"
     />
-    <figcaption style="view-transition-name: title-for-{{ item.data.page.fileSlug }}">
+    {# <figcaption style="view-transition-name: title-for-{{ item.data.page.fileSlug }}">
+      <a href="{{ item.page.url }}">{{ item.data.title }}</a>
+      {{ meta(item) }}
+    </figcaption> #}
+    <figcaption>
       <a href="{{ item.page.url }}">{{ item.data.title }}</a>
       {{ meta(item) }}
     </figcaption>

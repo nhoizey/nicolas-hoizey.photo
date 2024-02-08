@@ -46,7 +46,8 @@
         --ambiant-foreground: #{{ colors.darkMuted | fgcolor }}">
     <div class="header">
       {% include 'components/breadcrumb.njk' %}
-      <h1 class="p-name" style="view-transition-name: title-for-{{ page.fileSlug }}">{{ title }}</h1>
+      {# <h1 class="p-name" style="view-transition-name: title-for-{{ page.fileSlug }}">{{ title }}</h1> #}
+      <h1 class="p-name">{{ title }}</h1>
     </div>
 
     <img
