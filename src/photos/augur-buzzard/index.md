@@ -80,6 +80,8 @@ colors:
   darkMuted: 71 78 42
   lightMuted: 169 183 206
 lqip: data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAADQCwCdASpkAEMAP3Gkx1w0v6e+MHK7w/AuCWVtf13R6MzDEKq2AlIwSbPdeE/h9cf5Ia8n0EPQpmxUAfU0d1CJUeg+0+mVHQZerT8gKaH3RkKx2MUXH7OF22/CtgVrj2z1iv2E63lAAP7iNcl1A6tz6zibo14RtMk2F8HduWoToJn9Vlr/t+7wGmO0W4vLvyE2WvO5rQSpj7JmnUoLgHsPENaVhuUgIKMak7wPaaElbncK/MODEyOruIclqPugBKXpMm0ZavAGsNkolMuVJyHe6jpxvFjbuBFErzEQ7/ySVD5Vi+pf3qlujmjq0bM8KwoP9VxJD2542lTWJt1/NT5rh+xv7h9Ji4ygOztpuWZnt09xxBfw2AMqzqFDDLm6MrW4xA82gPtTIUOIHJKWPdZadcGwLylbnpGCRZ9AAAA=
+missing_data:
+  alt_text: true
 ---
 
 The Augur Buzzard is a large, stocky hawk, which usually perches in full view on the ground on a prominence of ground or on a perch (tree, rock, post,…) and is not shy, so that one can often observe it at leisure.

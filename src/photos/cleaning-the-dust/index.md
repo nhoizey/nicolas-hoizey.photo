@@ -66,6 +66,8 @@ colors:
   darkMuted: 45 53 72
   lightMuted: 194 210 228
 lqip: data:image/webp;base64,UklGRv4BAABXRUJQVlA4IPIBAABQEACdASpkAEMAP3Gmxli0rSivMVQ8ApAuCU1/y1uq9dUiacjUVZHxZ/x5O7rIqKqeoW1cdwaYRGTj2om+qDNuM1SJSJBtoc+zKwwJW0rNE7v6Z55QH5P5wT5x24Qydbj78rctnFtVeuZCsAo0T3mfdh5RDS/1PpUgndFNvZYfqr23bRYyHaxEXbOAAPxchhUgFSMsr03BwjOl2+qC11/qRwyqT3lKFhk1GUCBQ3u3IiFW527pZdu/OQ++sjFuwldqiKA7gD5bpOaHG7mUV3IGf+SVoxZpS0JNzVcvbmzALaxnIqjcxsWoBcJiMGsNIQvHD7yrea8Vzz1AkqjIDBBZCdPEQifoqOTVM1dVnZO6CCHyXlSEm1lGmeR4/UVgqKRf7NWE7bdpA4rT/WpPQqCwXFd/8hicMAE77b5/iplfYMLBZVk8Yk/isV6mGZTniw4Knaju8Ypd9XDQ5XLGWyn6kf1uVWOoBXHFkyksSQvC6opRp7CZllnSWU52W3gREz//1rDfuPjaacUSgmMc3LWSrGorsjmbu54VC/NcRWTsXHU9z1M3vSjN9VXcew8Z4tPSMp7YQ23/a16o7bzW7wfSX7NpmVVY2anrGqgqPCTM01BPNP+t2DhzZo6i2rsYBraLuBB4d4T8GtYy4NVMfVYAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Dust is omnipresent in Kenya, and Kenyans take great care of their motorcycles, the main means of transportation at their disposal.

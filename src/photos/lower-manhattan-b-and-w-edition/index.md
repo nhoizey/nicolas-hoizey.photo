@@ -102,6 +102,8 @@ colors:
   darkMuted: 68 68 68
   lightMuted: 192 192 192
 lqip: data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAABQCgCdASpkAEMAP3Gqwlo0v6ekL5h6O/AuCWkADvu/+9O0tnMG23IqSeCYQMyiBQawTj4Ce00IQjfEaXuP/SkMbK7+coTUhyYsLMsO2JXLipkjLnZEo+8YIgEAAP7q4hYFklbxFXnGGsp8/jPs5mpwH0NIvdjVxB5oIkFi/0SMdc/YfZuNWsJj+2dkOCjitgaycRFDM56AiirCpASDdde7IHVahKiAuvIONonJLpG8ZLG+iqYkBYoKE2YdZloBWnetfw30GyR3ITbVMAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Yet another classic view of Lower Manhattan at night from the Hudson bank in Brooklyn, now in black and white.

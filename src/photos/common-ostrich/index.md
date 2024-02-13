@@ -83,6 +83,8 @@ colors:
   darkMuted: 87 78 50
   lightMuted: 179 198 212
 lqip: data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAwCQCdASpkAEMAP3GqxFy0v7CsLrQKi/AuCWUA0nNT2mIbyyJzMaoxAiE3BswgLt9WacIPC3ZHRhovZPGqGyCX33W+EB7NRmLdidNsiNJ2bMNAAP7n40l07rKS4qwdME1tAzMEzGTuFSzNJWkoffNqtCY3LRJV/fEHUFn5WicUO4+2LF+BmGYkr10XSxnQrhSK0p4BoReu3vXpPYJYEVn23/7B9i9vYm6nCEgVQYXgmYnLkiRN6lwvF4lmzIPBvuOJVLwp1ER1ad7dXtN4SW/UyvltLuPSaHEA4YwuCyv44dgqMJYwnBsyUEAVzWYVYNmry2gqUAA=
+missing_data:
+  alt_text: true
 ---
 
 The ostriches of the Kenyan savannah have never been so prized: first by jockeys, who ride them to the delight of spectators, and then by meat lovers, their flesh being reputed to be healthy.

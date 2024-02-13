@@ -88,6 +88,8 @@ colors:
   darkMuted: 81 64 41
   lightMuted: 180 181 178
 lqip: data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAQCwCdASpkAEMAP3Giw1i0v7gvMlWbM/AuCWcDsB2QiaUEjB6Mz/rqn/EbNylEqx1OCEpO2+kBZZS+vvqfxmSqpa0mKAiqtn9ABDS/SL0X+UKwwEc/ePPfSRBdpuXox8wAAP7rRmbqheRpzXBN7hs+GTR4nmevq1DKMTheNFG1ZjcVFCmcb7YbNizmgNBYCVtQqfvy8M0A4v2ljaBn5J7Roy5UpT91qA1CBc4/Ro0Re0TpKI65lK/FEtTThN11qPqbdiL/wSPpRb1vqrl2QXmr1GOdcNaEy/VcFYnKtUauZ5bQbHbwskiaT+t20NlOwhXKVYp1sI1yNZ0JYpcLjRpRW9mpf10oVedErztDfCIe7CdIAAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 The Bali Mynah is restricted to the island of Bali and its offshore islands in Indonesia (and this aviary in Hong-Kong), where it is the island's only endemic vertebrate species. In 1991, the bird was designated the faunal emblem of Bali. Featured on the Indonesian 200 rupiah coin, its local name is jalak Bali (Balinese script: ᬚᬮᬓ᭄ᬩᬮᬶ).

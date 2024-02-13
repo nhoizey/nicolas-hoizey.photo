@@ -71,6 +71,8 @@ colors:
   darkMuted: 76 42 47
   lightMuted: 182 197 206
 lqip: data:image/webp;base64,UklGRi4CAABXRUJQVlA4ICICAADQEwCdASpkAEMAP3GqyVs0rakkKhRtqpAuCWJs0F5ojDjL/CpdVc2xP9cRvTrbbzsrqUXP4CtRuM8JX7zgTkzOGJrjh7piOsJvZBLv0jPwRcGciIwrtP8lFvk3x7KZ/ojr6vrri2uPlDIVQhrDCkmd3r1jHMMWJmHPf42J9E428bTOLtgKWyLoD7cpE/uHDhv9SW3A/i5muTXr3M7DGETg+Dgre7FqAAD+78Kq6v4OKHhNcSRLuB/E11El8Slas5YN/py7WlfeKAIXWcuXyfiE1hFLSAGkiktHzwb2y2iRNObXkrPZL8TapsXwclZRrxCJu6FS2Qssxq4eAgPJetaXbEMpYTr6mPvVeHtOeU0lh58qCs379X+m7g/8M08fM6dhNyTlgUzj+34RIw3to7qdloPqWKuWVFRGyFsjerlDbEB3RnGQ2iJ1ba1vE+SxCOW1+ZdW8Xec0Tb0v3Q8NDSnf4MsRq+sxLf3+mT4xNY/E8Q5bQkTdMOSlfEOIWKdI8l03hqgpNLV78HuAZCQbmC6y4curlOxoXBACkfjgfZT0Zo0gq27BYUZ59qUpZnSUyzwND/8jvTu9i+lAX2tA+pSHVYpCnjppWEy6b/YQQnUFut+ow/kq5PjsFKYJ+KgYnROt950JpL86eS1pHXxiYVYiP52STkzsutfG4haR5m2ZPO3X8yDjTwBuT7ITgCMtbPkgeZBZilDt2DRp/0CY2gAAAA=
+missing_data:
+  alt_text: true
 ---
 
 The Dodge Challenger is a mythical American muscle car. Here is the 1969 model (I think).

@@ -70,6 +70,8 @@ colors:
   darkMuted: 55 65 30
   lightMuted: 192 201 210
 lqip: data:image/webp;base64,UklGRrIBAABXRUJQVlA4IKYBAADwDwCdASpkAEMAP12au1iyrC0jttj8ylAriWUA0Bp39IcTZqtEsHgYj11EkQtfqC7zrmj6rRWyOWf7X61fU2rUNOe0YY2G7cCfSuxeo+/XndKe019+Hz0PqJhqRDpaWYTXN3oq/Q3xmVLbHwwP0LwovETXcRVx8neZ8jPk9dTy+dvdLLmd8MQAAP7LUXHKkkaOXyhROWsWq/IBCHBLbtnHcWPdzV+DvBlVIlx0JYs/Vq+a0B8elDu+Cibl6zgS3Y3oxja6ljSKuQNoESZqyzr6y5Y1CFktT5z8/e+j+ONWReYgSGVXB2ruGPzAYx5gFN6Vk9UNk+vKoj+i6ehrlkzptLVwRbUVky1QhNTGQ5OHXemKZc1NQDAOgcoeHCYDFKLQ2NqnKDDuGIHd3uCaRwi5ofKCiPdnhvnY9of69nkyFkozD2ApHJU/iIhOq8lS4BBFn0kWhqLm/YYwsw2rzzprDUtGnL8DHIOPGdPJaSuGtI/JJxjDbQJIiKI4yv7TtrLsAznKoIxbRQXKC2oAtwj5keRqPkcMLkay5riDvTR5X3tFL7AAAA==
+missing_data:
+  alt_text: true
 ---
 
 The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.

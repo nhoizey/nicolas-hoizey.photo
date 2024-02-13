@@ -87,6 +87,8 @@ colors:
   darkMuted: 59 63 78
   lightMuted: 171 191 218
 lqip: data:image/webp;base64,UklGRm4BAABXRUJQVlA4IGIBAABwDwCdASpkAEMAP3Gex1k0qyilMzPcApAuCWUA1BQ+fizsTFgEP9fUdBZmi1qUveLgM+0y8id+fD53/djTpTwRGlOHO41owyEW9F0rEqG1SDfTSKxgzEG63TdaNfiaF4RERlEN0Nk7ArgavltFFORa4jkXmwwP82QwOqwRSPZHJ70hfiAA/umt9snel+Iu5yFH2s7SqEJ9vuE84LzjiZ7nRxV3qlcC3z7PHQbSOGiLO0hJRxKXqqrjsYkddo7O6L0iIiQrcRwKcIBCTDOnc6GgBJ2ZvvnsNjqcKL6Owi2P85JY6hxIjwidD9My8EGxD0BbBJ/5xOsN5LXc/SmlSRFMaOqHUGXw13PLXJ8UCJUrOBDeN+vvvRbbZMq0B1UIzbq5oTb7tUh1qGtKl4ech2+qM9HiqCYViluFLLcWW9AGCDnBwPEnLVoHUP2xKsrBu/nRfA11VTBgMkaNaEhq9aQcQAA=
+missing_data:
+  alt_text: true
 ---
 
 The pied kingfisher is a species of water kingfisher widely distributed across Africa and Asia.

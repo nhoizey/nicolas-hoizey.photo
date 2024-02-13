@@ -79,6 +79,8 @@ colors:
   darkMuted: 48 34 29
   lightMuted: 188 149 118
 lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAACQDQCdASpkAEoAP3Goylw0v6ksK/O8W/AuCWMAz99T29CJKSMl0Fpk+1VCecvtODYZyoZRny0mvqKCpEZKXsXoljyP8K/YxLQkbrRTlBM4i3bRsXvBBsBT8HCsC9zrASA2AUSEqV9vc+OJEz20if6aKPOFHyAA/t6G6JjxALRq2IOh4UEOLSfHFYe2yYgHAjJE8YFY6y6Tbaw9paSb/RlwnA63vhmSzGN+XB+KspdAnaTAL7X11E1rXs7Ys8RGiZvyoU0SWNZyvJptj4LEQHOcMLYmFVQZGgbHZg8X/LnDzgrDyPNpgHwqoQNwgxgucYwGJkb5snwfop1m+N/S7COAgqPDedN+ScwZfEf7GKdN0WjDSuQx9745kCpSmIoQH+AKF5WcNo+ULKYAAAA=
+missing_data:
+  lens: true
 ---
 
 While tourists tour the desert on quad bikes, locals continue to travel by camel.

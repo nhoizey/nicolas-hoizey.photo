@@ -65,6 +65,8 @@ colors:
   darkMuted: 82 60 41
   lightMuted: 188 172 159
 lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAACQDQCdASpkAEMAP22exli0qygvMzYbapAtiWNsZ1uKc7oM1ticOG67rJ5gXebEID8WMnmqKk0r1L+7Rs2pfoAULO0bABsTo4yp+wK3NU9h5kft9qj+5LKhUZpxJeIYWVTQWpF8tmlULlZfhMVSYTEloA/iwuAA952y3fONm2xNU1RRXh5mSurVQHjOelp0DNlpOJwpHU4oL+5u3s12zQoWHB5fyc2IoS1aO/e2Mew8xV+ARbG9mkXYM79l9S+wOphEKTtHRM8+YAUO5X9NYV7cbA+lJdPfRRtV1nsGF/rsmpCa5xmV0WECvy6vuKZ0Hg7gaoEky/w3xjVEZI4Prp4ZXgwT6mK8mV6LLYifaTXvZJtTwGNM+bO8beUHrj03WiFOytOZReIquJCzNKckwCZutrfyvYSOSir7O51evD9DzEedODTD0Ryw/qDMf7fhRL0CBTtTToxzdXyUHT301Z2QsviE+VMiAAA=
+missing_data:
+  alt_text: true
 ---
 
 Very interesting experiment of culinary photography, conducted at the Photo Club of Draveil.

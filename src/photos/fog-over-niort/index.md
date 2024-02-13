@@ -76,6 +76,8 @@ colors:
   darkMuted: 75 55 43
   lightMuted: 172 176 188
 lqip: data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBwCdASpkAEMAP3G42GK0r6ymJJzISpAuCWcA1QyroOPQlsE/PMCTuX44s5AGNEuY4lnHmivFEhmr5WJrJ95gAAD+7c1NvorbgiVcnlFn4A+yqNdTQScDDL7i2iZzdDCpdHrbR6EYcNJ5tYtjmDM12gVIwZ8as+wmbfx32uAv0f/BCWrOgpQZeOwAbPW5RAA=
+missing_data:
+  alt_text: true
 ---
 
 With the winter cold approaching, and the humidity rising from the Sèvre Niortaise, the atmosphere was particularly mysterious on this Monday evening...

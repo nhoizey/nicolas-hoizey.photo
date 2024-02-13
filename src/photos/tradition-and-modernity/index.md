@@ -73,6 +73,8 @@ colors:
   darkMuted: 94 49 63
   lightMuted: 203 177 178
 lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAABwCwCdASpkAEMAP3Goy1y0rD+kqvK8K/AuCUAZbQrpKNpUaMN5NJwKcjIGr40UkAlTxDiSGc7wCZtMOmvjtVzg8GD5Br1r+QmINnZvKMzYlEpzXY0DWS7+6OdHMEC+pghLZ9zAAP7RamUb9j+JcFXAKobMPFWZ342uniiKQZ4YPnV4NYoNLbQ21U9rI0mtjws0pdD/uAGwsJZc1yIzWivkeVu91VXmSA4+HCPtd+dnUl/Pqk4unUadfAW+W1eH58iJ7avXclKWe8DDyhheJXFsHPBWoazbq6Cuu+W8FJGOLxQhvym5nW9S6ZAS0sfU+/mXxECWBuPEf96I6lYf1Wa2AiqgBB2gMM5r8P0AQJ3aA+s702uUDh+nPFiOHmIoMbWC8YyyhYGTUahuVD4NxWf1skK+pn5FOH/xiegnEkbyEi4PozxbNtnGuGiPr25liTFPaEQAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Many boats sail on Victoria Bay in Hing-Kong, but none of them are as spectacular as the <a href="https://aqualuna.com.hk/">Aqua Luna</a>, her red sails and small lights make her the most famous Chinese sailing boat in Hong Kong.

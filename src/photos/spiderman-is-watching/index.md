@@ -84,6 +84,8 @@ colors:
   darkMuted: 79 61 43
   lightMuted: 206 183 166
 lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAACwDgCdASpkAEMAP3GmyFu0rCgkLrIMMpAuCWVpzl3rpSOJIRPKOD8tYdb19JqdliJB/1mF9+p1KOd6yDd1VAdtd2ReLMrvQ4X8pOFtDy6CFFk1jXDFbe9k18wwLdNpQUek/W1BueH/l+yvlkQS6nOkVXD6ohd4o6JMgDe+KZAA/ryD3KkIsgZrvpoLXZ37jySAWAvS7aQWBLrXBTN/EeiZT2iMu7NBS79fn6nGXe0Zxbpkqsfl5s7BElysHb2+bHlwnqyzZwzNifzsgAGTQ+UeDrle/MbFyozbGZhV98MKjsM3xijDVYIjImUkn/go7m+d+iePhE5BM6J1ryGMCNOkg9pkH99v5kTRbtTgC5q0Aev2/Jv8dSRGtG13jDfMMuO4ObkijoJrcsi8FG94FLe3vJ3pdTQ/93i6uAN0SCg2Fy2OxXhOesWHMoax9S1e8XC8B56Du1ZhF3dVythuGbefhGLt0GpfabDDtMgAWMxdyCTke9W2GKXQKEc+J1YFMI7oE6Mx+hK9TRbMrIX+8uw750Ng1wAoLMP1pQ8jEh7OsYETY55DQAAA
+missing_data:
+  alt_text: true
 ---
 
 This red-headed rock agama (aka rainbow agama) wears the same colors as Spiderman, hence the name it is sometimes given in French.

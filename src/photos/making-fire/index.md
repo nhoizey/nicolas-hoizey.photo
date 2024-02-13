@@ -68,6 +68,8 @@ colors:
   darkMuted: 43 45 64
   lightMuted: 213 197 174
 lqip: data:image/webp;base64,UklGRhACAABXRUJQVlA4IAQCAACwDQCdASpkAEMAP3Gmx1q0rKglrbRMypAuCWxrclwT/VAiU4b9wTFNE5uLu35U6eZ0rUrioRmaIdk7htePTedTvW961f8WPSgjpAiBGLfYCgzy9iAkBuZCYSynENKl9cpX1iTzX+u6daSoMcumIl4+Q1Oe36eMAP7phq3lxtIhc6PHehQxNaZZ5+DObFb+OfghxtoSDQuoptz6PTxCOTSWbW3napabD4jHS3LSEz+NyN5TeFEv3XmO7TYvVHU2ovEaxcUudJnhmZfBadETs3UuwxHweXHiNKT9TbKrv05dEFspTDyKGwWUC/9tDalVedNVIZ3FkAG+NqXxKkp7FxObNjQi8OFqhx2XDruStF0E/igGKrs+lJNgmAwxE9XLnbSMd7keggBB1jf9cAfTu7HLpRa9LF+hDK/J3u4F8fP9oIAcqBQxtwHRiN+NqphHTD/Hk88tZkeuwjsiYQKeMOmWOPPUg8WbCIuPpoIayDW5Dh9uwjrRvDRc3DMX1iCwIPBT2Kzia2T1QRT5GOQgE0Erkk1BG95OD/S0AQeAfv/ANnvaP9pVh9rj80PF8HE/TzhqGBU1YXCvKer5XaYlfGDAOD7LEtM0Hkm0QA6AVLSSu6eBYXciHr8G/ukDpuRABZfsg8djucxqRfvg1UgSKi/y6qyYU78ouzgNladIKp+zgsaAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Real practice or only folkloric demonstration for the easily impressed tourists, the realization of a fire by rubbing two pieces of wood is mastered by the Massaï.

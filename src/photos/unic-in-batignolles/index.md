@@ -68,6 +68,8 @@ colors:
   darkMuted: 80 72 61
   lightMuted: 196 185 169
 lqip: data:image/webp;base64,UklGRloBAABXRUJQVlA4IE4BAABQDACdASpkAEMAP3GqxVi7rjEjsHnJa3AuCUDOAZRqWN4gex/VVlt91iRNyJGpIUsEWNmwnMyvBWJpfhs465hQZrTg2vj0dpaWhC2EBAIiryGLIOgfnOEf6gM8ni2JGvJT4FbWI4yOqZSmgAD+5vQmDXek+LvelrhberfUKkoLJL/64oh3ufFJu9XYx6NthjfnRYTZWovVtGTMRMFQr1uZw9GFBfNYvgXmJDY+o+3Xa8w0I8vyCivLlM9X+5+UTmBU8plePgzszZ22kBoH77R6L50WO3zxctVSBfwTKM67kEnW0rV+K0Itol/HSgDBGI4rTn3MBu2sA9VrO+9LBm1GSSm5PZZPOMxYbL42SU3jkrAQa+JpjWF92AdEeBKdwbbhMVZjj02iT8ycvM4TtVnmC8eKBEsokdKTX56J2S8+Sa1odWqIQuLu1mo0wAAA
+missing_data:
+  alt_text: true
 ---
 
 At number 22 of Mstislav-Rostropovitch street in the new Clichy-Batignolles district of Paris, this "Unic" apartment building was designed by Chinese architect Ma Yansong in collaboration with French architect Christian Biecher.

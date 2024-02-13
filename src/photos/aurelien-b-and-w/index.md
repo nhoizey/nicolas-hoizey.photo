@@ -70,6 +70,8 @@ colors:
   darkMuted: 68 68 68
   lightMuted: 188 188 188
 lqip: data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAACwDQCdASpkAGQAP3Gux1i0v7qlLbqra/AuCWkACG+l5hl0+05jlFQyLmgH/9JXTpYiRouRHu6c2HaJYmSlbIU8VCIvZ3WypdaLITbBjf+V41qRBW3fEMW3hIJQ++wRgp3qSXTsZUfyh7fV7nk1nLvWUpSlDaVAAP7uUY3LtTp0TN3G7f+sHu8n5CJOyHKfN50D62W//o8WSCqFA/Tclp5NQmctlQb/mdiQ+XTxSx4V9X9C/Lskcd+XRpFwNZH4DpGxnSiV22h+0tq84VYuNtpmepzN5BgkudIJ8womNoF+JgxmxTnxHRGJIdkKK7NPVXK1Bk1o0cGXKQXRbTe1AfvLQsl0EfZQQtMapILmu80WsEYywCqsP/1KuP7jrH+P72Z75waIFfcMWxz165AAAA==
+missing_data:
+  alt_text: true
 ---
 
 I shot this portrait during a session of our <a href="https://photo-club-draveil.fr/">Photo Club in Draveil, France</a>.

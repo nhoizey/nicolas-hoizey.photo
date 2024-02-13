@@ -1,6 +1,8 @@
 ---
 title: Palazzo Cavalli-Franchetti
 file: palazzo-cavalli-franchetti.jpg
+alt_text: A view of the Grand Canal in Venice with historic buildings lining the
+  sides, boats on the water, and a distant dome under restoration scaffolding.
 date: 2008-04-24 16:29:13 +01:00
 dates:
   iso: 2008-04-24

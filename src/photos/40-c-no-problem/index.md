@@ -65,6 +65,8 @@ colors:
   darkMuted: 83 75 56
   lightMuted: 195 212 225
 lqip: data:image/webp;base64,UklGRpgBAABXRUJQVlA4IIwBAADwDgCdASpkAEMAP2mcxFizqygjsVlMenAtCWVrlVuKJdeKKdctIOssOVQwfwf3pNY6ZbsUgv/+VSNUWR3mt2E1UuyTL6Z35LRbjRJi1Ki7aL46mO1WaqPXLQgaxzF2J8lL7iwSECQHOouHxm1wtec+B05DECiIQ15tkPp8haFw4AD4dcSv4YXzASOuiCMXEhBpmzbkngG/JwBWDxeQJRaCDGNskK7x/oxe4QhXYI8blHNV3xyVktvJLOSBZNVFw0HDLFmd28mZ83Nzsx/fJuhx/ebFt7i1VAFd0+tSmICxKmNQUWkOSlvx4FoobAa5EmyMHPjlnkL9VKhlm6KjZq5Supz+Nqy3zwmU+e8nnPMZX6V9rZqEL20Q38M4lxV0Sgel9af00qAkqHv5v1Emh0cRirbtoK7hw5X+o16Xj+ocHltV8e/V6RragJy1cihLm61rXAu8ncMSgu1MKmc+ryp0YKN/EHssF8UMX0eT1zY6gZrIwl9WkyrsW0pI8nM6QWXTRkXAFkzqYrAAAAA=
+missing_data:
+  alt_text: true
 ---
 
 It is impressive to see these Kenyans playing soccer in the sun at 40°C, while we could hardly stand the heat even in the shade.

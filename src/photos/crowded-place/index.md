@@ -78,6 +78,9 @@ colors:
   darkMuted: 99 74 51
   lightMuted: 182 200 211
 lqip: data:image/webp;base64,UklGRrIBAABXRUJQVlA4IKYBAAAwDgCdASpkAEMAP2WexVizLCiqMlWd2mAsiU2lUkCiIrTgu/5QFan2CdYU3BQfF7wbI/kyk0L5HPYJzVTyG6thuTf9PuiYHC+RsspN3oiuKyA2fcJy/0HTsKi6cQF4S//sFxgJicQ9lvXH8oDAUXc0bo52g31y5aBYAAD+sR/JjyODg6Zt9WbtFL/+cNzbRerYaSDFJLSPqmfObngaqafCHo8PJTFicA6rcgWn3D9r7qwLDqumpnE4mJwQ2zJvrM6NO1AzoDqLKOxhw94i5wQ5t0a+dWycLTK8NowxHuHDGZLUmuEvl0trR6DkjvEPw3SRqi3yp4MyGjsjx0CYwJMSS53Gda6Gpt9uVGtN5U2lCQiGRC2SZGLUF5oDFrDtB/liNdQpuKmIId0J0zwrCkbLD44b0e8GWyIsiKhpRteVth3lk32EvAUjv7ytg6hl6O+I0ZT2DsgKcccHzxZCa9WNvm1ehzmt3LWjNhn/N16O26cIaM9K0LZPZIBSRjqEH6L0LUCAnW+ciROH8b+tcxbdFWR/HW6vxuL497XmeuL9htvvhQAAAA==
+missing_data:
+  alt_text: true
+  description: true
 ---
 
 

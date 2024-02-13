@@ -79,6 +79,8 @@ colors:
   darkMuted: 49 78 108
   lightMuted: 168 188 213
 lqip: data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAADQCACdASpkAEMAP22gvli7NS4lMVoce2AtiWUAznnjgAAdVr8YDaKB4R+cIDMoitqaf4KzOoEe0Rr895ou828hbuTDWlQx6NVzl0R2jy8AAKz3yYAnMhuO5NL+RvvSxm/OfSMljXALdjxNl0ouMzq/OIwb4nDDE26f9cMYKTZyRVwk1NgXRD44Bf3bbgID2EcZmS3x8U6S2K28NBeMOjkjp11x2WC02B8EhEpMxq7c+xOjewpJ0RMthQGDY/6JW7/wOyxXc/FgdxJttYuXpyCVc9nkmei2AAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Mallaig is a port on the west coast of the Highlands of Scotland, and the terminus of the West Highland railway line coming from Glasgow.

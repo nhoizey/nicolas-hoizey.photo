@@ -1,6 +1,8 @@
 ---
 title: Eccentric concentric circles in Carcassonne citadel
 file: eccentric-concentric-circles-in-carcassonne-citadel.jpg
+alt_text: Walls of the medieval fortress of Carcassonne, with traces which, when
+  viewed at the right angle, reveal concentric circles.
 date: 2022-08-16 10:43:37 +01:00
 dates:
   iso: 2022-08-16

@@ -70,6 +70,8 @@ colors:
   darkMuted: 75 77 55
   lightMuted: 171 196 210
 lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAAAQDQCdASpkAEMAP2mawlizv6+vMljMy/AtCWNtGTA7gdXfbUtMnei1CSg9SOI9hjoC4RgR+WnVb/GZmn72svhIYS2TMOR1tWcLg1S0sk6+6leXsJKIGzAANNitthuksYRfaoFJ4xbipBI+gsqakasqdADj4P/B/snel7lRmPW+xA7azTZbJhs7TPgg3tFVbVgTML0vd1FWt9ym9UDs+vhCNXwbswUCdLemsAqv2Q4wIrhMWxxMGK4nbqnEZBA6osrSfSpRkQogYJcde6ppC7oLrOd0zs0DFMQBCCCxoWey9suog/Q62b7wgftC78LJZY2Jm2hiztLvjFysilP2lPoTQJHoUGCcScw5/d1ys0JXt/8tlGoPfe1/d1BnGH9Ntw2Wf+R47E/rtFKBpB247GiDLKYgm4b5Pr4WMkhp7P/1A0z46EYE72M914CVNFzJaSnE2j1rtGydG+1kfKmSOIodmIbj6TIAAAA=
+missing_data:
+  alt_text: true
 ---
 
 The Sant'Angelo Bridge (Italian: Ponte Sant'Angelo) is a bridge in Rome, which connects the two banks of the Tiber in front of the Castel Sant'Angelo, near St. Peter's Basilica and the Vatican.

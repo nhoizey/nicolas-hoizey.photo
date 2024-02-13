@@ -76,6 +76,8 @@ colors:
   darkMuted: 79 84 44
   lightMuted: 151 153 155
 lqip: data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAACQCwCdASpkAEMAP3GmxFs0v7CrL5PM4/AuCWcA0FngAf6xJlnNPciGnD6eYJuGp5ukM/BTqiQul00jFHHb3tisfhECag0QOwk5dF0Wyz6zFE127nXxheZhfh7XlzYNb2tfz8ksAAD+6M/fgCzKM4cRclgcxBg9k4L6fOI6gLHoj1mKwawrx1MjAcsP9dH6sIrfTS1ZpALFd8rgMmBzSzDFdMI6lCaEI14uPzKWKyWDuTOF3SFCOLKz4vUyLxiaQY5LM066s/8CmCOERSRme/mPQxe0YyNgJRyeAq31cyJUCXeJH9x4A+mw2F2VKn5v9EKqrri+DM4rrl7mvInmvJOCHAjQwAAA
+missing_data:
+  alt_text: true
 ---
 
 Kilchurn Castle is a ruined 15th century castle located at the north-eastern end of Loch Awe in Argyll and Bute, Scotland.

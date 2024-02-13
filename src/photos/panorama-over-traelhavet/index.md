@@ -77,6 +77,8 @@ colors:
   darkMuted: 85 78 52
   lightMuted: 155 174 193
 lqip: data:image/webp;base64,UklGRoQBAABXRUJQVlA4IHgBAAAQDQCdASpkAEMAP3GkyVs0v6klr5Lbi/AuCU2aC2AEK82yvisWXO+rc1GQEQN4nQwskSQZIKbh3q7CPf2E3o/8QMJf1WhHZ+zSv8sNmDfoWw/lCoJpUVSb3wh5i1e4NfF3tWO+FMwGZEjgkBo7GAQFGAD+5073ip1WUJTNzHKkrtClBP0lAefAploS7XST1TGH8ozDaqLm+1tT2PbbPEvcBrYwIGm9UalXyyHnPzlYB776LcHlLi0BnlS1k1aiWNvuEAjtD/RZKXgEQ528xEIrk8TImWyVGq9jvA7O+rOb8vRm51YYx2cZeWLwJS5XTXviBBwxzdsLh6fxpH+4+5yK3RxZub6HeAS7tTEgql1qA4vGx4XeqXlDHqDS/eVaQ/hlbnnTWm61FvCre1kx1nGU4efyfmZRHA6PK086nO5t7vB2NZegauveyva8bpWMft5bbl3Ejvdl/nfO28VRBnHE6aYBwSS42PMeVrFyOQSoNsVioN77QAAA
+missing_data:
+  alt_text: true
 ---
 
 Trälhavet is a bay in Stockholm's inner archipelago north of Resarö, south of Åkersberga and west of Saxarfjärden. The shipping lanes to Stockholm go from Saxarfjärdarna across Trälhavet through either Kodjupet or Oxdjupet.

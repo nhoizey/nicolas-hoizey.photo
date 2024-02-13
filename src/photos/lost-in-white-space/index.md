@@ -1,6 +1,8 @@
 ---
 title: Lost in (white) space
 file: lost-in-white-space.jpg
+alt_text: Person in a blue hoodie taking a photo with a camera against a white
+  background.
 date: 2005-04-23 15:47:30 +01:00
 dates:
   iso: 2005-04-23
@@ -63,6 +65,8 @@ colors:
   darkMuted: 24 67 129
   lightMuted: 212 164 177
 lqip: data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQBQCdASpkAEoAP3G42mS0ry0nIOh6kC4JaQAAGdm+rHm0+hNntPoSuJ6E1hrQkrT/DAAA/u2sRAbkAOE2lS1iLCgHCevQtyygAA==
+missing_data:
+  lens: true
 ---
 
 Over exposed to get a really minimalistic composition, no post processing at all.

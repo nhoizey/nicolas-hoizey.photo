@@ -70,6 +70,8 @@ colors:
   darkMuted: 55 79 94
   lightMuted: 164 178 205
 lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAACQCwCdASpkAEMAP22ewFi0vy8qMlZtU+AtiUAZQAeRSPxteU3X3uQgwtXgAoGE7s0svMGBvMbt95If7BwjJEuU0Xq4hV29A8oQvQKNWgI2tw3RlEgvN6TcBcz7ejTh8UsiST4yQAD+7gxHZuEFfMUi+0qjSnQESIjxKvyeai/56BzHRlZf0vSnWJm4EXYLQfom4DdaWoTi3+eo57boZDMQLS2HmVWOehdHowpS9gmdUokYFj36jd12tFXPeDbH2dAuS96hXA304MIhMuCG+xjx2zDBTGM3R+COUydaNp2gYvAJS6yL0ANoat0j8uSjQuRXuWolNf6i89nNWVYtEDuk1qU9FIAbF+uoOUS4XGZMUq+yZxzFldWuIbdhK2kbp6smna1KnpvC2FlY1iFsdCk2CMIAAA==
+missing_data:
+  alt_text: true
 ---
 
 Le Roof is a restaurant on stilts, with a room open to the lagoon. Above the water, at the end of the jetty, it welcomes people in a wooden decor with a contemporary style. At lunch or dinner, the spectacle of the sea, the fish and the reflection of the sun is splendid. Some evenings, dolphins come and party around the restaurant.

@@ -1,6 +1,8 @@
 ---
 title: Colourful Burano
 file: colourful-burano.jpg
+alt_text: Colorful buildings line a narrow canal with boats in Burano, Italy, as
+  people walk along the sidewalks.
 date: 2008-04-26 15:37:21 +01:00
 dates:
   iso: 2008-04-26
@@ -72,6 +74,8 @@ colors:
   darkMuted: 44 68 91
   lightMuted: 190 150 132
 lqip: data:image/webp;base64,UklGRhwCAABXRUJQVlA4IBACAAAQEACdASpkAEMAP3GmyF20q6etLNEtUpAuCWgAxFiie38Fw0PjZSVV29tefilM8gDOpLrW+asmg0kyIve/6g0PwnD/8+rxkpozZenoqyBGXUtoYX0s7GWxdBqhfDb6z7UQFAtHByq9NW55gstQWpIh7EEi8q+lHRV5NBdIatFifAMCGfDWHi5voADsbt/NkBCkujN9YlsYC2sjB2bLGjxfDbmpJUuRwUxGKSqflAbOlJayCF9jwC2qt2Bhx3z0WkUEQMwsfYjOHYoojHhPbMsrgvT/JDiJOqPvECvt70VxflWve+oP0yJPMv9ZU+CAEOzEZRM+5waatjXlye6DGMEfsJshNXaOhpmlLQ9bEYfAKxbA5k/jba9PxB8scNdZyve0Sm48UigG4XC+qFFFuiEmeJyNuFY5u1E7sVIAtibgIrVwcUx9PRN31pRfoL94jeAYjh+V4az1C8mi81g7hBfq78xjL00MAjKStKEii+hdGCNChQkzY1e9ewQKIYDrSC+bhCfH572n1R08urNCjcXOsDWft1WYA17TrmRZoCriKGJXxZjvhDVSCAF5y4bnV/j7M4ZxpjN1qhrpn9PLn5JwZNjMDiDjTR/4HKZ3W5nH5y18HKbyoh8VFuQb2XJITZdc2awKtKqVpW7ivmhfy47h/MG95VZLHmI2pmA++sUqCM218vzRNqRXnBflBAHAAAA=
+missing_data:
+  description: true
 ---
 
 

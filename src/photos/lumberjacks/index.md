@@ -63,6 +63,8 @@ colors:
   darkMuted: 54 91 42
   lightMuted: 204 178 160
 lqip: data:image/webp;base64,UklGRngBAABXRUJQVlA4IGwBAAAwDwCdASpkAEMAP3Gmylo0rKkkLbiLMpAuCWQA0Ii6hZ06T2+LbsqDee+X+kdcSJKtWNxv6lAjZGs/u2oxUqXJHOd4Xo7vDFAWls+e9Q7UMa5mf1QmfbgfB0yTQusCRtpMadSxN7/RyCOHaEved2/2mVa5KU5b55ElUh5/EQ2lOJgAAP7e1jvdhzS34vtfnynp0P+0VA6EfC63RilUVx+KBy+4Y3+uG3ZjWvYPyHaEJNAxDd00g0yxZz8p51uK+zeNOxKGVtajcvuh3iP5xZl65gFPJ6/lFpFaSa6TlTDvivRVsLVHg+K/CuH63ldxb2cWrqmE/+RvIMu5VoJa++0qWVT/5CmE0F4spw5hGkHHjnfBgqhZP5pcEmm79UpAyTqD6Qk2nexuhdpN6Sx2mgNP5is+KJm4x9CWYGB5Zn6K8qSuQPSVWDfU9S9uBpDTJIet/cFUSii/5zz9NGrwOxXkPHr2qqW/iLOKYAAA
+missing_data:
+  alt_text: true
 ---
 
 Do you need a hand assembling your furniture? They will be there at the rendezvous!

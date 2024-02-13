@@ -77,6 +77,8 @@ colors:
   darkMuted: 41 68 89
   lightMuted: 158 186 197
 lqip: data:image/webp;base64,UklGRioBAABXRUJQVlA4IB4BAAAwCgCdASpkAEMAP22kwli0v6eqMHY9K/AtiWNtOrAN3lEc4NHxUPot+Y1jjZiNx/HQ5rcYTs7iH4+vV+SGnqpEnDq9FyDc2GF5ud+q0rR/yZODHHEbTYraS0AA/qk/pXfSUBRubZr0Kv9VaWh3t4hrPDXSiqZaZpW2KFIpzbTJW9bg8CoCLecu1uMkqlEr40tgcZLR0axLXqeY795BF9dPzOexrbA0GAdEDQYxrPVFR6nUTFMadHYZcSQ7CKfkhFozlGYsgcvoLnMDZM8kKxUJBcXTcVhiDNjsOLo5yt/TGvm7D1zvqVl3q4Nw3Lg2qs6v594Wln03K79zTOdAy0wLYQg826EJeq63ZDIv+PBei6OdduqaSOwbsEiGgAAA
+missing_data:
+  alt_text: true
 ---
 
 There is a strong contrast in Amboseli National Park, in Kenya, between swamps filled with animals and desert zones like this one.

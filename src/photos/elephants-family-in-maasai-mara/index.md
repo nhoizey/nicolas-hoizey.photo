@@ -75,6 +75,8 @@ colors:
   darkMuted: 67 75 60
   lightMuted: 196 171 143
 lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAABQDQCdASpkAEMAP3Gkxlk0v7EqL5acA/AuCWMtgApwK2AJGFTZeS2lRN5TCUupJWrnQPwWhzDgUr6kN5LsAeJv1yykw7PGCjY6O5e+V1FdapmHPl2CEWr1mXvz/QMvKIPoIXEPrKEp9AjA7CG38zdxKE74AP3OS4dxGNpeP2ygGMmGYZ4XkYgf4vAV2H/TRGXRhwcZtTzWsjlcKC6m8BsNtIPoibG7urmPzNNblucMp3XuKgrcdCX48diWXLV7PUO1oKYmFw1pmZYEdiMNNlVP2GKXPFIiNIXbcDkjLxKgbu+y1HSr7YugS2D59OCZspZfJTKc5mh+59kYnUcKLo0Xw5u2TKiOWoK0sQ3CMW5HAvIrVeOElEjSWXJyZYehFiNZK6bmMVvCZbx2bC/8qvV5L3YweHtR2EV00CWT1Hhde3IlosnSoThHRSgBpjiUI59/eHKEUPpHeSmLCywAAA==
+missing_data:
+  alt_text: true
 ---
 
 Elephants are highly sociable and have similar life cycles to humans. The maternity herd is very protective of young, but males are ejected at 12-15 years old, after which they become nomadic males, often associating with other males.

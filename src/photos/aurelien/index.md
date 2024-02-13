@@ -67,6 +67,8 @@ colors:
   darkMuted: 102 52 76
   lightMuted: 208 194 181
 lqip: data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAACwCgCdASpkAEMAP3Gowls0v6ewr5aaO/AuCWUA0JA00BJ872l7ZyGh5wSuB88OwGNsIPzBCZVfWUfW+XwX7vO/dSmHAd3zOLTqNJaUquFS+Ni2pogcEp0F/HSDbSMAAP7uzoGOpvjWlCqB1QWw8vpIMxeB/oKj9RHMEDpe8fdadwzOkgvnkhn9MqjWZV+GQ7AmP1HetrOdInEnbt+ItJ3vRV5suhXvInCN9G4rQOgqFqJStp2KdRGN3if6nNXn/hUrUxLPxtrXl1U78h93i6ipTwd4tZcxD7/xqKTm+b4lZ5SofU3ZvQVlrNCD5XL6ouPPWi44P2AAAA==
+missing_data:
+  alt_text: true
 ---
 
 Portrait taken during a <a href="https://photo-club-draveil.fr/">Photo Club de Draveil</a> session.

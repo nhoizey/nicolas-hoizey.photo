@@ -100,6 +100,8 @@ colors:
   darkMuted: 47 71 94
   lightMuted: 200 194 195
 lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAACwDgCdASpkAEMAP1mQu1iyKaYlN7k9UkArCWVsRF24HxQSfDjGO2H4P2pC23tOKTwbiRTVXAs61OLJZL6MYFNRnmLyI5TKboTwbKWzeiDuA67nKqp5qBMVHp6FQW/5H4kdQqegOeUcEVgzDS4iFmiCpmquf+sw++pK3vSPUAAA/T2eqqPYpV6GDMuIwMpgAHKwUkIfl0oLrAllGd82HhBdt1VIhWzgL9Ju/qEb5zg4EvRk3ATzPByB4iwambfgxGl+Tp6zGKjxCJoFIEQCV7i0H7VPBrsXe4yX74NMZWQO145XCOIqhSmh7rP4a/ZQEe+La4IkrgBS6My72fGQWCD2iZLQUo/qlWBCAA0PfS+cXPwYigqQyUb7GSviRFA+uHTng7xYvAaTRutub/ZagzR6idHzvetjsPLKJsK2YxZP2azjwyJ8k2iRbltbXIblGT69xRZ3QaUmm4PLct06L63t7hHZrdpPMbqBXoH9MvsdIQm8pFTSc73Z8QEdVvn+NyCkoM/yVigoVf51BnPr7njFrwPZIr8iQHiux+mgrFTAAAAA
+missing_data:
+  alt_text: true
 ---
 
 While many might assume that the birds are a constant annoyance to the majestic buffalo who carry them across the plains of Kenya, they would only be half right.

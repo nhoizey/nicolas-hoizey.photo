@@ -85,6 +85,8 @@ colors:
   darkMuted: 63 73 40
   lightMuted: 131 138 151
 lqip: data:image/webp;base64,UklGRjwCAABXRUJQVlA4IDACAABQEgCdASpkAEMAP3Gkx1s0q6gkLNN+EpAuCWJnnlldly+7Mv6pDKF1JBH6N0WRVxXkcVkg1HjnIZoJbfR7a2IV5hlkaG5mH9j5/7hz9rhm/26pM8fTX24035o+s/AwVan5J7OGOZcVHKfGy4/QCzcQ//1mLHjNc+ZBN00i9CSNDdIC+ILkHaoZ2+8xzM2gH9tQ+1G4egDcL2LJuAD56w/khxYxju39b9jCDF+tI1MbMcmC9AevBkCVe9nWB/w6ZEfkJ8AvND9Bpo+okkHPUkSCK3usWdu8N3o3kUVRFt+ezgROXLMPnaCpUwLJMzmlOwefufTjf3XWGr3ZQO4GK/wlaifP7Ig1+EK4+yceEJSQhNWj/e1r1XN57CfUy5clBAJJ/5CWXS+A9QbQXZwZ672TJpfeGFoOhtJ6zk/bVv5hs6DoK0VvccvZEYERn73l6m9H9ExROmCxP7FwiS/hjVTNOvt/LezIFLow1nPvAgBVz1tBOPc5dmxjELZ0qE6tmr1IBJtIoIV0e8ZKZVWTl4Q3zEaciqp4v38xneTXmT1ZJ42doZmMAj3XYknb92fo0xZhhzQtnIt23z6h3u9BMSyl7WzrNGVW9G3H3CLBAGf/8uG4a5GTZtXTfK1YmRGK+0vi663o5x31JlypiG9h8SqX7YfUqlgDpUmnieQC0hR+iRMwCP4kYiEuwCSBzBllD24Qs7SQxfCvGgtN1d+UiUoEJgtXhdGvtxP5D8iSAAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 The Masai giraffe (Giraffa camelopardalis tippelskirchii), also spelled Maasai giraffe, also called Kilimanjaro giraffe, is the largest subspecies of giraffe. It is native to East Africa. The Masai giraffe can be found in central and southern Kenya and in Tanzania. It has distinctive, irregular, jagged, star-like blotches that extend to the hooves. A median forehead lump is usually present in bulls.

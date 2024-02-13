@@ -71,6 +71,8 @@ colors:
   darkMuted: 72 59 47
   lightMuted: 209 215 229
 lqip: data:image/webp;base64,UklGRjwCAABXRUJQVlA4IDACAAAwFACdASpkAEMAP3GixFi0rCejrrcN4pAuCWwAxNB/jr1Gs6CSD1E21QsrDWaMfevwvQE7J+3zE0uUSlLX+Yj4yNSezTOww1imHTOE0fdyIuBvKT2a2zh1zjiJnUksdidQP8KVKoOs61+nJbgL/QXm804y56wzO2VpIYJb+ee0wIqETrooeEIKPq2xXJgLYD8jGknaaLqyXSfLSM+S7pgU2I33KY0mCwKBNAD9y1gitPqVJZ1DweWL90JKDb6qXTL+TLtOtlz8zKrt9138WRfuqvPTa8mYAoFjAdnArQe3WqpNyg9hDouL9pj4jsz8kMtYcv8jabbMLzPTXD6+69WyTHgN0LxYZmVvtMLZyXhZX5K4eJdz1vM7l+90CGkAGYpyYWpTrya8XfUPme1pJZJl3YCoCPergBvwTwMj+El5pxoWGYHPa1tut9zIDpGqVxlH5LcgqePYsPX4tZUknxTi+RA9cUBsmw1Muqs92/nBGGUE4aqT9rz5GQ1elKuNjwuXs7Of8DD6IGEjgCVbTMJL0OIqAne+3SOtxrXjBWQ7CLeB67xchmVKuB2SONLxwfHxdtjvfT/ygOGceyyLWfmiqalnFxYSuKT76d9U7s17wsJTzHiNm3s5IIG9MsBOx7qf1/gNiDRBFlYy9SCsG8mxXC9ehmK2ngpIqRhsNd9tEYDMM2nCHzEmspFGpsf8I3dbfbRs0Pw+OVB/0jf3gM6lqwhFaAhMq4J+He8gRcAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Standing proud in the savannah with their red blankets and painted shields, the Maasai people have become one of the more widely known symbols of East Africa; the Maasai shield is even featured on Kenya’s national flag. It’s not uncommon in Kenya and Tanzania to see the Maasai in their traditional dress, not only in their villages but also in the streets of the cities.

@@ -79,6 +79,8 @@ colors:
   darkMuted: 79 68 58
   lightMuted: 201 189 159
 lqip: data:image/webp;base64,UklGRggCAABXRUJQVlA4IPwBAABwEQCdASpkAEMAP2WkxFizLSejsHcdomAsiUcAAZ3iH/kzpPVpuUnT0G81S+33NdjKOIOBmaEzAzMbQ6X9tvr0pZjKWSOXiNG/4QEEtfE6ME4V5ulO851q95J48fkcX/pCiLc0PssbY9rR+4pcSSJHKLceokTfD2Ah6u4o18GlEKTw0fsI/kBVggqjSvilZWarOKMAAP7kZPZS+9c+It6mpI7DdLhA5IXa90k+yV2uNWyjQuUV2NKhZIVvIIK1jjppmsVyE72kz/cugURHBYaw/FFc9q5rhaOhdNxSn4QixAjw+jYLwG3BoMTFA0GY56qZzlg7lk9lpTQrAazeIEV/3GLD0d72v0FNU11k3H4B+YE8DPr0oSc/1hYeAPstRQHU9DZsexGUiikb/z3F+zpWb86zNh990LYdQiO/aozR+mfgWrb654ebETvH2UbdtNQuWGivPVltSoyKB1B78onVaGTecv0MB6fSexJGq2ABoutq3URa+5SFywx9Zadxpc7Sxh113Ls67xOYSa0IMdNCfQRBw9v/VBRSxuDQ0m0NdW3TajhMAAhaUjlIoIwoZBj48JBjXvNZDGnxg7D+ARebCgRtYf8YjOyjOLgbG9ZCYF3YbwPI2jSaGFWpbSm3YE26t259AhVP8xhMO+yv0+Xry9CpsuidbUQvgAAA
+missing_data:
+  alt_text: true
 ---
 
 Some people say lions sleep 22 out of every 24 hours. It's true we often see them lying in the grass, sometimes yawning. But it doesn't mean they sleep when we're not there.  "Lions lying sleeping in the shade on a hot day are […] conserving energy during the least energetically efficient time of the day. […] If the energy costs involved in an activity aren’t outweighed by its potential benefits, they simply won’t do it."  Clever. 

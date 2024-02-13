@@ -102,6 +102,8 @@ colors:
   darkMuted: 59 78 88
   lightMuted: 171 187 204
 lqip: data:image/webp;base64,UklGRn4BAABXRUJQVlA4IHIBAAAwDgCdASpkAEMAP3Gkx1i0rCgvLrj8MpAuCU2ycACoJadW6haTrEE5XO3p7xwNALk0a48OR71oo7zL8pxoEhPqj3WKrUMqsa5N7sVIpqMcI4FXb9hPE5+D80u15ZnWnkJv9gBmrMehEHX2d0zo7mf1n3jRAi14eGj74ADn4y30WpuEll7UmTOIRcJW6KqwOQXAiQnCKhwq/fiGvfPNbPeq++N8XL/+x0g7z5qCp2+l5eYQtrMbiARC55DpD3oBvBPCOP3xfSu0yoh2y50I6jw4Yw2Gmqa7wpb5fsnR2VpOW3vSK0nWADPEfL/r2Bhq+6edROe9dIn3yyimpYfoCo2p3Cn0bVUGIV8jjZw8Ue4deJGQmnwlviJTjW2/1xWCv+5bgjEOrFKPi1AiQmGOdmY8aS6URqENt5xZV/kwHws4wyt1OY11U27+1dj7V7McF/TZInejm80C7EQw+rRv1NVJVc0xooUN1ANK31lg2cgEAAAA
+missing_data:
+  alt_text: true
 ---
 
 This is Reitdiephaven, in Groningen, in the north of The Netherlands.

@@ -83,6 +83,8 @@ colors:
   darkMuted: 86 79 55
   lightMuted: 164 164 172
 lqip: data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAAAQCgCdASpkAEMAP3Gyy2A0rj+vJnScA/AuCUAaKI9AsydM8wcNPk+BQp/CJ/0u2mjVyjm+B8IDcczpqcoEZSaqckzVpfKEnl8kviGlCGCuNn8sJZP26CJ8oAD+sYw6RlghH7OY+2b1yaVOker12DWdvJ44FtASZVasSaZ33/wJB4XuXOTMN1nGyv0jUg8x2VjUYaDh70Kysa1le3nWKNjAeiczkc2gJuZ9PFiGH9gFR6aQme0sM9YYRAK0krDMHx52IOBv7rtf4+8H1q3EoHADGrEqyftZiwNWPNUiURDPn/6/RSHFw1LRQ7cZ+a2dc0s9Yd177MBJPupw5H7KQCPyKOZ4cHUvl9QISHg+4S4aZKrg3JZZ0oGoExlJFb936Mqwed5AAAA=
+missing_data:
+  alt_text: true
 ---
 
 This high and mid-mountain species, which descends at its lowest around 800 meters in Uganda and Kenya, is well adapted to degraded, agricultural and even urban environments. At the base, it lives in the edges and clearings of the mountain forest.

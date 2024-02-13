@@ -66,6 +66,8 @@ colors:
   darkMuted: 71 64 56
   lightMuted: 196 204 203
 lqip: data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAACQDgCdASpkAEMAP22iyFi0rDsqMzSa22AtiWcGcA1mcSQ7h6nUyOctF3jC25OpA4ynKl9G6WY6/VfjjaIPG8D0eV/URX1DLD2+CEITqmT55xJKLXindBwyaiRs1D8OOm+i053HxNRD+ZEPrPFuaOgI81NY9y/QySISBDFWwAD+6rQk5+olo+S7DMu7sTmlkXmoHz71WL6ozlJJHYJl8xXzAN1q7ZtZaJP/ohyvGGwkG/qoSru5m0lPF3RcN+HUcwWPiraj1vmdTWy7ZuOI5i9/CElny1kl/NxIr5w/E50JIYqlw+zPMhuLoUVblwqsQUhg8QlRq8f7NsMwDv2HKNo7JyGgEpgwbTtBP/XdR1ZexnhTIPbRoOpd0owx3u1z18UGvslfEV3zxF2pP8/Cj1NDRRdIZNibFulN+ZOkmqJwrXmJZbnVFpIhi/4iFFgAAAA=
+missing_data:
+  alt_text: true
 ---
 
 The Big Buddha (Tian Tan Buddha) is a large bronze statue of Buddha, completed in 1993, and located at Ngong Ping, Lantau Island, in Hong Kong. The statue is sited near Po Lin Monastery and symbolises the harmonious relationship between man and nature, people and faith. It is a major centre of Buddhism in Hong Kong, and is also a tourist attraction.

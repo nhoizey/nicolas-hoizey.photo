@@ -83,6 +83,8 @@ colors:
   darkMuted: 116 95 69
   lightMuted: 202 183 172
 lqip: data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAwBwCdASpkAEMAP3G2y1+/r7MnKTZoo/AuCWUIkCbcSNH////kZJYwwnBEtxNoTLnuYjyv6+O0J3M3ygmNywPqdAAA/ZFdvl9D3c2PbqLV45TR+K7hpPgP4gYpIZvjxbViztUQVQm/RO8TxONBrhYM/CHsqKYxQomlL/l84HKhJGfaIS0WVc/9noShMQsjDavhqyee7iquEy3bcSBNaLvvptZAVrjsoMqsjLiXfYwaW4h9BqcTAAAA
+missing_data:
+  alt_text: true
 ---
 
 The lakes in Amboseli National Park are seasonal and mainly located in the Western part of the park and usually fill up during the rainy season.

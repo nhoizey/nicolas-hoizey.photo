@@ -114,6 +114,8 @@ colors:
   darkMuted: 73 57 51
   lightMuted: 122 118 174
 lqip: data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBwCdASpkACMAP3GkxFm0ticjrzgLosAuCWcAzjg2sDOzqdC7t9z8VvEwlzSLNqB/nBu6lfpUgQyDN78B2dDV+COAAP7s1SJtN+DS+uvjx664WXFKiu0f8Xb+IRTS7PAbN9VSDfWTaMHdvM3LLd3rVfZsYgwIMtrfCsAv8MG4XKoORk+c+4PylilWMZ0D8DAcZNZLsH7NnHKvp653q8NOWT0SU6cSjF/UCi/fsY0MgHeLCqf1lsAA
+missing_data:
+  alt_text: true
 ---
 
 The view from the Brooklyn Heights Promenade after sunset is amazing, I couldn't resist making a long exposure panorama of Lower Manhattan, the Brooklyn Bridge and the Manhattan Bridge. You can also see the Statue of Liberty in the left side, and the colorful top of the Empire State Building.

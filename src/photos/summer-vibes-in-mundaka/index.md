@@ -95,6 +95,8 @@ colors:
   darkMuted: 56 88 85
   lightMuted: 173 188 207
 lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAACQDACdASpkAEMAP3Gqyl07rKkzKvVb03AuCWNtf1vyDbhSpEZD1RUVhILcT2c++q/tB1mOuWxqgu71XNi8P/RabUXb++eManYuVHWU/j/OZJRFZzRPqjekGoL43j5MvBaotcuJ/xLmS+MeomWAAP6MOz3wvefCjvuQ9IC2b0El3TlpAeZvOAVPKFJqvYwnyYIX3tX0d73diJPm+JI1+bpQTuovDPzW0fVEChXwipGcdxLhaPpw/jbCRcOIMg2+/+8HU+jq0CL4CGIMrG6r1zKUbXTAHMQJL0XV70P9kZa0Xs7NPlJltb88JhLWXmYmHx6gaf0rYNhYlTPcEntkEQGZpIjkJgSNrPJgVW3xBSK1fO1ygnX3uh9hnzaGKecLXwKt+kCfyF9XC9qroHUheEmqhBm5RxOZEwCztmQunAUQ3Se4xu7comiTQCn4coAYPc5AZ6+R3gAAAA==
+missing_data:
+  alt_text: true
 ---
 
 This picturesque seafaring village, known worldwide for its left wave that attracts many surfers every year, is located on the left bank of the estuary of the Mundaka ria, in the middle of the Urdaibai Biosphere Reserve, a natural area formed by large marshes and 12 km of large sandbanks that serve as a refuge for thousands of migratory birds.

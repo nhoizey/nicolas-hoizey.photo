@@ -77,6 +77,8 @@ colors:
   darkMuted: 76 60 52
   lightMuted: 212 200 183
 lqip: data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAAAQDQCdASpkAEMAP3GmyFi0v6kqMlc5m/AuCUAZbQgnoD+cErrTlLjKIsCDFovKELoUEFkV7Naqc2ogqOAm31rmncEkDVzOUXF/LXj53sN0mc3Y4oC9MgbM459I6HZ4AKnk/sFsAsXyEfuajv/qFSdcAAD+7lTPDzFPFSpXlXwwVZZQucHAaIwcFU9sS01iymZTpgWzGVoWzkr+Kg0U4laQ2qeMY2mraecnL9EJALlxhSwefN2KYlg2RGnSZyCkCsEvqGlAROykChlLKvFTwEVleDkrEdC9VY9mx60JF1R+53oPclfzpqfMFK7cQ9SU3tRw9ymPrFvJdS6h+xEeQKgZxVBPOb6bmAscrs+OYstEYkv7pBLb+sfaydQdVKUZA9NJImC2l0uGgGTaoQF6WqaS5BnGRRLoPMOVzI5Vy3s1/4SkwpPBwAAA
+missing_data:
+  alt_text: true
 ---
 
 A masterpiece of the Early and High Middle Ages, Svetitskhoveli is recognized by UNESCO as a World Heritage Site.

@@ -72,6 +72,8 @@ colors:
   darkMuted: 81 92 47
   lightMuted: 197 181 165
 lqip: data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAACwDACdASpkAEMAP3Gsylu0rjKxK/YropAuCWQAzJdSnA667sW0Tl7y5i/hT+wCiwm00ygoFb7kaELWaRZuMZUNzMY9EbLEBSWl3ry3MYkrvkUsVk/f6CbfzQbgg/yY8ixhm8zxqHSBnFiHhImPwAD+6X+sdS4wmkkiPqDrDplbPqqM2BoLnZtZxdS6ai/OhRW9ZxoQAiH4G8lwz9Ylqw2Hwp9mwSOgonFGH1o339q0VxlvJcm5RimrtkgLOE6ebR1xwEBqIsJo2ImGHvB3uNgeoNW8ggDLzUDOyGNYwoga6QiUZtuDzNjrhxbJcwmvGNTdcQ+RnchTn9XoOZjMmuHKwn41IWImKQihmc0EFu+sEcYPTwLGh3xmgICZZPwhOVwJEiVzMNsKk42fNOafHCvGYYaMK7AXHC+zhSdRa1VC1HtQN+OBPA7F+0+a/tYG2jmjLlY//BCQ/8CXDcQxDrYV3sSSc6AA
+missing_data:
+  alt_text: true
 ---
 
 The reproduction by cross-pollination of many species depends on wild bees. With them, the survival of certain species of animals is also threatened (such as certain birds, butterflies, bumblebees...).

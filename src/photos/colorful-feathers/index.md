@@ -1,6 +1,8 @@
 ---
 title: Colorful feathers
 file: colorful-feathers.jpg
+alt_text: Close-up of colorful parrot feathers, showcasing vibrant yellow, red,
+  and blue hues.
 date: 2008-05-11 14:43:53 +01:00
 dates:
   iso: 2008-05-11

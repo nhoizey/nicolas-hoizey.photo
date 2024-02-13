@@ -1,6 +1,7 @@
 ---
 title: Colourful window in Burano
 file: colourful-window-in-burano.jpg
+alt_text: A green window shutter on a vibrant red wall with a small plant box underneath.
 date: 2008-04-26 16:55:21 +01:00
 dates:
   iso: 2008-04-26
@@ -77,6 +78,8 @@ colors:
   darkMuted: 44 76 76
   lightMuted: 215 213 216
 lqip: data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAABQCQCdASpkAEsAP3Gsylq/riilr5loA/AuCUAZ1gJtZjLWewTyao8tww4AdVZt+GIKKLeAjiiKtiNE1fdLIOjg2l0RLDdyw0hasw6qrlNPvidsAAD+Dm1X/1a0iEH/i7aLomkHTqrc1mdeQgaJRh20i83MFuBeQdwu6lrJ6kBaF/nduSjk4pMOJ5/Qxtg8FaFgzrbPMl5ShR9pKEC4iJ7CcsLMsZeCLhbQPOggIQ7bpqnPM+hCKwZRnQ/nj/CKJde7SucbZb7MBbdj614mPYQAF0izYrxETQJDvn3YIbzcO8gjGINj5/pqFVLwULpkQAA=
+missing_data:
+  lens: true
 ---
 
 This is one of the many lovely windows of Burano, one of the famous islands of the Venice Lagoon, in Italy. It is said that owners of these houses have to paint them from time to time to keep them perfect for tourists!

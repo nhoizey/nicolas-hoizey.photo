@@ -84,6 +84,8 @@ colors:
   darkMuted: 96 74 56
   lightMuted: 194 182 172
 lqip: data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAACQDACdASpkAEMAP22ev1i0tK6jszSeQpAtiUAY9WpnEBcAkCK5TReNo75wD5ohkq1KsfLxYyBMt61o1+PuExBpjQ/bKkmCd+qPRbiuYwiNZ2Wn1J+yDzE8oG5jE6pLHzsSBv/nxcSfPBiyBoJwAPm3iNhtaQAxsttk/zL6vGE0rqbgyCQ2tey23rQJri4fFpbQW0kUE3qcGxggmV/MAjb4adwSB0iH5kUOFyDf3Z6KrWBxmpQp+t+wH/0PCppYV++VQJwsRhoUeBFCf/N1yUXWbRLqEGLhsXcJZMN+DfQjUSV3K+8dDVys6bQIHx2T0Ym1u4prl3/bHOITpZxgIftFRN996SAiI7zz4pRFyxqzBwy8ElsBse+tX/9jbvqUJx2BPo/e8RD+QZMEUR85AQ5+tW1AM3TLfHXIImNqgWcIlDqueTUOWrZlxm5vM8DNs2vHocKU5khs3DsTXVgWWS5UeJSplyw6tuGwbvSSvfeyqHvGrlGAAA==
+missing_data:
+  alt_text: true
 ---
 
 Lahérez is a magnificent place, in the heart of the equally magnificent Landes de Ploumanac'h, near Perros-Guirec, in the Côtes d'Armor, in Brittany.

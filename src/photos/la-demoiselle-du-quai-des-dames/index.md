@@ -77,6 +77,8 @@ colors:
   darkMuted: 42 74 39
   lightMuted: 161 167 189
 lqip: data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAADwCQCdASpkAEMAP3Gkx1w0v7GsL5LcA/AuCWMAyVLbeYuHLFdQG90+R9gQTRpi0RGwey5kFn3m2MGLDVdPtSd+XnOAaTSsTuJFXvSq+rJkQIMvN4rXO1AAAIW1fImsGqjH6Yau+A6FecIFzFD7L9em/RRkyno8Z7uNTgDI/etRDxUg35U3v9AmDr+5J9UXb+yvmGvXCij6mDLiZu8J2wQXsM34u58UnQBs1mBvH5vdX5ZWxMB65FghXPNvXs2tys6EaX/2OJLKyYniKvZGDT7E5zZWw3ekwS+7uI7abc1IEe1xR9gxF+YCWo76QwCBpB0/J5ur5Lc3UyDoJRKcFHx/jgeX1w1Oe2GMUmRFpOFSkkLxfZwZSPLgg6ARbys3vAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 A pretty lady all dressed in blue, quiet enough for me to photograph her with my Fujifilm X-T2 and its 56mm f/1.2 (until I get a real macro lens!), during an outing with friends of the Photo Club of Draveil.

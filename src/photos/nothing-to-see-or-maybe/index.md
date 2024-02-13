@@ -84,6 +84,8 @@ colors:
   darkMuted: 82 78 49
   lightMuted: 172 186 197
 lqip: data:image/webp;base64,UklGRiYBAABXRUJQVlA4IBoBAABwCgCdASpkAEMAP3GmxVm/v6iqr5abG/AuCWUAzU3gfD8LBoYh7bE6nO4UebKqEXydlzgba002OqGVsDQ3reQHFI35iKVhIXnen0ysfLB4bfS6VF8H4cW94vrKAAD+5rCZwKA7ynOr9gmVw2kAjXU44jfk/NW+VPlWdbuwVkMH1K4VQrnFFCwZa7PNmQMFrqDHOV0ox77pF9aNvBhP+TEh088Rg77UxfuV/3xNW3i0FHrsn3mICzYoNFYZCoi9ClkhOlW4ZZTV1Q0CCSTLNqvQpOtisWG3rilfKlBAssixUg29+MD5HnOkr3FOcXUoktzURlnx3jww4225txbu6Om14vFXNPp8wUh+TvkRCl19TIs8wSoTeIAAAAA=
+missing_data:
+  alt_text: true
 ---
 
 As we drove slowly through the large empty spaces of the Maasai Mara National Reserve, I was fortunate enough to perceive a spot of slightly different color in a small group of bushes.

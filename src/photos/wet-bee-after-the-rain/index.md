@@ -63,6 +63,8 @@ colors:
   darkMuted: 74 49 82
   lightMuted: 179 149 201
 lqip: data:image/webp;base64,UklGRuYBAABXRUJQVlA4INoBAACQEQCdASpkAEMAP12UvViyqiYqNRm9+lAriWQAxjisESHUG+jCf4Hbsh6FekV7idsL4HevPbnt9px66Ez/ugZrUUaAcbtS101toIB08mCPLAvQwK7pQ9J0YP1GMr9AVn01MtEywZhRQTMmD4uZb8IARORI6SUoT3V3WQpeWDl2PA7MeDVOs+pwgk3qpw0Ek6aZ1ILcwAD+uWhzk6K8VQeUtfczwA7vTNgTYpBeD2JPHVQ34gjmsNTK4VrumhKtjikpwHilLxxulKHdOhPLI58Qq+7tpBWiF1h6/rZrRnwCK/HwLEA2jmJrww+fPqcAD0KqjGxn+8uyuk1wM0lWR9JzYCVMPCNNdgz8dZad/5jJMoIha5cqH8o3O/0Ly+z+sUwQV3k10+Ef7tEqSQ/PMy3xg2z/ninpZ6/oAJ1pwVbVfDNvArloVam4b1gsq0wBe7owThAEv/Aq3tGCT5a5eHyMDpSn2BOyGIdPZGD5htztfZ2i+TAOmeFRGSISlQ8hrlxp0N8q/UUNJ4iKqZyecDxuyz8/eCZ8+mlpmdB3TzDRp0Ad+tkS+1nVYq1nUC8PUKJ/SnOy5rxKdYv5BhVGynquWjRuyAUlDBiQ22z8Hf2DrJqmnxhQEtqAAAA=
+missing_data:
+  alt_text: true
 ---
 
 This bee is covered by water after the rain, waiting to get dry on a flower.

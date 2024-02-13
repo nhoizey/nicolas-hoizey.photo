@@ -66,6 +66,8 @@ colors:
   darkMuted: 88 65 54
   lightMuted: 188 151 128
 lqip: data:image/webp;base64,UklGRpIBAABXRUJQVlA4IIYBAADQDgCdASpkAEMAP3GmyFm0rLIjrrQMopAuCUAZ9KVthOn97n6jMymGYa4+KG3A0Thu84LczYG8kEszPlaN+GTKg98D0MJGU9Q258IGVooGy6Xx8nJPOFAKSk6gvyO0zs7vkWYXS4/XF58LQ5u6Gf2mcEMhnaNn9BO+uThPr7cAAP7o/g+xUrRd6UURSp3FNWTMrSBq5FHMtSJI0Iy8KKA2iyC2Ia7MtqfCC6oU8/A7mdmwgCpGcBtYm9vzbq7PpDsJ/SmhavEbOYFYuO6O7W47sucvofemkez1mTYy6LyHQgJg/FYlbU/I+Z3VZ1waEZMYF0uNaWN8fu6eUAaWKegxQPSDrxXf73SaNpS0GZY51a2ckUO9wuKb3dAyQbJBxNu9QZCX/5k1zCL4Jgu3utd1ybVJFlHG/vMAGyrpC2gvhK+Ox8/vY3iAVUIzIVRdWvZ6VbyPtetKTW1Wry/AVI65PTfZYrV05NmLl5fk1HnkIpJ/AU7BTe6yoQZdJygQNwCBy0gAAAA=
+missing_data:
+  alt_text: true
 ---
 
 On the steep slopes between the Narikala fortress and the old town of Tbilisi, the Betlemi Street Stairs offer superb views of the city below, and the stunning Mother of Georgia statue nearby.

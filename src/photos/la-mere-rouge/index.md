@@ -1,6 +1,8 @@
 ---
 title: La mère rouge
 file: la-mere-rouge.jpg
+alt_text: Woman wearing a red jacket, standing at the bow of a boat, looking out
+  over the calm blue sea.
 date: 2004-05-14 08:20:55 +01:00
 dates:
   iso: 2004-05-14
@@ -71,6 +73,8 @@ colors:
   darkMuted: 51 72 104
   lightMuted: 180 184 204
 lqip: data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAwCwCdASpkAEoAP3GuyFu0rrIkKTTeEpAuCWMA0FRbJU2WJDEOC9hOfi4FmX1Jzt4kUS2c1k1NsSIx7vHxWCbUvOUf6s6crhwCA8yP94aDfwQGZnbALa4lLxTSd3fCkzCtPAD+3y7/Ne0zfM3lZrBkDOv3RL1cnhjK2An9elQbdble0peweMqGDmAmIRkcOTwEWtnxg0czwja1nJ3tEJvNMwxiXCnK3DKM1+r7kMLQy/D8hzrD0IYeFifVgEOO2LtHK0rdOa0Qboa0iXr633/PZ9UXqd+on+ypxt/hKdAX/dpsX9z9rLGbCXee0kyxZaHlYb7SDf3Yl6kYr/KUryP5lCC4g/NA4s5k6Om0tgYR8iKerIAAAA==
+missing_data:
+  lens: true
 ---
 
 This photo title is a play on words in French, where « mère » ("mother") and « mer » ("sea") are homophones.

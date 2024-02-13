@@ -99,6 +99,8 @@ colors:
   darkMuted: 52 80 74
   lightMuted: 200 178 188
 lqip: data:image/webp;base64,UklGRqoBAABXRUJQVlA4IJ4BAACQDgCdASpkAEMAP2GevliyrKYjttR8ylAsCWMqvFTYVrQSSeMQWYcc1vECJf3b4KVToZtkCyiDspkg6DJBrFN8QQLRqJTRemlR9JlUArwHyqwajEOyotG9O7asfLCMuN8Ntb2WJ2Y1+14H2DH1ur9Fj1moIVu0maYtkLe5AAD8fxHf2JMHugJmmhPg8Vq+vPNF44nEI0iGiPG5tnksIJDGFPUd8sXP0XQVollk8oCVHqBOu5B1+CL1xHnoVLb7s/pa3jdrKGNeLH+3SCb+qN8pIy29rVHr8jw2wTyKvjTikKny43EZyBV/k4HNPoS9lv16MNp0KZeXGgismKMizdhxrfCWExuzJL13vL3tUYm9i1cVyN9cUvVAKz/HjZB6r3K6HNFpnTnRIQYSFTHXbOFKj712aciBsYZpfAf4IEq1K+Nf0SCxTNHyPI0jc5wtdMBqztO2HRW0fEuZXscG3NhlrbbWAVTddukqNfwHizpCchenXBc6vEF2E5arFhnKRCRkdzPu07SpaU/JzH9R/PMRPeT8OI6wxu3XqqwyAAA=
+missing_data:
+  alt_text: true
 ---
 
 The mantled guereza (Colobus guereza), also known simply as the guereza, the eastern black-and-white colobus, or the Abyssinian black-and-white colobus, is a black-and-white colobus, a type of Old World monkey. It is native to much of west central and east Africa.

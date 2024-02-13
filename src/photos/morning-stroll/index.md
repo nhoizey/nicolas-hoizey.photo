@@ -89,6 +89,8 @@ colors:
   darkMuted: 86 65 56
   lightMuted: 196 172 180
 lqip: data:image/webp;base64,UklGRoYBAABXRUJQVlA4IHoBAAAwDQCdASpkAEMAP22kxVi0rLmlMzPbazAtiWNqfVpLbQFKfq7vAzOlvyZInJkTylazgS1/MoLCTMleppLB5z1QirBhGY43oJ6sV0XIB07g1qKe6E6rpRWnGAdsIEbo6hLkqF9jXgiPTnvetvGxqnPdqwwA/uYf5czquhLbyytce6IR0RW4F7pzpQel0MdBOrCAfiMK3889pajMiCpQSitA0fDmqF3QXzuh2+wyHzcQhP2lLBrAgJ7B6kGda+eNr30Le+a9zfBBkBMf8hhnGUhOopexNcy+9s5MaVM0fJo0Xkf8GTDWpFaMJiXbDe8sW4YPc8rXq6oLpUUWlCUsdbN93dF1FbpVP40lOityQ6Cd7Wyi17Gy167OvTB4N4T4p5Hffj/0pCbm4h67JQm0sg1YlLWnOv718j7uVdLx2ZIRe66SSMbnOw7UUjgvlN2KeIJF0GOv24u2V55BQbZKFK0Ql6kFx9XJAOD3DRle6PIgOkox9MJ14iwp0AA=
+missing_data:
+  alt_text: true
 ---
 
 "Baby" elephant with one of his parents, wandering in the rising sun, in Amboseli National Park, Kenya.

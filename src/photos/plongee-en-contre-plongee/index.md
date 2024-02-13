@@ -52,6 +52,8 @@ colors:
   darkMuted: 4 52 149
   lightMuted: 13 119 140
 lqip: data:image/webp;base64,UklGRvYBAABXRUJQVlA4IOoBAACwDwCdASpkAJUAP3GoxFq0v7CwrVnrg/AuCWIAy9ii5v9MPElB0zF+xy13BUZUiwEoEWpMyQ/fnsCc2hXyiYpCSyBMcsimULxKOnePL9TM98JPdHEZmaSr5kC5DTkthqQtaWc90bcfavw+7eABq1oUWjjPqLe+9pA/8ChlQNmD+D/cbNsZMAD+vGvk0+uXNzPVq7lYd9fsekf9pW+9vczAfluW9zxTo6pQn8iuZ6o9x9B21IUvM12JibCngz5kYPL8buj2CXmK1TXYkzdSK2YBhusIhAqsqlyjBOo5F0TJhSzhN4nwSP6vuRCyJo8Td0y77+FdxwY9Vok7+Ly+Qd/3wKiH8v3Rs7uOjpjXcTYEBAyPkZAwNJaKrvcnqpMGX3xhlbZFnmMMq9y4BJpuDxv8lUN6Tc93iZPIKPhBRjCsG/tmwj172cynW7eb0JE7RofQEwDKj/5V8eaekhN9Dpyj7J01sPvnvaiseqcFTx0015BR1RF1NFURyoVhbHT6rHR3pbvgPeh8y8l7b4IxgEEugwEGc+yXIyX+V4Lh0h6I00/yWS6eUHubkAi7Ki4r9Z8ozo1uREch8tsGr7ZS5RKYZv1hVzPQYs4VeIVof5GOFAu2z8IP6XmKKsrmDk7HBp7Ad7w89wGMAAAA
+missing_data:
+  lens: true
 ---
 
 This photo title is a play on words in French, where « plongée » means "dive" and « contre-plongée » means "low-angle shot".

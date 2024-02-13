@@ -85,6 +85,8 @@ colors:
   darkMuted: 101 53 65
   lightMuted: 142 85 11
 lqip: data:image/webp;base64,UklGRpoBAABXRUJQVlA4II4BAADwDACdASpkAEMAP22kxVi0rKijrrn9CpAtiWgAzXy6CcLF/4AW/uH9hbmklLVFroQPo2WqSU/k/yFyZqHHlc6qU+CVCfiHPG+ERea7xVrKewrQR5UdWaJEaFLjV6NntyZBMnV/FOi9BJ4dOQVMMSKAAP7wNNvn64Ggy5IVOBuygK9Gt3cp8RI71copNfdqFvA0JL4LQpGyqicS8yDCdy/lggJYJMCLGhP3Th7saYEVP4TyvAvk3a2gHu3nrCuiZhb7dpkdZRDxhIUSIxtKGyiZXkQSIlHR+uXP0wJwtrNWB4VmAu4diqu7m2WLgpV5CL9epJmYtpN/0ysNNmntJZgZGS7Pn62OISkHqg3e5y84Ee0tW7qHvRB/ucMB7RD1pkE4ZqDrkqygFFiJdo77CviIxiijcpmy8dKdIQ3P/BvXajRIqCW7Llqry85v33t6BuPLOCsQYSPWrmBWQk/ub/SSV27LSc+/VQRCzUV0r7hn8TLTfylDIbSS9sWs3fzPiSz7j6otkZfZhEhixAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 For Belgian Pride 2017, the city of Brussels was draped in rainbows for 15 days, with beautiful illuminations on iconic buildings in the city, including the famous Grand-Place.

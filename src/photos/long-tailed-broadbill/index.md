@@ -83,6 +83,8 @@ colors:
   darkMuted: 51 77 88
   lightMuted: 208 189 175
 lqip: data:image/webp;base64,UklGRn4BAABXRUJQVlA4IHIBAAAQDgCdASpkAEMAP2mew1izv7AlNBdLE/AtCUAZ1mnvHa8gDx3lLKkSrxhoELRcB5erQmojZ9nsG3IPzjPtBUM/mxiq6+l5+GjlxUW/eroal8DHezKwhg/gbzGoejj2fSLLGxg0RQ/1O4+kjbjK2Ptq0iZN/4Dlq9YAAP7ZNmXkijzO5ZdJJUMzdBHdehIjfJWZzcC8a/dU7SXvrhxy+CcomrUjkrOm4Wo5lhKwrfANCkZIp2nE/sm2W2W2kOcuCMvtUvjb8hyy6iyOu1l4mizJeYepeCOPU8IlBNu6wIUKmLH3nuHCqVjtN5p3rx7ssnCLuMAS2ftgRG/INgnRXosA3UgAWuXVV8NCd1ux1M/mqbHV1dmBZ4GazhiktgFnDLd52pjjmU2CFMJUzYq5mLTAxHS14Jers9U1W1IESWHtvnb38xmo7/1Lc20haM/Ju8RWnp8YZgtaSatU6nwoSt4tNnKHDMVQTUNK/bVJrt3neAAA
+missing_data:
+  alt_text: true
 ---
 
 The long-tailed broadbill (Psarisomus dalhousiae) is a species of bird that is found in the Himalayas, extending east through Northeastern India to Southeast Asia.

@@ -70,6 +70,8 @@ colors:
   darkMuted: 29 21 24
   lightMuted: 119 48 34
 lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAACQDQCdASpkAEMAP3GmyVs0rLKkKFjt0pAuCUAZ1rwc18iQlvwAuujQgLCcKNAWkHbJW+0ZZ6hgnO6oZ3AyCF8xbCD4wPKtWxPmCesl8vrmlsg16Fatro1qztvE33xhDa/YFBpULVxZviCgxPJmPFwWN+FhygAA/SEbFbY5p/O/AcBHGJej1InUQKDrRhGJHqkZ55f6pG8hQfps+IUQBx9ZJfVeRekW8Zm+EruhtLxkvbVKCY/tdbRUNEiKSrePBawkbK7PtIvQvgJQwu6bNXvCgb+O4Z1ZKVVO5FBGW54kgQgdGJcfZHukmg4lwBpcbUndyY+SdBwXn+EaRgRMaGy84NYrNxtulCTZ16uTJGU7egF5QOhyNrt+pmN+0xjW7ZlT7EBhkJNBXZebokabIJ1z9TLiY5T3/8/RXsXpvE3H6NEnY1SDHr/MZUpX2irWAMAgnzXLGEkcAAAA
+missing_data:
+  alt_text: true
 ---
 
 Photo taken during the 34th Elite International Track and Field Meeting in Montgeron-Essonne, France, Sunday, May 13, 2018

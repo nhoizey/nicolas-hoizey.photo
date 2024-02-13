@@ -1,6 +1,7 @@
 ---
 title: Larva of Tenthredo Marginella
 file: larva-of-tenthredo-marginella.jpg
+alt_text: A dark blue larva with orange spots on a green plant stem.
 date: 2008-10-12 13:44:30 +01:00
 dates:
   iso: 2008-10-12
@@ -52,6 +53,8 @@ colors:
   darkMuted: 47 56 80
   lightMuted: 183 205 166
 lqip: data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAABwCwCdASpkAGQAP3Gy0l+0uasnKJTpWzAuCWMAz6Ad6tnOf5I6mvaFZJZKlCB9vEK4N7wmzGTqAEKQQNKqlBz/ZIRDLVW2uIg1t9ivFxkJwBaDtmfO0pntsShqukn45gRRuI4AAP7PAboPiQnJveWbOIQUwHcQp1zOVFObZr9xAHFsOxdIj6NayDdCyrH4Sqy6gXMH5YZhhZiGESOe7a4kYXvw7yPzveO8RIFpcFrW9Z8kT+PS9YfnEttbLSsQftCTH8dVLV/yVe+70nw3Rc8Awz/lATqBw0RR3VqsuH0wxqTwbaIRY0BEsQ/s+AqQ2dbWlCZFreQFud4ZaiJjlJqHVw3XNqyOtiYDW30BNJ13RNpxCAmHVbg5GAmZc5dg3VwAAA==
+missing_data:
+  lens: true
 ---
 
 This is not a caterpillar, but a larva of Tenthredo Marginella, which will become a wasp-like flying insect after molting.

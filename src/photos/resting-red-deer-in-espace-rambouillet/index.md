@@ -89,6 +89,8 @@ colors:
   darkMuted: 49 59 84
   lightMuted: 184 165 143
 lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAACwDACdASpkAEMAP2meyVizq6mjtRWaqnAtCWUAzyhjYil7DrIJ2PZJJtRWIBDNTbw5uYsD+W3pZC3ubysiBgJbBDsXJoeiC1zrdAzyHW0wSaNJzWT01En4hppBb/I2JUDntx70de8rs582dy/RCAD+6NVTfBIFPgdYlKC4x38Axb//q4V262ip6KYmKrJphNB7Ogi3bPygTrG2N32ejDEUmlHl7QmM/vL7aZp8osPP717sydVU1yazUzPlfdPk+cG929x659A2uWxHk8Gqy1SUczVSxkpkIf8I5WYX7Phy5sa/OGVYSkCasrizPK56gFxd6AessVs6uLxJoaVAZBwbTN5YXZZI2CI1UhTre6ZrwdzgGbFxV+7oh5DAsKm8RE8Hehklat4Nx5K9puOEXgsc0hhfQno2gqWgHLuKcNKLLnLmoLuAktlabT+DgyoGoFcM3OTspgKsK7AzDrMKAAAA
+missing_data:
+  alt_text: true
 ---
 
 The red deer (Cervus elaphus) is one of the largest deer species. Although at one time red deer were rare in parts of Europe, they were never close to extinction. Reintroduction and conservation efforts have resulted in an increase of red deer populations, while other areas, such as North Africa, have continued to show a population decline.

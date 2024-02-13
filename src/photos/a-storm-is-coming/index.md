@@ -83,6 +83,8 @@ colors:
   darkMuted: 83 84 44
   lightMuted: 205 190 154
 lqip: data:image/webp;base64,UklGRsABAABXRUJQVlA4ILQBAACQDgCdASpkAEMAP2Gcvliyq6YjttR8ylAsCUWwAUPlbcZiDEDKrXybAUtxMEUOQPvNVunkWzIUcrOVJBh8doS6MVAKN2umNgiOhqCvOXLpvFnfQQ+fc8M61A+MFcN4ofe4wwhWsAhN3GN9hUCZsl94QEl0YkJFb0DI0twrAAD+5v408HhpCKWyCLcRiL8DRMBdCvc3NiFE99IgHa2tIQS4KIhFDBJUIO+3sHILuHIMYJruDteG0BF+f3G9o7vi8qiVbfIZa2eZj1ynx/vYplamBjqmpUKMwqJc8K6Lio2F6llNvrkLkD0thyCzxahybrCHftAUBif+tFzYUooNwNhM4VN0z3c70RDYjmHdFuXdMj0oqF770byWMW4f0q2gSXeOpuWrx2gMCkgwrQJmX5not1759JOfYDf2Nmf7DvNULzrrHn54R1OKFJ2JirZ/MI0LxhO9gd4yum9LrgwZi5LC0I3/M38TChnW6AvDunjbsHnDQtuFhSulXJPGyQ/VvrnRY3O3npzhRFwTVJun/rxH18HjqdOc9XINeNtdv1w+8MuDKla46Vd0OvGY8gGsEpSxGAAA
+missing_data:
+  alt_text: true
 ---
 
 Elephants may be very large animals, but they seem just as small and fragile as others when bad weather arrives with low, threatening clouds...

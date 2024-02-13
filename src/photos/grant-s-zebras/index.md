@@ -92,6 +92,8 @@ colors:
   darkMuted: 95 80 50
   lightMuted: 152 180 203
 lqip: data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAwCgCdASpkAEMAP2Wew1i/tKeqNBl7E/AsiUAZmgQuZmUnljojAvY1uPGmA+xfbLtlJFjaAr/ttyNUR+kKcnzrnq1ddy3Ctn1LtMcD7C1zSRRkGtEDjVPBeQAA/tGGOFHVm7VNaf9feUNe/ak7co/OAS0LLHDj0K6Tzrs11uTO3gTi1YY3vnM54S1rB3urjvD1tjM1Y7liDOw9bpL3akuDpJvtu6OsfQHNoSi3YRoOuVIyfwvg9odR5PWalw+JbVIuCKaXFZysxF9sTPaqvZDAYEGux5LGM0I5hCPAVGBroHmN47QkVgTLtprKiAtWocPkS3+gjIoAnlEq8vNG6/E/7hmHi2MtRq1GWR5hBmIx4A0RJAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 More Grant’s zebras are in the wild than any other species or subspecies of zebras. Unlike Grevy and mountain zebras, they are not endangered.

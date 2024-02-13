@@ -70,6 +70,8 @@ colors:
   darkMuted: 86 68 49
   lightMuted: 131 184 179
 lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAACQDgCdASpkAEMAP2mix1izrKivMHnLSnAtCU2Iiy8EqwUsx7ttDRh+Nm03H6gwal2WVY37ZTFS8vlPGqPlPNHgrTCmnLKhSeUozAmL5hL/04Zf4NIZxrnRThKc7RuR+e2YScdwAAPlFSYESMn2dJlu94QZHPnjVUtEXiBvIADwNV+2NDIy3MBAkq1gB1GNbaF/pfvVjnv4BT/hMNfhbj+QQf13MPe4IA2Xe5oahCMdaFu81Okln5LSUs84JmHe95kndDhqWd+DR1NecjawkN0TYwSSRlATZoP0+AhxYcS/jqzsO2G/sz8D+8sG3RPdlOhyHmZFqMFjwYAsivfpxWqnJwkOOS7xuMtyjVmSG+sxG6PIs4DMdZwEHFSaq8VzUS+9OCSn6e/uh5YRaNAHGZYLzIkE6DRTxUU7d90EzeXVGSiqbaBP9lRuLW1T6CKnZgrQYU29xd2Q1JbKr88vMu3kSyRl3XtPIsjAg98g2TLG+m+d3MCWVIPsk6Xw8H6pj17grdeZRE41Q7I8EU1Ek7sKtw6vIcDRBw2qL3jGq5RPQPXL0W3579+ow6SWKrs2xoECdeyAjh5ROZCd+ulQ3iFOTp4Ru3DsRVDnG8AA
+missing_data:
+  alt_text: true
 ---
 
 Paradnaya Kaleidoscope is famous for its colorful stained glass staircase, but the whole 19th century old wooden house is worth a visit, with a great atmosphere.

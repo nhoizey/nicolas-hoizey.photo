@@ -1,6 +1,8 @@
 ---
 title: Welcome
 file: welcome.jpg
+alt_text: A "welcome" sign in the foreground with a blurry background showing a
+  group of people.
 date: 2009-10-10 16:02:13 +01:00
 dates:
   iso: 2009-10-10
@@ -76,4 +78,4 @@ colors:
 lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAACwDgCdASpkAEMAP22gv1i0v7+lNfK8W/AtiWcAz+ArzEZoWaWgbx0I2lX3908pvQhOLG5o/wipsoyNMoTrAib/jTZK6n0aeh/Ir7W2bLiWGbW8V3sSRZa3SOtTcTyN0+fuHm9upgHRo9OT+oBqBFQzD89zKhwx3jYN2LpWa+AAzPhYY/q20xfnjCscPs6l071VhhLfKGXqCtDoE9qqlQBBQIMRMRwITPkGLm9MUYf1c8xcO84P6gPdVXqUzc+7IdGzeXr0aB2D6CTi9MQZDTOV8CzjfqjdfDf5LrMuBymgCw5j4AeratTSHjxapfvGl0FQJjzD656lRW95gB8v98epxGA6nSfpMZHOa8DqYr7c0iY8KvX4xQY4T9bpfsQUp/+200/mTPsAPU4VzBBnuwPDimpv7s9Pk0LvY5yCs/Dm02PXatRr41b5pKaSUD+tECpl+qAA
 ---
 
-
+It's not much, but it adds to the feeling of being welcome, and that's nice.

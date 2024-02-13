@@ -86,6 +86,8 @@ colors:
   darkMuted: 79 86 58
   lightMuted: 177 159 155
 lqip: data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAQCQCdASpkAEMAP3Giw1m/rDAvrrn8M/AuCWdt6bAOEeQQEnVC0IyD1RL1zEYXke31ANlwJRTkSdGia1G5U4tg7EY5oMpHm2FIfqTcuwUJi6QA/uZOzj0EwKqPOqhhzR35wirnVXSufNU9GYy7Gv0yjSZLm8xNQZO5n5+tbQNupgfdRtTlbg8mNrX6RUS4tGPuFZnLFXQ1vvtClL5HjOT46RYt5RTPSDcyiTVeQpGLHH/aW1It3XFHM/zoNKGJdoP4VAsgZqx6g3VzEZsrAVgO9cSmcxH+UzZJSCMSgOiey9hveZnOwLMuJq3Wo7ySrNOuhKnLIAA=
+missing_data:
+  alt_text: true
 ---
 
 Female lions are the pride's primary hunters and leaders. They often work together to prey upon antelopes, zebras, wildebeest, and other large animals of the open grasslands. Many of these animals are faster than lions, so teamwork pays off.

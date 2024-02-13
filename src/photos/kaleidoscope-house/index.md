@@ -70,6 +70,8 @@ colors:
   darkMuted: 39 58 79
   lightMuted: 195 184 164
 lqip: data:image/webp;base64,UklGRuwBAABXRUJQVlA4IOABAABwEQCdASpkAEMAP3Gkx1q0q6ilrbZsYpAuCWQAzBSVr8ZhdPnJnX5k1I9RS5Xc+9BGo5Lz5nixK/AuEcVVOsAgvrtqH53uY8ASyJ/CfxatqX3ElvA9F4EKfz22Ze3qJNpI2mGS7XSUOxX9RNacvzvLl48c2BW89CMrfJJWlvbjWy2q+qSxK28/dDFY2CPWHQZdA2rQAP4mmcgOh3Q9KkCuQ04bWv2bHfq+pEgnZednxqc+T1m++smSrEgag2Y6QCnvwxBd8v2bn6MnI7oNbWNFj2YVoP0YY0AA4XkQ3HpgwGBMA3/MAp4gUDArX3X8gUCR0WL/1JFw/2EhS0xZbrIWK8e9iroNjOlYuySe0XwN4A/l5cUypQOU2Pa4onIGGh72wVE+Dju07s9YWwKdXINwGya3eZvRqFJUdciaVMJ9KoZUTG5uRoivbj2P/7LxK69mJ3VXV+AbIOcysfPOyXg6m8qegpCLZQ7eiDo71lBezPXeyQN+H0vzDC35e/Y/jdoRoMTYw2Abrz6jxvKQ8UnPUsonV5+LC1R79/1jE+h3mywi/rMovY9dXiG6rlB9/YFjQ5THfvd9JcMQ+3WYz4Wy2+1aqhsWoc8Uzt334dolmRfvxNWxE2iO+muW9598uAA=
+missing_data:
+  alt_text: true
 ---
 
 In its heyday, mosaic stained glass was a common architectural feature of Tbilisi. Sadly most examples have been lost to time – but there are a few buildings that still boast gorgeous rainbow windows.

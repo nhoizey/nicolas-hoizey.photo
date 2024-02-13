@@ -74,6 +74,8 @@ colors:
   darkMuted: 87 72 47
   lightMuted: 171 188 212
 lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAACwDgCdASpkAEMAP22ew1i0vzglNBUcS+AtiWVtXFsfbHEjpRA3l1d/Qvbzv5Ehs9WxJvSazWSejHkBTAmXK6hPQ2u2bH87Kr7Ug1M+ijtbCn9EXjAhkacfDsL9kl7bxEOm4Gupn56sjlG+DWOGhBJRkxM6FLpPsAXr63PCXAAA/sP5OX2bQWK4BIiluwL9QDU/eLxL+bFRy2jFj+wlohhfUNYo1F2I3aW6mbY11dOrYiL/fdqpn/1l14rN3jd2CDDxd8Zm1jWJOcIU0T6wxLFiFW9miLqRMTm5Xted8j6WB6Z5B2sXEzLXfFAWglpHnyPSkV3/JhQ1uujMyYzhjTVMVuXskYdbPfzx2UIS0VyP2yoTxXh+fVqsjW33LH7HfAqwSFteduFc+sdETQ8fPGk1nynCP0DOVmUig+b3YUUrffohVsPDJPlFeiCNV0XTNNxJOoVw2hGMOE7ZLHp9Kv0flQj0b51tV0zJT8AAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Overlooking the long Loch Tummel, the Queen's View Scotland is one of the most famous panoramas in the area of Pitlochry (also known as Queen's view Pitlorchy). 

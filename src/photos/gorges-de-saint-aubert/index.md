@@ -89,6 +89,8 @@ colors:
   darkMuted: 93 114 57
   lightMuted: 166 174 117
 lqip: data:image/webp;base64,UklGRiICAABXRUJQVlA4IBYCAADQEQCdASpkAEoAP1GWwFiwvSejt7bPG6AqCUAZwBD/HvvfsG71B7NiDl+kAtH1Zl7xMEsDLw5aCpWUNOovi9gc+1zdoajVruDB3KciPYW/hWCWRoxc5SO6fVj85PIj888+G6CfRwPvJUvkmwQanr1MJ89NL8XGrvMR7p8v4t7IF/hvCSVkppviwrG37wmMOfgyxOmW39oAAP0QlbGA3Ad4wmknOEITZcsA8sU7R9vRrbSWMvFWbRWgA4aWnapp/Yi5uH44mwFEicbYb+RK/rDKCH/nGzWZfpXfdCZytZrWXYr5KDd1M0VJ0NmELtgBk8H+ExntxII8GPWf8MbzIurICA6EgAXX4mV7u9mOzLgqZXkznTkxNOevscxfEPV0JdWUKUPkCmeBXNEHoH4ItVqZFxn91patuXnxLpGPddf/YAEQyFT9HT0JBH30cLtjMm7Y8gRifzR84K8MbE2wgFpQ5dywzJJy9BO3pvFayWshHyIOOZQGi/C5zaZ1O2+mjt3ojkvILxh9pICzzUTXnab2i3kc8z7j+6W7bOi8CycLIcpJwQKPRAbmN3BImEvf/5rbXuupjNCuc/RwZ9DmI0SKiiVxlKVIOAHHCbKaVY20FRUzkzYckn5wh8I/ahB0/Uym9rjKkxfue+wCOdCPEMooMWmWKtCaVut50sJpQj3tjljoHC8v3JWlmyTqv0DbFp9mzKYcAAA=
+missing_data:
+  lens: true
 ---
 
 There are places so protected that they can only be discovered on foot. For lovers of uneven and steep paths, this exceptional site in « Suisse Normande », a tiny part of Normandy in the northern half of France, is only accessible on foot thanks to the hiking trail GR36.

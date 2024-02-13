@@ -63,6 +63,8 @@ colors:
   darkMuted: 44 68 76
   lightMuted: 169 178 201
 lqip: data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAABQCwCdASpkAJYAP3G41mI0sCwmJRdIipAuCWcAFtZCiazbUUqjNtPjWvnFvKe/n+OsY6zVJQTdqPcwRkvFIZlkuZxkOlWrvqTgky/x75SvNElOtpf6j9gRgDk14ZmYhVjavYAA/u7OQgBpbTvqZBYzV8ugPfeLhzw4mmtKDJdhrY6C3NE/WZhqK9qQ7tMvkTnvcOZB1KmwlDJmuI3X670f1aEB9FhP0DsEzlbzQ3OSrKJK1tTYB7mLmFcZIx0Fe1+szI9bZ63BMc50wgAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Photo session in studio organized by Virginie from the Photo Club of Draveil

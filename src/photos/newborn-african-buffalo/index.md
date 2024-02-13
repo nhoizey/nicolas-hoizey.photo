@@ -91,6 +91,8 @@ colors:
   darkMuted: 85 70 55
   lightMuted: 174 148 119
 lqip: data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAADQCQCdASpkAEMAP3Gqyls0rbKrK/dropAuCWdtKoAFXZW/GmNmF9K8fA7bAmcVx5Y/jAl9aAKdwBxg+lp/cG8j55C07LIOK0nUFrckgsc3VQnx+nob4wAA/pgmagxI0qilBexKP3d6c2VCWsuHN+1k0b/tVtqQNsk4wrW6wm/Z+GCIFJtzO+gYgE/XVK6WhTJ66ZWkqZ0hVG6v/rCUWFCrK2656wSRH0RrfBtqmev2yl6OW0P9g3o6jyHInTr00qmHHV2/7Dke+7cHnSLktootI40XK2h+0on2QuVcshjWPSa/v9AQtdqTD4LgnzfdOrRJ56AmR/ll06MEHpLreo94N5kKrcfAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Newborn calves remain hidden in vegetation for the first few weeks while being nursed occasionally by the mother before joining the main herd. Older calves are held in the centre of the herd for safety.

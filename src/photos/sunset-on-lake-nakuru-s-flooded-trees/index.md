@@ -87,6 +87,8 @@ colors:
   darkMuted: 47 68 84
   lightMuted: 122 148 169
 lqip: data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAABQCwCdASpkAEMAP22myFi0tiilMzMa2sAtiWNtf1s57fE27aQH6Qn/VeMRW3PO9wjfYPbUV1urEk7hMuingLTpJtEOjNdt8alJHjum+cykPSNWXI5WQr2hoyx5I3fpWMXkAAAA/uw7f8Me3Dj2yKJoPAq3tyZSEKMq7g7K4FxQeak0CTUwh6w5wSu56d16yj9ZkByEtAARy5L3YkNlSAnl21luV69TnSRWSscz/kzvfs1D19mWE4Wrghl7EVuZGIXAltLHCYJgyDyC5wqAfnJzDpn0+9GkYPjQEIHmMtJZHWhdfd/6PuYU5b/A43JMwfLiLhM1JaXPj7f4waLrO9tagBX9JLzfwxs7j/8Oq4QbU9v3m8hMEi2sJMBgPnm8R0MnoYG/FPMfnUExVaOtlOJaAAA=
+missing_data:
+  alt_text: true
 ---
 
 There are many lakes along the length of the African Rift Valley, which runs from the Red Sea in the north to Mozambique in the south. Kenya’s eastern Rift Valley has a string of eight lakes.

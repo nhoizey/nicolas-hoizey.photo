@@ -81,6 +81,8 @@ colors:
   darkMuted: 90 65 47
   lightMuted: 141 164 197
 lqip: data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAADQCwCdASpkAEMAP3Gsz120rSokqhLrApAuCWQAz1hsU21WAMFABeTAF4sVDHAI5SgZLCRGXTBZMFy4KgPV6D2Ahg+NZamc8OPjkO5fQe/4/3MspDUd7vrfx9tc8My6KwdjCSf5cDIAAP7Lt/Ou4kqL64EN/vsWKGeAhWXQ1wmdLRHj5p/DqB3DABX4NuxMDdoKjYHg7s1bpnlVtrBeTKsnSxAA8v5+zpj3158teePtORs9//Z14i28RaZt5SOef4AXmrjRPxJ17hVO1GjDmWMDkisTkW21iAfjzTpSX94ruHQG8+z3BS8ttjHRokzeNbFxRYUeSTznzOvjA04DDVYIbPhD4oKjn1dbpOlJIY+DQd3Y7M5DZkyAzNU5l+UuRV4nZGdSGG1SsvcnJgfiFMX58chmwAAA
+missing_data:
+  alt_text: true
 ---
 
 This vulture prefers to live in dry savannah, thornbush, arid plains, deserts with scattered trees in wadis, open mountain slopes. They are usually found in undisturbed open country with a scattering of trees and apparently prefer areas with minimal grass cover.

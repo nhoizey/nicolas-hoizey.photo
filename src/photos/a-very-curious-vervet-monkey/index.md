@@ -88,6 +88,8 @@ colors:
   darkMuted: 88 96 42
   lightMuted: 190 171 135
 lqip: data:image/webp;base64,UklGRloBAABXRUJQVlA4IE4BAADQCQCdASpkAEMAP1mQuli4MiY0tR3tUwArCWVtOVu9GPLz3FHm2wHmmMv5sBd67A4GkGS2HIcFS30C8IBlnqQ7DntsfJAmi21cUeaxYtdtevawosHth8AA/p/bitSJAxMeigjGvPZSix5qzJcjg4PdH8FVkPsnRKppaOA8euoH6TYqHMTgtO7Qf8uqn3Nvo6xX/eHZhDHl9zob1o7Dviso01OHsX+iEbByVuj1lt/nu4HHjcZ+X/cTaLwS1mZGV+zE0QybT17Zx6XvB3XMDx9AiztSDG2JrpRcZvfp6/fhKAEAlvaaoOTZrUlOTti9TDDPrWng7B/Cy2zyqy1VwB9eCtsptKvJAh9I3Y8MjL3w5zn1ifyXlSgbPW3sRUamG7z45p1POyT/ZLFrTEouuXzzzTJvlp6U9s/g38BrDzBlvfbBlgxHErey+E2tcQAA
+missing_data:
+  alt_text: true
 ---
 
 These primates are semi-terrestrial, which means that they can live on the ground as well as in the trees. During the night they climb a tree.  They communicate with a range of sounds, gestures and postures. Individuals make different sounds depending on the situation. They use at least five different alarm calls to communicate to other individuals in the group, telling them where the danger is coming from, or how big the predator is. They recognize the voices of other vervets in their group. 

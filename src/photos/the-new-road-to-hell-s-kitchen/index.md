@@ -84,6 +84,8 @@ colors:
   darkMuted: 54 66 93
   lightMuted: 189 179 166
 lqip: data:image/webp;base64,UklGRtIBAABXRUJQVlA4IMYBAACwEgCdASpkAEMAP3GoyVm0rT+lLNbcM/AuCUAaQBFQXD+fA2iarM2Fb3USoJfPD3yFvPBCZWk7X8Nb2pBb9JYhmR2XjkbhXJKx0E7AckqT2BxkW+qVcDOVpOrpcMFSiJeOmZZ3KPi9HjkuI65juxzSmf1p+f+DVMTQGiMUfTsvSWWuQ7FDRDPxEe4Z42GT/Z26yF4gzWAO53jnv4cIYAD+yL144nvAHwsMmw3tO9exHQoYQK4fyI1cPoWUWKcZz95fboezSAsNloXN5KUCKmwUnK2Q9/9ElvbqX1puy97XOWunoyhaiSxFvRNBNJ8CShGZjHLMLYm+TkcQ6ORx01yiFPCwOtfKfVP2X9ZAxQClf2eCd5YzGuwyeccp5M+hwKlbswkG9Pc+5glcORSIlhq44dCrZtEIKNrb4phPnsmDHF6LlgD78lSPD3gy5KWCEp5uwbHjjN26I6pFLYic/cTFS0A/R7SEm5HgQ6MLJOY7Jp/LmvuLTT3atNmrK8mRy9Hhk1JYLY2suP636+gI2yB64qBZCw3fL9F24z8x++fQdjJBMeEGygJTKnnUX2fAEMrCJCrOdNeMiwaYde2K+6YdMYPdAAAA
+missing_data:
+  alt_text: true
 ---
 
 Hell's Kitchen is a neighborhood in the Manhattan borough of New York City, bounded by 34th and 59th streets, 8th Avenue and the Hudson River.

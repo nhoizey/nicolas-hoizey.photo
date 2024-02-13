@@ -67,6 +67,8 @@ colors:
   darkMuted: 76 66 43
   lightMuted: 182 202 202
 lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAADQEQCdASpkAEMAP22kw1i0rLgjr5S+MwAtiWVsIVn9aDPumCc0h5I0FGpeSOVoeXn9iKog+xZyz8GaD94fstMLUIk/PfdtxbFOpMP3fZyFXntDy+7EagdaHCGrvvDW2aPF4g4jkFYpVdrUZhiW/9Vi77WltzYeTDn8HT+Q+wR5YyQ7KyBWHTmQVm9V+bCZErFHEuNo1LoAAP64x0rVaRFJVjoZjDH9wFsFYvh1aa1cHWWDS4GLFxSLSU/rHEu8wrRRMYqcm8NbJY6h6S59YOON62MrYJYracambIfl3jVew9eY6f0U7R/WQgOks7SnR30ZjZTd/E1oS2uQ/kmcfwv0iXK0zVzBKv6iiwk2MHg7k4kLHRzq1Jzgnt7+Imy45z/TN29LYA4jlyVI70B0z+2bOM0xjbq8PUPz/8L/AdiqB7inJABUUfChJch1iQ4IPwFvI5+JYGmaoglS2XNQxghHAWpZNZ3RiuqeQRwXrVTfKmvT0jaepSXE3QvMwFJQQGgcagJrbrzJTgHmAZZfNEkvigwuYFeK3RwrD8EQp8g1Jj/heC7QxtEJbgFS8zXQMymBFQeTZDSAAA==
+missing_data:
+  alt_text: true
 ---
 
 Mtatsminda ("Holy Mountain") is the highest point in Tbilisi so it’s naturally a great place for panoramic views. The large terrace in front of Restaurant Funicular is a giant balcony over the city and the ideal place for photos.

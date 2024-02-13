@@ -99,6 +99,8 @@ colors:
   darkMuted: 92 77 49
   lightMuted: 188 184 142
 lqip: data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAAAQCQCdASpkAEMAP3Gqy1w7t7MmLNkp63AuCWcA0FQvGRkEvUnvBDu1xgdV+bNwIcEa8Br5cVx/taBJ7o17Vuax+1tW2EzzUgVwz4/n4gB56AAA/u2YYXSvH/viikv9JVkDbwTvLFm2/cx+rXYrOjChkc0rwfIpP1u5GR6gjVf1QD1lHOmUDkO31PQwdWz800vl4UltSWdQ+w++Y6LmAy19WTWFXKXfpV4ZX5yIVUAJx2yXOtPCVJtmLltyMUons8KRnr5A9AEI7Ijl89i8Vk2nAAA=
+missing_data:
+  alt_text: true
 ---
 
 Yet another classic view of Lower Manhattan at night from the Hudson bank in Brooklyn.

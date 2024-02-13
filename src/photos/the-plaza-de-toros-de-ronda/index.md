@@ -1,6 +1,7 @@
 ---
 title: The Plaza de Toros de Ronda
 file: the-plaza-de-toros-de-ronda.jpg
+alt_text: A bullring with empty seating and sand-covered arena in the foreground.
 date: 2004-09-25 10:13:49 +01:00
 dates:
   iso: 2004-09-25
@@ -71,6 +72,8 @@ colors:
   darkMuted: 100 80 55
   lightMuted: 193 165 125
 lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAACwDgCdASpkAEoAP2miw1izrLAlMlZsQnAtCWMAzjtQ4Fb0v8eTHFz+w0pbLHtsjvdxLAGqnFLQ7D7eGTpKR/uKX6oPj7wfjl+LjJq2uV0/hd8H7OrBh/DbkMZZACiZMRAjb1ot68Acbvjs/itMh370m38MTAKZzgYFfhN+BoAA6HlBqNmOnG8Vt1xF4SKvMmOx0o9Z8HN1KlQIDWQvMLZgyoZLfLfEANNvcDvypjkbvPHrODU3zOtLqHTKS6eaKSjWNeqZFN5tUNRTB5rXTFJyCuB8drYR+Bio5Pt+8BhTbd8ci3V+l/VqohSS8cIPGe+1REXghILnsqrvNMNxW52LQfoUQD1uSEYVZ+3E1AWg0CPHCP7yAfdI2c/ZBuo8W33TVB6eKB2OhEb94CG88eYT3iVCxws2x1eNKl3EgmJw7wKq9CgmpjcIXodtQAnrS4O4CS8YAAA=
+missing_data:
+  lens: true
 ---
 
 The Plaza de Toros de Ronda is a Bullring in Ronda. There are two layers of seating, each with five raised rows and 136 pillars that make up 68 arches. The Royal Box has a sloping roof covered in Arabic tiles.

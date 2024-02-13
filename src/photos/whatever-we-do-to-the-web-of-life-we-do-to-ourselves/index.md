@@ -96,6 +96,8 @@ colors:
   darkMuted: 45 55 72
   lightMuted: 133 156 182
 lqip: data:image/webp;base64,UklGRgwBAABXRUJQVlA4IAABAACwCQCdASpkAEMAP3Gqxlw/v7EmLNScM/AuCWUDsB2ZAX9TZwCQZh8UmQJvDSEk1z9/1+Qc7FC3eCm83U2wwZq7/W9Jq3FMFf506otPcDtCiHCXv2MsAAD+0YlAuCooo+2ewbkTl6ANwN5kmmIDVycnShqMSwBAMoBPLXAt45mWcGVhPuZLA7cfk7nLsOPWlBOWWE6PDvmcF1Y+cwut9VAvu4rqZaw8XmiKd12OLyvfFOjaCe1gpoHoYQjXHpJZuSo21Fl5bwKoFzZiqzG9fxlny8K+W3OenqVmyR+2XFZUVoCObucEOe/XURrY4DPD2jO3qBXWH19zhc+zcfMalCgA
+missing_data:
+  alt_text: true
 ---
 
 Here is <a href="https://www.brainyquote.com/quotes/quotes/c/chiefseatt104989.html">the full quote from Chief Seattle</a>: "Humankind has not woven the web of life. We are but one thread within it. Whatever we do to the web, we do to ourselves. All things are bound together. All things connect."

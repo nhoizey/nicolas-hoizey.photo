@@ -72,6 +72,8 @@ colors:
   darkMuted: 102 71 53
   lightMuted: 179 200 219
 lqip: data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAACQDACdASpkAEMAP2mewVizrD+qNBdLs/AtCWMAyj9T2AQQKKNF9jKHBTOnBQ8MDg0hMHadcMCtpy7lbM8bM2f9LoNEyACLtHfsmPk/rx19qu6ylyOkTQeuax99Zklo0xf0DXfrOCmnPkVAT1dAAIRuJ3bUhNenfg3cmbsAFVFbUFbQt4UkHUVPZVZ4quljPiUX0DZb/jlwElL7iNEcBCf90AONc7FbnFBuutfCY+sFgWezR8P/O9aJEGhrvsTgYnjXb955WpVEWtkcmRDqo4Ar4GR8GZtjDY1PfKISBq4a8S3tfCggyu6K9NQ/Hnqf2tU0NOAB9R/12ggyM/7i2tAG3ax7suGHyBI4GC9IQuF06UkixTHGJPhsk+TkZpio+8aByF2n6Z0yejTELwsWqW7mRCtxZEVCBvQiziexOcD+1oPaJmRXw6wCBzomkumAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Possibly Africa’s most famous ethnic group, the Maasai people are semi-nomadic people located primarily in Kenya and Northern Tanzania.

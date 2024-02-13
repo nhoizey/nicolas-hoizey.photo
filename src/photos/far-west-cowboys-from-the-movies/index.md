@@ -90,6 +90,8 @@ colors:
   darkMuted: 72 61 46
   lightMuted: 199 175 142
 lqip: data:image/webp;base64,UklGRogBAABXRUJQVlA4IHwBAABwDgCdASpkAEoAP3Gky1k0rCmqLrQMMpAuCWMAzBwwdNT4Alv8LcnkQVFTPFUDNDN7Dux0AJhJAfRaaJlvseLJ/ENHtZnnFM7mpqYV0NAwBSII5Xt5tdqwDGd10yEVkrnyeNplLV5IX7YJKPPCoEogE8qyQjyJTex2zVgAAP7oF7I7HuD4WsBzVuDX2706gufV8Vs3PqryMge+xwEYYm+NscGIfUg2pmeC4O+CeLpSzKkfDIUhVYLSLKIUuj1pp/O2qsa54PcGnSC5ZqhMwvHWnRPP9N18VLpcPEBkKU0qHAzk265c5LweHQF+wdVyLIkswDCYnz/JkOtHhrxxOvcadua3SCh7bteamidcHM4yYKETf65YjWwtgs/T3A/yTHlKyKOy/d2L4jDRR2+O9PWteecGKR2Vh42RlUSPOOysNDrdiCCEQjgjZXwU8WH5ens7kaupk9jkCtGkVhQDXvKliJgxl5hbPfvG6TRxoc7KqUcBE3IVv3x/ZoAAAA==
+missing_data:
+  lens: true
 ---
 
 Located near Almeria in the south of Spain, Texas Hollywood is a cinema studio open to tourists, where stuntmen mimic famous Western movies as Sergio Leone ones. This is where "Once upon a time in the west", "The Good, the Bad and the Ugly", or more recent "Blueberry" were shot…

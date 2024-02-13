@@ -89,6 +89,8 @@ colors:
   darkMuted: 78 67 42
   lightMuted: 178 182 190
 lqip: data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAACwCwCdASpkADgAP1WauFixtCYjt/htsoAqiWdr2146bWHdchaYGsC9aI7knuQRTJosZfeKAhf/ejfyQ6ViJUzAH3io/qKxrnGuONUdibkfTFyQCKU+Ls2VFVdOVbZ1Tp+Gb2pmVAAA/uq8NmlrLazIXq2HVVKxD7EERbTsIGgsoKgqyg7SUnbg+/y8fm99NSdS9WamEFM99TCq2zsA20Ry6Vxx/S3UA2nMdPBR0b3wqc+SKJvHlNVWT66zRtDZRiHaG2UgAaM03pFtEmPngVtyLhqNObbVbpMd0ehB1e4iegqqhddtLdHaZAf90Bqw1BJIKSSl3F1Vqfxo2Sfce8YHv0ENKz5uzyupHvWJmwBwAAAA
+missing_data:
+  alt_text: true
 ---
 
 The Loch nan Uamh Viaduct is a railway viaduct that carries the West Highland Line. 

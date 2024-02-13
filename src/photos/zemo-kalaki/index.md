@@ -66,6 +66,8 @@ colors:
   darkMuted: 42 58 75
   lightMuted: 188 170 162
 lqip: data:image/webp;base64,UklGRroBAABXRUJQVlA4IK4BAADQEACdASpkAEMAP2WewlizPz+vNBaMS/AsiWMAyntSIoS3lHimYIrK5pQu8b8Rd6UTJpdAbxuKQGtJV+Yx2BoTWA3B1I28ndS8DokFs1cCe0irD5KI6JtSFQKw98rRZphLRInLnWR+hVn/4CtF4I+5f2zEUwUL94daBI+MGrCXD2xLs53s7nqdsPa9ITaYAADZxCOOs+EWwJR1kxnMMKsTkYM8jcvvK2YbM2E+VTzWdsq/3f5nffasP4gBFNv16eIaA9q0F4tmD6afF8aKWEkjoj5M+ab0G77QS7p7wOwTS8SUGQFQE6Q2KxFg5hciBqq2I9hQszM+jNfoUDP2X2TR1Cmzd6h7mF07cNd28f+ReAATgH/wXtes7CDULs/IwJivEoOMePu6Ir/2WznE9/XLnMQjGOhIvCWNeFGxwYq+aCOJ3d4qx5lk4U7xNw7m04nsunghRx8yMUGdDns174TEr+dkmnHM3kXM5jMm/+laNyHjeKTC9Aif1ClDQpM+clYhbKqhS179DfmjaagR5B0zu56dKGETc2XReqUthXgPAqfbd0Cf4gKxi4AAAAAA
+missing_data:
+  alt_text: true
 ---
 
 Sultanishani Street is a good example of an anonymous street in Zemo Kalaki, the former royal district of Tbilisi.

@@ -81,6 +81,8 @@ colors:
   darkMuted: 84 63 52
   lightMuted: 108 74 45
 lqip: data:image/webp;base64,UklGRp4BAABXRUJQVlA4IJIBAACwDgCdASpkAEMAP3GwyV+0rb+1pZVdy/AuCUVXiqiN7DpUZyE/zYjc8ebVzGtSjFS0V9B4mKofzmCdEaPmg+PlMrLtgGB2n6kTj59+SrP5y5OO34aWXLlh06Jh0eu90WkAU5c6OVIWsHs91hejYFvb8OY00Z447vkjtWFD2gAA/uw7uXy8dH22mL1SafFuZn0Q76+otsrK3Hw+Dhbyx3fNCyr+gpunLipbMcL61LVGwnIvOaKxYPONIDNT0bo6FuRMyNPx3qYYp1oVgXDQ7V0hMDonftJwTzGBgTr/6M/VZR6cIhnH/y4TqXDcYzD6xCFjADqfsam30F6KnzcYFEy8jAGrAhD4mxjFwq+q2IkQmP1NN+mhLnoqYa/uEh+7jBW8XCoQL3QxGSMXu5HLky1Is2s68QAyejZHjFSaiUCzWHJe2B/rc0ydJMlTL6N2txio9a4RE27lW84WrRbzy2uirQt0NNHds9I/hYwO0yDz48boGmNkplvYzKA+8w/4OUecOmWoCV6PyMh4nuHvHEAAAAA=
+missing_data:
+  alt_text: true
 ---
 
 The Superb Starling is a member of the starling family, formerly known as Spreo Superbus.

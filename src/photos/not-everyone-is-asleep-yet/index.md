@@ -65,6 +65,8 @@ colors:
   darkMuted: 50 76 105
   lightMuted: 142 95 11
 lqip: data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABQBgCdASpkAEMAP3GyzF87uamnJnbbs3AuCWcA1QQH9ahFVCtJBoUwL1AiTS9rZ/kgo2OtE7F1VyycAAD+7QKcDifRiA1AYwlKxjndru9UikpHHg0WiIBZfj6deKbQWobY1rXXsreyEHRSMgktK8b4pOBBSFgoOhF9pSY7p3tf12Z0m68Vu/cAAAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 When the night comes, everyone falls asleep, except for a few insomniacs, who watch over the city.

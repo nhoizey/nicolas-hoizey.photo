@@ -75,6 +75,8 @@ colors:
   darkMuted: 44 54 76
   lightMuted: 195 188 201
 lqip: data:image/webp;base64,UklGRloBAABXRUJQVlA4IE4BAACwDACdASpkAEMAP22my1i0rb0vMHnKW6AtiWMAy6RWgOR+XFRHpMwAv6QmaCBar5/KPiYrd3iGqMOp73ekm6Ni90jSm/7G7yCdSjOTTMv4596nOwo/MUPomutRnGZV1PMf7tSYNxuAAWyja2LGYAD+58r4qim91s++bZjkW8KlzNG1x1tcZ1/8aN8LhY5MHvsxMz1vikbMh5HCcirmh0ky0XSa0Z9lrpLPyhrdXhT6DsEkxV6lOudBUKeN+oyniq6g8KYLj/qas4ikHW6D48W82Z6gii2ZtSVeuc2CpOsBE6FZUvJaG8m+hEdwJ4R+M+Hav24NL89FgY+6gDHe+GMB8aLuMIXcWlGYTjRRjnTjAJuaKfJ1kgpuecMHJONaYqZGYmGhIAZh9aRuP0Nok159jNZpGcubAJJ7H0F7RFa4t7kwN+ex4JVI4rtLwAAA
+missing_data:
+  alt_text: true
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

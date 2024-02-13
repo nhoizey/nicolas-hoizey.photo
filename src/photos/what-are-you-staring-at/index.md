@@ -91,6 +91,8 @@ colors:
   darkMuted: 79 73 56
   lightMuted: 157 162 176
 lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAABQDQCdASpkAEMAP2WgwFizLKalNfYK6mAsiWUA02cMtyFJj4+v0dO5eAZTsxVdoDPdW9LuQQR4+JrojoL1viXaJLXnqow7y7bgymq17C8K+2tlW7m2boiNUFLX3nIK2pIguGecasOUJuHpG4qvEuXUQ16AAP7NiwXVyTkOG4CXIhEFBatb6Oku1wy3kDrKO7z6DqRsD4ibid5enZ9X5/azMpUXXGFiAzyU+8M7PFdN6FovCTLGkcNAZGiGJ8uyFkdbUsGzZ2FpCLx2gMo6RlYwQoTd+Az8VHgRWpuZA3cSUZPI7WCGJ3wHQ829An7k2vxEZuju5XkRmFiEi/VCNV/rm2ee+Kw0Z8ls6schviyWOXXyfaJesR3dhx9Et2HjL578ur6zmCeCWprZm1f657tDwFHWjKv8gjcyL9kooOg/bV4V6hSJgMHgYLT1QbvrDb0fQdsAAAA=
+missing_data:
+  alt_text: true
 ---
 
 The African buffalo is not an ancestor of domestic cattle and is only distantly related to other larger bovines. Its unpredictable temperament means that the African buffalo has never been domesticated, unlike its Asian counterpart, the water buffalo. African buffaloes have few predators aside from lions and large crocodiles.

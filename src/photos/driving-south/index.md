@@ -78,6 +78,8 @@ colors:
   darkMuted: 68 68 68
   lightMuted: 191 191 191
 lqip: data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAABQCQCdASpkAEMAP22iwFi0rKelMVobApAtiWltxQBPZK2DFGRGBvX/ytaBv9ZKwDSTXxsuyzdsKUWQNYm2QscI64/8iOSgwGOmnNPXz3GAl3bgAAD+6vPgE6QBW8p4UtwrveWHg4mLT9K7HEFK4I52geUrysR47kPwROruUlJI6nR1U1VREaq3UjPvrL/k96CrGXFtypXsltrjuAAE89MVVntL2+RThnnOISqehBk4LBPh6wzdpxk1KzduhUi+JVg8JTAgJbVWtLBwjCHOmEAUTVvY6FwAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Shot in Manhattan, New-York City. This is the Flatiron Building on the left side. Driving south on the Fifth Avenue.

@@ -81,6 +81,8 @@ colors:
   darkMuted: 93 83 57
   lightMuted: 209 192 182
 lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAADQDACdASpkAEMAP2mgxFizrCejsVhsenAtCWoAynBpSdL5wbNVNnPpLZZL+e7mWtUUBFXHYSzXDJmkjLMAammyS8oAg4Sz0oPCDTVs/lyTbOTk14BJvwW2dxvJjDWyhalUzLgC5w6k4CuOpfZ6QQAA/tom/i7Yifep/oV1l5PzqIn9DOMaB53trG/Y7XoYoTH9NVTjmHj0VjVL2UeNgabf09t9Ou0zjjQ1TmEeWbcpOskIvLxXyPUmRjWQYBLmQbvmWQFBx3LntIA+ZXpUaOb9be4uT/4OK+1qrgVotrwIBqj++5DV0Hc0fR9FxDeJXYKm/KBh3b/AhH+nbhMa4NPnqdM5vQHIEBHl0x9DmFFsr7sEboss3ycyDBNh066biBaqXdaUgRNzbUzMSushsiVyALrZUwAEA+QzsUY9qfM7QtVMdDmk9sWHDbMzVKfMA/6DQefROIBToTif1CEs/H2IFLKIOIbAAiqf0PvWwMSnb5KABEbt5di16ZNzVxa2cMTI59JxxiC2YPw6hE8vv5RUnKQwKJ+ZlXfCOJ2LMgg0AAAA
+missing_data:
+  alt_text: true
 ---
 
 This vulture prefers to live in dry savannah, thornbush, arid plains, deserts with scattered trees in wadis, open mountain slopes. They are usually found in undisturbed open country with a scattering of trees and apparently prefer areas with minimal grass cover.

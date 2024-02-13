@@ -94,6 +94,8 @@ colors:
   darkMuted: 84 62 48
   lightMuted: 204 180 172
 lqip: data:image/webp;base64,UklGRuQBAABXRUJQVlA4INgBAADwEwCdASpkAEMAP12ew1iyrKgjtRQ9+lAriWMAzNAwnMXN0VLWcqxF9jFDi3Anzg9x5vdKVdaGHnImW4NdQEHBLus0KLwr+bTUSH9L/vkXqV4/NHfatxFnrB3wnkSsggUfi3DxS2pKSu5+jTswTNhZkeopWvEYK5xOSifebDCVSMoywU2vymZX5RtvwDW7JSWFubZHsTg11y6vw/mS295JUC/GM5eRAgAA/dCkwrpE9nR7KRsn9UxRK1De18kUw3430i12fawrOQeJjWUP0XVYCepgoOud41NMXjDLhBlvVQxIzsK0oHU831c59RrhZltDC+NSxt5DcL1RcrcAkCgv9sub9LnT4u+f5Mvk6UpBtbu3NukIuG1agamz1mfYv8ZTIMFh0m7F6Gr5R1vSoYHN/WoirWEGZ2SaILiWuBrdZkGOdnTB807wJwA7JQfORWiGzz1umHzIZfdHhkYWh7h5I3BQ7AFOag8zGZ7xLDy3tQZ/w11aDCnN0koVHTms8dEaWJ80AzQebwjCHkgQ1RkQ0ooAKAqJ2lNjoWs1LyJzQjJreFU1zroLXDsbSoyKTEFFGmStjATBBBhe/bBH+wweWyOGwM7XGA0fkWVnJGHGqB79PGXgAAAA
+missing_data:
+  alt_text: true
 ---
 
 Olive baboons have a greenish-grey coat covering their bodies. Infants are born with a black natal coat that changes to the adult coloration as they age.

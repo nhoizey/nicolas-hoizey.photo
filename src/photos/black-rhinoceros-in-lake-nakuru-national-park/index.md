@@ -85,6 +85,8 @@ colors:
   darkMuted: 80 65 57
   lightMuted: 215 195 179
 lqip: data:image/webp;base64,UklGRpwBAABXRUJQVlA4IJABAACwDgCdASpkAEMAP2mcvlizqyYjtRTt+nAtCWcA1JLWNJngwKQW/vm4beMROEZpJvazX7uWzKEhzjM8rCsNTpKFQba5/1m3R6XmpUbSNqB3rynqEQpCqk3hMbf6xNZoYiZPOzqMFlHh68ll7utJ2u3eJWSp8+9Jv83ARfsKqAAAqPtPlmdk8uaa6zU7/YdQKqOFxTXctuegEPEvmt8U/qQ9HS4P9VAXK703nvxjwcjrngr+rie58jLpRfc29T22qkohodhwWwwzYqUK7Ww6DPqiM0tdr+84mpKithwZqukSlWq6OstUT6MRJcimP/ez2TUSnTW1tKABcbekNpmZFyqI/q0xVNfIMQJKDSiK9DoIGovzFKIgewQlkRPwn8iv0fjoz3Up9+CO9lQMChNDjAWvtQigVFWirw/d/29jh92lhhj5JYnXy08gLdtaH6ynqo9JRnEICs/qkymfuDg6D5cHEZOHaaLwRPjoAilMvnETeRVQX/lp3QFot7O3Kyc8P+lskYm/EgLfXoCDZPgLt8gA
+missing_data:
+  alt_text: true
 ---
 
 Lake Nakuru is well known in Kenya for its rhino population, and it has one hundred white and fifty black rhinos to be seen.

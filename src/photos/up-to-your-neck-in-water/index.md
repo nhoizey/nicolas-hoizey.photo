@@ -75,6 +75,8 @@ colors:
   darkMuted: 51 57 79
   lightMuted: 140 152 190
 lqip: data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAACwCgCdASpkAEMAP3GoyFi0v7IqMVhpg/AuCWcA0ftSSuNrdSDcnbDgN6iYeUQOg59wm15LyDgYwAfOavJ8R3CXqil3u3FVa7syV5Kz6Mm0J2h3COUt+yJf+1mHy9YAAP7otKy2mMNJzVyPdHYMbfu7xtuR/BtnH7a/fAF0cPnsZVoUy3Hsq35lCbnbt7eOGy/0UfAxmzU51leopsKr4B6da0vZc//M8iMegdSpEEHLRfL2NQ7OlYDhev8t9U0lCxpeh1I+1MtQCE6gZU4UaSZ9iomxDl82+IrVJY9BlrJcXqaGU8QB8CRFJsw2n/aoi3gdUNdaeaUZhELjwAA=
+missing_data:
+  alt_text: true
 ---
 
 This photo was taken under the bridge connecting Draveil to Juvisy, during the great flood of the Seine at the end of January 2018.

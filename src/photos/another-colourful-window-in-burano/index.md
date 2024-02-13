@@ -1,6 +1,7 @@
 ---
 title: Another colourful window in Burano
 file: another-colourful-window-in-burano.jpg
+alt_text: A blue window with red frame on a yellow wall.
 date: 2008-04-26 15:40:42 +01:00
 dates:
   iso: 2008-04-26
@@ -70,6 +71,8 @@ colors:
   darkMuted: 111 104 60
   lightMuted: 111 101 42
 lqip: data:image/webp;base64,UklGRugAAABXRUJQVlA4INwAAACQCQCdASpkAEsAP3Gwy1o0r6mlLrgJQpAuCWIAz9wmBY+bA8ye0extcCBQQ9Cq0xjSNnSE9SSahfgO2aD+gY8ND4zsO4BQ2dwAkNk5A1gg/bTC4YcAAPcEGvGllQ/1xc3IM4V/KK7C6F2nj2heLv8A4XjYU2FnonqXdbYM2XJGY0Q6FLmxwEmVVZdCFeqlSB9gfUjVqBmJYybaAKx8OjgEIFwI7BmftAA8D9KGa7dlAut2+r1rhhRDFt7+T62n7AmPuqVO95xx/CjdIgomQxHfJN3WtVmo8y1pqAAA
+missing_data:
+  lens: true
 ---
 
 This is one of the many lovely windows of Burano, one of the famous islands of the Venice Lagoon, in Italy. It is said that owners of these houses have to paint them from time to time to keep them perfect for tourists!

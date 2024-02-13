@@ -68,6 +68,8 @@ colors:
   darkMuted: 86 72 40
   lightMuted: 188 202 207
 lqip: data:image/webp;base64,UklGRrIBAABXRUJQVlA4IKYBAABwDwCdASpkAEMAP2mexlizvyg0tRTrU+AtCU2RWiAa0LQXcdirHaQ/J64zXXsqlhB2ixC+skWaCgIhACHJ57xNVWhNd1v2M68ZeWAHGkO1Vkaxxngx2IUKsKq3vZCnROVClWaLP9qTcG2gT9T3TaKiohyxS6AmeaYbzdOL4dInpCsptSAA/uOkUlIYmf1xF4X7xmGHWC657XhP7IOaMItIs1ggQ5jxCdH1O5/8oTtY4wZPweaE2jmVAbk7mfwePawLeGKYP7nFryUVlT7H7qdNszbFiWT0mWneckpyX70DkhV2qG5GYTgOhXqz0DFcQDKVcLSkPQCThKLJxJ4Ey9LSLJi+r981m5IZGFDi2FG7T/nnhvhxVGXtA1Ll3v9PCMO05AseUqC2hboGfK8fyUsV568X1eTm34Pc7UNXBpxWI77JKoU9UXJz3+xDhBrVQT7oC7fsJ/sWC0E4RcxXtuOJbw+5iX7WJQV/I9bWHgGEzMG1MkkdjeumzbTsWn2dmfZujV01zjXDO7AwIMCECAj5nNqw8ohYSOl55fKyyqJhbQDwIAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Unlike in urban areas where we cut trees to build roads, here roads turn around trees, this is much better!

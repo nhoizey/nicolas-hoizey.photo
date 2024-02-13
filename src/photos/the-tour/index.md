@@ -59,6 +59,8 @@ colors:
   darkMuted: 52 31 26
   lightMuted: 210 182 172
 lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAAAwDQCdASpkAEMAP3Gux1w0rrG4K/YrowAuCWYA0MRbCAmaXTOJ5qi82gyZ9VsLGGPrfcGEzKtzlj0HMtWHL336VAx8kVpJ1id5xSuqPVlK82IdxRmGjHndXGI1rDSYPZyHsubATss/foIeLEIgay3fCxAA/udpVDUXVcjuRQf9luagQhS6+NlqYvbjoWJa58AWuSsDBoQeFYyZW0qKZrUJ6xy8tWWB4eg8nVC5J3lP2fIDckgnjM8VIHypQtz0BT8oiKfhH46/J7MdLbY0jKLYKFU1zoEbeAqJJ/pqJlr4fiIre7q7raemSBuZXSiRsZVY/JhTpLbGUjBGwoAQ3Zzm3iDwM7gt/fio6RACAbqETxInHzsQ+m0XFx/Jl+MEd6KmF3KUF3Heb0lGsYZ3+7mME4B7putJhnzdtd0Ts9mcMgsX22KPAu6pbI3TSRBp4GYPhbdMoUkfKGd+jgCA3RBV+Yuvo2k+P3NGMEXCAAA=
+missing_data:
+  alt_text: true
 ---
 
 The yellow jersey is in a bit of trouble on this very hilly stage of the Tour de France, but the crowd of admirers came in large numbers to the sides of the road.

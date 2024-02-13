@@ -73,6 +73,8 @@ colors:
   darkMuted: 67 57 40
   lightMuted: 190 185 167
 lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAACQDQCdASpkAEMAP3Gqylo0rbw6rbd7M4AuCWUAz2dRq/7FkgrClw8IuLWDIHnv21hcRAU8pe4zSwu/66PdZww7aU/XFSHpFU4AZnOPDm1ndj0OPZ3EaxCrNYYuUHO+ea/Q62C3VocJCfNH538BHQ+lb+Vp8QAA/u9Xq+Ro0EB5Sz7rwqc2iS6aFzsdfdOzJuMztpieAEKLwuqbXFBz88v/RSgyNBNXeVzB+mwqBQ7g4oPx7LvAG8i+m8xnN5f6P7tku50hv8LwwWNDKp4h7ddJczikpICr8urvEd8LBgdjwAt+hcfh+PicUd162fnqQ/sSHXVZOthMLOA0nbXmp2RVV6t20nN4C3Re7azBzxxdF9YMddw8O5WPQnoshRh9dOt3JsXsQ2B4H2Z4DTsIfQh96H/okyqlx8IA29qVZtPRhr3S5n69iIhfb1al3qz8zbgZSpTHzg4AAAAA
+missing_data:
+  alt_text: true
 ---
 
 Compulsive hoarding, also known as hoarding disorder is a behavioral pattern characterized by excessive acquisition of and an inability or unwillingness to discard large quantities of objects that cover the living areas of the home and cause significant distress or impairment.

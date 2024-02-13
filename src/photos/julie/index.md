@@ -84,6 +84,8 @@ colors:
   darkMuted: 74 44 42
   lightMuted: 191 148 156
 lqip: data:image/webp;base64,UklGRvgBAABXRUJQVlA4IOwBAABQEwCdASpkAGQAP2mkxFizrTClMlgLCnAtCWQA0MCDhRgr65JKKct+5m3IIj9Ac+ynrdmy4j1ppj/v1ny3WJFr7f8guZNXJ6oJTb48enWxvZM8llfhzl063sFVtM0r1oQ6iUbt/q8NPS6G1N9Xh843MAq2R0j/7W6ZJlE0gifH5AcCmnR/dwbGmT+2koDcbRLB9tqdLj6XZ1Ko5ag1TOYl6TMAAPxTpmQsj/UTfhsHZYoB4fq8HxFukfK/hZyyFmdv0ybaabsflz92//UGvNfxah95kgiBSTkj+Ly9wSgWaS8zJMKSL1xSOZ7zjVzvuGwkFRuua1GIgP51vJzj+06uyvCuUBDQIlitEncLNM5H8BxtkW2JjclAtSl7ebY2335SPZwcQT44ozV621gFwSmF9ow2I8PFbHSxsFWu7VUatwE7yHDTgR19Cup4IdnIWOKqMRgelLM+DpYaL3mB0935r3NwBrvOj9b+2+oIwg0owlOnrUzOStjEDj48DmAUlqSNXn8I+jbOuyp0Ix1Jgf7SFkc/zZmEpB0KpyW5a6CGzp/YctxI9MyixQYZ6ZEahml06gCPirZMZg6XsujGZWhpsYUE7656toKn/wgZn9FLnU8tqj4e0MX21/c7iIL4Kkw0sOBgRSF/E/0kAAA=
+missing_data:
+  alt_text: true
 ---
 
 I'm trying my hand at fashion photography in the studio.

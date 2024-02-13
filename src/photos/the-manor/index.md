@@ -70,6 +70,8 @@ colors:
   darkMuted: 74 68 54
   lightMuted: 165 178 205
 lqip: data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAABwCwCdASpkAEMAP3Gu0Fw0rrUyKhdKqqAuCWUGe9VTdT21YLHtadU9mP6wtiCznvun1xv8lYJ+1ZpMRbHi9sXIwfTCPCp5nRAC0vPod0dEdYXMgTQqHSlMDXCvyJ5NMDiEKLHAAP7usyC9KfyPSQxeqcgFyFkuk2e9gqF32hfyh+BJoPgeicv0acvoBhb49cCOll4w1ZHH6jklR/KB00iEXdW31Fq4tQBchYyAjB5HH3BHh676a5wKPKuu3SZgH1Ux8TCG6mThUOnxk++lLCxAQU/yjB5Q/wpGH6XJKesyeiTjYMMg6EA7HCzPvqDngwQpKMZT1PZx+eVy3r/64cFprSLLlpbQZ65pzGpS+5HNkK/B+fs3rewzXxnQ6kBkrj/fdFYJBEzKq7Zq22XqAAAA
+missing_data:
+  alt_text: true
 ---
 
 Visiting the Mont-Saint-Michel, the Roman Theatre of Orange and Notre-Dame de Paris in less than 12 hours is a piece of cake! Just slip on your seven-league boots and whisk the kids off to France Miniature.

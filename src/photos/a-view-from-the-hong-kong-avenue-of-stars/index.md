@@ -83,6 +83,8 @@ colors:
   darkMuted: 38 40 67
   lightMuted: 185 172 203
 lqip: data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAADQBgCdASpkACQAP3Gow1s0v6grLzTbo/AuCWUGe9VTQ1VHCD0JzEE3sLEAunQGxCWS5WNFgLpRetIgE+nq6cgA/ux8AFATsy9Bv96yHOQt2JnO4aWY768rfvApY6zL8m8SG5GtVeugzWcpadbOVHQk/pxagJDTCvOp+i8cgX4R3UlH2tmbP8+IWIkv78DMcQ0OOCDPCd9OFCyLWCUoAAAA
+missing_data:
+  alt_text: true
 ---
 
 This is Hong Kong Island as seen at night from the <a href="http://www.avenueofstars.com.hk/eng/home.asp">Avenue Of Stars</a>.

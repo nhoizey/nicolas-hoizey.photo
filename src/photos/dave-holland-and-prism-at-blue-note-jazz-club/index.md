@@ -95,6 +95,8 @@ colors:
   darkMuted: 4 4 4
   lightMuted: 145 8 94
 lqip: data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAADQCwCdASpkAEMAP3Gszl40rTStqTTa4pAuCWwAzUDDUrlACqpHEx53bOhXlTHj1Pk1M1kOnKNmrJIqWOQIJa7tmOmkokU5cDi/tAOZpseIFZfCDJR+yw1WIIG4TDuly9yR2FkTkTQAAP7xCIIBLkrjJncHa6ss28Oem9uP/b5P2Lhl1KfHIbY8iNENcSIFlxWpjJOfiRr6YYJ6akm6vgzRqHXrvW/91MKYTCrMAzXv28a6RszF3GVJSTs4cKFNBs9uJaWlV8vLr5WEGaoG9rQtBmoiCJ3j3odGj/gBh1gtQXzxmPrs16eSmW8W3iMGFVKywurZRxvy0RP1Mq+80N6ZAnoFxgjOD+lZeYAdQ8kthzQSSD8aZ98utZKJXoorybnjONnXhTe7Y2DGDA/0txGzmdpPsDtebfM3cur+gOe9B5FdGG+y5U8QUCrFW/KhvP7mb3qKbidT+tOG7yOvzuyDAPDGqQtMwOzNch8yvUuco8UxN8oAAA==
+missing_data:
+  alt_text: true
 ---
 
 Blue Note Jazz Club is a jazz club and restaurant located at 131 West 3rd Street in Greenwich Village, New York City. It is still considered one of the world’s most famous jazz venues and one of the best known and most expensive in New York.

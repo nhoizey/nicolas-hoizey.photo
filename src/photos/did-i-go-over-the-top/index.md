@@ -91,6 +91,8 @@ colors:
   darkMuted: 72 71 56
   lightMuted: 192 187 164
 lqip: data:image/webp;base64,UklGRtYBAABXRUJQVlA4IMoBAACQDACdASpkAEMAP3GiyV20qqgkrrENCpAuCUAZ7VqQkZ8TosObqYNB9LZBloGa2Q8DepGqEXmL31GbOdzHE7ZBj8hJwUiABNZkNmX0LHEEQ53+/rFOAm1zGfKjSJvOnfmg5O6ypVgc/YW+M7/AAPpZTGwjEUdeHB0PcbD99LC3SKelipJ1wyZ2YuEes/IR/zjSSGEr4pH/HGzfjloxdw7rxB829/OpAc365Ruaq5TqY/ECkqcn+DkusghDYQYn1NgY4LwPMvQEKJEGoywV3xszqG4Wf9qGVwLM56v/ZpXW5q70S02P598jcJe6AODf7uLKENPjf5WoH8ax99ql2Sy3jyZzYen46CIbkfkuB4I5nEbNlASatUTKwOjncGLTYbZCjYgBfyvBCFtISRTWC60Hos9w69m/9dYG1eIomJ8mo/l9wCpvN+2Ee3fxb7BO883EeGkGae54iKdZOu99kmLxAHTWZlxnwGblgvjQodm7SEgnH2ymKDddcdG/UYh60WZcZY+J4Pe1uo87NZKRlYJqJ+Ir1ybxq6VssqtLqtEd9vsLiSk50YhNhDJJ8PVa59/gUJd7CJv4lWxAJTc/9i70fGL8JFEiJgAAAA==
+missing_data:
+  alt_text: true
 ---
 
 The Indian peacock has iridescent blue and green plumage. The peacock "tail", known as a "train", consists not of tail quill feathers, but highly elongated upper tail coverts. These feathers are marked with eyespots, best seen when a peacock fans his tail.

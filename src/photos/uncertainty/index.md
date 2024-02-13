@@ -68,6 +68,8 @@ colors:
   darkMuted: 94 62 49
   lightMuted: 152 164 188
 lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAABwDACdASpkAEMAP3Gqxlm/rj+vq/xMW/AuCUDPU5XIrwkBDCzh7f4Dpg2WnzacKeaLJL2j9FBQ04++5eV3IWvi6I7uYJF9aCuvb/FnWGSkQon+OnuEophNdkdAHUFwiOrURXbP5LhNXK7xVAAA/ufBYvkR0SFyDypWI0wFcdyx/xxdLDiv+hScAXUeMXUGYoANfpPtb/TLRVWx0u3/6ymOrcT4t0Vu8/c80ERpMEgSwRlyAowL3xT5zF75jN8md3UWgriVm8tkHmV7yPR2svvpdFsZEo6s3Eou0LXnomfdeKhDGNrN+jJvqbFRdH2Vmi2141GJIqX2jPCfCBIuPkOHsiZICAjDnxrP/m0Wmlsnm/+IshBRrdqzJ9feqlEkNi/t1QoaD3RiSQH/8pf4l5o7NcUHttl4cfYPkpCIU5BApgy5Rn9J2ZnR7Yt3GbMr4+PyfWmL0czp21JjCkVgAAAA
+missing_data:
+  alt_text: true
 ---
 
 Super aperitif / shooting improvised by Thanh and Pierre with some others during my brief passage in Lyon.

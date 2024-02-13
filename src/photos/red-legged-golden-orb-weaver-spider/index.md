@@ -93,6 +93,8 @@ colors:
   darkMuted: 74 76 44
   lightMuted: 195 185 167
 lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAADQCwCdASpkAEMAP3Ggxlk/v7EvszMcA/AuCWUGcAzqnfQcHH38crfQbGWGnk4B4eQPjBehiez8cP+zv4jkcBvYYjM9xvVNz8BHqwRVLYRANoqZQH5mi85PkaFU2XYIECODINrOanQAANzfQQaowKN7gbk8juEz9DQt68FsnmbeGRQ5qdBxpbY94iSkNsvaiuHorrtuQAkId9B4zU/TAc+4LfGF8uMKSbuUzro2Y5k/19JdcgNyCv8xhiVcHeMNg/EnfHggRgc987yiQSnMZufi82TbtAaR0qfx+RwcSfda9t8Et4RWtMTjXkqp2C82mcojmTdYKsynhCQvsjjv6R1gB2kSRdo68ctDXVibKPs9AIE+3TooIlvLTVK2dR1308O8pEdeeLMNBAEehTyno9arLpL0oys6hsZCGYHXkxZUI6oAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Like other spiders in the subfamily Nephilinae, the red-legged golden orb-weaver spider can weave webs so strong that sometimes even birds and bats get caught.

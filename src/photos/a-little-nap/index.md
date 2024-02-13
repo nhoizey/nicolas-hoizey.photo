@@ -1,6 +1,8 @@
 ---
 title: A little nap
 file: a-little-nap.jpg
+alt_text: Massai village with a traditional mud hut with a thatched roof, and a
+  dog lying on the ground in the foreground.
 date: 2019-02-26 10:31:41 +01:00
 dates:
   iso: 2019-02-26
@@ -78,4 +80,4 @@ colors:
 lqip: data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAABwDACdASpkAEMAP2GauFiyq6YlNfitElAsCWNtOVtv89hEm/se16XdDvrpWG9YPb1qnvA/TqeoHaVMssgGQyI4FGTI0L8MdiRp2augCiMAUlhr83PSQGiifiDK6sAGCAxMXLKrZTslBwDDFpgA7kjXR24meADZ0VshuN4Dmf9kFh0MrjXgvk+Hnul5FUNL0OXxZ5N5kYbgkZhXlg5j4glyZpjci3rEsVersHPhaUfSfXoOR56ng1Sp17Uz7LzuGZK2qCN6EKfoa0X6vW6BhBh8s6NHyE0ZnJ1fIC0DzBRearXt93fUjb/gPQkECvq9mM8jR8rYXbwrgongCGYdtcI8W4q8evH/yheG+lg//+1qhk7KpJyoIpZsa6Ywij5wpHXRTMlmwOj5D1HQEXIlsrCFWlziUmwxaOtaoRle8nhGydAZ2hmISO67NFWkaB2XiNYv7akmjoLVlpNhuf6FUN6aVzomgAAA
 ---
 
-
+The sweltering midday heat doesn't spare the animals.

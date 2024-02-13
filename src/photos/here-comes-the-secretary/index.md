@@ -78,6 +78,8 @@ colors:
   darkMuted: 66 64 38
   lightMuted: 191 169 160
 lqip: data:image/webp;base64,UklGRoABAABXRUJQVlA4IHQBAACQDACdASpkAEMAP3Gmy140q7MmqTM9GpAuCWNq5l1L7fCAUJY5yZNPQ3NF9Bo/2X1xP9gK00C7mkCqkO4ohoUwjlesI183sAP8Ooh50uBl+5GsaOLKOOHnbW7jMqdnlv2fC8SA+f2rvbvO0SoWAP653PQ+MGbEqJk7GbIOrkwHip3YKkITV3hKtHi1VxIeVa4R+Cz9RDP0wa846x4i5hdWZREEsFLj9GF39vdxD73RUd0rW5Sexm6uXybFFL3f+DgTP8BjkEv/WJtAcgoN0vKIPXS0/ZPz4ZixMPLUHG/SB2C62K+HC69DbBD0d6nq9Js+Sd+8lEj0cRm3vVV9Q3C/ahJD9wlWZm4ysAGQufJbHYwdrYk7Atjc08mNVECcXK1E6N0CJc3yUAUuVxVExFbZqY2jaeb7/T5Nh7urMPmDCa1zNAbGalFpM7q+NfuMQ2CzHQ7atexR/iI1HW9MU2TmSEX6lytcTn04vqfDLwggmEjwAAA=
+missing_data:
+  alt_text: true
 ---
 
 The secretary bird is a very large, mostly terrestrial bird of prey, endemic to Africa.

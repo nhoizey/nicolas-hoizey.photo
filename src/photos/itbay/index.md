@@ -1,6 +1,7 @@
 ---
 title: Itbāy
 file: itbay.jpg
+alt_text: Desert landscape with sandy ground and rocky hills under a hazy sky.
 date: 2004-05-14 16:44:58 +01:00
 dates:
   iso: 2004-05-14
@@ -73,6 +74,8 @@ colors:
   darkMuted: 130 89 60
   lightMuted: 204 188 172
 lqip: data:image/webp;base64,UklGRgABAABXRUJQVlA4IPQAAACwCgCdASpkAEoAP3GuyFo0uLIlLNgLaxAuCWcA0YNT2lebGXP7tLpqHawvhE8iOCjwMXugggc2najAUCh8ONslQ1T5QAHf7YF09ysVlEcyf3SAKB9eUIdj3oMqdOMAAP7juwedruNz8uDuKgVVIJS/PGgNAiAJM7LaFuJJ2O/qwqGAvTI6wvxaExwJkipzCUTe0GZan6+4/7lH8lm1n2zUIkni3u1i4WN3ZVfB007bQml0DnhsNV3q9qV9mQULJaPWmEF+rOYXBZ7pAYRYJL0go0sPF5eaWVTEC42TsHeC1CNTB8m3sy7go7PI+EEunqIoAAAA
+missing_data:
+  lens: true
 ---
 
 Itbāy (Arabic: اطبيه‎) or ʿAtbāy is a region of southeastern Egypt and northeastern Sudan. It is characterised by a chain of mountains, the Red Sea Hills, running north–south and parallel with the Red Sea. The hills separate the narrow coastal plain from the Eastern Desert.

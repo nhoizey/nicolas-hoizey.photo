@@ -70,6 +70,8 @@ colors:
   darkMuted: 82 62 43
   lightMuted: 191 199 209
 lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAACQEACdASpkAEMAP3GkyVm0rD+vsVKLg/AuCWUAyntM0jHui11KgLjUKo4PUKf7ZGUgr8ohBBAd7TY/XdytG0CQq9bbzX+EagnygMHwvwtqFvoanXPh5JhANXcIDkNglrWXYRj0ccNta3liQ8XG0boU8j6+3eSGvA3kksjUNkUtZsK2ykTbAj3u94BFfAAA+L2fOF1xe30xiPol3V1cnnN/V7KHrO2kjGlf1MSEom5mCCM0eo2fFcWY+MIfmQxDXgwCSV1D/pnD3tDJ9Wiq7eTKXow6mu4riWWGV4CcydqpYEbc6HyqXsPNjQaIKqkgAG/2Hl43jT3bErsgO9KDpRol2DmjcbIs0ZXR0E5UMV+5re4FiB/EFFW8JXneL3+Yk8YUE+aRfSfoASNDLhWU7/Y03Yzn4PQ4UsxOVgdfiRdCyNaO0g1gLMfLgdJcXXc0T9B+wXXI0D3vfB/f5ghFXQ3t0jCOQqR9sBp7MxOF0288D9u8Ot+++mOI4Kq09YxGaRf+zzQAANHZBJRwQJz6LNGL+eN0u3PE/vgusqES1rxSyd4cddvd7codOza7EwK7ZXXHyNr/nAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Näsudden nature reserve consists of a peninsula located in Stockholm's inner archipelago, surrounded by Täljöviken/Svinningeviken to the west and Tunafjärden to the northeast.

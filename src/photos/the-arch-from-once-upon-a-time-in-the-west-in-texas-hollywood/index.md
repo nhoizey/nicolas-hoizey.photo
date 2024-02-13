@@ -1,6 +1,7 @@
 ---
 title: The arch from "Once Upon A Time In The West" in Texas Hollywood
 file: the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood.jpg
+alt_text: Brick archway standing in a desert landscape with clear skies.
 date: 2004-09-29 11:15:40 +01:00
 dates:
   iso: 2004-09-29
@@ -73,6 +74,8 @@ colors:
   darkMuted: 97 72 43
   lightMuted: 175 187 205
 lqip: data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAADQCgCdASpkAEoAP3GsyF00rTIzKvlacpAuCWMAzNNT22FmtdnFIV5SFLmB4jaPrgQY8IJ+QmWMfxz+puy+TRYwrIa8dFz6PX0zFTLmiyKAbCSIFzvcl5fEmc9U1DYjGAD+oI2D/bKBPW+g+LjJ66Dmp17P7MHyoGCcbICebbXgQSyZUR98Hj9jOPl7C3WLat4VbWllvpJXID2Gazw0FoYGPzZvi63Z/fIWq9iyGaLdN60ssILO66aSSiCQ0FmguyToLeVKJJ+Ksmkjek9gMTx7WnYkxJ2n5dcp9rG8SYGbbmolSOP9QY7Ncjb9X78xAok/Ad0YuEnPUy2l71Yniz3BfJt9PNvNuxkQBrxCVTL/ypTaj7+dvCcDxv/gAA==
+missing_data:
+  lens: true
 ---
 
 This is the arch under which "Franck" (Henri Fonda) hangs "Harmonica" (Charles Bronson) 's brother in the great Sergio Leone movie  "Once Upon A Time In The West".

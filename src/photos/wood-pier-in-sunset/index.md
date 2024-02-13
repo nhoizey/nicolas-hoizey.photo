@@ -1,6 +1,8 @@
 ---
 title: Wood pier in sunset
 file: wood-pier-in-sunset.jpg
+alt_text: Wooden pier leading to a lighthouse with a lit green beacon during
+  sunset, under a clouded sky.
 date: 2004-06-12 21:29:56 +01:00
 dates:
   iso: 2004-06-12
@@ -81,6 +83,12 @@ colors:
   darkMuted: 84 68 44
   lightMuted: 159 173 198
 lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAAAwCwCdASpkAEoAP2mgwFi6tSejtBaMS1AtCWNtTYAFNSBzOJ16Zp1VKXG77Mf5aih8Nj0BYEN8x7EoA18cQc1AEHDPsGGrrhD5dPJ7RMCvgqMGJ4pQyHYY0wCPIwjvPJLhAAD+40vjuBHZO9K9w4rR1nCP02Pg05dluj/8Qg+mMOIWSRuqNtTW72JN/42ntwaahVnAfVbOoHTl6mGk4gHle0hSlQdUWWRfRRLJVgI0yNFZgxTLYvno9fJuUlfLKo+HvpeDWA3NbN+YYXzcmDPPEACRPqpGgJA2LxoPEj0bUrtDSqDyCPbxDZeJPX46JwLsnslN1OcBSHMWV9slVKTMJLtHpm/Jxo76E4ywruia99rBGIaYXuIJ63PrcnkP95J1eIeYaMunOF/TfKv+ltmNY+OgAA==
+missing_data:
+  lens: true
 ---
 
+Le Tréport lighthouse is located on the Normandy coast, at the end of the jetty of the town's port.
 
+The edifice was built in 1844 to mark the access to the port and the outlet of the Eu canal to the sea.
+
+At 14 m high, the lighthouse is a cylindrical tower covered in white and green paint, with a halogen lamp and a range of 20 nautical miles (37 km).

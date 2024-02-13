@@ -72,6 +72,8 @@ colors:
   darkMuted: 44 76 62
   lightMuted: 188 188 172
 lqip: data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAACwCgCdASpkAEQAP3Goy120v70krNJLC/AuCUAZoYTJzOO7nV1Nksgg87chW5jI1ZDo7CIjlFPpusPTVChRpbqTfe5Kk49ZVW2ixQUysNTvUzCEkKl5rRoScLHwoYuAAP7E7/m3kbfVhpXXzePPudjNipyiJ/yo+cLYsuQXzIv849hBB5FAk0Z2VkjFjoBI1G8lc0yx/W4s4r7MZ/snl67bXAQfV+90ZBIXpOOudE7I6dpQVGefYNoKz5zaXVlo6Qa3s/A5p0ufYIeV4b/95gZJ0Z4G4rRb1oeLyZ2vhgCbmycwnw8AK5yvTsjODgRrMzDtnZ0iTOAnpTjmjOuZYk3gbgJXR3qkTBjzfGop/KWeqD6sbqp1F8Yf5kHgAAAoQAAAAA==
+missing_data:
+  lens: true
 ---
 
 Surreal shot of a statue protecting itself from lights in the fog...

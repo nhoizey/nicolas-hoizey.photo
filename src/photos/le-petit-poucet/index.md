@@ -72,6 +72,8 @@ colors:
   darkMuted: 89 63 45
   lightMuted: 107 71 46
 lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAACwCwCdASpkAEMAP2mou1iztzOqMljMQuAtCWMAy6yPZqhH+ZBuY4DKbcotM3DMOGbwssrVwVDICOp+kYxn/5PA5p27Fax8NhaQmMUlDyhPr/6lR6GUgJ2DdQeYeC1QhetqNx1CWOAA/eltAYmlkJrjEqBe2odkGqeYim0wld3iDssWeJZtUv1jR4cVI6m9OlB8yYTNe0SpVcaTrCIufx2ePeVQ9xsMi02Fe8kTZVlyNNl1Wrk+VS4LNjeA54dephDOeb0PAMjZpa37BEr8ixOy30zmJ7v71DrAzRb3sVDIYshw9B61yAXYme4fiWDYB0Kn4eL2Hc6aokR9GRhUlTBMhe3i/PfWDQd7nMpmqFXR6WsDBCV23YyyDT2k7/mROhNM92w7wMciOTD6GGVIVdZFqi2QjsASWPZa0TT2ojGIv4uMuMwcUzCX4NnZiBq28t0poZ9Q97WFCxAAdABVYAAA
+missing_data:
+  alt_text: true
 ---
 
 This café-brewery has a very nice decoration with old woodwork and vintage furniture.

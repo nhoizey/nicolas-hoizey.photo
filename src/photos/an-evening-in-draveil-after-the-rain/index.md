@@ -83,6 +83,8 @@ colors:
   darkMuted: 50 53 73
   lightMuted: 202 179 175
 lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAAAQCwCdASpkAEMAP3GixVk7taejsHVcO3AuCUWwAU+K99SSv3QAAATZKeoPJJi9OAQWwRxzkhGYpwktCR+XLiBg3jrs658FLfUl8EOPwOqEjhk/eTA0eSABtddie3yEJC8AAPnZigB/sWBygycxYdbZh+czGtqOzhXrcdWz27dfgDvLVznjZivPLsG5T2ccR42/k+mLZmo35wwv9JQVseIt+3OhOk8mzLCsY+lkoO9+cz7UmBdofqGyAvwdRWEeENYjK/bKz4MOqMvtQQiBEX+FKsZ8nishX/vfxc+DAId+8jqjxrn1JrW7oKHTLkw7m9DSuHySwkExwr1XF6wpwZHgpp5TjEekS0v6+N4Jg/qdnq0/T3lWcN4aGG3ByHrisIsLYwePyRJ+QOJWsjXHQeXswTxdk1PtQij+Kyp7kXxcnwuWhCEIXpF4A+5HkfU2jHIeifg2sgAAAA==
+missing_data:
+  alt_text: true
 ---
 
 On the shore of Étang Laveyssière, in Draveil's Port aux Cerises

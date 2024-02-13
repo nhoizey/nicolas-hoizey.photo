@@ -72,6 +72,8 @@ colors:
   darkMuted: 75 59 55
   lightMuted: 167 176 210
 lqip: data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAAAwDACdASpkAEMAP3GgvFk0v6alNBXac/AuCWMAx+REW4DOqcyJHWXQ7vmRjrUxkvNVydM/St4rSJ6I1xesoTdJz/XYnojmbJWV+tgJAY/Xoh666C/3+OWssEIyP3w+r8+01TNiicUv+1NgAP7b7095C1A7AWYQjwF2siCWBsi+7Zxr853DSeaLPbqQEPHwvvX3sPJwVvheUI0EjNOkM3wga6RI5/DhusyDtoTQ1UreIN0ian0t0htRRWegdxiyCrKrjDrR6ugzj/RAdAaRY9hsFTNAeCK6E+CAmM/boP8bJvulYHutMLOSVLOfL6e03nnKhDJ+uUYFukP8aqfrDM73HJ85yf5eb0X7aOSvXZhvwwOMF5Ps9Sfp8uD5PEP3jEXf7J2SoRgL1MgYsJKYMTww3+flIAAA
+missing_data:
+  alt_text: true
 ---
 
 The Château de Chambord in France is one of the most recognisable châteaux in the world because of its very distinctive French Renaissance architecture which blends traditional French medieval forms with classical Renaissance structures.

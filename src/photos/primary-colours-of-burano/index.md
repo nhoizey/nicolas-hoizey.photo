@@ -1,6 +1,7 @@
 ---
 title: Primary colours of Burano
 file: primary-colours-of-burano.jpg
+alt_text: Colorful buildings with closed shutters under a clear blue sky.
 date: 2008-04-26 15:38:02 +01:00
 dates:
   iso: 2008-04-26

@@ -89,6 +89,8 @@ colors:
   darkMuted: 76 80 56
   lightMuted: 182 177 178
 lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAACwCwCdASpkAEMAP3Gix1k7v6ijr5lrG/AuCWUA06HdMwzp8JDqqcHlGEjYTe7qcTMIbD4AkBukc6MkcMg4nAs4iDhsskEBZM2gRzDj94z0L+Wzg64C1mJC1Ru8dIeXViGvMMdAlrgA/thu8Mr5kadctPrZOVI86qG6Lvb2aMOP8hJQsJaHXfGAGinfFucQ9iMc4aGlZLlnU9MownVrfIRcOSHHPXqaVCgLdy8p7Mcfwb47OvSY4zYt4aaxd04vRQjBnu0XRXOoLNuBUTU7Z1cE48g5omtug2Xj5g8FYITy6BRLq/++9vqXZEt3fBrhnExH9mZu/Z8yUvPALDp3IbmSrn2OmUA7/gDBnnsxH3UtbMkPng1JFzK/Rl9pv0NmsFuhnGx2S4PAHmOI0HIIM4LK2qgAAA==
+missing_data:
+  alt_text: true
 ---
 
 Named for their preferred proximity to water, the Common Waterbuck feeds on plants near bodies of water in various habitats, including savannas and forests.

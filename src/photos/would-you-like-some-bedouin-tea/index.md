@@ -1,6 +1,8 @@
 ---
 title: Would you like some bedouin tea?
 file: would-you-like-some-bedouin-tea.jpg
+alt_text: An Egyptian man in traditional dress preparing tea in a tent, against
+  a desert backdrop, with a camel in the background.
 date: 2004-05-14 17:14:48 +01:00
 dates:
   iso: 2004-05-14
@@ -70,6 +72,8 @@ colors:
   darkMuted: 51 60 75
   lightMuted: 205 184 173
 lqip: data:image/webp;base64,UklGRgQCAABXRUJQVlA4IPgBAACQEACdASpkAEoAP2GaxFiyq7CjtRWdUlAsCUAZGocv2Kf5D88xiwgwP/I2qVRJdlVvmP1hL/O6u/m7lykpGkuagj46XqQcpyXdSrzawCDx57jtQclkvWpsxJeZdEPpnUUldGLWPu/pFD9cUl+sw+Lt/LWIZ+uBdt3edR1St+FP9KIslgRFZGl5lv0kYAAA/ujxD3kbIs7DCBAyNd3NRowJdk7S1EuTI6lRVXGxC7cEArFU28dVMvQ19R141u5GQMd/9cYqk4MmlOpcRCtslbd56XMpEOzK1D1o1A9XU5XXqq5nJ8XbCjGAm7idJlnlx+9zjwempnJfz2DY0aGrLXXlXvvxV9uIEh5zKqOPTdxahd0EjDnTTK099TvR6PPWKlrFu7x7R0gAD2M5vt8XwMfje2TiObJfHhY5GytqECwlzggXpLT6TRG3P1yo+qH+CVwupLoMA2+xoD0wLZrXXQCXSJJGQeoq4hojOIZApLZ+uI1s00fhUT5J1ZC+iaGNwBkcEWqWjC3FxOTvnpYn78GMysrq5Bv3a2ykuCJ1z3X0aytl9txbTMNALek9hhxyklh1Z4spIZIkdvgkLxVbLmy11mlGRjhGR8OrDehXJ0VE7zWBlPPDRDy4xnTHyteedE6BZD4V7aQBq9ImBeK8bJqlOs1uMW4wUAA=
+missing_data:
+  lens: true
 ---
 
 The Bedouin, Beduin or Bedu (Arabic: بَدْو‎) are nomadic Arab tribes who have historically inhabited the desert regions in the Levant, the Arabian Peninsula, Iraq, and North Africa. The English word bedouin comes from the Arabic badawī, which means "desert dweller", and is traditionally contrasted with ḥāḍir, the term for sedentary people.

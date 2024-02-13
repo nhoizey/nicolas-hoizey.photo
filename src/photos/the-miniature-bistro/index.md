@@ -1,6 +1,9 @@
 ---
 title: The miniature bistro
 file: the-miniature-bistro.jpg
+alt_text: A detailed miniature model of a vintage cafe interior with wooden
+  furniture, decorative bar counter, hanging lamps, and various accessories.
+  Vintage posters adorn the walls, and there is a tiled floor.
 date: 2006-12-26 16:02:08 +01:00
 dates:
   iso: 2006-12-26
@@ -17,6 +20,7 @@ gear:
       model: EF-S 17-85mm f/4-5.6 IS USM
       short: 17-85mm
 tags:
+  - Auvergne-Rhône-Alpes
   - Cinema and Miniature museum
   - Europa
   - Europe
@@ -28,7 +32,6 @@ tags:
   - musée
   - Musée Cinéma & Miniature
   - Rhône
-  - Rhône-Alpes
   - scale
   - scale model
 settings:

@@ -78,6 +78,8 @@ colors:
   darkMuted: 51 65 76
   lightMuted: 173 180 190
 lqip: data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAADwDgCdASpkAEMAP2mkw1iztieqMzba2sAtCU2ycAUQCvdvOm9geYSOsfi1pvPr8rXVPdQvx/n2LPR+1bJZSvma6CGEi+JDigWCaN+r5afNs0HJ8EEkkdQsIzOjayqEqB9QbiR7fdNNBywOoCAy3FMzx85U3lckfpG//j0WRePzMAD+vwisrNlXq8yr6qp5s5jMaKQPIlM9vmJDw9gW4sg/HQHkipkzC273AZiRotlyAUcRLTnhNESLEf1S9TM+sdD2UAaNDZt4M0fjNUPvR+gDIcG1Ro4HfFcgasobsJx2oVFTR2x7GzVHIUpl36pf68qJWyJ+hh/Ku0562iNHC/Cs6WJBk853qdJczocB/iveZAJbARX5EEqTQA7S/SfnEOC1uPt5BCwujGqaVTR5Mix5uK+dzGC02GDZeKaEftlN+nOcmtfOBYK0n2EO8L+/SjaBGAnounwX7T4A+KBHhPqFy9jfLcLKr82AAA==
+missing_data:
+  alt_text: true
 ---
 
 The plains surrounding Kilimanjaro (the "lowlands"), are located between 600 and 800 meters above sea level. The climate is very hot and dry.

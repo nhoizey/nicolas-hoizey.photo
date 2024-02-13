@@ -83,6 +83,8 @@ colors:
   darkMuted: 81 69 59
   lightMuted: 116 82 37
 lqip: data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAACQCgCdASpkAEMAP3Gmxlk0v7+qLbiMY/AuCWUC5AJH2+kKBf+HUtSj14k5ZiId3zmVEBbkcwq3W6MQXmkSaph36xJv+BAKozwKoynyhhaMLdJf3Pz/WvGn9UVZ5AAA/uoUDMrH5JKvNYaTBtSY/InASTZdEYmvIhXzh7DrrA7wrTiuu8cJneJquUBCCFwle4GuuVDFuA9DmlSasVKp4KnIIYo5R6IkUCTz3ALZyrHgUMeBkUKlaqQ/dSalpZK2IAr3CuDg6FOEC+AMCQjTPyDeISXW3iFSu78FUPxwdxVy1pn/A+uzFHR0fkhQ9EsPUUjICFM5YFFyVedTGbZqmCGePgcefltqsXUPfmWJ4B5rHN4GLmYQpiQuJ8Nd+CQcdP4gAA==
+missing_data:
+  alt_text: true
 ---
 
 D'Arnaud's barbet is a small East African bird that feeds on insects, fruits, and seeds.

@@ -1,6 +1,7 @@
 ---
 title: Tone-on-tone
 file: tone-on-tone.jpg
+alt_text: A person dressed in green jogs past a green house along a waterfront.
 date: 2008-04-26 17:03:33 +01:00
 dates:
   iso: 2008-04-26

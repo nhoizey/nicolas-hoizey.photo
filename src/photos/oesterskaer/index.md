@@ -70,6 +70,8 @@ colors:
   darkMuted: 68 55 46
   lightMuted: 164 191 208
 lqip: data:image/webp;base64,UklGRm4BAABXRUJQVlA4IGIBAADwCwCdASpkAEMAP3GoyFm0tzsvr5aaq2AuCWUAzy3cQDT07BCQyV6zcTUwUITYXHAHKVBm5GpUmPy0Vp3leX5Rvt0OxpDPncNCHEOuv9BnJLBBK+4uVx30aHccWuoaIAF8UIWPtb0SAACn2fobZziNUOa6D4mrHsxm5chEasB2Yff8bUPgsnCUogy+QDZUvySKzQrWCFbeFY77YZud3buGda3bXqUpQE7IMwCFpXIDsb5i6Or5QXP4//MOSZKwEt9J9joeHARLznF5LFrlpamy42n6HmZgAfriTRVysDXu/pN09R0b+VeMa+mKYw15sj6CGccACuGtmFN4dkN3udk1c8bepiA1wp0lms5gjL8n88I1X/oQlZ3D9MVazIC4mMrVeiwiM1Oit8u6piImnY3bjSDraDOIhAdMKWGv3Csvw6VVmCMjzUmSnBIYzuuoUPfT5HjjN+e6Khzj5vfl+L5kAAA=
+missing_data:
+  alt_text: true
 ---
 
 Österskär is eastern part of Åkersberga, Österåker Municipality in Sweden. The area is located in a hilly peninsula between Tunaviken and Sätterfjärden northwest of Trälhavet. Due to the height differences and the possibility to get a sea view, many Stockholmers have their boats in one of Österskär's many marinas.

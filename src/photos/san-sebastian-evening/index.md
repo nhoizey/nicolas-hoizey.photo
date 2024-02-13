@@ -93,6 +93,8 @@ colors:
   darkMuted: 63 75 92
   lightMuted: 207 184 176
 lqip: data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAABQDQCdASpkADgAP2GeyFiytLsqNbNsc2AsCWMAyj9SStat23JTZFbCvdRJvOEKZdnaPX5aVjnvFz6EbckXh39PNv/dAwII7k7dc3ErfV+CENjePnptS4vYi0H+EB3/i1r6rJzCQsQGHSbjv5maTEQDEgaAAP3MUpcCo4PtqpLeIygZ9MjFhIuF3BelQ2SvfmaDNoEHBbXK1127lahF8fU0mx9DuA+xC5UeTjehBqu9m+/CAtXHW0A0awx7vmEh+93lJqKRdNVlGje16umtHzjpbtfFL7OI0Mxj7zj7anMr59tdrdEU/Pzc4gpwwrRd/hAC54O0kYwGHQKzWIBBfJ4OdhNV+natR3l27owPt9TGc3IukLyJq0MECD+GnJPj5y9aI24oEYt4KnA1d5Y4AA==
+missing_data:
+  alt_text: true
 ---
 
 Bathed by the waters of the Cantabrian Sea, at the mouth of the river Urumea, San Sebastián owes much of its fame to its harbor, the Bay of La Concha, framed by two rocky eminences, Mount Igeldo and Mount Urgull, real natural balconies from which you can see a large part of the city, the ocean and the hilly landscape of the surroundings.

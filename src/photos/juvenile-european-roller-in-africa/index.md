@@ -80,6 +80,8 @@ colors:
   darkMuted: 94 84 50
   lightMuted: 179 186 160
 lqip: data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBwCdASpkAEMAP3Gqyl00t6gzLbRJmvAuCWUDsB5D1RYe5u+iVx4jwLJWfamEQBruaqE3UZdfY8xQF3yqLb6fEzMz1hgEb8AA8WD4SZiMNGE538tmQ5IVN912f9oSM73eYb8p5bntrfIZeQtaK+MvHngcuCAj1MZnzmHrkSlS+97Gu+TEWjOFvsN2yMY8ZpY49DhDM1Q+nQCx6UZ18zFfUvOQ/BupycS3tPxoT8plDQk4CS3Ok6lDyITrfy2bVDTHeSfJC5b2S/7yV017fmE4twsqhkM6pAvt4wO5BSAcVF9DwAA=
+missing_data:
+  alt_text: true
 ---
 
 The European roller is a long-distance migrant, wintering in Africa south of the Sahara in two distinct regions, from Senegal east to Cameroon and from Ethiopia west. It is a bird of warm, dry, open country with scattered trees, preferring lowlands.

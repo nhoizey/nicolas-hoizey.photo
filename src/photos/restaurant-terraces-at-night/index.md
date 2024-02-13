@@ -66,6 +66,8 @@ colors:
   darkMuted: 82 78 53
   lightMuted: 192 172 153
 lqip: data:image/webp;base64,UklGRtYBAABXRUJQVlA4IMoBAAAQDwCdASpkAEMAP2mcxFizqyglNBXcSnAtCWoAwRCUe2lZkilLZsbqP1+VYWkvax9LKf8zNALIf8ROhrpnkSMt8p1TuL36wXCytALX0OF8TjKciJnyemFiImU8MYCVGZVrCPpqppTSlypZTrI8uvBqWqGGYzTJBYLWuOpPSP6rFywA/uwbLrDUIMzYK0wq+2DjLnt0f4HYSv4ygjABR0pDPHVuHeJAR+xaQNtuvGwqWl60KVlNXLDeD9GeNUs8iDuo9L4kOItMHnoNVenjptRT54Bkymz8ZElI6yQU9GEjdyG6WIQphdlYuLVFZgVvC+C/g6FKVrovbpRZTNZA+Ad83EF0rC1WtTRQ4DOfCjU9z34JWTn4bMf02aMNFwCBJWCBYRsGfa7jzJYyTzDTMUL1LA1y2+EnoongpLVO841JfkoE90IjxA1CB5Omnwea1+8oc3v3zoOZnKaQarz3O0xlgZQRBY42saF3WNKGUbwRHSE4Myon33q7kq9+ftfpriEuo9+J9Yphzbjf2syrHupWyKLluYiyv0olSOThH1crWJEpcJS4Sr6YNr3eFt0bsRCWxGMgOrMD+hZSh2d1AuHElwVg+xoBsfxgAA==
+missing_data:
+  alt_text: true
 ---
 
 King Erekle II Street is a cozy pedestrian street in Old Tbilisi. It is one of the favorite places for tourists and locals, with lots of nice outdoor cafes.

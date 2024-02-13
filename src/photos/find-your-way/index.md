@@ -79,6 +79,8 @@ colors:
   darkMuted: 66 58 53
   lightMuted: 192 186 177
 lqip: data:image/webp;base64,UklGRmoCAABXRUJQVlA4IF4CAAAwFACdASpkAJYAP2WcwFizPq8lNXfbI9AsiWNtgjA7gdu3aSuMQQpMTTwXlRrSf06c0/jwcDGSvaxeCEtaDfyJk0T+KkIgxj1smclgjH8kIUbH6DGGgJfLzCGdzSwIiaBrqQslnPJIGxDsFf1Gn07Qdzo2Z2zUeyFvVsBzYtFnwqLyzR6gnYVVceKPSbajyvm1QCWGdRId0z13XhbEf6glxsGdy1k77vRMHAD+7/pu2pH5dAyBJJtQyWTeD6hN4LsMBrhbGhE1a2sBV3vO0gQobMMgNIUKNkB9Bf9tA/Dr4BzkVY1Evec9dp6cysq4ggpblGcsekL21q5XpUE8BEos5uAl6XMOUcb7c6uepBTdBXt+QDf4x0+Jn1/pyCBlKH+OBrns1aTmi9KgQ3JeDRDw+OtzVrUC0s/gVZw92pJO3VtYr/vRb87NPlK5xbCThJ3datr45JkXimXu/fAEITD/EaKmXUFn6OQdyJjAsI79mG5+9e0f6sHcfFIvYfTob8MFAlrTfttpnzqfimL2GZJJDBwCQgGoa2Ab1sHrOctl23vzryBPjjNA7iGKCcTmJmS2DYuBs2raehbGRkuhZayO3Ho45tatD9DXoqqj/BGQvp/4NSw9SJ1HpQZjZUjWMP/TCOwzXrX2Bz2JsnVs88/7i9XQmfJvP5MavlpzIqKUS1p3KDo6/UKBX/uRTUhB8Zx0af76gS1jkto/oXvcF+t11uyK/5sWhISjI7bRy7hCSTK19ZHYwwt9UBRawa72cUEmFtHeZRgoog8Q+8lLkI1+Kum3Ca3X6U0NSYIAAAA=
+missing_data:
+  alt_text: true
 ---
 
 The Bramante Staircase is a double helix staircase in the Vatican Museums. Wrongly attributed to Donato Bramante, this staircase was designed by Giuseppe Momo in 1932, inspired by an older one actually designed by Bramante. This staircase is a double helix, that is to say it has two staircases, one to go up, and one to go down. This way no one crosses each other in the opposite direction.

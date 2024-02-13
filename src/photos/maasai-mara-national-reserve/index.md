@@ -64,6 +64,8 @@ colors:
   darkMuted: 80 75 46
   lightMuted: 155 181 187
 lqip: data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAABwCgCdASpkAEMAP3GqzFy0rL+yq/O7Q/AuCUAZXgTfRDp3+Aq9l3rS5HS6OwLA/ne6Km7DjijpMQ8U2uTK0yZBpLc2IFzarrVy5jxkkvGsLfvfSkt7AyTQeSph8AD+4hAsH/natmDsf643N7D9QGFPVkWW++pRm0M0F9jx4rHKVvYGXfOQTr+ogpj1l0rbAzmVEr3h7+tC0ufElBFobNlG7hlRZrgIT58RLcsuPMhxgBrUYYS8RFbrgqFjx2/VV8G1Ucp0S8p5MwZUyzco/Q/xXwKnl95jFbynlyfv9Et/jW7UZ4ThOZ61n6TbPSGeugAy+kXPBp2yu5lqSdXIDl0IVnzy0AnSowt5KBYGufRtVV/JnBAAAA==
+missing_data:
+  alt_text: true
 ---
 
 It's not just about the wild animals, landscapes are great too!

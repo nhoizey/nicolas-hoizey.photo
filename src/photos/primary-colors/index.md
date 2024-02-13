@@ -68,6 +68,8 @@ colors:
   darkMuted: 40 67 90
   lightMuted: 181 146 153
 lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAAAwDQCdASpkAEsAP22kx1i0rLGjr5S84pAtiWYAyngrtMIDTKsBR1LGs2E+zQsbqXe17EStChZxyfdwnouEfLd/h5kVdj6JGDn+0MksNk4fAaROy7LZIGzq7SvHgYZ37vf7QuHM8FuU2s6OwxeOcSX4BAAA/hDyL+3dg7gwmLVkZLD1z3lVrCy4n44mQQ1Zg0VLeutqzzJeohoCjYJ8JzilzB7ncB9NLqAsnW5YIpzPH7Qo6PfGIP2rRMTBAtK9t5GReTG78l5dErA1E+jxTW0UKZgZXPe6SvkgXgKe0f0awLlwqw2Ca9wX0Zy3zjo39vDMS9gdFjKsvhRyozvumALBHGO40hcB0eAetM6B4wwlFaSajnJFmmaq1JdjcnFP6HlV5hG9x+1nRBgA0LAT6W2/tpHWmaTHUKH0dX2gJIzgpuYO4Zb004h7YlOz3qcpg8mODw4H56RCVS/+LTjbNQ4inchU1gmnQU5gCHW3PctjbnlVyQ/AGyib1i4cmingyBqdTz77ecqrD9Or/fC++APLDHH3luXz1AIQFWV1ZWuVihh/9vQgAAAA
+missing_data:
+  alt_text: true
 ---
 
 Just outside Lisbon's Humberto Delgado Airport, the sky is so blue that they had to compensate with a big red… thing.  Be careful, prepare your sunglasses when you land!

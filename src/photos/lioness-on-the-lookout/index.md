@@ -1,6 +1,8 @@
 ---
 title: Lioness on the lookout
 file: lioness-on-the-lookout.jpg
+alt_text: A lioness sitting on grass by a termite mound, with bushes and
+  grassland in the background.
 date: 2019-02-26 08:04:01 +01:00
 dates:
   iso: 2019-02-26
@@ -46,8 +48,10 @@ tags:
   - Narok County
   - ombre
   - Panthera leo
+  - plant
   - reserve
   - shadow
+  - végétal
 settings:
   focal_length:
     raw: 602.2

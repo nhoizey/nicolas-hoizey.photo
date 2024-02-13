@@ -79,6 +79,8 @@ colors:
   darkMuted: 88 86 59
   lightMuted: 163 152 132
 lqip: data:image/webp;base64,UklGRiICAABXRUJQVlA4IBYCAADQEACdASpkAEMAP3GqyFu0rT+kKhXdU/AuCWwqvFP/MLt1hdtgPN6sksoJMDE7/ZZUXTyEEm4UqrsuLmXZ7OcCCJqadI0mKR4rSc2yyPpmbA8UAUYBXD7ItD1tyZQ9QOrPaeQYtYNvyliHkCYRR5wPIAIgKt3WhfiTv2qWaGnPffQjgTYj9yud+jEpR7i6AAD+2h8TY5uuDRyBmYAEyHeHFbELCX6pa/cIxCVrCJ7nR4m4Y4/PN02B0YG4mUWR0/122PDB+PhGGH51F4BO8pnJnl0X1V/ZMBemT2jyMY+QfuPcz1fi+NoxVGji7feNMet1jcWI/pNo3GjETelpp/FKv4duRq58V1Cay/4ovpMkQQHi2XgobHa89VYG3+VpWG8dpVOYyFyXtjGIaiUfnoi8bzjk/+qR3Q0Zo/t7Uz9iOhswhWWCNz5n1/BRak4ZBwqNNJktdCFlfeNUXnh2EIyLvnpUErUkhks47ydHUffK60jxNp9gpHH9rHJs/ZMrIiUzzvSSuMuRtX7LZyxUU+AKgdfZ2lEpXG7903bq18o1Kkb4UXK1p5nb0xYMezmHNSawQ6JXsVayOBzPQc6Zjv/0xwTepHrWRAHhWElcb0BiJLl7qm23/r3/cPn5o5Ej8pzo4YcuG9Q3rH1TTNU8saLEFWU+dZfk3bNdqoxBZ9Y4hn80KzOKqqKV8SiH9UbNnOGlN7Kk+AA=
+missing_data:
+  alt_text: true
 ---
 
 Yili Garden is a traditional Chinese garden of 10,000 square meters, created with the participation of the Suzhoua City Green Spaces Department, with materials from China.

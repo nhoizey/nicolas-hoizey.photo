@@ -1,6 +1,8 @@
 ---
 title: A peaceful canal in Venice
 file: a-peaceful-canal-in-venice.jpg
+alt_text: A canal in Venice with moored boats, historic buildings, and a person
+  walking along the waterfront.
 date: 2008-04-25 16:46:54 +01:00
 dates:
   iso: 2008-04-25

@@ -84,6 +84,8 @@ colors:
   darkMuted: 79 82 54
   lightMuted: 169 195 212
 lqip: data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAACQCgCdASpkABgAP3Goy1y0rCkkrbgJApAuCWQAxcBfwMaxn9i/O2boOLkZ+J6c0EsuSmrAfuGPnRi0ihHe15Riucs8cxnaq99lqhWvyUQgOPDXjAdM8yGyfnx0PQAA1TZBezu+9zJtAULiF5Y9QeMfUnh7qakYHy7iGKEdbfnb5wCiFYlBDEZP3D2jO6QuYBpimloRYg8srijdFy3c4/3xvj4VJla9AYIatq8sPobuckDxNkZltcIQONzubAXwsET+IuX1/RMDZmocnXaQguSpZ+7ThSxMjY737JY+p6PBpF5+2POMMm3sVyUuzMBxwlWHF1ksr1Ajmwtwk/mUdPXBEhZVVKbPmNWJk0AAAAA=
+missing_data:
+  alt_text: true
 ---
 
 Diani Beach is a large beach on the coast of the Indian Ocean in Kenya. It is located 30 kilometers south of Mombasa in Kwale County.

@@ -60,6 +60,8 @@ colors:
   darkMuted: 82 67 61
   lightMuted: 178 189 204
 lqip: data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAABQEQCdASpkAEMAP3Gix1k0rCglL5HuMpAuCWMAzREr3v8H2Ie73y5Gezq7CmmGDlTle30cPgECUVuakhr2cPJlsNIZ9FCHJvNyDratN0HP4jU6BmQjB9YjD00AkQYosTgUMWH4qCMlJ+RP6ZVADUR4V/SSkR6F2yoDRNr+S2Adx746Fc2qRvOaytlw9eGY5cgRJoAA8T+pUMkZ7BUBcc78GoBbZSgA6SynEtTDwHT0AqsGgUGuWSNRqhFlg4rslE/kLhkrzFmOzu+vN1rUgE9As8bKGBpKBNe63V0ofXBmAQUgUgoBnE8pw2zrciwn/h5y9bjEfoHO+wkt1B6ivQss88fLv7cLb7x6cuUo7eWbq3lNI4GRituvJpwYyV+Q/m2SkP9j692PuxV1jfShhp6R6motQ2xarIAqCyy8WDP3djpee378zXPbPKOcCxTk9i6zFJfrqDSChDWxDyzDQqyrwO6AmxQTDYBIRtlo6EUW6DZTqY39rWPZrdCuxDfiPCp7pRG/7o/DQPSlzKHvl5XW7idiPMsPdtSOKAeLOTbI/eNVNaH/H+ueCyLgAe1fCnrfykSAC5YV274AGUDHujkOOGBmKTpEqAA=
+missing_data:
+  alt_text: true
 ---
 
 Njoro is an agricultural town 18 km west south west of Nakuru, Kenya situated on the western rim of the Rift Valley.

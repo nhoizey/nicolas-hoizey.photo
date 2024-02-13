@@ -70,6 +70,8 @@ colors:
   darkMuted: 87 59 45
   lightMuted: 145 163 190
 lqip: data:image/webp;base64,UklGRt4BAABXRUJQVlA4INIBAAAwDwCdASpkAEMAP3GoyVo0rTulLNSck3AuCWQAyUThr/5hXikHaHnS0fKF0xETa66KuEadLIT3ua2AxLhcsK8BHlKAe26lEOMTXdvBqOgDZa4pHzVHEpIMLUi3z3Qr1SFdF6Vl3novfVLQGMjjMhwuHtDx2dHwxNynnmoSjgFkhU3AAMvgF9dmlOjh92kzBmloGtzxy4EmdlnMgFyPRDmbZK8Dit7WxeaIx+5OcC4oEXeoy7zf1ka3YcQAhKISPlX453orQV2mZOifa8wF6glly+0oUZMtXEebqs1cE0AS4GkTT6EufAF1dqC+himrynpDTgtgj6XZeY9nEWPh7hpI43YbwTsp0PTAb1FD1YuBEk78Ef/mW87gxC4UVQjlwUAYqhKUELvw8EjefQU+MGOiJhFZQJBQHepcgJc7rtAn9hl0/T3Sbgu9hN7nwf9K+kRui/JVE3F3RirAj5kH44epaOzcPCDDul4fWBOquRR+Hn4UyTufgMbGKIFVXGIgN0Irdbj50FQNSmBzQVlkuCQJ+BlGpqHxgRMlSZjfxfapKwzAlGVV9+bB4hcxWY/vH8SEvNKRpnfMgZDL/yrrzN2LkJiQmLz3AlxwzViIU2JZAgAA
+missing_data:
+  alt_text: true
 ---
 
 Kenya is among the countries identified as having unsafe tap water. It is one of 187 countries in the world where tap water is considered unsafe.

@@ -85,6 +85,8 @@ colors:
   darkMuted: 84 70 51
   lightMuted: 160 164 173
 lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAABQDgCdASpkAEMAP22gwFi0rCaqMVhs+pAtiWdsIV476OS7MCq34muhz+EpjcDCIKgQ6ndjJXc2WuZ7SXJY/AKeIuc/ayXQQJ76jWKWoq5htLYukcEhWd7G1yYgPEMNhNz86hCBgyuNthDtsaVit+rOYqGIgc8sIGaTyAAA/hG9Wr5TrGbCclhKekSBL9+aM5hL7m8B5CCGQgRrVor+x9FOvu35XCEVtwqNBCIuPESDPQToDCYWsAl1NVWB4T+zhHdn1S6HsJtOUZMwx8ddf5vtwbK6mXnjo+kuF7iD0mD5mQmJempjmRNkPjHQXAWthciZ5IgLHm3wi2dcvNdCkQHMMTbrwH4p46sQOT9sMEWzQWqtC2yxPp/GiGZh9k8PjcCJwhuKJu/9a9A28apqDBqw46pbWlmnbmMr+ClZejAjPQBbO1x3I4asmjNT8JEi/KIaA+UFk3/0Dl+2XAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Lake Nakuru National Park lies deep in the Great Rift Valley. The park is a rhino sanctuary (both black and white) and a bird watchers’ paradise.

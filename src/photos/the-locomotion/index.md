@@ -68,6 +68,8 @@ colors:
   darkMuted: 80 93 40
   lightMuted: 168 194 208
 lqip: data:image/webp;base64,UklGRh4CAABXRUJQVlA4IBICAADQEQCdASpkAEMAP3Gqy2C0q7+npnJNI/AuCWI+CB8RbQwZjj9xI2rZMOI4kiQJLl5MzPdQ9OU7TRHADb5gAxt5TsXOtwGeXFxXm0ENo5klJ6G8yNNneVGLRHBx/GJphDicKRx+m56Wr3DnMuMj3lqGFbyAFeDhMH/NhaDhKcC4XhwMymRweB/qwrqVCI06jlqx08oMZyoAAP7mqHkcwK+6InS74NSfTeihjWeuZ2Z69qRaJxCpDBpxZfBqrrTNb63dcE3/ogC5UReTrr5DZBkUihZOZSlMoH0npSxZLVg3So5j4ev2ngQ3MgZsELSCc+4KWlRlWzlbhPx9D+YashzCcLXHjWVBmlpza9+fUIslhs/Jd4As1xLD9FHblYFsUz1lLmmTpuXO60cShgEiAAsQzgc4o0C5qU0lEbbiMB8Ax5Wmfw08EP/6tM5xSJb/dgLQLzC/aUsEYSTazV+FQh672CY1GABB+WC47XAavKtX9E7aYyDLDjXcFJ4ALrrEqa/SZ7xL1dX3qRkOzNxkiF5HCKfaED421wmugEtuWgkTWcW3Sn0nrMHIFCQpCGv8MDUUzWIyaZ0s/9K2466bwJnPUbELUgoxX/YtuDEaEiAHlWbBCyEeaNQ+uOxewVooB8KAVBNkEoiwgwQpjNVkZ8Afj2fgF/xArQDOrKRKY8fjuXDunRib8TDXo7esLTz4RKwAAA==
+missing_data:
+  alt_text: true
 ---
 
 Most Kenyans travel with motorcycles, and sometimes one of these is shared by multiple families, at least in Maasai villages.

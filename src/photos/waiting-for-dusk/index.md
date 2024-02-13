@@ -96,6 +96,8 @@ colors:
   darkMuted: 86 75 42
   lightMuted: 178 150 108
 lqip: data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAwCACdASpkAEMAP3Gyy180rr0nJntrI6AuCWVtvV8+8xAQ94TwUrjPxDmvC9Yp1S+qFl25BqUyDWXYR6oB69zM3fyANNh1XNPHAADtl5x6+9aLvy+1vn/z6Zvdj5fxdK1qBxO60wdRhaIy9szT8rCXLzza4HXbGD65EEe0uGPPliCJlsbTD2dmWkJzEu+ahKzfTdvzYKdP4Ag+ZaISGbLMy0BoAEUQzAdYON+M5+DqheG/cCzbXckpDPlUPtMKRhoMLV2aqmiI6bPxMU8UL7eSZZ+l/Bi+nxqFWR2ne9NcOR1ICBmP7CwAAAA=
+missing_data:
+  alt_text: true
 ---
 
 In the last two decades alone, the African lion population is estimated to have decreased by over 40% and now occupies approximately 17% of  its historical range. 

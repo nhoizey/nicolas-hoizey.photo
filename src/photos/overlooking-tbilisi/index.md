@@ -73,6 +73,8 @@ colors:
   darkMuted: 88 65 53
   lightMuted: 198 203 209
 lqip: data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAABQCQCdASpkACoAP3Gsz2E0rD+npjQK0/AuCUAYsYgt5iP+e2i+uHpn27YPCzK0Lg0HVoQLsoOo6Y7vt6kEbuZxKmKTJJJ0hnIgV6H3bdMbZlwSAADhR8GC+LTyOwhaNr/dD31aVBRLlebFd1v9tgc5r7PoO4Q48hK4eHkTeyw8TNQch2xGUX0VIIJ4tzZNlBaRT+Nk+yHyg3xMS+MSPyOq5B23HlQtDFKwrVdcWxt4Y9yfDYdrNWufjOjBgHOt/W4rQiCdukDhbsjXzZDS9ziWzUSvbU8u6/UTk8qXlvuvl1Tx+banxrWH+68WtLAcAXES442SIxOdY1FBMcAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Narikala is an ancient fortress overlooking Tbilisi and the Mtkvari (Kura) River.

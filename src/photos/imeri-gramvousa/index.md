@@ -1,6 +1,9 @@
 ---
 title: Imeri Gramvousa
 file: imeri-gramvousa.jpg
+alt_text: Panoramic view of a coastal landscape featuring a crescent-shaped
+  beach with clear turquoise water, a ship docked on a pier, and rugged cliffs
+  surrounding the bay.
 date: 2005-09-23 11:03:31 +01:00
 dates:
   iso: 2005-09-23

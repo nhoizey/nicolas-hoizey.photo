@@ -71,6 +71,8 @@ colors:
   darkMuted: 95 77 50
   lightMuted: 191 191 177
 lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAADwDACdASpkAEMAP3GmyVo0rL+wKvlc2/AuCWUA0JBWoTHQC7t9rH8tE27KMJ5mp3m6ceBk/dofiZXaHuQwhaOLycyQ/+Jy33g/0I66eAnxDTqV1y9vGR+DR9S/iFmRjamjaJNPcQL9CSSPhgS3gRFUAP7txNXPK1qbWPRsBGC61I3UzDmtqQcwcTeVg+TtxjVmo0uTKD0W+ZZgcI9OKSM1s0Xxy5sjNHwt0VvKs+rINnJpfMIZIa0K//5SKBofDPs69szxbY+BAT34WTZ/z+sceFGtB4hj0mW/HSjkcd1eOyLCMefFMgswK7C1lugmbANM8A3r2t1GaiECVzQGbfJAVyheUpJ0HccLXmwpmlEikF+LCFz5mqjcKf4uZu5xGoTPhXUHpBCHqa0uPE3i3X/lsppPQrcXms17Kz8SQsrobZvXzY+hQN5ZIo7eoEjAXgJTu3uqAAA=
+missing_data:
+  alt_text: true
 ---
 
 The Holy Trinity Cathedral of Tbilisi (commonly known as Sameba) is the third-tallest Eastern Orthodox cathedral in the world and one of the largest religious buildings in the world by total area. Sameba is a synthesis of traditional styles dominating the Georgian church architecture at various stages in history and has some Byzantine undertones.

@@ -64,6 +64,8 @@ colors:
   darkMuted: 79 64 48
   lightMuted: 167 185 214
 lqip: data:image/webp;base64,UklGRogBAABXRUJQVlA4IHwBAADQCwCdASpkAEMAP22gvFi0tS2qNBdLEqAtiWMAynhHb6lhE+f3fH/1kxWE9uR3ej7aNEqG67hWKCW1V2+zLScGizoNJ3nCvczuYIm2I8F5aHLJTZpvAenUGEnhimazcxKQJCOwrNZAAP7ggRo5C7HuD4i5+WW1XyZ2HHuuf10CPOrFnV9hUFACWBha10ZymQvOrCivjfinG6ozzZGTHbJAnDDuG+pbpykKbWJuACdVjzlFeM7Ou8frNbvRYnodo6v7TsLw+idbebkOLIXjlxP2F+DU7r77+knwxP7G6/2g2DSMX0hTFaTN5RraGJtD1GSYCWlqfvTBakWmU+R0UipWEVu92FVsJZjxGojYBNsIQS/YwDs43/dG7KXU8HglGHGDU78E89Cd/ReBcB4qlpvqImsk73dK8NHQR08YGPTib9f3LXfoJtMPDe2i1+Lk1doIznW44OlSyIgm7Durx850sqSRx1DpivQvTdIPo56Zx+j4QFfTwZb9wAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 Great Rift Valley is part of an intra-continental ridge system that runs through Kenya from north to south. It is part of the Gregory Rift, the eastern branch of the East African Rift, which starts in Tanzania to the south and continues northward into Ethiopia.

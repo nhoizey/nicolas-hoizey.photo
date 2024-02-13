@@ -89,6 +89,8 @@ colors:
   darkMuted: 70 66 47
   lightMuted: 220 203 188
 lqip: data:image/webp;base64,UklGRsgBAABXRUJQVlA4ILwBAABwEQCdASpkAEMAP1mWvFiyKy2qNtheYkArCWMA0nQlsrimdPQyL7122OGmy8eMQyhZWJw9B7RYbS8XIiiJXj9lX67v1TpGDJnnmR4mW4Cz7zUeGXH2Osi9pWhEysGFHY8GQnxWywvHvIOurkzpLjv6K9ouhqhjUDdbibcSShepzec6Vw/v2ZiGFb+zmXey82fQXJSAAP7lH/71v8VX/UxEtnMwAb6t0rob2K0IW3eCV6WgOHchCaUtKvci4CxDYrgjfgnXJv8EtJ4oquyskdBc0TYe9D+RwQ2kSTCTSU0jHosLkLQhiGxcXfHaxOrb+aONqRi9YcwE0fZcA6P5Ke8iEnZpT1gl9tMo8+6j3bhSLUynGjN9aOuREt8/OvMhvArMIpnuBO2cTwjUV4hH+0Qb6Y3eLgi6ADBGPPgGSGv58+W2YpxvZFSJfuwF9rBI1AxO6Nczht9CqaKTFTdkP4zrDsV5jSPkgUp6xjLJrMuq3decdx7lNzQOiupuk+7HCIFCNzmfmpwzYPUh+p3iHsP+Ty6JsvEzkgrlrd+N57vL57rBCdMdjbIft6j2GKJg72oYwppqUKRDui0AAAA=
+missing_data:
+  alt_text: true
 ---
 
 The red deer (Cervus elaphus) is one of the largest deer species. Although at one time red deer were rare in parts of Europe, they were never close to extinction. Reintroduction and conservation efforts have resulted in an increase of red deer populations, while other areas, such as North Africa, have continued to show a population decline.

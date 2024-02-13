@@ -68,6 +68,8 @@ colors:
   darkMuted: 38 52 75
   lightMuted: 24 73 129
 lqip: data:image/webp;base64,UklGRgoCAABXRUJQVlA4IP4BAAAQEwCdASpkAEMAP2Wcw1izK6ejsVa++mAsiWJrT1eVvB7bW95f4JHHmpj2KVvm6lxnOH8XAeLNQFXf0uKNF2C8+gq8SAkkUZZzL1EcGCDNn6lP1DSZM8JN2rvA91qJhcNnsIDEJEruowCf2rkJkRsK2TAn6W9oXoENXsAoGUzgoCgJmRrSXnOQfZ9B6Hnh/30zFbzaMEkEXFmXhJMxxv24AAD+E7X5NTXF3+LH/F2/TU/x/OGRhqX3eJIBe+P0ligQKYgrXkM0GAvTWlBejNcVXosDD1iK8zHj8UmqXSFXE85vgJpfssqbryLiU8NeXM1+Ns5908+JBI6rCX9Y4JgV+tZ3ObjAuZNXyeQXEmTJtWL41zjJJhLHNnOWItkCIXhkw+laGO0TwwZ2jlD12gHgWesI2wQDzD1/98jXAM5OHLNVNU1AdnrBoeo0RAAN17hFCNKFQruTpt4d7gNAkX1F9D2FR9bXK15DjYcPJmxmSUEEwBEsi1tk57MocQ1fK6IXK/uYKk38T3bfqWIdKJaaAO+UpvhcbSNAnpFnjFFaAYMQ4EE4ShrXUC5WpLRuSeFoP68Vvs3Crcx+1e5xYrnlivE78k75P0kdkQLBAKurN5AXGUUH7Gk3G7ZxtRpIVQKFVBcF7XbYeyedYRFUUDkuC2S7o+rQ3MRRAFGawAA=
+missing_data:
+  alt_text: true
 ---
 
 This black office building in the Mstislav-Rostropovitch street in the new Clichy-Batignolles district of Paris is called "Graphite".

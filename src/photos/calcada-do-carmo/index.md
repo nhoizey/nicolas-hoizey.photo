@@ -62,6 +62,8 @@ colors:
   darkMuted: 63 48 40
   lightMuted: 173 191 206
 lqip: data:image/webp;base64,UklGRioCAABXRUJQVlA4IB4CAACQEQCdASpkAEMAP22myli0ramlKvgNipAtiWIA0QDJ7/7lC+H4cb1TS4ggYBfLPjBMqMB8JfUnBtQjStvlVu4nTqSBRDiQPhCbcFg+KYOfNnPrR9onObZPY3vsvIeXEZ8Q8rz82f/8FDQEwE6QyPFyj7hrrYX5PDYB4emXM5Djv5YIdVNImDxnObY8U4brT3iXHzV4gAD+WddStk6ow6KAr2xb4jaFmwLydXXl4ps5DUmgqvpcfM7xxAoOyN2DSJp4h24iXSoCgDhPB6IhPDg6OOGTErCsw8P8Biu08m6DeJXeJRprH4s2AvrFCS0aC3qXj4a2/CPALO8INq2DMot74fSGzs7QydUx7kcPNwSgYorE9hWLxTdaS/UCa/ciKVhEivBeTRXhFk7xQ1pm+5MPEJl7NcZXG4cODK+CP8H9/CMJl2JiFo99Bn+fDxNenjiVqHFXlvCU3CxN3bahV3uPHq1cyXP7vmiWkXqdm+IMrv0JSN2sEPaZEr3j8+jZH0UuofnxUQ8ijz/34YfwmDvfJ6LiJpJRLlYaQWCiYmHUt45dSrRgZIZs9y6SfDzxz84JwIJ4H8YfpwVPdqFWd+r9IYBRDirRBrzR1P04ljdEVkViL5nz96rIBbA3oK4ghJk45udYge6C8XAQI2FeufKMFr48LKbK4rc1a0KqikhlUvCoi6pPU8IYDq07DWAjwoG7DtOtvQrdHoJvdDKAAA==
+missing_data:
+  alt_text: true
 ---
 
 The steep and curvilinear Calçada do Carmo, formerly known as Calçadinha do Carmo, descends from Largo do Carmo to Rossio and is one of the oldest routes of the historical route connecting the hill of Carmo and Baixa.

@@ -86,6 +86,8 @@ colors:
   darkMuted: 74 62 53
   lightMuted: 168 189 204
 lqip: data:image/webp;base64,UklGRowBAABXRUJQVlA4IIABAADQDQCdASpkAEMAP2WexVizP6ijsVG/e/AsiUAZfGpiUPfOB430Z3fYB/4E4zh5EWh+v/moxiBihzHcsazdA+pxRA/GUmBmkkkJeX4k9tb8gVPURj4+mC+AGtHvN+zABdUWUqGzYkwHOFIQ4e3JZPW4tqrn45KuAAD+qpvU6+LT5HYQRC/9Hm8vmN20jH3qvTGwnUy0TYrrJkpewT58hBPt7AR+c7noZcNHtI293cfflWhSWZijZM9XZEd8xUlghwDDBRgj07cgnsdvZUubFE2JlGMvzGF3YjnMnWR+SLjfDxY41d4tJJPp93sOLQJLgjrjtRO3VYzV8LusPQrIJ8f/7glIb2aNyB3G4B5w1dT9W2EXEYagzKcbjyIT0AQZNJDdJm8y8cWSspnCuH605aTpZtqFoeoBGhF+zdjRCugZXlh4vwRI3k4gmihlz63Z8xPrHV8gwjDTPnAgWLnZD23xuhNfoiSzdWoHTPWfoiFyBmtI89rBznk0rk1UycFtAAA=
+missing_data:
+  alt_text: true
 ---
 
 Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It has great views of Mount Kilimanjaro, the highest free-standing mountain in the world.

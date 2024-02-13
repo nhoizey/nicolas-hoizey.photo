@@ -1,6 +1,7 @@
 ---
 title: Coco
 file: coco.jpg
+alt_text: Close-up of a scarlet macaw with vivid red feathers and a large curved beak.
 date: 2008-05-11 14:42:46 +01:00
 dates:
   iso: 2008-05-11
@@ -76,6 +77,8 @@ colors:
   darkMuted: 77 58 41
   lightMuted: 185 153 125
 lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAAAQDgCdASpkAEMAP3GiyVq0v7+wrbZsY/AuCUAY0DyARxXvAmVyJcXIyRi2V04IkgS05zyAD1x7fUvCnvfanN4RJ4LQHXB7Tyo+g6kDWENFcb2W1pdEDfTSMOrlMTWNVRr5QOtc81HWhPSgzaISj82OEZ1wu0d1us+AAP602W5nVTvPp4umLk6zC3EmMXLgnQAuOsMrXNNw0qufI2wpGUu6czeYj/XVpVwAff+uqHRjZapzGhGbsySlzpsFV9IvJXDrj+Ny16Re0ReMVS1eZKKTfxSawYdHZj4OyXDUQiT36bVmUKnecpvGxesLEy5P7OPgMkqGY0+EGISuKpBuReSHFdPIKxKRpWYhHbt253NkuDqOYIUjManW2ESQTUDpnOsiho0gd7saAoXuN+zfZae1zAxnbNJLa1vceg93ARAKarB0Rpj75BjsyTkWajTkWi2QA/K4KaQuwAAA
+missing_data:
+  description: true
 ---
 
 

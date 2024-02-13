@@ -72,6 +72,8 @@ colors:
   darkMuted: 86 65 53
   lightMuted: 197 190 189
 lqip: data:image/webp;base64,UklGRnABAABXRUJQVlA4IGQBAAAQCgCdASpkAEMAP3Giw1w0v6gmMVNrA/AuCU2v6zXTgZvvTXEvoJmfyYPYxQWQCAY9Ng1CK8l8gidHeTneerqBFK1fZxpOpYScyDv9/xwW1ti0aBUMcpSQQAD+4hCZKn1etfNncAffBuRvAHzdlamWWHLmcwoT9P46eM4yUcUFBmfkxnYolRlBpHhgYIAQ7upEhVybNRTlKGJ7WoMAwet3vUuZEwVrCWVco2cMes1I9FemuQS/uPuXW727v54Uu8C3GW5vp5J22rQ/SRdHGv6jeWrjdmE8AnBrBmEBBlvCa5Of2zBm2cl9Iulc+4hbGF57a4ODxTvmKO/g5ywkwWwB9QcrE7M6iSR84FPG1gRo+hQTRmu8D7iBBq5BzzyfKiYT0nLEd+2ZYYAL8BN+zwH8kASKiwt1eAHzoDRuiNZBXmHWJXk4hMaF13ADTmTpSnMqUDK+efqeX7K4EZBkn3cJgAAAAA==
+missing_data:
+  alt_text: true
 ---
 
 The Petit and the Grand Traouïero (what pretty names!) meet to feed this pretty natural harbor of Ploumanac'h, in Côtes-d'Armor, here obviously at low tide.

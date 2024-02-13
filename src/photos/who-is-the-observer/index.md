@@ -93,6 +93,8 @@ colors:
   darkMuted: 89 77 40
   lightMuted: 172 186 202
 lqip: data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAAAQCgCdASpkADEAP2Wcw1izP6glM3eMW/AsiU23eAC4UVeGLJhPfbMRcpcJZ6NMuff23hFAupjHWKjKvnN/b/S+nsMTgIYXCt6VWZKYWuHJOgdNJSRQd+it4AD+7A8e6Ad1kH1bWOJPCJajDOPky1pzkDzXnOtDbCMRTYP0oe8rT0FROf3ELnLhzSLr0ocOkqukcIRFjN6vWLZHBkL6+5anC/o+fhOlLChylg0HiewfqNejs52AmR7dvJIjjqbcK1Zhv4nCqRKtVJn4a8FC705t0mHSiC7lZeNnAJ9FKJ8Z24ya9nlVyj7yNzzE/bQTvNqPtvuL9hDDY6PIJFHNxZ94wQ/Yl3CmAAA=
+missing_data:
+  alt_text: true
 ---
 
 The Masai giraffe is the largest subspecies of giraffe, making it the tallest land animal on earth.

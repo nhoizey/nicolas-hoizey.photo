@@ -75,6 +75,8 @@ colors:
   darkMuted: 71 49 33
   lightMuted: 171 189 209
 lqip: data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAACQDQCdASpkAEMAP2WawlizKzelN7WLivAsiUAYkpqp/oB7HL8dBMknSlf1N+Y3b/z0QbFtqQqoPooVRWF6myCQwHjwCasn8+dXSOQOJn4OkHZNI3nQ/A03Q7HPQGDMMxExoZZALPkfXFaGxvsmrI3PaathVAAA05sbTVXH1oZ4t+n7OPmXyCRlatk70sc1CPSmREfZf1fu4MgA4luKr4UkB3hr0X0+9lYiibDQ5hjC9fDxGAUfl7Dq4X4+D/3ggQVS1Q5Glbb/e8+qasS4vNe9j4UThsI8b0N1I3IJvHwmIliCmMa16UbiiL5W4ttnjzotAjEDSKM+ZVAJhpqUDb7lhsqG7bG1qODWD1IS3j7WjeMIyEcK/5JGMoUlQBnUQRsjp5OpBs3dmLExE2cGbXUws6w1yV59h139D1sUeuu3LZnGenT3hBJ2xcsghX7FtfjziZfjg+inJGlxhuwh1Mu+w0gZ/AAA
+missing_data:
+  alt_text: true
 ---
 
 Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It is one of the best place in the world to get close to free-ranging elephants.

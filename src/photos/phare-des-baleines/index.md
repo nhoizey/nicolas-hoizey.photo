@@ -76,6 +76,8 @@ colors:
   darkMuted: 78 56 44
   lightMuted: 187 172 168
 lqip: data:image/webp;base64,UklGRs4BAABXRUJQVlA4IMIBAACwEACdASpkAGQAP3GixVk0v7m5sPYr0/AuCWcDsB4QvVYh+aShZGhNOG0s+dmnRsov1xdvyh5FiqQLPGZ8tUfaQUugF+1kxDGyrJENuzoS1QwGx5M5+LXPKqEPAoOukFY72f5rDMpn0/3+srITgNvZXjFBpDMz6LP7Sf58KPZyo7loCLseUnXsKxH8gboAAP7rrB4949/fbtKeAmSYBr8iRiODUYgKFx0cdoj97rteiw/j8jn57MuD4yHgXl7rU8AUWsSR8b2zBbJrIm6J0IFKNHb3VxLrGSMyxT2E5KRFDpge+Ub3BCpQ23HO4oRTSOc5TYrtIGNFke65jRq8X84Q02eGqlNr0SBkllPE88EbN5daxA6BWGzEGNN4pdDKcNRtFKKIxbKY82rgK06IZvZRD7pgME3db0ExCDJsT/Rb6e3tD2wmC9CYiA3WHi8xH6mDiIpmuPx+zkviBbpdlJ1zYeKfREUqKMQJgUgDeSerewTXPHVvsD5d3RBxOZC319A/Dbjz9kAGfaDJukz3ScMUUR2+X2bbMENaGRD7emq9P/MqnLSZfjUcCrhWVT2WrGHJJrIWjwjZNhTAn6wWWFAAAAA=
+missing_data:
+  alt_text: true
 ---
 
 How can you not feel caught up in this hypnotizing prospect... before having your calves on fire after 257 steps to climb.

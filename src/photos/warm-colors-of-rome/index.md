@@ -76,6 +76,8 @@ colors:
   darkMuted: 97 64 51
   lightMuted: 175 197 212
 lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAADQDwCdASpkAEMAP2Wew1izLCelNRN9UmAsiUAZdQUQB/TW9nBMWfexmkzWCqt3H0wMOOuieCyV/aaZCUiUMH1cvgs1mpuSmsLI3rfEbt6BmpKttY2TWIMtZTSQ6NDXABj6lii76PPiXzz56X/FrnimEMfn27DAsZE75LTd1ooiOPSMULEqxAAA/qUGOAOWY48JQIJEasiyVDKVk89uExdiNXJfgDk5UCDPg/uYmTOGCPT9zKNGTsUbYm0M0N3+hxXstLCtXAZIPfenqv7HLom91EZcJKZuRV32OiXD+myYwDIMhEIL2JVjBNiw4H3FLDgpB6J9ZRd8zdi6hd5n8LCsSMrl4qYEfaWuL0WOkhhLkh6IwHfwED1J8tPo8Y5SHO4LqhQOvBb3evWz5xvk+Aq0/ym9Je6boibwfbrCPco87UmDsHFjbHLaBEY7u7UGuE7gipm45KYGMOf3c8M+4nOVEIPYEfGZWrUr2YAh/MtJ3UZzQMuS5z2ZUGndUDWzY5hh3/zIdnKUqGrWFr+6iosvGih9ZU88gKUt0Ql/33MjO85mm2CV5gAA
+missing_data:
+  alt_text: true
 ---
 
 Colour is an ongoing concern in Italy due to the economic benefits that can be obtained from the restoration and re-use of buildings at historical sites, and because of the deterioration of the construction materials used in facades.

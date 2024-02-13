@@ -73,6 +73,8 @@ colors:
   darkMuted: 84 60 44
   lightMuted: 180 194 208
 lqip: data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAADQBgCdASpkAEMAP3G40GG0rzUoI6nSoC4JQBpGhIxS0T0opDcWpGavgQCznDWTkcjhq3VUAS72DLofQVGGQIAA/u7P/AYWx5y/UeU2CchPMQMmetgPNmNGIV56zZ8exkuXIgVsb6cXujGX/HEydEz9CKob+8+dvncJNIHKpquSwyZCTP8HkN6+GiHwXrTGkaOP+sMDRMk6aPun8Vsp4847ELCHWFU5iIiFsgqQXc2SeFPsidOSEgA4r493REQjBavqjgA/0o+TYAAA
+missing_data:
+  alt_text: true
 ---
 
 This is not an hotel, as some might think. "<a href="http://www.bonjourhk.com/en/main.aspx">Bonjour</a>" is a cosmetics retail store in Hong Kong.

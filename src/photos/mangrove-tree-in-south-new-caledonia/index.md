@@ -73,6 +73,8 @@ colors:
   darkMuted: 89 71 54
   lightMuted: 183 195 205
 lqip: data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAACwCACdASpkAEMAP3Gqylo0t6kqrrcKivAuCWMtgFEAs9oYAEGAKIEXfXRBAEJ4RvMQeheKZmJgWyVqixz3dnvCWiY0GoduTzOR3nSHHUAA+omw+PZNps1f3bfhLToc8rgnvoZRYAAtDDWOmBscn87b/0eDd1ZOld89lXEM5NAuyqVf+bw2pZlY1Ya8iD9CfjMPAX8yRcWw59cSbEmIORJDUGTVFcCvpi8tBQ4QNFtyHZ1QIk3mo291J1Owf0exf6PaHAkUy8KUUVtkNdwntas4hpiMEdWLh0W8smzHba0f+Gzd+ZzdL6BVtE28ZCl7CfUfWU8IAHmBF/FsrCoUTZHMho9CTzAvJCMOQAAA
+missing_data:
+  alt_text: true
 ---
 
 Mangroves are tropical trees or shrubs belonging to various species of angiosperms, able to thrive along marine shores in the tidal swing zone. 

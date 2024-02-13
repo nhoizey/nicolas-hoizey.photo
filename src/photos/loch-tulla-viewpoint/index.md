@@ -80,6 +80,8 @@ colors:
   darkMuted: 44 41 23
   lightMuted: 191 192 193
 lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAACwDACdASpkAEMAP1mYu1i4P6ajuLe7A/ArCWVtMV+tCE8mkdjJudMiLg2LTtRyEmU0R4shqNe+5/3wO3PFVzwSbVZ0o4QAEglBKjSLAvF/l+OT4XuUv2StaKRWSk0+KR7CBMSW52zdex7qwcqYAAD+7Xo395wYm8kmgudOhhKSz18wriHbisz4nKX+PBiUwgb14xcmyR/X6ty4Jcp4Hu/vN8zkhj1a/VCNvFD+LNiVH/eirdJA2xWA2kJPFRdnvwN1WZSwbv8QQ5FVxWX6WKk2NAGYr7BV+TBlGTbHSEr82zzbSum4brVlHG3vtjgqD8WBNLKdZ//les1t+mEUKRmrsBfjr2yWZwNxAP2yU9tYxADwUnTau2HAcwOnyVHD3Gat72zWQSA1T5aAAAA=
+missing_data:
+  alt_text: true
 ---
 
 This is one of the smaller lochs along the West Highland Way and can be found close to Inveroran and Bridge of Orchy. The views around here are amazing.

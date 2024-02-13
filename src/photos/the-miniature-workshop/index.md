@@ -1,6 +1,9 @@
 ---
 title: The miniature workshop
 file: the-miniature-workshop.jpg
+alt_text: A detailed miniature of an old-fashioned workshop interior with a
+  spinning wheel, shelves with pottery, a fireplace, and a ladder leading to an
+  upper level.
 date: 2006-12-26 16:00:35 +01:00
 dates:
   iso: 2006-12-26
@@ -17,6 +20,7 @@ gear:
       model: EF-S 17-85mm f/4-5.6 IS USM
       short: 17-85mm
 tags:
+  - Auvergne-Rhône-Alpes
   - Cinema and Miniature museum
   - Europa
   - Europe
@@ -28,7 +32,6 @@ tags:
   - musée
   - Musée Cinéma & Miniature
   - Rhône
-  - Rhône-Alpes
   - scale
   - scale model
 settings:

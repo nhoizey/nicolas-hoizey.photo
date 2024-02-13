@@ -81,6 +81,8 @@ colors:
   darkMuted: 46 55 73
   lightMuted: 6 99 147
 lqip: data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBwCdASpkAEMAP3GszGC7uDOvqFHLY3AuCWMAznQa43wpP1VMh0OgQDaM7W/rYcWValHvGXYitOMqI6xMql+uEeLd0OAA/ux8AQpoo+4erlU5iF7lEGmMDKLI22rD756kK+fWqS1lYcMDsmgkrwyaH2LGM/ksnUAKQxb2ULa4cO1XSn1Xpqsg9qw5UjT/S7rYJD1Yszob1ilV+TB049pAeoY31lREyoz6IBhY35OoAXEzSf3CSA2xZnSqGIAA
+missing_data:
+  alt_text: true
 ---
 
 The Ploumanac'h lighthouse (officially the Mean Ruz lighthouse) is an active lighthouse in Côtes-d'Armor, France, located in Perros-Guirec. The lighthouse is closed to the public.

@@ -1,6 +1,8 @@
 ---
 title: The walls of the Alcazar of Seville
 file: the-walls-of-the-alcazar-of-seville.jpg
+alt_text: An angled view of the battlements of a terracotta-colored fortress
+  wall against a clear blue sky.
 date: 2004-09-21 18:12:00 +01:00
 dates:
   iso: 2004-09-21
@@ -77,6 +79,8 @@ colors:
   darkMuted: 124 94 68
   lightMuted: 176 183 217
 lqip: data:image/webp;base64,UklGRlQBAABXRUJQVlA4IEgBAABwCwCdASpkAEoAP3Gyzl40rr6tpnkrs9AuCWIAxzXjAtu5gqT1VBlth+R8RxjDoRp6uww8XTvvPTbxNLX5s1DGO3qOoNma5Fo4glE84gCZShy+YzZq+tj9eBEl1n3mipml6oDAAP7P40JV6vRlUHxaVk+KjzbWVKt3FpXp8eN542ydEP7EuaUT8F1iZ0a2Dz6KyfIj7lgIWBady9M+llZ/twtAp45a3v6GP/jZ1+SlSwU9B3t77YV0oDQtmsU69Z78Prbh8iHgH9tM7xC+r4ntGnFs+D4LfLlv4r5IjhAjF2QCvz8PVHqy/CXXVb9p7GN7fBIG894bcgmU1zN/llxLL93JDwcJZ0muEN6sdB6O7/z/JO5bNvADVFuLwa0FLpsCOm6ukIGMPkbAamEs/XJV2xMt8SA91n4TEB3okQc1HyNCHl3rkYAA
+missing_data:
+  lens: true
 ---
 
 The Alcázar of Seville is a fortified palace (alcázar) built in Seville by the Umayyads of Spain and modified several times during and after the Muslim period. It is considered the most brilliant example of Mudejar architecture on the Iberian Peninsula.

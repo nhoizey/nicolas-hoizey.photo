@@ -1,6 +1,8 @@
 ---
 title: Eastern Desert perspective
 file: eastern-desert-perspective.jpg
+alt_text: Desert landscape with a stone path leading towards a range of
+  mountains in the background, sparse vegetation, and a clear sky at twilight.
 date: 2004-05-14 17:43:50 +01:00
 dates:
   iso: 2004-05-14
@@ -72,6 +74,9 @@ colors:
   darkMuted: 83 64 56
   lightMuted: 203 184 189
 lqip: data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAABQCQCdASpkAEoAP3GsyVo0v6kqrrn5s/AuCWUDsB4YiBzsk1GiaxxC05HZJrEb7YFwRaZqgD1xsrY29XVrrzTXaadZYjTWg3hKQrkEjdZsdc/UAAD+5c7IInOu1IVbjYLuE3Ny4OvBe5l7kPH1WHJ3zijXFoDBeEHVdJ2wRGCZGoQp2EzJOYlb7BrHz5okP6PKvDrGShynlzTyACdo/XuO3P/w37MwP9C47qjJag8HbA3abuuO5Q3RulpbGG3+j6nLALVzt2GPKhUkc0lj7TzFy8BkyaYAAAA=
+missing_data:
+  description: true
+  lens: true
 ---
 
 

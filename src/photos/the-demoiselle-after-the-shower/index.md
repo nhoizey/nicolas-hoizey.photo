@@ -83,6 +83,8 @@ colors:
   darkMuted: 69 42 51
   lightMuted: 178 189 211
 lqip: data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAACQCwCdASpkAEMAP22cwli0vqcqNRWaq9AtiWcGcA1iRIU2zFE6Jhux00w4aElyimOXJmnbtAbkQ1qa+wDYcCCygQmHsztxO9U4vIzGae0e+6J2TxKArB/O7AmZwzA3y/8helGxhgD+zzsZ7MtyyHBaNvjIu6hCvan1WuBTHEF+rT+V8XNahHYOZt7Kd/fadJw1tzc8nTD+Zj6zjTsKsGzrctzBmp0a9m3mECYprGQcRxWPZGQlQAyE9Yn+GG6bG8xoDJkUY6jxYnOO/3sgj7flrUij1Jp67eubrIEvh9tR5KZd7acREJ9ZQBSskZjTnTmzmvLya1/GYYQ4I3LGDGAzy4/taXxuXQCPseoyDDbfI9fIvJRMhmyl26sDZUkqnXNnX7OKAAA=
+missing_data:
+  alt_text: true
 ---
 
 When you wake up, after a dew shower, the sun is welcome to dry all those droplets!

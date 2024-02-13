@@ -90,6 +90,8 @@ colors:
   darkMuted: 75 61 43
   lightMuted: 190 180 162
 lqip: data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAADQCwCdASpkAEMAP3Gmw1m0v7g6sHR7w/AuCWdtTYASqVJ9oPzRxoLcF6HDLShOBaHerqJWwqIjx+wm36cW1K6oNnqHZXaH2DcAbH2pWtqd8+IUHhl7Uby2EhsAD1/GP0CN7LgfmsEAAMs29kLT3XQ8P36A0pc29Q4D2adBGIglChk4QR7vAOIab3ctwtdFh6tERfn1ObfptkIEXfzhZm3JDB4smyrn59XYXOPzel9AXHIcK1+gCik8+uUvB2zDfJzzDyvcgy9NMbeHzng3gqY1HIWJMpZrWRK22FJ0uQNi1VQz501wQvtr1qyPyRPiSObBNifz8f9st63rLIfZ1Ph0ktr/x4qHgeyuHYHuiZz6889gP4sOaYXTYeqX+Ep+P739d1ZkP/EiY83ZvNtYflo45mhDJAAA
+missing_data:
+  alt_text: true
 ---
 
 The Rhino Sanctuary in Lake Nakuru National Park was the first Rhino sanctuary in Kenya and is currently home to the largest number of black rhinos in the country. The rhino sanctuary was established in 1984 when the first two rhinos were introduced to the lake Nakuru National Park grounds.

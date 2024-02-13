@@ -85,6 +85,8 @@ colors:
   darkMuted: 100 84 44
   lightMuted: 206 191 166
 lqip: data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAAAwCQCdASpkAEMAP3Goy140q7MtqhdLApAuCWUAz9wnL4givSgF85RmIe1fVBEBFZjchiA1x3jyM0VaK5RG16Al4Crii7CH8spKonESBJN77oUAAP4sJNcXUy1LrSIPr4S/F0BsaavFmPfZ5zKWPoEz9b3E2aXrm6jfK6zudtAgFV1iLgmMFVLT8uHZweURTDlSyO1ZDP7MEkeyWLvsOjlFSSHI5cH+BLPDIQHRisnh47oJm6hqIGktIZbheCmGbnfQXgST9Fn+Db6tPZQ8SDgLWXsntYJ15NFmmDJZC8X6hY9uU9AAAA==
+missing_data:
+  alt_text: true
 ---
 
 The African fish eagle is a large species of eagle found throughout sub-Saharan Africa wherever large bodies of open water with an abundant food supply occur.

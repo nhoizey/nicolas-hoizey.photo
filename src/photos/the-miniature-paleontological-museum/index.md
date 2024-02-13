@@ -1,6 +1,8 @@
 ---
 title: The miniature paleontological museum
 file: the-miniature-paleontological-museum.jpg
+alt_text: A detailed miniature of the interior of a museum, with dinosaur
+  skeletons, wooden floors, and a staircase with intricate railings.
 date: 2006-12-26 16:01:05 +01:00
 dates:
   iso: 2006-12-26
@@ -17,6 +19,7 @@ gear:
       model: EF-S 17-85mm f/4-5.6 IS USM
       short: 17-85mm
 tags:
+  - Auvergne-Rhône-Alpes
   - Cinema and Miniature museum
   - Europa
   - Europe
@@ -28,7 +31,6 @@ tags:
   - musée
   - Musée Cinéma & Miniature
   - Rhône
-  - Rhône-Alpes
   - scale
   - scale model
 settings:
