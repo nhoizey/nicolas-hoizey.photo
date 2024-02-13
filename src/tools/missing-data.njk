@@ -1,0 +1,96 @@
+---
+layout: page
+title: Missing data in photos
+---
+
+{% from "macros/css.njk" import css %}
+{{ css('components/photos', build.env) }}
+
+<div class="header">
+  {% include 'components/breadcrumb-tools.njk' %}
+  <h1>{{ title }}</h1>
+</div>
+
+<style>
+table {
+  border-collapse: collapse;
+}
+
+thead {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: #000;
+}
+
+th, td {
+  padding: 1rem;
+  vertical-align: middle;
+}
+
+table img {
+  max-width: 18rem;
+  height: auto;
+}
+
+tbody tr {
+  display: none;
+}
+
+table:has(input#alt_text:checked) tbody tr.alt_text {
+  display: table-row;
+}
+table:has(input#description:checked) tbody tr.description {
+  display: table-row;
+}
+table:has(input#camera:checked) tbody tr.camera {
+  display: table-row;
+}
+table:has(input#lens:checked) tbody tr.lens {
+  display: table-row;
+}
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Photo</th>
+      <th><input type="checkbox" checked id="alt_text"/> Alt&nbsp;text</th>
+      <th><input type="checkbox" checked id="description"/> Description</th>
+      <th><input type="checkbox" checked id="camera"/> Camera</th>
+      <th><input type="checkbox" checked id="lens"/> Lens</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in collections.unique_photos | by_date %}
+      {% if item.data.origin.data.missing_data %}
+        {% set classes = "" %}
+        {% for name, item in item.data.origin.data.missing_data %}
+          {% set classes = classes ~ " " ~ name %}
+        {% endfor %}
+        <tr class="{{ classes }}">
+          <td>
+            <img
+              src="/photos/{{ item.fileSlug }}/small.jpg"
+              alt=""
+              width="900"
+              height="600"
+              class="frame"
+              loading="lazy"
+              decoding="async"
+              data-responsiver="false"
+            />
+          </td>
+          <td>
+            <a href="{{ item.page.url }}">{{ item.data.title }}</a><br />
+            <input type="text" size="20" value="{{ item.page.fileSlug }}" style="font-size: .6em" onclick="this.select();document.execCommand('copy')"/>
+          </td>
+          <td>{{ '❌' if item.data.origin.data.missing_data.alt_text else '✅' }}</td>
+          <td>{{ '❌' if item.data.origin.data.missing_data.description else '✅' }}</td>
+          <td>{{ '❌' if item.data.origin.data.missing_data.camera else '✅' }}</td>
+          <td>{{ '❌' if item.data.origin.data.missing_data.lens else '✅' }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

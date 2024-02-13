@@ -20,6 +20,7 @@ const getMinFocalLength = (lense) => {
 };
 
 module.exports = {
+  by_date: (collection) => collection.sort(chronoSort),
   findBySlug: (collection, slug) => {
     // Inspired by @tylersticka
     // https://github.com/11ty/eleventy/issues/399#issuecomment-466514166
