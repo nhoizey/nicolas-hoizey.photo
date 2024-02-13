@@ -95,6 +95,8 @@ SYNC ${photo}`);
       photosData[photo] = {};
     }
 
+    let missingData = {};
+
     let copyPhotoFile = false;
     if (JSON.stringify(photosData[photo].raw) !== JSON.stringify(photoExif)) {
       thisLog(`  ⚠ EXIF data are new or changed`);
@@ -123,9 +125,7 @@ SYNC ${photo}`);
       photoAltText = photoExif.Iptc4xmpCore.AltTextAccessibility.value.trim();
     }
     if (photoAltText.length === 0) {
-      thisLog(
-        `  ⚠ alt text missing: fill AltTextAccessibility field in Lightroom`
-      );
+      missingData.alt_text = true;
     } else {
       photoYFM.alt_text = photoAltText;
     }
@@ -136,7 +136,7 @@ SYNC ${photo}`);
       photoDescription = photoExif.ifd0.ImageDescription.trim();
     }
     if (photoDescription.length === 0) {
-      thisLog(`  ⚠ description missing`);
+      missingData.description = true;
     }
 
     // get photo date
@@ -199,7 +199,7 @@ SYNC ${photo}`);
           ].join(' ');
         }
       } else {
-        thisLog(`  ⚠ exif.Model missing`);
+        missingData.camera = true;
       }
 
       if (photoExif.exif.LensModel) {
@@ -234,7 +234,7 @@ SYNC ${photo}`);
           }
         }
       } else {
-        thisLog(`  ⚠ exif.LensModel missing`);
+        missingData.lens = true;
       }
     }
 
@@ -335,7 +335,7 @@ SYNC ${photo}`);
           parseFloat(process.env.HOME_1_LONGITUDE_MIN) &&
         photoExif.gps.longitude <= parseFloat(process.env.HOME_1_LONGITUDE_MAX)
       ) {
-        thisLog(`  ⚠ Removing position for photo in home 1 area`);
+        // Removing position for photo in home 1 area
       } else if (
         photoExif.gps.latitude >= parseFloat(process.env.HOME_2_LATITUDE_MIN) &&
         photoExif.gps.latitude <= parseFloat(process.env.HOME_2_LATITUDE_MAX) &&
@@ -343,7 +343,7 @@ SYNC ${photo}`);
           parseFloat(process.env.HOME_2_LONGITUDE_MIN) &&
         photoExif.gps.longitude <= parseFloat(process.env.HOME_2_LONGITUDE_MAX)
       ) {
-        thisLog(`  ⚠ Removing position for photo in home 2 area`);
+        // Removing position for photo in home 2 area
       } else {
         photoYFM.geo = {
           latitude: photoExif.gps.latitude,
@@ -362,7 +362,7 @@ SYNC ${photo}`);
         if (fs.existsSync(mapFile)) {
           photoYFM.geo.map = true;
         } else {
-          thisLog(`  ⚠ map image missing`);
+          missingData.map = true;
         }
 
         // Generate thumbnails for 1x screens
@@ -419,13 +419,13 @@ SYNC ${photo}`);
         }
       }
     } else {
-      thisLog(`  ⚠ geolocation missing`);
+      missingData.geolocation = true;
     }
 
     // Check opengraph image for the photo
     const opengraphFile = path.join(distDir, 'opengraph.jpg');
     if (!fs.existsSync(opengraphFile)) {
-      thisLog(`  ⚠ opengraph image missing`);
+      missingData.opengraph = true;
     }
 
     if (photosData[photo].colors) {
@@ -472,6 +472,11 @@ SYNC ${photo}`);
         });
       photoYFM.lqip = `data:image/webp;base64,${data.toString('base64')}`;
       photosData[photo].lqip = photoYFM.lqip;
+    }
+
+    // Add missing data
+    if (Object.keys(missingData).length > 0) {
+      photoYFM.missing_data = missingData;
     }
 
     // Manage folder and file
