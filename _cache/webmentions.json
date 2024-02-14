@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-02-12T06:06:05.527Z",
+  "lastFetched": "2024-02-14T06:06:54.673Z",
   "webmentions": [
     {
       "type": "entry",
@@ -68010,6 +68010,25 @@
       },
       "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JP Bester",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/5483ee4e59be0ccac9ee995f1c4d0ece6f554abb42b330e0671ef83104d8310b.jpg",
+        "url": "https://www.flickr.com/people/198939700@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53430835357/#liked-by-198939700@N05",
+      "published": "2024-02-13T17:42:05Z",
+      "wm-received": "2024-02-13T17:42:05Z",
+      "wm-id": 1780585,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53430835357/198939700@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
