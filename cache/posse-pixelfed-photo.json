@@ -132,7 +132,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-miniature-workshop/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "The miniature workshop"
+        "title": "The miniature workshop",
+        "_alt_text": "A detailed miniature of an old-fashioned workshop interior with a spinning wheel, shelves with pottery, a fireplace, and a ladder leading to an upper level."
       }
     ],
     "toots": [
@@ -151,7 +152,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-miniature-bistro/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "The miniature bistro"
+        "title": "The miniature bistro",
+        "_alt_text": "A detailed miniature model of a vintage cafe interior with wooden furniture, decorative bar counter, hanging lamps, and various accessories. Vintage posters adorn the walls, and there is a tiled floor."
       }
     ],
     "toots": [
@@ -170,7 +172,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-miniature-paleontological-museum/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "The miniature paleontological museum"
+        "title": "The miniature paleontological museum",
+        "_alt_text": "A detailed miniature of the interior of a museum, with dinosaur skeletons, wooden floors, and a staircase with intricate railings."
       }
     ],
     "toots": [
@@ -472,7 +475,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Eastern Desert perspective"
+        "title": "Eastern Desert perspective",
+        "_alt_text": "Desert landscape with a stone path leading towards a range of mountains in the background, sparse vegetation, and a clear sky at twilight."
       }
     ],
     "toots": [
@@ -549,7 +553,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/eccentric-concentric-circles-in-carcassonne-citadel/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Eccentric concentric circles in Carcassonne citadel"
+        "title": "Eccentric concentric circles in Carcassonne citadel",
+        "_alt_text": "Walls of the medieval fortress of Carcassonne, with traces which, when viewed at the right angle, reveal concentric circles."
       }
     ],
     "toots": [
@@ -588,7 +593,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "The arch from “Once Upon A Time In The West” in Texas Hollywood"
+        "title": "The arch from “Once Upon A Time In The West” in Texas Hollywood",
+        "_alt_text": "Brick archway standing in a desert landscape with clear skies."
       }
     ],
     "toots": [
@@ -607,7 +613,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "The Plaza de Toros de Ronda"
+        "title": "The Plaza de Toros de Ronda",
+        "_alt_text": "A bullring with empty seating and sand-covered arena in the foreground."
       }
     ],
     "toots": [
@@ -626,7 +633,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-walls-of-the-alcazar-of-seville/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "The walls of the Alcazar of Seville"
+        "title": "The walls of the Alcazar of Seville",
+        "_alt_text": "An angled view of the battlements of a terracotta-colored fortress wall against a clear blue sky."
       }
     ],
     "toots": [
@@ -821,7 +829,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/portree-harbour/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Portree harbour"
+        "title": "Portree harbour",
+        "_alt_text": "Colorful buildings along a seaside street with parked cars, a stone wall, and boats on the water with a mountainous backdrop."
       }
     ],
     "toots": [
@@ -1657,7 +1666,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/lost-in-white-space/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Lost in (white) space"
+        "title": "Lost in (white) space",
+        "_alt_text": "Person in a blue hoodie taking a photo with a camera against a white background."
       }
     ],
     "toots": [
@@ -1946,7 +1956,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/larva-of-tenthredo-marginella/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Larva of Tenthredo Marginella"
+        "title": "Larva of Tenthredo Marginella",
+        "_alt_text": "A dark blue larva with orange spots on a green plant stem."
       }
     ],
     "toots": [
@@ -3300,9 +3311,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/663203804678264397"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1707876908807
   },
   "https://nicolas-hoizey.photo/photos/elephant-in-maasai-mara/": {
     "id": "https://nicolas-hoizey.photo/photos/elephant-in-maasai-mara/",
@@ -3604,7 +3616,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/lioness-on-the-lookout/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Lioness on the lookout"
+        "title": "Lioness on the lookout",
+        "_alt_text": "A lioness sitting on grass by a termite mound, with bushes and grassland in the background."
       }
     ],
     "toots": [
@@ -3926,12 +3939,13 @@
     "language": "en",
     "title": "Civilization",
     "date_published": "2019-03-01T07:46:20Z",
-    "content_text": "“Civilization”\n\n\n\n🔎 https://nicolas-hoizey.photo/photos/civilization/\n\n📅 1 March 2019\n\n📸 Fujifilm X-T2 + 27mm\n🎛️ ISO 200, ƒ/2.8, 1/3200 s\n\n#Travel #TravelPhotography #Africa #Kenya #Amboseli #NationalPark #Photography #Fujifilm #Fuji #XT2",
+    "content_text": "“Civilization”\n\nIt's amazing how seeing a herd of goats and a few houses is enough to bring you back to earth after a few days spent admiring the wild animals of Amboseli National Park, in a largely untouched wilderness.\n\n🔎 https://nicolas-hoizey.photo/photos/civilization/\n\n📅 1 March 2019\n\n📸 Fujifilm X-T2 + 27mm\n🎛️ ISO 200, ƒ/2.8, 1/3200 s\n\n#Travel #TravelPhotography #Africa #Kenya #Amboseli #NationalPark #Photography #Fujifilm #Fuji #XT2",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.photo/photos/civilization/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Civilization"
+        "title": "Civilization",
+        "_alt_text": "A herd of goats on a dry landscape with Mount Kilimanjaro in the background and a couple of trees and structures on the sides."
       }
     ],
     "toots": [
@@ -4159,12 +4173,13 @@
     "language": "en",
     "title": "A little nap",
     "date_published": "2019-02-26T09:31:41Z",
-    "content_text": "“A little nap”\n\n\n\n🔎 https://nicolas-hoizey.photo/photos/a-little-nap/\n\n📅 26 February 2019\n\n📸 Fujifilm X-T2 + 27mm\n🎛️ ISO 200, ƒ/6.4, 1/340 s\n\n#Travel #TravelPhotography #Africa #Kenya #MaasaiMara #NationalPark #Photography #Fujifilm #Fuji #XT2",
+    "content_text": "“A little nap”\n\nThe sweltering midday heat doesn't spare the animals.\n\n🔎 https://nicolas-hoizey.photo/photos/a-little-nap/\n\n📅 26 February 2019\n\n📸 Fujifilm X-T2 + 27mm\n🎛️ ISO 200, ƒ/6.4, 1/340 s\n\n#Travel #TravelPhotography #Africa #Kenya #MaasaiMara #NationalPark #Photography #Fujifilm #Fuji #XT2",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.photo/photos/a-little-nap/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "A little nap"
+        "title": "A little nap",
+        "_alt_text": "Massai village with a traditional mud hut with a thatched roof, and a dog lying on the ground in the foreground."
       }
     ],
     "toots": [
@@ -4628,7 +4643,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/coco/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Coco"
+        "title": "Coco",
+        "_alt_text": "Close-up of a scarlet macaw with vivid red feathers and a large curved beak."
       }
     ],
     "toots": [
@@ -4647,7 +4663,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/colorful-feathers/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Colorful feathers"
+        "title": "Colorful feathers",
+        "_alt_text": "Close-up of colorful parrot feathers, showcasing vibrant yellow, red, and blue hues."
       }
     ],
     "toots": [
@@ -4666,7 +4683,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/imeri-gramvousa/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Imeri Gramvousa"
+        "title": "Imeri Gramvousa",
+        "_alt_text": "Panoramic view of a coastal landscape featuring a crescent-shaped beach with clear turquoise water, a ship docked on a pier, and rugged cliffs surrounding the bay."
       }
     ],
     "toots": [
@@ -4706,7 +4724,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/itbay/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Itbāy"
+        "title": "Itbāy",
+        "_alt_text": "Desert landscape with sandy ground and rocky hills under a hazy sky."
       }
     ],
     "toots": [
@@ -4725,7 +4744,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/would-you-like-some-bedouin-tea/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Would you like some bedouin tea?"
+        "title": "Would you like some bedouin tea?",
+        "_alt_text": "An Egyptian man in traditional dress preparing tea in a tent, against a desert backdrop, with a camel in the background."
       }
     ],
     "toots": [
@@ -4744,7 +4764,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/toucan-toco/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Toucan toco"
+        "title": "Toucan toco",
+        "_alt_text": "Close-up of a toucan with a vibrant orange, yellow, and black beak against a blurred green background."
       }
     ],
     "toots": [
@@ -4822,7 +4843,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/a-peaceful-canal-in-venice/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "A peaceful canal in Venice"
+        "title": "A peaceful canal in Venice",
+        "_alt_text": "A canal in Venice with moored boats, historic buildings, and a person walking along the waterfront."
       }
     ],
     "toots": [
@@ -4841,7 +4863,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/another-colourful-window-in-burano/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Another colourful window in Burano"
+        "title": "Another colourful window in Burano",
+        "_alt_text": "A blue window with red frame on a yellow wall."
       }
     ],
     "toots": [
@@ -4860,7 +4883,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/colourful-burano/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Colourful Burano"
+        "title": "Colourful Burano",
+        "_alt_text": "Colorful buildings line a narrow canal with boats in Burano, Italy, as people walk along the sidewalks."
       }
     ],
     "toots": [
@@ -4880,7 +4904,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/colourful-window-in-burano/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Colourful window in Burano"
+        "title": "Colourful window in Burano",
+        "_alt_text": "A green window shutter on a vibrant red wall with a small plant box underneath."
       }
     ],
     "toots": [
@@ -4899,7 +4924,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/primary-colours-of-burano/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Primary colours of Burano"
+        "title": "Primary colours of Burano",
+        "_alt_text": "Colorful buildings with closed shutters under a clear blue sky."
       }
     ],
     "toots": [
@@ -4918,7 +4944,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/palazzo-cavalli-franchetti/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Palazzo Cavalli-Franchetti"
+        "title": "Palazzo Cavalli-Franchetti",
+        "_alt_text": "A view of the Grand Canal in Venice with historic buildings lining the sides, boats on the water, and a distant dome under restoration scaffolding."
       }
     ],
     "toots": [
@@ -4937,7 +4964,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/tone-on-tone/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Tone-on-tone"
+        "title": "Tone-on-tone",
+        "_alt_text": "A person dressed in green jogs past a green house along a waterfront."
       }
     ],
     "toots": [
@@ -5611,7 +5639,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-fishmonger/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "The fishmonger"
+        "title": "The fishmonger",
+        "_alt_text": "A street-side butcher shop with a butcher at work and customers waiting."
       }
     ],
     "toots": [
@@ -6252,7 +6281,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/curves/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Curves"
+        "title": "Curves",
+        "_alt_text": "Black and white photo of two people wading in water with concentric ripples around them."
       }
     ],
     "toots": [
@@ -6325,12 +6355,13 @@
     "language": "en",
     "title": "Wood pier in sunset",
     "date_published": "2004-06-12T20:29:56Z",
-    "content_text": "“Wood pier in sunset”\n\n\n\n🔎 https://nicolas-hoizey.photo/photos/wood-pier-in-sunset/\n\n📅 12 June 2004\n\n📸 Konica KD-400Z\n🎛️ ISO 100, ƒ/2.8, 1/8 s\n\n#Travel #TravelPhotography #Europe #France #Normandie #SeineMaritime #Photography #Konica",
+    "content_text": "“Wood pier in sunset”\n\nLe Tréport lighthouse is located on the Normandy coast, at the end of the jetty of the town's port.\n\nThe edifice was built in 1844 to mark the access to the port and the outlet of the Eu canal to the sea.\n\nAt 14 m high, the lighthouse is a cylindrical tower covered in white and green paint, with a halogen lamp and a range of 20 nautical miles (37 km).\n\n🔎 https://nicolas-hoizey.photo/photos/wood-pier-in-sunset/\n\n📅 12 June 2004\n\n📸 Konica KD-400Z\n🎛️ ISO 100, ƒ/2.8, 1/8 s\n\n#Travel #TravelPhotography #Europe #France #Normandie #SeineMaritime #Photography #Konica",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.photo/photos/wood-pier-in-sunset/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Wood pier in sunset"
+        "title": "Wood pier in sunset",
+        "_alt_text": "Wooden pier leading to a lighthouse with a lit green beacon during sunset, under a clouded sky."
       }
     ],
     "toots": [
@@ -6349,7 +6380,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/a-long-tailed-tit-in-sweden/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "A Long-tailed Tit in Sweden"
+        "title": "A Long-tailed Tit in Sweden",
+        "_alt_text": "A small white and grey bird perched on a bare branch in a woodland."
       }
     ],
     "toots": [
@@ -6562,7 +6594,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/la-mere-rouge/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "La mère rouge"
+        "title": "La mère rouge",
+        "_alt_text": "Woman wearing a red jacket, standing at the bow of a boat, looking out over the calm blue sea."
       }
     ],
     "toots": [
@@ -12206,12 +12239,13 @@
     "language": "en",
     "title": "Welcome",
     "date_published": "2009-10-10T15:02:13Z",
-    "content_text": "“Welcome”\n\n\n\n🔎 https://nicolas-hoizey.photo/photos/welcome/\n\n📅 10 October 2009\n\n📸 Canon 5D II + 135mm\n🎛️ ISO 100, ƒ/2, 1/250 s\n\n#Miscellaneous #Photography #Canon #5DMarkII",
+    "content_text": "“Welcome”\n\nIt's not much, but it adds to the feeling of being welcome, and that's nice.\n\n🔎 https://nicolas-hoizey.photo/photos/welcome/\n\n📅 10 October 2009\n\n📸 Canon 5D II + 135mm\n🎛️ ISO 100, ƒ/2, 1/250 s\n\n#Miscellaneous #Photography #Canon #5DMarkII",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.photo/photos/welcome/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Welcome"
+        "title": "Welcome",
+        "_alt_text": "A “welcome” sign in the foreground with a blurry background showing a group of people."
       }
     ],
     "toots": [
@@ -12231,7 +12265,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/frost/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Frost"
+        "title": "Frost",
+        "_alt_text": "Frost-covered leaves on a branch against a blurred background."
       }
     ],
     "toots": [
