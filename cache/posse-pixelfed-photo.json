@@ -5412,7 +5412,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/blue-house-and-other-colors/small.jpg",
         "mime_type": "image/jpeg",
-        "title": "Blue House, and other colors"
+        "title": "Blue House, and other colors",
+        "_alt_text": "An urban street scene with colorful buildings and a red taxi in the foreground. Pedestrians are crossing the street, and there's a mix of modern and older architecture."
       }
     ],
     "toots": [
@@ -12460,5 +12461,25 @@
       "https://pixelfed.social/p/nhoizey/656669075241820958"
     ],
     "lastTootTimestamp": 1706318907971
+  },
+  "https://nicolas-hoizey.photo/photos/gentiana-delphinensis/": {
+    "id": "https://nicolas-hoizey.photo/photos/gentiana-delphinensis/",
+    "url": "https://nicolas-hoizey.photo/photos/gentiana-delphinensis/",
+    "language": "en",
+    "title": "Gentiana delphinensis",
+    "date_published": "2023-10-19T13:41:17Z",
+    "content_text": "“Gentiana delphinensis”\n\nThis gentian is endemic to the Dauphiné region of France. It is very similar to Gentiana verna but differs in that its leaves are lanceolate, acute and relatively long.\n\n🔎 https://nicolas-hoizey.photo/photos/gentiana-delphinensis/\n\n📅 19 October 2023\n\n📸 Fujifilm X-H2s + 10-24mm\n🎛️ ISO 1600, ƒ/11, 1/40 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography #Fujifilm #Fuji #XH2s",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/gentiana-delphinensis/small.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Gentiana delphinensis",
+        "_alt_text": "Mountainous landscape with a cluster of blue flowers in the foreground and a valley in the background."
+      }
+    ],
+    "toots": [
+      "https://pixelfed.social/p/nhoizey/664471646936128247"
+    ],
+    "lastTootTimestamp": 1708179185953
   }
 }
