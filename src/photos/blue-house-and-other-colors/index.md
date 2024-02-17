@@ -1,6 +1,9 @@
 ---
 title: Blue House, and other colors
 file: blue-house-and-other-colors.jpg
+alt_text: An urban street scene with colorful buildings and a red taxi in the
+  foreground. Pedestrians are crossing the street, and there's a mix of modern
+  and older architecture.
 date: 2015-08-09 16:56:29 +01:00
 dates:
   iso: 2015-08-09
@@ -81,8 +84,6 @@ colors:
   darkMuted: 46 64 79
   lightMuted: 197 173 195
 lqip: data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAAAwDwCdASpkAEMAP3Gox1q0rKgkLbRMYpAuCUAac4tK/NO6PZag/7uEqwPRdq0hZhTo6N6/PchbMQwZZ4XmkUfe9GdI1uK3LBSK6dG9RTGYKjpjSOoYIC3UTRjBFdM+wqQ4Lv7KLqaAp8T5cztimEb5vcy9AdY6p9stexGlolTY5pSAAP7rz5TLqkWevD08xWm+doXvIomeutouq8zKqK4tcyGkXxoXg8le1/7yW89FGU0fOMS1pd6aBprnUvBTyeU54IpEd+C+hborISYH0xJr2xQvOMsramIONoikJkZbUl5tzq3PNxweIBVN3zfn5llOIyOFqr9ziciKXiC1OOfJXdFkgNk8zswXR3R6pyTjx1HkaBjPPIowycMbOxUsZ4mJKOcKt2qfP9G0e5kvA2rMmvpej2Qgls819t7PoIC9dQ986SJ4HCh40BkbUNaDBzH7yoI5G5iElArjBF8yMZlQFUHlOnrMpLg7PPbL5ne1OMMHX1xfZIhgB7DlcZjop+VWdVB6Qj9hDyAA
-missing_data:
-  alt_text: true
 ---
 
 Blue House (Chinese: 藍屋), in the background, is a 4-storey balcony-type tenement block located at 72-74A Stone Nullah Lane, Wan Chai, Hong Kong, China. It is named after the brilliant blue colour painted on its external walls. It is one of the few remaining examples of tong lau of the balcony type in Hong Kong and is listed as Grade I historic building.
