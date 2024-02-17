@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-02-16T06:06:04.790Z",
+  "lastFetched": "2024-02-17T06:06:08.076Z",
   "webmentions": [
     {
       "type": "entry",
@@ -68092,6 +68092,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "FredGNoVa",
+        "photo": "https://webmention.io/avatar/farm6.staticflickr.com/23b4caccdf4e01f8d04602b514c1761126a55fe80fc248521357e64fd89b6a20.jpg",
+        "url": "https://www.flickr.com/people/21129873@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53480724241/#liked-by-21129873@N06",
+      "published": "2024-02-16T17:45:54Z",
+      "wm-received": "2024-02-16T17:45:54Z",
+      "wm-id": 1781734,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53480724241/21129873@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
       "wm-property": "like-of",
       "wm-private": false
     }
