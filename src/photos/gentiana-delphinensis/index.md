@@ -69,6 +69,7 @@ geo:
   longitude: 6.523744721666667
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 52 108 222
   darkVibrant: 141 76 31
@@ -77,9 +78,6 @@ colors:
   darkMuted: 87 68 53
   lightMuted: 172 186 212
 lqip: data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAACwDACdASpkAEMAP3Gixlm7v6ijsHOdK/AuCWNsrVsE7fIYLnFDqzrXl3rhqH4LcA+vHjjv7g1LzCUHpuErm6AAlIDthzaJLAc854jz9CUVQno4Q0OhgbD3C+K/YEqelbWyyNRIbN6oZecf2J/S4AD+6o5yvaVJ8W5FVguKdE9KrqbMvfwXtkSz4ey3qQDiS84JWvzUi6Awgi9gug1hWrosHmJj6L0fJf8aqJAtirrwd5JF1DPlY97rF0yPlzf+q0Omo8huRhPq4+v9apqAD1QaJrochPt094Zd/+rQ7oTSDL3uiWzjDLYZqHP0vV2CeizSSfM5bplHsHggU3NZGClZmCKl9910UVWCTSB/URV1ads1qEpvXDKpV6/UeJ8NXbG5f5ZbM1XQix8BiVapUFsZtcReHya71xsGICjDG/l/7SDPjAvusMltlN1+4FDe1xkoLzLe+/5cARs7+9LdKVY0LKmLsBVDlftwAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 This gentian is endemic to the Dauphiné region of France. It is very similar to Gentiana verna but differs in that its leaves are lanceolate, acute and relatively long.
