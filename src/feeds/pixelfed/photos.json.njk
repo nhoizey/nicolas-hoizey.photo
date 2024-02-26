@@ -30,7 +30,7 @@ permalink: /feeds/pixelfed/photos.json
       "content_text": "{{- contentStart | safe -}}{{- contentMiddle | safe -}}\n\n🔎 {{ photoPageUrl }}{{- contentEnd | safe -}}",
       "attachments": [
         {
-          "url": "{{ site.url }}/photos/{{ photo.page.fileSlug }}/small.jpg",
+          "url": "{{ site.url }}/photos/{{ photo.page.fileSlug }}/{{ photo.page.fileSlug }}.jpg",
           "mime_type": "image/jpeg",
           "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}"{%- if photo.data.origin.data.alt_text -%},
           "_alt_text": "{{ photo.data.origin.data.alt_text | decodeEntities | escapeQuotes | safe }}"{% endif %}
