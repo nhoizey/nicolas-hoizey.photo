@@ -1,6 +1,9 @@
 ---
 title: If symptoms persist, seek medical advice
 file: if-symptoms-persist-seek-medical-advice.jpg
+alt_text: A brightly painted yellow building with signage for "MAMA DENIS
+  PREMISES", advertisements for various products, including "RAW ANIMAL FEEDS
+  &amp; CEREALS." The building has a corrugated roof, closed white doors
 date: 2019-02-27 12:08:36 +01:00
 dates:
   iso: 2019-02-27
@@ -60,8 +63,6 @@ colors:
   darkMuted: 45 65 76
   lightMuted: 167 182 195
 lqip: data:image/webp;base64,UklGRuIBAABXRUJQVlA4INYBAABQEACdASpkAEMAP22cw1i0qyejttFNmpAtiWoAx9ynBSPUxO4IWd1PZR58f1c8YL9ytdC5GYjpXHtruDxrRvQyf388yu8sgtRED89rBr2c54KQgKnBeYtS5QAWWl4q55oKvgNnsgD5xquGZAXGsnmmBoaFslSvtjsjwt1VYD71MC2Ct+9RIDgjD3kAAMsNppPNe5EKWelOr+acJLmhB9rrCnB5s3W0fQ4uXppdfTWa043hqX+2IqrUAlqGvtt2Qt6fFTWozYBS63Tcu0pFHo/Srr/ZXU+HPXc9qtjUCR+FG/5O94VkfMEsefuv+Tz/IFC1LQUnmUd6kXX+2HLBhI+mDZ5+wbm93YMSLKD5merySMjBcURl8gbkuNPh+VvP0mAOMigtQeQVfnLAsejeAwQ70I2TyW5TPTzMw6PLmB/a7n4zg2s+pxVar+LBlGS2E6CP62LvzFVnaAXmeLspv4JYj1RsUiBs6hW4/DAuISlbli1iucmGPN9NPQ8GbnIWvsLcSXewcvypTR9virNL1nwv+dm7pdu2CvtM256DbmpTYtI33TESlhcggYPpdIpYfhCWPiHgRPWk18IIc5yFarxQeLhiPG/PhmWh+onAwAoFPAZJs3wAAA==
-missing_data:
-  alt_text: true
 ---
 
 Most stores in small Kenyan towns are like big advertisement billboards, covered with one single intense color and brand or product names.
