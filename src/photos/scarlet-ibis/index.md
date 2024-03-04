@@ -91,4 +91,4 @@ lqip: data:image/webp;base64,UklGRugBAABXRUJQVlA4INwBAABQEQCdASpkAEMAP12Ywliys6+
 
 The Scarlet ibis resembles most of the other species of ibis, but its remarkably brilliant scarlet coloration makes it unmistakable.
 
-inhabits tropical South America and part of the Caribbean. It is one of the two national birds of Trinidad and Tobago.
+It inhabits tropical South America and part of the Caribbean. It is one of the two national birds of Trinidad and Tobago.

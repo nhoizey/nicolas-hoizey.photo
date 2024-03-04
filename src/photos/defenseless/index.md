@@ -1,6 +1,8 @@
 ---
 title: Defenseless
 file: defenseless.jpg
+alt_text: Silhouettes of three people on a wet surface with a city skyline and
+  the reflection of buildings and people visible.
 date: 2018-06-11 17:33:10 +01:00
 dates:
   iso: 2018-06-11
@@ -81,9 +83,8 @@ colors:
   darkMuted: 63 63 63
   lightMuted: 188 188 188
 lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAAAQEQCdASpkAEMAP2GYxViyqqijttPdmlAsCWkIcAABP8VSrXZgziq9pLj7rW0s5cwYdnSxsA1P3js2DJwFv4q4F+s+xpOfwKA9nKfncgEur67B/RfQK5eXxEngDf3eU84jfe5qZwcJOVXJEWbQPWDFVCxCFiMQgW3woRmFQht9ChDutt8UXnSM7n6C/hZA8zIwAP7Y4xN3PTUQo9QUbi+mABRddwrcfBv7vk1DE5oHMOCrCrQowEe1EDRPMgnYdpPcAjS6FHPYtct3xR2OmXoFly17q6ogGQOXDKw59zzafxZX32lSaNpBP9Yv+BbLPKcR2m7iH+xDnBfO6wcWsyJchj0VL+e9Qyj72SurBZP7R8DtJQSush74eoD2Xj0bYV9ckPhTWpoXWlyd7y39PDKp674Za5pQyU7Z0a+sfIOpzJAaaMqUNq6h4t9M9/Dc9zATaxsY3lyIeicWsxg3Nf784BYfHAA1HIhDzMlZzQD31th4wR/MUCwI8JcaEW3mVq+2i3PnUbLSRGpRJ14LVLZBZRxY8X5fQsDAAck7f6p/t9AA
-missing_data:
-  alt_text: true
-  description: true
 ---
 
+I really don't like having to go to work in the La Défense district near Paris. It's a human anthill where people are mostly in a hurry to get from the train to the office and back again.
 
+The only reason why a visit to this district might be of any interest is for architectural photography, with the many towers covered in glass reflecting each other.
