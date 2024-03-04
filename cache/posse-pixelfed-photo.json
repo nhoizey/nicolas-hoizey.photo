@@ -1069,7 +1069,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/faded-blue/faded-blue.jpg",
         "mime_type": "image/jpeg",
-        "title": "Faded blue"
+        "title": "Faded blue",
+        "_alt_text": "A narrow street with weathered blue buildings, including one with a wooden balcony and decorative architecture."
       }
     ],
     "toots": [
@@ -1808,7 +1809,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/great-spotted-woodpecker/great-spotted-woodpecker.jpg",
         "mime_type": "image/jpeg",
-        "title": "Great Spotted Woodpecker"
+        "title": "Great Spotted Woodpecker",
+        "_alt_text": "A woodpecker perched on the side of a tree with a background of blue sky and bare branches."
       }
     ],
     "toots": [
@@ -3460,7 +3462,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-apprentice/the-apprentice.jpg",
         "mime_type": "image/jpeg",
-        "title": "The apprentice"
+        "title": "The apprentice",
+        "_alt_text": "Two elephants, an adult and a younger one, walking through a grassy field with trees in the background."
       }
     ],
     "toots": [
@@ -3617,7 +3620,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/lioness-in-maasai-mara/lioness-in-maasai-mara.jpg",
         "mime_type": "image/jpeg",
-        "title": "Lioness in Maasai Mara"
+        "title": "Lioness in Maasai Mara",
+        "_alt_text": "A lioness standing in a grassy field with sunlit vegetation in the background."
       }
     ],
     "toots": [
@@ -3947,7 +3951,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/40-c-no-problem/40-c-no-problem.jpg",
         "mime_type": "image/jpeg",
-        "title": "40°C? No problem…"
+        "title": "40°C? No problem…",
+        "_alt_text": "Men playing soccer on a dry grass field with trees and a rustic building in the background."
       }
     ],
     "toots": [
@@ -4142,7 +4147,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/if-symptoms-persist-seek-medical-advice/if-symptoms-persist-seek-medical-advice.jpg",
         "mime_type": "image/jpeg",
-        "title": "If symptoms persist, seek medical advice"
+        "title": "If symptoms persist, seek medical advice",
+        "_alt_text": "A brightly painted yellow building with signage for “MAMA DENIS PREMISES”, advertisements for various products, including “RAW ANIMAL FEEDS & CEREALS.” The building has a corrugated roof, closed white doors"
       }
     ],
     "toots": [
@@ -6234,7 +6240,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/a-riad-in-taroudant-morocco/a-riad-in-taroudant-morocco.jpg",
         "mime_type": "image/jpeg",
-        "title": "A Riad in Taroudant, Morocco"
+        "title": "A Riad in Taroudant, Morocco",
+        "_alt_text": "Traditional terracotta building with ornate blue patterned railings, arched windows, and staircases against a clear blue sky."
       }
     ],
     "toots": [
@@ -12511,5 +12518,25 @@
       "https://pixelfed.social/p/nhoizey/664471646936128247"
     ],
     "lastTootTimestamp": 1708179185953
+  },
+  "https://nicolas-hoizey.photo/photos/lac-de-la-cula/": {
+    "id": "https://nicolas-hoizey.photo/photos/lac-de-la-cula/",
+    "url": "https://nicolas-hoizey.photo/photos/lac-de-la-cula/",
+    "language": "en",
+    "title": "Lac de la Cula",
+    "date_published": "2023-10-17T12:44:02Z",
+    "content_text": "“Lac de la Cula”\n\nNestled in a small depression, protected from the wind, Lac de la Cula is a quiet, little-frequented spot.\n\n🔎 https://nicolas-hoizey.photo/photos/lac-de-la-cula/\n\n📅 17 October 2023\n\n📸 Fujifilm X-H2s + 10-24mm\n🎛️ ISO 100, ƒ/8, 1/20 s\n\n#Travel #TravelPhotography #Europe #France #ProvenceAlpesCoteDAzur #HautesAlpes #ValleeDeLaClaree #Photography #Fujifilm #Fuji #XH2s",
+    "attachments": [
+      {
+        "url": "https://nicolas-hoizey.photo/photos/lac-de-la-cula/lac-de-la-cula.jpg",
+        "mime_type": "image/jpeg",
+        "title": "Lac de la Cula",
+        "_alt_text": "Mountain landscape with a clear blue lake, foreground of colorful foliage, and rugged peaks against a cloudy sky."
+      }
+    ],
+    "toots": [
+      "https://pixelfed.social/p/nhoizey/670095031723115256"
+    ],
+    "lastTootTimestamp": 1709519905484
   }
 }
