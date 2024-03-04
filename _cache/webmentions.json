@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-03-03T06:07:32.220Z",
+  "lastFetched": "2024-03-04T06:25:54.371Z",
   "webmentions": [
     {
       "type": "entry",
@@ -69112,6 +69112,63 @@
       },
       "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/bend-resist-thrive/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ank Kumar",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/c55e31ab09cb88121c6101cccb3b16a422c4b0d5dcd75641e0d339d5be8c0bcf.jpg",
+        "url": "https://www.flickr.com/people/182092789@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53462830876/#liked-by-182092789@N02",
+      "published": "2024-03-03T15:08:03Z",
+      "wm-received": "2024-03-03T15:08:03Z",
+      "wm-id": 1788538,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53462830876/182092789@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/misty-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/misty-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Anna Soffía Óskarsdóttir",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/d5bb9134446e62908407df113d2971146b43a216f484ef2edd8cc8cd16df6d08.jpg",
+        "url": "https://www.flickr.com/people/46043340@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53465391973/#liked-by-46043340@N08",
+      "published": "2024-03-03T19:19:58Z",
+      "wm-received": "2024-03-03T19:19:58Z",
+      "wm-id": 1788733,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53465391973/46043340@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Des O Riordan",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/6aa2e140db68133fb166c6c818885bd52eb7b0c3dea1bf1fcb4fd535a473334f.jpg",
+        "url": "https://www.flickr.com/people/68706592@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53477978925/#liked-by-68706592@N06",
+      "published": "2024-03-03T20:09:27Z",
+      "wm-received": "2024-03-03T20:09:27Z",
+      "wm-id": 1788794,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53477978925/68706592@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
