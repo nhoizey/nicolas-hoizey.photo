@@ -48,12 +48,26 @@ const getPhotoData = (slug) => {
       const platforms = platformsData[slug];
       photoDataCollection.platforms = platforms;
 
-      interestingness =
-        platforms.flickr?.faves ||
-        0 + platforms.pixelfed?.faves ||
-        0 +
-          (platforms.pixelfed?.reblogs || 0) * 5 +
-          (platforms.unsplash?.downloads || 0) / 500;
+      if (platforms.flickr) {
+        interestingness += platforms.flickr.faves;
+      }
+
+      if (platforms.pixelfed) {
+        interestingness += platforms.pixelfed.reduce(
+          (accumulator, currentValue) => accumulator + currentValue.faves,
+          0
+        );
+        interestingness +=
+          5 *
+          platforms.pixelfed.reduce(
+            (accumulator, currentValue) => accumulator + currentValue.reblogs,
+            0
+          );
+      }
+
+      if (platforms.unsplash) {
+        interestingness += platforms.unsplash.downloads / 500;
+      }
     }
 
     // Add interestingness from webmention likes (not from Flickr)
