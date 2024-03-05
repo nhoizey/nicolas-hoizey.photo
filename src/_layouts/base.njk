@@ -30,6 +30,23 @@
 
     <meta name="view-transition" content="same-origin" />
 
+    {# Speculation Rules API #}
+    {# https://developer.chrome.com/blog/speculation-rules-improvements #}
+    <script type="speculationrules">
+    {
+      "prerender": [{
+        "source": "document",
+        "where": {
+          "and": [
+            { "href_matches": "/*" },
+            { "not": {"href_matches": "/tools/*"}}
+          ]
+        },
+        "eagerness": "moderate"
+      }]
+    }
+    </script>
+
     {% block canonical %}
       <link rel="canonical" href="{{ site.url + page.url }}" itemprop="url" />
     {% endblock %}
