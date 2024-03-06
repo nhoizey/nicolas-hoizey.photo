@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-03-06T06:06:15.313Z",
+  "lastFetched": "2024-03-06T08:11:47.314Z",
   "webmentions": [
     {
       "type": "entry",
@@ -70663,6 +70663,25 @@
       "wm-received": "2024-03-06T05:58:56Z",
       "wm-id": 1789768,
       "wm-source": "https://brid.gy/like/flickr/38608514@N00/53567014662/77056186@N00",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Occhi Verde",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/39b723d990d5136ec0d90f6560b89af480d93e383c584007daa9c4408b0bd0cb.jpg",
+        "url": "https://www.flickr.com/people/196887082@N04/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53567014662/#liked-by-196887082@N04",
+      "published": "2024-03-06T06:59:02Z",
+      "wm-received": "2024-03-06T06:59:02Z",
+      "wm-id": 1789780,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53567014662/196887082@N04",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/lac-de-la-cula/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/lac-de-la-cula/",
