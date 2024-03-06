@@ -9,6 +9,7 @@ eleventyExcludeFromCollections: true
   "name": "Nicolas Hoizey photography",
   "short_name": "NH photo",
   "description": "{{ site.description }}",
+  "categories": ["photography"],
   "scope": "/",
   "start_url": "/?utm_source=pwa",
   "display": "standalone",
@@ -25,6 +26,32 @@ eleventyExcludeFromCollections: true
       "src": "/ui/images/nicolas-hoizey-photography-512px.png",
       "sizes": "512x512",
       "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Home",
+      "url": "/?utm_source"
+    },
+    {
+      "name": "Galleries",
+      "url": "/galleries/"
+    },
+    {
+      "name": "Map",
+      "url": "/map/"
+    },
+    {
+      "name": "Gear",
+      "url": "/gear/"
+    },
+    {
+      "name": "Statistics",
+      "url": "/statistics/"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog/"
     }
   ]
 }
