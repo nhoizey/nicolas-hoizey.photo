@@ -75,13 +75,13 @@ const syncPixelfed = async () => {
             faves: faves,
             reblogs: reblogs,
           });
-          if (platformsData[pixelfedIds[photo.id]].pixelfed.length > 1) {
-            console.log(
-              `${
-                platformsData[pixelfedIds[photo.id]].pixelfed.length
-              } posts for "${pixelfedIds[photo.id]}"`
-            );
-          }
+          // if (platformsData[pixelfedIds[photo.id]].pixelfed.length > 1) {
+          //   console.log(
+          //     `${
+          //       platformsData[pixelfedIds[photo.id]].pixelfed.length
+          //     } posts for "${pixelfedIds[photo.id]}"`
+          //   );
+          // }
         } else {
           const titleRegex = /^["“”]([^"“”]+)["“”](.|\n)*$/m;
           const matches = photo.content.match(titleRegex);
@@ -118,7 +118,7 @@ const syncPixelfed = async () => {
           }
         }
       }
-      console.log(statusesIndex);
+      // console.log(statusesIndex);
     }
   }
 };
