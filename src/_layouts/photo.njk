@@ -107,7 +107,7 @@
         <dd class="date"><time class="dt-published" datetime="{{ dates.iso }}" data-pagefind-sort="date[datetime]">{{ dates.human }}</time></dd>
         {% if gear and gear.camera %}
           <dt class="gear-icon">{% inline_icon 'camera' %}</dt>
-          <dd class="gear"><a href="/gear/{{ gear.camera.brand | slugify }}/{{ gear.camera.model | slugify }}/" data-pagefind-filter="camera">{{ gear.camera.brand }} {{ gear.camera.model }}</a></dd>
+          <dd class="gear"><a href="/gear/{{ gear.camera.brand | slugify }}/{{ gear.camera.model | slugify }}/" data-pagefind-filter="02. Camera">{{ gear.camera.brand }} {{ gear.camera.model }}</a></dd>
         {% endif %}
         {% if gear.lenses %}
           <dt class="lens-icon">{% inline_icon 'lens' %}</dt>
@@ -115,28 +115,28 @@
             {% set separator = joiner("<br /> + ") %}
             {% for lens in gear.lenses %}
               {{- separator() | safe }}
-              <a href="/gear/{{ lens.brand | slugify }}/{{ lens.model | slugify }}/" data-pagefind-filter="lens">{{ lens.brand }} {{ lens.model }}</a>
+              <a href="/gear/{{ lens.brand | slugify }}/{{ lens.model | slugify }}/" data-pagefind-filter="03. Lens">{{ lens.brand }} {{ lens.model }}</a>
             {% endfor %}
           </dd>
         {% endif %}
         {% if settings.focal_length %}
           <dt class="focal-length-icon">{% inline_icon 'focal-length' %}</dt>
           <dd class="focal-length">
-            <a href="/statistics/focal-length/{{ settings.focal_length.slug }}/" data-pagefind-filter="focal_length">{{ settings.focal_length.readable }}</a>
+            <a href="/statistics/focal-length/{{ settings.focal_length.slug }}/" data-pagefind-filter="04. Focal length">{{ settings.focal_length.readable }}</a>
             {% if settings.focal_length.eq35mm %} ({{ settings.focal_length.raw }} mm with crop factor){% endif %}
           </dd>
         {% endif %}
         {% if settings.iso %}
           <dt class="iso-icon">{% inline_icon 'iso' %}</dt>
-          <dd class="iso"><a href="/statistics/iso/{{ settings.iso.slug }}/" data-pagefind-filter="iso">ISO {{ settings.iso.readable }}</a></dd>
+          <dd class="iso"><a href="/statistics/iso/{{ settings.iso.slug }}/" data-pagefind-filter="05. ISO">ISO {{ settings.iso.readable }}</a></dd>
         {% endif %}
         {% if settings.aperture %}
           <dt class="aperture-icon">{% inline_icon 'aperture' %}</dt>
-          <dd class="aperture"><a href="/statistics/aperture/{{ settings.aperture.slug }}/" data-pagefind-filter="aperture">{{ settings.aperture.readable }}</a></dd>
+          <dd class="aperture"><a href="/statistics/aperture/{{ settings.aperture.slug }}/" data-pagefind-filter="06. Aperture">{{ settings.aperture.readable }}</a></dd>
         {% endif %}
         {% if settings.shutter_speed %}
           <dt class="shutter-speed-icon">{% inline_icon 'shutter_speed' %}</dt>
-          <dd class="shutter-speed"><a href="/statistics/shutter-speed/{{ settings.shutter_speed.slug }}/" data-pagefind-filter="shutter_speed">{{ settings.shutter_speed.readable }}</a></dd>
+          <dd class="shutter-speed"><a href="/statistics/shutter-speed/{{ settings.shutter_speed.slug }}/" data-pagefind-filter="07. Shutter speed">{{ settings.shutter_speed.readable }}</a></dd>
         {% endif %}
       </dl>
       <div class="geo">
@@ -155,7 +155,7 @@
             <div class="marker-shadow"></div>
             <div class="marker"></div>
           </div>
-          {% if geo.city or geo.country %}<p class="h-adr">{% if geo.city %}<span class="p-locality">{{ geo.city }}</span>{% endif %}{% if geo.city and geo.country %}, {% endif %}{% if geo.country %}<span class="p-country-name" data-pagefind-filter="country">{{ geo.country }}</span>{% endif %}</p>{% endif %}
+          {% if geo.city or geo.country %}<p class="h-adr">{% if geo.city %}<span class="p-locality">{{ geo.city }}</span>{% endif %}{% if geo.city and geo.country %}, {% endif %}{% if geo.country %}<span class="p-country-name" data-pagefind-filter="01. Country">{{ geo.country }}</span>{% endif %}</p>{% endif %}
           <p class="locate"><svg class="icon" aria-hidden="true"><use xlink:href="#map-icon" /></svg> Locate it on the <a href="/map/#13/{{ geo.latitude }}/{{ geo.longitude }}">interactive global map</a></p>
         {% endif %}
       </div>
@@ -164,7 +164,7 @@
     <p class="tags">
       {% inline_icon 'tag' %}
       {%- for tag in tags -%}
-        <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category" data-pagefind-filter="tag">{{ tag }}</a>
+        <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category">{{ tag }}</a>
       {%- endfor -%}
     </p>
     {% endif %}
