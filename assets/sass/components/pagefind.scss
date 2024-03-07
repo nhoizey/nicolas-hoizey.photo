@@ -169,6 +169,10 @@
   align-items: flex-start;
 }
 
+.pagefind-ui__result-title {
+  margin-block-start: 0;
+}
+
 .pagefind-ui__result-title .pagefind-ui__result-link {
   color: var(--pagefind-ui-text);
   text-decoration: none;
@@ -184,17 +188,6 @@
   font-size: 1rem;
   margin-top: .25rem;
   margin-bottom: 0;
-}
-
-.pagefind-ui__result-title
-  .pagefind-ui__result-link {
-  color: var(--pagefind-ui-text);
-  text-decoration: none;
-}
-
-.pagefind-ui__result-title
-  .pagefind-ui__result-link:hover {
-  text-decoration: underline;
 }
 
 .pagefind-ui__loading {
