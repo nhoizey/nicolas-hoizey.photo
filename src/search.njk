@@ -1,0 +1,40 @@
+---
+layout: false
+permalink: search/index.html
+title: "Search"
+---
+
+{% extends "./_layouts/base.njk" %}
+
+{% block content %}
+<style>
+body {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: #663399;
+  --pagefind-ui-text: #f6f5f9;
+  --pagefind-ui-background: #292929;
+  --pagefind-ui-border: #999;
+  --pagefind-ui-tag: #663399;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 8px;
+  --pagefind-ui-image-border-radius: 8px;
+  --pagefind-ui-image-box-ratio: 3 / 2;
+  --pagefind-ui-font: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+}
+</style>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI(
+      {
+        element: "#search",
+        showEmptyFilters: false,
+        showImages: true,
+        showSubResults: false,
+        resetStyles: false
+      });
+  });
+</script>
+{% endblock %}
