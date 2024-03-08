@@ -164,7 +164,7 @@
     <p class="tags">
       {% inline_icon 'tag' %}
       {%- for tag in tags -%}
-        <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category">{{ tag }}</a>
+        <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category" data-pagefind-body>{{ tag }}</a>
       {%- endfor -%}
     </p>
     {% endif %}
