@@ -53,8 +53,8 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.PAT }}
-          branch: webmentions
+          branch: data
           delete-branch: true
-          commit-message: Update Webmentions
-          title: Update Webmentions
+          commit-message: Update data
+          title: Update data
           labels: automerge 🤞
