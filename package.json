@@ -37,7 +37,6 @@
     "build:eleventy": "eleventy",
     "watch:eleventy": "eleventy --serve",
     "build:index": "npx -y pagefind --site _site",
-    "watch:index": "npm run build && npx -y pagefind --site _site --serve",
     "start": "cross-env NODE_ENV=development npm-run-all --sequential clean build:js --parallel watch:*",
     "debug:start": "DEBUG=Eleventy* npm start",
     "build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy build:index",
