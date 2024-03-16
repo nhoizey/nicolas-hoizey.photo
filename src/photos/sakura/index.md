@@ -17,13 +17,30 @@ gear:
       model: EF 24-70mm f/2.8L USM
       short: 24-70mm
 tags:
+  - arbre
+  - blossom
   - Boulogne
+  - cerisier
+  - cerisier du Japon
+  - cherry blossom
+  - cherry tree
   - Europa
   - Europe
+  - fleur
+  - flower
   - France
   - Hauts de Seine
   - Ile de France
   - Jardin Albert Khan
+  - landscape
+  - paysage
+  - plant
+  - prunus
+  - Prunus serrulata
+  - sakura
+  - tree
+  - végétal
+  - 桜
 settings:
   focal_length:
     raw: 68
