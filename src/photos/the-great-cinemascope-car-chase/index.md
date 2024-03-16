@@ -71,6 +71,7 @@ geo:
   longitude: 2.4054963883333333
   country: France
   city: Draveil
+  map: true
 colors:
   vibrant: 179 70 12
   darkVibrant: 114 41 11
@@ -79,9 +80,6 @@ colors:
   darkMuted: 84 58 50
   lightMuted: 164 169 196
 lqip: data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACwBQCdASpkACsAP3G00140uqstqrSZI1AuCWcA0qw32M/JE1l2eXDPcCNsqSpSm3E7lgn6XhAA/u7Zv9A0BflPI0PFSJ4PTUv7VDUnoclrxU7Qheznfk7h7+v3V8CK2CnFuKi6YKtohdk0x/laVsCDFLaRqda24JbZcE+NxoNgPEo42kC0nkGAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Car chases are a popular subject with media and audiences due to their intensity, drama and the innate danger of high-speed driving, and thus are common content in fiction, particularly action films.

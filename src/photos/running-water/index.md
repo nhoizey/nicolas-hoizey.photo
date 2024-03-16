@@ -70,6 +70,7 @@ geo:
   longitude: 6.5495075
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 188 116 84
   darkVibrant: 140 76 46
@@ -78,9 +79,6 @@ colors:
   darkMuted: 81 68 60
   lightMuted: 177 182 192
 lqip: data:image/webp;base64,UklGRioCAABXRUJQVlA4IB4CAAAwFQCdASpkAEMAP2WevlizLCYjtRQ9+mAsiWcA059MDYqwVgOlOijkB7K+0egRIZfRufjKaXD3QoUY7amwh4dBI0a5/BcmLi1Xmcf78lxdAlogaw0bkg7Kijs0tz1A0Bj6B8VKnlG3QA4y4chQfpKftDGqcNRzRm24aRJODv6sCsbpZ+7c9TRFmvXtORbMdHdEB4ESbAYR8miptMuEs87kbAxgclVddoFSJEoSN+HU++EQAP7w0jzvQ8XyZ2ATKAr9EcL80kXSREjD6iIUE9qajR2HLNX7mecCZY0Cw96WS/vNrqU7qoq9jJOCxGU5lztAD2FNIhilDMhbEeMbq4qSwVzpZ1VuyE053WgvfmSjS8czlZON/IlsDKuiIZm/YoJiB5ry0dNSrtkHxd6KVzp+hLUPHyiXj4nA90P5IDecqWV57WQ47B+NnC99Xr6q5wL6En9K/Kz2zkB08gyGX5ELj7RGum+tdO8PHJTRke5hy616q3mdFnYcR4RB6pCpCwc/AYm4Ur+zbI5b2yLgswOc1WFSNZkEiDcZpQbSFY9gN1aYjqlnHwwsidwuCtgNHik1h35Ez2xsrGTCyvy31EG4R26mB12FaL9UjMaZq4TnGM+j+f8PnflJQYJqfv052abw7MSI8nKrLL/EewBf9kuFL2uCldGFU6GpYlXbNxML98UN20PCtPgrRC1zd1Wbht0IXD8HZsu2J8NnOVgAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The magnificent Fontcouverte cascade on La Clarée river, near Névache, is a protected site. The cascade takes its name from a miraculous spring that was partly hidden and covered by a bush: “the covered fountain”.

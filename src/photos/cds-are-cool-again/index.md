@@ -1,6 +1,9 @@
 ---
 title: CDs are cool again!
 file: cds-are-cool-again.jpg
+alt_text: Miniature figurines of a band, including a guitarist, drummer, singer,
+  and bassist, positioned on a CD with a reflective rainbow pattern on a blue
+  background.
 date: 2024-03-14 21:32:55 +01:00
 dates:
   iso: 2024-03-14
@@ -74,6 +77,7 @@ geo:
   longitude: 2.4052686116666666
   country: France
   city: Draveil
+  map: true
 colors:
   vibrant: 17 118 214
   darkVibrant: 4 76 124
@@ -82,10 +86,6 @@ colors:
   darkMuted: 45 41 32
   lightMuted: 176 128 111
 lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAACQCQCdASpkAEIAP3GuzF60raimqFqqcpAuCWYAziyPVbBFglgKokCA+A/IwUMI/8qh7MF/SciQdzaoVq4PbK9sa7FBIjepA5FuFp2HMyi8Fbw7LFOQAP7q5WsedWeO5gd7dK+iqxE0nhU0wlmf+sq5mnRpGc3fLLByWtr/imF0z/DnZ+0h8jB5Pxtx1tIOT1Xx2yQX8HwHFkJ7oNSIbo3zhpIvXTAGao4GSwR2bHV6Q8W8dxg3Wq7cN+/whyvfOvmnJfykBWR6hkcNlMdx2QB3M+cnofGJZTucxfqxN6NEugi+EAa2UlnHGEufkly3WMbfhj5Cekg3anq24XGBqPw+FWBNFoG86tw1K9ze1kRnB6nBKs5V9bB/2mfeJjwjCRi0evICOzKVyTBl/qgp4DoVZUAAAA==
-missing_data:
-  alt_text: true
-  map: true
-  opengraph: true
 ---
 
 The compact disc was introduced in 1982 and became in 1988 the most popular audio format. CD sales continued to grow until they peaked in 2002.

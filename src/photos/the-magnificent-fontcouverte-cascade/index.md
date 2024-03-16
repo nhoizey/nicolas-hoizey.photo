@@ -1,6 +1,7 @@
 ---
 title: The magnificent Fontcouverte cascade
 file: the-magnificent-fontcouverte-cascade.jpg
+alt_text: A cascading waterfall amidst a forest with autumn-colored foliage.
 date: 2023-10-18 15:53:23 +01:00
 dates:
   iso: 2023-10-18
@@ -76,6 +77,7 @@ geo:
   longitude: 6.549184166666667
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 138 120 34
   darkVibrant: 112 99 18
@@ -84,10 +86,6 @@ colors:
   darkMuted: 95 85 51
   lightMuted: 208 217 225
 lqip: data:image/webp;base64,UklGRrQBAABXRUJQVlA4IKgBAACQDQCdASpkAEMAP3Goyly0rCkmLNJLypAuCU1/y2BxQG2/0OkyygW1IqtNGCqi0cEmmSi5/Ov1C44cl56aVEmOV2H9CKdtm1U7rDzO31V2ds4G3vIegwc9Ijt+ksQAs+H1Ghoqp/BcoqqusLxZVa/1OFGUKwAA/i0WRZ92tTaWUH/t3pl4/mAfKzvgGYmWOM5ZtZcZQAxefZbORcOsukPtKH+eB8wtO6uRUE4q91poR74J/oC6to8tD8zXue/QGmhDraeiGeIddKQa4AxMEYHx4wMUmYNZ3jlQlx4hY6Llubc0/O9/AOcYOXWidNGJdx0LqTB3ZSuHbHS02hqBhN6bP8S4Bdr7YWAXjrbVcMe0tKuoZ6UgPDjaT5xrKzkUSRtIgB3KDZichw/yTi4ysuTvIxxVfTB04IYHvEn1+XM5VT8W2Ze0Qyy97jB+mWSygk+Meeqi8KUEhoeEVbuQOBPybFKQqSUh9q04xzuhrOgbsh01Ynmzw+Ui/bbO/2kCRHM/ZR/YwCR5mEVLUD9RG1/JTs75WBOddz+iYEN1/XbH95S37I5s8gAA
-missing_data:
-  alt_text: true
-  map: true
-  opengraph: true
 ---
 
 The magnificent Fontcouverte cascade on La Clarée river, near Névache, is a protected site. The cascade takes its name from a miraculous spring that was partly hidden and covered by a bush: “the covered fountain”.
