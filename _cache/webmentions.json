@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-03-15T06:08:30.334Z",
+  "lastFetched": "2024-03-16T06:06:39.581Z",
   "webmentions": [
     {
       "type": "entry",
@@ -72587,6 +72587,82 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Björn Kellerstrass",
+        "photo": "https://webmention.io/avatar/farm1.staticflickr.com/a92d7b0c7e068bf0192bdd08385751ba7d4fd9f4f3f36f0bb6a2455566132916.jpg",
+        "url": "https://www.flickr.com/people/133901993@N06/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53461905018/#liked-by-133901993@N06",
+      "published": "2024-03-15T08:54:56Z",
+      "wm-received": "2024-03-15T08:54:56Z",
+      "wm-id": 1793267,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53461905018/133901993@N06",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/la-main-de-crepin-mountain-peak/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/la-main-de-crepin-mountain-peak/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Hoffmann",
+        "photo": "https://webmention.io/avatar/farm1.staticflickr.com/ae247234c57a173a404c20a7917d460bd09d89c614c0c08e53c5a6fe36e6eaca.jpg",
+        "url": "https://www.flickr.com/people/142966298@N05/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53488602698/#liked-by-142966298@N05",
+      "published": "2024-03-15T10:48:50Z",
+      "wm-received": "2024-03-15T10:48:50Z",
+      "wm-id": 1793302,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53488602698/142966298@N05",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jayarr Denson",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/4cda047dc8479f523d81fe1a34dd98dfc41c57f35aad2c750cb00af6b9a83c03.jpg",
+        "url": "https://www.flickr.com/people/125862441@N03/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53488602698/#liked-by-125862441@N03",
+      "published": "2024-03-15T14:57:27Z",
+      "wm-received": "2024-03-15T14:57:27Z",
+      "wm-id": 1793401,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53488602698/125862441@N03",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BP Chua",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/6403d17b1d8e144810b140dfaa71ff557b34964ba875c594e2e44591d9eb7e93.jpg",
+        "url": "https://www.flickr.com/people/40953925@N08/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53488602698/#liked-by-40953925@N08",
+      "published": "2024-03-16T00:11:43Z",
+      "wm-received": "2024-03-16T00:11:43Z",
+      "wm-id": 1793609,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53488602698/40953925@N08",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
       "wm-property": "like-of",
       "wm-private": false
     }
