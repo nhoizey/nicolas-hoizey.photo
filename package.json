@@ -49,7 +49,7 @@
     "flickr": "node ./_scripts/update-flickr.js",
     "unsplash": "node ./_scripts/update-unsplash.js",
     "pixelfed": "node ./_scripts/update-pixelfed.js",
-    "generate": "./_scripts/generate-map-images.js && ./_scripts/generate-opengraph-images.js && ./_scripts/generate-photos-sprites.js"
+    "generate": "./_scripts/generate-map-images.js && ./_scripts/generate-opengraph-images.js && ./_scripts/generate-photos-sprite.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
