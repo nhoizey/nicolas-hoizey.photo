@@ -78,6 +78,7 @@ geo:
   longitude: 6.527708333333333
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 193 174 101
   darkVibrant: 103 74 19
@@ -86,9 +87,6 @@ colors:
   darkMuted: 81 78 42
   lightMuted: 156 164 204
 lqip: data:image/webp;base64,UklGRsICAABXRUJQVlA4ILYCAADQFwCdASpkAJYAP3GixVm0v7mjsBV8y/AuCU2NRg0Hqbdauywr962odzsTD+CQsKG+4GqeHt+8g/M/5kpobqdj44craa+mb03Qtxa9tsdhvbIQWe608Hd9H6gmbZS6Y8AYEOWoG+DxjG1LpxRGYISIobgPadMo73STvDKk8Ta7+UVaKzI5oQEGjAZUZoZFgCeQlSSNxeLQ4pzwzDJciN7n4S7rpi/n7b/a+VIjr9wxmMHIPC5l8KmdIQqksLOuIrO7YaUHGPlwAP68jvssaI59wMYjGiRuNmcjt0g0fOI236canxCBhyY/3li7UgocuKXs9wgnJcCbhdZpA7pg62HwC/F5fXP4dhffdrnC69+orhZvbBhYWw3XWF5w2SMguN+Vwc6HPNMKComAPa37Z7xqwALN7qhKwIi+B0NysNpvyDFwRa8gJkIar7pV3+EVdM6kZFYDZZvOtR/H1Mn6jyXwd2zEyMwTgGQ++/dIQFrFf04/wsgYu4Hwmv7TJ8ipXdMe6AGLjoNb3uzWKp9tz6jCwODhqI1vrYUBgmEEGd63xa3OLuhEAJrtJDd8g0HbNXpZeKcZQJUfMq+qmq6kHeBX772P11Q0ppJauhr8Q3HaJDuhCE/yUoc5B93lOqRT2TxGf+UJqiVDqXAM7J4bB/upjlKO99Zz8M36SRH6x/mfIm1yPSEL/UgNQ0OaHcVcKwtKwFtNv7gXC/TQLraHRR/b/vLk9xZzRBUvrTM0iQnljZQmAfppvq59SVbukkVOShOrDRm+5njVE4c9Ur2b/lvocitoJa+p2y1hGNoeP61ngKJubI8nq2WNHdzTWC16xOW4LzXP3uqM9W2VMu5+qGc/OM7PClMn0UwZ4HMNOLPCua6FK1ykuPITCjbCS9KF00CkvAoglzqa/ZRKQwXfBaCCli9ldgAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Chardonnet stream is a tributary of the Clarée River.
