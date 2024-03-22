@@ -1,6 +1,8 @@
 ---
 title: Portree
 file: portree.jpg
+alt_text: Coastal village with colorful houses, a harbor with boats, and
+  mountains in the background, under a cloudy sky.
 date: 2014-05-01 14:48:18 +01:00
 dates:
   iso: 2014-05-01
@@ -100,8 +102,6 @@ colors:
   darkMuted: 80 73 58
   lightMuted: 156 180 196
 lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAACwDwCdASpkAEMAP2Gew1iyrLAvNBl7slAsCWcA1BdR08AwkKJtuXM+vcr1bld+s+D4qXtF1fyVKV4bounJXraH7GAR6X8iAADVpEkf/OWCD0YBCbiBvwrVY6dGvEArTPS2+7FzTWiOp++9rqNoxUuWZfFW5i8W+96v+NlRPO52z1qDlWbkAAD+4rdUc4f3imkP60wQoaWwCbRRMGTDqdJ4z+HgWTuMoV/PlU2LC54IrM0Y/oRek6llhjdLtiy6emc3zJp2iJSueKTGQ6E5pTGMCLH1A9mDFbjFcgH+zui976SO5pWEYpPR7l/A1WFai7aWv16K+3wbYWHwlDxlJKxGwVt0qBHedGszeXxmNaSSUlGd1Pf4HXoR+IsnLTsaNBXsGvCkxgOSsSwahPY510AmaSb2WMO94Toioapm7MY6dAGtr896evWNtk0AN3MrqxdozUiLQcacoAAA
-missing_data:
-  alt_text: true
 ---
 
 Portree is the largest town on the Isle of Skye in the Inner Hebrides of Scotland.

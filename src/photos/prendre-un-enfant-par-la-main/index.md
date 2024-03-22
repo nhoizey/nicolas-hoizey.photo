@@ -20,6 +20,7 @@ tags:
   - accessoire
   - adult
   - adulte
+  - Auvergne-Rhône-Alpes
   - casquette
   - chemise
   - Europa
@@ -33,7 +34,6 @@ tags:
   - personne
   - portrait
   - Rhône
-  - Rhône-Alpes
   - shirt
   - tenue
   - type de photo

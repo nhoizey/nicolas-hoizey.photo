@@ -1,6 +1,8 @@
 ---
 title: The village
 file: the-village.jpg
+alt_text: Rural landscape with traditional mud huts, acacia trees, and distant
+  hills under a clear blue sky.
 date: 2019-02-26 10:34:37 +01:00
 dates:
   iso: 2019-02-26
@@ -66,8 +68,6 @@ colors:
   darkMuted: 70 58 36
   lightMuted: 136 168 192
 lqip: data:image/webp;base64,UklGRpABAABXRUJQVlA4IIQBAAAwDwCdASpkAEMAP2WcvVizK6YvNfdbomAsiU2RS0ZQLqg9RzIyDIhX+ZinbkT4+rXEPWPHGcIHzGvz91w0LbVjYG5wMT82hbWKDwPORhfS9R95uWPLXF6GDVucIUJ6P8um0gxtgytWHXF/UoJT2gRNOfnigrXDqj/Yt2Oq6QDsWZMQAP7tEh5Bb9GWhSJQmpusiXZMfLVTsN0UmpGPWCNQHz6wJyQdkufMBVz2ly+wXnz8OS35rkJuxzV6K4awSyto8b6DuR7U8ZFiF2sOcFMI+qAZuriiNIDi0/jYnzWb128uBsUBTqu7jC7nojWPSkWkKi2/XNumXwd/WP0OXfXcYsALkns+ARz89hEUxRZpHfKgBJ/AOk8/lceDCHO9bwCEPWVfXeb37QALwuYzYC47h6+U/oSS9T7D1IgOOoZT7IYYLa2lA9aRdL/n22F+ZwyK2pMU1kA1N8ooEj0xUsZCNgv4aFc1fZXMvLxtdvdnY/L7fnlf4vAfqRtm4MO8dlHsZ2AA
-missing_data:
-  alt_text: true
 ---
 
 We have been fortunate enough to visit an actual Maasai village with the son of the village's chef, an incredible experience.

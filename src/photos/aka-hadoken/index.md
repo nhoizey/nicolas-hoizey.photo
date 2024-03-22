@@ -19,6 +19,7 @@ gear:
 tags:
   - adult
   - adulte
+  - Auvergne-Rhône-Alpes
   - B&W
   - black and white
   - Europa
@@ -33,7 +34,6 @@ tags:
   - personne
   - portrait
   - Rhône
-  - Rhône-Alpes
   - type de photo
 settings:
   focal_length:

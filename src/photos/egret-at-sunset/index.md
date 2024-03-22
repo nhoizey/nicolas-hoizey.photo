@@ -1,6 +1,7 @@
 ---
 title: Egret at sunset
 file: egret-at-sunset.jpg
+alt_text: Silhouette of a heron standing by water with a twilight sky reflection.
 date: 2017-04-10 19:55:43 +01:00
 dates:
   iso: 2017-04-10
@@ -83,7 +84,6 @@ colors:
   lightMuted: 208 170 161
 lqip: data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADQBwCdASpkAEMAP3Gozlq0v6owsVG5g/AuCWcA09g1yEY/MqHHrO5NKs+Y7JsgIS0YFqAB1lpe8PlPZlt9tyIbZGRxnAllgAD+7nzTG0wDL42SzTLIM/esF45b93ZoPAvZzxk1WpElo2/ipP+7v22ozZ4PProVEnd33vX+1v0sqWZF+lXh5b1Zz8GvpZnCAeexTivU4H80qwrXHscHDR0LwS9rLxfVXUqYAV5tggAAAA==
 missing_data:
-  alt_text: true
   description: true
 ---
 

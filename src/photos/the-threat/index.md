@@ -1,6 +1,8 @@
 ---
 title: The threat
 file: the-threat.jpg
+alt_text: Notre-Dame Cathedral in Paris against a backdrop of a stormy sky with
+  a glimpse of the Eiffel Tower in the distance.
 date: 2017-05-19 20:00:35 +01:00
 dates:
   iso: 2017-05-19
@@ -72,7 +74,6 @@ colors:
   lightMuted: 122 71 31
 lqip: data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAACQCwCdASpkAEMAP3Gqyl00rKksrNW56pAuCUAZVoWLAf12+JAaBhkXEI0OND3PeQg++A/DcVgGBss5UGmZNtB++oaAnKiPtuwB+0UGy7aOm+7qA/dS2EFAcj3nFuvn2qmStbAwQAD+7MlUITdh2VqSU4fuYIUaeuulpsJmp62dgK656q1hVQelCd+uHbGwNA1tHG2EcBnJ8C9FPjCLK7cEIfF5o5ohtqsHFwB2kcf1Vnk7pNYvAcu8u7qvz0ubr5fYh9otKYVT+uvUrRDO2OTKHDSCMDtxYvXK+mS/wG3/IzoI5YWK+TeEtrBMhqbWI34vC7NiSeI7FpRw9IdrUJvv33f9hIWAWgOxR0kRwnOYZqKDZqnxomXuVUSfl0Hc8XCExN8fSAY9mRwyG/IVgwGqd4XnXFXXDfrsdRxOD3cmGQgz0I930pFPPUh+o7qX8QAAAA==
 missing_data:
-  alt_text: true
   description: true
 ---
 

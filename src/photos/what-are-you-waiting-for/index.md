@@ -1,6 +1,8 @@
 ---
 title: What are you waiting for?
 file: what-are-you-waiting-for.jpg
+alt_text: A hippopotamus grazing on grass in the foreground with a white egret
+  standing nearby and a group of wildebeests in the background.
 date: 2019-02-28 17:27:39 +01:00
 dates:
   iso: 2019-02-28
@@ -80,7 +82,6 @@ colors:
   lightMuted: 221 212 200
 lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAABwDQCdASpkAEMAP22avVi0viYlMlpsy8AtiWNsR8iuABhuTYNRgPpB0qUtvsKpSY4Lewa5q2f1zQSGlt5GY/BwYnyGrWEV2KgRgDr/4lFw316i5cF5aBNcl+cI0i/TW746FXIQ21rzbIwB9KpgYr34C9oAAAD51uZHGHfnsgtLYZC03zagH01aoiABeDrVyMNNs8hLMrjYCE8HBTgsLGfkrdwkSqAYBBpIvm553+z7VjEUzZNLhLf6Xviq45Of6wu/1hmsPXMir9snnmo+/qeQRbQ1P+bAvHbJ4T8HMQ8doSDIJBYsMzIsVFMuRWXNXQtjTjK8ckMs5uQ2Z17XqyJkSGnzEDDEPO1qYEwM/3FDgFeDIkmo2VvF/L3JO5v67/8xcI+xg+qVOZotiVk3YLELLmOoHOW4s2lG3OanURzRPt/Ao9igCH0NL9SxILsPX5/EtUQ0XSpjHPMNIBhSn5rLbUZ78jyGQwC7YhTwAAA=
 missing_data:
-  alt_text: true
   description: true
 ---
 

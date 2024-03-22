@@ -40,12 +40,14 @@ tags:
   - Normandy
   - nuage
   - paysage
+  - plant
   - Pointe de la Courtine
   - rocher
   - rock
   - sea
   - Seine-Maritime
   - sky
+  - végétal
   - water
   - white
 settings:

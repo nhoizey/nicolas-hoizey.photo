@@ -19,6 +19,7 @@ gear:
 tags:
   - adult
   - adulte
+  - Auvergne-Rhône-Alpes
   - B&W
   - black and white
   - dress
@@ -33,7 +34,6 @@ tags:
   - personne
   - portrait
   - Rhône
-  - Rhône-Alpes
   - robe
   - Sandrine
   - tenue

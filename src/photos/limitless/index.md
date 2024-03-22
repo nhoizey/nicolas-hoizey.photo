@@ -19,6 +19,7 @@ gear:
 tags:
   - adult
   - adulte
+  - Auvergne-Rhône-Alpes
   - chemise
   - Europa
   - Europe
@@ -31,7 +32,6 @@ tags:
   - personne
   - portrait
   - Rhône
-  - Rhône-Alpes
   - shirt
   - tenue
   - type de photo

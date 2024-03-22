@@ -1,6 +1,8 @@
 ---
 title: The City That Never Sleeps
 file: the-city-that-never-sleeps.jpg
+alt_text: Nighttime cityscape with illuminated skyscrapers and a prominent
+  building lit in red, white, and blue.
 date: 2015-05-22 23:30:41 +01:00
 dates:
   iso: 2015-05-22
@@ -88,8 +90,6 @@ colors:
   darkMuted: 92 86 51
   lightMuted: 186 184 218
 lqip: data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwCACdASpkAEQAP3Guz1+0rSmupnJLapAuCWUIkCeFC3enAjW63FJC4ot6LYTSgKvCIt6+rx1bsXxJD4HCJA8/ikiKwadv61FZSdEC1FYegAD+shZTqz0bKfFGgXRAmpMolSSCmU5KcxSRroGla7qVqXSu0yoQXMVDZQ9SmX4WA8dEV1rJ+7Yatp8WEHzNDAuwCkO3eJWbjjnEw8FF2z45vjxJ1/iIAsSjDd5vPuV0/Ia+eAQqLxTSo6Kg9pwxwvEt6AIzoRwi/XvZsWR3oiAoOO+8ojIIVm4eLlOg9gCMAbyBRo2eEUkFI5QY/O//8KQAAA==
-missing_data:
-  alt_text: true
 ---
 
 The City That Never Sleeps is a well-known nickname for New York City, famously employed in the "Theme from New York, New York", covered by Frank Sinatra.

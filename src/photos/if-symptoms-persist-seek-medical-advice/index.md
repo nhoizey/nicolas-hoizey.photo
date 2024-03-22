@@ -3,7 +3,8 @@ title: If symptoms persist, seek medical advice
 file: if-symptoms-persist-seek-medical-advice.jpg
 alt_text: A brightly painted yellow building with signage for "MAMA DENIS
   PREMISES", advertisements for various products, including "RAW ANIMAL FEEDS
-  &amp; CEREALS." The building has a corrugated roof, closed white doors
+  &amp; CEREALS", and the mention on the wall "If symptoms persist, seek medical
+  advice"
 date: 2019-02-27 12:08:36 +01:00
 dates:
   iso: 2019-02-27

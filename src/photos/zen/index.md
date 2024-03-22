@@ -19,6 +19,7 @@ gear:
 tags:
   - adult
   - adulte
+  - Auvergne-Rhône-Alpes
   - Europa
   - Europe
   - France
@@ -32,7 +33,6 @@ tags:
   - personne
   - portrait
   - Rhône
-  - Rhône-Alpes
   - tenue
   - type de photo
 settings:

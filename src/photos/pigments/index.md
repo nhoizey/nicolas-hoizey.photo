@@ -1,6 +1,9 @@
 ---
 title: Pigments
 file: pigments.jpg
+alt_text: Colored glass bottles arranged in rows, creating a vibrant spectrum of
+  blue, purple, pink, red, and orange against a wooden backdrop with light
+  shining through.
 date: 2015-04-27 14:23:10 +01:00
 dates:
   iso: 2015-04-27
@@ -70,7 +73,6 @@ colors:
   lightMuted: 209 202 226
 lqip: data:image/webp;base64,UklGRlACAABXRUJQVlA4IEQCAACQEACdASpkAEMAP3GwzF+0raglpZgMIpAuCWplS1gsVijbKAG98mt+Dh8vDRlKdyEReLzPVdpmfuDU0NiH0+LLn3eWuDMaMYr6Rkm1mVw6Za+LJaEh9Es5N8IHwYFlVusPtBj9q8s7bAbPffvrHQj/qfGTOF6uLVEJXGfyIkasp1pePUwrFf3FGuVk3UAA/qgtpCxUC23lCV9liD35zzPcLU5zFoNbU2nO59oISpDn0E3tOCbKd7i4NqJWqLlppHdUE8Q/8qQ6m3uhYH6aNKKUdFJedKVAyVeB02wt1dhdKQEBp7HXzY3z/0Kn97oRxhFUtTLGRstQ9aiNgy7UHnZoaXsp86czuKKaQVqSJfacKcJWOZtRS4zhXBpzkuzrNC0yvAAneNsGQNSP3IEYXPJx6zixhMwnwXhi4lPAhmhuKAVPTEKGGskn3DtZn/z43ZAIswLIXbXvJupt1fUSaaBmZO9mVSstflC8zeAQdd8B2pw0GZ5Y3mPLKLOWamE2wPIr11ReN/EU9WnLOpHh+ug0LIIFGqL3rMxQtBP7snbofHgm3l2AclRtaak2P+VkQ4geYbxoKPfg/p7MD2mzk6kPYZj6YFp+fAWhQE4glwkocsKh3uR7Eixx5PxCvWhF498qnxjCDCQC4RMaNRFeuYJH20cuN6p78CcMEdmxGGXRIaBCuZBUXo7OfEEmsqb1UkeMqDGB3BtVXbnFZht95CXBI0f69WZifCZHzUT19Fk8TsFYnkQit1V2mqzL7hicL74x4AAA
 missing_data:
-  alt_text: true
   lens: true
 ---
 

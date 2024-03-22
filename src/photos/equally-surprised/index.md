@@ -18,6 +18,7 @@ gear:
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
       short: 100-400mm
 tags:
+  - Alpes
   - animal
   - animal sauvage
   - animalière

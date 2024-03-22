@@ -19,6 +19,7 @@ gear:
 tags:
   - adult
   - adulte
+  - Auvergne-Rhône-Alpes
   - dress
   - Europa
   - Europe
@@ -30,7 +31,6 @@ tags:
   - personne
   - portrait
   - Rhône
-  - Rhône-Alpes
   - robe
   - Sandrine
   - Sandrynn De

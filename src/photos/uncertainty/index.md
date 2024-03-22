@@ -16,6 +16,7 @@ gear:
       model: Fujinon XF 56mm f/1.2 R
       short: 56mm
 tags:
+  - Auvergne-Rhône-Alpes
   - Europa
   - Europe
   - France
@@ -26,7 +27,6 @@ tags:
   - ocre
   - portrait
   - Rhône
-  - Rhône-Alpes
   - studio
   - wall
 settings:

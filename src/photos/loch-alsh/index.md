@@ -1,6 +1,8 @@
 ---
 title: Loch Alsh
 file: loch-alsh.jpg
+alt_text: Coastline with rocky cliffs and trees overlooking a lake with
+  mountains in the background under an overcast sky.
 date: 2014-05-01 16:48:54 +01:00
 dates:
   iso: 2014-05-01
@@ -82,8 +84,6 @@ colors:
   darkMuted: 70 56 36
   lightMuted: 183 184 191
 lqip: data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAACQCgCdASpkAEMAP3Gkwlm7v6+lMVUce/AuCWdtol0wD2lEYCZFEGMink0NKz7BuYD1BBC/rEtbFNyjlx1QR0a4WeHg1nch95ADXOL+CAOIAqoMhiUN293bj3PuiAAAqSh7SfrA4heiHEKF7iqwtZmOUkl1pFCre7R0Wz+4CVfXNwprT3JYw2vc41XsYCBT1riamlKh3OV6f7LkvZQsLSTbI1X0D3n3jlSRdaHQImo30Xv6rlh6CjlAMAcRf40+vFzYdwsmx1whZRTlr1R72bzEMZVAY4HRNeaEt0hoTiLwDJKOQ2ZzfZ4fkmUm31OtmOJYtjcMUv1RmR5fD3HWydnk3pcu6nURtmBkX6oP6t2dX8BilNChbmOv+0KdqMUAAAA=
-missing_data:
-  alt_text: true
 ---
 
 Loch Alsh is a sea inlet between the isle of Skye in the Inner Hebrides and the Northwest Highlands of Scotland. The area is rich in history, and is increasingly popular with tourists.

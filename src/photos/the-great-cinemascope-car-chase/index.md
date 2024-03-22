@@ -41,6 +41,7 @@ tags:
   - tournage
   - tremplin
   - voiture
+  - waterfall
 settings:
   focal_length:
     raw: 80
