@@ -1737,7 +1737,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/curious-red-deer-in-espace-rambouillet/curious-red-deer-in-espace-rambouillet.jpg",
         "mime_type": "image/jpeg",
-        "title": "Curious red deer in Espace Rambouillet"
+        "title": "Curious red deer in Espace Rambouillet",
+        "_alt_text": "A deer with prominent antlers standing in a sunlit forest."
       }
     ],
     "toots": [
@@ -1757,7 +1758,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/red-deer-in-espace-rambouillet/red-deer-in-espace-rambouillet.jpg",
         "mime_type": "image/jpeg",
-        "title": "Red deer in Espace Rambouillet"
+        "title": "Red deer in Espace Rambouillet",
+        "_alt_text": "A deer with prominent antlers standing in a sunlit forest."
       }
     ],
     "toots": [
@@ -1777,7 +1779,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/resting-red-deer-in-espace-rambouillet/resting-red-deer-in-espace-rambouillet.jpg",
         "mime_type": "image/jpeg",
-        "title": "Resting red deer in Espace Rambouillet"
+        "title": "Resting red deer in Espace Rambouillet",
+        "_alt_text": "A deer with antlers lying in a sunlit forest clearing."
       }
     ],
     "toots": [
@@ -3259,7 +3262,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/so-you-re-still-ok-for-this/so-you-re-still-ok-for-this.jpg",
         "mime_type": "image/jpeg",
-        "title": "So, you're still ok for this?"
+        "title": "So, you're still ok for this?",
+        "_alt_text": "A buffalo grazing close to a white egret in a grassy field."
       }
     ],
     "toots": [
@@ -3841,12 +3845,13 @@
     "language": "en",
     "title": "At the school of life",
     "date_published": "2019-02-26T15:24:27Z",
-    "content_text": "“At the school of life”\n\n\n\n🔎 https://nicolas-hoizey.photo/photos/at-the-school-of-life/\n\n📅 26 February 2019\n\n📸 Fujifilm X-T3 + 100-400mm + 2.0×\n🎛️ ISO 160, ƒ/9, 1/340 s\n\n#Travel #TravelPhotography #Africa #Kenya #MaasaiMara #NationalPark #Photography #Fujifilm #Fuji #XT3",
+    "content_text": "“At the school of life”\n\nThe plains zebra is highly social and usually forms small family groups called harems, which consist of a single stallion, several mares and their recent offspring.\n\nEarly on, a mother zebra keeps any other zebra away from her foal, including the stallion, the other mares, and even her previous offspring. Later, though, they all bond. Within the group, a foal has the same rank as its mother.\n\n🔎 https://nicolas-hoizey.photo/photos/at-the-school-of-life/\n\n📅 26 February 2019\n\n📸 Fujifilm X-T3 + 100-400mm + 2.0×\n🎛️ ISO 160, ƒ/9, 1/340 s\n\n#Travel #TravelPhotography #Africa #Kenya #MaasaiMara #NationalPark #Photography #Fujifilm #Fuji #XT3",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.photo/photos/at-the-school-of-life/at-the-school-of-life.jpg",
         "mime_type": "image/jpeg",
-        "title": "At the school of life"
+        "title": "At the school of life",
+        "_alt_text": "An adult zebra and a foal standing in grassland, touching their noses together."
       }
     ],
     "toots": [
@@ -3865,7 +3870,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/grant-s-zebra/grant-s-zebra.jpg",
         "mime_type": "image/jpeg",
-        "title": "Grant's zebra"
+        "title": "Grant's zebra",
+        "_alt_text": "Close-up of a zebra's head and upper body with a grassy background."
       }
     ],
     "toots": [
@@ -4301,7 +4307,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/nothing-to-see-or-maybe/nothing-to-see-or-maybe.jpg",
         "mime_type": "image/jpeg",
-        "title": "Nothing to see… or maybe…"
+        "title": "Nothing to see… or maybe…",
+        "_alt_text": "Expansive savanna landscape with grasslands and scattered bushes under a clear sky."
       }
     ],
     "toots": [
@@ -4499,9 +4506,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/676792985080179899"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1711116821974
   },
   "https://nicolas-hoizey.photo/photos/little-home/": {
     "id": "https://nicolas-hoizey.photo/photos/little-home/",
@@ -4632,7 +4640,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/liberty/liberty.jpg",
         "mime_type": "image/jpeg",
-        "title": "Liberty"
+        "title": "Liberty",
+        "_alt_text": "Statue of Liberty against a cloudy sky with waterfront and city skyline in the background."
       }
     ],
     "toots": [
@@ -5288,7 +5297,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/liberty-has-been-framed/liberty-has-been-framed.jpg",
         "mime_type": "image/jpeg",
-        "title": "Liberty has been framed"
+        "title": "Liberty has been framed",
+        "_alt_text": "A framed view from a dark interior space looking out to the Statue of Liberty, with people sitting and walking in the foreground."
       }
     ],
     "toots": [
@@ -6265,7 +6275,7 @@
     "language": "en",
     "title": "A Riad in Taroudant, Morocco",
     "date_published": "2011-05-04T17:42:00Z",
-    "content_text": "“A Riad in Taroudant, Morocco”\n\n\n\n🔎 https://nicolas-hoizey.photo/photos/a-riad-in-taroudant-morocco/\n\n📅 4 May 2011\n\n📸 Canon 5D II + Sigma 50mm\n🎛️ ISO 100, ƒ/2.8, 1/200 s\n\n#Travel #TravelPhotography #Africa #Morocco #Photography #Canon #5DMarkII",
+    "content_text": "“A Riad in Taroudant, Morocco”\n\nJust 70 km from Agadir in Morocco, Taroudant combines the charm of a historic city with the proximity of the Atlas Mountains and the Atlantic Ocean, both just an hour's drive away. This makes Taroudant a true representation of Moroccan magic. In the heart of the Souss Valley, Taroudant is one of Morocco's oldest towns.\n\nSurrounded to the north by the Haut-Atlas mountains and to the south by the Anti-Atlas, Taroudant offers magnificent landscapes ideal for hiking and trekking, on foot, on horseback or in 4×4.\n\n🔎 https://nicolas-hoizey.photo/photos/a-riad-in-taroudant-morocco/\n\n📅 4 May 2011\n\n📸 Canon 5D II + Sigma 50mm\n🎛️ ISO 100, ƒ/2.8, 1/200 s\n\n#Travel #TravelPhotography #Africa #Morocco #Photography #Canon #5DMarkII",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.photo/photos/a-riad-in-taroudant-morocco/a-riad-in-taroudant-morocco.jpg",
@@ -6371,7 +6381,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/breathtaking-brooklyn-bridge-night-panorama/breathtaking-brooklyn-bridge-night-panorama.jpg",
         "mime_type": "image/jpeg",
-        "title": "Breathtaking Brooklyn Bridge night panorama"
+        "title": "Breathtaking Brooklyn Bridge night panorama",
+        "_alt_text": "Panoramic night view of the New York City skyline with the Brooklyn Bridge and illuminated skyscrapers reflecting on the water's surface."
       }
     ],
     "toots": [
@@ -6466,12 +6477,13 @@
     "language": "en",
     "title": "All quiet on the frozen Trälhavet shore",
     "date_published": "2020-02-03T14:50:20Z",
-    "content_text": "“All quiet on the frozen Trälhavet shore”\n\n\n\n🔎 https://nicolas-hoizey.photo/photos/all-quiet-on-the-frozen-traelhavet-shore/\n\n📅 3 February 2020\n\n📸 Fujifilm X-T3 + 10-24mm\n🎛️ ISO 320, ƒ/4, 1/1400 s\n\n#Travel #TravelPhotography #Europe #Sweden #Akersberga #Photography #Fujifilm #Fuji #XT3",
+    "content_text": "“All quiet on the frozen Trälhavet shore”\n\nIt's not every day that you see the sea freezing. Here, it was in Sweden, a little north of Stockholm.\n\n🔎 https://nicolas-hoizey.photo/photos/all-quiet-on-the-frozen-traelhavet-shore/\n\n📅 3 February 2020\n\n📸 Fujifilm X-T3 + 10-24mm\n🎛️ ISO 320, ƒ/4, 1/1400 s\n\n#Travel #TravelPhotography #Europe #Sweden #Akersberga #Photography #Fujifilm #Fuji #XT3",
     "attachments": [
       {
         "url": "https://nicolas-hoizey.photo/photos/all-quiet-on-the-frozen-traelhavet-shore/all-quiet-on-the-frozen-traelhavet-shore.jpg",
         "mime_type": "image/jpeg",
-        "title": "All quiet on the frozen Trälhavet shore"
+        "title": "All quiet on the frozen Trälhavet shore",
+        "_alt_text": "A serene seaside view at twilight, with a foreground of mossy rocks and thin ice, reflecting distant houses and the early evening sky."
       }
     ],
     "toots": [
