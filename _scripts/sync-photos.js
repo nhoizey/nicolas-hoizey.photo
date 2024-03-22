@@ -17,7 +17,7 @@ const fs = require('fs');
 const path = require('path');
 
 const SRC =
-  '/Users/nicolashoizey/Synology/Personnel/Photographie/nicolas-hoizey.photo/';
+  '/Users/nicolashoizey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Photographie/Site web/';
 const DIST = './src/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
 const DIFFS = path.join(SRC, '_temp_diffs');
