@@ -1,6 +1,7 @@
 ---
 title: At the school of life
 file: at-the-school-of-life.jpg
+alt_text: An adult zebra and a foal standing in grassland, touching their noses together.
 date: 2019-02-26 16:24:27 +01:00
 dates:
   iso: 2019-02-26
@@ -93,9 +94,8 @@ colors:
   darkMuted: 97 96 52
   lightMuted: 211 195 180
 lqip: data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAAAwDgCdASpkAEMAP2WWwFizKqeqMzqtImAsiU2RS3TD0ZunuZmsB9vgACWqrjW0Wwn6RSY/uY4/0HDAlFobslWbozESvDrvHscyzla2TwHkJSLSQywIRu8OXX4tM1pf1BW5T6iJO37pya89rs5xE+ZrDYzRmLBUkD6HAAD+5TQDlhDqj4Hbk6vXHChmV5FuVIliVvSCh3J4TIRcWjMZOcVsZv20shnp/B3LpFGc/Lhsagry/8ky6snjX329+UoXp22kN21VU/tWvZnXuxgEgWt38StyDQ5ZpO9nFOsIHdXTz/IYs7JNka8ZT3rW2SB7FZXdd8sjpzxfuaXbNP2uIqaXpHDRVf6PudDXAOkWr1SrKWQYnqIjwjERjqvE7pytJOH7XsPN1Eew8WM5mdpVmpddmHaKCC7P29ym0ObFRcMamsP01iwoImepLG7SQ4pzRJv912h7O22mK14e1Lo+bUt2cG28Wuda2poCOez/tpJXZCYDjuEUm44atBFuTWDHuk7f1hC9pneiAZrbX6UM/Yq/bZyKSvEYaAaIMI17HdRrXoZAWLTywmDRZTBAAA==
-missing_data:
-  alt_text: true
-  description: true
 ---
 
+The plains zebra is highly social and usually forms small family groups called harems, which consist of a single stallion, several mares and their recent offspring.
 
+Early on, a mother zebra keeps any other zebra away from her foal, including the stallion, the other mares, and even her previous offspring. Later, though, they all bond. Within the group, a foal has the same rank as its mother.

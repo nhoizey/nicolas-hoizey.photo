@@ -1,6 +1,8 @@
 ---
 title: Liberty has been framed
 file: liberty-has-been-framed.jpg
+alt_text: A framed view from a dark interior space looking out to the Statue of
+  Liberty, with people sitting and walking in the foreground.
 date: 2015-05-19 13:26:50 +01:00
 dates:
   iso: 2015-05-19
@@ -79,8 +81,6 @@ colors:
   darkMuted: 76 56 44
   lightMuted: 184 189 182
 lqip: data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQCgCdASpkAEMAP22gv1i0rCclMH1bwpAtiWcA1FAc7XPkmJRb1H2Fddxq1EtAmlOwdkBachze3yIPlR6Iju3vk7Xz7G4KG5QMSsWA0GSvtTMmM2EWRtM8QAD+4rJv0JARx87ZrBN4yqwWOwqK4AzSuaM50XPs3JihELzcQzKy8fISYnVm1/3hHG4JbO5d7bVXXSnQhsAFuBGboqKZiXrGhsjXRDODQ+1kTThalhsWkv+YRvx+gRW2TpAAM/E/gAA=
-missing_data:
-  alt_text: true
 ---
 
 The Statue of Liberty was a gift to the United States from the people of France. It is an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad.

@@ -78,8 +78,8 @@ colors:
   darkMuted: 86 60 54
   lightMuted: 184 177 194
 lqip: data:image/webp;base64,UklGRoYBAABXRUJQVlA4IHoBAABwDACdASpkAEMAP3GmyFo7rLs6rrcK83AuCWQAx9y1kXy70xdBM6VwDti4zVgewiGcHGsPkCorxIi8i6pFCNzToQ27tdro1Mg3IoqlVrYTyd3caVgW9QSwcj67EI7sH4RLmlGlWcKRQKB0KAAA/uHmjm/I6R+Mnh+bc35uCUoJPpj3jpp/He78hseU4J0qyZU/kO4kN4opvpepoyfuC8vpHPDSUyEGr1P71GIGU2YkS8WdOeTQQCKDNKLKZuQiUWK5F7JT5OwSkBMXAfJuYZwJt/bO1qBOC4H4FSKuPGbEvoZp06vIrsy8x9kMRTsqI0w5SqwEqICyrSGRlir9Ef2UHlSsPpWFT9UyVf+yaWR9xyIiDbG8G/T667GYLXFyr21A2aiXX3xQdvkCCkipTgY30UiiHmLbmEb6JirrWPYjdL4AMrSEVEiVVxW27dnFoHLRN0NOHGAZ/TpNMmY4GnT3qelTk+lYrWz1pbiviMtG3d8YsF/riBStgAA=
-missing_data:
-  description: true
 ---
 
+Just 70 km from Agadir in Morocco, Taroudant combines the charm of a historic city with the proximity of the Atlas Mountains and the Atlantic Ocean, both just an hour's drive away. This makes Taroudant a true representation of Moroccan magic. In the heart of the Souss Valley, Taroudant is one of Morocco's oldest towns.
 
+Surrounded to the north by the Haut-Atlas mountains and to the south by the Anti-Atlas, Taroudant offers magnificent landscapes ideal for hiking and trekking, on foot, on horseback or in 4×4.

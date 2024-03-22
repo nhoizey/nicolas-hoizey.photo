@@ -74,6 +74,7 @@ geo:
   longitude: 6.562544445
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 140 86 36
   darkVibrant: 109 68 27
@@ -82,9 +83,6 @@ colors:
   darkMuted: 96 74 51
   lightMuted: 146 172 204
 lqip: data:image/webp;base64,UklGRoACAABXRUJQVlA4IHQCAADwFwCdASpkAJYAP2GewVi5P7+lM7cdU/AsCWVtolvaf3uQpe92+920+LcioVNMbBjQ9K3NBDnWh+sb08cNWkO2nxykqvvlZTDvJ09OnPAn5UfcP1dQfXL3iKwl91gMkD21uAJjqVuIvqk9irHAgfqI5WbN0honBo9P5Rbm7Wo/OKxaaWeMDfuLkRiWZb5/oicC7VicQ70DpL3/bBxI3Q7YoI8kBu27YAV4lRdmGhoemygWCQk9/ZAfHDwKxOZNOUJIJ1EDsSnc8AD+7BPdnozrgzc3HqEqJgnGuuHiKkekqrMXZhzKWrXHNjviYbM7YZ3TmSttf+Cpaj8ZpG5rZgeu/774JtE7NwxUyisM7HHqwY0SmZM/tqV0ADl7dHEhLtJryx4saKX3k5sBBR+q/MVbB0j5AJZ5OtYC1I3e3XQza+zTHUkHIzrheQlpek14FHVSZ+Sn31mmKSOBGKlV0YOrLjErwzAFp4xT1NRZRr749XqliSicgPsKIDFbIhIat0MvqPVVSqOfTijM24NQHv31cRjsWPz93A3y6MvZC2BoCPQxBmBU1G1ND5W6y/FflTj0OIGLIODjyPPO6X8jtBALm5P2CHPG4lzxPJXjtRAl+Aj6ewk4rCwBUyGDOnhR688KHxitlcomqHpDCETbw3zUUzPwVFHTqApDpm7BzyvJhSnyx0PNiJTacpc+OqVsnp9GYOqg5Suk1Pn4jYzVvvH1jH/s2QEoRPaZoiLhN6cfTypfsfh9iG1250qcJnclnvoVrEliqPCwmTOEyudO+6cRLFfwA9tx1pVI3BoCFFYOBCvIbFCALkc1HUDw1gNfam3agAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Larches are deciduous conifers in the genus Larix, of the family Pinaceae. 

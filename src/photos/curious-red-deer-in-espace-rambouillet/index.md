@@ -1,6 +1,7 @@
 ---
 title: Curious red deer in Espace Rambouillet
 file: curious-red-deer-in-espace-rambouillet.jpg
+alt_text: A deer with prominent antlers standing in a sunlit forest.
 date: 2021-10-24 12:11:02 +01:00
 dates:
   iso: 2021-10-24
@@ -89,8 +90,6 @@ colors:
   darkMuted: 92 44 44
   lightMuted: 176 173 136
 lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAADwEACdASpkAEMAP3Ggx1s0qqgkLbM+YpAuCUAaTgzlpSgDN3xbeSTS8Xgq5qs1jRebgicuoZce5hvlfeFEndimHOJgHA+P+PdANWWOE+GAk7QbY9pXmnjYljT2SVJQ+pgJlVa3o3Bs4v3ZUlmaNZQOUucqUqOQK39QED1ZoUzxSi6nYS7V43dd4VasND8z4wAA/u2k/Vpsjt3D9M2+MjiGNf7pOXPOm+bYMbVGsoFrYMax+FhD4dplQMYZ1DAihpHhjPxo+/jPIis8F9TAgpTnd6bmIwsFiRJc+8Z9KfbtGR2FLyq9VK+PMXG8q1VdL7WY90Sna1ds9NR7YKhoCsCBus1imD7l+KpZEYy8jPZ8NS37oamFm0o3YnD9gIeutYv0s9KG1pkKklVMuKzwRdzFQDm5Pcdj1WlXls1zRP9p57qCrXnuV/hjHghCrkTkN1UwjJ7yO67HBVDEKEX93bGY8/krTsBaby3k32TLcCq37+D6O3+LUkIBrJ35zUTq+lecibQxMrh16USCZRr735eve6SprHUCwmPemk8xDtu9OhQzMu7WIJ8NuhmPyMQktu57EfGbkymxn0YPUSZWNQY329EiMxz3oPkl7iAA
-missing_data:
-  alt_text: true
 ---
 
 The red deer (Cervus elaphus) is one of the largest deer species. Although at one time red deer were rare in parts of Europe, they were never close to extinction. Reintroduction and conservation efforts have resulted in an increase of red deer populations, while other areas, such as North Africa, have continued to show a population decline.

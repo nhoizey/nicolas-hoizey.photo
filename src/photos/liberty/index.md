@@ -1,6 +1,8 @@
 ---
 title: Liberty
 file: liberty.jpg
+alt_text: Statue of Liberty against a cloudy sky with waterfront and city
+  skyline in the background.
 date: 2015-05-21 16:42:06 +01:00
 dates:
   iso: 2015-05-21
@@ -73,8 +75,6 @@ colors:
   darkMuted: 84 49 62
   lightMuted: 213 193 181
 lqip: data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAADQCACdASpkAEMAP2mev1i6q7WjsH47w1AtCWUG+Bsu5j82MJ680kuwxvUtIIhtNmFUEaJoxrWzm0g/NcucuYDSj0s0sxHscobhfn3y+Z4AAP7NPixOxV7aRxjbtzx7KpqCKTjw5VqkEUTCOp7nPfYugakLQRKVq4sYIv+JRqC2vfbYKKXzI8RaXlIbrdRDwLIWCgN1bnTcWHipMZnCLsxpdKYuu6oA99XhZZfJX3vUPrx8oYYMdYOxgYbE7NxfgonYuEHF/c5BG3cNnE1YD6Snx+PNcw/OOiYQ+JtEnCluEdNQShvlSsT4/t7zcAAA
-missing_data:
-  alt_text: true
 ---
 
 The Statue of Liberty, in addition to being a very important monument of New York City, has become one of the symbols of the United States and represents more generally freedom and emancipation from oppression.

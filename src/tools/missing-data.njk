@@ -54,7 +54,7 @@ table:has(input#lens:checked) tbody tr.lens {
 <table>
   <thead>
     <tr>
-      <th colspan="2">Photo</th>
+      <th colspan="2"><output id="nb"></output> photos</th>
       <th><input type="checkbox" checked id="alt_text"/> Alt&nbsp;text</th>
       <th><input type="checkbox" checked id="description"/> Description</th>
       <th><input type="checkbox" checked id="camera"/> Camera</th>
@@ -94,3 +94,18 @@ table:has(input#lens:checked) tbody tr.lens {
     {% endfor %}
   </tbody>
 </table>
+
+<script>
+const lines = Array.from(document.querySelectorAll('tbody tr'));
+const output = document.getElementById('nb');
+
+const countPhotos = () => {
+  output.textContent = lines.filter((photo) => window.getComputedStyle(photo).getPropertyValue('display') === 'table-row').length;
+};
+
+countPhotos();
+
+document.querySelectorAll('input').forEach((input) => {
+  input.addEventListener('change', countPhotos);
+});
+</script>

@@ -1,6 +1,7 @@
 ---
 title: Grant's zebra
 file: grant-s-zebra.jpg
+alt_text: Close-up of a zebra's head and upper body with a grassy background.
 date: 2019-02-25 17:11:46 +01:00
 dates:
   iso: 2019-02-25
@@ -92,8 +93,6 @@ colors:
   darkMuted: 79 65 54
   lightMuted: 192 188 162
 lqip: data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAACQCwCdASpkAEMAP3GuyVw0rqi4LNbaSwAuCWMA02Aa6m/spPnpmFmuoQSfcaWJOds80TAyvXHqx4vRoK/5cFeUdaol1bGq36y2UZcGVB5lQC4kEjNymotOyEYciLbSrW6om4MUAADScwZSU2xB+vCGhky/1wXaB9Mn9h8oEZ7BIQZ+t8CHNj0qu4lQEqx0TutjiYVymkiwf9gs8q2aathvDfU6a/33ZEtHXpjS7An6vI7KL4VLgp2ijibvtlcOJHcDbx9OWarnT7BtvZspQrZMtDPAMtZYpGWbyD1is/6bHKkkuXRzTkJgVzsMhJKLztIHlseQArlcWQtCmAD5LIHmXpwoMveEHQ+nJaTxfaqeMtabRYVmqR1tAkq0O17LyPekBmwAgGTJgAAA
-missing_data:
-  alt_text: true
 ---
 
 More Grant’s zebras are in the wild than any other species or subspecies of zebras. Unlike Grevy and mountain zebras, they are not endangered.
