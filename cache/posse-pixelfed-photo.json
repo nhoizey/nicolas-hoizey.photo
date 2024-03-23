@@ -756,7 +756,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/loch-tummel-from-queen-s-view/loch-tummel-from-queen-s-view.jpg",
         "mime_type": "image/jpeg",
-        "title": "Loch Tummel from Queen's View"
+        "title": "Loch Tummel from Queen's View",
+        "_alt_text": "A panoramic view of a serene loch surrounded by rolling hills and scattered forests under a cloudy sky."
       }
     ],
     "toots": [
@@ -815,7 +816,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/loch-alsh/loch-alsh.jpg",
         "mime_type": "image/jpeg",
-        "title": "Loch Alsh"
+        "title": "Loch Alsh",
+        "_alt_text": "Coastline with rocky cliffs and trees overlooking a lake with mountains in the background under an overcast sky."
       }
     ],
     "toots": [
@@ -1638,7 +1640,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/pigments/pigments.jpg",
         "mime_type": "image/jpeg",
-        "title": "Pigments"
+        "title": "Pigments",
+        "_alt_text": "Colored glass bottles arranged in rows, creating a vibrant spectrum of blue, purple, pink, red, and orange against a wooden backdrop with light shining through."
       }
     ],
     "toots": [
@@ -2365,7 +2368,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/colorful-edges/colorful-edges.jpg",
         "mime_type": "image/jpeg",
-        "title": "Colorful edges"
+        "title": "Colorful edges",
+        "_alt_text": "Three champagne glasses with colorful neon glow along the edges on a dark background."
       }
     ],
     "toots": [
@@ -2951,7 +2955,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/baglafecht-weaver/baglafecht-weaver.jpg",
         "mime_type": "image/jpeg",
-        "title": "Baglafecht weaver"
+        "title": "Baglafecht weaver",
+        "_alt_text": "A yellow and black bird perched on a branch with green leaves."
       }
     ],
     "toots": [
@@ -3557,7 +3562,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/what-are-you-waiting-for/what-are-you-waiting-for.jpg",
         "mime_type": "image/jpeg",
-        "title": "What are you waiting for?"
+        "title": "What are you waiting for?",
+        "_alt_text": "A hippopotamus grazing on grass in the foreground with a white egret standing nearby and a group of wildebeests in the background."
       }
     ],
     "toots": [
@@ -3616,7 +3622,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/ladies/ladies.jpg",
         "mime_type": "image/jpeg",
-        "title": "Ladies"
+        "title": "Ladies",
+        "_alt_text": "Three lions lying in the grass with a natural green backdrop, looking towards the camera."
       }
     ],
     "toots": [
@@ -3681,9 +3688,10 @@
       }
     ],
     "toots": [
-      "Ignored during first run (see `ignoreFirstRun` input)"
+      "Ignored during first run (see `ignoreFirstRun` input)",
+      "https://pixelfed.social/p/nhoizey/676974612648473154"
     ],
-    "lastTootTimestamp": 1704500964402
+    "lastTootTimestamp": 1711160125289
   },
   "https://nicolas-hoizey.photo/photos/a-very-curious-vervet-monkey/": {
     "id": "https://nicolas-hoizey.photo/photos/a-very-curious-vervet-monkey/",
@@ -3890,7 +3898,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/grant-s-zebras/grant-s-zebras.jpg",
         "mime_type": "image/jpeg",
-        "title": "Grant's zebras"
+        "title": "Grant's zebras",
+        "_alt_text": "Zebras grazing on a grassy plain with Mount Kilimanjaro in the background."
       }
     ],
     "toots": [
@@ -4167,7 +4176,7 @@
         "url": "https://nicolas-hoizey.photo/photos/if-symptoms-persist-seek-medical-advice/if-symptoms-persist-seek-medical-advice.jpg",
         "mime_type": "image/jpeg",
         "title": "If symptoms persist, seek medical advice",
-        "_alt_text": "A brightly painted yellow building with signage for “MAMA DENIS PREMISES”, advertisements for various products, including “RAW ANIMAL FEEDS & CEREALS.” The building has a corrugated roof, closed white doors"
+        "_alt_text": "A brightly painted yellow building with signage for “MAMA DENIS PREMISES”, advertisements for various products, including “RAW ANIMAL FEEDS & CEREALS”, and the mention on the wall “If symptoms persist, seek medical advice”"
       }
     ],
     "toots": [
@@ -4385,7 +4394,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-village/the-village.jpg",
         "mime_type": "image/jpeg",
-        "title": "The village"
+        "title": "The village",
+        "_alt_text": "Rural landscape with traditional mud huts, acacia trees, and distant hills under a clear blue sky."
       }
     ],
     "toots": [
@@ -4620,7 +4630,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-threat/the-threat.jpg",
         "mime_type": "image/jpeg",
-        "title": "The threat"
+        "title": "The threat",
+        "_alt_text": "Notre-Dame Cathedral in Paris against a backdrop of a stormy sky with a glimpse of the Eiffel Tower in the distance."
       }
     ],
     "toots": [
@@ -4660,7 +4671,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/the-city-that-never-sleeps/the-city-that-never-sleeps.jpg",
         "mime_type": "image/jpeg",
-        "title": "The City That Never Sleeps"
+        "title": "The City That Never Sleeps",
+        "_alt_text": "Nighttime cityscape with illuminated skyscrapers and a prominent building lit in red, white, and blue."
       }
     ],
     "toots": [
@@ -5143,7 +5155,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/kilchurn-castle/kilchurn-castle.jpg",
         "mime_type": "image/jpeg",
-        "title": "Kilchurn Castle"
+        "title": "Kilchurn Castle",
+        "_alt_text": "Ruined castle by a lake with rolling hills in the background under a cloudy sky."
       }
     ],
     "toots": [
@@ -5163,7 +5176,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/portree/portree.jpg",
         "mime_type": "image/jpeg",
-        "title": "Portree"
+        "title": "Portree",
+        "_alt_text": "Coastal village with colorful houses, a harbor with boats, and mountains in the background, under a cloudy sky."
       }
     ],
     "toots": [
@@ -5337,7 +5351,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/lower-manhattan/lower-manhattan.jpg",
         "mime_type": "image/jpeg",
-        "title": "Lower Manhattan"
+        "title": "Lower Manhattan",
+        "_alt_text": "A nighttime skyline of a city with illuminated buildings, a bright moon in the sky, and old pier pilings in the water in the foreground."
       }
     ],
     "toots": [
@@ -5415,7 +5430,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/egret-at-sunset/egret-at-sunset.jpg",
         "mime_type": "image/jpeg",
-        "title": "Egret at sunset"
+        "title": "Egret at sunset",
+        "_alt_text": "Silhouette of a heron standing by water with a twilight sky reflection."
       }
     ],
     "toots": [
@@ -5866,7 +5882,8 @@
       {
         "url": "https://nicolas-hoizey.photo/photos/looking-up/looking-up.jpg",
         "mime_type": "image/jpeg",
-        "title": "Looking up"
+        "title": "Looking up",
+        "_alt_text": "White traditional buildings with ornate edges against a clear blue sky, featuring a street lamp in the foreground."
       }
     ],
     "toots": [
