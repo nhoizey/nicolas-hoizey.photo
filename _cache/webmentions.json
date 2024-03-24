@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-03-23T06:09:07.461Z",
+  "lastFetched": "2024-03-24T06:06:39.833Z",
   "webmentions": [
     {
       "type": "entry",
@@ -77965,6 +77965,25 @@
       },
       "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sana Yousuf Z",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/12f961ef188bb31b4fe03d2608da1cd749db2d3277520d70a2b506d75d341db3.jpg",
+        "url": "https://www.flickr.com/people/111642074@N07/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53590104928/#liked-by-111642074@N07",
+      "published": "2024-03-23T22:28:11Z",
+      "wm-received": "2024-03-23T22:28:11Z",
+      "wm-id": 1797030,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53590104928/111642074@N07",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
