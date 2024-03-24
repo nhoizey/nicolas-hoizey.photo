@@ -1,6 +1,8 @@
 ---
 title: The view over Mtskheta from Jvari Monastery
 file: the-view-over-mtskheta-from-jvari-monastery.jpg
+alt_text: Aerial view of a serpentine river flowing through a valley with a
+  small town, surrounded by green mountains and a highway in the foreground.
 date: 2018-08-12 13:35:14 +01:00
 dates:
   iso: 2018-08-12
@@ -75,8 +77,6 @@ colors:
   darkMuted: 100 83 43
   lightMuted: 171 204 212
 lqip: data:image/webp;base64,UklGRqABAABXRUJQVlA4IJQBAACQDwCdASpkAEMAP1mUuFiyP6UqOLjsA/ArCWVswYAFQqOxzraZ5O9uCb/hHb6m/PTDuUAtjy7u14Cuhw4XUrLHtNkki6pFBJcf/Mx20BBm2bwL9rUyMjymW9EoxUk83xOSRCL7wFkQdaDcHYn8Sa3Gepr7c4eTppHauDosngBbbev4KPbQALEVnxo8m0hpvxIYmfK2hyfazTbGuV6M1vpUVNr5j4CrakoI+iWy1cIofoZwYNGb/q5QxT/v3c7flEEqELV/VbqJEN0Fb7cDhWHkLGMAqE0TTUi2ipPuAVcIDQeWEySVt+UnyJgNVbQtYp1klhg4H5VaFsMiGTszcpwUM6qvGnc9cgFrNbpJ95mNxjqUuNJ4RSf8s75LQ0KQFG0+SsqAEE8b4T7o7z02QEsXut8Q6m0bvHpoW3mxPmRpJtotQ2Hvm8QZz1hLQHpfrASgwiizNGbp2KXlkRzIr1gBa4G6PpXPsuHa0cUv01rQ5P64Y0MIoyMLvsBO/kQVU6yj+hPPZKa2PxTjiyzeBQebp5eAAA==
-missing_data:
-  alt_text: true
 ---
 
 Jvari Monastery stands on the rocky mountaintop at the confluence of the Mtkvari and Aragvi rivers, overlooking the town of Mtskheta, one of the oldest cities of Georgia and its former capital.

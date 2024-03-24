@@ -1,6 +1,8 @@
 ---
 title: The many faces of Iron Man
 file: the-many-faces-of-iron-man.jpg
+alt_text: Iron Man suit on display with other suits in the background and a
+  figure resembling Tony Stark to the side.
 date: 2015-08-15 12:14:09 +01:00
 dates:
   iso: 2015-08-15
@@ -68,8 +70,6 @@ colors:
   darkMuted: 76 40 42
   lightMuted: 192 179 168
 lqip: data:image/webp;base64,UklGRgQCAABXRUJQVlA4IPgBAABwEwCdASpkAEMAP2GaxFiyq6glMzPfalAsCWVok1yRFiXekDs4n37iAW2+U6ocjC9R2H/ak3qxmhvcv+Fu+eeb9LUgDpFJXi+tLGbfstnqbtnl9Di3BdyRarBVXejDHb0Qr7ZS2Ea6HWLWaOwpqL0IB5k2bf1Q1irlLygkpF1HdSdYFTh8AU/2aHDyAWf2TManHLCDXS5zjQdiXPoFngolBmmmAAD+dw2ZBWsJ/wRZRAWluBpOenm9u12GelzpR5nFlUICzlHxFvZVcCSOVTBNK0BXRmxdy+d/I1HP58NKy7IFbr/OLUMFiS8tH3pI7n6vzM6K1XlH9TZHvByxCG4lpto2+LWu4AS6B8LShElVNjBKyfQUbNjIA8WPKHqPKdWseBYLNy3si3A+WDbTo2wPCYumdafz8l66/5121HUws7hvKJngXjGqET3Q8XAV2mf1xJ0tSdERI9DoM7Lb2Mj5UTOEaEbh6gD8ME5Q35fSgUxHAEMXTItbhraj1VXittNDhhtYdt/FJLcOObmrMUBqFr9H3fkS/Ghgr4TRzg8AVx9zEQom9r2N6WGBKVNcnZa73PaMR40TZBaxQEHHruFs0z6idxn/Zm5HXcDyA5At8Cu1teSfkwYvMNftw/JbOtMH8HA/YHYmJGVBr4ln56ZfpvtRhU6rcAA=
-missing_data:
-  alt_text: true
 ---
 
 This diorama is just a small glimpse of the vast amount of Iron Man models seen in the various movies of the Marvel universe, and reproduced with incredible detail in 1/6th size by Hot Toys Limited, one of the world's best manufacturers of collectible action figures, including iconic movie characters (Star Wars, Alien, Predator, Terminator, etc.), in Hong Kong.

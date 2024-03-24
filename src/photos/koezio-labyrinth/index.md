@@ -1,6 +1,8 @@
 ---
 title: Koezio labyrinth
 file: koezio-labyrinth.jpg
+alt_text: An indoor maze with neon lights and symbols on the walls, featuring
+  glowing circles, stars, and figures in a dark setting.
 date: 2018-06-16 14:41:16 +01:00
 dates:
   iso: 2018-06-16
@@ -84,8 +86,6 @@ colors:
   darkMuted: 80 46 82
   lightMuted: 170 150 117
 lqip: data:image/webp;base64,UklGRiIDAABXRUJQVlA4IBYDAABwFACdASpkAEMAP2mgx1izrCilLbVeynAtCWwcAA1RR/Mt3420AeRQhTC4TG//Kkxh57ErcR5nV27fBEYZ4hiKO42k9hvH10yn4YIApuwniYSatLzGBtt61itOLSCo+VSZRDjjb3+GzdEFuPiEIzfrKOBMjmiBEKzvC8ZKX6UXHUyLUzb/BfSzlTKTHEUcrHk9N8ElJny1zalR777oRycnZgz50OVuZ3d1YtGAAPqX7WXOaYM+MHGs8tdlJCA2SYpoMX61xI/myCMFD8RMhif6dJXHIhTd2ltQSM5gXlow9+C8SNqbWK8EWWLz4/DOlY0A+REaz4cEvWFwqF4opakM9N4GAj9EYBfSw5XPrRw1/IJitT2oUm3Jfdu7c2yd9Bgn6wWzp9xgZkzZovMQK5Ywzr42xRcwn2SWMbAduD8UAkTfNEBhuU7rLanUAgh3LJOHyyATToZQyDwiHiPjf7hlpz0z6wtiMLQSJ3FmodFAd/7E2VGAK1LfBMcdsjyl8m7TX2gG0ses35rrZ48GZ0y/qgwvO+H+oDzv0FFXw25kwWJ6tNH4wj9v8YiyPIrsEwhYtgEGjMOLViSEbBXOFqLz8KLamzgXFe1gW9uUieX0m5ZmgwUGPHDNAywyaZIyK03QFNhpXEyfQvUI/AnSki/nQLqk2AvsiTb5tzX4lHDo66RxzzC3sM+LaSY1H6aBYDcuNBlsEzJwGPDBRfUZGTgBe15+HwxMfS6tGGtXmTE8C5o4yd336j+NRt2wSnGZgqFVVATuNl/sE/d7AU6P7ITJZQb67vsSkMtBXFwkIxB+5sJNh7EY3yyxhCnd/Be74TvJcrP96qGbdXtQ81x79+weAUWweGcXiJxFm9DEX1hfWkotdeU3NLtGbza47Cs1IY8IRb3WEMUnM1PIYxCyaFnZo3d9RYDh/a0/ai7VpdetJvZPVnV8Y7KsvCqXySmJD7EMZzlSDxCxtv2JeK1HYFof6lJPw3upOwSphKW1nuaSRYtfc21y+muTkLIE5iUOGk82yGvGxm6icsftpOAtPOrKW3ARs+AA
-missing_data:
-  alt_text: true
 ---
 
 Koezio's puzzle game will undoubtedly unsettle you, you will be questioned on all subjects and maybe where you don't expect it.

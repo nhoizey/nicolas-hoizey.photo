@@ -47,6 +47,7 @@ tags:
   - National Park
   - Panthera leo
   - Parc national d'Amboseli
+  - plant
   - regard
   - sauvage
   - savane
@@ -54,6 +55,7 @@ tags:
   - soir
   - soleil
   - sun
+  - végétal
   - wild
   - wild animal
   - wild animals
