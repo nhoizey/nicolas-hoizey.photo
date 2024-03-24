@@ -1,6 +1,9 @@
 ---
 title: Moroccan women picking wheat
 file: moroccan-women-picking-wheat.jpg
+alt_text: Two moroccan women harvesting wheat in a field with trees in the
+  background. The woman in the foreground is bending over, while the other
+  stands holding a bundle of wheat and smiling.
 date: 2011-05-06 10:50:44 +01:00
 dates:
   iso: 2011-05-06
@@ -87,7 +90,6 @@ colors:
   lightMuted: 206 186 164
 lqip: data:image/webp;base64,UklGRqYBAABXRUJQVlA4IJoBAABwDwCdASpkAEMAP3GgyVo0qzKkL5WsApAuCWVsRFys7DD2qnCtN7kZ6K9OEy7Ptlx4GyFK5S2GaYuDkW2A/QireGMoB3z+M6HezH0FDIZ5oJMW/q2Mo5CcAI7LBmEBIRL+8CaHSEkOT42IcY4jVC/jZUCOCvv0S4Gqkztrl3g4O8dVegAA/cxFhkPh+3g8OQGaMHNijJ3jmJ2Vb+sbGfDZde7P7jYRM2GdpMsylueOvdARGGVALxudPu0GAo2Aekn1rFRZMd3I908mQdcm+5Ogi+wwjPGOTsNwBeI/jYMO2aXsF/Id0zNvdTfw+lhKQM3VICBu9aj6zKeiR0Xv4alPGaD+8zYM1bDPlkrAwAaIlapOGVtiYGGlXYRlBt5oQhmGnsU9sP2tCc2kQz9lmWxkfhRRx/ZfSriEMYadp5Ox2tGKdDgZOUrvavqC4CxCmEi1jG6lofhnYDaBwuAyV1BgD22KI+BNoOK6Wr871cYjnwlQe1vntVgN/xCnPCODVjCL+8D2KB6AhkJAR/HijWLEnyjyMGSFs0AAAA==
 missing_data:
-  alt_text: true
   description: true
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: À l'épée Royale
 file: a-l-epee-royale.jpg
+alt_text: Aerial view of a miniature model depicting European-style buildings,
+  with a focus on a white building with a yellow awning labeled "L'épée Royale"
+  and miniature cars parked nearby.
 date: 2013-08-14 14:12:22 +01:00
 dates:
   iso: 2013-08-14
@@ -68,8 +71,6 @@ colors:
   darkMuted: 54 63 76
   lightMuted: 189 184 177
 lqip: data:image/webp;base64,UklGRv4BAABXRUJQVlA4IPIBAACwEgCdASpkAEMAP12cwliyrDejtRQ+qvAriWMAyYhw+vQEhjH7WAHfXqxC7ydQGE0ovmzNE1+v0YYtxmejv7Ve4qIUHh2+Q6z6AtB5e0Rpg3NGIkVhFm1Zp0aU/nA/nADkArsFEsXcVsud1+8pbiIoRnlOu179n0gu+SQtcS3J+PX9pXL1dGpe8CicAJQ8t4jJu/l1SMJ31kj3zYd5gAD+QDlE2Pwq9QOTw7g6D9Xh7Mv2La5FduFfmYx1ozkDkBw7eBPzvTOip/XzTWleqFqRlM2u4+va1XY/SJRwaUm806YIc/bSQWD+0Osn3Z4zan5x6Cnv/XVUpTKxcxCKF1TlLiZvuiISjaMiAFGqQ3cvGnew/ccv3P0Xr+TJO8P5G3uZnzk1UQH2Qymq8N/QKmAd7NQ80Dil5bpF3cIMmNfXkfE7hKbptI5DA3uEjggFHXh4ueNfl/95HBz82MNkqqqsr0Ygy5DtXY4wO37cag7kfgMqSrAke82u3tiTHntQ8Rrl4ortnGcBwTx4IBOym1jUFnK88Criih+SVk956HYaKtG/FPzL109FkejkTSJBiu3+lnnKDRMTzUNFOYTbvjejtB/1UK3xsECBVncU5PC89GTkwfk8WioKouZxhzDf/nylr9ev8ZGLFm9NtSyMn/2KyAA=
-missing_data:
-  alt_text: true
 ---
 
 Visiting the Mont-Saint-Michel, the Roman Theatre of Orange and Notre-Dame de Paris in less than 12 hours is a piece of cake! Just slip on your seven-league boots and whisk the kids off to France Miniature.

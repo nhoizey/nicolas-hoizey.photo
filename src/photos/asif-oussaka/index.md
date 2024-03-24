@@ -1,6 +1,8 @@
 ---
 title: Asif Oussaka
 file: asif-oussaka.jpg
+alt_text: Rugged terrain with a dry river bed winding through hills, cactus in
+  the foreground, and remnants of stone walls.
 date: 2011-05-06 12:30:20 +01:00
 dates:
   iso: 2011-05-06
@@ -87,8 +89,6 @@ colors:
   darkMuted: 47 70 89
   lightMuted: 194 176 162
 lqip: data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAABwEgCdASpkAEMAP2WcwVizK6ejszYeQmAsiWMAzu539hjkQoEzx7YZ3Qte498Nfcrgy34ow/IdUBzDHAoNKHezq9j4vYHFjeET52degGvAjXsNGGR3i//RuQZjCoF8Vd2rISYJM8EfsY7H0f8OgbTQ3fmuBu3VJkTj2rh13E21brvLvs+8+8wlzdsoohPzn5Hl++3xOmpmMU1+4AAA/q6sRn7qo4bUgkyDTS3+7haQl5ReyyrTO8P/AaLNwY1o0olgV+VhznsQBMYpgOmTK+whoFQVKQ1LJ+ybi2w2OYBBm4E/M5v+mAHwtLvNVcmG39P+ReNUoGuJAIbmeV5lYF1JN5Qu277JuWSjRI+WaKayvccMVlG9OQwz5ah58tCAI6rsNC6YT+DpR/G/rzJKRy6Iarma7F/NN/l2dkNfezTi8cTjcNDMQbkDD/RsMlXt1U8ks5fojiILvnqBsK+yWS0rccxxBBqdyUeSb+DqgA7uvCfCKvtVt1+e3FfcUbWYeIq1aeXTtVw22EVhM/fcIQlWn+GnDLc7e2xK2LR8ReeoJ1MuDeqxloFgHmSBPI5WcbPO9s0IR4gAq/WNbfxoJPMTYXAbPEqK4WcFeMAA
-missing_data:
-  alt_text: true
 ---
 
 Wadi, North African Arabic Oued, is the Arabic term traditionally referring to a valley. In some instances, it may refer to a dry (ephemeral) riverbed that contains water only when heavy rain occurs.

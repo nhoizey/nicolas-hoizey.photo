@@ -1,6 +1,8 @@
 ---
 title: A nut shell in Étretat
 file: a-nut-shell-in-etretat.jpg
+alt_text: Coastal cliffs with a natural arch formation over turquoise waters,
+  with a pink-roofed boat floating near the shore.
 date: 2013-07-28 12:22:00 +01:00
 dates:
   iso: 2013-07-28
@@ -81,7 +83,6 @@ colors:
   lightMuted: 175 146 139
 lqip: data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAACwDgCdASpkAJYAP3Gqxly7v7+sLNUrO/AuCWMtltgJ4CLz4DWfoNzdrQyiv/1+N8KWTeuAf/IjuqyRCBfY9iDniTwHc2D1cNM68oR0HvC0tJRy7efljk3+jJNRiifyAOy2DpWz/d/YP2keyc5z7X6Y43lo+6zZ96nPWs5+U4AA/ucMV3p0dmBcfTSbErNqeVs/LiXuLZ4guooKBbrNL+1YozRU8Qpj/4kuTcavWqWCr8m+BlqJrPagKkE9/LnN+xqw9i8vok1wrAxJeYTyg6Qgcx1EJKaImdHDFbd3AHebZJJvT4EYR0bYYrx/vfSFETxYdRCnKCVTFNXeHqMCZA+JmF23E+ZqlbmYB9Z1/NCNgcK7Sb1/iLeU4AAAOnH75cxI7/ivsG4scSrwuSFmfrPhi2xpHtwGC4+iisiPrG4jXizdQgCRj1d6wkjiGKeClGz62N5ZuBRj5jr1xlb74+Fuf6Zz1gSizIcCZTyZ0htZdltNc5w8hQGdc0iKTdIgX6D5mR1jK8vmIf7OHekSCF4VoA/Hm9+OBwvHFsuIuZZeGv0EuOSAaZtRwsK0HXYNyJ15TxJ8NIeaHTlYopkRBy+2I+KlbLTgAAA=
 missing_data:
-  alt_text: true
   description: true
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Night mirror
 file: night-mirror.jpg
+alt_text: Illuminated classical building at night with reflection on water
+  surface, and silhouettes of people in the foreground.
 date: 2010-08-07 22:34:01 +01:00
 dates:
   iso: 2010-08-07
@@ -59,8 +61,6 @@ colors:
   darkMuted: 81 62 39
   lightMuted: 167 209 166
 lqip: data:image/webp;base64,UklGRkwBAABXRUJQVlA4IEABAAAQDQCdASpkAEMAP3Giylo0rCklLrv5spAuCWUAzyhI5/ALW+8eRxJhaBUA8nHBPd1AvxBpKGuV09Hn1JWsCSwS71bcYOYgBHHsmNCeUoKAjM5L+QmozG8tiENK/nzLqT3dPCaGjpxnSsM8mk/PJScGeAD+7nEPF90KmSqYAHGzaCYCtABb3T/UDdMe+6WDPvV7Xuoj0NRDRZmkG1EPAOPPKX9AgO0UBkBunx2H6+ODOeeJtd8RV1MXXL1E8Wtz24Q7F4L0jqMgxXc30qXqsYaWJTrAhcievFQ3YRGx3k8YBI5g8uz0pJc/wn79LI8EVnM4zOPIHCv6YAGsEZfpiGVoZbkEJ0vRmiv9/E+kHHAniqZHFIiY2Gh6RFzdAUP1ws9ZDt97DARrllVHCmC0IaSI8srf2hsDbTTpmqiZMAAAAA==
-missing_data:
-  alt_text: true
 ---
 
 The water mirror is one of the attractions of the beautiful city of Bordeaux. It is located on the quays of the Garonne, opposite the Place de la Bourse.

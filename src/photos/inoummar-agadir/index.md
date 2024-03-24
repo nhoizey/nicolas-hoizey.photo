@@ -1,6 +1,8 @@
 ---
 title: Inoummar agadir
 file: inoummar-agadir.jpg
+alt_text: Narrow pathway through ancient stone ruins with multiple tiers of
+  exposed rooms and ledges, no roof present, under a partly cloudy sky.
 date: 2011-05-06 12:38:27 +01:00
 dates:
   iso: 2011-05-06
@@ -76,8 +78,6 @@ colors:
   darkMuted: 89 78 48
   lightMuted: 177 190 210
 lqip: data:image/webp;base64,UklGRugDAABXRUJQVlA4INwDAAAwIgCdASpkAJYAP2GcwViyq6cjtRU9qlAsCUAZ2cPwj/zA+9tivhEQWFdGiAmAS1P70+VcGS2KZELUwZwmt+C+iFMUh9cN0GUuNyQ1h0V9Cy6cIETCH/VPNh6CY9uwDfQZt/8aGV8acB0dX8dXQB2hqj9mHWbrLn5yGfL2c9+9i94rK6sxp0NFJNXpvEhSzr/+3CWfXou84AEtZSSB3SOnCTLr/stSUxFUxWD8mveq7Y56v4urcs9O+XfesrC/3+2ZiQEoIb6Dfohx767Az6uhirSup3sF5qOITq8nVifBHexAA70JunVevu/FaxaFYwaqIjgjIHwFhmWiwawU0dDMMRnngI1sz47cZu0Zlv5ALO4MIaLm1PMaZgAA/p5gs6r3670e/HOozSJnvVjQ7hf3MGEFwFPBSORvzapuT1J3YkiEzCeg6hwY0pLesdsUF8ghj10Zf5uXzBFj1gLGjv6B1RSUUsfbwCjkL6CHph79i7ewxbGrCm1GW8cpaiXwmiB/kL2i4jgllnkEMckBJwbwcUAOtn/hk8mMAQTY4r0eCvXMcjIcwMLFr18psu8nlZuVwbp214X4Kkvhle9WwAQrP2emvzMcCCYHfJL8D4mcJDGLkVRn8TmKiZE81LU9V7gq152o8RLXE22FgoTasIEuNXrp0yyRkgIK5Yh3oqqp/LJY9nR1ZE4aa95ONwoH31vgcqMInIAeKsZxntlthCzgzfw5lFaW5lEJA0POLAPWUDy4aBmtGcjgGHpzm2Gn+Br/uJXeVIGGXLC1mJvhL8xvsgTxVYhSeREx9W/3pN6Fwz2WyDQwo2TgWR7K4lrknf4mY5r8DsQo7l0yxtMnSBYwkB6PB4lmtBjGtZ74XzZjS38/XeAiRFSSkYGm000Y/kkGdA89MuzGhmWneiOoWCyDwMgWtegIpdX0P0kwcwDbjwq6rbhD1JxaQPpAPSQ5JwoGIMFymivdq1JjYvdzOLjKdC5MGRw7F6BSfdKR20fJopLIToPCuS59mP6+5H3kO2/N4HGiLgC4R6ReM4gasTWvc42R9tkZwLEz2HFwjI7RxrdK/wxZujhZa4DC0kMfp7IB8Y1Bthb+IxPCgh1uYADIzPnsW3Zp9FiP6sYk2vGqg2cjrGFyfGruIkWUrjyFNnT7xpCtikth9DeLOLlkjMFH/oAAtOQQQ9yIIdWXJX+jgW7+MK8FaxsAG8D/5n0USjhc7nSOi01gFrjs7gYq6IkfoNVS8E3f9TXd3WnY8a7v+wKoH82nESJEZYOitoaHzW0CZrcfZliURxFpD5t2aiIlPA3WhLXomXG7sAAA
-missing_data:
-  alt_text: true
 ---
 
 The Inoummar agadir is the largest granary in the Western Anti-Atlas (576 huts), near Ait Baha, on the road from Agadir to Tafraoute.

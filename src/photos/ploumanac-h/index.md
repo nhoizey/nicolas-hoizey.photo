@@ -1,6 +1,8 @@
 ---
 title: Ploumanac'h
 file: ploumanac-h.jpg
+alt_text: A lighthouse on a rocky coastline with waves hitting the shore, under
+  a blue sky with scattered clouds.
 date: 2013-08-23 08:10:18 +01:00
 dates:
   iso: 2013-08-23
@@ -77,8 +79,6 @@ colors:
   darkMuted: 86 60 44
   lightMuted: 183 193 209
 lqip: data:image/webp;base64,UklGRsQBAABXRUJQVlA4ILgBAACQDgCdASpkAEMAP2Gct1i/q6UqN7dqq/AsCUAYsiVj4a7Fq1O0P/WKmRU7xbo7WDkwPqVdShlqugC8GIBje80C7g0Vb2fE5hWezRUy+0gk70XrgIr8OIzEHjNiQBr01aqo6eLTNVGzvadsjtC/iLQM6eXoaVoJopMB49a6AAD+37jyGjMy6stRDkf5ZnCvuSBuS/tKYhn3TgwfUVwzoRRjIxOUYJhh2FCpAhUT0HUJ69XVeOm/rmL3qAdcHBHu3aZYIGAzbc6F+KZAzaxM1exsnubhaQIDmcISibhIpR25en+aPF5ttyqMwRsynudCEDUNj36toq4OksXp9SyvrzaPKbVuIrrj4Q12aILqhOKmwfmF59QbcBOUkZtunl5SagEoZb/2+db8WSlyjfdbMH3m6iPDTWcZvytBJu3fG00RU1zXDUAharKYk+n9ghbhy9vg50pGeW7UZDeT/O4RP/PuthrLGDOWS2fS97CsZJX6RdCZ2HTx1EvrOUYqt+9VdgPkX73UqArXJa2aVFBgVuvHaoR3wZz2Ociwqu4jEsTDgDSeKl50TYxNy+L7pfadarckvIjceAAAAA==
-missing_data:
-  alt_text: true
 ---
 
 The lighthouse of Ploumanac'h is a still active lighthouse in Côtes-d'Armor, near Perros-Guirec.

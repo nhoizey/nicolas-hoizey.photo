@@ -1,6 +1,8 @@
 ---
 title: Oddly vintage
 file: oddly-vintage.jpg
+alt_text: Miniature scene with toy car near a small bridge and a model of a
+  castle turret surrounded by greenery.
 date: 2013-08-14 14:14:39 +01:00
 dates:
   iso: 2013-08-14
@@ -70,8 +72,6 @@ colors:
   darkMuted: 50 65 89
   lightMuted: 177 175 160
 lqip: data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAAAQEACdASpkAEMAP2Gcv1iytKcjtRZN+pAsCWMAzYgpZsoesfej4W66fbfRXgPYTVayuzNO0sViNXsXXW64XzTDglP2paFyY6IPmcIPmPR1Ws2WqRrCIJlGfuzrKuTegg/0eXikGS23k6ek3FhVZMuhEPgzx7vknFQ/yqTS2Y4Lzdtb7FINSGiPAAD+7dXsYuJEE0yYhL14Jc5MBlp0n/VDKjz0FKr9I+fEEteAla7oCHyGz6+l9sOJUxB62WoFYfBwJbaZYxWLVhhiZvTb/hz9rOPxxa9XlLtvdZ8o/uJ2iPN/WNp/Ky5/RyZG4YJY9EIQXQSfkyv64DWZDGvYtJHsY3Z4wz9nglDM8PgkzKqxhUhoXft1G2fMkQ1zc6X8OGLOjXJPOta2R8hRK8G7HFhm0H9cm/4JNwGRhytE3wXviUx3AjAjSMqj53yGahsEaNg+2PqnodZfKIaOdSgAM45lVIXizOGNVacQygeTrRUdya2+7TMmYBP0TwA0mZ+FbvfiI7AC215ag5wyYvudV8qGwm51xQq46aH6n5yX3/1tgmAA
-missing_data:
-  alt_text: true
 ---
 
 Visiting the Mont-Saint-Michel, the Roman Theatre of Orange and Notre-Dame de Paris in less than 12 hours is a piece of cake! Just slip on your seven-league boots and whisk the kids off to France Miniature.

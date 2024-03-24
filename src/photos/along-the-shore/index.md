@@ -1,6 +1,8 @@
 ---
 title: Along the shore
 file: along-the-shore.jpg
+alt_text: Nighttime seascape showing misty waters with rocky shore in the
+  foreground and distant city lights across the water.
 date: 2009-05-15 21:24:59 +01:00
 dates:
   iso: 2009-05-15
@@ -77,7 +79,6 @@ colors:
   lightMuted: 139 148 192
 lqip: data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBwCdASpkACsAP22gy1i0q70qMNuZm6AtiWIAyAIfYL9GL7HpYRJtxBazHv/ijejbngKqGqj9ilRmGuYfbBtKD0QAAP7iELm/qCvF5iV4mStGHr1/Ihl44DD/LUfb+Pho5KxqOu4tsQBR9geXP/LSTHpfh2uPj2DxWniyop6BC/zi6gBrkc4FSyNgrH8C2RjkXwP9gJwgX4ulw445yDbGtc0rlGOHaGKdIYZVuqym3FgRpR+jFzcpHAAAAA==
 missing_data:
-  alt_text: true
   description: true
 ---
 

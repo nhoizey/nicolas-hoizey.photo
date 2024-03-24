@@ -1,6 +1,8 @@
 ---
 title: The Moroccan High Atlas
 file: the-moroccan-high-atlas.jpg
+alt_text: A person sitting under a tree in a field with scattered trees and a
+  backdrop of snow-capped mountains under a clear blue sky.
 date: 2011-05-08 11:21:41 +01:00
 dates:
   iso: 2011-05-08
@@ -84,8 +86,6 @@ colors:
   darkMuted: 49 70 60
   lightMuted: 153 180 202
 lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAABQCwCdASpkAEMAP3GmzF00v725rbIrM/AuCUAZC+owBPYp046XOjgfcwnmwQYntXQLcONbrgwNLisMRyuwvtfe0Dlwxtaee5nX1TQKSF8ETbL+azSsTAxFB05YJRlASLyeogAA+de7BcBIvWnDcS6q8OEud9UMsMjKGWNEW2m1aKboZ5wNvE5bAKhaIXKdVesBJG5MbMUDd0RNs9Ii5b1ZLA38xZL6J2KXMuZ35d+Paj/isbVXLuRQ3taciZDwguMOTeWPNDt/OcWWmWBhLKc3pYN/vgGyUMRyAzEkEoBCirYFVdT5of3EVBNqfORnm6iXvsM4BiR7mPIOO/uXeK+pdb3MEbeqQ047jXqpJv/KZ73MEsu/cBiK91SUjwmg8r0IgntZz7ruLJkdsWDfDVyIx3+w39rMbdJUArL5N5ntnTBgAAA=
-missing_data:
-  alt_text: true
 ---
 
 Here is a splendid view of the High Atlas mountain range, in Morocco, from the plain of Taroudant, near the town of Tioute, on the foothills of the Anti-Atlas.
