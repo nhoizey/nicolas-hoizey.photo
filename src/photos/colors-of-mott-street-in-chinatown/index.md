@@ -1,6 +1,8 @@
 ---
-title: Colors of Little Italy
-file: colors-of-little-italy.jpg
+title: Colors of Mott Street in Chinatown
+file: colors-of-mott-street-in-chinatown.jpg
+alt_text: Colorful facades of urban buildings with external fire escapes,
+  featuring a red, white, and yellow building side by side.
 date: 2015-05-20 14:44:16 +01:00
 dates:
   iso: 2015-05-20
@@ -20,6 +22,7 @@ tags:
   - America
   - Amérique du Nord
   - architecture
+  - Chinatown
   - city
   - escalier
   - États-Unis
@@ -30,8 +33,9 @@ tags:
   - jaune
   - lamp post
   - lampadaire
-  - Little Italy
   - Manhattan
+  - Mott St
+  - Mott Street
   - New-York
   - New-York City
   - North America
@@ -51,6 +55,7 @@ tags:
   - vert
   - ville
   - yellow
+  - 勿街
 settings:
   focal_length:
     raw: 189
@@ -80,7 +85,6 @@ geo:
   longitude: -73.99883
   country: United States of America
   city: New York City
-  map: true
 colors:
   vibrant: 189 131 43
   darkVibrant: 14 120 118
@@ -90,8 +94,12 @@ colors:
   lightMuted: 198 183 165
 lqip: data:image/webp;base64,UklGRoACAABXRUJQVlA4IHQCAACwFACdASpkAEMAP12ewFiyrKclNBRvWlAriWgAxrBnDOAPoq0P9w0C3s2tWfgmW1phwPFXweIRQwSLec3dvmSAGaZFwTNiu/YjpSQSYA6maemKawzhkm9kyZUPUvao5O0n71GWgsWRSbTKvdXSF8AHVJEAMCvxyeqlgbpjzMAWN336LFkqNNpwXaH5DxTTL0YrAh2eltzUQnNOM5vEI3bSPPCkb8oQPyPjLI9PyQAA/szSkGjLxUUYmkqVDH5jQl5RNl/l83Ej0m7dItTyfjeRX8kygDobmhoTCzK8Y1HxUB44JtJ8DsTDnqn9RBG3eaUQTEGQzHDiSl40A6ONe5K0LbjPnU0GACLVIjBtBr9NO90Ke+EDkSdAhre0ZkPta0is9tZoF/Ae7zZ7X4PQguvNkhoA2Q03TuQc+MyQTZG/h7nSLXm5EBeZRecLtyOVi5Nznqhgqe6EWz3Xo2cQxTMgmFAzI+yuUciLbLxZoZdhMCsGzJKa1zV2Bx2Ppxcs6pIJarokf3lFHN57P2RODvKMRc0NMkwmLIGqObiFGP9wj0ZwggGR3TIscqvkh3y3+DdUhXOxf7pWBJuk4U0qCyQxt7L4TOmKh1L70RK53EBqluHN6z1BUimvBRwLUDhTdgxoDVezRknsgXaJPILEUoNL3s6qVyBNsKjHSmJLAuQe/TEeg1Z8QCVQ6m46TPl1EzzkwstxJYuLRz/Mipj2+aGIf3POawJm1G7lKIlQ7DIjJdup6xfuXjwJk2Qb4GJE8sAJ9QFJJMdN9NNcFpE16wht9nPIsAkunCgY0PXAcXFhUn4cuRq4Ea5kmLLjaFYHb8NnH9gA
 missing_data:
-  alt_text: true
-  description: true
+  map: true
+  opengraph: true
 ---
 
+Mott Street is a narrow but busy thoroughfare that runs in a north–south direction in the New York City borough of Manhattan.
 
+It is regarded as Chinatown's unofficial "Main Street".
+
+Mott Street north of Canal Street was historically part of Little Italy. Today it is predominantly Chinese.
