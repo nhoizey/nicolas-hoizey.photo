@@ -1,6 +1,8 @@
 ---
 title: New York Lovers
 file: new-york-lovers.jpg
+alt_text: Colorful mural artwork featuring a figure in a multicolored outfit
+  against a vibrant, rainbow-striped background.
 date: 2015-05-21 10:14:25 +01:00
 dates:
   iso: 2015-05-21
@@ -99,8 +101,6 @@ colors:
   darkMuted: 74 37 47
   lightMuted: 189 184 183
 lqip: data:image/webp;base64,UklGRn4CAABXRUJQVlA4IHICAAAQFACdASpkAEMAP3Gixli0v7ElL5eMc/AuCWwAuzoTWV6iZs+SmOFYcsPju6nB7CuRHagBmJa51O50ZW0h2Nnqi3053ENB7ICsNdiaRgHmI0/5emV6sW+nIVz2sI2k8FZ6plmlY/eKHqzxhJUWqfiMcv18xZqVdPdaSCYCuNY5viXohHPUS6Sk+f6aR/PsBW2RaTm4ycWyThM21LfLaWjmfnC5O2YqdpZ0AP65B1gfYS09p2365TZGftHboew+//3zP38I4DuBy7xbCL3stYHOfkcRrgOTGRngcie6Vvc5FjTrKAEXQYY+wHGD2W9RQohQKv7h3Xd0Rig0PiwDbZGxVnjrYIYjBntgAZhkbwg8ZXf6cZeKz254MImKIlcVYmT3lx6VDCng2r0xXBFtzIKDOK2kFC/qaFvYPGYfM0bi1jAMqvh5HcFVW+hebmOenxLrw+BMSqqVxvJl5lJWxkwKrXjmkMd4UlODLAvqzis8nWer9PKHnNH9fXyAlFGfVQrXof1UOj8fSZ406wvRk3rx0g6in9vdQoSUSQtbGsGuE0XF2XOxS8TCJYPZMo4iwEtxkBHuY3PbpQ3s9f6K0xPNHtbYkEOvIypKKzHv+BaUOP7L9Gqh2OTSFMOQMpET2HnWwT1I/iQVPYmA9+eIKDKZsT6VIbxweQ1SvLBCPhn98phHEyy2pncFOSS/P28ZstDC2UNbajmX+OHwUnzAzQt1ykfdnWe4m7Yvf1hq5dWkKpAuYOjQuV7iwP40xy33yJWiW9jfCzfv06i5r5k20r3YqMIcnLtSTPF+LPr/nquU7dQqtRIS2vGq4jcwQgLKIIAAAA==
-missing_data:
-  alt_text: true
 ---
 
 Shot in Manhattan, New-York City.
