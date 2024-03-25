@@ -1,6 +1,8 @@
 ---
 title: Sakura
 file: sakura.jpg
+alt_text: Cherry blossom tree in full bloom with a red bridge in the background,
+  set in a tranquil garden setting.
 date: 2009-04-01 14:22:54 +01:00
 dates:
   iso: 2009-04-01
@@ -79,8 +81,6 @@ colors:
   darkMuted: 89 79 54
   lightMuted: 174 174 212
 lqip: data:image/webp;base64,UklGRiwCAABXRUJQVlA4ICACAAAwEwCdASpkAEMAP2WcwFizKy8jtRWdUmAsiWIA0FdPeiYrEqBbe8zR6qrPQh11jr5jQjF7k5zfSE7JRkkkBIfEBgaF29buKtZ7+9HsWQzrPL9JLCuFvOiyiJDsRBFyYHlSYAZHvJdZ9NJI/qyG2zWnfb5+kXtB+JENgnQA8iwlR3yfeJcXMFYYd5gR1XwQBNqdzXOyV9gESoznvw6WWk23mrAA/oNgkeqawl3aqzeCC2JUKaFoovfidMQ9HkTR6uR7fvFG8if3UrGZCvIuqczUNWKe0ohmy7KIO3VF8uxlQ5W8amYYKg9n+7WuA8u+xRG/zzwXpIJGrd6t65x9qGg6tNRMzKKWR0Q6At0ipUOJxZK8W+tZLLMM4vNC2KgTmEjxj0DHCUTxyZrbZAOjIARJhmu6kskwQ0YXAJEZ2kploNzpB0h00GgmNMv/0+mP+hm26UiCAcqZ1dK01h5bhgV4EmhSDxeupTLJNX+8gxiX4jDRc28lMZe0u1PDK3UtCOBY1JqT3Z7FAzcBtahjPvFSYv44CQruzK9M6o+QjXRzkoF1mbBdI1YT1dQMM4lqdic6fadzokl29hBe12jsfgg2KdL8Ac++In2bWaFJe9ikDo/7GVJmrinXyhjIwrmyOcY/MNcAsf5kJTf1Iccc9410ybzSk/PysX0j9Foqq1DsOFlcrB2/kLGUaAF4DS8n1vSG8vR5yJJWJOu6jIWLXuAA
-missing_data:
-  alt_text: true
 ---
 
 Beautiful blooming Cherry Blossom in Albert Khan's Japanese Garden in Boulogne, near Paris, France.

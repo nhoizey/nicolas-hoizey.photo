@@ -1,6 +1,8 @@
 ---
 title: Eilan Donan and Loch Alsh
 file: eilan-donan-and-loch-alsh.jpg
+alt_text: An old stone castle with an arched bridge overlooking a coastal
+  landscape with grassy shores and distant mountains under a cloudy sky.
 date: 2014-05-01 17:13:57 +01:00
 dates:
   iso: 2014-05-01
@@ -75,8 +77,6 @@ colors:
   darkMuted: 84 85 55
   lightMuted: 173 191 205
 lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAACQDQCdASpkAEMAP2mcvVizqyavNRb8qnAtCWVsgl+tCEn9gPDLrXvTmkJBUd9B5GNIekVll3JZhIZUeNFuN+O6Co3eXQz5YjdTrvgEyOriRffXxx5vZP2Z19eTNLNJ6/N9rcznJn80vjLWj7nOALoyE5EDrYAA/tMAnZhzKhM6UbQjdzzl5iCOs1oP1Uit97AKFogU1QK2YQ0BF8Ol+R/UAfQJV698FU835SZO3BdohCAIAoN7WemawWviC7fVb2LPSQFZCwE369SPiyXo0jRVl8a6c69r4HfDnMynrmApX813O9fqGkwYUHcuPFTRiUphXdrLqZDIfDTS170P+PHdi6bJGSBggFqp5A7JUzqnUVPYMOrN2jOumgqYTRIVYwe8bQoC3vJT6udEkL6qh+kdaNJ7a4nLOSGKSEp+tVfDVSmAAAA=
-missing_data:
-  alt_text: true
 ---
 
 Eilean Donan is a small tidal island where three sea lochs meet, Loch Duich, Loch Long and Loch Alsh, in the western Highlands of Scotland.

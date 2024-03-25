@@ -1,6 +1,8 @@
 ---
 title: Dreamer
 file: dreamer.jpg
+alt_text: A woman with long hair wearing a polka dot dress gazing off to the
+  side with greenery in the background.
 date: 2014-06-14 15:31:32 +01:00
 dates:
   iso: 2014-06-14
@@ -74,8 +76,6 @@ colors:
   darkMuted: 44 79 42
   lightMuted: 196 182 154
 lqip: data:image/webp;base64,UklGRsoBAABXRUJQVlA4IL4BAADwEgCdASpkAEMAP2mewlizrCc5szPeQzAtCWMfQAlz8iwTLLdc9RzpXdhsylj9Jbw4IK3fZoHU3tLL7nvSkURC8ZgZDl/HvLcAGZn4D5gGMrV2LYrGeGqs+8Zg5e48oEsgf8QnrN+BSDOwpsG+lgIH5W6rcroVqN5SDgAySJiGnSbqWuJKpXLR2tkL1MztPERUXJ5tkxhZ58V4kO/2SeKAAPcIAhUNyT9raf9gCrGDfV1qzvrBhOYW5ERzNjFD8SoEWfHaSB9ruztL8TrxGVI9I6UoxKbg5J8Q00FM+BTNqVX7lROOeBRp1ubYVggGTD/JmejknIVLwmtyx0uMcC8vHlp8GwjnSa9z/A80kraGNiPD0x0PGv8GEK8fpUTFh98mXvXAQt4RcYx5RP1/UFNNoo7dwMrz4YCeoIqU2SubWIoFCbs9m1ozegvlKltwfh5WOB2iHvUBlVIWqWNhdd+NLmxF/FdoDVspY8105uULRoGAN6pekkiC+jjEVUlgHxDSEkwRCmydgi77KNV9pm7L75HvXcXr7GJA2HslDfJXFcV+7kXhTDJa0x0l+PUjQET+h+ICENkvQgLQlYgAAA==
-missing_data:
-  alt_text: true
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

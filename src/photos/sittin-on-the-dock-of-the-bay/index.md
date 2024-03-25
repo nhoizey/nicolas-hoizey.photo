@@ -1,6 +1,7 @@
 ---
 title: (Sittin' On) The Dock of the Bay
 file: sittin-on-the-dock-of-the-bay.jpg
+alt_text: Two people sitting by a body of water with a tree branch in the foreground.
 date: 2014-03-14 14:24:29 +01:00
 dates:
   iso: 2014-03-14
@@ -40,7 +41,6 @@ colors:
   lightMuted: 180 204 170
 lqip: data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAADQCwCdASpkAEMAP2Wivli/v7U5tBgLs/AsiWUIcAGNkIdBTZg6k6dmBKQo6GDq2WgR3IehfsPMyC3Hg6YWgeqsXio0FPA15GUk5MTTYTqp1FlYdkt1HgJ+5vNvDXmwZ/t9pmJJseIAAP5wyOmjg2TXz9AfCGDhZulyIxVpZUytAg3dWdc7AeM7mvsvF5AYy5Lcf67sfJXG2tIQ4kwyJbBOE03ciPaSD4D9sNDblEecPjarZ767mdgP6MLE2YV5BUJYmDShwraTFp1mDr9S6bzHfykooJ/ZEC5KePbjhAdTOtoB30LonAtCVu22u91lMhEI6uMhds953fJq8/O4hPc3HRiVfg344SC5bAEUBtBbp0/WYJb8EDUgjkAlwdODkAAAAA==
 missing_data:
-  alt_text: true
   lens: true
 ---
 

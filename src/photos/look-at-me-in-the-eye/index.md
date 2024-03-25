@@ -1,6 +1,7 @@
 ---
 title: Look at me in the eye
 file: look-at-me-in-the-eye.jpg
+alt_text: Close-up of a colorful parrotfish eye and textured skin.
 date: 2009-05-14 14:37:10 +01:00
 dates:
   iso: 2009-05-14
@@ -75,7 +76,6 @@ colors:
   lightMuted: 182 184 161
 lqip: data:image/webp;base64,UklGRlYCAABXRUJQVlA4IEoCAAAwEACdASpkAEMAP3GmyVu7rDKlrNScM3AuCWwtgAmglCcZ08CyX6pieYwPTb/093ZzwunbN2Cd8d6IJSbGms4vJLez71DjFQnNRYb0AEdHBmgTaqlCPoInK8AfZk2HgUgXrzGub699neIIzo1EdAJcCFYtMn7ei2fGWX1RiQI3bhPsiryxC97g+AAA/utWaa8n+iwYOc8x/+Skw3Ixgid0dy8prikHLRCtlW2jBFOJZos5yxH7jFxKzFHtrREgkKU/du0mJwBldAL0s4AncZhcT6cKmGmDwlIZh0XERMB/hvYbd6HAMjPbTy7lTdtlGZG/TG/sZgDVl5wiZNlIKpOPIl6QccU+Vg+cwVYKRspjjXVDVyDAKK/mpgrpQ2eYS5NY1HcRjj22HNWSCBQTPVUa6YViy0rchnOMAYUXSmgt74YG8tY7YLswoymyNCeUiAJ66KPC4VZ4Iw/M4SindNlSdkQfwa9hSOS26+T7FM+xxez5SrW8Xq96YDMCbM70GxUOYbXW+qQkObV5kFPBXZ2C7t7GtVG4kpkwiNUTi4reICDJYGas5snQmqeK5oFzKBfJQblYKfKa/hDoJtzOSZLk7mUtGynw/ZK0ot0SynfwXljIAgwDpPFDlO+Amr39D+GezA/rSd/Gz4bw/lrZi445bNB9GxoNehjeKV7drrkPezRjbMSOJbVSk6afpCGNzc3OgNP8AtsnYPfVF5OX42ebV2ilCT23hUCu7yCAy1rr7Gs0jcjmTxpfbJlIXb9xPkxAG0Yy1y7P4AAA
 missing_data:
-  alt_text: true
   description: true
 ---
 

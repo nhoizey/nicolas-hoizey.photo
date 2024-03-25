@@ -1,6 +1,8 @@
 ---
 title: 波動拳 (aka Hadoken)
 file: aka-hadoken.jpg
+alt_text: Black and white image of a shirtless man with intense gaze, reaching
+  out with his hands, slightly out of focus against a blurred background.
 date: 2014-06-14 15:51:48 +01:00
 dates:
   iso: 2014-06-14
@@ -73,8 +75,6 @@ colors:
   darkMuted: 68 68 68
   lightMuted: 186 186 186
 lqip: data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADQCwCdASpkAEMAP3GqzVu0v7+rrbVaa/AuCWkAAM9OeIrlOAPHjZUpmi+vMo8THWv0IIvSY49A4XTpfTGvmA4BqS4k2xNu9P/Jstf/ZmgLosz3iaC1i2m09vTVm2m+BgQS9BgXVBoAAP7u0zoiDsHHlSYzswIdOXVsRCuPQaf8E2WHjhOtFrVe3LZ29+KN89PJ21LArlqnfL+35onRNLgV9qZT3B0SwSlZtJcMdTvZ9TcxJF15I7o0BkKM65NZeB/zBhjUDKTWQ81SQP9OaZS8RI+rdMFptP0y1o/anUGTzQs6AAA=
-missing_data:
-  alt_text: true
 ---
 
 This portrait was taken during the Flou Sentimental workshop.

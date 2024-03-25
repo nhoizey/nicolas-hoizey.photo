@@ -1,6 +1,8 @@
 ---
 title: Eilean Donan Castle
 file: eilean-donan-castle.jpg
+alt_text: An ancient castle on a water's edge with a stone bridge, surrounded by
+  mountains under a cloudy sky.
 date: 2014-05-01 17:40:08 +01:00
 dates:
   iso: 2014-05-01
@@ -81,8 +83,6 @@ colors:
   darkMuted: 74 66 41
   lightMuted: 180 185 193
 lqip: data:image/webp;base64,UklGRooBAABXRUJQVlA4IH4BAADQDgCdASpkAEMAP12auViytCWjtfldEoAriWdsil4GWozrpeNnPTvD3s/kQKb58m5T2R5tIuEFAQerRebmcUMn0A+nLYi8iPoTVgtviWQbZtrkdcSJZmi5XgZplB56gBMppm2+AoajjvZDdECsmS2vZuESOaZgOr/bDtdBg9YAAP7opBTtMW5ewQFqKC32IkJP/0KIkNDtTdb9kgt71QR/YsnK29JvIo72Prrr8h5uE5bnllZUdsExp0hzOse8lQtUhbgXdMkopMeIZOPDDNNYbgDTrfcw1+toDxy8iAi+IBtagS8P6ADlUCmnFoq9+dlu/FTFkdMDOnlod5IW8vZHmIiU5Slo75LXcQUm8caDiS80w2nSe0QexfUltIk682nK6ac5lk7LryIbvCU1Vv2Gl5TBASUpTZZPBcetwVhQIU2sNpM+R81sABwrPwVD7OzWxNv4o4wNrBWlg5RaEdb0MFt260VsJy3CkQMoBLzWTllVfzuLiMkhaQQ/XgAA
-missing_data:
-  alt_text: true
 ---
 
 Eilean Donan is a small tidal island where three sea lochs meet, Loch Duich, Loch Long and Loch Alsh, in the western Highlands of Scotland.

@@ -1,6 +1,8 @@
 ---
 title: A drop of pencil(s)
 file: a-drop-of-pencil-s.jpg
+alt_text: Close-up of a pencil tip with a water droplet reflecting rainbow
+  colors against a blurred multicolored background.
 date: 2015-01-13 21:49:46 +01:00
 dates:
   iso: 2015-01-13
@@ -71,8 +73,6 @@ colors:
   darkMuted: 60 107 88
   lightMuted: 193 185 204
 lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAACQCgCdASpkAEMAP22kxVi0v7+0rrgNC/AtiWIAvvxfnmkLl373ahjZro72oYl7pHkIdi53w9JvQd2gOzn13t5AlaOFzl/9oh/uYnNJB4bho2Sub9svgpPyfuGj44AA/r+6BZ5CJ7Q3zXhIXkz+xWe3Vr7XgRRKs/Wt28LBFi/5qJ1h8smHM+DNqwUP6Rskaq1mFRO6hUwcVqs6xNJqKqEdfRE6Ol90mQjpFcFpf8TiLUlvJuLlewiB2mX6/VSAXJDmRYjoTL7YTujSzjDdU+h129NhF4YGETFHupxyl1bA431p87d6+ocE+9dRg3dPWh4jQ2YcE0PvRG1+QwtXbStyhQrgQ+NxJYLth1oX1BFlKztDj8hQuOHc1EjcAf6PN1c6YrbnGl4Ah4nDvIl42z7Vu2V4gJlibQFRCGhQVdQkCr6AAAA=
-missing_data:
-  alt_text: true
 ---
 
-Photo taken during a session of the <a href="https://photo-club-draveil.fr/">Photo Club de Draveil</a> hosted by <a href="https://www.facebook.com/MVuarnesson">Marjolaine Vuarnesson</a>.
+Photo taken during a session of the Photo Club de Draveil hosted by Marjolaine Vuarnesson.

@@ -1,6 +1,8 @@
 ---
 title: In all its simplicity
 file: in-all-its-simplicity.jpg
+alt_text: Black and white portrait of a woman with wavy hair looking directly at
+  the camera.
 date: 2014-06-14 15:02:41 +01:00
 dates:
   iso: 2014-06-14
@@ -74,8 +76,6 @@ colors:
   darkMuted: 68 68 68
   lightMuted: 184 184 184
 lqip: data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwCgCdASpkAEMAP3GoyFq0v6gkL5aZy/AuCWkAAJTGmAt3PqPUfjDOEjo169oWDLZOl90Pcq2zCfkNHOz7X6gLmCy+tpUTCyaMlKNciQWcJ+pFKCjs/WM0AcSsHhEnaWAA/uzRR43ehMpQKs1F0e2wB4KXUb3LM9hHj5yvuY7egaTtru2nODlhrhGuDpcrSalEfreWEYhAbD7ah5rUkEMkb5/5FPgPRewF3ecfJgFFNZUnl4kADwxHxusMznYpsc5jE5Eje+lwa++ipoAAAA==
-missing_data:
-  alt_text: true
 ---
 
 This portrait was taken during the Flou Sentimental workshop.
