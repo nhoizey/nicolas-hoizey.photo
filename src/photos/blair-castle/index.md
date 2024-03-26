@@ -5,8 +5,8 @@ alt_text: Photo of the front of a white Scottish castle, with a bench on a
   grassy area in front.
 date: 2014-05-02 11:15:07 +01:00
 dates:
-  iso: 2014-05-02
-  human: 2 May 2014
+  iso: "'2014-05-02'"
+  human: "'2 May 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

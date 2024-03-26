@@ -5,8 +5,8 @@ alt_text: Macro photo of a green caterpillar with black and white stripes,
   hanging upside down from a branch.
 date: 2021-08-19 15:12:33 +01:00
 dates:
-  iso: 2021-08-19
-  human: 19 August 2021
+  iso: "'2021-08-19'"
+  human: "'19 August 2021'"
 gear:
   short: Fujifilm X-T3 + 16-80mm
   camera:

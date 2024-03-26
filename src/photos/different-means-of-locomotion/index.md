@@ -5,8 +5,8 @@ alt_text: A man standing beside a seated camel with a row of ATVs in the
   background in a desert setting.
 date: 2004-05-14 17:46:27 +01:00
 dates:
-  iso: 2004-05-14
-  human: 14 May 2004
+  iso: "'2004-05-14'"
+  human: "'14 May 2004'"
 gear:
   short: Konica KD-400Z
   camera:

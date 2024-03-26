@@ -5,8 +5,8 @@ alt_text: A canal in Venice with moored boats, historic buildings, and a person
   walking along the waterfront.
 date: 2008-04-25 16:46:54 +01:00
 dates:
-  iso: 2008-04-25
-  human: 25 April 2008
+  iso: "'2008-04-25'"
+  human: "'25 April 2008'"
 gear:
   short: Canon 350D + 17-85mm
   camera:

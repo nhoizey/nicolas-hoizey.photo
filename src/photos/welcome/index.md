@@ -5,8 +5,8 @@ alt_text: A "welcome" sign in the foreground with a blurry background showing a
   group of people.
 date: 2009-10-10 16:02:13 +01:00
 dates:
-  iso: 2009-10-10
-  human: 10 October 2009
+  iso: "'2009-10-10'"
+  human: "'10 October 2009'"
 gear:
   short: Canon 5D II + 135mm
   camera:

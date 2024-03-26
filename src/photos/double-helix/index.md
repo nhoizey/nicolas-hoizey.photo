@@ -4,8 +4,8 @@ file: double-helix.jpg
 alt_text: Plunging photo of a wide staircase in double helix, with some people
 date: 2017-05-12 14:44:51 +01:00
 dates:
-  iso: 2017-05-12
-  human: 12 May 2017
+  iso: "'2017-05-12'"
+  human: "'12 May 2017'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

@@ -5,8 +5,8 @@ alt_text: Iron Man suit on display with other suits in the background and a
   figure resembling Tony Stark to the side.
 date: 2015-08-15 12:14:09 +01:00
 dates:
-  iso: 2015-08-15
-  human: 15 August 2015
+  iso: "'2015-08-15'"
+  human: "'15 August 2015'"
 gear:
   short: Sony RX100 III
   camera:

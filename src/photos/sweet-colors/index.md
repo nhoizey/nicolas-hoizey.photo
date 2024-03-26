@@ -5,8 +5,8 @@ alt_text: Macro photo of dragibus candies of different colors, with tiny
   figurines pretending to paint them
 date: 2021-12-12 18:16:16 +01:00
 dates:
-  iso: 2021-12-12
-  human: 12 December 2021
+  iso: "'2021-12-12'"
+  human: "'12 December 2021'"
 gear:
   short: Fujifilm X-T3 + 80mm macro
   camera:

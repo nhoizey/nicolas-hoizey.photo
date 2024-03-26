@@ -6,8 +6,8 @@ alt_text: A winding road running through a valley with rugged, cloud-capped
   vegetation.
 date: 2014-04-30 18:24:17 +01:00
 dates:
-  iso: 2014-04-30
-  human: 30 April 2014
+  iso: "'2014-04-30'"
+  human: "'30 April 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

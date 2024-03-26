@@ -4,8 +4,8 @@ file: the-plaza-de-toros-de-ronda.jpg
 alt_text: A bullring with empty seating and sand-covered arena in the foreground.
 date: 2004-09-25 10:13:49 +01:00
 dates:
-  iso: 2004-09-25
-  human: 25 September 2004
+  iso: "'2004-09-25'"
+  human: "'25 September 2004'"
 gear:
   short: Konica KD-400Z
   camera:

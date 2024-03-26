@@ -4,8 +4,8 @@ file: male-european-green-woodpecker-in-the-grass.jpg
 alt_text: A green woodpecker on grassy ground with scattered fallen leaves
 date: 2024-01-20 16:24:50 +01:00
 dates:
-  iso: 2024-01-20
-  human: 20 January 2024
+  iso: "'2024-01-20'"
+  human: "'20 January 2024'"
 gear:
   short: Fujifilm X-H2s + 100-400mm
   camera:

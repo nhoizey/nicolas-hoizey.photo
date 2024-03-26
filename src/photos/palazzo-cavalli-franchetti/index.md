@@ -5,8 +5,8 @@ alt_text: A view of the Grand Canal in Venice with historic buildings lining the
   sides, boats on the water, and a distant dome under restoration scaffolding.
 date: 2008-04-24 16:29:13 +01:00
 dates:
-  iso: 2008-04-24
-  human: 24 April 2008
+  iso: "'2008-04-24'"
+  human: "'24 April 2008'"
 gear:
   short: Canon 350D + 17-85mm
   camera:

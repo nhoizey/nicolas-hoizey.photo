@@ -6,8 +6,8 @@ alt_text: Aerial view of a miniature model depicting European-style buildings,
   and miniature cars parked nearby.
 date: 2013-08-14 14:12:22 +01:00
 dates:
-  iso: 2013-08-14
-  human: 14 August 2013
+  iso: "'2013-08-14'"
+  human: "'14 August 2013'"
 gear:
   short: Canon 5D II + 100mm macro
   camera:

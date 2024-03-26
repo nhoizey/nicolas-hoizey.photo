@@ -5,8 +5,8 @@ alt_text: A nighttime skyline of a city with illuminated buildings, a bright
   moon in the sky, and old pier pilings in the water in the foreground.
 date: 2015-05-23 22:14:42 +01:00
 dates:
-  iso: 2015-05-23
-  human: 23 May 2015
+  iso: "'2015-05-23'"
+  human: "'23 May 2015'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

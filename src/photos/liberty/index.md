@@ -5,8 +5,8 @@ alt_text: Statue of Liberty against a cloudy sky with waterfront and city
   skyline in the background.
 date: 2015-05-21 16:42:06 +01:00
 dates:
-  iso: 2015-05-21
-  human: 21 May 2015
+  iso: "'2015-05-21'"
+  human: "'21 May 2015'"
 gear:
   short: Canon 5D II + 135mm
   camera:

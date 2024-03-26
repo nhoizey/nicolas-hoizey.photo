@@ -5,8 +5,8 @@ alt_text: Macro photo of small figurines wearing biohazard work clothing on a
   white mushroom.
 date: 2023-10-09 18:16:59 +01:00
 dates:
-  iso: 2023-10-09
-  human: 9 October 2023
+  iso: "'2023-10-09'"
+  human: "'9 October 2023'"
 gear:
   short: Fujifilm X-H2s + 80mm macro
   camera:

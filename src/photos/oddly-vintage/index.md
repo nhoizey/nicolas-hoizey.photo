@@ -5,8 +5,8 @@ alt_text: Miniature scene with toy car near a small bridge and a model of a
   castle turret surrounded by greenery.
 date: 2013-08-14 14:14:39 +01:00
 dates:
-  iso: 2013-08-14
-  human: 14 August 2013
+  iso: "'2013-08-14'"
+  human: "'14 August 2013'"
 gear:
   short: Canon 5D II + 100mm macro
   camera:

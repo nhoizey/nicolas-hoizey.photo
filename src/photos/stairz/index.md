@@ -5,8 +5,8 @@ alt_text: Photo of the exterior escalator of the Pompidou Center, at night, with
   lights of different colors in the building
 date: 2009-01-30 22:35:21 +01:00
 dates:
-  iso: 2009-01-30
-  human: 30 January 2009
+  iso: "'2009-01-30'"
+  human: "'30 January 2009'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

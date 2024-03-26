@@ -4,8 +4,8 @@ file: sittin-on-the-dock-of-the-bay.jpg
 alt_text: Two people sitting by a body of water with a tree branch in the foreground.
 date: 2014-03-14 14:24:29 +01:00
 dates:
-  iso: 2014-03-14
-  human: 14 March 2014
+  iso: "'2014-03-14'"
+  human: "'14 March 2014'"
 gear:
   short: Panasonic GM1
   camera:

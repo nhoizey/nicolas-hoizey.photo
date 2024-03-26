@@ -3,8 +3,8 @@ title: The Snows of Kilimanjaro
 file: the-snows-of-kilimanjaro.jpg
 date: 2019-03-01 08:21:18 +01:00
 dates:
-  iso: 2019-03-01
-  human: 1 March 2019
+  iso: "'2019-03-01'"
+  human: "'1 March 2019'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

@@ -5,8 +5,8 @@ alt_text: A woman with long hair wearing a polka dot dress gazing off to the
   side with greenery in the background.
 date: 2014-06-14 15:31:32 +01:00
 dates:
-  iso: 2014-06-14
-  human: 14 June 2014
+  iso: "'2014-06-14'"
+  human: "'14 June 2014'"
 gear:
   short: Canon 5D II + 135mm
   camera:

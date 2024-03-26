@@ -5,8 +5,8 @@ alt_text: A hippopotamus grazing on grass in the foreground with a white egret
   standing nearby and a group of wildebeests in the background.
 date: 2019-02-28 17:27:39 +01:00
 dates:
-  iso: 2019-02-28
-  human: 28 February 2019
+  iso: "'2019-02-28'"
+  human: "'28 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

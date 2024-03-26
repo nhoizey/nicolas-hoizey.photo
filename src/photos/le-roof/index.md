@@ -6,8 +6,8 @@ alt_text: A tropical beach with a palm tree, sandy shore, calm blue sea, and a
   people enjoying the beach. The sky is clear with some clouds.
 date: 2013-04-03 12:09:55 +01:00
 dates:
-  iso: 2013-04-03
-  human: 3 April 2013
+  iso: "'2013-04-03'"
+  human: "'3 April 2013'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

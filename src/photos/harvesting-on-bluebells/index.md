@@ -4,8 +4,8 @@ file: harvesting-on-bluebells.jpg
 alt_text: Macro photo of a bee foraging on a bluebell
 date: 2008-06-14 13:59:26 +01:00
 dates:
-  iso: 2008-06-14
-  human: 14 June 2008
+  iso: "'2008-06-14'"
+  human: "'14 June 2008'"
 gear:
   short: Canon 350D + 100mm macro
   camera:

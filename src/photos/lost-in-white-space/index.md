@@ -5,8 +5,8 @@ alt_text: Person in a blue hoodie taking a photo with a camera against a white
   background.
 date: 2005-04-23 15:47:30 +01:00
 dates:
-  iso: 2005-04-23
-  human: 23 April 2005
+  iso: "'2005-04-23'"
+  human: "'23 April 2005'"
 gear:
   short: Konica KD-400Z
   camera:

@@ -6,8 +6,8 @@ alt_text: Panoramic view of a coastal landscape featuring a crescent-shaped
   surrounding the bay.
 date: 2005-09-23 11:03:31 +01:00
 dates:
-  iso: 2005-09-23
-  human: 23 September 2005
+  iso: "'2005-09-23'"
+  human: "'23 September 2005'"
 gear:
   short: Canon 350D + 17-85mm
   camera:

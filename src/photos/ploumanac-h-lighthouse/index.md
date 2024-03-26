@@ -5,8 +5,8 @@ alt_text: A lighthouse with a shining beacon on a rocky coastline at dusk, with
   a house nearby and calm ocean waters in the foreground.
 date: 2013-08-22 20:52:32 +01:00
 dates:
-  iso: 2013-08-22
-  human: 22 August 2013
+  iso: "'2013-08-22'"
+  human: "'22 August 2013'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

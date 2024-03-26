@@ -5,8 +5,8 @@ alt_text: Black and white photo of two people wading in water with concentric
   ripples around them.
 date: 2008-09-02 15:42:40 +01:00
 dates:
-  iso: 2008-09-02
-  human: 2 September 2008
+  iso: "'2008-09-02'"
+  human: "'2 September 2008'"
 gear:
   short: Canon 350D
   camera:

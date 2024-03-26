@@ -3,8 +3,8 @@ title: Gondola lift to Narikala fortress
 file: gondola-lift-to-narikala-fortress.jpg
 date: 2018-08-13 12:06:06 +01:00
 dates:
-  iso: 2018-08-13
-  human: 13 August 2018
+  iso: "'2018-08-13'"
+  human: "'13 August 2018'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

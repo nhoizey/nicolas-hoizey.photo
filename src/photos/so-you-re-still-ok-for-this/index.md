@@ -4,8 +4,8 @@ file: so-you-re-still-ok-for-this.jpg
 alt_text: A buffalo grazing close to a white egret in a grassy field.
 date: 2019-02-27 17:09:07 +01:00
 dates:
-  iso: 2019-02-27
-  human: 27 February 2019
+  iso: "'2019-02-27'"
+  human: "'27 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

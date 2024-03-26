@@ -3,8 +3,8 @@ title: Black Rhinoceros in Lake Nakuru National Park
 file: black-rhinoceros-in-lake-nakuru-national-park.jpg
 date: 2019-02-27 16:10:34 +01:00
 dates:
-  iso: 2019-02-27
-  human: 27 February 2019
+  iso: "'2019-02-27'"
+  human: "'27 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

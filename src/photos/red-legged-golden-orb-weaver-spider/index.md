@@ -3,8 +3,8 @@ title: Red-legged golden orb-weaver spider
 file: red-legged-golden-orb-weaver-spider.jpg
 date: 2019-03-04 16:46:53 +01:00
 dates:
-  iso: 2019-03-04
-  human: 4 March 2019
+  iso: "'2019-03-04'"
+  human: "'4 March 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm
   camera:

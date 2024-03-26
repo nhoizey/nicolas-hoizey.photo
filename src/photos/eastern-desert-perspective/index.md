@@ -5,8 +5,8 @@ alt_text: Desert landscape with a stone path leading towards a range of
   mountains in the background, sparse vegetation, and a clear sky at twilight.
 date: 2004-05-14 17:43:50 +01:00
 dates:
-  iso: 2004-05-14
-  human: 14 May 2004
+  iso: "'2004-05-14'"
+  human: "'14 May 2004'"
 gear:
   short: Konica KD-400Z
   camera:

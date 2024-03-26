@@ -5,8 +5,8 @@ alt_text: Mountainous landscape with a cluster of blue flowers in the foreground
   and a valley in the background.
 date: 2023-10-19 14:41:17 +01:00
 dates:
-  iso: 2023-10-19
-  human: 19 October 2023
+  iso: "'2023-10-19'"
+  human: "'19 October 2023'"
 gear:
   short: Fujifilm X-H2s + 10-24mm
   camera:

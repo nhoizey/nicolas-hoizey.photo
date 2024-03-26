@@ -4,8 +4,8 @@ file: did-i-go-over-the-top.jpg
 alt_text: A peacock displaying its vibrant tail feathers.
 date: 2014-05-02 11:31:23 +01:00
 dates:
-  iso: 2014-05-02
-  human: 2 May 2014
+  iso: "'2014-05-02'"
+  human: "'2 May 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

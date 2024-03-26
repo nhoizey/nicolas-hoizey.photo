@@ -6,8 +6,8 @@ alt_text: Two moroccan women harvesting wheat in a field with trees in the
   stands holding a bundle of wheat and smiling.
 date: 2011-05-06 10:50:44 +01:00
 dates:
-  iso: 2011-05-06
-  human: 6 May 2011
+  iso: "'2011-05-06'"
+  human: "'6 May 2011'"
 gear:
   short: Canon 5D II + 135mm
   camera:

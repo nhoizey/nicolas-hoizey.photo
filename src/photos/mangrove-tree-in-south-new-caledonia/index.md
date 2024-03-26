@@ -5,8 +5,8 @@ alt_text: A gnarled tree with exposed roots on a beach, with a backdrop of the
   ocean and scattered clouds in the sky.
 date: 2013-03-30 16:26:54 +01:00
 dates:
-  iso: 2013-03-30
-  human: 30 March 2013
+  iso: "'2013-03-30'"
+  human: "'30 March 2013'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

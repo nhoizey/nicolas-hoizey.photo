@@ -3,8 +3,8 @@ title: Elephants family in Maasai Mara
 file: elephants-family-in-maasai-mara.jpg
 date: 2019-02-25 17:59:15 +01:00
 dates:
-  iso: 2019-02-25
-  human: 25 February 2019
+  iso: "'2019-02-25'"
+  human: "'25 February 2019'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

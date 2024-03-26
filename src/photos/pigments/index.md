@@ -6,8 +6,8 @@ alt_text: Colored glass bottles arranged in rows, creating a vibrant spectrum of
   shining through.
 date: 2015-04-27 14:23:10 +01:00
 dates:
-  iso: 2015-04-27
-  human: 27 April 2015
+  iso: "'2015-04-27'"
+  human: "'27 April 2015'"
 gear:
   short: Panasonic LX100
   camera:

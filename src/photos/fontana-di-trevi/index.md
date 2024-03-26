@@ -3,8 +3,8 @@ title: Fontana di Trevi
 file: fontana-di-trevi.jpg
 date: 2017-05-11 18:14:50 +01:00
 dates:
-  iso: 2017-05-11
-  human: 11 May 2017
+  iso: "'2017-05-11'"
+  human: "'11 May 2017'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

@@ -5,8 +5,8 @@ alt_text: Colorful buildings line a narrow canal with boats in Burano, Italy, as
   people walk along the sidewalks.
 date: 2008-04-26 15:37:21 +01:00
 dates:
-  iso: 2008-04-26
-  human: 26 April 2008
+  iso: "'2008-04-26'"
+  human: "'26 April 2008'"
 gear:
   short: Canon 350D + 17-85mm
   camera:

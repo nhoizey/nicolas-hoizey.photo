@@ -3,8 +3,8 @@ title: Fog over Niort
 file: fog-over-niort.jpg
 date: 2017-12-04 20:42:06 +01:00
 dates:
-  iso: 2017-12-04
-  human: 4 December 2017
+  iso: "'2017-12-04'"
+  human: "'4 December 2017'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

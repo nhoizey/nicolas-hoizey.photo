@@ -3,8 +3,8 @@ title: Napoleon's carnation
 file: napoleon-s-carnation.jpg
 date: 2020-06-23 19:51:50 +01:00
 dates:
-  iso: 2020-06-23
-  human: 23 June 2020
+  iso: "'2020-06-23'"
+  human: "'23 June 2020'"
 gear:
   short: Fujifilm X-T3 + 80mm macro
   camera:

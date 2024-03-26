@@ -5,8 +5,8 @@ alt_text: Bust picture of a young woman moving back and forth with her arms,
   visible in several places thanks to the light of a stroboscope.
 date: 2017-03-25 13:40:29 +01:00
 dates:
-  iso: 2017-03-25
-  human: 25 March 2017
+  iso: "'2017-03-25'"
+  human: "'25 March 2017'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

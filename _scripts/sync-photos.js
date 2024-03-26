@@ -165,9 +165,11 @@ SYNC ${photo}`);
     }
     photoYFM.date = luxonDate.toFormat('yyyy-LL-dd HH:mm:ss ZZ');
 
+    // Prevent parsing of dates as string when using Matter in photo-data.js
+    // https://github.com/jonschlinkert/gray-matter/issues/62#issuecomment-1720216543
     photoYFM.dates = {
-      iso: luxonDate.toFormat('yyyy-LL-dd'),
-      human: luxonDate.toFormat('d LLLL yyyy'),
+      iso: `'${luxonDate.toFormat('yyyy-LL-dd')}'`,
+      human: `'${luxonDate.toFormat('d LLLL yyyy')}'`,
     };
 
     if (photoExif.ifd0.Model || photoExif.exif.LensModel) {

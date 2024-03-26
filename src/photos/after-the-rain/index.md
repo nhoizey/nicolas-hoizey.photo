@@ -3,8 +3,8 @@ title: After the rain…
 file: after-the-rain.jpg
 date: 2018-12-09 16:42:17 +01:00
 dates:
-  iso: 2018-12-09
-  human: 9 December 2018
+  iso: "'2018-12-09'"
+  human: "'9 December 2018'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

@@ -5,8 +5,8 @@ alt_text: An angled view of the battlements of a terracotta-colored fortress
   wall against a clear blue sky.
 date: 2004-09-21 18:12:00 +01:00
 dates:
-  iso: 2004-09-21
-  human: 21 September 2004
+  iso: "'2004-09-21'"
+  human: "'21 September 2004'"
 gear:
   short: Konica KD-400Z
   camera:

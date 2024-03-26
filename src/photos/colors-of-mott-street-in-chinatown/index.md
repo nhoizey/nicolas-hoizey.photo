@@ -5,8 +5,8 @@ alt_text: Colorful facades of urban buildings with external fire escapes,
   featuring a red, white, and yellow building side by side.
 date: 2015-05-20 14:44:16 +01:00
 dates:
-  iso: 2015-05-20
-  human: 20 May 2015
+  iso: "'2015-05-20'"
+  human: "'20 May 2015'"
 gear:
   short: Canon 5D II + 135mm
   camera:

@@ -5,8 +5,8 @@ alt_text: Walls of the medieval fortress of Carcassonne, with traces which, when
   viewed at the right angle, reveal concentric circles.
 date: 2022-08-16 10:43:37 +01:00
 dates:
-  iso: 2022-08-16
-  human: 16 August 2022
+  iso: "'2022-08-16'"
+  human: "'16 August 2022'"
 gear:
   short: Fujifilm X-T3 + 16-80mm
   camera:

@@ -3,8 +3,8 @@ title: Castillo de Butrón
 file: castillo-de-butron.jpg
 date: 2022-08-10 13:19:22 +01:00
 dates:
-  iso: 2022-08-10
-  human: 10 August 2022
+  iso: "'2022-08-10'"
+  human: "'10 August 2022'"
 gear:
   short: Fujifilm X-T3 + 16-80mm
   camera:

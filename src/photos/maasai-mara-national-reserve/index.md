@@ -3,8 +3,8 @@ title: Maasai Mara National Reserve
 file: maasai-mara-national-reserve.jpg
 date: 2019-02-26 07:43:41 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

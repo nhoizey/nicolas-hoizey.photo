@@ -6,8 +6,8 @@ alt_text: A moody landscape showing rugged mountains under a cloudy sky with a
   small winding streams or pools of water.
 date: 2023-10-19 14:22:36 +01:00
 dates:
-  iso: 2023-10-19
-  human: 19 October 2023
+  iso: "'2023-10-19'"
+  human: "'19 October 2023'"
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

@@ -4,8 +4,8 @@ file: running-water.jpg
 alt_text: A cascade of water flowing over rocky steps, partially covered in moss.
 date: 2023-10-18 16:31:05 +01:00
 dates:
-  iso: 2023-10-18
-  human: 18 October 2023
+  iso: "'2023-10-18'"
+  human: "'18 October 2023'"
 gear:
   short: Fujifilm X-T3 + 100-400mm
   camera:

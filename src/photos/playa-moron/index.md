@@ -4,8 +4,8 @@ file: playa-moron.jpg
 alt_text: Photo of a palm tree leaning along the beach, with the ocean in the background
 date: 2018-02-28 11:19:19 +01:00
 dates:
-  iso: 2018-02-28
-  human: 28 February 2018
+  iso: "'2018-02-28'"
+  human: "'28 February 2018'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

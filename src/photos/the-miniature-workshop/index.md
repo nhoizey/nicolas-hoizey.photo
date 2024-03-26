@@ -6,8 +6,8 @@ alt_text: A detailed miniature of an old-fashioned workshop interior with a
   upper level.
 date: 2006-12-26 16:00:35 +01:00
 dates:
-  iso: 2006-12-26
-  human: 26 December 2006
+  iso: "'2006-12-26'"
+  human: "'26 December 2006'"
 gear:
   short: Canon 350D + 17-85mm
   camera:

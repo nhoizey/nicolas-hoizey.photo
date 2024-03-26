@@ -6,8 +6,8 @@ alt_text: Miniature scene with two toy cars on a dirt ramp, one in mid-air, and
   officer with his motorcycle.
 date: 2024-03-14 22:45:34 +01:00
 dates:
-  iso: 2024-03-14
-  human: 14 March 2024
+  iso: "'2024-03-14'"
+  human: "'14 March 2024'"
 gear:
   short: Fujifilm X-H2s + 80mm macro
   camera:

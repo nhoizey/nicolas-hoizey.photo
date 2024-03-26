@@ -5,8 +5,8 @@ alt_text: Reflective glass facade of a modern building with symmetrical
   architecture and a person visible in the reflection.
 date: 2014-03-18 18:58:24 +01:00
 dates:
-  iso: 2014-03-18
-  human: 18 March 2014
+  iso: "'2014-03-18'"
+  human: "'18 March 2014'"
 gear:
   short: Panasonic GM1 + 12-32mm
   camera:

@@ -3,8 +3,8 @@ title: Gourmandise
 file: gourmandise.jpg
 date: 2019-01-13 11:48:49 +01:00
 dates:
-  iso: 2019-01-13
-  human: 13 January 2019
+  iso: "'2019-01-13'"
+  human: "'13 January 2019'"
 gear:
   short: Canon 5D IV + 100mm macro
   camera:

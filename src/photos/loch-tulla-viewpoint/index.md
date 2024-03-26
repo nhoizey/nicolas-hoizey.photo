@@ -5,8 +5,8 @@ alt_text: A scenic landscape with mountains, a cloudy sky, patches of snow, a
   body of water in the distance, and a grassy field.
 date: 2014-04-30 18:08:55 +01:00
 dates:
-  iso: 2014-04-30
-  human: 30 April 2014
+  iso: "'2014-04-30'"
+  human: "'30 April 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

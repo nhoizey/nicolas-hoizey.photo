@@ -4,8 +4,8 @@ file: egret-at-sunset.jpg
 alt_text: Silhouette of a heron standing by water with a twilight sky reflection.
 date: 2017-04-10 19:55:43 +01:00
 dates:
-  iso: 2017-04-10
-  human: 10 April 2017
+  iso: "'2017-04-10'"
+  human: "'10 April 2017'"
 gear:
   short: Fujifilm X-T2 + 100-400mm
   camera:

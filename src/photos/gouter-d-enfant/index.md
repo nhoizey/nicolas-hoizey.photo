@@ -6,8 +6,8 @@ alt_text: "Picture of various objects on a table: a metal bowl with different
   drawing"
 date: 2019-02-10 11:28:29 +01:00
 dates:
-  iso: 2019-02-10
-  human: 10 February 2019
+  iso: "'2019-02-10'"
+  human: "'10 February 2019'"
 gear:
   short: Canon 5D IV + 100mm macro
   camera:

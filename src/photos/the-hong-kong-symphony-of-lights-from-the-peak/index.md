@@ -5,8 +5,8 @@ alt_text: Night view on the many buildings of Hong Kong, and light animations
   (colors, beams)
 date: 2015-08-08 19:11:32 +01:00
 dates:
-  iso: 2015-08-08
-  human: 8 August 2015
+  iso: "'2015-08-08'"
+  human: "'8 August 2015'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

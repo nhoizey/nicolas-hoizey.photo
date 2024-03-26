@@ -5,8 +5,8 @@ alt_text: Illuminated classical building at night with reflection on water
   surface, and silhouettes of people in the foreground.
 date: 2010-08-07 22:34:01 +01:00
 dates:
-  iso: 2010-08-07
-  human: 7 August 2010
+  iso: "'2010-08-07'"
+  human: "'7 August 2010'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

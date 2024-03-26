@@ -4,8 +4,8 @@ file: while-waiting.jpg
 alt_text: Black and white close-up of a woman's profile with blurred background.
 date: 2014-06-14 15:00:28 +01:00
 dates:
-  iso: 2014-06-14
-  human: 14 June 2014
+  iso: "'2014-06-14'"
+  human: "'14 June 2014'"
 gear:
   short: Canon 5D II + 135mm
   camera:

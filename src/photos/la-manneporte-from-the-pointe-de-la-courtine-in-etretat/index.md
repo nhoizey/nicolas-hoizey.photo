@@ -4,8 +4,8 @@ file: la-manneporte-from-the-pointe-de-la-courtine-in-etretat.jpg
 alt_text: Photo of Étretat cliffs, from the Pointe de la Courtine
 date: 2013-07-28 12:23:08 +01:00
 dates:
-  iso: 2013-07-28
-  human: 28 July 2013
+  iso: "'2013-07-28'"
+  human: "'28 July 2013'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

@@ -5,8 +5,8 @@ alt_text: White traditional buildings with ornate edges against a clear blue
   sky, featuring a street lamp in the foreground.
 date: 2016-09-30 14:59:49 +01:00
 dates:
-  iso: 2016-09-30
-  human: 30 September 2016
+  iso: "'2016-09-30'"
+  human: "'30 September 2016'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

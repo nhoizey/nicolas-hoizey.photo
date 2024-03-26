@@ -5,8 +5,8 @@ alt_text: An old stone castle with an arched bridge overlooking a coastal
   landscape with grassy shores and distant mountains under a cloudy sky.
 date: 2014-05-01 17:13:57 +01:00
 dates:
-  iso: 2014-05-01
-  human: 1 May 2014
+  iso: "'2014-05-01'"
+  human: "'1 May 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

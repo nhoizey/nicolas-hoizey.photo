@@ -6,8 +6,8 @@ alt_text: A coastal landscape with a body of water in the foreground, a village
   the background, under a cloudy sky.
 date: 2014-05-01 12:56:40 +01:00
 dates:
-  iso: 2014-05-01
-  human: 1 May 2014
+  iso: "'2014-05-01'"
+  human: "'1 May 2014'"
 gear:
   short: Canon 5D II + 70-300mm
   camera:

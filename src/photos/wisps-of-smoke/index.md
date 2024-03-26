@@ -3,8 +3,8 @@ title: Wisps of smoke
 file: wisps-of-smoke.jpg
 date: 2020-10-06 21:13:25 +01:00
 dates:
-  iso: 2020-10-06
-  human: 6 October 2020
+  iso: "'2020-10-06'"
+  human: "'6 October 2020'"
 gear:
   short: Fujifilm X-T3 + 80mm macro
   camera:

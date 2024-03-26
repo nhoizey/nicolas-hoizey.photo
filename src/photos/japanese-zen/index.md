@@ -4,8 +4,8 @@ file: japanese-zen.jpg
 alt_text: Photo of a red wooden bridge over an artificial river, in a Japanese garden
 date: 2009-04-01 14:35:57 +01:00
 dates:
-  iso: 2009-04-01
-  human: 1 April 2009
+  iso: "'2009-04-01'"
+  human: "'1 April 2009'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

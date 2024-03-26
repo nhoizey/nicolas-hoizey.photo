@@ -3,8 +3,8 @@ title: The iconic acacia tree in front of Mount Kilimanjaro
 file: the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg
 date: 2019-02-28 18:25:51 +01:00
 dates:
-  iso: 2019-02-28
-  human: 28 February 2019
+  iso: "'2019-02-28'"
+  human: "'28 February 2019'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

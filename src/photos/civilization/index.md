@@ -5,8 +5,8 @@ alt_text: A herd of goats on a dry landscape with Mount Kilimanjaro in the
   background and a couple of trees and structures on the sides.
 date: 2019-03-01 08:46:20 +01:00
 dates:
-  iso: 2019-03-01
-  human: 1 March 2019
+  iso: "'2019-03-01'"
+  human: "'1 March 2019'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

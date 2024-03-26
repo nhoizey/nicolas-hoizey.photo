@@ -5,8 +5,8 @@ alt_text: Photo of a very colorful mural depicting the famous photo of an
   American sailor hugging and kissing a woman
 date: 2015-05-21 10:13:58 +01:00
 dates:
-  iso: 2015-05-21
-  human: 21 May 2015
+  iso: "'2015-05-21'"
+  human: "'21 May 2015'"
 gear:
   short: Sony RX100 III
   camera:

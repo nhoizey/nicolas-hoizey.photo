@@ -3,8 +3,8 @@ title: The demoiselle after the shower
 file: the-demoiselle-after-the-shower.jpg
 date: 2018-09-16 06:38:16 +01:00
 dates:
-  iso: 2018-09-16
-  human: 16 September 2018
+  iso: "'2018-09-16'"
+  human: "'16 September 2018'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

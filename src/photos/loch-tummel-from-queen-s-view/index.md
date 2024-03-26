@@ -5,8 +5,8 @@ alt_text: A panoramic view of a serene loch surrounded by rolling hills and
   scattered forests under a cloudy sky.
 date: 2014-05-02 12:39:32 +01:00
 dates:
-  iso: 2014-05-02
-  human: 2 May 2014
+  iso: "'2014-05-02'"
+  human: "'2 May 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

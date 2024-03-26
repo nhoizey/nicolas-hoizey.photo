@@ -5,8 +5,8 @@ alt_text: Colorful buildings along a seaside street with parked cars, a stone
   wall, and boats on the water with a mountainous backdrop.
 date: 2014-05-01 14:55:40 +01:00
 dates:
-  iso: 2014-05-01
-  human: 1 May 2014
+  iso: "'2014-05-01'"
+  human: "'1 May 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

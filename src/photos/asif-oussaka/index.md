@@ -5,8 +5,8 @@ alt_text: Rugged terrain with a dry river bed winding through hills, cactus in
   the foreground, and remnants of stone walls.
 date: 2011-05-06 12:30:20 +01:00
 dates:
-  iso: 2011-05-06
-  human: 6 May 2011
+  iso: "'2011-05-06'"
+  human: "'6 May 2011'"
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

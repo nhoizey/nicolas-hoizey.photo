@@ -6,8 +6,8 @@ alt_text: A detailed miniature model of a vintage cafe interior with wooden
   Vintage posters adorn the walls, and there is a tiled floor.
 date: 2006-12-26 16:02:08 +01:00
 dates:
-  iso: 2006-12-26
-  human: 26 December 2006
+  iso: "'2006-12-26'"
+  human: "'26 December 2006'"
 gear:
   short: Canon 350D + 17-85mm
   camera:

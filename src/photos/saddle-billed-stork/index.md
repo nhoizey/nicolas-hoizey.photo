@@ -3,8 +3,8 @@ title: Saddle-billed stork
 file: saddle-billed-stork.jpg
 date: 2019-02-28 17:25:02 +01:00
 dates:
-  iso: 2019-02-28
-  human: 28 February 2019
+  iso: "'2019-02-28'"
+  human: "'28 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

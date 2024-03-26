@@ -5,8 +5,8 @@ alt_text: Close-up of a toucan with a vibrant orange, yellow, and black beak
   against a blurred green background.
 date: 2008-05-11 14:25:40 +01:00
 dates:
-  iso: 2008-05-11
-  human: 11 May 2008
+  iso: "'2008-05-11'"
+  human: "'11 May 2008'"
 gear:
   short: Canon 350D + 70-300mm
   camera:

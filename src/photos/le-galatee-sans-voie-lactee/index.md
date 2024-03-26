@@ -4,8 +4,8 @@ file: le-galatee-sans-voie-lactee.jpg
 alt_text: The terrace of a lighted restaurant, emerging from a very dark night
 date: 2018-01-06 19:46:57 +01:00
 dates:
-  iso: 2018-01-06
-  human: 6 January 2018
+  iso: "'2018-01-06'"
+  human: "'6 January 2018'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

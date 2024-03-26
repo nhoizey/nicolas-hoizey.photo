@@ -4,8 +4,8 @@ file: mosquito.jpg
 alt_text: Macro photo of a common mosquito
 date: 2012-04-29 15:27:22 +01:00
 dates:
-  iso: 2012-04-29
-  human: 29 April 2012
+  iso: "'2012-04-29'"
+  human: "'29 April 2012'"
 gear:
   short: Canon 5D II + 100mm macro
   camera:

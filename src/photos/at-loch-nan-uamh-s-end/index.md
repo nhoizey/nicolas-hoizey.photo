@@ -6,8 +6,8 @@ alt_text: A coastal landscape showing rocky shores in the foreground, a calm
   skies. A small white building is nestled among trees near the water's edge.
 date: 2014-05-01 11:30:23 +01:00
 dates:
-  iso: 2014-05-01
-  human: 1 May 2014
+  iso: "'2014-05-01'"
+  human: "'1 May 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

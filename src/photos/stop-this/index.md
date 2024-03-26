@@ -5,8 +5,8 @@ alt_text: Close-up photo of the open hand of a steel statue, with the head in
   the background
 date: 2007-10-28 16:17:15 +01:00
 dates:
-  iso: 2007-10-28
-  human: 28 October 2007
+  iso: "'2007-10-28'"
+  human: "'28 October 2007'"
 gear:
   short: Canon 350D + 100mm macro
   camera:

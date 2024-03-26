@@ -3,8 +3,8 @@ title: Women's 800m
 file: women-s-800m.jpg
 date: 2018-05-13 14:28:14 +01:00
 dates:
-  iso: 2018-05-13
-  human: 13 May 2018
+  iso: "'2018-05-13'"
+  human: "'13 May 2018'"
 gear:
   short: Fujifilm X-T2 + 100-400mm
   camera:

@@ -3,8 +3,8 @@ title: Hard manual work in the fields
 file: hard-manual-work-in-the-fields.jpg
 date: 2019-02-27 11:29:07 +01:00
 dates:
-  iso: 2019-02-27
-  human: 27 February 2019
+  iso: "'2019-02-27'"
+  human: "'27 February 2019'"
 gear:
   short: Fujifilm X-T3 + 56mm
   camera:

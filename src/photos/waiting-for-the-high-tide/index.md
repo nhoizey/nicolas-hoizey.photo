@@ -5,8 +5,8 @@ alt_text: Blue and white boat on dry seabed with other boats and coastal village
   in the background.
 date: 2013-08-22 13:49:45 +01:00
 dates:
-  iso: 2013-08-22
-  human: 22 August 2013
+  iso: "'2013-08-22'"
+  human: "'22 August 2013'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

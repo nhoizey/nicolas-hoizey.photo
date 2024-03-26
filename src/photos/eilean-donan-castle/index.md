@@ -5,8 +5,8 @@ alt_text: An ancient castle on a water's edge with a stone bridge, surrounded by
   mountains under a cloudy sky.
 date: 2014-05-01 17:40:08 +01:00
 dates:
-  iso: 2014-05-01
-  human: 1 May 2014
+  iso: "'2014-05-01'"
+  human: "'1 May 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

@@ -3,8 +3,8 @@ title: Lumberjacks
 file: lumberjacks.jpg
 date: 2021-12-01 00:08:18 +01:00
 dates:
-  iso: 2021-12-01
-  human: 1 December 2021
+  iso: "'2021-12-01'"
+  human: "'1 December 2021'"
 gear:
   short: Fujifilm X-T3 + 80mm macro
   camera:

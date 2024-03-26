@@ -3,8 +3,8 @@ title: Restaurant terraces at night
 file: restaurant-terraces-at-night.jpg
 date: 2018-08-12 20:15:25 +01:00
 dates:
-  iso: 2018-08-12
-  human: 12 August 2018
+  iso: "'2018-08-12'"
+  human: "'12 August 2018'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

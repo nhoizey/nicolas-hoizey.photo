@@ -5,8 +5,8 @@ alt_text: Cherry blossom tree in full bloom with a red bridge in the background,
   set in a tranquil garden setting.
 date: 2009-04-01 14:22:54 +01:00
 dates:
-  iso: 2009-04-01
-  human: 1 April 2009
+  iso: "'2009-04-01'"
+  human: "'1 April 2009'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

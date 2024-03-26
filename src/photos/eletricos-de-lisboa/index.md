@@ -4,8 +4,8 @@ file: eletricos-de-lisboa.jpg
 alt_text: Photo of a nice yellow and white streetcar in a street of Lisbon in Portugal
 date: 2016-10-01 08:31:03 +01:00
 dates:
-  iso: 2016-10-01
-  human: 1 October 2016
+  iso: "'2016-10-01'"
+  human: "'1 October 2016'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

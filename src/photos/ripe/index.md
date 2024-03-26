@@ -6,8 +6,8 @@ alt_text: An open, weathered book with worn pages on a wooden surface, alongside
   background.
 date: 2015-04-27 14:44:49 +01:00
 dates:
-  iso: 2015-04-27
-  human: 27 April 2015
+  iso: "'2015-04-27'"
+  human: "'27 April 2015'"
 gear:
   short: Canon 5D II + 100mm macro
   camera:

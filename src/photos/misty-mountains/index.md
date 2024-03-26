@@ -4,8 +4,8 @@ file: misty-mountains.jpg
 alt_text: Mountain peaks shrouded in mist with a dark forest in the foreground.
 date: 2023-10-18 14:06:02 +01:00
 dates:
-  iso: 2023-10-18
-  human: 18 October 2023
+  iso: "'2023-10-18'"
+  human: "'18 October 2023'"
 gear:
   short: Fujifilm X-T3 + 100-400mm
   camera:

@@ -3,8 +3,8 @@ title: Bonjour
 file: bonjour.jpg
 date: 2015-08-15 14:57:24 +01:00
 dates:
-  iso: 2015-08-15
-  human: 15 August 2015
+  iso: "'2015-08-15'"
+  human: "'15 August 2015'"
 gear:
   short: Sony RX100 III
   camera:

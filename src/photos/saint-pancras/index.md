@@ -3,8 +3,8 @@ title: Saint Pancras
 file: saint-pancras.jpg
 date: 2017-10-19 08:35:36 +01:00
 dates:
-  iso: 2017-10-19
-  human: 19 October 2017
+  iso: "'2017-10-19'"
+  human: "'19 October 2017'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

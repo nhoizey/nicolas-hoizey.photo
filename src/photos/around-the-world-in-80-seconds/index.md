@@ -4,8 +4,8 @@ file: around-the-world-in-80-seconds.jpg
 alt_text: Photo of miniature figures of boy scouts hiking on a tennis ball
 date: 2023-04-17 20:29:02 +01:00
 dates:
-  iso: 2023-04-17
-  human: 17 April 2023
+  iso: "'2023-04-17'"
+  human: "'17 April 2023'"
 gear:
   short: Fujifilm X-T3 + 80mm macro
   camera:

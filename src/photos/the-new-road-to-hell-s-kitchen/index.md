@@ -3,8 +3,8 @@ title: The (new) Road to Hell('s Kitchen)
 file: the-new-road-to-hell-s-kitchen.jpg
 date: 2015-05-22 09:41:36 +01:00
 dates:
-  iso: 2015-05-22
-  human: 22 May 2015
+  iso: "'2015-05-22'"
+  human: "'22 May 2015'"
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

@@ -3,8 +3,8 @@ title: Belgian Pride
 file: belgian-pride.jpg
 date: 2017-05-22 21:40:08 +01:00
 dates:
-  iso: 2017-05-22
-  human: 22 May 2017
+  iso: "'2017-05-22'"
+  human: "'22 May 2017'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

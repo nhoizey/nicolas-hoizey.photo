@@ -3,8 +3,8 @@ title: Julie
 file: julie.jpg
 date: 2017-03-25 12:05:11 +01:00
 dates:
-  iso: 2017-03-25
-  human: 25 March 2017
+  iso: "'2017-03-25'"
+  human: "'25 March 2017'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

@@ -3,8 +3,8 @@ title: Lappet-faced vulture in Maasai Mara National Reserve
 file: lappet-faced-vulture-in-maasai-mara-national-reserve.jpg
 date: 2019-02-26 08:19:39 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

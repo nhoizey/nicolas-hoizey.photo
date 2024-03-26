@@ -5,8 +5,8 @@ alt_text: A black and white photo of a rocky coastline with a lighthouse, the
   ocean, and a sky with scattered clouds.
 date: 2013-08-23 08:10:18 +01:00
 dates:
-  iso: 2013-08-23
-  human: 23 August 2013
+  iso: "'2013-08-23'"
+  human: "'23 August 2013'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

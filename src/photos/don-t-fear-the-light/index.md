@@ -5,8 +5,8 @@ alt_text: Night photo of a statue silhouette giving the impression to protect
   itself with its arms of luminous spots
 date: 2004-12-27 17:22:46 +01:00
 dates:
-  iso: 2004-12-27
-  human: 27 December 2004
+  iso: "'2004-12-27'"
+  human: "'27 December 2004'"
 gear:
   short: Konica KD-400Z
   camera:

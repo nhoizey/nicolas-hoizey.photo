@@ -4,8 +4,8 @@ file: grant-s-zebras.jpg
 alt_text: Zebras grazing on a grassy plain with Mount Kilimanjaro in the background.
 date: 2019-02-28 17:44:49 +01:00
 dates:
-  iso: 2019-02-28
-  human: 28 February 2019
+  iso: "'2019-02-28'"
+  human: "'28 February 2019'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

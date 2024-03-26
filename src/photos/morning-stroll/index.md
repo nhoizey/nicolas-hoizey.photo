@@ -3,8 +3,8 @@ title: Morning stroll
 file: morning-stroll.jpg
 date: 2019-03-01 06:49:01 +01:00
 dates:
-  iso: 2019-03-01
-  human: 1 March 2019
+  iso: "'2019-03-01'"
+  human: "'1 March 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 1.4×
   camera:

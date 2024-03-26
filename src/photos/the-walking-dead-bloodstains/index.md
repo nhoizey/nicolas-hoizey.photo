@@ -5,8 +5,8 @@ alt_text: Photo of miniature figures representing zombies full of bloodstains,
   and with a hesitant walk, in front of a bottle of mercurochrome.
 date: 2023-04-17 21:07:45 +01:00
 dates:
-  iso: 2023-04-17
-  human: 17 April 2023
+  iso: "'2023-04-17'"
+  human: "'17 April 2023'"
 gear:
   short: Fujifilm X-T3 + 80mm macro
   camera:

@@ -4,8 +4,8 @@ file: one-last-night-on-the-gr20-trail-at-i-paliri-refuge.jpg
 alt_text: Photo of sunbeams on the mountain, with a tent in the foreground
 date: 2002-08-22 19:28:12 +01:00
 dates:
-  iso: 2002-08-22
-  human: 22 August 2002
+  iso: "'2002-08-22'"
+  human: "'22 August 2002'"
 tags:
   - camping
   - Corse

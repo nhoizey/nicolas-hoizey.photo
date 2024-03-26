@@ -4,8 +4,8 @@ file: colourful-netherlands.jpg
 alt_text: Colorful houses reflected in water under an overcast sky.
 date: 2015-07-13 15:56:57 +01:00
 dates:
-  iso: 2015-07-13
-  human: 13 July 2015
+  iso: "'2015-07-13'"
+  human: "'13 July 2015'"
 gear:
   short: Sony RX100 III
   camera:

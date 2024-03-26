@@ -4,8 +4,8 @@ file: the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood.jpg
 alt_text: Brick archway standing in a desert landscape with clear skies.
 date: 2004-09-29 11:15:40 +01:00
 dates:
-  iso: 2004-09-29
-  human: 29 September 2004
+  iso: "'2004-09-29'"
+  human: "'29 September 2004'"
 gear:
   short: Konica KD-400Z
   camera:

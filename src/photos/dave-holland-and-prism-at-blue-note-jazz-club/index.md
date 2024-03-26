@@ -5,8 +5,8 @@ alt_text: A jazz band performing on stage at Blue Note New York with an audience
   in the foreground.
 date: 2015-05-21 22:40:31 +01:00
 dates:
-  iso: 2015-05-21
-  human: 21 May 2015
+  iso: "'2015-05-21'"
+  human: "'21 May 2015'"
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

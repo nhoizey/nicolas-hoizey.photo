@@ -5,8 +5,8 @@ alt_text: Blurred photo of luminous points, of which a set represents the shape
   of a staircase
 date: 2009-01-30 22:46:02 +01:00
 dates:
-  iso: 2009-01-30
-  human: 30 January 2009
+  iso: "'2009-01-30'"
+  human: "'30 January 2009'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

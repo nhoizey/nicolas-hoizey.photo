@@ -5,8 +5,8 @@ alt_text: Photo of an old Moroccan man Lamine of an Igoudar (i.e. guardian of a
   community granary), with a rag doll.
 date: 2011-05-06 12:20:25 +01:00
 dates:
-  iso: 2011-05-06
-  human: 6 May 2011
+  iso: "'2011-05-06'"
+  human: "'6 May 2011'"
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

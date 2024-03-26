@@ -5,8 +5,8 @@ alt_text: A dark brown butterfly with white spots on its wings is perched on a
   bright purple thistle flower with a blurred green background.
 date: 2012-11-29 13:23:17 +01:00
 dates:
-  iso: 2012-11-29
-  human: 29 November 2012
+  iso: "'2012-11-29'"
+  human: "'29 November 2012'"
 gear:
   short: Canon 5D II + 100mm macro
   camera:

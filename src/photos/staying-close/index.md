@@ -3,8 +3,8 @@ title: Staying close
 file: staying-close.jpg
 date: 2019-02-27 17:35:21 +01:00
 dates:
-  iso: 2019-02-27
-  human: 27 February 2019
+  iso: "'2019-02-27'"
+  human: "'27 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

@@ -4,8 +4,8 @@ file: on-the-dirt-track-again.jpg
 alt_text: Photo of a red dirt track making turns in hills covered with low vegetation
 date: 2019-03-02 12:29:18 +01:00
 dates:
-  iso: 2019-03-02
-  human: 2 March 2019
+  iso: "'2019-03-02'"
+  human: "'2 March 2019'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

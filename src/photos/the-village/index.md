@@ -5,8 +5,8 @@ alt_text: Rural landscape with traditional mud huts, acacia trees, and distant
   hills under a clear blue sky.
 date: 2019-02-26 10:34:37 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

@@ -5,8 +5,8 @@ alt_text: Silhouettes of three people on a wet surface with a city skyline and
   the reflection of buildings and people visible.
 date: 2018-06-11 17:33:10 +01:00
 dates:
-  iso: 2018-06-11
-  human: 11 June 2018
+  iso: "'2018-06-11'"
+  human: "'11 June 2018'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

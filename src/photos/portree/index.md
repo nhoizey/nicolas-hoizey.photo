@@ -5,8 +5,8 @@ alt_text: Coastal village with colorful houses, a harbor with boats, and
   mountains in the background, under a cloudy sky.
 date: 2014-05-01 14:48:18 +01:00
 dates:
-  iso: 2014-05-01
-  human: 1 May 2014
+  iso: "'2014-05-01'"
+  human: "'1 May 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

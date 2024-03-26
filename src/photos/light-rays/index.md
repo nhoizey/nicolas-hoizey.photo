@@ -4,8 +4,8 @@ file: light-rays.jpg
 alt_text: Photo of a path in the undergrowth, with sunlight coming through the trees
 date: 2021-10-24 09:37:47 +01:00
 dates:
-  iso: 2021-10-24
-  human: 24 October 2021
+  iso: "'2021-10-24'"
+  human: "'24 October 2021'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 1.4×
   camera:

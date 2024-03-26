@@ -5,8 +5,8 @@ alt_text: Traditional terracotta building with ornate blue patterned railings,
   arched windows, and staircases against a clear blue sky.
 date: 2011-05-04 18:42:00 +01:00
 dates:
-  iso: 2011-05-04
-  human: 4 May 2011
+  iso: "'2011-05-04'"
+  human: "'4 May 2011'"
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

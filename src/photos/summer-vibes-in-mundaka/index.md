@@ -3,8 +3,8 @@ title: Summer vibes in Mundaka
 file: summer-vibes-in-mundaka.jpg
 date: 2022-08-10 16:50:41 +01:00
 dates:
-  iso: 2022-08-10
-  human: 10 August 2022
+  iso: "'2022-08-10'"
+  human: "'10 August 2022'"
 gear:
   short: Fujifilm X-T3 + 16-80mm
   camera:

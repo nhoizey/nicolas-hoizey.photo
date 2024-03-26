@@ -5,8 +5,8 @@ alt_text: A person meditates in a cross-legged position with closed eyes, in
   front of a building column. The image is monochrome.
 date: 2014-06-14 16:00:01 +01:00
 dates:
-  iso: 2014-06-14
-  human: 14 June 2014
+  iso: "'2014-06-14'"
+  human: "'14 June 2014'"
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

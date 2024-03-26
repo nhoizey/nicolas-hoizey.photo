@@ -3,8 +3,8 @@ title: Monochrome
 file: monochrome.jpg
 date: 2019-04-14 10:23:42 +01:00
 dates:
-  iso: 2019-04-14
-  human: 14 April 2019
+  iso: "'2019-04-14'"
+  human: "'14 April 2019'"
 gear:
   short: Nikon D700 + Tamron 24-70mm
   camera:

@@ -4,8 +4,8 @@ file: the-magnificent-fontcouverte-cascade.jpg
 alt_text: A cascading waterfall amidst a forest with autumn-colored foliage.
 date: 2023-10-18 15:53:23 +01:00
 dates:
-  iso: 2023-10-18
-  human: 18 October 2023
+  iso: "'2023-10-18'"
+  human: "'18 October 2023'"
 gear:
   short: Fujifilm X-H2s + 10-24mm
   camera:

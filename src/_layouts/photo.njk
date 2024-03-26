@@ -104,7 +104,7 @@
     <div class="meta">
       <dl class="exif">
         <dt class="date-icon"><svg class="icon" aria-hidden="true"><use xlink:href="#date-icon" /></svg></dt>
-        <dd class="date"><time class="dt-published" datetime="{{ dates.iso }}" data-pagefind-sort="date[datetime]" data-pagefind-meta="date[datetime]">{{ dates.human }}</time></dd>
+        <dd class="date"><time class="dt-published" datetime="{{ dates.iso | replace("'","") }}" data-pagefind-sort="date[datetime]" data-pagefind-meta="date">{{ dates.human | replace("'","") }}</time></dd>
         {% if gear and gear.camera %}
           <dt class="gear-icon">{% inline_icon 'camera' %}</dt>
           <dd class="gear"><a href="/gear/{{ gear.camera.brand | slugify }}/{{ gear.camera.model | slugify }}/" data-pagefind-filter="02. Camera">{{ gear.camera.brand }} {{ gear.camera.model }}</a></dd>

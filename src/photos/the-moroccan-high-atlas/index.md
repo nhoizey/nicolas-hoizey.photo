@@ -5,8 +5,8 @@ alt_text: A person sitting under a tree in a field with scattered trees and a
   backdrop of snow-capped mountains under a clear blue sky.
 date: 2011-05-08 11:21:41 +01:00
 dates:
-  iso: 2011-05-08
-  human: 8 May 2011
+  iso: "'2011-05-08'"
+  human: "'8 May 2011'"
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

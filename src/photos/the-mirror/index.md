@@ -5,8 +5,8 @@ alt_text: Photo of a boat on a canal, with houses in the background, all
   reflected in the water
 date: 2014-07-12 12:35:04 +01:00
 dates:
-  iso: 2014-07-12
-  human: 12 July 2014
+  iso: "'2014-07-12'"
+  human: "'12 July 2014'"
 gear:
   short: Sony RX100 III
   camera:

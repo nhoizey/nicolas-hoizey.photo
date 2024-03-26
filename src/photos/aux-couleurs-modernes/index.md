@@ -3,8 +3,8 @@ title: Aux couleurs modernes
 file: aux-couleurs-modernes.jpg
 date: 2017-02-03 14:33:40 +01:00
 dates:
-  iso: 2017-02-03
-  human: 3 February 2017
+  iso: "'2017-02-03'"
+  human: "'3 February 2017'"
 gear:
   short: Fujifilm X-T2 + 18-55mm
   camera:

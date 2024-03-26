@@ -4,8 +4,8 @@ file: rotterdam-cube-houses-the-butterfly.jpg
 alt_text: Back shot of the yellow cube houses in Rotterdam
 date: 2021-11-03 11:52:28 +01:00
 dates:
-  iso: 2021-11-03
-  human: 3 November 2021
+  iso: "'2021-11-03'"
+  human: "'3 November 2021'"
 gear:
   short: Fujifilm X-T3 + 16-80mm
   camera:

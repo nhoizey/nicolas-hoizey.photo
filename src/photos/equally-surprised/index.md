@@ -5,8 +5,8 @@ alt_text: Photo of an stoat on a rock, looking in our direction, with one of its
   front paws raised.
 date: 2023-10-16 13:45:37 +01:00
 dates:
-  iso: 2023-10-16
-  human: 16 October 2023
+  iso: "'2023-10-16'"
+  human: "'16 October 2023'"
 gear:
   short: Fujifilm X-T3 + 100-400mm
   camera:

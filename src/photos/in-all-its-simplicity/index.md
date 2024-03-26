@@ -5,8 +5,8 @@ alt_text: Black and white portrait of a woman with wavy hair looking directly at
   the camera.
 date: 2014-06-14 15:02:41 +01:00
 dates:
-  iso: 2014-06-14
-  human: 14 June 2014
+  iso: "'2014-06-14'"
+  human: "'14 June 2014'"
 gear:
   short: Canon 5D II + 135mm
   camera:

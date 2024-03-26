@@ -5,8 +5,8 @@ alt_text: An Egyptian man in traditional dress preparing tea in a tent, against
   a desert backdrop, with a camel in the background.
 date: 2004-05-14 17:14:48 +01:00
 dates:
-  iso: 2004-05-14
-  human: 14 May 2004
+  iso: "'2004-05-14'"
+  human: "'14 May 2004'"
 gear:
   short: Konica KD-400Z
   camera:

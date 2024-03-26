@@ -5,8 +5,8 @@ alt_text: A serene landscape featuring a smooth lake with a single rock near the
   shore, surrounded by rolling hills under a cloudy sky.
 date: 2023-10-17 14:39:09 +01:00
 dates:
-  iso: 2023-10-17
-  human: 17 October 2023
+  iso: "'2023-10-17'"
+  human: "'17 October 2023'"
 gear:
   short: Fujifilm X-H2s + 10-24mm
   camera:
@@ -66,6 +66,7 @@ geo:
   longitude: 6.5486286116666665
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 181 154 74
   darkVibrant: 61 52 25
@@ -74,9 +75,6 @@ colors:
   darkMuted: 65 64 69
   lightMuted: 175 188 209
 lqip: data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAADQCgCdASpkAEMAP2WkxFizP7CjtBgKc/AsiWcA0Q3iwQBjphGY4xX7fC/rKjPLfR9GnjBm3XgwlzAFmZtKcIxXLF0sYvEvbP3wxgIhc1ZNT3qKl+sBgO2jMwpHASnKAAD+zLRx9cOyEmpYtaxpoIbvAmD28aRaghNkGOpjZ2//2pz6WcrDTq99qAkPDsW5qd/NGYoRj5S+XGCupdr1PFmRwzJLu2FxSxI8MvRdWdptOYF7S/csDdYA3mXb8QvSo0DynVuRHljFu8Exbba8E8U9o1e2C7FRFDZrM5oixYHy9IXTy1TjrcNPYnTdkUvoWiiei+UZHn5mRyiLsOEv3BNKDY9CppsSrUGIWsyr4AA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Long exposure is a well-known technique that has been used since the early days of photography.

@@ -5,8 +5,8 @@ alt_text: Black and white image of a shirtless man with intense gaze, reaching
   out with his hands, slightly out of focus against a blurred background.
 date: 2014-06-14 15:51:48 +01:00
 dates:
-  iso: 2014-06-14
-  human: 14 June 2014
+  iso: "'2014-06-14'"
+  human: "'14 June 2014'"
 gear:
   short: Canon 5D II + 135mm
   camera:

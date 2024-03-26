@@ -5,8 +5,8 @@ alt_text: Side profile of a man with dark hair wearing a white shirt, against a
   blurred background.
 date: 2014-06-14 15:39:25 +01:00
 dates:
-  iso: 2014-06-14
-  human: 14 June 2014
+  iso: "'2014-06-14'"
+  human: "'14 June 2014'"
 gear:
   short: Canon 5D II + 135mm
   camera:

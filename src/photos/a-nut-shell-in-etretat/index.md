@@ -5,8 +5,8 @@ alt_text: Coastal cliffs with a natural arch formation over turquoise waters,
   with a pink-roofed boat floating near the shore.
 date: 2013-07-28 12:22:00 +01:00
 dates:
-  iso: 2013-07-28
-  human: 28 July 2013
+  iso: "'2013-07-28'"
+  human: "'28 July 2013'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

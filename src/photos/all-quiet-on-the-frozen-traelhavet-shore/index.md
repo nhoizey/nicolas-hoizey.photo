@@ -5,8 +5,8 @@ alt_text: A serene seaside view at twilight, with a foreground of mossy rocks
   and thin ice, reflecting distant houses and the early evening sky.
 date: 2020-02-03 15:50:20 +01:00
 dates:
-  iso: 2020-02-03
-  human: 3 February 2020
+  iso: "'2020-02-03'"
+  human: "'3 February 2020'"
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

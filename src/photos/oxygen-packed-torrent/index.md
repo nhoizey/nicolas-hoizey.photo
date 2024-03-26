@@ -4,8 +4,8 @@ file: oxygen-packed-torrent.jpg
 alt_text: A small waterfall in a mountain forest with autumn leaves
 date: 2023-10-19 11:18:41 +01:00
 dates:
-  iso: 2023-10-19
-  human: 19 October 2023
+  iso: "'2023-10-19'"
+  human: "'19 October 2023'"
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

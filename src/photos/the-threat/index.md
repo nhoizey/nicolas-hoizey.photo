@@ -5,8 +5,8 @@ alt_text: Notre-Dame Cathedral in Paris against a backdrop of a stormy sky with
   a glimpse of the Eiffel Tower in the distance.
 date: 2017-05-19 20:00:35 +01:00
 dates:
-  iso: 2017-05-19
-  human: 19 May 2017
+  iso: "'2017-05-19'"
+  human: "'19 May 2017'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

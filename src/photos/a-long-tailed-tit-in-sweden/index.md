@@ -4,8 +4,8 @@ file: a-long-tailed-tit-in-sweden.jpg
 alt_text: A small white and grey bird perched on a bare branch in a woodland.
 date: 2020-02-05 12:45:41 +01:00
 dates:
-  iso: 2020-02-05
-  human: 5 February 2020
+  iso: "'2020-02-05'"
+  human: "'5 February 2020'"
 gear:
   short: Fujifilm X-T3 + 56mm
   camera:

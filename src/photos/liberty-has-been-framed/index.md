@@ -5,8 +5,8 @@ alt_text: A framed view from a dark interior space looking out to the Statue of
   Liberty, with people sitting and walking in the foreground.
 date: 2015-05-19 13:26:50 +01:00
 dates:
-  iso: 2015-05-19
-  human: 19 May 2015
+  iso: "'2015-05-19'"
+  human: "'19 May 2015'"
 gear:
   short: Sony RX100 III
   camera:

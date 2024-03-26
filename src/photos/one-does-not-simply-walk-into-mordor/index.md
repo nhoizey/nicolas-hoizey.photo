@@ -6,8 +6,8 @@ alt_text: A dark, gloomy landscape in a mountainous region with a lone figure
   vision is blurred by drops of water deposited on the photographic lens.
 date: 2023-10-19 14:09:58 +01:00
 dates:
-  iso: 2023-10-19
-  human: 19 October 2023
+  iso: "'2023-10-19'"
+  human: "'19 October 2023'"
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

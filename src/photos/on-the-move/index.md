@@ -8,8 +8,8 @@ alt_text: Photo of three elephants in the savannah of Amboseli Park in Kenya. A
   recognise the typical silhouette of Kilimanjaro, covered by its ice cap.
 date: 2019-03-01 08:25:10 +01:00
 dates:
-  iso: 2019-03-01
-  human: 1 March 2019
+  iso: "'2019-03-01'"
+  human: "'1 March 2019'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

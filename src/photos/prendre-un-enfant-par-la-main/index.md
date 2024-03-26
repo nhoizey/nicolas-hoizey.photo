@@ -5,8 +5,8 @@ alt_text: A smiling man wearing a flat cap and a white shirt, looking downwards.
   The background is out of focus.
 date: 2014-06-14 15:44:41 +01:00
 dates:
-  iso: 2014-06-14
-  human: 14 June 2014
+  iso: "'2014-06-14'"
+  human: "'14 June 2014'"
 gear:
   short: Canon 5D II + 135mm
   camera:

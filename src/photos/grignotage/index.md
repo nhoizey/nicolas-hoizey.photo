@@ -3,8 +3,8 @@ title: Grignotage
 file: grignotage.jpg
 date: 2019-03-10 11:58:07 +01:00
 dates:
-  iso: 2019-03-10
-  human: 10 March 2019
+  iso: "'2019-03-10'"
+  human: "'10 March 2019'"
 gear:
   short: Canon 7D + 50mm
   camera:

@@ -5,8 +5,8 @@ alt_text: Nighttime cityscape with illuminated skyscrapers and a prominent
   building lit in red, white, and blue.
 date: 2015-05-22 23:30:41 +01:00
 dates:
-  iso: 2015-05-22
-  human: 22 May 2015
+  iso: "'2015-05-22'"
+  human: "'22 May 2015'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

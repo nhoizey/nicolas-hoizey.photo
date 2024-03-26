@@ -5,8 +5,8 @@ alt_text: Mountain landscape with a clear blue lake, foreground of colorful
   foliage, and rugged peaks against a cloudy sky.
 date: 2023-10-17 13:44:02 +01:00
 dates:
-  iso: 2023-10-17
-  human: 17 October 2023
+  iso: "'2023-10-17'"
+  human: "'17 October 2023'"
 gear:
   short: Fujifilm X-H2s + 10-24mm
   camera:

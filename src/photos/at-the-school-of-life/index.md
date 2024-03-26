@@ -4,8 +4,8 @@ file: at-the-school-of-life.jpg
 alt_text: An adult zebra and a foal standing in grassland, touching their noses together.
 date: 2019-02-26 16:24:27 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

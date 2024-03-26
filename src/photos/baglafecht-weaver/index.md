@@ -4,8 +4,8 @@ file: baglafecht-weaver.jpg
 alt_text: A yellow and black bird perched on a branch with green leaves.
 date: 2019-02-26 09:38:55 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

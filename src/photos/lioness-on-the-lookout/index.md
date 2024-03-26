@@ -5,8 +5,8 @@ alt_text: A lioness sitting on grass by a termite mound, with bushes and
   grassland in the background.
 date: 2019-02-26 08:04:01 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

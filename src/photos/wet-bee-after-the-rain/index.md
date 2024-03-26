@@ -4,8 +4,8 @@ file: wet-bee-after-the-rain.jpg
 alt_text: A bee on a purple flower with dew drops on its wings.
 date: 2013-08-07 18:47:21 +01:00
 dates:
-  iso: 2013-08-07
-  human: 7 August 2013
+  iso: "'2013-08-07'"
+  human: "'7 August 2013'"
 gear:
   short: Canon 5D II + 100mm macro
   camera:

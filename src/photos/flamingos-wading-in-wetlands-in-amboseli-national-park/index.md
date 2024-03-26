@@ -3,8 +3,8 @@ title: Flamingos wading in wetlands in Amboseli National Park
 file: flamingos-wading-in-wetlands-in-amboseli-national-park.jpg
 date: 2019-03-01 07:43:09 +01:00
 dates:
-  iso: 2019-03-01
-  human: 1 March 2019
+  iso: "'2019-03-01'"
+  human: "'1 March 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

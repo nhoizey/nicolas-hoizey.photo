@@ -5,8 +5,8 @@ alt_text: Narrow pathway through ancient stone ruins with multiple tiers of
   exposed rooms and ledges, no roof present, under a partly cloudy sky.
 date: 2011-05-06 12:38:27 +01:00
 dates:
-  iso: 2011-05-06
-  human: 6 May 2011
+  iso: "'2011-05-06'"
+  human: "'6 May 2011'"
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

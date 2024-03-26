@@ -5,8 +5,8 @@ alt_text: Miniature of a classic-style mansion with a central doorway, flanked
   by trees and topiary, with a toy car on the driveway.
 date: 2013-08-14 15:13:14 +01:00
 dates:
-  iso: 2013-08-14
-  human: 14 August 2013
+  iso: "'2013-08-14'"
+  human: "'14 August 2013'"
 gear:
   short: Canon 5D II + 100mm macro
   camera:

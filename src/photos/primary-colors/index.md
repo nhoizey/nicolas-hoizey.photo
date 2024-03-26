@@ -3,8 +3,8 @@ title: Primary colors
 file: primary-colors.jpg
 date: 2016-09-30 09:03:44 +01:00
 dates:
-  iso: 2016-09-30
-  human: 30 September 2016
+  iso: "'2016-09-30'"
+  human: "'30 September 2016'"
 gear:
   short: Apple iPhone 6s
   camera:

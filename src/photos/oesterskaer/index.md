@@ -3,8 +3,8 @@ title: Österskär
 file: oesterskaer.jpg
 date: 2020-02-03 15:22:26 +01:00
 dates:
-  iso: 2020-02-03
-  human: 3 February 2020
+  iso: "'2020-02-03'"
+  human: "'3 February 2020'"
 gear:
   short: Fujifilm X-T3 + 56mm
   camera:

@@ -3,8 +3,8 @@ title: Unic in Batignolles
 file: unic-in-batignolles.jpg
 date: 2019-12-02 15:11:29 +01:00
 dates:
-  iso: 2019-12-02
-  human: 2 December 2019
+  iso: "'2019-12-02'"
+  human: "'2 December 2019'"
 gear:
   short: Fujifilm X-T3 + 27mm
   camera:

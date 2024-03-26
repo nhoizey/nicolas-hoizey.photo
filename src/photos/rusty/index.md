@@ -4,8 +4,8 @@ file: rusty.jpg
 alt_text: Photo of a completely rusted nut and bolt
 date: 2008-08-24 15:15:28 +01:00
 dates:
-  iso: 2008-08-24
-  human: 24 August 2008
+  iso: "'2008-08-24'"
+  human: "'24 August 2008'"
 gear:
   short: Canon 350D + 100mm macro
   camera:

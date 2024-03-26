@@ -4,8 +4,8 @@ file: winter-is-coming.jpg
 alt_text: A wooden cabin in a snowy landscape with mountains in the background.
 date: 2014-02-14 10:11:59 +01:00
 dates:
-  iso: 2014-02-14
-  human: 14 February 2014
+  iso: "'2014-02-14'"
+  human: "'14 February 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

@@ -5,8 +5,8 @@ alt_text: A narrow street with weathered blue buildings, including one with a
   wooden balcony and decorative architecture.
 date: 2018-08-13 17:32:30 +01:00
 dates:
-  iso: 2018-08-13
-  human: 13 August 2018
+  iso: "'2018-08-13'"
+  human: "'13 August 2018'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

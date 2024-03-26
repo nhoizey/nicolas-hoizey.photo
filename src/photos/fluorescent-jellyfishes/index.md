@@ -4,8 +4,8 @@ file: fluorescent-jellyfishes.jpg
 alt_text: Photo of blue and white jellyfish in electric blue water
 date: 2008-05-11 09:22:01 +01:00
 dates:
-  iso: 2008-05-11
-  human: 11 May 2008
+  iso: "'2008-05-11'"
+  human: "'11 May 2008'"
 gear:
   short: Canon 350D
   camera:

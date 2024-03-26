@@ -3,8 +3,8 @@ title: An evening on the Trälhavet shore
 file: an-evening-on-the-traelhavet-shore.jpg
 date: 2020-02-03 15:44:52 +01:00
 dates:
-  iso: 2020-02-03
-  human: 3 February 2020
+  iso: "'2020-02-03'"
+  human: "'3 February 2020'"
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

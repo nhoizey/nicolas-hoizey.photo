@@ -5,8 +5,8 @@ alt_text: Macro photo of a lit red candle and small miniature figures of
   volcanologists on the edges (scale 1/87th)
 date: 2021-12-13 22:39:51 +01:00
 dates:
-  iso: 2021-12-13
-  human: 13 December 2021
+  iso: "'2021-12-13'"
+  human: "'13 December 2021'"
 gear:
   short: Fujifilm X-T3 + 80mm macro
   camera:

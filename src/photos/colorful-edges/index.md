@@ -5,8 +5,8 @@ alt_text: Three champagne glasses with colorful neon glow along the edges on a
   dark background.
 date: 2015-01-20 23:32:08 +01:00
 dates:
-  iso: 2015-01-20
-  human: 20 January 2015
+  iso: "'2015-01-20'"
+  human: "'20 January 2015'"
 tags:
   - color
   - colors

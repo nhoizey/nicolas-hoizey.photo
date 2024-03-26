@@ -4,8 +4,8 @@ file: colourful-window-in-burano.jpg
 alt_text: A green window shutter on a vibrant red wall with a small plant box underneath.
 date: 2008-04-26 16:55:21 +01:00
 dates:
-  iso: 2008-04-26
-  human: 26 April 2008
+  iso: "'2008-04-26'"
+  human: "'26 April 2008'"
 gear:
   short: Canon 350D
   camera:

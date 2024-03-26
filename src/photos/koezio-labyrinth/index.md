@@ -5,8 +5,8 @@ alt_text: An indoor maze with neon lights and symbols on the walls, featuring
   glowing circles, stars, and figures in a dark setting.
 date: 2018-06-16 14:41:16 +01:00
 dates:
-  iso: 2018-06-16
-  human: 16 June 2018
+  iso: "'2018-06-16'"
+  human: "'16 June 2018'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

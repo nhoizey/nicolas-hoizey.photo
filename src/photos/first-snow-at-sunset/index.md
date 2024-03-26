@@ -5,8 +5,8 @@ alt_text: Photo of a country landscape with a snow-covered field and the setting
   sun in the background
 date: 2012-12-08 17:20:51 +01:00
 dates:
-  iso: 2012-12-08
-  human: 8 December 2012
+  iso: "'2012-12-08'"
+  human: "'8 December 2012'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

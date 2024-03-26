@@ -5,8 +5,8 @@ alt_text: An adult elephant and a juvenile elephant walking through a grassy
   savanna with trees in the background.
 date: 2019-02-26 16:47:22 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

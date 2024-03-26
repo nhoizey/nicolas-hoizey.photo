@@ -5,8 +5,8 @@ alt_text: Mountain landscape with dark clouds, larch trees turning yellow, and a
   small stream flowing through a grassy field.
 date: 2023-10-19 10:29:16 +01:00
 dates:
-  iso: 2023-10-19
-  human: 19 October 2023
+  iso: "'2023-10-19'"
+  human: "'19 October 2023'"
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

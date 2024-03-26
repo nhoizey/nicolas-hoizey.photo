@@ -5,8 +5,8 @@ alt_text: Mountain landscape with a stream, weathered dwarf juniper roots in the
   foreground, pine trees and jagged peaks under a cloudy sky
 date: 2023-10-16 15:00:32 +01:00
 dates:
-  iso: 2023-10-16
-  human: 16 October 2023
+  iso: "'2023-10-16'"
+  human: "'16 October 2023'"
 gear:
   short: Fujifilm X-H2s + 10-24mm
   camera:

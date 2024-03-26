@@ -5,8 +5,8 @@ alt_text: A woodpecker perched on the side of a tree with a background of blue
   sky and bare branches.
 date: 2016-12-04 16:01:58 +01:00
 dates:
-  iso: 2016-12-04
-  human: 4 December 2016
+  iso: "'2016-12-04'"
+  human: "'4 December 2016'"
 gear:
   short: Fujifilm X-T2 + 100-400mm
   camera:

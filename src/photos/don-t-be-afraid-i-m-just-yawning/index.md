@@ -4,8 +4,8 @@ file: don-t-be-afraid-i-m-just-yawning.jpg
 alt_text: A lion in the grass with its mouth wide open.
 date: 2019-02-28 18:07:43 +01:00
 dates:
-  iso: 2019-02-28
-  human: 28 February 2019
+  iso: "'2019-02-28'"
+  human: "'28 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

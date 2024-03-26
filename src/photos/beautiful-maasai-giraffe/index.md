@@ -3,8 +3,8 @@ title: Beautiful Maasai giraffe
 file: beautiful-maasai-giraffe.jpg
 date: 2019-02-26 07:23:45 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

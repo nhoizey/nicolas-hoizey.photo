@@ -5,8 +5,8 @@ alt_text: Black and white photo of a busy city street with cars and pedestrians,
   old buildings lining the sides, and a hazy skyline in the background.
 date: 2015-05-19 12:29:30 +01:00
 dates:
-  iso: 2015-05-19
-  human: 19 May 2015
+  iso: "'2015-05-19'"
+  human: "'19 May 2015'"
 gear:
   short: Canon 5D II + 135mm
   camera:

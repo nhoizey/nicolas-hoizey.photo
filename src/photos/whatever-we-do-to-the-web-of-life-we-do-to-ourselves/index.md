@@ -3,8 +3,8 @@ title: Whatever we do to the web of life, we do to ourselves
 file: whatever-we-do-to-the-web-of-life-we-do-to-ourselves.jpg
 date: 2015-05-23 18:41:18 +01:00
 dates:
-  iso: 2015-05-23
-  human: 23 May 2015
+  iso: "'2015-05-23'"
+  human: "'23 May 2015'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

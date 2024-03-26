@@ -5,8 +5,8 @@ alt_text: Wooden pier leading to a lighthouse with a lit green beacon during
   sunset, under a clouded sky.
 date: 2004-06-12 21:29:56 +01:00
 dates:
-  iso: 2004-06-12
-  human: 12 June 2004
+  iso: "'2004-06-12'"
+  human: "'12 June 2004'"
 gear:
   short: Konica KD-400Z
   camera:

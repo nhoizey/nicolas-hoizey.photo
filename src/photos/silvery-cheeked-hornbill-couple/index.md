@@ -5,8 +5,8 @@ alt_text: Photo of two large black and white birds with a big yellow beak, on a
   tree branch
 date: 2019-03-04 17:03:59 +01:00
 dates:
-  iso: 2019-03-04
-  human: 4 March 2019
+  iso: "'2019-03-04'"
+  human: "'4 March 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

@@ -4,8 +4,8 @@ file: bacchus-dream.jpg
 alt_text: Photo of multiple bottles of wine full of dust, in a cellar.
 date: 2007-11-03 17:57:54 +01:00
 dates:
-  iso: 2007-11-03
-  human: 3 November 2007
+  iso: "'2007-11-03'"
+  human: "'3 November 2007'"
 gear:
   short: Canon 350D + 17-85mm
   camera:

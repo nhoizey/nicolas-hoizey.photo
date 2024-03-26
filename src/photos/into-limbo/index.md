@@ -5,8 +5,8 @@ alt_text: Photo of mountain silhouettes in atmospheric mist and half-light, with
   a dominant bluish tint
 date: 2002-08-08 09:27:38 +01:00
 dates:
-  iso: 2002-08-08
-  human: 8 August 2002
+  iso: "'2002-08-08'"
+  human: "'8 August 2002'"
 tags:
   - ciel
   - Corse

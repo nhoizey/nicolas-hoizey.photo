@@ -4,8 +4,8 @@ file: coco.jpg
 alt_text: Close-up of a scarlet macaw with vivid red feathers and a large curved beak.
 date: 2008-05-11 14:42:46 +01:00
 dates:
-  iso: 2008-05-11
-  human: 11 May 2008
+  iso: "'2008-05-11'"
+  human: "'11 May 2008'"
 gear:
   short: Canon 350D + 70-300mm
   camera:

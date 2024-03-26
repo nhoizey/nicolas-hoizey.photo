@@ -3,8 +3,8 @@ title: Tubes
 file: tubes.jpg
 date: 2017-10-22 11:12:08 +01:00
 dates:
-  iso: 2017-10-22
-  human: 22 October 2017
+  iso: "'2017-10-22'"
+  human: "'22 October 2017'"
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

@@ -6,8 +6,8 @@ alt_text: A miniature scene featuring a person on a scooter navigating through a
   figure, with a shallow depth of field blurring the foreground and background.
 date: 2011-07-15 11:06:38 +01:00
 dates:
-  iso: 2011-07-15
-  human: 15 July 2011
+  iso: "'2011-07-15'"
+  human: "'15 July 2011'"
 gear:
   short: Canon 5D II + 135mm
   camera:

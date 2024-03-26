@@ -5,8 +5,8 @@ alt_text: A black and white image of a snowy landscape with snow-covered rocks
   in a stream, framed by branches of coniferous trees heavy with snow.
 date: 2014-02-14 11:23:53 +01:00
 dates:
-  iso: 2014-02-14
-  human: 14 February 2014
+  iso: "'2014-02-14'"
+  human: "'14 February 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

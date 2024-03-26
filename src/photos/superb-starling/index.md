@@ -3,8 +3,8 @@ title: Superb Starling
 file: superb-starling.jpg
 date: 2018-10-30 12:46:53 +01:00
 dates:
-  iso: 2018-10-30
-  human: 30 October 2018
+  iso: "'2018-10-30'"
+  human: "'30 October 2018'"
 gear:
   short: Fujifilm X-T2 + 80mm macro
   camera:

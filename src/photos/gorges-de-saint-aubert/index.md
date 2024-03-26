@@ -4,8 +4,8 @@ file: gorges-de-saint-aubert.jpg
 alt_text: Photo of a river under trees filtering the sun light
 date: 2004-08-22 13:56:57 +01:00
 dates:
-  iso: 2004-08-22
-  human: 22 August 2004
+  iso: "'2004-08-22'"
+  human: "'22 August 2004'"
 gear:
   short: Konica KD-400Z
   camera:

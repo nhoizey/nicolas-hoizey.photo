@@ -3,8 +3,8 @@ title: In the starting blocks for the men's 110m hurdles
 file: in-the-starting-blocks-for-the-men-s-110m-hurdles.jpg
 date: 2018-05-13 14:58:53 +01:00
 dates:
-  iso: 2018-05-13
-  human: 13 May 2018
+  iso: "'2018-05-13'"
+  human: "'13 May 2018'"
 gear:
   short: Fujifilm X-T2 + 100-400mm
   camera:

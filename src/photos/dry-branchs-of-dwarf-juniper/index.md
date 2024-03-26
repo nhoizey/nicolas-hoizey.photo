@@ -5,8 +5,8 @@ alt_text: A rocky alpine landscape with a stream, sparse vegetation, and rugged
   mountains in the background under a cloudy sky.
 date: 2023-10-17 15:02:55 +01:00
 dates:
-  iso: 2023-10-17
-  human: 17 October 2023
+  iso: "'2023-10-17'"
+  human: "'17 October 2023'"
 gear:
   short: Fujifilm X-H2s + 10-24mm
   camera:

@@ -4,8 +4,8 @@ file: ruisseau-du-chardonnet.jpg
 alt_text: Autumnal mountain landscape with larch trees and a stream.
 date: 2023-10-19 15:13:21 +01:00
 dates:
-  iso: 2023-10-19
-  human: 19 October 2023
+  iso: "'2023-10-19'"
+  human: "'19 October 2023'"
 gear:
   short: Fujifilm X-H2s + 10-24mm
   camera:

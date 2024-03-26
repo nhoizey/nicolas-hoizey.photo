@@ -3,8 +3,8 @@ title: Lesser blue-eared starling
 file: lesser-blue-eared-starling.jpg
 date: 2018-10-30 12:56:35 +01:00
 dates:
-  iso: 2018-10-30
-  human: 30 October 2018
+  iso: "'2018-10-30'"
+  human: "'30 October 2018'"
 gear:
   short: Fujifilm X-T2 + 80mm macro
   camera:

@@ -5,8 +5,8 @@ alt_text: Coastline with boulders in the water, houses amid trees in the
   background, and a clear blue sky.
 date: 2013-08-23 08:56:01 +01:00
 dates:
-  iso: 2013-08-23
-  human: 23 August 2013
+  iso: "'2013-08-23'"
+  human: "'23 August 2013'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:

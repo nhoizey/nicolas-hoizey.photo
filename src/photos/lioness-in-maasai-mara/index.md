@@ -4,8 +4,8 @@ file: lioness-in-maasai-mara.jpg
 alt_text: A lioness standing in a grassy field with sunlit vegetation in the background.
 date: 2019-02-26 08:11:57 +01:00
 dates:
-  iso: 2019-02-26
-  human: 26 February 2019
+  iso: "'2019-02-26'"
+  human: "'26 February 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

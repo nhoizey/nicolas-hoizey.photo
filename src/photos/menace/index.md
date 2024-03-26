@@ -3,8 +3,8 @@ title: Menace
 file: menace.jpg
 date: 2017-05-19 19:57:22 +01:00
 dates:
-  iso: 2017-05-19
-  human: 19 May 2017
+  iso: "'2017-05-19'"
+  human: "'19 May 2017'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

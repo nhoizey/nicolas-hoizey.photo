@@ -3,8 +3,8 @@ title: Juvenile European Roller… in Africa
 file: juvenile-european-roller-in-africa.jpg
 date: 2019-03-02 07:38:24 +01:00
 dates:
-  iso: 2019-03-02
-  human: 2 March 2019
+  iso: "'2019-03-02'"
+  human: "'2 March 2019'"
 gear:
   short: Fujifilm X-T3 + 100-400mm + 1.4×
   camera:

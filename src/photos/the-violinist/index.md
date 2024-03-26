@@ -4,8 +4,8 @@ file: the-violinist.jpg
 alt_text: Photo of a violinist on a square in Rome.
 date: 2017-05-14 10:28:17 +01:00
 dates:
-  iso: 2017-05-14
-  human: 14 May 2017
+  iso: "'2017-05-14'"
+  human: "'14 May 2017'"
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

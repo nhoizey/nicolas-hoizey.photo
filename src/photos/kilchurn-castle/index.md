@@ -5,8 +5,8 @@ alt_text: Ruined castle by a lake with rolling hills in the background under a
   cloudy sky.
 date: 2014-04-30 17:11:41 +01:00
 dates:
-  iso: 2014-04-30
-  human: 30 April 2014
+  iso: "'2014-04-30'"
+  human: "'30 April 2014'"
 gear:
   short: Canon 5D II + 24-70mm
   camera:
