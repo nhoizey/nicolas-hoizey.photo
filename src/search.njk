@@ -16,7 +16,7 @@ title: "Search"
 <div id="search"></div>
 <script>
   window.addEventListener('DOMContentLoaded', (event) => {
-    new PagefindUI(
+    const search_ui = new PagefindUI(
       {
         element: "#search",
         autofocus: true,
@@ -38,8 +38,17 @@ title: "Search"
           alt_search: "No photo found for “[SEARCH_TERM]”. Showing photos for “[DIFFERENT_TERM]” instead:",
           search_suggestion: "No photo found for “[SEARCH_TERM]”. Try one of the following searches:",
           searching: "Searching for “[SEARCH_TERM]”…"
+        },
+        processTerm: function (term) {
+          history.replaceState({}, "", `?q=${encodeURIComponent(term)}`);
+          return term;
         }
       });
+
+      const params = new URLSearchParams(window.location.search);
+      if (params.has('q')) {
+        search_ui.triggerSearch(params.get('q'));
+      }
   });
 </script>
 {% endblock %}
