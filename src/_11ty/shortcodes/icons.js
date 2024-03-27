@@ -30,6 +30,7 @@ const ICONS = {
   share: { name: 'share-line', source: 'majesticons' },
   lens: { name: 'telescope-line', source: 'majesticons' },
   shutter_speed: { name: 'timer-line', source: 'majesticons' },
+  search: { name: 'search-line', source: 'majesticons' },
   aperture: { name: 'aperture', source: 'feather' },
   statistics: { name: 'pie-chart', source: 'feather' },
   download: { name: 'download', source: 'feather' },

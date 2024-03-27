@@ -1,12 +1,14 @@
 ---
-layout: false
-permalink: search/index.html
 title: "Search"
+layout: page
+nav:
+  order: 3
+  icon: search
 ---
 
-{% extends "./_layouts/base.njk" %}
+{# {% extends "./_layouts/base.njk" %} #}
 
-{% block content %}
+{# {% block content %} #}
 
 {% from "macros/css.njk" import css %}
 {{ css('components/pagefind', build.env) }}
@@ -51,4 +53,4 @@ title: "Search"
       }
   });
 </script>
-{% endblock %}
+{# {% endblock %} #}
