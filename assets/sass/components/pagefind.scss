@@ -275,6 +275,11 @@ details legend {
   transform: translateY(-70%) rotate(-45deg);
 }
 
+.pagefind-ui__filter-block:not(:has(.pagefind-ui__filter-value)) {
+  // Hide filter groups without values
+  display: none;
+}
+
 .pagefind-ui__filter-block[open]
   .pagefind-ui__filter-name:after {
   transform: translateY(-70%) rotate(-225deg);
