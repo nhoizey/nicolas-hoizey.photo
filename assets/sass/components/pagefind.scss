@@ -320,3 +320,10 @@ details legend {
   font-size: 1rem;
   font-weight: 400;
 }
+
+// Hide skeleton loading
+.pagefind-ui__loading {
+  color: transparent;
+  background-color: transparent;
+  pointer-events: none;
+}
