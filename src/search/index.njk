@@ -44,6 +44,11 @@ nav:
         processTerm: function (term) {
           history.replaceState({}, "", `?q=${encodeURIComponent(term)}`);
           return term;
+        },
+        processResult: function (result) {
+          // Remove the title from the excerpt if it's not highlighted
+          result.excerpt = result.excerpt.replace(`${result.meta.title}. `, '');
+          return result;
         }
       });
 
