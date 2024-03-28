@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-03-27T06:07:20.164Z",
+  "lastFetched": "2024-03-28T06:07:24.069Z",
   "webmentions": [
     {
       "type": "entry",
@@ -79050,6 +79050,66 @@
       },
       "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/f649b179c41a3fcce750f4ad095256d02558adb9e1675583fa22b3df257cfcd2.jpg",
+        "url": "https://www.flickr.com/people/nicolas-hoizey/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53611406319/#comment72157720345430440",
+      "published": "2024-03-27T07:52:51+00:00",
+      "wm-received": "2024-03-27T08:38:14Z",
+      "wm-id": 1798338,
+      "wm-source": "https://brid.gy/comment/flickr/38608514@N00/53611406319/204349-53611406319-72157720345430440",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "[https://www.flickr.com/photos/23472949@N07] oh great… but what is the point of this comment?"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Aleksandar Damcheski",
+        "photo": "https://webmention.io/avatar/farm66.staticflickr.com/a27500a6713861fd31cee22412e4e1f1e6bfd5fdb5c66ba5b087908403b0b10d.jpg",
+        "url": "https://www.flickr.com/people/147560263@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53611406319/#liked-by-147560263@N02",
+      "published": "2024-03-27T13:35:50Z",
+      "wm-received": "2024-03-27T13:35:50Z",
+      "wm-id": 1798401,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53611406319/147560263@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "zirano",
+        "photo": "https://webmention.io/avatar/farm8.staticflickr.com/5a47eaea3e6082540aa69104f1c10c99a33a1a95691fd890ea66b5134e9d0cc1.jpg",
+        "url": "https://www.flickr.com/people/47954533@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53611406319/#liked-by-47954533@N02",
+      "published": "2024-03-27T17:15:20Z",
+      "wm-received": "2024-03-27T17:15:20Z",
+      "wm-id": 1798455,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53611406319/47954533@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
