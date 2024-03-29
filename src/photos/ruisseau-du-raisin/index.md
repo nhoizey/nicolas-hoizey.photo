@@ -77,6 +77,7 @@ geo:
   longitude: 6.535236388333333
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 188 140 90
   darkVibrant: 101 81 41
@@ -85,9 +86,6 @@ colors:
   darkMuted: 80 73 56
   lightMuted: 137 158 187
 lqip: data:image/webp;base64,UklGRtABAABXRUJQVlA4IMQBAACQDwCdASpkAEMAP3Gkx1s0q6grLbM9MpAuCU1c2iAbGvQ/MZQw/YZFE9CDBfHd0hFrbtVSa1thuvyi4AxL8AiumhlYrsDtShbiCGpPuewYtU9uPsU5BCT7ESBWIaKjApvKyBmFptlHEkfYuEzAaAGOwp/QKUL8zPxbr8g8BJeRmuQGxATwAPk0isHuOxiw6wcLk3PCobu2YYUcqlET4C/Wl4T9FhQwLK0CA5+9kX+v7kFpBsisz8BRwjXL/LejAIzGclpGTpT7HFuLsbWnm6vbb0v6G4iSVXndJk30hgseoOrUd/YcmFmGcN+VGw/ZHBszy6Jhcvspd4MUceBa1SCtwGTqKu/wsjJwQhUjJAngQZnDO6rP2IXsFYiq0qlQfkSrIW3oy3PwLTXTWQW574ZQaoSWqu7kX7eTp2c+FBa2fAwDadba33Rt8ZFQTZe0DzlaygKylbe3BwaGixQ+08oV1zQWTs6bUZVqgb77E0d3ZcxMnpnhDSOK+HeB+4/VWOEjcvv8XxzEk/yK9J6LuU4iwS3z28Qnwcs1OJ+FLFPWb14fdTP3Kx23vMCG08E4PntWxGxxvf+vWbyHHHhTRR+0wgAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Ruisseau du Raisin meanders beneath the Queyrellin ridge in the Chardonnet valley.
