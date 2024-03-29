@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: POSSE photos to Pixelfed
-        uses: nhoizey/github-action-jsonfeed-to-mastodon@canary
+        uses: nhoizey/github-action-feed-to-mastodon@canary
         with:
           feedUrl: 'https://nicolas-hoizey.photo/feeds/pixelfed/photos.json'
           mastodonInstance: ${{ secrets.PIXELFED_URL }}
