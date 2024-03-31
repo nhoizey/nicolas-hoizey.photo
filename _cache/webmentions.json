@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2024-03-30T06:06:29.775Z",
+  "lastFetched": "2024-03-31T06:06:58.685Z",
   "webmentions": [
     {
       "type": "entry",
@@ -79360,6 +79360,25 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "kaimo09",
+        "photo": "https://webmention.io/avatar/farm5.staticflickr.com/e0a4afcd5df9d8cc35a55f22857f18c8d667f904b3a777596a548d5419ce2279.jpg",
+        "url": "https://www.flickr.com/people/153492252@N02/"
+      },
+      "url": "https://www.flickr.com/photos/nicolas-hoizey/53590891791/#liked-by-153492252@N02",
+      "published": "2024-03-30T12:45:29Z",
+      "wm-received": "2024-03-30T12:45:29Z",
+      "wm-id": 1799437,
+      "wm-source": "https://brid.gy/like/flickr/38608514@N00/53590891791/153492252@N02",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
       "wm-property": "like-of",
       "wm-private": false
     }
