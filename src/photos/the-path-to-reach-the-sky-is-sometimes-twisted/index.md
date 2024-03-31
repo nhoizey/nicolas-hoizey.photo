@@ -3,7 +3,7 @@ title: The path to reach the sky is sometimes twisted
 file: the-path-to-reach-the-sky-is-sometimes-twisted.jpg
 alt_text: A crooked tree in a field with dry grass, coniferous trees in the
   background, and mountains partially obscured by mist.
-date: 2023-10-18 13:50:34 +01:00
+date: 2023-10-18 14:50:34 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
@@ -21,11 +21,13 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - Conifer
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

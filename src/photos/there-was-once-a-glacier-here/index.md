@@ -4,7 +4,7 @@ file: there-was-once-a-glacier-here.jpg
 alt_text: A moody landscape showing rugged mountains under a cloudy sky with a
   dark rocky hillside to the right, undulating brown grassland, and several
   small winding streams or pools of water.
-date: 2023-10-19 14:22:36 +01:00
+date: 2023-10-19 15:22:36 +02:00
 dates:
   iso: "'2023-10-19'"
   human: "'19 October 2023'"
@@ -21,11 +21,13 @@ gear:
 tags:
   - Alpes
   - Arrondissement de Briançon
+  - automne
   - ciel
   - Clarée
   - cloud
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

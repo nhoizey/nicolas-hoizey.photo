@@ -3,7 +3,7 @@ title: Dry branchs of dwarf juniper
 file: dry-branchs-of-dwarf-juniper.jpg
 alt_text: A rocky alpine landscape with a stream, sparse vegetation, and rugged
   mountains in the background under a cloudy sky.
-date: 2023-10-17 15:02:55 +01:00
+date: 2023-10-17 16:02:55 +02:00
 dates:
   iso: "'2023-10-17'"
   human: "'17 October 2023'"
@@ -21,12 +21,14 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - Conifer
   - conifère
   - eau
   - Europa
   - Europe
+  - fall
   - France
   - genévrier de Sibérie
   - genévrier nain

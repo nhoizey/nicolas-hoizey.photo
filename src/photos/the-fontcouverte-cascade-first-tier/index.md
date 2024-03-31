@@ -3,7 +3,7 @@ title: The Fontcouverte cascade first tier
 file: the-fontcouverte-cascade-first-tier.jpg
 alt_text: A cascading waterfall with multiple levels flowing over rocks,
   surrounded by pine trees under a partly cloudy sky.
-date: 2023-10-18 16:09:14 +01:00
+date: 2023-10-18 17:09:14 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
@@ -21,6 +21,7 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - cascade
   - cascade de Fontcouverte
   - Clarée
@@ -28,6 +29,7 @@ tags:
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

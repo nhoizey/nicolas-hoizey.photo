@@ -2,7 +2,7 @@
 title: Running water
 file: running-water.jpg
 alt_text: A cascade of water flowing over rocky steps, partially covered in moss.
-date: 2023-10-18 16:31:05 +01:00
+date: 2023-10-18 17:31:05 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
@@ -19,12 +19,14 @@ gear:
 tags:
   - Alpes
   - Arrondissement de Briançon
+  - automne
   - cascade
   - cascade de Fontcouverte
   - Clarée
   - eau
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

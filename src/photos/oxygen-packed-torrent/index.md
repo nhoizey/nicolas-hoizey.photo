@@ -2,7 +2,7 @@
 title: Oxygen-packed torrent
 file: oxygen-packed-torrent.jpg
 alt_text: A small waterfall in a mountain forest with autumn leaves
-date: 2023-10-19 11:18:41 +01:00
+date: 2023-10-19 12:18:41 +02:00
 dates:
   iso: "'2023-10-19'"
   human: "'19 October 2023'"
@@ -19,10 +19,12 @@ gear:
 tags:
   - Alpes
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - eau
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

@@ -3,7 +3,7 @@ title: Still water of Lac de la Cula
 file: still-water-of-lac-de-la-cula.jpg
 alt_text: A serene landscape featuring a smooth lake with a single rock near the
   shore, surrounded by rolling hills under a cloudy sky.
-date: 2023-10-17 14:39:09 +01:00
+date: 2023-10-17 15:39:09 +02:00
 dates:
   iso: "'2023-10-17'"
   human: "'17 October 2023'"
@@ -20,9 +20,11 @@ gear:
 tags:
   - Alpes
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - lac

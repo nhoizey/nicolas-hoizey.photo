@@ -4,7 +4,7 @@ file: ruisseau-du-raisin.jpg
 alt_text: A mountain stream flows through an autumnal landscape with
   golden-orange larch trees and rugged peaks in the background under an overcast
   sky.
-date: 2023-10-19 10:56:57 +01:00
+date: 2023-10-19 11:56:57 +02:00
 dates:
   iso: "'2023-10-19'"
   human: "'19 October 2023'"
@@ -22,11 +22,13 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - Conifer
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

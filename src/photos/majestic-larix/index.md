@@ -3,7 +3,7 @@ title: Majestic Larix
 file: majestic-larix.jpg
 alt_text: A lone tree stands in a grassy field with a backdrop of forested hills
   and stormy clouds above.
-date: 2023-10-18 14:26:57 +01:00
+date: 2023-10-18 15:26:57 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
@@ -21,12 +21,14 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - brook
   - Clarée
   - Conifer
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

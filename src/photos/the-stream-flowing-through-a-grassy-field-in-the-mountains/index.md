@@ -3,7 +3,7 @@ title: The stream flowing through a grassy field in the mountains
 file: the-stream-flowing-through-a-grassy-field-in-the-mountains.jpg
 alt_text: Mountain landscape with dark clouds, larch trees turning yellow, and a
   small stream flowing through a grassy field.
-date: 2023-10-19 10:29:16 +01:00
+date: 2023-10-19 11:29:16 +02:00
 dates:
   iso: "'2023-10-19'"
   human: "'19 October 2023'"
@@ -21,6 +21,7 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - ciel
   - Clarée
   - cloud
@@ -29,6 +30,7 @@ tags:
   - eau
   - Europa
   - Europe
+  - fall
   - France
   - grass
   - Hautes-Alpes

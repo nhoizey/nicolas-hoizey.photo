@@ -4,7 +4,7 @@ file: one-does-not-simply-walk-into-mordor.jpg
 alt_text: A dark, gloomy landscape in a mountainous region with a lone figure
   walking along a path, surrounded by cloudy skies and rugged terrain. The
   vision is blurred by drops of water deposited on the photographic lens.
-date: 2023-10-19 14:09:58 +01:00
+date: 2023-10-19 15:09:58 +02:00
 dates:
   iso: "'2023-10-19'"
   human: "'19 October 2023'"
@@ -21,9 +21,11 @@ gear:
 tags:
   - Alpes
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

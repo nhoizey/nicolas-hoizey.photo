@@ -3,7 +3,7 @@ title: Waterfall on the Chardonnet
 file: waterfall-on-the-chardonnet.jpg
 alt_text: A mountain stream flowing through an autumnal forest with golden and
   green trees, under an overcast sky.
-date: 2023-10-19 15:26:04 +01:00
+date: 2023-10-19 16:26:04 +02:00
 dates:
   iso: "'2023-10-19'"
   human: "'19 October 2023'"
@@ -21,12 +21,14 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - cascade
   - Clarée
   - Conifer
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

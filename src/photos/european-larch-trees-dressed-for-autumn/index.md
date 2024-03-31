@@ -3,7 +3,7 @@ title: European larch trees dressed for autumn
 file: european-larch-trees-dressed-for-autumn.jpg
 alt_text: A misty mountain landscape with larch trees in autumn colors and a dry
   grassy field.
-date: 2023-10-18 13:48:31 +01:00
+date: 2023-10-18 14:48:31 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
@@ -21,11 +21,13 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - Conifer
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

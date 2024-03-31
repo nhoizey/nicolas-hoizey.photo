@@ -3,7 +3,7 @@ title: Lac de la Cula
 file: lac-de-la-cula.jpg
 alt_text: Mountain landscape with a clear blue lake, foreground of colorful
   foliage, and rugged peaks against a cloudy sky.
-date: 2023-10-17 13:44:02 +01:00
+date: 2023-10-17 14:44:02 +02:00
 dates:
   iso: "'2023-10-17'"
   human: "'17 October 2023'"
@@ -20,12 +20,14 @@ gear:
 tags:
   - Alpes
   - Arrondissement de Briançon
+  - automne
   - ciel
   - Clarée
   - cloud
   - eau
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - lac

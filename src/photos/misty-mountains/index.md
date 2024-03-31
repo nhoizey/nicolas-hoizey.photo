@@ -2,7 +2,7 @@
 title: Misty Mountains
 file: misty-mountains.jpg
 alt_text: Mountain peaks shrouded in mist with a dark forest in the foreground.
-date: 2023-10-18 14:06:02 +01:00
+date: 2023-10-18 15:06:02 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
@@ -20,11 +20,13 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - Conifer
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

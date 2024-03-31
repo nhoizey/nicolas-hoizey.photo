@@ -3,7 +3,7 @@ title: Equally surprised
 file: equally-surprised.jpg
 alt_text: Photo of an stoat on a rock, looking in our direction, with one of its
   front paws raised.
-date: 2023-10-16 13:45:37 +01:00
+date: 2023-10-16 14:45:37 +02:00
 dates:
   iso: "'2023-10-16'"
   human: "'16 October 2023'"
@@ -24,9 +24,11 @@ tags:
   - animalière
   - animaux sauvages
   - Arrondissement de Briançon
+  - automne
   - Clarée
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - hermine

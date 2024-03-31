@@ -2,7 +2,7 @@
 title: The Fontcouverte cascade second tier
 file: the-fontcouverte-cascade-second-tier.jpg
 alt_text: A cascading waterfall in a forest with autumn-colored trees.
-date: 2023-10-18 16:19:27 +01:00
+date: 2023-10-18 17:19:27 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
@@ -20,6 +20,7 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - cascade
   - cascade de Fontcouverte
   - Clarée
@@ -27,6 +28,7 @@ tags:
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

@@ -2,7 +2,7 @@
 title: The magnificent Fontcouverte cascade
 file: the-magnificent-fontcouverte-cascade.jpg
 alt_text: A cascading waterfall amidst a forest with autumn-colored foliage.
-date: 2023-10-18 15:53:23 +01:00
+date: 2023-10-18 16:53:23 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
@@ -20,6 +20,7 @@ tags:
   - Alpes
   - arbre
   - Arrondissement de Briançon
+  - automne
   - cascade
   - cascade de Fontcouverte
   - Clarée
@@ -27,6 +28,7 @@ tags:
   - conifère
   - Europa
   - Europe
+  - fall
   - France
   - Hautes-Alpes
   - landscape

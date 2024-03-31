@@ -2,7 +2,7 @@
 title: Ruisseau du Chardonnet
 file: ruisseau-du-chardonnet.jpg
 alt_text: Autumnal mountain landscape with larch trees and a stream.
-date: 2023-10-19 15:13:21 +01:00
+date: 2023-10-19 16:13:21 +02:00
 dates:
   iso: "'2023-10-19'"
   human: "'19 October 2023'"
