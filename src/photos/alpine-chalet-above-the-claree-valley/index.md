@@ -71,6 +71,7 @@ geo:
   longitude: 6.546872541666667
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 200 170 55
   darkVibrant: 40 34 11
@@ -79,9 +80,6 @@ colors:
   darkMuted: 87 72 47
   lightMuted: 180 189 209
 lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAABQDgCdASpkAEMAP3Giwlk0v7ejtBLrs/AuCWVtk4AFRaULf/2T2Z5cQSF6ViqgupMHioo+akpU4KhBUpn7OAkvVzGBXTXoobXt0fDhQ8epGmaciBP9Bm5JPEMDHqGjbZjju/jexedmFpP4eLteVz94xsYjsbVi+BFh6EAA/FPKA4eYV1bOQetyc70vDGD4hGFh8Vxh4Nac1PcY4o+wca2xn9Fhz7nWQpnQhpEoIw4HiOKC+JMs1VzgwljrMJXFBOLRYRo0eyEPKw+dfm+gW8tZbRKMwnGz9aAQL/P3jcP8YB7Caj5n9/53Uzfk+poqX3Ze9CuPbBk5LkP2m5YifmXawsmg1vn7V661nWtMHgc3MyBevBnB2kbwhw9RDYvBWWG9kZ9Nd8y6DVJKrZbOiRznSSgrznbCy2e+9IVr0G9hSDPImFO6kgrbOKTkeslhQZIKq8mkAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Alpine chalets are small dwellings usually found far from the main roads.

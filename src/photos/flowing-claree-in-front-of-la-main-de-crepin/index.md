@@ -75,6 +75,7 @@ geo:
   longitude: 6.522606106666666
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 60 96 128
   darkVibrant: 92 52 28
@@ -83,13 +84,8 @@ colors:
   darkMuted: 41 53 69
   lightMuted: 175 190 209
 lqip: data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAACQDwCdASpkAEMAP1mWw1iyKygqNfn8WkArCWMAzcUruF+qFQTReDsMna6bpd6RMA4Rznc06n9lL6WQ1t7c4al7qpGrkiSJpM3cV/tqrbkHo2BeHQ/5aERnrZft2hqh+20eIeBboHP6dzIF/aN1GEv45R8v2PcVpMso3UMfk4nYZqKpqRiAAPgr54dwjR5aG0OqJzq9boSgBsbuCHKdI8mElUjU63zS6MMAwfe+kUSRhd9EROW9KHHzMonRQya4NTt+Ky/lc9Y1b9NT2A8hJN6n74dnjtteDX3Uy7v1onXQo/VHgG9uuRX+W0wQZR/69tU6jmWQtROI7T1VB1WoDL/1jnkqf0U35xMW1l7o/Rs6gtpeg9kgAXiKo2CnSgBC4Xyl65qrTNjK07XP9LMV5+qj0ZN7oP7ZniX/62HfTxSDkBC8ZnolnQ9WGwXD5gCrUTij0QVdq1JXJwRgFQV8ZP1BrBRmOREfd0S5axnhX2QvZ3g4WUqy4nouAF4gSEdUE72AOVPiZ7l/jl9rEKlQXCA7x1cA1CfNAr1ZDMqgebFjDQ8L1gNimte06NcUAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Here, the Moutet stream flows into the Clarée, which continues down the valley towards Névache, towards the Durance.
 
 The Durance is a much weaker torrent than its tributaries the Clarée and the Guisane, which are nonetheless very small in comparison. If the name Durance predominates over those of these two torrents, it is probably because the Durance valley is an important and ancient communication route, whereas the Clarée and Guisane valleys are dead ends.
-
-Translated with www.DeepL.com/Translator (free version)
