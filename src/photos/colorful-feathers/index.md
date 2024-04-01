@@ -3,7 +3,7 @@ title: Colorful feathers
 file: colorful-feathers.jpg
 alt_text: Close-up of colorful parrot feathers, showcasing vibrant yellow, red,
   and blue hues.
-date: 2008-05-11 14:43:53 +01:00
+date: 2008-05-11 15:43:53 +02:00
 dates:
   iso: "'2008-05-11'"
   human: "'11 May 2008'"
@@ -19,13 +19,25 @@ gear:
       model: EF 70-300mm f/4-5.6 IS USM
       short: 70-300mm
 tags:
+  - animal
+  - Ara
+  - Ara macao
+  - Ara rouge
+  - Arinae
+  - bird
+  - birds
   - dierenpark
   - Europa
   - Europe
   - Nederland
+  - oiseau
+  - Oiseaux
   - Ouwehands Dierenpark
   - Pays-Bas
+  - Psittacidae
+  - Psittaciformes
   - Rhenen
+  - Scarlet macaw
   - The Netherlands
   - Utrecht
   - zoo

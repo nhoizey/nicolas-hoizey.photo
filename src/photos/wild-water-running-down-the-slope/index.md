@@ -42,8 +42,9 @@ tags:
   - plant
   - pose longue
   - Provence-Alpes-Côte d'Azur
+  - rivière
   - ruisseau
-  - Ruisseau du Raisin
+  - ruisseau du Raisin
   - stream
   - torrent
   - tree
@@ -77,10 +78,11 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.026600555
-  longitude: 6.533689721666667
+  latitude: 45.026547475
+  longitude: 6.533791645
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 123 96 34
   darkVibrant: 76 68 8
@@ -89,9 +91,6 @@ colors:
   darkMuted: 85 60 48
   lightMuted: 123 137 171
 lqip: data:image/webp;base64,UklGRqIBAABXRUJQVlA4IJYBAACQDgCdASpkAEMAP3Gkxls0v6ikL5Lcc/AuCU1Ya0ZM9ZcuClbIdwELJhi2Ho85QEjxAdpSe0TFg2joJnYg3QJ75Sxq7UR6JpeDTA1+hNlHYghm9XQDMRwyasOzUrZgFG/xgFpGduxJPKj/Nhh4XVs2LU0CpjGXiUkOoimYQAD+6So25kJjy4lwDIBBuv32cGCnVBAXuYXVkdcQP9SEX3UItZS4siGtNQ9ijO+Ji4ROTWCfQ76wh/SPSQfSNh2xckz52miC83lC53vLTqPoPH2+gDEAUECup/ODdSD0Ws4cDNol4mEAYKgKopMIB0HHy6YR8KVdmbspFMbfqKrK8sFWvmKjvFSWt/XdfJDNV2lKFUSTdUS+HuQpGoQkw4SXvT6MhwZZqqiOcxLMA9qGLlr7BrOjsnYhb+G8jP+mYVxiMNI905VdcmVpvJU6J2Ys3kxKyyJ5Hgs+Kl89yTR+gwmbXMyMZ4tDmAw4AssHsyk6Wj6bhi5vx3NLsDYIuUdGBbY0CCNt95B0b687uty2unVktimHgAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Torrents are steeply sloping streams.

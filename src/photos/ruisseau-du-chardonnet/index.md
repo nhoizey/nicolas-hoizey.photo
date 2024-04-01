@@ -21,6 +21,7 @@ tags:
   - arbre
   - Arrondissement de Briançon
   - automne
+  - brook
   - Clarée
   - Conifer
   - conifère
@@ -40,7 +41,8 @@ tags:
   - Provence-Alpes-Côte d'Azur
   - river
   - rivière
-  - Ruisseau du Chardonnet
+  - ruisseau
+  - ruisseau du Chardonnet
   - stream
   - torrent
   - tree
@@ -73,8 +75,8 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 45.03087638833333
-  longitude: 6.527708333333333
+  latitude: 45.03123768333333
+  longitude: 6.529071025
   country: France
   city: Névache
   map: true

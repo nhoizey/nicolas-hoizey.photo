@@ -21,6 +21,7 @@ tags:
   - Alpes
   - Arrondissement de Briançon
   - automne
+  - brook
   - Clarée
   - Europa
   - Europe
@@ -37,7 +38,10 @@ tags:
   - paysage
   - plant
   - Provence-Alpes-Côte d'Azur
-  - Ruisseau du Chardonnet
+  - rivière
+  - ruisseau
+  - ruisseau du Chardonnet
+  - stream
   - vallée
   - Vallée de la Clarée
   - végétal
@@ -67,8 +71,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.025935
-  longitude: 6.523744721666667
+  latitude: 45.02592741666667
+  longitude: 6.523841281666667
   country: France
   city: Névache
   map: true

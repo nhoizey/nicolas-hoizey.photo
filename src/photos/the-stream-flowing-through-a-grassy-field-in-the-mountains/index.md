@@ -22,6 +22,7 @@ tags:
   - arbre
   - Arrondissement de Briançon
   - automne
+  - brook
   - ciel
   - Clarée
   - cloud
@@ -47,7 +48,8 @@ tags:
   - Provence-Alpes-Côte d'Azur
   - river
   - rivière
-  - Ruisseau du Raisin
+  - ruisseau
+  - ruisseau du Raisin
   - sky
   - stream
   - torrent
@@ -82,8 +84,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.028341945
-  longitude: 6.536159445
+  latitude: 45.02754575833333
+  longitude: 6.535440613333334
   country: France
   city: Névache
   map: true
