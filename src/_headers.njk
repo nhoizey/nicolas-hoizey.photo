@@ -42,11 +42,6 @@ permalink: _headers
 {%- set cspConnectSrc = cspConnectSrc + " " + "https://*.tiles.mapbox.com https://api.mapbox.com https://events.mapbox.com" -%}
 {#- / Mapbox -#}
 
-{#- Cloudflare -#}
-{# {%- set cspScriptSrc = cspScriptSrc + " " + "https://static.cloudflareinsights.com" -%} #}
-{# {%- set cspConnectSrc = cspConnectSrc + " " + "https://cloudflareinsights.com" -%} #}
-{#- / Cloudflare -#}
-
 {#- ResponsiveImageLint bookmarklet -#}
 {%- set cspScriptSrc = cspScriptSrc + " " + "https://ausi.github.io/respimagelint/" -%}
 {%- set cspChildSrc = cspChildSrc + " " + "'self' https://ausi.github.io/respimagelint/" -%}
