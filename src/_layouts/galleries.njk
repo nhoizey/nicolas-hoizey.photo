@@ -20,10 +20,10 @@
     {{ css('components/flag', build.env) }}
     {% flagSvg flag %}
   {% endif %}
-  <h1>{{ title }}</h1>
+  <h1 data-pagefind-meta="title" data-pagefind-body data-pagefind-filter="00. Page type:Gallery">{{ title }}</h1>
 
   {{ css('components/gallery_content', build.env) }}
-  <div class="gallery__content">
+  <div class="gallery__content" data-pagefind-body>
     {{ content | safe }}
   </div>
 

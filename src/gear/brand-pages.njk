@@ -16,14 +16,14 @@ permalink: /gear/{{ brand.slug }}/
 
 {% block content %}
 
-{% if brand.photo or brand.description %}
-  {% if brand.photo %}
-    <img src="/{{ brand.photo }}" class="logo" data-responsiver="logo" />
-  {% endif %}
+{% if brand.logo %}
+  <img src="/{{ brand.logo }}" class="logo" data-responsiver="logo" data-pagefind-meta="image[src]" />
+{% else %}
+  <span data-pagefind-meta="image:"></span>
+{% endif %}
 
-  {% if brand.description %}
-    {{ brand.description | markdownify | safe }}
-  {% endif %}
+{% if brand.description %}
+  {{ brand.description | markdownify | safe }}
 {% endif %}
 
 {{ css('components/photos', build.env) }}

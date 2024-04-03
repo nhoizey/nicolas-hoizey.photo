@@ -13,9 +13,10 @@
   <div class="tag">
     <div class="header">
       {% include 'components/breadcrumb.njk' %}
-      <h1>{{ title }}</h1>
+      <h1 data-pagefind-meta="title" data-pagefind-body data-pagefind-filter="00. Page type:Gear">{{ title }}</h1>
     </div>
-
+    <div data-pagefind-body>
     {{ content | safe }}
+    </div>
   </div>
 {% endblock %}

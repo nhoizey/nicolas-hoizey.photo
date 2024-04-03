@@ -10,7 +10,7 @@ nav:
 {{ css('components/pagefind', build.env) }}
 
 <script src="/pagefind/pagefind-ui.js"></script>
-<h1>Search photos</h1>
+<h1>Search content</h1>
 <div id="search"></div>
 <script>
   window.addEventListener('DOMContentLoaded', (event) => {
@@ -23,18 +23,19 @@ nav:
         excerptLength: 50,
         showImages: true,
         showSubResults: false,
+        openFilters: ['00. Page type'],
         resetStyles: false,
         translations: {
           placeholder: "Type your search…",
           clear_search: "Clear",
-          load_more: "Load more photos",
+          load_more: "Load more results",
           search_label: "Search this site",
           filters_label: "Filters",
-          zero_results: "No photo found for “[SEARCH_TERM]”.",
-          many_results: "[COUNT] photos found for “[SEARCH_TERM]”:",
-          one_result: "[COUNT] photo found for “[SEARCH_TERM]”:",
-          alt_search: "No photo found for “[SEARCH_TERM]”. Showing photos for “[DIFFERENT_TERM]” instead:",
-          search_suggestion: "No photo found for “[SEARCH_TERM]”. Try one of the following searches:",
+          zero_results: "No result found for “[SEARCH_TERM]”.",
+          many_results: "[COUNT] results found for “[SEARCH_TERM]”:",
+          one_result: "[COUNT] result found for “[SEARCH_TERM]”:",
+          alt_search: "No result found for “[SEARCH_TERM]”. Showing results for “[DIFFERENT_TERM]” instead:",
+          search_suggestion: "No result found for “[SEARCH_TERM]”. Try one of the following searches:",
           searching: "Searching for “[SEARCH_TERM]”…"
         },
         processTerm: function (term) {
@@ -44,6 +45,10 @@ nav:
         processResult: function (result) {
           // Remove the title from the excerpt if it's not highlighted
           result.excerpt = result.excerpt.replace(`${result.meta.title}. `, '');
+
+          // Add the page type to the title
+          result.meta.title = `${result.filters['00. Page type']} ▸ ${result.meta.title}`;
+
           return result;
         }
       });
