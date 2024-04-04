@@ -29,7 +29,7 @@ jobs:
           globalDelayToots: 660 # 11 hours
           nbTootsPerItem: 1000
           itemChoiceStrategy: "newest"
-          delayTootsSameItem: 660 # 23 hours
+          delayTootsSameItem: 129600 # 90 days
           instanceType: "pixelfed"
 
       - name: Pull any changes from Git 📥
