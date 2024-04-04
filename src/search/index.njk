@@ -47,7 +47,11 @@ nav:
           result.excerpt = result.excerpt.replace(`${result.meta.title}. `, '');
 
           // Add the page type to the title
-          result.meta.title = `${result.filters['00. Page type']} ▸ ${result.meta.title}`;
+          if (!result.raw_title) {
+            result.raw_title = result.meta.title;
+          }
+          // Add the page type to the title
+          result.meta.title = `${result.filters['00. Page type']} ▸ ${result.raw_title}`;
 
           return result;
         }
