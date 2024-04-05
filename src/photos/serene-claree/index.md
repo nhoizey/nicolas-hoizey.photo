@@ -87,6 +87,7 @@ geo:
   longitude: 6.524788888333333
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 84 116 180
   darkVibrant: 44 60 92
@@ -95,9 +96,6 @@ colors:
   darkMuted: 55 61 75
   lightMuted: 159 166 199
 lqip: data:image/webp;base64,UklGRlYCAABXRUJQVlA4IEoCAABQEwCdASpkAJYAP3GkxFm0v7Cqr5Wsc/AuCWNtcIDE9Xx0PkATu5B0dP5X3MF0xEJ3lExyNCj2YO03ZrVeFgKYgqU3eFI8iiRPxyhDHUbeJt3tnGd+KcHSeEGgqvyOIWUBkb2Rs16JkwgkKBpXlUpISfjcMob+sXugFF0WgKl80yaaV4aXq/ss+SkBccqNLXEDpFqkZEKPW+oeCjkevZaHmPgAAP6J6IrLlXpsDlL3YtWoMmOeS4+2UZR2CAQ82BrVJHOYBk8/PwrqgxFd0pAKiBokPCVqRQdplOHtf3KtyTLxALNQbpq68A6WXrxA7VHoWesQB6dZqxYphQU3pF5oqBda1MJUzqQjhkeNbjvIZkdOHcl17nArr0FOPM6uEBIyOKTaE7dHYcp8FzFUExS47RCTM/kuxjP6oFKmffJ94ca5ogzS3GdrEKKxDlUTB4JbLq/MLYkkrZAwCCwsD4ad0/KC9SFfEbDK7TluKff05gG4DLnT1FpFt8eBRQacFJZGbP1aqXX3GcmrHrpjVw4juZBNnU9NU4sCKkIBqIXUiqFNhma5lDvPiPVhgFsNVGyXkrszDignGZCUqCKB0m0rypZcsLWdZtHM6TMVYQ/Idbt7EPkEZbqMBdeaF+obdkZ3YjDr6si7GP/luB2pjlBLFBQJYfihmukKua+plazRJSvoRWMzNxlYb1zuuNYdzv85GKDtxqMy4SF6e49ZqTsHD6otTvvMIswVgg+KwK96L2q+oCaY9r5//ceBK8DoUWZNcJYuNI3RgAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The river Clarée alternates between cascading stretches and grassy plateaus where its flow becomes gentler.
