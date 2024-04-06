@@ -92,6 +92,7 @@ geo:
   longitude: 6.536232378333334
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 188 148 100
   darkVibrant: 101 78 11
@@ -100,9 +101,6 @@ colors:
   darkMuted: 103 79 45
   lightMuted: 170 183 203
 lqip: data:image/webp;base64,UklGRp4BAABXRUJQVlA4IJIBAACwDgCdASpkAEMAP2mgv1izrCalMzbdInAtCWNr74AFMJW0E0riVKjXSI7AmBSXtn/fG9+f4N0/jyFCgNEY39GliiX+BxAZvBzg0GFY9jZnblVGMFnU+KOk1mvzvYTsKa0RNJh+7yx+vhFABt4b6pjX6R5Gz2AFIST3gLyn2hAA9yaoffotnVVNG8rCW9QmfK9J7CDMxvCKmtZ3ZupsxBcWzEQirTh2a4ZwjOo60MvPTU0lgYoNchzhqumLUDNLJU8HNIEe1mVztFR7kdYtE6aS2I16H8DjqFu7UjvgV1TkYLLwArAWx7Ecgi+0Vam/405J2Wr7e/l8muV/dI44CNgqi1PofbhK0IfH5HPVm8ND3z477kwgOC1YQHWrJZ2UQbLzPW9Iw9gdhGnx32ZQ4E5hzt/Xiplv0PMQx23YaAx3KPr6apOdZeOsYl/OEt73NWXZC92I/JwW/Tm3qqe/4L84zslaQ3KTCD+/yYQ0wLKiZ5XCH6ozYqH91E5K7zGllFwLia53+OuQMS7E1r4oH8gAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Ruisseau du Raisin is a tributary of the Ruisseau du Chardonnet, which in turn is a tributary of the Rivière La Clarée, which gives its name to this splendid valley down below.
