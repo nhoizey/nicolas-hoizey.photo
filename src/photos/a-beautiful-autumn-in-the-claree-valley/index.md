@@ -86,6 +86,7 @@ geo:
   longitude: 6.52359765
   country: France
   city: Névache
+  map: true
 colors:
   vibrant: 139 172 202
   darkVibrant: 93 80 27
@@ -94,9 +95,6 @@ colors:
   darkMuted: 52 71 92
   lightMuted: 156 178 206
 lqip: data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAADQDQCdASpkAEMAP12culiyvrMjt7ReM9AriWMAzJrbdL/4re7XN61F1n2rUEAxphN6glEUo40jZlmnCt3lUAOnPqHIoNGWRF/yfS4Kaoh1GeADhxR1wNoytdk+4kkqHzpcB9UolVuBEn5umr3JNBrHp6IK9pPr4AD+zVfYGWwyR+qfej/6i8Yzalf+jOuMkLgUkkvdJWU82a2xTdoq95gxE83OnLl02HOIj4eqpHtV0YRWjwEKTxEnZjb1rYT/eu2cYq3KKtyVZuKjcK3ZAfOc3DDCRp3xFbJxGGh7olkhWoD4/pcc48605F/cmseeZk8RZVFXe34tqaNTXw8CWKTQwHgpcigK9PBO3zAKo3xBJajW1V+1Os/GJdGisiQUoLkCCaWxh9Qm1yeF/KACQ2935RiDiDBFDHU+RDW2qOg3ffdKIkIUw40IFdVnQ/ONgAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Haute Vallée de la Clarée is a wild and magnificent setting above the village of Névache, in the Cerces massif (Hautes-Alpes). It's particularly beautiful in autumn, when the larch forests take on shimmering colors.
