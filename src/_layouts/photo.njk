@@ -161,12 +161,12 @@
       </div>
     </div>
     {% if tags %}
-    <p class="tags">
-      {% inline_icon 'tag' %}
-      {%- for tag in tags -%}
-        <a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category" data-pagefind-filter="08. Tags">{{ tag }}</a>
-      {%- endfor -%}
-    </p>
+      <ul class="tags" data-pagefind-body>
+        {% inline_icon 'tag' %}
+        {%- for tag in tags -%}
+          <li><a href="/tags/{{ tag | slugify }}/" rel="tag" class="p-category" data-pagefind-filter="08. Tags">{{ tag }}</a></li>
+        {%- endfor -%}
+      </ul>
     {% endif %}
 
     {% set pageUrl = '/photos/' + page.fileSlug + '/' %}
