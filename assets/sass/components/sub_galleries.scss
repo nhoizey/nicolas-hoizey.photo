@@ -113,7 +113,7 @@ $eventail-small-image-rows: $evantail-rows - 4;
       z-index: 2;
 
       transform-origin: bottom left;
-      transform: rotateZ(0) translateX(0);
+      transform: rotateZ(0) translateX(0) scale(.95);
 
       opacity: 0;
       transition-delay: 0.35s, 0.2s;
@@ -126,7 +126,7 @@ $eventail-small-image-rows: $evantail-rows - 4;
       z-index: 1;
 
       transform-origin: bottom right;
-      transform: rotateZ(0) translateX(0) translateY(0);
+      transform: rotateZ(0) translateX(0) translateY(0) scale(.9);
 
       opacity: 0;
       transition-delay: 0.4s, 0.4s;
