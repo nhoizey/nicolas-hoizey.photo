@@ -75,8 +75,6 @@ colors:
   darkMuted: 84 80 44
   lightMuted: 183 178 177
 lqip: data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAAAwEQCdASpkAEMAP1WUvFixqqYjt7k+MjAqiWUA0ydOtd1/GXj4C6UsYnVbjcEfhHv3bYwbzeH++IBRjSS1qq6kuZ4Ntn+jNfdgD09rECNZaX1t29VA/VNauAwDbFuvfAiWdNdLCn65iVO3NticmT8Kn7PBPcmvWUJAVPGfJRmDbUgVoRnnDYSjTuWxxW+wlYGPAAD+6PHMcVLCfIHh14temPJSsVeFPpFfsWL7z+KtB+b6xeFCkVxBYH1pIzNfZUHGQPCT7/0wHUCjYL+jNxsVvbsXEdiumcOQTa0s/l0KlWIekLNUeA0vXISt2CcIA5WziMSCR/euSyPlSXNoy1cgH+k5L8NIi1Sdz3Utfj7RmX8DKXnx827n1o/2Cy6Z2BBOtZAsJsqc3kXnx1c5wBXq19gTL6oKl46QZTdhxv1zdDc9yfnm9hBmZrz6yxjwSuWUUSCBkYOWnE6rFJziKTp5O9HJuLcTUZwrkxs33difQeeN8gwZPXg00yAlo7fDaV0hcCRpcZ36+oeCxXoWnrpjl44wvp0nCyGnKonAufBA4zfH+bviPNRfPN8T+QkPyT+EIJYokMSFCow048oMeRXdtLuZqC9AAAA=
-missing_data:
-  opengraph: true
 ---
 
 The common starling, also known as the European starling in North America and simply as the starling in Great Britain and Ireland, is a medium-sized passerine bird.

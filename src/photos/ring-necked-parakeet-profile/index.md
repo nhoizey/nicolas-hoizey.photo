@@ -79,8 +79,6 @@ colors:
   darkMuted: 57 97 42
   lightMuted: 179 199 194
 lqip: data:image/webp;base64,UklGRvIBAABXRUJQVlA4IOYBAACQDgCdASpkAEMAP3Ggwli0v6cjsVa8e/AuCWRrRe9PwFtW+QDeEqo1DYZ3gtHjmD+T2/s1SeLfbugxH3c4tA7vrLstCKJ087KZRQqPQUQV3lEiZDOfG9ptTgN1ATesv8FAD5H/i4xRvd7u2Fwn2UjlYsKd98CYAkI2nACqEAD+6ZqiG/WpCzf+NB/2ffYTtr8IQ0cqGELo7u+k9Y3UvDXi8QmFLuMnUe78D8lgRJKftfDA3GdcS6W+qrHSyr37kBoryOM8kYzmiR0Gny+NwCOTZ7hqj+nPoZcP2+qJ9OlPe973PZGkkEjPI8QYHwkZW/cF7zP7SLdcjp8NXIoQ1Y9uB0nUUMUrpL6v4gtNXYZaFP6BxvT8qtoxShmsqkQ1EleY5eeKZ8mi1hKOsLLl6mXwgNH5nn4d4cj6xJMiEIOM0uGYULIVFha4AHk8YzkBi6ggag/grYloUuWrco4+I6+Gke0AfOnyCHtcayLYbNdBlH7LCRHipVhNF4g58pfrExFsKw06+DRpZFaqtXVflRVdOpEyPHC9jdp5LnZQcVrFh7YHhCkmG3xvMTqUSzCNrXZDHWZxwsCEojCmmX+xF3ERyi5AUcjsYUG2mw5RiISYau7nYYUs9G1lpx4Sab0NJPMCWoxqAAA=
-missing_data:
-  opengraph: true
 ---
 
 The Ring-necked Parakeet is a species of large parakeet native to Asia and Africa.
