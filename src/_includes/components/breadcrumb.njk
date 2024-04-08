@@ -1,8 +1,10 @@
 {% from "macros/css.njk" import css %}
 {{ css('components/breadcrumb', build.env) }}
-<ol class="breadcrumb">
-  <li><a href="/">Home</a></li>
-  {% for item in breadcrumb %}
-    <li><a href="{{ item.page.url }}">{{ item.data.title }}</a></li>
-  {% endfor %}
-</ol>
+<nav aria-label="Breadcrumb" class="breadcrumb">
+  <ol>
+    <li><a href="/">Home</a></li>
+    {% for item in breadcrumb %}
+      <li><a href="{{ item.page.url }}">{{ item.data.title }}</a></li>
+    {% endfor %}
+  </ol>
+</nav>

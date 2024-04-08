@@ -1,7 +1,7 @@
 {% from "macros/css.njk" import css %}
 {{ css('components/navigation', build.env) }}
 
-<nav role="navigation">
+<nav role="navigation" aria-label="Site navigation">
   <ul>
     <li class="home {% if page.url == '/' %} current{% endif %}">
       <a href="/">{% inline_icon 'home' %} <span>Home</span></a>

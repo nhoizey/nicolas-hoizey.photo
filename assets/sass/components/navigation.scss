@@ -4,7 +4,7 @@
 @use '../tokens/colors';
 @use 'sass:color';
 
-nav {
+nav[role="navigation"] {
   @media not all and (min-width: breakpoints.$m) {
     overflow-x: auto;
     -webkit-overflow-scrolling: auto;

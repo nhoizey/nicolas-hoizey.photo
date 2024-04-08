@@ -3,7 +3,7 @@
 @use '../tokens/spaces';
 @use '../tokens/colors';
 
-.breadcrumb {
+.breadcrumb ol {
   list-style: none;
   margin-block: 0;
   padding-inline-start: 0;
