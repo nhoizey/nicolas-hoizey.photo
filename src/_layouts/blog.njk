@@ -12,10 +12,12 @@
   {% from "macros/meta.njk" import meta %}
 
   <article>
-    <ol class="breadcrumb">
-      <li><a href="/">Home</a></li>
-      <li><a href="/blog/">Blog</a></li>
-    </ol>
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog/">Blog</a></li>
+      </ol>
+    </nav>
     <h1>{{ title }}</h1>
     {{ meta(page) }}
     <p>{{ content | safe }}</p>

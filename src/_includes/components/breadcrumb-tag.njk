@@ -1,6 +1,8 @@
 {% from "macros/css.njk" import css %}
 {{ css('components/breadcrumb', build.env) }}
-<ol class="breadcrumb">
-  <li><a href="/">Home</a></li>
-  <li><a href="/tags/">Tags</a></li>
-</ol>
+<nav aria-label="Breadcrumb" class="breadcrumb">
+  <ol>
+    <li><a href="/">Home</a></li>
+    <li><a href="/tags/">Tags</a></li>
+  </ol>
+</nav>
