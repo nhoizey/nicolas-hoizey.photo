@@ -19,7 +19,6 @@ gear:
       short: 70-300mm
 tags:
   - animal
-  - ara
   - Ara
   - Ara macao
   - Ara rouge
