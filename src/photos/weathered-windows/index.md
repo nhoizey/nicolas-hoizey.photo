@@ -65,6 +65,7 @@ geo:
   longitude: 4.878425473333333
   country: France
   city: Villeurbanne
+  map: true
 colors:
   vibrant: 4 76 156
   darkVibrant: 151 27 74
@@ -73,9 +74,6 @@ colors:
   darkMuted: 93 55 70
   lightMuted: 166 170 216
 lqip: data:image/webp;base64,UklGRiQDAABXRUJQVlA4IBgDAAAQFgCdASpkAEIAP2Gcu1iyrCWjtfdcWlAsCWhpZVg0hx//mH308/8D/lZdXdn/rLus4hib43DOMGw4fVI2LTFTc8QPXOqYDFvwhFiSKvaCfdeQUqYLypq4tsQ1Jr7RK+15kz5zY/LGP9GNlBXzGmQypXIp80LJTcJDg4VvT7du6b88YBT2iNPiM/H0yKno3q1E3BUO3gj7g8kU6PMmeYyOlQDgAhS0UCnusVFPzt2hv/nrvXKGvVhnQAD94d21P5M+Vsw3qVBLaauM0g5oTW84RBgDa9TtiXM5kH8XXSXDQc+dfsFmvn46sN1KKJ3kPfeoegY/6KbH+w60VIOamKCul6InFzNQmRkdCRiBUZmfmxWjZiLwpDSNMF38OlwxWOgA0ESbi1wTAiKivIY5Fm+bNGdUljFg53fjQBW404ArNC9/MIsjeNQa7lqTWdWiuqGAcKAuolPn+ZFH+AlOivxoOrmboDLGvawib26pc/35zSNBybHhquK7Q396O+zjACKDAlMX7h7F5Y53io+a87A+NZKYlS9APqz2gKmzysoWCvkBAKH5RpeTGv1FBn2D3fwtBPNp+KegpHzkfi/KsOJWoqZc6V93hC3Nx7KeTSM8c/KsU2o//uII3UDAqXaiCkq8oSKmAhx+IhGsPTBdZGC0gAPl2K+YzEAEmbzG5DPyN28+aG87rJedULkaE9t35fsKH2M3fmniyw4pjGcYfi5S6Fhz2haEpxuQ7SEP8CCCA/qmQdIIGRyMaY7bzXs0fYREx0i38i7QvKWtS63x+t92unBe/WjixsYI5/ce7ypmN92Ix2SvF1kswUN8zxH2+knj8bifJyboFisUezZkxwalh0eqxgeE8W2xSnbP5YUJ4TIrnnA99kDuPaV1QrvhgEU/RUrqloCNuhtTnL55T1W4jhfqoZWBDLTS/iCYsdTreI18jqWZKuWNrDvQvNRANWlt3yKz60zuhgc7rne7wGIxtOxT2DKU4RMdHam28rBDym+g0eIFACSGYmY2Py4x/bfFFei0v1OsviFa+4eNOnVBnWAr4OPQAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 This was the old abandoned Lycée Pierre Brossolette in Villeurbanne, near Lyon in France.

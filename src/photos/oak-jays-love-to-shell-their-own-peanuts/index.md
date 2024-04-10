@@ -71,8 +71,6 @@ colors:
   darkMuted: 80 74 44
   lightMuted: 188 160 131
 lqip: data:image/webp;base64,UklGRu4BAABXRUJQVlA4IOIBAACQEgCdASpkAEMAP1WWv1ixq6cjuLl8AjAqiUAZXqVSs/yFg3RzYnEXKMRDGSAg0lzG9gPqQkiBO68TQQWJm/bUSPJERc+HUGtOAat4suHSCf5tAAyTonQwuga5MR6kC4SPXiUkQk5JdANMsB4mxQEsChGhJO9dlGtHjo2aOWobwONBEhkjoJ5dANFSYqq8J5uHlhGk5Wk+cS90/TwAAP5zHjYf9Yra/5cReDu7F4tnWannqOaG+928YL2pX3bZOT1DaGw24CAyitzzgq1DbXRqeFu3Yop61QPr5ggIgfF7ffN4go6rJdWV2nXsdp5z9PvN0A2Vf5sTpTFULzdRqwhY917vUmztkeWsyw0+ukDWkGjw7Y9QKNFjzC3rdwauxDk5j2S24csXdjU+cfBXSCRyKMwa0k98wbjndDsXQOmmTcLcWhk2wgQdG7YmvzIQfSP3Jo4dYEeX6IsvAi+b3KMvCmZpglmasy0eBWlF08IvV9JpGU/vo9tiPiwjsg1Z7B7GACATFLDW1BIQAbGb6fFzMpyQgx+lOdqUi0WXdZR0svaqJeN/k/pi7VFmiqEx7OSHGFrtQUrYRuf+O8QBaIy6cRtsD710Xe4qyGT9VGOcbJm7G6rdl9yWsj4em7vYQIAAAA==
-missing_data:
-  opengraph: true
 ---
 
 Rather shy, the Oak Jay is impossible to confuse. It sports rufous buff plumage with white and black wings, and beautiful blue feathers with black streaks. Its black whiskers are clearly visible, and its wings appear very rounded. Its white rump can be seen in flight.
@@ -82,6 +80,3 @@ The Jay feeds on acorns, which it carries quite far, thus helping to spread the 
 Making food available to birds during the winter helps them to survive the cold season, when food is scarcer in the wild.
 
 Feeding also allows us to contemplate wildlife, create a bond with nature and generate empathy towards these animals. Birds are not shy. They approach houses without too much fear, so you can observe them from a window.
-
-
-Translated with www.DeepL.com/Translator (free version)

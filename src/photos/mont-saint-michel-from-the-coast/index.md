@@ -63,6 +63,7 @@ geo:
   longitude: -1.5342491716666666
   country: France
   city: Le Mont-Saint-Michel
+  map: true
 colors:
   vibrant: 164 76 68
   darkVibrant: 53 63 11
@@ -71,9 +72,6 @@ colors:
   darkMuted: 72 74 43
   lightMuted: 179 188 203
 lqip: data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAACQCwCdASpkAEMAP3GoxVm0tyelMHY60uAuCWMAyvNPyKtNbEvyPWisW87AQOOBSGIailC5fFPNfNSq3HLFVbNGwGWYrA+dtMPmBh5+ZeyxxxJH+7XHoOnYkyo9n6DLxB0Y5TEvwAD9zoZm9YoH6HSiZI6P0ZwZ95dqKC/Svo7EADfX+CdN6RBYDvjK2JN6jk5ZWRWyvaGX0PP9e35+oDxjU2YbQrH0FY5yUIbUgWY0RVsA4y0Bfx1QHxx6r9de689usBJ5G57UxbQ/AWukRf/zBcOOHXsmR+jZd7NtMzJILk7paePAmSsYF5uJ5kkFXxe9SrwZAS2Sn9+dDvZZAsckIGkPAgtTDGnotOVQMBA7ZpPJFF9exp0OQ81ScdykykJaw7hrXtMUQA40CVk2/a4lA/AjMnjqKBzTR11YkOuyS0nhmq49YiqDBFUcDB0MAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Mont-Saint-Michel is a tidal island and mainland commune in Normandy, France.
