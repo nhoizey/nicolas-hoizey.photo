@@ -84,127 +84,132 @@
     }
   },
   "lenses": {
-    "5.8-23.2 mm": false,
-    "17.0-85.0 mm": {
-      "brand": "Canon",
-      "model": "EF-S 17-85mm f/4-5.6 IS USM",
-      "short": "17-85mm"
-    },
-    "24-70mm F1.8-2.8": false,
-    "50mm": {
-      "brand": "Sigma",
-      "model": "50mm F1.4 EX DG HSM",
-      "short": "50mm"
-    },
-    "70.0-300.0 mm": {
-      "brand": "Canon",
-      "model": "EF 70-300mm f/4-5.6 IS USM",
-      "short": "70-300mm"
-    },
-    "100.0 mm": {
-      "brand": "Canon",
-      "model": "EF 100mm f/2.8 Macro USM",
-      "short": "100mm macro"
-    },
-    "EF24-70mm f/2.8L USM": {
-      "brand": "Canon",
-      "model": "EF 24-70mm f/2.8L USM",
-      "short": "24-70mm"
-    },
-    "EF50mm f/1.8 II": {
-      "brand": "Canon",
-      "model": "EF 50mm f/1.8 II",
-      "short": "50mm"
-    },
-    "EF70-300mm f/4-5.6 IS USM": {
-      "brand": "Canon",
-      "model": "EF 70-300mm f/4-5.6 IS USM",
-      "short": "70-300mm"
-    },
-    "EF100mm f/2.8 Macro USM": {
-      "brand": "Canon",
-      "model": "EF 100mm f/2.8 Macro USM",
-      "short": "100mm macro"
-    },
-    "EF100mm f/2.8L Macro IS USM": {
-      "brand": "Canon",
-      "model": "EF 100mm f/2.8L Macro IS USM",
-      "short": "100mm macro"
-    },
-    "EF135mm f/2L USM": {
-      "brand": "Canon",
-      "model": "EF 135mm f/2L USM",
-      "short": "135mm"
-    },
-    "iPhone 6s back camera 4.15mm f/2.2": false,
-    "LUMIX G VARIO 12-32/F3.5-5.6": {
-      "brand": "Panasonic",
-      "model": "Lumix G Vario 12-32mm f/3.5-5.6 MEGA OIS",
-      "short": "12-32mm"
-    },
-    "TAMRON SP 24-70mm F2.8 Di VC USD A007N": {
-      "brand": "Tamron",
-      "model": "SP 24-70mm f/2.8 Di VC USD",
-      "short": "24-70mm"
-    },
-    "XF10-24mmF4 R OIS": {
-      "brand": "Fujifilm",
-      "model": "Fujinon XF 10-24mm f/4.0 R OIS",
-      "short": "10-24mm"
-    },
-    "XF16-80mmF4 R OIS WR": {
-      "brand": "Fujifilm",
-      "model": "Fujinon XF 16-80mm f/4.0 R OIS WR",
-      "short": "16-80mm"
-    },
-    "XF18-55mmF2.8-4 R LM OIS": {
-      "brand": "Fujifilm",
-      "model": "Fujinon XF 18-55mm f/2.8-4.0R LM OIS",
-      "short": "18-55mm"
-    },
-    "XF27mmF2.8": {
-      "brand": "Fujifilm",
-      "model": "Fujinon XF 27mm f/2.8",
-      "short": "27mm"
-    },
-    "XF56mmF1.2 R": {
-      "brand": "Fujifilm",
-      "model": "Fujinon XF 56mm f/1.2 R",
-      "short": "56mm"
-    },
-    "XF80mmF2.8 R LM OIS WR Macro": {
-      "brand": "Fujifilm",
-      "model": "Fujinon XF 80mm f/2.8 LM OIS WR Macro",
-      "short": "80mm macro"
-    },
-    "XF100-400mmF4.5-5.6 R LM OIS WR": {
-      "brand": "Fujifilm",
-      "model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
-      "short": "100-400mm"
-    },
-    "XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x": [
-      {
-        "brand": "Fujifilm",
-        "model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
-        "short": "100-400mm"
-      },
-      {
-        "brand": "Fujifilm",
-        "model": "Fujinon XF 1.4× TC WR",
-        "short": "1.4×"
-      }
-    ],
-    "XF100-400mmF4.5-5.6 R LM OIS WR + 2x": [
-      {
-        "brand": "Fujifilm",
-        "model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
-        "short": "100-400mm"
-      },
-      {
-        "brand": "Fujifilm",
-        "model": "Fujinon XF 2.0× TC WR",
-        "short": "2.0×"
-      }
-    ]
-  }
+		"5.8-23.2 mm": false,
+		"17.0-85.0 mm": {
+			"brand": "Canon",
+			"model": "EF-S 17-85mm f/4-5.6 IS USM",
+			"short": "17-85mm"
+		},
+		"24-70mm F1.8-2.8": false,
+		"50mm": {
+			"brand": "Sigma",
+			"model": "50mm F1.4 EX DG HSM",
+			"short": "50mm"
+		},
+		"70.0-300.0 mm": {
+			"brand": "Canon",
+			"model": "EF 70-300mm f/4-5.6 IS USM",
+			"short": "70-300mm"
+		},
+		"100.0 mm": {
+			"brand": "Canon",
+			"model": "EF 100mm f/2.8 Macro USM",
+			"short": "100mm macro"
+		},
+		"EF24-70mm f/2.8L USM": {
+			"brand": "Canon",
+			"model": "EF 24-70mm f/2.8L USM",
+			"short": "24-70mm"
+		},
+		"EF50mm f/1.8 II": {
+			"brand": "Canon",
+			"model": "EF 50mm f/1.8 II",
+			"short": "50mm"
+		},
+		"EF70-300mm f/4-5.6 IS USM": {
+			"brand": "Canon",
+			"model": "EF 70-300mm f/4-5.6 IS USM",
+			"short": "70-300mm"
+		},
+		"EF100mm f/2.8 Macro USM": {
+			"brand": "Canon",
+			"model": "EF 100mm f/2.8 Macro USM",
+			"short": "100mm macro"
+		},
+		"EF100mm f/2.8L Macro IS USM": {
+			"brand": "Canon",
+			"model": "EF 100mm f/2.8L Macro IS USM",
+			"short": "100mm macro"
+		},
+		"EF135mm f/2L USM": {
+			"brand": "Canon",
+			"model": "EF 135mm f/2L USM",
+			"short": "135mm"
+		},
+		"iPhone 6s back camera 4.15mm f/2.2": false,
+		"LUMIX G VARIO 12-32/F3.5-5.6": {
+			"brand": "Panasonic",
+			"model": "Lumix G Vario 12-32mm f/3.5-5.6 MEGA OIS",
+			"short": "12-32mm"
+		},
+		"TAMRON SP 24-70mm F2.8 Di VC USD A007N": {
+			"brand": "Tamron",
+			"model": "SP 24-70mm f/2.8 Di VC USD",
+			"short": "24-70mm"
+		},
+		"XF10-24mmF4 R OIS": {
+			"brand": "Fujifilm",
+			"model": "Fujinon XF 10-24mm f/4.0 R OIS",
+			"short": "10-24mm"
+		},
+		"XF16-80mmF4 R OIS WR": {
+			"brand": "Fujifilm",
+			"model": "Fujinon XF 16-80mm f/4.0 R OIS WR",
+			"short": "16-80mm"
+		},
+		"XF18-55mmF2.8-4 R LM OIS": {
+			"brand": "Fujifilm",
+			"model": "Fujinon XF 18-55mm f/2.8-4.0R LM OIS",
+			"short": "18-55mm"
+		},
+		"XF27mmF2.8": {
+			"brand": "Fujifilm",
+			"model": "Fujinon XF 27mm f/2.8",
+			"short": "27mm"
+		},
+		"XF56mmF1.2 R": {
+			"brand": "Fujifilm",
+			"model": "Fujinon XF 56mm f/1.2 R",
+			"short": "56mm"
+		},
+		"XF80mmF2.8 R LM OIS WR Macro": {
+			"brand": "Fujifilm",
+			"model": "Fujinon XF 80mm f/2.8 LM OIS WR Macro",
+			"short": "80mm macro"
+		},
+		"XF90mmF2 R LM WR": {
+			"brand": "Fujifilm",
+			"model": "Fujinon XF 90mm f/2 R LM WR",
+			"short": "90mm"
+		},
+		"XF100-400mmF4.5-5.6 R LM OIS WR": {
+			"brand": "Fujifilm",
+			"model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
+			"short": "100-400mm"
+		},
+		"XF100-400mmF4.5-5.6 R LM OIS WR + 1.4x": [
+			{
+				"brand": "Fujifilm",
+				"model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
+				"short": "100-400mm"
+			},
+			{
+				"brand": "Fujifilm",
+				"model": "Fujinon XF 1.4× TC WR",
+				"short": "1.4×"
+			}
+		],
+		"XF100-400mmF4.5-5.6 R LM OIS WR + 2x": [
+			{
+				"brand": "Fujifilm",
+				"model": "Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR",
+				"short": "100-400mm"
+			},
+			{
+				"brand": "Fujifilm",
+				"model": "Fujinon XF 2.0× TC WR",
+				"short": "2.0×"
+			}
+		]
+	}
 }
