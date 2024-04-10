@@ -26,7 +26,7 @@ jobs:
           mastodonToken: ${{ secrets.PIXELFED_TOKEN }}
           cacheFile: 'posse-pixelfed-photo.json'
           cacheTimestampFile: 'posse-pixelfed-photo-timestamp.json'
-          globalDelayToots: 660 # 11 hours
+          globalDelayToots: 540 # 9 hours (with a 10 hours difference in cron runs)
           nbTootsPerItem: 1000
           itemChoiceStrategy: "newest"
           delayTootsSameItem: 129600 # 90 days
