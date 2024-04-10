@@ -1,9 +1,9 @@
 name: '📸 → 🖼️ POSSE photos to Pixelfed'
 on:
   schedule:
-  # https://crontab.guru/#9_9/11_*_*_*
-  # At minute 9 past every 11th hour from 9 through 23. (-1 -> 8h + 19h)
-  - cron: '9 9/11 * * *'
+  # https://crontab.guru/#9_7,17_*_*_*
+  # At minute 9 past hour 9 and 19 (GMT+2).
+  - cron: '9 7,17 * * *'
   workflow_dispatch:
 
 concurrency:
