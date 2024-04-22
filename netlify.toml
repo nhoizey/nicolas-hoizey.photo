@@ -11,14 +11,11 @@ NODE_OPTIONS = "--max_old_space_size=4096"
 path = "/*"
 function = "headers"
 
-[[plugins]]
-package = "netlify-build-plugin-speedcurve"
-
-# [[redirects]]
-#   from = "https://nho-photo.netlify.app"
-#   to = "https://nicolas-hoizey.photo"
-#   status = 301
-#   force = true
+[[redirects]]
+  from = "https://nho-photo.netlify.app"
+  to = "https://nicolas-hoizey.photo"
+  status = 301
+  force = true
 
 [[redirects]]
 from = "/images/:width/*"
