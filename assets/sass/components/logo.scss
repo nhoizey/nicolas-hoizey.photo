@@ -23,6 +23,11 @@
 
     color: colors.$header;
     text-decoration: none;
+
+    height: calc(var(--logo-wide) / 9);
+    @media (min-width: breakpoints.$m) {
+      height: var(--logo-square);
+    }
   }
 
   img {
