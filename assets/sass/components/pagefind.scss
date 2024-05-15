@@ -138,6 +138,13 @@
   align-items: flex-start;
   gap: min(40px, 3%);
   padding: 30px 0 40px;
+  position: relative;
+}
+
+.pagefind-ui__result-link::after {
+  position: absolute;
+  inset: 0;
+  content: "";
 }
 
 .pagefind-ui__result-thumb {
