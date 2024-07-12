@@ -1,0 +1,14 @@
+{
+	"prerender": [
+		{
+			"source": "document",
+			"where": {
+				"and": [
+					{ "href_matches": "/*" },
+					{ "not": { "href_matches": "/tools/*" } }
+				]
+			},
+			"eagerness": "moderate"
+		}
+	]
+}
