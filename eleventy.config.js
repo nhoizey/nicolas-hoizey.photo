@@ -37,12 +37,12 @@ module.exports = function (eleventyConfig) {
 	// // Will be filed during computing of collections with getUniquePhotos() function
 	let globalUniquePhotos = [];
 
-	// glob.sync('src/_11ty/collections/*.js').forEach((file) => {
-	// 	let collectionList = require('./' + file);
-	// 	Object.keys(collectionList).forEach((name) => {
-	// 		eleventyConfig.addCollection(name, collectionList[name]);
-	// 	});
-	// });
+	glob.sync('src/_11ty/collections/*.js').forEach((file) => {
+		let collectionList = require('./' + file);
+		Object.keys(collectionList).forEach((name) => {
+			eleventyConfig.addCollection(name, collectionList[name]);
+		});
+	});
 
 	// // ------------------------------------------------------------------------
 	// // Filters

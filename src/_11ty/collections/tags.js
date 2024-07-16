@@ -1,3 +1,3 @@
-module.exports = {
-  tags: require('../getTags'),
-};
+// module.exports = {
+//   tags: require('../getTags'),
+// };

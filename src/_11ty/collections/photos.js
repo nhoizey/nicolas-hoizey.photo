@@ -7,9 +7,9 @@ const ignoredSlugs = [
   'gourmandise',
 ];
 
-const allPhotosGlob = 'src/photos/*/index.md';
-const usedPhotosGlob = glob('src/galleries/**/*.md', {
-  ignore: 'src/galleries/**/index.md',
+const allPhotosGlob = 'src/collections/photos/*/index.md';
+const usedPhotosGlob = glob('src/pages/galleries/**/*.md', {
+	ignore: 'src/pages/galleries/**/index.md',
 });
 
 let allPhotos = undefined;

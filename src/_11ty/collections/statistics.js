@@ -1,7 +1,7 @@
 const fs = require('fs');
 const slugify = require('../_utils/slugify');
 
-const usedPhotosGlob = 'src/galleries/**/*.md';
+const usedPhotosGlob = 'src/pages/galleries/**/*.md';
 
 const settingsList = ['aperture', 'shutter_speed', 'iso', 'focal_length'];
 
