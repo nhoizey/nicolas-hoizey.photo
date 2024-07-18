@@ -29,52 +29,6 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setDataDeepMerge(true);
 	eleventyConfig.setQuietMode(true);
 
-	// // ------------------------------------------------------------------------
-	// // Collections
-	// // ------------------------------------------------------------------------
-
-	// // Initialize global variable to store a list of all photos
-	// // Will be filed during computing of collections with getUniquePhotos() function
-	let globalUniquePhotos = [];
-
-	glob.sync('src/_11ty/collections/*.js').forEach((file) => {
-		let collectionList = require('./' + file);
-		Object.keys(collectionList).forEach((name) => {
-			eleventyConfig.addCollection(name, collectionList[name]);
-		});
-	});
-
-	// // ------------------------------------------------------------------------
-	// // Filters
-	// // ------------------------------------------------------------------------
-
-	// glob.sync('src/_11ty/filters/*.js').forEach((file) => {
-	// 	let filters = require('./' + file);
-	// 	Object.keys(filters).forEach((name) => {
-	// 		eleventyConfig.addFilter(name, filters[name]);
-	// 	});
-	// });
-
-	// ------------------------------------------------------------------------
-	// Shortcodes
-	// ------------------------------------------------------------------------
-
-	glob.sync('src/_11ty/shortcodes/*.js').forEach((file) => {
-		let shortcodes = require('./' + file);
-		Object.keys(shortcodes).forEach((name) => {
-			eleventyConfig.addNunjucksShortcode(name, shortcodes[name]);
-		});
-	});
-
-	// ------------------------------------------------------------------------
-	// Transforms
-	// ------------------------------------------------------------------------
-
-	// if (isProd) {
-	// 	// TODO: Add to eleventy-plugin-pack11ty?
-	// 	eleventyConfig.addPlugin(require('eleventy-plugin-auto-preload'));
-	// }
-
 	// ------------------------------------------------------------------------
 	// Eleventy configuration
 	// ------------------------------------------------------------------------
