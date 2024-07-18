@@ -44,6 +44,10 @@ module.exports = {
     });
   },
   extractHeadingsText: (html) => {
+    if (html === undefined) {
+			return '';
+		}
+
     let headingsText = '';
     const matches = html.matchAll(/<(h[1-6])>(?<heading>.*)<\/\1>/g);
     if (matches) {
