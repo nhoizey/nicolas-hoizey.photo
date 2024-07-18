@@ -6,8 +6,8 @@ const platformsData = require('../../_data/platforms.json');
 const GALLERY_URL_REGEX =
   /^https:\/\/nicolas-hoizey.photo\/galleries\/([^/]+\/)*([^/]+)\/$/;
 
-const allPhotos = glob('src/photos/*/index.md').map((photo) =>
-  photo.replace('src/photos/', '').replace('/index.md', '')
+const allPhotos = glob('src/collections/photos/*/index.md').map((photo) =>
+	photo.replace('src/collections/photos/', '').replace('/index.md', '')
 );
 
 const webmentionsInterestingness = {};
@@ -39,7 +39,9 @@ const getPhotoData = (slug) => {
     // This photo already exists in memoization
     return photoDataMemoization[slug];
   } else {
-    let photoDataCollection = matter.read(`src/photos/${slug}/index.md`);
+    let photoDataCollection = matter.read(
+			`src/collections/photos/${slug}/index.md`
+		);
 
     let interestingness = 0;
 

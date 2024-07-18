@@ -41,7 +41,7 @@ dateline    { date=$0; next }
       found=1
     fi
   fi
-done < <(find src/galleries -name "*.md")
+done < <(find src/pages/galleries -name "*.md")
 # https://unix.stackexchange.com/a/21749/415372
 # https://tldp.org/LDP/abs/html/process-sub.html
 

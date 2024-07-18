@@ -9,9 +9,9 @@ module.exports = {
     let gallery = `<ul class="photos">`;
     slugs.forEach((slug) => {
       const md = fs.readFileSync(
-        path.join('./src/photos/', slug, 'index.md'),
-        'utf8'
-      );
+				path.join('./src/collections/photos/', slug, 'index.md'),
+				'utf8'
+			);
       const content = matter(md);
       gallery += `<li>
 <figure>

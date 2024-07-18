@@ -45,22 +45,22 @@ const syncFlickr = async () => {
           comments: comments,
         };
       } else {
-        if (fs.existsSync(`./src/photos/${flickrSlug}`)) {
-          platformsData[flickrSlug] = {
-            flickr: {
-              id: photo.id,
-              views: views,
-              faves: faves,
-              comments: comments,
-            },
-          };
-        } else {
-          console.log(
-            `Couldn't find Flickr photo "${photo.title}" here (slug "${flickrSlug}")
+        if (fs.existsSync(`./src/collections/photos/${flickrSlug}`)) {
+					platformsData[flickrSlug] = {
+						flickr: {
+							id: photo.id,
+							views: views,
+							faves: faves,
+							comments: comments,
+						},
+					};
+				} else {
+					console.log(
+						`Couldn't find Flickr photo "${photo.title}" here (slug "${flickrSlug}")
 -> https://www.flickr.com/photos/nicolas-hoizey/${photo.id}
 `
-          );
-        }
+					);
+				}
       }
     }
   });

@@ -1,6 +1,6 @@
 const sortOrderThenAlpha = require('../_utils/sort-order-then-alpha');
 
-const galleriesGlob = 'src/galleries/**/index.md';
+const galleriesGlob = 'src/pages/galleries/**/index.md';
 
 let galleries = undefined;
 const getGalleries = (collection) => {

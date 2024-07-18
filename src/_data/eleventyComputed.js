@@ -5,11 +5,11 @@ const getPhotoData = require('../_11ty/_utils/photo-data');
 
 // TODO: use photoCollections
 const isPhotoInGallery = (data) =>
-  data.page.filePathStem.match(/^\/galleries\/[^\/]+/) &&
-  !data.page.filePathStem.endsWith('/index');
+	data.page.filePathStem.match(/^\/pages\/galleries\/[^\/]+/) &&
+	!data.page.filePathStem.endsWith('/index');
 
 const isPhotoInPhotos = (data) =>
-  data.page.filePathStem.match(/^\/photos\/[^\/]+\/index/);
+	data.page.filePathStem.match(/^\/collections\/photos\/[^\/]+\/index/);
 
 module.exports = {
   opengraph: {
@@ -28,8 +28,11 @@ module.exports = {
       return getPhotoData(data.page.fileSlug);
     } else if (isPhotoInPhotos(data)) {
       return getPhotoData(
-        data.page.filePathStem.replace(/^\/photos\/([^\/]+)\/index$/, '$1')
-      );
+				data.page.filePathStem.replace(
+					/^\/collections\/photos\/([^\/]+)\/index$/,
+					'$1'
+				)
+			);
     } else {
       return null;
     }
