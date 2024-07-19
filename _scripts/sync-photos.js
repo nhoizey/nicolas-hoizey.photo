@@ -18,7 +18,7 @@ const path = require('path');
 
 const SRC =
   '/Users/nicolashoizey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Photographie/_Site web/';
-const DIST = './src/photos/';
+const DIST = './src/collections/photos/';
 const THUMBNAILS = './_temp/thumbnails/';
 const DIFFS = path.join(SRC, '_temp_diffs');
 const SMALL_VERSION_PIXELS = 900 * 600;

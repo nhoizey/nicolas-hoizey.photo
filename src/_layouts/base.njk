@@ -53,6 +53,9 @@
 
     <meta property="og:url" content="{{ site.url + page.url }}" />
 
+    {# Mastodon: https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/ #}
+    <meta name="fediverse:creator" content="@nhoizey@pixelfed.social" />
+
     {% if page.layout != "page" %}
       {# TODO: Improve test (for example 404 page is a page but without "page" layout) #}
       <meta property="og:type" content="article" />

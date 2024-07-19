@@ -8,10 +8,6 @@ footer {
   padding: spaces.$m;
   font-size: var(--step-0);
 
-  @media (min-width: breakpoints.$m) {
-    padding-inline: spaces.$xxl;
-  }
-
   // https://web.dev/content-visibility/
   // https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/#lazy-render-offscreen-content
   // https://twitter.com/csswizardry/status/1584563794780770309/photo/1
@@ -24,6 +20,10 @@ footer {
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 
   color: colors.$brand-500;
+
+  @media (min-width: breakpoints.$m) {
+    padding-inline: spaces.$xxl;
+  }
 
   p,
   ul {

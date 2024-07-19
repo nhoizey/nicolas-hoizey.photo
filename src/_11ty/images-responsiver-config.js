@@ -23,30 +23,35 @@ const runBeforeHook = (image, document) => {
   let imageSrc = image.getAttribute(isData ? 'data-src' : 'src');
   let imageUrl = '';
 
-  if (imageSrc.match(/^(https?:)?\/\//)) {
-    // TODO: find a way to get a remote image's dimensions
-    // TODO: some images are local but have an absolute URL
-    imageUrl = imageSrc;
-  } else {
-    if (!image.getAttribute('width') || !image.getAttribute('height')) {
-      let imageDimensions;
-      if (imageSrc[0] === '/') {
-        imageDimensions = imageSize(path.join(config.dir.src + imageSrc));
-      } else {
-        // This is a relative URL
-        imageDimensions = imageSize(path.join(srcPath + imageSrc));
-      }
-      image.setAttribute('width', imageDimensions.width);
-      image.setAttribute('height', imageDimensions.height);
-    }
-    if (imageSrc[0] === '/') {
-      imageUrl = site.url.replace(/\/$/, '') + imageSrc;
-    } else {
-      // This is a relative URL
-      imageUrl = site.url.replace(/\/$/, '') + distPath + imageSrc;
-    }
-    image.setAttribute(isData ? 'data-src' : 'src', imageUrl);
-  }
+	if (imageSrc.match(/^(https?:)?\/\//)) {
+		// TODO: find a way to get a remote image's dimensions
+		// TODO: some images are local but have an absolute URL
+		imageUrl = imageSrc;
+	} else {
+		if (!image.getAttribute('width') || !image.getAttribute('height')) {
+			let imageDimensions;
+			if (imageSrc[0] === '/') {
+				// Fix images source paths
+				const correctedImgSrc = imageSrc
+					.replace(/^\/photos\//, '/collections/photos/')
+					.replace(/^\/images\//, '/static/images/')
+					.replace(/^\/ui\//, '/static/ui/');
+				imageDimensions = imageSize(config.dir.src + correctedImgSrc);
+			} else {
+				// This is a relative URL
+				imageDimensions = imageSize(srcPath + imageSrc);
+			}
+			image.setAttribute('width', imageDimensions.width);
+			image.setAttribute('height', imageDimensions.height);
+		}
+		if (imageSrc[0] === '/') {
+			imageUrl = site.url.replace(/\/$/, '') + imageSrc;
+		} else {
+			// This is a relative URL
+			imageUrl = site.url.replace(/\/$/, '') + distPath + imageSrc;
+		}
+		image.setAttribute(isData ? 'data-src' : 'src', imageUrl);
+	}
 
   if (!('responsiver' in image.dataset) && image.className) {
     image.dataset.responsiver = image.className;

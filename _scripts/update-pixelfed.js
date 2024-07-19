@@ -97,21 +97,21 @@ const syncPixelfed = async () => {
                 },
               ];
             } else {
-              if (fs.existsSync(`./src/photos/${pixelfedSlug}`)) {
-                platformsData[pixelfedSlug] = {
-                  pixelfed: [
-                    {
-                      id: photo.id,
-                      faves: faves,
-                      reblogs: reblogs,
-                    },
-                  ],
-                };
-              } else {
-                console.log(
-                  `Couldn't find Pixelfed photo titled "${title}" here: ${photo.url}`
-                );
-              }
+              if (fs.existsSync(`./src/collections/photos/${pixelfedSlug}`)) {
+								platformsData[pixelfedSlug] = {
+									pixelfed: [
+										{
+											id: photo.id,
+											faves: faves,
+											reblogs: reblogs,
+										},
+									],
+								};
+							} else {
+								console.log(
+									`Couldn't find Pixelfed photo titled "${title}" here: ${photo.url}`
+								);
+							}
             }
           } else {
             console.log(`No title found for ${photo.url}`);

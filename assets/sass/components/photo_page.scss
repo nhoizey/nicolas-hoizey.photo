@@ -203,10 +203,10 @@
   width: 100%;
   max-width: 45rem;
 
+  align-items: flex-start;
+
   --sidebar-basis: 18rem;
   @include sidebar();
-
-  align-items: flex-start;
 
   .exif {
     margin-block: 0;

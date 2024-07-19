@@ -77,16 +77,16 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
   });
 
   // Get the list of photos
-  const photos = await glob(['photos/*'], {
-    cwd: 'src',
-    onlyDirectories: true,
-  });
+  const photos = await glob(['collections/photos/*'], {
+		cwd: 'src',
+		onlyDirectories: true,
+	});
 
   // Get the list of galleries
-  const galleries = await glob(['galleries/**'], {
-    cwd: 'src',
-    onlyDirectories: true,
-  });
+  const galleries = await glob(['pages/galleries/**'], {
+		cwd: 'src',
+		onlyDirectories: true,
+	});
 
   // Queue processing of all photos and galleries
   [...photos, ...galleries].forEach((resourcePath) =>

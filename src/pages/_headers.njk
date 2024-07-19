@@ -16,6 +16,10 @@ permalink: _headers
 /*.svg
   Content-Type: image/svg+xml; charset=utf-8
 
+{#- Speculation rules: https://developer.chrome.com/blog/speculation-rules-improvements#speculation-rules_http_header -#}
+/speculation-rules.json
+  Content-Type: application/speculationrules+json; charset=utf-8
+
 {#- Default CSP directives -#}
 {%- set cspScriptSrc -%}'self' data: 'unsafe-eval' 'unsafe-inline'{%- endset -%}
 {%- set cspImgSrc = "'self' nicolas-hoizey.photo nho-photo.netlify.app blob:" -%}
@@ -56,6 +60,7 @@ permalink: _headers
   Feature-Policy: accelerometer 'none';camera 'none';geolocation 'none';gyroscope 'none';magnetometer 'none';microphone 'none';payment 'none';usb 'none';ch-dpr 'self' https://res.cloudinary.com;ch-width 'self' https://res.cloudinary.com
   Permissions-Policy: accelerometer=(),camera=(),geolocation=(),gyroscope=(),magnetometer=(),microphone=(),payment=(),usb=(),ch-width=(self "https://res.cloudinary.com"),ch-dpr=(self "https://res.cloudinary.com")
   Accept-CH: Save-Data,DPR,Width,Sec-CH-Prefers-Reduced-Data,Sec-CH-DPR, Sec-CH-Width
+  Speculation-Rules: "/speculation-rules.json"
 {% endset %}
 
 /{{ documentHeaders | safe }}

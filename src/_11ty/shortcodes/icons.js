@@ -59,7 +59,10 @@ module.exports = {
     return inlineSvg;
   },
   external_icon: (icon) => {
-    let externalSvg = fs.readFileSync(`src/ui/icons/${icon}.svg`, 'utf8');
+    let externalSvg = fs.readFileSync(
+			`src/static/ui/icons/${icon}.svg`,
+			'utf8'
+		);
     let width =
       parseFloat(externalSvg.replace(/^.*?width="([^"]+)".*/, '$1')) * 16;
     let height =

@@ -78,13 +78,13 @@ body {
     flex-shrink: 0;
     flex-basis: auto;
 
-    .photo & {
-      flex-grow: 1;
-    }
-
     display: flex;
     align-items: center;
     justify-content: center;
+
+    .photo & {
+      flex-grow: 1;
+    }
   }
 
   .photo {

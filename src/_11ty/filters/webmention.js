@@ -16,8 +16,8 @@ const WEBMENTION_BLOCKLIST = '../webmention-blocklist.json';
 const GALLERY_URL_REGEX =
   /^https:\/\/nicolas-hoizey.photo\/galleries\/([^/]+\/)*([^/]+)\/$/;
 
-const allPhotos = glob('src/photos/*/index.md').map((photo) =>
-  photo.replace('src/photos/', '').replace('/index.md', '')
+const allPhotos = glob('src/collections/photos/*/index.md').map((photo) =>
+	photo.replace('src/collections/photos/', '').replace('/index.md', '')
 );
 
 const getWebmentions = memoize(() => {

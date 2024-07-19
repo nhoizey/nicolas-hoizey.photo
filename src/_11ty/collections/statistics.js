@@ -1,86 +1,83 @@
 const fs = require('fs');
+const glob = require('fast-glob').sync;
 const slugify = require('../_utils/slugify');
 
-const usedPhotosGlob = 'src/galleries/**/*.md';
+const usedPhotosGlob = glob('src/pages/galleries/**/*.md', {
+	ignore: 'src/pages/galleries/**/index.md',
+});
 
 const settingsList = ['aperture', 'shutter_speed', 'iso', 'focal_length'];
 
 let statistics = undefined;
 
 const getStatistics = (collection) => {
-  if (statistics !== undefined) {
-    return statistics;
-  }
+	if (statistics !== undefined) {
+		return statistics;
+	}
 
-  statistics = {};
-  statisticsObject = {};
-  const photoSlugs = [];
+	statistics = {};
+	statisticsObject = {};
+	const photoSlugs = [];
 
-  settingsValues = {};
-  settingsList.forEach((setting) => {
-    settingsValues[setting] = {};
-  });
+	settingsValues = {};
+	settingsList.forEach((setting) => {
+		settingsValues[setting] = {};
+	});
 
-  collection
-    .getFilteredByGlob(usedPhotosGlob)
-    .filter((item) => !item.filePathStem.endsWith('/index'))
-    .forEach(function (item) {
-      const photoData = item.data.origin.data;
-      if (!photoSlugs.includes(item.page.fileSlug)) {
-        // Don't count multiple times the same photo in multiple folders
-        photoSlugs.push(item.page.fileSlug);
+	collection.getFilteredByGlob(usedPhotosGlob).forEach(function (item) {
+		const photoData = item.data.origin.data;
+		if (!photoSlugs.includes(item.page.fileSlug)) {
+			// Don't count multiple times the same photo in multiple folders
+			photoSlugs.push(item.page.fileSlug);
 
-        settingsList.forEach((setting) => {
-          if (statisticsObject[setting] === undefined) {
-            statisticsObject[setting] = {};
-          }
-          if (
-            photoData.settings !== undefined &&
-            photoData.settings[setting] !== undefined &&
-            photoData.settings[setting].readable !== undefined
-          ) {
-            // Keep a list of all possible values for each setting, based on raw reference
-            if (
-              settingsValues[setting][photoData.settings[setting].readable] ===
-              undefined
-            ) {
-              settingsValues[setting][photoData.settings[setting].readable] =
-                photoData.settings[setting];
-            }
+			settingsList.forEach((setting) => {
+				if (statisticsObject[setting] === undefined) {
+					statisticsObject[setting] = {};
+				}
+				if (
+					photoData.settings !== undefined &&
+					photoData.settings[setting] !== undefined &&
+					photoData.settings[setting].readable !== undefined
+				) {
+					// Keep a list of all possible values for each setting, based on raw reference
+					if (
+						settingsValues[setting][photoData.settings[setting].readable] ===
+						undefined
+					) {
+						settingsValues[setting][photoData.settings[setting].readable] =
+							photoData.settings[setting];
+					}
 
-            // Count the number of photos for each setting value
-            if (
-              statisticsObject[setting][
-                photoData.settings[setting].readable
-              ] !== undefined
-            ) {
-              statisticsObject[setting][photoData.settings[setting].readable]++;
-            } else {
-              statisticsObject[setting][
-                photoData.settings[setting].readable
-              ] = 1;
-            }
-          }
-        });
-      }
-    });
+					// Count the number of photos for each setting value
+					if (
+						statisticsObject[setting][photoData.settings[setting].readable] !==
+						undefined
+					) {
+						statisticsObject[setting][photoData.settings[setting].readable]++;
+					} else {
+						statisticsObject[setting][photoData.settings[setting].readable] = 1;
+					}
+				}
+			});
+		}
+	});
 
-  settingsList.forEach((setting) => {
-    statistics[setting] = [];
-    for (const [value, number] of Object.entries(statisticsObject[setting])) {
-      let newSettingObject;
+	settingsList.forEach((setting) => {
+		statistics[setting] = [];
+		for (const [value, number] of Object.entries(statisticsObject[setting])) {
+			let newSettingObject;
 
-      newSettingObject = settingsValues[setting][value];
-      newSettingObject.number = number;
-      statistics[setting].push(newSettingObject);
-    }
+			newSettingObject = settingsValues[setting][value];
+			newSettingObject.number = number;
+			statistics[setting].push(newSettingObject);
+		}
 
-    statistics[setting] = statistics[setting].sort(
-      (a, b) => parseFloat(a.computed) - parseFloat(b.computed)
-    );
-  });
+		statistics[setting] = statistics[setting].sort(
+			(a, b) => parseFloat(a.computed) - parseFloat(b.computed)
+		);
+	});
 
-  return statistics;
+	return statistics;
 };
 
 module.exports = {

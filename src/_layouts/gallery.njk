@@ -5,7 +5,7 @@
 {% block opengraphimage %}
   {% set opengraphFile = 'src' + page.filePathStem | dirname + '/opengraph.jpg' %}
   {% if opengraphFile | exists %}
-  <meta property="og:image" content="{{ site.url }}{{ page.filePathStem | dirname }}/opengraph.jpg" />
+  <meta property="og:image" content="{{ site.url }}{{ page.filePathStem | dirname | replace('pages/', '') }}/opengraph.jpg" />
   {% endif %}
 {% endblock %}
 

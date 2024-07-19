@@ -26,7 +26,7 @@
 {% endblock %}
 
 {% block opengraphimage %}
-  {% set opengraphFile = 'src/photos/' + page.fileSlug + '/opengraph.jpg' %}
+  {% set opengraphFile = 'src/collections/photos/' + page.fileSlug + '/opengraph.jpg' %}
   {% if opengraphFile | exists %}
   <meta property="og:image" content="{{ site.url }}/photos/{{ page.fileSlug }}/opengraph.jpg" />
   {% endif %}

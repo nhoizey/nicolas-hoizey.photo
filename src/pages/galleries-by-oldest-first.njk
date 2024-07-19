@@ -9,14 +9,14 @@ pagination:
 layout: base
 eleventyComputed:
   title: "{{ gallery.data.title | safe }}"
-permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-popularity/"
+permalink: "{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') }}/oldest-first/"
 ---
 
 {% from "macros/css.njk" import css %}
 
 {% block content %}
 
-  {% set gallery_url = page.url | replace('by-popularity/', '') %}
+  {% set gallery_url = page.url | replace('oldest-first/', '') %}
 
   {% set breadcrumb = collections.photo_galleries | breadcrumb(gallery_url) %}
   {% include 'components/json-ld/breadcrumb.njk' %}
@@ -33,8 +33,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-popularity/"
     {{ gallery.content | safe }}
   </div>
 
-
-  {% set gallery_root %}{{ gallery.data.page.filePathStem | dirname }}/{% endset %}
+  {% set gallery_root %}{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') }}/{% endset %}
 
   {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
   {% set sub_galleries_number = sub_galleries | length %}
@@ -48,9 +47,9 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-popularity/"
       {% else %}
         <li><span class="disabled">in galleries</span></li>
       {% endif %}
-      <li><a href="../oldest-first/">oldest first</a></li>
+      <li><span class="current">oldest first</span></li>
       <li><a href="../newest-first/">newest first</a></li>
-      <li><span class="current">by popularity</span></li>
+      <li><a href="../by-popularity/">by popularity</a></li>
     </ul>
   </div>
 
@@ -59,7 +58,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/by-popularity/"
   {% from "macros/photo.njk" import photo %}
 
   <ul class="photos">
-    {% set photos = collections.photos_in_galleries | photos_here_and_below(gallery.url) | by_popularity %}
+    {% set photos = collections.photos_in_galleries | photos_here_and_below(gallery.url) %}
     {% for item in photos %}
       {% if loop.index < 4 %}
         <li>{{ photo(item, "eager", build.env) }}</li>
