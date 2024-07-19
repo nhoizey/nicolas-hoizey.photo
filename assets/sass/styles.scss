@@ -18,16 +18,16 @@
   --pan-x-start: -5%;
   --pan-y-start: 5%;
 
-  --full-height: 100vh;
-  @supports (height: 100dvh) {
-    --full-height: 100dvh;
-  }
-
   // Set root container
   container: viewport / inline-size;
 
   // https://www.htmhell.dev/adventcalendar/2022/19/
   color-scheme: dark;
+
+  --full-height: 100vh;
+  @supports (height: 100dvh) {
+    --full-height: 100dvh;
+  }
 }
 
 html {
