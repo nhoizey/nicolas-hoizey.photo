@@ -55,7 +55,10 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
       // }
     }
 
-    const opengraphUrl = `http://localhost:8080/${resourcePath}/opengraph.html`;
+    const opengraphUrl = `http://localhost:8080/${resourcePath.replace(
+			/^(collections|pages)\//,
+			''
+		)}/opengraph.html`;
 
     console.log(`Get opengraph image from ${opengraphUrl}`);
 
