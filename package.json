@@ -42,6 +42,7 @@
 		"build": "cross-env NODE_ENV=production npm-run-all --sequential clean --parallel build:js build:sass --sequential build:eleventy build:index",
 		"build:benchmark": "DEBUG=Eleventy:Benchmark* npm run build",
 		"debug:build": "DEBUG=Eleventy* npm run build",
+		"subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --whitelist=U+0020 --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/static/ui/fonts/",
 		"dates": "./_scripts/add-dates.sh",
 		"prepare": "npx husky install",
 		"webmentions": "node ./_scripts/update-webmentions.js",
