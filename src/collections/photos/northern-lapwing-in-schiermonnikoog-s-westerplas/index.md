@@ -78,6 +78,7 @@ geo:
   longitude: 6.152509376666667
   country: Pays-Bas
   city: Schiermonnikoog
+  map: true
 colors:
   vibrant: 124 148 60
   darkVibrant: 50 77 4
@@ -88,8 +89,6 @@ colors:
 lqip: data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAABwDACdASpkAEMAP3Gsxlw0riemK/na6pAuCWNr3LAN3s/xa+RGFGKNrecIymAhMKVxis8D0q4OBT3W6Bx6TTWjJHwc7oM1U5stlAf6OQjl+p0YDiX2KR7SJDzJDLAG2uTjI29B5qHFpYhm04AA0uDmHb5LJuoRGBchO3uFqsCWu7SvlV0Gd0+tAm+lZkwLuAKRA1xy/JxLyTlJ9chEA3Edh/++MP+uDCF1rMD7bxCCyU2PSilirAL7TEDMzSXkYim/DFOCR3e4CP6kOU/u+4lud9wPCQ2C5e+EfRDO/MOBzdY+6rVOGbYbH1vdV06ACcnr4vehxyFwQX9r/l5/YyQW6Sj85giaYXOMIjFcWYakiOSepborwMFAA4z6mA8SKEXVZhEcBRGMYEt9m8YfVIQwRJeor4AOl7S8F9HhQyXpTYQ5JWCqaKHVYsxzG5gdiJxLLvJx7xGgFncKAAA=
 missing_data:
   alt_text: true
-  map: true
-  opengraph: true
 ---
 
 Schiermonnikoog is the smallest occupied island in the north of the Netherlands.

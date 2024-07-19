@@ -3,7 +3,7 @@ title: Night mirror
 file: night-mirror.jpg
 alt_text: Illuminated classical building at night with reflection on water
   surface, and silhouettes of people in the foreground.
-date: 2010-08-07 22:34:01 +01:00
+date: 2010-08-07 23:34:01 +02:00
 dates:
   iso: "'2010-08-07'"
   human: "'7 August 2010'"
@@ -19,10 +19,27 @@ gear:
       model: EF 24-70mm f/2.8L USM
       short: 24-70mm
 tags:
+  - bâtiment
+  - Bordeaux
+  - building
   - city
+  - eau
+  - Europa
+  - Europe
+  - France
+  - Gironde
+  - light
+  - lumière
+  - miroir
+  - night
+  - Nouvelle-Aquitaine
+  - nuit
+  - reflection
+  - reflet
   - urbain
   - urban
   - ville
+  - water
 settings:
   focal_length:
     raw: 34
@@ -48,7 +65,7 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 44.841980555
+  latitude: 44.841981
   longitude: -0.5690000000000001
   country: France
   city: Bordeaux

@@ -4,7 +4,7 @@ file: imeri-gramvousa.jpg
 alt_text: Panoramic view of a coastal landscape featuring a crescent-shaped
   beach with clear turquoise water, a ship docked on a pier, and rugged cliffs
   surrounding the bay.
-date: 2005-09-23 11:03:31 +01:00
+date: 2005-09-23 12:03:31 +02:00
 dates:
   iso: "'2005-09-23'"
   human: "'23 September 2005'"
@@ -22,6 +22,7 @@ gear:
 tags:
   - bateau
   - boat
+  - Chania
   - Crete
   - Crète
   - eau
@@ -30,9 +31,11 @@ tags:
   - Europe
   - Grèce
   - Greece
+  - Hania
   - île
   - Imeri Gramvousa
   - island
+  - La Canée
   - mer
   - montagne
   - mountain
@@ -44,6 +47,7 @@ tags:
   - Ελλάδα
   - Ήμερη Γραμβούσα
   - Κρήτη
+  - Περιφερειακή ενότητα Χανίων
 settings:
   focal_length:
     raw: 17
@@ -69,10 +73,10 @@ dimensions:
   width: 3500
   height: 1384
 geo:
-  latitude: 35.60827625333334
-  longitude: 23.576639096666668
-  country: Greece
-  city: Kissamos
+  latitude: 35.608276000000004
+  longitude: 23.576639
+  country: Grèce
+  city: Gramvoussa
   map: true
 colors:
   vibrant: 6 128 186

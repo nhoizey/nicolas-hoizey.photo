@@ -2,7 +2,7 @@
 title: (Sittin' On) The Dock of the Bay
 file: sittin-on-the-dock-of-the-bay.jpg
 alt_text: Two people sitting by a body of water with a tree branch in the foreground.
-date: 2014-03-14 14:24:29 +01:00
+date: 2014-03-14 15:24:29 +02:00
 dates:
   iso: "'2014-03-14'"
   human: "'14 March 2014'"
@@ -12,6 +12,23 @@ gear:
     brand: Panasonic
     model: GM1
     hashtags: "#Panasonic #GM1"
+tags:
+  - city
+  - eau
+  - Europa
+  - Europe
+  - fleuve
+  - France
+  - Ile de France
+  - La Seine
+  - Paris
+  - quai
+  - river
+  - Seine
+  - urbain
+  - urban
+  - ville
+  - water
 settings:
   iso:
     raw: 200
@@ -27,10 +44,9 @@ dimensions:
   width: 3500
   height: 2335
 geo:
-  latitude: 48.85818896166667
-  longitude: 2.3431397483333334
+  latitude: 48.858189
+  longitude: 2.34314
   country: France
-  city: Paris
   map: true
 colors:
   vibrant: 76 140 164

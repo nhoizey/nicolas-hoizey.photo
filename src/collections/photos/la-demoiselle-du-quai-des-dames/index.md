@@ -1,7 +1,7 @@
 ---
 title: La Demoiselle du Quai des Dames
 file: la-demoiselle-du-quai-des-dames.jpg
-date: 2017-06-08 20:37:03 +01:00
+date: 2017-06-08 21:37:03 +02:00
 dates:
   iso: "'2017-06-08'"
   human: "'8 June 2017'"
@@ -64,8 +64,8 @@ dimensions:
   width: 2872
   height: 1915
 geo:
-  latitude: 48.679005555
-  longitude: 2.3887861116666667
+  latitude: 48.679006
+  longitude: 2.388786
   country: France
   city: Draveil
   map: true
@@ -81,4 +81,4 @@ missing_data:
   alt_text: true
 ---
 
-A pretty lady all dressed in blue, quiet enough for me to photograph her with my Fujifilm X-T2 and its 56mm f/1.2 (until I get a real macro lens!), during an outing with friends of the Photo Club of Draveil.
+A pretty lady dressed all in blue, calm enough for me to photograph her, on a walk with friends from the Draveil Photo Club.
