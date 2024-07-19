@@ -69,45 +69,6 @@ module.exports = {
 		}
 		return 0;
 	},
-	layout: (data) => {
-		if (data.layout !== undefined && data.layout !== '') {
-			// A layout has been set in the content Front Matter
-			return data.layout;
-		}
-
-		// Default layout is a page
-		let layout = 'page';
-
-		// Photos have their own layout
-		if (isPhotoInPhotos(data)) {
-			if (process.env.NODE_ENV === 'production') {
-				return false;
-			} else {
-				return 'photo';
-			}
-		}
-
-		// Photos have their own layout
-		if (isPhotoInGallery(data)) {
-			return 'photo';
-		}
-
-		// Let's find if this content is in a collection folder
-		// (a folder inside the "collections" folder)
-		const folderRegex = new RegExp(
-			`^./${config.dir.src}/collections/([^/]+)/.*$`
-		);
-		let matches = data.page.inputPath.match(folderRegex);
-
-		if (matches) {
-			// This is a folder, use the layout of the collection if it exists
-			folder = matches[1];
-			if (fs.existsSync(`${config.dir.src}/_layouts/${folder}.njk`)) {
-				layout = folder;
-			}
-		}
-		return layout;
-	},
 	permalink: (data) => {
 		if (data.permalink) {
 			// A permalink has been set in the content Front Matter
