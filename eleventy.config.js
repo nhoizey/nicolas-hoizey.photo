@@ -37,7 +37,7 @@ module.exports = function (eleventyConfig) {
 	// 	.addPassthroughCopy(
 	// 		'src/{assets,photos,galleries,blog}/**/*.{jpg,jpeg,png,gif}'
 	// 	)
-	// 	.addPassthroughCopy('src/ui')
+	// 	.addPassthroughCopy('src/static/ui')
 	// 	.addPassthroughCopy('src/robots.txt')
 	// 	.addPassthroughCopy('src/favicon.ico');
 
