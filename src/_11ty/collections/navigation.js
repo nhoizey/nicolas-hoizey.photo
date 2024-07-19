@@ -10,6 +10,6 @@ module.exports = {
 			.sort((a, b) => sortOrderThenAlpha(a, b)),
 	navigation2: (collection) =>
 		collection
-			.getFilteredByGlob(['src/galleries/*/index.md'])
+			.getFilteredByGlob(['src/pages/galleries/*/index.md'])
 			.sort((a, b) => sortOrderThenAlpha(a, b)),
 };

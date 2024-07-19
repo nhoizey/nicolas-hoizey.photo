@@ -9,7 +9,7 @@ pagination:
 layout: base
 eleventyComputed:
   title: "{{ gallery.data.title | safe }}"
-permalink: "{{ gallery.data.page.filePathStem | dirname }}/oldest-first/"
+permalink: "{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') }}/oldest-first/"
 ---
 
 {% from "macros/css.njk" import css %}
@@ -33,7 +33,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname }}/oldest-first/"
     {{ gallery.content | safe }}
   </div>
 
-  {% set gallery_root %}{{ gallery.data.page.filePathStem | dirname }}/{% endset %}
+  {% set gallery_root %}{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') }}/{% endset %}
 
   {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
   {% set sub_galleries_number = sub_galleries | length %}
