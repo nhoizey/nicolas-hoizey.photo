@@ -2,7 +2,6 @@
  *  @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig
  */
 
-const glob = require('fast-glob');
 const path = require('node:path');
 
 const isProd = process.env.NODE_ENV === 'production';
@@ -26,38 +25,12 @@ module.exports = function (eleventyConfig) {
 	const pack11ty = require('eleventy-plugin-pack11ty');
 	eleventyConfig.addPlugin(pack11ty, pack11tyPluginOptions);
 
-	eleventyConfig.setDataDeepMerge(true);
-	eleventyConfig.setQuietMode(true);
-
 	// ------------------------------------------------------------------------
 	// Eleventy configuration
 	// ------------------------------------------------------------------------
 
-	// eleventyConfig
-	// 	.addPassthroughCopy(
-	// 		'src/{assets,photos,galleries,blog}/**/*.{jpg,jpeg,png,gif}'
-	// 	)
-	// 	.addPassthroughCopy('src/static/ui')
-	// 	.addPassthroughCopy('src/robots.txt')
-	// 	.addPassthroughCopy('src/favicon.ico');
-
-	// eleventyConfig.setUseGitIgnore(false);
-	// eleventyConfig.addWatchTarget('./ui/');
-
-	// eleventyConfig.setDataDeepMerge(true);
-	// eleventyConfig.setQuietMode(true);
-
-	// eleventyConfig.setServerOptions({
-	// 	watch: ['_site/ui/css/**/*.css', '_site/ui/js/**/*.js'],
-	// });
-
-	// if (process.env.NODE_ENV === 'production') {
-	//   eleventyConfig.ignores.add('src/tools/opengraph');
-	// }
-
-	// eleventyConfig.on('eleventy.contentMap', ({ inputPathToUrl }) => {
-	// 	console.log(inputPathToUrl);
-	// });
+	eleventyConfig.setDataDeepMerge(true);
+	eleventyConfig.setQuietMode(true);
 
 	return {
 		templateFormats: ['md', 'njk'],
