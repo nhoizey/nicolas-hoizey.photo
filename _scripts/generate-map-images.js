@@ -25,61 +25,64 @@ const glob = require('fast-glob');
   });
 
   await cluster.task(async ({ page, data: resourcePath }) => {
-    await page.setViewport({
-      width: 1200,
-      height: 800,
-      deviceScaleFactor: 1.5,
-    });
-    await page.setDefaultNavigationTimeout(50000);
+		await page.setViewport({
+			width: 1200,
+			height: 800,
+			deviceScaleFactor: 1.5,
+		});
+		await page.setDefaultNavigationTimeout(50000);
 
-    const folder = path.join('./src', resourcePath);
-    const isDir = await fs.stat(folder).then((stats) => stats.isDirectory());
-    if (!isDir) {
-      return;
-    }
+		const folder = path.join('./src', resourcePath);
+		const isDir = await fs.stat(folder).then((stats) => stats.isDirectory());
+		if (!isDir) {
+			return;
+		}
 
-    const file = path.join(folder, 'map.png');
-    const fileExists = await fs
-      .access(file)
-      .then(() => true)
-      .catch(() => false);
-    if (fileExists) return;
+		const file = path.join(folder, 'map.png');
+		const fileExists = await fs
+			.access(file)
+			.then(() => true)
+			.catch(() => false);
+		if (fileExists) return;
 
-    const photoUrl = `http://localhost:8080/${resourcePath}/`;
+		const photoUrl = `http://localhost:8080/${resourcePath.replace(
+			/^(collections|pages)\//,
+			''
+		)}/`;
 
-    console.log(`Get map image from ${photoUrl}`);
+		console.log(`Get map image from ${photoUrl}`);
 
-    await page.goto(photoUrl, { waitUntil: 'networkidle0', timeout: 0 });
+		await page.goto(photoUrl, { waitUntil: 'networkidle0', timeout: 0 });
 
-    // Remove marker and its shadow
-    const markerShadow = await page.$('#map .marker-shadow');
-    if (markerShadow) {
-      await markerShadow.evaluate((node) =>
-        node.parentElement.removeChild(node)
-      );
-    }
-    const marker = await page.$('#map .marker');
-    if (marker) {
-      await marker.evaluate((node) => node.parentElement.removeChild(node));
-    }
+		// Remove marker and its shadow
+		const markerShadow = await page.$('#map .marker-shadow');
+		if (markerShadow) {
+			await markerShadow.evaluate((node) =>
+				node.parentElement.removeChild(node)
+			);
+		}
+		const marker = await page.$('#map .marker');
+		if (marker) {
+			await marker.evaluate((node) => node.parentElement.removeChild(node));
+		}
 
-    // Take a screenshot of the map
-    const map = await page.$('#map img');
-    if (map) {
-      await map.screenshot({ path: file, type: 'png' });
-    }
-  });
+		// Take a screenshot of the map
+		const map = await page.$('#map img');
+		if (map) {
+			await map.screenshot({ path: file, type: 'png' });
+		}
+	});
 
-  // In case of problems, log them
-  cluster.on('taskerror', (err, data) => {
-    console.log(`  Error with ${data}: ${err.message}`);
-  });
+	// In case of problems, log them
+	cluster.on('taskerror', (err, data) => {
+		console.log(`  Error with ${data}: ${err.message}`);
+	});
 
-  // Get the list of photos
-  const photos = await glob(['photos/*'], {
-    cwd: 'src',
-    onlyDirectories: true,
-  });
+	// Get the list of photos
+	const photos = await glob(['collections/photos/*'], {
+		cwd: 'src',
+		onlyDirectories: true,
+	});
 
   // Queue processing of all photos and galleries
   [...photos].forEach((resourcePath) => cluster.queue(resourcePath));
