@@ -82,11 +82,8 @@ lqip: data:image/webp;base64,UklGRvQCAABXRUJQVlA4IOgCAAAwGgCdASpkAIcAP2mawVizqyc
 missing_data:
   lens: true
   map: true
-  opengraph: true
 ---
 
 The Iron Gates are one of the most famous features of the Samariá Gorge hike.
-
-Here the creek has carved a 300 m deep gorge through the White Mountains.
 
 The "gates" aren't actually made of iron but rather are a 4 meters wide section of the gorge with 300 m tall cliffs on either side.

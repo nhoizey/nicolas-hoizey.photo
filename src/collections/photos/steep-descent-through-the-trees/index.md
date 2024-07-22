@@ -79,7 +79,6 @@ colors:
 lqip: data:image/webp;base64,UklGRmACAABXRUJQVlA4IFQCAAAwFgCdASpkAEMAP2Gcv1iyq6ajtfStylAsCWIAzKX/6T5u1EMzgpFp/D13f6gTDu11wtk0WncbOcg5lTsF7Veo81KK2iACZPQQfxZ8jlX/uZduk8XWJjmxM8u2ice/MlSGnKfUD8w/m9SLxl8T6Cm+3avCXHUP70jelGNkYRoRPKfe4Ug8XTpsYigrwy84W4Rnx0X3LyKBNTh6mZH99gnnDQmCW8k5eJqhYq0FOKKZHEJM9LdSrmtWAAAA+xQa/O/6MdSX/4BTEkPUtMzh1TVjRZdO7gGQmUkFARbvqJQDUd4/PSauMcVpa2bPnqmBHnIfLSJ0w6AM50pIaePfBG3OcaM9HVeESR/hOHJP8dwDOngRRQo1Cg/+3AHVuOvuyh9fgHKdLHI9wu3k2Gha7Rahi06rou/4KWDIg9SPo74+x3m/Sr4FIHCMjnw5IiPHFqgM5mbFtxY0NE+FWTzQ5tSiE/i2NzaF/mLDOlXPOVO+q5VX0Yo3utPP5CVkikwsjOsrLS9U8dqRN9393V+Aw50V2nx0vsN1OmZHStQLMz5YQJW0QnM3bjGLMs/bEDYU1CRB886Y22My8DUi5zEjQ9TMkMQRf4+/0pV+6J/xByJUhVNtFu/YjyUuPQfxAZ7aXvd0po7VpkllXjem/m/usGG1veL9NaURSSjG9SrMPEnIeH8RjlY9Kv77XJ20HLuU5qYCb3Ion9/+G4N6QwzzWcaS//H+p2oUHZNf2f/cf0AbbVmo0gpxkQMI8zugNtN2crbGiIisoRDbRF1Ig8yu3YmJaMywAA==
 missing_data:
   map: true
-  opengraph: true
 ---
 
 The 10-mile trail starts at the top of the gorge, at an elevation of 1230 meters, taking visitors past towering cliffs, sweeping views, and uniquely Cretan flora and fauna.

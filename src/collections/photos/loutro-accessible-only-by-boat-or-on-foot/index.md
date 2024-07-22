@@ -87,7 +87,6 @@ colors:
 lqip: data:image/webp;base64,UklGRnQBAABXRUJQVlA4IGgBAAAQDQCdASpkAEMAP3GixVm0v6eqszJMA/AuCUAZdOpYX+Im6iRTpp8xYN2jUiAuhC2y7FCFmJABjhpR9VbpQMMDlQuwIgKopL/LumM8QVYO9AfovfXRyBYLKSMxubE1GJawVE1XaN1Buf0kC2+rsSuIAAD+3YasefAkrG6Lxiw3Wdsg0CVKxBbpBHysvL/belfOGXtCA11LQvs8VZRQeWCUFcpe1UYGpOgfTORQtVwsmk6fOleboiIAVQzi2lVSsQXf3zFs68eh5tH4Y+eTt9ne2CDvczyAm7VDu/vfxxrgaWptAW5nUsvnHoO+IhAyEI4Qs16goC066hcQvr6/rFDkRxnyjaD0CnOVE6zAP4ucqFSI/SNtGFBH6WlYNVac4MZONjvxIeuZieyx/3USVhjdh6nDvpyh+MCJWhyqUL2PNqjc5fm3nGMj916bMtloGyIFkozG1fmIHbZjjDIIloMW5+KJgaAAAAA=
 missing_data:
   map: true
-  opengraph: true
 ---
 
 The charming white village of Loutro, in Crete, is isolated at the foot of the mountains around a small cove.

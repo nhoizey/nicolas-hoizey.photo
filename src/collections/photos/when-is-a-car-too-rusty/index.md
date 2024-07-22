@@ -76,7 +76,6 @@ lqip: data:image/webp;base64,UklGRlYCAABXRUJQVlA4IEoCAAAwEgCdASpkAEMAP3GgxFi0q6g
 missing_data:
   lens: true
   map: true
-  opengraph: true
 ---
 
 Sea breezes are invigorating for people, but harmful for vehicles. The salt-saturated air, combined with the seaside humidity and direct, unobstructed sunlight, accelerates the deterioration of cars.

@@ -83,7 +83,6 @@ colors:
 lqip: data:image/webp;base64,UklGRi4BAABXRUJQVlA4ICIBAABwCgCdASpkAEMAP3Gqx1u0rTq3LbRLm1AuCWMAzJQtO3CtaWO6cVdbDJBQEE4djo4QiQi75Q09sOSKB1BwXO2RJ01LysWm5EOyh1YinEyyop7WgHJ307aEfxhDAAD+0/M5QZ2ywPBcn6Xfk5linGFWOt6HRuy7zeGMZlNPYJM+UyBdwsjl9RkhEtDClwoMfRDsCbDKL8YIJXVsUn+5nIzdlyHSBja51c6trK974A2LRsub7YO4rlnxCoVQ7VBIncy6ES+5qZPvZ8dJM8c23bGhcPqzVkf7weiJvxViFIEpxUcU+pKKBW0+UyeSqqnGzzVR+BntQbOeJl9csGnkllWqjIWLw8BaSbSMYLsEvJZNXU7LbkEsZPlRfmKvrNJpcAAAAA==
 missing_data:
   map: true
-  opengraph: true
 ---
 
 Barely visible on the horizon, 40km off the southern coast of Crete (and 289km north of the African coast), Gavdos is the southernmost Greek island in Europe.

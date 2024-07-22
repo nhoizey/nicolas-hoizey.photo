@@ -90,7 +90,6 @@ lqip: data:image/webp;base64,UklGRrYBAABXRUJQVlA4IKoBAACQDwCdASpkAEMAP3Gix1w0qzq
 missing_data:
   alt_text: true
   map: true
-  opengraph: true
 ---
 
 This building is part of the recent modern constructions along the avenue Pierre Mendès-France, along the train tracks leading to the Austerlitz station.
