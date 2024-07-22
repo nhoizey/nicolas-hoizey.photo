@@ -42,7 +42,6 @@ tags:
   - panorama
   - sea
   - shipwreck
-  - vacances
   - water
   - Ελλάδα
   - Ήμερη Γραμβούσα
@@ -88,6 +87,10 @@ colors:
 lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAACwCwCdASpkACgAP22exVi0q6gjsNXdmpAtiWZmQFdgPr9//5VxgMUhVJjH6/yPK5Pn1Ymyj4SGhvnckNXbqtSW3AXswvMudqUERsYhLB7lYFR9rpTXEzuo2Zi/EwRvWXGajC0tQAAAzY+40uCRTQ4k1O7/FsCHPwnA6zsx6gCO2qTKmKblZvDqiPQ8uUZkwZMEhdLcc5KSih2vyLOQHOxwECErY7WWtfCXZ+LxBL4UtdGJl0NBokF6d9Vn7f7th3neuc/S8UhGJB5ERzk8ckaTkobDru+7oSstXZRRCVWUJ2OKYHu9xVaDTwZ1Siho2vD8eWEvzmsMuxqOkmzo50JV3Bb3kEh3N7ki8N0EWoKNkV9mt8jZyjSL/ESMPjJ/bpywcCDf8OwbvjdOgqDyF0WJJhV+50juKsmt5Nfqjs28WVPuICeoTTL6CL/+/JdKaoWbTgVAApN93p1B9nIAAA==
 ---
 
-Imeri Gramvousa hosts the remains of a Venetian fort and the remains of buildings left behind by Cretan insurgents, who were compelled to live as pirates during the Greek War of Independence.
+Imeri Gramvousa hosts the remains of a Venetian fort, which still stands at a height of 137 meters over the beach, left behind by Cretan insurgents, who were compelled to live as pirates during the Greek War of Independence.
 
-Imeri Gramvousa faces Balos Lagoon, a famous  tourist attraction.
+One legend tells that there is a great treasure buried in the island.
+
+Also, the old wreck that was abandoned many years ago near the beach has become an characteristic part of the landscape.
+
+Imeri Gramvousa faces the beautiful Balos lagoon, a famous tourist attraction.
