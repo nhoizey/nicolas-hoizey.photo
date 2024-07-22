@@ -9,7 +9,7 @@ pagination:
 layout: false
 eleventyComputed:
   title: opengraph image for “{{ gallery.data.title }}”
-permalink: "{{ gallery.filePathStem | dirname }}/opengraph.html"
+permalink: "{{ gallery.filePathStem | dirname | replace('/pages', '') }}/opengraph.html"
 ---
 <!DOCTYPE html>
 <html lang="en">
