@@ -49,6 +49,13 @@ for = "/*.webmanifest"
 Content-Type = "application/manifest+json"
 Cache-Control = "public, max-age=2592000, immutable"
 
+# Speculation rules: https://developer.chrome.com/blog/speculation-rules-improvements#speculation-rules_http_header
+[[headers]]
+for = "/speculation-rules.json"
+[headers.values]
+Content-Type = "application/speculationrules+json; charset=utf-8"
+
+
 [[headers]]
 for = "/ui/thumbnails/sprite.*"
 [headers.values]
