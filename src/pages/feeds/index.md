@@ -1,6 +1,5 @@
 ---
 title: Feeds
-layout: page
 nav:
   order: 10
   icon: feeds

@@ -54,33 +54,11 @@ module.exports = {
 			return photoData.data.title;
 		}
 	},
-	// platforms: (data) => {
-	//   if (isPhotoInGallery(data)) {
-	//     const photoData = getPhotoData(data.page.fileSlug);
-	//     return photoData.platforms;
-	//   }
-	//   return {};
-	// },
 	interestingness: (data) => {
 		if (isPhotoInGallery(data)) {
 			const photoData = getPhotoData(data.page.fileSlug);
 			return photoData.interestingness || 0;
 		}
 		return 0;
-	},
-	permalink: (data) => {
-		if (data.permalink) {
-			// A permalink has been set in the content Front Matter
-			return data.permalink;
-		}
-		if (process.env.NODE_ENV === 'production' && isPhotoInPhotos(data)) {
-			return false;
-		}
-		if (config.permalinkFolders) {
-			// Keep Eleventy default behavior for permalinks
-			return data.page.filePathStem.replace(/\/index$/, '') + '/index.html';
-		} else {
-			return data.page.filePathStem + '.html';
-		}
 	},
 };
