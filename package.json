@@ -65,7 +65,7 @@
 		"dotenv": "^16.4.5",
 		"download": "^8.0.0",
 		"eleventy-plugin-auto-preload": "^1.2.0",
-		"eleventy-plugin-pack11ty": "^1.18.0",
+		"eleventy-plugin-pack11ty": "^1.18.1",
 		"entities": "^4.5.0",
 		"eslint": "^8.57.0",
 		"eslint-config-prettier": "^8.10.0",
@@ -128,7 +128,6 @@
 		"svg-country-flags": "^1.2.10",
 		"svgstore": "^3.0.1",
 		"truncate-html": "^1.1.1",
-		"twitter-text": "^3.1.0",
 		"unsplash-js": "^7.0.19",
 		"utf8": "^3.0.0",
 		"yaml": "^1.10.2"
