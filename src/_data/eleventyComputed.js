@@ -22,7 +22,6 @@ module.exports = {
 			tagline: (data) => 'blop',
 		},
 	},
-	lang: config.defaultLang || 'en',
 	origin: (data) => {
 		if (isPhotoInGallery(data)) {
 			return getPhotoData(data.page.fileSlug);

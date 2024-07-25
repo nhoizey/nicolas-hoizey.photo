@@ -1,9 +1,7 @@
 module.exports = {
-  dir: {
-    src: 'src',
-    assets: 'assets',
-    dist: '_site',
-  },
-  defaultLang: 'en',
-  permalinkFolders: true,
+	dir: {
+		src: 'src',
+		assets: 'assets',
+		dist: '_site',
+	},
 };
