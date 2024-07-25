@@ -1,5 +1,5 @@
 [build]
-command = "npm run build"
+command = "npm i pagefind @pagefind/linux-x64 && npm run build"
 publish = "_site"
 functions = "functions"
 edge_functions = "edge_functions"
