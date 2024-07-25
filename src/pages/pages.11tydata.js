@@ -8,12 +8,12 @@ module.exports = {
 
 			if (data.page.filePathStem.match(/^\/pages\/galleries\/[^\/]+/)) {
 				if (data.page.filePathStem.endsWith('/index')) {
-					return 'gallery';
+					return 'galleries';
 				}
-				return 'photo';
+				return 'photos';
 			}
 
-			return 'page';
+			return 'pages';
 		},
 	},
 };
