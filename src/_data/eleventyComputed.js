@@ -61,4 +61,10 @@ module.exports = {
 		}
 		return 0;
 	},
+	permalink: (data) => {
+		if (process.env.NODE_ENV === 'production' && isPhotoInPhotos(data)) {
+			return false;
+		}
+		return data.permalink;
+	},
 };
