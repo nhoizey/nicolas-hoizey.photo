@@ -56,11 +56,10 @@
     {# Mastodon: https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/ #}
     <meta name="fediverse:creator" content="@nhoizey@pixelfed.social" />
 
-    {% if page.layout != "page" %}
-      {# TODO: Improve test (for example 404 page is a page but without "page" layout) #}
+    {% if page.layout != "pages" %}
+      {# TODO: Improve test (for example 404 page is a page but without "pages" layout) #}
       <meta property="og:type" content="article" />
       <meta property="article:published_time" content="{{ page.date | attributeDate }}" />
-      <meta property="article:author" content="https://www.facebook.com/{{ site.author.facebook }}" />
       {% for tag in tags %}
         <meta property="article:tag" content="{{ tag }}" />
       {% endfor %}
@@ -78,18 +77,13 @@
     <link rel="icon" type="image/jpeg" href="/ui/images/nicolas-hoizey-photography-192px.jpg" />
 
     {# ########################################################
-    # opengraph and Twitter
+    # opengraph
     # ########################################################}
     <meta property="og:site_name" content="{{ site.title }}" />
-    <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
-    <meta name="twitter:site" content="@{{ site.author.twitter }}" />
-    {# https://dev.twitter.com/web/overview/widgets-webpage-properties#csp #}
-    <meta name="twitter:widgets:csp" content="on" />
     {#
     https://developers.facebook.com/docs/sharing/best-practices?locale=fr_FR#images
     https://developers.facebook.com/tools/debug/sharing/
     #}
-    <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     {% block opengraphimage %}
