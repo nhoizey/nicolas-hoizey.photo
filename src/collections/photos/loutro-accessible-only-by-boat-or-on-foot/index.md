@@ -23,17 +23,16 @@ tags:
   - blanc
   - bleu
   - blue
-  - Chania
+  - Chania region
   - Crete
   - Crète
+  - district régional de La Canée
   - Europa
   - Europe
   - Grèce
   - Greece
-  - Hania
   - home
   - house
-  - La Canée
   - landscape
   - Loutro
   - maison

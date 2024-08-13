@@ -22,20 +22,19 @@ gear:
 tags:
   - bateau
   - boat
-  - Chania
+  - Chania region
   - Crete
   - Crète
+  - district régional de La Canée
   - eau
   - épave
   - Europa
   - Europe
   - Grèce
   - Greece
-  - Hania
   - île
   - Imeri Gramvousa
   - island
-  - La Canée
   - mer
   - montagne
   - mountain

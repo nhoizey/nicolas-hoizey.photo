@@ -17,8 +17,10 @@ gear:
     hashtags: "#Canon #RebelXT"
 tags:
   - Chania
+  - Chania region
   - Crete
   - Crète
+  - district régional de La Canée
   - door
   - Europa
   - Europe
@@ -34,6 +36,7 @@ tags:
   - Ελλάδα
   - Κρήτη
   - Περιφερειακή ενότητα Χανίων
+  - Χανιά
 settings:
   focal_length:
     raw: 35

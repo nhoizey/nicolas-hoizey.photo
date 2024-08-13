@@ -16,18 +16,17 @@ gear:
     short: 350D
     hashtags: "#Canon #RebelXT"
 tags:
-  - Chania
+  - Chania region
   - Chóra Sfakíon
   - Crete
   - Crète
+  - district régional de La Canée
   - Europa
   - Europe
   - Ford
   - Grèce
   - Greece
-  - Hania
   - Hora Sfakion
-  - La Canée
   - rouille
   - rust
   - Sfakia

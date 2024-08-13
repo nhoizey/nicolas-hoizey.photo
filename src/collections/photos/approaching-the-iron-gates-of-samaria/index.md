@@ -15,18 +15,17 @@ gear:
     hashtags: "#Konica"
 tags:
   - canyon
-  - Chania
+  - Chania region
   - Crete
   - Crète
+  - district régional de La Canée
   - Europa
   - Europe
   - gorge
   - Gorges de Samaria
   - Grèce
   - Greece
-  - Hania
   - hiking
-  - La Canée
   - montagne
   - mountain
   - randonnée

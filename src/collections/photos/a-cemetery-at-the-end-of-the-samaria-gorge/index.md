@@ -21,20 +21,19 @@ gear:
 tags:
   - canyon
   - cemetery
-  - Chania
+  - Chania region
   - chapel
   - chapelle
   - cimetière
   - Crete
   - Crète
+  - district régional de La Canée
   - Europa
   - Europe
   - gorge
   - Gorges de Samaria
   - Grèce
   - Greece
-  - Hania
-  - La Canée
   - Samariá Gorge
   - Ελλάδα
   - Κρήτη

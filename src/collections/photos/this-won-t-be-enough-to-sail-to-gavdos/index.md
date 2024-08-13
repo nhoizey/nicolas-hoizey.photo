@@ -25,15 +25,14 @@ tags:
   - bleu
   - blue
   - boat
-  - Chania
+  - Chania region
   - Crete
   - Crète
+  - district régional de La Canée
   - Europa
   - Europe
   - Grèce
   - Greece
-  - Hania
-  - La Canée
   - mer
   - pier
   - ponton

@@ -21,10 +21,12 @@ gear:
       short: 17-85mm
 tags:
   - Chania
+  - Chania region
   - ciel
   - cloud
   - Crete
   - Crète
+  - district régional de La Canée
   - eau
   - Europa
   - Europe
@@ -32,6 +34,7 @@ tags:
   - Greece
   - Hania
   - harbor
+  - harbour
   - La Canée
   - lighthouse
   - mer
@@ -42,13 +45,16 @@ tags:
   - phare
   - pier
   - port
+  - port vénicien
   - quai
   - sea
   - sky
+  - Venetian harbour
   - water
   - Ελλάδα
   - Κρήτη
   - Περιφερειακή ενότητα Χανίων
+  - Χανιά
 settings:
   focal_length:
     raw: 17

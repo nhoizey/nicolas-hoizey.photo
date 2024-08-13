@@ -20,9 +20,11 @@ tags:
   - chair
   - chaise
   - Chania
+  - Chania region
   - Crete
   - Crète
   - crue
+  - district régional de La Canée
   - Europa
   - Europe
   - flood
@@ -35,6 +37,7 @@ tags:
   - Ελλάδα
   - Κρήτη
   - Περιφερειακή ενότητα Χανίων
+  - Χανιά
 settings:
   focal_length:
     raw: 24

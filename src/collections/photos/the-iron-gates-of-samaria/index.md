@@ -20,10 +20,11 @@ gear:
       short: 17-85mm
 tags:
   - canyon
-  - Chania
+  - Chania region
   - cliff
   - Crete
   - Crète
+  - district régional de La Canée
   - Europa
   - Europe
   - falaise
@@ -31,9 +32,7 @@ tags:
   - Gorges de Samaria
   - Grèce
   - Greece
-  - Hania
   - hiking
-  - La Canée
   - montagne
   - mountain
   - randonnée

@@ -22,17 +22,16 @@ tags:
   - blanc
   - bleu
   - blue
-  - Chania
+  - Chania region
   - Crete
   - Crète
+  - district régional de La Canée
   - Europa
   - Europe
   - Grèce
   - Greece
-  - Hania
   - hotel
   - hôtel
-  - La Canée
   - Loutro
   - mer
   - sea
