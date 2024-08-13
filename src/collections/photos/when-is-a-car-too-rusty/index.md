@@ -65,6 +65,7 @@ geo:
   longitude: 24.13810486
   country: Grèce
   city: Chora Sfakion
+  map: true
 colors:
   vibrant: 202 142 80
   darkVibrant: 108 64 24
@@ -75,7 +76,6 @@ colors:
 lqip: data:image/webp;base64,UklGRlYCAABXRUJQVlA4IEoCAAAwEgCdASpkAEMAP3GgxFi0q6gjslJt2pAuCUAZZnb/4fiLin5Devu2ExzDsHqH+40Jn3HO760+s4cxWs1cHBHQGoOMS6DR4xAXEgH9mU+Krlnigj0guJBBGeFIOa4q1jVthgH4gOrLU5c5QIJxHrbPpEfxDwvR9RICZUwnYdvY8oDimd03eTiWdwRjMTpx7XqRYCcmGczC0JYAAP6e8hesNN2Y0uCC1dC2w4eLUgolMB0+nCoK9zUwQZ0kgqiAuczAlwhANl9I6vt751SR7RKdfJXFY76tQHEDpVOQENW0s3H8Ev5cmunx8PFQzExKghHf1P85xpd0INzu/O+DOLV33PJqhG8dzu+3h/KERKVW0ebPFm7R5cep7mgDE+ICWMNY68yPZ+ee8DGlKQ5mzeP8Re1WsqUulFREH/4VXgZB0s83/8js+kHU3nWXTBFVu9+RFWlhRTbZ+fs2uUZeeb5OeYBT3EYSEMKW8pBjN4YS2k0HC9oh51hKVfbtqscXW6i2A4DyJ4orsc950mRRO+OHp2LgYJy63Y3U03pIgnDMxEDhSpbiD2m1hA8aoOiXBYXjCHaBWX27/DL4YNdlWp9++Hk3l438bVd4rOFizlglGzjYishAsX7YwCfoK+yya3ggxZ33m7gptKh6yJH6KY9OTPhq9rtrpoFfcStr/tnQYLUUszbU8y7mkyGrbYRatm+dYcAbW1GgoJj+sKVUOvO0E0/uuhOezD5xUmW8dWo0pcvb6KTKUgnAhR2hxqKnmrpSVTE6Yvq6QAAA
 missing_data:
   lens: true
-  map: true
 ---
 
 Sea breezes are invigorating for people, but harmful for vehicles. The salt-saturated air, combined with the seaside humidity and direct, unobstructed sunlight, accelerates the deterioration of cars.

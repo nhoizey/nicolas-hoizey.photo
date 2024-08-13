@@ -71,6 +71,7 @@ geo:
   longitude: 23.968602138333335
   country: Grèce
   city: Agía Rouméli
+  map: true
 colors:
   vibrant: 184 64 60
   darkVibrant: 137 37 23
@@ -81,7 +82,6 @@ colors:
 lqip: data:image/webp;base64,UklGRvQCAABXRUJQVlA4IOgCAAAwGgCdASpkAIcAP2mawVizqycjtNS+KnAtCWUA0YUoJBdUbXDdSdyGoIiZqJ6XIwREgJBWVQitasYX2/SjnRq6EeD1Q921eiQ8TAeAsL2PPN+1TrnJrP1uNwhDooxFmJiLB9kmzJrDQ2JOAQK1R3OE7iRgHmO6GT/uKcTm9E/p/cNvTGrPuF24NsqTikqdbCzwNWSWmyMGXQFcP8uDQxRLaOogB/O2MgjdZuOLNMqwcvopzeC1wyWrb7zXxpIO6vOgBxIuDoChmeLsjjUKnYWZAvCaF0M9RcyoAAD+qgiN4ULHwvU+k4NV6i+h0kviMDxYehKeAWh58PtASbOrd2Sdhrcu4XWlpkXuackEPaUCNaAph+/FB0E86jjzx6s8qhkLnZ06kwRrIcKWMoXYSiHa6o1nySEElQ27guX/FJLcJWu//fPoPa36DPjojTgdBExMILvENBe51d3STmlx3wCfCrGVvsEsrQQGccTB0Ps9txl35fpLodsvDfkhXy8ZlDtK9Nkn4aTuJyZRckxFc29JdabDwTGO682WBxFj5jdnjy6d/iLmHpxtEF3tNauvg2hzlBKodRidyZMTpWfy4y1LmxKtx9c1FFVobB8Qy/7FDeqZyKTPMXB5JNjlmUFDdVMNLy1lyXMJE0ivnJZQHWRQrRn6cCOqp0L+j815jbi/zNYKuZGOiql+1FJrfUJutl1GZwgwD7XLtyB0y/6254CXOXRxKRSNJoH8vuDq2ltsaLtv4SCP+zs7i5QOVJeUJD+ItqWTzCdHax0Q7eNQnEBZ8yfu5pXmYViwuZw1nw98iihqbWczGhblUqYC+fsPoKbtGQiWx3oTGo4X83PBS09/MXMpGMJlfutbTHRcqTK6jSJQdHocfRAsJcIhpxNPUmKckp9bgOVy4cyT0AkMNe/UIu2U/oDykSGEszHnduy5VHTNE2fFXQeODcvxZi3FjkOu8HkwR4T5rO8+9/W3DrhQyUy9Qw+gAAA=
 missing_data:
   lens: true
-  map: true
 ---
 
 The Iron Gates are one of the most famous features of the Samariá Gorge hike.

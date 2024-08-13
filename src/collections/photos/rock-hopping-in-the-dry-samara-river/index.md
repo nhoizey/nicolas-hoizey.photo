@@ -73,6 +73,7 @@ geo:
   longitude: 23.928240941666665
   country: Grèce
   city: Agía Rouméli
+  map: true
 colors:
   vibrant: 196 124 46
   darkVibrant: 140 76 28
@@ -81,8 +82,6 @@ colors:
   darkMuted: 64 78 54
   lightMuted: 175 192 209
 lqip: data:image/webp;base64,UklGRuYBAABXRUJQVlA4INoBAABwEQCdASpkAEMAP1mYu1iyKyYjtfldykArCWNrLFtUbKHHkglAd6yqxAq5vxHkm09k2dxmbkZCEUMxwug73JprOQ5EUG3yJicpuiKe+R0fb2s2PX9Ry/MJXY+UZcovM2qvKFs2gGZoim8cMaGu29MW0svZQbnvk/Vne+Z6c7CnTM244lkO4zpZrYeHUvsOQH5Obw5wAP7q+3KhJC/hvU8Ku6gs8uU5XHQ0DxBPVW0HS/izOpKaLsBkXK/yCa949JbmxAChH5YrKfAnaYz4An9ghUXypBWS1/r+v7ff7Y7HkyhwUMXlIrRD6S7520J+RLYl34ba9qGtrjvRIZ0GRWqvV5ktlG72qNnp0N21YC4eN9cq0q8N3UOMQr7TY+qiLF7LyK38ZZATXFDAkderdG2gC+gOJVfiNM1V71nGuZyAnRUAVKUt8jNLsi9qqn9JP3p7oD9uDrGcOL5unVARZrU13VGe76N6pFe9BbFJcJiaFZqy81QDLp5TssLGXLULgd6PO912pYrSMbtM4yVp+TsHQ0v9Ngcuj57Wfgfml+WDVp0SEmKyJxE6EUKgiqjjt9ESCMN51UZVIf8JDCqEbqOH0sRLU2WNoAO/piWPnZEXrPT2penMUJBAAAA=
-missing_data:
-  map: true
 ---
 
 The trail goes over the river, which is usually reduced to a stream by summer months.

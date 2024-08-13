@@ -78,6 +78,7 @@ geo:
   longitude: 24.01724325
   country: Grèce
   city: La Canée
+  map: true
 colors:
   vibrant: 199 60 26
   darkVibrant: 118 33 17
@@ -86,8 +87,6 @@ colors:
   darkMuted: 41 60 77
   lightMuted: 199 215 229
 lqip: data:image/webp;base64,UklGRhwBAABXRUJQVlA4IBABAAAwCACdASpkAB4AP3Gy0GG0rakmIksSkC4JQBk3j4hclXkAKxkKgU/qa8IPeNgMLzo5zHLuq1TnF83qvM8gteU8eyzoMimdJU45gAD667aOqit4xb/W/LF22fGIc7Wx5sRDIoCCdmCoU4ejW9CWnYGhmz9ozNo0H3Q70v+2YNH1oTwQcoI1v0heVWIBwim47I5NFbtysKKsYvswzMjfWtdNG+BG5jCb1oQuZwSZprImOlwRA9H5CIfkiI+5J0x1z5BNXqS7944XEHCG1EbevtgE52CV7oKZLlY1vMFeDF0bhFKQpHQiXfddhNibdasQteZtISo4qxWSwK7afe2ClKedEsNY/mF7AEu9s/cwFEiAAA==
-missing_data:
-  map: true
 ---
 
 Chania (also known as Hania), Crete's second largest city, lies along the island's northern coast.

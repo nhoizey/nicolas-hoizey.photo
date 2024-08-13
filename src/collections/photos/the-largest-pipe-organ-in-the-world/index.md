@@ -79,6 +79,7 @@ geo:
   longitude: 2.370855
   country: France
   city: Paris
+  map: true
 colors:
   vibrant: 14 125 197
   darkVibrant: 4 88 163
@@ -89,7 +90,6 @@ colors:
 lqip: data:image/webp;base64,UklGRrYBAABXRUJQVlA4IKoBAACQDwCdASpkAEMAP3Gix1w0qzqsK/icW1AuCUAZx7ufdhL2wTVYO8fBEMySkumT/qeOvAmBm3tyUdhzRn7qXB8tZTCMurRXgyvlth4K1AjWgY9tL+ffh3oBK1xFHTo2CnMEEHuJJCdSNOUSQDWeqvIlJfyu53bpDL9W0+DCehwnGkwb1GlAAPx3w11e6u2sU2R07yddgJLasSi7NYhDZV55ZE3Da2rs22oqFmvYsh8jEacw/XttLUuIXtoCMiD6jU4uKhp7bT22nat4Xpq/C+8961puhafAmjklwAU7TZv4a/sCpUNO4R/TZmeSCnv2vNHyttGDa3ZQVq7xBUwiZHVWzHEgosJWe8ZWvlSxQm+ZrZ8hU92WKsE8sfU3BBwwOrQqywMSZiBm0J3iiDLctXi9L4R9zpM7+CRy9PtSu4axlhPLugPoFpVa85QnLMY5fztu/6rwLBfrH526QBUlSJnQasid/Hm5xL9mqdudWd7Xe5gLw1TUJYlYpoaoH+ZCJ+1HCIgEgpI615rLhh6fhvPhiKAqQZNWze4JjukdL3d2VgYAILiNEzZgAAA=
 missing_data:
   alt_text: true
-  map: true
 ---
 
 This building is part of the recent modern constructions along the avenue Pierre Mendès-France, along the train tracks leading to the Austerlitz station.
