@@ -25,7 +25,7 @@ minute=$(date +"%M")
 second=$(date +"%S")
 
 # Create year folder if it doesn't exist yet
-folder="./src/blog/$year/$month/$day/$slug"
+folder="./src/collections/blog/$year/$month/$day/$slug"
 mkdir -p "$folder"
 
 post="$folder/index.md"
@@ -48,4 +48,4 @@ EOF
 
 echo "$body" > "$post"
 
-/usr/local/bin/code "$post" &
+/opt/homebrew/bin/code "$post" &
