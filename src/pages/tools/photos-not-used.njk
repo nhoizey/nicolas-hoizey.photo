@@ -12,9 +12,9 @@ title: Photos that are not used yet
 <ul class="photos">
   {% for item in collections.photos_not_in_galleries %}
     {% if loop.index < 4 %}
-      <li>{{ photo(item, "eager", build.env, true) }}</li>
+      {{ photo(item, "eager", build.env, true) }}
     {% else %}
-      <li>{{ photo(item, "lazy", build.env, true) }}</li>
+      {{ photo(item, "lazy", build.env, true) }}
     {% endif %}
   {% endfor %}
 </ul>

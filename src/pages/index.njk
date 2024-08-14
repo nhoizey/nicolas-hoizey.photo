@@ -31,7 +31,7 @@ layout: false
     <h2>Photos shared recently</h2>
     <ul class="photos">
       {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | last_published_first | limit(6) %}
-        <li>{{ photo(item, "lazy", build.env) }}</li>
+        {{ photo(item, "lazy", build.env) }}
       {% endfor %}
     </ul>
     <p>You can subscribe to <a href="/feeds/">the feed</a> to not miss any new photo.</p>
@@ -41,7 +41,7 @@ layout: false
     <h2>Most popular photos</h2>
     <ul class="photos">
       {% for item in collections.popular_photos | limit(6) %}
-        <li>{{ photo(item, "lazy", build.env) }}</li>
+        {{ photo(item, "lazy", build.env) }}
       {% endfor %}
     </ul>
   </section> #}

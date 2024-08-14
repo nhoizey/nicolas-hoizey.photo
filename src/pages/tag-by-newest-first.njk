@@ -50,9 +50,9 @@ permalink: /tags/{{ tag.slug }}/newest-first/
   {% set photos = collections.photos_in_galleries | taggued(tag.tag) | reverse %}
   {% for item in photos %}
     {% if loop.index < 4 %}
-      <li>{{ photo(item, "eager", build.env) }}</li>
+      {{ photo(item, "eager", build.env) }}
     {% else %}
-      <li>{{ photo(item, "lazy", build.env) }}</li>
+      {{ photo(item, "lazy", build.env) }}
     {% endif %}
   {% endfor %}
 </ul>

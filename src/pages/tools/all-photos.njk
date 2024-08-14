@@ -12,9 +12,9 @@ title: All photos
 <ul class="photos">
   {% for item in collections.unique_photos %}
     {% if loop.index < 4 %}
-      <li>{{ photo(item, "eager", build.env, true) }}</li>
+      {{ photo(item, "eager", build.env, true) }}
     {% else %}
-      <li>{{ photo(item, "lazy", build.env, true) }}</li>
+      {{ photo(item, "lazy", build.env, true) }}
     {% endif %}
   {% endfor %}
 </ul>

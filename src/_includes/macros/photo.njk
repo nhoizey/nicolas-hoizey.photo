@@ -15,35 +15,36 @@
     {% set imageFile = 'small' %}
   {% endif %}
 
-  <figure>
-    <img
-      src="/photos/{{ item.data.page.fileSlug }}/{{ imageFile }}.jpg"
-      alt="{{- item.data.origin.data.alt_text or item.data.title -}}"
-      class="frame{% if dimensions.width < dimensions.height %} portrait{% endif %}"
-      {% if dimensions.width %}width="{{ dimensions.width }}"{% endif %}
-      {% if dimensions.height %}height="{{ dimensions.height }}"{% endif %}
-      style="
-        background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%);
-        view-transition-name: {{ item.data.page.fileSlug }}"
-      {% if loading %}
-        loading="{{ loading }}"
-        {% if loading == 'lazy' %}
-          decoding="async"
+  <li>
+    <figure>
+      <img
+        src="/photos/{{ item.data.page.fileSlug }}/{{ imageFile }}.jpg"
+        alt="{{- item.data.origin.data.alt_text or item.data.title -}}"
+        class="frame{% if dimensions.width < dimensions.height %} portrait{% endif %}{% if dimensions.width > 2 * dimensions.height %} panorama{% endif %}"
+        {% if dimensions.width %}width="{{ dimensions.width }}"{% endif %}
+        {% if dimensions.height %}height="{{ dimensions.height }}"{% endif %}
+        style="
+          background-color: rgb({{ item.data.origin.data.colors.muted }} / 50%);
+          view-transition-name: {{ item.data.page.fileSlug }}"
+        {% if loading %}
+          loading="{{ loading }}"
+          {% if loading == 'lazy' %}
+            decoding="async"
+          {% endif %}
         {% endif %}
-      {% endif %}
-      data-responsiver="thumbnail_{% if dimensions.width < dimensions.height %}portrait{% else %}landscape{% endif %}"
-    />
-    {# <figcaption style="view-transition-name: title-for-{{ item.data.page.fileSlug }}">
-      <a href="{{ item.page.url }}">{{ item.data.title }}</a>
-      {{ meta(item) }}
-    </figcaption> #}
-    <figcaption>
-      <a href="{{ item.page.url }}">{{ item.data.title }}</a>
-      {{ meta(item) }}
-    </figcaption>
-  </figure>
-  {% if slug %}
-    <input type="text" size="20" value="{{ item.page.fileSlug }}.md" style="font-size: .6em" onclick="this.select();document.execCommand('copy')"/>
-  {% endif %}
-
+        data-responsiver="thumbnail_{% if dimensions.width < dimensions.height %}portrait{% else %}landscape{% endif %}"
+      />
+      {# <figcaption style="view-transition-name: title-for-{{ item.data.page.fileSlug }}">
+        <a href="{{ item.page.url }}">{{ item.data.title }}</a>
+        {{ meta(item) }}
+      </figcaption> #}
+      <figcaption>
+        <a href="{{ item.page.url }}">{{ item.data.title }}</a>
+        {{ meta(item) }}
+      </figcaption>
+    </figure>
+    {% if slug %}
+      <input type="text" size="20" value="{{ item.page.fileSlug }}.md" style="font-size: .6em" onclick="this.select();document.execCommand('copy')"/>
+    {% endif %}
+  </li>
 {% endmacro %}
