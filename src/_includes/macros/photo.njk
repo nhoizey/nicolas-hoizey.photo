@@ -18,7 +18,7 @@
   {% set ratio = dimensions.width / dimensions.height | round(1) %}
   <li
     style="--ratio: {{ ratio }}"
-    {% if ratio = 1 %} class="square"{% endif %}
+    {% if ratio == 1 %} class="square"{% endif %}
     {% if ratio < 0.7 %} class="portrait"{% endif %}
     {% if ratio > 2 %} class="panorama"{% endif %}
     >
