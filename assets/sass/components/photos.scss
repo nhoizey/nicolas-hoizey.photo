@@ -14,13 +14,22 @@
   list-style: none;
 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 9rem), 1fr));
   gap: 3rem;
 
   align-items: start;
 
+  & > * {
+    grid-column: span 2;
+  }
+
   .portrait {
+    grid-column: span 1;
     // width: calc(20rem / 3 * 2 / 3 * 2);
     // height: calc(20rem / 3 * 2);
+  }
+
+  .panorama {
+    grid-column: span 3;
   }
 }
