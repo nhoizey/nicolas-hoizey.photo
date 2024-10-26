@@ -19,6 +19,6 @@ Just for [the nice city of Chania](https://nicolas-hoizey.photo/tags/chania/), I
 
 [^chania]: I won't share all of them here, just a few, but I like to already have the locations in my Lightroom library, I might share more later.
 
-![](google-maps-view-with-photo-pins-inside-adobe-lightroom.jpg "Screenshot of the Map module inside Adobe Lightroom, showing photo pins on a Google Map satellite view")
+![Screenshot of the Map module inside Adobe Lightroom, showing photo pins on a Google Map satellite view](google-maps-view-with-photo-pins-inside-adobe-lightroom.jpg "Screenshot of the Map module inside Adobe Lightroom, showing photo pins on a Google Map satellite view")
 
 It took a few hours, I admit, but it was worth spending part of my vacation time on it!
