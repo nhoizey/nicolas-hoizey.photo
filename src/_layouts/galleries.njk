@@ -52,6 +52,7 @@
   </div>
 
   {% if sub_galleries_number > 0 %}
+    {# https://mamot.fr/@nhoizey/113374779561108401 #}
     {%- css "critical" %}{% renderFile "src/assets/sass/components/sub_galleries.scss" %}{% endcss %}
     {% include 'components/sub_galleries.njk' %}
   {% endif %}
