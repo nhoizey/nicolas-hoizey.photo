@@ -1,5 +1,3 @@
-require('dotenv').config();
+import {} from 'dotenv/config';
 
-module.exports = {
-  MAPBOX_ACCESS_TOKEN: process.env.MAPBOX_ACCESS_TOKEN,
-};
+export const MAPBOX_ACCESS_TOKEN = process.env.MAPBOX_ACCESS_TOKEN;

@@ -1,11 +1,7 @@
-const fs = require('fs');
-const path = require('path');
+// TODO: filtres à supprimer quand dispo dans eleventy-plugin-pack11ty
 
-module.exports = {
-  dirname: (filePath) => {
-    return path.dirname(filePath);
-  },
-  exists: (filePath) => {
-    return fs.existsSync(filePath);
-  },
+import fs from 'node:fs';
+
+export const exists = (filePath) => {
+	return fs.existsSync(filePath);
 };

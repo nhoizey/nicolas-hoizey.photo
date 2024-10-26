@@ -1,25 +1,24 @@
-const fs = require('fs');
-const glob = require('fast-glob').sync;
-const slugify = require('../_utils/slugify');
+import fs from 'node:fs';
+import glob from 'fast-glob';
+import slugify from '../_utils/slugify.js';
 
-const usedPhotosGlob = glob('src/pages/galleries/**/*.md', {
+const usedPhotosGlob = glob.sync('src/pages/galleries/**/*.md', {
 	ignore: 'src/pages/galleries/**/index.md',
 });
 
 const settingsList = ['aperture', 'shutter_speed', 'iso', 'focal_length'];
 
-let statistics = undefined;
-
+let statisticsList = undefined;
 const getStatistics = (collection) => {
-	if (statistics !== undefined) {
-		return statistics;
+	if (statisticsList !== undefined) {
+		return statisticsList;
 	}
 
-	statistics = {};
-	statisticsObject = {};
+	statisticsList = {};
+	let statisticsObject = {};
 	const photoSlugs = [];
 
-	settingsValues = {};
+	let settingsValues = {};
 	settingsList.forEach((setting) => {
 		settingsValues[setting] = {};
 	});
@@ -63,26 +62,29 @@ const getStatistics = (collection) => {
 	});
 
 	settingsList.forEach((setting) => {
-		statistics[setting] = [];
+		statisticsList[setting] = [];
 		for (const [value, number] of Object.entries(statisticsObject[setting])) {
 			let newSettingObject;
 
 			newSettingObject = settingsValues[setting][value];
 			newSettingObject.number = number;
-			statistics[setting].push(newSettingObject);
+			statisticsList[setting].push(newSettingObject);
 		}
 
-		statistics[setting] = statistics[setting].sort(
+		statisticsList[setting] = statisticsList[setting].sort(
 			(a, b) => parseFloat(a.computed) - parseFloat(b.computed)
 		);
 	});
 
-	return statistics;
+	return statisticsList;
 };
 
-module.exports = {
-  apertures: (collection) => getStatistics(collection).aperture,
-  shutter_speeds: (collection) => getStatistics(collection).shutter_speed,
-  isos: (collection) => getStatistics(collection).iso,
-  focal_lengths: (collection) => getStatistics(collection).focal_length,
-};
+export const apertures = (collection) => getStatistics(collection).aperture;
+
+export const shutter_speeds = (collection) =>
+	getStatistics(collection).shutter_speed;
+
+export const isos = (collection) => getStatistics(collection).iso;
+
+export const focal_lengths = (collection) =>
+	getStatistics(collection).focal_length;

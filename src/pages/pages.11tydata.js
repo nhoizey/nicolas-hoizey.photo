@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	eleventyComputed: {
 		layout: (data) => {
 			if (data.layout !== undefined && data.layout !== '') {

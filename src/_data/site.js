@@ -1,11 +1,11 @@
-const dotenv = require('dotenv');
+import dotenv from 'dotenv';
 dotenv.config();
 
-module.exports = {
+export default {
 	title: 'Nicolas Hoizey photography',
 	description: 'The photography portfolio of Nicolas Hoizey',
 	url:
-		process.env.NODE_ENV === 'production'
+		process.env.ELEVENTY_RUN_MODE === 'build'
 			? 'https://nicolas-hoizey.photo'
 			: 'http://localhost:8080',
 	author: {
@@ -39,7 +39,7 @@ module.exports = {
 		},
 	},
 	cloudinary:
-		process.env.NODE_ENV === 'production'
+		process.env.ELEVENTY_RUN_MODE === 'build'
 			? 'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/'
 			: '',
 };

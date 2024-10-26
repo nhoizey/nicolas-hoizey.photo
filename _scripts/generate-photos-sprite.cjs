@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
-const fs = require('fs');
-const { execSync } = require('child_process');
+import fs from 'node:fs';
+import { execSync } from 'child_process';
 
-const sharp = require('sharp');
+import sharp from 'sharp';
 
 // Generate sprite from thumbnails
 execSync(
@@ -34,26 +34,26 @@ const src2 = 'src/static/ui/thumbnails/sprite@2x.png';
 const tmp2 = 'src/static/ui/thumbnails/sprite@2x_temp.png';
 
 const promise2 = sharp(src2)
-  .png({ colors: 200 })
-  .toFile(tmp2)
-  .then((info) => {
-    if (info?.size) {
-      spritesWeight += info.size;
-    }
-    fs.renameSync(tmp2, src2);
-  })
-  .catch((err) => console.error(`Error while creating @2x sprite`, err));
+	.png({ colors: 200 })
+	.toFile(tmp2)
+	.then((info) => {
+		if (info?.size) {
+			spritesWeight += info.size;
+		}
+		fs.renameSync(tmp2, src2);
+	})
+	.catch((err) => console.error(`Error while creating @2x sprite`, err));
 
 Promise.all([promise1, promise2]).then(() => {
-  if (spritesWeight > 0) {
-    // Considering file size is a good enough hash for cache busting
-    fs.writeFileSync(
-      spritesWeightFile,
-      JSON.stringify({ signature: spritesWeight }),
-      {
-        encoding: 'utf8',
-      }
-    );
-    console.log('Done!');
-  }
+	if (spritesWeight > 0) {
+		// Considering file size is a good enough hash for cache busting
+		fs.writeFileSync(
+			spritesWeightFile,
+			JSON.stringify({ signature: spritesWeight }),
+			{
+				encoding: 'utf8',
+			}
+		);
+		console.log('Done!');
+	}
 });

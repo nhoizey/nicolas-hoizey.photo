@@ -7,7 +7,6 @@ nav:
 ---
 
 {% from "macros/meta.njk" import meta %}
-{% from "macros/css.njk" import css %}
 
 {% include 'components/breadcrumb.njk' %}
 
@@ -15,7 +14,7 @@ nav:
 
 Here are the latest posts:
 
-{{ css('components/blog', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/blog.scss" %}{% endcss %}
 
 <ol class="blog">
 

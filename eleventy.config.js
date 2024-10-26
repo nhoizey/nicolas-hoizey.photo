@@ -1,16 +1,13 @@
-/**
- *  @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig
- */
+import path from 'node:path';
 
-const path = require('node:path');
+import eleventyPluginPack11ty from 'eleventy-plugin-pack11ty';
 
-const isProd = process.env.NODE_ENV === 'production';
+const isProd = process.env.ELEVENTY_RUN_MODE === 'build';
 
-module.exports = function (eleventyConfig) {
-	const responsiverConfig = require(path.join(
-		__dirname,
-		'src/_11ty/images-responsiver-config.js'
-	));
+export default async function (eleventyConfig) {
+	const { responsiverConfig } = await import(
+		path.join(import.meta.dirname, 'src/_11ty/images-responsiver-config.js')
+	);
 
 	const pack11tyPluginOptions = {
 		responsiver: isProd && responsiverConfig,
@@ -22,15 +19,12 @@ module.exports = function (eleventyConfig) {
 		collectionsLimit: isProd ? false : 10,
 	};
 
-	const pack11ty = require('eleventy-plugin-pack11ty');
-	eleventyConfig.addPlugin(pack11ty, pack11tyPluginOptions);
-
-	// ------------------------------------------------------------------------
-	// Eleventy configuration
-	// ------------------------------------------------------------------------
+	eleventyConfig.addPlugin(eleventyPluginPack11ty, pack11tyPluginOptions);
 
 	eleventyConfig.setDataDeepMerge(true);
 	eleventyConfig.setQuietMode(true);
+
+	eleventyConfig.setWatchJavaScriptDependencies(false);
 
 	return {
 		templateFormats: ['md', 'njk'],
@@ -46,4 +40,4 @@ module.exports = function (eleventyConfig) {
 			data: '_data',
 		},
 	};
-};
+}

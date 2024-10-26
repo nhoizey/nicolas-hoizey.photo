@@ -12,7 +12,6 @@ eleventyComputed:
 permalink: /gear/{{ brand.slug }}/
 ---
 
-{% from "macros/css.njk" import css %}
 
 {% block content %}
 
@@ -26,7 +25,7 @@ permalink: /gear/{{ brand.slug }}/
   {{ brand.description | markdownify | safe }}
 {% endif %}
 
-{{ css('components/photos', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
 {% from "macros/photo.njk" import photo %}
 

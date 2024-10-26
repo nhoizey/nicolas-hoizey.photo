@@ -4,8 +4,7 @@ title: All photos
 
 {% from "macros/photo.njk" import photo %}
 
-{% from "macros/css.njk" import css %}
-{{ css('components/photos', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
 <h1>{{ title }}</h1>
 

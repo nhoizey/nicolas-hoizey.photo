@@ -2,8 +2,7 @@
 title: Photos on other platforms
 ---
 
-{% from "macros/css.njk" import css %}
-{{ css('components/photos', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
 <h1>{{ title }}</h1>
 

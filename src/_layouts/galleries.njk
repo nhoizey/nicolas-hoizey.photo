@@ -1,7 +1,5 @@
 {% extends "./base.njk" %}
 
-{% from "macros/css.njk" import css %}
-
 {% block opengraphimage %}
   {% set opengraphFile = 'src' + page.filePathStem | dirname + '/opengraph.jpg' %}
   {% if opengraphFile | exists %}
@@ -17,12 +15,12 @@
   {% include 'components/breadcrumb.njk' %}
 
   {% if flag %}
-    {{ css('components/flag', build.env) }}
+    {%- css "critical" %}{% renderFile "src/assets/sass/components/flag.scss" %}{% endcss %}
     {% flagSvg flag %}
   {% endif %}
   <h1 data-pagefind-meta="title" data-pagefind-body data-pagefind-filter="00. Page type:Gallery">{{ title }}</h1>
 
-  {{ css('components/gallery_content', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/gallery_content.scss" %}{% endcss %}
   <div class="gallery__content" data-pagefind-body>
     {{ content | safe }}
   </div>
@@ -34,9 +32,10 @@
   {% endif %}
 
   {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
+
   {% set sub_galleries_number = sub_galleries | length %}
 
-  {{ css('components/photos_sort', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/photos_sort.scss" %}{% endcss %}
   <div class="photos_sort">
     <p class="label">Sort photos:</p>
     <ul>
@@ -53,13 +52,14 @@
   </div>
 
   {% if sub_galleries_number > 0 %}
-    {% include 'components/sub-galleries.njk' %}
+    {%- css "critical" %}{% renderFile "src/assets/sass/components/sub_galleries.scss" %}{% endcss %}
+    {% include 'components/sub_galleries.njk' %}
   {% endif %}
 
   {% set photos_here = collections.photos_in_galleries | photos_here(page.url) %}
   {% if photos_here | length %}
 
-    {{ css('components/photos', build.env) }}
+    {%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
     <section>
       <h2>Photos</h2>

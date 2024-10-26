@@ -14,8 +14,9 @@
 
     {{ content | safe }}
 
-    {% from "macros/css.njk" import css %}
-    {{ css('components/map', build.env) }}
+    <style>
+    {% renderFile "src/assets/sass/components/map.scss" %}
+    </style>
 
     <div id="map"></div>
     <noscript>
@@ -25,9 +26,6 @@
     <p>{% inline_icon 'download' %} <a href="/map/photos.kml">Download the KML file for Google Earth</a>.</p>
   </div>
 
-  {% if build.env == 'production' %}
-    <script defer type="module" src="/ui/js/{{ hashes_map['assets/js/map.js']}}"></script>
-  {% else %}
-    <script defer type="module" src="/ui/js/map-es.js"></script>
-  {% endif %}
+  <script type="module" src="{% getBundleFileUrl "js", "map" %}"></script>
+  {%- js "map" %}{% renderFile "src/assets/js/map.js" %}{% endjs %}
 {% endblock %}

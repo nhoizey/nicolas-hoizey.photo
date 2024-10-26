@@ -11,7 +11,7 @@ const getFilteredCollection = (collection, folder) => {
 				(item) =>
 					!item.filePathStem.match(/^\/[^\/]+\/index$/) &&
 					(item.page.date <= Date.now() ||
-						process.env.NODE_ENV !== 'production')
+						process.env.ELEVENTY_RUN_MODE !== 'build')
 			)
 			.sort((a, b) => b.date - a.date);
 		// Keep a copy of this collection in memoization for later reuse
@@ -21,4 +21,4 @@ const getFilteredCollection = (collection, folder) => {
 	}
 };
 
-module.exports = getFilteredCollection;
+export default getFilteredCollection;

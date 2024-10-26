@@ -15,13 +15,12 @@ const rgbToHex = (rgbArray) => {
 };
 
 // Main background: #292929 = rgb(41, 41, 41)
-module.exports = {
-  bgcolor: (rgbString) =>
-    rgbToHex(
-      rgbString2Array(rgbString).map((c) => Math.round(c * 0.5 + 41 * 0.5))
-    ),
-  fgcolor: (rgbString) =>
-    rgbToHex(
-      rgbString2Array(rgbString).map((c) => Math.round(c * 0.5 + 255 * 0.5))
-    ),
-};
+export const bgcolor = (rgbString) =>
+	rgbToHex(
+		rgbString2Array(rgbString).map((c) => Math.round(c * 0.5 + 41 * 0.5))
+	);
+
+export const fgcolor = (rgbString) =>
+	rgbToHex(
+		rgbString2Array(rgbString).map((c) => Math.round(c * 0.5 + 255 * 0.5))
+	);

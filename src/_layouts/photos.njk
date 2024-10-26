@@ -33,8 +33,7 @@
 {% endblock %}
 
 {% block content %}
-  {% from "macros/css.njk" import css %}
-  {{ css('components/photo_page', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/photo_page.scss" %}{% endcss %}
 
   {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
 
@@ -144,7 +143,7 @@
           <data class="p-longitude" value="{{ geo.longitude }}"></data>
           <data class="p-latitude" value="{{ geo.latitude }}"></data>
 
-          {{ css('components/photo_page_map', build.env) }}
+          {%- css "critical" %}{% renderFile "src/assets/sass/components/photo_page_map.scss" %}{% endcss %}
 
           <div id="map">
             {% if geo.map %}

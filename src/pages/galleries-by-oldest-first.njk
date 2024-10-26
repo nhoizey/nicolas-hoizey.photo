@@ -12,7 +12,6 @@ eleventyComputed:
 permalink: "{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') }}/oldest-first/"
 ---
 
-{% from "macros/css.njk" import css %}
 
 {% block content %}
 
@@ -23,12 +22,12 @@ permalink: "{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') 
   {% include 'components/breadcrumb.njk' %}
 
   {% if gallery.data.flag %}
-    {{ css('components/flag', build.env) }}
+    {%- css "critical" %}{% renderFile "src/assets/sass/components/flag.scss" %}{% endcss %}
     {% flagSvg gallery.data.flag %}
   {% endif %}
   <h1>{{ title }}</h1>
 
-  {{ css('components/gallery_content', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/gallery_content.scss" %}{% endcss %}
   <div class="gallery__content">
     {{ gallery.content | safe }}
   </div>
@@ -38,7 +37,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') 
   {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
   {% set sub_galleries_number = sub_galleries | length %}
 
-  {{ css('components/photos_sort', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/photos_sort.scss" %}{% endcss %}
   <div class="photos_sort">
     <p class="label">Sort photos:</p>
     <ul>
@@ -53,7 +52,7 @@ permalink: "{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') 
     </ul>
   </div>
 
-  {{ css('components/photos', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
   {% from "macros/photo.njk" import photo %}
 

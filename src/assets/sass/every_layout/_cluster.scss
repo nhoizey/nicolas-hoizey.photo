@@ -14,9 +14,9 @@ https://absolutely.every-layout.dev/layouts/cluster/
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: center;
-  margin: $gap / 2 * -1;
+  margin: calc($gap / 2) * -1;
 }
 
 %cluster > * > * {
-  margin: $gap / 2;
+  margin: calc($gap / 2);
 }

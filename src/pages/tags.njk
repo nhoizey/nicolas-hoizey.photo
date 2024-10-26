@@ -10,8 +10,7 @@ permalink: "/tags/index.html"
 
 <h1>{{ title }}</h1>
 
-{% from "macros/css.njk" import css %}
-{{ css('components/tagscloud', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/tagscloud.scss" %}{% endcss %}
 
 <p class="lead">These are the tags used in all photos.</p>
 
@@ -41,7 +40,7 @@ permalink: "/tags/index.html"
 {% endfor %}
 </ol>
 
-{% if build.env == 'production' %}
+{% if build.env == 'build' %}
   <script defer type="module" src="/ui/js/{{ hashes_tagscloud['assets/js/tagscloud.js']}}"></script>
 {% else %}
   <script defer type="module" src="/ui/js/tagscloud-es.js"></script>

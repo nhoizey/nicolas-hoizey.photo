@@ -5,7 +5,6 @@ nav:
   icon: camera
 ---
 
-{% from "macros/css.njk" import css %}
 
 {% include 'components/breadcrumb.njk' %}
 
@@ -13,7 +12,7 @@ nav:
 <p>I've used cameras and lenses from a few different brands along the years.</p>
 <p>Here's the full list, so that you can browse photos I made with them:</p>
 
-{{ css('components/brands', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/brands.scss" %}{% endcss %}
 <ul class="brands">
 {% for brand in collections.brands %}
   <li><a href="/gear/{{ brand.slug }}/"><img src="/{{ brand.logo }}" alt="{{ brand.brand }}" data-responsiver="brand" /></a></li>

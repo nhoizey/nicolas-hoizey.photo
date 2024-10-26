@@ -1,18 +1,16 @@
-const sortOrderThenAlpha = require('../_utils/sort-order-then-alpha');
+import sortOrderThenAlpha from '../_utils/sort-order-then-alpha.js';
 
 const galleriesGlob = 'src/pages/galleries/**/index.md';
 
-let galleries = undefined;
+let galleriesList = undefined;
 const getGalleries = (collection) => {
-  if (galleries !== undefined) {
-    return galleries;
-  }
-  galleries = collection
-    .getFilteredByGlob(galleriesGlob)
-    .sort((a, b) => sortOrderThenAlpha(a, b));
-  return galleries;
+	if (galleriesList !== undefined) {
+		return galleriesList;
+	}
+	galleriesList = collection
+		.getFilteredByGlob(galleriesGlob)
+		.sort((a, b) => sortOrderThenAlpha(a, b));
+	return galleriesList;
 };
 
-module.exports = {
-  photo_galleries: (collection) => getGalleries(collection),
-};
+export const photo_galleries = (collection) => getGalleries(collection);

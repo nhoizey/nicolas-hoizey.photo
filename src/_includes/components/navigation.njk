@@ -1,5 +1,4 @@
-{% from "macros/css.njk" import css %}
-{{ css('components/navigation', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/navigation.scss" %}{% endcss %}
 
 <nav role="navigation" aria-label="Site navigation">
   <ul>
