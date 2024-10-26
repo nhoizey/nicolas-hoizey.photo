@@ -8,9 +8,6 @@ const runBeforeHook = (image, document) => {
 	let documentBody = document.querySelector('body');
 	let srcPath = documentBody.getAttribute('data-img-src');
 	let distPath = documentBody.getAttribute('data-img-dist');
-	// let distPath = documentBody
-	// 	.getAttribute('data-img-dist')
-	// 	.replace(distRegex, '');
 
 	let isData = false;
 	if (!image.hasAttribute('src')) {

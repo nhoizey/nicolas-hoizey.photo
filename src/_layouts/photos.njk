@@ -33,7 +33,7 @@
 {% endblock %}
 
 {% block content %}
-  {%- css "critical" %}{% renderFile "src/assets/sass/components/photo_page.scss" %}{% endcss %}
+  <style>{% renderFile "src/assets/sass/components/photo_page.scss" %}</style>
 
   {% set breadcrumb = collections.photo_galleries | breadcrumb(page.url) %}
 
