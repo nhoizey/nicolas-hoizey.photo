@@ -7,7 +7,6 @@ const md = new markdownIt();
 const runBeforeHook = (image, document) => {
 	let documentBody = document.querySelector('body');
 	let srcPath = documentBody.getAttribute('data-img-src');
-
 	let distPath = documentBody.getAttribute('data-img-dist');
 	// let distPath = documentBody
 	// 	.getAttribute('data-img-dist')
@@ -46,8 +45,12 @@ const runBeforeHook = (image, document) => {
 			imageUrl = pkg.homepage.replace(/\/$/, '') + imageSrc;
 		} else {
 			// This is a relative URL
-			imageUrl = pkg.homepage.replace(/\/$/, '') + distPath + imageSrc;
+			imageUrl =
+				pkg.homepage.replace(/\/$/, '') +
+				distPath.replace('./_site', '') +
+				imageSrc;
 		}
+
 		image.setAttribute(isData ? 'data-src' : 'src', imageUrl);
 	}
 
