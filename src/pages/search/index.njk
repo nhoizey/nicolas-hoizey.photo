@@ -5,7 +5,8 @@ nav:
   icon: search
 ---
 
-{%- css "critical" %}{% renderFile "src/assets/sass/components/pagefind.scss" %}{% endcss %}
+<style>{% getBundle "css", "pagefind" %}</style>
+{%- css "pagefind" %}{% renderFile "src/assets/sass/components/pagefind.scss" %}{% endcss %}
 
 <script src="/pagefind/pagefind-ui.js"></script>
 <h1>Search content</h1>
