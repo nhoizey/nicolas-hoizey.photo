@@ -1,5 +1,5 @@
-{% from "macros/css.njk" import css %}
-{{ css('components/breadcrumb', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/breadcrumb.scss" %}{% endcss %}
+
 <nav aria-label="Breadcrumb" class="breadcrumb">
   <ol>
     <li><a href="/">Home</a></li>

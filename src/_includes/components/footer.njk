@@ -1,5 +1,4 @@
-{% from "macros/css.njk" import css %}
-{{ css('components/footer', build.env) }}
+{%- css "defer" %}{% renderFile "src/assets/sass/components/footer.scss" %}{% endcss %}
 
 <footer>
   <div class="footer__social">

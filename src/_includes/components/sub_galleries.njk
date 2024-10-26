@@ -1,5 +1,4 @@
-{% from "macros/css.njk" import css %}
-{{ css('components/sub_galleries', build.env) }}
+{# {%- css "critical" %}{% renderFile "src/assets/sass/components/sub_galleries.scss" %}{% endcss %} #}
 
 {% if page.url== '/' %}
   {% set gallery_root = '/galleries/' %}
@@ -8,6 +7,7 @@
 {% endif %}
 
 {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
+
 {% if sub_galleries | length %}
   <section>
     <h2>Galleries</h2>
@@ -28,7 +28,7 @@
               <figure class="evantail">
                 {% for photo in photos_below %}
                   {# Prevent loading the huge image in development #}
-                  {% if build.env == 'production' %}
+                  {% if build.env == 'build' %}
                     {% set imageFile = photo.data.page.fileSlug %}
                   {% else %}
                     {% set imageFile = 'small' %}

@@ -1,3 +1,3 @@
-module.exports = {
-	tags: require('../getTags'),
-};
+import tagsList from '../getTags.js';
+
+export const tags = tagsList;

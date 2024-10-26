@@ -226,7 +226,7 @@ eleventyExcludeFromCollections: true
             "type": "vector"
         }
     },
-    "sprite": "{{ site.url }}/ui/thumbnails/{% if build.env == "production" %}{{ sprites.signature }}/{% endif %}sprite",
+    "sprite": "{{ site.url }}/ui/thumbnails/{% if build.env == "build" %}{{ sprites.signature }}/{% endif %}sprite",
     "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
     "layers": [
         {

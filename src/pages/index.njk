@@ -8,7 +8,6 @@ layout: false
 <link rel="me authn" href="https://github.com/nhoizey" />
 {% endblock %}
 
-{% from "macros/css.njk" import css %}
 
 {% block content %}
   {% set breadcrumb = [] %}
@@ -21,10 +20,11 @@ layout: false
   </section>
 
   <section class="topics">
-    {% include 'components/sub-galleries.njk' %}
+    {%- css "critical" %}{% renderFile "src/assets/sass/components/sub_galleries.scss" %}{% endcss %}
+    {% include 'components/sub_galleries.njk' %}
   </section>
 
-  {{ css('components/photos', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
   {% from "macros/photo.njk" import photo %}
   <section class="latest">
@@ -46,7 +46,7 @@ layout: false
     </ul>
   </section> #}
 
-  {{ css('components/blog', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/blog.scss" %}{% endcss %}
 
   <section>
     <h2>Latest blog posts</h2>

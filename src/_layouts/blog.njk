@@ -5,9 +5,8 @@
 {% endblock %}
 
 {% block content %}
-  {% from "macros/css.njk" import css %}
-  {{ css('components/breadcrumb', build.env) }}
-  {{ css('components/photos', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/breadcrumb.scss" %}{% endcss %}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
   {% from "macros/meta.njk" import meta %}
 

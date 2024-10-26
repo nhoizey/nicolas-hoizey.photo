@@ -2,29 +2,29 @@
 
 require('dotenv').config();
 
-const puppeteer = require('puppeteer-core');
-const { Cluster } = require('puppeteer-cluster');
-const fs = require('fs').promises;
-const path = require('path');
-const glob = require('fast-glob');
+import puppeteer from 'puppeteer-core';
+import { Cluster } from 'puppeteer-cluster';
+import fs from 'fs';
+import path from 'node:path';
+import glob from 'fast-glob';
 
 (async () => {
-  const cluster = await Cluster.launch({
-    concurrency: Cluster.CONCURRENCY_BROWSER,
-    maxConcurrency: 3,
-    workerCreationDelay: 1000,
-    retryLimit: 3,
-    retryDelay: 5000,
-    timeout: 50000,
-    monitor: true,
-    puppeteer: puppeteer,
-    puppeteerOptions: {
-      executablePath:
-        '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
-    },
-  });
+	const cluster = await Cluster.launch({
+		concurrency: Cluster.CONCURRENCY_BROWSER,
+		maxConcurrency: 3,
+		workerCreationDelay: 1000,
+		retryLimit: 3,
+		retryDelay: 5000,
+		timeout: 50000,
+		monitor: true,
+		puppeteer: puppeteer,
+		puppeteerOptions: {
+			executablePath:
+				'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+		},
+	});
 
-  await cluster.task(async ({ page, data: resourcePath }) => {
+	await cluster.task(async ({ page, data: resourcePath }) => {
 		await page.setViewport({
 			width: 1200,
 			height: 800,
@@ -84,9 +84,9 @@ const glob = require('fast-glob');
 		onlyDirectories: true,
 	});
 
-  // Queue processing of all photos and galleries
-  [...photos].forEach((resourcePath) => cluster.queue(resourcePath));
+	// Queue processing of all photos and galleries
+	[...photos].forEach((resourcePath) => cluster.queue(resourcePath));
 
-  await cluster.idle();
-  await cluster.close();
+	await cluster.idle();
+	await cluster.close();
 })();

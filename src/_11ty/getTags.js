@@ -1,8 +1,8 @@
-const fs = require('fs');
-const glob = require('fast-glob').sync;
-const slugify = require('./_utils/slugify');
+import fs from 'node:fs';
+import glob from 'fast-glob';
+import slugify from './_utils/slugify.js';
 
-const usedPhotosGlob = glob('src/pages/galleries/**/*.md', {
+const usedPhotosGlob = glob.sync('src/pages/galleries/**/*.md', {
 	ignore: 'src/pages/galleries/**/index.md',
 });
 
@@ -43,7 +43,7 @@ const averageColors = (colors) => {
 	return averageColors;
 };
 
-module.exports = function (collection) {
+export default function (collection) {
 	let tagsCollection = new Map();
 	const fileSlugs = [];
 
@@ -105,4 +105,4 @@ module.exports = function (collection) {
 	});
 
 	return tags;
-};
+}

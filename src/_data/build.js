@@ -1,7 +1,7 @@
-const timestamp = new Date();
+const thisTimestamp = new Date();
 
-module.exports = {
-  env: process.env.NODE_ENV,
-  timestamp: timestamp,
-  id: timestamp.valueOf(),
-};
+export const env = process.env.ELEVENTY_RUN_MODE;
+
+export const timestamp = thisTimestamp;
+
+export const id = thisTimestamp.valueOf();

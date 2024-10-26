@@ -26,7 +26,7 @@ permalink: /feeds/pixelfed/photos.json
       "url": "{{ photoPageUrl }}",
       "language": "{{ photo.data.lang }}",
       "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}",
-      "date_published": "{{ photo.data.date | rssDate }}",
+      "date_published": "{{ photo.data.date | dateToRfc3339 }}",
       "content_text": "{{- contentStart | safe -}}{{- contentMiddle | safe -}}\n\n🔎 {{ photoPageUrl }}{{- contentEnd | safe -}}",
       "attachments": [
         {

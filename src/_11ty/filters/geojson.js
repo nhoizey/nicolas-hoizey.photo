@@ -1,8 +1,6 @@
-const turf = require('@turf/turf');
+import { bbox as turfBbox, lineString } from '@turf/turf';
 
-module.exports = {
-  bbox: (geojson) => {
-    const line = turf.lineString(geojson);
-    return turf.bbox(line);
-  },
+export const bbox = (geojson) => {
+	const line = lineString(geojson);
+	return turfBbox(line);
 };

@@ -13,8 +13,7 @@
 {% set mentions = allMentions | webmentionsByType('mention-of') %}
 {% set mentionsSize = mentions | length %}
 
-{% from "macros/css.njk" import css %}
-{{ css('components/webmentions', build.env) }}
+{%- css "defer" %}{% renderFile "src/assets/sass/components/webmentions.scss" %}{% endcss %}
 
 <aside class="webmentions" id="webmentions">
   <h2>{{ allMentionsSize }} webmention{% if allMentionsSize > 1 %}s{% endif %}</h2>

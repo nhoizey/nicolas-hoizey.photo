@@ -12,11 +12,9 @@ eleventyComputed:
 permalink: /statistics/focal-length/{{ focal_lengths.slug }}/
 ---
 
-{% from "macros/css.njk" import css %}
-
 {% block content %}
 
-{{ css('components/photos', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
 {% from "macros/photo.njk" import photo %}
 

@@ -16,19 +16,36 @@
       <meta property="og:title" content="{{ page_title }}" />
     {% endblock %}
 
-    {% from "macros/js.njk" import js %}
-    {{ js('critical', build.env) }}
+    {# Critical JS #}
+    {%- if eleventy.env.runMode === "serve" %}
+      {# External files (local dev live reload will refresh without page reload) #}
+      <script src="{% getBundleFileUrl "js", "critical" %}"></script>
+    {%- else  %}
+      {# Inlined (fastest site performance in production) #}
+      <script>{% getBundle "js", "critical" %}</script>
+    {%- endif %}
+    {%- js "critical" %}
+    (function (window) {
+      // API key for Mapbox
+      window.MAPBOX_ACCESS_TOKEN = '{{ env.MAPBOX_ACCESS_TOKEN }}'
+    })(window);
+    {% endjs %}
 
-    {% from "macros/css.njk" import css %}
-    {{ css('styles', build.env) }}
+    {# Critical CSS #}
+    {%- if eleventy.env.runMode === "serve" %}
+      {# External files (local dev live reload will refresh without page reload) #}
+      <link rel="stylesheet" href="{% getBundleFileUrl "css", "critical" %}">
+    {%- else  %}
+      {# Inlined CSS (fastest site performance in production) #}
+      <style>{% getBundle "css", "critical" %}</style>
+    {%- endif %}
+    {%- css "critical" %}{% renderFile "src/assets/sass/styles.scss" %}{% endcss %}
 
     {% block description %}
       {# https://stackoverflow.com/q/6203984/717195 #}
       {# https://snook.ca/archives/html_and_css/open-graph-and-sharing-tags #}
       <meta property="og:description" name="description" content="{{ site.description }}" />
     {% endblock %}
-
-    <meta name="view-transition" content="same-origin" />
 
     {# Speculation Rules API #}
     {# https://developer.chrome.com/blog/speculation-rules-improvements #}
@@ -133,7 +150,10 @@
       {% inline_icon 'mastodon' %}
     </div>
 
-    {{ js('additional', build.env) }}
+    {# Lazy loaded not critical CSS and JS #}
+    <link rel="stylesheet" href="{% getBundleFileUrl 'css', 'defer' %}" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="{% getBundleFileUrl 'css', 'defer' %}"></noscript>
+    <script type="module" src="{% getBundleFileUrl "js", "defer" %}"></script>
   </body>
 
 </html>

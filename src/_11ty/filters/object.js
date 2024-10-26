@@ -1,5 +1,3 @@
-module.exports = {
-  keys: (obj) => {
-    return !obj ? [] : Object.keys(obj);
-  },
+export const keys = (obj) => {
+	return !obj ? [] : Object.keys(obj);
 };

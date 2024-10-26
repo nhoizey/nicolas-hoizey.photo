@@ -1,3 +1,3 @@
-module.exports = {
-  mapbox: { style: 'mapbox/outdoors-v11' },
+export default {
+	mapbox: { style: 'mapbox/outdoors-v11' },
 };

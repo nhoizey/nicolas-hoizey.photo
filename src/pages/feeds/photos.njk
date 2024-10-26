@@ -10,7 +10,7 @@ eleventyExcludeFromCollections: true
   <description>These are the photos I shared the most recently.</description>
   <link href="{{ site.url }}/feeds/photos.xml" rel="self"/>
   <link href="{{ site.url }}/"/>
-  <updated>{{ collections.blog | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.blog | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ site.url }}</id>
   <author>
     <name>{{ site.author.name }}</name>
@@ -22,7 +22,7 @@ eleventyExcludeFromCollections: true
     <entry>
       <title>{{ entry.data.title }}</title>
       <link href="{{ absoluteEntryUrl }}"/>
-      <updated>{{ entry.date | rssDate }}</updated>
+      <updated>{{ entry.date | dateToRfc3339 }}</updated>
       <id>{{ absoluteEntryUrl }}</id>
       <content type="html"><![CDATA[
         <img src="{{ photoUrl }}" alt="{{- entry.data.origin.data.alt_text or entry.data.title -}}" width="{{ entry.data.origin.data.dimensions.width }}" height="{{ entry.data.origin.data.dimensions.height }}" />

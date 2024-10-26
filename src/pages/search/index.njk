@@ -5,8 +5,7 @@ nav:
   icon: search
 ---
 
-{% from "macros/css.njk" import css %}
-{{ css('components/pagefind', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/pagefind.scss" %}{% endcss %}
 
 <script src="/pagefind/pagefind-ui.js"></script>
 <h1>Search content</h1>

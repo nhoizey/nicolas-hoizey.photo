@@ -1,5 +1,4 @@
-{% from "macros/css.njk" import css %}
-{{ css('components/logo', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/logo.scss" %}{% endcss %}
 
 <div class="sitelogo">
   {%- if page.url == '/' -%}<h1>{%- else -%}<a href="/">{%- endif -%}

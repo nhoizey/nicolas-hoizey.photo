@@ -20,7 +20,7 @@ title: Opengraph images
 
 <h1>{{ title }}</h1>
 
-{% if build.env == 'production' %}
+{% if build.env == 'build' %}
   {% set cloudinaryPrefix = 'https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_600/' + site.url %}
 {% else %}
   {% set cloudinaryPrefix = '' %}

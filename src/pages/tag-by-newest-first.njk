@@ -12,7 +12,6 @@ eleventyComputed:
 permalink: /tags/{{ tag.slug }}/newest-first/
 ---
 
-{% from "macros/css.njk" import css %}
 
 {% block content %}
 
@@ -26,7 +25,7 @@ permalink: /tags/{{ tag.slug }}/newest-first/
   {% endif %}
 {% endif %}
 
-{{ css('components/photos', build.env) }}
+  {%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
 {% from "macros/photo.njk" import photo %}
 
@@ -36,7 +35,7 @@ permalink: /tags/{{ tag.slug }}/newest-first/
   <p>There is only one photo with this tag.</p>
 {% endif %}
 
-{{ css('components/photos_sort', build.env) }}
+{%- css "critical" %}{% renderFile "src/assets/sass/components/photos_sort.scss" %}{% endcss %}
 <div class="photos_sort">
   <p class="label">Sort photos:</p>
   <ul>
