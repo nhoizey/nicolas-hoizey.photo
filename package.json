@@ -44,7 +44,7 @@
 		"dates": "./_scripts/add-dates.sh",
 		"prepare": "npx husky install",
 		"webmentions": "node ./_scripts/update-webmentions.js",
-		"flickr": "node ./_scripts/update-flickr.cjs",
+		"flickr": "node ./_scripts/update-flickr.js",
 		"unsplash": "node ./_scripts/update-unsplash.js",
 		"pixelfed": "node ./_scripts/update-pixelfed.js",
 		"generate": "./_scripts/generate-map-images.cjs && ./_scripts/generate-opengraph-images.cjs && ./_scripts/generate-photos-sprite.cjs"
