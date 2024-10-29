@@ -1,12 +1,15 @@
-require('dotenv').config();
+// Load .env variables with dotenv
+import {} from 'dotenv/config';
 
 import fs from 'node:fs';
 import path from 'node:path';
-const slugify = require('../src/_11ty/_utils/slugify.js');
-const flickrSdk = require('flickr-sdk');
+import slugify from '../src/_11ty/_utils/slugify.js';
+
+import { createFlickr } from 'flickr-sdk';
+const { flickr } = createFlickr(process.env.FLICKR_CONSUMER_KEY);
 
 const PLATFORMS_FILE = 'src/_data/platforms.json';
-let platformsData = require(path.join('..', PLATFORMS_FILE));
+import platformsData from '../src/_data/platforms.json' with { type: 'json' };
 
 const syncFlickr = async () => {
 	let flickrIds = {};
@@ -16,14 +19,12 @@ const syncFlickr = async () => {
 		}
 	}
 
-	const flickr = new flickrSdk(process.env.FLICKR_CONSUMER_KEY);
-	let flickrPhotos = await flickr.people
-		.getPublicPhotos({
-			user_id: process.env.FLICKR_USER_ID,
-			extras: 'count_views,count_faves,count_comments',
-			per_page: 500,
-		})
-		.then((res) => res.body.photos.photo);
+	let flickrPhotos = await flickr('flickr.people.getPublicPhotos', {
+		user_id: process.env.FLICKR_USER_ID,
+		extras: 'count_views,count_faves,count_comments',
+		per_page: 500,
+	}).then((body) => body.photos.photo);
+
 	flickrPhotos.forEach((photo) => {
 		// console.dir(photo);
 
