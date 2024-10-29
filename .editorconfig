@@ -9,12 +9,6 @@ insert_final_newline = true
 indent_style = tab
 indent_size = 2
 
-[*.svg]
-insert_final_newline = false
-
-[*.html]
-insert_final_newline = false
-
 [*.yml]
 indent_style = space
 
