@@ -5,6 +5,9 @@ on:
     branches: ['main']
   workflow_dispatch:
 
+env:
+  MAPBOX_ACCESS_TOKEN: ${{ secrets.MAPBOX_ACCESS_TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
