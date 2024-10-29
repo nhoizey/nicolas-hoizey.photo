@@ -1,4 +1,4 @@
-import slugify from '@sindresorhus/slugify';
+import sindresorhusSlugify from '@sindresorhus/slugify';
 
 // Adapted from https://gist.github.com/codeguy/6684588#gistcomment-3361909
 const poorSlugify = (str) => {
@@ -31,11 +31,12 @@ export default (string) => {
 			// slug = slug.replace(/ +/, '-');
 			slug = poorSlugify(slug);
 		} else {
-			slug = slugify(string, {
+			slug = sindresorhusSlugify(string, {
 				decamelize: false,
 				customReplacements: [
 					['%', ' '],
 					['…', ' '],
+					["'", ' '],
 				],
 			});
 		}
