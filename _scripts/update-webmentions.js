@@ -1,10 +1,10 @@
 // https://sia.codes/posts/webmentions-eleventy-in-depth/
 
 import fetch from 'node-fetch';
-import unionBy from 'lodash/unionBy';
+import { unionBy } from 'lodash-es';
 import sanitizeHTML from 'sanitize-html';
-import { writeToCache, readFromCache } from '../src/_utils/cache';
-import pkg from '../../package.json' with { type: 'json' };
+import { writeToCache, readFromCache } from '../src/_utils/cache.js';
+import pkg from '../package.json' with { type: 'json' };
 
 const domain = new URL(pkg.homepage).hostname;
 
