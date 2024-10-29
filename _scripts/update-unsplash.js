@@ -1,12 +1,13 @@
-require('dotenv').config();
+// Load .env variables with dotenv
+import {} from 'dotenv/config';
 
 import fs from 'node:fs';
 import path from 'node:path';
-const nodeFetch = require('node-fetch');
-const { createApi } = require('unsplash-js');
+import fetch from 'node-fetch';
+import { createApi } from 'unsplash-js';
 
 const PLATFORMS_FILE = 'src/_data/platforms.json';
-let platformsData = require(path.join('..', PLATFORMS_FILE));
+import platformsData from '../src/_data/platforms.json' with { type: 'json' };
 
 const syncUnsplash = async () => {
 	let unsplashIds = {};
@@ -18,7 +19,7 @@ const syncUnsplash = async () => {
 
 	const unsplash = createApi({
 		accessKey: process.env.UNSPLASH_ACCESS_KEY,
-		fetch: nodeFetch,
+		fetch: fetch,
 	});
 
 	let numberOfPhotos = await unsplash.users
@@ -35,7 +36,7 @@ const syncUnsplash = async () => {
 	if (numberOfPhotos > 0) {
 		let unsplashPhotos = [];
 
-		for (page = 1; page <= Math.ceil(numberOfPhotos / 30); page++) {
+		for (let page = 1; page <= Math.ceil(numberOfPhotos / 30); page++) {
 			await unsplash.users
 				.getPhotos({
 					username: 'nhoizey',
