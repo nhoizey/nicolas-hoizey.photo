@@ -1,5 +1,3 @@
-import { getUniquePhotos } from '../_utils/photoCollections.js';
-
 // TODO: remove absolute URL line 25
 export function photo(slug = '') {
 	if (slug === '') return '';

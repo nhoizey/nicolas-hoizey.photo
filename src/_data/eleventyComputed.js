@@ -1,4 +1,3 @@
-import fs from 'node:fs';
 import pkg from '../../package.json' with { type: 'json' };
 import getPhotoData from '../_11ty/_utils/photo-data.js';
 
