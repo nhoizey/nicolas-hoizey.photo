@@ -46,7 +46,7 @@
 		"webmentions": "node ./_scripts/update-webmentions.js",
 		"flickr": "node ./_scripts/update-flickr.cjs",
 		"unsplash": "node ./_scripts/update-unsplash.js",
-		"pixelfed": "node ./_scripts/update-pixelfed.cjs",
+		"pixelfed": "node ./_scripts/update-pixelfed.js",
 		"generate": "./_scripts/generate-map-images.cjs && ./_scripts/generate-opengraph-images.cjs && ./_scripts/generate-photos-sprite.cjs"
 	},
 	"devDependencies": {

@@ -1,12 +1,13 @@
-require('dotenv').config();
+// Load .env variables with dotenv
+import {} from 'dotenv/config';
 
 import fs from 'node:fs';
 import path from 'node:path';
-const slugify = require('../src/_11ty/_utils/slugify.js');
-const { login } = require('masto');
+import slugify from '../src/_11ty/_utils/slugify.js';
+import { createRestAPIClient } from 'masto';
 
 const PLATFORMS_FILE = 'src/_data/platforms.json';
-let platformsData = require(path.join('..', PLATFORMS_FILE));
+import platformsData from '../src/_data/platforms.json' with { type: 'json' };
 
 const STATUSES_PER_API_CALL = 20;
 
@@ -27,15 +28,13 @@ const syncPixelfed = async () => {
 		}
 	}
 
-	// console.dir(pixelfedIds);
-
-	const pixelfedClient = await login({
+	const masto = createRestAPIClient({
 		url: process.env.PIXELFED_URL,
 		accessToken: process.env.PIXELFED_TOKEN,
 		disableVersionCheck: true,
 	});
 
-	const me = await pixelfedClient.accounts.verifyCredentials();
+	const me = await masto.v1.accounts.verifyCredentials();
 
 	let lastCallLength = -1;
 	let statusesIndex = 0;
@@ -52,17 +51,23 @@ const syncPixelfed = async () => {
 			options.max_id = lastId;
 		}
 
-		const pixelfedPhotos = await pixelfedClient.accounts.fetchStatuses(
-			me.id,
-			options
-		);
+		let pixelfedPhotos;
+		try {
+			pixelfedPhotos = await masto.v1.accounts
+				.$select(me.id)
+				.statuses.list(options);
+		} catch (error) {
+			console.dir(error);
+		}
 
-		lastCallLength = pixelfedPhotos.value.length;
+		// console.dir(pixelfedPhotos);
+
+		lastCallLength = pixelfedPhotos.length;
 
 		if (lastCallLength !== 0) {
 			statusesIndex += lastCallLength;
 
-			for (const photo of pixelfedPhotos.value) {
+			for (const photo of pixelfedPhotos) {
 				// console.log(photo.url);
 				lastId = photo.id;
 
