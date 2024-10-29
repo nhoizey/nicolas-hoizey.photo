@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
-require('dotenv').config();
+// Load .env variables with dotenv
+import {} from 'dotenv/config';
 
 import exifr from 'exifr';
 import sharp from 'sharp';
