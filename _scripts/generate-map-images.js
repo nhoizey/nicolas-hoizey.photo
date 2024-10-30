@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 
-require('dotenv').config();
+// Load .env variables with dotenv
+import {} from 'dotenv/config';
 
 import puppeteer from 'puppeteer-core';
 import { Cluster } from 'puppeteer-cluster';
-import fs from 'fs';
+import { stat, access } from 'node:fs/promises';
 import path from 'node:path';
 import glob from 'fast-glob';
 
@@ -32,23 +33,20 @@ import glob from 'fast-glob';
 		});
 		await page.setDefaultNavigationTimeout(50000);
 
-		const folder = path.join('./src', resourcePath);
-		const isDir = await fs.stat(folder).then((stats) => stats.isDirectory());
+		const folder = path.join('./src/collections', resourcePath);
+		const stats = await stat(folder);
+		const isDir = await stats.isDirectory();
 		if (!isDir) {
 			return;
 		}
 
 		const file = path.join(folder, 'map.png');
-		const fileExists = await fs
-			.access(file)
+		const fileExists = await access(file)
 			.then(() => true)
 			.catch(() => false);
 		if (fileExists) return;
 
-		const photoUrl = `http://localhost:8080/${resourcePath.replace(
-			/^(collections|pages)\//,
-			''
-		)}/`;
+		const photoUrl = `http://localhost:8080/${resourcePath}/`;
 
 		console.log(`Get map image from ${photoUrl}`);
 
@@ -58,7 +56,7 @@ import glob from 'fast-glob';
 		const markerShadow = await page.$('#map .marker-shadow');
 		if (markerShadow) {
 			await markerShadow.evaluate((node) =>
-				node.parentElement.removeChild(node)
+				node.parentElement.removeChild(node),
 			);
 		}
 		const marker = await page.$('#map .marker');
@@ -79,13 +77,15 @@ import glob from 'fast-glob';
 	});
 
 	// Get the list of photos
-	const photos = await glob(['collections/photos/*'], {
-		cwd: 'src',
+	const photos = await glob(['photos/*'], {
+		cwd: 'src/collections/',
 		onlyDirectories: true,
 	});
 
 	// Queue processing of all photos and galleries
-	[...photos].forEach((resourcePath) => cluster.queue(resourcePath));
+	for (const resourcePath of photos) {
+		cluster.queue(resourcePath);
+	}
 
 	await cluster.idle();
 	await cluster.close();

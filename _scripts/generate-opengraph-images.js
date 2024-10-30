@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 
-require('dotenv').config();
+// Load .env variables with dotenv
+import {} from 'dotenv/config';
 
 import puppeteer from 'puppeteer-core';
 import { Cluster } from 'puppeteer-cluster';
-import fs from 'fs';
+import fs from 'node:fs';
 import path from 'node:path';
 import glob from 'fast-glob';
 
@@ -34,7 +35,7 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 		});
 		await page.setDefaultNavigationTimeout(50000);
 
-		const folder = path.join('./src', resourcePath);
+		const folder = path.join('./src/collections', resourcePath);
 		const isDir = await fs.stat(folder).then((stats) => stats.isDirectory());
 		if (!isDir) {
 			return;
@@ -57,7 +58,7 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 
 		const opengraphUrl = `http://localhost:8080/${resourcePath.replace(
 			/^(collections|pages)\//,
-			''
+			'',
 		)}/opengraph.html`;
 
 		console.log(`Get opengraph image from ${opengraphUrl}`);
@@ -80,21 +81,21 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 	});
 
 	// Get the list of photos
-	const photos = await glob(['collections/photos/*'], {
-		cwd: 'src',
+	const photos = await glob(['photos/*'], {
+		cwd: 'src/collections',
 		onlyDirectories: true,
 	});
 
 	// Get the list of galleries
-	const galleries = await glob(['pages/galleries/**'], {
-		cwd: 'src',
+	const galleries = await glob(['galleries/**'], {
+		cwd: 'src/pages',
 		onlyDirectories: true,
 	});
 
 	// Queue processing of all photos and galleries
-	[...photos, ...galleries].forEach((resourcePath) =>
-		cluster.queue(resourcePath)
-	);
+	for (const resourcePath of [...photos, ...galleries]) {
+		cluster.queue(resourcePath);
+	}
 
 	await cluster.idle();
 	await cluster.close();
