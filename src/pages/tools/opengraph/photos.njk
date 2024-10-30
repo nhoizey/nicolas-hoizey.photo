@@ -20,7 +20,7 @@ permalink: /photos/{{ photo.page.fileSlug }}/opengraph.html
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex">
     <title>Opengraph image for “{{ photo.title }}”</title>
-    {% renderFile "src/assets/sass/components/opengraph.scss" %}
+    <style>{% renderFile "src/assets/sass/components/opengraph.scss" %}</style>
     <style>
       #opengraph {
         background-color: #{{ colors.darkMuted | bgcolor }};
