@@ -69,6 +69,7 @@ geo:
   longitude: 24.021552055
   country: Grèce
   city: La Canée
+  map: true
 colors:
   vibrant: 221 47 28
   darkVibrant: 4 45 78
@@ -79,8 +80,6 @@ colors:
 lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAAAQDACdASpkAEIAP3Gqy1+0q7+1qvFbI/AuCWIAzBTD0U9SmHWe9liPFhKWiBNTSPSWNwSpktK4ziZ5qQ3Bphxiw1wD9KSb2iJMZiJSVHG3Po7itTcDjOQ+lmaWCoyyRmV11uokIGAn8AAA/tAeEgQkfBehpfr9zdMC83X8KUB7x51E+u3rtvKaeaq5cJ29E/VZ36cXk/Pjf1im+Q+kP2aoOhi8KOr8UBP9b1+rYwvbmUf3jtVaOIuhCU8dMkY3JvTw9bKFjv/m7IMAfOn72R7ilMysr12uE0nibKyWBv675EQSsK9u0TliF2JDPK894hDl8HCkOyBbkAS1aDGIvBsrZt5PAIAAkpeeR6ap4C6lQcowt1VyqKkhB1bFGGMApVDxwNUTiqiyGJYET1/ECQ48rnA2hIbM46BcFLCJ07NY3bVlyneWuNPh4sfs1Bg3bg3lfbInuQAAAA==
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 Since ancient times, the islands and coastal areas of Greece had boatyards where wooden ships were built. Wooden ships, also known in Greek as *kaikia* (aka caïque), played an important role in the economy.

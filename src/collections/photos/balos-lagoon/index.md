@@ -78,6 +78,7 @@ geo:
   longitude: 23.585798758333333
   country: Grèce
   city: Gramvoussa
+  map: true
 colors:
   vibrant: 39 157 188
   darkVibrant: 25 99 123
@@ -86,9 +87,6 @@ colors:
   darkMuted: 92 82 65
   lightMuted: 219 202 185
 lqip: data:image/webp;base64,UklGRgoBAABXRUJQVlA4IP4AAADQCQCdASpkABsAP22ixVi0rCejslgKqpAtiWQAucwIl/QCeH+8tUKxRlKB6T8bY+5Tyv45XTncK9CMZ1QjNXe3Bzy79DZipmPOGjSgM9Tp1JFnMsrFcAAA1oWhfgcy+c64F5RU+gRsJjIGY6kaqZBqZSEf5YOZvyus98G9S16JdtWmenxv+WRvg4CYZuCdbajAo6Fs1AAfoNDZ5Wjvc2b5ziLMI9nUW3kZDPzUBszHtvJ9BVhcUZech/otb+FAcSJ3qPa8lTrtH2Fc7EC2xhzyCu88CaSxPQ+6aP+oiZp5BLuTEUL2c4GpSbPpwFkyPu5KCwGmY/oXPRye7wAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Balos, with its picture-postcard scenery, consists of a double cove.

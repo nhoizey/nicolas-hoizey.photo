@@ -67,6 +67,7 @@ geo:
   longitude: 24.02212108166667
   country: Grèce
   city: La Canée
+  map: true
 colors:
   vibrant: 204 158 85
   darkVibrant: 28 44 68
@@ -77,8 +78,6 @@ colors:
 lqip: data:image/webp;base64,UklGRpwCAABXRUJQVlA4IJACAAAwGgCdASpkAJYAP2WevVizLC2qNfYLomAsiWVs0bAN7ocbc3yVYMyhPK4AeATF95X152A4o5SJTlSE3obYv60vRJLMPONNrQZO4vV86LQGNvKLt0D1SECm58oQ+nzQC6nYm7QteQs5i8sjFPAgQrCARuL2DhyBIaKgtgaLN7rd+sVtwwzcsA/oUFyna5aDkwiHrZvWMX+Htd2d77MzSrj3doGOQJs1CGEBeHR8tRZ2axke9Q95+1cGfJ/kaj6wnHKRmS3IqIM6ij2bP6NsHALGKsoL8hr+FidJUAD+F2NK18LCNcszKZnPO20zr49yUjbEPJoOEFi1Y6zGvEr8PLiV7UwnQwO8nOyCEgRfGMHdCwM/j/dpnj2li2li8VSqe4pPfhWzxZpnF7ssvEZPPuamRg7myqe47SBdHjfR6nGiwIZB9mKR1KP+mhrhqJr8eO/lJi4AwJzc/WMBbjDzmHycTr6hUmifZi7uxeCEfZCTawrEHcBK+rK0xNIbbpiIM2RnMnBHsuftJDsmhYzH6UdF0MBul1kRR2y8PAC+TXipNxygLBnA/UdE/bchywHi1hlHi7m3hyXpb6d2MxKS69ZOQMhzeZB1j17JYMjycByX+Kc4cw2cl0lfsbuav+YAsHYGb/vARIxeAVy7ML11DPkNtEtD6+ZZmNtQrNn87RYWFOMKOfOhy+k6uPFrDa85e0zRZ4kYe+RzOvakDFPG7km8aLj9QJwT8yDqf+a9UisrUlfnG1fNBthIL83TO3A4b81ZeUBzlouQUkZBEy/fKUEpMGoG0tEG+oAkffZcRQEOEUn/po9otqDDeVu6uMfLWihAA8IMSd5gFTSnYdDOXFkxlue8DrCMASRxgVzAK066AA==
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 Beyond the shopping, the museums, restaurants and other places of interest one of the most pleasant ways to pass time in Chania is to just wander about in the back alleys of the old town and let yourself be surprised.

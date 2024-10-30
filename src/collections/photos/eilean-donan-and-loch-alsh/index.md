@@ -68,6 +68,7 @@ geo:
   longitude: -5.514216
   country: Royaume-Uni
   city: Kyle
+  map: true
 colors:
   vibrant: 188 140 68
   darkVibrant: 59 72 9
@@ -76,9 +77,6 @@ colors:
   darkMuted: 84 85 55
   lightMuted: 173 191 205
 lqip: data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAAAQDQCdASpkAEMAP2WYvFizKqavNRhdUmAsiWVtVF5l7Rt/pLPoAv15Jv9BQj6iICvPAeqW83jfUa2I5BsX4K88M3pMH2KHu82ONX2oqMDyezE5TJx2aeYcCZW5Pnj4zofVu5WXf4qpgd6mKVAgpgWBYAD+0wCdmBjQMx6BjtCRDE8Ls2p5WkGiIr0EO2ftZb0SL0111bQ2LOqFn9QSh2t9V1iSIYm5whSKc10QldoCtXUoA8hS5QhAYJ6JieUzA4vs9jz0BqV2wEGlZsh+Ro9WGtFhoidUMTyGg+i/8TYJY9eRM8i9SV09HaqcZHgsQa5zS87JCeKP3ezUcZHOHGaN9kcjRBpmjT3fXO1zIbcIcYu/u61DiCh+k7jgEdQiG8FCmrub2cI7GJaUDNkp+qTvtG5Xrh5fmfuGGnSHEU8Rabo7CjikKwO2wA85ER7QdPdAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Eilean Donan is a small tidal island where three sea lochs meet, Loch Duich, Loch Long and Loch Alsh, in the western Highlands of Scotland.
