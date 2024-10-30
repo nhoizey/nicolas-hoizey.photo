@@ -18,7 +18,7 @@ permalink: "{{ gallery.filePathStem | dirname | replace('/pages', '') }}/opengra
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex">
     <title>Opengraph image for “{{ gallery.data.title }}”</title>
-    <link rel="stylesheet" href="/ui/css/components/opengraph.css" />
+    {% renderFile "src/assets/sass/components/opengraph.scss" %}
     <style>
       .title h1 {
         {% set titleLength = gallery.data.title | length %}

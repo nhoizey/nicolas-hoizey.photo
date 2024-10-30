@@ -5,7 +5,7 @@ import {} from 'dotenv/config';
 
 import puppeteer from 'puppeteer-core';
 import { Cluster } from 'puppeteer-cluster';
-import fs from 'node:fs';
+import { stat, access } from 'node:fs/promises';
 import path from 'node:path';
 import glob from 'fast-glob';
 
@@ -35,20 +35,20 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 		});
 		await page.setDefaultNavigationTimeout(50000);
 
-		const folder = path.join('./src/collections', resourcePath);
-		const isDir = await fs.stat(folder).then((stats) => stats.isDirectory());
+		const folder = path.join('./src', resourcePath);
+		const stats = await stat(folder);
+		const isDir = await stats.isDirectory();
 		if (!isDir) {
 			return;
 		}
 
 		const file = path.join(folder, 'opengraph.jpg');
-		const fileExists = await fs
-			.access(file)
+		const fileExists = await access(file)
 			.then(() => true)
 			.catch(() => false);
 		if (fileExists) {
 			// TODO: automate opengraph image update if new content in sub elements
-			// const lastModified = await fs.stat(file).then((stats) => stats.mtimeMs);
+			// const lastModified = await stat(file).then((stats) => stats.mtimeMs);
 			// const ageInDays = (new Date().getTime() - lastModified) / ONE_DAY_IN_MS;
 			// if (resourcePath.match(/^photos\//) || ageInDays < 14) {
 			// Renew galleries' opengraph images after 14 days
@@ -81,14 +81,14 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 	});
 
 	// Get the list of photos
-	const photos = await glob(['photos/*'], {
-		cwd: 'src/collections',
+	const photos = await glob(['collections/photos/*'], {
+		cwd: 'src',
 		onlyDirectories: true,
 	});
 
 	// Get the list of galleries
-	const galleries = await glob(['galleries/**'], {
-		cwd: 'src/pages',
+	const galleries = await glob(['pages/galleries/**'], {
+		cwd: 'src',
 		onlyDirectories: true,
 	});
 
