@@ -3,8 +3,8 @@ import slugify from '../_utils/slugify.js';
 import { usedPhotosGlob } from '../_utils/photoCollections.js';
 
 export const brands = (collection) => {
-	let brands = [];
-	let brandNames = [];
+	const brands = [];
+	const brandNames = [];
 	const fileSlugs = [];
 
 	collection.getFilteredByGlob(usedPhotosGlob).forEach(function (item) {
@@ -38,7 +38,7 @@ export const brands = (collection) => {
 					let brandContentPath = `src/_includes/gear/${slugify(brand)}.md`;
 					if (fs.existsSync(brandContentPath)) {
 						newBrand.description = fs.readFileSync(brandContentPath, {
-							encoding: 'utf8',
+							encoding: "utf8",
 						});
 					}
 
@@ -49,7 +49,7 @@ export const brands = (collection) => {
 	});
 
 	brands.sort((a, b) => {
-		return a.brand.localeCompare(b.brand, 'en', { ignorePunctuation: true });
+		return a.brand.localeCompare(b.brand, "en", { ignorePunctuation: true });
 	});
 
 	return brands;

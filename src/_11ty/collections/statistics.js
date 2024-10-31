@@ -1,6 +1,4 @@
-import fs from 'node:fs';
-import glob from 'fast-glob';
-import slugify from '../_utils/slugify.js';
+import glob from "fast-glob";
 
 const usedPhotosGlob = glob.sync('src/pages/galleries/**/*.md', {
 	ignore: 'src/pages/galleries/**/index.md',

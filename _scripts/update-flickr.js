@@ -12,16 +12,16 @@ const PLATFORMS_FILE = 'src/_data/platforms.json';
 import platformsData from '../src/_data/platforms.json' with { type: 'json' };
 
 const syncFlickr = async () => {
-	let flickrIds = {};
+	const flickrIds = {};
 	for (const slug in platformsData) {
 		if (platformsData[slug].flickr) {
 			flickrIds[platformsData[slug].flickr.id] = slug;
 		}
 	}
 
-	let flickrPhotos = await flickr('flickr.people.getPublicPhotos', {
+	const flickrPhotos = await flickr("flickr.people.getPublicPhotos", {
 		user_id: process.env.FLICKR_USER_ID,
-		extras: 'count_views,count_faves,count_comments',
+		extras: "count_views,count_faves,count_comments",
 		per_page: 500,
 	}).then((body) => body.photos.photo);
 

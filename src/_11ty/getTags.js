@@ -7,23 +7,23 @@ const usedPhotosGlob = glob.sync('src/pages/galleries/**/*.md', {
 });
 
 const averageColors = (colors) => {
-	let averageColors = {};
-	let colorsNumber = colors.length;
+	const averageColors = {};
+	const colorsNumber = colors.length;
 
 	[
-		'vibrant',
-		'darkVibrant',
-		'lightVibrant',
-		'muted',
-		'darkMuted',
-		'lightMuted',
+		"vibrant",
+		"darkVibrant",
+		"lightVibrant",
+		"muted",
+		"darkMuted",
+		"lightMuted",
 	].forEach((colorName) => {
 		// Compute average color
 		// https://sighack.com/post/averaging-rgb-colors-the-right-way
 		let colorsSum = { r: 0, g: 0, b: 0 };
 
 		colors.forEach((color) => {
-			const [r, g, b] = color[colorName].split(' ');
+			const [r, g, b] = color[colorName].split(" ");
 			colorsSum.r = colorsSum.r + Math.pow(parseInt(r, 10), 2);
 			colorsSum.g = colorsSum.g + Math.pow(parseInt(g, 10), 2);
 			colorsSum.b = colorsSum.b + Math.pow(parseInt(b, 10), 2);
@@ -33,9 +33,9 @@ const averageColors = (colors) => {
 			Math.round(Math.sqrt(colorsSum.r / colorsNumber)),
 			Math.round(Math.sqrt(colorsSum.g / colorsNumber)),
 			Math.round(Math.sqrt(colorsSum.b / colorsNumber)),
-		].map((component) => component.toString(16).padStart(2, '0'));
+		].map((component) => component.toString(16).padStart(2, "0"));
 
-		let colorString = `#${colorArray.join('')}`;
+		let colorString = `#${colorArray.join("")}`;
 
 		averageColors[colorName] = colorString;
 	});
