@@ -65,6 +65,7 @@ geo:
   longitude: 24.018604
   country: Grèce
   city: La Canée
+  map: true
 colors:
   vibrant: 52 108 144
   darkVibrant: 35 7 4
@@ -75,8 +76,6 @@ colors:
 lqip: data:image/webp;base64,UklGRuABAABXRUJQVlA4INQBAADQEQCdASpkAIcAP3GoyFm0v7sqsVLaw/AuCWcG+BxsjKZ2Q6/v15ubVYQef1TWefKbuNiA9xrRqtbdhBuDUFWMiIKzpk41aic1ZJUA5h86ezjyNg8uUlR4RB32T9r/M79gpoyiYsAgotqsSbvjIh5uUEw7GHO8+Pj1s/jp8h4iqnZmIfj0WUhRb9s3g3cnGOj9zSHI9ptgAP3Mcny0d52JZwnT1SE2KErYrm+HTNmwCp3DA7YI0Ilrqh4/ck9j0v1022CF0y6nzEDOjaB2ZeDhqMCgdX6ZfT6U8TpX6Mc5WJpG5yYzGYdS61W1LUNUj9mxZp4AmBbyaS9SaCKlyUqHqjdyZabENr3EvxsMrQ82E/AFIYZVIJ3Gs9xO/murgyUUnKqj1rmkQqQOpoegEwxNPcKSv7XLVDaDeaKVPG1VFjK123S3Iz2R+7WtiPLP+lmjWpvMCZz9LrwL59b1dMfN/XK9bUIoyJfRvUlydKI0ehgXnhGg4yiDXUNp2AoZJdUzHrRl8r/SsgUg5sVUNefaKrCGonV1B6NaXL+G5Y/HsQFpYn7/Rx0iBPYCf02ZpdcV14EevgV0AuUwT2njzsvU2Su98jci36cA3ZkxUhLMWCiAAAA=
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 Both Chania Old Town and Rethymnon Old Zone are remnants of Venetian architecture in Crete and it is these doors that remind us of those middle ages in Crete.
