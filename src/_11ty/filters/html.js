@@ -1,5 +1,5 @@
-import { default as truncateHtmlPackage } from 'truncate-html';
-import { decodeHTML, encodeHTML } from 'entities';
+import { decodeHTML, encodeHTML } from "entities";
+import { default as truncateHtmlPackage } from "truncate-html";
 
 export const decodeEntities = (content) => {
 	return decodeHTML(content);
@@ -10,14 +10,14 @@ export const encodeEntities = (content) => {
 };
 
 export const escapeQuotes = (content, withinQuotation = false) =>
-	content.replaceAll(/"([^"]+)"/g, withinQuotation ? '‘$1’' : '“$1”');
+	content.replaceAll(/"([^"]+)"/g, withinQuotation ? "‘$1’" : "“$1”");
 
 export const extractHeadingsText = (html) => {
 	if (html === undefined) {
-		return '';
+		return "";
 	}
 
-	let headingsText = '';
+	let headingsText = "";
 	const matches = html.matchAll(/<(h[1-6])>(?<heading>.*)<\/\1>/g);
 	if (matches) {
 		for (const match of matches) {

@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
 // Load .env variables with dotenv
-import {} from 'dotenv/config';
+import {} from "dotenv/config";
 
-import puppeteer from 'puppeteer-core';
-import { Cluster } from 'puppeteer-cluster';
-import { stat, access } from 'node:fs/promises';
-import path from 'node:path';
-import glob from 'fast-glob';
+import { access, stat } from "node:fs/promises";
+import path from "node:path";
+import glob from "fast-glob";
+import { Cluster } from "puppeteer-cluster";
+import puppeteer from "puppeteer-core";
 
 const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 
@@ -23,7 +23,7 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 		puppeteer: puppeteer,
 		puppeteerOptions: {
 			executablePath:
-				'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+				"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 		},
 	});
 
@@ -35,14 +35,14 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 		});
 		await page.setDefaultNavigationTimeout(50000);
 
-		const folder = path.join('./src', resourcePath);
+		const folder = path.join("./src", resourcePath);
 		const stats = await stat(folder);
 		const isDir = await stats.isDirectory();
 		if (!isDir) {
 			return;
 		}
 
-		const file = path.join(folder, 'opengraph.jpg');
+		const file = path.join(folder, "opengraph.jpg");
 		const fileExists = await access(file)
 			.then(() => true)
 			.catch(() => false);
@@ -58,37 +58,37 @@ const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 
 		const opengraphUrl = `http://localhost:8080/${resourcePath.replace(
 			/^(collections|pages)\//,
-			'',
+			"",
 		)}/opengraph.html`;
 
 		console.log(`Get opengraph image from ${opengraphUrl}`);
 
-		await page.goto(opengraphUrl, { waitUntil: 'networkidle0', timeout: 0 });
+		await page.goto(opengraphUrl, { waitUntil: "networkidle0", timeout: 0 });
 
 		// Save a screenshot of the opengraph image
-		const element = await page.$('#opengraph');
+		const element = await page.$("#opengraph");
 		if (element) {
 			await element.screenshot({
 				path: file,
-				type: 'jpeg',
+				type: "jpeg",
 			});
 		}
 	});
 
 	// In case of problems, log them
-	cluster.on('taskerror', (err, data) => {
+	cluster.on("taskerror", (err, data) => {
 		console.log(`  Error with ${data}: ${err.message}`);
 	});
 
 	// Get the list of photos
-	const photos = await glob(['collections/photos/*'], {
-		cwd: 'src',
+	const photos = await glob(["collections/photos/*"], {
+		cwd: "src",
 		onlyDirectories: true,
 	});
 
 	// Get the list of galleries
-	const galleries = await glob(['pages/galleries/**'], {
-		cwd: 'src',
+	const galleries = await glob(["pages/galleries/**"], {
+		cwd: "src",
 		onlyDirectories: true,
 	});
 

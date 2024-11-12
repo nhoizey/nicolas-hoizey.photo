@@ -1,19 +1,19 @@
-import { MapboxStyleSwitcherControl } from 'mapbox-gl-style-switcher';
-import mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
-import polylabel from 'polylabel';
+import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
+import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
+import polylabel from "polylabel";
 
-(function (window) {
+((window) => {
 	// Load Mapbox map if necessary
-	const mapElementId = 'map';
+	const mapElementId = "map";
 	const mapElement = window.document.querySelector(`#${mapElementId}`);
 	const maxZoomLevel = 18;
 	const clusterSteps = [
-		{ count: 5, color: '#835aac', radius: 8 },
-		{ count: 10, color: '#663399', radius: 10 },
-		{ count: 20, color: '#53297c', radius: 12 },
-		{ count: 100, color: '#53297c', radius: 15 },
+		{ count: 5, color: "#835aac", radius: 8 },
+		{ count: 10, color: "#663399", radius: 10 },
+		{ count: 20, color: "#53297c", radius: 12 },
+		{ count: 100, color: "#53297c", radius: 15 },
 	];
-	const markerStroke = '#ffffff';
+	const markerStroke = "#ffffff";
 
 	if (mapElement) {
 		let userInteracting = false;
@@ -21,10 +21,10 @@ import polylabel from 'polylabel';
 		let popupOpened = false;
 
 		mapboxgl.accessToken = window.MAPBOX_ACCESS_TOKEN;
-		let map = new mapboxgl.Map({
+		const map = new mapboxgl.Map({
 			container: mapElementId,
 			style: `${window.location.origin}/map/mapbox-style-terrain.json`,
-			projection: 'globe',
+			projection: "globe",
 			center: [3, 35],
 			zoom: 3,
 			minZoom: 1,
@@ -35,19 +35,18 @@ import polylabel from 'polylabel';
 			renderWorldCopies: true,
 			transformRequest: (url, resourceType) => {
 				// console.log({ url, resourceType });
-				if (url.startsWith('https://nicolas-hoizey.photo')) {
-					if (resourceType === 'SpriteImage') {
+				if (url.startsWith("https://nicolas-hoizey.photo")) {
+					if (resourceType === "SpriteImage") {
 						return {
 							url: `https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto/${url}?${Date.now()}`,
 						};
 					}
-					if (resourceType === 'SpriteJSON') {
+					if (resourceType === "SpriteJSON") {
 						return {
-							url:
-								url.replace(
-									/(\/ui\/thumbnails\/)[0-9]+\/(sprite(@2x)?\.json)$/,
-									'$1$2'
-								) + `?${Date.now()}`,
+							url: `${url.replace(
+								/(\/ui\/thumbnails\/)[0-9]+\/(sprite(@2x)?\.json)$/,
+								"$1$2",
+							)}?${Date.now()}`,
 						};
 					}
 				}
@@ -57,27 +56,27 @@ import polylabel from 'polylabel';
 		map.touchZoomRotate.disableRotation();
 
 		const addLayers = () => {
-			if (!map.getSource('photos')) {
-				map.addSource('photos', {
-					type: 'geojson',
-					data: '/map/photos.geojson',
+			if (!map.getSource("photos")) {
+				map.addSource("photos", {
+					type: "geojson",
+					data: "/map/photos.geojson",
 					cluster: true,
 					clusterMaxZoom: maxZoomLevel,
 					clusterRadius: 25, // Radius of each cluster when clustering points (defaults to 50)
 				});
 			}
 
-			if (!map.getLayer('clusters')) {
+			if (!map.getLayer("clusters")) {
 				map.addLayer({
-					id: 'clusters',
-					type: 'circle',
-					source: 'photos',
-					filter: ['has', 'point_count'],
+					id: "clusters",
+					type: "circle",
+					source: "photos",
+					filter: ["has", "point_count"],
 					paint: {
 						// Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
-						'circle-color': [
-							'step',
-							['get', 'point_count'],
+						"circle-color": [
+							"step",
+							["get", "point_count"],
 							clusterSteps[0].color,
 							clusterSteps[0].count,
 							clusterSteps[1].color,
@@ -86,9 +85,9 @@ import polylabel from 'polylabel';
 							clusterSteps[2].count,
 							clusterSteps[3].color,
 						],
-						'circle-radius': [
-							'step',
-							['get', 'point_count'],
+						"circle-radius": [
+							"step",
+							["get", "point_count"],
 							clusterSteps[0].radius,
 							clusterSteps[0].count,
 							clusterSteps[1].radius,
@@ -97,53 +96,53 @@ import polylabel from 'polylabel';
 							clusterSteps[2].count,
 							clusterSteps[3].radius,
 						],
-						'circle-stroke-width': 2,
-						'circle-stroke-color': markerStroke,
+						"circle-stroke-width": 2,
+						"circle-stroke-color": markerStroke,
 					},
 				});
 
-				map.on('click', 'clusters', function (e) {
-					let features = map.queryRenderedFeatures(e.point, {
-						layers: ['clusters'],
+				map.on("click", "clusters", (e) => {
+					const features = map.queryRenderedFeatures(e.point, {
+						layers: ["clusters"],
 					});
-					let clusterId = features[0].properties.cluster_id;
+					const clusterId = features[0].properties.cluster_id;
 
-					let coordinates = features[0].geometry.coordinates.slice();
-					let point_count = features[0].properties.point_count;
+					const coordinates = features[0].geometry.coordinates.slice();
+					const point_count = features[0].properties.point_count;
 					map
-						.getSource('photos')
+						.getSource("photos")
 						.getClusterLeaves(
 							clusterId,
 							point_count,
 							0,
-							function (err, clusterFeatures) {
+							(err, clusterFeatures) => {
+								let popupString = "";
 								if (map.getZoom() === maxZoomLevel) {
 									// Show photos from cluster
-									var popupString = '';
-									var childrenCount = Object.keys(clusterFeatures).length;
-									clusterFeatures.forEach((feature) => {
-										let imageProperties = feature.properties;
+									const childrenCount = Object.keys(clusterFeatures).length;
+									for (const feature of clusterFeatures) {
+										const imageProperties = feature.properties;
 										popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a></p>`;
-									});
+									}
 									popupOpened = true;
 									const popup = new mapboxgl.Popup()
 										.setLngLat(coordinates)
 										.setHTML(
-											`<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`
+											`<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`,
 										)
 										.addTo(map);
-									popup.on('close', () => {
+									popup.on("close", () => {
 										popupOpened = false;
 									});
 								} else {
 									// Zoom in cluster
-									let clusterMarkers = [];
-									clusterFeatures.forEach((feature) => {
+									const clusterMarkers = [];
+									for (const feature of clusterFeatures) {
 										clusterMarkers.push(feature.geometry.coordinates);
-									});
+									}
 									map
-										.getSource('photos')
-										.getClusterExpansionZoom(clusterId, function (err, zoom) {
+										.getSource("photos")
+										.getClusterExpansionZoom(clusterId, (err, zoom) => {
 											if (err) return;
 
 											userInteracting = true;
@@ -156,52 +155,52 @@ import polylabel from 'polylabel';
 											});
 										});
 								}
-							}
+							},
 						);
 				});
 
-				map.on('mouseenter', 'clusters', function () {
-					map.getCanvas().style.cursor = 'pointer';
+				map.on("mouseenter", "clusters", () => {
+					map.getCanvas().style.cursor = "pointer";
 					userInteracting = true;
 				});
-				map.on('mouseleave', 'clusters', function () {
-					map.getCanvas().style.cursor = '';
+				map.on("mouseleave", "clusters", () => {
+					map.getCanvas().style.cursor = "";
 					userInteracting = false;
 				});
 			}
 
-			if (!map.getLayer('cluster-count')) {
+			if (!map.getLayer("cluster-count")) {
 				map.addLayer({
-					id: 'cluster-count',
-					type: 'symbol',
-					source: 'photos',
-					filter: ['has', 'point_count'],
+					id: "cluster-count",
+					type: "symbol",
+					source: "photos",
+					filter: ["has", "point_count"],
 					layout: {
-						'text-field': '{point_count_abbreviated}',
-						'text-size': 12,
+						"text-field": "{point_count_abbreviated}",
+						"text-size": 12,
 					},
 					paint: {
-						'text-color': '#ffffff',
+						"text-color": "#ffffff",
 					},
 				});
 			}
 
-			if (!map.getLayer('unclustered-point-photo')) {
+			if (!map.getLayer("unclustered-point-photo")) {
 				map.addLayer({
-					id: 'unclustered-point-photo',
-					type: 'symbol',
-					source: 'photos',
-					filter: ['!', ['has', 'point_count']],
+					id: "unclustered-point-photo",
+					type: "symbol",
+					source: "photos",
+					filter: ["!", ["has", "point_count"]],
 					sprite: `${window.location.origin}/ui/thumbnails/sprite`,
 					layout: {
-						'icon-image': '{slug}',
-						'icon-allow-overlap': true,
+						"icon-image": "{slug}",
+						"icon-allow-overlap": true,
 					},
 				});
 
-				map.on('click', 'unclustered-point-photo', function (e) {
-					let coordinates = e.features[0].geometry.coordinates.slice();
-					let imageProperties = e.features[0].properties;
+				map.on("click", "unclustered-point-photo", (e) => {
+					const coordinates = e.features[0].geometry.coordinates.slice();
+					const imageProperties = e.features[0].properties;
 
 					// Ensure that if the map is zoomed out such that
 					// multiple copies of the feature are visible, the
@@ -214,20 +213,20 @@ import polylabel from 'polylabel';
 					const popup = new mapboxgl.Popup()
 						.setLngLat(coordinates)
 						.setHTML(
-							`<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a>`
+							`<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a>`,
 						)
 						.addTo(map);
-					popup.on('close', () => {
+					popup.on("close", () => {
 						popupOpened = false;
 					});
 				});
 
-				map.on('mouseenter', 'unclustered-point-photo', function () {
-					map.getCanvas().style.cursor = 'pointer';
+				map.on("mouseenter", "unclustered-point-photo", () => {
+					map.getCanvas().style.cursor = "pointer";
 					userInteracting = true;
 				});
-				map.on('mouseleave', 'unclustered-point-photo', function () {
-					map.getCanvas().style.cursor = '';
+				map.on("mouseleave", "unclustered-point-photo", () => {
+					map.getCanvas().style.cursor = "";
 					userInteracting = false;
 				});
 			}
@@ -235,33 +234,33 @@ import polylabel from 'polylabel';
 
 		map.addControl(
 			new mapboxgl.NavigationControl({ showCompass: false }),
-			'top-right'
+			"top-right",
 		);
 		map.addControl(new mapboxgl.FullscreenControl());
 
 		const mapStyles = [
 			{
-				title: 'Terrain',
+				title: "Terrain",
 				uri: `${window.location.origin}/map/mapbox-style-terrain.json`,
 			},
 			{
-				title: 'Satellite',
+				title: "Satellite",
 				uri: `${window.location.origin}/map/mapbox-style-satellite.json`,
 			},
 		];
 		map.addControl(
 			new MapboxStyleSwitcherControl(mapStyles, {
-				defaultStyle: 'Terrain',
+				defaultStyle: "Terrain",
 				eventListeners: {
 					onChange: (event, style) => {
 						// TODO: manage localStorage or a cookie to keep track of chosen style
 					},
 				},
-			})
+			}),
 		);
 
 		// After the last frame rendered before the map enters an "idle" state.
-		map.on('idle', () => {
+		map.on("idle", () => {
 			// addLayers();
 
 			// Compute new position every… in milliseconds
@@ -275,13 +274,13 @@ import polylabel from 'polylabel';
 
 			// Respect user preference for reduced motion
 			let animationAllowed = window.matchMedia(
-				'(prefers-reduced-motion: no-preference)'
+				"(prefers-reduced-motion: no-preference)",
 			).matches;
 			window
-				.matchMedia('(prefers-reduced-motion)')
-				.addEventListener('change', () => {
+				.matchMedia("(prefers-reduced-motion)")
+				.addEventListener("change", () => {
 					animationAllowed = window.matchMedia(
-						'(prefers-reduced-motion: no-preference)'
+						"(prefers-reduced-motion: no-preference)",
 					).matches;
 				});
 
@@ -316,27 +315,27 @@ import polylabel from 'polylabel';
 			// requestAnimationFrame(spinGlobe);
 
 			// Pause spinning on interaction
-			map.on('mousedown', () => {
+			map.on("mousedown", () => {
 				userInteracting = true;
 			});
 
 			// Restart spinning the globe when interaction is complete
-			map.on('mouseup', () => {
+			map.on("mouseup", () => {
 				userInteracting = false;
 			});
 
 			// These events account for cases where the mouse has moved
 			// off the map, so 'mouseup' will not be fired.
-			map.on('dragend', () => {
+			map.on("dragend", () => {
 				userInteracting = false;
 			});
-			map.on('pitchend', () => {
+			map.on("pitchend", () => {
 				userInteracting = false;
 			});
-			map.on('rotateend', () => {
+			map.on("rotateend", () => {
 				userInteracting = false;
 			});
-			map.on('moveend', () => {
+			map.on("moveend", () => {
 				if (userInteracting && clusterMove) {
 					userInteracting = false;
 					clusterMove = false;
@@ -344,13 +343,13 @@ import polylabel from 'polylabel';
 			});
 		});
 
-		map.on('styledata', () => {
+		map.on("styledata", () => {
 			map.setFog({
-				color: '#222222',
-				'horizon-blend': 0.05,
-				'high-color': '#292929',
-				'space-color': '#292929',
-				'star-intensity': 0.2,
+				color: "#222222",
+				"horizon-blend": 0.05,
+				"high-color": "#292929",
+				"space-color": "#292929",
+				"star-intensity": 0.2,
 			});
 			addLayers();
 		});

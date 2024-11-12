@@ -1,9 +1,9 @@
 import {
 	getPhotos,
-	getUniquePhotos,
 	getPhotosInGalleries,
 	getPhotosNotInGalleries,
-} from '../_utils/photoCollections.js';
+	getUniquePhotos,
+} from "../_utils/photoCollections.js";
 
 export const photos = (collection) => getPhotos(collection);
 

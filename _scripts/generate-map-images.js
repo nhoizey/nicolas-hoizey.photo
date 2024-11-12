@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
 // Load .env variables with dotenv
-import {} from 'dotenv/config';
+import {} from "dotenv/config";
 
-import puppeteer from 'puppeteer-core';
-import { Cluster } from 'puppeteer-cluster';
-import { stat, access } from 'node:fs/promises';
-import path from 'node:path';
-import glob from 'fast-glob';
+import { access, stat } from "node:fs/promises";
+import path from "node:path";
+import glob from "fast-glob";
+import { Cluster } from "puppeteer-cluster";
+import puppeteer from "puppeteer-core";
 
 (async () => {
 	const cluster = await Cluster.launch({
@@ -21,7 +21,7 @@ import glob from 'fast-glob';
 		puppeteer: puppeteer,
 		puppeteerOptions: {
 			executablePath:
-				'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+				"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 		},
 	});
 
@@ -33,14 +33,14 @@ import glob from 'fast-glob';
 		});
 		await page.setDefaultNavigationTimeout(50000);
 
-		const folder = path.join('./src/collections', resourcePath);
+		const folder = path.join("./src/collections", resourcePath);
 		const stats = await stat(folder);
 		const isDir = await stats.isDirectory();
 		if (!isDir) {
 			return;
 		}
 
-		const file = path.join(folder, 'map.png');
+		const file = path.join(folder, "map.png");
 		const fileExists = await access(file)
 			.then(() => true)
 			.catch(() => false);
@@ -50,35 +50,35 @@ import glob from 'fast-glob';
 
 		console.log(`Get map image from ${photoUrl}`);
 
-		await page.goto(photoUrl, { waitUntil: 'networkidle0', timeout: 0 });
+		await page.goto(photoUrl, { waitUntil: "networkidle0", timeout: 0 });
 
 		// Remove marker and its shadow
-		const markerShadow = await page.$('#map .marker-shadow');
+		const markerShadow = await page.$("#map .marker-shadow");
 		if (markerShadow) {
 			await markerShadow.evaluate((node) =>
 				node.parentElement.removeChild(node),
 			);
 		}
-		const marker = await page.$('#map .marker');
+		const marker = await page.$("#map .marker");
 		if (marker) {
 			await marker.evaluate((node) => node.parentElement.removeChild(node));
 		}
 
 		// Take a screenshot of the map
-		const map = await page.$('#map img');
+		const map = await page.$("#map img");
 		if (map) {
-			await map.screenshot({ path: file, type: 'png' });
+			await map.screenshot({ path: file, type: "png" });
 		}
 	});
 
 	// In case of problems, log them
-	cluster.on('taskerror', (err, data) => {
+	cluster.on("taskerror", (err, data) => {
 		console.log(`  Error with ${data}: ${err.message}`);
 	});
 
 	// Get the list of photos
-	const photos = await glob(['photos/*'], {
-		cwd: 'src/collections/',
+	const photos = await glob(["photos/*"], {
+		cwd: "src/collections/",
 		onlyDirectories: true,
 	});
 

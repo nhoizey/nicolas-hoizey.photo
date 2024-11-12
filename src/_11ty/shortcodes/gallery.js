@@ -1,15 +1,15 @@
-import { getUniquePhotos } from '../_utils/photoCollections.js';
+import { getUniquePhotos } from "../_utils/photoCollections.js";
 
 export function gallery(...slugs) {
-	if (slugs.length === 0) return '';
+	if (slugs.length === 0) return "";
 
 	// Collections are available in `this.ctx.collections` in classic (not arrow) functions
 	// https://github.com/11ty/eleventy/issues/813#issuecomment-1037874929
 
 	let gallery = `<ul class="photos">`;
-	slugs.forEach((slug) => {
+	for (const slug of slugs) {
 		const photosWithSlug = this.ctx.collections.unique_photos.filter(
-			(item) => item.page.fileSlug === slug
+			(item) => item.page.fileSlug === slug,
 		);
 		if (photosWithSlug.length === 1) {
 			const photo = photosWithSlug[0].data;
@@ -19,9 +19,9 @@ export function gallery(...slugs) {
   <img src="/photos/${slug}/${slug}.jpg" alt="${
 		photo.origin.data.alt_text || photo.title
 	}" class="frame${
-		dimensions.width < dimensions.height ? ' portrait' : ''
-	}" ${dimensions.width ? `width="${dimensions.width}"` : ''} ${
-		dimensions.height ? `height="${dimensions.height}"` : ''
+		dimensions.width < dimensions.height ? " portrait" : ""
+	}" ${dimensions.width ? `width="${dimensions.width}"` : ""} ${
+		dimensions.height ? `height="${dimensions.height}"` : ""
 	} style="background-color: rgb(${
 		photo.origin.data.colors.muted
 	} / 50%)" data-responsiver="thumbnail" />
@@ -40,7 +40,7 @@ export function gallery(...slugs) {
 </figure>
 </li>`;
 		}
-	});
-	gallery += '</ul>';
+	}
+	gallery += "</ul>";
 	return gallery;
 }

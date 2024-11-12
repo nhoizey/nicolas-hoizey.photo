@@ -1,72 +1,72 @@
 #!/usr/bin/env node
 
 // Load .env variables with dotenv
-import {} from 'dotenv/config';
+import {} from "dotenv/config";
 
-import exifr from 'exifr';
-import sharp from 'sharp';
-import vibrant from 'node-vibrant';
-import slugify from '../src/_11ty/_utils/slugify.js';
-import { DateTime } from 'luxon';
-import Fraction from 'fraction.js';
-import imageSize from 'image-size';
-import utf8 from 'utf8';
-import YAML from 'yaml';
-import pixelmatch from 'pixelmatch';
-import { PNG } from 'pngjs';
-import fs from 'node:fs';
-import path from 'node:path';
+import fs from "node:fs";
+import path from "node:path";
+import exifr from "exifr";
+import Fraction from "fraction.js";
+import imageSize from "image-size";
+import { DateTime } from "luxon";
+import vibrant from "node-vibrant";
+import pixelmatch from "pixelmatch";
+import { PNG } from "pngjs";
+import sharp from "sharp";
+import utf8 from "utf8";
+import YAML from "yaml";
+import slugify from "../src/_11ty/_utils/slugify.js";
 
 const SRC =
-	'/Users/nicolashoizey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Photographie/_Site web/';
-const DIST = './src/collections/photos/';
-const THUMBNAILS = './_temp/thumbnails/';
-const DIFFS = path.join(SRC, '_temp_diffs');
+	"/Users/nicolashoizey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Photographie/_Site web/";
+const DIST = "./src/collections/photos/";
+const THUMBNAILS = "./_temp/thumbnails/";
+const DIFFS = path.join(SRC, "_temp_diffs");
 const SMALL_VERSION_PIXELS = 900 * 600;
 
-import CLEAN_GEAR from '../src/_data/gear.json' with { type: 'json' };
+import CLEAN_GEAR from "../src/_data/gear.json" with { type: "json" };
 const MISSING_GEAR = { cameras: [], lenses: [] };
 
-import photosData from '../_cache/photos-data.json' with { type: 'json' };
+import photosData from "../_cache/photos-data.json" with { type: "json" };
 
 // Create folders for thumbnails
-if (!fs.existsSync(path.join(THUMBNAILS, 'icons'))) {
-	fs.mkdirSync(path.join(THUMBNAILS, 'icons'));
+if (!fs.existsSync(path.join(THUMBNAILS, "icons"))) {
+	fs.mkdirSync(path.join(THUMBNAILS, "icons"));
 }
-if (!fs.existsSync(path.join(THUMBNAILS, 'icons@2x'))) {
-	fs.mkdirSync(path.join(THUMBNAILS, 'icons@2x'));
+if (!fs.existsSync(path.join(THUMBNAILS, "icons@2x"))) {
+	fs.mkdirSync(path.join(THUMBNAILS, "icons@2x"));
 }
 
-let exifrOptions = {
+const exifrOptions = {
 	mergeOutput: false,
 	crs: false,
 	dc: false,
 	lr: false,
 	photoshop: false,
 	ifd0: {
-		pick: ['Make', 'Model', 'ImageDescription'],
+		pick: ["Make", "Model", "ImageDescription"],
 	},
 	exif: [
-		'DateTimeOriginal',
-		'OffsetTime',
-		'ExposureTime',
-		'ISO',
-		'FNumber',
-		'FocalLength',
-		'FocalLengthIn35mmFormat',
-		'LensModel',
+		"DateTimeOriginal",
+		"OffsetTime",
+		"ExposureTime",
+		"ISO",
+		"FNumber",
+		"FocalLength",
+		"FocalLengthIn35mmFormat",
+		"LensModel",
 	],
 
 	gps: {
-		pick: ['latitude', 'longitude'],
+		pick: ["latitude", "longitude"],
 	},
-	iptc: { pick: ['ObjectName', 'Caption', 'Country', 'City'] },
-	xmp: { pick: ['AltTextAccessibility', 'ExtDescrAccessibility'] },
+	iptc: { pick: ["ObjectName", "Caption", "Country", "City"] },
+	xmp: { pick: ["AltTextAccessibility", "ExtDescrAccessibility"] },
 	userComment: false,
 };
 
 async function syncOnePhoto(photo) {
-	if (photo === '.DS_Store') return;
+	if (photo === ".DS_Store") return;
 
 	let logged = false;
 	const thisLog = (msg) => {
@@ -81,33 +81,31 @@ SYNC ${photo}`);
 
 	const photoPath = path.join(SRC, photo);
 	const ext = path.extname(photoPath);
-	if (ext !== '.jpg') {
+	if (ext !== ".jpg") {
 		return;
 	}
-	let photoYFM = {};
+	const photoYFM = {};
 	const photoExif = await exifr.parse(photoPath, exifrOptions);
 
-	// console.dir(photoExif);
-
-	if (undefined === photoExif) {
-		thisLog(`  ⚠ error reading EXIF data`);
+	if (photoExif === undefined) {
+		thisLog("  ⚠ error reading EXIF data");
 	} else {
 		if (undefined === photosData[photo]) {
 			photosData[photo] = {};
 		}
 
-		let missingData = {};
+		const missingData = {};
 
 		let copyPhotoFile = false;
 		if (JSON.stringify(photosData[photo].raw) !== JSON.stringify(photoExif)) {
-			thisLog(`  ⚠ EXIF data are new or changed`);
+			thisLog("  ⚠ EXIF data are new or changed");
 			photosData[photo].raw = photoExif;
 			copyPhotoFile = true;
 		}
 
 		if (undefined === photoExif.iptc.ObjectName) {
 			thisLog(`  ⚠ "iptc.ObjectName" missing`);
-			photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, '$1');
+			photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, "$1");
 		} else {
 			// Get title
 			photoYFM.title = utf8.decode(photoExif.iptc.ObjectName);
@@ -121,7 +119,7 @@ SYNC ${photo}`);
 
 		// Get alt text from XMP's AltTextAccessibility or IPTC's userComment or Headline
 		// TODO: also use ExtDescrAccessibility as long description
-		let photoAltText = '';
+		let photoAltText = "";
 		if (photoExif.Iptc4xmpCore?.AltTextAccessibility?.value) {
 			photoAltText = photoExif.Iptc4xmpCore.AltTextAccessibility.value.trim();
 		}
@@ -132,7 +130,7 @@ SYNC ${photo}`);
 		}
 
 		// Get caption/description
-		let photoDescription = '';
+		let photoDescription = "";
 		if (photoExif.ifd0.ImageDescription) {
 			photoDescription = photoExif.ifd0.ImageDescription.trim();
 		}
@@ -144,62 +142,62 @@ SYNC ${photo}`);
 		let luxonDate;
 		if (photoExif.exif.DateTimeOriginal && photoExif.exif.OffsetTime) {
 			luxonDate = DateTime.fromHTTP(
-				photoExif.exif.DateTimeOriginal.toGMTString()
-			).setZone('UTC+' + parseInt(photoExif.exif.OffsetTime, 10));
+				photoExif.exif.DateTimeOriginal.toGMTString(),
+			).setZone(`UTC+${Number.parseInt(photoExif.exif.OffsetTime, 10)}`);
 		} else {
-			thisLog(`  ⚠ exif.DateTimeOriginal missing`);
+			thisLog("  ⚠ exif.DateTimeOriginal missing");
 			if (
 				photoExif.iptc.DigitalCreationDate &&
 				photoExif.iptc.DigitalCreationTime
 			) {
 				luxonDate = DateTime.fromFormat(
 					`${photoExif.iptc.DigitalCreationDate} ${photoExif.iptc.DigitalCreationTime}`,
-					'yyyyLLdd HHmmssZZZ'
+					"yyyyLLdd HHmmssZZZ",
 				);
 			} else {
-				thisLog(`  ⚠ iptc.DigitalCreationDate`);
+				thisLog("  ⚠ iptc.DigitalCreationDate");
 				luxonDate = DateTime.fromFormat(
 					`${photo.slice(0, 10)} 12:00:00 Z`,
-					'yyyy-LL-dd HH:mm:ss Z'
+					"yyyy-LL-dd HH:mm:ss Z",
 				);
 			}
 		}
-		photoYFM.date = luxonDate.toFormat('yyyy-LL-dd HH:mm:ss ZZ');
+		photoYFM.date = luxonDate.toFormat("yyyy-LL-dd HH:mm:ss ZZ");
 
 		// Prevent parsing of dates as string when using Matter in photo-data.js
 		// https://github.com/jonschlinkert/gray-matter/issues/62#issuecomment-1720216543
 		photoYFM.dates = {
-			iso: `'${luxonDate.toFormat('yyyy-LL-dd')}'`,
-			human: `'${luxonDate.toFormat('d LLLL yyyy')}'`,
+			iso: `'${luxonDate.toFormat("yyyy-LL-dd")}'`,
+			human: `'${luxonDate.toFormat("d LLLL yyyy")}'`,
 		};
 
 		if (photoExif.ifd0.Model || photoExif.exif.LensModel) {
 			// Get gear
-			photoYFM.gear = { short: '' };
+			photoYFM.gear = { short: "" };
 			if (photoExif.ifd0.Make || photoExif.ifd0.Model) {
-				const makeAndModel = `${photoExif.ifd0.Make || ''} ${
-					photoExif.ifd0.Model || ''
+				const makeAndModel = `${photoExif.ifd0.Make || ""} ${
+					photoExif.ifd0.Model || ""
 				}`;
 				if (CLEAN_GEAR.cameras[makeAndModel] === undefined) {
 					if (!MISSING_GEAR.cameras.includes(makeAndModel)) {
 						MISSING_GEAR.cameras.push(makeAndModel);
 					}
 					photoYFM.gear.camera = {
-						brand: photoExif.ifd0.Make || 'unknown',
-						model: photoExif.ifd0.Model || 'unknown',
+						brand: photoExif.ifd0.Make || "unknown",
+						model: photoExif.ifd0.Model || "unknown",
 					};
 					photoYFM.gear.short = [
-						photoExif.ifd0.Make || '',
-						photoExif.ifd0.Model || '',
-					].join(' ');
+						photoExif.ifd0.Make || "",
+						photoExif.ifd0.Model || "",
+					].join(" ");
 				} else {
 					photoYFM.gear.camera = CLEAN_GEAR.cameras[makeAndModel];
 					photoYFM.gear.short = [
-						CLEAN_GEAR.cameras[makeAndModel].brand || '',
+						CLEAN_GEAR.cameras[makeAndModel].brand || "",
 						CLEAN_GEAR.cameras[makeAndModel].short ||
 							CLEAN_GEAR.cameras[makeAndModel].model ||
-							'',
-					].join(' ');
+							"",
+					].join(" ");
 				}
 			} else {
 				missingData.camera = true;
@@ -212,7 +210,7 @@ SYNC ${photo}`);
 					}
 					photoYFM.gear.lenses = [
 						{
-							brand: 'unknown',
+							brand: "unknown",
 							model: photoExif.exif.LensModel,
 						},
 					];
@@ -227,13 +225,13 @@ SYNC ${photo}`);
 								CLEAN_GEAR.lenses[photoExif.exif.LensModel],
 							];
 						}
-						photoYFM.gear.lenses.forEach((lens) => {
+						for (const lens of photoYFM.gear.lenses) {
 							photoYFM.gear.short += ` +${
-								lens.brand !== (photoYFM.gear.camera.brand || '')
+								lens.brand !== (photoYFM.gear.camera.brand || "")
 									? ` ${lens.brand}`
-									: ''
-							} ${lens.short || lens.model || ''}`;
-						});
+									: ""
+							} ${lens.short || lens.model || ""}`;
+						}
 					}
 				}
 			} else {
@@ -243,8 +241,8 @@ SYNC ${photo}`);
 
 		if (photoExif.iptc.Keywords) {
 			photoYFM.tags = photoExif.iptc.Keywords.map((keyword) =>
-				utf8.decode(keyword)
-			).sort((a, b) => a.localeCompare(b, 'en'));
+				utf8.decode(keyword),
+			).sort((a, b) => a.localeCompare(b, "en"));
 		}
 
 		if (
@@ -278,7 +276,7 @@ SYNC ${photo}`);
 				photoYFM.settings.focal_length.readable = `${photoYFM.settings.focal_length.computed} mm`;
 
 				photoYFM.settings.focal_length.slug = slugify(
-					photoYFM.settings.focal_length.readable
+					photoYFM.settings.focal_length.readable,
 				);
 			}
 
@@ -307,12 +305,12 @@ SYNC ${photo}`);
 				};
 
 				// Add exposure time as a fraction for readability
-				let t = new Fraction(photoExif.exif.ExposureTime);
+				const t = new Fraction(photoExif.exif.ExposureTime);
 
 				photoYFM.settings.shutter_speed.readable = `${t.toFraction(true)} s`;
 
 				photoYFM.settings.shutter_speed.slug = slugify(
-					photoYFM.settings.shutter_speed.readable
+					photoYFM.settings.shutter_speed.readable,
 				);
 			}
 		}
@@ -332,19 +330,25 @@ SYNC ${photo}`);
 		// Get coordinates
 		if (photoExif.gps.latitude && photoExif.gps.longitude) {
 			if (
-				photoExif.gps.latitude >= parseFloat(process.env.HOME_1_LATITUDE_MIN) &&
-				photoExif.gps.latitude <= parseFloat(process.env.HOME_1_LATITUDE_MAX) &&
+				photoExif.gps.latitude >=
+					Number.parseFloat(process.env.HOME_1_LATITUDE_MIN) &&
+				photoExif.gps.latitude <=
+					Number.parseFloat(process.env.HOME_1_LATITUDE_MAX) &&
 				photoExif.gps.longitude >=
-					parseFloat(process.env.HOME_1_LONGITUDE_MIN) &&
-				photoExif.gps.longitude <= parseFloat(process.env.HOME_1_LONGITUDE_MAX)
+					Number.parseFloat(process.env.HOME_1_LONGITUDE_MIN) &&
+				photoExif.gps.longitude <=
+					Number.parseFloat(process.env.HOME_1_LONGITUDE_MAX)
 			) {
 				// Removing position for photo in home 1 area
 			} else if (
-				photoExif.gps.latitude >= parseFloat(process.env.HOME_2_LATITUDE_MIN) &&
-				photoExif.gps.latitude <= parseFloat(process.env.HOME_2_LATITUDE_MAX) &&
+				photoExif.gps.latitude >=
+					Number.parseFloat(process.env.HOME_2_LATITUDE_MIN) &&
+				photoExif.gps.latitude <=
+					Number.parseFloat(process.env.HOME_2_LATITUDE_MAX) &&
 				photoExif.gps.longitude >=
-					parseFloat(process.env.HOME_2_LONGITUDE_MIN) &&
-				photoExif.gps.longitude <= parseFloat(process.env.HOME_2_LONGITUDE_MAX)
+					Number.parseFloat(process.env.HOME_2_LONGITUDE_MIN) &&
+				photoExif.gps.longitude <=
+					Number.parseFloat(process.env.HOME_2_LONGITUDE_MAX)
 			) {
 				// Removing position for photo in home 2 area
 			} else {
@@ -361,7 +365,7 @@ SYNC ${photo}`);
 				}
 
 				// Get map for the photo
-				const mapFile = path.join(distDir, 'map.png');
+				const mapFile = path.join(distDir, "map.png");
 				if (fs.existsSync(mapFile)) {
 					photoYFM.geo.map = true;
 				} else {
@@ -369,26 +373,25 @@ SYNC ${photo}`);
 				}
 
 				// Generate thumbnails for 1x screens
-				const thumbFile = path.join(THUMBNAILS, 'icons', `${slug}.png`);
+				const thumbFile = path.join(THUMBNAILS, "icons", `${slug}.png`);
 				if (!fs.existsSync(thumbFile)) {
 					const mask = Buffer.from(
-						'<svg><circle cx="15" cy="15" r="14" fill="black"/></svg>'
+						'<svg><circle cx="15" cy="15" r="14" fill="black"/></svg>',
 					);
 					const border = Buffer.from(
-						'<svg><circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="2" /></svg>'
+						'<svg><circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="2" /></svg>',
 					);
 					sharp(photoPath)
 						.resize(30, 30, {
 							fit: sharp.fit.cover,
-							position: sharp.strategy.cover,
 							position: sharp.strategy.entropy,
 							// background: { r: 0, g: 0, b: 0, alpha: 0 },
 						})
 						.composite([
-							{ input: mask, left: 0, top: 0, blend: 'dest-in' },
-							{ input: border, left: 0, top: 0, blend: 'over' },
+							{ input: mask, left: 0, top: 0, blend: "dest-in" },
+							{ input: border, left: 0, top: 0, blend: "over" },
 						])
-						.toFile(thumbFile, function (err) {
+						.toFile(thumbFile, (err) => {
 							if (err) {
 								thisLog(`Error while creating thumbnail for ${slug}`, err);
 							}
@@ -396,25 +399,24 @@ SYNC ${photo}`);
 				}
 
 				// Generate thumbnails for 2x screens
-				const thumb2File = path.join(THUMBNAILS, 'icons@2x', `${slug}.png`);
+				const thumb2File = path.join(THUMBNAILS, "icons@2x", `${slug}.png`);
 				if (!fs.existsSync(thumb2File)) {
 					const mask2x = Buffer.from(
-						'<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>'
+						'<svg><circle cx="30" cy="30" r="28" fill="black"/></svg>',
 					);
 					const border2 = Buffer.from(
-						'<svg><circle cx="30" cy="30" r="28" fill="none" stroke="white" stroke-width="3" /></svg>'
+						'<svg><circle cx="30" cy="30" r="28" fill="none" stroke="white" stroke-width="3" /></svg>',
 					);
 					sharp(photoPath)
 						.resize(60, 60, {
 							fit: sharp.fit.cover,
-							position: sharp.strategy.cover,
 							position: sharp.strategy.entropy,
 						})
 						.composite([
-							{ input: mask2x, left: 0, top: 0, blend: 'dest-in' },
-							{ input: border2, left: 0, top: 0, blend: 'over' },
+							{ input: mask2x, left: 0, top: 0, blend: "dest-in" },
+							{ input: border2, left: 0, top: 0, blend: "over" },
 						])
-						.toFile(thumb2File, function (err) {
+						.toFile(thumb2File, (err) => {
 							if (err) {
 								thisLog(`Error while creating @2x thumbnail for ${slug}`, err);
 							}
@@ -426,7 +428,7 @@ SYNC ${photo}`);
 		}
 
 		// Check opengraph image for the photo
-		const opengraphFile = path.join(distDir, 'opengraph.jpg');
+		const opengraphFile = path.join(distDir, "opengraph.jpg");
 		if (!fs.existsSync(opengraphFile)) {
 			missingData.opengraph = true;
 		}
@@ -439,22 +441,22 @@ SYNC ${photo}`);
 			photoYFM.colors = {
 				vibrant: palette.Vibrant.getRgb()
 					.map((value) => Math.round(value))
-					.join(' '),
+					.join(" "),
 				darkVibrant: palette.DarkVibrant.getRgb()
 					.map((value) => Math.round(value))
-					.join(' '),
+					.join(" "),
 				lightVibrant: palette.LightVibrant.getRgb()
 					.map((value) => Math.round(value))
-					.join(' '),
+					.join(" "),
 				muted: palette.Muted.getRgb()
 					.map((value) => Math.round(value))
-					.join(' '),
+					.join(" "),
 				darkMuted: palette.DarkMuted.getRgb()
 					.map((value) => Math.round(value))
-					.join(' '),
+					.join(" "),
 				lightMuted: palette.LightMuted.getRgb()
 					.map((value) => Math.round(value))
-					.join(' '),
+					.join(" "),
 			};
 			photosData[photo].colors = photoYFM.colors;
 		}
@@ -473,7 +475,7 @@ SYNC ${photo}`);
 				.then(({ data, info }) => {
 					return { data, info };
 				});
-			photoYFM.lqip = `data:image/webp;base64,${data.toString('base64')}`;
+			photoYFM.lqip = `data:image/webp;base64,${data.toString("base64")}`;
 			photosData[photo].lqip = photoYFM.lqip;
 		}
 
@@ -514,7 +516,7 @@ SYNC ${photo}`);
 					newPhotoBuffer.info.height !== existingPhotoBuffer.info.height
 				) {
 					thisLog(
-						`New photo is not the same dimensions as the old one: ${existingPhotoBuffer.info.width}x${existingPhotoBuffer.info.height} vs ${newPhotoBuffer.info.width}x${newPhotoBuffer.info.height}`
+						`New photo is not the same dimensions as the old one: ${existingPhotoBuffer.info.width}x${existingPhotoBuffer.info.height} vs ${newPhotoBuffer.info.width}x${newPhotoBuffer.info.height}`,
 					);
 					copyPhotoFile = true;
 				} else {
@@ -530,7 +532,7 @@ SYNC ${photo}`);
 						newPhotoBuffer.info.height,
 						{
 							threshold: 0.1,
-						}
+						},
 					);
 
 					if (diff > 0) {
@@ -543,7 +545,7 @@ SYNC ${photo}`);
 
 						fs.writeFileSync(
 							path.join(DIFFS, `${slug}${ext}`),
-							PNG.sync.write(diffImage)
+							PNG.sync.write(diffImage),
 						);
 						copyPhotoFile = true;
 					}
@@ -556,20 +558,20 @@ SYNC ${photo}`);
 		}
 
 		// Manage index file
-		let mdContent = `---
+		const mdContent = `---
 ${YAML.stringify(photoYFM)}---
 
 ${photoDescription}
 `;
 
-		fs.writeFileSync(path.join(distDir, 'index.md'), mdContent);
+		fs.writeFileSync(path.join(distDir, "index.md"), mdContent);
 
 		// Generate thumbnail for Atom feed
-		const smallVersion = path.join(distDir, 'small.jpg');
+		const smallVersion = path.join(distDir, "small.jpg");
 		if (!fs.existsSync(smallVersion)) {
-			let ratio = photoYFM.dimensions.width / photoYFM.dimensions.height;
-			let targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
-			let targetWidth = ratio * targetHeight;
+			const ratio = photoYFM.dimensions.width / photoYFM.dimensions.height;
+			const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
+			const targetWidth = ratio * targetHeight;
 
 			sharp(photoPath)
 				.resize({
@@ -578,7 +580,7 @@ ${photoDescription}
 					fit: sharp.fit.inside,
 				})
 				.jpeg({ quality: 80 })
-				.toFile(smallVersion, function (err) {
+				.toFile(smallVersion, (err) => {
 					if (err) {
 						thisLog(`Error while creating feed thumbnail for ${slug}`, err);
 					}
@@ -596,11 +598,11 @@ async function syncAllPhotos() {
 syncAllPhotos().then(() => {
 	// Todo after everything else
 	fs.writeFileSync(
-		'./_cache/photos-data.json',
+		"./_cache/photos-data.json",
 		JSON.stringify(photosData, null, 2),
 		{
-			encoding: 'utf8',
-		}
+			encoding: "utf8",
+		},
 	);
 
 	console.log(`

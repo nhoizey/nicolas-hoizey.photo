@@ -1,3 +1,3 @@
-import tagsList from '../getTags.js';
+import tagsList from "../getTags.js";
 
 export const tags = tagsList;

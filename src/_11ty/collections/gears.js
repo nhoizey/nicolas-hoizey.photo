@@ -1,29 +1,29 @@
-import fs from 'node:fs';
-import slugify from '../_utils/slugify.js';
-import { usedPhotosGlob } from '../_utils/photoCollections.js';
+import fs from "node:fs";
+import { usedPhotosGlob } from "../_utils/photoCollections.js";
+import slugify from "../_utils/slugify.js";
 
 export const gears = (collection) => {
-	let gearsCollection = new Map();
+	const gearsCollection = new Map();
 	const fileSlugs = [];
 
-	collection.getFilteredByGlob(usedPhotosGlob).forEach(function (item) {
+	for (const item of collection.getFilteredByGlob(usedPhotosGlob)) {
 		const photoData = item.data.origin.data;
 		if (!fileSlugs.includes(item.page.fileSlug)) {
 			// Don't count multiple times the same photo in multiple folders
 			fileSlugs.push(item.page.fileSlug);
-			if ('gear' in photoData) {
+			if ("gear" in photoData) {
 				gearsCollection.set(
 					`${photoData.gear.camera.brand} ${photoData.gear.camera.model}`,
 					{
-						type: 'camera',
+						type: "camera",
 						brand: photoData.gear.camera.brand,
 						model: photoData.gear.camera.model,
-					}
+					},
 				);
 				if (photoData.gear.lenses?.length > 0) {
 					photoData.gear.lenses.forEach((lenseInfo, lense) => {
 						gearsCollection.set(`${lenseInfo.brand} ${lenseInfo.model}`, {
-							type: 'lense',
+							type: "lense",
 							brand: lenseInfo.brand,
 							model: lenseInfo.model,
 						});
@@ -31,7 +31,7 @@ export const gears = (collection) => {
 				}
 			}
 		}
-	});
+	}
 
 	const gearsList = [];
 	const slugs = [];
@@ -46,7 +46,7 @@ export const gears = (collection) => {
 		}
 		slugs.push(gearSlug);
 
-		let newGear = {
+		const newGear = {
 			gear: gear,
 			slug: gearSlug,
 			type: gearData.type,
@@ -54,15 +54,15 @@ export const gears = (collection) => {
 			model: gearData.model,
 		};
 
-		let gearPhotoPath = `assets/gear/${gearSlug}.png`;
+		const gearPhotoPath = `assets/gear/${gearSlug}.png`;
 		if (fs.existsSync(`src/${gearPhotoPath}`)) {
 			newGear.photo = gearPhotoPath;
 		}
 
-		let gearContentPath = `src/_includes/gear/${gearSlug}.md`;
+		const gearContentPath = `src/_includes/gear/${gearSlug}.md`;
 		if (fs.existsSync(gearContentPath)) {
 			newGear.description = fs.readFileSync(gearContentPath, {
-				encoding: 'utf8',
+				encoding: "utf8",
 			});
 		}
 
@@ -72,8 +72,8 @@ export const gears = (collection) => {
 	gearsList.sort((a, b) => {
 		return `${a.brand} ${a.model}`.localeCompare(
 			`${b.brand} ${b.model}`,
-			'en',
-			{ ignorePunctuation: true }
+			"en",
+			{ ignorePunctuation: true },
 		);
 	});
 

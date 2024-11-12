@@ -1,10 +1,10 @@
 import glob from "fast-glob";
 
-const usedPhotosGlob = glob.sync('src/pages/galleries/**/*.md', {
-	ignore: 'src/pages/galleries/**/index.md',
+const usedPhotosGlob = glob.sync("src/pages/galleries/**/*.md", {
+	ignore: "src/pages/galleries/**/index.md",
 });
 
-const settingsList = ['aperture', 'shutter_speed', 'iso', 'focal_length'];
+const settingsList = ["aperture", "shutter_speed", "iso", "focal_length"];
 
 let statisticsList = undefined;
 const getStatistics = (collection) => {
@@ -13,21 +13,21 @@ const getStatistics = (collection) => {
 	}
 
 	statisticsList = {};
-	let statisticsObject = {};
+	const statisticsObject = {};
 	const photoSlugs = [];
 
-	let settingsValues = {};
-	settingsList.forEach((setting) => {
+	const settingsValues = {};
+	for (const setting of settingsList) {
 		settingsValues[setting] = {};
-	});
+	}
 
-	collection.getFilteredByGlob(usedPhotosGlob).forEach(function (item) {
+	for (const item of collection.getFilteredByGlob(usedPhotosGlob)) {
 		const photoData = item.data.origin.data;
 		if (!photoSlugs.includes(item.page.fileSlug)) {
 			// Don't count multiple times the same photo in multiple folders
 			photoSlugs.push(item.page.fileSlug);
 
-			settingsList.forEach((setting) => {
+			for (const setting of settingsList) {
 				if (statisticsObject[setting] === undefined) {
 					statisticsObject[setting] = {};
 				}
@@ -55,24 +55,22 @@ const getStatistics = (collection) => {
 						statisticsObject[setting][photoData.settings[setting].readable] = 1;
 					}
 				}
-			});
+			}
 		}
-	});
+	}
 
-	settingsList.forEach((setting) => {
+	for (const setting of settingsList) {
 		statisticsList[setting] = [];
 		for (const [value, number] of Object.entries(statisticsObject[setting])) {
-			let newSettingObject;
-
-			newSettingObject = settingsValues[setting][value];
+			const newSettingObject = settingsValues[setting][value];
 			newSettingObject.number = number;
 			statisticsList[setting].push(newSettingObject);
 		}
 
 		statisticsList[setting] = statisticsList[setting].sort(
-			(a, b) => parseFloat(a.computed) - parseFloat(b.computed)
+			(a, b) => Number.parseFloat(a.computed) - Number.parseFloat(b.computed),
 		);
-	});
+	}
 
 	return statisticsList;
 };

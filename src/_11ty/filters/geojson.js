@@ -1,4 +1,4 @@
-import { bbox as turfBbox, lineString } from '@turf/turf';
+import { lineString, bbox as turfBbox } from "@turf/turf";
 
 export const bbox = (geojson) => {
 	const line = lineString(geojson);

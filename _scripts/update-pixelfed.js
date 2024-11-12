@@ -1,27 +1,27 @@
 // Load .env variables with dotenv
-import {} from 'dotenv/config';
+import {} from "dotenv/config";
 
-import fs from 'node:fs';
-import path from 'node:path';
-import slugify from '../src/_11ty/_utils/slugify.js';
-import { createRestAPIClient } from 'masto';
+import fs from "node:fs";
+import path from "node:path";
+import { createRestAPIClient } from "masto";
+import slugify from "../src/_11ty/_utils/slugify.js";
 
-const PLATFORMS_FILE = 'src/_data/platforms.json';
-import platformsData from '../src/_data/platforms.json' with { type: 'json' };
+const PLATFORMS_FILE = "src/_data/platforms.json";
+import platformsData from "../src/_data/platforms.json" with { type: "json" };
 
 const STATUSES_PER_API_CALL = 20;
 
 const syncPixelfed = async () => {
-	let pixelfedIds = {};
+	const pixelfedIds = {};
 	for (const slug in platformsData) {
 		if (platformsData[slug].pixelfed) {
 			if (platformsData[slug].pixelfed.id) {
 				pixelfedIds[platformsData[slug].pixelfed.id] = slug;
 			} else {
 				if (Array.isArray(platformsData[slug].pixelfed)) {
-					platformsData[slug].pixelfed.forEach(
-						(item) => (pixelfedIds[item.id] = slug)
-					);
+					for (const item of platformsData[slug].pixelfed) {
+						pixelfedIds[item.id] = slug;
+					}
 					platformsData[slug].pixelfed = [];
 				}
 			}
@@ -71,10 +71,10 @@ const syncPixelfed = async () => {
 				// console.log(photo.url);
 				lastId = photo.id;
 
-				const faves = parseInt(photo.favouritesCount, 10);
-				const reblogs = parseInt(photo.reblogsCount, 10);
+				const faves = Number.parseInt(photo.favouritesCount, 10);
+				const reblogs = Number.parseInt(photo.reblogsCount, 10);
 
-				if (pixelfedIds.hasOwnProperty(photo.id)) {
+				if (Object.hasOwn(pixelfedIds, photo.id)) {
 					platformsData[pixelfedIds[photo.id]].pixelfed.push({
 						id: photo.id,
 						faves: faves,
@@ -93,7 +93,7 @@ const syncPixelfed = async () => {
 					if (matches) {
 						const title = matches[1];
 						const pixelfedSlug = slugify(title);
-						if (platformsData.hasOwnProperty(pixelfedSlug)) {
+						if (Object.hasOwn(platformsData, pixelfedSlug)) {
 							platformsData[pixelfedSlug].pixelfed = [
 								{
 									id: photo.id,
@@ -114,7 +114,7 @@ const syncPixelfed = async () => {
 								};
 							} else {
 								console.log(
-									`Couldn't find Pixelfed photo titled "${title}" here: ${photo.url}`
+									`Couldn't find Pixelfed photo titled "${title}" here: ${photo.url}`,
 								);
 							}
 						}
@@ -131,10 +131,10 @@ const syncPixelfed = async () => {
 syncPixelfed().then(() => {
 	// Todo after everything else
 	fs.writeFileSync(
-		path.join('.', PLATFORMS_FILE),
+		path.join(".", PLATFORMS_FILE),
 		JSON.stringify(platformsData, null, 2),
 		{
-			encoding: 'utf8',
-		}
+			encoding: "utf8",
+		},
 	);
 });

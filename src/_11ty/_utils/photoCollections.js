@@ -1,15 +1,15 @@
-import glob from 'fast-glob';
+import glob from "fast-glob";
 
-export const photosGlob = 'src/collections/photos/*/index.md';
-export const usedPhotosGlob = glob.sync('src/pages/galleries/**/*.md', {
-	ignore: 'src/pages/galleries/**/index.md',
+export const photosGlob = "src/collections/photos/*/index.md";
+export const usedPhotosGlob = glob.sync("src/pages/galleries/**/*.md", {
+	ignore: "src/pages/galleries/**/index.md",
 });
 
 export const ignoredSlugs = [
-	'monochrome',
-	'grignotage',
-	'gouter-d-enfant',
-	'gourmandise',
+	"monochrome",
+	"grignotage",
+	"gouter-d-enfant",
+	"gourmandise",
 ];
 
 let photos = undefined;
@@ -31,15 +31,14 @@ export const getUniquePhotos = (collection) => {
 	uniquePhotos = getPhotosInGalleries(collection)
 		.sort((a, b) => {
 			// Put travel photos first
-			return a.page.filePathStem.match('/travels/') ? -1 : 1;
+			return a.page.filePathStem.match("/travels/") ? -1 : 1;
 		})
 		.filter((item) => {
 			if (distinctPhotosSlugs.includes(item.page.fileSlug)) {
 				return false;
-			} else {
-				distinctPhotosSlugs.push(item.page.fileSlug);
-				return true;
 			}
+			distinctPhotosSlugs.push(item.page.fileSlug);
+			return true;
 		});
 
 	return uniquePhotos;
@@ -60,7 +59,7 @@ export const getPhotosInGalleriesSlugs = (collection) => {
 		return photosInGalleriesSlugs;
 	}
 	photosInGalleriesSlugs = getPhotosInGalleries(collection).map(
-		(item) => item.page.fileSlug
+		(item) => item.page.fileSlug,
 	);
 	return photosInGalleriesSlugs;
 };
@@ -75,7 +74,7 @@ export const getPhotosNotInGalleries = (collection) => {
 		...getPhotosInGalleriesSlugs(collection),
 	];
 	photosNotInGalleries = getPhotos(collection).filter(
-		(item) => !photosToIgnore.includes(item.page.fileSlug)
+		(item) => !photosToIgnore.includes(item.page.fileSlug),
 	);
 	return photosNotInGalleries;
 };

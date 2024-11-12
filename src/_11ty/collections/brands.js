@@ -1,13 +1,13 @@
-import fs from 'node:fs';
-import slugify from '../_utils/slugify.js';
-import { usedPhotosGlob } from '../_utils/photoCollections.js';
+import fs from "node:fs";
+import { usedPhotosGlob } from "../_utils/photoCollections.js";
+import slugify from "../_utils/slugify.js";
 
 export const brands = (collection) => {
 	const brands = [];
 	const brandNames = [];
 	const fileSlugs = [];
 
-	collection.getFilteredByGlob(usedPhotosGlob).forEach(function (item) {
+	for (const item of collection.getFilteredByGlob(usedPhotosGlob)) {
 		const photoData = item.data.origin.data;
 		if (!fileSlugs.includes(item.page.fileSlug)) {
 			// Don't count multiple times the same photo in multiple folders
@@ -21,7 +21,7 @@ export const brands = (collection) => {
 					newBrands.push(lenseInfo.brand);
 				});
 			}
-			newBrands.forEach((brand) => {
+			for (const brand of newBrands) {
 				if (!brandNames.includes(brand)) {
 					brandNames.push(brand);
 
@@ -30,12 +30,12 @@ export const brands = (collection) => {
 						slug: slugify(brand),
 					};
 
-					let brandLogoPath = `images/brands/${slugify(brand)}.png`;
+					const brandLogoPath = `images/brands/${slugify(brand)}.png`;
 					if (fs.existsSync(`src/static/${brandLogoPath}`)) {
 						newBrand.logo = brandLogoPath;
 					}
 
-					let brandContentPath = `src/_includes/gear/${slugify(brand)}.md`;
+					const brandContentPath = `src/_includes/gear/${slugify(brand)}.md`;
 					if (fs.existsSync(brandContentPath)) {
 						newBrand.description = fs.readFileSync(brandContentPath, {
 							encoding: "utf8",
@@ -44,9 +44,9 @@ export const brands = (collection) => {
 
 					brands.push(newBrand);
 				}
-			});
+			}
 		}
-	});
+	}
 
 	brands.sort((a, b) => {
 		return a.brand.localeCompare(b.brand, "en", { ignorePunctuation: true });

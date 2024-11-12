@@ -1,4 +1,4 @@
-import util from 'node:util';
+import util from "node:util";
 
 export const pixelfedFaves = (pixelfedData) => {
 	if (!Array.isArray(pixelfedData)) {
@@ -6,7 +6,7 @@ export const pixelfedFaves = (pixelfedData) => {
 	}
 	return pixelfedData.reduce(
 		(accumulator, currentValue) => accumulator + currentValue.faves,
-		0
+		0,
 	);
 };
 

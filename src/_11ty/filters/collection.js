@@ -1,22 +1,22 @@
 const allBreadcrumbs = {};
 
 const shuffle = (array) => {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-  return array;
+	for (let i = array.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[array[i], array[j]] = [array[j], array[i]];
+	}
+	return array;
 };
 
 const chronoSort = (a, b) => {
-  // Sort photos by creation date, not date of publication in galleries
-  // Oldest first
-  return a.data.origin.data.date - b.data.origin.data.date;
+	// Sort photos by creation date, not date of publication in galleries
+	// Oldest first
+	return a.data.origin.data.date - b.data.origin.data.date;
 };
 
 const getMinFocalLength = (lense) => {
-  let minFocalLength = lense.model.replace(/^[^0-9]*([0-9.]+)[-m×].*$/, '$1');
-  return parseInt(minFocalLength, 10);
+	const minFocalLength = lense.model.replace(/^[^0-9]*([0-9.]+)[-m×].*$/, "$1");
+	return Number.parseInt(minFocalLength, 10);
 };
 
 export const by_date = (collection) => collection.sort(chronoSort);
@@ -27,10 +27,9 @@ export const findBySlug = (collection, slug) => {
 	const items = collection.filter((item) => item.page.fileSlug === slug);
 	if (items.length === 1) {
 		return items[0];
-	} else {
-		console.error(`Can't find content with slug "${slug}"`);
-		return false;
 	}
+	console.error(`Can't find content with slug "${slug}"`);
+	return false;
 };
 
 export const taggued = (collection, tag) => {
@@ -39,10 +38,9 @@ export const taggued = (collection, tag) => {
 		.filter((item) => {
 			if (slugs.includes(item.page.fileSlug)) {
 				return false;
-			} else {
-				slugs.push(item.page.fileSlug);
-				return item.data.origin.data.tags?.includes(tag);
 			}
+			slugs.push(item.page.fileSlug);
+			return item.data.origin.data.tags?.includes(tag);
 		})
 		.sort(chronoSort);
 };
@@ -55,7 +53,7 @@ export const shot_with = (photosCollection, gear) => {
 				return false;
 			}
 			slugs.push(photo.page.fileSlug);
-			let pageGear = photo.data.origin.data.gear;
+			const pageGear = photo.data.origin.data.gear;
 			if (`${pageGear?.camera?.brand} ${pageGear?.camera?.model}` === gear) {
 				return true;
 			}
@@ -94,11 +92,11 @@ export const with_setting = (photosCollection, setting, value) => {
 };
 
 export const cameras = (collection, brand) =>
-	collection.filter((gear) => gear.type === 'camera' && gear.brand === brand);
+	collection.filter((gear) => gear.type === "camera" && gear.brand === brand);
 
 export const lenses = (collection, brand) =>
 	collection
-		.filter((gear) => gear.type === 'lense' && gear.brand === brand)
+		.filter((gear) => gear.type === "lense" && gear.brand === brand)
 		.sort((a, b) => getMinFocalLength(a) - getMinFocalLength(b));
 
 export const photos_here = (collection, url) =>
@@ -119,10 +117,9 @@ export const photos_here_and_below = (collection, url) => {
 		.filter((item) => {
 			if (distinctPhotos.includes(item.page.fileSlug)) {
 				return false;
-			} else {
-				distinctPhotos.push(item.page.fileSlug);
-				return true;
 			}
+			distinctPhotos.push(item.page.fileSlug);
+			return true;
 		})
 		.sort(chronoSort);
 };
@@ -137,7 +134,7 @@ export const featured = (collection, number) => {
 	const allNotFeatured = collection.filter((item) => !item.data.featured);
 	const notFeatured = shuffle(allNotFeatured).slice(
 		0,
-		number - featured.length
+		number - featured.length,
 	);
 	return [...featured, ...notFeatured];
 };
@@ -164,27 +161,26 @@ export const sub_galleries = (collection, url) =>
 	});
 
 export const breadcrumb = (collection, url) => {
-	let breadcrumb = allBreadcrumbs[url];
+	const breadcrumb = allBreadcrumbs[url];
 	if (breadcrumb !== undefined) {
 		return breadcrumb;
-	} else {
-		allBreadcrumbs[url] = collection
-			.filter((item) => {
-				return (
-					item.page.url !== '/' &&
-					item.page.url !== url &&
-					url.startsWith(item.page.url)
-				);
-			})
-			.sort((a, b) => {
-				return a.url.length - b.url.length;
-			});
-		return allBreadcrumbs[url];
 	}
+	allBreadcrumbs[url] = collection
+		.filter((item) => {
+			return (
+				item.page.url !== "/" &&
+				item.page.url !== url &&
+				url.startsWith(item.page.url)
+			);
+		})
+		.sort((a, b) => {
+			return a.url.length - b.url.length;
+		});
+	return allBreadcrumbs[url];
 };
 
 export const max_number = (collection) =>
 	collection.reduce(
 		(max_number, obj) => (max_number > obj.number ? max_number : obj.number),
-		-Infinity
+		Number.NEGATIVE_INFINITY,
 	);

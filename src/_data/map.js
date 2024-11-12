@@ -1,3 +1,3 @@
 export default {
-	mapbox: { style: 'mapbox/outdoors-v11' },
+	mapbox: { style: "mapbox/outdoors-v11" },
 };

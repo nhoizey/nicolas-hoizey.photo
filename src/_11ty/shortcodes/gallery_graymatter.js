@@ -1,15 +1,15 @@
-import fs from 'node:fs';
-import path from 'node:path';
-import matter from 'gray-matter';
+import fs from "node:fs";
+import path from "node:path";
+import matter from "gray-matter";
 
 export const gallery_graymatter = (...slugs) => {
-	if (slugs.length === 0) return '';
+	if (slugs.length === 0) return "";
 
 	let gallery = `<ul class="photos">`;
-	slugs.forEach((slug) => {
+	for (const slug of slugs) {
 		const md = fs.readFileSync(
-			path.join('./src/collections/photos/', slug, 'index.md'),
-			'utf8'
+			path.join("./src/collections/photos/", slug, "index.md"),
+			"utf8",
 		);
 		const content = matter(md);
 		gallery += `<li>
@@ -18,16 +18,16 @@ export const gallery_graymatter = (...slugs) => {
 		content.data.alt_text || content.data.title
 	}" class="frame${
 		content.data.dimensions.width < content.data.dimensions.height
-			? ' portrait'
-			: ''
+			? " portrait"
+			: ""
 	}" ${
 		content.data.dimensions.width
 			? `width="${content.data.dimensions.width}`
-			: ''
+			: ""
 	} ${
 		content.data.dimensions.height
 			? `height="${content.data.dimensions.height}`
-			: ''
+			: ""
 	} style="background-color: rgb(${
 		content.data.colors.muted
 	} / 50%)" data-responsiver="thumbnail" />
@@ -45,7 +45,7 @@ export const gallery_graymatter = (...slugs) => {
   </figcaption>
 </figure>
 </li>`;
-	});
-	gallery += '</ul>';
+	}
+	gallery += "</ul>";
 	return gallery;
 };

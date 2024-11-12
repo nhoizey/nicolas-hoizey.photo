@@ -1,24 +1,24 @@
 // TODO: remove absolute URL line 25
-export function photo(slug = '') {
-	if (slug === '') return '';
+export function photo(slug = "") {
+	if (slug === "") return "";
 
 	const photosWithSlug = this.ctx.collections.unique_photos.filter(
-		(item) => item.page.fileSlug === slug
+		(item) => item.page.fileSlug === slug,
 	);
 	if (photosWithSlug.length === 0) {
 		console.log(`WARNING: No photo found with slug ${slug}`);
-		return '';
+		return "";
 	}
 	const photo = photosWithSlug[0].data;
 	const dimensions = photo.origin.data.dimensions;
-	let html = `
-<figure ${dimensions.width < dimensions.height ? ' class="portrait"' : ''}>
+	const html = `
+<figure ${dimensions.width < dimensions.height ? ' class="portrait"' : ""}>
   <img src="/photos/${slug}/${slug}.jpg" alt="${(
 		photo.origin.data.alt_text || photo.title
-	).replaceAll(/"([^"]+)"/g, '“$1”')}" class="frame${
-		dimensions.width <= dimensions.height ? ' portrait' : ''
-	}" ${dimensions.width ? `width="${dimensions.width}"` : ''} ${
-		dimensions.height ? `height="${dimensions.height}"` : ''
+	).replaceAll(/"([^"]+)"/g, "“$1”")}" class="frame${
+		dimensions.width <= dimensions.height ? " portrait" : ""
+	}" ${dimensions.width ? `width="${dimensions.width}"` : ""} ${
+		dimensions.height ? `height="${dimensions.height}"` : ""
 	} style="background-color: rgb(${
 		photo.origin.data.colors.muted
 	} / 50%)" data-responsiver="thumbnail" />
@@ -35,5 +35,5 @@ export function photo(slug = '') {
     </ul>
   </figcaption>
 </figure>`;
-	return html.replace(/\n/g, '');
+	return html.replace(/\n/g, "");
 }
