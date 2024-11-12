@@ -29,7 +29,7 @@ import polylabel from "polylabel";
 			zoom: 3,
 			minZoom: 1,
 			maxZoom: maxZoomLevel,
-			scrollZoom: false,
+			scrollZoom: true,
 			attributionControl: false,
 			hash: true,
 			renderWorldCopies: true,
