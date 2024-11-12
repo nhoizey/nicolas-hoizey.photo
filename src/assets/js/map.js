@@ -31,6 +31,7 @@ import polylabel from "polylabel";
 			maxZoom: maxZoomLevel,
 			scrollZoom: true,
 			attributionControl: false,
+			cooperativeGestures: true,
 			hash: true,
 			renderWorldCopies: true,
 			transformRequest: (url, resourceType) => {
