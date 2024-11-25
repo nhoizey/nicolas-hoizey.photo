@@ -69,7 +69,7 @@
 		"glyphhanger": "^5.0.0",
 		"gray-matter": "^4.0.3",
 		"html-entities": "^2.5.2",
-		"husky": "^9.1.6",
+		"husky": "^9.1.7",
 		"image-size": "^1.1.1",
 		"lint-staged": "^15.2.10",
 		"lodash-es": "^4.17.21",
@@ -86,17 +86,17 @@
 		"pngjs": "^7.0.0",
 		"polylabel": "^2.0.1",
 		"puppeteer-cluster": "^0.24.0",
-		"puppeteer-core": "^23.8.0",
+		"puppeteer-core": "^23.9.0",
 		"require-dir": "^1.2.0",
 		"rimraf": "^6.0.1",
 		"sanitize-html": "^2.13.1",
 		"sharp": "^0.33.5",
-		"simple-icons": "^13.17.0",
+		"simple-icons": "^13.18.0",
 		"svg-country-flags": "^1.2.10",
 		"svgstore": "^3.0.1",
 		"truncate-html": "^1.1.2",
 		"unsplash-js": "^7.0.19",
 		"utf8": "^3.0.0",
-		"yaml": "^2.6.0"
+		"yaml": "^2.6.1"
 	}
 }
