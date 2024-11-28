@@ -82,6 +82,7 @@ geo:
   longitude: 23.582806536666666
   country: Grèce
   city: Platanos
+  map: true
 colors:
   vibrant: 188 132 68
   darkVibrant: 102 78 19
@@ -90,9 +91,6 @@ colors:
   darkMuted: 102 87 56
   lightMuted: 176 193 211
 lqip: data:image/webp;base64,UklGRmIBAABXRUJQVlA4IFYBAACQDACdASpkAEMAP22kw1i/rLAlMlWbu/AtiWNs9LANtvE2ulxaZHrrTy53IhMf+JQzaLymrvY+2igu8R7lx6Nd7p0RwGowgbUbp7AEs4ZW+yDWA0lhqEIdoiknb1vnWQ1Bu7SFo73pHlveXI6QAP7ggZ8sQarIdL960WQHZ+nkRejmrFYBif21QjPlib5/Gd3OroFS8D/vhjFpS16LkTCRXwRe8cmcbQZYPbNLRElqhkzRS2++KPogtq823sqYG3Av7H9y/TRSnMyg2XLnP8apw/SFmOcSmp9FQ5e9f/GilP7nTVz+FZhkQVWtMc01uf9QS9aZVq07+Lx7dpUmHVp2nJdT/2O6gzLog/gZeUBj3C9sclbmEQ98Hd9kQAEKucWB/gHc7xzFeo/Sm6cuuU5ZaObI55TWQcoohxQXdBynm/uUFnlg94TeoH2UBOsFT7FRQuaBgAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Platanos is a picturesque village in the municipality of Kissamos, one of the largest in the prefecture of Chania.

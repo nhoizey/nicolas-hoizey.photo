@@ -67,6 +67,7 @@ geo:
   longitude: 23.578074866666668
   country: Grèce
   city: Platanos
+  map: true
 colors:
   vibrant: 192 41 7
   darkVibrant: 79 67 17
@@ -75,9 +76,6 @@ colors:
   darkMuted: 80 68 43
   lightMuted: 175 196 212
 lqip: data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAADQDQCdASpkAEMAP3Gqy180rD0uKFHMm6AuCUAZfLTWI90kqoZC5HweI3vh0djeC5qd8/mrHZsbaaHy5IHHVfpC/WsB0H6gbhZPEj14TYx+iH2h/mur6X55QAFtnrCrXOZeEtFZ6GsyQbp5Cha/zt6Pv3ruHMiQcAD8Wpmfit3f/SFuF328vFAq281Wnk+9FRpto+jcnf0IgoIyXfbQI6REXNcP325Wyo0M9kRSGIW8HDSQtL7efZ9zdIyWhFe/ndjAyCfXys5ylTN4u2tMsqtW7AAipiLMeI3IIsmefMwMNEJ6D1t/zAEk013JREkDPLU4p85W3Qw02alckWFaLJmK9RalTQUY5QU0AN2Rizj1iokJ16sYDPIPQHRyO3kld5RZMEbdXcrpBbbkrAI1HU6n03eIZXeVSwSV43Ptk9amWNYr+9E0UqFmiH6TiqTiTPUP/13pyXoEon60Yg7emYUcEE+5AAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Today, Falásarna is one of Crete's best-known destinations, both for its beaches and for ecological reasons. Falásarna is part of the Natura 2000 network, because of the variety of flora and fauna in the area, but also because of its particular natural beauty.
