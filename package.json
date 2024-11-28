@@ -34,7 +34,7 @@
 		"clean": "rimraf _site",
 		"eleventy:build": "eleventy",
 		"eleventy:serve": "eleventy --serve",
-		"index": "npx -y pagefind --site _site",
+		"index": "npx -y pagefind --site _site --force-language unknown",
 		"start": "npm-run-all --sequential clean eleventy:serve",
 		"debug:start": "DEBUG=Eleventy* npm start",
 		"build": "npm-run-all --sequential clean eleventy:build index",
