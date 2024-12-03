@@ -73,6 +73,7 @@ geo:
   longitude: 23.533532508333334
   country: Grèce
   city: Váthi
+  map: true
 colors:
   vibrant: 190 77 132
   darkVibrant: 148 44 156
@@ -81,9 +82,6 @@ colors:
   darkMuted: 68 81 48
   lightMuted: 204 198 188
 lqip: data:image/webp;base64,UklGRv4BAABXRUJQVlA4IPIBAADQEwCdASpkAEMAP1WSulixqqWjuLocAjAqiWMAyNdMrG+ESulVfWWa89OuU3+rtKLAPORt10M6gMWJorlPn/sWwoq2ENBkayOiDOe1h2ThrAgmUdOxty+GL+4V4tHop3LA25ueKxfYcY9pZ8qMDglL5BKLYZPrLt8vlSzI706yBWcSeN3ZtoT9OvGKUUR08RlhBn3JUR7kI699xEi5s5sJIKnBZ6OJqAD+4yuLCygaTavM7PfPCsAW1Z9ER7HKJdxcmBiNZw/7LSD2I+Au45BpWzCwVy5BGMy0PUtVCELzcRHT7XIc/fWAAqhKrDyeig0nir0IM3Iox4zL/41Fk5qXC/oLCRfveDIuRc6h+mlesYVUK+7ggKhwyrdpoxaGI8ULuUUAuEmYPJHVL1/utZPkid9pQgf26xxs/Q5OCay5wn1bT93RQxKkYX30eUX/aej96z7oHkzgy3ILITfx1R4kFYX3VJn3Rk4XcH1stG/k7rfwTrpULI6agacsCxFAgfUEqwFa8nJA5/Cn2Xyh9QZi4Nbdkba0sMsabLYVenp1mS8UQeoEToEWZs04AAF6opAgfNa0oxTzvHdwIz7lIzbp9fvnNFsImyaCqQ22UgFJDR+mCbNS1I7AXFZ5qgOJCsaykdJ3rwMGXnWzV9nQcHYUAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Chrysoskalitissa Monastery is located on the southwest coast of Crete, Greece, very close to the magnificent lagoon of Elafonissi.

@@ -71,6 +71,7 @@ geo:
   longitude: 23.554167
   country: Grèce
   city: Amygdalokefalio
+  map: true
 colors:
   vibrant: 73 138 200
   darkVibrant: 155 72 103
@@ -81,8 +82,6 @@ colors:
 lqip: data:image/webp;base64,UklGRmgBAABXRUJQVlA4IFwBAABwDQCdASpkAEIAP3GmyFm0rLsvsVKLg2AuCUAZ2MwBTQIClAvXMkF2ZTsDQMevYfsHyD9QnK+5COjesG1corcPzO8R8ucUQdAjBxkipz8ezigN68w2M76YmhMM5NgRyrn7SAes6Yf8NSAQbtm73ZFYP8FqwADKxl6s3aprT+uLmf/6JTjxxH5uqk2pLZS83EjQQJtojYfR78LgLTiDgci789wDbK0Vfc2MI6d3icRpg5gQ+2xxNSMpzxhzooo/AZ08DngVEYjm8MGwdIzLZZBrCtxa8tF/+yXWMG5dgPHxd6uXJEXfUKsvvFcqnamNkAG9KWCufurnIK0usev0IL3hM9FN9a3f4qqrvHbSJomVuNLW6Tk5jFurU4F2LJCkf0V5x55rx4VooMavU7uAzH3trEVIqFSH8T/gsKYSY0NFMEAjBn+FG9j8pDMLSQumK9guQnVlzCbBHV7ZAAA=
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 I can see several paths down below, but I can't really see how to get there directly by following the direction of this sign...
