@@ -69,6 +69,7 @@ geo:
   longitude: 23.681751095
   country: Grèce
   city: Topólia
+  map: true
 colors:
   vibrant: 157 114 74
   darkVibrant: 102 98 26
@@ -77,9 +78,6 @@ colors:
   darkMuted: 79 61 43
   lightMuted: 185 171 156
 lqip: data:image/webp;base64,UklGRrABAABXRUJQVlA4IKQBAAAQDwCdASpkAEMAP3GkxVi0rCilLrcNCpAuCWMAzndOZNVjGyWASt+PjznDbtFhzkrrAzQQaw3fhpFJBL3qqUMOPe7iTTPRp/rQfjM6eX7pKfgP5F8/LY68XdoqJfay9yrsFw/8IeigpwoPI/0CVp1uU0FR2b8H7Z9KZsFCIn0HrAAA/u81n3B248WdcjtRmA+82HWvZ+whjOxM3yWuSDgGmOqRJl3PWgN9EiHIchYsuVch8XWNdbR3hSHRCrAy0sHCCI+RdC9lOGszg30HLIkJ5cc7dLYOGdHa3Gld8AtHxDAxXZQIi6Go6j7r7ytXtSlHDaCk3/Jh3Rj63oKDH4YvwDkw1DRHvARl2d37SVQ+UnCdZZO4Ne4zlE2Q3MDy8cnI9J3Vl8JsrZ9rTVN53Skp+1EgPKgBbdkokEuHcs/rSfGQGSsXr5TKsiRyB54bWn4pCvc1GAHpmRgDH2yPPDa3URGghtTLzv56m9Nx+KrbmeGsdCaW7rU7qG9dZOvJEth5ANGF2lRoeEUwIMFgRe6jL/cpO5UXHpGvA9QgEPzoI4IkgAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Agia Sofia cave is carved into the western wall of the Topolia Gorge, slightly south of the village of Koutsomatados.

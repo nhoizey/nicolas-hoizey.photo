@@ -73,6 +73,7 @@ geo:
   longitude: 25.191841553333333
   country: Grèce
   city: Ethia
+  map: true
 colors:
   vibrant: 58 166 220
   darkVibrant: 46 46 4
@@ -81,9 +82,6 @@ colors:
   darkMuted: 98 86 45
   lightMuted: 154 176 192
 lqip: data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAAAQCACdASpkACgAP1WWu1i/q6Yjttmeq/AqiWUAxvQc5Y8vwOcXZF6T4xAqcNHMlWAWLQWCVGpk2JTZ1mkQNla8JbhHcmIYg9gAAP6MRIDIiU18KM86g+ggI/C9IiFKo5SicMhIkmQY5SNeFhG+S0b5hJryg/MCkVTIA+++xa18GF1q9ymdt+GboJzv2ylIJ/lqgQC5Zq5czr9c9YlLMgjXOAKfW704ECzm5/q38dcxnti7tJAsP0WUpHOG5utdHXJFPu+oons1QJpD1avlc+hVc4RFPJ4w7+/Wx/QgXRKD85ts/1AMkz0AAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Messara plain is the largest plain on Crete. It extends over almost 400km2, some 60km long and 7km wide, between the Ida massif in the north and the Asteroussia mountains in the south.
