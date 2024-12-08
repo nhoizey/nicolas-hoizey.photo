@@ -67,6 +67,7 @@ geo:
   longitude: 25.451816641666667
   country: Grèce
   city: Kaminakio
+  map: true
 colors:
   vibrant: 180 116 58
   darkVibrant: 40 28 11
@@ -75,9 +76,6 @@ colors:
   darkMuted: 79 61 44
   lightMuted: 187 202 207
 lqip: data:image/webp;base64,UklGRlgBAABXRUJQVlA4IEwBAACQDACdASpkAEMAP2Wet1i5tKSjtfgLozAsiWVs81wpdKw4j3SXeOBI8Gx7b5UyZxO4QAxYk66aiIQj1c2iEmkpaLQCURuT4WcPwgL9xPxTiWPy0sX3QFWEgeXRwgFcQoV1rAda7PxtDaiLRvdoAP2a2auCY3XfxVDsU+JOk8iTPh+E1HZCWXZ/7dJxa4fbH+WSbH0PB1hX0ndrcbRXMWWRyT2l8oW908jBWf28HB/Ez+6Jjqm9vRQWH2IRLF1Np7yPtjR/oMK3pU2OSrmqCVxZfesAYvIx0V3axpmnkEtz6WDVCc8E8EVlrPcRmGRewjYldyeN665mxVqpGxruV6C2E4eEyAKkMSOKtRFzBWhfpF1CsHswU6U0fRf88bCUOwOqeczzgDC3vQMjvXVEVEDtxhy3WQho4qdz1A5fbJtYhKsycOwzF2+W/nkAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 It's worth noting that hire cars are not insured on all of Crete's unpaved roads, which adds a little more spice (not to mention stress) to this part of the journey though the Katharo plateau.

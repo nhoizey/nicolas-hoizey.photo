@@ -65,6 +65,7 @@ geo:
   longitude: 25.385133216666667
   country: Grèce
   city: Ebaros
+  map: true
 colors:
   vibrant: 180 100 24
   darkVibrant: 143 80 40
@@ -75,8 +76,6 @@ colors:
 lqip: data:image/webp;base64,UklGRtwBAABXRUJQVlA4INABAABQEQCdASpkAEIAP2WcxVizK7+jsHgOG/AsiWMAzUg8nCnCGWm4KMRlVt94AAUjiL3tmadqutXFQRpzuqB9BJZ84CtEJPx9XTwMMfAdhtmCt/gDZIkZCJhNkKhKgCaYxzlpfxvNJQwVsZ+fSWlEdeQQ0v7KbTIGUsql8ZmRi8TMU05JmEOEDiPIATuTKnQ4WiCIkgAA/tp9/lNuXsuT9J+mdAhLSTl3N3OTP2MBpi9e9dDhQTq6TZoTPGVpFdg5vQtmXfDnssz65ZGmS3bHYKaPXbEaQ/aI2gYBBkJTn2kV3VgNl8NYOY+AKs2MUGunXg5bY1YpOXWHgHjge2jJb+ngmDOeEag9aEdG+jvTfBr7WQnfLTBWaDH6+yNulViQameW6d1q407tL10tYlud3R6wNFtmjqJWjVQZYZZckEhhrXimGRn/PliLKIxPi1lkHcfWN6Hqy84tjYIUug9ZGPfFyCM54aaG8zhG06PVkuBIGxDKwAAt8x4ZAX6rDvUI5hWEsqKKuSSSK/XbGCsPcTYOHK0g3tWCgBdqkg3bfN2OWokCV2DI+P+Z3znpSjJ84MxiNoR5K5ynjzt125A7redNYyuACs9Wm/F4eJxAI8cAAA==
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 The village of Embaros is located on the southwestern foothills of Mount Dikti, at an altitude of 430 meters, surrounded by the lush valley of the Baritis River.

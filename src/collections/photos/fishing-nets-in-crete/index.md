@@ -71,6 +71,7 @@ geo:
   longitude: 24.688720018333335
   country: Grèce
   city: Agía Galíni
+  map: true
 colors:
   vibrant: 218 182 54
   darkVibrant: 15 99 146
@@ -79,9 +80,6 @@ colors:
   darkMuted: 86 69 45
   lightMuted: 203 184 162
 lqip: data:image/webp;base64,UklGRtICAABXRUJQVlA4IMYCAACQFgCdASpkAEMAP2Wiw1izLSejsVQ+emAsiWgAyjTQj2r4AeSYn52vFqxn7u0zZDZqyyTZYy7TgCXLZYEiPQrIsyxAuEwE5ZNRPLkSsH7e2jd/AWFk3ZqiFHIISJH4oBO54C9juGtOL4GiSSdcogVa5AOuF/AJJvLFfubptY3sd8H6HZTQLPLkRU8r+D+KdpLLfKzO3zvXA1qQYAwrSUhAsvem6R4QLiWzS+udun7S1eWDrrfU4HjW+lwQ8wAA/iY2OoLyZUOeeUnWLCvDPnqMSfVOk1LmEKdWS4wCq5Dwg2NfwXW1/C5xAAzATnj0dIXHlGI19o/FIze5O42/FI42b9m3GXF5k31gE9KYdetWTVNz4KAhN/QPHf+9zHihqrixdIp48QB4r4PfvFNjZQkobM/1umYcHD4EHeXxQzWYiD24MlGfSTG18d6ic7fZn46AiYnhvHaaOQV6pa2ZN3WrB0gB2kieuuq+dNo/vG7XZfKJ1rtOKU13FXFrax87t2hwm8c5sgGCWI8T8XucUgK2OZea6chOft+Xwe8BsGQjKPd0QOPisxd32DbUiBBEof/YEmk8exSUpxR1EgCTEDPpcQZ9jZHiUf5DO7Re3ZWe4WCQ9dN0xkw8OjGv1Pbea6EWHR/DdZ84VrwxqAix8dm4dZrqOmSUaSawMrBj0hN2l0cURMwVtl04pvd5sCih5ZHMa9cSOfwM+0iNW2sDDYxsqAvUcZbZu4r3YUOUN13MvzW8hkOOgaDv+XkbScfSUWwl6wrpVd8BbFOSu5ARf4Nd5KOld9pezcsK04zImP9KWgo9wesR2qLrDS9BScqDkyU9NFkF1kOOk6hH7h8hZso5+dnSX+Ruj9nm08oOIFvT8q+0gx9D4AYRB/JkNigQ6eZ/y1FLk440YkR1qmlwAu4nXS9ych0kglCwtNRay3kcenOAqwgAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 As well as relying on the Mediterranean for trade and communications, people have been fishing in Crete for millennia.
