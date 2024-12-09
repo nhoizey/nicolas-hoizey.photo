@@ -70,6 +70,7 @@ geo:
   longitude: 26.08813560666667
   country: Grèce
   city: Sitía
+  map: true
 colors:
   vibrant: 186 119 69
   darkVibrant: 92 59 34
@@ -78,9 +79,6 @@ colors:
   darkMuted: 90 78 51
   lightMuted: 211 204 182
 lqip: data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAADwDACdASpkAEMAP22gwVi0v6evMzbba/AtiWMAycnf5q6Vqspau3+CJlxuBRPqlBqyPjRs6OiOKay+WK9b88L5SPsiPiNi8o7YfE6GuR07V29WCgFrzGnIoprN6Xjl+242jFouRLcesQj7+rXBc2dAAP0dAK+QtzBm7eqEjkJIIrfzuOMQJg3TaZfXROtEDXbvrBR+b8BKCujQOFKacCCnSjeqBh+RGBRICgVN2bo0h0Duv8MRNPTNoS4z3kC27emk8XmGS/s3ssol5q7FYY3+oZq5eeBLRcWws+DMv7Wj19w4zGz4vyEL+zjfPWCetaJCyih0BU1ajSLTQMTp0a1ZwbXS7kyqSKr1JjhoEkQiPSTaDxnMMtyij0mnpzB4QwSHyWJViqjoB8Dk8oqRwPtqlq2Dpu2wEHCAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 At the entrance of the new municipal cemetery of Sitia, there is this beautiful little chapel, with a blue roof.
