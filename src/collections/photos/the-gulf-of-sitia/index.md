@@ -71,6 +71,7 @@ geo:
   longitude: 26.107475506666667
   country: Grèce
   city: Sitía
+  map: true
 colors:
   vibrant: 212 137 108
   darkVibrant: 44 100 140
@@ -79,9 +80,6 @@ colors:
   darkMuted: 78 61 39
   lightMuted: 173 192 205
 lqip: data:image/webp;base64,UklGRg4BAABXRUJQVlA4IAIBAAAwCgCdASpkAB4AP3Gwx100riekq3ZqqpAuCWMAw3BADaMWx7dVISCOhOLBVdwrFJ/ZwZUfcpllfFCJbKfRmMV9RIiDPTVQ6nhD+iL6dB/68EexHV4a6jERcAAA/lP0QSKZKfVVQodtIlV4nH298DOcslLhBCb4P/w9oN4AsfV4eo2vK8SNNWxhhG9zE+2twjjHQks7gqwyn6Jy+GR2ui+nb/yPdo6N5iytCLdMDCbS6Et5ivzB7asrN8Hfxlcmzy3S/+sBuPSFX685Zf9AAXtURbz0MVCyjFMPkraxBuY5dwionagUBXvLX9SSHcPF+1GfLz/UJOrHFuGb84xsrc2AAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Sitia is a picturesque town situated on the northeastern edge of Crete, built in an amphitheater shape beside the sea in the Gulf of Sitia.
