@@ -69,6 +69,7 @@ geo:
   longitude: 25.654989173333334
   country: Grèce
   city: Kritsá
+  map: true
 colors:
   vibrant: 184 80 36
   darkVibrant: 56 44 11
@@ -79,8 +80,6 @@ colors:
 lqip: data:image/webp;base64,UklGRp4BAABXRUJQVlA4IJIBAABQDwCdASpkAEMAP3Goy1u0rKmrr5PJypAuCUAZ+pdAgBg9te+7epLVP3HxP3TuDs0TmxOC2Yy5DMSYKmotdoVYQhw0RRaAOHI3CanUovIqys5UOPlDokzjsita1ydQbpi51RG3mdS0EqKnHzT4iBdk3xJgLRNvjKwFUc8SPPoaaPJ5gAD+ubLZiNBpZXHW8awKGvjqZ9ncKCTFQmZFHPQCk55plc8nXpyS9FVkHyz/0gMe0YA8HdWhyDSrIGCYyve6fNq7A5HteKcLlS9EjF1d9GbYpoLKApzybLFZJZ3nHpCFTyN3Szk+Co5Rde+Z/f6uyGaJP5gyVW8N7W7BUAISi4or529Yrm2sQcb/nStlFsyBYY6lja9tPVxMze3ko1ttfSCEn/eNndcP3m3FoZ+SQB+1mLlHNRYqz8gQyFf55ft+CdchPQKzpcpnTseUdm3gdubUFgvfH6xOIMcoYn1LWrBT907SmMV9iJi/truojhnSLvIhmxf5T7/F5dxcqj++7mmU40zSDCKG7LDeZEPAAAA=
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 This is one of the most important monuments of Crete.

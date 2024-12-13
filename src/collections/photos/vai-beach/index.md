@@ -70,6 +70,7 @@ geo:
   longitude: 26.265664108333333
   country: Grèce
   city: Palékastro
+  map: true
 colors:
   vibrant: 205 73 45
   darkVibrant: 146 85 33
@@ -78,9 +79,6 @@ colors:
   darkMuted: 56 72 68
   lightMuted: 172 186 201
 lqip: data:image/webp;base64,UklGRooBAABXRUJQVlA4IH4BAABwDACdASpkAEMAP3Gkylu0tjwrrbM8Y4AuCU2ycAMMGH/Z1f/AnRK5bGu9sbCP4K7DPdbG9lvVNf6KWYrdeb3Y9Bv4SaEbxQk0HQcJUJO7Z9VhBIaE8grlXe0ekG5P6jVblYnnMT/sPTHlhQAA/uJ4jeFrg7IEpiqX4eNvAIjey/DUZXJhxD0fIcyx+PyMfmBJtRIQwQ4aEAK/OTJX+fPU2HQwY4/i3wJYkh7wd3zNhF99nFCwSqHVEVSVnab9qp87D3HdjxUmN0Oc+3fLpL799xyqlrRxxxtb/vqY0HGvx4gK/QT7QJlAwie8C5ks0mbVZHxk7NBV8E8Rwj2vzaKdljLciEuAb/wz6psStYVeKzG+oJo842CDnkpxJB8KcNt7fWpT7QEkhq+myfL+cj5UtB1U6cbcl+S6do6NgR98wvzoMRa+lMxlSKU5lLgPRTt9gbiNUXqwlLkDl9Jj3uTY5XLGBvu7GTfcRudDB0eI/+4taUfGwn9q5mWAi0AA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Nestled on the east coast of Crete, Vai beach offers a unique paradise unlike any other in Greece. Its main attraction is Europe's largest natural palm forest, creating an exotic atmosphere with thousands of Cretan date palms swaying gently in the breeze.
