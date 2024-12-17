@@ -1,0 +1,41 @@
+{%- js "defer" %}{% renderFile "src/assets/js/sub_galleries_kenburns.js" %}{% endjs %}
+
+{% for item in sub_galleries %}
+  {% if loop.index < 2 %}
+    {% set responsiver = "kenburns_large" %}
+  {% else %}
+    {% set responsiver = "kenburns" %}
+  {% endif %}
+  {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.url) | featured(3) %}
+  {% if photos_below | length %}
+    <li>
+      <figure>
+        <div class="frame">
+          <div class="kenburns kenburns_{{ photos_below | length }}">
+            {% for photo in photos_below %}
+              <img
+                {% if loop.last %}
+                  src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
+                  fetchpriority="high"
+                {% else %}
+                  data-src="/photos/{{ photo.data.page.fileSlug }}/{{ photo.data.page.fileSlug }}.jpg"
+                  loading="lazy"
+                  fetchpriority="low"
+                {% endif %}
+                alt
+                width="834"
+                height="556"
+                style="--pan-x-start: {{ [-5, 5] | random }}px; --pan-y-start: {{ [-5, 5] | random }}px; --scale-start: {{ [1.1, 1.3] | random }}; background-color: rgb({{ photo.data.origin.data.colors.muted }} / 50%)"
+                data-responsiver="{{ responsiver }}"
+                />
+            {% endfor %}
+          </div>
+        </div>
+        <figcaption>
+          <svg class="icon" aria-hidden="true"><use xlink:href="#folder-icon" /></svg>
+          <a href="{{ item.url }}">{{ item.data.title }}</a>
+        </figcaption>
+      </figure>
+    </li>
+  {% endif %}
+{% endfor %}

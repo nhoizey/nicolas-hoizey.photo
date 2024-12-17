@@ -22,6 +22,7 @@ layout: false
   <section class="topics">
     {# https://mamot.fr/@nhoizey/113374779561108401 #}
     <style>{% renderFile "src/assets/sass/components/sub_galleries.scss" %}</style>
+    {% set sub_galleries = collections.photo_galleries | sub_galleries('/galleries/') %}
     {% include 'components/sub_galleries.njk' %}
   </section>
 

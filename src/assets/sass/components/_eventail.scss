@@ -1,0 +1,122 @@
+@use '../tokens/spaces';
+
+$eventail-columns: 14;
+$evantail-rows: 13;
+
+$eventail-large-image-columns: $eventail-columns - 2;
+$eventail-large-image-rows: $evantail-rows - 3;
+
+$eventail-small-image-columns: $eventail-columns - 3;
+$eventail-small-image-rows: $evantail-rows - 4;
+
+.evantail {
+  display: grid;
+  grid-template-columns: repeat($eventail-columns, 1fr);
+  grid-template-rows: repeat($evantail-rows, min-content);
+  gap: 0;
+
+  img {
+    aspect-ratio: 3/2;
+    object-fit: cover;
+
+    transition-property: transform, opacity;
+    transition-timing-function: ease-in-out, ease-in;
+    // https://linear-easing-generator.netlify.app/
+    // https://caniuse.com/mdn-css_types_easing-function_linear-function
+    transition-timing-function: linear(
+        0,
+        0.009,
+        0.035 2.1%,
+        0.141,
+        0.281 6.7%,
+        0.723 12.9%,
+        0.938 16.7%,
+        1.017,
+        1.077,
+        1.121,
+        1.149 24.3%,
+        1.159,
+        1.163,
+        1.161,
+        1.154 29.9%,
+        1.129 32.8%,
+        1.051 39.6%,
+        1.017 43.1%,
+        0.991,
+        0.977 51%,
+        0.974 53.8%,
+        0.975 57.1%,
+        0.997 69.8%,
+        1.003 76.9%,
+        1.004 83.8%,
+        1
+      ),
+      ease-in;
+  }
+
+  img:nth-of-type(1) {
+    grid-column: 2 / span $eventail-large-image-columns;
+    grid-row: 3 / span $eventail-large-image-rows;
+    z-index: 3;
+
+    transform-origin: bottom center;
+    transform: rotateX(0) translateY(0);
+
+    transition-delay: 0.3s, 0s;
+    transition-duration: 1s, 0s;
+  }
+
+  img:nth-of-type(2) {
+    grid-column: 1 / span $eventail-small-image-columns;
+    grid-row: 2 / span $eventail-small-image-rows;
+    z-index: 2;
+
+    transform-origin: bottom left;
+    transform: rotateZ(0) translateX(0) scale(.95);
+
+    opacity: 0;
+    transition-delay: 0.35s, 0.2s;
+    transition-duration: 0.9s, 0.3s;
+  }
+
+  img:nth-of-type(3) {
+    grid-column: -($eventail-small-image-columns + 1) / span $eventail-small-image-columns;
+    grid-row: 1 / span $eventail-small-image-rows;
+    z-index: 1;
+
+    transform-origin: bottom right;
+    transform: rotateZ(0) translateX(0) translateY(0) scale(.9);
+
+    opacity: 0;
+    transition-delay: 0.4s, 0.4s;
+    transition-duration: 0.8s, 0.3s;
+  }
+
+  figcaption {
+    grid-column: 2 / span ($eventail-columns - 2);
+    grid-row: -2 / span 1;
+
+    margin-block-start: spaces.$m;
+    font-size: var(--step-0);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:hover,
+  a:focus {
+    img:nth-of-type(1) {
+      transform: perspective(20rem) rotateX(20deg) translateY(0.5rem);
+      z-index: 103;
+    }
+
+    img:nth-of-type(2) {
+      transform: rotateZ(-10deg) translateX(-0.5rem);
+      z-index: 102;
+    }
+
+    img:nth-of-type(3) {
+      transform: rotateZ(10deg) translateX(0.5rem) translateY(-0.5rem);
+      z-index: 101;
+    }
+  }
+}

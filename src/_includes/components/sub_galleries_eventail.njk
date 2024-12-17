@@ -1,0 +1,55 @@
+{% for item in sub_galleries %}
+  {% if loop.index == 1 %}
+    {# First evantail is larger, and LCP host #}
+    {% set lcp = true %}
+    {% set responsiver = "evantail_large" %}
+  {% else %}
+    {% set lcp = false %}
+    {% set responsiver = "evantail_small" %}
+  {% endif %}
+  {% set photos_below = collections.photos_in_galleries | photos_here_and_below(item.page.url) | featured(3) %}
+  {% if photos_below | length %}
+    <li>
+      <a href="{{ item.page.url }}">
+        <figure class="evantail">
+          {% for photo in photos_below %}
+            {# Prevent loading the huge image in development #}
+            {% if build.env == 'build' %}
+              {% set imageFile = photo.data.page.fileSlug %}
+            {% else %}
+              {% set imageFile = 'small' %}
+            {% endif %}
+            <img
+              src="/photos/{{ photo.data.page.fileSlug }}/{{ imageFile }}.jpg"
+              {% if loop.first %}
+                {% if lcp %}
+                  fetchpriority="high"
+                {% endif %}
+                data-responsiver="{{ responsiver }}_front"
+              {% else %}
+                {% if not lcp %}
+                  loading="lazy"
+                  decoding="async"
+                {% endif %}
+                data-responsiver="{{ responsiver }}_back"
+                onload="this.style.opacity=1"
+              {% endif %}
+              class="frame"
+              alt
+              width="3000"
+              height="2000"
+              style="
+                view-transition-name: {{ photo.data.page.fileSlug }};
+                background-color: #{{ photo.data.origin.data.colors.muted | bgcolor }}
+                "
+              />
+          {% endfor %}
+          <figcaption>
+            <svg class="icon" aria-hidden="true"><use xlink:href="#folder-icon" /></svg>
+            <span>{{- item.data.title -}}</span>
+          </figcaption>
+        </figure>
+      </a>
+    </li>
+  {% endif %}
+{% endfor %}
