@@ -15,6 +15,7 @@ gear:
     hashtags: "#Konica"
 tags:
   - Agios Nikolaos
+  - Ágios Nikólaos
   - Aquila Elounda Village
   - blanc
   - bleu
@@ -23,6 +24,7 @@ tags:
   - Crète
   - eau
   - Elounda
+  - Elúnda
   - Europa
   - Europe
   - Grèce
@@ -35,7 +37,9 @@ tags:
   - swimming pool
   - water
   - white
+  - Άγιος Νικόλαος
   - Ελλάδα
+  - Ελούντα
   - Κρήτη
   - Λασίθι
 settings:
@@ -68,6 +72,7 @@ geo:
   longitude: 25.733580826666667
   country: Grèce
   city: Elounta
+  map: true
 colors:
   vibrant: 4 116 212
   darkVibrant: 4 45 125
@@ -78,8 +83,6 @@ colors:
 lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAABwDACdASpkAEoAP2mmvlizv64jslZsy/AtCUAZr5z0fgFz2D6tpL0zdsJH8BZede0PtLYvfccguFDRXN/q0FYvFvcB0siJF6MUnLJIvyp7wJnT86Y9PlZ488ylAOmhNKeb774DFDh4OJ5OuwAA/uDfDGRv4SzZUmx+YrKw1xVK4AathJAA8Is6DO3Sgb02B4AbjJKmfkH0aA+Gi/m+1hPu1ew9tbfqMRM9Tnr8RcOw1x+MWEHoXo4PPWaPNpS595YxzyBSGyI0p0h4hxrMXgICwlz1GXsH8mqKzMKv3nnPLiIeD1IO7ESwat8XnGjlEdzW22/xMMQhCQWHODgu+inzlweoZvQHHMGUlhG6rZqdkinazF+CrigYLjyakHZJ72a7LAlrvx78SvMuatJcqKfhhsn46ikt8l7cyK659MPGPOg7wAA=
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 Discovering a region with its mountains, beaches, towns and museums is exciting.

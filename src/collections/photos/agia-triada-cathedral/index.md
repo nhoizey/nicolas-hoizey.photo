@@ -18,6 +18,7 @@ tags:
   - Agia Triada
   - Agia Triada Cathedral
   - Agios Nikolaos
+  - Ágios Nikólaos
   - cathedral
   - cathédrale
   - Cathédrale Agia Triada
@@ -47,6 +48,7 @@ tags:
   - peinture
   - Saint Trinity Church
   - wall
+  - Άγιος Νικόλαος
   - Ελλάδα
   - Κρήτη
   - Λασίθι
@@ -79,6 +81,7 @@ geo:
   longitude: 25.717368671666666
   country: Grèce
   city: Ágios Nikólaos
+  map: true
 colors:
   vibrant: 189 129 72
   darkVibrant: 107 46 4
@@ -89,8 +92,6 @@ colors:
 lqip: data:image/webp;base64,UklGRsIBAABXRUJQVlA4ILYBAAAwEACdASpkAEIAP2max1izqyi0tBXcSpAtCWQAxVQnahT0KerBEBBmLbfkK48OSy2wWSwJtVCJDV/rA9wT/ZrR9CHfd3S+0ZKWPECOeqFj0btB0OrKyA2ZPEs5uZjWaE6eBrEJ5s/kbOJY2Mg1a2TjZXsHrbpnrhTox+FKqW6U96FBSxODgxMIwCAA/rmLZzQ3ob7lzHNaA7SesyaMS0Tpx4+4LNTOZI3/NatEqaZqmRjV/22mP24E/m3USUX4+WadKEhr8kRJUb8RKSDvSMqcbBqL03QqRxCiQQRECUsH9sU5A5ip3VvulJRM/nXoTuZzFeEFPpgAikKaCe+VXHhfPI8Q4TiNffuJcLGlr6fWevA+ooy1qz4sfxYPNoUEn3yh7C0UQxUUG1sndz4r9fQ/go+x3zBpZ8cdmrCJIaAvt61V1stLJcOQCoUi4GCbDoR7bV1AScqFAQvnrg+3jz3mau5iTu9jZb+DVl77+IWMCvMdwy1BjYkTJxHRWrY+0AkmXZmrCIONqndbDSbN07CVZm/+wiDYozDko1OPYZI7ycMliTksKNo9gTpb+5OS+XdarsAAAAA=
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 Agia Triada Cathedral is located in the center of Agios Nikolaos. It is a three-aisled, cruciform Byzantine cathedral with a dome. The central nave is dedicated to the Holy Trinity, the northern to the Three Holy Hierarchs and the southern to the Virgin Mary.

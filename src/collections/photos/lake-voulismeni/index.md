@@ -17,6 +17,7 @@ gear:
     hashtags: "#Canon #RebelXT"
 tags:
   - Agios Nikolaos
+  - Ágios Nikólaos
   - bateau
   - boat
   - Crete
@@ -36,6 +37,7 @@ tags:
   - sea
   - Voulismeni
   - water
+  - Άγιος Νικόλαος
   - Ελλάδα
   - Κρήτη
   - Λασίθι
@@ -69,6 +71,7 @@ geo:
   longitude: 25.716518225
   country: Grèce
   city: Ágios Nikólaos
+  map: true
 colors:
   vibrant: 58 160 195
   darkVibrant: 24 68 108
@@ -79,8 +82,6 @@ colors:
 lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAABQDACdASpkACwAP12cxViyrCijslVfGlAriU0JqyT9vgcHATqIYdzMOOsNqIMzO4mIrQCRBbpXoL6J4xhb4AJBY4FWOBQhcVxqDOrgfXhDP4BobCLX4zV1BuSFZwup8A9T3SD3XpP++jl+AAD3CWLRlXZqa3MkOw1ZHNgBPEgyE0ASFaEgQ558zkPZHDez532WD81PJAQQSa7b1L3/uynjsf81jBm5rF6zPdvUKbZBL2xdVnTcmJ2UGk/jt18xtjdvZAZ6ej/+Pm3ejiXDcK2rNM0CiXnvIDsp3qGlqq0zII7LuAaGE3bj5nXolFcCjGbAOnK8XBGSRYXpBqb254LuTVMb0hO1j7Ff+1dYq/RM1UMrGmUlzUeiFVAmIPDYNtd0XgeGktamOmiAAAA=
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 Lake Voulismeni is the town of Agios Nikolaos' sole claim to fame, and it is here that most of the tourist activity is concentrated. 

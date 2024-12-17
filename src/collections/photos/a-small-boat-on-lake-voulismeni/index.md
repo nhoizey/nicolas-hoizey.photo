@@ -20,6 +20,7 @@ gear:
       short: 17-85mm
 tags:
   - Agios Nikolaos
+  - Ágios Nikólaos
   - bateau
   - boat
   - Crete
@@ -39,6 +40,7 @@ tags:
   - sea
   - Voulismeni
   - water
+  - Άγιος Νικόλαος
   - Ελλάδα
   - Κρήτη
   - Λασίθι
@@ -72,6 +74,7 @@ geo:
   longitude: 25.716896328333334
   country: Grèce
   city: Ágios Nikólaos
+  map: true
 colors:
   vibrant: 202 123 42
   darkVibrant: 96 72 41
@@ -80,9 +83,6 @@ colors:
   darkMuted: 42 68 80
   lightMuted: 174 193 211
 lqip: data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAACwDACdASpkAEMAP3Gmzl60q760qTM709AuCU2qi+feLgQFx29Y+QnPRahdyvfiVd3yE9+t9Rh+3+37kEZRkk3yV2lUCvZnhXpao2W+5C9wTc1I5i38iPi/tTGaKZUIotpbczNowWRowQdMauAigAD79/6j/nNycJm1X/ftXCU5vilE9MvS+c6mLJmnslMZr9LpEr2sBFzu2uFLKkj5nIWMdvRqXnm0qgigEf/TXZpwh+vrYbn/pAFju5c3Id76W3umh+31V60KXuzABooYFugpynAYjNbEarbFCka8qCDpFIUXQePh8n7f3QpvwoHIDn7tr2K7ZSFxRG5TDsxr6Kt4vo+H2FVjxY5/2lEDNMbowmgTpRgaN1CpheoGARIH94aR51jVRnznkE4250KkgtpW2S/PuW7YqeGYLeq3Y0cw0AW7TjZCcRwDpuEV843nW7DbuOSXGUpf5vQwNrA0j17VDSEFg8KhTDU8yPkr0HBNovqVaCgAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Lake Voulismeni is a former enclosed lake, now opened to the sea by a canal dug at the end of the 19th century in the town of Agios Nikolaos, in Crete. 

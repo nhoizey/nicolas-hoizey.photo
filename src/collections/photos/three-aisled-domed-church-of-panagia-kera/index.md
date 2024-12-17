@@ -18,6 +18,7 @@ gear:
     hashtags: "#Canon #RebelXT"
 tags:
   - Agios Nikolaos
+  - Ágios Nikólaos
   - church
   - Church of Panagia Kera
   - Crete
@@ -35,6 +36,7 @@ tags:
   - Kritsá
   - Lasithi
   - Panagia Kera
+  - Άγιος Νικόλαος
   - Εκκλησία της Παναγίας της Κεράς
   - Ελλάδα
   - Κρήτη

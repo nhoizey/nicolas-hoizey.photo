@@ -22,6 +22,7 @@ gear:
       short: 17-85mm
 tags:
   - Agios Nikolaos
+  - Ágios Nikólaos
   - chemin
   - Crete
   - Crète
@@ -35,6 +36,7 @@ tags:
   - mountain
   - pathway
   - Plateau Katharo
+  - Άγιος Νικόλαος
   - Ελλάδα
   - Κρήτη
   - Λασίθι
