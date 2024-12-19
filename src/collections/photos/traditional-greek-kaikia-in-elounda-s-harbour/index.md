@@ -84,6 +84,7 @@ geo:
   longitude: 25.72196734
   country: Grèce
   city: Elounta
+  map: true
 colors:
   vibrant: 232 143 5
   darkVibrant: 4 50 128
@@ -92,9 +93,6 @@ colors:
   darkMuted: 63 77 79
   lightMuted: 162 188 206
 lqip: data:image/webp;base64,UklGRjoDAABXRUJQVlA4IC4DAACQGACdASpkAJYAP3GuzV80rbQ1J1YLQqAuCWwC7AaDHpocVl/yrEAvf+rvb6c+xppO9KgtQdoq2XW4Sds8U5K2wfPk2mo+xEpV2WaCmaQ4/YHzJ+pnrlZxWKl1H/vwwUjZuWgRB9vaXGIPdmkOVksGMDV6BGXZ6SchLuraBwasvztDjUKVooEOWc8sLOw0EVClJ1TL1pkvKY74PwUBQa3iGKzbX8no55y8j9IuiGRvXE24jq4EU2UwtI9M9rHHRVBlyIPNo8lLmR8gks4AAP7gUo1ozfeEpC3cbuB32QZtJl8+5vI34+pomMcR/s7ArMnvhEGYeD0j8g13GoG/CAJZKpAVpKTwt6Iws3Mr0zAmJS9gGlBbX9N4xrI5/FX01hCXgWemnthWYVFPAAYUI6IWm6vcB+9p4d7zy/vMjH8ka/Tz3cbq6K3BE5oiqtUAo4OMghTkNA2zxpTDbdEIqaQsAc7uP7E7vMLnZGbtJbYa2dUkVvOYerTqy22+skQ7Homqo7vWrGt7SxYdfRU6gfqfOe0CHs1hweEI/Ph9NlYKPntlED8lZjo7bqfxA6gHkDSElkvxbdc5cmYnL54QBqLUqyPkatsIlwdLAyrJjcx74qTUDLTO5PDlT6dB+w4UOl1p+E4Glq46swnSfinDg8LzRhZDt64lAw92jHUXS8iz59LhkmjMQgvVnk4AhXorxeamOBUmyQ0Bi0VPWkWFIdzZkaPbc4Nsj9Ejc4ktO1pVBG3BwHF5C1oiOLYheZLLweJznHA1RkXCD6xRxmV9SfgHhp/Inv2WQNm13IBrZQSkk//FnnnFIi7I1WyPvmytfxvAXn/4R8n+zmclKAyFsRV7puVFRWSBYDo+ZWrq1bmzYgo/Zt/X0tuBzzPOROlrE5GrXtrd4iea1m9Xr1fENHCQX4LwCt1mVW0RndIOOdQq0tw0mkFuDkdf8Qx+OedMaTuASb2sGfXhwh9bAQD+q8J8Hf6FCWWlBovQ70TrbTCvvG0GV22ovABb1csaYqAF+aU1YqZDLx5eOv/TpYkLvQB7i3ncKBe4wL6I8kRHiG6RmxS+cWu4DX+VcyVQAAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Since ancient times, the islands and coastal areas of Greece had boatyards where wooden ships were built. Wooden ships, also known in Greek as *kaikia* (aka caïque), played an important role in the economy.

@@ -78,6 +78,7 @@ geo:
   longitude: 25.73511817
   country: Grèce
   city: Elounta
+  map: true
 colors:
   vibrant: 58 126 172
   darkVibrant: 19 84 125
@@ -86,9 +87,6 @@ colors:
   darkMuted: 38 62 87
   lightMuted: 195 162 151
 lqip: data:image/webp;base64,UklGRm4BAABXRUJQVlA4IGIBAACwCwCdASpkAEMAP22ew1i0q7AjtRLMqpAtiWM7fIyCAHoeW4MJPOpetnYzqmN8YGPJLkJCYF8IqNpqzm8av/gz435VwDY+4Fh6VkRfrD89RAY/vzNiKNvGqwzlgIecZv8YHJbjW+AA/p1ckvPgAAFfyIiv9oz9aSR4rQoksNciVT9q5GfnQZWaPyWAePrK7y7FzGoQUnzOEkZ3P6ckHWO0UTtXvNeb2LRnQtihkSKbQpvLdkNjMAgwjEhynpACxPnL3fug5LgdLhIdoEqXlhHw2XZ7VOOKZqRSoplcAmlP6ruBU7wljEAG8oO5WhBJsxynSg5e9QvSe/jy4reKfgzwJhT+3UWTFbot6+OxOV5WMeHkYLBHb4aoey4FcZPJP3ehpN4RorOTM9Vou9P6ZrDq7uBxO+lDYJ50hfvAMryyMwypPUerIgBARcgmBfYl1mlfXEMS+q+j8lV4DZBEmEdAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Mirabello Bay is an embayment of the Sea of Crete on the eastern part of Crete, Greece.

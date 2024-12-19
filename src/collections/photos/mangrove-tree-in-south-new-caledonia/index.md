@@ -24,6 +24,7 @@ tags:
   - landscape
   - mangrove tree
   - mer
+  - Mont-Dore
   - New Caledonia
   - Nouvelle Calédonie
   - Oceania
@@ -31,6 +32,7 @@ tags:
   - palétuvier
   - paysage
   - plage
+  - Plage de la Siesta
   - plant
   - sable
   - sand
@@ -62,10 +64,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -22.297055028333332
-  longitude: 166.66152543333334
-  country: France
-  city: Le Mont-Dore
+  latitude: -22.296464
+  longitude: 166.660015
+  country: Nouvelle-Calédonie
   map: true
 colors:
   vibrant: 72 122 168
