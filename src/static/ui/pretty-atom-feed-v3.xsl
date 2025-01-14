@@ -84,8 +84,11 @@ https://nicolas-hoizey.com/feeds/all.xml
         Published: <xsl:value-of select="atom:updated" />
       </small>
       <div>
-        <xsl:value-of select="atom:content" />
+        <xsl:apply-templates />
       </div>
     </div>
+  </xsl:template>
+  <xsl:template match="content">
+    <xsl:copy-of select="text() | *"/>
   </xsl:template>
 </xsl:stylesheet>
