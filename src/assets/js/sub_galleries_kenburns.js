@@ -6,8 +6,8 @@ const loadKenBurns = async () => {
 		!isKenBurnsLoaded &&
 		window.matchMedia("(prefers-reduced-motion: no-preference)").matches
 	) {
-		// wait for 1 second
-		await new Promise((resolve) => setTimeout(resolve, 1000));
+		// wait for 3 seconds
+		await new Promise((resolve) => setTimeout(resolve, 3000));
 
 		// Load all images
 		for (const element of document.querySelectorAll(".kenburns")) {
