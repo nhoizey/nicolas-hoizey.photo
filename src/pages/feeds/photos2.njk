@@ -26,7 +26,7 @@ eleventyExcludeFromCollections: true
       <id>{{ absoluteEntryUrl }}</id>
       <content type="html">
         &lt;img src="{{ photoUrl }}" alt="{{- entry.data.origin.data.alt_text or entry.data.title -}}" width="{{ entry.data.origin.data.dimensions.width }}" height="{{ entry.data.origin.data.dimensions.height }}" /&gt;
-        {{ entry.data.origin.content | markdownify | safe }}
+        {{ entry.data.origin.content | markdownify }}
         &lt;p&gt;&lt;small&gt;Shot on {{ entry.data.origin.data.dates.human }}, shared on {{ entry.date | readableDate }}.&lt;/small&gt;&lt;/p&gt;
         &lt;p&gt;&lt;small&gt;View &lt;a href="{{ absoluteEntryUrl }}"&gt;more information about this photo&lt;/a&gt; on its page.&lt;small&gt;&lt;/p&gt;
       </content>
