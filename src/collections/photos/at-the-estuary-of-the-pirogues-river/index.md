@@ -78,6 +78,7 @@ geo:
   latitude: -22.300931405
   longitude: 166.68622323166667
   country: Nouvelle-Calédonie
+  map: true
 colors:
   vibrant: 72 127 182
   darkVibrant: 91 87 19
@@ -86,9 +87,6 @@ colors:
   darkMuted: 95 79 51
   lightMuted: 164 190 215
 lqip: data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAACQCgCdASpkAEMAP2mky1izrTM5sVhrAzAtCUAZVupOAW/sOpx9i2HW825W7v7znsZGjOGPkOxy+2j3BFPD6kJaoTDmsHdtM60Wws3mVKKGe80Fo6mis44nq6jVlIAA57c6Z7JDbZQJyvcn6Wq1WkrvDHJYGeSFyE1XidjQDcNrAq59ulD1opDj9LWj7yLpWMiKOfUyQ2Ddo0j4xyMuLqJIe13QrV2ad/+RDfCU8xOlhBaHXLpbc1k1aIAQsut5/4NJzv30gLvZFFYV4phruVw2SjmUcMcMEWxj/4hDYlvuPG2PU1GcjLYsv0NEEnVbdWw6r4xgtBsSi2AdqL56QOjEpc1OVMOLrDXR0rl4cfdKhEhP0fA0iMdL3THFDesO+ZwoK+upZ34702faDweqdzTvcRXXjHGvGUuhI4hijZsZ0aQaAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Pirogues River is a major river of southwestern New Caledonia. It flows into the sea at Pirogues Bay.

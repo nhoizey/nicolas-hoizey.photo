@@ -65,6 +65,7 @@ geo:
   latitude: -22.320321391666667
   longitude: 166.82352236666668
   country: Nouvelle-Calédonie
+  map: true
 colors:
   vibrant: 191 141 69
   darkVibrant: 46 54 10
@@ -73,9 +74,6 @@ colors:
   darkMuted: 87 63 51
   lightMuted: 176 185 190
 lqip: data:image/webp;base64,UklGRpABAABXRUJQVlA4IIQBAAAwDQCdASpkAEMAP1mWuVi/qzilNtzMA/ArCWNs5IAFMJWwEfYtBJ5jF36yjwaIz0uO2NNG2y9ImgJGEslAXg0aeQdvl/t/fbIXj1h3r4/LfnWUWsSrBucwJEKOugkLmLQYlrDjMTAsZ/n2Kz0CmrpKvAAA/uRnSy6ByVxKVHuR0IScAmLCafPid8nue20A2ynlTbuYZQCM01KRjjAIOKkpHnqftwELOgVIIcANQqGAUxD5+PTwf/PwMAJYpib1on6W5p0Ry/7X11lzIu6zQI4Khqj5WYxMG42CRQclb9spR9oPHmIi2PTOICejrp3Ij2iDuv/h6QfxBHqv7iXwImu6nyDf7J1fM5pe52Aqb4TVVLr9SxyG6Tu/meCXrzIV4Lxs7CK6/dA912yfZ8DHLIfUrJVS0PkK70VzpkJfbE7iCaSWXhKBzn6Ng1B89pXBLH0coRVQd+2WZl0zujVw8tloDKigV84mrW3EB6eYFqE0e8HwvLffohrBVR3XE20qRFOXgAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Prony Corvette was launched in 1847. It was a wooden ship with mixed sail and steam propulsion.

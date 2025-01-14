@@ -72,6 +72,7 @@ geo:
   latitude: -22.603714965
   longitude: 166.82819348166666
   country: Nouvelle-Calédonie
+  map: true
 colors:
   vibrant: 124 158 200
   darkVibrant: 76 67 35
@@ -80,9 +81,6 @@ colors:
   darkMuted: 100 97 62
   lightMuted: 161 179 212
 lqip: data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAABQCQCdASpkAEMAP3Gqxl40t7omrNN7a0AuCWMG+IUEKSjel36ux8UbI02T2sr/O1NrE7rFqWFNcpW2kZxNo3h6r2Ohsqyh99Mrtrs8PQHCWkYjwADkE9h1m14bI3QfExkEh5DL1FxIghN89Tbjf+bozgaC5JUDlloucYM7YT0GLhzHb5YMSJ6pljmkkio5/TGa7DcpB/g6F8Q37DAyvp5BlAUbNtubqXpnN9qKBpiKhJA7onJvr0t/ROQHyY+nXPDXFlOLnlCSnu4KChLYAbvp5IGP+GKikECbzKC9CajSBX8WXMnvk3jmXNdXiv7Fgil49XBlqgAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Îlot Leroue is a tiny islet bordered by a coral reef, located in New Caledonia's large southern lagoon.

@@ -71,6 +71,7 @@ geo:
   latitude: -22.297130361666667
   longitude: 166.662558405
   country: Nouvelle-Calédonie
+  map: true
 colors:
   vibrant: 96 145 189
   darkVibrant: 61 60 9
@@ -79,9 +80,6 @@ colors:
   darkMuted: 50 62 84
   lightMuted: 152 176 197
 lqip: data:image/webp;base64,UklGRjYBAABXRUJQVlA4ICoBAABwDQCdASpkAEMAP2WixVizLSivNfSqMmAsiWMAzj3egYrR0G+ThJJJnWNnzKSDmdyQ8uBlK5PRh0v3LsRqbEAWbbt0gYwbi0KdXF4O483IC6bEOUt1ZPl9X29TFswD0wGj1HUN9RET0DFQSzU0KdwQ6UemGAD0q94v+igfuI30+OZl4Ik/y08qVgQLBospqURZZX67BoZw6AO5b8g95F+pkWq2iE+Jwkv3j0PBy4rpgktgP0ZZULn3KB0M8KK46svCh4e3o6Dxq4I5YJeLtbsa6BHPRnqbwoQaGvwEUyFcNbXYH/W4ENULidGumXKOkPpPbU+7U/vnPTIwAZpqLMNcU2mYwNb+2fsaqlndhFxQ1bMZm+aabBhCeCzgeSmyrhGM3W+FbLKbAAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 La Siesta beach is the very last beach in the commune of Le Mont-Dore, at the end of Plum Bay, on the road to the south of New Caledonia.

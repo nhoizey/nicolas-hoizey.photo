@@ -69,6 +69,7 @@ geo:
   latitude: -22.29072348
   longitude: 166.70368115
   country: Nouvelle-Calédonie
+  map: true
 colors:
   vibrant: 84 144 199
   darkVibrant: 124 51 26
@@ -79,8 +80,6 @@ colors:
 lqip: data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAAAwDQCdASpkAEMAP2WkwlizP6ejtRQ7U/AsiU2GsACkNagn0KBQEUE2gD6Kg/5V9ge7KNJM+yZ9G772O73C/JAwEk4k5EgxqGHA9VxEPxUZSHQzhB3Hb2KkHJNIDLXNUBmlFAIyH61elahxEam5XN8PGAAA/KS7UNepc0ujaw4kzZmP07CUDs0CnOdge/gGZiByqI/yOqC7umNsUw/g+XeBLEuSAP1yvomykHMhZUwwXyUqH1Dqb0i+T92pkG6R+rl3vsxfy+23C16lHeYfnIPkZLnjsqsRIFgFmImcBTyM4kld9O2QTFTRHQQ85vx8F/4IJRtJ9UZHchDuUDxVONg3qtVEFK0uze9KUK5lSA+sp27MurPBjxb3SSVqC/tD3swibF4aJsKYzi0ifzNrtTDmmyibtbSnvkQq73kA1cn4qW8aH/XDNSzeMP0CxXcCGM7LHATPNl1uATOM8ja+B1Il7A7IEDQCcXAAAA==
 missing_data:
   alt_text: true
-  map: true
-  opengraph: true
 ---
 
 In the deep south of New Caledonia, laterite is a brick-red soil resulting from the weathering of an iron-bearing rock.

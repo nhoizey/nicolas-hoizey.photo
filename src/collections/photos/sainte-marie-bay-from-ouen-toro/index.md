@@ -74,6 +74,7 @@ geo:
   longitude: 166.45610172166667
   country: Nouvelle-Calédonie
   city: Nouméa
+  map: true
 colors:
   vibrant: 108 172 235
   darkVibrant: 36 38 4
@@ -82,9 +83,6 @@ colors:
   darkMuted: 90 86 46
   lightMuted: 176 184 205
 lqip: data:image/webp;base64,UklGRggBAABXRUJQVlA4IPwAAAAQCQCdASpkACgAP12Yw1iyvagjs9dt+7AriU1cyu/S/LVSPTstxKZ0jBGDpk0ZiV7vXrhezCJDxZfiPJBoulsv269GWpNdzqaqfA4qsl4kgAAAXre0Pu6BStOR2PcHqx9ri+dWQFQ4ZesrWgwZZAn++7jyJCQjGNMZ41Mf6WMGyNFV2iAzfNVOm1Lqquk8u97V1H6B9DeF83ybXUbyV9i1Rqn+OCDbJzveFxXYoB6DlylJ3EmRzuvq2eOFp8TNOQS0fnhZoGRHP1z68peyQOgaoYAr/JUGgp9+6IjLSC8F1pAfaNYAoiOhTYMIPBd9HYyd3nYAsu5HTJ90AAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Ouen Toro is a hill on the southernmost tip of the Nouméa peninsula in New Caledonia. It rises to an altitude of 132 meters and covers 63 hectares.

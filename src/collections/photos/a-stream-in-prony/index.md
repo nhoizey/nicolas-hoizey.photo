@@ -60,6 +60,7 @@ geo:
   latitude: -22.320351235
   longitude: 166.82291820333333
   country: Nouvelle-Calédonie
+  map: true
 colors:
   vibrant: 164 84 24
   darkVibrant: 108 52 23
@@ -71,8 +72,6 @@ lqip: data:image/webp;base64,UklGRroBAABXRUJQVlA4IK4BAADwDwCdASpkAEMAP2mewVizq6c
 missing_data:
   alt_text: true
   description: true
-  map: true
-  opengraph: true
 ---
 
 

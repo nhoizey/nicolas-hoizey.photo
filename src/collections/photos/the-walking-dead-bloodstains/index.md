@@ -3,7 +3,7 @@ title: The Walking Dead bloodstains
 file: the-walking-dead-bloodstains.jpg
 alt_text: Photo of miniature figures representing zombies full of bloodstains,
   and with a hesitant walk, in front of a bottle of mercurochrome.
-date: 2023-04-17 22:07:45 +02:00
+date: 2023-04-17 21:07:45 +01:00
 dates:
   iso: "'2023-04-17'"
   human: "'17 April 2023'"
@@ -65,8 +65,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.68200319166667
-  longitude: 2.405349703333333
+  latitude: 48.682003
+  longitude: 2.40535
   country: France
   city: Draveil
   map: true
