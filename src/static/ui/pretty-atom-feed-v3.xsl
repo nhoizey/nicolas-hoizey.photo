@@ -84,7 +84,7 @@ https://nicolas-hoizey.com/feeds/all.xml
         Published: <xsl:value-of select="atom:updated" />
       </small>
       <div>
-        <xsl:value-of select="atom:content"/>
+        <xsl:value-of select="atom:content" disable-output-escaping="yes" />
       </div>
     </div>
   </xsl:template>
