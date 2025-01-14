@@ -59,7 +59,7 @@ https://nicolas-hoizey.com/feeds/all.xml
             <p>This preview only shows titles, but the actual feed contains the full content.</p>
             <a>
               <xsl:attribute name="href">
-                <xsl:value-of select="/atom:feed/atom:link[not(@rel)]/@href"/>
+                <xsl:value-of select="/atom:feed/atom:link[@type='text/html']/@href"/>
               </xsl:attribute>
               Visit Website &#x2192;
             </a>
@@ -84,7 +84,7 @@ https://nicolas-hoizey.com/feeds/all.xml
         Published: <xsl:value-of select="atom:updated" />
       </small>
       <div>
-        <xsl:value-of select="atom:content" disable-output-escaping="yes" />
+        <xsl:value-of select="atom:content" />
       </div>
     </div>
   </xsl:template>
