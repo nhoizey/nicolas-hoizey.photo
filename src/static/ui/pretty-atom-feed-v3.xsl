@@ -55,7 +55,7 @@ https://nicolas-hoizey.com/feeds/all.xml
               Web Feed Preview
             </h1>
             <h2><xsl:value-of select="atom:feed/atom:title"/></h2>
-            <p><xsl:value-of select="atom:feed/atom:description"/></p>
+            <p><xsl:value-of select="atom:feed/atom:subtitle"/></p>
             <p>This preview only shows titles, but the actual feed contains the full content.</p>
             <a>
               <xsl:attribute name="href">

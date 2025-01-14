@@ -7,10 +7,10 @@ eleventyExcludeFromCollections: true
 <?xml-stylesheet href="/ui/pretty-atom-feed-v3.xsl" type="text/xsl" media="screen"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Latest blog posts from {{ site.title }}</title>
-  <link href="{{ site.url }}/feeds/blog.xml" rel="self"/>
-  <link href="{{ site.url }}/"/>
+  <link href="{{ site.url }}/feeds/blog.xml" rel="self" />
+  <link href="{{ site.url }}/" />
   <updated>{{ collections.blog | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
-  <id>{{ site.url }}</id>
+  <id>{{ site.url }}/blog/</id>
   <author>
     <name>{{ site.author.name }}</name>
     <email>{{ site.author.email }}</email>
@@ -20,7 +20,7 @@ eleventyExcludeFromCollections: true
     {% set titleDate = entry.date | readableDate %}
     <entry>
       <title>{{ entry.data.title or entry.data.layout + ' from ' + titleDate }}</title>
-      <link href="{{ absoluteEntryUrl }}?utm_source=feed_blog&amp;utm_medium=feed"/>
+      <link href="{{ absoluteEntryUrl }}?utm_source=feed_blog&amp;utm_medium=feed" rel="alternate" type="text/html" />
       <updated>{{ entry.date | dateToRfc3339 }}</updated>
       <id>{{ absoluteEntryUrl }}</id>
       <content type="html"><![CDATA[
