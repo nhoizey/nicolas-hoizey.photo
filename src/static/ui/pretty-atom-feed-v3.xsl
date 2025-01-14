@@ -84,7 +84,7 @@ https://nicolas-hoizey.com/feeds/all.xml
         Published: <xsl:value-of select="atom:updated" />
       </small>
       <div>
-        <xsl:apply-templates />
+        <xsl:apply-templates select="atom:feed/atom:entry/atom:content" />
       </div>
     </div>
   </xsl:template>
