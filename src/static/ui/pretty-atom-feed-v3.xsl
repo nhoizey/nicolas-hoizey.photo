@@ -89,6 +89,6 @@ https://nicolas-hoizey.com/feeds/all.xml
     </div>
   </xsl:template>
   <xsl:template match="atom:content">
-    <xsl:copy-of select="text()" />
+    <xsl:value-of select="text()" />
   </xsl:template>
 </xsl:stylesheet>
