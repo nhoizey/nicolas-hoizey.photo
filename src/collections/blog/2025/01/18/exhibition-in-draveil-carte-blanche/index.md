@@ -1,6 +1,6 @@
 ---
-date: 2022-02-16 00:26:49 +02:00
-title: 'Exhibition in Draveil: Regards multiples'
+date: 2025-01-18 10:26:49 +02:00
+title: 'Exhibition in Draveil: Carte blanche'
 lang: en
 tags: [exhibition, miniature]
 ---
