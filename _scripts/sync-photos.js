@@ -7,7 +7,6 @@ import fs from "node:fs";
 import path from "node:path";
 import exifr from "exifr";
 import Fraction from "fraction.js";
-import imageSize from "image-size";
 import { DateTime } from "luxon";
 import vibrant from "node-vibrant";
 import pixelmatch from "pixelmatch";
@@ -86,6 +85,7 @@ SYNC ${photo}`);
 	}
 	const photoYFM = {};
 	const photoExif = await exifr.parse(photoPath, exifrOptions);
+	const sharpImage = sharp(photoPath);
 
 	if (photoExif === undefined) {
 		thisLog("  ⚠ error reading EXIF data");
@@ -319,11 +319,12 @@ SYNC ${photo}`);
 		if (photosData[photo].dimensions) {
 			photoYFM.dimensions = photosData[photo].dimensions;
 		} else {
-			const dimensions = imageSize(photoPath);
+			const metadata = await sharpImage.metadata();
 			photoYFM.dimensions = {
-				width: dimensions.width,
-				height: dimensions.height,
+				width: metadata.width,
+				height: metadata.height,
 			};
+
 			photosData[photo].dimensions = photoYFM.dimensions;
 		}
 
@@ -381,11 +382,10 @@ SYNC ${photo}`);
 					const border = Buffer.from(
 						'<svg><circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="2" /></svg>',
 					);
-					sharp(photoPath)
+					sharpImage
 						.resize(30, 30, {
 							fit: sharp.fit.cover,
 							position: sharp.strategy.entropy,
-							// background: { r: 0, g: 0, b: 0, alpha: 0 },
 						})
 						.composite([
 							{ input: mask, left: 0, top: 0, blend: "dest-in" },
@@ -393,7 +393,7 @@ SYNC ${photo}`);
 						])
 						.toFile(thumbFile, (err) => {
 							if (err) {
-								thisLog(`Error while creating thumbnail for ${slug}`, err);
+								thisLog(`Error while creating thumbnail file for ${slug}`, err);
 							}
 						});
 				}
@@ -407,7 +407,7 @@ SYNC ${photo}`);
 					const border2 = Buffer.from(
 						'<svg><circle cx="30" cy="30" r="28" fill="none" stroke="white" stroke-width="3" /></svg>',
 					);
-					sharp(photoPath)
+					sharpImage
 						.resize(60, 60, {
 							fit: sharp.fit.cover,
 							position: sharp.strategy.entropy,
@@ -418,7 +418,10 @@ SYNC ${photo}`);
 						])
 						.toFile(thumb2File, (err) => {
 							if (err) {
-								thisLog(`Error while creating @2x thumbnail for ${slug}`, err);
+								thisLog(
+									`Error while creating @2x thumbnail file for ${slug}`,
+									err,
+								);
 							}
 						});
 				}
@@ -465,7 +468,7 @@ SYNC ${photo}`);
 		if (photosData[photo].lqip) {
 			photoYFM.lqip = photosData[photo].lqip;
 		} else {
-			const { data, info } = await sharp(photoPath)
+			const { data, info } = await sharpImage
 				.resize({
 					width: 100,
 				})
@@ -503,7 +506,7 @@ SYNC ${photo}`);
 					.then(({ data, info }) => {
 						return { data, info };
 					});
-				const newPhotoBuffer = await sharp(photoPath)
+				const newPhotoBuffer = await sharpImage
 					.ensureAlpha()
 					.png()
 					.raw()
@@ -573,7 +576,7 @@ ${photoDescription}
 			const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
 			const targetWidth = ratio * targetHeight;
 
-			sharp(photoPath)
+			sharpImage
 				.resize({
 					width: Math.round(targetWidth),
 					height: Math.round(targetHeight),
@@ -605,7 +608,9 @@ syncAllPhotos().then(() => {
 		},
 	);
 
-	console.log(`
+	if (MISSING_GEAR.cameras.length === 0 || MISSING_GEAR.lenses.length === 0) {
+		console.log(`
 Missing gear clean names:`);
-	console.dir(MISSING_GEAR);
+		console.dir(MISSING_GEAR);
+	}
 });
