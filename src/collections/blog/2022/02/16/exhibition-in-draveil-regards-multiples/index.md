@@ -2,7 +2,7 @@
 date: 2022-02-16 00:26:49 +02:00
 title: 'Exhibition in Draveil: Regards multiples'
 lang: en
-tags: [exhibition]
+tags: [exhibition, miniature]
 ---
 
 ![The exhibition poster](exhibition-poster.jpg){.logo}
