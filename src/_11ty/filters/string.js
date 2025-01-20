@@ -45,7 +45,7 @@ export const tagToHashtag = (tag) => {
 };
 
 export const tweakPath = (inputPath, outputPath) => {
-	if (outputPath.match(/exhibitions/)) {
+	if (outputPath.match(/exhibitionsZZZZZZZ/)) {
 		console.log("");
 		console.log("Tweaking path", outputPath);
 	}
@@ -53,9 +53,9 @@ export const tweakPath = (inputPath, outputPath) => {
 		const tweakedInputPath = outputPath
 			// .replace(/\/(oldest-first|newest-first|by-popularity)/, "")
 			.replace("_site/", "src/pages/");
-		if (outputPath.match(/exhibitions/)) {
-			console.log("Tweaked path", tweakedInputPath);
-		}
+		// if (outputPath.match(/exhibitions/)) {
+		// 	console.log("Tweaked path", tweakedInputPath);
+		// }
 		return tweakedInputPath;
 	}
 
