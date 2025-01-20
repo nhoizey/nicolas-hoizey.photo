@@ -25,7 +25,7 @@
     {{ content | safe }}
   </div>
 
-  {% if page.url== '/' %}
+  {% if page.url == '/' %}
     {% set gallery_root = '/galleries/' %}
   {% else %}
     {% set gallery_root = page.url %}
@@ -35,21 +35,23 @@
 
   {% set sub_galleries_number = sub_galleries | length %}
 
-  {%- css "critical" %}{% renderFile "src/assets/sass/components/photos_sort.scss" %}{% endcss %}
-  <div class="photos_sort">
-    <p class="label">Sort photos:</p>
-    <ul>
-      {% if sub_galleries_number > 0 %}
-        <li><span class="current">in galleries</span></li>
-        <li><a href="./oldest-first/">oldest first</a></li>
-      {% else %}
-        <li><span class="disabled">in galleries</span></li>
-        <li><span class="current">oldest first</span></li>
-      {% endif %}
-      <li><a href="./newest-first/">newest first</a></li>
-      <li><a href="./by-popularity/">by popularity</a></li>
-    </ul>
-  </div>
+  {% if not ('/exhibitions' in gallery_root) %}
+    {%- css "critical" %}{% renderFile "src/assets/sass/components/photos_sort.scss" %}{% endcss %}
+    <div class="photos_sort">
+      <p class="label">Sort photos:</p>
+      <ul>
+        {% if sub_galleries_number > 0 %}
+          <li><span class="current">in galleries</span></li>
+          <li><a href="./oldest-first/">oldest first</a></li>
+        {% else %}
+          <li><span class="disabled">in galleries</span></li>
+          <li><span class="current">oldest first</span></li>
+        {% endif %}
+        <li><a href="./newest-first/">newest first</a></li>
+        <li><a href="./by-popularity/">by popularity</a></li>
+      </ul>
+    </div>
+  {% endif %}
 
   {% if sub_galleries_number > 0 %}
     {# https://mamot.fr/@nhoizey/113374779561108401 #}
