@@ -1,3 +1,4 @@
+import path from "node:path";
 import pkg from "../../package.json" with { type: "json" };
 
 import imageSize from "image-size";
@@ -33,7 +34,18 @@ const runBeforeHook = (image, document) => {
 				imageDimensions = imageSize(`src${correctedImgSrc}`);
 			} else {
 				// This is a relative URL
-				imageDimensions = imageSize(srcPath + imageSrc);
+				const localPath = path.join(srcPath, imageSrc);
+				// if (imageSrc.match(/poster\.jpg$/)) {
+				// 	console.log("");
+				// 	console.dir(document.querySelector("title").textContent);
+				// 	console.log(srcPath);
+				// 	console.log(imageSrc);
+				// 	console.log(localPath);
+				// }
+				imageDimensions = imageSize(localPath);
+				// if (imageSrc.match(/poster\.jpg$/)) {
+				// 	console.dir(imageDimensions);
+				// }
 			}
 			image.setAttribute("width", imageDimensions.width);
 			image.setAttribute("height", imageDimensions.height);

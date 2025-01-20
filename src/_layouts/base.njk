@@ -128,9 +128,10 @@
     {% block morehead %}{% endblock %}
   </head>
 
+  {%- set cleanOutputPath = page.outputPath | dirname -%}
   <body
-    data-img-src="{{ page.inputPath | dirname }}/"
-    data-img-dist="{{ page.outputPath | dirname }}/"
+    data-img-src="{{ page.inputPath | dirname | tweakPath(cleanOutputPath) }}/"
+    data-img-dist="{{ cleanOutputPath }}/"
   >
     <header role="banner">
       {% include 'components/logo.njk' %}

@@ -26,3 +26,13 @@ export const extractHeadingsText = (html) => {
 	}
 	return headingsText;
 };
+
+export const relativeImagesToParent = (html) => {
+	if (html === undefined) {
+		return "";
+	}
+	return html.replace(
+		/<img([^>]+)src="([^"]+)"([^>]*)>/g,
+		'<img$1src="../$2"$3>',
+	);
+};

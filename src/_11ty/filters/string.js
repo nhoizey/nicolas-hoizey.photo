@@ -43,3 +43,21 @@ export const tagToHashtag = (tag) => {
 	}
 	return hashtag;
 };
+
+export const tweakPath = (inputPath, outputPath) => {
+	if (outputPath.match(/exhibitions/)) {
+		console.log("");
+		console.log("Tweaking path", outputPath);
+	}
+	if (outputPath.match(/(oldest-first|newest-first|by-popularity)/g)) {
+		const tweakedInputPath = outputPath
+			// .replace(/\/(oldest-first|newest-first|by-popularity)/, "")
+			.replace("_site/", "src/pages/");
+		if (outputPath.match(/exhibitions/)) {
+			console.log("Tweaked path", tweakedInputPath);
+		}
+		return tweakedInputPath;
+	}
+
+	return inputPath;
+};

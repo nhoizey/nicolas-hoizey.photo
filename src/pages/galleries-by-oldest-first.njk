@@ -27,10 +27,12 @@ permalink: "{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') 
   {% endif %}
   <h1>{{ title }}</h1>
 
-  {%- css "critical" %}{% renderFile "src/assets/sass/components/gallery_content.scss" %}{% endcss %}
-  <div class="gallery__content">
-    {{ gallery.content | safe }}
-  </div>
+  {% if gallery.content %}
+    {%- css "critical" %}{% renderFile "src/assets/sass/components/gallery_content.scss" %}{% endcss %}
+    <div class="gallery__content">
+      {{ gallery.content | relativeImagesToParent | safe }}
+    </div>
+  {% endif %}
 
   {% set gallery_root %}{{ gallery.data.page.filePathStem | dirname | replace('pages/', '') }}/{% endset %}
 
