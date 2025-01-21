@@ -32,6 +32,9 @@
   {% endif %}
 
   {% set sub_galleries = collections.photo_galleries | sub_galleries(gallery_root) %}
+  {% if '/exhibitions' in gallery_root %}
+    {% set sub_galleries = sub_galleries | reverse %}
+  {% endif %}
 
   {% set sub_galleries_number = sub_galleries | length %}
 
