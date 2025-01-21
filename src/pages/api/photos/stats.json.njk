@@ -1,0 +1,34 @@
+---
+layout: null
+permalink: /api/photos/stats.json
+---
+[
+{% for photo in collections.unique_photos %}
+  {% set gear = photo.data.origin.data.gear %}
+  {% set settings = photo.data.origin.data.settings %}
+  {
+    "title": "{{ photo.data.title }}",
+    "slug": "{{ photo.fileSlug }}",
+    "date": "{{ photo.data.origin.data.date }}",
+    "year": {{ photo.data.origin.data.date | year }},
+    "camera": "{{ gear.camera.brand }} {{ gear.camera.model }}",
+    "camera_brand": "{{ gear.camera.brand }}"
+    {% if settings.aperture %}
+      , "aperture": {{ settings.aperture.computed }},
+      "readable_aperture": "{{ settings.aperture.readable }}"
+    {% endif %}
+    {% if settings.shutter_speed %}
+      , "shutter_speed": {{ settings.shutter_speed.computed }},
+      "readable_shutter_speed": "{{ settings.shutter_speed.readable }}"
+    {% endif %}
+    {% if settings.iso %}
+      , "iso": {{ settings.iso.computed }},
+      "readable_iso": "{{ settings.iso.readable }}"
+    {% endif %}
+    {% if settings.focal_length %}
+      , "focal_length": {{ settings.focal_length.computed }},
+      "readable_focal_length": "{{ settings.focal_length.readable }}"
+    {% endif %}
+  }{% if not loop.last %},{% endif %}
+{% endfor %}
+]
