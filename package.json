@@ -98,5 +98,8 @@
 		"unsplash-js": "^7.0.19",
 		"utf8": "^3.0.0",
 		"yaml": "^2.7.0"
+	},
+	"dependencies": {
+		"@observablehq/plot": "^0.6.16"
 	}
 }
