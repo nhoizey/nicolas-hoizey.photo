@@ -55,7 +55,6 @@ for = "/speculation-rules.json"
 [headers.values]
 Content-Type = "application/speculationrules+json; charset=utf-8"
 
-
 [[headers]]
 for = "/ui/thumbnails/sprite.*"
 [headers.values]
@@ -63,5 +62,10 @@ Access-Control-Allow-Origin = "*"
 
 [[headers]]
 for = "/photos/*"
+[headers.values]
+Access-Control-Allow-Origin = "*"
+
+[[headers]]
+for = "/api/*"
 [headers.values]
 Access-Control-Allow-Origin = "*"
