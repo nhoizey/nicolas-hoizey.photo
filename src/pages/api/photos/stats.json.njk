@@ -10,7 +10,9 @@ permalink: /api/photos/stats.json
     "title": "{{ photo.data.title }}",
     "slug": "{{ photo.fileSlug }}",
     "date": "{{ photo.data.origin.data.date }}",
-    "year": {{ photo.data.origin.data.date | year }},
+    "date_iso": "{{ photo.data.origin.data.date | isoDate }}",
+    "month": "{{ photo.data.origin.data.date | month }}",
+    "year": "{{ photo.data.origin.data.date | year }}"
     {% if settings.camera %}
       , "camera": "{{ gear.camera.brand }} {{ gear.camera.model }}",
       "camera_brand": "{{ gear.camera.brand }}"

@@ -16,3 +16,4 @@ const dateObj = (eleventyDate) => {
 
 // 1983
 export const year = (date) => dateObj(date).toFormat("yyyy");
+export const month = (date) => dateObj(date).toFormat("yyyy/MM");
