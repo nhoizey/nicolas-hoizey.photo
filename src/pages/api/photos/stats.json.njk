@@ -11,8 +11,10 @@ permalink: /api/photos/stats.json
     "slug": "{{ photo.fileSlug }}",
     "date": "{{ photo.data.origin.data.date }}",
     "year": {{ photo.data.origin.data.date | year }},
-    "camera": "{{ gear.camera.brand }} {{ gear.camera.model }}",
-    "camera_brand": "{{ gear.camera.brand }}"
+    {% if settings.camera %}
+      , "camera": "{{ gear.camera.brand }} {{ gear.camera.model }}",
+      "camera_brand": "{{ gear.camera.brand }}"
+    {% endif %}
     {% if settings.aperture %}
       , "aperture": {{ settings.aperture.computed }},
       "readable_aperture": "{{ settings.aperture.readable }}"
