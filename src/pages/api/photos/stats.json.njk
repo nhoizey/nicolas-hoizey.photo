@@ -13,7 +13,7 @@ permalink: /api/photos/stats.json
     "date_iso": "{{ photo.data.origin.data.date | isoDate }}",
     "month": "{{ photo.data.origin.data.date | month }}",
     "year": {{ photo.data.origin.data.date | year }}
-    {% if settings.camera %}
+    {% if gear.camera %}
       , "camera": "{{ gear.camera.brand }} {{ gear.camera.model }}",
       "camera_brand": "{{ gear.camera.brand }}"
     {% endif %}
