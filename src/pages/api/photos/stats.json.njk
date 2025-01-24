@@ -11,6 +11,7 @@ permalink: /api/photos/stats.json
     "slug": "{{ photo.fileSlug }}",
     "date": "{{ photo.data.origin.data.date }}",
     "date_iso": "{{ photo.data.origin.data.date | isoDate }}",
+    "sharing_date_iso": "{{ photo.date | isoDate }}",
     "month": "{{ photo.data.origin.data.date | month }}",
     "year": {{ photo.data.origin.data.date | year }}
     {% if gear.camera %}
