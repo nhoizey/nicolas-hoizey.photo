@@ -28,7 +28,7 @@ $gallery-gap: 4rem;
   );
   gap: $gallery-gap;
 
-  align-items: end;
+  align-items: start;
 
   @container sub_galleries (width >= #{$gallery-min-width * 3 + $gallery-gap * 2}) {
     > :first-child {
