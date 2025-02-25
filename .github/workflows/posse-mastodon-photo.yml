@@ -11,7 +11,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  Pixelfed:
+  Mastodon:
     runs-on: ubuntu-latest
 
     steps:
