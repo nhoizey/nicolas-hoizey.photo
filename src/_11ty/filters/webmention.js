@@ -27,7 +27,6 @@ const allPhotos = glob
 
 const getWebmentions = memoize(() => {
 	const cached = readFromCache(WEBMENTION_CACHE);
-	let galleryUrl;
 	return cached.webmentions
 		.filter((mention) => {
 			if (
