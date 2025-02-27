@@ -1,5 +1,3 @@
-const allBreadcrumbs = {};
-
 const shuffle = (array) => {
 	for (let i = array.length - 1; i > 0; i--) {
 		const j = Math.floor(Math.random() * (i + 1));
@@ -21,28 +19,18 @@ const getMinFocalLength = (lense) => {
 
 export const by_date = (collection) => collection.sort(chronoSort);
 
-export const findBySlug = (collection, slug) => {
-	// Inspired by @tylersticka
-	// https://github.com/11ty/eleventy/issues/399#issuecomment-466514166
-	const items = collection.filter((item) => item.page.fileSlug === slug);
-	if (items.length === 1) {
-		return items[0];
+const memoizedTagged = {};
+export const tagged = (collection, tag) => {
+	const taggedCollection = memoizedTagged[tag];
+	if (taggedCollection !== undefined) {
+		return taggedCollection;
 	}
-	console.error(`Can't find content with slug "${slug}"`);
-	return false;
-};
-
-export const taggued = (collection, tag) => {
-	const slugs = [];
-	return collection
+	memoizedTagged[tag] = collection
 		.filter((item) => {
-			if (slugs.includes(item.page.fileSlug)) {
-				return false;
-			}
-			slugs.push(item.page.fileSlug);
 			return item.data.origin.data.tags?.includes(tag);
 		})
 		.sort(chronoSort);
+	return memoizedTagged[tag];
 };
 
 export const shot_with = (photosCollection, gear) => {
@@ -160,6 +148,7 @@ export const sub_galleries = (collection, url) =>
 		return r.test(item.page.url);
 	});
 
+const allBreadcrumbs = {};
 export const breadcrumb = (collection, url) => {
 	const breadcrumb = allBreadcrumbs[url];
 	if (breadcrumb !== undefined) {
