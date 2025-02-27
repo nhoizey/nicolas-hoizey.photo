@@ -1,8 +1,4 @@
-import glob from "fast-glob";
-
-const usedPhotosGlob = glob.sync("src/pages/galleries/**/*.md", {
-	ignore: "src/pages/galleries/**/index.md",
-});
+import { getUniquePhotos } from "../_utils/photoCollections.js";
 
 const settingsList = ["aperture", "shutter_speed", "iso", "focal_length"];
 
@@ -14,46 +10,41 @@ const getStatistics = (collection) => {
 
 	statisticsList = {};
 	const statisticsObject = {};
-	const photoSlugs = [];
 
 	const settingsValues = {};
 	for (const setting of settingsList) {
 		settingsValues[setting] = {};
 	}
 
-	for (const item of collection.getFilteredByGlob(usedPhotosGlob)) {
+	for (const item of getUniquePhotos(collection)) {
 		const photoData = item.data.origin.data;
-		if (!photoSlugs.includes(item.page.fileSlug)) {
-			// Don't count multiple times the same photo in multiple folders
-			photoSlugs.push(item.page.fileSlug);
 
-			for (const setting of settingsList) {
-				if (statisticsObject[setting] === undefined) {
-					statisticsObject[setting] = {};
-				}
+		for (const setting of settingsList) {
+			if (statisticsObject[setting] === undefined) {
+				statisticsObject[setting] = {};
+			}
+			if (
+				photoData.settings !== undefined &&
+				photoData.settings[setting] !== undefined &&
+				photoData.settings[setting].readable !== undefined
+			) {
+				// Keep a list of all possible values for each setting, based on raw reference
 				if (
-					photoData.settings !== undefined &&
-					photoData.settings[setting] !== undefined &&
-					photoData.settings[setting].readable !== undefined
+					settingsValues[setting][photoData.settings[setting].readable] ===
+					undefined
 				) {
-					// Keep a list of all possible values for each setting, based on raw reference
-					if (
-						settingsValues[setting][photoData.settings[setting].readable] ===
-						undefined
-					) {
-						settingsValues[setting][photoData.settings[setting].readable] =
-							photoData.settings[setting];
-					}
+					settingsValues[setting][photoData.settings[setting].readable] =
+						photoData.settings[setting];
+				}
 
-					// Count the number of photos for each setting value
-					if (
-						statisticsObject[setting][photoData.settings[setting].readable] !==
-						undefined
-					) {
-						statisticsObject[setting][photoData.settings[setting].readable]++;
-					} else {
-						statisticsObject[setting][photoData.settings[setting].readable] = 1;
-					}
+				// Count the number of photos for each setting value
+				if (
+					statisticsObject[setting][photoData.settings[setting].readable] !==
+					undefined
+				) {
+					statisticsObject[setting][photoData.settings[setting].readable]++;
+				} else {
+					statisticsObject[setting][photoData.settings[setting].readable] = 1;
 				}
 			}
 		}

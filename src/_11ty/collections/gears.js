@@ -1,34 +1,30 @@
 import fs from "node:fs";
-import { usedPhotosGlob } from "../_utils/photoCollections.js";
+import { getUniquePhotos } from "../_utils/photoCollections.js";
+
 import slugify from "../_utils/slugify.js";
 
 export const gears = (collection) => {
 	const gearsCollection = new Map();
-	const fileSlugs = [];
 
-	for (const item of collection.getFilteredByGlob(usedPhotosGlob)) {
+	for (const item of getUniquePhotos(collection)) {
 		const photoData = item.data.origin.data;
-		if (!fileSlugs.includes(item.page.fileSlug)) {
-			// Don't count multiple times the same photo in multiple folders
-			fileSlugs.push(item.page.fileSlug);
-			if ("gear" in photoData) {
-				gearsCollection.set(
-					`${photoData.gear.camera.brand} ${photoData.gear.camera.model}`,
-					{
-						type: "camera",
-						brand: photoData.gear.camera.brand,
-						model: photoData.gear.camera.model,
-					},
-				);
-				if (photoData.gear.lenses?.length > 0) {
-					photoData.gear.lenses.forEach((lenseInfo, lense) => {
-						gearsCollection.set(`${lenseInfo.brand} ${lenseInfo.model}`, {
-							type: "lense",
-							brand: lenseInfo.brand,
-							model: lenseInfo.model,
-						});
+		if ("gear" in photoData) {
+			gearsCollection.set(
+				`${photoData.gear.camera.brand} ${photoData.gear.camera.model}`,
+				{
+					type: "camera",
+					brand: photoData.gear.camera.brand,
+					model: photoData.gear.camera.model,
+				},
+			);
+			if (photoData.gear.lenses?.length > 0) {
+				photoData.gear.lenses.forEach((lenseInfo, lense) => {
+					gearsCollection.set(`${lenseInfo.brand} ${lenseInfo.model}`, {
+						type: "lense",
+						brand: lenseInfo.brand,
+						model: lenseInfo.model,
 					});
-				}
+				});
 			}
 		}
 	}

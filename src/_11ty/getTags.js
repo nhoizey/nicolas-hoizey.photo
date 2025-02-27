@@ -1,10 +1,6 @@
 import fs from "node:fs";
-import glob from "fast-glob";
 import slugify from "./_utils/slugify.js";
-
-const usedPhotosGlob = glob.sync("src/pages/galleries/**/*.md", {
-	ignore: "src/pages/galleries/**/index.md",
-});
+import { getUniquePhotos } from "./_utils/photoCollections.js";
 
 const averageColors = (colors) => {
 	const averageColors = {};
@@ -47,20 +43,15 @@ const averageColors = (colors) => {
 
 export default function (collection) {
 	const tagsCollection = new Map();
-	const fileSlugs = [];
 
-	for (const item of collection.getFilteredByGlob(usedPhotosGlob)) {
+	for (const item of getUniquePhotos(collection)) {
 		const photoData = item.data.origin.data;
-		if (!fileSlugs.includes(item.page.fileSlug)) {
-			// Don't count multiple times the same photo in multiple folders
-			fileSlugs.push(item.page.fileSlug);
-			if ("tags" in photoData) {
-				for (const tag of photoData.tags) {
-					const tagData = tagsCollection.get(tag) || { number: 0, colors: [] };
-					tagData.number = tagData.number + 1;
-					tagData.colors.push(photoData.colors);
-					tagsCollection.set(tag, tagData);
-				}
+		if ("tags" in photoData) {
+			for (const tag of photoData.tags) {
+				const tagData = tagsCollection.get(tag) || { number: 0, colors: [] };
+				tagData.number = tagData.number + 1;
+				tagData.colors.push(photoData.colors);
+				tagsCollection.set(tag, tagData);
 			}
 		}
 	}
