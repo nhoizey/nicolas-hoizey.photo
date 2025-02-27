@@ -1,0 +1,166 @@
+---
+title: Statistics
+nav:
+  order: 9
+  icon: statistics
+---
+
+{% include 'components/breadcrumb.njk' %}
+
+<h1>Statistics</h1>
+<p>Here are some statistics about the photos available in this site.</p>
+
+<style>{% renderFile "src/assets/sass/components/statistics.scss" %}</style>
+
+<script type="data/json">
+const photosData = [
+{% for photo in collections.unique_photos %}
+  {% set gear = photo.data.origin.data.gear %}
+  {% set settings = photo.data.origin.data.settings %}
+  {
+    title: "{{ photo.data.title }}",
+    slug: "{{ photo.fileSlug }}",
+    date: "{{ photo.data.origin.data.date }}",
+    year: {{ photo.data.origin.data.date | year }},
+    camera: "{{ gear.camera.brand }} {{ gear.camera.model }}",
+    camera_brand: "{{ gear.camera.brand }}",
+    {% if settings.aperture %}
+      aperture: {{ settings.aperture.computed }},
+      readable_aperture: "{{ settings.aperture.readable }}",
+    {% endif %}
+    {% if settings.shutter_speed %}
+      shutter_speed: {{ settings.shutter_speed.computed }},
+      readable_shutter_speed: "{{ settings.shutter_speed.readable }}",
+    {% endif %}
+    {% if settings.iso %}
+      iso: {{ settings.iso.computed }},
+      readable_iso: "{{ settings.iso.readable }}",
+    {% endif %}
+    {% if settings.focal_length %}
+      focal_length: {{ settings.focal_length.computed }},
+      readable_focal_length: "{{ settings.focal_length.readable }}",
+    {% endif %}
+  },
+{% endfor %}
+]
+// console.dir(photosData);
+</script>
+
+<h2>Camera and lens settings</h2>
+
+<h3>{% inline_icon 'aperture' %} Apertures</h3>
+<div id="apertures"></div>
+<script>
+const apertures = [
+  {% for aperture in collections.apertures %}
+    {
+      Aperture: {{ aperture.computed }},
+      Number: {{ aperture.number }}
+    },
+  {% endfor %}
+];
+</script>
+
+<h3>{% inline_icon 'focal-length' %} Focal lengths (35mm equivalent)</h3>
+<div id="focal_lengths"></div>
+<script>
+const focalLengths = [
+  {% for focal_length in collections.focal_lengths %}
+    {
+      "Focal length": {{ focal_length.computed }},
+      Number: {{ focal_length.number }}
+    },
+  {% endfor %}
+];
+</script>
+
+<h3>{% inline_icon 'iso' %} ISOs</h3>
+<div id="isos"></div>
+<script>
+const ISOs = [
+  {% for iso in collections.isos %}
+    {
+      ISO: {{ iso.computed }},
+      Number: {{ iso.number }}
+    },
+  {% endfor %}
+];
+</script>
+
+<h3>{% inline_icon 'shutter_speed' %} Shutter speeds</h3>
+<div id="shutter_speeds"></div>
+<script>
+const shutterSpeeds = [
+  {% for shutter_speed in collections.shutter_speeds %}
+    {
+      "Shutter speed": {{ shutter_speed.computed }},
+      Number: {{ shutter_speed.number }}
+    },
+  {% endfor %}
+];
+</script>
+
+<h3>Apertures per year</h3>
+<div id="apertures_per_year"></div>
+<script>
+let photoData;
+const counts = {};
+let key;
+{% for photo in collections.unique_photos %}
+  {% if photo.data.origin.data.settings.aperture.computed %}
+    photoData = {
+      slug: "{{ photo.fileSlug }}",
+      year: {{ photo.data.origin.data.date | year }},
+      aperture: {{ photo.data.origin.data.settings.aperture.computed }},
+      readable: "{{ photo.data.origin.data.settings.aperture.readable }}"
+    };
+    key = `${photoData.year}-${photoData.aperture}`;
+    if (counts[key] === undefined) {
+      counts[key] = { year: photoData.year, aperture: photoData.aperture, readable: photoData.readable, number: 0 };
+    }
+    counts[key].number++;
+  {% endif %}
+{% endfor %}
+
+const aperturesPerYear = [];
+for (const key in counts) {
+  aperturesPerYear.push(counts[key]);
+}
+</script>
+
+<h3>Apertures per year 2</h3>
+<div id="aperturesPerYear2"></div>
+<script>
+const aperturesPerYear2 = [];
+{% for photo in collections.unique_photos %}
+  {% if photo.data.origin.data.settings.aperture.computed %}
+    aperturesPerYear2.push({
+      slug: "{{ photo.fileSlug }}",
+      year: "{{ photo.data.origin.data.date | year }}",
+      aperture: {{ photo.data.origin.data.settings.aperture.computed }},
+      readable: "{{ photo.data.origin.data.settings.aperture.readable }}"
+    });
+  {% endif %}
+{% endfor %}
+</script>
+
+<h3>Apertures and shutter speeds</h3>
+<div id="aperturesAndShutterSpeeds"></div>
+<script>
+const aperturesAndShutterSpeeds = [];
+{% for photo in collections.unique_photos %}
+  {% if photo.data.origin.data.settings.aperture.computed %}
+    aperturesAndShutterSpeeds.push({
+      slug: "{{ photo.fileSlug }}",
+      year: {{ photo.data.origin.data.date | year }},
+      aperture: {{ photo.data.origin.data.settings.aperture.computed }},
+      readable_aperture: "{{ photo.data.origin.data.settings.aperture.readable }}",
+      shutter_speed: {{ photo.data.origin.data.settings.shutter_speed.computed }},
+      readable_shutter_speed: "{{ photo.data.origin.data.settings.shutter_speed.readable }}"
+    });
+  {% endif %}
+{% endfor %}
+</script>
+
+{%- js "statistics" %}{% renderFile "src/assets/js/statistics.js" %}{% endjs %}
+<script type="module" src="{% getBundleFileUrl "js", "statistics" %}"></script>
