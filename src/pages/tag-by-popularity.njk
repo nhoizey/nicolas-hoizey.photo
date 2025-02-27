@@ -46,7 +46,7 @@ permalink: /tags/{{ tag.slug }}/by-popularity/
 </div>
 
 <ul class="photos">
-  {% set photos = collections.photos_in_galleries | taggued(tag.tag) | by_popularity %}
+  {% set photos = collections.unique_photos | tagged(tag.tag) | by_popularity %}
   {% for item in photos %}
     {% if loop.index < 4 %}
       {{ photo(item, "eager", build.env) }}
