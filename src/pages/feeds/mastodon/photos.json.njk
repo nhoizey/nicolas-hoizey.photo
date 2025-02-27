@@ -1,0 +1,43 @@
+---
+layout: null
+permalink: /feeds/pixelfed/photos.json
+---
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Photos - Nicolas Hoizey",
+  "home_page_url": "{{ site.url }}",
+  "feed_url": "{{ site.url }}/feeds/pixelfed/photos.json",
+  "items": [
+  {% for photo in collections.unique_photos %}
+    {%- set photoPageUrl -%}{{ site.url }}/photos/{{ photo.page.fileSlug }}/{%- endset -%}
+    {%- set gear = photo.data.origin.data.gear -%}
+    {%- set settings = photo.data.origin.data.settings -%}
+    {%- set breadcrumb = collections.photo_galleries | breadcrumb(photo.url) -%}
+    {%- set contentStart -%}“{{ photo.data.title | decodeEntities | escapeQuotes(true) | safe }}”\n\n{%- endset -%}
+    {%- set contentStartLength = contentStart | length -%}
+    {%- set contentEnd -%}\n\n📅 {{ photo.data.date | readableDate }}{%- if gear and gear.short -%}\n\n📸 {{ gear.short }}{%- endif -%}{%- if settings.iso or settings.aperture or settings.shutter_speed -%}\n🎛️ {% if settings.iso -%}ISO {{ settings.iso.readable }}{% if settings.aperture or settings.shutter_speed -%}, {%- endif -%}{%- endif -%}{%- if settings.aperture %} {{ settings.aperture.readable }}{%- if settings.shutter_speed -%}, {% endif -%}{%- endif -%}{%- if settings.shutter_speed -%}{{ settings.shutter_speed.readable }}{%- endif -%}{%- endif -%}\n\n{%- for item in breadcrumb -%}{% if not loop.first %}{% if item.data.title != "Miscellaneous" %}{{ item.data.title | tagToHashtag | safe }} {% if item.data.hashtags %}{%- for hashtag in item.data.hashtags -%}{{ hashtag }} {% endfor -%}{% endif %}{% endif %}{% endif %}{%- endfor -%}#Photography{%- if gear and gear.camera and gear.camera.hashtags %} {{ gear.camera.hashtags | safe }}{%- endif -%}{% endset -%}
+    {%- set contentEndLength = contentEnd | length -%}
+    {%- set contentLength = contentStartLength + contentEndLength -%}
+    {%- set contentMiddle = photo.data.origin.content | markdownify | replace("</p>\n<p>", "</p>\n\n<p>") | decodeEntities | striptags(true) | escapeQuotes | truncate(475 - contentLength, false, '…') | replace("\n", "\\n") | safe -%}
+    {#- 500 characters on mamot.fr, 13 for URL, a few more for emojis ->
+      try 475 -#}
+    {
+      "id": "{{ photoPageUrl }}",
+      "url": "{{ photoPageUrl }}",
+      "language": "{{ photo.data.lang }}",
+      "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}",
+      "date_published": "{{ photo.data.date | dateToRfc3339 }}",
+      "content_text": "{{- contentStart | safe -}}{{- contentMiddle | safe -}}\n\n🔎 {{ photoPageUrl }}{{- contentEnd | safe -}}",
+      "attachments": [
+        {
+          "url": "{{ site.url }}/photos/{{ photo.page.fileSlug }}/{{ photo.page.fileSlug }}.jpg",
+          "mime_type": "image/jpeg",
+          "title": "{{ photo.data.title | decodeEntities | escapeQuotes | safe }}"{%- if photo.data.origin.data.alt_text -%},
+          "_alt_text": "{{ photo.data.origin.data.alt_text | decodeEntities | escapeQuotes | safe }}"{% endif %}
+
+        }
+      ]
+    }{%- if not loop.last -%},{%- endif -%}
+  {% endfor %}
+  ]
+}

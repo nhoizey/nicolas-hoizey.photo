@@ -21,7 +21,7 @@ jobs:
       - name: POSSE photos to Mastodon
         uses: nhoizey/github-action-feed-to-mastodon@canary
         with:
-          feedUrl: 'https://nicolas-hoizey.photo/feeds/pixelfed/photos.json'
+          feedUrl: 'https://nicolas-hoizey.photo/feeds/mastodon/photos.json'
           mastodonInstance: ${{ secrets.MASTODON_INSTANCE }}
           mastodonToken: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           cacheFile: 'posse-mastodon-photo.json'
