@@ -1,14 +1,16 @@
 import slugifyString from "../_utils/slugify.js";
 
-const extraHashtags = {
+const replaceHashtags = {
 	"#LandscapesAndNature": ["#Landscape", "#LandscapePhotography"],
+	"#Miscellaneous": [],
 	"#MountainLandscapePhotography": ["#Mountain"],
 	"#Travels": ["#Travel", "#TravelPhotography"],
 	"#RiversAndLakes": ["#Water"],
-	"#MaasaiMaraNationalReserve": ["#MaasaiMara", "#NationalPark"],
-	"#LakeNakuruNationalPark": ["#LakeNakuru", "#NationalPark"],
-	"#AmboseliNationalPark": ["#Amboseli", "#NationalPark"],
-	"#TsavoWestNationalPark": ["#Tsavo", "#NationalPark"],
+	"#MaasaiMaraNationalReserve": ["#MaasaiMara"],
+	"#LakeNakuruNationalPark": ["#LakeNakuru"],
+	"#AmboseliNationalPark": ["#Amboseli"],
+	"#TsavoWestNationalPark": ["#Tsavo"],
+	"#HOScale": ["#HOScale", "#ToyPhotography"],
 };
 
 export const slugify = (string) => slugifyString(string);
@@ -38,8 +40,8 @@ export const tagToHashtag = (tag) => {
 		.map((word) => word.charAt(0).toUpperCase() + word.substr(1))
 		.join("")}`;
 
-	if (extraHashtags[hashtag] !== undefined) {
-		return extraHashtags[hashtag].join(" ");
+	if (replaceHashtags[hashtag] !== undefined) {
+		return replaceHashtags[hashtag].join(" ");
 	}
 	return hashtag;
 };
