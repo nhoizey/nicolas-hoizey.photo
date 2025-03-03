@@ -78,10 +78,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.6045738116666666
-  longitude: 35.29216124333333
+  latitude: -1.604574
+  longitude: 35.292161
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 175 160 68
