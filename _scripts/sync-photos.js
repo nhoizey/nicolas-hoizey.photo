@@ -85,7 +85,6 @@ SYNC ${photo}`);
 	}
 	const photoYFM = {};
 	const photoExif = await exifr.parse(photoPath, exifrOptions);
-	const sharpImage = sharp(photoPath);
 
 	if (photoExif === undefined) {
 		thisLog("  ⚠ error reading EXIF data");
@@ -319,7 +318,7 @@ SYNC ${photo}`);
 		if (photosData[photo].dimensions) {
 			photoYFM.dimensions = photosData[photo].dimensions;
 		} else {
-			const metadata = await sharpImage.metadata();
+			const metadata = await sharp(photoPath).metadata();
 			photoYFM.dimensions = {
 				width: metadata.width,
 				height: metadata.height,
@@ -382,7 +381,7 @@ SYNC ${photo}`);
 					const border = Buffer.from(
 						'<svg><circle cx="15" cy="15" r="14" fill="none" stroke="white" stroke-width="2" /></svg>',
 					);
-					sharpImage
+					sharp(photoPath)
 						.resize(30, 30, {
 							fit: sharp.fit.cover,
 							position: sharp.strategy.entropy,
@@ -407,7 +406,7 @@ SYNC ${photo}`);
 					const border2 = Buffer.from(
 						'<svg><circle cx="30" cy="30" r="28" fill="none" stroke="white" stroke-width="3" /></svg>',
 					);
-					sharpImage
+					sharp(photoPath)
 						.resize(60, 60, {
 							fit: sharp.fit.cover,
 							position: sharp.strategy.entropy,
@@ -468,7 +467,7 @@ SYNC ${photo}`);
 		if (photosData[photo].lqip) {
 			photoYFM.lqip = photosData[photo].lqip;
 		} else {
-			const { data, info } = await sharpImage
+			const { data, info } = await sharp(photoPath)
 				.resize({
 					width: 100,
 				})
@@ -506,7 +505,7 @@ SYNC ${photo}`);
 					.then(({ data, info }) => {
 						return { data, info };
 					});
-				const newPhotoBuffer = await sharpImage
+				const newPhotoBuffer = await sharp(photoPath)
 					.ensureAlpha()
 					.png()
 					.raw()
@@ -576,7 +575,7 @@ ${photoDescription}
 			const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
 			const targetWidth = ratio * targetHeight;
 
-			sharpImage
+			sharp(photoPath)
 				.resize({
 					width: Math.round(targetWidth),
 					height: Math.round(targetHeight),
