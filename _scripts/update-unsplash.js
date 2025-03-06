@@ -55,6 +55,7 @@ const syncUnsplash = async () => {
 				});
 		}
 
+		console.dir(unsplashPhotos);
 		for (const photo of unsplashPhotos) {
 			const downloads = photo.statistics.downloads.total;
 			const likes = photo.statistics.likes.total;
