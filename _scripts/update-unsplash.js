@@ -55,14 +55,11 @@ const syncUnsplash = async () => {
 				});
 		}
 
-		console.dir(unsplashPhotos);
 		for (const photo of unsplashPhotos) {
 			const downloads = photo.statistics.downloads.total;
-			const likes = photo.statistics.likes.total;
 			const views = photo.statistics.views.total;
 			if (Object.hasOwn(unsplashIds, photo.id)) {
 				platformsData[unsplashIds[photo.id]].unsplash.downloads = downloads;
-				platformsData[unsplashIds[photo.id]].unsplash.likes = likes;
 				platformsData[unsplashIds[photo.id]].unsplash.views = views;
 			}
 		}
