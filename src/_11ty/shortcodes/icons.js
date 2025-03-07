@@ -38,7 +38,12 @@ const ICONS = {
 	mastodon: { name: "mastodon", source: "simple" },
 };
 
+const inline_iconMemoize = {};
+
 export const inline_icon = (icon) => {
+	if (inline_iconMemoize[icon]) {
+		return inline_iconMemoize[icon];
+	}
 	const { name, source } = ICONS[icon] || { name: icon, source: "local" };
 	let inlineSvg = fs.readFileSync(
 		path.join(ICONS_FOLDERS[source], `${name}.svg`),
@@ -55,10 +60,17 @@ export const inline_icon = (icon) => {
 		'viewBox="0 0 24 24"',
 		`viewBox="0 0 24 24" width="1.2em" height="1.2em" id="${icon}-icon" class="icon" aria-hidden="true"`,
 	);
+	inline_iconMemoize[icon] = inlineSvg;
 	return inlineSvg;
 };
 
+const external_iconMemoize = {};
+
 export const external_icon = (icon) => {
+	if (external_iconMemoize[icon]) {
+		return external_iconMemoize[icon];
+	}
+
 	const externalSvg = fs.readFileSync(
 		`src/static/ui/icons/${icon}.svg`,
 		"utf8",
@@ -67,5 +79,7 @@ export const external_icon = (icon) => {
 		Number.parseFloat(externalSvg.replace(/^.*?width="([^"]+)".*/, "$1")) * 16;
 	const height =
 		Number.parseFloat(externalSvg.replace(/^.*?height="([^"]+)".*/, "$1")) * 16;
-	return `<img src="/ui/icons/${icon}.svg" width="${width}" height="${height}" class="icon" loading="lazy" alt="" />`;
+	const inlineHtml = `<img src="/ui/icons/${icon}.svg" width="${width}" height="${height}" class="icon" loading="lazy" alt="" />`;
+	external_iconMemoize[icon] = inlineHtml;
+	return inlineHtml;
 };
