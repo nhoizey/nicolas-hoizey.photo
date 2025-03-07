@@ -23,6 +23,10 @@ export default async function (eleventyConfig) {
 	eleventyConfig.setDataDeepMerge(true);
 	eleventyConfig.setQuietMode(true);
 
+	if (isProd) {
+		eleventyConfig.ignores.add("./src/pages/tools/**");
+	}
+
 	eleventyConfig.setWatchJavaScriptDependencies(false);
 
 	return {
