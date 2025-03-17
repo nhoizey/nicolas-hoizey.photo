@@ -38,7 +38,7 @@
 		"start": "npm-run-all --sequential clean eleventy:serve",
 		"debug:start": "DEBUG=Eleventy* npm start",
 		"build": "npm-run-all --sequential clean eleventy:build index",
-		"benchmark": "DEBUG=Eleventy:Benchmark* npm run build",
+		"benchmark": "DEBUG=Eleventy:Benchmark* npm run build >benchmarks/benchmark.log 2>&1",
 		"debug:build": "DEBUG=Eleventy* npm run build",
 		"subset": "glyphhanger https://nicolas-hoizey.photo/tools/subset --whitelist=U+0020 --subset=./assets/font/*.ttf --formats=woff2,woff --output=./src/static/ui/fonts/",
 		"dates": "./_scripts/add-dates.sh",
