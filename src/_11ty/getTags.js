@@ -1,6 +1,6 @@
 import fs from "node:fs";
-import slugify from "./_utils/slugify.js";
 import { getUniquePhotos } from "./_utils/photoCollections.js";
+import slugify from "./_utils/slugify.js";
 
 const averageColors = (colors) => {
 	const averageColors = {};
