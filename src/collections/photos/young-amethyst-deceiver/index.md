@@ -74,6 +74,7 @@ geo:
   longitude: 2.771137
   country: France
   city: Fontainebleau
+  map: true
 colors:
   vibrant: 48 239 16
   darkVibrant: 12 60 4
@@ -82,9 +83,6 @@ colors:
   darkMuted: 84 96 56
   lightMuted: 29 143 10
 lqip: data:image/webp;base64,UklGRtABAABXRUJQVlA4WAoAAAAQAAAAYwAAQgAAQUxQSIwAAAARDzD/ERHCTW3bUvOZSyQgBWkgDSlIoJySnObnXuY6ov+K3LZtlFO6h/KJ4GKgVcyQCH5Q/dMDjepBdUwAcqQa+AHI1Ew1EYBarKWWGiLaXYwRnbwr7GKOSXYQPjHZYX47gOp1MS98Akf+68AfGxWOGGPEssqpF6qMpkZgrbaR3pSDKRRXQiptwtMiAFZQOCAeAQAAkAsAnQEqZABDAD9tosFYuywmo7JbORNgLYllANJ1LtFGFF2WE56mEsb+/raijnSbdofEGWmDMv4CbfUL5rjNkMm2fUs6b5j4od4ll3irAXRjbcIAQtNv3A7rqMLWsfUumvl7LAAA/uw0+xsn3mPELHM3IBBxYW4bsLZ1Fc2Qd2uwGovLmwSHqd+AvBykLdzq7FYUEXkw5D9eQmsaVxwDLwG8IVZIf4C4jEt9juxXu0nmCXoZHL6mZkmrKs0bwsPEVXPZr/WPJ43YVA+hhWQiw4EOZF/lMXf+rchYjDMUfl9y3JwIgGpQyHANn1AZtjkXhGCG0/Z03l/qC0auIhHov8liYlFuzs7ztb8KOyTkW5ufk1NnfmeLJJGn2sAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Amethyst deceiver is a small brightly colored mushroom.

@@ -58,6 +58,7 @@ geo:
   longitude: 2.780282
   country: France
   city: Montigny-sur-Loing
+  map: true
 colors:
   vibrant: 97 116 38
   darkVibrant: 92 44 17
@@ -66,9 +67,6 @@ colors:
   darkMuted: 53 44 84
   lightMuted: 188 172 141
 lqip: data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAAAQCwCdASpkAEMAP2mcv1izv7WqNBgLs/AtCWUGcA01niJr5qoNMz9xYU+q+JsX+szAGx8zVdS/1kOhI7kPbCWlU2A4mzNL0+T3a3zef4f6oNyDieXkm+AEim4y6OYWVokAAP7t5U/40F7eZNAnT+Z3I7NI91zpO0kBZe4Tu9/xQyqQkvVX3MYYKB/ef6Fkq4L+qqeF0oheaQWX2zL86Cz7YRrJimGaEDTT2opSRNLFW0b6yy29WhLwFRq5L4VAnAxtGLYJJM2gzgt+H24q9ggZJDtmbZb81Wb5JgsxvKJ8HDicvdTmaBqvmHHRlp/3j7fD5nM1rhoC0+UzbBA0mFAaBQPYPib4AhZN011m15gIbX9qSxlNYg8vDHGMQeSWmPm+IaM7Q6DbDjHIa34AAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Perched on a small promontory that has gained ground on the course of the river Loing, this tree stretches its roots towards the bank, trying to find a less waterlogged feeding ground.

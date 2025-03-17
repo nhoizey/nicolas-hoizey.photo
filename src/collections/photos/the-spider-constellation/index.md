@@ -79,6 +79,7 @@ geo:
   longitude: 2.779722
   country: France
   city: Montigny-sur-Loing
+  map: true
 colors:
   vibrant: 63 192 106
   darkVibrant: 28 85 47
@@ -87,9 +88,6 @@ colors:
   darkMuted: 54 94 82
   lightMuted: 226 217 236
 lqip: data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACwBgCdASpkAEMAP3Guyl4/uLwtqhRrU/AuCWcA093mAZgMHwWWExTWImSI+TRFH6lxz8VVrn2Py7LLJs3vAAD+7Q598tzvMmkrKDdEhEsalyOsXqnNJqpH1czj1jA4oTF3Mu2wWPFBfJQptN2WT25LD+Dm8iRg/pjowrf4Ynl60sQk6RmODxA7XuM1nypv8jgyGHSz1DlqQLM9tA6uWeIFZcysW72WnIP9dAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 In the morning, the dew settles delicately on the web patiently built by the spider, and its many droplets shimmer in contrast with the dark vegetation, reminiscent of a constellation of stars.

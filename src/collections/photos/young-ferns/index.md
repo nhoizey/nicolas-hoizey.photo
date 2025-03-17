@@ -69,6 +69,7 @@ geo:
   longitude: 2.76735
   country: France
   city: Fontainebleau
+  map: true
 colors:
   vibrant: 129 181 58
   darkVibrant: 45 92 7
@@ -77,9 +78,6 @@ colors:
   darkMuted: 93 51 45
   lightMuted: 161 152 173
 lqip: data:image/webp;base64,UklGRsoBAABXRUJQVlA4WAoAAAAQAAAAYwAAQgAAQUxQSIwAAAARDzD/ERHCTW3bUvOZSyQgBWkgDSlIoJySnObnXuY6ov+K3LZtlFO6h/KJ4GKgVcyQCH5Q/dMDjepBdUwAcqQa+AHI1Ew1EYBarKWWGiLaXYwRnbwr7GKOSXYQPjHZYX47gOp1MS98Akf+68AfGxWOGGPEssqpF6qMpkZgrbaR3pSDKRRXQiptwtMiAFZQOCAYAQAAEAwAnQEqZABDAD9xrMtbP64zJCzUmwvwLgllANX8Mg/AAEbfLVpRhN4G8G9rz/9crxaWp+8a/gt+hlqlxFFXY61fxGY8YEbHALWPnlir+UmeE42rizNyjf+NNfgMWmMEdcgLWoynx/cAAPhdPfU8244xyPa73zcSxxEcJS+s7zblaLZm8dha7DHTwhAo4wQHbedill0ygHEtpwrmDSmt6wj1NKnVPJu/5/SI07rUHeO3/UVc+agKMbJRtMD8UwbLBQPLA1cab2/oIEkLBQrepIBYYAWm4TVeMCCIavbvs3R0sGBNWulgzhY/ROVSDocnzAEHQj4B3rdAHjSagaXp5Dlg9NpJRgi1vugZ8zE7GgEBoEUkyOQAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The eagle fern (Pteridium aquilinum) is the most abundant fern species in its environment. It forms imposing stands in the Pays Basque, Cantal, Brittany, Fontainebleau, etc.

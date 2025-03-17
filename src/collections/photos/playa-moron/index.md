@@ -72,10 +72,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 19.31711333333333
-  longitude: -69.41788333333334
-  country: Dominican Republic
-  city: El Limón
+  latitude: 19.317113
+  longitude: -69.417883
+  country: République dominicaine
+  city: Santa Bárbara de Samaná
   map: true
 colors:
   vibrant: 15 138 203

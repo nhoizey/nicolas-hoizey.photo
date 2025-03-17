@@ -74,6 +74,7 @@ geo:
   longitude: 2.785392
   country: France
   city: Fontainebleau
+  map: true
 colors:
   vibrant: 121 145 197
   darkVibrant: 80 60 11
@@ -82,9 +83,6 @@ colors:
   darkMuted: 41 61 84
   lightMuted: 151 164 201
 lqip: data:image/webp;base64,UklGRvYBAABXRUJQVlA4WAoAAAAQAAAAYwAAQgAAQUxQSIwAAAARDzD/ERHCTW3bUvOZSyQgBWkgDSlIoJySnObnXuY6ov+K3LZtlFO6h/KJ4GKgVcyQCH5Q/dMDjepBdUwAcqQa+AHI1Ew1EYBarKWWGiLaXYwRnbwr7GKOSXYQPjHZYX47gOp1MS98Akf+68AfGxWOGGPEssqpF6qMpkZgrbaR3pSDKRRXQiptwtMiAFZQOCBEAQAAUAwAnQEqZABDAD9xrMlZNK8pI664+oqQLglnANYwMfBdK2yxEKk+gULI5Nkua+gkULmYEGF7tyaynOB8DZlNv/DZ0DSvakLS62iFoyXDDQKahbEZyRUzj1liLTE8DuP/7w8iRSfcX9f42OgA/ujQfk1EfJ1+ErFMNnLhs7391oQYX6NjMkZcYdvCebnngqs2ref+ZlNc1F2KuHcoVDxF/4YPwEepwD8ySEAeDhFMB5MNVd4TiuXuSdQQi/BFTBT0b1ceweGaF0h/rg57K8PgT1AgWEvQNJ48dzUmWSuYEYGiD2kDbCYzrpFAexLkv8fMcsKGo1iBmHSEKl+F4i5HO7bUAj0kFQfSZK4zTXtjkEneumvt9jIxMzR1WfEYiR6LZgS9v0XIVgoNb+jh3Oeuk/+Pf4A//5uq9bgdXQ7/3Db/0gAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Blue-green stropharia is a medium-sized green, slimy woodland mushroom, found on lawns, mulch and woodland from spring to autumn.

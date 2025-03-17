@@ -3,7 +3,7 @@ title: Plongée en contre plongée
 file: plongee-en-contre-plongee.jpg
 alt_text: Underwater photo taken from the bottom to the surface of the water,
   with a boat hull and 4 divers
-date: 2004-05-17 18:52:04 +02:00
+date: 2004-05-17 17:52:04 +01:00
 dates:
   iso: "'2004-05-17'"
   human: "'17 May 2004'"
@@ -40,9 +40,8 @@ dimensions:
   width: 1232
   height: 1840
 geo:
-  latitude: 26.00801542
-  longitude: 34.54992182
-  country: Egypt
+  latitude: 26.008015
+  longitude: 34.549922
   map: true
 colors:
   vibrant: 9 206 239

@@ -78,6 +78,7 @@ geo:
   longitude: 2.7692930000000002
   country: France
   city: Fontainebleau
+  map: true
 colors:
   vibrant: 131 210 45
   darkVibrant: 53 85 18
@@ -86,9 +87,6 @@ colors:
   darkMuted: 66 89 52
   lightMuted: 198 185 216
 lqip: data:image/webp;base64,UklGRswBAABXRUJQVlA4WAoAAAAQAAAAYwAAQgAAQUxQSIwAAAARDzD/ERHCTW3bUvOZSyQgBWkgDSlIoJySnObnXuY6ov+K3LZtlFO6h/KJ4GKgVcyQCH5Q/dMDjepBdUwAcqQa+AHI1Ew1EYBarKWWGiLaXYwRnbwr7GKOSXYQPjHZYX47gOp1MS98Akf+68AfGxWOGGPEssqpF6qMpkZgrbaR3pSDKRRXQiptwtMiAFZQOCAaAQAAsAwAnQEqZABDAD9xrspZNLApI626qsqQLglnANYxq2xACKKfqWV24WN8DL/l3b/KBPJUEC2uIkY92r+0DZHkuV6y7u012xp11KI8lNADVKMwWRFzmoS7ddyRYwImP+utcJPCkX/pM0fPKdd68AAA/ujQfk1EfJ1+ErIxqKBnObE5eNmUsXwObhguAt3FcZilB2W0ycLbJPKyhfXnF2RsCZwFla+7jgkmkXCWZSr6sM02BdFlGWjeenz2gCj3N9b4/Boy38bE+ar48SwGTGr9+mHckMLZQ5rMCMjaJeYwL1s0F262w45c9t7jk7DsIsN9ItARVVLfdzggVTccijn3RDaFSCuuOvymQLYgk4/VxRvmNY6zoIEUgAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 A slug can eat half its own body weight overnight.

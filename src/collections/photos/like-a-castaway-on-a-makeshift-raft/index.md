@@ -64,6 +64,7 @@ geo:
   longitude: 2.769701
   country: France
   city: Fontainebleau
+  map: true
 colors:
   vibrant: 198 158 133
   darkVibrant: 69 47 19
@@ -72,9 +73,6 @@ colors:
   darkMuted: 84 92 57
   lightMuted: 161 165 169
 lqip: data:image/webp;base64,UklGRsYBAABXRUJQVlA4WAoAAAAQAAAAYwAAQgAAQUxQSIwAAAARDzD/ERHCTW3bUvOZSyQgBWkgDSlIoJySnObnXuY6ov+K3LZtlFO6h/KJ4GKgVcyQCH5Q/dMDjepBdUwAcqQa+AHI1Ew1EYBarKWWGiLaXYwRnbwr7GKOSXYQPjHZYX47gOp1MS98Akf+68AfGxWOGGPEssqpF6qMpkZgrbaR3pSDKRRXQiptwtMiAFZQOCAUAQAAkAwAnQEqZABDAD9xpsdaNKyoqq+aWVqQLglnANOhLKhkRRUH5qlO7y16z9fPOUjn1PoLkScmIvhCXSfImklNclvcSODyKfxL0tpfKWS6C/g0vJuLpHSOfMR+nhzmq8nGiRQxsiIhrVLrP0UcAAD+48PvCd9xDxCxzGinouYVFR8tST78Ai1R/fOvrMli02gLrMQWxvKwPYi5YfwumEP+ui+rX0P70b+Hba1IgiG+ChwBxtbR7qgJGBYqPo4ZSo1CbL8s7917yAVwXALUKgmKPoZK1ACycI4zxnGX0rN7VJO8sU1nrtd2mZ7fKzUDP1umFi/ngJcFUn7Cj5AH2v1Qlmxo39EQ17p4c2B3wif7VxwhIAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 This little mushroom seems to have already suffered a great deal, appearing here like a castaway on a makeshift raft, clinging to this well-damaged tree branch, isolated on a sandstone rock.

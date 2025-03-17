@@ -70,6 +70,7 @@ geo:
   longitude: 2.771836
   country: France
   city: Fontainebleau
+  map: true
 colors:
   vibrant: 138 124 49
   darkVibrant: 72 105 19
@@ -78,9 +79,6 @@ colors:
   darkMuted: 69 76 41
   lightMuted: 185 159 166
 lqip: data:image/webp;base64,UklGRtwBAABXRUJQVlA4WAoAAAAQAAAAYwAAQgAAQUxQSIwAAAARDzD/ERHCTW3bUvOZSyQgBWkgDSlIoJySnObnXuY6ov+K3LZtlFO6h/KJ4GKgVcyQCH5Q/dMDjepBdUwAcqQa+AHI1Ew1EYBarKWWGiLaXYwRnbwr7GKOSXYQPjHZYX47gOp1MS98Akf+68AfGxWOGGPEssqpF6qMpkZgrbaR3pSDKRRXQiptwtMiAFZQOCAqAQAAEA8AnQEqZABDAD9xrMdZNK6oI665+oqQLgllANWBLJD6FF4P8h9c/gafUv/j0j5pHuwy6maBTMAyFrVZsNQ61H7RnOhcD5uUQ61BLgnqTP0XvSt5rfDyd3arXxJpT0GLG2HxFisU0Kf03WJPsGQLcVY2tYt6rogY02QbJ7emuUgAAP7pHvqC+9pAAi0xWhvmBQtbsR2MKFWDQpdVfwKawtKLZ5X14nPMP3AVZCX9lritKSxI2gpX/uk0SpNwN+xDqEzh2FI/eg88iCmzxSmqTk4SjpFR8pFAsMFrT4vvkyfOa48quCIEhFkSxd2lAkaQpbyZ25GJwEA1pa2fnoPyapsUVt6/f+gTZWPRXU4bU7px/rOoT0fAmxYb2eIa3p86eVfpUBYAAAAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Perhaps not quite as pretty as the famous Rocher Canon bonsai oak, classified as one of the remarkable trees of the Fontainebleau forest, this specimen is off to a fine start, with its two intertwining trunks.

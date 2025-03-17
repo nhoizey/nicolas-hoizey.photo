@@ -65,6 +65,7 @@ geo:
   longitude: 2.7741249999999997
   country: France
   city: Fontainebleau
+  map: true
 colors:
   vibrant: 142 157 68
   darkVibrant: 36 84 29
@@ -73,9 +74,6 @@ colors:
   darkMuted: 73 82 57
   lightMuted: 169 186 160
 lqip: data:image/webp;base64,UklGRoABAABXRUJQVlA4IHQBAAAQDwCdASpkAEMAP2GYv1i/qyajtfddE/AsCWMA0u8PdxqKK4s2sYZeGk2hfw9DB1brYV+tTXLZB27EeL7e/fX3aXirT5ulZuCXjEhqePQzT3tol9ZtGVjuiUDNIBwKuXdyiKWt+TgAgzAuEl9cP+R4YOdLwW8XO3hQFC/Aam0MyIAA/oIOYd38X2+QvjpI9HT2sKSZI1aeLS0tNPo0r3Kz6psRv22iJR9UMoo27khc0oTGNkqu5VjpSI+bR60MCIPyCs5IRnWs/w59+cfQaB0pEMzMghiQ5jQ8RFwgorc/9nrsxbRK3mWC9UozWNncMCXrgtki/gsg7xFkGyRzIn29B1sBadXcIXC3hkZfqSKtqkPa3NxiPKGwKyxVohULu2leSwtLbOdI4R41sbmEot5T3b+uwIJ2mVnZ3nMlsR4E3cf6W/JQrF+6Bx71Cir8/Px7w8/cE5+WgUDkJJPr6qav+lwQjE99KHarPI79O9BOeLZAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Because beech is a shade species, the forester must ensure that the new generations have settled under the shelter of their seed parents before being able to fully harvest the old trees that have reached economic maturity.
