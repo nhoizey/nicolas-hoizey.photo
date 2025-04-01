@@ -8,7 +8,7 @@ import path from "node:path";
 import exifr from "exifr";
 import Fraction from "fraction.js";
 import { DateTime } from "luxon";
-import vibrant from "node-vibrant";
+import { Vibrant } from "node-vibrant/node";
 import pixelmatch from "pixelmatch";
 import { PNG } from "pngjs";
 import sharp from "sharp";
@@ -439,26 +439,14 @@ SYNC ${photo}`);
 			photoYFM.colors = photosData[photo].colors;
 		} else {
 			// Get photo dominant color with Vibrant.js
-			const palette = await vibrant.from(photoPath).getPalette();
+			const palette = await Vibrant.from(photoPath).getPalette();
 			photoYFM.colors = {
-				vibrant: palette.Vibrant.getRgb()
-					.map((value) => Math.round(value))
-					.join(" "),
-				darkVibrant: palette.DarkVibrant.getRgb()
-					.map((value) => Math.round(value))
-					.join(" "),
-				lightVibrant: palette.LightVibrant.getRgb()
-					.map((value) => Math.round(value))
-					.join(" "),
-				muted: palette.Muted.getRgb()
-					.map((value) => Math.round(value))
-					.join(" "),
-				darkMuted: palette.DarkMuted.getRgb()
-					.map((value) => Math.round(value))
-					.join(" "),
-				lightMuted: palette.LightMuted.getRgb()
-					.map((value) => Math.round(value))
-					.join(" "),
+				vibrant: palette.Vibrant.rgb.join(" "),
+				darkVibrant: palette.DarkVibrant.rgb.join(" "),
+				lightVibrant: palette.LightVibrant.rgb.join(" "),
+				muted: palette.Muted.rgb.join(" "),
+				darkMuted: palette.DarkMuted.rgb.join(" "),
+				lightMuted: palette.LightMuted.rgb.join(" "),
 			};
 			photosData[photo].colors = photoYFM.colors;
 		}
