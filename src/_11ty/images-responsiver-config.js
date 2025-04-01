@@ -1,7 +1,8 @@
 import path from "node:path";
 import pkg from "../../package.json" with { type: "json" };
 
-import imageSize from "image-size";
+import { readFileSync } from "node:fs";
+import { imageSize } from "image-size";
 import markdownIt from "markdown-it";
 const md = new markdownIt();
 
@@ -31,18 +32,15 @@ const runBeforeHook = (image, document) => {
 					.replace(/^\/photos\//, "/collections/photos/")
 					.replace(/^\/images\//, "/static/images/")
 					.replace(/^\/ui\//, "/static/ui/");
-				imageDimensions = imageSize(`src${correctedImgSrc}`);
+				// https://github.com/image-size/image-size/blob/main/Readme.md#reading-from-a-file-syncronously-not-recommended-%EF%B8%8F
+				const buffer = readFileSync(`src${correctedImgSrc}`);
+				imageDimensions = imageSize(buffer);
 			} else {
 				// This is a relative URL
 				const localPath = path.join(srcPath, imageSrc);
-				// if (imageSrc.match(/poster\.jpg$/)) {
-				// 	console.log("");
-				// 	console.dir(document.querySelector("title").textContent);
-				// 	console.log(srcPath);
-				// 	console.log(imageSrc);
-				// 	console.log(localPath);
-				// }
-				imageDimensions = imageSize(localPath);
+				// https://github.com/image-size/image-size/blob/main/Readme.md#reading-from-a-file-syncronously-not-recommended-%EF%B8%8F
+				const buffer = readFileSync(localPath);
+				imageDimensions = imageSize(buffer);
 				// if (imageSrc.match(/poster\.jpg$/)) {
 				// 	console.dir(imageDimensions);
 				// }
