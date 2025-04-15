@@ -61,6 +61,7 @@ geo:
   latitude: 19.077661666666668
   longitude: -69.46641166666667
   country: République dominicaine
+  map: true
 colors:
   vibrant: 173.86363636363637 141.98863636363637 81.13636363636363
   darkVibrant: 60 49 28
@@ -69,9 +70,6 @@ colors:
   darkMuted: 76 67 62
   lightMuted: 159 163 182
 lqip: data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADwBwCdASpkAEMAP3GkxFi/v7iqL5pbi/AuCWcG+BzMmsBYEEZZJr/VHukWvxCwOgaKkWlwVukkGjpJSUjBDBFNA/MfjPwz5kAA/utTky1lksEoHa7sk3AzhxEGVJeZWaZ142iFJMcpmtr96wZLs3/qxVqp5fJ29OwNjJ9w4a5Xt7GPKyNMDaGZIzCLFPS5o3d/jtM2HRYji4FqWSTQDum5aTaVOdlxGUMnuUCLE3yDIeGAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Deep within the history of the Dominican Republic lies a rich tapestry of ancient civilization, centered around the vibrant culture of the Taino people. The Taino, also known as the Arawak, were the indigenous inhabitants of the island of Hispaniola long before the arrival of Christopher Columbus in 1492.

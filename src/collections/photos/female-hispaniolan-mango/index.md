@@ -76,6 +76,7 @@ geo:
   longitude: -69.49577594833333
   country: République dominicaine
   city: Las Terrenas
+  map: true
 colors:
   vibrant: 60 124 161
   darkVibrant: 81 84 32
@@ -84,9 +85,6 @@ colors:
   darkMuted: 69 59 36
   lightMuted: 157 186 201
 lqip: data:image/webp;base64,UklGRowBAABXRUJQVlA4IIABAADwDwCdASpkAEMAP3GiyVi0rCkjqvQOmpAuCUAZx2pdKjHfqLwGq6WbfxxYhQaqrdrov26nEoe2ryHOigxlBlAdPoeU1ibxAyzd94Y4Umm9CTB+EqNlSxFdOX+f8Wmgt5BheiUD/shKIiEHtGRdJJrFvnBrQl7hId+0/NDPZVSgz2wZ7V6bMJCAANSUrkGeQcgK4EPPjjXN2Vd5UtY8rIVdR/DFu6z8t3TUNpwskodXaAx+i8OI2A7IH9ZJpWQQskU5looeDT0iqEHW50EJiO60ObHRZyb64SVnxk4Y1JcQb9SJ7STsbPQ/rjWXt1xGSgeKckLJCEItj3E3HWBihZf1f79yT+YzgsaqXkcUN6ZlUfulg7BDeQPB1rhFBiTdlydm6+KsFiVseY9PonaXLwEp3mXB2TX4ePY5yow2CNj/8rOtnMmZBTtPJl09xDjDPUaNwCBjtLmi2hFmUQWZhjfNTR4dPeTTN+iSA9v4RAJrK0UKPMcuK4xLyirI+orAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Hispaniolan mango is a species of hummingbird endemic to the Caribbean island of Hispaniola (in both the Dominican Republic and Haiti).

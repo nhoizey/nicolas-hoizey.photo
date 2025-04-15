@@ -47,6 +47,7 @@ geo:
   longitude: -69.55225666666666
   country: République dominicaine
   city: Las Terrenas
+  map: true
 colors:
   vibrant: 100 154 192
   darkVibrant: 78 98 41
@@ -55,9 +56,6 @@ colors:
   darkMuted: 78 79 48
   lightMuted: 179 197 213
 lqip: data:image/webp;base64,UklGRkQBAABXRUJQVlA4IDgBAACwCQCdASpkAEMAP3Gmyls0tiklrrQLWsAuCU2i9gGuDoMIKjCkDt84FytbtF22FoGeI1GhOKn/jNPAbU+AgjO8fjDsgKz7ueViIbw1T2m91hp4wiqUAAD+3wIQHsJB7GO8eQqIRyF5jGgk08gATj3FiXJVb6w3nCCtftuUbM0JscnoULH2+XAqClv7t4/POM9J2iuigP2z1TZZJYr3HMXIrnAbubCDZVEUxmEawUEzj/ll9vL0PFhepThi/Yz71vD3mdGsmoFNYpTqfd8jzQhAr8oSC9TPGQDUTTAhCzDJWuFYApWaPnLe01EuwkTCmeUszR6FY2BZc5m6AY+Jo24SnTIeKgrCH8uojRFRBz40g2KYLb4h9l8w8sW/ap6Ama+6ETgEyNP8i37RJ5Lx5bW6g7YxtgHYAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Cordillera Septentrional is a mountain range that runs parallel to the north coast of the Dominican Republic, with extensions to the northwest as Tortuga island in Haiti, and to the southeast through lowlands to where it rises as the Sierra de Samaná on the Samaná Peninsula.

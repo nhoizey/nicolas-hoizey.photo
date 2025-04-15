@@ -61,6 +61,7 @@ geo:
   longitude: -69.466226835
   country: République dominicaine
   city: Sabana de la Mar
+  map: true
 colors:
   vibrant: 118 72 50
   darkVibrant: 84 44 20
@@ -69,9 +70,6 @@ colors:
   darkMuted: 66 44 36
   lightMuted: 187 171 165
 lqip: data:image/webp;base64,UklGRrABAABXRUJQVlA4IKQBAABwDwCdASpkAEMAP22exFi0q6ejtfK7opAtiWMAzYrWJ/TaaQfFr2r6MNN/IVLht+Tm8WvWpgQNe5b8GchR7yZ1l3uqAjXjDnAMNaALTcEtawsNC/Sv22PhDXS6nOz6/lB0BzzoxxdITATb6JxBGL8PtR/64Hx0+82VDMMxzX685qAq4QQA/u4Wxc8s3Ptb5c+7GbQC/Yl8QtE5ToAuthMnZEi2/9ubIXSjA1F8hHGsHcCVLZlXjmqlbkN72dDZd19O5s6A6cmf8V37y8Nm8FOFAmCetnCeLqRQ7L3jc9SshQJeZO5ar72iF9qYgaPHCYux7wUcGlAMeLEiJ2xduYAJUKc23hdfaokWXDyyno/D6AcxITblf/B1f4w/i9gA1kbdj0d1O4yyEtNHaVJNrqUhx3n4oDU6C+EOFZMzOGe/HamRa3TiFMOtZAKzhXw8rjnNQMje4vBmdQl+oxSdKop4bd7jt3xxq6VIv5n/AHCC3yF4ue2T1YMoKoAvALzlqf/sXzNCwJyS4cbZnp94tFhDhrKhbDbtG4SxEVJkeoWOzSrAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Cueva de la Línea is one of the most important caves in Los Haitises National Park, located in the area of Caño Preso, on the edge of an extensive mangrove swamp.

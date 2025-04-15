@@ -60,6 +60,7 @@ geo:
   longitude: -69.50211257833334
   country: République dominicaine
   city: Sabana de la Mar
+  map: true
 colors:
   vibrant: 33 135 188
   darkVibrant: 119 156 23
@@ -68,9 +69,6 @@ colors:
   darkMuted: 55 66 78
   lightMuted: 164 187 211
 lqip: data:image/webp;base64,UklGRqwBAABXRUJQVlA4IKABAADwDwCdASpkAEMAP2mewFi/tKajtRWcA/AtCU2drV4AFUqa0A1kDb8xAZyvRBCKnJYm81sgzuAqw8XlQgVx7p4N7Lp3mmbXwpCHkJh0/ytQNU10pYfxurJhqf0o9f74Zd6PdadKENomBgG2T3YROMuRm3CF0jlU8/xPRXQ9TtN11GPDXUdQ9vAAAP7DrkadWlsnel3J+le9eNroc0MxNj9ECmVSQIduRxcPAdSnZdOV0tU0nrJ8YSOUulX76W9oFuWg8HD1WY4xNO3rVbizyqhKb912cMUuytXd8vSrzDs2jYwWN4/L+iwuLVKpcONcPw+VQso2z/9i7yNmhLXLPEGQcAWaAso9OEawRau29cA+Uw/oBt69I5Gxd2fLwrHFJvgu7yDsRhc3Jc4J+3XLHyHj7/Co0S3Hbs83ks99Bd3FxmN9evBNGsel2zVvgyApv+i1GswFBsL+OPqBnQ+W0k4eL6DRxwV1/UDgEx0I4SP8RztIT1qC30AN+glVya9dPqVpkPAv4kHFaAjU7UnQPZU41N+FiFocY2OcKLkgBiyAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 It's no coincidence that Los Haitises National Park has been dubbed the “Halong Bay of the Caribbean”. Located in the Bay of Samana, this little-known natural park is mainly discovered by sea, as it is very difficult to reach by road. It is made up of thick tropical forest, mangrove swamps and dozens of islets, some of which are covered in cactus.

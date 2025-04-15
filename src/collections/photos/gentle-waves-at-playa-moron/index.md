@@ -46,6 +46,7 @@ geo:
   longitude: -69.41788333333334
   country: République dominicaine
   city: El Limón
+  map: true
 colors:
   vibrant: 51 100 148
   darkVibrant: 4 52 92
@@ -54,9 +55,6 @@ colors:
   darkMuted: 101 75 57
   lightMuted: 161 168 180
 lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAAAwDACdASpkAEMAP3GkyVm0rD+jsVG8A/AuCWNtk4AFS6UbX5KdaFpWcrFetK0/ldd5A0G9KyaD/HHo6qMR2XpRyxAwqFGQs8WJmBPFYTC/ECR15VntCynvsKVpy5d0/Jo0Zf82fEkOp1cgAP7jQFi5Mr/x1hN2XvuT9HKKQnXtzYTPuV0BofSZ/pKnkXHC3IBs/19FAIIDkMhosD/4BNgzvNDoJyTiZ1+yJ0Mv29O8sqwQ72kpavDD22MpkD8zX/m+/oMN5+jyErNLvHzfoClrsmY3orFFCZ/GsbS8I/O/KizcywwcIoQALWcmYRzSiJRdbD3vLLQPjoIlNSiC3r/pQdAkp+wazb/cFo8FRfOdLGAAAKGa9YF3HdyUQm32LAP66qinUDgmogAAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Playa Morón is one of the most beautiful beaches on the peninsula. The beach is located in the Bahia del Limón bay, just before Punta Lanza del Norte.

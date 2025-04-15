@@ -78,6 +78,7 @@ geo:
   longitude: -69.49455333333333
   country: République dominicaine
   city: El Limón
+  map: true
 colors:
   vibrant: 196 156 92
   darkVibrant: 36 60 7
@@ -86,9 +87,6 @@ colors:
   darkMuted: 84 71 45
   lightMuted: 186 196 177
 lqip: data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAAAQEgCdASpkAEMAP22gwVi0q6ajslWdUpAtiWU4AB0AHQGz22AZz7M1oKRhFyyAn/r9fFsPELaj8UNQtPRSLpEpcL6A9ArTF/sN8XfN74DG7ab5jYRNeZ3sHmc3ra+HtiegsxTJMkwCGp8BkY0czPwSTJJ4mqYijGcReY7Mh1+84WfvwdQxEKhHVA2nP2A+z+PR0/QSaZVF2AAA/uzSRVSHespleiOhUZQzcFM/1dWlQWyi1PvGcYj9wpv8PnVyADjdSJ3QkbTDJn0FGJbGSlqQIonrTE/7Z6Kjgmp86zxoWVtuMhRqwCwKomUQRQjyTJBuE3pCUOXsoGRIQFbbvaxT/iYf7SvkTr7RKCJTEoidRv/JMZlnLZCLuGD9anrLT5qeGfhY8UDA20+FSNgrWh4ZpczxAXGtKUcP82DKqauYY5srnUWKDGAM3X6oSe+syBkc/pvRGiOAkUr/gscYkT834SfUaIZIeKMi9fwzKmFsTLLkEb/2ebEoxlqIAlufQxuOK3Sys/7TdcuTlPV01yVdoBTj8XrEDh2H8N9J9ioFz+XgAEYC31f9vAAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Hispaniolan gracile anole is a species of iguana-like lizard endemic to the Dominican Republic.

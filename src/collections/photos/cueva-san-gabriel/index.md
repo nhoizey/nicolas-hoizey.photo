@@ -62,6 +62,7 @@ geo:
   longitude: -69.50141750333333
   country: République dominicaine
   city: Sabana de la Mar
+  map: true
 colors:
   vibrant: 213.08219178082192 104.7945205479452 41.91780821917808
   darkVibrant: 61 30 12
@@ -70,9 +71,6 @@ colors:
   darkMuted: 81 69 71
   lightMuted: 183 190 186
 lqip: data:image/webp;base64,UklGRjgBAABXRUJQVlA4ICwBAABQCgCdASpkAEMAP22ixVi0taivMVhrgrAtiWdtOV4EG8OClHnu7yevLTN3CIdPD9bqeF7xysmvDlm8sFRHpDAFiCysPNgvRjrQ37269KEuCNPvJInDKIyBBuAAAP7tZehloXQc7Ei9w24O1/vHzUcpWDrxDTNfL2HauNPs82cywSy2sHHRGRzJzQqPNi0z8rrQGc0zl3ACTUvVbVZ1yRb3GEVP9HfjU7PFZskFI95g0369Cq0mC4hpKxmiHDzAkRNlxo98Y9zGsiwg5+vLaqlV/LeSUtBA2uhdu0M5jet9WHgGDRE70Pe1fjuZboXScB5vAeZc6948/t2GxHJWPhmcl5Kwi9slNmmurKnW+qGg1RPHixBEsvgV4BOVc52TRIdcFEEtmVkEK6Ny+AA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The San Gabriel cave contains an impressive variety of cave paintings and geological formations, which have earned it the title of “cathedral” of all caves and caverns in the region.

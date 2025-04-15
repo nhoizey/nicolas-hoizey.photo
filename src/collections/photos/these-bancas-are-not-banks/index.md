@@ -64,6 +64,7 @@ geo:
   longitude: -69.43113666666666
   country: République dominicaine
   city: El Limón
+  map: true
 colors:
   vibrant: 189 55 51
   darkVibrant: 92 66 27
@@ -72,9 +73,6 @@ colors:
   darkMuted: 45 67 75
   lightMuted: 188 201 188
 lqip: data:image/webp;base64,UklGRvQBAABXRUJQVlA4IOgBAABQEgCdASpkAEMAP3Ggw1i0q6glMlM92pAuCWJs0FhWH2zOmM76NDxcj7MKt838+U0hBW3EypvjWcwzMBlLKmJK65ZDUEk3PapgWF0au+SMLCfcAm7/PxRDkB1aYIMnjNWJSEWXN8ljrbjpuX4u1SX8LsZ/92BUn0Kumj/rrgNIxv6rySPq7J6XbdCVXnvpKog68t2vX0VfdMqYgAD+eZU7hjcq8VeUpPItKPWGLkhJRLSWeh1u0yd+ynMFLo3zX69sXx0eFTmZG5JsU9fGhFzq1lXBzKswlYFw/j+wJinQrz3hKoQgbBl5qTr2CLAMBjYPgM38u++3T5PLWC/3+PEq2JKUMWiIv2b40PjlOUiUT1nMPFLOMPR3+slWP07Ga1ICcwNl3zsMkjPz+kt+yBwZXIZVxVkfdQgCc4a3N8gBrg/gcEuPxgjq3sw+auYN3LcKXMZKLAqzhqJhNowF9ptzoZqZzz7agCK7SF58PHoRu0MumvqV1dlItBIsuDapkMf5e/WfRRyv/QqP35kBvL+31pilyZa7pdGSgDzZ6gWVbVuQ1ubb3yD+XgIx6FqN16xWTU02s8ZVUjXmQhC8Cel3171VhY8Cjh0G/+vO1BLchLjr7Pt9aUGzG+r18I98ypZnMSL6bfzAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 In every small town and on most big city streets, there are small stores with big signs indicating that they are “bancas”.

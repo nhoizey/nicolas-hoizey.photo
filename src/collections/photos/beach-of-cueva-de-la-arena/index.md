@@ -61,6 +61,7 @@ geo:
   longitude: -69.46490408666666
   country: République dominicaine
   city: Sabana de la Mar
+  map: true
 colors:
   vibrant: 174 82 92
   darkVibrant: 29 114 122
@@ -69,9 +70,6 @@ colors:
   darkMuted: 59 82 69
   lightMuted: 173 193 202
 lqip: data:image/webp;base64,UklGRuoBAABXRUJQVlA4IN4BAAAQEwCdASpkAEMAP2GcwViyq6cjtBgM6lAsCWMA0M9NC/+TEm7XInMh8rWOLGnjcM3nkxsVj+ZNRWtY5S+paGIkp6yUE7u/m4AJM/7eKYpwS+R7AO9C54I1wE4hzNHwc87fUP0rthRIM6/xoRbJLEAJu7XgIlLgqVzq8QL/HpFLXk9zUvx6E7KCupSy6DVMYyWuCftdBaNF8U3gfQ6k3sHZgAD+ufStmVMJ4SiMkqbIgMf5Nwm/v/uXdjnhMMUO4MZNcguLiHtKgFSpoo6btTzxISRg07McJhWJOki4VIv6cQrPYC1QMEu7TMg6VaO4cvYWHm7M1pvUjwKDVvjgwoMWkNvXSXg/3ivjdILpuk4gTAe3Pep5BhqB6A8nE0xOvph7JNuiAXQMB1/KJM5SZsw99Ot0f8bk0e+czZrLoMI6aWUdST5hciM0EaVQ33dUDeDO8fh2DQF/vRNFz4VEv0qgMNivSCy1bVV0N90Wkx9V58kndx2k5O//9AAaS6xFAEn5nCm5uTMeNGX3hK4vZD1UOaIxgifhHF0jlqylI4jSHR6kGIT+jMX8txGm2JkrdEgoQE9FDoxGnHTxW395QssXKvptlqt7Ew3erHEjMgNB3fzgKhnCMPSstnLqHwAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 This beach is one of the many treasures of the Haitises National Park, and can only be reached by boat.

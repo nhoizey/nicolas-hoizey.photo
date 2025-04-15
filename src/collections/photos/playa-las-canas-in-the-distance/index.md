@@ -48,6 +48,7 @@ geo:
   longitude: -69.39445333333333
   country: République dominicaine
   city: El Limón
+  map: true
 colors:
   vibrant: 175 105 64
   darkVibrant: 114 138 17
@@ -56,9 +57,6 @@ colors:
   darkMuted: 81 68 46
   lightMuted: 196 190 151
 lqip: data:image/webp;base64,UklGRtQBAABXRUJQVlA4IMgBAAAQEACdASpkAEMAP2WixlizP6g5szYcA/AsiUAZDCVlCMcd9y1rFhGk1Aan/FwWLsYD8w76RQ1i0/wbE0OAymAhS6nLDav4RLHjedBP6V/MKVhyVI8LNbE0vEBISf1GF3VfHFVbLuHYHpVoRvyTC28VEa5XLS3j02byqbcK6/wcMivF5+bgxge2aADvMtYMO+awsqEAMVWuMPDh63zu1sVUsIO2YwDA0mwd+mlbdyUOvzpSgrAn1cZkFgxJGUh1BCMoDO4/W6E+0SLCgysvm1awoL87Zm4qSoRdERB99gvGHcKM6+HOS2Sat+4xj7aZ5maYe7GQCnUXKlGN3P3s4j2jK+SLgbg0HS24WoIJhzbseRIxexxEL8OTZXMHrRh/vm5+UNmvvj1zrpB0JNzMLYL+mugmDDUvWpp0bwVfHJr8r/4boxy0m8z2VZ3XWzNlbbqeNFcfXDbtsOJzbDHriw5gBxTfIkxCpHSXcZwta27s9WYF+lX6isBB8AlSpD3qhSYzdXQUSs6xJ8LGD1Jo0+4DfF3Osi+VRBHHIqZGOPCXjP/OIrHoS2SW2ihpur5j27tcP1bEF3PPs5eoYOikHDsF8uMcAK+IAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Playa Las Cañas is a beautiful, quiet beach located on the Samaná peninsula in the Dominican Republic. Known for its white sand and crystal-clear waters, this beach is an ideal destination for those looking to relax in a natural, uncrowded environment.

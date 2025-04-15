@@ -74,6 +74,7 @@ geo:
   longitude: -69.49465159833333
   country: République dominicaine
   city: Las Terrenas
+  map: true
 colors:
   vibrant: 52 124 180
   darkVibrant: 20 76 116
@@ -82,9 +83,6 @@ colors:
   darkMuted: 37 67 86
   lightMuted: 148 164 172
 lqip: data:image/webp;base64,UklGRsoBAABXRUJQVlA4IL4BAADQDwCdASpkAEMAP3GiyVq0q7KkLbItmpAuCWoAxnQbyODCf7Q+y0OY6Hpt3mBqutRnXcaKwqLQYieR9xZYR203xMM+YMs9RHaH2wblelRFXZt7iE3qSwTVf6maNt19XmZ/ewfoRjPuVkFFlQMty1P0TPnAXZHR+H7GfnxS0lydth0H1caapQAA/uOPHga5mQt19sJACjirCdTU0ip2kNB782c5MkaiLIxVIsmyVf7KIC46TqWw4dDOHI4DmItZ7TlzrpfWZVst1fkfM4+NSNJhDHJtD31nKzGX2WQf63B85CZgme8kaPDB4wMMnOoRKSaBskb3CQUXrU57qwtAMJTIrrh7CX68q5QVSV6RjrlKc3CJWOuRl+bFcIpiTazJ1omC8Bm3bQy/jQ1vilDwSsMtiWGmPlFg+73fjCCJry2PqtYY6OpDMvNckRqgSvHjRVlLFRLuVg4GJOkIaPrCxRtt0IPfUeGWVMnCcne7r3WJcAFYqXfowBHa6niudSzYmGjSP98ceGdq7Lj+HfUpDDx9FlneL17nvVMlSJ6Zw5F1sJuSmtGhbDn91nJa0pFAvz3NC/6P1HtWgObeAAAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Hispaniolan woodpecker is a medium-sized woodpecker endemic to the Caribbean island of Hispaniola (split between the Dominican Republic and Haiti).

@@ -48,6 +48,7 @@ geo:
   longitude: -69.49612333333333
   country: République dominicaine
   city: Las Terrenas
+  map: true
 colors:
   vibrant: 190 146 115
   darkVibrant: 19 36 45
@@ -56,9 +57,6 @@ colors:
   darkMuted: 56 73 81
   lightMuted: 208 193 164
 lqip: data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAAAwCgCdASpkAEMAP3Gqy1w0rKmsLbRKapAuCWVt6zAM2UCao4Ba2sAe7f/4HwpFGreYfTbf/G+9m3k4IJqNjCeK5yIABWVSpEFJYqZ9ddRlBHA9HkOOZ561PAAA/uPX09OVIM6ZY9XRltsDcbnq2mRQ/kPervvWRpoqLBAAT/1e5pmj8lUDSVKuolyBMrRwNdLszGlkbS91fchcSGlCpAAR+/NTS0xPp2X6Fx0Uddgx2f3bJ4ABSlJj+O4VJXbv65nFbnyqXLm40aCET4KRMq4DMDWl0O8AWo2ytaCFsFvRgqXdY13eCVjug4+rYg7qHYz7xLGNMN+dQDpVDT+RLM1b72gL/iz+zacdUAa6AAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The North Coast of the Dominican Republic, bathed by the Atlantic Ocean, is home to some of the most stunning beaches in the Caribbean.

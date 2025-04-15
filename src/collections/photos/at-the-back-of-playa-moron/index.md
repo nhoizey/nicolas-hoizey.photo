@@ -48,6 +48,7 @@ geo:
   longitude: -69.41736833333333
   country: République dominicaine
   city: El Limón
+  map: true
 colors:
   vibrant: 51 123 179
   darkVibrant: 12 76 123
@@ -56,9 +57,6 @@ colors:
   darkMuted: 81 90 45
   lightMuted: 187 204 217
 lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAACwCwCdASpkAEMAP3GqzVu0rSmxKhorUpAuCWQAyfjgpmo1Lr6JAqpdxOOXsDMvnojmOvP2QADj/e19tgC88nbXmiH/MZ9faWaTNKUT9tH8j90qZsIKlt5fYmuScGiV6K0QoXQ+EEAA/t5Mu2Va2aX78X8KO97zjSBDBlptzoRPHChVoTt6ARQaTwc3C0dSr/iXgbDu4NC2x+OfzkHPcC9hYloGTjQDXwkwvigLZp9zpmxfv2mTLD5ChHy9JJLaGev7JFdYYG3FMKEZSjWYvNDJ9vcZaGhn71kFyA13lQzWQ/qBTiEfZM9pQTHCqhrINXL7hTa4IVywba+6EhHVCPX4vL7R0L3JlXdTfASdtVmYAeXqHwWr50u+Njusn+fxbZSJ+wDW4osyS5AbntJtnhI0KU5GuFGZoQcItTy4OhM3Clm7fnfMe4sqWEo6zC6Rh0j9neAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The colors of Playa Morón are magnificent, with the intense blue of the sea, the golden of the fine sand and the green of the coconut palms lining the beach.

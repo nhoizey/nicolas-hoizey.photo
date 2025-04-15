@@ -69,6 +69,7 @@ geo:
   latitude: 19.093465
   longitude: -69.542315
   country: République dominicaine
+  map: true
 colors:
   vibrant: 76 155 211
   darkVibrant: 20 92 164
@@ -77,9 +78,6 @@ colors:
   darkMuted: 74 91 40
   lightMuted: 205 147 141
 lqip: data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAACQCwCdASpkAEMAP3GkxVm0rDEvrrn68pAuCWQAzcXdprBYeU+Ncxg6YalOdm5fLy/erM3LfFV33lCuMD4JT4/7kTJvAIgnkZwahPsIMSluTM6OL1HkJdYM7pfel2cKFoy0ygNyAADU7oHak+nUndJ+CBJMH1xc0RO5Wti33QRhmADKQ9+UliIf7SB+itTuIDo6W4t83TjYsKeiaSdu/F2yZZpfZeYFU5xOLlv+9sxk+4AP07WDqvTSwTpJzecQ8BK0vVE9wLMPIfB/CfQ6e0lcYhUSXhM938pjsSuvmuRKvxCAhEKS9rC61rS4Oq17Z4jR8ji1/Je5pVqMhAxgGKfJiz5wWYAOwTCQYVc/rGf9SS1PRMXwvw8Iwo5TmiHW9leLIlp5rwK9f37FSu6wMR/+xgKggI/aLYJNrxUcUT/E3HId1Hfn5ARwUuiO4qmUV8cEeIsbPKHH1AAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The magnificent frigatebird is a seabird that occurs over tropical and subtropical waters off America.

@@ -60,6 +60,7 @@ geo:
   latitude: 19.080326666666668
   longitude: -69.46508138833333
   country: République dominicaine
+  map: true
 colors:
   vibrant: 37 156 215
   darkVibrant: 92 111 30
@@ -68,9 +69,6 @@ colors:
   darkMuted: 50 73 95
   lightMuted: 148 171 196
 lqip: data:image/webp;base64,UklGRoQBAABXRUJQVlA4IHgBAACwDQCdASpkAEMAP3GozFo0rTOlLrcKipAuCWMAz6BQwq2XBmu2wEWt73j1IFM3fBSaz8F5CIzXvt6rfE3v2XobgLHswkv7qQWLdSuLh4bnG3Z/VoeEw/DQf1jemz/1NTMdZNCN8c66gTYg8EkS1UxpIFmrVifQAP7t4jVhMoXZD8Z2OxfuCrjAc5IZh+rGnwLb3i1dIT4yNy4kgvdYqjUp1odpXbKSJGE9b7J2Bogr8MrJkPuPGdUcw8K0PB1AgO5jQUl5WrfYxkxq6T91FUYNtAmISxZPMuZwPLJkxI4XygEXYQqJOVJy4yAVe22L0qHq4xcnsEiusqybIIh4lv4euO2gRn/fS7L7YwgJehgObgEBBLqUZHmYyDSqZzO7oQoCLDisSQM8l5DgdmjoVLOrqg78NZeN/opNuIX0bkG01sjFoJY6Lx/W7rH/QMaKjujK2oWP73uee6Z2T8ZOug4/RDBgyQh0Wu8QJIoBFg6OimGi00BZUAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Cueva de la Arena, in the Los Haitises National Park, is one of the most important points of interest in this protected area. It can only be reached by boat, from a small landing stage that plunges into the sea from its small, charming beach. The cave is some 940 m long, running along the cliffs of the Samaná Bay coastline.

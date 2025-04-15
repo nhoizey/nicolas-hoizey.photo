@@ -80,6 +80,7 @@ geo:
   longitude: -69.49529398833333
   country: République dominicaine
   city: Las Terrenas
+  map: true
 colors:
   vibrant: 194 164 116
   darkVibrant: 128 113 57
@@ -88,9 +89,6 @@ colors:
   darkMuted: 85 81 51
   lightMuted: 197 177 150
 lqip: data:image/webp;base64,UklGRvoBAABXRUJQVlA4IO4BAABwEgCdASpkAEMAP3Goy2A0qygnpnJNapAuCWIAzYQyeQqfR5KdElv+SyIwsYwUj6BKYAYeLxdXVX5nJQQdgBCSFam94+occKBIbnsfRItkuHqtpkaBC0UuDA9QZW5Qoq8AXpNAfJGepMrBCyRc91AXJRFNHmY/y/uSiiaTrVbKrColyGBCq7+mp6SA9A3ew0wM3n/Z6B+DiGSGbMAA/YivkpfzpE+G8f5UJ9jzX8zKYfp59F19n0lJ2gs8Nk44JZtHzRnuqZqIhoIbtf+wCGMAnjYsdq27Ffi5QyH5MyKktEcv4BgaVvDkmrUlq9KdY5btl7WCI9dyAldLGdOQZVq0BiYT0rT0eBjGdU/ewgOZsFuNjO7Ft748NCi1Naq+AKmwj9kiHDB+/FZSNH5VUMKTAF7/UCgHLecWPQnsgd35VJz0DvUmgsYL5jUUgqQxTbL6rETK4HpCPlm7mj33pDAa9B9jSYnIER/JsKacpK3W0Ybt8JgMsjwexBAQTrlBrWy18bG4sOF6pP/uirt84xkm6Q/L6fSnZigdirSCtUx6FVnDrSFSOZHM3XgTMPCbx3wvv2moOmBN3RHUXSoyqkCS/GqWqvDAoQwKGBxvwDJzTi92yKuzqQv8MXBgmPV7GJAWVjATIGVFy6s/q6AAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The gray kingbird is a passerine bird in the tyrant flycatchers family Tyrannidae.

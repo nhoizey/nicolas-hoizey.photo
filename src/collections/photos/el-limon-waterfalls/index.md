@@ -62,6 +62,7 @@ geo:
   latitude: 19.270346666666665
   longitude: -69.44598166666667
   country: République dominicaine
+  map: true
 colors:
   vibrant: 62 108 148
   darkVibrant: 44 100 132
@@ -70,9 +71,6 @@ colors:
   darkMuted: 56 72 79
   lightMuted: 163 185 202
 lqip: data:image/webp;base64,UklGRhgDAABXRUJQVlA4IAwDAADwHgCdASpkAJYAP22ex1i0q7+qNnKqq/AtiWctgAqsbVvOLSUspYp4OnV+cy6Bc5MG/Ics/wHNt+QvMQDXMV6yNcmvppd4dnG+O6pVKjv7hb+5MfEQBxtO95m3NOZqG7glRaHaDRQIt7IEmBjH5l9m3VdCFAfnJJB+Q/iEXj4XSfmphQGz+9QE/fn1z0M6WZ09eDURGQ7elM2s3kD1lbs1ksyFlyqrJJqrPgUk5e6pTnCtZlyBThWpFvg0nIu6OQZW/1hS83u9452dqZD1zAxiR0weDwqGBmmq6fAwv6rpv1zmSG1hriRPAkie+DjP1vaY2aYrEhH7tS0Lw/DHAPjaAP7qkKx8GvdIaie4jp9aagJQAy7U886kp1Hz/w6LYGzQcsd8Ox6EmwmFscYEmbSVOYGQ2lhFHYLxeK/ojJc86D9j3cHP4rfrr/tbyvGr4Xe/e6dwhP+2cpoiAYQ96DrqF3U8M5T2EC/GeyapGsAKc1IugTGkdMhH5Gc5oQs2B2IoBzIg/5rmSjrPYLtB/tkkJgvmefGbZj/fZYzFnOFBpVSyjVYVE9TEXuHXG8Ak5i670KhO+QlDjopUWkVEsZwneWKlIfy34nVx0DktC1fI0Dg8FsQP7lLiENMNG0ATsBpiTKyUTehQ2/K+WOgvB5lKoQPYgb0cBhgRVrRKIsit9AVJaCi1muj/uMkoSk472GE9TwiTa0QIb/12hXYVIOzZuM8GULDU5CwMlLv3fslxNJqwCwlzov59Ur6NbbIAIac/pvA4FK/mfKafnqGogpUcX309FmPJXlxjqaimrPGqf4ljYqUPBOh2wW9NX3D/FUe7+cJvjOjXX5jrUL05vL32o1aDLXd3AACdUrVv5UBEaRtpO3IgHl/ZBYsWygW9yNsZ/o/7aw4ZM9ec97BnAz++TifQOR59l9dccnVooTqCKKs9u8TAYlewlISHhp0du0QEPdZgomLO3RYjzbBY2fNEKv1oNH2VNcagQO4J3jekGxhGUKsEIijrJ9EBaXRi2hUcUWwUd6PjXE4QQAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 On the Samaná peninsula, specifically in the community of El Limón, lies one of nature's most beautiful and incredible gifts to the Dominican Republic: the waterfall, better known as El Salto del Limón.

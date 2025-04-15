@@ -47,6 +47,7 @@ geo:
   longitude: -69.323045
   country: République dominicaine
   city: La Aguada
+  map: true
 colors:
   vibrant: 124 180 227
   darkVibrant: 80 96 26
@@ -55,9 +56,6 @@ colors:
   darkMuted: 61 73 47
   lightMuted: 145 182 200
 lqip: data:image/webp;base64,UklGRs4BAABXRUJQVlA4IMIBAABwEACdASpkAEMAP22ex1i0tKijsVKN+pAtiUAZv+oIV7TQVkP6Qfo2JGMHa3qts51Xlhw1ZNf5t+Nby2pRIEmYRFCOX5gAzTpugsEQO5V26e8YzDrUOPUMgvsh5irftFzq08fq8UciRKZwlWNyaZ1ylMMNLs0EA40lAHB2jjPJ9KSZpWCFQCS6IzB4AAD+0/YuH9q0mkXn8GgUAAZY8X+AbZyo2EvdNptNrLVYIrmDCD/nfCx68M455xV1r+JhKMP0GsjBFZxb7N+75fIEmabFpBnOxCWXzvlcMQ0OazJ2/R6CI4W9DeANFxqtjICx4wkMf4WIlNVaupA/gotx8DLAAouVlfymkL/1Ygto9xz3lbw38Z9jQIxFChJLDCxTJWT2fDnyTom9sqdsXJMKrzlfUP5Y+0MUoHt0pEXZS04WVb19BAmvrb2AqMsJion/3qaNJb9bJHgp1AVrdGYtNbye4j88TQCbdcUpgfeFvqb5RcgLm+3bWKBhEUQC2pKhcXg0xzhPzXxyi6zN48q8jJzindMC+3yAvWZDRQtz0fiatK4siOR2ShY4NEIp8PKsKU5dwpZ6GwED3SnL5pmGvgAAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Cayo Vigia is an islet that closes the bay of Samaná, opposite the town of Santa Bárbara de Samaná.

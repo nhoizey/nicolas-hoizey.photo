@@ -81,6 +81,7 @@ geo:
   latitude: 19.16548
   longitude: -69.243805
   country: République dominicaine
+  map: true
 colors:
   vibrant: 84 140 179
   darkVibrant: 33 84 125
@@ -89,9 +90,6 @@ colors:
   darkMuted: 48 79 101
   lightMuted: 174 202 219
 lqip: data:image/webp;base64,UklGRpIBAABXRUJQVlA4IIYBAADQDQCdASpkAEMAP2mgyFiztT+lMHccs/AtCWU7fIzytOYvSe9JdvEsxVGAgsncZ97rm+oh0eRQsmJ0+ACN9ruM8eMwDg5VrwGybhl++7KBql2Ivy3R3lKyU0/ydQXcOBemM3TS9OLE6rHCMBywAKgZZIxLyFUWkAD+5cklemTlFLt273g551kGuIVHSAPhOrV99L0pFHJVsVQLHf99UxfWOzoL2cYeD9D9VTI7wC5tTIuLor1gejOoX5wFvjz8bHKDXHF7RstKnCkhdu9MDglEeoUORxhdRq4GPSSypIIs3c8axSPRBLO35NvgP6dv3LCL0zYbLbdMcdFFkwc/xgeM/GmJxCkCq/zBASgSOz97Z4xDdyR++SeC15Cx0K3zUhANIrZoHFp/0X6pr0M9R6m81Yc2Mw2TXykFoxAM1Ibuzgg1rnpLXHxRE8DQtXav/6cRu+bCYmPwjt3KbJIVtvLl15QW5wCQnU7asAyhPaTCE7jHKeeuW6I/S514snnG+Do8amsAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The whale-watching season in the Dominican Republic offers a unique opportunity to witness a breathtaking natural spectacle. Although whales start arriving in the region as early as November, it's between January and March that tourists can enjoy the best views of this phenomenon.

@@ -60,6 +60,7 @@ geo:
   longitude: -69.500041415
   country: République dominicaine
   city: Sabana de la Mar
+  map: true
 colors:
   vibrant: 102 137 22
   darkVibrant: 76 125 21
@@ -68,9 +69,6 @@ colors:
   darkMuted: 75 87 57
   lightMuted: 190 184 152
 lqip: data:image/webp;base64,UklGRm4BAABXRUJQVlA4IGIBAACwCwCdASpkAEMAP1WWvFi/vSY0uLjsA/AqiWdsIVwobNDcubuIl1TFettCp33LS4yDpBB0gW9adK9ImngnPzOVxE2eSUojViFUgI+3huu9cuMGhBHY19nndJ/JAhRXoMrPyAD6WbAA/ufD6Z3qJxhIjNAGL//TFI8DyCdBUh09LIXGCZDgRC/ziHrR5Hz75ShHMzPmLKmftdLYYwiMLkydJ9LH2iGH7cNsOxEc0mnAcBuDsta+c220nU+hpX4huUGy2dh3QagPcZPesj1aOI5FQVEGyDLgCREUMZcWJe6FevxY93do73yCQ+GD1/rHYpHk8fT56JfQ1mXex61j796OTZfsgX8KBvw78HdBmsxj53xvGvtJ8sbz3DQDnHBAU3iF7QnhVhiQkXanXdy2O0T6X/V/m6sW5sV50AmRt0AnvJL3CU0xgM9Bc4oyGW9YeMiasqDnu3C8T7XED4dVnlIAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Despite the poor soil, frequent rainfall and high humidity have allowed the development of vegetation typical of the subtropical rainforest.

@@ -79,6 +79,7 @@ geo:
   latitude: 19.163336666666666
   longitude: -69.247295
   country: République dominicaine
+  map: true
 colors:
   vibrant: 62 127 170
   darkVibrant: 24 70 100
@@ -87,9 +88,6 @@ colors:
   darkMuted: 44 63 77
   lightMuted: 208 215 222
 lqip: data:image/webp;base64,UklGRkYBAABXRUJQVlA4IDoBAAAwDACdASpkAEMAP3GqzVs0v7QlqTgMK/AuCWM7f7f7H4OiB0GiQ6b1m2bxgc18TwwiH90f+2/+F/27zXNGzU9h8PRpnXLWGTwI4K5c+5B4iRIDzFaEh551Wo0+CeTXpRwaedqEfBLPO6AAAPi2s3cs/TrrdpPDSivPc+ncKTNM8nrDYk81bzQccgCOSjj8YUOhrvVpz/2RwXS7QQWG8I6xcOR0WSZ1thyOSA6Fi8wxouAJsmmzC0yLEu5YPtkrFZetCYOgU+hQc7TvqgIEZEgyoea0FWXlCm4HMEZmC87UEalpJJZcMU9GZZNF3weOuU2E0ketwI2nr16p1k0CWvY/zDrEsZw3V+fce+MzPb94ivN7xYmGM1peP20W/og1IFALt1Rof3VtiosLMjAg3XTzAUtioiC1QGAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Humpback whales, known for their impressive leaps out of the water, travel thousands of kilometers from their feeding grounds in the North Atlantic, in regions such as Greenland, Iceland and Canada, to the tropical waters of the Dominican Republic.

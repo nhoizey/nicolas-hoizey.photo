@@ -21,6 +21,7 @@ tags:
   - Amérique
   - animal
   - Ardea alba
+  - Ardeidae
   - Ardéidés
   - bird
   - birds
@@ -36,6 +37,7 @@ tags:
   - oiseaux
   - Parc national Los Haitises
   - Parque nacional Los Haitises
+  - Pelecaniformes
   - Pélécaniformes
   - República Dominicana
   - République dominicaine
@@ -81,6 +83,6 @@ lqip: data:image/webp;base64,UklGRpwBAABXRUJQVlA4IJABAACQDQCdASpkAEMAP3GmyFu0rCg
 
 This elegant heron is completely white with its magnificent plumage, reminding lace.
 
-The bill of the Great egret is sharp, long and yellow in color. The bird has long, black feet and legs. During the breeding season, the bill becomes a bit darker while the legs get lighter. This bird possesses a very long neck, exceeding the length of its body. The bird has a notable kink of its neck, curving the necks into a "S" shape when flying.
+The bill of the Great egret is sharp, long and yellow in color. The bird has long, black feet and legs. During the breeding season, the bill becomes a bit darker while the legs get lighter. This bird possesses a very long neck, exceeding the length of its body. The bird has a notable kink of its neck, curving the necks into a “S” shape when flying.
 
-During the breeding season, these birds grow long, lacy shaped feathers known as "aigrettes”, stretching them in an impressive display.
+During the breeding season, these birds grow long, lacy shaped feathers known as “aigrettes”, stretching them in an impressive display.

@@ -61,6 +61,7 @@ geo:
   latitude: 19.173226666666668
   longitude: -69.26981833333333
   country: République dominicaine
+  map: true
 colors:
   vibrant: 155 134 69
   darkVibrant: 4 49 76
@@ -69,9 +70,6 @@ colors:
   darkMuted: 44 75 93
   lightMuted: 138 164 185
 lqip: data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAAAQCQCdASpkAEMAP3Gy0F+0riq1pnkqSrAuCWUA0bwyGJMmDtRNBu/4+vaWRbG/WBSIOpWNtUaAlcITr9yWseFUYmQVARMYgjTLLVBZCNSy/QAA/hMQm7DvuT9KR4EV/WVYFxrvb9r+LEoOxnYfkskTvs5u83kk/wcAsazAdwdlgBxFmVsGptKCbq7F8Ne+zJEXlxYl07DX8935qe95o09YlGlyYCF2xxMMvsexHCQjTVYD+xE+SNuiGVnbXCKZI3VVjJTxA0KxgqLAgAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Cayo Levantado, popularly known as Bacardi Island, is a tiny island located in Samaná, in the wildest and most remote area of the Dominican Republic.

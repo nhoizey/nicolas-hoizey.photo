@@ -66,6 +66,7 @@ geo:
   longitude: -69.49553522
   country: République dominicaine
   city: Las Terrenas
+  map: true
 colors:
   vibrant: 130 147 58
   darkVibrant: 76 110 8
@@ -74,9 +75,6 @@ colors:
   darkMuted: 67 84 50
   lightMuted: 156 162 181
 lqip: data:image/webp;base64,UklGRsYBAABXRUJQVlA4ILoBAABQEQCdASpkAEMAP2Gaw1iyv7+jtBgNi/AsCWIAzCAonsM8afxx+gTBfoDSaxFOdPaapJShfTWxtz3+el4XiXi/KJwqFE/4MjS1AgyWBzVuW9jWKKIPdTPhKwAzClrH7qRdID3nXirawpS7XBITarz7DxKtzFx6KlTZmCV6slln6Ck+cAQ/9EBfA05gpNHXfI6rX4AA/ujL264m3Gv01ILmj0TTp/KU0lyA8bHFbehYovMdB1Wdfr03X2E9XxBhBql9zE1o7ibHXkuQCw36Pvr6VOrC92CWWwWJhl9l0aGTtxLSiWWEQsDssgeAA1fCWWfCVomHFKhfOSszotfrqoynn70VTn4pax8D6t8i3c20PCzHVhCnDfVwu1r6LD1PfNnkdeLtLUqawioEkL429sHdIjp1SYdtp/GRSVdcAjs8eSmFv0ySQODCxmfletaXnu0WNf3HangunMINmCbsH6XV7GoLJAtxATpOXPepJ8rxLIe3V5b/3oSqbthk2b2DyanTjYmOubXX812mFBftOoItAXgtyP3CW13G9xLw9+tc8rlYagBPZlNM3Hx9s/feA+WnP5VhM1ECOAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The bananaquit is a small, active bird found in warmer parts of the Americas and is generally common. Its name is derived from its yellow color and the English word quit, which refers to small passerines of tropical America; cf. grassquit, orangequit.

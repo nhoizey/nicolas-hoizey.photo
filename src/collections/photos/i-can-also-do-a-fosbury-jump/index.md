@@ -80,6 +80,7 @@ geo:
   latitude: 19.162716666666668
   longitude: -69.24334166666667
   country: République dominicaine
+  map: true
 colors:
   vibrant: 51 125 169
   darkVibrant: 12 84 124
@@ -88,9 +89,6 @@ colors:
   darkMuted: 61 99 134
   lightMuted: 185 192 204
 lqip: data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAAAQCACdASpkAEMAP3GozF60tymtqhdKAuAuCWVt2YDE8mj8EiDUIrlQlycN2MPPF6neb7qsGvRfcOVWp7ZkRRvGg4q2gYlzkJLAAP6mkSNZC1BRJ73LRROj0iIxNA4VfR+vNQXLB/JlTA42kqo7ucEgbYajR5YIJSB7TmydyJN1Ac/IcTSZxHyNcMkx43zxUr2KXtMOgMRhmG78dwWdX2hKAaftzmI1nNH2tXID8cnfV0w05g76f+t6RPXHq0s+jXjbc75nsI43tmiBpjSSAoHNbV9TWm4oGc50B+BTSAXAnyrtGDKuna1DaxSVee8kAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Samana Bay, located in the northwest of the Dominican Republic, is one of the best places on the planet to observe a large population of humpback whales that come to the area every year to mate and give birth.
