@@ -85,6 +85,7 @@ geo:
   longitude: -69.49270144333333
   country: République dominicaine
   city: Las Terrenas
+  map: true
 colors:
   vibrant: 60 142 192
   darkVibrant: 66 69 23
@@ -93,9 +94,6 @@ colors:
   darkMuted: 94 87 54
   lightMuted: 169 189 203
 lqip: data:image/webp;base64,UklGRoQBAABXRUJQVlA4IHgBAAAQDACdASpkAEMAP3GoyVk0v7uqLNW8k/AuCUAZ/COzXEDrUKjGsv+kacucC80JmvINUUrZ7/RPgwbTzTzhQp0cVo1AAhN5qfG7I9/n24rYs1byHXexzmFB6p0iyPerzInuvpYyxzw1BhAA/sPLI1HlXq9GV6S6cL90nxkM0wC/t1jMedUi348aKOOJhrPOxj5Lpu9havTjX4rVtcAi9aQ9lLBs9SMkJgKJuP/Wg6aW/43NxnOEeAILqORRvm5n2RY96cyGoLh1MTDYeALKJ/a56UIrLUCf30i1tOuZSukXfCteGovOFTbm+lM/ZND/vpsalRjeqR38jRqJJblTOKgUFdixqQ8TzkbcJcT+h3h/75Z3fZ3CDFRvpWXF4GRvQJJsn6HXerAQDTB42PE/RQcFw1nc5AChstDMrq+Z/pYZHj3yVlfgQa3rxNR2S5E1Sza0MxYkoVqiH4hy8qHN+m4K3/Ez2eZg0ZUACzWVAitB+wybjAdEKfoA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Playa Carolina is located in the seaside town of Las Terrenas, Dominican Republic.

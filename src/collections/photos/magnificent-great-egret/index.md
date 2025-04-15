@@ -68,6 +68,7 @@ geo:
   latitude: 19.09267
   longitude: -69.54282666666667
   country: République dominicaine
+  map: true
 colors:
   vibrant: 69 117 151
   darkVibrant: 70 87 4
@@ -76,9 +77,6 @@ colors:
   darkMuted: 72 84 44
   lightMuted: 197 199 188
 lqip: data:image/webp;base64,UklGRpwBAABXRUJQVlA4IJABAACQDQCdASpkAEMAP3GmyFu0rCglrrULWpAuCU13C5JkyQKltudzN6X4gfZIjX1eMtGIr3tsQeZ65bEowljQVFqNHU1xyaxozOheUDUEyLYv4o70AJs9G+YEsXUVX0xSROSGqugh+/mrw0/hxae66HSU2mbkwAAA+uSCUh8pe24UwuUS5nU0NGbDMYBmY+3SGOM5jTdXi7MJwJzv3BtkR5GM1XXXp4XWS52tVSOKp7/mQkAIQfJGl0mCBBsNX6uFALMICoD7madcAZnXWzMdBuWrK9tSRv7i4RIlMRZDas57M4hGFnZDv7CRwbC+jm0PQHkTUDXoW/JCHPOA8oYSeIfmviDH1tN/lZllV2/+TjjoAHinT1L0dBJn6Ie3gEhXZoAoCUZj/kZo9e8dyuviFzA4xpDbEsmwWwMkIXUcXXvW3jC80eCmeRN+D5uDPHf7A+lECl84BihvvfhAsyUJ9Cee5G+PS1uiBuOPr7T+/sT0C2TB+nSAnwYeBdQjVl4+E+MCGPPrNB+DJRzpxzWawAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 This elegant heron is completely white with its magnificent plumage, reminding lace.

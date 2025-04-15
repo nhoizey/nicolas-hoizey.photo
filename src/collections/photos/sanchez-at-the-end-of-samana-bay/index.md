@@ -76,6 +76,7 @@ geo:
   longitude: -69.59726682
   country: République dominicaine
   city: Sanchez
+  map: true
 colors:
   vibrant: 76 148 180
   darkVibrant: 4 11 20
@@ -84,9 +85,6 @@ colors:
   darkMuted: 44 69 84
   lightMuted: 173 204 219
 lqip: data:image/webp;base64,UklGRhIBAABXRUJQVlA4IAYBAABQCgCdASpkAEMAP3Gyy140ubM0LNN4wzAuCWU7f1gAqgAEV2Uf1eCM6qx8DsuTA3z/28BfjuM5T/Yto4KtXvnbSDjUXq2qXXh1bJAdBgPSxzzq6nFg+smvWhFQAM0+Icp9yRqj2gsJeXra7lJ6eLlflrdz411hTmMumuOEpCBNa5BMuNKIiMO4tr2XpvCYLlT7paCObI8A0sMxgaDGFcuvoJRXEkkh6Vwr8iAjBLlhDE1UnOfOTJ9MoD8DQ5Wf+GqzDinpsYJe78T8GVDz6Q1e24VmJtC8+x3MJaygPY06SV/HknNrVsmBWaFr3XhCA9Eg6NesEmebXGj3twhZCLy3f14QyAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Sánchez is a Dominican municipality on the south coast of the peninsula of Samaná. 

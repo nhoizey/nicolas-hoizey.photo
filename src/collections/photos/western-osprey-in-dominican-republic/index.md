@@ -75,6 +75,7 @@ geo:
   longitude: -69.546965115
   country: République dominicaine
   city: Sabana de la Mar
+  map: true
 colors:
   vibrant: 58 132 187
   darkVibrant: 51 89 18
@@ -83,9 +84,6 @@ colors:
   darkMuted: 42 66 34
   lightMuted: 165 190 204
 lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAADQDACdASpkAEMAP3Gmylq0rKirL5aaOpAuCUAZbWnbV9dNG2UGr0FlnnQXGcI+K0RnNKfEzlL6xwhsY35/apihrMc3Fe3+XImVZX7TmbJHc8WoocvBmq4znN2Ip/f+jlGFDLfrbHjUdQ32d0RF1wAA/s8n/BlXpsD+wwicuVL7rNBKaafS6ZPXQlRfYarJ+cEks0gFiKLLoTGsS4m884oli0Y0Wn0SSURgF/o5qEhetqhsAtVCsL1qLlYo91DVbcnsssLdHcxmHpVmloHIATJgKprmU4ZYBx4UL8pRIw4relta0sCO/lLG26WLZckWT7TAIeqNv3EtF7KKCeoBkuGqOZDs0cqmvu3PVeZmLTzmQRcCDBOGPmhf5k7/ys5C+0R6LDCZR371W9Oq3WrN5dsJds6kIotF4JA86h5NHfzd7rnNfQNkWrwi4GnTBoEnAyIHtolLm9DpwCzl0KZK8q+EIRudJKpXVEWQ6UAAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The osprey is a diurnal, fish-eating bird of prey with a cosmopolitan range.

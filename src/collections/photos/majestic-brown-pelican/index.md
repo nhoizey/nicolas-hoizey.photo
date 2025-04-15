@@ -70,6 +70,7 @@ geo:
   longitude: -69.55788047166666
   country: République dominicaine
   city: Sabana de la Mar
+  map: true
 colors:
   vibrant: 132 180 196
   darkVibrant: 42.98571428571428 77.95714285714286 89.61428571428573
@@ -78,9 +79,6 @@ colors:
   darkMuted: 71 72 58
   lightMuted: 169 198 215
 lqip: data:image/webp;base64,UklGRhQBAABXRUJQVlA4IAgBAABQDACdASpkAEMAP3Gmxly0tjomMHHLS0AuCWdtXbAOCaKlHELr0fdiVQWYAzFbUMj2j1fl+p7Ew5sJqHYEccIrsF1Rxwaq18tWl5rpaMA685qa9ypgQFjBNkco3hnmFfFYkicg8z4E3pP3wAD+i6HEEj/QfCFuiXUKLfR07UYuiOBC9iTpmn/WEYJ6KcqH4bhM3qxs4JyB4C9zmpyhKRS2DSXdk9em80JKN9SjlRyFac8CClsgrPsf3s48z8kTnQTehWC6sKcEQ9ZF4ZsVY9SidURBDF/ONCfknzvgI3fXxdI/zFf0K2Nw5Uy4I7mTUwFAXjc2GsRpHHlHZfH3Ut8akDXdlfY4AAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 With their broad wings and long beaks, brown pelicans are clumsy on land, but the largest pelicaniformes have a rare elegance in the air and a formidable efficiency when they dive to fish in the seas around the American continent.
