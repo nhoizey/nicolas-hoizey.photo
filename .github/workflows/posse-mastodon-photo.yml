@@ -1,9 +1,9 @@
 name: '📸 → 🦣 POSSE photos to Mastodon'
 on:
   schedule:
-  # https://crontab.guru/#9_1,7,13,19_*_*_*
-  # At minute 9 past hour 3, 9, 15 and 21 (GMT+2).
-  - cron: '9 1,7,13,19 * * *'
+  # https://crontab.guru/#9_5,11,17_*_*_*
+  # At minute 9 past hour 7, 13 and 19 (GMT+2).
+  - cron: '9 5,11,17 * * *'
   workflow_dispatch:
 
 concurrency:
