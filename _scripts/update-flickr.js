@@ -55,6 +55,11 @@ const syncFlickr = async () => {
 							comments: comments,
 						},
 					};
+					console.log(
+						`Adding Flickr photo "${photo.title}" (slug "${flickrSlug}")
+-> https://www.flickr.com/photos/nicolas-hoizey/${photo.id}
+`,
+					);
 				} else {
 					console.log(
 						`Couldn't find Flickr photo "${photo.title}" here (slug "${flickrSlug}")
