@@ -347,27 +347,6 @@
       }
     ]
   },
-  "colors-of-little-italy": {
-    "pixelfed": [
-      {
-        "id": "649051549525741600",
-        "faves": 23,
-        "reblogs": 3
-      }
-    ],
-    "unsplash": {
-      "id": "7GDh_WBknxU",
-      "downloads": 5105,
-      "likes": 0,
-      "views": 915647
-    },
-    "flickr": {
-      "id": "41779681045",
-      "faves": 103,
-      "views": 18429,
-      "comments": 10
-    }
-  },
   "colourful-netherlands": {
     "unsplash": {
       "id": "0jj1xNsSOBo",
@@ -7640,7 +7619,19 @@
         "faves": 34,
         "reblogs": 10
       }
-    ]
+    ],
+    "unsplash": {
+      "id": "7GDh_WBknxU",
+      "downloads": 5105,
+      "likes": 0,
+      "views": 915647
+    },
+    "flickr": {
+      "id": "41779681045",
+      "faves": 103,
+      "views": 18429,
+      "comments": 10
+    }
   },
   "ruisseau-du-raisin": {
     "flickr": {
