@@ -28,7 +28,7 @@ jobs:
           cacheTimestampFile: 'posse-pixelfed-photo-timestamp.json'
           globalDelayToots: 540 # 9 hours (with a 10 hours difference in cron runs)
           nbTootsPerItem: 1000
-          itemChoiceStrategy: "newest"
+          itemChoiceStrategy: "oldest"
           delayTootsSameItem: 129600 # 90 days
           instanceType: "pixelfed"
 

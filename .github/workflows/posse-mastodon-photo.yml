@@ -28,7 +28,7 @@ jobs:
           cacheTimestampFile: 'posse-mastodon-photo-timestamp.json'
           globalDelayToots: 300 # 5 hours (with a 6 hours difference in cron runs)
           nbTootsPerItem: 1000
-          itemChoiceStrategy: "newest"
+          itemChoiceStrategy: "oldest"
           ignoreFirstRun: false
 
       - name: Pull any changes from Git 📥
