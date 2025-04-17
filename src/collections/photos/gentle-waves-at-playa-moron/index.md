@@ -16,6 +16,39 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 10-24mm f/4.0 R OIS
       short: 10-24mm
+tags:
+  - America
+  - Amérique
+  - arbre
+  - beach
+  - Caraïbe
+  - Caraïbes
+  - Caribbean
+  - ciel
+  - cloud
+  - Dominican Republic
+  - eau
+  - Hispaniola
+  - mer
+  - nuage
+  - palm tree
+  - palmier
+  - péninsule de Samaná
+  - plage
+  - plant
+  - Playa Morón
+  - República Dominicana
+  - République dominicaine
+  - sable
+  - Samana
+  - Samaná
+  - sand
+  - sea
+  - sky
+  - tree
+  - vague
+  - végétal
+  - water
 settings:
   focal_length:
     raw: 10
