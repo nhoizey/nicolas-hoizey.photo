@@ -1,8 +1,8 @@
 ---
-title: The Blacksmith
+title: The blacksmith
 file: the-blacksmith.jpg
 alt_text: Photo of a blacksmith working with a hammer and anvil
-date: 2014-07-12 14:31:39 +01:00
+date: 2014-07-12 15:31:39 +02:00
 dates:
   iso: "'2014-07-12'"
   human: "'12 July 2014'"
@@ -67,19 +67,21 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 52.009191666666666
+  latitude: 52.009192
   longitude: 5.914625
-  country: The Netherlands
+  country: Pays-Bas
   city: Arnhem
   map: true
 colors:
   vibrant: 158 101 39
-  darkVibrant: 97 62 22
-  lightVibrant: 217 196 169
+  darkVibrant: 98 63 23
+  lightVibrant: 218 196 169
   muted: 153 123 88
   darkMuted: 86 59 39
-  lightMuted: 148 156 188
-lqip: data:image/webp;base64,UklGRmwBAABXRUJQVlA4IGABAADQDQCdASpkAEMAP22iwVi0rCeqNRQ6ApAtiWUAz2krHxUMU5VDlhTl2Y0yY+Q9uIHE/pxMa1adcduSvT1C9CEBNLSJoxL0ELFS+y0vzuSiTViLoRJMt4mt5ININX82aAECgWs9dUCOS7BOvqlmFrxFd6IgQinsAAD+5EYVWzCZrKnxe31ntWFnf+BUyiyCtca/mQux8AtfNxtoTduxtenV4+4694c66Mpz6OnIDbWuKZN5VCAOZLZC95gzzbJfsZPqACzir79FfhFbuiijXJY1e2r+WckI7nLAMIbY7/Ox2stOKbw2rvae7OcSILUVVxdwa1/BkID38bdh5HjbI22h7y1DeIRDGDUQ+2Ts0XvipKsdQ988iZzEr47HmbV5O+ZsMBX7dSndLvdu/h0VHAFZ0tytNrV+1e9Q8f33RHSN7rdA4DqqWipvWCdTvAWl786gc5Gn2efE7FgG0WxwAAAA
+  lightMuted: 143 156 181
+lqip: data:image/webp;base64,UklGRl4BAABXRUJQVlA4IFIBAAAwDwCdASpkAEMAP3GiwVi0rC+qNRN6ApAuCWUAzvAodt630v+r/bP1L8UmeACkcu8lamdSQKytHpxs2HDsGFNAcl7REbQbKMmrQj8mXTg3pl8U6QAxmZwsDKtmz9cEFZBugqNoTk7cOpU4Jo25TVBln/+X6j/xv81DqHZDNW7GctUAAP7jLt92zrSBvW1jh/KXXgN0PE+J6O3V6HmAH7APD2ckLftKC3WreuvyfO/5k1Kx70rpgg4YFfB6aMuyEOb1Ho0G38B3Wae1TgNc8iBZfTT1BnAOVlyivMl5ncG/LU6NjgULH5Sr6g523dtTrjezXTVIGyUokenwO/hOpXEKZOZpZ+C/I7G1mjBB+Bt6Ss1B9CIXmN+wCNXSqknnb1SVRCpWzk8WetolbXAT82I1yFfpKbxym9W/a42rAbBeTusW4lmpuaJGWXE8299WTcgAAA==
 ---
 
 Shot in the amazing Openluchtmuseum (Open Air Museum) near Arnhem, in The Netherlands.
+
+The “black” in “blacksmith” refers to the black firescale, a layer of oxides that forms on the surface of the metal during heating. The origin of smith is the Old English word smið meaning “blacksmith”, originating from the Proto-Germanic *smiþaz meaning "skilled worker".
