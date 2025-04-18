@@ -43,6 +43,7 @@ tags:
   - Parc national Los Haitises
   - Parque nacional Los Haitises
   - Pélécanidés
+  - Pelecaniformes
   - Pélécaniformes
   - Pelecanus occidentalis
   - Pélican brun

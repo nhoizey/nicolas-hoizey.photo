@@ -22,6 +22,7 @@ tags:
   - America
   - Amérique
   - animal
+  - Ardeidae
   - Ardéidés
   - bird
   - birds
@@ -37,6 +38,7 @@ tags:
   - oiseaux
   - Parc national Los Haitises
   - Parque nacional Los Haitises
+  - Pelecaniformes
   - Pélécaniformes
   - República Dominicana
   - République dominicaine

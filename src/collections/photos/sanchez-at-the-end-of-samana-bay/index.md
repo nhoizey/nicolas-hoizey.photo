@@ -3,7 +3,7 @@ title: Sánchez, at the end of Samaná Bay
 file: sanchez-at-the-end-of-samana-bay.jpg
 alt_text: A scenic view overlooking a coastal area with a lush green landscape
   and a small town along the shore. Palm trees frame the foreground.
-date: 2018-02-27 08:56:51 +01:00
+date: 2018-02-27 09:56:51 +02:00
 dates:
   iso: "'2018-02-27'"
   human: "'27 February 2018'"

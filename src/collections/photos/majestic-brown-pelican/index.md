@@ -3,7 +3,7 @@ title: Majestic Brown pelican
 file: majestic-brown-pelican.jpg
 alt_text: A pelican is flying over calm water, with lush green mountains in the
   background.
-date: 2018-02-27 09:51:42 +01:00
+date: 2018-02-27 10:51:42 +02:00
 dates:
   iso: "'2018-02-27'"
   human: "'27 February 2018'"
@@ -35,6 +35,7 @@ tags:
   - Parc national Los Haitises
   - Parque nacional Los Haitises
   - Pélécanidés
+  - Pelecaniformes
   - Pélécaniformes
   - Pelecanus occidentalis
   - Pélican brun

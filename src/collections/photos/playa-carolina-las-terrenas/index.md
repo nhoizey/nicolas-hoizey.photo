@@ -3,7 +3,7 @@ title: Playa Carolina, Las Terrenas
 file: playa-carolina-las-terrenas.jpg
 alt_text: A beach scene featuring soft sand, gentle waves, and palm trees
   against a backdrop of a cloudy sky. The water reflects the colors of the sky.
-date: 2018-02-26 18:04:55 +01:00
+date: 2018-02-26 19:04:55 +02:00
 dates:
   iso: "'2018-02-26'"
   human: "'26 February 2018'"

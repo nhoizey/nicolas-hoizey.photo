@@ -3,7 +3,7 @@ title: Resting Brown pelican
 file: resting-brown-pelican.jpg
 alt_text: A pelican perched on a branch amidst lush green foliage. The bird has
   a distinctive white head, brown neck, and grey body.
-date: 2018-02-27 09:50:43 +01:00
+date: 2018-02-27 10:50:43 +02:00
 dates:
   iso: "'2018-02-27'"
   human: "'27 February 2018'"
@@ -35,6 +35,7 @@ tags:
   - Parc national Los Haitises
   - Parque nacional Los Haitises
   - Pélécanidés
+  - Pelecaniformes
   - Pélécaniformes
   - Pelecanus occidentalis
   - Pélican brun
