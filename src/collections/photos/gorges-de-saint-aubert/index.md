@@ -2,7 +2,7 @@
 title: Gorges de Saint-Aubert
 file: gorges-de-saint-aubert.jpg
 alt_text: Photo of a river under trees filtering the sun light
-date: 2004-08-22 13:56:57 +01:00
+date: 2004-08-22 14:56:57 +02:00
 dates:
   iso: "'2004-08-22'"
   human: "'22 August 2004'"
@@ -17,6 +17,7 @@ tags:
   - calme
   - Europa
   - Europe
+  - forest
   - forêt
   - France
   - Gorges de Saint-Aubert
@@ -76,8 +77,8 @@ dimensions:
   width: 2304
   height: 1704
 geo:
-  latitude: 48.788003368333335
-  longitude: -0.30291813333333334
+  latitude: 48.788003
+  longitude: -0.302918
   country: France
   city: Putanges-le-Lac
   map: true

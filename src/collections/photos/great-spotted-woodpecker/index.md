@@ -3,7 +3,7 @@ title: Great Spotted Woodpecker
 file: great-spotted-woodpecker.jpg
 alt_text: A woodpecker perched on the side of a tree with a background of blue
   sky and bare branches.
-date: 2016-12-04 16:01:58 +01:00
+date: 2016-12-04 17:01:58 +02:00
 dates:
   iso: "'2016-12-04'"
   human: "'4 December 2016'"
@@ -25,10 +25,11 @@ tags:
   - ciel
   - Dendrocopos major
   - feuille
+  - forest
   - forêt
   - Great Spotted Woodpecker
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Pic
   - Pic épeiche
   - Picidae
@@ -65,8 +66,8 @@ dimensions:
   width: 2875
   height: 1917
 geo:
-  latitude: 48.67514963
-  longitude: 2.488652255
+  latitude: 48.67515
+  longitude: 2.488652
   country: France
   city: Soisy-sur-Seine
   map: true

@@ -28,6 +28,7 @@ tags:
   - chemin
   - Dominican Republic
   - earth
+  - forest
   - forêt
   - Hispaniola
   - mer
