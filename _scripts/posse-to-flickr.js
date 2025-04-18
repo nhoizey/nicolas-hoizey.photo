@@ -2,10 +2,12 @@
 import { } from "dotenv/config";
 
 import path from "node:path";
-import slugify from "../src/_11ty/_utils/slugify.js";
 import matter from "gray-matter";
-
+import glob from "fast-glob";
 import { createFlickr } from "flickr-sdk";
+
+import slugify from "../src/_11ty/_utils/slugify.js";
+
 const { flickr } = createFlickr({
 	consumerKey: process.env.FLICKR_CONSUMER_KEY,
 	consumerSecret: process.env.FLICKR_CONSUMER_SECRET,
@@ -59,32 +61,50 @@ const posseToFlickr = async () => {
 	);
 	// console.dir(photoToPosseMatter, { depth: null });
 
-	const tagsForGroups = photoToPosseMatter.data.tags;
-	tagsForGroups.push(photoToPosseMatter.data.gear.camera.brand);
-	tagsForGroups.push(photoToPosseMatter.data.gear.camera.model);
-	tagsForGroups.push(photoToPosseMatter.data.gear.lenses[0].model);
-	// TODO: also add groups based on categories the photo belongs to
+	const tagsForGroups = new Set(photoToPosseMatter.data.tags);
+	tagsForGroups.add(photoToPosseMatter.data.gear.camera.brand);
+	tagsForGroups.add(photoToPosseMatter.data.gear.camera.model);
+	tagsForGroups.add(photoToPosseMatter.data.gear.lenses[0].model);
 
-	const groups = [];
+	// Get the list of galleries with this photo
+	const galleries = await glob([`**/${photoToPosseSlug}.md`], {
+		cwd: "src/pages/galleries/",
+		onlyDirectories: false,
+	});
+
+	for (const gallery of galleries) {
+		for (const gallerySlug of gallery.split("/").slice(0, -1)) {
+			tagsForGroups.add(gallerySlug);
+		}
+	}
+
+	const groups = new Set();
 	for (const tag of tagsForGroups) {
-		switch (tag) {
-			case 'Travel':
-				groups.push('63277308@N00', '460979@N25', '402895@N25', '11488522@N00', '48926546@N00', '88527108@N00', '14730570@N21', '41425956@N00', '74794523@N00', '651467@N20', '2904475@N20', '11427634@N00', '1412034@N24');
+		console.log(slugify(tag));
+		switch (slugify(tag)) {
+			case 'travels':
+				groups.add('63277308@N00').add('460979@N25').add('402895@N25').add('11488522@N00').add('48926546@N00').add('88527108@N00').add('14730570@N21').add('41425956@N00').add('74794523@N00').add('651467@N20').add('2904475@N20').add('11427634@N00').add('1412034@N24');
 				break;
-			case 'République dominicaine':
-				groups.push('76716807@N00', '79884596@N00', '2150860@N23', '52195003@N00');
+			case 'beach':
+				groups.add('1172962@N22').add('808899@N25').add('677271@N20').add('724095@N25').add('81682017@N00').add('664924@N23').add('20766682@N00').add('1224189@N23').add('1090052@N22').add('21939921@N00').add('1179414@N22').add('931380@N21').add('92767609@N00');
 				break;
-			case 'Fujifilm':
-				groups.push('1942023@N20', '1927840@N20', '4001926@N22', '1763261@N25', '14665600@N23', '2756287@N25', '1874432@N24', '1426195@N22', '728696@N23', '1407416@N22', '843996@N23', '1179025@N25', '2765150@N21', '2746396@N25', '2741340@N22', '2140999@N24', '1878068@N23', '93484108@N00');
+			case 'caribbean':
+				groups.add('2150860@N23').add('52195003@N00');
 				break;
-			case 'X-T2':
-				groups.push('2970680@N25', '2841709@N25', '2983137@N20', '3057090@N21', '4001926@N22', '2925177@N21');
+			case 'dominican-republic':
+				groups.add('76716807@N00').add('79884596@N00');
 				break;
-			case 'X-T3':
-				groups.push('4001926@N22');
+			case 'fujifilm':
+				groups.add('1942023@N20').add('1927840@N20').add('4001926@N22').add('1763261@N25').add('14665600@N23').add('2756287@N25').add('1874432@N24').add('1426195@N22').add('728696@N23').add('1407416@N22').add('843996@N23').add('1179025@N25').add('2765150@N21').add('2746396@N25').add('2741340@N22').add('2140999@N24').add('1878068@N23').add('93484108@N00');
 				break;
-			case 'Fujinon XF 10-24mm f/4.0 R OIS':
-				groups.push('2077382@N20', '2621709@N24', '2010873@N23', '2654405@N20');
+			case 'x-t2':
+				groups.add('2970680@N25').add('2841709@N25').add('2983137@N20').add('3057090@N21').add('4001926@N22').add('2925177@N21');
+				break;
+			case 'x-t3':
+				groups.add('4001926@N22');
+				break;
+			case 'fujinon-xf-10-24mm-f-4-0-r-ois':
+				groups.add('2077382@N20').add('2621709@N24').add('2010873@N23').add('2654405@N20');
 				break;
 		}
 	}
