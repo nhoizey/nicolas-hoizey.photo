@@ -22,12 +22,12 @@ const posseToFlickr = async () => {
 		user_id: process.env.FLICKR_USER_ID,
 		per_page: 500,
 	}).then((body) => body.photos.photo);
-	const flickrTitles = flickrPhotos.map(photo => photo.title);
+	const flickrSlugs = flickrPhotos.map(photo => slugify(photo.title));
 
 	const photosToPosse = [];
 	const feedContent = await fetch(FEED_URL).then((response) => response.json());
 	feedContent.items.map((item) => {
-		if (!flickrTitles.includes(item.title)) {
+		if (!flickrSlugs.includes(slugify(item.title))) {
 			photosToPosse.push(item);
 		}
 	});
