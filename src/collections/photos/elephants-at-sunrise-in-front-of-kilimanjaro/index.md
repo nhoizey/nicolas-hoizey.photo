@@ -1,7 +1,7 @@
 ---
 title: Elephants at sunrise in front of Kilimanjaro
 file: elephants-at-sunrise-in-front-of-kilimanjaro.jpg
-date: 2019-03-01 06:48:48 +01:00
+date: 2019-03-01 07:48:48 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
@@ -21,6 +21,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - elephant
   - éléphant
   - Elephantidae
@@ -36,6 +39,10 @@ tags:
   - National Park
   - Parc national d'Amboseli
   - paysage
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 27
@@ -63,9 +70,9 @@ dimensions:
   height: 2309
 geo:
   latitude: -2.71191
-  longitude: 37.354288333333336
+  longitude: 37.354288
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 8 178 246

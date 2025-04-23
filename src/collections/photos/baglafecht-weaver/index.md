@@ -2,7 +2,7 @@
 title: Baglafecht weaver
 file: baglafecht-weaver.jpg
 alt_text: A yellow and black bird perched on a branch with green leaves.
-date: 2019-02-26 09:38:55 +01:00
+date: 2019-02-26 10:38:55 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -23,7 +23,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - Baglafecht weaver
   - bird
   - birds
@@ -37,13 +39,19 @@ tags:
   - Narok County
   - noir
   - oiseau
-  - Oiseaux
+  - oiseaux
+  - passereaux
   - Passériformes
+  - passerine
   - Ploceidae
-  - Plocéidés
+  - plocéidés
   - Ploceus baglafecht
   - reserve
+  - sauvage
   - Tisserin baglafecht
+  - wild animal
+  - wild animals
+  - wildlife
   - yellow
 settings:
   focal_length:
@@ -71,10 +79,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.6233083333333334
-  longitude: 35.31023833333333
+  latitude: -1.623308
+  longitude: 35.310238
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 220 192 60

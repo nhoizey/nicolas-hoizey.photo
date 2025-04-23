@@ -36,7 +36,7 @@ tags:
   - Mésange charbonnière
   - noir
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Paridae
   - paridés
   - Parus
@@ -53,6 +53,7 @@ tags:
   - white
   - wild animal
   - wild animals
+  - wildlife
   - yellow
 settings:
   focal_length:

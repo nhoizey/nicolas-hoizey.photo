@@ -1,7 +1,7 @@
 ---
 title: Beautiful Maasai giraffe
 file: beautiful-maasai-giraffe.jpg
-date: 2019-02-26 07:23:45 +01:00
+date: 2019-02-26 08:23:45 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -46,6 +46,7 @@ tags:
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 800
@@ -73,9 +74,9 @@ dimensions:
   height: 2333
 geo:
   latitude: -1.6264699999999999
-  longitude: 35.30825333333333
+  longitude: 35.308253
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 173 179 17

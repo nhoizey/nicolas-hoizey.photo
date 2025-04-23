@@ -3,7 +3,7 @@ title: Silvery-cheeked Hornbill couple
 file: silvery-cheeked-hornbill-couple.jpg
 alt_text: Photo of two large black and white birds with a big yellow beak, on a
   tree branch
-date: 2019-03-04 17:03:59 +01:00
+date: 2019-03-04 18:03:59 +02:00
 dates:
   iso: "'2019-03-04'"
   human: "'4 March 2019'"
@@ -41,12 +41,13 @@ tags:
   - Kenya
   - Kwale County
   - oiseau
-  - Oiseaux
+  - oiseaux
   - sauvage
   - Silvery-cheeked Hornbill
   - The Baobab Hotel
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 393.2
@@ -74,9 +75,9 @@ dimensions:
   height: 2333
 geo:
   latitude: -4.33512
-  longitude: 39.567858333333334
+  longitude: 39.567858
   country: Kenya
-  city: Diani Beach
+  city: Ukunda
   map: true
 colors:
   vibrant: 174 190 31

@@ -1,7 +1,7 @@
 ---
 title: Black Rhinoceros in Lake Nakuru National Park
 file: black-rhinoceros-in-lake-nakuru-national-park.jpg
-date: 2019-02-27 16:10:34 +01:00
+date: 2019-02-27 17:10:34 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -22,7 +22,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - imparidigités
   - Kenya
   - lac
@@ -46,6 +48,10 @@ tags:
   - rhinocéros
   - rhinocerotidae
   - rhinocérotidés
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 200
@@ -73,9 +79,9 @@ dimensions:
   height: 2333
 geo:
   latitude: -0.317585
-  longitude: 36.07801833333333
+  longitude: 36.078018
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 172 138 83

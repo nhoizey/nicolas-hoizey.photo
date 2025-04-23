@@ -1,7 +1,7 @@
 ---
 title: A very curious Vervet monkey
 file: a-very-curious-vervet-monkey.jpg
-date: 2019-02-26 16:45:51 +01:00
+date: 2019-02-26 17:45:51 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -49,6 +49,7 @@ tags:
   - vervet monkey
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 800
@@ -75,10 +76,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.6185266666666667
-  longitude: 35.306081666666664
+  latitude: -1.618527
+  longitude: 35.306082
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 150 128 36

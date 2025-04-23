@@ -22,6 +22,9 @@ tags:
   - America
   - Amérique
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - bateau
   - bird
   - birds
@@ -49,9 +52,13 @@ tags:
   - Pélican brun
   - República Dominicana
   - République dominicaine
+  - sauvage
   - sea
   - sky
   - water
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 24

@@ -1,7 +1,7 @@
 ---
 title: The little one
 file: the-little-one.jpg
-date: 2019-02-27 17:33:47 +01:00
+date: 2019-02-27 18:33:47 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -51,6 +51,7 @@ tags:
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 541.2
@@ -77,10 +78,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.40842666666666666
+  latitude: -0.408427
   longitude: 36.119485
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 150 134 105

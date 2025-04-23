@@ -2,7 +2,7 @@
 title: Larva of Tenthredo Marginella
 file: larva-of-tenthredo-marginella.jpg
 alt_text: A dark blue larva with orange spots on a green plant stem.
-date: 2008-10-12 13:44:30 +01:00
+date: 2008-10-12 14:44:30 +02:00
 dates:
   iso: "'2008-10-12'"
   human: "'12 October 2008'"
@@ -21,6 +21,7 @@ tags:
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 100

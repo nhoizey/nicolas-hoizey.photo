@@ -34,7 +34,7 @@ tags:
   - Ile de France
   - Montgeron
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Pic vert
   - Picidae
   - Picidés
@@ -48,6 +48,7 @@ tags:
   - vert
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

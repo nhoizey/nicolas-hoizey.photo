@@ -1,7 +1,7 @@
 ---
 title: Elephants family in Maasai Mara
 file: elephants-family-in-maasai-mara.jpg
-date: 2019-02-25 17:59:15 +01:00
+date: 2019-02-25 18:59:15 +02:00
 dates:
   iso: "'2019-02-25'"
   human: "'25 February 2019'"
@@ -19,7 +19,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - elephant
   - éléphant
   - Elephantidae
@@ -36,6 +38,10 @@ tags:
   - Masai Mara
   - Narok County
   - reserve
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 27
@@ -62,10 +68,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.6331316666666669
-  longitude: 35.346806666666666
+  latitude: -1.633132
+  longitude: 35.346807
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 5 99 157

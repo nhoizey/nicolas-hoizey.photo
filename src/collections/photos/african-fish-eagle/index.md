@@ -1,7 +1,7 @@
 ---
 title: African fish eagle
 file: african-fish-eagle.jpg
-date: 2019-02-28 17:31:45 +01:00
+date: 2019-02-28 18:31:45 +02:00
 dates:
   iso: "'2019-02-28'"
   human: "'28 February 2019'"
@@ -28,7 +28,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - bird
   - birds
   - blanc
@@ -41,11 +43,15 @@ tags:
   - nkwazi
   - ntšhu
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national d'Amboseli
   - Pygargue vocifère
+  - sauvage
   - visarend
   - white
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 800
@@ -72,10 +78,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6621166666666665
-  longitude: 37.27195833333333
+  latitude: -2.6621170000000003
+  longitude: 37.271958
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 116 93 50

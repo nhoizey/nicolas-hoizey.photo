@@ -2,7 +2,7 @@
 title: Spiderman is watching
 file: spiderman-is-watching.jpg
 alt_text: A red-headed agama lizard with bright blue body on a textured rock surface.
-date: 2019-02-26 17:27:04 +01:00
+date: 2019-02-26 18:27:04 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -26,7 +26,9 @@ tags:
   - Agame des colons
   - Agamidae
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - Kenya
   - lézard
   - lézard spiderman
@@ -39,13 +41,17 @@ tags:
   - Narok County
   - rainbow agama
   - red-headed rock agama
-  - Reptiles
-  - Reptilia
+  - reptile
+  - reptilia
   - reserve
   - rocher
   - rock
+  - sauvage
   - Squamata
   - Squamates
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 265.8
@@ -72,10 +78,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.5794783333333333
-  longitude: 35.255023333333334
+  latitude: -1.579478
+  longitude: 35.255023
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 186 126 77

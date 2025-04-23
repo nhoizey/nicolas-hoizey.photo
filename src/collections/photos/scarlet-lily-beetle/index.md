@@ -2,7 +2,7 @@
 title: Scarlet lily beetle
 file: scarlet-lily-beetle.jpg
 alt_text: Macro photo of a red and black insect on the edge of a green leaf
-date: 2008-06-14 13:13:48 +01:00
+date: 2008-06-14 14:13:48 +02:00
 dates:
   iso: "'2008-06-14'"
   human: "'14 June 2008'"
@@ -19,6 +19,9 @@ gear:
       short: 100mm macro
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - At home
   - Chez nous
   - Coleoptera
@@ -33,13 +36,17 @@ tags:
   - Ile de France
   - insect
   - insecte
-  - Insectes
+  - insectes
   - insects
   - Lilioceris lilii
   - Lily Leaf Beetle
   - macro
   - red
   - rouge
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 100

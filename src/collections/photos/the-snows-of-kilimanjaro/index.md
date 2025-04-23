@@ -1,7 +1,7 @@
 ---
 title: The Snows of Kilimanjaro
 file: the-snows-of-kilimanjaro.jpg
-date: 2019-03-01 08:21:18 +01:00
+date: 2019-03-01 09:21:18 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
@@ -21,6 +21,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - arbre
   - bird
   - birds
@@ -38,15 +41,19 @@ tags:
   - National Park
   - neige
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national d'Amboseli
   - paysage
   - plant
+  - sauvage
   - snow
   - tree
   - végétal
   - volcan
   - volcano
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 27
@@ -73,10 +80,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.7072766666666666
-  longitude: 37.31807833333333
+  latitude: -2.707277
+  longitude: 37.318078
   country: Kenya
-  city: Amboseli National Park
+  city: Kajiado
   map: true
 colors:
   vibrant: 15 125 178

@@ -6,7 +6,7 @@ alt_text: Photo of three elephants in the savannah of Amboseli Park in Kenya. A
   interested, ears spread. Two other elephants are a little further away. Around
   them, a few white little egrets are looking for food. In the distance, we can
   recognise the typical silhouette of Kilimanjaro, covered by its ice cap.
-date: 2019-03-01 08:25:10 +01:00
+date: 2019-03-01 09:25:10 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
@@ -26,7 +26,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - elephant
   - éléphant
   - Elephantidae
@@ -42,6 +44,10 @@ tags:
   - National Park
   - Parc national d'Amboseli
   - paysage
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 27
@@ -68,10 +74,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.71078194
-  longitude: 37.33135027833333
+  latitude: -2.710782
+  longitude: 37.33135
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 35 143 206

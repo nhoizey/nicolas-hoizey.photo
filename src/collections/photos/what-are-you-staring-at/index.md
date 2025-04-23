@@ -1,7 +1,7 @@
 ---
 title: What are you staring at?
 file: what-are-you-staring-at.jpg
-date: 2019-02-27 17:19:09 +01:00
+date: 2019-02-27 18:19:09 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -52,6 +52,7 @@ tags:
   - syncerus caffer
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 200
@@ -78,10 +79,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.38925333333333334
+  latitude: -0.389253
   longitude: 36.1207
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 133 84 56

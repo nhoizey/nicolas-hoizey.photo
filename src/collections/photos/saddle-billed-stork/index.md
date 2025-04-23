@@ -1,7 +1,7 @@
 ---
 title: Saddle-billed stork
 file: saddle-billed-stork.jpg
-date: 2019-02-28 17:25:02 +01:00
+date: 2019-02-28 18:25:02 +02:00
 dates:
   iso: "'2019-02-28'"
   human: "'28 February 2019'"
@@ -24,7 +24,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - bird
   - birds
   - black
@@ -37,9 +39,13 @@ tags:
   - National Park
   - noir
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national d'Amboseli
   - Saddle-billed Stork
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 306.6
@@ -66,10 +72,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6523165116666667
-  longitude: 37.27466943666667
+  latitude: -2.652317
+  longitude: 37.274669
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 220 220 35

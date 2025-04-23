@@ -1,7 +1,7 @@
 ---
 title: Common Ostrich
 file: common-ostrich.jpg
-date: 2019-02-26 17:37:39 +01:00
+date: 2019-02-26 18:37:39 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -36,7 +36,7 @@ tags:
   - Masai Mara
   - Narok County
   - oiseau
-  - Oiseaux
+  - oiseaux
   - reserve
   - sauvage
   - Struthio camelus
@@ -44,6 +44,7 @@ tags:
   - Struthioniformes
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 624
@@ -70,10 +71,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.5806716666666667
-  longitude: 35.27798833333333
+  latitude: -1.5806719999999999
+  longitude: 35.277988
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 206 171 134

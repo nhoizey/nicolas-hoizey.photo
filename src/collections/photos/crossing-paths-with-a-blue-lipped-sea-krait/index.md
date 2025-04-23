@@ -3,7 +3,7 @@ title: Crossing paths with a blue-lipped sea krait
 file: crossing-paths-with-a-blue-lipped-sea-krait.jpg
 alt_text: Photo taken above the surface of the sea, with the front part of a
   snake undulating in the water. The snake is striped black and blue.
-date: 2013-03-31 08:35:28 +01:00
+date: 2013-03-31 09:35:28 +02:00
 dates:
   iso: "'2013-03-31'"
   human: "'31 March 2013'"
@@ -20,6 +20,9 @@ gear:
       short: 70-300mm
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - blue-banded sea krait
   - blue-lipped sea krait
   - bubble
@@ -37,12 +40,16 @@ tags:
   - Océanie
   - reptile
   - reptilia
+  - sauvage
   - sea
   - serpent
   - snake
   - tricot rayé
   - tricot rayé bleu
   - water
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 210

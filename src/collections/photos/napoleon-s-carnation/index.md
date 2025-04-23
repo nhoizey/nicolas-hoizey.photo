@@ -1,7 +1,7 @@
 ---
 title: Napoleon's carnation
 file: napoleon-s-carnation.jpg
-date: 2020-06-23 19:51:50 +01:00
+date: 2020-06-23 20:51:50 +02:00
 dates:
   iso: "'2020-06-23'"
   human: "'23 June 2020'"
@@ -17,9 +17,12 @@ gear:
       short: 80mm macro
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - Arachnid
   - Arachnida
-  - Arachnides
+  - arachnide
   - araignée
   - Araignée Napoléon
   - araignée-crabe
@@ -28,14 +31,14 @@ tags:
   - Araneae
   - Aranéides
   - Araneomorphae
-  - Aranéomorphes
+  - aranéomorphe
   - Arthropoda
-  - Arthropodes
+  - arthropode
   - carnation
   - Caryophyllaceae
   - Chelicerata
   - Chélicérates
-  - Chélicérés
+  - chélicéré
   - crab spider
   - dianthus
   - Essonne
@@ -52,6 +55,7 @@ tags:
   - Napoleon spider
   - œillet
   - plant
+  - sauvage
   - spider
   - spiders
   - Synema globosum
@@ -59,6 +63,9 @@ tags:
   - Thomise globuleux
   - Thomisidae
   - végétal
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 80
@@ -85,8 +92,8 @@ dimensions:
   width: 3500
   height: 2465
 geo:
-  latitude: 48.631493705
-  longitude: 2.4647863633333333
+  latitude: 48.631494
+  longitude: 2.464786
   country: France
   city: Étiolles
   map: true

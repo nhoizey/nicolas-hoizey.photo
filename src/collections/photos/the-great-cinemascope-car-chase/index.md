@@ -4,7 +4,7 @@ file: the-great-cinemascope-car-chase.jpg
 alt_text: Miniature scene with two toy cars on a dirt ramp, one in mid-air, and
   figures including a film director, two persons with cameras, and a police
   officer with his motorcycle.
-date: 2024-03-14 22:45:34 +01:00
+date: 2024-03-14 23:45:34 +02:00
 dates:
   iso: "'2024-03-14'"
   human: "'14 March 2024'"
@@ -24,6 +24,7 @@ tags:
   - action
   - camera
   - caméra
+  - car
   - cascade
   - chase
   - cinema
@@ -38,10 +39,10 @@ tags:
   - poursuite
   - saut
   - shooting
+  - stunt
   - tournage
   - tremplin
   - voiture
-  - waterfall
 settings:
   focal_length:
     raw: 80

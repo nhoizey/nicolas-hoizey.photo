@@ -3,7 +3,7 @@ title: A sphinx moth in the making
 file: a-sphinx-moth-in-the-making.jpg
 alt_text: Macro photo of a green caterpillar with black and white stripes,
   hanging upside down from a branch.
-date: 2021-08-19 15:12:33 +01:00
+date: 2021-08-19 16:12:33 +02:00
 dates:
   iso: "'2021-08-19'"
   human: "'19 August 2021'"
@@ -34,14 +34,14 @@ tags:
   - Île d'Oléron
   - insect
   - insecte
-  - Insectes
+  - insectes
   - insects
   - Jardins de la Boirie
   - La Boirie
   - larva
   - larve
   - Lepidoptera
-  - Lépidoptères
+  - lépidoptère
   - Les Jardins Botaniques de la Boirie
   - Nouvelle-Aquitaine
   - Oléron
@@ -56,6 +56,7 @@ tags:
   - vert
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 80
@@ -82,8 +83,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.943363055
-  longitude: -1.2891611116666666
+  latitude: 45.943363
+  longitude: -1.289161
   country: France
   city: Saint-Pierre-d'Oléron
   map: true

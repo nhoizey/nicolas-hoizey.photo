@@ -1,7 +1,7 @@
 ---
 title: Elephants grazing in Amboseli swamps
 file: elephants-grazing-in-amboseli-swamps.jpg
-date: 2019-02-28 17:26:01 +01:00
+date: 2019-02-28 18:26:01 +02:00
 dates:
   iso: "'2019-02-28'"
   human: "'28 February 2019'"
@@ -42,6 +42,7 @@ tags:
   - swamp
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 56
@@ -68,10 +69,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6526416166666666
-  longitude: 37.27443772833333
+  latitude: -2.652642
+  longitude: 37.274438
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 75 138 179

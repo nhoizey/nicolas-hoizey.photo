@@ -1,7 +1,7 @@
 ---
 title: Here comes the secretary
 file: here-comes-the-secretary.jpg
-date: 2019-03-01 06:54:21 +01:00
+date: 2019-03-01 07:54:21 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
@@ -25,7 +25,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - bird
   - birds
   - Kajiado
@@ -33,12 +35,16 @@ tags:
   - Messager sagittaire
   - National Park
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national d'Amboseli
   - Sagittariidés
   - Sagittarius serpentarius
+  - sauvage
   - Secretary bird
   - Secretarybird
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 560
@@ -65,10 +71,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.711758905
-  longitude: 37.34467424
+  latitude: -2.711759
+  longitude: 37.344674
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 39 108 164

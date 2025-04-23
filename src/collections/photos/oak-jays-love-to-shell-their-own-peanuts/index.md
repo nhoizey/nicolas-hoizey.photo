@@ -32,12 +32,15 @@ tags:
   - Geai des chênes
   - Oak Jay
   - oiseau
-  - Oiseaux
+  - oiseaux
+  - passereaux
   - Passériformes
+  - passerine
   - peanut
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

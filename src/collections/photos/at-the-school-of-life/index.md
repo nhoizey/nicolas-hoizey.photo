@@ -2,7 +2,7 @@
 title: At the school of life
 file: at-the-school-of-life.jpg
 alt_text: An adult zebra and a foal standing in grassland, touching their noses together.
-date: 2019-02-26 16:24:27 +01:00
+date: 2019-02-26 17:24:27 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -52,6 +52,7 @@ tags:
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
   - zèbre de Burchell
   - zèbre de Grant
   - zèbre des plaines
@@ -81,10 +82,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.6177733333333335
-  longitude: 35.36447666666667
+  latitude: -1.6177730000000001
+  longitude: 35.364477
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 172 100 44

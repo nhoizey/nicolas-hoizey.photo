@@ -1,7 +1,7 @@
 ---
 title: Young olive baboon at sunset
 file: young-olive-baboon-at-sunset.jpg
-date: 2019-02-27 18:28:31 +01:00
+date: 2019-02-27 19:28:31 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -22,7 +22,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - Anubis baboon
   - baboon
   - babouin
@@ -52,9 +54,13 @@ tags:
   - Parc national du lac Nakuru
   - primate
   - primates
+  - sauvage
   - soir
   - soleil
   - sunset
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 407.4
@@ -81,10 +87,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.36711333333333335
-  longitude: 36.12007666666667
+  latitude: -0.36711299999999997
+  longitude: 36.120077
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 205 128 56

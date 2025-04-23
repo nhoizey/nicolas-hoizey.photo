@@ -2,7 +2,7 @@
 title: Egret at sunset
 file: egret-at-sunset.jpg
 alt_text: Silhouette of a heron standing by water with a twilight sky reflection.
-date: 2017-04-10 19:55:43 +01:00
+date: 2017-04-10 20:55:43 +02:00
 dates:
   iso: "'2017-04-10'"
   human: "'10 April 2017'"
@@ -20,6 +20,10 @@ tags:
   - Aigrette
   - Aigrette garzette
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
+  - Ardeidae
   - Ardéidés
   - bird
   - birds
@@ -36,14 +40,19 @@ tags:
   - lake
   - Little Egret
   - oiseau
-  - Oiseaux
+  - oiseaux
+  - Pelecaniformes
   - Pélécaniformes
   - Rillé
+  - sauvage
   - silhouette
   - soleil
   - sun
   - sunset
   - water
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400
@@ -70,8 +79,8 @@ dimensions:
   width: 2726
   height: 1817
 geo:
-  latitude: 47.464144445
-  longitude: 0.22411388833333332
+  latitude: 47.464144
+  longitude: 0.224114
   country: France
   city: Rillé
   map: true

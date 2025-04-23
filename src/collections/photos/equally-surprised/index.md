@@ -46,6 +46,7 @@ tags:
   - Vallée de la Clarée
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400
@@ -72,8 +73,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.062218333333334
-  longitude: 6.522579166666667
+  latitude: 45.062218
+  longitude: 6.522579
   country: France
   city: Névache
   map: true

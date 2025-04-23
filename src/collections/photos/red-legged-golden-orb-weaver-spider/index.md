@@ -1,7 +1,7 @@
 ---
 title: Red-legged golden orb-weaver spider
 file: red-legged-golden-orb-weaver-spider.jpg
-date: 2019-03-04 16:46:53 +01:00
+date: 2019-03-04 17:46:53 +02:00
 dates:
   iso: "'2019-03-04'"
   human: "'4 March 2019'"
@@ -24,19 +24,19 @@ tags:
   - animaux sauvages
   - Arachnid
   - Arachnida
-  - Arachnides
+  - arachnide
   - araignée
   - araignées
   - Araneae
   - Araneidae
   - Aranéides
   - Araneomorphae
-  - Aranéomorphes
+  - aranéomorphe
   - Arthropoda
-  - Arthropodes
+  - arthropode
   - Chelicerata
   - Chélicérates
-  - Chélicérés
+  - chélicéré
   - Diani Beach
   - Kenya
   - Kwale County
@@ -54,6 +54,7 @@ tags:
   - web
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400
@@ -83,7 +84,7 @@ geo:
   latitude: -4.334515
   longitude: 39.56908
   country: Kenya
-  city: Diani Beach
+  city: Ukunda
   map: true
 colors:
   vibrant: 239 166 29

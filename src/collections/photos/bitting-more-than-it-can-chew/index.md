@@ -3,7 +3,7 @@ title: Bitting more than it can chew
 file: bitting-more-than-it-can-chew.jpg
 alt_text: A close-up of a mushroom with a light brown cap and white stem,
   sitting on green moss. A tiny slug is eating on the mushroom.
-date: 2024-10-06 08:47:55 +01:00
+date: 2024-10-06 09:47:55 +02:00
 dates:
   iso: "'2024-10-06'"
   human: "'6 October 2024'"
@@ -19,6 +19,9 @@ gear:
       short: 90mm
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - Bryophyta
   - champignon
   - cypress-leaved plaitmoss
@@ -45,9 +48,13 @@ tags:
   - plant
   - pluie
   - rain
+  - sauvage
   - Seine et Marne
   - slug
   - végétal
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 90

@@ -1,7 +1,7 @@
 ---
 title: Waiting for dusk
 file: waiting-for-dusk.jpg
-date: 2019-03-01 07:36:48 +01:00
+date: 2019-03-01 08:36:48 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
@@ -59,6 +59,7 @@ tags:
   - wild
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 560
@@ -85,10 +86,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.660558695
-  longitude: 37.26950779333333
+  latitude: -2.660559
+  longitude: 37.269508
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 157 130 59

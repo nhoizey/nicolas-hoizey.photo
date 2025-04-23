@@ -1,7 +1,7 @@
 ---
 title: Pied Kingfisher in Lake Nakuru National Park, Kenya
 file: pied-kingfisher-in-lake-nakuru-national-park-kenya.jpg
-date: 2019-02-27 17:12:38 +01:00
+date: 2019-02-27 18:12:38 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -24,7 +24,9 @@ tags:
   - Alcedinidae
   - Alcédinidés
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - bec
   - bird
   - birds
@@ -44,10 +46,14 @@ tags:
   - Nakuru County
   - noir
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national du lac Nakuru
   - Pied Kingfisher
+  - sauvage
   - white
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 407.4
@@ -74,10 +80,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.3692516666666667
+  latitude: -0.369252
   longitude: 36.12001
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 141 170 203

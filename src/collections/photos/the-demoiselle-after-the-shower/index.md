@@ -1,7 +1,7 @@
 ---
 title: The demoiselle after the shower
 file: the-demoiselle-after-the-shower.jpg
-date: 2018-09-16 06:38:16 +01:00
+date: 2018-09-16 07:38:16 +02:00
 dates:
   iso: "'2018-09-16'"
   human: "'16 September 2018'"
@@ -17,6 +17,9 @@ gear:
       short: 56mm
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - aube
   - damselfly
   - demoiselle
@@ -29,12 +32,13 @@ tags:
   - Ile de France
   - insect
   - insecte
-  - Insectes
+  - insectes
   - insects
   - levé de soleil
   - matin
   - morning
   - rosée
+  - sauvage
   - soleil
   - sun
   - sunrise
@@ -42,6 +46,9 @@ tags:
   - toile
   - water
   - web
+  - wild animal
+  - wild animals
+  - wildlife
   - zygoptera
   - zygoptères
 settings:
@@ -70,8 +77,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.65318480333333
-  longitude: 2.5035789716666668
+  latitude: 48.653185
+  longitude: 2.503579
   country: France
   city: Étiolles
   map: true

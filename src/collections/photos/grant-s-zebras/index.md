@@ -2,7 +2,7 @@
 title: Grant's zebras
 file: grant-s-zebras.jpg
 alt_text: Zebras grazing on a grassy plain with Mount Kilimanjaro in the background.
-date: 2019-02-28 17:44:49 +01:00
+date: 2019-02-28 18:44:49 +02:00
 dates:
   iso: "'2019-02-28'"
   human: "'28 February 2019'"
@@ -22,7 +22,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - equidae
   - équidés
   - equus quagga
@@ -49,8 +51,12 @@ tags:
   - perissodactyla
   - périssodactyles
   - plains zebra
+  - sauvage
   - volcan
   - volcano
+  - wild animal
+  - wild animals
+  - wildlife
   - zèbre de Burchell
   - zèbre de Grant
   - zèbre des plaines
@@ -80,10 +86,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6930933333333336
+  latitude: -2.693093
   longitude: 37.29114
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 4 129 190

@@ -21,6 +21,9 @@ tags:
   - America
   - Amérique
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - bird
   - birds
   - Brown Pelican
@@ -41,6 +44,10 @@ tags:
   - Pélican brun
   - República Dominicana
   - République dominicaine
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 252.1

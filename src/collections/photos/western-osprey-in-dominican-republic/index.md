@@ -22,6 +22,9 @@ tags:
   - America
   - Amérique
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - Balbuzard pêcheur
   - bird
   - birds
@@ -43,8 +46,12 @@ tags:
   - República Dominicana
   - République dominicaine
   - river hawk
+  - sauvage
   - sea hawk
   - western osprey
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

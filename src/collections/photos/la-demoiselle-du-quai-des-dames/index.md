@@ -18,6 +18,9 @@ gear:
 tags:
   - aile
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - bleu
   - blue
   - damselfly
@@ -31,10 +34,14 @@ tags:
   - Ile de France
   - insect
   - insecte
-  - Insectes
+  - insectes
   - insects
   - Quai des Dames
+  - sauvage
   - vert
+  - wild animal
+  - wild animals
+  - wildlife
   - wing
   - zygoptera
   - zygoptères

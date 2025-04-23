@@ -2,7 +2,7 @@
 title: So, you're still ok for this?
 file: so-you-re-still-ok-for-this.jpg
 alt_text: A buffalo grazing close to a white egret in a grassy field.
-date: 2019-02-27 17:09:07 +01:00
+date: 2019-02-27 18:09:07 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -28,6 +28,7 @@ tags:
   - animalière
   - animaux sauvages
   - Ardea intermedia
+  - Ardeidae
   - Ardéidés
   - bird
   - birds
@@ -55,13 +56,15 @@ tags:
   - Nakuru
   - Nakuru County
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national du lac Nakuru
+  - Pelecaniformes
   - Pélécaniformes
   - sauvage
   - syncerus caffer
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 646.4
@@ -91,7 +94,7 @@ geo:
   latitude: -0.36728
   longitude: 36.120135
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 140 132 47

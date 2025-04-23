@@ -3,7 +3,7 @@ title: The apprentice
 file: the-apprentice.jpg
 alt_text: Two elephants, an adult and a younger one, walking through a grassy
   field with trees in the background.
-date: 2019-02-25 18:01:06 +01:00
+date: 2019-02-25 19:01:06 +02:00
 dates:
   iso: "'2019-02-25'"
   human: "'25 February 2019'"
@@ -46,6 +46,7 @@ tags:
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 317.2
@@ -72,10 +73,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.6331316666666669
-  longitude: 35.346806666666666
+  latitude: -1.633132
+  longitude: 35.346807
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 160 130 95

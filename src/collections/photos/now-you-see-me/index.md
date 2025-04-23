@@ -1,7 +1,7 @@
 ---
 title: Now you see me
 file: now-you-see-me.jpg
-date: 2019-02-27 16:48:53 +01:00
+date: 2019-02-27 17:48:53 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -50,6 +50,7 @@ tags:
   - waterbuck
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 222.6
@@ -79,7 +80,7 @@ geo:
   latitude: -0.31638
   longitude: 36.11468
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 146 151 72

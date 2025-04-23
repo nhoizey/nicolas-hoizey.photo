@@ -2,7 +2,7 @@
 title: Lioness in Maasai Mara
 file: lioness-in-maasai-mara.jpg
 alt_text: A lioness standing in a grassy field with sunlit vegetation in the background.
-date: 2019-02-26 08:11:57 +01:00
+date: 2019-02-26 09:11:57 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -23,7 +23,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - felidae
   - félidés
   - félins
@@ -48,7 +50,11 @@ tags:
   - Panthera leo
   - plant
   - reserve
+  - sauvage
   - végétal
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 800
@@ -75,10 +81,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.5927433333333334
-  longitude: 35.39015333333333
+  latitude: -1.592743
+  longitude: 35.390153
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 180 165 71

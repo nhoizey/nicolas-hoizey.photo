@@ -1,7 +1,7 @@
 ---
 title: African Fish Eagle in Nakuru
 file: african-fish-eagle-in-nakuru.jpg
-date: 2019-02-27 17:10:25 +01:00
+date: 2019-02-27 18:10:25 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -26,7 +26,9 @@ tags:
   - Afrique
   - aigle pêcheur
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - bird
   - birds
   - Haliaeetus vocifer
@@ -43,10 +45,14 @@ tags:
   - nkwazi
   - ntšhu
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national du lac Nakuru
   - Pygargue vocifère
+  - sauvage
   - visarend
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 407.4
@@ -73,10 +79,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.3692516666666667
+  latitude: -0.369252
   longitude: 36.12001
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 182 124 52

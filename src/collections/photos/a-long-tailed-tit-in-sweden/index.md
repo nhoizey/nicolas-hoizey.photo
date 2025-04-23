@@ -2,7 +2,7 @@
 title: A Long-tailed Tit in Sweden
 file: a-long-tailed-tit-in-sweden.jpg
 alt_text: A small white and grey bird perched on a bare branch in a woodland.
-date: 2020-02-05 12:45:41 +01:00
+date: 2020-02-05 13:45:41 +02:00
 dates:
   iso: "'2020-02-05'"
   human: "'5 February 2020'"
@@ -38,7 +38,7 @@ tags:
   - long-tailed tits
   - Mésange à longue queue
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Orite à longue queue
   - sauvage
   - Stjärtmes
@@ -50,6 +50,7 @@ tags:
   - Täby
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 56
@@ -76,9 +77,9 @@ dimensions:
   width: 3421
   height: 2281
 geo:
-  latitude: 59.4802025
-  longitude: 18.013016666666665
-  country: Sweden
+  latitude: 59.480203
+  longitude: 18.013017
+  country: Suède
   city: Täby
   map: true
 colors:

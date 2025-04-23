@@ -1,7 +1,7 @@
 ---
 title: Pollination
 file: pollination.jpg
-date: 2020-06-23 19:08:03 +01:00
+date: 2020-06-23 20:08:03 +02:00
 dates:
   iso: "'2020-06-23'"
   human: "'23 June 2020'"
@@ -18,6 +18,9 @@ gear:
 tags:
   - abeille
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - bee
   - Essonne
   - Étiolles
@@ -28,11 +31,15 @@ tags:
   - Ile de France
   - insect
   - insecte
-  - Insectes
+  - insectes
   - insects
   - macro
   - plant
+  - sauvage
   - végétal
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 80
@@ -59,8 +66,8 @@ dimensions:
   width: 2637
   height: 1758
 geo:
-  latitude: 48.631316438333336
-  longitude: 2.4644215833333334
+  latitude: 48.631316
+  longitude: 2.464422
   country: France
   city: Étiolles
   map: true

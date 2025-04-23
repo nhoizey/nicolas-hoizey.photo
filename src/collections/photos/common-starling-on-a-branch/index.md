@@ -34,14 +34,17 @@ tags:
   - Ile de France
   - Montgeron
   - oiseau
-  - Oiseaux
+  - oiseaux
+  - passereaux
   - Passériformes
+  - passerine
   - sauvage
   - starling
-  - Sturnidés
+  - sturnidés
   - Sturnus vulgaris
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

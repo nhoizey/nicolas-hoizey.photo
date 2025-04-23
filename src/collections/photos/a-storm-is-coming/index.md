@@ -1,7 +1,7 @@
 ---
 title: A storm is coming
 file: a-storm-is-coming.jpg
-date: 2019-02-25 17:47:55 +01:00
+date: 2019-02-25 18:47:55 +02:00
 dates:
   iso: "'2019-02-25'"
   human: "'25 February 2019'"
@@ -44,6 +44,7 @@ tags:
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 140
@@ -73,7 +74,7 @@ geo:
   latitude: -1.633125
   longitude: 35.34681
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 174 164 26

@@ -1,7 +1,7 @@
 ---
 title: Augur Buzzard
 file: augur-buzzard.jpg
-date: 2019-02-27 16:24:27 +01:00
+date: 2019-02-27 17:24:27 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -24,7 +24,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - Augur Buzzard
   - bird
   - birds
@@ -39,8 +41,12 @@ tags:
   - Nakuru
   - Nakuru County
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national du lac Nakuru
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 800
@@ -70,7 +76,7 @@ geo:
   latitude: -0.30799
   longitude: 36.088175
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 143 239 16

@@ -21,6 +21,9 @@ tags:
   - America
   - Amérique
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - bird
   - birds
   - Caraïbe
@@ -44,6 +47,10 @@ tags:
   - République dominicaine
   - Samana
   - Samaná
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

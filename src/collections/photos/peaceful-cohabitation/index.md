@@ -1,7 +1,7 @@
 ---
 title: Peaceful cohabitation
 file: peaceful-cohabitation.jpg
-date: 2019-02-27 17:59:01 +01:00
+date: 2019-02-27 18:59:01 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -51,6 +51,7 @@ tags:
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 560.8
@@ -77,10 +78,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.40162166666666665
-  longitude: 36.108338333333336
+  latitude: -0.401622
+  longitude: 36.108338
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 193 153 109

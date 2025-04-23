@@ -19,6 +19,10 @@ gear:
 tags:
   - America
   - Amérique
+  - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - banana plant
   - bananier
   - Caraïbe
@@ -35,7 +39,11 @@ tags:
   - République dominicaine
   - Samana
   - Samaná
+  - sauvage
   - végétal
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

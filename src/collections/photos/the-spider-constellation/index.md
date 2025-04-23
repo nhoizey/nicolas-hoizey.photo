@@ -3,7 +3,7 @@ title: The spider constellation
 file: the-spider-constellation.jpg
 alt_text: A close-up view of a spider in its web, glistening with dew, set
   against a blurred green background.
-date: 2024-10-06 10:24:14 +01:00
+date: 2024-10-06 11:24:14 +02:00
 dates:
   iso: "'2024-10-06'"
   human: "'6 October 2024'"
@@ -19,6 +19,9 @@ gear:
       short: 90mm
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - Arachnid
   - Arachnida
   - arachnide
@@ -43,12 +46,16 @@ tags:
   - pluie
   - rain
   - rosée
+  - sauvage
   - Seine et Marne
   - spider
   - spiders
   - toile
   - water
   - web
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 90

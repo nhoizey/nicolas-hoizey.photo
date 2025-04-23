@@ -3,7 +3,7 @@ title: Close to me
 file: close-to-me.jpg
 alt_text: An adult elephant and a juvenile elephant walking through a grassy
   savanna with trees in the background.
-date: 2019-02-26 16:47:22 +01:00
+date: 2019-02-26 17:47:22 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -21,7 +21,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - arbre
   - elephant
   - éléphant
@@ -40,8 +42,12 @@ tags:
   - Narok County
   - plant
   - reserve
+  - sauvage
   - tree
   - végétal
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 27
@@ -71,7 +77,7 @@ geo:
   latitude: -1.617305
   longitude: 35.30606
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 192 193 52

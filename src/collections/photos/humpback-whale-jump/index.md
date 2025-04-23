@@ -20,7 +20,11 @@ tags:
   - America
   - Amérique
   - animal
-  - Baleine à bosse
+  - animal sauvage
+  - animalière
+  - animaux sauvages
+  - baleine
+  - baleine à bosse
   - Caraïbe
   - Caraïbes
   - Caribbean
@@ -37,7 +41,10 @@ tags:
   - mammalia
   - mammals
   - mammifère
+  - mammifère marin
   - mammifères
+  - mammifères marins
+  - marine mammals
   - Megaptera novaeangliae
   - Mégaptère
   - mer
@@ -48,8 +55,13 @@ tags:
   - Samana
   - Samaná
   - Santuario de Mamíferos Marinos de la Bahía de Samaná
+  - sauvage
   - sea
   - water
+  - whale
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 100

@@ -3,7 +3,7 @@ title: Nothing to see… or maybe…
 file: nothing-to-see-or-maybe.jpg
 alt_text: Expansive savanna landscape with grasslands and scattered bushes under
   a clear sky.
-date: 2019-02-26 17:14:00 +01:00
+date: 2019-02-26 18:14:00 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -47,6 +47,7 @@ tags:
   - wild
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 27
@@ -76,7 +77,7 @@ geo:
   latitude: -1.58439
   longitude: 35.24985
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 162 164 74

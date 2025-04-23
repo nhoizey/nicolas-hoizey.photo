@@ -22,6 +22,9 @@ tags:
   - America
   - Amérique
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - anole
   - Anolis
   - Anolis properus
@@ -46,8 +49,12 @@ tags:
   - République dominicaine
   - Samana
   - Samaná
+  - sauvage
   - Squamata
   - Squamates
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

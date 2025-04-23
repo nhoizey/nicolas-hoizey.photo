@@ -1,7 +1,7 @@
 ---
 title: Juvenile D'Arnaud's Barbets in sunset
 file: juvenile-d-arnaud-s-barbets-in-sunset.jpg
-date: 2019-02-26 18:41:57 +01:00
+date: 2019-02-26 19:41:57 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -22,7 +22,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - Barbican d'Arnaud
   - bird
   - birds
@@ -39,11 +41,15 @@ tags:
   - Narok County
   - noir
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Piciformes
   - reserve
+  - sauvage
   - Trachyphonus darnaudii
   - white
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 581.2
@@ -71,9 +77,9 @@ dimensions:
   height: 2333
 geo:
   latitude: -1.60856
-  longitude: 35.383723333333336
+  longitude: 35.383723
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 193 136 62

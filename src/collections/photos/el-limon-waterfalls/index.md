@@ -23,16 +23,22 @@ tags:
   - Caraïbe
   - Caraïbes
   - Caribbean
+  - cascade
   - cascade El Limón
   - Dominican Republic
+  - eau
   - El Limón
   - Hispaniola
   - péninsule de Samaná
   - República Dominicana
   - République dominicaine
+  - roche
+  - rock
   - salto El Limón
   - Samana
   - Samaná
+  - water
+  - waterfall
 settings:
   focal_length:
     raw: 10

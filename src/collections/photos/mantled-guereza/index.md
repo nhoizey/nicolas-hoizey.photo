@@ -1,7 +1,7 @@
 ---
 title: Mantled guereza
 file: mantled-guereza.jpg
-date: 2019-02-27 18:40:27 +01:00
+date: 2019-02-27 19:40:27 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -60,6 +60,7 @@ tags:
   - végétal
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 265.8
@@ -86,10 +87,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.3200366666666667
+  latitude: -0.320037
   longitude: 36.117015
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 188 132 92

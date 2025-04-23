@@ -1,7 +1,7 @@
 ---
 title: Flamingos wading in wetlands in Amboseli National Park
 file: flamingos-wading-in-wetlands-in-amboseli-national-park.jpg
-date: 2019-03-01 07:43:09 +01:00
+date: 2019-03-01 08:43:09 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
@@ -24,7 +24,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - bird
   - birds
   - eau
@@ -37,13 +39,17 @@ tags:
   - landscape
   - National Park
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Parc national d'Amboseli
   - paysage
   - Phoenicoptéridés
   - Phoenicoptériformes
   - Phoenicopterus roseus
+  - sauvage
   - water
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 200
@@ -70,10 +76,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6604482
-  longitude: 37.269340645
+  latitude: -2.660448
+  longitude: 37.269341
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 185 124 84

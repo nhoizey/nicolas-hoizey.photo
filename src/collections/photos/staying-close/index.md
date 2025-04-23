@@ -1,7 +1,7 @@
 ---
 title: Staying close
 file: staying-close.jpg
-date: 2019-02-27 17:35:21 +01:00
+date: 2019-02-27 18:35:21 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -22,7 +22,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - imparidigités
   - Kenya
   - lac
@@ -46,6 +48,10 @@ tags:
   - rhinocéros
   - rhinocerotidae
   - rhinocérotidés
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 200
@@ -72,10 +78,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.41114333333333336
+  latitude: -0.411143
   longitude: 36.1154
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 118 124 137

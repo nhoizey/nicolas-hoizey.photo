@@ -2,7 +2,7 @@
 title: Don't be afraid, I'm just yawning
 file: don-t-be-afraid-i-m-just-yawning.jpg
 alt_text: A lion in the grass with its mouth wide open.
-date: 2019-02-28 18:07:43 +01:00
+date: 2019-02-28 19:07:43 +02:00
 dates:
   iso: "'2019-02-28'"
   human: "'28 February 2019'"
@@ -25,7 +25,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - felidae
   - félidés
   - félins
@@ -40,6 +42,10 @@ tags:
   - National Park
   - Panthera leo
   - Parc national d'Amboseli
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 800
@@ -67,9 +73,9 @@ dimensions:
   height: 2333
 geo:
   latitude: -2.688755
-  longitude: 37.32309333333333
+  longitude: 37.323093
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 186 160 68

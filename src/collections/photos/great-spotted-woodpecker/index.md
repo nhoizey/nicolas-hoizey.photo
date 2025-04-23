@@ -19,6 +19,9 @@ gear:
       short: 100-400mm
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - arbre
   - bird
   - birds
@@ -36,9 +39,13 @@ tags:
   - Picidés
   - Piciformes
   - plant
+  - sauvage
   - sky
   - tree
   - végétal
+  - wild animal
+  - wild animals
+  - wildlife
   - Woodpecker
 settings:
   focal_length:

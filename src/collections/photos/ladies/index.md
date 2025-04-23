@@ -3,7 +3,7 @@ title: Ladies
 file: ladies.jpg
 alt_text: Three lions lying in the grass with a natural green backdrop, looking
   towards the camera.
-date: 2019-02-25 18:20:47 +01:00
+date: 2019-02-25 19:20:47 +02:00
 dates:
   iso: "'2019-02-25'"
   human: "'25 February 2019'"
@@ -49,6 +49,7 @@ tags:
   - sauvage
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 560
@@ -76,9 +77,9 @@ dimensions:
   height: 2333
 geo:
   latitude: -1.626315
-  longitude: 35.30905166666667
+  longitude: 35.309052
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 143 117 112

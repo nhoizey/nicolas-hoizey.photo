@@ -1,7 +1,7 @@
 ---
 title: Variable sunbird in Maasai Mara National Reserve, Kenya
 file: variable-sunbird-in-maasai-mara-national-reserve-kenya.jpg
-date: 2019-02-26 09:46:54 +01:00
+date: 2019-02-26 10:46:54 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -22,7 +22,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - bird
   - birds
   - black
@@ -36,18 +38,24 @@ tags:
   - Masai Mara
   - Narok County
   - Nectariniidae
-  - Nectariniidés
+  - nectariniidés
   - noir
   - oiseau
-  - Oiseaux
+  - oiseaux
+  - passereaux
   - Passériformes
+  - passerine
   - purple
   - reserve
+  - sauvage
   - Souimanga
   - Souimanga à ventre jaune
   - Sunbird
   - Variable Sunbird
   - violet
+  - wild animal
+  - wild animals
+  - wildlife
   - yellow
   - yellow-bellied sunbird
 settings:
@@ -77,9 +85,9 @@ dimensions:
   height: 2333
 geo:
   latitude: -1.619375
-  longitude: 35.299933333333335
+  longitude: 35.299933
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 212 181 16

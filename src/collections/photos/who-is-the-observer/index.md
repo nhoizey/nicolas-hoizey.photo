@@ -1,7 +1,7 @@
 ---
 title: Who is the observer?
 file: who-is-the-observer.jpg
-date: 2019-02-26 17:51:30 +01:00
+date: 2019-02-26 18:51:30 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -21,7 +21,10 @@ tags:
   - Afrique
   - All-terrain
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
+  - car
   - cetartiodactyla
   - cétartiodactyles
   - even-toed ungulate
@@ -54,6 +57,9 @@ tags:
   - Tout terrain
   - voiture
   - wild
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 27
@@ -80,10 +86,10 @@ dimensions:
   width: 3500
   height: 1702
 geo:
-  latitude: -1.589233055
-  longitude: 35.29284666666667
+  latitude: -1.5892330000000001
+  longitude: 35.292847
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 167 132 74

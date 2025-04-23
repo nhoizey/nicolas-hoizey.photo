@@ -1,7 +1,7 @@
 ---
 title: Newborn African buffalo
 file: newborn-african-buffalo.jpg
-date: 2019-02-27 16:19:11 +01:00
+date: 2019-02-27 17:19:11 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -52,6 +52,7 @@ tags:
   - syncerus caffer
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 560.8
@@ -78,10 +79,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.31449166666666667
-  longitude: 36.085186666666665
+  latitude: -0.31449200000000005
+  longitude: 36.085187
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 195 154 84

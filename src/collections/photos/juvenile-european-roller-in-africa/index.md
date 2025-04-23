@@ -1,7 +1,7 @@
 ---
 title: Juvenile European Roller… in Africa
 file: juvenile-european-roller-in-africa.jpg
-date: 2019-03-02 07:38:24 +01:00
+date: 2019-03-02 08:38:24 +02:00
 dates:
   iso: "'2019-03-02'"
   human: "'2 March 2019'"
@@ -33,7 +33,7 @@ tags:
   - European Roller
   - Kenya
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Rollier d'Europe
   - sauvage
   - Taita Hills
@@ -41,6 +41,7 @@ tags:
   - Tsavo
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 560
@@ -67,10 +68,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -3.5087916666666668
-  longitude: 38.251866666666665
+  latitude: -3.508792
+  longitude: 38.251867
   country: Kenya
-  city: Taita
+  city: Bura
   map: true
 colors:
   vibrant: 198 161 112

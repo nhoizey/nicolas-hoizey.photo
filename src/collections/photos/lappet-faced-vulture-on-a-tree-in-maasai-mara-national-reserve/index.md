@@ -1,7 +1,7 @@
 ---
 title: Lappet-faced vulture on a tree in Maasai Mara National Reserve
 file: lappet-faced-vulture-on-a-tree-in-maasai-mara-national-reserve.jpg
-date: 2019-02-26 08:18:56 +01:00
+date: 2019-02-26 09:18:56 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -24,7 +24,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - bird
   - birds
   - Kenya
@@ -36,12 +38,16 @@ tags:
   - Narok County
   - Nubian vulture
   - oiseau
-  - Oiseaux
+  - oiseaux
   - reserve
+  - sauvage
   - Torgos tracheliotos
   - vautour
   - Vautour oricou
   - vulture
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 800
@@ -71,7 +77,7 @@ geo:
   latitude: -1.59273
   longitude: 35.39019
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 18 124 188

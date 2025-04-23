@@ -39,6 +39,7 @@ tags:
   - volcano
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 56
@@ -65,10 +66,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.7111768400000003
-  longitude: 37.333191621666664
+  latitude: -2.711177
+  longitude: 37.333192
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 4 119 184

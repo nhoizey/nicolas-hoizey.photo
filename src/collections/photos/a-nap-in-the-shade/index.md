@@ -3,7 +3,7 @@ title: A nap in the shade
 file: a-nap-in-the-shade.jpg
 alt_text: Two lions resting in the shade under some bushes, one of them looking
   towards the camera.
-date: 2019-02-26 17:19:34 +01:00
+date: 2019-02-26 18:19:34 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -24,7 +24,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - felidae
   - félidés
   - félins
@@ -42,6 +44,10 @@ tags:
   - Narok County
   - Panthera leo
   - reserve
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 200
@@ -68,10 +74,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.5844033333333334
-  longitude: 35.24989166666667
+  latitude: -1.584403
+  longitude: 35.249892
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 198 203 43

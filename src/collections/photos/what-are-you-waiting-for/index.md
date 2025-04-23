@@ -3,7 +3,7 @@ title: What are you waiting for?
 file: what-are-you-waiting-for.jpg
 alt_text: A hippopotamus grazing on grass in the foreground with a white egret
   standing nearby and a group of wildebeests in the background.
-date: 2019-02-28 17:27:39 +01:00
+date: 2019-02-28 18:27:39 +02:00
 dates:
   iso: "'2019-02-28'"
   human: "'28 February 2019'"
@@ -26,7 +26,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - cetartiodactyla
   - cétartiodactyles
   - even-toed ungulate
@@ -42,6 +44,10 @@ tags:
   - mammifères
   - National Park
   - Parc national d'Amboseli
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 800
@@ -68,10 +74,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6520775666666667
-  longitude: 37.27483906333333
+  latitude: -2.652078
+  longitude: 37.274839
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 112 130 30

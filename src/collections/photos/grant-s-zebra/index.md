@@ -2,7 +2,7 @@
 title: Grant's zebra
 file: grant-s-zebra.jpg
 alt_text: Close-up of a zebra's head and upper body with a grassy background.
-date: 2019-02-25 17:11:46 +01:00
+date: 2019-02-25 18:11:46 +02:00
 dates:
   iso: "'2019-02-25'"
   human: "'25 February 2019'"
@@ -23,7 +23,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - equidae
   - équidés
   - equus quagga
@@ -51,6 +53,10 @@ tags:
   - rayure
   - regard
   - reserve
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
   - zèbre de Burchell
   - zèbre de Grant
   - zèbre des plaines

@@ -1,7 +1,7 @@
 ---
 title: Masai giraffes like tree leaves
 file: masai-giraffes-like-tree-leaves.jpg
-date: 2019-02-26 17:49:52 +01:00
+date: 2019-02-26 18:49:52 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -22,7 +22,9 @@ tags:
   - Africa
   - Afrique
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - cetartiodactyla
   - cétartiodactyles
   - even-toed ungulate
@@ -48,6 +50,10 @@ tags:
   - Masai Mara
   - Narok County
   - reserve
+  - sauvage
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 200
@@ -74,10 +80,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.5892333333333333
-  longitude: 35.29284666666667
+  latitude: -1.5892330000000001
+  longitude: 35.292847
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 185 152 103

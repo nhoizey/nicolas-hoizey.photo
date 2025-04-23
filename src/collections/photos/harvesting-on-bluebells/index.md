@@ -2,7 +2,7 @@
 title: Harvesting on bluebells
 file: harvesting-on-bluebells.jpg
 alt_text: Macro photo of a bee foraging on a bluebell
-date: 2008-06-14 13:59:26 +01:00
+date: 2008-06-14 14:59:26 +02:00
 dates:
   iso: "'2008-06-14'"
   human: "'14 June 2008'"
@@ -29,7 +29,7 @@ tags:
   - fleur
   - insect
   - insecte
-  - Insectes
+  - insectes
   - insects
   - macro
   - plant
@@ -39,6 +39,7 @@ tags:
   - violet
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 100

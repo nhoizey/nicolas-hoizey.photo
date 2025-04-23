@@ -2,7 +2,7 @@
 title: Mosquito
 file: mosquito.jpg
 alt_text: Macro photo of a common mosquito
-date: 2012-04-29 15:27:22 +01:00
+date: 2012-04-29 16:27:22 +02:00
 dates:
   iso: "'2012-04-29'"
   human: "'29 April 2012'"
@@ -32,6 +32,7 @@ tags:
   - white
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 100
@@ -57,8 +58,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.018102371666664
-  longitude: 3.702400643333333
+  latitude: 48.018102
+  longitude: 3.702401
   country: France
   city: Venizy
   map: true

@@ -1,7 +1,7 @@
 ---
 title: Morning stroll
 file: morning-stroll.jpg
-date: 2019-03-01 06:49:01 +01:00
+date: 2019-03-01 07:49:01 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
@@ -24,7 +24,9 @@ tags:
   - Amboseli
   - Amboseli National Park
   - animal
+  - animal sauvage
   - animalière
+  - animaux sauvages
   - défense
   - défense d'éléphant
   - elephant
@@ -50,6 +52,9 @@ tags:
   - sunrise
   - tusk
   - wild
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 378.8
@@ -76,10 +81,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.7119634433333335
-  longitude: 37.35462055333333
+  latitude: -2.711963
+  longitude: 37.354621
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 190 117 60

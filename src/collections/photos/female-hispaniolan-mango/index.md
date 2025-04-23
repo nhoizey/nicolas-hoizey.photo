@@ -21,6 +21,9 @@ tags:
   - America
   - Amérique
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - Anthracothorax dominicus
   - Apodiformes
   - bird
@@ -45,7 +48,11 @@ tags:
   - République dominicaine
   - Samana
   - Samaná
+  - sauvage
   - Trochilidae
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

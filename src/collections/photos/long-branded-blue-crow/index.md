@@ -3,7 +3,7 @@ title: Long branded blue crow
 file: long-branded-blue-crow.jpg
 alt_text: A dark brown butterfly with white spots on its wings is perched on a
   bright purple thistle flower with a blurred green background.
-date: 2012-11-29 13:23:17 +01:00
+date: 2012-11-29 14:23:17 +02:00
 dates:
   iso: "'2012-11-29'"
   human: "'29 November 2012'"
@@ -37,10 +37,10 @@ tags:
   - Honfleur
   - insect
   - insecte
-  - Insectes
+  - insectes
   - insects
   - Lepidoptera
-  - Lépidoptères
+  - lépidoptère
   - macro
   - Naturospace
   - Naturospace Butterfly House
@@ -52,6 +52,7 @@ tags:
   - vert
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 100

@@ -31,7 +31,7 @@ tags:
   - Ile de France
   - Montgeron
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Perruche à collier
   - pink
   - Psittacidae
@@ -46,6 +46,7 @@ tags:
   - vert
   - wild animal
   - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 400

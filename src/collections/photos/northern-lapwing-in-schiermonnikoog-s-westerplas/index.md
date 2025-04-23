@@ -20,6 +20,9 @@ gear:
       short: 1.4×
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - bird
   - birds
   - Charadriidae
@@ -36,11 +39,12 @@ tags:
   - Nederland
   - northern lapwing
   - oiseau
-  - Oiseaux
+  - oiseaux
   - Pays-Bas
   - peewit
   - pewit
   - pyewipe
+  - sauvage
   - Schiermonnikoog
   - tewit
   - The Netherlands
@@ -48,6 +52,9 @@ tags:
   - Vanellus vanellus
   - Vanneau huppé
   - water
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 560
