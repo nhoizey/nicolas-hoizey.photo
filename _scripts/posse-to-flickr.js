@@ -63,7 +63,9 @@ const posseToFlickr = async () => {
 		`src/collections/photos/${photoToPosseSlug}/index.md`,
 	);
 
-	const tagsForGroups = new Set(photoToPosseMatter.data.tags.map((tag) => slugify(tag)));
+	const tagsForGroups = new Set(
+		photoToPosseMatter.data.tags.map((tag) => slugify(tag)),
+	);
 	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.camera.brand));
 	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.camera.model));
 	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.lenses[0].model));
@@ -143,7 +145,10 @@ const posseToFlickr = async () => {
 			.add("2719884@N21")
 			.add("1286217@N25")
 			.add("14702046@N25")
-			.add("2122493@N22").add("2719884@N21").add("40025645@N00").add("782584@N21");
+			.add("2122493@N22")
+			.add("2719884@N21")
+			.add("40025645@N00")
+			.add("782584@N21");
 	}
 
 	if (tagsForGroups.has("bird") && tagsForGroups.has("africa")) {
@@ -163,15 +168,58 @@ const posseToFlickr = async () => {
 	}
 
 	if (tagsForGroups.has("bird") && tagsForGroups.has("wildlife")) {
-		groups.add("709187@N23").add("1568944@N22").add("1408810@N24").add("14775412@N21");
+		groups
+			.add("709187@N23")
+			.add("1568944@N22")
+			.add("1408810@N24")
+			.add("14775412@N21");
 	}
 
 	if (tagsForGroups.has("bird")) {
-		groups.add("670107@N23").add("1759665@N23").add("761059@N20").add("1127142@N24").add("1392659@N24").add("51569276@N00").add("490652@N24").add("2356068@N22").add("1564986@N20").add("709020@N22").add("2544388@N20").add("58234477@N00").add("52379160@N00").add("1264492@N21").add("62499500@N00").add("14477233@N00").add("1259323@N25").add("1594327@N22").add("2870367@N22").add("44319075@N00").add("2897744@N23").add("14825259@N22").add("82953312@N00").add("878749@N23").add("318169@N20").add("626519@N25").add("1613349@N24").add("810607@N24").add("4044781@N25").add("3006485@N23").add("4506897@N23").add("69512949@N00").add("2788285@N24").add("2913475@N23");
+		groups
+			.add("670107@N23")
+			.add("1759665@N23")
+			.add("761059@N20")
+			.add("1127142@N24")
+			.add("1392659@N24")
+			.add("51569276@N00")
+			.add("490652@N24")
+			.add("2356068@N22")
+			.add("1564986@N20")
+			.add("709020@N22")
+			.add("2544388@N20")
+			.add("58234477@N00")
+			.add("52379160@N00")
+			.add("1264492@N21")
+			.add("62499500@N00")
+			.add("14477233@N00")
+			.add("1259323@N25")
+			.add("1594327@N22")
+			.add("2870367@N22")
+			.add("44319075@N00")
+			.add("2897744@N23")
+			.add("14825259@N22")
+			.add("82953312@N00")
+			.add("878749@N23")
+			.add("318169@N20")
+			.add("626519@N25")
+			.add("1613349@N24")
+			.add("810607@N24")
+			.add("4044781@N25")
+			.add("3006485@N23")
+			.add("4506897@N23")
+			.add("69512949@N00")
+			.add("2788285@N24")
+			.add("2913475@N23");
 	}
 
 	if (tagsForGroups.has("kingfisher")) {
-		groups.add("712689@N23").add("1052227@N24").add("1017889@N22").add("433144@N22").add("40029665@N00");
+		groups
+			.add("712689@N23")
+			.add("1052227@N24")
+			.add("1017889@N22")
+			.add("433144@N22")
+			.add("40029665@N00");
 	}
 
 	if (tagsForGroups.has("marine-mammals")) {
@@ -209,7 +257,18 @@ const posseToFlickr = async () => {
 			.add("49032118@N00")
 			.add("1651475@N20")
 			.add("579191@N22")
-			.add("93538174@N00").add("1390236@N25").add("797825@N22").add("576928@N23").add("24303550@N00").add("1841383@N22").add("1586745@N24").add("1521228@N25").add("399695@N21").add("91806330@N00").add("1223872@N22").add("43568224@N00");
+			.add("93538174@N00")
+			.add("1390236@N25")
+			.add("797825@N22")
+			.add("576928@N23")
+			.add("24303550@N00")
+			.add("1841383@N22")
+			.add("1586745@N24")
+			.add("1521228@N25")
+			.add("399695@N21")
+			.add("91806330@N00")
+			.add("1223872@N22")
+			.add("43568224@N00");
 	}
 
 	if (tagsForGroups.has("fujifilm")) {
