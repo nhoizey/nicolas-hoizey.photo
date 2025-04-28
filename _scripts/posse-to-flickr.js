@@ -62,19 +62,17 @@ const posseToFlickr = async () => {
 	const photoToPosseMatter = matter.read(
 		`src/collections/photos/${photoToPosseSlug}/index.md`,
 	);
-	// console.dir(photoToPosseMatter, { depth: null });
 
-	const tagsForGroups = new Set(photoToPosseMatter.data.tags);
-	tagsForGroups.add(photoToPosseMatter.data.gear.camera.brand);
-	tagsForGroups.add(photoToPosseMatter.data.gear.camera.model);
-	tagsForGroups.add(photoToPosseMatter.data.gear.lenses[0].model);
+	const tagsForGroups = new Set(photoToPosseMatter.data.tags.map((tag) => slugify(tag)));
+	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.camera.brand));
+	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.camera.model));
+	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.lenses[0].model));
 
 	// Get the list of galleries with this photo
 	const galleries = await glob([`**/${photoToPosseSlug}.md`], {
 		cwd: "src/pages/galleries/",
 		onlyDirectories: false,
 	});
-
 	for (const gallery of galleries) {
 		for (const gallerySlug of gallery.split("/").slice(0, -1)) {
 			tagsForGroups.add(gallerySlug);
@@ -82,141 +80,180 @@ const posseToFlickr = async () => {
 	}
 
 	const groups = new Set();
-	for (const tag of tagsForGroups) {
-		console.log(slugify(tag));
-		switch (slugify(tag)) {
-			case "travels":
-				groups
-					.add("63277308@N00")
-					.add("460979@N25")
-					.add("402895@N25")
-					.add("11488522@N00")
-					.add("48926546@N00")
-					.add("88527108@N00")
-					.add("14730570@N21")
-					.add("41425956@N00")
-					.add("74794523@N00")
-					.add("651467@N20")
-					.add("2904475@N20")
-					.add("11427634@N00")
-					.add("1412034@N24");
-				break;
-			case "beach":
-				groups
-					.add("1172962@N22")
-					.add("808899@N25")
-					.add("677271@N20")
-					.add("724095@N25")
-					.add("81682017@N00")
-					.add("664924@N23")
-					.add("20766682@N00")
-					.add("1224189@N23")
-					.add("1090052@N22")
-					.add("21939921@N00")
-					.add("1179414@N22")
-					.add("931380@N21")
-					.add("92767609@N00");
-				break;
-			case "caribbean":
-				groups.add("2150860@N23").add("52195003@N00");
-				break;
-			case "dominican-republic":
-				groups.add("76716807@N00").add("79884596@N00");
-				break;
-			case "animal":
-				groups
-					.add("61595479@N00")
-					.add("387770@N21")
-					.add("47643757@N00")
-					.add("632084@N23")
-					.add("32733435@N00")
-					.add("35025468@N00")
-					.add("93779905@N00")
-					.add("19126019@N00")
-					.add("3601763@N25")
-					.add("646385@N24")
-					.add("860455@N21")
-					.add("647756@N24")
-					.add("2719884@N21")
-					.add("1286217@N25")
-					.add("14702046@N25")
-					.add("2122493@N22");
-				break;
-			case "marine-mammals":
-				groups.add("34724210@N00");
-				break;
-			case "catacea":
-				groups.add("87972607@N00").add("74159600@N00");
-				break;
-			case "whale":
-				groups.add("722693@N25").add("23226934@N00").add("1721972@N20");
-				break;
-			case "wildlife":
-				groups
-					.add("79625603@N00")
-					.add("49502993915@N01")
-					.add("1780111@N23")
-					.add("1744900@N21")
-					.add("517805@N22")
-					.add("915922@N23")
-					.add("2812345@N21")
-					.add("2332929@N20")
-					.add("2740203@N20")
-					.add("1831637@N21")
-					.add("2624147@N23")
-					.add("755229@N23")
-					.add("24376064@N00")
-					.add("897629@N21")
-					.add("613546@N23")
-					.add("49032118@N00")
-					.add("1651475@N20")
-					.add("579191@N22")
-					.add("93538174@N00");
-				break;
-			case "fujifilm":
-				groups
-					.add("1942023@N20")
-					.add("1927840@N20")
-					.add("4001926@N22")
-					.add("1763261@N25")
-					.add("14665600@N23")
-					.add("2756287@N25")
-					.add("1874432@N24")
-					.add("1426195@N22")
-					.add("728696@N23")
-					.add("1407416@N22")
-					.add("843996@N23")
-					.add("1179025@N25")
-					.add("2765150@N21")
-					.add("2746396@N25")
-					.add("2741340@N22")
-					.add("2140999@N24")
-					.add("1878068@N23")
-					.add("93484108@N00");
-				break;
-			case "x-t2":
-				groups
-					.add("2970680@N25")
-					.add("2841709@N25")
-					.add("2983137@N20")
-					.add("3057090@N21")
-					.add("4001926@N22")
-					.add("2925177@N21");
-				break;
-			case "x-t3":
-				groups.add("4001926@N22");
-				break;
-			case "fujinon-xf-10-24mm-f-4-0-r-ois":
-				groups
-					.add("2077382@N20")
-					.add("2621709@N24")
-					.add("2010873@N23")
-					.add("2654405@N20");
-				break;
-			default:
-				groups.add("3109374@N20").add("14625602@N25").add("14805334@N23");
-				break;
-		}
+
+	// Default groups that work for all photos
+	groups.add("3109374@N20").add("14625602@N25").add("14805334@N23");
+
+	if (tagsForGroups.has("travels")) {
+		groups
+			.add("63277308@N00")
+			.add("460979@N25")
+			.add("402895@N25")
+			.add("11488522@N00")
+			.add("48926546@N00")
+			.add("88527108@N00")
+			.add("14730570@N21")
+			.add("41425956@N00")
+			.add("74794523@N00")
+			.add("651467@N20")
+			.add("2904475@N20")
+			.add("11427634@N00")
+			.add("1412034@N24");
+	}
+
+	if (tagsForGroups.has("beach")) {
+		groups
+			.add("1172962@N22")
+			.add("808899@N25")
+			.add("677271@N20")
+			.add("724095@N25")
+			.add("81682017@N00")
+			.add("664924@N23")
+			.add("20766682@N00")
+			.add("1224189@N23")
+			.add("1090052@N22")
+			.add("21939921@N00")
+			.add("1179414@N22")
+			.add("931380@N21")
+			.add("92767609@N00");
+	}
+
+	if (tagsForGroups.has("caribbean")) {
+		groups.add("2150860@N23").add("52195003@N00");
+	}
+
+	if (tagsForGroups.has("dominican-republic")) {
+		groups.add("76716807@N00").add("79884596@N00");
+	}
+
+	if (tagsForGroups.has("animal")) {
+		groups
+			.add("61595479@N00")
+			.add("387770@N21")
+			.add("47643757@N00")
+			.add("632084@N23")
+			.add("32733435@N00")
+			.add("35025468@N00")
+			.add("93779905@N00")
+			.add("19126019@N00")
+			.add("3601763@N25")
+			.add("646385@N24")
+			.add("860455@N21")
+			.add("647756@N24")
+			.add("2719884@N21")
+			.add("1286217@N25")
+			.add("14702046@N25")
+			.add("2122493@N22").add("2719884@N21").add("40025645@N00").add("782584@N21");
+	}
+
+	if (tagsForGroups.has("bird") && tagsForGroups.has("africa")) {
+		groups.add("74983586@N00");
+	}
+
+	if (tagsForGroups.has("bird") && tagsForGroups.has("france")) {
+		groups.add("941858@N24");
+	}
+
+	if (tagsForGroups.has("bird") && tagsForGroups.has("sweden")) {
+		groups.add("952155@N20");
+	}
+
+	if (tagsForGroups.has("bird") && tagsForGroups.has("europe")) {
+		groups.add("842458@N22");
+	}
+
+	if (tagsForGroups.has("bird") && tagsForGroups.has("wildlife")) {
+		groups.add("709187@N23").add("1568944@N22").add("1408810@N24").add("14775412@N21");
+	}
+
+	if (tagsForGroups.has("bird")) {
+		groups.add("670107@N23").add("1759665@N23").add("761059@N20").add("1127142@N24").add("1392659@N24").add("51569276@N00").add("490652@N24").add("2356068@N22").add("1564986@N20").add("709020@N22").add("2544388@N20").add("58234477@N00").add("52379160@N00").add("1264492@N21").add("62499500@N00").add("14477233@N00").add("1259323@N25").add("1594327@N22").add("2870367@N22").add("44319075@N00").add("2897744@N23").add("14825259@N22").add("82953312@N00").add("878749@N23").add("318169@N20").add("626519@N25").add("1613349@N24").add("810607@N24").add("4044781@N25").add("3006485@N23").add("4506897@N23").add("69512949@N00").add("2788285@N24").add("2913475@N23");
+	}
+
+	if (tagsForGroups.has("kingfisher")) {
+		groups.add("712689@N23").add("1052227@N24").add("1017889@N22").add("433144@N22").add("40029665@N00");
+	}
+
+	if (tagsForGroups.has("marine-mammals")) {
+		groups.add("34724210@N00");
+	}
+
+	if (tagsForGroups.has("cetacea")) {
+		groups.add("87972607@N00").add("74159600@N00");
+	}
+
+	if (tagsForGroups.has("whale")) {
+		groups.add("722693@N25").add("23226934@N00").add("1721972@N20");
+	}
+
+	if (tagsForGroups.has("wildlife") && tagsForGroups.has("africa")) {
+		groups.add("99071611@N00").add("2473768@N21");
+	}
+
+	if (tagsForGroups.has("wildlife")) {
+		groups
+			.add("79625603@N00")
+			.add("49502993915@N01")
+			.add("1780111@N23")
+			.add("1744900@N21")
+			.add("517805@N22")
+			.add("915922@N23")
+			.add("2812345@N21")
+			.add("2332929@N20")
+			.add("2740203@N20")
+			.add("1831637@N21")
+			.add("755229@N23")
+			.add("24376064@N00")
+			.add("897629@N21")
+			.add("613546@N23")
+			.add("49032118@N00")
+			.add("1651475@N20")
+			.add("579191@N22")
+			.add("93538174@N00").add("1390236@N25").add("797825@N22").add("576928@N23").add("24303550@N00").add("1841383@N22").add("1586745@N24").add("1521228@N25").add("399695@N21").add("91806330@N00").add("1223872@N22").add("43568224@N00");
+	}
+
+	if (tagsForGroups.has("fujifilm")) {
+		groups
+			.add("1942023@N20")
+			.add("1927840@N20")
+			.add("4001926@N22")
+			.add("1763261@N25")
+			.add("14665600@N23")
+			.add("2756287@N25")
+			.add("1874432@N24")
+			.add("1426195@N22")
+			.add("728696@N23")
+			.add("1407416@N22")
+			.add("843996@N23")
+			.add("1179025@N25")
+			.add("2765150@N21")
+			.add("2746396@N25")
+			.add("2741340@N22")
+			.add("2140999@N24")
+			.add("1878068@N23")
+			.add("93484108@N00");
+	}
+
+	if (tagsForGroups.has("x-t2")) {
+		groups
+			.add("2970680@N25")
+			.add("2841709@N25")
+			.add("2983137@N20")
+			.add("3057090@N21")
+			.add("4001926@N22")
+			.add("2925177@N21");
+	}
+
+	if (tagsForGroups.has("x-t3")) {
+		groups.add("4001926@N22");
+	}
+
+	if (tagsForGroups.has("fujinon-xf-10-24mm-f-4-0-r-ois")) {
+		groups
+			.add("2077382@N20")
+			.add("2621709@N24")
+			.add("2010873@N23")
+			.add("2654405@N20");
 	}
 
 	console.info(`
