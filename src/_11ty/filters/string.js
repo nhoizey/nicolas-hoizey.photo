@@ -1,16 +1,16 @@
 import slugifyString from "../_utils/slugify.js";
 
 const replaceHashtags = {
-	"#LandscapesAndNature": ["#Landscape", "#LandscapePhotography"],
+	"#LandscapesAndNature": ["#LandscapePhotography"],
 	"#Miscellaneous": [],
 	"#MountainLandscapePhotography": ["#Mountain"],
-	"#Travels": ["#Travel", "#TravelPhotography"],
+	"#Travels": ["#TravelPhotography"],
 	"#RiversAndLakes": ["#Water"],
 	"#MaasaiMaraNationalReserve": ["#MaasaiMara"],
 	"#LakeNakuruNationalPark": ["#LakeNakuru"],
 	"#AmboseliNationalPark": ["#Amboseli"],
 	"#TsavoWestNationalPark": ["#Tsavo"],
-	"#HOScale": ["#HOScale", "#ToyPhotography"],
+	"#HOScale": ["#ToyPhotography"],
 };
 
 export const slugify = (string) => slugifyString(string);
