@@ -18,6 +18,41 @@ gear:
     - brand: Fujifilm
       model: Fujinon XF 100-400mm f/4.5-5.6 R LM OIS WR
       short: 100-400mm
+tags:
+  - America
+  - Amérique
+  - arbre
+  - Caraïbe
+  - Caraïbes
+  - Caribbean
+  - ciel
+  - cloud
+  - coucher de soleil
+  - Dominican Republic
+  - eau
+  - evening
+  - Grand Bahia Principe El Portillo
+  - Hispaniola
+  - Hôtel Grand Bahia Principe El Portillo
+  - Las Terrenas
+  - mer
+  - nuage
+  - palm tree
+  - palmier
+  - péninsule de Samaná
+  - plant
+  - República Dominicana
+  - République dominicaine
+  - Samana
+  - Samaná
+  - sea
+  - sky
+  - soir
+  - soleil
+  - sunset
+  - tree
+  - végétal
+  - water
 settings:
   focal_length:
     raw: 100
