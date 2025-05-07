@@ -1,12 +1,24 @@
+#!/usr/bin/env node
+
 // Load .env variables with dotenv
 import {} from "dotenv/config";
 
 import path from "node:path";
+import { argv, exit } from 'node:process';
+
 import glob from "fast-glob";
 import { createFlickr } from "flickr-sdk";
 import matter from "gray-matter";
 
 import slugify from "../src/_11ty/_utils/slugify.js";
+
+if (argv.length < 3 || !["posse", "test"].includes(argv[2])) {
+	console.error("Usage: ./_scripts/posse-to-flickr.js <mode>");
+	console.error("  mode: 'posse' or 'test'");
+	exit(1);
+}
+
+const MODE = argv[2];
 
 const { flickr } = createFlickr({
 	consumerKey: process.env.FLICKR_CONSUMER_KEY,
@@ -38,26 +50,41 @@ const posseToFlickr = async () => {
 		return dateA - dateB;
 	});
 
+	if (photosToPosse.length === 0) {
+		console.log("No new photos to posse.");
+		exit(0);
+	} else {
+		console.log(`${photosToPosse.length} new photo${photosToPosse.length > 1 ? 's' : ''} still to POSSE.`);
+	}
+
 	const photoToPosse = photosToPosse[0];
 	const photoToPosseSlug = slugify(photoToPosse.title);
 
-	const { upload } = createFlickr({
-		consumerKey: process.env.FLICKR_CONSUMER_KEY,
-		consumerSecret: process.env.FLICKR_CONSUMER_SECRET,
-		oauthToken: process.env.FLICKR_OAUTH_TOKEN,
-		oauthTokenSecret: process.env.FLICKR_OAUTH_TOKEN_SECRET,
-	});
+	if (MODE === "test") {
+		console.log('');
+		console.log(`Test mode: ${photoToPosse.title} (${photoToPosseSlug})`);
+		console.dir(photoToPosse);
+	}
 
-	const photoData = await upload(
-		path.resolve(
-			`src/collections/photos/${photoToPosseSlug}/${photoToPosseSlug}.jpg`,
-		),
-	);
-	const photoId = photoData.id;
+	if (MODE === "posse") {
+		const { upload } = createFlickr({
+			consumerKey: process.env.FLICKR_CONSUMER_KEY,
+			consumerSecret: process.env.FLICKR_CONSUMER_SECRET,
+			oauthToken: process.env.FLICKR_OAUTH_TOKEN,
+			oauthTokenSecret: process.env.FLICKR_OAUTH_TOKEN_SECRET,
+		});
 
-	console.log(
-		`Uploaded photo "${photoToPosse.title}" to Flickr: https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
-	);
+		const photoData = await upload(
+			path.resolve(
+				`src/collections/photos/${photoToPosseSlug}/${photoToPosseSlug}.jpg`,
+			),
+		);
+		const photoId = photoData.id;
+
+		console.log(
+			`Uploaded photo "${photoToPosse.title}" to Flickr: https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
+		);
+	}
 
 	const photoToPosseMatter = matter.read(
 		`src/collections/photos/${photoToPosseSlug}/index.md`,
@@ -79,6 +106,12 @@ const posseToFlickr = async () => {
 		for (const gallerySlug of gallery.split("/").slice(0, -1)) {
 			tagsForGroups.add(gallerySlug);
 		}
+	}
+
+	if (MODE === "test") {
+		console.log('');
+		console.log('Tags for groups:');
+		console.dir(tagsForGroups);
 	}
 
 	const groups = new Set();
@@ -315,17 +348,28 @@ const posseToFlickr = async () => {
 			.add("2654405@N20");
 	}
 
-	console.info(`
-Trying to add the photo to ${groups.size} groups…`);
-	for (const groupId of groups) {
-		await flickr("flickr.groups.pools.add", {
-			group_id: groupId,
-			photo_id: photoId,
-		}).catch((error) => {
-			console.error(
-				`Error adding photo to group https://flickr.com/groups/${groupId}/: ${error.message}`,
-			);
-		});
+	if (MODE === "test") {
+		console.log('');
+		console.log(`${groups.size} groups to add the photo to:`);
+		console.dir(groups);
+	}
+
+	if (MODE === "posse") {
+		console.info(`
+	Trying to add the photo to ${groups.size} groups…`);
+		for (const groupId of groups) {
+			await flickr("flickr.groups.pools.add", {
+				group_id: groupId,
+				photo_id: photoId,
+			}).catch((error) => {
+				console.log('');
+				console.dir(error);
+
+				console.error(
+					`Error adding photo to group https://flickr.com/groups/${groupId}/: ${error.message}`,
+				);
+			});
+		}
 	}
 };
 
