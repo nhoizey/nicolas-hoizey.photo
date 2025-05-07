@@ -4,7 +4,7 @@ file: the-miniature-bistro.jpg
 alt_text: A detailed miniature model of a vintage cafe interior with wooden
   furniture, decorative bar counter, hanging lamps, and various accessories.
   Vintage posters adorn the walls, and there is a tiled floor.
-date: 2006-12-26 16:02:08 +01:00
+date: 2006-12-26 17:02:08 +02:00
 dates:
   iso: "'2006-12-26'"
   human: "'26 December 2006'"
@@ -59,8 +59,8 @@ dimensions:
   width: 3327
   height: 2218
 geo:
-  latitude: 45.761844625
-  longitude: 4.827308956666666
+  latitude: 45.761845
+  longitude: 4.827309
   country: France
   city: Lyon
   map: true
@@ -74,7 +74,7 @@ colors:
 lqip: data:image/webp;base64,UklGRggCAABXRUJQVlA4IPwBAADwEgCdASpkAEMAP12Yw1iyqygjtRQ/UlAriUAZihRVNxYdnVHvEPxXRIoIaxT4vQCJ+e1JvPPqb51FEjTNGkxeeG81XQ4G+bu9RzM/PalEEOnY2O41Yfw0AWUCx0pSyNCnF7hPzS++cMKr+BA1d5Ara5VPEr/mldRUpqOzwpK0U9n9YAC649GFTTN8YPcXzRnaQEe+ovMn5OoVV6xPjRegAP59HTyKpqofzi9Mm44WOGhXBvkLtV8TurBCrY51k+l7hyZUMsbdga7fC56kc2Pgia420kaWbi3YUAOl9kbhBrgIPPeRAYGlT6nP6EKJAdZ3xm2GXyP+lM20V7qGbaDPAzv1UCRR0j6/gAwNu+CtUm29jqFX/UUJIEVHAS3xLp/8YJ/OZurVcO+uPdEqTBiIj1CreVLVASdej6AeW59c5uy3mpWR7aCLBf2AuioPRQ4ADC7LGbgRWk3eRlbFSmchJihE/1XTXuUGkH1oTICZQ/oBFPXhMKjpSo2azmgzlBLjGI0ovGlqZqgMz5jtbey0sFP/JrAxqDqrsJ00+SIaFYr404UP6KqPr7ofAKZr80nd5oxN3P1Dy8FZKaA2FTmojDxsFLCkY6AGYbMIPAgit9t3Lz/QpaJvzw+n3mVyd2g0HzsD1Jkh5gDs3gP8tCOkQGyuXe2LIyzhwAAA
 ---
 
-The Cinema and Miniature museum is located in the Presqu'île, the central part of the City of Lyon, France.
+The Cinema and Miniature museum is located in the old part of the City of Lyon, France.
 
 The museum's aim is to bring the secrets of film-making to a wider public, through a selection of fascinating artifacts that interact with each other. 
 

@@ -64,6 +64,7 @@ geo:
   longitude: 34.32469322666667
   country: Égypte
   city: Al Qusir
+  map: true
 colors:
   vibrant: 172 133 76
   darkVibrant: 102 63 30
@@ -74,8 +75,6 @@ colors:
 lqip: data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAAAQCACdASpkAEsAP3Guyl+0rTKnJ1QMcpAuCWMAzuxIHPHLqmz7SOZ/4vRPQ+cS+ggu6DAIfw0MGBxsDST9s0cOkgN+kwuflmugAP7Jj8y/FuIT3IVYyWOEbta48K049YH6SgeMGQvkmpMgvt9bEkacr0Y28CMPjRQCfIuT8Y+lkKZghhkz/K3Bkp3B0qLzYx7+Xii0L19mALPyrfJAgTT0F0807pybabAldObh6CwX2swrJScHIFLH5B/HGJ8PdiBXXSuu/oo+iTptRe8EqHQacD4eu6UZ9EFOWlxckAAAAA==
 missing_data:
   lens: true
-  map: true
-  opengraph: true
 ---
 
 When you turn your back on the sea, a fully-equipped diver gives a particularly funny view, as if he were in the middle of a desert.

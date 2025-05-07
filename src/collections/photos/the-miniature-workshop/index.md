@@ -4,7 +4,7 @@ file: the-miniature-workshop.jpg
 alt_text: A detailed miniature of an old-fashioned workshop interior with a
   spinning wheel, shelves with pottery, a fireplace, and a ladder leading to an
   upper level.
-date: 2006-12-26 16:00:35 +01:00
+date: 2006-12-26 17:00:35 +02:00
 dates:
   iso: "'2006-12-26'"
   human: "'26 December 2006'"
@@ -59,8 +59,8 @@ dimensions:
   width: 3294
   height: 2196
 geo:
-  latitude: 45.761844625
-  longitude: 4.827308956666666
+  latitude: 45.761845
+  longitude: 4.827309
   country: France
   city: Lyon
   map: true
@@ -74,7 +74,7 @@ colors:
 lqip: data:image/webp;base64,UklGRv4BAABXRUJQVlA4IPIBAADQEACdASpkAEMAP3GewFi0qyejsVa9+pAuCWZsitEA3LWfBU72s3xHCiLubiPDVVa6XRK3d6kT5xZe++V6851ffn6Y+DPDRl0I3iJaJFCRxCeO7IC4Iwf52dNGoMEjrEQoc2YRH6lFYbOeclGG5EDcooh7lMh492cSVQOBq1Dc0TPT5U9VQpfWQGoulra0AAD+7+X+T+rNcTr4f7IeMPOc3qgOjx+9tFa7z0kNJS23aDj49Nbmu5iDAU3xG5oInGin/VSTc5YqYIhp+XlkYUR7ZzktUzKo3u2kaDNcgc6Y9lHlVaD1ilV+Dt3YCft4VuMIWcUIHh8NgZ7TZhZGcdIHGdvWgIjqP8uWGFRB/uQGDhxk4RlX9b1RN/LzK/G+RoCuQ3AxK3mLtsR5plnuyDe6+A+mmbLIDB3aMlE3AZfhedNJpz9W0Rjuh6sgfxQyZGMaAgskTD19PtfXLYk72bDlzegwysT2IRBN4FCox6WYIMdZRlgaI89UCjzjFb9et4nX0Ur4yWqqyY0Q2/C6A6eNkqRtVIsS9yE6VabVThb3NokJpgiPKepa2uOvBC861+qCkgU+gmOwMRYv9o6ynkmmsw0BfRlyDjNdU6EfJBxV5ALpvj9wpRSWE1Sk2xsLw+UAsfhsQSCY6Ae22wu3SyngAAA=
 ---
 
-The Cinema and Miniature museum is located in the Presqu'île, the central part of the City of Lyon, France.
+The Cinema and Miniature museum is located in the old part of the City of Lyon, France.
 
 The museum's aim is to bring the secrets of film-making to a wider public, through a selection of fascinating artifacts that interact with each other. 
 
