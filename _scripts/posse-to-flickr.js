@@ -29,6 +29,8 @@ const { flickr } = createFlickr({
 
 const FEED_URL = "https://nicolas-hoizey.photo/feeds/mastodon/photos.json";
 
+let photoId;
+
 const posseToFlickr = async () => {
 	const flickrPhotos = await flickr("flickr.people.getPublicPhotos", {
 		user_id: process.env.FLICKR_USER_ID,
@@ -60,9 +62,11 @@ const posseToFlickr = async () => {
 	const photoToPosse = photosToPosse[0];
 	const photoToPosseSlug = slugify(photoToPosse.title);
 
+	console.log('');
+	console.log(`Next photo to POSSE:
+${photoToPosse.title}`);
+
 	if (MODE === "test") {
-		console.log('');
-		console.log(`Test mode: ${photoToPosse.title} (${photoToPosseSlug})`);
 		console.dir(photoToPosse);
 	}
 
@@ -79,10 +83,11 @@ const posseToFlickr = async () => {
 				`src/collections/photos/${photoToPosseSlug}/${photoToPosseSlug}.jpg`,
 			),
 		);
-		const photoId = photoData.id;
+		photoId = photoData.id;
 
 		console.log(
-			`Uploaded photo "${photoToPosse.title}" to Flickr: https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
+			`Uploaded to Flickr:
+https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 		);
 	}
 
@@ -95,7 +100,9 @@ const posseToFlickr = async () => {
 	);
 	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.camera.brand));
 	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.camera.model));
-	tagsForGroups.add(slugify(photoToPosseMatter.data.gear.lenses[0].model));
+	if (photoToPosseMatter.data.gear.lenses?.length > 0) {
+		tagsForGroups.add(slugify(photoToPosseMatter.data.gear.lenses[0].model));
+	}
 
 	// Get the list of galleries with this photo
 	const galleries = await glob([`**/${photoToPosseSlug}.md`], {
@@ -119,6 +126,10 @@ const posseToFlickr = async () => {
 	// Default groups that work for all photos
 	groups.add("3109374@N20").add("14625602@N25").add("14805334@N23");
 
+	/* **************************************************************
+	 * Location groups
+	 * **************************************************************/
+
 	if (tagsForGroups.has("travels")) {
 		groups
 			.add("63277308@N00")
@@ -135,6 +146,34 @@ const posseToFlickr = async () => {
 			.add("11427634@N00")
 			.add("1412034@N24");
 	}
+
+	if (tagsForGroups.has("europe")) {
+		groups.add('66465160@N00');
+	}
+
+	if (tagsForGroups.has("the-netherlands")) {
+		groups.add("2159224@N22").add('49503146580@N01').add('14788136@N23').add('1901097@N21').add('29814064@N00').add('985968@N21');
+	}
+
+	if (tagsForGroups.has("gelderland")) {
+		groups.add('361037@N22')
+	}
+
+	if (tagsForGroups.has("arnhem")) {
+		groups.add('35473874@N00')
+	}
+
+	if (tagsForGroups.has("caribbean")) {
+		groups.add("2150860@N23").add("52195003@N00");
+	}
+
+	if (tagsForGroups.has("dominican-republic")) {
+		groups.add("76716807@N00").add("79884596@N00");
+	}
+
+	/* **************************************************************
+	 * Features groups
+	 * **************************************************************/
 
 	if (tagsForGroups.has("beach")) {
 		groups
@@ -153,13 +192,17 @@ const posseToFlickr = async () => {
 			.add("92767609@N00");
 	}
 
-	if (tagsForGroups.has("caribbean")) {
-		groups.add("2150860@N23").add("52195003@N00");
+	if (tagsForGroups.has("mill")) {
+		groups.add('454805@N23').add('1703430@N25').add('43383821@N00');
 	}
 
-	if (tagsForGroups.has("dominican-republic")) {
-		groups.add("76716807@N00").add("79884596@N00");
+	if (tagsForGroups.has("mill") && tagsForGroups.has("the-netherlands")) {
+		groups.add("41194381@N00");
 	}
+
+	/* **************************************************************
+ * Animal groups
+ * **************************************************************/
 
 	if (tagsForGroups.has("animal")) {
 		groups
@@ -304,6 +347,10 @@ const posseToFlickr = async () => {
 			.add("43568224@N00");
 	}
 
+	/* **************************************************************
+	 * Gear groups
+	 * **************************************************************/
+
 	if (tagsForGroups.has("fujifilm")) {
 		groups
 			.add("1942023@N20")
@@ -356,18 +403,28 @@ const posseToFlickr = async () => {
 
 	if (MODE === "posse") {
 		console.info(`
-	Trying to add the photo to ${groups.size} groups…`);
+	Trying to add the photo to ${groups.size} groups…
+`);
 		for (const groupId of groups) {
 			await flickr("flickr.groups.pools.add", {
 				group_id: groupId,
 				photo_id: photoId,
 			}).catch((error) => {
-				console.log('');
-				console.dir(error);
-
-				console.error(
-					`Error adding photo to group https://flickr.com/groups/${groupId}/: ${error.message}`,
-				);
+				switch (error.code) {
+					case 5:
+						console.info(
+							`🍯 Limit riched for group https://flickr.com/groups/${groupId}/`,
+						);
+						break;
+					case 6:
+						console.info(
+							`⏳ In pending queue for group https://flickr.com/groups/${groupId}/`,
+						);
+						break;
+					default:
+						console.error(`Error adding photo to group https://flickr.com/groups/${groupId}/`);
+						console.dir(error);
+				}
 			});
 		}
 	}
