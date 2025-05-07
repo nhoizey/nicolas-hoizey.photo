@@ -29,6 +29,16 @@ layout: false
   {%- css "critical" %}{% renderFile "src/assets/sass/components/photos.scss" %}{% endcss %}
 
   {% from "macros/photo.njk" import photo %}
+
+  <section class="popular">
+    <h2>Most popular photos</h2>
+    <ul class="photos">
+      {% for item in collections.photos_in_galleries | photos_here_and_below('/galleries/') | by_popularity | limit(6) %}
+        {{ photo(item, "lazy", build.env) }}
+      {% endfor %}
+    </ul>
+  </section>
+
   <section class="latest">
     <h2>Photos shared recently</h2>
     <ul class="photos">
@@ -38,15 +48,6 @@ layout: false
     </ul>
     <p>You can subscribe to <a href="/feeds/">the feed</a> to not miss any new photo.</p>
   </section>
-
-  {# <section class="popular">
-    <h2>Most popular photos</h2>
-    <ul class="photos">
-      {% for item in collections.popular_photos | limit(6) %}
-        {{ photo(item, "lazy", build.env) }}
-      {% endfor %}
-    </ul>
-  </section> #}
 
   {%- css "critical" %}{% renderFile "src/assets/sass/components/blog.scss" %}{% endcss %}
 
