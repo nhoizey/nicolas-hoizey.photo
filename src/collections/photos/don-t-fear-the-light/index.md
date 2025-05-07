@@ -3,7 +3,7 @@ title: Don't fear the light
 file: don-t-fear-the-light.jpg
 alt_text: Night photo of a statue silhouette giving the impression to protect
   itself with its arms of luminous spots
-date: 2004-12-27 17:22:46 +01:00
+date: 2004-12-27 18:22:46 +02:00
 dates:
   iso: "'2004-12-27'"
   human: "'27 December 2004'"
@@ -22,6 +22,7 @@ tags:
   - Europe
   - fear
   - fog
+  - Gelderland
   - light
   - lumière
   - Nederland
@@ -59,9 +60,9 @@ dimensions:
   width: 2248
   height: 1525
 geo:
-  latitude: 51.978883333333336
-  longitude: 5.913263333333333
-  country: The Netherlands
+  latitude: 51.978883
+  longitude: 5.913263
+  country: Pays-Bas
   city: Arnhem
   map: true
 colors:

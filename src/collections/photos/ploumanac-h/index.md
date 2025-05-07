@@ -3,7 +3,7 @@ title: Ploumanac'h
 file: ploumanac-h.jpg
 alt_text: A lighthouse on a rocky coastline with waves hitting the shore, under
   a blue sky with scattered clouds.
-date: 2013-08-23 08:10:18 +01:00
+date: 2013-08-23 09:10:18 +02:00
 dates:
   iso: "'2013-08-23'"
   human: "'23 August 2013'"
@@ -66,8 +66,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.836349778333336
-  longitude: -3.4839227283333334
+  latitude: 48.83635
+  longitude: -3.483923
   country: France
   city: Perros-Guirec
   map: true

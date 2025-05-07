@@ -13,7 +13,7 @@ gear:
   camera:
     brand: Fujifilm
     model: X-H2s
-    hashtags: "#Fujifilm #Fuji #XH2s"
+    hashtags: "#Fujifilm #XH2s"
   lenses:
     - brand: Fujifilm
       model: Fujinon XF 90mm f/2 R LM WR
