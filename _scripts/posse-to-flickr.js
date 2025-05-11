@@ -410,7 +410,7 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 				group_id: groupId,
 				photo_id: photoId,
 			}).catch((error) => {
-				switch (error.code) {
+				switch (error.cause.code) {
 					case 5:
 						console.info(
 							`🍯 Limit riched for group https://flickr.com/groups/${groupId}/`,
