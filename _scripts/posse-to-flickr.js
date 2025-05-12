@@ -4,7 +4,7 @@
 import {} from "dotenv/config";
 
 import path from "node:path";
-import { argv, exit } from 'node:process';
+import { argv, exit } from "node:process";
 
 import glob from "fast-glob";
 import { createFlickr } from "flickr-sdk";
@@ -56,13 +56,15 @@ const posseToFlickr = async () => {
 		console.log("No new photos to posse.");
 		exit(0);
 	} else {
-		console.log(`${photosToPosse.length} new photo${photosToPosse.length > 1 ? 's' : ''} still to POSSE.`);
+		console.log(
+			`${photosToPosse.length} new photo${photosToPosse.length > 1 ? "s" : ""} still to POSSE.`,
+		);
 	}
 
 	const photoToPosse = photosToPosse[0];
 	const photoToPosseSlug = slugify(photoToPosse.title);
 
-	console.log('');
+	console.log("");
 	console.log(`Next photo to POSSE:
 ${photoToPosse.title}`);
 
@@ -116,8 +118,8 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	if (MODE === "test") {
-		console.log('');
-		console.log('Tags for groups:');
+		console.log("");
+		console.log("Tags for groups:");
 		console.dir(tagsForGroups);
 	}
 
@@ -148,19 +150,25 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	if (tagsForGroups.has("europe")) {
-		groups.add('66465160@N00');
+		groups.add("66465160@N00");
 	}
 
 	if (tagsForGroups.has("the-netherlands")) {
-		groups.add("2159224@N22").add('49503146580@N01').add('14788136@N23').add('1901097@N21').add('29814064@N00').add('985968@N21');
+		groups
+			.add("2159224@N22")
+			.add("49503146580@N01")
+			.add("14788136@N23")
+			.add("1901097@N21")
+			.add("29814064@N00")
+			.add("985968@N21");
 	}
 
 	if (tagsForGroups.has("gelderland")) {
-		groups.add('361037@N22')
+		groups.add("361037@N22");
 	}
 
 	if (tagsForGroups.has("arnhem")) {
-		groups.add('35473874@N00')
+		groups.add("35473874@N00");
 	}
 
 	if (tagsForGroups.has("caribbean")) {
@@ -193,7 +201,7 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	if (tagsForGroups.has("mill")) {
-		groups.add('454805@N23').add('1703430@N25').add('43383821@N00');
+		groups.add("454805@N23").add("1703430@N25").add("43383821@N00");
 	}
 
 	if (tagsForGroups.has("mill") && tagsForGroups.has("the-netherlands")) {
@@ -201,8 +209,8 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	/* **************************************************************
- * Animal groups
- * **************************************************************/
+	 * Animal groups
+	 * **************************************************************/
 
 	if (tagsForGroups.has("animal")) {
 		groups
@@ -396,7 +404,7 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	if (MODE === "test") {
-		console.log('');
+		console.log("");
 		console.log(`${groups.size} groups to add the photo to:`);
 		console.dir(groups);
 	}
@@ -422,7 +430,9 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 						);
 						break;
 					default:
-						console.error(`Error adding photo to group https://flickr.com/groups/${groupId}/`);
+						console.error(
+							`Error adding photo to group https://flickr.com/groups/${groupId}/`,
+						);
 						console.dir(error);
 				}
 			});
