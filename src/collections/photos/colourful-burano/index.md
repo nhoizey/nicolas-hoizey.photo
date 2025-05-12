@@ -3,7 +3,7 @@ title: Colourful Burano
 file: colourful-burano.jpg
 alt_text: Colorful buildings line a narrow canal with boats in Burano, Italy, as
   people walk along the sidewalks.
-date: 2008-04-26 15:37:21 +01:00
+date: 2008-04-26 16:37:21 +02:00
 dates:
   iso: "'2008-04-26'"
   human: "'26 April 2008'"
@@ -61,10 +61,10 @@ dimensions:
   width: 3456
   height: 2304
 geo:
-  latitude: 45.48542777833333
-  longitude: 12.415352778333334
-  country: Italy
-  city: Burano
+  latitude: 45.485428
+  longitude: 12.415353
+  country: Italie
+  city: Venezia
   map: true
 colors:
   vibrant: 17 136 185

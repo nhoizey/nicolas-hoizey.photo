@@ -72,7 +72,6 @@ colors:
 lqip: data:image/webp;base64,UklGRvoBAABXRUJQVlA4IO4BAACwEwCdASpkAIUAP3GszFw0rbOsKrbbapAuCWMG+Oa01kMPwtJqCN1UFGPKTZPYTHfGhWvJlNHaZWXShvADX1fGAZAuS29YU4W6gktiP+k4hILCPxNaYQfpp8t1YCS4ORp6BmXlLgKYS0Zm5fONyjb6z3uAqoraftSW2A67mln9KQiHtwAMc4TL9aKR/3uu7xNwSjcu5aexc0GgNEN1hzV2r2IPKr1AANVK9ZwC8AnWr5L3ztID3LqoWVOHEjR9YqQmH7AR15gjynrUYsUQTMiU/3LfuNxMyy3eCzRc/v+q2drItA5cvx/pz+SQGURdjInP4jfC9h41xh/dkuH3WewWPmknYPXRpbCbsUcT/yKyuCNkUm1gaX68lejQgsszqe38US1vJI2fyCgpHVsKIloTxNq4Mo9S+TSOQ6HThi3hdjkwtYV/F2oOdXGukCl0u4OrpWiwrtDDbXFSKMxXXRRRFHb8d+6wStUKvv2wvo/QHfCWleAAb0xDkzKdQdJ454HsnRldBVrJ5rkWpWY68U1OM6xnLYFc3tkpW+70T84L6RQp0aUtmIT0ksuCV5f9YK3121Tfca61Lm1zlAemyoap+hPtaKA1NVdWcEHyaPD6qrvNukwaLKxbI4jzxOiGpHBq73QHiDRypJvSegAAAA==
 missing_data:
   lens: true
-  opengraph: true
 ---
 
 History can be viewed from many angles. That versatility is reflected in the Dutch Open Air Museum. Here you will find buildings, objects and stories of up to two hundred years old.
