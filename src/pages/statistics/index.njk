@@ -12,104 +12,118 @@ nav:
 
 <style>{% renderFile "src/assets/sass/components/statistics.scss" %}</style>
 
-<h2>Camera and lens settings</h2>
+<h2>Photos per year</h2>
+<div id="photos_per_year"></div>
 
-<details>
-  <summary><h3>{% inline_icon 'aperture' %} Apertures</h3></summary>
-  <div class="chaarts-container">
-    <table class="chaarts bar" style="--scale: {{ collections.apertures | max_number }}">
-      <caption id="caption-1">Apertures used to shoot photos shared on this site</caption>
-      <thead class="visually-hidden">
-        <tr>
-          <td scope="col">Apertures</td>
-          <th scope="col">Number of photos</th>
-        </tr>
-      </thead>
-      <tbody>
-    {% for aperture in collections.apertures %}
-        <tr>
-          <th scope="row"><a href="/statistics/aperture/{{ aperture.slug }}/">{{ aperture.readable }}</a></th>
-          <td style="--value: {{ aperture.number }}">
-            <span>{{ aperture.number }}</span>
-          </td>
-        </tr>
-    {% endfor %}
-      </tbody>
-    </table>
-  </div>
-</details>
+<h2>Cameras and camera brands</h2>
 
-<details>
-  <summary><h3>{% inline_icon 'focal-length' %} Focal lengths (35mm equivalent)</h3></summary>
-  <div class="chaarts-container">
-    <table class="chaarts bar" style="--scale: {{ collections.focal_lengths | max_number }}">
-      <caption id="caption-2">Focal lengths used to shoot photos shared on this site</caption>
-      <thead class="visually-hidden">
-        <tr>
-          <td scope="col">Focal lengths</td>
-          <th scope="col">Number of photos</th>
-        </tr>
-      </thead>
-      <tbody>
-    {% for focal_length in collections.focal_lengths %}
-        <tr>
-          <th scope="row"><a href="/statistics/focal-length/{{ focal_length.slug }}/">{{ focal_length.readable }}</a></th>
-          <td style="--value: {{ focal_length.number }}">
-            <span>{{ focal_length.number }}</span>
-          </td>
-        </tr>
-    {% endfor %}
-      </tbody>
-    </table>
-  </div>
-</details>
+<h3>Photos per brand</h3>
+<div id="photos_per_brand"></div>
 
-<details>
-  <summary><h3>{% inline_icon 'iso' %} ISOs</h3></summary>
-  <div class="chaarts-container">
-    <table class="chaarts bar" style="--scale: {{ collections.isos | max_number }}">
-      <caption id="caption-3">ISOs used to shoot photos shared on this site</caption>
-      <thead class="visually-hidden">
-        <tr>
-          <td scope="col">ISOs</td>
-          <th scope="col">Number of photos</th>
-        </tr>
-      </thead>
-      <tbody>
-    {% for iso in collections.isos %}
-        <tr>
-          <th scope="row"><a href="/statistics/iso/{{ iso.slug }}/">{{ iso.readable }}</a></th>
-          <td style="--value: {{ iso.number }}">
-            <span>{{ iso.number }}</span>
-          </td>
-        </tr>
-    {% endfor %}
-      </tbody>
-    </table>
-  </div>
-</details>
+<h3>Photos per year and brand</h3>
+<div id="photos_per_year_and_brand"></div>
 
-<details>
-  <summary><h3>{% inline_icon 'shutter_speed' %} Shutter speeds</h3></summary>
-  <div class="chaarts-container" id="shutter_speeds">
-    <table class="chaarts bar" style="--scale: {{ collections.shutter_speeds | max_number }}">
-      <caption id="caption-4">Shutter speeds used to shoot photos shared on this site</caption>
-      <thead class="visually-hidden">
-        <tr>
-          <td scope="col">Shutter speeds</td>
-          <th scope="col">Number of photos</th>
-        </tr>
-      </thead>
-      <tbody>
-    {% for shutter_speed in collections.shutter_speeds %}
-        <tr>
-          <th scope="row"><a href="/statistics/shutter-speed/{{ shutter_speed.slug }}/">{{ shutter_speed.readable }}</a></th>
-          <td style="--value: {{ shutter_speed.number }}">
-            <span>{{ shutter_speed.number }}</span>
-          </td>
-        </tr>
-    {% endfor %}
-      </tbody>
-    </table>
-  </div>
-</details>
+<h3>Photos per camera</h3>
+<div id="photos_per_camera"></div>
+
+<h3>Photos per year and camera</h3>
+<div id="photos_per_year_and_camera"></div>
+
+<h2>Overall frequencies of settings</h2>
+
+<h3>{% inline_icon 'focal-length' %} Focal lengths (35mm equivalent)</h3>
+<div id="focal_lengths"></div>
+
+<h3>{% inline_icon 'aperture' %} Apertures</h3>
+<div id="apertures"></div>
+
+<h3>{% inline_icon 'iso' %} ISOs</h3>
+<div id="isos"></div>
+
+<h3>{% inline_icon 'shutter_speed' %} Shutter speeds</h3>
+<div id="shutter_speeds"></div>
+
+<h2>Yearly frequencies of settings</h2>
+
+<h3>{% inline_icon 'aperture' %} Apertures along the years</h3>
+<div id="apertures_per_year"></div>
+
+<h3>{% inline_icon 'shutter_speed' %} Shutter speeds along the years</h3>
+<div id="shutter_speeds_per_year"></div>
+
+<h3>{% inline_icon 'iso' %} ISOs along the years</h3>
+<div id="isos_per_year"></div>
+
+<h2>Combined settings</h2>
+
+<h3>Apertures and shutter speeds</h3>
+<div id="apertures_and_shutter_speeds"></div>
+<div id="apertures_and_shutter_speeds_2"></div>
+
+<h3>ISOs per camera</h3>
+<div id="isos_per_camera"></div>
+
+{# <h3>Apertures per year</h3>
+<div id="apertures_per_year"></div>
+<script>
+let photoData;
+const counts = {};
+let key;
+{% for photo in collections.unique_photos %}
+  {% if photo.data.origin.data.settings.aperture.computed %}
+    photoData = {
+      slug: "{{ photo.fileSlug }}",
+      year: {{ photo.data.origin.data.date | year }},
+      aperture: {{ photo.data.origin.data.settings.aperture.computed }},
+      readable: "{{ photo.data.origin.data.settings.aperture.readable }}"
+    };
+    key = `${photoData.year}-${photoData.aperture}`;
+    if (counts[key] === undefined) {
+      counts[key] = { year: photoData.year, aperture: photoData.aperture, readable: photoData.readable, number: 0 };
+    }
+    counts[key].number++;
+  {% endif %}
+{% endfor %}
+
+const aperturesPerYear = [];
+for (const key in counts) {
+  aperturesPerYear.push(counts[key]);
+}
+</script>
+
+<h3>Apertures per year 2</h3>
+<div id="aperturesPerYear2"></div>
+<script>
+const aperturesPerYear2 = [];
+{% for photo in collections.unique_photos %}
+  {% if photo.data.origin.data.settings.aperture.computed %}
+    aperturesPerYear2.push({
+      slug: "{{ photo.fileSlug }}",
+      year: "{{ photo.data.origin.data.date | year }}",
+      aperture: {{ photo.data.origin.data.settings.aperture.computed }},
+      readable: "{{ photo.data.origin.data.settings.aperture.readable }}"
+    });
+  {% endif %}
+{% endfor %}
+</script>
+
+<h3>Apertures and shutter speeds</h3>
+<div id="aperturesAndShutterSpeeds"></div>
+<script>
+const aperturesAndShutterSpeeds = [];
+{% for photo in collections.unique_photos %}
+  {% if photo.data.origin.data.settings.aperture.computed %}
+    aperturesAndShutterSpeeds.push({
+      slug: "{{ photo.fileSlug }}",
+      year: {{ photo.data.origin.data.date | year }},
+      aperture: {{ photo.data.origin.data.settings.aperture.computed }},
+      readable_aperture: "{{ photo.data.origin.data.settings.aperture.readable }}",
+      shutter_speed: {{ photo.data.origin.data.settings.shutter_speed.computed }},
+      readable_shutter_speed: "{{ photo.data.origin.data.settings.shutter_speed.readable }}"
+    });
+  {% endif %}
+{% endfor %}
+</script> #}
+
+{%- js "statistics" %}{% renderFile "src/assets/js/statistics.js" %}{% endjs %}
+<script type="module" src="{% getBundleFileUrl "js", "statistics" %}"></script>
