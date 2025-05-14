@@ -153,6 +153,14 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 		groups.add("66465160@N00");
 	}
 
+	if (tagsForGroups.has("charente-maritime")) {
+		groups.add("86348694@N00");
+	}
+
+	if (tagsForGroups.has("ile-de-re")) {
+		groups.add("15935288@N00");
+	}
+
 	if (tagsForGroups.has("the-netherlands")) {
 		groups
 			.add("2159224@N22")
@@ -200,12 +208,28 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 			.add("92767609@N00");
 	}
 
+	if (tagsForGroups.has("boat")) {
+		groups.add("89841555@N00").add("82049428@N00").add("2772618@N22").add("1374617@N24").add("999216@N25").add("2849723@N24").add("407619@N22").add("393574@N22");
+	}
+
+	if (tagsForGroups.has("harbor")) {
+		groups.add("87728600@N00").add("49485636@N00").add("36643013@N00").add("458637@N22").add("48964914@N00");
+	}
+
+	if (tagsForGroups.has("harbor") && tagsForGroups.has("europe")) {
+		groups.add("1211465@N23");
+	}
+
 	if (tagsForGroups.has("mill")) {
 		groups.add("454805@N23").add("1703430@N25").add("43383821@N00");
 	}
 
 	if (tagsForGroups.has("mill") && tagsForGroups.has("the-netherlands")) {
 		groups.add("41194381@N00");
+	}
+
+	if (tagsForGroups.has("velo")) {
+		groups.add("594102@N25").add("823622@N25").add("1486405@N20").add("684378@N25").add("98996267@N00");
 	}
 
 	/* **************************************************************
