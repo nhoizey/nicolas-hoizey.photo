@@ -69,6 +69,7 @@ geo:
   longitude: -1.3240692883333334
   country: France
   city: La Flotte
+  map: true
 colors:
   vibrant: 100 147 188
   darkVibrant: 120 24 44
@@ -77,9 +78,6 @@ colors:
   darkMuted: 72 70 60
   lightMuted: 150 174 202
 lqip: data:image/webp;base64,UklGRlIBAABXRUJQVlA4IEYBAACwCwCdASpkAEMAP3GmyVq0v7KrMVQ6A/AuCWUAzYkt7xnccCB1Jn/LgQgk2VqJQQjgAdR/EDDEGJ+xAlN1F6pSb18fB35iPj3gu1N1qOQxZgc02tiS4nv+296u6RtSmztbGxrVI8AA/rmx+qAqKKP9aRCB+L+0q5vF5hmv5Fy9QnzL1Y32oFQNdpXf+/nH67RePmbf+PdBfpN2ReM6LAHT2WfgBEbdYsuF0BKKi7JohHclspkCTRo7PLjcQevcXU9xeYADD8De2ofZi9Fbh/iquF+Vj5wcwuC+UrrI46mjRD/AE1HePdzUJkbpYTfNJNakwrFLFoAvTNd6XTI6BYqnbxNnGDMIxNNMdNMhIe9lbYKDeIxrmp2Zpz4uSk4H0HofYpQdXLb67AefhNv+ua0sNOGBQ6HM6ar3zBuQQ/P3lEZHlOgAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 With its typical alleyways, lively port and medieval-inspired market, the village of La Flotte is guaranteed to take you back in time.

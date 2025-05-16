@@ -72,6 +72,7 @@ geo:
   longitude: -1.3238167733333333
   country: France
   city: La Flotte
+  map: true
 colors:
   vibrant: 83 130 174
   darkVibrant: 38 70 91
@@ -80,9 +81,6 @@ colors:
   darkMuted: 37 49 72
   lightMuted: 153 194 157
 lqip: data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAAAwDACdASpkAEMAP3Gqx1i0v7GqL5lqq/AuCWMAzUg7Pvng3K8YBIUTIGAXJdaKRLIH0dSKbd9vFU32x7KJYltvYBmB3YZMqST92N511E4cytkKedqgnFWXG0WP1n1QBPg9810nWefDn2mAAP6gmyVSPlXpsD7m72jkbAT9fGLORylS/tSOMQFM2kDtTpOaCFCy8alNA6+N5GW5RgPQHllnaksAc/Ky4Ll+JBabsgS9Y6dN6bsqRAz+1zxQ2zJDzpQckIyrjvMk3CClbQZlXw8IRvjWZ23I7pONx8mAQNM1aaRSoYbqmB6W0ikXxUVU0/MQ+BF7UsOWSgwSqbUBTyVfOcyptbARFWII1UCE0KY8X3gaUPfETsBOdh5MJvlqWYvGhOyxloTCeZs5JlLXHgUisbI+RR4Bm/QK5ebMpls7b2Aa55gKyZeGzyjpUqIiDVnTvWk7YPIHwedN3rTTzkhKAcXt2N8h7Iz9WwQdbBH6A0WFmx6TMk4NBZPDyez2IYuAMS4TViuYAAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Ile de Ré is a paradise for cyclists.
