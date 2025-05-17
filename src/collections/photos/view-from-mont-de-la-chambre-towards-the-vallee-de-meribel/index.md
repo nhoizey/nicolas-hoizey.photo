@@ -27,11 +27,13 @@ tags:
   - Europe
   - France
   - landscape
+  - landscape photography
   - Méribel
   - montagne
   - mountain
   - nuage
   - paysage
+  - photographie de paysage
   - Savoie
   - sky
   - vallée

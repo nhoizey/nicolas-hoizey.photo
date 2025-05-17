@@ -27,12 +27,14 @@ tags:
   - Europe
   - France
   - landscape
+  - landscape photography
   - Les Belleville
   - Les Menuires
   - montagne
   - mountain
   - nuage
   - paysage
+  - photographie de paysage
   - Savoie
   - sky
   - vallée
