@@ -19,6 +19,9 @@ gear:
       short: 56mm
 tags:
   - animal
+  - animal sauvage
+  - animalière
+  - animaux sauvages
   - Auvergne-Rhône-Alpes
   - Europa
   - Europe
@@ -33,7 +36,11 @@ tags:
   - marmotte
   - rocher
   - rock
+  - sauvage
   - Savoie
+  - wild animal
+  - wild animals
+  - wildlife
 settings:
   focal_length:
     raw: 56
@@ -64,6 +71,7 @@ geo:
   longitude: 6.537521131666667
   country: France
   city: Les Belleville
+  map: true
 colors:
   vibrant: 139 127 49
   darkVibrant: 64 67 14
@@ -72,9 +80,6 @@ colors:
   darkMuted: 73 80 44
   lightMuted: 164 171 180
 lqip: data:image/webp;base64,UklGRsYBAABXRUJQVlA4ILoBAACQEACdASpkAEMAP3GmyFo7tigkLrYLy3AuCUAZzuoXgEmKuq9s8GhB5syDO2Yk+5AO0sHYBb2V2AVPhd5pKFy0X2nWyqnC4dm5l2V2DhqU3WOQCRxasqbFRam+zFSdbUlHhcMd5CvremlGYiggrbwn41u9FAUVwfXNAe3HJNHqBPk76D3Pj80ToTcX5sAA/svk3Yz8usMptrktVwfZHvp01Hkjw86F2QzVmaaCVOwDppVW+0ovMViEnMENTRaB1T3TIr42XGbd7MOuSyfeIFYDDiUdVrtxbXdeuU0kh74EI6w1vVeDGG6f9SyGhaMPtEbKqfsdURrTT5o8w6bJubprEQuKmN/qJ17N9WExM9XZgxld23wueRXtVb+ADTrW9LpzQ3OhnwqikbhYFnn4SZMI6WM99bpEiy2fDwylefpWhdrYraa9eaypfaFOh2AtKzVooQ16OZoq+03+CiSMSvhYm7GOOLikI+8fe0E9onu/HrtPUy0IQ1pAVJC82oMQ9eUQkzNKVeZZVj4krgtdYhHIkENnT0Ji63t8KFkgsfPufK14hRj0EHnONgBXe808JTrd8MfuB47zAAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Marmots are herbivores that are active during the summer, when they can often be found in groups, but are not seen during the winter, when they hibernate underground.

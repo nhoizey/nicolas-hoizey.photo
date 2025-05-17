@@ -18,16 +18,20 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
       short: 10-24mm
 tags:
+  - Alpes
+  - alps
   - Auvergne-Rhône-Alpes
   - ciel
   - cloud
   - Europa
   - Europe
   - France
+  - landscape
   - Méribel
   - montagne
   - mountain
   - nuage
+  - paysage
   - Savoie
   - sky
   - vallée
@@ -61,6 +65,7 @@ geo:
   longitude: 6.58014837
   country: France
   city: Les Allues
+  map: true
 colors:
   vibrant: 41 131 191
   darkVibrant: 16 51 72
@@ -69,9 +74,6 @@ colors:
   darkMuted: 47 67 79
   lightMuted: 173 191 213
 lqip: data:image/webp;base64,UklGRqoBAABXRUJQVlA4IJ4BAACQDwCdASpkAEMAP3GkyVo0rCilLrINcpAuCWMAznRaAtVsRM4XUercqhed6m8uxhcPO+8T/v2LzuENRzNpC9Y/97a31iCmt8YXLbXOcKkT4SMEWYxz4pooe9E1wCzq3OuEeTKCu8rCjebgB337rh8DmTcnmzEmgHeciQYw7tmm/DiJQEQgAP6La4YFOMocefKFmv30BkPPcENB757y8lHfE6yDnqXFUrIe9ngg7BiwGy/7k0VDly5uXLW4bBNwMNZX/WeAEQfueZWnRZfdCahW6uRxdO6IQNWSi1bYpvZdDVcVqJow4SqnTcyyGBG1aDi3giW0XEiEi7bWzy3uBHVAnrYmO+lPbnWG8lTs8dGJ78BTUEnEGBl+CCVyMc4z0BauxEvMEIrFra1HH5GDqtQlyP99lCAks1EB4IAbdL5AfiqJ4yzZ9RtF1486jEpuy7DWNBzB4UEyu2pZGgrptmNWm+e/mjIC6YSuKa34ICSZkOPmjJdn5IDeP2mT0QIaMfxvcFm0cqUMtIssex7/SNCmYnUQLfFiZxLOTzQAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The southernmost part of the Les Allues commune, which includes Méribel, is covered by the Vanoise National Park. 

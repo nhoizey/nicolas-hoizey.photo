@@ -18,17 +18,21 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
       short: 10-24mm
 tags:
+  - Alpes
+  - alps
   - Auvergne-Rhône-Alpes
   - ciel
   - cloud
   - Europa
   - Europe
   - France
+  - landscape
   - Les Belleville
   - Les Menuires
   - montagne
   - mountain
   - nuage
+  - paysage
   - Savoie
   - sky
   - vallée
@@ -62,6 +66,7 @@ geo:
   longitude: 6.533922715
   country: France
   city: Les Belleville
+  map: true
 colors:
   vibrant: 68 132 188
   darkVibrant: 42 67 91
@@ -70,9 +75,6 @@ colors:
   darkMuted: 77 80 45
   lightMuted: 159 181 202
 lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAABwDQCdASpkAEMAP3GszFq0rj+wq/O8A/AuCUAYm7wE1II+1d9rWqIX3ctUXxsMvaTYuU1+qgTI3wfKHSVpNOrKQ/LnQaI8qWEDoUtfDZtC23lR5sONZrkCmJjY09aCAtTTIWbMa36cohdYIiAw7BJ3w+b/PAD+UNGBSdW87CHdaOi1FRdpz0tecE/FsolMX+nnRS5qUdjJpfOzUHTfo7ild72woBEcaFlZOtzkWXWfoVwtQdE9qzeWHT77rmX13ddj41N3l217qo5U15rdHwCuuIAtsNiqHdvNL9a8reP2X0HDSW+HMuXNrT/sax1gs0DFc2ODfAbN9wQS5c9AlF6KmawOiHYKTjhK1XCjz6xsaevQewMs1ju9gahKSMxvXlxoTjLoAljZnU3Wd8oHokPJ4ORQIIxG0qgeW4uOclqrSxjnudGuvDorcUIXSNNYsXMAZgAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Vallée des Belleville is an Alpine valley in the Vanoise massif, located in the Tarentaise region of Savoie, France.
