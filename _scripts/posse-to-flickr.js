@@ -126,7 +126,7 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	const groups = new Set();
 
 	// Default groups that work for all photos
-	groups.add("3109374@N20").add("14625602@N25").add("14805334@N23");
+	groups.add("3109374@N20").add("14625602@N25").add("14805334@N23").add("2677807@N23");
 
 	/* **************************************************************
 	 * Location groups
@@ -146,11 +146,15 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 			.add("651467@N20")
 			.add("2904475@N20")
 			.add("11427634@N00")
-			.add("1412034@N24");
+			.add("1412034@N24").add("1161363@N24");
 	}
 
 	if (tagsForGroups.has("europe")) {
 		groups.add("66465160@N00");
+	}
+
+	if (tagsForGroups.has("france") && tagsForGroups.has("landscape")) {
+		groups.add("2687543@N23");
 	}
 
 	if (tagsForGroups.has("charente-maritime")) {
@@ -226,6 +230,22 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 
 	if (tagsForGroups.has("mill") && tagsForGroups.has("the-netherlands")) {
 		groups.add("41194381@N00");
+	}
+
+	if (tagsForGroups.has("mountain") && tagsForGroups.has("france")) {
+		groups.add("99477208@N00").add("2821402@N24").add("2356449@N23").add("1647519@N23");
+	}
+
+	if (tagsForGroups.has("alps") && tagsForGroups.has("france")) {
+		groups.add("72731610@N00");
+	}
+
+	if (tagsForGroups.has("alps")) {
+		groups.add("76401913@N00").add("311827@N20").add("61153172@N00").add("2566246@N24");
+	}
+
+	if (tagsForGroups.has("mountain")) {
+		groups.add("2626700@N22").add("84544657@N00").add("56828395@N00").add("2336129@N21");
 	}
 
 	if (tagsForGroups.has("velo")) {
