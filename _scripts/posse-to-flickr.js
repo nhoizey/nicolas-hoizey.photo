@@ -503,6 +503,11 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 				photo_id: photoId,
 			}).catch((error) => {
 				switch (error.cause.code) {
+					case 4:
+						console.info(
+							`🚫 In max number of groups https://flickr.com/groups/${groupId}/`,
+						);
+						break;
 					case 5:
 						console.info(
 							`🍯 Limit riched for group https://flickr.com/groups/${groupId}/`,
