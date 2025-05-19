@@ -143,7 +143,8 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 			.add("651467@N20")
 			.add("2904475@N20")
 			.add("11427634@N00")
-			.add("1412034@N24").add("1161363@N24");
+			.add("1412034@N24")
+			.add("1161363@N24");
 	}
 
 	if (tagsForGroups.has("europe")) {
@@ -210,7 +211,11 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	if (tagsForGroups.has("mountain") && tagsForGroups.has("france")) {
-		groups.add("99477208@N00").add("2821402@N24").add("2356449@N23").add("1647519@N23");
+		groups
+			.add("99477208@N00")
+			.add("2821402@N24")
+			.add("2356449@N23")
+			.add("1647519@N23");
 	}
 
 	if (tagsForGroups.has("alps") && tagsForGroups.has("france")) {
@@ -218,11 +223,19 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	if (tagsForGroups.has("alps")) {
-		groups.add("76401913@N00").add("311827@N20").add("61153172@N00").add("2566246@N24");
+		groups
+			.add("76401913@N00")
+			.add("311827@N20")
+			.add("61153172@N00")
+			.add("2566246@N24");
 	}
 
 	if (tagsForGroups.has("mountain")) {
-		groups.add("2626700@N22").add("84544657@N00").add("56828395@N00").add("2336129@N21");
+		groups
+			.add("2626700@N22")
+			.add("84544657@N00")
+			.add("56828395@N00")
+			.add("2336129@N21");
 	}
 
 	if (tagsForGroups.has("sky")) {
@@ -234,11 +247,24 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	 * **************************************************************/
 
 	if (tagsForGroups.has("boat")) {
-		groups.add("89841555@N00").add("82049428@N00").add("2772618@N22").add("1374617@N24").add("999216@N25").add("2849723@N24").add("407619@N22").add("393574@N22");
+		groups
+			.add("89841555@N00")
+			.add("82049428@N00")
+			.add("2772618@N22")
+			.add("1374617@N24")
+			.add("999216@N25")
+			.add("2849723@N24")
+			.add("407619@N22")
+			.add("393574@N22");
 	}
 
 	if (tagsForGroups.has("harbor")) {
-		groups.add("87728600@N00").add("49485636@N00").add("36643013@N00").add("458637@N22").add("48964914@N00");
+		groups
+			.add("87728600@N00")
+			.add("49485636@N00")
+			.add("36643013@N00")
+			.add("458637@N22")
+			.add("48964914@N00");
 	}
 
 	if (tagsForGroups.has("harbor") && tagsForGroups.has("europe")) {
@@ -254,7 +280,12 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	if (tagsForGroups.has("velo")) {
-		groups.add("594102@N25").add("823622@N25").add("1486405@N20").add("684378@N25").add("98996267@N00");
+		groups
+			.add("594102@N25")
+			.add("823622@N25")
+			.add("1486405@N20")
+			.add("684378@N25")
+			.add("98996267@N00");
 	}
 
 	/* **************************************************************
@@ -274,18 +305,51 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	if (tagsForGroups.has("landscape")) {
-		groups.add("1018550@N23").add("2658989@N24").add("1630609@N23").add("2499689@N23").add("610129@N24").add("2686144@N20").add("2432849@N24").add("1345928@N21").add("14812409@N23").add("27303736@N00").add("1085237@N24").add("2297498@N20").add("1003995@N21").add("2545763@N25").add("60385643@N00").add("2676309@N21").add("2744348@N24").add("535727@N21").add("843563@N22").add("659026@N24").add("35638995@N00").add("1200969@N23").add("82258726@N00").add("2241717@N21").add("2144165@N25").add("4040596@N20").add("20404463@N00");
+		groups
+			.add("1018550@N23")
+			.add("2658989@N24")
+			.add("1630609@N23")
+			.add("2499689@N23")
+			.add("610129@N24")
+			.add("2686144@N20")
+			.add("2432849@N24")
+			.add("1345928@N21")
+			.add("14812409@N23")
+			.add("27303736@N00")
+			.add("1085237@N24")
+			.add("2297498@N20")
+			.add("1003995@N21")
+			.add("2545763@N25")
+			.add("60385643@N00")
+			.add("2676309@N21")
+			.add("2744348@N24")
+			.add("535727@N21")
+			.add("843563@N22")
+			.add("659026@N24")
+			.add("35638995@N00")
+			.add("1200969@N23")
+			.add("82258726@N00")
+			.add("2241717@N21")
+			.add("2144165@N25")
+			.add("4040596@N20")
+			.add("20404463@N00");
 	}
 
 	if (tagsForGroups.has("pure-landscape")) {
-		groups.add("375216@N23").add("929911@N23").add("21315765@N00").add("78249294@N00").add("1533215@N23").add("473716@N23");
+		groups
+			.add("375216@N23")
+			.add("929911@N23")
+			.add("21315765@N00")
+			.add("78249294@N00")
+			.add("1533215@N23")
+			.add("473716@N23");
 	}
 
 	if (tagsForGroups.has("pure-landscape") && tagsForGroups.has("fujifilm")) {
 		groups.add("2937782@N23");
 	}
 
-		/* **************************************************************
+	/* **************************************************************
 	 * Animal groups
 	 * **************************************************************/
 
@@ -481,11 +545,16 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 	}
 
 	/* **************************************************************
-	* Default groups that work for all photos
-	* **************************************************************/
+	 * Default groups that work for all photos
+	 * **************************************************************/
 
-	groups.add("3109374@N20").add("14625602@N25").add("14805334@N23").add("2677807@N23").add("19597562@N00").add("1248524@N20");
-
+	groups
+		.add("3109374@N20")
+		.add("14625602@N25")
+		.add("14805334@N23")
+		.add("2677807@N23")
+		.add("19597562@N00")
+		.add("1248524@N20");
 
 	if (MODE === "test") {
 		console.log("");
