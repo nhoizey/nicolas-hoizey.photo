@@ -89,15 +89,15 @@
 		"puppeteer-core": "^24.8.2",
 		"require-dir": "^1.2.0",
 		"rimraf": "^6.0.1",
-		"sanitize-html": "^2.16.0",
+		"sanitize-html": "^2.17.0",
 		"sharp": "^0.34.1",
-		"simple-icons": "^14.13.0",
+		"simple-icons": "^14.14.0",
 		"svg-country-flags": "^1.2.10",
 		"svgstore": "^3.0.1",
 		"truncate-html": "^1.2.1",
 		"unsplash-js": "^7.0.19",
 		"utf8": "^3.0.0",
-		"yaml": "^2.7.1"
+		"yaml": "^2.8.0"
 	},
 	"dependencies": {
 		"@observablehq/plot": "^0.6.17"
