@@ -97,6 +97,8 @@
 		"truncate-html": "^1.2.1",
 		"unsplash-js": "^7.0.19",
 		"utf8": "^3.0.0",
+		"workbox-cli": "^7.3.0",
+		"workbox-recipes": "^7.3.0",
 		"yaml": "^2.8.0"
 	},
 	"dependencies": {
