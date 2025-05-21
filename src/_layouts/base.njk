@@ -151,6 +151,8 @@
       {% inline_icon 'mastodon' %}
     </div>
 
+    {%- js "defer" %}{% renderFile "src/assets/js/service-worker-install.js" %}{% endjs %}
+
     {# Lazy loaded not critical CSS and JS #}
     <link rel="stylesheet" href="{% getBundleFileUrl 'css', 'defer' %}" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="{% getBundleFileUrl 'css', 'defer' %}"></noscript>

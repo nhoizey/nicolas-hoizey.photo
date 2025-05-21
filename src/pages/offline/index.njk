@@ -6,6 +6,5 @@ title: Pages available while offline
 
 <ul id="cached"></ul>
 
-{# <script type="module" src="{% getBundleFileUrl "js", "cached-content" %}"></script>
-
-{% js "cached-content" %}{% renderFile "src/assets/js/cached-content.js" %}{% endjs %} #}
+<script type="module" src="{% getBundleFileUrl "js", "cached-content" %}"></script>
+{% js "cached-content" %}{% renderFile "src/assets/js/cached-content.js" %}{% endjs %}
