@@ -1,8 +1,8 @@
 import {
-  imageCache,
-  offlineFallback,
-  pageCache,
-  staticResourceCache,
+	imageCache,
+	offlineFallback,
+	pageCache,
+	staticResourceCache,
 } from "workbox-recipes";
 
 // Enable navigation preload
@@ -14,8 +14,8 @@ enable();
 // Serve pages as network first, with 2 seconds timeout and cache fallback
 // https://developer.chrome.com/docs/workbox/modules/workbox-recipes/#page-cache
 pageCache({
-  networkTimoutSeconds: 2,
-  warmCache: ["/", "/offline/"],
+	networkTimoutSeconds: 2,
+	warmCache: ["/", "/offline/"],
 });
 
 // Serve static assets from immediately from cache, and update (aka "Stale While Revalidate")
@@ -25,20 +25,23 @@ pageCache({
 // See the "serviceworker" npm script and "workbox.config.js" configuration
 // https://developer.chrome.com/docs/workbox/precaching-with-workbox/#precaching-with-injectmanifest
 staticResourceCache({
-  warmCache: self.__WB_MANIFEST,
+	warmCache: self.__WB_MANIFEST,
 });
 
 // Cache a maximum of 100 images, for 90 days each at most
 // https://developer.chrome.com/docs/workbox/modules/workbox-recipes/#image-cache
 imageCache({
-  maxEntries: 100,
-  maxAgeSeconds: 60 * 60 * 24 * 90,
-  warmCache: ["./ui/images/nicolas-hoizey-photography-192px.png", "./ui/images/nicolas-hoizey-photography-512px.png"],
+	maxEntries: 100,
+	maxAgeSeconds: 60 * 60 * 24 * 90,
+	warmCache: [
+		"./ui/images/nicolas-hoizey-photography-192px.png",
+		"./ui/images/nicolas-hoizey-photography-512px.png",
+	],
 });
 
 // Provide offline fallbacks for HTML and images
 // https://developer.chrome.com/docs/workbox/modules/workbox-recipes/#offline-fallback
 offlineFallback({
-  pageFallback: "/offline/fallback.html",
-  imageFallback: "/offline/fallback.svg",
+	pageFallback: "/offline/fallback.html",
+	imageFallback: "/offline/fallback.svg",
 });
