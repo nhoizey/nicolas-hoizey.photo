@@ -76,6 +76,7 @@ geo:
   longitude: 0.19686103833333332
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 72 111 173
   darkVibrant: 6 36 76
@@ -84,9 +85,6 @@ colors:
   darkMuted: 65 46 42
   lightMuted: 148 164 196
 lqip: data:image/webp;base64,UklGRjQBAABXRUJQVlA4ICgBAACQCwCdASpkAEMAP3Gox1s0v7GrLrcKG/AuCWMAx6gy0idUaEJYMn9QoNU2IN0hHT3JES35GTZTSEng9FvGZs1x1hE2p/GlTBN8vODzbDVYsdgSaOqEdwZiOhOvqDoTHnRRHqOAQAD94DGFFVaSxbFaOejRtcB7wlYwlrVec8/ROQAQmoxMO7sZgGLL8mZv7P0uDpAn4pTLxNxLBbaW0qIucbRB6lA7yHooQpShKtZVrVeFS3cnFpEZTskuHmZCM+ogTrWDjs/CWUc7t5KTBNMo4taSl3tIVPw71D+gPDB9BM3rdBK5z8KXYWLTIjzyNPdB8ViTaRGP15cOVPkgRK/QDqB0b3Ty5L1CZtLMStEG2UHS2ctM8l2UqLrfYb8xTSwq+RlhAAAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Surrounded by cliffs, the beach of Étretat is relatively sheltered from prevailing winds.

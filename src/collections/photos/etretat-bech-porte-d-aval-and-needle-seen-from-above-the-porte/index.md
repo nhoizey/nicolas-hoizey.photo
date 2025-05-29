@@ -82,6 +82,7 @@ geo:
   longitude: 0.20665165333333332
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 72 124 180
   darkVibrant: 140 102 34
@@ -90,9 +91,6 @@ colors:
   darkMuted: 91 69 45
   lightMuted: 167 184 202
 lqip: data:image/webp;base64,UklGRnoBAABXRUJQVlA4IG4BAACwDQCdASpkAEMAP2GcwViytKcqMzhtspAsCWUAxkXfe8oBO/lwutBXDsMOtJ/GmrC7sbqEBOlX3K/j0DVeF1bdknWJPBy6xm3NldOtJkoZ2cOQRh2ADFRFiZVAMHLvQxZyk1nJrGza7CKVObmVid/6dUBDpDGAAPqo7dBGabKvCDB4b1moZ0XktrVQM8ICua+KQU8AotkKxDFtibbYI5RHKL/gz39oe7p9VaIEmx+2CCyVBkyS8Yrjr8/KPRq5or3jdam4cPEEkppRDsKAxTW+3Sf9Ss3efCmDXJFKevmYR5Yclj3U/Tg1A2FiOeZYmLNUA+Li/Ehdmk4V/SJjT4cVyW3/RsQZp4aJAFxyy8EPgX+AjikVis+MNW7sZeHWorMWIEwwPftfTGflYQdxHfzet4wXwj354x1Al8XGXnTyMvgg+III2zwpY23g/3GhMRckYhnncMBVqueePW0LnJWHaPseAxQlLDQllO5YAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Surrounded by cliffs, the beach is relatively sheltered from prevailing winds. It is made up of pebbles.

@@ -8,13 +8,11 @@ dates:
   iso: "'2020-08-04'"
   human: "'4 August 2020'"
 gear:
-  short: Hasselblad L1D-20c + 28.0 mm f/2.8
+  short: DJI Mavic Pro 2
   camera:
-    brand: Hasselblad
-    model: L1D-20c
-  lenses:
-    - brand: unknown
-      model: 28.0 mm f/2.8
+    brand: DJI
+    model: Mavic Pro 2
+    hashtags: "#DJI #Mavic #MavicPro2"
 tags:
   - ciel
   - Côte d'Albâtre
@@ -71,6 +69,7 @@ geo:
   longitude: 0.19603072166666669
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 7 117 175
   darkVibrant: 14 60 108
@@ -79,9 +78,6 @@ colors:
   darkMuted: 69 76 48
   lightMuted: 204 183 167
 lqip: data:image/webp;base64,UklGRpgBAABXRUJQVlA4IIwBAABQDgCdASpkAEMAP3Gcxli0qr+lLrgNc/AuCWItgAouK3AgkfKgSEmPblnxFpRRzx4+f/waBwFlRICDJphIMqUm5obquoybNqWTCyDEPxT+uJ64/OWh9gwJlMtCbYbCT5czFCxqQ5iqetjimBIjI2FPnH/UBoGmhfNQq+AA/or90LXtsoCVLz0H0gkC2QUqJ5rWTl3vboR9GszREZTGL7egGXyRnn3MsFeawyM5dpE/0Wj69LqyX68U4QjrzpFutJQB1mJyaW5ArDyaY/kn2y1pH/oociIdikMArfepJw/3PR9fJThWRMaVHMqPU+ehltWvqmj7H7AjgTLcOOyxnVLjzRQPpgM86+aVW3ENtaWMTt3qgamPicsNHCQaeoOCJTg9RxEYWw2Bvd0+65xTutqeWG/0r7/ZRyo+l2yMg3BE+d9Gr4h7Z1FnAZ+gnnOVbftv+TYREBUE6rIbS+kRVQbGka8YpUdfostRY8ilo0kwuP/M0s+bYNAJazO2hwAhjiqd9SKW6Ae1+CQAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The golf of Etretat is ranked regularly among the best French golf courses. The beauty of its course, and its breathtaking view of the sea at each of its 18 holes are not its only characteristics.

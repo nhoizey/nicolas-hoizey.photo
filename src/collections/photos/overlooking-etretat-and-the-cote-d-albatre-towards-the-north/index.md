@@ -9,13 +9,11 @@ dates:
   iso: "'2020-08-06'"
   human: "'6 August 2020'"
 gear:
-  short: Hasselblad L1D-20c + 28.0 mm f/2.8
+  short: DJI Mavic Pro 2
   camera:
-    brand: Hasselblad
-    model: L1D-20c
-  lenses:
-    - brand: unknown
-      model: 28.0 mm f/2.8
+    brand: DJI
+    model: Mavic Pro 2
+    hashtags: "#DJI #Mavic #MavicPro2"
 tags:
   - beach
   - calcaire
@@ -81,6 +79,7 @@ geo:
   latitude: 49.708809333333335
   longitude: 0.18746125
   country: France
+  map: true
 colors:
   vibrant: 46 118 185
   darkVibrant: 4 84 156
@@ -89,9 +88,6 @@ colors:
   darkMuted: 60 77 87
   lightMuted: 167 150 144
 lqip: data:image/webp;base64,UklGRhABAABXRUJQVlA4IAQBAACQCgCdASpkAEMAP3GwzFw0rrOkKTTcKpAuCWMAy+BJ7siNgNqNW/EBgkGaLNohJESEGcmXvNeEQwrFfKyxu4uq21ZpkogVVhPTT7IFiS2PljnQQXMTy7oKb94vodoA4UVvzvLg8h8CZ+bMD5ZF6Cr50p4zwl+2VBjQWPM5sqgcN/xLHSCYjmkLuH9hCzVxAMg1JVFgxJJdellFu+9GU/V3HZkt3qgQT9f2jib/hsD3/YBBbl+6hM5ZzHk15VXzvBgIAws3dR1dpmLoe6E53cRGZoJ1ZbaB6+7t/Jv/1zOpcFHee+jVecJA3aaEa2x4kwVuSYu6In/u+qqOjD4+GmQeVmAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Étretat is best known for its chalk cliffs, including three natural arches and a pointed formation called L'Aiguille or the Needle.

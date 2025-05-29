@@ -59,6 +59,7 @@ geo:
   longitude: 0.18949331
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 192 132 92
   darkVibrant: 92 36 16
@@ -67,9 +68,6 @@ colors:
   darkMuted: 70 54 47
   lightMuted: 170 178 201
 lqip: data:image/webp;base64,UklGRlwBAABXRUJQVlA4IFABAAAQDQCdASpkAEMAP2WawVizNC+qNfVdEoAsiWVtpPTlumcfGQzaAHnLZaurGxbp1R7sQzRYDYA1WDWt8tbw2gGZQV3h+B3Zdt/jwxpdvSVYZ48NNRiyl3yA5M6CJIOnwoAuzPGrke0HUkA6nxjoGOOrgAD+kU2BDtkWInB04sdQW8EBbNrUEGS+1F2D5Z723HOEkLEyOfyoWeDfCI4QOWuzZlMminZFr/1TDrcOoBajAQ1O5pR1t4MxfxrdlVht63che9SEqy6kC4/1oMViir0wwDKbUrmm4mpA3PJ9W4MAVoyMIvqNpSDRkZ3qbqzAis4mds1wDyyey/nKg34JIoNpQfP3hrDZpVQnBRvTFlnNTgaMXf1e2uUEj+eCFDkRHBtbETbSTWJrSIQcJuy9c5B9qZPmdnDEVu/bEwYXYQDOOG/I6MukDXPabweBRLiIAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 On the Pointe de la Courtine is the famous hole in the cliff named the Eye of the Panda which offers a very unusual and beautiful view of the large Tilleul beach.

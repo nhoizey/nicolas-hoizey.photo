@@ -81,6 +81,11 @@
 			"brand": "Fujifilm",
 			"model": "X-H2s",
 			"hashtags": "#Fujifilm #XH2s"
+		},
+		"Hasselblad L1D-20c": {
+			"brand": "DJI",
+			"model": "Mavic Pro 2",
+			"hashtags": "#DJI #Mavic #MavicPro2"
 		}
 	},
 	"lenses": {
@@ -91,6 +96,7 @@
 			"short": "17-85mm"
 		},
 		"24-70mm F1.8-2.8": false,
+		"28.0 mm f/2.8": false,
 		"50mm": {
 			"brand": "Sigma",
 			"model": "50mm F1.4 EX DG HSM",

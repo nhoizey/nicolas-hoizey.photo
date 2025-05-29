@@ -75,6 +75,7 @@ geo:
   longitude: 0.18977671666666665
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 180 124 66
   darkVibrant: 44 91 125
@@ -83,9 +84,6 @@ colors:
   darkMuted: 46 73 90
   lightMuted: 212 200 185
 lqip: data:image/webp;base64,UklGRowBAABXRUJQVlA4IIABAADwDQCdASpkAEMAP3Gky160qr+/qvFdM/AuCUBcgEUfyDh/9X8DF3x1IKO+8GEfQc42ZZAl+bRWc8PK6DrRYEIxMoPcoM/4SYtuSGCUEn5MhslxWJUOiBjgE7bU5cZ7ZbQZEuPQ8yDvO7L2XzOUjnzv1DtV15tOKwAA/EZ6HKx2y0SgRGGt1cUyeW0DQBLgtML1tdLPCAL6mZgfgyxWw0yJqUMTtg+qwPgwgM2EuA0vKHu1Ezlmn8l11RI8/K/zkdZQM/f4MuVuDDRIsIz2f3dI98Pbfp0oaAqPtzeA7eCZqDCSFmUPwdakc69kC/sieoIeUab0AkTE4sz+1MANyfPXvGpt+NuDxW7AhU+dp7UG4zM35zUL8uBHEzTyDe/5Bjn+LX4yf1HMEgaaDPoohhoNlQswaNqMRSPczNfAmMQ/p3B+MhW4AED1o7le0hk+cLuy0tXmNZ4GN00n611MlX/S+mUPUjqaigCoU+v7/n/wj1f002lwEwrvuHqy37gAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Porte d'Aval, a huge flint archway, was carved out by the waves beating against the end of the Aval cliff.

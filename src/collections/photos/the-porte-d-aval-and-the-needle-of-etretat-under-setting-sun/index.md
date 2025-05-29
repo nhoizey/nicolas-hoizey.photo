@@ -80,6 +80,7 @@ geo:
   longitude: 0.18959504833333335
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 196 116 49
   darkVibrant: 133 59 7
@@ -88,9 +89,6 @@ colors:
   darkMuted: 77 53 45
   lightMuted: 124 156 172
 lqip: data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAAAwDACdASpkAEMAP3GiyVu0v7+lrrYK8/AuCUAYuBraL5vuzr6rj2pp9Yu/b1tNV/UKDqGLzIzcnQ5VEI1F5/hhhvU5kSinN3PxVh3TItwlONiDicEwpqx00EGpTGEFwJo0KZdEtc2cEQBgAP6AjkgWnDv2HXN9Nss7k3sVjQ6TOLk45vJqR0249He9I+N5b/EuzxBB41r90uk/wrVM70bAyTPyYSsFSikX/aTWWZDGLTe9laGKBsxrHFxSQoRJQik5AfmGm+XaVupyQHhrHYmAZ7DE7/BvZAHbjWxU4DcJbgCY98MEbue/9Y6v2fHSWA5g4HZz+Ak56/9J+zm2TAwpsZcWE7DxLRrxzmU0D5lHNwyIVs40ZbJARUijt8terv9yDbx/Sr/2KhCAlV9+Zv28gJiZDZ/8CkHkBp5bEW0UQgryfEbm9BFSL/RdxceQB5wbI+CuePBjVS9tJ9oAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 As the sun sets over the chalk cliffs of Étretat to the east, they take on a beautiful orange hue.

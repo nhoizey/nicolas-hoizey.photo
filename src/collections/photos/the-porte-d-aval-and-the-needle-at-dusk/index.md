@@ -9,13 +9,11 @@ dates:
   iso: "'2020-08-06'"
   human: "'6 August 2020'"
 gear:
-  short: Hasselblad L1D-20c + 28.0 mm f/2.8
+  short: DJI Mavic Pro 2
   camera:
-    brand: Hasselblad
-    model: L1D-20c
-  lenses:
-    - brand: unknown
-      model: 28.0 mm f/2.8
+    brand: DJI
+    model: Mavic Pro 2
+    hashtags: "#DJI #Mavic #MavicPro2"
 tags:
   - calcaire
   - chalk
@@ -72,6 +70,7 @@ geo:
   latitude: 49.707710695
   longitude: 0.1947013333333333
   country: France
+  map: true
 colors:
   vibrant: 40 76 124
   darkVibrant: 28 76 124
@@ -80,9 +79,6 @@ colors:
   darkMuted: 56 71 91
   lightMuted: 190 177 153
 lqip: data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAwCACdASpkAEMAP3GkyFs0tjIlrNbcMsAuCWUGcA11Arq38tXWLhe99hiHzFqW+bZPno+4V40n//1HBFtJ9JsuwBxWpK6F70fTgAD+7CUu3MnaAmCDhBXBqm3pIYfEe10iH6Cnztif2iLr99jSd4sZfeKF7pkm0zl1bGTrSXEIBIdZn3OmNKBybd9SNiJZNs8oE3fGoupGoJZ+xay2TwERceepF2LW/AfEZoTJIBMdTgechT20QUpWqbpxQlrf/2+7H9tml5mIQAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 An underground river, followed by marine erosion, formed a natural arch and a 55-metre-high needle, a relict piece of the cliff.

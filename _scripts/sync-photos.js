@@ -595,7 +595,7 @@ syncAllPhotos().then(() => {
 		},
 	);
 
-	if (MISSING_GEAR.cameras.length === 0 || MISSING_GEAR.lenses.length === 0) {
+	if (MISSING_GEAR.cameras.length !== 0 || MISSING_GEAR.lenses.length !== 0) {
 		console.log(`
 Missing gear clean names:`);
 		console.dir(MISSING_GEAR);

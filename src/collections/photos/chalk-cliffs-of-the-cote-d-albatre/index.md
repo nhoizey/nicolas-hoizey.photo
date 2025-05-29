@@ -71,6 +71,7 @@ geo:
   longitude: 0.20691082333333333
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 219.58333333333334 158.19444444444446 35.41666666666666
   darkVibrant: 93 67 15
@@ -79,9 +80,6 @@ colors:
   darkMuted: 87 73 55
   lightMuted: 158 144 129
 lqip: data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAAAQCgCdASpkAEMAP2Gev1iytKavNfiq6pAsCWUAzgMSnt7DTDy69Djxjt0yx7uRXAw7jsAVI2KZ4NfC61wnPaLTCGQn6uv50XxP9QGURwQqfAimutku9wXuAAD+xxPCbq01o6HSNFBwgU7wAGVq5P39GczPmhFZBsPg5vnXL4u2ohfc0XzGuxmHJzKZLDLS5WidnZETZNBQJZK5CQzV/L1G5c0FfaUlECWgBJ7xrXqJhkCZQUocw/S2zZP3g+Gj1tZDVczZHf3LBHHNLSF8oUgumYTz2f8QB9WTLkE8c8yrgbSmRe8Xc+wskgGh1d/Il6fXjh/reA4u7iUimyvF391e/x8VH/m1NexEnGsKcDPQOTl4K3aLws/tSm0tPleohEXjF6YOWZda9Z53qi3e3qsAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Côte d'Albâtre is the French coastal region of the Pays de Caux, on the English Channel. Made up of 130 kilometers of seashore and cliffs, interspersed with some sixty valleys.

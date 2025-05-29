@@ -76,6 +76,7 @@ geo:
   longitude: 0.20685379333333334
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 188 108 92
   darkVibrant: 11 29 46
@@ -84,9 +85,6 @@ colors:
   darkMuted: 50 66 86
   lightMuted: 167 193 212
 lqip: data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAADQDQCdASpkAEMAP3GoxFo0v6glMVQ5g/AuCWUA0FQ5D4+0Qtrm/F8J1MNro8sosN/MISK898G+cL5TkoYrS3+Wv4ahf3G8eIDAhlLlYj/1Yr50fLhivwz+AmePyFmZpEgUWqAJSpYM/XRKAW9gbkol+IssJs+wAAD+3/Z9ib8jfITreGYecZN/1CL3FNFejbW2sqwIYtKp5woB81GlJK4GbYVHu9SRwejBQ4+mrblt/BliOUTBoY2a6G/L3W9oai9qmVRIv8t4O/Qbf6Gp4nVRYUdxC/8FIKY+7Xqk1FkJXuX52b6bwMmndSqVYbe3PpafA6XYWkxwrTfRbk5Q9hk13nn7SkOG5WAm23tq1od/FoP213pn2/8e5XWsDLuotJT5574VJD78bTakxrv9szt8AAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Porte d'Amont is the smallest of the three arches of Étretat cliffs.

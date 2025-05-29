@@ -9,13 +9,11 @@ dates:
   iso: "'2020-08-06'"
   human: "'6 August 2020'"
 gear:
-  short: Hasselblad L1D-20c + 28.0 mm f/2.8
+  short: DJI Mavic Pro 2
   camera:
-    brand: Hasselblad
-    model: L1D-20c
-  lenses:
-    - brand: unknown
-      model: 28.0 mm f/2.8
+    brand: DJI
+    model: Mavic Pro 2
+    hashtags: "#DJI #Mavic #MavicPro2"
 tags:
   - calcaire
   - chalk
@@ -72,6 +70,7 @@ geo:
   latitude: 49.71058761166667
   longitude: 0.19648680500000001
   country: France
+  map: true
 colors:
   vibrant: 44 124 204
   darkVibrant: 10 45 51
@@ -80,9 +79,6 @@ colors:
   darkMuted: 42 64 87
   lightMuted: 164 179 210
 lqip: data:image/webp;base64,UklGRjoBAABXRUJQVlA4IC4BAADQCgCdASpkAEMAP2Wcv1i/v6cjszkts/AsiWMAycdT25rGJCF9rym5HNnk5aOAtZohrciCKwjyro9/WyKjpzGkGobfZc79P2CIwYarCsvvElAh5eWkuR1THVk6fFOOgAD94DlwOy8CZ+bMDpOHoHJJdh3cyprFzHPcKyT/czNhbdQxDQJqGLu92SFKiiWiuoUh1OvGokmJaIOWqjtlGOu9KAdxGOhXOB4DiDgf4JwdopF0fDPQU0KFFy4T+0y8HzWLwuaoQMj8Vsdgc4vwBNQ5GcfHXEykvvXPRTlvWEpIlGVD7cNJ2RNqv2iY+vKsGs1p737HxqVVN5zVXNfU6Fjooc19hqeHUcYVyUJaQqlcwqNrFjKaFEk8OzQhNnLKzoqTq1bDAWOdSIAQAAAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Étretat is best known for its chalk cliffs, including three natural arches and a pointed formation called L'Aiguille or the Needle.

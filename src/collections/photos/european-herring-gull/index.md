@@ -65,6 +65,7 @@ geo:
   longitude: 0.20718850333333333
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 68 116 152
   darkVibrant: 36 68 93
@@ -73,9 +74,6 @@ colors:
   darkMuted: 41 58 70
   lightMuted: 47.290909090909054 80.67272727272723 105.70909090909093
 lqip: data:image/webp;base64,UklGRmQBAABXRUJQVlA4IFgBAABwDQCdASpkAEMAP3GoyVu0rLKrrrMLWpAuCWMAznksF/XrjhU+YKAcbKAmBJDSW8RRonhiIIYJXUOVO9r7209AVuiUlra8r0Dn0YfHZsHuI/TFJl+vGL+/xrVqG9DIM0jeD2+HiLMT94//BLXhl4Y885c1AAD+Rgu5LIfBBiYaszMUsmjJzc3HAXHIh+/rsBc2CWZhNK3QVt+bWJPtpautNgluP0t3YDvxmyCl1DEEXLoEd3mI0E7QNfL6a3JyHE2DfU47pd2dHSlBcItzCxfT9cUGCTUnJ6JtHZ59dAB5SZ18BllCPI42WiY9YzFdW+6Zbz8uIYYlRzStHyXOPgJw9fBeotxrEFTSyCG/xLF/e+PGAkBaOyjAcUjyjEDigHNxlXqmbweSV3m4V5W8pK9j9IGaOiHTquFmbljUVbgGl8Q+cVtZ+nmZuYDWP/c8xB6OXxCC8wAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Despite their name, European herring gulls have no special preference for herrings — in fact, examinations have shown that echinoderms and crustaceans comprised a greater portion of these gulls' stomach contents than fish.

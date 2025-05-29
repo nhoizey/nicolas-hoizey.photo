@@ -8,13 +8,11 @@ dates:
   iso: "'2020-08-06'"
   human: "'6 August 2020'"
 gear:
-  short: Hasselblad L1D-20c + 28.0 mm f/2.8
+  short: DJI Mavic Pro 2
   camera:
-    brand: Hasselblad
-    model: L1D-20c
-  lenses:
-    - brand: unknown
-      model: 28.0 mm f/2.8
+    brand: DJI
+    model: Mavic Pro 2
+    hashtags: "#DJI #Mavic #MavicPro2"
 tags:
   - calcaire
   - chalk
@@ -70,6 +68,7 @@ geo:
   latitude: 49.70728838833333
   longitude: 0.193314695
   country: France
+  map: true
 colors:
   vibrant: 136 28 52
   darkVibrant: 24 59 96
@@ -78,9 +77,6 @@ colors:
   darkMuted: 92 92 41
   lightMuted: 213 194 185
 lqip: data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAACQCgCdASpkAEMAP3Gsxl00v6imLrIKi/AuCWcA0YAtEGZEd+i9adfgCmhQQJLUo/i6Oi0vs8/oNY5H3mGoQZp5aMTpN6JE6lv9dCqYgfMNHsDEm/46I4Q5bWUVyAAA/urQbeoGHky8U5pB8MyW1LDwauUrVBM5wAXbK1MDxjQRHpkyNzEp6Rmklt8BjGr8z8W+jiQkw/EGHDAE6RS18h9E9huMJMl2ZabSd79M8jnBO2AH+j3ZlN+VHy+tiI7YA0cud0IYXuutEnWQJU/NZO5Wh/X8tYrJw2yjLfxoy45ggH4FkS2F1YyEgAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The Needle is a witness to the geological past of the Etretat cliffs.
