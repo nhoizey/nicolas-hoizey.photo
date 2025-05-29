@@ -3,7 +3,7 @@ title: A nut shell in Étretat
 file: a-nut-shell-in-etretat.jpg
 alt_text: Coastal cliffs with a natural arch formation over turquoise waters,
   with a pink-roofed boat floating near the shore.
-date: 2013-07-28 12:22:00 +01:00
+date: 2013-07-28 13:22:00 +02:00
 dates:
   iso: "'2013-07-28'"
   human: "'28 July 2013'"
@@ -24,19 +24,25 @@ tags:
   - blue
   - boat
   - cliff
+  - Côte d'Albâtre
   - Côte d’Albâtre
   - eau
   - Étretat
   - Europa
   - Europe
   - falaise
+  - Falaise d'Aval
   - France
   - La Manneporte
   - landscape
+  - landscape photography
+  - landscape with people
   - mer
   - Normandie
   - Normandy
   - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - pink
   - Pisseuses de Valaine
   - Pointe de la Courtine
@@ -69,8 +75,8 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 49.69924680333333
-  longitude: 0.18301125333333335
+  latitude: 49.699247
+  longitude: 0.183011
   country: France
   city: Étretat
   map: true

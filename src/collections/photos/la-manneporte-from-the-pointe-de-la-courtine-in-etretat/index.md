@@ -2,7 +2,7 @@
 title: La Manneporte from the Pointe de la Courtine, in Étretat
 file: la-manneporte-from-the-pointe-de-la-courtine-in-etretat.jpg
 alt_text: Photo of Étretat cliffs, from the Pointe de la Courtine
-date: 2013-07-28 12:23:08 +01:00
+date: 2013-07-28 13:23:08 +02:00
 dates:
   iso: "'2013-07-28'"
   human: "'28 July 2013'"
@@ -24,24 +24,26 @@ tags:
   - ciel
   - cliff
   - cloud
+  - Côte d'Albâtre
   - Côte d’Albâtre
   - eau
   - Étretat
   - Europa
   - Europe
   - falaise
+  - Falaise d'Aval
   - France
   - grass
   - herbe
   - La Manneporte
-  - landscape
   - mer
   - Normandie
   - Normandy
   - nuage
-  - paysage
+  - paysage naturel
   - plant
   - Pointe de la Courtine
+  - pure landscape
   - rocher
   - rock
   - sea
@@ -75,8 +77,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 49.699640816666665
-  longitude: 0.18258245666666667
+  latitude: 49.699641
+  longitude: 0.182582
   country: France
   city: Étretat
   map: true
