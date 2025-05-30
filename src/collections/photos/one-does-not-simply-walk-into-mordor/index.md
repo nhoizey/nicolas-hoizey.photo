@@ -29,11 +29,15 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - montagne
   - mountain
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - vallée
   - Vallée de la Clarée
 settings:
@@ -62,8 +66,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.02325916666667
-  longitude: 6.5252013883333335
+  latitude: 45.023259
+  longitude: 6.525201
   country: France
   city: Névache
   map: true

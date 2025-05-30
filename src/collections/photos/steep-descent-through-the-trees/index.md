@@ -31,6 +31,12 @@ tags:
   - Grèce
   - Greece
   - hiking
+  - landscape
+  - landscape photography
+  - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - randonnée
   - randonnée pédestre
   - Samariá Gorge

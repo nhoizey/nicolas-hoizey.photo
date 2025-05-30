@@ -35,6 +35,7 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - larch
   - Larix
   - mélèze
@@ -43,10 +44,13 @@ tags:
   - nuage
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - pierre
   - Pinophyta
   - plant
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - rive
   - river
   - rivière

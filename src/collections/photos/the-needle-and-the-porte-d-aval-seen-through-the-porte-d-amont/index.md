@@ -36,10 +36,14 @@ tags:
   - L’Aiguille
   - La Porte d'Amont
   - La Porte d’Aval
+  - landscape
+  - landscape photography
   - mer
   - Normandie
   - Normandy
+  - paysage
   - paysage naturel
+  - photographie de paysage
   - pure landscape
   - sea
   - Seine-Maritime

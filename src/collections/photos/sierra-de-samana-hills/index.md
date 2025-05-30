@@ -30,12 +30,18 @@ tags:
   - Dominican Republic
   - hill
   - Hispaniola
+  - landscape
+  - landscape photography
   - mer
   - nuage
   - palm tree
   - palmier
+  - paysage
+  - paysage naturel
   - péninsule de Samaná
+  - photographie de paysage
   - plant
+  - pure landscape
   - República Dominicana
   - République dominicaine
   - Samana

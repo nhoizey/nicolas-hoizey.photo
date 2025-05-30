@@ -35,13 +35,17 @@ tags:
   - Hautes-Alpes
   - Juniperus sibirica
   - landscape
+  - landscape photography
   - montagne
   - mountain
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - Pinophyta
   - plant
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - river
   - rivière
   - stream
@@ -78,7 +82,7 @@ dimensions:
   height: 3500
 geo:
   latitude: 45.06179
-  longitude: 6.547989721666667
+  longitude: 6.54799
   country: France
   city: Névache
   map: true

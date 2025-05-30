@@ -31,10 +31,14 @@ tags:
   - L’Aiguille
   - La Manneporte
   - La Porte d’Aval
+  - landscape
+  - landscape photography
   - mer
   - Normandie
   - Normandy
+  - paysage
   - paysage naturel
+  - photographie de paysage
   - pure landscape
   - sea
   - Seine-Maritime

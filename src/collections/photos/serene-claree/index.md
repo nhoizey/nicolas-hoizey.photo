@@ -34,6 +34,7 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - larch
   - Larix
   - long exposure
@@ -41,11 +42,14 @@ tags:
   - nuage
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - pierre
   - Pinophyta
   - plant
   - pose longue
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - river
   - rivière
   - rock

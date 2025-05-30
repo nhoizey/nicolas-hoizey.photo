@@ -3,7 +3,7 @@ title: Loch Tulla Viewpoint
 file: loch-tulla-viewpoint.jpg
 alt_text: A scenic landscape with mountains, a cloudy sky, patches of snow, a
   body of water in the distance, and a grassy field.
-date: 2014-04-30 18:08:55 +01:00
+date: 2014-04-30 19:08:55 +02:00
 dates:
   iso: "'2014-04-30'"
   human: "'30 April 2014'"
@@ -31,11 +31,15 @@ tags:
   - lac
   - lake
   - landscape
+  - landscape photography
   - Loch Tulla
   - montagne
   - mountain
   - nuage
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
@@ -69,8 +73,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 56.567738545
-  longitude: -4.7538674033333335
+  latitude: 56.567739
+  longitude: -4.753867
   country: Royaume-Uni
   city: Bridge of Orchy
   map: true

@@ -3,7 +3,7 @@ title: Eastern Desert perspective
 file: eastern-desert-perspective.jpg
 alt_text: Desert landscape with a stone path leading towards a range of
   mountains in the background, sparse vegetation, and a clear sky at twilight.
-date: 2004-05-14 17:43:50 +01:00
+date: 2004-05-14 18:43:50 +02:00
 dates:
   iso: "'2004-05-14'"
   human: "'14 May 2004'"
@@ -27,8 +27,14 @@ tags:
   - El Qoseir
   - Gouvernorat de la Mer-Rouge
   - Itbay
+  - landscape
+  - landscape photography
   - montagne
   - mountain
+  - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - Red Sea Governorate
   - Red Sea Hills
   - tent
@@ -62,9 +68,10 @@ dimensions:
   width: 2263
   height: 1674
 geo:
-  latitude: 25.897621485
-  longitude: 34.294278395
-  country: Egypt
+  latitude: 25.897621
+  longitude: 34.294278
+  country: Égypte
+  city: Al Qusir
   map: true
 colors:
   vibrant: 228 184 108

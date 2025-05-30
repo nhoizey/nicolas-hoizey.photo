@@ -1,7 +1,7 @@
 ---
 title: The iconic acacia tree in front of Mount Kilimanjaro
 file: the-iconic-acacia-tree-in-front-of-mount-kilimanjaro.jpg
-date: 2019-02-28 18:25:51 +01:00
+date: 2019-02-28 19:25:51 +02:00
 dates:
   iso: "'2019-02-28'"
   human: "'28 February 2019'"
@@ -27,12 +27,18 @@ tags:
   - Kajiado
   - Kenya
   - Kilimanjaro
+  - landscape
+  - landscape photography
   - montagne
   - Mount Kilimanjaro
   - mountain
   - National Park
   - Parc national d'Amboseli
+  - paysage
+  - paysage naturel
+  - photographie de paysage
   - plant
+  - pure landscape
   - tree
   - umbrella thorn acacia
   - Vachellia tortilis
@@ -65,10 +71,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.7113088183333334
-  longitude: 37.333799633333335
+  latitude: -2.711309
+  longitude: 37.3338
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 7 159 217

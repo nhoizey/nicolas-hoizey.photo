@@ -5,7 +5,7 @@ alt_text: A scenic landscape featuring rolling hills and rocky terrain. A
   winding dirt path leads through the foreground, with sparse vegetation and
   scattered trees. The atmosphere is hazy, creating a soft and muted color
   palette.
-date: 2005-09-26 17:07:09 +01:00
+date: 2005-09-26 18:07:09 +02:00
 dates:
   iso: "'2005-09-26'"
   human: "'26 September 2005'"
@@ -31,11 +31,17 @@ tags:
   - Grèce
   - Greece
   - Katharo
+  - landscape
+  - landscape photography
   - Lasithi
   - montagne
   - mountain
   - pathway
+  - paysage
+  - paysage naturel
+  - photographie de paysage
   - Plateau Katharo
+  - pure landscape
   - Άγιος Νικόλαος
   - Ελλάδα
   - Κρήτη

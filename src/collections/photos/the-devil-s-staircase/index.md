@@ -4,7 +4,7 @@ file: the-devil-s-staircase.jpg
 alt_text: A winding road running through a valley with rugged, cloud-capped
   mountains in the Scottish Highlands, and a vista of moorland with sparse
   vegetation.
-date: 2014-04-30 18:24:17 +01:00
+date: 2014-04-30 19:24:17 +02:00
 dates:
   iso: "'2014-04-30'"
   human: "'30 April 2014'"
@@ -31,10 +31,14 @@ tags:
   - Great Britain
   - Highland
   - landscape
+  - landscape photography
   - montagne
   - mountain
   - nuage
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - road
   - route
   - Royaume Uni
@@ -70,9 +74,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 56.66099490166667
-  longitude: -4.915596608333333
-  country: Scotland
+  latitude: 56.660995
+  longitude: -4.915597
+  country: Royaume-Uni
+  city: Ballachulish
   map: true
 colors:
   vibrant: 159 119 75

@@ -37,14 +37,18 @@ tags:
   - lac
   - lake
   - landscape
+  - landscape photography
   - National Park
   - oiseau
   - oiseaux
   - Parc national d'Amboseli
   - paysage
+  - paysage naturel
   - Phoenicoptéridés
   - Phoenicoptériformes
   - Phoenicopterus roseus
+  - photographie de paysage
+  - pure landscape
   - sauvage
   - water
   - wild animal

@@ -1,7 +1,7 @@
 ---
 title: An evening on the Trälhavet shore
 file: an-evening-on-the-traelhavet-shore.jpg
-date: 2020-02-03 15:44:52 +01:00
+date: 2020-02-03 16:44:52 +02:00
 dates:
   iso: "'2020-02-03'"
   human: "'3 February 2020'"
@@ -22,12 +22,16 @@ tags:
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
+  - landscape photography
   - Näsuddens naturreservat
   - Österåker
   - Österåker Municipality
   - Österåkers kommun
   - Österskär
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - Stockholm County
   - Stockholms län
   - Suède
@@ -59,9 +63,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 59.456760935
-  longitude: 18.299222176666667
-  country: Sweden
+  latitude: 59.456761
+  longitude: 18.299222
+  country: Suède
   city: Åkersberga
   map: true
 colors:

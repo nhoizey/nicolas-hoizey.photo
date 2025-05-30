@@ -3,7 +3,7 @@ title: Into limbo
 file: into-limbo.jpg
 alt_text: Photo of mountain silhouettes in atmospheric mist and half-light, with
   a dominant bluish tint
-date: 2002-08-08 09:27:38 +01:00
+date: 2002-08-08 10:27:38 +02:00
 dates:
   iso: "'2002-08-08'"
   human: "'8 August 2002'"
@@ -25,11 +25,15 @@ tags:
   - hiking
   - itinéraire balisé
   - landscape
+  - landscape photography
   - long trail
   - mer
   - montagne
   - mountain
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - randonnée
   - randonnée pédestre
   - rêve

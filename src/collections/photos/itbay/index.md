@@ -2,7 +2,7 @@
 title: Itbāy
 file: itbay.jpg
 alt_text: Desert landscape with sandy ground and rocky hills under a hazy sky.
-date: 2004-05-14 16:44:58 +01:00
+date: 2004-05-14 17:44:58 +02:00
 dates:
   iso: "'2004-05-14'"
   human: "'14 May 2004'"
@@ -26,8 +26,14 @@ tags:
   - El Qoseir
   - Gouvernorat de la Mer-Rouge
   - Itbay
+  - landscape
+  - landscape photography
   - montagne
   - mountain
+  - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - Red Sea Governorate
   - Red Sea Hills
   - tent
@@ -61,9 +67,9 @@ dimensions:
   width: 2304
   height: 1704
 geo:
-  latitude: 25.885788668333333
-  longitude: 34.24826244166667
-  country: Egypt
+  latitude: 25.885789
+  longitude: 34.248262
+  country: Égypte
   city: Al Qusir
   map: true
 colors:

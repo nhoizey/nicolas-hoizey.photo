@@ -31,13 +31,17 @@ tags:
   - Hautes-Alpes
   - La Main de Crépin
   - landscape
+  - landscape photography
   - long exposure
   - montagne
   - mountain
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - pose longue
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - river
   - rivière
   - ruisseau

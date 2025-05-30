@@ -4,7 +4,7 @@ file: looking-south-from-la-siesta-beach.jpg
 alt_text: A picturesque coastal landscape featuring a sandy shore with rocks and
   reflective water, under a partly cloudy sky. Mountains are visible in the
   background.
-date: 2013-03-30 16:24:38 +01:00
+date: 2013-03-30 17:24:38 +02:00
 dates:
   iso: "'2013-03-30'"
   human: "'30 March 2013'"
@@ -25,6 +25,7 @@ tags:
   - cloud
   - eau
   - landscape
+  - landscape photography
   - mer
   - Mont-Dore
   - montagne
@@ -35,8 +36,11 @@ tags:
   - Oceania
   - Océanie
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - plage
   - plage de la Siesta
+  - pure landscape
   - reflection
   - reflet
   - sea

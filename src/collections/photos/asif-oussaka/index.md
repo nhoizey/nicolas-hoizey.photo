@@ -3,7 +3,7 @@ title: Asif Oussaka
 file: asif-oussaka.jpg
 alt_text: Rugged terrain with a dry river bed winding through hills, cactus in
   the foreground, and remnants of stone walls.
-date: 2011-05-06 12:30:20 +01:00
+date: 2011-05-06 13:30:20 +02:00
 dates:
   iso: "'2011-05-06'"
   human: "'6 May 2011'"
@@ -32,6 +32,8 @@ tags:
   - igudar
   - Inoummar
   - Inoummar agadir
+  - landscape
+  - landscape photography
   - Lesser Atlas
   - lit
   - lit de rivière
@@ -40,6 +42,10 @@ tags:
   - Marocco
   - ouadi
   - oued
+  - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - river
   - riverbed
   - rivière
@@ -76,10 +82,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 30.1627634
-  longitude: -9.1090226
-  country: Morocco
-  city: Tassegdelt
+  latitude: 30.162762999999998
+  longitude: -9.109023
+  country: Maroc
   map: true
 colors:
   vibrant: 180 100 68

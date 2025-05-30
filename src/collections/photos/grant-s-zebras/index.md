@@ -36,6 +36,7 @@ tags:
   - Kenya
   - Kilimanjaro
   - landscape
+  - landscape photography
   - mammal
   - mammalia
   - mammals
@@ -48,9 +49,12 @@ tags:
   - odd-toed ungulate
   - Parc national d'Amboseli
   - paysage
+  - paysage naturel
   - perissodactyla
   - périssodactyles
+  - photographie de paysage
   - plains zebra
+  - pure landscape
   - sauvage
   - volcan
   - volcano

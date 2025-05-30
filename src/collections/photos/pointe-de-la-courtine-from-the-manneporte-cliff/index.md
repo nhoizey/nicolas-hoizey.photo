@@ -23,8 +23,12 @@ tags:
   - cliff
   - eau
   - falaise
+  - landscape
+  - landscape photography
   - mer
+  - paysage
   - paysage naturel
+  - photographie de paysage
   - pure landscape
   - sea
   - sky

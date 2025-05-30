@@ -3,7 +3,7 @@ title: The Moroccan High Atlas
 file: the-moroccan-high-atlas.jpg
 alt_text: A person sitting under a tree in a field with scattered trees and a
   backdrop of snow-capped mountains under a clear blue sky.
-date: 2011-05-08 11:21:41 +01:00
+date: 2011-05-08 12:21:41 +02:00
 dates:
   iso: "'2011-05-08'"
   human: "'8 May 2011'"
@@ -31,12 +31,18 @@ tags:
   - High Atlas
   - Jbel Tinergwet
   - Jebel Tinergwet
+  - landscape
+  - landscape photography
   - Maroc
   - Marocco
   - montagne
   - mountain
   - neige
+  - paysage
+  - paysage naturel
+  - photographie de paysage
   - plant
+  - pure landscape
   - sky
   - snow
   - Souss-Massa
@@ -73,10 +79,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 30.417451858333333
-  longitude: -8.673681001666667
-  country: Morocco
-  city: Caïdat de Freija
+  latitude: 30.417452
+  longitude: -8.673681
+  country: Maroc
   map: true
 colors:
   vibrant: 4 122 196

@@ -32,16 +32,20 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - larch
   - Larix
   - long exposure
   - mélèze
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - Pinophyta
   - plant
   - pose longue
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - rivière
   - ruisseau
   - ruisseau du Raisin

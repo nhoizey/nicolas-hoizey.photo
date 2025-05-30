@@ -26,9 +26,15 @@ tags:
   - Cueva de la Linea
   - Dominican Republic
   - Hispaniola
+  - landscape
+  - landscape photography
   - Los Haitises National Park
   - Parc national Los Haitises
   - Parque nacional Los Haitises
+  - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - República Dominicana
   - République dominicaine
 settings:

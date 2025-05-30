@@ -1,7 +1,7 @@
 ---
 title: Follow the path around
 file: follow-the-path-around.jpg
-date: 2019-02-26 18:23:34 +01:00
+date: 2019-02-26 19:23:34 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -20,12 +20,18 @@ tags:
   - Afrique
   - arbre
   - Kenya
+  - landscape
+  - landscape photography
   - Maasai
   - Maasai Mara National Reserve
   - Masai
   - Masai Mara
   - Narok County
+  - paysage
+  - paysage naturel
+  - photographie de paysage
   - plant
+  - pure landscape
   - reserve
   - tree
   - végétal
@@ -55,10 +61,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.6083466666666666
-  longitude: 35.332193333333336
+  latitude: -1.608347
+  longitude: 35.332193
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 84 139 186

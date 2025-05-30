@@ -34,12 +34,16 @@ tags:
   - lac de la Cula
   - lake
   - landscape
+  - landscape photography
   - montagne
   - mountain
   - nuage
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - sky
   - vallée
   - Vallée de la Clarée
@@ -70,8 +74,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.06507416666667
-  longitude: 6.550259445
+  latitude: 45.065074
+  longitude: 6.5502590000000005
   country: France
   city: Névache
   map: true

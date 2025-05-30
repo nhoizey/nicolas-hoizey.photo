@@ -4,7 +4,7 @@ file: sunset-over-new-caledonia-grand-sud.jpg
 alt_text: A stunning sunset over a mountainous landscape, with vibrant colors in
   the sky and silhouetted peaks extending into the horizon, partially obscured
   by clouds.
-date: 2013-03-30 17:54:29 +01:00
+date: 2013-03-30 18:54:29 +02:00
 dates:
   iso: "'2013-03-30'"
   human: "'30 March 2013'"
@@ -26,6 +26,7 @@ tags:
   - eau
   - evening
   - landscape
+  - landscape photography
   - mer
   - montagne
   - mountain
@@ -35,6 +36,9 @@ tags:
   - Oceania
   - Océanie
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - sea
   - sky
   - soir

@@ -30,13 +30,19 @@ tags:
   - green
   - hiking
   - itinéraire balisé
+  - landscape
+  - landscape photography
   - long trail
   - Norman Switzerland
   - Normandie
   - Normandy
   - Orne
+  - paysage
+  - paysage naturel
   - peaceful
+  - photographie de paysage
   - plant
+  - pure landscape
   - Putanges-le-Lac
   - randonnée
   - randonnée pédestre

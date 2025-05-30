@@ -3,7 +3,7 @@ title: At the estuary of the Pirogues River
 file: at-the-estuary-of-the-pirogues-river.jpg
 alt_text: A scenic view of red-hued mountains alongside a river, with lush green
   vegetation in the foreground and a blue sky dotted with clouds.
-date: 2013-03-30 16:36:37 +01:00
+date: 2013-03-30 17:36:37 +02:00
 dates:
   iso: "'2013-03-30'"
   human: "'30 March 2013'"
@@ -27,6 +27,7 @@ tags:
   - eau
   - green
   - landscape
+  - landscape photography
   - mer
   - Mont-Dore
   - montagne
@@ -37,7 +38,10 @@ tags:
   - Oceania
   - Océanie
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - Pirogues river
+  - pure landscape
   - red
   - river
   - rivière

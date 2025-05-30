@@ -32,10 +32,14 @@ tags:
   - falaise
   - Falaise d'Amont
   - France
+  - landscape
+  - landscape photography
   - mer
   - Normandie
   - Normandy
+  - paysage
   - paysage naturel
+  - photographie de paysage
   - pure landscape
   - sea
   - Seine-Maritime

@@ -2,7 +2,7 @@
 title: Remains of the frozen sea
 file: remains-of-the-frozen-sea.jpg
 alt_text: Photo taken on the shore of the calm sea, with frozen water
-date: 2020-02-03 15:47:36 +01:00
+date: 2020-02-03 16:47:36 +02:00
 dates:
   iso: "'2020-02-03'"
   human: "'3 February 2020'"
@@ -25,12 +25,16 @@ tags:
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
+  - landscape photography
   - Näsuddens naturreservat
   - Österåker
   - Österåker Municipality
   - Österåkers kommun
   - Österskär
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - Stockholm County
   - Stockholms län
   - Suède
@@ -62,9 +66,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 59.45737805833333
-  longitude: 18.299656023333334
-  country: Sweden
+  latitude: 59.457378
+  longitude: 18.299656
+  country: Suède
   city: Åkersberga
   map: true
 colors:

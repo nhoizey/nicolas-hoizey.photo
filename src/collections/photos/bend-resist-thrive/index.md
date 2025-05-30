@@ -30,10 +30,14 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - plant
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - tordu
   - tree
   - twisted
@@ -66,8 +70,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.058814445
-  longitude: 6.525907778333333
+  latitude: 45.058814
+  longitude: 6.525908
   country: France
   city: Névache
   map: true

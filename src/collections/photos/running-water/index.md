@@ -30,10 +30,14 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - pierre
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - river
   - rivière
   - rocher
@@ -68,8 +72,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.03170245
-  longitude: 6.549370706666666
+  latitude: 45.031702
+  longitude: 6.549371
   country: France
   city: Névache
   map: true

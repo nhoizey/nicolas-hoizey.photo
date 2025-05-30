@@ -31,13 +31,19 @@ tags:
   - forest
   - forêt
   - Hispaniola
+  - landscape
+  - landscape photography
   - mer
   - palm tree
   - palmier
   - pathway
+  - paysage
+  - paysage naturel
   - péninsule de Samaná
+  - photographie de paysage
   - plant
   - Playa Las Cañas
+  - pure landscape
   - República Dominicana
   - République dominicaine
   - Samana

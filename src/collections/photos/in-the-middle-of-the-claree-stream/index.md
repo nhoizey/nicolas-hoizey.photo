@@ -31,11 +31,15 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - nuage
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - pierre
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - river
   - rivière
   - rock

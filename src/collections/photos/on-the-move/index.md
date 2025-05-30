@@ -36,6 +36,7 @@ tags:
   - Kajiado
   - Kenya
   - landscape
+  - landscape photography
   - mammal
   - mammalia
   - mammals
@@ -44,6 +45,9 @@ tags:
   - National Park
   - Parc national d'Amboseli
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - sauvage
   - wild animal
   - wild animals

@@ -3,7 +3,7 @@ title: Loch Alsh
 file: loch-alsh.jpg
 alt_text: Coastline with rocky cliffs and trees overlooking a lake with
   mountains in the background under an overcast sky.
-date: 2014-05-01 16:48:54 +01:00
+date: 2014-05-01 17:48:54 +02:00
 dates:
   iso: "'2014-05-01'"
   human: "'1 May 2014'"
@@ -29,11 +29,15 @@ tags:
   - Great Britain
   - Highland
   - landscape
+  - landscape photography
   - Loch Aillse
   - Loch Alsh
   - mer
   - nuage
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - rocher
   - rock
   - Royaume Uni
@@ -71,10 +75,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 57.280738471666666
-  longitude: -5.673200278333333
-  country: Scotland
-  city: Kyle of Lochalsh
+  latitude: 57.280738
+  longitude: -5.6732
+  country: Royaume-Uni
+  city: Kyle
   map: true
 colors:
   vibrant: 52 92 108

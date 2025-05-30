@@ -36,11 +36,15 @@ tags:
   - grass
   - herbe
   - La Manneporte
+  - landscape
+  - landscape photography
   - mer
   - Normandie
   - Normandy
   - nuage
+  - paysage
   - paysage naturel
+  - photographie de paysage
   - plant
   - Pointe de la Courtine
   - pure landscape

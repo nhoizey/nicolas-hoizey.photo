@@ -3,7 +3,7 @@ title: All quiet on the frozen Trälhavet shore
 file: all-quiet-on-the-frozen-traelhavet-shore.jpg
 alt_text: A serene seaside view at twilight, with a foreground of mossy rocks
   and thin ice, reflecting distant houses and the early evening sky.
-date: 2020-02-03 15:50:20 +01:00
+date: 2020-02-03 16:50:20 +02:00
 dates:
   iso: "'2020-02-03'"
   human: "'3 February 2020'"
@@ -28,6 +28,7 @@ tags:
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
+  - landscape photography
   - mer
   - Näsuddens naturreservat
   - Österåker
@@ -35,6 +36,9 @@ tags:
   - Österåkers kommun
   - Österskär
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - sea
   - Stockholm County
   - Stockholms län
@@ -68,9 +72,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 59.45706133833333
-  longitude: 18.29953088
-  country: Sweden
+  latitude: 59.457061
+  longitude: 18.299531
+  country: Suède
   city: Åkersberga
   map: true
 colors:

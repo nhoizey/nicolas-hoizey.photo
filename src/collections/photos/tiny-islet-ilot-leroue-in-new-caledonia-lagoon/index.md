@@ -4,7 +4,7 @@ file: tiny-islet-ilot-leroue-in-new-caledonia-lagoon.jpg
 alt_text: A serene coastal scene featuring clear, calm water leading to a sandy
   beach lined with greenery, and distant islands visible under a blue sky with
   scattered clouds.
-date: 2013-03-31 08:54:11 +01:00
+date: 2013-03-31 09:54:11 +02:00
 dates:
   iso: "'2013-03-31'"
   human: "'31 March 2013'"
@@ -30,6 +30,7 @@ tags:
   - lagon
   - lagoon
   - landscape
+  - landscape photography
   - Leroue island
   - mer
   - New Caledonia
@@ -38,7 +39,10 @@ tags:
   - Oceania
   - Océanie
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - plage
+  - pure landscape
   - sable
   - sand
   - sea

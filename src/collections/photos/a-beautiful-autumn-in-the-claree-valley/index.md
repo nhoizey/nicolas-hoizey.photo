@@ -35,16 +35,20 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - larch
   - Larix
   - mélèze
   - nuage
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - pierre
   - Pinophyta
   - plant
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - river
   - rivière
   - rock

@@ -1,7 +1,7 @@
 ---
 title: Laterite landscape
 file: laterite-landscape.jpg
-date: 2013-03-30 16:46:24 +01:00
+date: 2013-03-30 17:46:24 +02:00
 dates:
   iso: "'2013-03-30'"
   human: "'30 March 2013'"
@@ -25,6 +25,7 @@ tags:
   - earth
   - green
   - landscape
+  - landscape photography
   - laterite
   - Mont-Dore
   - montagne
@@ -36,6 +37,9 @@ tags:
   - Oceania
   - Océanie
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - red
   - rouge
   - sky

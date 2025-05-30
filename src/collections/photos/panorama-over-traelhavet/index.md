@@ -1,7 +1,7 @@
 ---
 title: Panorama over Trälhavet
 file: panorama-over-traelhavet.jpg
-date: 2020-02-03 15:34:54 +01:00
+date: 2020-02-03 16:34:54 +02:00
 dates:
   iso: "'2020-02-03'"
   human: "'3 February 2020'"
@@ -24,6 +24,7 @@ tags:
   - Kingdom of Sweden
   - Konungariket Sverige
   - landscape
+  - landscape photography
   - mer
   - Näsuddens naturreservat
   - Österåker
@@ -31,6 +32,9 @@ tags:
   - Österåkers kommun
   - Österskär
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - sea
   - Stockholm County
   - Stockholms län
@@ -64,9 +68,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 59.45859083333333
-  longitude: 18.297981945
-  country: Sweden
+  latitude: 59.458591
+  longitude: 18.297982
+  country: Suède
   city: Åkersberga
   map: true
 colors:

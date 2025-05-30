@@ -28,12 +28,16 @@ tags:
   - Kenya
   - Kilimanjaro
   - landscape
+  - landscape photography
   - montagne
   - Mount Kilimanjaro
   - mountain
   - National Park
   - Parc national d'Amboseli
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - sauvage
   - volcan
   - volcano

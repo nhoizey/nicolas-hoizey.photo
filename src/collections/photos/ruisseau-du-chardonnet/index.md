@@ -31,14 +31,18 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - larch
   - Larix
   - mélèze
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - Pinophyta
   - plant
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - river
   - rivière
   - ruisseau
@@ -75,8 +79,8 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 45.03123768333333
-  longitude: 6.529071025
+  latitude: 45.031238
+  longitude: 6.529071
   country: France
   city: Névache
   map: true

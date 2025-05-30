@@ -35,15 +35,19 @@ tags:
   - eau
   - Hispaniola
   - landscape
+  - landscape photography
   - Las Terrenas
   - mer
   - nuage
   - palm tree
   - palmier
   - paysage
+  - paysage naturel
   - péninsule de Samaná
+  - photographie de paysage
   - plage
   - plant
+  - pure landscape
   - República Dominicana
   - République dominicaine
   - sable

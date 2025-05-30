@@ -3,7 +3,7 @@ title: Traigh beaches
 file: traigh-beaches.jpg
 alt_text: Photo of a white sandy beach, with turquoise sea, and in the
   background low mountains
-date: 2014-05-01 11:57:50 +01:00
+date: 2014-05-01 12:57:50 +02:00
 dates:
   iso: "'2014-05-01'"
   human: "'1 May 2014'"
@@ -34,10 +34,14 @@ tags:
   - Highland
   - Inverness-shire
   - landscape
+  - landscape photography
   - mer
   - nuage
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - plage
+  - pure landscape
   - rocher
   - rock
   - Royaume Uni
@@ -76,9 +80,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 56.940038273333336
-  longitude: -5.854871491666667
-  country: Scotland
+  latitude: 56.940038
+  longitude: -5.854871
+  country: Royaume-Uni
+  city: Arisaig
   map: true
 colors:
   vibrant: 48 107 161

@@ -3,7 +3,7 @@ title: Crawling along the riverbank in search of a foothold
 file: crawling-along-the-riverbank-in-search-of-a-foothold.jpg
 alt_text: A tranquil river scene framed by lush greenery and tree roots, with
   soft lighting highlighting the calm water and distant foliage.
-date: 2024-10-06 11:09:15 +01:00
+date: 2024-10-06 12:09:15 +02:00
 dates:
   iso: "'2024-10-06'"
   human: "'6 October 2024'"
@@ -24,8 +24,14 @@ tags:
   - Forêt de Fontainebleau
   - France
   - Ile de France
+  - landscape
+  - landscape photography
   - Montigny-sur-Loing
+  - paysage
+  - paysage naturel
+  - photographie de paysage
   - pluie
+  - pure landscape
   - rain
   - Seine et Marne
 settings:

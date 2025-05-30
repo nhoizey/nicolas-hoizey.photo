@@ -1,7 +1,7 @@
 ---
 title: Empty
 file: empty.jpg
-date: 2019-03-01 07:15:25 +01:00
+date: 2019-03-01 08:15:25 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
@@ -23,16 +23,21 @@ tags:
   - Amboseli National Park
   - atmosphere
   - désert
+  - earth
   - Kajiado
   - Kenya
   - Kilimanjaro
   - landscape
+  - landscape photography
   - montagne
   - Mount Kilimanjaro
   - mountain
   - National Park
   - Parc national d'Amboseli
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - sable
   - sand
   - terre
@@ -64,10 +69,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -2.6633416666666667
+  latitude: -2.663342
   longitude: 37.312715
   country: Kenya
-  city: Amboseli National Park
+  city: Entonet
   map: true
 colors:
   vibrant: 5 123 175

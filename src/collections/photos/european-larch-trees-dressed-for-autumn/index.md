@@ -31,6 +31,7 @@ tags:
   - France
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - larch
   - Larix
   - mélèze
@@ -38,9 +39,12 @@ tags:
   - mountain
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - Pinophyta
   - plant
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - tree
   - vallée
   - Vallée de la Clarée
@@ -71,8 +75,8 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 45.026800205
-  longitude: 6.562330873333333
+  latitude: 45.0268
+  longitude: 6.562331
   country: France
   city: Névache
   map: true

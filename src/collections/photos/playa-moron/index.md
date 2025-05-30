@@ -29,14 +29,20 @@ tags:
   - Dominican Republic
   - green
   - Hispaniola
+  - landscape
+  - landscape photography
   - mer
   - ombre
   - palm tree
   - palmier
+  - paysage
+  - paysage naturel
   - péninsule de Samaná
+  - photographie de paysage
   - plage
   - plant
   - Playa Morón
+  - pure landscape
   - República Dominicana
   - République dominicaine
   - Samana

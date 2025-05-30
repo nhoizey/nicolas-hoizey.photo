@@ -35,6 +35,7 @@ tags:
   - Kenya
   - Kilimanjaro
   - landscape
+  - landscape photography
   - montagne
   - Mount Kilimanjaro
   - mountain
@@ -44,7 +45,10 @@ tags:
   - oiseaux
   - Parc national d'Amboseli
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - plant
+  - pure landscape
   - sauvage
   - snow
   - tree

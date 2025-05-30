@@ -3,7 +3,7 @@ title: Loch Tummel from Queen's View
 file: loch-tummel-from-queen-s-view.jpg
 alt_text: A panoramic view of a serene loch surrounded by rolling hills and
   scattered forests under a cloudy sky.
-date: 2014-05-02 12:39:32 +01:00
+date: 2014-05-02 13:39:32 +02:00
 dates:
   iso: "'2014-05-02'"
   human: "'2 May 2014'"
@@ -27,9 +27,13 @@ tags:
   - Grande-Bretagne
   - Great Britain
   - landscape
+  - landscape photography
   - nuage
   - paysage
+  - paysage naturel
   - Perth and Kinross
+  - photographie de paysage
+  - pure landscape
   - Queen's View
   - Royaume Uni
   - Royaume-Uni
@@ -64,9 +68,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 56.715904165
-  longitude: -3.858550441666667
-  country: Scotland
+  latitude: 56.715904
+  longitude: -3.85855
+  country: Royaume-Uni
+  city: Pitlochry
   map: true
 colors:
   vibrant: 132 164 196

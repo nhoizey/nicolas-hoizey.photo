@@ -1,7 +1,7 @@
 ---
 title: Sunset on Lake Nakuru's flooded trees
 file: sunset-on-lake-nakuru-s-flooded-trees.jpg
-date: 2019-02-27 18:45:04 +01:00
+date: 2019-02-27 19:45:04 +02:00
 dates:
   iso: "'2019-02-27'"
   human: "'27 February 2019'"
@@ -31,12 +31,16 @@ tags:
   - Lake Nakuru
   - Lake Nakuru National Park
   - landscape
+  - landscape photography
   - Nakuru
   - Nakuru County
   - nuage
   - Parc national du lac Nakuru
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - plant
+  - pure landscape
   - purple
   - silhouette
   - sky
@@ -74,10 +78,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -0.30809833333333336
+  latitude: -0.30809800000000004
   longitude: 36.109235
   country: Kenya
-  city: Lake Nakuru National Park
+  city: Nakuru
   map: true
 colors:
   vibrant: 176 117 85

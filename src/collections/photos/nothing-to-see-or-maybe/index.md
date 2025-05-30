@@ -29,6 +29,7 @@ tags:
   - félins
   - Kenya
   - landscape
+  - landscape photography
   - lion
   - Maasai
   - Maasai Mara National Reserve
@@ -42,6 +43,9 @@ tags:
   - Narok County
   - Panthera leo
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - reserve
   - sauvage
   - wild

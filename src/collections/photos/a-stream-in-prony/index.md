@@ -1,7 +1,7 @@
 ---
 title: A stream in Prony
 file: a-stream-in-prony.jpg
-date: 2013-03-30 17:33:47 +01:00
+date: 2013-03-30 18:33:47 +02:00
 dates:
   iso: "'2013-03-30'"
   human: "'30 March 2013'"
@@ -18,12 +18,18 @@ gear:
       short: 24-70mm
 tags:
   - eau
+  - landscape
+  - landscape photography
   - Mont-Dore
   - New Caledonia
   - Nouvelle Calédonie
   - Oceania
   - Océanie
+  - paysage
+  - paysage naturel
+  - photographie de paysage
   - Prony
+  - pure landscape
   - river
   - rivière
   - roche

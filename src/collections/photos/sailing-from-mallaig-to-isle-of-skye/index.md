@@ -4,7 +4,7 @@ file: sailing-from-mallaig-to-isle-of-skye.jpg
 alt_text: A coastal landscape with a body of water in the foreground, a village
   amidst rolling hills in the middle, and a mountain range with snowy peaks in
   the background, under a cloudy sky.
-date: 2014-05-01 12:56:40 +01:00
+date: 2014-05-01 13:56:40 +02:00
 dates:
   iso: "'2014-05-01'"
   human: "'1 May 2014'"
@@ -29,12 +29,16 @@ tags:
   - Great Britain
   - Highland
   - landscape
+  - landscape photography
   - Mallaig
   - mer
   - montagne
   - mountain
   - nuage
   - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
@@ -70,9 +74,8 @@ dimensions:
   height: 2333
 geo:
   latitude: 57.010007
-  longitude: -5.827218291666666
-  country: Scotland
-  city: Mallaig
+  longitude: -5.827218
+  country: Royaume-Uni
   map: true
 colors:
   vibrant: 92 141 196

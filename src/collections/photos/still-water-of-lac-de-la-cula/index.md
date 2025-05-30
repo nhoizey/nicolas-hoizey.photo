@@ -31,11 +31,15 @@ tags:
   - lac de la Cula
   - lake
   - landscape
+  - landscape photography
   - long exposure
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - pose longue
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - vallée
   - Vallée de la Clarée
 settings:

@@ -3,7 +3,7 @@ title: Mangrove tree in south New Caledonia
 file: mangrove-tree-in-south-new-caledonia.jpg
 alt_text: A gnarled tree with exposed roots on a beach, with a backdrop of the
   ocean and scattered clouds in the sky.
-date: 2013-03-30 16:26:54 +01:00
+date: 2013-03-30 17:26:54 +02:00
 dates:
   iso: "'2013-03-30'"
   human: "'30 March 2013'"
@@ -22,6 +22,7 @@ tags:
   - arbre
   - beach
   - landscape
+  - landscape photography
   - mangrove tree
   - mer
   - Mont-Dore
@@ -31,12 +32,16 @@ tags:
   - Océanie
   - palétuvier
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - plage
-  - Plage de la Siesta
+  - plage de la Siesta
   - plant
+  - pure landscape
   - sable
   - sand
   - sea
+  - Siesta beach
   - tree
   - végétal
 settings:

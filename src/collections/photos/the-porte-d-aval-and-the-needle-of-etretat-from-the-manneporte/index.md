@@ -34,10 +34,14 @@ tags:
   - France
   - L’Aiguille
   - La Porte d’Aval
+  - landscape
+  - landscape photography
   - mer
   - Normandie
   - Normandy
+  - paysage
   - paysage naturel
+  - photographie de paysage
   - plage
   - pure landscape
   - sea

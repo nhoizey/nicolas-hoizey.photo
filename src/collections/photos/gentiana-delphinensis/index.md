@@ -34,10 +34,14 @@ tags:
   - Gentiane dauphinoise
   - Hautes-Alpes
   - landscape
+  - landscape photography
   - PACA
   - paysage
+  - paysage naturel
+  - photographie de paysage
   - plant
   - Provence-Alpes-Côte d'Azur
+  - pure landscape
   - rivière
   - ruisseau
   - ruisseau du Chardonnet
@@ -71,8 +75,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.02592741666667
-  longitude: 6.523841281666667
+  latitude: 45.025927
+  longitude: 6.523841
   country: France
   city: Névache
   map: true

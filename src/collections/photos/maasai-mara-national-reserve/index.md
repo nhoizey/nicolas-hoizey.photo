@@ -1,7 +1,7 @@
 ---
 title: Maasai Mara National Reserve
 file: maasai-mara-national-reserve.jpg
-date: 2019-02-26 07:43:41 +01:00
+date: 2019-02-26 08:43:41 +02:00
 dates:
   iso: "'2019-02-26'"
   human: "'26 February 2019'"
@@ -19,11 +19,17 @@ tags:
   - Africa
   - Afrique
   - Kenya
+  - landscape
+  - landscape photography
   - Maasai
   - Maasai Mara National Reserve
   - Masai
   - Masai Mara
   - Narok County
+  - paysage
+  - paysage naturel
+  - photographie de paysage
+  - pure landscape
   - reserve
 settings:
   focal_length:
@@ -51,10 +57,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -1.6194616666666666
-  longitude: 35.30692166666667
+  latitude: -1.619462
+  longitude: 35.306922
   country: Kenya
-  city: Maasai Mara National Reserve
+  city: Siana
   map: true
 colors:
   vibrant: 19 142 204
