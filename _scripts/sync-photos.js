@@ -14,6 +14,8 @@ import { PNG } from "pngjs";
 import sharp from "sharp";
 import utf8 from "utf8";
 import YAML from "yaml";
+import { decodeHTML } from "entities";
+
 import slugify from "../src/_11ty/_utils/slugify.js";
 
 const SRC =
@@ -93,6 +95,12 @@ SYNC ${photo}`);
 			photosData[photo] = {};
 		}
 
+		// Clean useless data
+		delete photoExif.crs;
+		delete photoExif.lr;
+		delete photoExif.photoshop;
+		delete photoExif.xmpMM;
+
 		const missingData = {};
 
 		let copyPhotoFile = false;
@@ -102,12 +110,12 @@ SYNC ${photo}`);
 			copyPhotoFile = true;
 		}
 
-		if (undefined === photoExif.iptc.ObjectName) {
-			thisLog(`  ⚠ "iptc.ObjectName" missing`);
+		if (undefined === photoExif.dc.title.value) {
+			thisLog(`  ⚠ "photoExif.dc.title.value" missing`);
 			photoYFM.title = photo.replace(/[-0-9]+ (.*)\.[^.]+$/, "$1");
 		} else {
 			// Get title
-			photoYFM.title = utf8.decode(photoExif.iptc.ObjectName);
+			photoYFM.title = decodeHTML(photoExif.dc.title.value);
 		}
 
 		// Compute folder and file paths from title
