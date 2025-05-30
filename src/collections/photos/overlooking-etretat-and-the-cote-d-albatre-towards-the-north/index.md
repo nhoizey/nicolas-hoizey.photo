@@ -21,7 +21,6 @@ tags:
   - ciel
   - cliff
   - Côte d'Albâtre
-  - Côte d’Albâtre
   - drone
   - drone photography
   - eau

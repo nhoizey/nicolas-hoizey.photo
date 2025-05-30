@@ -20,7 +20,6 @@ tags:
   - ciel
   - cliff
   - Côte d'Albâtre
-  - Côte d’Albâtre
   - eau
   - Étretat
   - Europa

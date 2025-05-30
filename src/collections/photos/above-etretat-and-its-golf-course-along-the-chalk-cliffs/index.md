@@ -16,7 +16,6 @@ gear:
 tags:
   - ciel
   - Côte d'Albâtre
-  - Côte d’Albâtre
   - drone
   - drone photography
   - eau

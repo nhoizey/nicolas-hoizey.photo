@@ -24,7 +24,6 @@ tags:
   - ciel
   - cliff
   - Côte d'Albâtre
-  - Côte d’Albâtre
   - coucher de soleil
   - eau
   - Étretat
