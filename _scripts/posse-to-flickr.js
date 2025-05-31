@@ -579,7 +579,7 @@ https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 						break;
 					case 5:
 						console.info(
-							`🍯 Limit riched for group https://flickr.com/groups/${groupId}/`,
+							`🍯 Limit reached for group https://flickr.com/groups/${groupId}/`,
 						);
 						break;
 					case 6:
