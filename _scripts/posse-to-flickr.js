@@ -31,11 +31,24 @@ const FEED_URL = "https://nicolas-hoizey.photo/feeds/mastodon/photos.json";
 
 let photoId;
 
-const posseToFlickr = async () => {
-	const flickrPhotos = await flickr("flickr.people.getPublicPhotos", {
+const getFlickrPhotos = async (page = 1) => {
+	console.log(`Fetching Flickr photos, page ${page}…`);
+	return await flickr("flickr.people.getPublicPhotos", {
 		user_id: process.env.FLICKR_USER_ID,
-		per_page: 500,
-	}).then((body) => body.photos.photo);
+		per_page: 100,
+		page: page,
+	}).then(async (body) => {
+		if (body.photos.page < body.photos.pages) {
+			return await getFlickrPhotos(page + 1).then((nextBody) => {
+				return body.photos.photo.concat(nextBody);
+			});
+		}
+		return body.photos.photo;
+	});
+};
+
+const posseToFlickr = async () => {
+	const flickrPhotos = await getFlickrPhotos();
 	const flickrSlugs = flickrPhotos.map((photo) => slugify(photo.title));
 
 	const photosToPosse = [];
@@ -556,8 +569,8 @@ const posseToFlickr = async () => {
 
 	if (MODE === "test") {
 		console.log("");
-		console.log(`${groups.size} groups to add the photo to:`);
-		console.dir(groups);
+		console.log(`${groups.size} groups to add the photo to.`);
+		// console.dir(groups);
 	}
 
 	if (MODE === "posse") {
