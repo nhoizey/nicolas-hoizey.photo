@@ -65,8 +65,7 @@ const posseToFlickr = async () => {
 	const photoToPosseSlug = slugify(photoToPosse.title);
 
 	console.log("");
-	console.log(`Next photo to POSSE:
-${photoToPosse.title}`);
+	console.log(`Next photo to POSSE: ${photoToPosse.title}`);
 
 	if (MODE === "test") {
 		console.dir(photoToPosse);
@@ -88,8 +87,7 @@ ${photoToPosse.title}`);
 		photoId = photoData.id;
 
 		console.log(
-			`Uploaded to Flickr:
-https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
+			`Uploaded to Flickr: https://www.flickr.com/photos/nicolas-hoizey/${photoId}/`,
 		);
 	}
 
