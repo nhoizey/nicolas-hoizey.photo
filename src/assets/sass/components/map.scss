@@ -122,4 +122,11 @@
   .mapboxgl-style-list button {
     color: black;
   }
+
+  .mapboxgl-ctrl button.mapboxgl-ctrl-autoplay .mapboxgl-ctrl-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' aria-hidden='true' viewBox='0 0 24 24'%3E%3Cpath d='M12.002 5c-3.86 0-7.001 3.143-7.001 7.002s3.142 7.001 7.001 7.001c3.86 0 7.001-3.142 7.001-7S15.861 5 12.003 5Zm2.65 7.379-3.829 2.237a.45.45 0 0 1-.438.006.434.434 0 0 1-.218-.383V9.766a.434.434 0 0 1 .656-.377l3.829 2.236a.444.444 0 0 1 .219.377.437.437 0 0 1-.219.377Z'/%3E%3C/svg%3E");
+  }
+  .mapboxgl-ctrl button.mapboxgl-ctrl-autoplay.mapboxgl-ctrl-autoplay-active .mapboxgl-ctrl-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' aria-hidden='true' viewBox='0 0 24 24'%3E%3Cpath d='M6 5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1Zm9 0a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h3a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1Z'/%3E%3C/svg%3E");
+  }
 }

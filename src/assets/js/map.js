@@ -2,7 +2,7 @@ import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
 import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import polylabel from "polylabel";
 
-((window) => {
+(async (window) => {
 	// Load Mapbox map if necessary
 	const mapElementId = "map";
 	const mapElement = window.document.querySelector(`#${mapElementId}`);
@@ -14,6 +14,9 @@ import polylabel from "polylabel";
 		{ count: 100, color: "#53297c", radius: 15 },
 	];
 	const markerStroke = "#ffffff";
+	const geoJsonUrl = "/map/photos.geojson";
+	const geoJsonResponse = await fetch(geoJsonUrl);
+	window.geoJsonData = await geoJsonResponse.json();
 
 	if (mapElement) {
 		let userInteracting = false;
@@ -60,7 +63,7 @@ import polylabel from "polylabel";
 			if (!map.getSource("photos")) {
 				map.addSource("photos", {
 					type: "geojson",
-					data: "/map/photos.geojson",
+					data: geoJsonUrl,
 					cluster: true,
 					clusterMaxZoom: maxZoomLevel,
 					clusterRadius: 25, // Radius of each cluster when clustering points (defaults to 50)
@@ -272,6 +275,53 @@ import polylabel from "polylabel";
 				},
 			}),
 		);
+
+		class AutoPlayButton {
+			onAdd(map) {
+				let currentlyPlaying = false;
+				let currentPhotoIndex = 0;
+				let intervalID = null;
+
+				const div = document.createElement("div");
+				div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
+				div.innerHTML = `<button class="mapboxgl-ctrl-autoplay"><span class="mapboxgl-ctrl-icon" aria-hidden="true" title="Auto play"></span></button>`;
+				div.addEventListener("contextmenu", (e) => e.preventDefault());
+				div.addEventListener("click", () => {
+					currentlyPlaying = !currentlyPlaying;
+
+					const flyToNextPhoto = () => {
+						const [lat, lng] = window.geoJsonData.features[currentPhotoIndex % window.geoJsonData.features.length].geometry.coordinates;
+						currentPhotoIndex++;
+
+						map.flyTo({
+							center: [lat, lng],
+							zoom: 16,
+							pitch: 0,
+							bearing: 0,
+							curve: 1.5,
+							speed: 1.2,
+							essential: true // This animation is considered essential with respect to prefers-reduced-motion
+						});
+					};
+
+					if (currentlyPlaying) {
+						flyToNextPhoto();
+						intervalID = setInterval(flyToNextPhoto, 10000);
+					} else {
+						clearInterval(intervalID);
+						intervalID = null;
+					}
+					div.querySelector('button').classList.toggle("mapboxgl-ctrl-autoplay-active", currentlyPlaying);
+				});
+
+				return div;
+			}
+		}
+		const playButton = new AutoPlayButton();
+		map.addControl(playButton);
+
+		// https://docs.mapbox.com/mapbox-gl-js/example/navigation-scale/
+		map.addControl(new mapboxgl.ScaleControl());
 
 		// After the last frame rendered before the map enters an "idle" state.
 		map.on("idle", () => {
