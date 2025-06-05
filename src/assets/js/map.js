@@ -2,6 +2,12 @@ import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
 import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import polylabel from "polylabel";
 
+const decodeHTML = (html) => {
+	let txt = document.createElement('textarea');
+	txt.innerHTML = html;
+	return txt.value;
+};
+
 (async (window) => {
 	// Load Mapbox map if necessary
 	const mapElementId = "map";
@@ -15,8 +21,10 @@ import polylabel from "polylabel";
 	];
 	const markerStroke = "#ffffff";
 	const geoJsonUrl = "/map/photos.geojson";
+
 	const geoJsonResponse = await fetch(geoJsonUrl);
-	window.geoJsonData = await geoJsonResponse.json();
+	const geoJsonData = await geoJsonResponse.json();
+	window.geoJsonFeatures = geoJsonData.features.sort((a, b) => Date.parse(decodeHTML(a.properties.date).slice(1, -1)) - Date.parse(decodeHTML(b.properties.date).slice(1, -1)));
 
 	if (mapElement) {
 		let userInteracting = false;
@@ -290,7 +298,7 @@ import polylabel from "polylabel";
 					currentlyPlaying = !currentlyPlaying;
 
 					const flyToNextPhoto = () => {
-						const [lat, lng] = window.geoJsonData.features[currentPhotoIndex % window.geoJsonData.features.length].geometry.coordinates;
+						const [lat, lng] = window.geoJsonFeatures[currentPhotoIndex % window.geoJsonFeatures.length].geometry.coordinates;
 						currentPhotoIndex++;
 
 						map.flyTo({
@@ -298,8 +306,8 @@ import polylabel from "polylabel";
 							zoom: 16,
 							pitch: 0,
 							bearing: 0,
-							curve: 1.5,
-							speed: 1.2,
+							curve: 1.8,
+							speed: 0.8,
 							essential: true // This animation is considered essential with respect to prefers-reduced-motion
 						});
 					};
