@@ -315,11 +315,12 @@ const decodeHTML = (html) => {
 
 						map.flyTo({
 							center: [lat, lng],
-							zoom: 16,
-							pitch: Math.random() * 45,
-							bearing: 45 + Math.random() * 90,
+							zoom: 18,
+							pitch: 20 + Math.random() * 45, // 0 (zenith) -> 90 degrees
+							bearing: 180 - Math.random() * 360, // -180 -> 180 degrees
 							curve: 2,
-							speed: 0.5,
+							// speed: 0.5,
+							duration: 10000,
 							essential: true // This animation is considered essential with respect to prefers-reduced-motion
 						});
 					};
