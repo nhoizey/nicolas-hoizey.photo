@@ -308,10 +308,10 @@ const decodeHTML = (html) => {
 						map.flyTo({
 							center: [lat, lng],
 							zoom: 16,
-							pitch: 0,
-							bearing: 0,
-							curve: 1.8,
-							speed: 0.8,
+							pitch: Math.random() * 45,
+							bearing: 45 + Math.random() * 90,
+							curve: 2,
+							speed: 0.5,
 							essential: true // This animation is considered essential with respect to prefers-reduced-motion
 						});
 					};
