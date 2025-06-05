@@ -6,6 +6,7 @@ date: 2014-03-14 15:24:29 +02:00
 dates:
   iso: "'2014-03-14'"
   human: "'14 March 2014'"
+  timestamp: 1394803469
 gear:
   short: Panasonic GM1
   camera:

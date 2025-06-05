@@ -8,6 +8,7 @@ date: 2019-02-10 11:28:29 +01:00
 dates:
   iso: "'2019-02-10'"
   human: "'10 February 2019'"
+  timestamp: 1549794509
 gear:
   short: Canon 5D IV + 100mm macro
   camera:

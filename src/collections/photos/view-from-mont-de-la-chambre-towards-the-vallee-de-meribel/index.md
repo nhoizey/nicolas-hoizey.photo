@@ -7,6 +7,7 @@ date: 2019-08-19 11:51:10 +02:00
 dates:
   iso: "'2019-08-19'"
   human: "'19 August 2019'"
+  timestamp: 1566208270
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

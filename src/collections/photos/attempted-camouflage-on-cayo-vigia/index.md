@@ -7,6 +7,7 @@ date: 2018-03-02 13:17:39 +02:00
 dates:
   iso: "'2018-03-02'"
   human: "'2 March 2018'"
+  timestamp: 1519989459
 gear:
   short: Fujifilm X-T2 + 100-400mm
   camera:

@@ -5,6 +5,7 @@ date: 2015-08-09 11:43:20 +01:00
 dates:
   iso: "'2015-08-09'"
   human: "'9 August 2015'"
+  timestamp: 1439117000
 gear:
   short: Canon 5D II + 135mm
   camera:

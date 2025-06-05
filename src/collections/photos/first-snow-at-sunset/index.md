@@ -7,6 +7,7 @@ date: 2012-12-08 18:20:51 +02:00
 dates:
   iso: "'2012-12-08'"
   human: "'8 December 2012'"
+  timestamp: 1354983651
 gear:
   short: Canon 5D II + 24-70mm
   camera:

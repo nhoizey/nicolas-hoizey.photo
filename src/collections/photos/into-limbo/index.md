@@ -7,6 +7,7 @@ date: 2002-08-08 10:27:38 +02:00
 dates:
   iso: "'2002-08-08'"
   human: "'8 August 2002'"
+  timestamp: 1028795258
 tags:
   - ciel
   - Corse

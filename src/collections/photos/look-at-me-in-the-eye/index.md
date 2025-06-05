@@ -6,6 +6,7 @@ date: 2009-05-14 14:37:10 +01:00
 dates:
   iso: "'2009-05-14'"
   human: "'14 May 2009'"
+  timestamp: 1242308230
 gear:
   short: Canon 5D II + 100mm macro
   camera:

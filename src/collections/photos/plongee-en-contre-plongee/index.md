@@ -7,6 +7,7 @@ date: 2004-05-17 17:52:04 +01:00
 dates:
   iso: "'2004-05-17'"
   human: "'17 May 2004'"
+  timestamp: 1084812724
 gear:
   short: Fujifilm Frontier 340
   camera:

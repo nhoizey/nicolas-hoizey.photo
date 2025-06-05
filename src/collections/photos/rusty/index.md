@@ -6,6 +6,7 @@ date: 2008-08-24 15:15:28 +01:00
 dates:
   iso: "'2008-08-24'"
   human: "'24 August 2008'"
+  timestamp: 1219587328
 gear:
   short: Canon 350D + 100mm macro
   camera:

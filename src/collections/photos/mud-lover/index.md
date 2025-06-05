@@ -6,6 +6,7 @@ date: 2008-05-11 12:13:20 +01:00
 dates:
   iso: "'2008-05-11'"
   human: "'11 May 2008'"
+  timestamp: 1210504400
 gear:
   short: Canon 350D
   camera:

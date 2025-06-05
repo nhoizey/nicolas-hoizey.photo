@@ -176,6 +176,7 @@ SYNC ${photo}`);
 		photoYFM.dates = {
 			iso: `'${luxonDate.toFormat("yyyy-LL-dd")}'`,
 			human: `'${luxonDate.toFormat("d LLLL yyyy")}'`,
+			timestamp: luxonDate.toSeconds(),
 		};
 
 		if (photoExif.ifd0.Model || photoExif.exif.LensModel) {

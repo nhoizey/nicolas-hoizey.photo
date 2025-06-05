@@ -5,6 +5,7 @@ date: 2018-08-05 15:47:33 +01:00
 dates:
   iso: "'2018-08-05'"
   human: "'5 August 2018'"
+  timestamp: 1533480453
 gear:
   short: Fujifilm X-T2 + 10-24mm
   camera:

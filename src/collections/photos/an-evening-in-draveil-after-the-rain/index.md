@@ -5,6 +5,7 @@ date: 2022-05-24 20:37:48 +01:00
 dates:
   iso: "'2022-05-24'"
   human: "'24 May 2022'"
+  timestamp: 1653421068
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

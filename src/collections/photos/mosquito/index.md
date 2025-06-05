@@ -6,6 +6,7 @@ date: 2012-04-29 16:27:22 +02:00
 dates:
   iso: "'2012-04-29'"
   human: "'29 April 2012'"
+  timestamp: 1335709642
 gear:
   short: Canon 5D II + 100mm macro
   camera:

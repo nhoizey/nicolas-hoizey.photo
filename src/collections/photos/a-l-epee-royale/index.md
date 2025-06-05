@@ -8,6 +8,7 @@ date: 2013-08-14 14:12:22 +01:00
 dates:
   iso: "'2013-08-14'"
   human: "'14 August 2013'"
+  timestamp: 1376485942
 gear:
   short: Canon 5D II + 100mm macro
   camera:

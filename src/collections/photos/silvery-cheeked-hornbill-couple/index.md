@@ -7,6 +7,7 @@ date: 2019-03-04 18:03:59 +02:00
 dates:
   iso: "'2019-03-04'"
   human: "'4 March 2019'"
+  timestamp: 1551715439
 gear:
   short: Fujifilm X-T3 + 100-400mm + 2.0×
   camera:

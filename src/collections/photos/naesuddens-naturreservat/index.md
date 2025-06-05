@@ -5,6 +5,7 @@ date: 2020-02-03 15:29:28 +01:00
 dates:
   iso: "'2020-02-03'"
   human: "'3 February 2020'"
+  timestamp: 1580740168
 gear:
   short: Fujifilm X-T3 + 56mm
   camera:

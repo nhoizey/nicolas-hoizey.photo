@@ -7,6 +7,7 @@ date: 2015-08-08 13:26:03 +01:00
 dates:
   iso: "'2015-08-08'"
   human: "'8 August 2015'"
+  timestamp: 1439036763
 gear:
   short: Canon 5D II + 24-70mm
   camera:

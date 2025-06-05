@@ -5,6 +5,7 @@ date: 2019-03-01 08:15:25 +02:00
 dates:
   iso: "'2019-03-01'"
   human: "'1 March 2019'"
+  timestamp: 1551420925
 gear:
   short: Fujifilm X-T2 + 27mm
   camera:

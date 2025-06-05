@@ -7,6 +7,7 @@ date: 2020-08-03 18:14:40 +02:00
 dates:
   iso: "'2020-08-03'"
   human: "'3 August 2020'"
+  timestamp: 1596471280
 gear:
   short: Fujifilm X-T3 + 16-80mm
   camera:
@@ -81,6 +82,7 @@ geo:
   longitude: 0.20665165333333332
   country: France
   city: Étretat
+  map: true
 colors:
   vibrant: 72 124 180
   darkVibrant: 140 101 34
@@ -89,9 +91,6 @@ colors:
   darkMuted: 91 69 45
   lightMuted: 167 184 202
 lqip: data:image/webp;base64,UklGRn4BAABXRUJQVlA4IHIBAAAwDgCdASpkAEMAP2GcwViytKcqMzhtspAsCWUAyCXiu8QBO/lwuoifr56FNlh1TgvbD2jRMI24VfTGD36Zkjxc0OS3uDcM3agq5LCoy0MasYoUvSHYAaZZUBUqUOqmG7tZcdBjrXhkGSlsw+rZA75C0L65paqO9i9aAAD6nfGvuS2wZVeD529ZqGdG8Q/0KcwgKyp6Q3E1iobaWO2c3ASMLhmhHmKcsSm+2D7QE66MpJjolew9T/Ndn5rdMQbxMlTbER8iyt8QrF7ixL8Bxx+088QF87yBMaoAyED9A86kO7+1kfS88j/GVpIkLkRWCmfU9ATFLRtWsfSQe5jnTUYL5MDHmmkBbD+DJlnB6z+FAIO0r7R/ZS1xXYT8k9BOuKSXI2iFRL85QWg0FMaJTYzUBsMWZQbmH+bnb6WKZIe4hokrfLJOcTG7ekhtObrUd0SLEsbaXKPiDyZO3GlV9/R6uxi8+CQiaHhQWF6PUnamgAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Surrounded by cliffs, the beach is relatively sheltered from prevailing winds. It is made up of pebbles.

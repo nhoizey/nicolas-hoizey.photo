@@ -5,6 +5,7 @@ date: 2018-10-30 12:56:35 +01:00
 dates:
   iso: "'2018-10-30'"
   human: "'30 October 2018'"
+  timestamp: 1540900595
 gear:
   short: Fujifilm X-T2 + 80mm macro
   camera:

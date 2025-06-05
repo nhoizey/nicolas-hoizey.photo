@@ -8,6 +8,7 @@ date: 2024-11-14 14:30:12 +01:00
 dates:
   iso: "'2024-11-14'"
   human: "'14 November 2024'"
+  timestamp: 1731591012
 gear:
   short: Fujifilm X-H2s + 80mm macro
   camera:

@@ -5,6 +5,7 @@ date: 2015-08-09 19:22:03 +01:00
 dates:
   iso: "'2015-08-09'"
   human: "'9 August 2015'"
+  timestamp: 1439144523
 gear:
   short: Sony RX100 III
   camera:

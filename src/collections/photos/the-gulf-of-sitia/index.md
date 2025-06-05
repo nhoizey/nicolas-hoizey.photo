@@ -8,6 +8,7 @@ date: 2005-09-27 12:24:29 +01:00
 dates:
   iso: "'2005-09-27'"
   human: "'27 September 2005'"
+  timestamp: 1127820269
 gear:
   short: Canon 350D + 17-85mm
   camera:

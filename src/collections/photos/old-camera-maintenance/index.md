@@ -9,6 +9,7 @@ date: 2025-01-07 19:29:37 +01:00
 dates:
   iso: "'2025-01-07'"
   human: "'7 January 2025'"
+  timestamp: 1736274577
 gear:
   short: Fujifilm X-H2s + 80mm macro
   camera:

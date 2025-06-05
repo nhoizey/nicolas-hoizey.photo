@@ -6,6 +6,7 @@ date: 2023-12-03 14:46:41 +02:00
 dates:
   iso: "'2023-12-03'"
   human: "'3 December 2023'"
+  timestamp: 1701607601
 gear:
   short: Fujifilm X-H2s + 100-400mm
   camera:

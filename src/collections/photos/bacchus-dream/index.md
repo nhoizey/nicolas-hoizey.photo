@@ -6,6 +6,7 @@ date: 2007-11-03 17:57:54 +01:00
 dates:
   iso: "'2007-11-03'"
   human: "'3 November 2007'"
+  timestamp: 1194109074
 gear:
   short: Canon 350D + 17-85mm
   camera:

@@ -7,6 +7,7 @@ date: 2014-06-14 15:39:25 +01:00
 dates:
   iso: "'2014-06-14'"
   human: "'14 June 2014'"
+  timestamp: 1402756765
 gear:
   short: Canon 5D II + 135mm
   camera:

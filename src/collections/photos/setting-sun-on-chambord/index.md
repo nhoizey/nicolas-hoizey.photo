@@ -5,6 +5,7 @@ date: 2020-07-11 20:20:40 +01:00
 dates:
   iso: "'2020-07-11'"
   human: "'11 July 2020'"
+  timestamp: 1594495240
 gear:
   short: Fujifilm X-T3 + 10-24mm
   camera:

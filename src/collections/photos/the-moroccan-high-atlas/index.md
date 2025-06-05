@@ -7,6 +7,7 @@ date: 2011-05-08 12:21:41 +02:00
 dates:
   iso: "'2011-05-08'"
   human: "'8 May 2011'"
+  timestamp: 1304850101
 gear:
   short: Canon 5D II + Sigma 50mm
   camera:

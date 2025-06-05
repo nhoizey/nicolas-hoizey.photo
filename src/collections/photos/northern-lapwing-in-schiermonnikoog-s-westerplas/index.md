@@ -5,6 +5,7 @@ date: 2023-08-08 15:12:52 +02:00
 dates:
   iso: "'2023-08-08'"
   human: "'8 August 2023'"
+  timestamp: 1691500372
 gear:
   short: Fujifilm X-T3 + 100-400mm + 1.4×
   camera:

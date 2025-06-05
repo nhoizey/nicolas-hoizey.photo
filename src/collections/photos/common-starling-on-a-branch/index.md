@@ -7,6 +7,7 @@ date: 2024-03-13 15:10:56 +02:00
 dates:
   iso: "'2024-03-13'"
   human: "'13 March 2024'"
+  timestamp: 1710335456
 gear:
   short: Fujifilm X-H2s + 100-400mm
   camera:

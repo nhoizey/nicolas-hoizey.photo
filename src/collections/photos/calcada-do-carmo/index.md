@@ -5,6 +5,7 @@ date: 2016-10-01 08:12:31 +01:00
 dates:
   iso: "'2016-10-01'"
   human: "'1 October 2016'"
+  timestamp: 1475305951
 gear:
   short: Canon 5D II + 24-70mm
   camera:

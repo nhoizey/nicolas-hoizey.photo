@@ -6,6 +6,7 @@ date: 2023-10-18 17:31:05 +02:00
 dates:
   iso: "'2023-10-18'"
   human: "'18 October 2023'"
+  timestamp: 1697643065
 gear:
   short: Fujifilm X-T3 + 100-400mm
   camera:

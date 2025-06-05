@@ -7,6 +7,7 @@ date: 2009-10-10 16:02:13 +01:00
 dates:
   iso: "'2009-10-10'"
   human: "'10 October 2009'"
+  timestamp: 1255186933
 gear:
   short: Canon 5D II + 135mm
   camera:

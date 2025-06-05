@@ -7,6 +7,7 @@ date: 2023-10-17 14:44:02 +02:00
 dates:
   iso: "'2023-10-17'"
   human: "'17 October 2023'"
+  timestamp: 1697546642
 gear:
   short: Fujifilm X-H2s + 10-24mm
   camera:

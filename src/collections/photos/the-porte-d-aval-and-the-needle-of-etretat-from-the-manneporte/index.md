@@ -7,6 +7,7 @@ date: 2020-08-02 19:10:51 +02:00
 dates:
   iso: "'2020-08-02'"
   human: "'2 August 2020'"
+  timestamp: 1596388251
 gear:
   short: Fujifilm X-T3 + 16-80mm
   camera:

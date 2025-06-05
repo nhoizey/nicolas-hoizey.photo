@@ -7,6 +7,7 @@ date: 2008-04-25 16:46:54 +01:00
 dates:
   iso: "'2008-04-25'"
   human: "'25 April 2008'"
+  timestamp: 1209138414
 gear:
   short: Canon 350D + 17-85mm
   camera:

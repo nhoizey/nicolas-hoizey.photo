@@ -5,6 +5,7 @@ date: 2020-06-23 20:51:50 +02:00
 dates:
   iso: "'2020-06-23'"
   human: "'23 June 2020'"
+  timestamp: 1592938310
 gear:
   short: Fujifilm X-T3 + 80mm macro
   camera:

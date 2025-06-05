@@ -7,6 +7,7 @@ date: 2018-02-28 10:18:05 +02:00
 dates:
   iso: "'2018-02-28'"
   human: "'28 February 2018'"
+  timestamp: 1519805885
 gear:
   short: Apple iPhone 6s
   camera:

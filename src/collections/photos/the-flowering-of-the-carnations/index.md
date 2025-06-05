@@ -6,6 +6,7 @@ date: 2017-06-14 19:16:09 +01:00
 dates:
   iso: "'2017-06-14'"
   human: "'14 June 2017'"
+  timestamp: 1497464169
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

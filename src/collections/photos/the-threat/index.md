@@ -7,6 +7,7 @@ date: 2017-05-19 20:00:35 +01:00
 dates:
   iso: "'2017-05-19'"
   human: "'19 May 2017'"
+  timestamp: 1495220435
 gear:
   short: Fujifilm X-T2 + 56mm
   camera:

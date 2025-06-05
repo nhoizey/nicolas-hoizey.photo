@@ -6,6 +6,7 @@ date: 2004-09-29 11:15:40 +01:00
 dates:
   iso: "'2004-09-29'"
   human: "'29 September 2004'"
+  timestamp: 1096452940
 gear:
   short: Konica KD-400Z
   camera:

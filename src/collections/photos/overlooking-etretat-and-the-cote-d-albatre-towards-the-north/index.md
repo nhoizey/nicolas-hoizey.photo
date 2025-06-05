@@ -8,6 +8,7 @@ date: 2020-08-06 15:28:08 +02:00
 dates:
   iso: "'2020-08-06'"
   human: "'6 August 2020'"
+  timestamp: 1596720488
 gear:
   short: DJI Mavic Pro 2
   camera:

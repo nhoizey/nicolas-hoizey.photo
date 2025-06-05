@@ -6,6 +6,7 @@ date: 2009-01-10 09:00:38 +01:00
 dates:
   iso: "'2009-01-10'"
   human: "'10 January 2009'"
+  timestamp: 1231574438
 gear:
   short: Canon 5D II + 24-70mm
   camera:
