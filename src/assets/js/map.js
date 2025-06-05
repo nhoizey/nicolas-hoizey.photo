@@ -256,9 +256,35 @@ const decodeHTML = (html) => {
 		};
 
 		map.addControl(
-			new mapboxgl.NavigationControl({ showCompass: false }),
+			new mapboxgl.NavigationControl({ showCompass: true, visualizePitch: true }),
 			"top-right",
 		);
+
+		// Add button to toggle between 2D and 3D views
+		// Based on https://github.com/tobinbradley/mapbox-gl-pitch-toggle-control
+		class PitchToggle {
+			onAdd(map) {
+				const div = document.createElement("div");
+				div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
+				div.innerHTML = `<button class="mapboxgl-ctrl-3d-toggle"><span class="mapboxgl-ctrl-icon" aria-hidden="true" aria-label="Toggle 3D"></span></button>`;
+				if (map.getPitch() !== 0) {
+					div.querySelector('button').classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
+				}
+				div.addEventListener("contextmenu", (e) => e.preventDefault());
+				div.addEventListener("click", () => {
+					if (map.getPitch() === 0) {
+						map.easeTo({ pitch: 70, bearing: -20 });
+						div.querySelector('button').classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
+					} else {
+						map.easeTo({ pitch: 0, bearing: 0 });
+						div.querySelector('button').classList.toggle("mapboxgl-ctrl-3d-toggle-active", false);
+					}
+				});
+
+				return div;
+			}
+		}
+		map.addControl(new PitchToggle());
 
 		map.addControl(
 			new mapboxgl.GeolocateControl({
@@ -276,19 +302,21 @@ const decodeHTML = (html) => {
 
 		const mapStyles = [
 			{
-				title: "Terrain",
-				uri: `${window.location.origin}/map/mapbox-style-terrain.json`,
-			},
-			{
 				title: "Satellite",
 				uri: `${window.location.origin}/map/mapbox-style-satellite.json`,
+			},
+			{
+				title: "Terrain",
+				uri: `${window.location.origin}/map/mapbox-style-terrain.json`,
 			},
 		];
 		map.addControl(
 			new MapboxStyleSwitcherControl(mapStyles, {
-				defaultStyle: "Terrain",
+				defaultStyle: localStorage.getItem("mapStyle") || "Satellite",
 				eventListeners: {
 					onChange: (event, style) => {
+						console.dir(style);
+						// localStorage.setItem("mapStyle", style);
 						// TODO: manage localStorage or a cookie to keep track of chosen style
 					},
 				},
@@ -300,6 +328,7 @@ const decodeHTML = (html) => {
 				let currentlyPlaying = false;
 				let currentPhotoIndex = Number.parseInt(localStorage.getItem("currentPhotoIndex"), 10) || 0;
 				let intervalID = null;
+				let popup = null;
 
 				const div = document.createElement("div");
 				div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
@@ -309,9 +338,21 @@ const decodeHTML = (html) => {
 					currentlyPlaying = !currentlyPlaying;
 
 					const flyToNextPhoto = () => {
-						const [lat, lng] = window.geoJsonFeatures[currentPhotoIndex % window.geoJsonFeatures.length].geometry.coordinates;
-						currentPhotoIndex++;
+						if (popup) {
+							popup.remove();
+							popup = null;
+						}
+
+						const photoData = window.geoJsonFeatures[currentPhotoIndex % window.geoJsonFeatures.length];
+						const [lat, lng] = photoData.geometry.coordinates;
 						localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
+
+						popup = new mapboxgl.Popup({ offset: [0, -20] })
+							.setLngLat([lat, lng])
+							.setHTML(
+								`<a href="${photoData.properties.url}"><img src="/photos/${photoData.properties.slug}/small.jpg" width="${photoData.properties.width}" height="${photoData.properties.height}" alt>${photoData.properties.title}</a>`,
+							)
+							.addTo(map);
 
 						map.flyTo({
 							center: [lat, lng],
@@ -323,6 +364,8 @@ const decodeHTML = (html) => {
 							duration: 10000,
 							essential: true // This animation is considered essential with respect to prefers-reduced-motion
 						});
+
+						currentPhotoIndex++;
 					};
 
 					if (currentlyPlaying) {
