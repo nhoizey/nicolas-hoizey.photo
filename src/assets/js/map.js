@@ -78,6 +78,17 @@ const decodeHTML = (html) => {
 				});
 			}
 
+			if (!map.getSource("mapbox-dem")) {
+				map.addSource('mapbox-dem', {
+					'type': 'raster-dem',
+					'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
+					'tileSize': 512,
+					'maxzoom': maxZoomLevel
+				});
+			}
+
+			map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 2 });
+
 			if (!map.getLayer("clusters")) {
 				map.addLayer({
 					id: "clusters",
