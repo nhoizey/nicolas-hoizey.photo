@@ -338,8 +338,7 @@ const decodeHTML = (html) => {
 				return div;
 			}
 		}
-		const playButton = new AutoPlayButton();
-		map.addControl(playButton);
+		map.addControl(new AutoPlayButton());
 
 		// https://docs.mapbox.com/mapbox-gl-js/example/navigation-scale/
 		map.addControl(new mapboxgl.ScaleControl());
