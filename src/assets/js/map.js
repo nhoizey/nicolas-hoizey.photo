@@ -24,10 +24,7 @@ const decodeHTML = (html) => {
 
 	const geoJsonResponse = await fetch(geoJsonUrl);
 	const geoJsonData = await geoJsonResponse.json();
-	window.geoJsonFeatures = geoJsonData.features.sort((a, b) => {
-		console.log(a.properties.timestamp);
-		return a.properties.timestamp - b.properties.timestamp;
-	});
+	window.geoJsonFeatures = geoJsonData.features.sort((a, b) => a.properties.timestamp - b.properties.timestamp);
 
 	if (mapElement) {
 		let userInteracting = false;
