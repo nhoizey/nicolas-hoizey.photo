@@ -290,7 +290,7 @@ const decodeHTML = (html) => {
 		class AutoPlayButton {
 			onAdd(map) {
 				let currentlyPlaying = false;
-				let currentPhotoIndex = 0;
+				let currentPhotoIndex = Number.parseInt(localStorage.getItem("currentPhotoIndex"), 10) || 0;
 				let intervalID = null;
 
 				const div = document.createElement("div");
@@ -303,6 +303,7 @@ const decodeHTML = (html) => {
 					const flyToNextPhoto = () => {
 						const [lat, lng] = window.geoJsonFeatures[currentPhotoIndex % window.geoJsonFeatures.length].geometry.coordinates;
 						currentPhotoIndex++;
+						localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
 
 						map.flyTo({
 							center: [lat, lng],
