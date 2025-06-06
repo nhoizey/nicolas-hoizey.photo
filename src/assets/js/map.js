@@ -34,7 +34,7 @@ const decodeHTML = (html) => {
 		mapboxgl.accessToken = window.MAPBOX_ACCESS_TOKEN;
 		const map = new mapboxgl.Map({
 			container: mapElementId,
-			style: `${window.location.origin}/map/mapbox-style-terrain.json`,
+			style: `${window.location.origin}/map/mapbox-style-${(localStorage.getItem("mapStyle") || "Satellite").toLowerCase()}.json`,
 			projection: "globe",
 			center: [3, 35],
 			zoom: 3,
@@ -315,9 +315,7 @@ const decodeHTML = (html) => {
 				defaultStyle: localStorage.getItem("mapStyle") || "Satellite",
 				eventListeners: {
 					onChange: (event, style) => {
-						console.dir(style);
-						// localStorage.setItem("mapStyle", style);
-						// TODO: manage localStorage or a cookie to keep track of chosen style
+						localStorage.setItem("mapStyle", style.match(/satellite/) ? "Satellite" : "Terrain");
 					},
 				},
 			}),
