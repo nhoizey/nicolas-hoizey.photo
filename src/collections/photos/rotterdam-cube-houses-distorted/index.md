@@ -2,7 +2,7 @@
 title: "Rotterdam Cube Houses: Distorted"
 file: rotterdam-cube-houses-distorted.jpg
 alt_text: Back shot of the yellow cube houses in Rotterdam
-date: 2021-11-03 12:19:41 +01:00
+date: 2021-11-03 13:19:41 +02:00
 dates:
   iso: "'2021-11-03'"
   human: "'3 November 2021'"
@@ -67,8 +67,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 51.920182221666664
-  longitude: 4.490890833333333
+  latitude: 51.920182
+  longitude: 4.490891
   country: Pays-Bas
   city: municipalité de Rotterdam
   map: true

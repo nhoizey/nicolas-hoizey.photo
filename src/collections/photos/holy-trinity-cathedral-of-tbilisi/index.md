@@ -1,7 +1,7 @@
 ---
 title: Holy Trinity Cathedral of Tbilisi
 file: holy-trinity-cathedral-of-tbilisi.jpg
-date: 2018-08-14 10:32:37 +01:00
+date: 2018-08-14 11:32:37 +02:00
 dates:
   iso: "'2018-08-14'"
   human: "'14 August 2018'"
@@ -26,6 +26,7 @@ tags:
   - Georgia
   - Géorgie
   - Holy Trinity Cathedral of Tbilisi
+  - monument
   - Sameba
   - Tbilissi
   - Tsminda Saméba
@@ -59,10 +60,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 41.697300205
-  longitude: 44.816023513333334
-  country: Georgia
-  city: Tbilisi
+  latitude: 41.6973
+  longitude: 44.816024
+  direction: 50
+  country: Géorgie
   map: true
 colors:
   vibrant: 219 175 71

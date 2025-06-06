@@ -22169,11 +22169,9 @@
         "DigitalCreationDate": "20150523",
         "DigitalCreationTime": "194846",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
-        "Sublocation": "Manhattan",
+        "City": "New York",
         "State": "New York",
-        "CountryCode": "US",
-        "Country": "United States of America",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Brooklyn Bridge is one of the most prominent sights in New York City. It spans over the East River, linking Manhattan and Brooklyn. With massive masonry towers and a web of cables, this suspension bridge is instantly recognizable even to many who have never been to New York."
       },
@@ -22188,11 +22186,11 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:06+01:00",
+        "ModifyDate": "2025-06-06T17:55:10+02:00",
         "CreateDate": "2015-05-23T19:48:46.48",
-        "MetadataDate": "2024-03-22T17:36:06+01:00",
+        "MetadataDate": "2025-06-06T17:55:10+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -22259,9 +22257,10 @@
           "value": "Creative Commons CC-BY-SA"
         }
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "Location": "Manhattan",
-        "CountryCode": "US",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiAdrCtry": "France",
@@ -22269,9 +22268,6 @@
           "CiAdrCity": "Montgeron",
           "CiUrlWork": "https://nicolas-hoizey.photo"
         }
-      },
-      "xmpDM": {
-        "pick": 0
       },
       "ifd0": {
         "ImageDescription": "The Brooklyn Bridge is one of the most prominent sights in New York City. It spans over the East River, linking Manhattan and Brooklyn. With massive masonry towers and a web of cables, this suspension bridge is instantly recognizable even to many who have never been to New York.",
@@ -22283,7 +22279,7 @@
         "FNumber": 2.8,
         "ISO": 100,
         "DateTimeOriginal": "2015-05-23T17:48:46.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 50,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -22292,20 +22288,21 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           40,
-          42.2965,
+          42.29652,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           73,
-          59.7314,
+          59.73138,
           0
         ],
         "GPSTimeStamp": "23:48:46",
+        "GPSImgDirection": 315,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:05:23",
-        "latitude": 40.70494166666667,
-        "longitude": -73.99552333333334
+        "latitude": 40.704942,
+        "longitude": -73.995523
       }
     },
     "dimensions": {
@@ -22364,17 +22361,18 @@
         "DigitalCreationDate": "20150523",
         "DigitalCreationTime": "202131",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
+        "City": "New York",
         "Sublocation": "DUMBO",
-        "Country": "United States of America",
+        "State": "Ãtat de New York",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "This is the iconic view of the Manhattan Bridge from Washington Street, in DUMBO, Brooklyn, New York City."
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:36:06+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T18:06:39+02:00",
         "CreateDate": "2015-05-23T20:21:31",
-        "MetadataDate": "2024-03-22T17:36:06+01:00",
+        "MetadataDate": "2025-06-06T18:06:39+02:00",
         "Rating": 5
       },
       "aux": {
@@ -22462,7 +22460,7 @@
         "FNumber": 7.1,
         "ISO": 2000,
         "DateTimeOriginal": "2015-05-23T18:21:31.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 8.8,
         "FocalLengthIn35mmFormat": 24,
         "LensModel": "24-70mm F1.8-2.8"
@@ -22472,21 +22470,22 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           40,
-          42.1836667,
+          42.18366,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           73,
-          59.3755,
+          59.37552,
           0
         ],
-        "GPSAltitude": 4.6099,
+        "GPSAltitude": 4.6,
         "GPSTimeStamp": "0:21:31",
+        "GPSImgDirection": 7,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:05:24",
-        "latitude": 40.70306111166666,
-        "longitude": -73.98959166666667
+        "latitude": 40.703061,
+        "longitude": -73.989592
       }
     },
     "dimensions": {
@@ -23251,16 +23250,15 @@
         "Byline": "Nicolas Hoizey",
         "City": "Groningen",
         "State": "Groningen",
-        "CountryCode": "NL",
-        "Country": "The Netherlands",
+        "Country": "Pays-Bas",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "This is Reitdiephaven, in Groningen, in the north of The Netherlands."
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:36:03+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T18:22:48+02:00",
         "CreateDate": "2015-07-13T16:56:57",
-        "MetadataDate": "2024-03-22T17:36:03+01:00",
+        "MetadataDate": "2025-06-06T18:22:48+02:00",
         "Rating": 5,
         "Label": "Pourpre"
       },
@@ -23350,7 +23348,6 @@
         "pick": 0
       },
       "Iptc4xmpCore": {
-        "CountryCode": "NL",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiAdrCtry": "France",
@@ -23373,7 +23370,7 @@
         "FNumber": 1.8,
         "ISO": 125,
         "DateTimeOriginal": "2015-07-13T14:56:57.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 8.8,
         "FocalLengthIn35mmFormat": 24,
         "LensModel": "24-70mm F1.8-2.8"
@@ -23389,15 +23386,16 @@
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           6,
-          31.4111667,
+          31.41114,
           0
         ],
         "GPSAltitudeRef": {
           "0": 1
         },
         "GPSAltitude": 3,
+        "GPSImgDirection": 0,
         "latitude": 53.2359,
-        "longitude": 6.523519445
+        "longitude": 6.523519
       }
     },
     "dimensions": {
@@ -23467,16 +23465,15 @@
         "Byline": "Nicolas Hoizey",
         "City": "Groningen",
         "State": "Groningen",
-        "CountryCode": "NL",
-        "Country": "The Netherlands",
+        "Country": "Pays-Bas",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "This is Reitdiephaven, in Groningen, in the north of The Netherlands.\r\rThese houses are famous for their catchy colors, I had to try another vision."
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:36:03+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T18:22:48+02:00",
         "CreateDate": "2015-07-13T16:56:57",
-        "MetadataDate": "2024-03-22T17:36:03+01:00",
+        "MetadataDate": "2025-06-06T18:22:48+02:00",
         "Rating": 5,
         "Label": "Pourpre"
       },
@@ -23551,8 +23548,10 @@
           "value": "Creative Commons CC-BY-SA"
         }
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "CountryCode": "NL",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiAdrCtry": "France",
@@ -23565,9 +23564,6 @@
           "value": "Black and white photo of townhouses on the waterfront, under a cloudy sky"
         }
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "This is Reitdiephaven, in Groningen, in the north of The Netherlands.\n\nThese houses are famous for their catchy colors, I had to try another vision.",
         "Make": "SONY",
@@ -23578,7 +23574,7 @@
         "FNumber": 1.8,
         "ISO": 125,
         "DateTimeOriginal": "2015-07-13T14:56:57.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 8.8,
         "FocalLengthIn35mmFormat": 24,
         "LensModel": "24-70mm F1.8-2.8"
@@ -23594,15 +23590,16 @@
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           6,
-          31.4111667,
+          31.41114,
           0
         ],
         "GPSAltitudeRef": {
           "0": 1
         },
         "GPSAltitude": 3,
+        "GPSImgDirection": 0,
         "latitude": 53.2359,
-        "longitude": 6.523519445
+        "longitude": 6.523519
       }
     },
     "dimensions": {
@@ -35723,21 +35720,21 @@
           "GÃ©orgie",
           "Tbilissi",
           "bath district",
+          "monument",
           "ááááááá£áááá",
           "áááááá¡á",
           "áááááá¡áá",
           "á¡áá¥áá ááááá"
         ],
         "DateCreated": "20180813",
-        "TimeCreated": "105347",
+        "TimeCreated": "105348",
         "DigitalCreationDate": "20180813",
         "DigitalCreationTime": "105348",
         "Byline": "Nicolas Hoizey",
-        "City": "Tbilisi",
         "Sublocation": "Chreli-Abano",
-        "State": "Tbilisi",
+        "State": "Tbilissi",
         "CountryCode": "GE",
-        "Country": "Georgia",
+        "Country": "GÃ©orgie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "With its splendidly tiled mosque-like facade, Chreli-Abano (sometimes called Orbeliani Baths) is without a doubt the most iconic bathhouse in Tbilisi.\r\rTbilisiâs baths are very different to those in Istanbul, Budapest, or anywhere else.\r\rThe location for the city was chosen because of the natural hot springs that course underground (Tbilisi means \"warm place\"). Persian-Ottoman style bath houses were erected atop this geothermal playground,  most of them in Abanotubani, the Old Townâs iconic sulfur bath district."
       },
@@ -35767,6 +35764,7 @@
           "Géorgie",
           "Tbilissi",
           "bath district",
+          "monument",
           "აბანოთუბანი",
           "თბილისი",
           "კავკასია",
@@ -35774,10 +35772,10 @@
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:35:08+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T17:14:25+02:00",
         "CreateDate": "2018-08-13T10:53:48.1",
-        "MetadataDate": "2024-03-22T17:35:08+01:00",
+        "MetadataDate": "2025-06-06T17:14:25+02:00",
         "Rating": 5
       },
       "aux": {
@@ -35808,7 +35806,8 @@
         }
       },
       "xmpDM": {
-        "pick": 0
+        "pick": 1,
+        "good": true
       },
       "ifd0": {
         "ImageDescription": "With its splendidly tiled mosque-like facade, Chreli-Abano (sometimes called Orbeliani Baths) is without a doubt the most iconic bathhouse in Tbilisi.\n\nTbilisi’s baths are very different to those in Istanbul, Budapest, or anywhere else.\n\nThe location for the city was chosen because of the natural hot springs that course underground (Tbilisi means \"warm place\"). Persian-Ottoman style bath houses were erected atop this geothermal playground,  most of them in Abanotubani, the Old Town’s iconic sulfur bath district.",
@@ -35820,7 +35819,7 @@
         "FNumber": 8,
         "ISO": 200,
         "DateTimeOriginal": "2018-08-13T08:53:48.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 10,
         "FocalLengthIn35mmFormat": 15,
         "LensModel": "XF10-24mmF4 R OIS"
@@ -35830,21 +35829,22 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           41,
-          41.2596833,
+          41.25966,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           44,
-          48.6446833,
+          48.6447,
           0
         ],
         "GPSAltitude": 420,
         "GPSTimeStamp": "6:53:47",
+        "GPSImgDirection": 170,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2018:08:13",
-        "latitude": 41.68766138833333,
-        "longitude": 44.810744721666666
+        "latitude": 41.687661,
+        "longitude": 44.810745
       }
     },
     "dimensions": {
@@ -36975,21 +36975,21 @@
           "Sameba",
           "Tbilissi",
           "Tsminda SamÃ©ba",
+          "monument",
           "áááááá¡á",
           "áááááá¡áá¡ á¬ááááá á¡ááááá",
           "áááááá¡áá",
           "á¡áá¥áá ááááá"
         ],
         "DateCreated": "20180814",
-        "TimeCreated": "113236",
+        "TimeCreated": "113237",
         "DigitalCreationDate": "20180814",
         "DigitalCreationTime": "093237",
         "Byline": "Nicolas Hoizey",
-        "City": "Tbilisi",
         "Sublocation": "Holy Trinity Cathedral",
-        "State": "Tbilisi",
+        "State": "Tbilissi",
         "CountryCode": "GE",
-        "Country": "Georgia",
+        "Country": "GÃ©orgie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Holy Trinity Cathedral of Tbilisi (commonly known as Sameba) is the third-tallest Eastern Orthodox cathedral in the world and one of the largest religious buildings in the world by total area. Sameba is a synthesis of traditional styles dominating the Georgian church architecture at various stages in history and has some Byzantine undertones."
       },
@@ -37021,6 +37021,7 @@
           "Sameba",
           "Tbilissi",
           "Tsminda Saméba",
+          "monument",
           "თბილისი",
           "თბილისის წმინდა სამების საკათედრო ტაძარი",
           "კავკასია",
@@ -37028,10 +37029,10 @@
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:34:56+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T17:53:03+02:00",
         "CreateDate": "2018-08-14T09:32:37.1",
-        "MetadataDate": "2024-03-22T17:34:56+01:00",
+        "MetadataDate": "2025-06-06T17:53:03+02:00",
         "Rating": 5
       },
       "aux": {
@@ -37075,7 +37076,7 @@
         "FNumber": 9,
         "ISO": 200,
         "DateTimeOriginal": "2018-08-14T09:32:37.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 10,
         "FocalLengthIn35mmFormat": 15,
         "LensModel": "XF10-24mmF4 R OIS"
@@ -37085,17 +37086,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           41,
-          41.8380123,
+          41.838,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           44,
-          48.9614108,
+          48.96144,
           0
         ],
-        "latitude": 41.697300205,
-        "longitude": 44.816023513333334
+        "GPSAltitude": 450,
+        "GPSImgDirection": 50,
+        "latitude": 41.6973,
+        "longitude": 44.816024
       }
     },
     "dimensions": {
@@ -57899,18 +57902,16 @@
         "DigitalCreationTime": "115228",
         "Byline": "Nicolas Hoizey",
         "City": "municipalitÃ© de Rotterdam",
-        "Sublocation": "Kralingen",
         "State": "Hollande-MÃ©ridionale",
-        "CountryCode": "NL",
         "Country": "Pays-Bas",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45Â° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.\r\rDutch architect Piet Blom designed Rotterdam's cube houses in the late 1970s at the request of the city's planners. Blom had already experimented with cubic architecture in the Dutch town of Helmond. So when he was offered this project in the Oude Haven area of the city center, he decided to further develop his original ideas. Interestingly, the cubic houses even form a pedestrian bridge over one of the busiest streets in the city center."
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:32:53+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T10:41:40+02:00",
         "CreateDate": "2021-11-03T11:52:28.1",
-        "MetadataDate": "2024-03-22T17:32:53+01:00",
+        "MetadataDate": "2025-06-06T10:41:40+02:00",
         "Rating": 5
       },
       "aux": {
@@ -57971,9 +57972,10 @@
       "xmpRights": {
         "Marked": true
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "Location": "Kralingen",
-        "CountryCode": "NL",
         "CreatorContactInfo": {
           "CiAdrCtry": "France",
           "CiEmailWork": "nicolas@hoizey.com",
@@ -57986,9 +57988,6 @@
           "value": "Back shot of the yellow cube houses in Rotterdam"
         }
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.\n\nDutch architect Piet Blom designed Rotterdam's cube houses in the late 1970s at the request of the city's planners. Blom had already experimented with cubic architecture in the Dutch town of Helmond. So when he was offered this project in the Oude Haven area of the city center, he decided to further develop his original ideas. Interestingly, the cubic houses even form a pedestrian bridge over one of the busiest streets in the city center.",
         "Make": "FUJIFILM",
@@ -57999,7 +57998,7 @@
         "FNumber": 10,
         "ISO": 320,
         "DateTimeOriginal": "2021-11-03T10:52:28.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 16.5,
         "FocalLengthIn35mmFormat": 25,
         "LensModel": "XF16-80mmF4 R OIS WR"
@@ -58009,13 +58008,13 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           51,
-          55.54215,
+          55.22556,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           4,
-          30.4692333,
+          29.39454,
           0
         ],
         "GPSTimeStamp": "10:52:22",
@@ -58023,8 +58022,8 @@
         "GPSSpeed": 0,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2021:11:03",
-        "latitude": 51.9257025,
-        "longitude": 4.507820555
+        "latitude": 51.920426,
+        "longitude": 4.489909
       }
     },
     "dimensions": {
@@ -58077,18 +58076,16 @@
         "DigitalCreationTime": "115335",
         "Byline": "Nicolas Hoizey",
         "City": "municipalitÃ© de Rotterdam",
-        "Sublocation": "Kralingen",
         "State": "Hollande-MÃ©ridionale",
-        "CountryCode": "NL",
         "Country": "Pays-Bas",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45Â° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.\r\rDutch architect Piet Blom designed Rotterdam's cube houses in the late 1970s at the request of the city's planners. Blom had already experimented with cubic architecture in the Dutch town of Helmond. So when he was offered this project in the Oude Haven area of the city center, he decided to further develop his original ideas. Interestingly, the cubic houses even form a pedestrian bridge over one of the busiest streets in the city center."
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:32:50+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T10:41:40+02:00",
         "CreateDate": "2021-11-03T11:53:35.1",
-        "MetadataDate": "2024-03-22T17:32:50+01:00",
+        "MetadataDate": "2025-06-06T10:41:40+02:00",
         "Rating": 5
       },
       "aux": {
@@ -58149,9 +58146,10 @@
       "xmpRights": {
         "Marked": true
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "Location": "Kralingen",
-        "CountryCode": "NL",
         "CreatorContactInfo": {
           "CiAdrCtry": "France",
           "CiEmailWork": "nicolas@hoizey.com",
@@ -58164,9 +58162,6 @@
           "value": "Back shot of the yellow cube houses in Rotterdam"
         }
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.\n\nDutch architect Piet Blom designed Rotterdam's cube houses in the late 1970s at the request of the city's planners. Blom had already experimented with cubic architecture in the Dutch town of Helmond. So when he was offered this project in the Oude Haven area of the city center, he decided to further develop his original ideas. Interestingly, the cubic houses even form a pedestrian bridge over one of the busiest streets in the city center.",
         "Make": "FUJIFILM",
@@ -58177,7 +58172,7 @@
         "FNumber": 10,
         "ISO": 320,
         "DateTimeOriginal": "2021-11-03T10:53:35.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 16,
         "FocalLengthIn35mmFormat": 24,
         "LensModel": "XF16-80mmF4 R OIS WR"
@@ -58187,13 +58182,13 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           51,
-          55.54215,
+          55.18914,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           4,
-          30.4692333,
+          29.45148,
           0
         ],
         "GPSTimeStamp": "10:53:22",
@@ -58201,8 +58196,8 @@
         "GPSSpeed": 0,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2021:11:03",
-        "latitude": 51.9257025,
-        "longitude": 4.507820555
+        "latitude": 51.919819,
+        "longitude": 4.490858
       }
     },
     "dimensions": {
@@ -58250,23 +58245,21 @@
           "yellow"
         ],
         "DateCreated": "20211103",
-        "TimeCreated": "120858",
+        "TimeCreated": "120859",
         "DigitalCreationDate": "20211103",
         "DigitalCreationTime": "120859",
         "Byline": "Nicolas Hoizey",
         "City": "municipalitÃ© de Rotterdam",
-        "Sublocation": "Kralingen",
         "State": "Hollande-MÃ©ridionale",
-        "CountryCode": "NL",
         "Country": "Pays-Bas",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45Â° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.\r\rDutch architect Piet Blom designed Rotterdam's cube houses in the late 1970s at the request of the city's planners. Blom had already experimented with cubic architecture in the Dutch town of Helmond. So when he was offered this project in the Oude Haven area of the city center, he decided to further develop his original ideas. Interestingly, the cubic houses even form a pedestrian bridge over one of the busiest streets in the city center."
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:32:50+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T10:41:41+02:00",
         "CreateDate": "2021-11-03T12:08:59.1",
-        "MetadataDate": "2024-03-22T17:32:50+01:00",
+        "MetadataDate": "2025-06-06T10:41:41+02:00",
         "Rating": 5
       },
       "aux": {
@@ -58327,9 +58320,10 @@
       "xmpRights": {
         "Marked": true
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "Location": "Kralingen",
-        "CountryCode": "NL",
         "CreatorContactInfo": {
           "CiAdrCtry": "France",
           "CiEmailWork": "nicolas@hoizey.com",
@@ -58342,9 +58336,6 @@
           "value": "Back shot of the yellow cube houses in Rotterdam"
         }
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.\n\nDutch architect Piet Blom designed Rotterdam's cube houses in the late 1970s at the request of the city's planners. Blom had already experimented with cubic architecture in the Dutch town of Helmond. So when he was offered this project in the Oude Haven area of the city center, he decided to further develop his original ideas. Interestingly, the cubic houses even form a pedestrian bridge over one of the busiest streets in the city center.",
         "Make": "FUJIFILM",
@@ -58355,7 +58346,7 @@
         "FNumber": 4,
         "ISO": 320,
         "DateTimeOriginal": "2021-11-03T11:08:59.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 16,
         "FocalLengthIn35mmFormat": 24,
         "LensModel": "XF16-80mmF4 R OIS WR"
@@ -58365,13 +58356,13 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           51,
-          55.54215,
+          55.2168996,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           4,
-          30.4692333,
+          29.4259539,
           0
         ],
         "GPSTimeStamp": "11:9:50",
@@ -58379,8 +58370,8 @@
         "GPSSpeed": 0,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2021:11:03",
-        "latitude": 51.9257025,
-        "longitude": 4.507820555
+        "latitude": 51.92028166,
+        "longitude": 4.490432565
       }
     },
     "dimensions": {
@@ -58433,18 +58424,16 @@
         "DigitalCreationTime": "121941",
         "Byline": "Nicolas Hoizey",
         "City": "municipalitÃ© de Rotterdam",
-        "Sublocation": "Rotterdam Centrum",
         "State": "Hollande-MÃ©ridionale",
-        "CountryCode": "NL",
         "Country": "Pays-Bas",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45Â° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.\r\rDutch architect Piet Blom designed Rotterdam's cube houses in the late 1970s at the request of the city's planners. Blom had already experimented with cubic architecture in the Dutch town of Helmond. So when he was offered this project in the Oude Haven area of the city center, he decided to further develop his original ideas. Interestingly, the cubic houses even form a pedestrian bridge over one of the busiest streets in the city center."
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:32:48+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-06T10:41:40+02:00",
         "CreateDate": "2021-11-03T12:19:41.1",
-        "MetadataDate": "2024-03-22T17:32:48+01:00",
+        "MetadataDate": "2025-06-06T10:41:40+02:00",
         "Rating": 5
       },
       "aux": {
@@ -58505,9 +58494,10 @@
       "xmpRights": {
         "Marked": true
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "Location": "Rotterdam Centrum",
-        "CountryCode": "NL",
         "CreatorContactInfo": {
           "CiAdrCtry": "France",
           "CiEmailWork": "nicolas@hoizey.com",
@@ -58520,9 +58510,6 @@
           "value": "Back shot of the yellow cube houses in Rotterdam"
         }
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "Architecture in Rotterdam is known to be some of the most innovative and creative architecture in Holland. And even after more than 30 years, the cube houses (Kubuswoningen in Dutch) remain one of the city's most remarkable projects. It's easy to see why: these particular houses are 45° side-tilted cubes, optimized to make the most of the available space. The result is buildings that look, feel and behave like no other dwelling anywhere in the world.\n\nDutch architect Piet Blom designed Rotterdam's cube houses in the late 1970s at the request of the city's planners. Blom had already experimented with cubic architecture in the Dutch town of Helmond. So when he was offered this project in the Oude Haven area of the city center, he decided to further develop his original ideas. Interestingly, the cubic houses even form a pedestrian bridge over one of the busiest streets in the city center.",
         "Make": "FUJIFILM",
@@ -58533,7 +58520,7 @@
         "FNumber": 4,
         "ISO": 320,
         "DateTimeOriginal": "2021-11-03T11:19:41.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 16,
         "FocalLengthIn35mmFormat": 24,
         "LensModel": "XF16-80mmF4 R OIS WR"
@@ -58543,13 +58530,13 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           51,
-          55.2109333,
+          55.21092,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           4,
-          29.45345,
+          29.45346,
           0
         ],
         "GPSTimeStamp": "11:16:19",
@@ -58557,8 +58544,8 @@
         "GPSSpeed": 0,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2021:11:03",
-        "latitude": 51.920182221666664,
-        "longitude": 4.490890833333333
+        "latitude": 51.920182,
+        "longitude": 4.490891
       }
     },
     "dimensions": {

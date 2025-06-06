@@ -2,7 +2,7 @@
 title: "Rotterdam Cube Houses: The butterfly"
 file: rotterdam-cube-houses-the-butterfly.jpg
 alt_text: Back shot of the yellow cube houses in Rotterdam
-date: 2021-11-03 11:52:28 +01:00
+date: 2021-11-03 12:52:28 +02:00
 dates:
   iso: "'2021-11-03'"
   human: "'3 November 2021'"
@@ -67,8 +67,8 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 51.9257025
-  longitude: 4.507820555
+  latitude: 51.920426
+  longitude: 4.489909
   country: Pays-Bas
   city: municipalité de Rotterdam
   map: true

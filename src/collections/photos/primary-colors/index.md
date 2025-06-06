@@ -58,6 +58,7 @@ dimensions:
 geo:
   latitude: 38.768775
   longitude: -9.128363333333333
+  direction: 329.4057142857143
   country: Portugal
   city: Lisboa
   map: true

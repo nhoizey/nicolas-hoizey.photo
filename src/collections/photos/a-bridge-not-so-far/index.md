@@ -1,7 +1,7 @@
 ---
 title: A bridge not so far
 file: a-bridge-not-so-far.jpg
-date: 2015-05-23 19:21:31 +01:00
+date: 2015-05-23 20:21:31 +02:00
 dates:
   iso: "'2015-05-23'"
   human: "'23 May 2015'"
@@ -70,10 +70,11 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 40.70306111166666
-  longitude: -73.98959166666667
-  country: United States of America
-  city: New York City
+  latitude: 40.703061
+  longitude: -73.989592
+  direction: 7
+  country: États-Unis
+  city: New York
   map: true
 colors:
   vibrant: 40 116 166

@@ -59,6 +59,7 @@ dimensions:
 geo:
   latitude: 19.287675
   longitude: -69.42449166666667
+  direction: 7.54608938547486
   country: République dominicaine
   city: El Limón
   map: true

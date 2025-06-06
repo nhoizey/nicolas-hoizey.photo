@@ -1,7 +1,7 @@
 ---
 title: Chreli-Abano
 file: chreli-abano.jpg
-date: 2018-08-13 09:53:48 +01:00
+date: 2018-08-13 10:53:48 +02:00
 dates:
   iso: "'2018-08-13'"
   human: "'13 August 2018'"
@@ -26,6 +26,7 @@ tags:
   - Europe
   - Georgia
   - Géorgie
+  - monument
   - Tbilissi
   - აბანოთუბანი
   - თბილისი
@@ -57,10 +58,10 @@ dimensions:
   width: 2333
   height: 3500
 geo:
-  latitude: 41.68766138833333
-  longitude: 44.810744721666666
-  country: Georgia
-  city: Tbilisi
+  latitude: 41.687661
+  longitude: 44.810745
+  direction: 170
+  country: Géorgie
   map: true
 colors:
   vibrant: 43 174 222
