@@ -357,7 +357,7 @@ const decodeHTML = (html) => {
 							center: photoData.geometry.coordinates,
 							zoom: 16,
 							pitch: 45 + Math.random() * 30, // 0 (zenith) -> 90 degrees
-							bearing: 180 - Math.random() * 360, // -180 -> 180 degrees
+							bearing: photoData.geometry.direction || (180 - Math.random() * 360), // -180 -> 180 degrees
 							curve: 2,
 							// speed: 0.5,
 							duration: 10000,
