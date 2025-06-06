@@ -87,7 +87,7 @@ const decodeHTML = (html) => {
 				});
 			}
 
-			map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 2 });
+			map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
 
 			if (!map.getLayer("clusters")) {
 				map.addLayer({
