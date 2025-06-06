@@ -59,7 +59,7 @@ const exifrOptions = {
 	],
 
 	gps: {
-		pick: ["latitude", "longitude"],
+		pick: ["latitude", "longitude", "direction"],
 	},
 	iptc: { pick: ["ObjectName", "Caption", "Country", "City"] },
 	xmp: { pick: ["AltTextAccessibility", "ExtDescrAccessibility"] },
@@ -365,6 +365,9 @@ SYNC ${photo}`);
 					latitude: photoExif.gps.latitude,
 					longitude: photoExif.gps.longitude,
 				};
+				if (photoExif.gps.GPSImgDirection) {
+					photoYFM.geo.direction = photoExif.gps.GPSImgDirection;
+				}
 				if (photoExif.iptc.Country) {
 					photoYFM.geo.country = utf8.decode(photoExif.iptc.Country);
 				}
@@ -372,7 +375,6 @@ SYNC ${photo}`);
 					// photoYFM.geo.city = photoExif.iptc.City;
 					photoYFM.geo.city = utf8.decode(photoExif.iptc.City);
 				}
-
 				// Get map for the photo
 				const mapFile = path.join(distDir, "map.png");
 				if (fs.existsSync(mapFile)) {
