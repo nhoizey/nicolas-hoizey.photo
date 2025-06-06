@@ -344,9 +344,7 @@ const decodeHTML = (html) => {
 							popup = null;
 						}
 
-						const photoData = window.geoJsonFeatures[currentPhotoIndex % window.geoJsonFeatures.length];
-						const [lat, lng] = photoData.geometry.coordinates;
-						localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
+						const photoData = window.geoJsonFeatures[currentPhotoIndex];
 
 						popup = new mapboxgl.Popup({ offset: [0, -20] })
 							.setLngLat([lat, lng])
@@ -356,9 +354,9 @@ const decodeHTML = (html) => {
 							.addTo(map);
 
 						map.flyTo({
-							center: [lat, lng],
-							zoom: 18,
-							pitch: 20 + Math.random() * 45, // 0 (zenith) -> 90 degrees
+							center: photoData.geometry.coordinates,
+							zoom: 16,
+							pitch: 45 + Math.random() * 30, // 0 (zenith) -> 90 degrees
 							bearing: 180 - Math.random() * 360, // -180 -> 180 degrees
 							curve: 2,
 							// speed: 0.5,
@@ -366,12 +364,13 @@ const decodeHTML = (html) => {
 							essential: true // This animation is considered essential with respect to prefers-reduced-motion
 						});
 
-						currentPhotoIndex++;
+						currentPhotoIndex = (currentPhotoIndex + 1) % window.geoJsonFeatures.length;
+						localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
 					};
 
 					if (currentlyPlaying) {
 						flyToNextPhoto();
-						intervalID = setInterval(flyToNextPhoto, 10000);
+						intervalID = setInterval(flyToNextPhoto, 15000);
 					} else {
 						clearInterval(intervalID);
 						intervalID = null;
