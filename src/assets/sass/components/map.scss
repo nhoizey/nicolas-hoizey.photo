@@ -64,7 +64,11 @@
     width: var(--mapboxgl-popup-width);
   }
 
-  .mapboxgl-popup.autoplay {
+  .mapboxgl-popup.autoplay.portrait {
+    --mapboxgl-popup-width: min(300px, 30vw);
+  }
+
+  .mapboxgl-popup.autoplay.landscape {
     --mapboxgl-popup-width: min(400px, 30vw);
   }
 
