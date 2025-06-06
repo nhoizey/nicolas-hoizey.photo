@@ -346,8 +346,8 @@ const decodeHTML = (html) => {
 
 						const photoData = window.geoJsonFeatures[currentPhotoIndex];
 
-						popup = new mapboxgl.Popup({ offset: [0, -20] })
-							.setLngLat([lat, lng])
+						popup = new mapboxgl.Popup({ offset: [0, -20], closeButton: false, maxWidth: "none", className: "autoplay" })
+							.setLngLat(photoData.geometry.coordinates)
 							.setHTML(
 								`<a href="${photoData.properties.url}"><img src="/photos/${photoData.properties.slug}/small.jpg" width="${photoData.properties.width}" height="${photoData.properties.height}" alt>${photoData.properties.title}</a>`,
 							)

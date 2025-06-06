@@ -60,12 +60,17 @@
   }
 
   .mapboxgl-popup {
-    width: 220px;
+    --mapboxgl-popup-width: 220px;
+    width: var(--mapboxgl-popup-width);
+  }
+
+  .mapboxgl-popup.autoplay {
+    --mapboxgl-popup-width: min(400px, 30vw);
   }
 
   .mapboxgl-popup-content {
     background-color: colors.$surface;
-    width: calc(200px + 2px + 2 * spaces.$xxxs);
+    width: calc(var(--mapboxgl-popup-width) + 2px + 2 * spaces.$xxxs);
 
     img {
       border: 1px solid #fff;
