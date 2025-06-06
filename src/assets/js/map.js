@@ -286,6 +286,7 @@ const decodeHTML = (html) => {
 		}
 		map.addControl(new PitchToggle());
 
+		// Add button to allow users to find their location
 		map.addControl(
 			new mapboxgl.GeolocateControl({
 				positionOptions: {
@@ -298,8 +299,10 @@ const decodeHTML = (html) => {
 			}),
 		);
 
+		// Add button to toggle fullscreen mode
 		map.addControl(new mapboxgl.FullscreenControl());
 
+		// Add buttons to switch between drawn map and satellite photography
 		const mapStyles = [
 			{
 				title: "Satellite",
