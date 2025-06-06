@@ -6,13 +6,19 @@ eleventyExcludeFromCollections: true
 {
   "type": "FeatureCollection",
   "features": [
-{%- for item in collections.unique_photos %}
+{%- set alreadyOne = false -%}
+{%- for item in collections.unique_photos | by_date %}
   {%- if item.data.origin.data.geo -%}
+    {%- if alreadyOne -%},{%- else -%}{%- set alreadyOne = true -%}{%- endif -%}
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [{{ item.data.origin.data.geo.longitude }}, {{ item.data.origin.data.geo.latitude }}]
+        {%- if item.data.origin.data.geo.direction -%}
+        ,
+        "direction": {{ item.data.origin.data.geo.direction }}
+        {%- endif -%}
       },
       "properties": {
         "slug": "{{ item.page.fileSlug }}",
@@ -23,7 +29,7 @@ eleventyExcludeFromCollections: true
         "height": "{{ item.data.origin.data.dimensions.height }}",
         "url": "{{ item.page.url }}"
       }
-    }{%- if not loop.last -%},{%- endif -%}
+    }
   {%- endif -%}
 {% endfor %}
   ]
