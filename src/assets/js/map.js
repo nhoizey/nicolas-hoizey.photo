@@ -87,49 +87,6 @@ const decodeHTML = (html) => {
 
 			map.setTerrain({ source: "mapbox-dem", exaggeration: 1.3 });
 
-			// if (!map.getLayer("3d-buildings")) {
-			// 	const layers = map.getStyle().layers;
-			// 	const labelLayerId = layers.find(
-			// 		(layer) => layer.type === 'symbol' && layer.layout['text-field']
-			// 	).id;
-			// 	map.addLayer(
-			// 		{
-			// 			'id': '3d-buildings',
-			// 			'source': 'composite',
-			// 			'source-layer': 'building',
-			// 			'filter': ['==', 'extrude', 'true'],
-			// 			'type': 'fill-extrusion',
-			// 			'minzoom': 15,
-			// 			'paint': {
-			// 				'fill-extrusion-color': '#aaa',
-
-			// 				// Use an 'interpolate' expression to
-			// 				// add a smooth transition effect to
-			// 				// the buildings as the user zooms in.
-			// 				'fill-extrusion-height': [
-			// 					'interpolate',
-			// 					['linear'],
-			// 					['zoom'],
-			// 					15,
-			// 					0,
-			// 					15.05,
-			// 					['get', 'height']
-			// 				],
-			// 				'fill-extrusion-base': [
-			// 					'interpolate',
-			// 					['linear'],
-			// 					['zoom'],
-			// 					15,
-			// 					0,
-			// 					15.05,
-			// 					['get', 'min_height']
-			// 				],
-			// 				'fill-extrusion-opacity': 0.6
-			// 			}
-			// 		}
-			// 	);
-			// }
-
 			if (!map.getLayer("clusters")) {
 				map.addLayer({
 					id: "clusters",
@@ -296,247 +253,248 @@ const decodeHTML = (html) => {
 			}
 		};
 
-		map.addControl(
-			new mapboxgl.NavigationControl({
-				showCompass: true,
-				visualizePitch: true,
-			}),
-			"top-right",
-		);
+		const addControls = () => {
+			map.addControl(
+				new mapboxgl.NavigationControl({
+					showCompass: true,
+					visualizePitch: true,
+				}),
+				"top-right",
+			);
 
-		// Add button to toggle between 2D and 3D views
-		// Based on https://github.com/tobinbradley/mapbox-gl-pitch-toggle-control
-		class PitchToggle {
-			onAdd(map) {
-				const div = document.createElement("div");
-				div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
-				div.innerHTML = `<button class="mapboxgl-ctrl-3d-toggle"><span class="mapboxgl-ctrl-icon" aria-hidden="true" aria-label="Toggle 3D"></span></button>`;
-				if (map.getPitch() !== 0) {
-					div
-						.querySelector("button")
-						.classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
-				}
-				div.addEventListener("contextmenu", (e) => e.preventDefault());
-				div.addEventListener("click", () => {
-					if (map.getPitch() === 0) {
-						map.easeTo({ pitch: 70, bearing: -20 });
+			// Add button to toggle between 2D and 3D views
+			// Based on https://github.com/tobinbradley/mapbox-gl-pitch-toggle-control
+			class PitchToggle {
+				onAdd(map) {
+					const div = document.createElement("div");
+					div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
+					div.innerHTML = `<button class="mapboxgl-ctrl-3d-toggle"><span class="mapboxgl-ctrl-icon" aria-hidden="true" aria-label="Toggle 3D"></span></button>`;
+					if (map.getPitch() !== 0) {
 						div
 							.querySelector("button")
 							.classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
-					} else {
-						map.easeTo({ pitch: 0, bearing: 0 });
+					}
+					div.addEventListener("contextmenu", (e) => e.preventDefault());
+					div.addEventListener("click", () => {
+						if (map.getPitch() === 0) {
+							map.easeTo({ pitch: 70, bearing: -20 });
+							div
+								.querySelector("button")
+								.classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
+						} else {
+							map.easeTo({ pitch: 0, bearing: 0 });
+							div
+								.querySelector("button")
+								.classList.toggle("mapboxgl-ctrl-3d-toggle-active", false);
+						}
+					});
+
+					return div;
+				}
+			}
+			map.addControl(new PitchToggle());
+
+			// Add button to allow users to find their location
+			map.addControl(
+				new mapboxgl.GeolocateControl({
+					positionOptions: {
+						enableHighAccuracy: true,
+					},
+					// When active the map will receive updates to the device's location as it changes.
+					trackUserLocation: true,
+					// Draw an arrow next to the location dot to indicate which direction the device is heading.
+					showUserHeading: true,
+				}),
+			);
+
+			// Add button to toggle fullscreen mode
+			map.addControl(new mapboxgl.FullscreenControl());
+
+			// Add buttons to switch between drawn map and satellite photography
+			const mapStyles = [
+				{
+					title: "Satellite",
+					uri: `${window.location.origin}/map/mapbox-style-satellite.json`,
+				},
+				{
+					title: "Terrain",
+					uri: `${window.location.origin}/map/mapbox-style-terrain.json`,
+				},
+			];
+			map.addControl(
+				new MapboxStyleSwitcherControl(mapStyles, {
+					defaultStyle: localStorage.getItem("mapStyle") || "Satellite",
+					eventListeners: {
+						onChange: (event, style) => {
+							localStorage.setItem(
+								"mapStyle",
+								style.match(/satellite/) ? "Satellite" : "Terrain",
+							);
+						},
+					},
+				}),
+			);
+
+			class AutoPlayButton {
+				onAdd(map) {
+					let currentlyPlaying = false;
+					let currentPhotoIndex =
+						Number.parseInt(localStorage.getItem("currentPhotoIndex"), 10) || 0;
+					let intervalID = null;
+					let popup = null;
+
+					const div = document.createElement("div");
+					div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
+					div.innerHTML = `<button class="mapboxgl-ctrl-autoplay"><span class="mapboxgl-ctrl-icon" aria-hidden="true" title="Auto play"></span></button>`;
+					div.addEventListener("contextmenu", (e) => e.preventDefault());
+					div.addEventListener("click", () => {
+						currentlyPlaying = !currentlyPlaying;
+
+						const flyToNextPhoto = () => {
+							if (popup) {
+								popup.remove();
+								popup = null;
+							}
+
+							const photoData = window.geoJsonFeatures[currentPhotoIndex];
+
+							popup = new mapboxgl.Popup({
+								offset: [0, -20],
+								closeButton: false,
+								maxWidth: "none",
+								className: `autoplay ${photoData.properties.height / photoData.properties.width > 1 ? "portrait" : "landscape"}`,
+							})
+								.setLngLat(photoData.geometry.coordinates)
+								.setHTML(
+									`<a href="${photoData.properties.url}"><img src="/photos/${photoData.properties.slug}/small.jpg" width="${photoData.properties.width}" height="${photoData.properties.height}" alt>${photoData.properties.title}</a>`,
+								)
+								.addTo(map);
+
+							map.flyTo({
+								center: photoData.geometry.coordinates,
+								zoom: 16,
+								pitch: 45 + Math.random() * 30, // 0 (zenith) -> 90 degrees
+								bearing:
+									photoData.geometry.direction || 180 - Math.random() * 360, // -180 -> 180 degrees
+								curve: 2,
+								// speed: 0.5,
+								duration: 10000,
+								essential: true, // This animation is considered essential with respect to prefers-reduced-motion
+							});
+
+							currentPhotoIndex =
+								(currentPhotoIndex + 1) % window.geoJsonFeatures.length;
+							localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
+						};
+
+						if (currentlyPlaying) {
+							flyToNextPhoto();
+							intervalID = setInterval(flyToNextPhoto, 15000);
+						} else {
+							clearInterval(intervalID);
+							intervalID = null;
+						}
 						div
 							.querySelector("button")
-							.classList.toggle("mapboxgl-ctrl-3d-toggle-active", false);
-					}
-				});
+							.classList.toggle(
+								"mapboxgl-ctrl-autoplay-active",
+								currentlyPlaying,
+							);
+					});
 
-				return div;
+					return div;
+				}
 			}
+			map.addControl(new AutoPlayButton());
+
+			// https://docs.mapbox.com/mapbox-gl-js/example/navigation-scale/
+			map.addControl(new mapboxgl.ScaleControl());
 		}
-		map.addControl(new PitchToggle());
-
-		// Add button to allow users to find their location
-		map.addControl(
-			new mapboxgl.GeolocateControl({
-				positionOptions: {
-					enableHighAccuracy: true,
-				},
-				// When active the map will receive updates to the device's location as it changes.
-				trackUserLocation: true,
-				// Draw an arrow next to the location dot to indicate which direction the device is heading.
-				showUserHeading: true,
-			}),
-		);
-
-		// Add button to toggle fullscreen mode
-		map.addControl(new mapboxgl.FullscreenControl());
-
-		// Add buttons to switch between drawn map and satellite photography
-		const mapStyles = [
-			{
-				title: "Satellite",
-				uri: `${window.location.origin}/map/mapbox-style-satellite.json`,
-			},
-			{
-				title: "Terrain",
-				uri: `${window.location.origin}/map/mapbox-style-terrain.json`,
-			},
-		];
-		map.addControl(
-			new MapboxStyleSwitcherControl(mapStyles, {
-				defaultStyle: localStorage.getItem("mapStyle") || "Satellite",
-				eventListeners: {
-					onChange: (event, style) => {
-						localStorage.setItem(
-							"mapStyle",
-							style.match(/satellite/) ? "Satellite" : "Terrain",
-						);
-					},
-				},
-			}),
-		);
-
-		class AutoPlayButton {
-			onAdd(map) {
-				let currentlyPlaying = false;
-				let currentPhotoIndex =
-					Number.parseInt(localStorage.getItem("currentPhotoIndex"), 10) || 0;
-				let intervalID = null;
-				let popup = null;
-
-				const div = document.createElement("div");
-				div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
-				div.innerHTML = `<button class="mapboxgl-ctrl-autoplay"><span class="mapboxgl-ctrl-icon" aria-hidden="true" title="Auto play"></span></button>`;
-				div.addEventListener("contextmenu", (e) => e.preventDefault());
-				div.addEventListener("click", () => {
-					currentlyPlaying = !currentlyPlaying;
-
-					const flyToNextPhoto = () => {
-						if (popup) {
-							popup.remove();
-							popup = null;
-						}
-
-						const photoData = window.geoJsonFeatures[currentPhotoIndex];
-
-						popup = new mapboxgl.Popup({
-							offset: [0, -20],
-							closeButton: false,
-							maxWidth: "none",
-							className: `autoplay ${photoData.properties.height / photoData.properties.width > 1 ? "portrait" : "landscape"}`,
-						})
-							.setLngLat(photoData.geometry.coordinates)
-							.setHTML(
-								`<a href="${photoData.properties.url}"><img src="/photos/${photoData.properties.slug}/small.jpg" width="${photoData.properties.width}" height="${photoData.properties.height}" alt>${photoData.properties.title}</a>`,
-							)
-							.addTo(map);
-
-						map.flyTo({
-							center: photoData.geometry.coordinates,
-							zoom: 16,
-							pitch: 45 + Math.random() * 30, // 0 (zenith) -> 90 degrees
-							bearing:
-								photoData.geometry.direction || 180 - Math.random() * 360, // -180 -> 180 degrees
-							curve: 2,
-							// speed: 0.5,
-							duration: 10000,
-							essential: true, // This animation is considered essential with respect to prefers-reduced-motion
-						});
-
-						currentPhotoIndex =
-							(currentPhotoIndex + 1) % window.geoJsonFeatures.length;
-						localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
-					};
-
-					if (currentlyPlaying) {
-						flyToNextPhoto();
-						intervalID = setInterval(flyToNextPhoto, 15000);
-					} else {
-						clearInterval(intervalID);
-						intervalID = null;
-					}
-					div
-						.querySelector("button")
-						.classList.toggle(
-							"mapboxgl-ctrl-autoplay-active",
-							currentlyPlaying,
-						);
-				});
-
-				return div;
-			}
-		}
-		map.addControl(new AutoPlayButton());
-
-		// https://docs.mapbox.com/mapbox-gl-js/example/navigation-scale/
-		map.addControl(new mapboxgl.ScaleControl());
 
 		// After the last frame rendered before the map enters an "idle" state.
-		map.on("idle", () => {
-			// addLayers();
+		// map.on("idle", () => {
 
-			// Compute new position every… in milliseconds
-			const rotationInterval = 500;
-			// At low zooms, complete a revolution every 5 minutes.
-			const secondsPerRevolution = 5 * 60;
-			// Above zoom level 4, do not rotate.
-			const maxSpinZoom = 4;
-			// Rotate at intermediate speeds between zoom levels 2 and 4.
-			const slowSpinZoom = 2;
+		// 	// Compute new position every… in milliseconds
+		// 	const rotationInterval = 500;
+		// 	// At low zooms, complete a revolution every 5 minutes.
+		// 	const secondsPerRevolution = 5 * 60;
+		// 	// Above zoom level 4, do not rotate.
+		// 	const maxSpinZoom = 4;
+		// 	// Rotate at intermediate speeds between zoom levels 2 and 4.
+		// 	const slowSpinZoom = 2;
 
-			// Respect user preference for reduced motion
-			let animationAllowed = window.matchMedia(
-				"(prefers-reduced-motion: no-preference)",
-			).matches;
-			window
-				.matchMedia("(prefers-reduced-motion)")
-				.addEventListener("change", () => {
-					animationAllowed = window.matchMedia(
-						"(prefers-reduced-motion: no-preference)",
-					).matches;
-				});
+		// 	// Respect user preference for reduced motion
+		// 	let animationAllowed = window.matchMedia(
+		// 		"(prefers-reduced-motion: no-preference)",
+		// 	).matches;
+		// 	window
+		// 		.matchMedia("(prefers-reduced-motion)")
+		// 		.addEventListener("change", () => {
+		// 			animationAllowed = window.matchMedia(
+		// 				"(prefers-reduced-motion: no-preference)",
+		// 			).matches;
+		// 		});
 
-			const spinGlobe = (timestamp) => {
-				const zoom = map.getZoom();
-				if (
-					animationAllowed &&
-					!userInteracting &&
-					!popupOpened &&
-					zoom < maxSpinZoom
-				) {
-					let distancePerInterval =
-						(360 / secondsPerRevolution) * (rotationInterval / 1000);
-					if (zoom > slowSpinZoom) {
-						// Slow spinning at higher zooms
-						const zoomDif = (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
-						distancePerInterval *= zoomDif;
-					}
-					const center = map.getCenter();
-					center.lng -= distancePerInterval;
-					// Smoothly animate the map over one second.
-					// When this animation is complete, it calls a 'moveend' event.
-					map.easeTo({
-						center,
-						duration: rotationInterval,
-						easing: (n) => n,
-					});
-				}
-				setTimeout(requestAnimationFrame, rotationInterval, spinGlobe);
-			};
-			// TODO: allow activation of spinning with a button
-			// requestAnimationFrame(spinGlobe);
+		// 	const spinGlobe = (timestamp) => {
+		// 		const zoom = map.getZoom();
+		// 		if (
+		// 			animationAllowed &&
+		// 			!userInteracting &&
+		// 			!popupOpened &&
+		// 			zoom < maxSpinZoom
+		// 		) {
+		// 			let distancePerInterval =
+		// 				(360 / secondsPerRevolution) * (rotationInterval / 1000);
+		// 			if (zoom > slowSpinZoom) {
+		// 				// Slow spinning at higher zooms
+		// 				const zoomDif = (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
+		// 				distancePerInterval *= zoomDif;
+		// 			}
+		// 			const center = map.getCenter();
+		// 			center.lng -= distancePerInterval;
+		// 			// Smoothly animate the map over one second.
+		// 			// When this animation is complete, it calls a 'moveend' event.
+		// 			map.easeTo({
+		// 				center,
+		// 				duration: rotationInterval,
+		// 				easing: (n) => n,
+		// 			});
+		// 		}
+		// 		setTimeout(requestAnimationFrame, rotationInterval, spinGlobe);
+		// 	};
+		// 	// TODO: allow activation of spinning with a button
+		// 	requestAnimationFrame(spinGlobe);
+		// });
 
-			// Pause spinning on interaction
-			map.on("mousedown", () => {
-				userInteracting = true;
-			});
+		// // Pause spinning on interaction
+		// map.on("mousedown", () => {
+		// 	userInteracting = true;
+		// });
 
-			// Restart spinning the globe when interaction is complete
-			map.on("mouseup", () => {
-				userInteracting = false;
-			});
+		// // Restart spinning the globe when interaction is complete
+		// map.on("mouseup", () => {
+		// 	userInteracting = false;
+		// });
 
-			// These events account for cases where the mouse has moved
-			// off the map, so 'mouseup' will not be fired.
-			map.on("dragend", () => {
-				userInteracting = false;
-			});
-			map.on("pitchend", () => {
-				userInteracting = false;
-			});
-			map.on("rotateend", () => {
-				userInteracting = false;
-			});
-			map.on("moveend", () => {
-				if (userInteracting && clusterMove) {
-					userInteracting = false;
-					clusterMove = false;
-				}
-			});
-		});
+		// // These events account for cases where the mouse has moved
+		// // off the map, so 'mouseup' will not be fired.
+		// map.on("dragend", () => {
+		// 	userInteracting = false;
+		// });
+		// map.on("pitchend", () => {
+		// 	userInteracting = false;
+		// });
+		// map.on("rotateend", () => {
+		// 	userInteracting = false;
+		// });
+		// map.on("moveend", () => {
+		// 	if (userInteracting && clusterMove) {
+		// 		userInteracting = false;
+		// 		clusterMove = false;
+		// 	}
+		// });
 
-		map.on("styledata", () => {
+		map.on("load", () => {
 			map.setFog({
 				color: "#222222",
 				"horizon-blend": 0.05,
@@ -545,6 +503,7 @@ const decodeHTML = (html) => {
 				"star-intensity": 0.2,
 			});
 			addLayers();
+			addControls();
 		});
 	}
 })(window);
