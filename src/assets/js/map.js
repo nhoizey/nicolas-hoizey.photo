@@ -1,6 +1,7 @@
 import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
 import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import polylabel from "polylabel";
+import GlobeMinimap from "mapbox-gl-globe-minimap";
 
 const decodeHTML = (html) => {
 	const txt = document.createElement("textarea");
@@ -409,6 +410,11 @@ const decodeHTML = (html) => {
 
 			// https://docs.mapbox.com/mapbox-gl-js/example/navigation-scale/
 			map.addControl(new mapboxgl.ScaleControl());
+
+			map.addControl(
+				new GlobeMinimap(),
+				"bottom-right"
+			);
 		}
 
 		// After the last frame rendered before the map enters an "idle" state.
