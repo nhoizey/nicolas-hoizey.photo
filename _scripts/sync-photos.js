@@ -96,10 +96,10 @@ SYNC ${photo}`);
 		}
 
 		// Clean useless data
-		delete photoExif.crs;
-		delete photoExif.lr;
-		delete photoExif.photoshop;
-		delete photoExif.xmpMM;
+		photoExif.crs = undefined;
+		photoExif.lr = undefined;
+		photoExif.photoshop = undefined;
+		photoExif.xmpMM = undefined;
 
 		const missingData = {};
 
