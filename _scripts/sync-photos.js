@@ -5,6 +5,7 @@ import {} from "dotenv/config";
 
 import fs from "node:fs";
 import path from "node:path";
+import { decodeHTML } from "entities";
 import exifr from "exifr";
 import Fraction from "fraction.js";
 import { DateTime } from "luxon";
@@ -14,7 +15,6 @@ import { PNG } from "pngjs";
 import sharp from "sharp";
 import utf8 from "utf8";
 import YAML from "yaml";
-import { decodeHTML } from "entities";
 
 import slugify from "../src/_11ty/_utils/slugify.js";
 
