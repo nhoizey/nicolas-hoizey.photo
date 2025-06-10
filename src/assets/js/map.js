@@ -3,7 +3,7 @@ import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import polylabel from "polylabel";
 
 const decodeHTML = (html) => {
-	let txt = document.createElement('textarea');
+	const txt = document.createElement("textarea");
 	txt.innerHTML = html;
 	return txt.value;
 };
@@ -79,15 +79,15 @@ const decodeHTML = (html) => {
 			}
 
 			if (!map.getSource("mapbox-dem")) {
-				map.addSource('mapbox-dem', {
-					'type': 'raster-dem',
-					'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
-					'tileSize': 512,
-					'maxzoom': maxZoomLevel
+				map.addSource("mapbox-dem", {
+					type: "raster-dem",
+					url: "mapbox://mapbox.mapbox-terrain-dem-v1",
+					tileSize: 512,
+					maxzoom: maxZoomLevel,
 				});
 			}
 
-			map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.3 });
+			map.setTerrain({ source: "mapbox-dem", exaggeration: 1.3 });
 
 			if (!map.getLayer("clusters")) {
 				map.addLayer({
@@ -256,7 +256,10 @@ const decodeHTML = (html) => {
 		};
 
 		map.addControl(
-			new mapboxgl.NavigationControl({ showCompass: true, visualizePitch: true }),
+			new mapboxgl.NavigationControl({
+				showCompass: true,
+				visualizePitch: true,
+			}),
 			"top-right",
 		);
 
@@ -268,16 +271,22 @@ const decodeHTML = (html) => {
 				div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
 				div.innerHTML = `<button class="mapboxgl-ctrl-3d-toggle"><span class="mapboxgl-ctrl-icon" aria-hidden="true" aria-label="Toggle 3D"></span></button>`;
 				if (map.getPitch() !== 0) {
-					div.querySelector('button').classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
+					div
+						.querySelector("button")
+						.classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
 				}
 				div.addEventListener("contextmenu", (e) => e.preventDefault());
 				div.addEventListener("click", () => {
 					if (map.getPitch() === 0) {
 						map.easeTo({ pitch: 70, bearing: -20 });
-						div.querySelector('button').classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
+						div
+							.querySelector("button")
+							.classList.toggle("mapboxgl-ctrl-3d-toggle-active", true);
 					} else {
 						map.easeTo({ pitch: 0, bearing: 0 });
-						div.querySelector('button').classList.toggle("mapboxgl-ctrl-3d-toggle-active", false);
+						div
+							.querySelector("button")
+							.classList.toggle("mapboxgl-ctrl-3d-toggle-active", false);
 					}
 				});
 
@@ -318,7 +327,10 @@ const decodeHTML = (html) => {
 				defaultStyle: localStorage.getItem("mapStyle") || "Satellite",
 				eventListeners: {
 					onChange: (event, style) => {
-						localStorage.setItem("mapStyle", style.match(/satellite/) ? "Satellite" : "Terrain");
+						localStorage.setItem(
+							"mapStyle",
+							style.match(/satellite/) ? "Satellite" : "Terrain",
+						);
 					},
 				},
 			}),
@@ -327,7 +339,8 @@ const decodeHTML = (html) => {
 		class AutoPlayButton {
 			onAdd(map) {
 				let currentlyPlaying = false;
-				let currentPhotoIndex = Number.parseInt(localStorage.getItem("currentPhotoIndex"), 10) || 0;
+				let currentPhotoIndex =
+					Number.parseInt(localStorage.getItem("currentPhotoIndex"), 10) || 0;
 				let intervalID = null;
 				let popup = null;
 
@@ -346,7 +359,12 @@ const decodeHTML = (html) => {
 
 						const photoData = window.geoJsonFeatures[currentPhotoIndex];
 
-						popup = new mapboxgl.Popup({ offset: [0, -20], closeButton: false, maxWidth: "none", className: `autoplay ${photoData.properties.height / photoData.properties.width > 1 ? 'portrait' : 'landscape'}` })
+						popup = new mapboxgl.Popup({
+							offset: [0, -20],
+							closeButton: false,
+							maxWidth: "none",
+							className: `autoplay ${photoData.properties.height / photoData.properties.width > 1 ? "portrait" : "landscape"}`,
+						})
 							.setLngLat(photoData.geometry.coordinates)
 							.setHTML(
 								`<a href="${photoData.properties.url}"><img src="/photos/${photoData.properties.slug}/small.jpg" width="${photoData.properties.width}" height="${photoData.properties.height}" alt>${photoData.properties.title}</a>`,
@@ -357,14 +375,16 @@ const decodeHTML = (html) => {
 							center: photoData.geometry.coordinates,
 							zoom: 16,
 							pitch: 45 + Math.random() * 30, // 0 (zenith) -> 90 degrees
-							bearing: photoData.geometry.direction || (180 - Math.random() * 360), // -180 -> 180 degrees
+							bearing:
+								photoData.geometry.direction || 180 - Math.random() * 360, // -180 -> 180 degrees
 							curve: 2,
 							// speed: 0.5,
 							duration: 10000,
-							essential: true // This animation is considered essential with respect to prefers-reduced-motion
+							essential: true, // This animation is considered essential with respect to prefers-reduced-motion
 						});
 
-						currentPhotoIndex = (currentPhotoIndex + 1) % window.geoJsonFeatures.length;
+						currentPhotoIndex =
+							(currentPhotoIndex + 1) % window.geoJsonFeatures.length;
 						localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
 					};
 
@@ -375,7 +395,12 @@ const decodeHTML = (html) => {
 						clearInterval(intervalID);
 						intervalID = null;
 					}
-					div.querySelector('button').classList.toggle("mapboxgl-ctrl-autoplay-active", currentlyPlaying);
+					div
+						.querySelector("button")
+						.classList.toggle(
+							"mapboxgl-ctrl-autoplay-active",
+							currentlyPlaying,
+						);
 				});
 
 				return div;
