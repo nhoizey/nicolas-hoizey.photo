@@ -64,8 +64,6 @@ const decodeHTML = (html) => {
 				}
 			},
 		});
-		map.dragRotate.disable();
-		map.touchZoomRotate.disableRotation();
 
 		const addLayers = () => {
 			if (!map.getSource("photos")) {
