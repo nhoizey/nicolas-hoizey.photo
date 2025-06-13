@@ -3,10 +3,10 @@ title: The City That Never Sleeps
 file: the-city-that-never-sleeps.jpg
 alt_text: Nighttime cityscape with illuminated skyscrapers and a prominent
   building lit in red, white, and blue.
-date: 2015-05-22 23:30:41 +01:00
+date: 2015-05-23 00:30:41 +02:00
 dates:
-  iso: "'2015-05-22'"
-  human: "'22 May 2015'"
+  iso: "'2015-05-23'"
+  human: "'23 May 2015'"
   timestamp: 1432333841
 gear:
   short: Canon 5D II + 24-70mm
@@ -14,14 +14,17 @@ gear:
     brand: Canon
     model: EOS 5D Mark II
     short: 5D II
-    hashtags: "#Canon #5DMarkII"
+    hashtags: "#Canon #5DMark2"
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
       short: 24-70mm
 tags:
+  - 230 Fifth
+  - 5th Avenue
   - America
   - Amérique du Nord
+  - bar
   - bleu
   - blue
   - building
@@ -40,6 +43,7 @@ tags:
   - nuit
   - NYC
   - red
+  - rooftop
   - rouge
   - skyline
   - skyscrapers
@@ -78,10 +82,11 @@ dimensions:
   width: 3500
   height: 2384
 geo:
-  latitude: 40.744661666666666
-  longitude: -73.99069166666666
-  country: United States of America
-  city: New York City
+  latitude: 40.744662
+  longitude: -73.990692
+  direction: 21
+  country: États-Unis
+  city: New York
   map: true
 colors:
   vibrant: 233 28 40
@@ -94,3 +99,5 @@ lqip: data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwCACdASpkAEQAP3Guz1+0rSm
 ---
 
 The City That Never Sleeps is a well-known nickname for New York City, famously employed in the "Theme from New York, New York", covered by Frank Sinatra.
+
+This photo was taken from the terrasse of the 230 Fifth rooftop bar.

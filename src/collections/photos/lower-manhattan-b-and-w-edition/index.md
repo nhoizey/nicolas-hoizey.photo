@@ -1,7 +1,7 @@
 ---
 title: Lower Manhattan (B&W Edition)
 file: lower-manhattan-b-and-w-edition.jpg
-date: 2015-05-23 22:14:42 +01:00
+date: 2015-05-23 23:14:42 +02:00
 dates:
   iso: "'2015-05-23'"
   human: "'23 May 2015'"
@@ -12,7 +12,7 @@ gear:
     brand: Canon
     model: EOS 5D Mark II
     short: 5D II
-    hashtags: "#Canon #5DMarkII"
+    hashtags: "#Canon #5DMark2"
   lenses:
     - brand: Canon
       model: EF 24-70mm f/2.8L USM
@@ -90,10 +90,11 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 40.70071166666666
-  longitude: -73.99695833333334
-  country: United States of America
-  city: New York City
+  latitude: 40.700712
+  longitude: -73.996958
+  direction: 280
+  country: États-Unis
+  city: New York
   map: true
 colors:
   vibrant: 128 128 128

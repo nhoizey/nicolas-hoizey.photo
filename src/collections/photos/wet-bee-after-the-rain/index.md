@@ -13,7 +13,7 @@ gear:
     brand: Canon
     model: EOS 5D Mark II
     short: 5D II
-    hashtags: "#Canon #5DMarkII"
+    hashtags: "#Canon #5DMark2"
   lenses:
     - brand: Canon
       model: EF 100mm f/2.8 Macro USM

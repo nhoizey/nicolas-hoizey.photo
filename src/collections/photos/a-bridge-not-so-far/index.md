@@ -12,7 +12,7 @@ gear:
     brand: Sony
     model: RX100 Mark III
     short: RX100 III
-    hashtags: "#Sony #RX100MarkIII #RX100M3"
+    hashtags: "#Sony #RX100Mark3"
 tags:
   - America
   - Amérique du Nord
@@ -72,7 +72,7 @@ dimensions:
 geo:
   latitude: 40.703061
   longitude: -73.989592
-  direction: 7
+  direction: 3
   country: États-Unis
   city: New York
   map: true

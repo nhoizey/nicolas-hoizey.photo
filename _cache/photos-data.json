@@ -19773,11 +19773,15 @@
           "United States",
           "United States of America",
           "black and white",
+          "city",
           "noir et blanc",
           "road",
           "route",
           "rue",
           "street",
+          "urbain",
+          "urban",
+          "ville",
           "Ãtats-Unis",
           "Ãtats-Unis d'AmÃ©rique"
         ],
@@ -19786,11 +19790,11 @@
         "DigitalCreationDate": "20150519",
         "DigitalCreationTime": "192930",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
+        "City": "New York",
         "Sublocation": "5th Avenue",
         "State": "New York",
         "CountryCode": "US",
-        "Country": "United States of America",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Shot in Manhattan, New-York City. This is the Flatiron Building on the left side. Driving south on the Fifth Avenue."
       },
@@ -19805,11 +19809,11 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-25T14:38:48+01:00",
+        "ModifyDate": "2025-06-13T11:10:28+02:00",
         "CreateDate": "2015-05-19T19:29:30.71",
-        "MetadataDate": "2024-03-25T14:38:48+01:00",
+        "MetadataDate": "2025-06-13T11:10:28+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -19843,11 +19847,15 @@
           "United States",
           "United States of America",
           "black and white",
+          "city",
           "noir et blanc",
           "road",
           "route",
           "rue",
           "street",
+          "urbain",
+          "urban",
+          "ville",
           "États-Unis",
           "États-Unis d'Amérique"
         ]
@@ -19887,7 +19895,7 @@
         "FNumber": 2.8,
         "ISO": 100,
         "DateTimeOriginal": "2015-05-19T11:29:30.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 189,
         "LensModel": "EF135mm f/2L USM"
       },
@@ -19896,18 +19904,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           40,
-          44.489,
+          44.48898,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           73,
-          59.3771667,
+          59.37714,
           0
         ],
-        "GPSAltitude": 12.0579,
-        "latitude": 40.741483333333335,
-        "longitude": -73.989619445
+        "GPSAltitude": 12.1,
+        "GPSImgDirection": 208,
+        "latitude": 40.741483,
+        "longitude": -73.989619
       }
     },
     "dimensions": {
@@ -19944,6 +19953,7 @@
           "United States",
           "United States of America",
           "cadre",
+          "city",
           "encadrÃ©",
           "frame",
           "framed",
@@ -19953,6 +19963,9 @@
           "liberty",
           "libertÃ©",
           "silhouette",
+          "urbain",
+          "urban",
+          "ville",
           "xenophobia",
           "xÃ©nophobie",
           "Ãtats-Unis",
@@ -19963,16 +19976,17 @@
         "DigitalCreationDate": "20150519",
         "DigitalCreationTime": "192650",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
-        "Country": "United States of America",
+        "City": "New York",
+        "State": "New York",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Statue of Liberty was a gift to the United States from the people of France. It is an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad.\r\rBut it was a long time agoâ¦\r\rNowadays, there is a worrying increase of xenophobia in France, with dumb actions taken by some political leaders that do nothing to improve the situationâ¦ :-(\r\rRead this article from the New York Times: http://www.nytimes.com/2016/08/19/world/europe/frances-burkini-bans-are-about-more-than-religion-or-clothing.html"
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:36:12+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-13T11:11:58+02:00",
         "CreateDate": "2015-05-19T19:26:50",
-        "MetadataDate": "2024-03-22T17:36:12+01:00",
+        "MetadataDate": "2025-06-13T11:11:58+02:00",
         "Rating": 5
       },
       "aux": {
@@ -20012,6 +20026,7 @@
           "United States",
           "United States of America",
           "cadre",
+          "city",
           "encadré",
           "frame",
           "framed",
@@ -20021,6 +20036,9 @@
           "liberty",
           "liberté",
           "silhouette",
+          "urbain",
+          "urban",
+          "ville",
           "xenophobia",
           "xénophobie",
           "États-Unis",
@@ -20035,8 +20053,7 @@
         }
       },
       "xmpDM": {
-        "good": true,
-        "pick": 1
+        "pick": 0
       },
       "Iptc4xmpCore": {
         "CreatorContactInfo": {
@@ -20061,7 +20078,7 @@
         "FNumber": 2.8,
         "ISO": 125,
         "DateTimeOriginal": "2015-05-19T12:26:50.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 22.77,
         "FocalLengthIn35mmFormat": 62,
         "LensModel": "24-70mm F1.8-2.8"
@@ -20071,18 +20088,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           40,
-          42.3081667,
+          42.30816,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           74,
-          1.0946667,
+          1.09464,
           0
         ],
-        "GPSAltitude": 0.259,
-        "latitude": 40.70513611166667,
-        "longitude": -74.018244445
+        "GPSAltitude": 0.3,
+        "GPSImgDirection": 231,
+        "latitude": 40.705136,
+        "longitude": -74.018244
       }
     },
     "dimensions": {
@@ -21023,6 +21041,7 @@
           "United States of America",
           "city",
           "eau",
+          "monument",
           "ville",
           "water",
           "Ãtats-Unis",
@@ -21033,11 +21052,9 @@
         "DigitalCreationDate": "20150521",
         "DigitalCreationTime": "174206",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
-        "Sublocation": "Governors Island",
+        "City": "New York",
         "State": "New York",
-        "CountryCode": "US",
-        "Country": "United States of America",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Statue of Liberty, in addition to being a very important monument of New York City, has become one of the symbols of the United States and represents more generally freedom and emancipation from oppression.\r\rFrom its inauguration in 1886 until the Jet Age, the statue is the first vision of the United States for millions of immigrants, after a long crossing of the Atlantic Ocean."
       },
@@ -21052,11 +21069,11 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:10+01:00",
+        "ModifyDate": "2025-06-13T11:10:45+02:00",
         "CreateDate": "2015-05-21T17:42:06.28",
-        "MetadataDate": "2024-03-22T17:36:10+01:00",
+        "MetadataDate": "2025-06-13T11:10:45+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -21088,6 +21105,7 @@
           "United States of America",
           "city",
           "eau",
+          "monument",
           "ville",
           "water",
           "États-Unis",
@@ -21101,9 +21119,10 @@
           "value": "Creative Commons CC-BY-SA"
         }
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "Location": "Governors Island",
-        "CountryCode": "US",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiAdrCtry": "France",
@@ -21114,11 +21133,8 @@
         "AltTextAccessibility": {
           "lang": "x-default",
           "value": "Statue of Liberty against a cloudy sky with waterfront and city skyline in the background."
-        }
-      },
-      "xmpDM": {
-        "good": true,
-        "pick": 1
+        },
+        "Scene": "g"
       },
       "ifd0": {
         "ImageDescription": "The Statue of Liberty, in addition to being a very important monument of New York City, has become one of the symbols of the United States and represents more generally freedom and emancipation from oppression.\n\nFrom its inauguration in 1886 until the Jet Age, the statue is the first vision of the United States for millions of immigrants, after a long crossing of the Atlantic Ocean.",
@@ -21130,7 +21146,7 @@
         "FNumber": 2.8,
         "ISO": 100,
         "DateTimeOriginal": "2015-05-21T15:42:06.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 189,
         "LensModel": "EF135mm f/2L USM"
       },
@@ -21145,14 +21161,16 @@
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           74,
-          2.4211,
+          2.42112,
           0
         ],
+        "GPSAltitude": 0,
         "GPSTimeStamp": "21:42:6",
+        "GPSImgDirection": 338,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:05:21",
         "latitude": 40.681175,
-        "longitude": -74.04035166666667
+        "longitude": -74.040352
       }
     },
     "dimensions": {
@@ -21568,6 +21586,8 @@
         "ApplicationRecordVersion": "\u0000\u0004",
         "ObjectName": "The City That Never Sleeps",
         "Keywords": [
+          "230 Fifth",
+          "5th Avenue",
           "America",
           "AmÃ©rique du Nord",
           "Empire State Building",
@@ -21579,6 +21599,7 @@
           "USA",
           "United States",
           "United States of America",
+          "bar",
           "bleu",
           "blue",
           "building",
@@ -21589,6 +21610,7 @@
           "night",
           "nuit",
           "red",
+          "rooftop",
           "rouge",
           "skyline",
           "skyscrapers",
@@ -21607,10 +21629,11 @@
         "DigitalCreationDate": "20150523",
         "DigitalCreationTime": "003041",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
-        "Country": "United States of America",
+        "City": "New York",
+        "State": "New York",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
-        "Caption": "The City That Never Sleeps is a well-known nickname for New York City, famously employed in the \"Theme from New York, New York\", covered by Frank Sinatra."
+        "Caption": "The City That Never Sleeps is a well-known nickname for New York City, famously employed in the \"Theme from New York, New York\", covered by Frank Sinatra.\r\rThis photo was taken from the terrasse of the 230 Fifth rooftop bar."
       },
       "aux": {
         "SerialNumber": 330100033,
@@ -21623,11 +21646,11 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:08+01:00",
+        "ModifyDate": "2025-06-13T11:28:43+02:00",
         "CreateDate": "2015-05-23T00:30:41.89",
-        "MetadataDate": "2024-03-22T17:36:08+01:00",
+        "MetadataDate": "2025-06-13T11:28:43+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -21642,9 +21665,11 @@
         },
         "description": {
           "lang": "x-default",
-          "value": "The City That Never Sleeps is a well-known nickname for New York City, famously employed in the \"Theme from New York, New York\", covered by Frank Sinatra."
+          "value": "The City That Never Sleeps is a well-known nickname for New York City, famously employed in the \"Theme from New York, New York\", covered by Frank Sinatra.&#xA;&#xA;This photo was taken from the terrasse of the 230 Fifth rooftop bar."
         },
         "subject": [
+          "230 Fifth",
+          "5th Avenue",
           "America",
           "Amérique du Nord",
           "Empire State Building",
@@ -21656,6 +21681,7 @@
           "USA",
           "United States",
           "United States of America",
+          "bar",
           "bleu",
           "blue",
           "building",
@@ -21666,6 +21692,7 @@
           "night",
           "nuit",
           "red",
+          "rooftop",
           "rouge",
           "skyline",
           "skyscrapers",
@@ -21704,7 +21731,7 @@
         }
       },
       "ifd0": {
-        "ImageDescription": "The City That Never Sleeps is a well-known nickname for New York City, famously employed in the \"Theme from New York, New York\", covered by Frank Sinatra.",
+        "ImageDescription": "The City That Never Sleeps is a well-known nickname for New York City, famously employed in the \"Theme from New York, New York\", covered by Frank Sinatra.\n\nThis photo was taken from the terrasse of the 230 Fifth rooftop bar.",
         "Make": "Canon",
         "Model": "Canon EOS 5D Mark II"
       },
@@ -21713,7 +21740,7 @@
         "FNumber": 2.8,
         "ISO": 3200,
         "DateTimeOriginal": "2015-05-22T22:30:41.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -21722,20 +21749,21 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           40,
-          44.6797,
+          44.67972,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           73,
-          59.4415,
+          59.44152,
           0
         ],
         "GPSTimeStamp": "4:30:41",
+        "GPSImgDirection": 21,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:05:23",
-        "latitude": 40.744661666666666,
-        "longitude": -73.99069166666666
+        "latitude": 40.744662,
+        "longitude": -73.990692
       }
     },
     "dimensions": {
@@ -22370,9 +22398,9 @@
       },
       "xmp": {
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-06-06T18:06:39+02:00",
+        "ModifyDate": "2025-06-13T11:39:06+02:00",
         "CreateDate": "2015-05-23T20:21:31",
-        "MetadataDate": "2025-06-06T18:06:39+02:00",
+        "MetadataDate": "2025-06-13T11:39:06+02:00",
         "Rating": 5
       },
       "aux": {
@@ -22481,7 +22509,7 @@
         ],
         "GPSAltitude": 4.6,
         "GPSTimeStamp": "0:21:31",
-        "GPSImgDirection": 7,
+        "GPSImgDirection": 3,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:05:24",
         "latitude": 40.703061,
@@ -22569,20 +22597,21 @@
           "Ãtats-Unis d'AmÃ©rique"
         ],
         "DateCreated": "20150523",
-        "TimeCreated": "223612",
+        "TimeCreated": "224340",
         "DigitalCreationDate": "20150523",
         "DigitalCreationTime": "224340",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
-        "Country": "United States of America",
+        "City": "New York",
+        "State": "Ãtat de New York",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The view from the Brooklyn Heights Promenade after sunset is amazing, I couldn't resist making a long exposure panorama of Lower Manhattan, the Brooklyn Bridge and the Manhattan Bridge. You can also see the Statue of Liberty in the left side, and the colorful top of the Empire State Building."
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:05+01:00",
+        "ModifyDate": "2025-06-13T11:45:39+02:00",
         "CreateDate": "2015-05-23T22:43:40",
-        "MetadataDate": "2024-03-22T17:36:05+01:00",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
+        "MetadataDate": "2025-06-13T11:45:39+02:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
         "Rating": 5
       },
       "aux": {
@@ -22709,7 +22738,7 @@
         "FNumber": 9,
         "ISO": 200,
         "DateTimeOriginal": "2015-05-23T20:43:40.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -22718,20 +22747,22 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           40,
-          42.2,
+          42.19998,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           73,
-          59.7833,
+          59.78328,
           0
         ],
+        "GPSAltitude": 2,
         "GPSTimeStamp": "2:43:40",
+        "GPSImgDirection": 335,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:05:24",
-        "latitude": 40.70333333333333,
-        "longitude": -73.99638833333333
+        "latitude": 40.703333,
+        "longitude": -73.996388
       }
     },
     "dimensions": {
@@ -22807,11 +22838,9 @@
         "DigitalCreationDate": "20150523",
         "DigitalCreationTime": "231442",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
-        "Sublocation": "Brooklyn",
-        "State": "New York",
-        "CountryCode": "US",
-        "Country": "United States of America",
+        "City": "New York",
+        "State": "Ãtat de New York",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Yet another classic view of Lower Manhattan at night from the Hudson bank in Brooklyn, now in black and white."
       },
@@ -22826,12 +22855,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:04+01:00",
+        "ModifyDate": "2025-06-13T11:44:27+02:00",
         "CreateDate": "2015-05-23T23:14:42.66",
-        "MetadataDate": "2024-03-22T17:36:04+01:00",
+        "MetadataDate": "2025-06-13T11:44:27+02:00",
         "Rating": 5,
         "Label": "Pourpre",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -22905,9 +22934,10 @@
           "value": "Creative Commons CC-BY-SA"
         }
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "Location": "Brooklyn",
-        "CountryCode": "US",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiAdrCtry": "France",
@@ -22915,9 +22945,6 @@
           "CiAdrCity": "Montgeron",
           "CiUrlWork": "https://nicolas-hoizey.photo"
         }
-      },
-      "xmpDM": {
-        "pick": 0
       },
       "ifd0": {
         "ImageDescription": "Yet another classic view of Lower Manhattan at night from the Hudson bank in Brooklyn, now in black and white.",
@@ -22929,7 +22956,7 @@
         "FNumber": 11,
         "ISO": 200,
         "DateTimeOriginal": "2015-05-23T21:14:42.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -22938,20 +22965,22 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           40,
-          42.0427,
+          42.04272,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           73,
-          59.8175,
+          59.81748,
           0
         ],
+        "GPSAltitude": 2,
         "GPSTimeStamp": "3:14:42",
+        "GPSImgDirection": 280,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:05:24",
-        "latitude": 40.70071166666666,
-        "longitude": -73.99695833333334
+        "latitude": 40.700712,
+        "longitude": -73.996958
       }
     },
     "dimensions": {
@@ -23024,11 +23053,9 @@
         "DigitalCreationDate": "20150523",
         "DigitalCreationTime": "231442",
         "Byline": "Nicolas Hoizey",
-        "City": "New York City",
-        "Sublocation": "Brooklyn",
-        "State": "New York",
-        "CountryCode": "US",
-        "Country": "United States of America",
+        "City": "New York",
+        "State": "Ãtat de New York",
+        "Country": "Ãtats-Unis",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Yet another classic view of Lower Manhattan at night from the Hudson bank in Brooklyn."
       },
@@ -23043,12 +23070,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:04+01:00",
+        "ModifyDate": "2025-06-13T11:44:27+02:00",
         "CreateDate": "2015-05-23T23:14:42.66",
-        "MetadataDate": "2024-03-22T17:36:04+01:00",
+        "MetadataDate": "2025-06-13T11:44:27+02:00",
         "Rating": 5,
         "Label": "Pourpre",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -23123,8 +23150,6 @@
         "pick": 0
       },
       "Iptc4xmpCore": {
-        "Location": "Brooklyn",
-        "CountryCode": "US",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiAdrCtry": "France",
@@ -23147,7 +23172,7 @@
         "FNumber": 11,
         "ISO": 200,
         "DateTimeOriginal": "2015-05-23T21:14:42.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -23156,20 +23181,22 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           40,
-          42.0427,
+          42.04272,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           73,
-          59.8175,
+          59.81748,
           0
         ],
+        "GPSAltitude": 2,
         "GPSTimeStamp": "3:14:42",
+        "GPSImgDirection": 280,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:05:24",
-        "latitude": 40.70071166666666,
-        "longitude": -73.99695833333334
+        "latitude": 40.700712,
+        "longitude": -73.996958
       }
     },
     "dimensions": {

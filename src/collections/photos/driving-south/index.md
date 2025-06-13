@@ -3,7 +3,7 @@ title: Driving south
 file: driving-south.jpg
 alt_text: Black and white photo of a busy city street with cars and pedestrians,
   old buildings lining the sides, and a hazy skyline in the background.
-date: 2015-05-19 12:29:30 +01:00
+date: 2015-05-19 13:29:30 +02:00
 dates:
   iso: "'2015-05-19'"
   human: "'19 May 2015'"
@@ -14,7 +14,7 @@ gear:
     brand: Canon
     model: EOS 5D Mark II
     short: 5D II
-    hashtags: "#Canon #5DMarkII"
+    hashtags: "#Canon #5DMark2"
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
@@ -26,6 +26,7 @@ tags:
   - B&W
   - black and white
   - Broadway
+  - city
   - États-Unis
   - États-Unis d'Amérique
   - Flatiron Building
@@ -42,7 +43,10 @@ tags:
   - street
   - United States
   - United States of America
+  - urbain
+  - urban
   - USA
+  - ville
 settings:
   focal_length:
     raw: 189
@@ -68,10 +72,11 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 40.741483333333335
-  longitude: -73.989619445
-  country: United States of America
-  city: New York City
+  latitude: 40.741483
+  longitude: -73.989619
+  direction: 208
+  country: États-Unis
+  city: New York
   map: true
 colors:
   vibrant: 128 128 128

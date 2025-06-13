@@ -3,7 +3,7 @@ title: Liberty
 file: liberty.jpg
 alt_text: Statue of Liberty against a cloudy sky with waterfront and city
   skyline in the background.
-date: 2015-05-21 16:42:06 +01:00
+date: 2015-05-21 17:42:06 +02:00
 dates:
   iso: "'2015-05-21'"
   human: "'21 May 2015'"
@@ -14,7 +14,7 @@ gear:
     brand: Canon
     model: EOS 5D Mark II
     short: 5D II
-    hashtags: "#Canon #5DMarkII"
+    hashtags: "#Canon #5DMark2"
   lenses:
     - brand: Canon
       model: EF 135mm f/2L USM
@@ -27,6 +27,7 @@ tags:
   - États-Unis
   - États-Unis d'Amérique
   - Liberty Island
+  - monument
   - New-York
   - New-York City
   - North America
@@ -64,9 +65,10 @@ dimensions:
   height: 2333
 geo:
   latitude: 40.681175
-  longitude: -74.04035166666667
-  country: United States of America
-  city: New York City
+  longitude: -74.040352
+  direction: 338
+  country: États-Unis
+  city: New York
   map: true
 colors:
   vibrant: 238 196 84

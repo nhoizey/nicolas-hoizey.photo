@@ -3,7 +3,7 @@ title: Liberty has been framed
 file: liberty-has-been-framed.jpg
 alt_text: A framed view from a dark interior space looking out to the Statue of
   Liberty, with people sitting and walking in the foreground.
-date: 2015-05-19 13:26:50 +01:00
+date: 2015-05-19 14:26:50 +02:00
 dates:
   iso: "'2015-05-19'"
   human: "'19 May 2015'"
@@ -14,11 +14,12 @@ gear:
     brand: Sony
     model: RX100 Mark III
     short: RX100 III
-    hashtags: "#Sony #RX100MarkIII #RX100M3"
+    hashtags: "#Sony #RX100Mark3"
 tags:
   - America
   - Amérique du Nord
   - cadre
+  - city
   - encadré
   - États-Unis
   - États-Unis d'Amérique
@@ -40,7 +41,10 @@ tags:
   - Statue of Liberty
   - United States
   - United States of America
+  - urbain
+  - urban
   - USA
+  - ville
   - xenophobia
   - xénophobie
 settings:
@@ -69,10 +73,11 @@ dimensions:
   width: 3236
   height: 2157
 geo:
-  latitude: 40.70513611166667
-  longitude: -74.018244445
-  country: United States of America
-  city: New York City
+  latitude: 40.705136
+  longitude: -74.018244
+  direction: 231
+  country: États-Unis
+  city: New York
   map: true
 colors:
   vibrant: 150 210 45
