@@ -412,7 +412,9 @@ const decodeHTML = (html) => {
 			map.addControl(new mapboxgl.ScaleControl());
 
 			map.addControl(
-				new GlobeMinimap(),
+				new GlobeMinimap({
+					globeSize: Math.min(100, window.innerWidth / 10)
+				}),
 				"bottom-right"
 			);
 		}
