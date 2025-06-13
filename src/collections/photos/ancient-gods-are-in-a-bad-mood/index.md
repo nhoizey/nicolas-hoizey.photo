@@ -2,7 +2,7 @@
 title: Ancient Gods are in a bad mood
 file: ancient-gods-are-in-a-bad-mood.jpg
 alt_text: A photo of the Colosseum of Rome with very threatening clouds
-date: 2017-05-11 16:05:45 +01:00
+date: 2017-05-11 17:05:45 +02:00
 dates:
   iso: "'2017-05-11'"
   human: "'11 May 2017'"
@@ -18,6 +18,7 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
       short: 10-24mm
 tags:
+  - city
   - Colisée
   - Colosseo
   - Colosseum
@@ -28,6 +29,9 @@ tags:
   - Italy
   - Roma
   - Rome
+  - urbain
+  - urban
+  - ville
 settings:
   focal_length:
     raw: 10
@@ -54,9 +58,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 41.890409158333334
-  longitude: 12.490244698333333
-  country: Italy
+  latitude: 41.890409
+  longitude: 12.490245
+  direction: 95
+  country: Italie
   city: Rome
   map: true
 colors:

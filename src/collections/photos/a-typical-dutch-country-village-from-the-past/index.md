@@ -60,6 +60,7 @@ dimensions:
 geo:
   latitude: 52.00951256
   longitude: 5.911502513333334
+  direction: 327
   country: Pays-Bas
   city: Arnhem
   map: true

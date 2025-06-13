@@ -75,6 +75,7 @@ dimensions:
 geo:
   latitude: -22.297130361666667
   longitude: 166.662558405
+  direction: 135
   country: Nouvelle-Calédonie
   map: true
 colors:

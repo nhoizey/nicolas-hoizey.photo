@@ -3,7 +3,7 @@ title: Cité de Carcassonne
 file: cite-de-carcassonne.jpg
 alt_text: Photo taken from the banks of the river Aude, with a distant view of
   the silhouette of the citadel of Carcassonne.
-date: 2022-08-16 13:28:45 +01:00
+date: 2022-08-16 14:28:45 +02:00
 dates:
   iso: "'2022-08-16'"
   human: "'16 August 2022'"
@@ -27,6 +27,7 @@ tags:
   - Carcassonne
   - castle
   - château
+  - city
   - Europa
   - Europe
   - forteresse
@@ -37,7 +38,10 @@ tags:
   - Occitània
   - Occitanie
   - pont
+  - urbain
+  - urban
   - vert
+  - ville
 settings:
   focal_length:
     raw: 26
@@ -64,8 +68,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 43.21165222166667
-  longitude: 2.358885278333333
+  latitude: 43.211652
+  longitude: 2.358885
+  direction: 157
   country: France
   city: Carcassonne
   map: true

@@ -93,6 +93,7 @@ dimensions:
 geo:
   latitude: -2.693093
   longitude: 37.29114
+  direction: 171
   country: Kenya
   city: Entonet
   map: true

@@ -3,7 +3,7 @@ title: Wood pier in sunset
 file: wood-pier-in-sunset.jpg
 alt_text: Wooden pier leading to a lighthouse with a lit green beacon during
   sunset, under a clouded sky.
-date: 2004-06-12 21:29:56 +01:00
+date: 2004-06-12 22:29:56 +02:00
 dates:
   iso: "'2004-06-12'"
   human: "'12 June 2004'"
@@ -24,14 +24,12 @@ tags:
   - Europe
   - evening
   - France
-  - landscape
   - Le Tréport
   - lighthouse
   - mer
   - Normandie
   - Normandy
   - nuage
-  - paysage
   - phare
   - pier
   - pink
@@ -71,8 +69,9 @@ dimensions:
   width: 2304
   height: 1704
 geo:
-  latitude: 50.06413888833333
-  longitude: 1.3695666666666666
+  latitude: 50.064139
+  longitude: 1.369567
+  direction: 328
   country: France
   city: Le Tréport
   map: true

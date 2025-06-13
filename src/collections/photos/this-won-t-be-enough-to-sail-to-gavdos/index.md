@@ -34,7 +34,13 @@ tags:
   - Europe
   - Grèce
   - Greece
+  - landscape
+  - landscape photography
+  - landscape with people
   - mer
+  - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - pier
   - ponton
   - quai
@@ -71,6 +77,7 @@ dimensions:
 geo:
   latitude: 35.22906623
   longitude: 23.960276068333332
+  direction: 175
   country: Grèce
   city: Agía Rouméli
   map: true

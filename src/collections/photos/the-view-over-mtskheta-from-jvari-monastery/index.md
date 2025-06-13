@@ -3,7 +3,7 @@ title: The view over Mtskheta from Jvari Monastery
 file: the-view-over-mtskheta-from-jvari-monastery.jpg
 alt_text: Aerial view of a serpentine river flowing through a valley with a
   small town, surrounded by green mountains and a highway in the foreground.
-date: 2018-08-12 13:35:14 +01:00
+date: 2018-08-12 14:35:14 +02:00
 dates:
   iso: "'2018-08-12'"
   human: "'12 August 2018'"
@@ -28,11 +28,17 @@ tags:
   - Georgia
   - Géorgie
   - Jvari Monastery
+  - landscape
+  - landscape photography
+  - landscape with people
   - monastère de Djvari
   - Mtskheta
   - Mtskhéta
   - Mtskheta-Mtianeti
   - mtskhéta-mtianéti
+  - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - კავკასია
   - მცხეთა
   - მცხეთა-მთიანეთი
@@ -66,8 +72,9 @@ dimensions:
   height: 2333
 geo:
   latitude: 41.838025
-  longitude: 44.73332333333333
-  country: Georgia
+  longitude: 44.733323
+  direction: 296
+  country: Géorgie
   city: Mtskheta
   map: true
 colors:

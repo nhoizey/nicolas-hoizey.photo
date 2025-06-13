@@ -3,7 +3,7 @@ title: The Hong Kong Symphony of Lights from The Peak
 file: the-hong-kong-symphony-of-lights-from-the-peak.jpg
 alt_text: Night view on the many buildings of Hong Kong, and light animations
   (colors, beams)
-date: 2015-08-08 19:11:32 +01:00
+date: 2015-08-08 20:11:32 +02:00
 dates:
   iso: "'2015-08-08'"
   human: "'8 August 2015'"
@@ -79,10 +79,11 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 22.271296666666668
+  latitude: 22.271297
   longitude: 114.15049
+  direction: 40
   country: Hong Kong
-  city: Central and Western District
+  city: Hong-Kong
   map: true
 colors:
   vibrant: 188 120 20

@@ -26,7 +26,6 @@ tags:
   - cliff
   - cloud
   - Côte d'Albâtre
-  - Côte d’Albâtre
   - eau
   - Étretat
   - Europa
@@ -84,6 +83,7 @@ dimensions:
 geo:
   latitude: 49.699641
   longitude: 0.182582
+  direction: 53
   country: France
   city: Étretat
   map: true

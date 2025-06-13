@@ -3,7 +3,7 @@ title: Ploumanac'h (B&W)
 file: ploumanac-h-b-and-w.jpg
 alt_text: A black and white photo of a rocky coastline with a lighthouse, the
   ocean, and a sky with scattered clouds.
-date: 2013-08-23 08:10:18 +01:00
+date: 2013-08-23 09:10:18 +02:00
 dates:
   iso: "'2013-08-23'"
   human: "'23 August 2013'"
@@ -29,10 +29,16 @@ tags:
   - Europa
   - Europe
   - France
+  - landscape
+  - landscape photography
+  - landscape with people
   - lighthouse
   - mer
   - nuage
+  - paysage
+  - paysage avec des humains
   - phare
+  - photographie de paysage
   - Ploumanac'h
   - rive
   - rocher
@@ -67,8 +73,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.836349778333336
-  longitude: -3.4839227283333334
+  latitude: 48.83635
+  longitude: -3.483923
+  direction: 20
   country: France
   city: Perros-Guirec
   map: true

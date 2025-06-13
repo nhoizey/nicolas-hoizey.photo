@@ -68,6 +68,7 @@ dimensions:
 geo:
   latitude: 35.198594701666664
   longitude: 24.080621865
+  direction: 305
   country: Grèce
   city: Anópoli
   map: true

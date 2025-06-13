@@ -35,12 +35,16 @@ tags:
   - home
   - house
   - landscape
+  - landscape photography
+  - landscape with people
   - Loutro
   - maison
   - mer
   - montagne
   - mountain
   - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - sea
   - village
   - white
@@ -75,6 +79,7 @@ dimensions:
 geo:
   latitude: 35.196597133333334
   longitude: 24.089367835
+  direction: 285
   country: Grèce
   city: Anópoli
   map: true

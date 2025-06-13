@@ -4,7 +4,7 @@ file: le-roof.jpg
 alt_text: A tropical beach with a palm tree, sandy shore, calm blue sea, and a
   pier with a thatched-roof structure extending into the water. There are a few
   people enjoying the beach. The sky is clear with some clouds.
-date: 2013-04-03 12:09:55 +01:00
+date: 2013-04-03 13:09:55 +02:00
 dates:
   iso: "'2013-04-03'"
   human: "'3 April 2013'"
@@ -24,6 +24,9 @@ tags:
   - bleu
   - blue
   - eau
+  - landscape
+  - landscape photography
+  - landscape with people
   - mer
   - New Caledonia
   - Noumea
@@ -31,6 +34,9 @@ tags:
   - Nouvelle Calédonie
   - Oceania
   - Océanie
+  - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - pilotis
   - restaurant
   - sea
@@ -61,9 +67,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: -22.304684938333335
-  longitude: 166.44731622333333
-  country: New Caledonia
+  latitude: -22.304685
+  longitude: 166.447316
+  direction: 182
+  country: Nouvelle-Calédonie
   city: Nouméa
   map: true
 colors:

@@ -66,6 +66,7 @@ dimensions:
 geo:
   latitude: 45.319404946666666
   longitude: 6.58014837
+  direction: 20
   country: France
   city: Les Allues
   map: true

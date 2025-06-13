@@ -3,7 +3,7 @@ title: Ploumanac'h lighthouse
 file: ploumanac-h-lighthouse.jpg
 alt_text: A lighthouse with a shining beacon on a rocky coastline at dusk, with
   a house nearby and calm ocean waters in the foreground.
-date: 2013-08-22 20:52:32 +01:00
+date: 2013-08-22 21:52:32 +02:00
 dates:
   iso: "'2013-08-22'"
   human: "'22 August 2013'"
@@ -33,10 +33,16 @@ tags:
   - evening
   - France
   - granite
+  - landscape
+  - landscape photography
+  - landscape with people
   - lighthouse
   - long exposure
   - nightscape
+  - paysage
+  - paysage avec des humains
   - Perros-Guirec
+  - photographie de paysage
   - Ploumanac'h
   - rocher
   - rock
@@ -72,7 +78,8 @@ dimensions:
   height: 2334
 geo:
   latitude: 48.8363
-  longitude: -3.4854666666666665
+  longitude: -3.485467
+  direction: 50
   country: France
   city: Perros-Guirec
   map: true

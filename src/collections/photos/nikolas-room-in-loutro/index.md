@@ -34,8 +34,14 @@ tags:
   - Greece
   - hotel
   - hôtel
+  - landscape
+  - landscape photography
+  - landscape with people
   - Loutro
   - mer
+  - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - sea
   - white
   - Ελλάδα
@@ -69,6 +75,7 @@ dimensions:
 geo:
   latitude: 35.19869086666667
   longitude: 24.081321753333334
+  direction: 335
   country: Grèce
   city: Anópoli
   map: true

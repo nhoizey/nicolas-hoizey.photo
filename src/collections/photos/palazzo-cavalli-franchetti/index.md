@@ -3,7 +3,7 @@ title: Palazzo Cavalli-Franchetti
 file: palazzo-cavalli-franchetti.jpg
 alt_text: A view of the Grand Canal in Venice with historic buildings lining the
   sides, boats on the water, and a distant dome under restoration scaffolding.
-date: 2008-04-24 16:29:13 +01:00
+date: 2008-04-24 17:29:13 +02:00
 dates:
   iso: "'2008-04-24'"
   human: "'24 April 2008'"
@@ -61,10 +61,11 @@ dimensions:
   width: 3393
   height: 2262
 geo:
-  latitude: 45.43178611166667
-  longitude: 12.329047221666666
-  country: Italy
-  city: Venice
+  latitude: 45.431786
+  longitude: 12.329047
+  direction: 106
+  country: Italie
+  city: Venezia
   map: true
 colors:
   vibrant: 194 123 30

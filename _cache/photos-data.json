@@ -1530,11 +1530,9 @@
           "cloud",
           "coucher de soleil",
           "evening",
-          "landscape",
           "lighthouse",
           "mer",
           "nuage",
-          "paysage",
           "phare",
           "pier",
           "pink",
@@ -1554,17 +1552,18 @@
         "DigitalCreationTime": "222956+0200",
         "Byline": "Nicolas Hoizey",
         "City": "Le TrÃ©port",
+        "State": "Normandie",
         "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Le TrÃ©port lighthouse is located on the Normandy coast, at the end of the jetty of the town's port.\r\rThe edifice was built in 1844 to mark the access to the port and the outlet of the Eu canal to the sea.\r\rAt 14 m high, the lighthouse is a cylindrical tower covered in white and green paint, with a halogen lamp and a range of 20 nautical miles (37 km)."
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:31:45+01:00",
+        "ModifyDate": "2025-06-13T16:02:14+02:00",
         "CreateDate": "2004-06-12T22:29:56+02:00",
         "Rating": 5,
-        "MetadataDate": "2024-03-22T17:31:45+01:00",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "MetadataDate": "2025-06-13T16:02:14+02:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "xmpRights": {
         "Marked": true,
@@ -1587,6 +1586,9 @@
           "lang": "x-default",
           "value": "Wooden pier leading to a lighthouse with a lit green beacon during sunset, under a clouded sky."
         }
+      },
+      "xmpDM": {
+        "pick": 0
       },
       "dc": {
         "format": "image/jpeg",
@@ -1617,11 +1619,9 @@
           "cloud",
           "coucher de soleil",
           "evening",
-          "landscape",
           "lighthouse",
           "mer",
           "nuage",
-          "paysage",
           "phare",
           "pier",
           "pink",
@@ -1636,9 +1636,6 @@
           "violet"
         ]
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "Le Tréport lighthouse is located on the Normandy coast, at the end of the jetty of the town's port.\n\nThe edifice was built in 1844 to mark the access to the port and the outlet of the Eu canal to the sea.\n\nAt 14 m high, the lighthouse is a cylindrical tower covered in white and green paint, with a halogen lamp and a range of 20 nautical miles (37 km).",
         "Make": "Konica Corporation",
@@ -1649,7 +1646,7 @@
         "FNumber": 2.8,
         "ISO": 100,
         "DateTimeOriginal": "2004-06-12T20:29:56.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 8,
         "FocalLengthIn35mmFormat": 39
       },
@@ -1658,18 +1655,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           50,
-          3.8483333,
+          3.84834,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           1,
-          22.174,
+          22.17402,
           0
         ],
-        "GPSAltitude": 0.8115,
-        "latitude": 50.06413888833333,
-        "longitude": 1.3695666666666666
+        "GPSAltitude": 0.8,
+        "GPSImgDirection": 328,
+        "latitude": 50.064139,
+        "longitude": 1.369567
       }
     },
     "dimensions": {
@@ -4185,18 +4183,19 @@
         "DigitalCreationDate": "20080424",
         "DigitalCreationTime": "172913+0200",
         "Byline": "Nicolas Hoizey",
-        "City": "Venice",
+        "City": "Venezia",
         "Sublocation": "Palazzo Cavalli-Franchetti",
-        "Country": "Italy",
+        "State": "Veneto",
+        "Country": "Italie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Palazzo Cavalli-Franchetti is a palace in Venice, Italy, not far from the Ponte dell'Accademia and next to the Palazzo Barbaro on the Grand Canal of Venice. The palace was erected in 1565. In the 19th century it was internally modernised and externally enriched in Venetian Gothic style, with rich window framing, by a series of grand owners."
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:41+01:00",
+        "ModifyDate": "2025-06-13T15:31:02+02:00",
         "CreateDate": "2008-04-24T17:29:13+02:00",
-        "MetadataDate": "2024-03-22T17:36:41+01:00",
+        "MetadataDate": "2025-06-13T15:31:02+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "aux": {
         "SerialNumber": 330152885,
@@ -4229,6 +4228,9 @@
           "lang": "x-default",
           "value": "A view of the Grand Canal in Venice with historic buildings lining the sides, boats on the water, and a distant dome under restoration scaffolding."
         }
+      },
+      "xmpDM": {
+        "pick": 0
       },
       "dc": {
         "format": "image/jpeg",
@@ -4264,9 +4266,6 @@
           "water"
         ]
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "Palazzo Cavalli-Franchetti is a palace in Venice, Italy, not far from the Ponte dell'Accademia and next to the Palazzo Barbaro on the Grand Canal of Venice. The palace was erected in 1565. In the 19th century it was internally modernised and externally enriched in Venetian Gothic style, with rich window framing, by a series of grand owners.",
         "Make": "Canon",
@@ -4277,7 +4276,7 @@
         "FNumber": 18,
         "ISO": 800,
         "DateTimeOriginal": "2008-04-24T15:29:13.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 17,
         "LensModel": "17.0-85.0 mm"
       },
@@ -4286,18 +4285,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           45,
-          25.9071667,
+          25.90716,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           12,
-          19.7428333,
+          19.74282,
           0
         ],
         "GPSAltitude": 0,
-        "latitude": 45.43178611166667,
-        "longitude": 12.329047221666666
+        "GPSImgDirection": 106,
+        "latitude": 45.431786,
+        "longitude": 12.329047
       }
     },
     "dimensions": {
@@ -7024,20 +7024,19 @@
         "DigitalCreationDate": "20090130",
         "DigitalCreationTime": "223521+0100",
         "Byline": "Nicolas Hoizey",
-        "City": "Paris",
         "Sublocation": "Centre Georges Pompidou",
-        "State": "Ile-de-France",
+        "State": "Paris",
         "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "I tried several shots of the Center, with various angles and longer or shorter exposures, and all of a sudden I saw these areas of color that stood out well from where I was (blue in the upper left, yellow in the lower left, red in the lower right), and I gave it a shot. I then enhanced the effect a bit in Lightroom, but the main thing came from the shot.\r\rMy main regret is that the staircase should be more centered, but there was if I remember correctly no color reminder further to the right, and cropping to center would reduce the colored areas on the left."
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:38+01:00",
+        "ModifyDate": "2025-06-13T15:29:20+02:00",
         "CreateDate": "2009-01-30T22:35:21.99+01:00",
-        "MetadataDate": "2024-03-22T17:36:38+01:00",
+        "MetadataDate": "2025-06-13T15:29:20+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "aux": {
         "SerialNumber": 330100033,
@@ -7071,6 +7070,9 @@
           "lang": "x-default",
           "value": "Photo of the exterior escalator of the Pompidou Center, at night, with lights of different colors in the building"
         }
+      },
+      "xmpDM": {
+        "pick": 0
       },
       "dc": {
         "format": "image/jpeg",
@@ -7116,9 +7118,6 @@
           "ville"
         ]
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "I tried several shots of the Center, with various angles and longer or shorter exposures, and all of a sudden I saw these areas of color that stood out well from where I was (blue in the upper left, yellow in the lower left, red in the lower right), and I gave it a shot. I then enhanced the effect a bit in Lightroom, but the main thing came from the shot.\n\nMy main regret is that the staircase should be more centered, but there was if I remember correctly no color reminder further to the right, and cropping to center would reduce the colored areas on the left.",
         "Make": "Canon",
@@ -7129,7 +7128,7 @@
         "FNumber": 22,
         "ISO": 100,
         "DateTimeOriginal": "2009-01-30T21:35:21.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 58,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -7138,17 +7137,18 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           48,
-          51.6539511,
+          51.65394,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           2,
-          21.1054295,
+          21.10542,
           0
         ],
-        "latitude": 48.860899185,
-        "longitude": 2.351757158333333
+        "GPSImgDirection": 105,
+        "latitude": 48.860899,
+        "longitude": 2.351757
       }
     },
     "dimensions": {
@@ -7194,19 +7194,18 @@
         "DigitalCreationDate": "20090130",
         "DigitalCreationTime": "224602+0100",
         "Byline": "Nicolas Hoizey",
-        "City": "Paris",
         "Sublocation": "Centre Georges Pompidou",
-        "State": "Ile-de-France",
+        "State": "Paris",
         "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:39+01:00",
+        "ModifyDate": "2025-06-13T15:29:57+02:00",
         "CreateDate": "2009-01-30T22:46:02.02+01:00",
-        "MetadataDate": "2024-03-22T17:36:39+01:00",
+        "MetadataDate": "2025-06-13T15:29:57+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "aux": {
         "SerialNumber": 330100033,
@@ -7241,6 +7240,9 @@
           "value": "Blurred photo of luminous points, of which a set represents the shape of a staircase"
         }
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "dc": {
         "format": "image/jpeg",
         "title": {
@@ -7272,9 +7274,6 @@
           "stairway"
         ]
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "Make": "Canon",
         "Model": "Canon EOS 5D Mark II"
@@ -7284,7 +7283,7 @@
         "FNumber": 4,
         "ISO": 3200,
         "DateTimeOriginal": "2009-01-30T21:46:02.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 70,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -7293,17 +7292,18 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           48,
-          51.643092,
+          51.64308,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           2,
-          21.108684,
+          21.10866,
           0
         ],
-        "latitude": 48.8607182,
-        "longitude": 2.3518114
+        "GPSImgDirection": 72,
+        "latitude": 48.860718,
+        "longitude": 2.351811
       }
     },
     "dimensions": {
@@ -8936,10 +8936,10 @@
         "Caption": "Wadi, North African Arabic Oued, is the Arabic term traditionally referring to a valley. In some instances, it may refer to a dry (ephemeral) riverbed that contains water only when heavy rain occurs."
       },
       "xmp": {
-        "ModifyDate": "2025-05-30T01:54:44+02:00",
+        "ModifyDate": "2025-06-13T15:28:40+02:00",
         "CreateDate": "2011-05-06T13:30:20.24+02:00",
         "Rating": 5,
-        "MetadataDate": "2025-05-30T01:54:44+02:00",
+        "MetadataDate": "2025-06-13T15:28:40+02:00",
         "Label": "Vert",
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
@@ -9063,6 +9063,7 @@
           0
         ],
         "GPSAltitude": 473.4,
+        "GPSImgDirection": 250,
         "latitude": 30.162762999999998,
         "longitude": -9.109023
       }
@@ -10332,9 +10333,9 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2025-05-30T01:54:32+02:00",
+        "ModifyDate": "2025-06-13T15:27:05+02:00",
         "CreateDate": "2013-03-30T16:26:54.93",
-        "MetadataDate": "2025-05-30T01:54:32+02:00",
+        "MetadataDate": "2025-06-13T15:27:05+02:00",
         "Label": "Vert",
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
@@ -10427,6 +10428,7 @@
           39.6009,
           0
         ],
+        "GPSImgDirection": 140,
         "latitude": -22.296464,
         "longitude": 166.660015
       }
@@ -10460,7 +10462,13 @@
           "bleu",
           "blue",
           "eau",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "mer",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "pilotis",
           "restaurant",
           "sea",
@@ -10473,7 +10481,8 @@
         "DigitalCreationTime": "130955",
         "Byline": "Nicolas Hoizey",
         "City": "NoumÃ©a",
-        "Country": "New Caledonia",
+        "State": "Province Sud",
+        "Country": "Nouvelle-CalÃ©donie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Le Roof is a restaurant on stilts, with a room open to the lagoon. Above the water, at the end of the jetty, it welcomes people in a wooden decor with a contemporary style. At lunch or dinner, the spectacle of the sea, the fish and the reflection of the sun is splendid. Some evenings, dolphins come and party around the restaurant."
       },
@@ -10488,12 +10497,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-24T12:56:37+01:00",
+        "ModifyDate": "2025-06-13T15:25:51+02:00",
         "CreateDate": "2013-04-03T13:09:55.93",
-        "MetadataDate": "2024-03-24T12:56:37+01:00",
+        "MetadataDate": "2025-06-13T15:25:51+02:00",
         "Label": "Vert",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -10520,7 +10529,13 @@
           "bleu",
           "blue",
           "eau",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "mer",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "pilotis",
           "restaurant",
           "sea",
@@ -10554,7 +10569,7 @@
         "FNumber": 7.1,
         "ISO": 100,
         "DateTimeOriginal": "2013-04-03T11:09:55.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -10563,17 +10578,19 @@
         "GPSLatitudeRef": "S",
         "GPSLatitude": [
           22,
-          18.2810963,
+          18.2811,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           166,
-          26.8389734,
+          26.83896,
           0
         ],
-        "latitude": -22.304684938333335,
-        "longitude": 166.44731622333333
+        "GPSAltitude": 1,
+        "GPSImgDirection": 182,
+        "latitude": -22.304685,
+        "longitude": 166.447316
       }
     },
     "dimensions": {
@@ -10758,7 +10775,6 @@
         "ObjectName": "A nut shell in Ãtretat",
         "Keywords": [
           "CÃ´te d'AlbÃ¢tre",
-          "CÃ´te dâAlbÃ¢tre",
           "Europa",
           "Europe",
           "Falaise d'Aval",
@@ -10810,9 +10826,9 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2025-05-28T14:23:06+02:00",
+        "ModifyDate": "2025-06-13T16:05:41+02:00",
         "CreateDate": "2013-07-28T13:22:00.95",
-        "MetadataDate": "2025-05-28T14:23:06+02:00",
+        "MetadataDate": "2025-06-13T16:05:41+02:00",
         "Label": "Pourpre",
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
@@ -10830,7 +10846,6 @@
         },
         "subject": [
           "Côte d'Albâtre",
-          "Côte d’Albâtre",
           "Europa",
           "Europe",
           "Falaise d'Aval",
@@ -10913,6 +10928,7 @@
           10.98066,
           0
         ],
+        "GPSImgDirection": 40,
         "latitude": 49.699247,
         "longitude": 0.183011
       }
@@ -10938,7 +10954,6 @@
         "ObjectName": "La Manneporte from the Pointe de la Courtine, in Ãtretat",
         "Keywords": [
           "CÃ´te d'AlbÃ¢tre",
-          "CÃ´te dâAlbÃ¢tre",
           "Europa",
           "Europe",
           "Falaise d'Aval",
@@ -10998,9 +11013,9 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2025-05-30T01:54:44+02:00",
+        "ModifyDate": "2025-06-13T16:05:07+02:00",
         "CreateDate": "2013-07-28T13:23:08.06",
-        "MetadataDate": "2025-05-30T01:54:44+02:00",
+        "MetadataDate": "2025-06-13T16:05:07+02:00",
         "Rating": 5,
         "Label": "Vert",
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
@@ -11022,7 +11037,6 @@
         },
         "subject": [
           "Côte d'Albâtre",
-          "Côte d’Albâtre",
           "Europa",
           "Europe",
           "Falaise d'Aval",
@@ -11113,6 +11127,7 @@
           10.95492,
           0
         ],
+        "GPSImgDirection": 53,
         "latitude": 49.699641,
         "longitude": 0.182582
       }
@@ -11925,9 +11940,15 @@
           "eau",
           "evening",
           "granite",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "lighthouse",
           "long exposure",
           "nightscape",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "rocher",
           "rock",
           "sea",
@@ -11944,16 +11965,15 @@
         "Byline": "Nicolas Hoizey",
         "City": "Perros-Guirec",
         "State": "Bretagne",
-        "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Ploumanac'h lighthouse (officially the Mean Ruz lighthouse) is an active lighthouse in CÃ´tes-d'Armor, France, located in Perros-Guirec. The lighthouse is closed to the public."
       },
       "xmp": {
-        "ModifyDate": "2024-03-24T13:06:52+01:00",
+        "ModifyDate": "2025-06-13T16:04:17+02:00",
         "CreateDate": "2013-08-22T21:52:32",
-        "MetadataDate": "2024-03-24T13:06:52+01:00",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
+        "MetadataDate": "2025-06-13T16:04:17+02:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
         "Rating": 5
       },
       "aux": {
@@ -11997,9 +12017,15 @@
           "eau",
           "evening",
           "granite",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "lighthouse",
           "long exposure",
           "nightscape",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "rocher",
           "rock",
           "sea",
@@ -12022,7 +12048,6 @@
         "pick": 0
       },
       "Iptc4xmpCore": {
-        "CountryCode": "FR",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiEmailWork": "nicolas@hoizey.com",
@@ -12045,7 +12070,7 @@
         "FNumber": 10,
         "ISO": 200,
         "DateTimeOriginal": "2013-08-22T19:52:32.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 34,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -12060,12 +12085,13 @@
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           3,
-          29.128,
+          29.12802,
           0
         ],
-        "GPSAltitude": 2.7851,
+        "GPSAltitude": 2.8,
+        "GPSImgDirection": 50,
         "latitude": 48.8363,
-        "longitude": -3.4854666666666665
+        "longitude": -3.485467
       }
     },
     "dimensions": {
@@ -12098,10 +12124,16 @@
           "ciel",
           "cloud",
           "eau",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "lighthouse",
           "mer",
           "nuage",
+          "paysage",
+          "paysage avec des humains",
           "phare",
+          "photographie de paysage",
           "rive",
           "rocher",
           "rock",
@@ -12117,8 +12149,7 @@
         "DigitalCreationTime": "091018",
         "Byline": "Nicolas Hoizey",
         "City": "Perros-Guirec",
-        "State": "Bretagne",
-        "CountryCode": "FR",
+        "State": "CÃ´tes-d'Armor",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The lighthouse of Ploumanac'h is a still active lighthouse in CÃ´tes-d'Armor, near Perros-Guirec."
@@ -12134,12 +12165,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-24T13:09:08+01:00",
+        "ModifyDate": "2025-06-13T16:04:14+02:00",
         "CreateDate": "2013-08-23T09:10:18.03",
-        "MetadataDate": "2024-03-24T13:09:08+01:00",
+        "MetadataDate": "2025-06-13T16:04:14+02:00",
         "Label": "Pourpre",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -12167,10 +12198,16 @@
           "ciel",
           "cloud",
           "eau",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "lighthouse",
           "mer",
           "nuage",
+          "paysage",
+          "paysage avec des humains",
           "phare",
+          "photographie de paysage",
           "rive",
           "rocher",
           "rock",
@@ -12189,8 +12226,10 @@
           "value": "licence Creative Commons Paternité - Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique, version 2.0 adaptée à la France"
         }
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "CountryCode": "FR",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiEmailWork": "nicolas@hoizey.com",
@@ -12203,9 +12242,6 @@
           "value": "A black and white photo of a rocky coastline with a lighthouse, the ocean, and a sky with scattered clouds."
         }
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "The lighthouse of Ploumanac'h is a still active lighthouse in Côtes-d'Armor, near Perros-Guirec.",
         "Make": "Canon",
@@ -12216,7 +12252,7 @@
         "FNumber": 9,
         "ISO": 200,
         "DateTimeOriginal": "2013-08-23T07:10:18.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -12225,18 +12261,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           48,
-          50.1809867,
+          50.181,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           3,
-          29.0353637,
+          29.03538,
           0
         ],
         "GPSAltitude": 10,
-        "latitude": 48.836349778333336,
-        "longitude": -3.4839227283333334
+        "GPSImgDirection": 20,
+        "latitude": 48.83635,
+        "longitude": -3.483923
       }
     },
     "dimensions": {
@@ -12269,10 +12306,16 @@
           "ciel",
           "cloud",
           "eau",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "lighthouse",
           "mer",
           "nuage",
+          "paysage",
+          "paysage avec des humains",
           "phare",
+          "photographie de paysage",
           "rive",
           "rocher",
           "rock",
@@ -12304,12 +12347,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2025-05-05T22:31:32+02:00",
+        "ModifyDate": "2025-06-13T16:04:14+02:00",
         "CreateDate": "2013-08-23T09:10:18.03",
-        "MetadataDate": "2025-05-05T22:31:32+02:00",
+        "MetadataDate": "2025-06-13T16:04:14+02:00",
         "Label": "Pourpre",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -12337,10 +12380,16 @@
           "ciel",
           "cloud",
           "eau",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "lighthouse",
           "mer",
           "nuage",
+          "paysage",
+          "paysage avec des humains",
           "phare",
+          "photographie de paysage",
           "rive",
           "rocher",
           "rock",
@@ -12404,6 +12453,7 @@
           0
         ],
         "GPSAltitude": 22,
+        "GPSImgDirection": 20,
         "latitude": 48.83635,
         "longitude": -3.483923
       }
@@ -24535,10 +24585,9 @@
         "DigitalCreationDate": "20150808",
         "DigitalCreationTime": "201132",
         "Byline": "Nicolas Hoizey",
-        "City": "Central and Western District",
+        "City": "Hong-Kong",
         "Sublocation": "The Peak",
         "State": "Hong Kong Island",
-        "CountryCode": "HK",
         "Country": "Hong Kong",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "<a href=\"http://www.tourism.gov.hk/symphony/english/details/details.html\">A Symphony of Lights</a> is staged every night at 8:00 p.m. in Hong Kong.\r\rThe best place to enjoy the show is the <a href=\"http://www.avenueofstars.com.hk/eng/home.asp\">Avenue Of The Stars</a>, but the view from <a href=\"http://www.discoverhongkong.com/eng/see-do/highlight-attractions/top-10/the-peak.jsp\">The Peak</a> is really nice too, even if the music doesn't come so far."
@@ -24554,12 +24603,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:00+01:00",
+        "ModifyDate": "2025-06-13T16:06:49+02:00",
         "CreateDate": "2015-08-08T20:11:32.35",
-        "MetadataDate": "2024-03-22T17:36+01:00",
+        "MetadataDate": "2025-06-13T16:06:49+02:00",
         "Rating": 5,
         "Label": "Pourpre",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -24622,7 +24671,6 @@
       },
       "Iptc4xmpCore": {
         "Location": "The Peak",
-        "CountryCode": "HK",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiAdrCtry": "France",
@@ -24648,7 +24696,7 @@
         "FNumber": 2.8,
         "ISO": 800,
         "DateTimeOriginal": "2015-08-08T18:11:32.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -24657,7 +24705,7 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           22,
-          16.2778,
+          16.27782,
           0
         ],
         "GPSLongitudeRef": "E",
@@ -24666,14 +24714,12 @@
           9.0294,
           0
         ],
-        "GPSAltitudeRef": {
-          "0": 0
-        },
         "GPSAltitude": 412,
         "GPSTimeStamp": "12:11:32",
+        "GPSImgDirection": 40,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2015:08:08",
-        "latitude": 22.271296666666668,
+        "latitude": 22.271297,
         "longitude": 114.15049
       }
     },
@@ -27995,6 +28041,7 @@
           "Lisbon",
           "Lisbonne",
           "Portugal",
+          "city",
           "photo de rue",
           "rail",
           "road",
@@ -28004,6 +28051,7 @@
           "travel",
           "urbain",
           "urban",
+          "ville",
           "voyage"
         ],
         "DateCreated": "20161001",
@@ -28013,7 +28061,6 @@
         "Byline": "Nicolas Hoizey",
         "City": "Lisboa",
         "State": "Lisboa",
-        "CountryCode": "PT",
         "Country": "Portugal",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "This is one of the beautiful little streets in Lisbon, Portugal, where tramways rails meander between old buildings."
@@ -28029,12 +28076,12 @@
         "Firmware": "2.1.2"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:35:50+01:00",
+        "ModifyDate": "2025-06-13T16:07:51+02:00",
         "CreateDate": "2016-10-01T09:41:50.00",
-        "MetadataDate": "2024-03-22T17:35:50+01:00",
+        "MetadataDate": "2025-06-13T16:07:51+02:00",
         "Rating": 5,
         "Label": "Pourpre",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -28058,6 +28105,7 @@
           "Lisbon",
           "Lisbonne",
           "Portugal",
+          "city",
           "photo de rue",
           "rail",
           "road",
@@ -28067,14 +28115,17 @@
           "travel",
           "urbain",
           "urban",
+          "ville",
           "voyage"
         ]
       },
       "xmpRights": {
         "Marked": true
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "CountryCode": "PT",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiAdrCtry": "France",
@@ -28082,10 +28133,6 @@
           "CiEmailWork": "nicolas@hoizey.com",
           "CiUrlWork": "https://nicolas-hoizey.photo"
         }
-      },
-      "xmpDM": {
-        "good": true,
-        "pick": 1
       },
       "ifd0": {
         "ImageDescription": "This is one of the beautiful little streets in Lisbon, Portugal, where tramways rails meander between old buildings.",
@@ -28097,7 +28144,7 @@
         "FNumber": 2.8,
         "ISO": 100,
         "DateTimeOriginal": "2016-10-01T07:41:50.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 50,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -28112,15 +28159,16 @@
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           9,
-          8.5233333,
+          8.52336,
           0
         ],
-        "GPSAltitude": 26.4276,
+        "GPSAltitude": 26.4,
         "GPSTimeStamp": "8:41:50",
+        "GPSImgDirection": 86,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2016:10:01",
         "latitude": 38.707975,
-        "longitude": -9.142055555
+        "longitude": -9.142056
       }
     },
     "dimensions": {
@@ -28988,7 +29036,11 @@
           "Italie",
           "Italy",
           "Roma",
-          "Rome"
+          "Rome",
+          "city",
+          "urbain",
+          "urban",
+          "ville"
         ],
         "DateCreated": "20170511",
         "TimeCreated": "170545",
@@ -28997,7 +29049,8 @@
         "Byline": "Nicolas Hoizey",
         "City": "Rome",
         "Sublocation": "Colosseum",
-        "Country": "Italy",
+        "State": "Rome",
+        "Country": "Italie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.\r\rIt was used for gladiatorial contests and public spectacles including animal hunts, executions, re-enactments of famous battles, and dramas based on Roman mythology, and briefly mock sea battles."
       },
@@ -29026,14 +29079,18 @@
           "Italie",
           "Italy",
           "Roma",
-          "Rome"
+          "Rome",
+          "city",
+          "urbain",
+          "urban",
+          "ville"
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:35:47+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-13T16:08:35+02:00",
         "CreateDate": "2017-05-11T17:05:45",
-        "MetadataDate": "2024-03-22T17:35:47+01:00",
+        "MetadataDate": "2025-06-13T16:08:35+02:00",
         "Rating": 5,
         "Label": "Vert"
       },
@@ -29076,7 +29133,7 @@
         "FNumber": 9,
         "ISO": 200,
         "DateTimeOriginal": "2017-05-11T15:05:45.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 10,
         "FocalLengthIn35mmFormat": 15,
         "LensModel": "XF10-24mmF4 R OIS"
@@ -29086,17 +29143,18 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           41,
-          53.4245495,
+          53.42454,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           12,
-          29.4146819,
+          29.4147,
           0
         ],
-        "latitude": 41.890409158333334,
-        "longitude": 12.490244698333333
+        "GPSImgDirection": 95,
+        "latitude": 41.890409,
+        "longitude": 12.490245
       }
     },
     "dimensions": {
@@ -30218,10 +30276,14 @@
           "bateau",
           "boat",
           "bridge",
+          "city",
           "eau",
           "fleuve",
           "pont",
           "river",
+          "urbain",
+          "urban",
+          "ville",
           "water"
         ],
         "DateCreated": "20170514",
@@ -30230,7 +30292,8 @@
         "DigitalCreationTime": "104544",
         "Byline": "Nicolas Hoizey",
         "City": "Rome",
-        "Country": "Italy",
+        "State": "Rome",
+        "Country": "Italie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Sant'Angelo Bridge (Italian: Ponte Sant'Angelo) is a bridge in Rome, which connects the two banks of the Tiber in front of the Castel Sant'Angelo, near St. Peter's Basilica and the Vatican."
       },
@@ -30260,18 +30323,22 @@
           "bateau",
           "boat",
           "bridge",
+          "city",
           "eau",
           "fleuve",
           "pont",
           "river",
+          "urbain",
+          "urban",
+          "ville",
           "water"
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:35:40+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-13T16:09:31+02:00",
         "CreateDate": "2017-05-14T10:45:44",
-        "MetadataDate": "2024-03-22T17:35:40+01:00",
+        "MetadataDate": "2025-06-13T16:09:31+02:00",
         "Label": "Pourpre",
         "Rating": 5
       },
@@ -30287,8 +30354,7 @@
         "Marked": true
       },
       "xmpDM": {
-        "good": true,
-        "pick": 1
+        "pick": 0
       },
       "Iptc4xmpCore": {
         "CreatorContactInfo": {
@@ -30309,7 +30375,7 @@
         "FNumber": 1.2,
         "ISO": 200,
         "DateTimeOriginal": "2017-05-14T08:45:44.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 56,
         "FocalLengthIn35mmFormat": 84,
         "LensModel": "XF56mmF1.2 R"
@@ -30325,14 +30391,15 @@
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           12,
-          28.2908,
+          28.29078,
           0
         ],
         "GPSTimeStamp": "8:45:44",
+        "GPSImgDirection": 265,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2017:05:14",
         "latitude": 41.90217,
-        "longitude": 12.471513333333334
+        "longitude": 12.471513
       }
     },
     "dimensions": {
@@ -34923,8 +34990,14 @@
           "Mtskheta",
           "Mtskheta-Mtianeti",
           "MtskhÃ©ta",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "monastÃ¨re de Djvari",
           "mtskhÃ©ta-mtianÃ©ti",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "áááááá¡áá",
           "ááªá®ááá",
           "ááªá®ááá-áááááááá",
@@ -34941,7 +35014,7 @@
         "Sublocation": "Jvari Monastery",
         "State": "Mtskheta-Mtianeti",
         "CountryCode": "GE",
-        "Country": "Georgia",
+        "Country": "GÃ©orgie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Jvari Monastery stands on the rocky mountaintop at the confluence of the Mtkvari and Aragvi rivers, overlooking the town of Mtskheta, one of the oldest cities of Georgia and its former capital.\r\rIt is located approximately 20 kilometres north of Tbilisi."
       },
@@ -34973,8 +35046,14 @@
           "Mtskheta",
           "Mtskheta-Mtianeti",
           "Mtskhéta",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "monastère de Djvari",
           "mtskhéta-mtianéti",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "კავკასია",
           "მცხეთა",
           "მცხეთა-მთიანეთი",
@@ -34984,10 +35063,10 @@
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:35:11+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-13T16:11:55+02:00",
         "CreateDate": "2018-08-12T14:35:14",
-        "MetadataDate": "2024-03-22T17:35:11+01:00",
+        "MetadataDate": "2025-06-13T16:11:55+02:00",
         "Rating": 5
       },
       "aux": {
@@ -35033,7 +35112,7 @@
         "FNumber": 10,
         "ISO": 200,
         "DateTimeOriginal": "2018-08-12T12:35:14.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 10,
         "FocalLengthIn35mmFormat": 15,
         "LensModel": "XF10-24mmF4 R OIS"
@@ -35049,14 +35128,15 @@
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           44,
-          43.9994,
+          43.99938,
           0
         ],
         "GPSTimeStamp": "10:35:14",
+        "GPSImgDirection": 296,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2018:08:12",
         "latitude": 41.838025,
-        "longitude": 44.73332333333333
+        "longitude": 44.733323
       }
     },
     "dimensions": {
@@ -36078,10 +36158,14 @@
           "Narikala",
           "Narikala fortress",
           "Tbilissi",
+          "city",
           "fortress",
           "panorama",
           "panoramic",
           "panoramique",
+          "urbain",
+          "urban",
+          "ville",
           "áááááá¡á",
           "áááááá¡áá",
           "ááá áá§ááá",
@@ -36092,11 +36176,10 @@
         "DigitalCreationDate": "20180813",
         "DigitalCreationTime": "133406",
         "Byline": "Nicolas Hoizey",
-        "City": "Tbilisi",
         "Sublocation": "Narikala",
-        "State": "Tbilisi",
+        "State": "Tbilissi",
         "CountryCode": "GE",
-        "Country": "Georgia",
+        "Country": "GÃ©orgie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Narikala is an ancient fortress overlooking Tbilisi and the Mtkvari (Kura) River.\r\rThe fortress consists of two walled sections on a steep hill between the sulfur baths and the botanical gardens of Tbilisi. On the lower court there is the recently restored St Nicholas church."
       },
@@ -36126,10 +36209,14 @@
           "Narikala",
           "Narikala fortress",
           "Tbilissi",
+          "city",
           "fortress",
           "panorama",
           "panoramic",
           "panoramique",
+          "urbain",
+          "urban",
+          "ville",
           "თბილისი",
           "კავკასია",
           "ნარიყალა",
@@ -36137,10 +36224,10 @@
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:35:05+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-13T16:13:08+02:00",
         "CreateDate": "2018-08-13T13:34:06.1",
-        "MetadataDate": "2024-03-22T17:35:05+01:00",
+        "MetadataDate": "2025-06-13T16:13:08+02:00",
         "Rating": 5
       },
       "aux": {
@@ -36183,7 +36270,7 @@
         "FNumber": 8,
         "ISO": 200,
         "DateTimeOriginal": "2018-08-13T11:34:06.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "FocalLengthIn35mmFormat": 36,
         "LensModel": "XF10-24mmF4 R OIS"
@@ -36193,21 +36280,22 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           41,
-          41.2748,
+          41.27478,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           44,
-          48.4766,
+          48.47658,
           0
         ],
         "GPSAltitude": 460,
         "GPSTimeStamp": "9:34:6",
+        "GPSImgDirection": 340,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2018:08:13",
-        "latitude": 41.687913333333334,
-        "longitude": 44.807943333333334
+        "latitude": 41.687913,
+        "longitude": 44.807943
       }
     },
     "dimensions": {
@@ -49228,9 +49316,9 @@
       },
       "xmp": {
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-05-30T02:06:40+02:00",
+        "ModifyDate": "2025-06-13T16:14:04+02:00",
         "CreateDate": "2019-02-28T17:44:49",
-        "MetadataDate": "2025-05-30T02:06:40+02:00",
+        "MetadataDate": "2025-06-13T16:14:04+02:00",
         "Rating": 5
       },
       "aux": {
@@ -49247,8 +49335,7 @@
         "Marked": true
       },
       "xmpDM": {
-        "good": true,
-        "pick": 1
+        "pick": 0
       },
       "Iptc4xmpCore": {
         "CreatorContactInfo": {
@@ -49293,6 +49380,7 @@
           0
         ],
         "GPSTimeStamp": "14:44:49",
+        "GPSImgDirection": 171,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2019:02:28",
         "latitude": -2.693093,
@@ -49512,9 +49600,13 @@
           "bus",
           "car",
           "landscape",
+          "landscape photography",
+          "landscape with people",
           "montagne",
           "mountain",
           "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "piste",
           "road",
           "route",
@@ -49532,7 +49624,7 @@
         "DigitalCreationDate": "20190228",
         "DigitalCreationTime": "181703",
         "Byline": "Nicolas Hoizey",
-        "City": "Amboseli National Park",
+        "City": "Kajiado",
         "State": "VallÃ©e du Rift",
         "CountryCode": "KE",
         "Country": "Kenya",
@@ -49572,9 +49664,13 @@
           "bus",
           "car",
           "landscape",
+          "landscape photography",
+          "landscape with people",
           "montagne",
           "mountain",
           "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "piste",
           "road",
           "route",
@@ -49589,10 +49685,10 @@
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:33:38+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-13T16:15:18+02:00",
         "CreateDate": "2019-02-28T18:17:03",
-        "MetadataDate": "2024-03-22T17:33:38+01:00",
+        "MetadataDate": "2025-06-13T16:15:18+02:00",
         "Rating": 5
       },
       "aux": {
@@ -49608,6 +49704,9 @@
       "xmpRights": {
         "Marked": true
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
         "CountryCode": "KE",
         "CreatorContactInfo": {
@@ -49617,10 +49716,6 @@
           "CiAdrCity": "Montgeron",
           "CiAdrPcode": 91230
         }
-      },
-      "xmpDM": {
-        "good": true,
-        "pick": 1
       },
       "ifd0": {
         "ImageDescription": "Amboseli National Park is a national park in Kenya that spreads across the Kenya-Tanzania border. It has great views of Mount Kilimanjaro, the highest free-standing mountain in the world.\n\nThis awesome view, the large variety of wild animals, and dirt tracks that can be used by buses, make it one of the most tourists crowded national park in Kenya.",
@@ -49632,7 +49727,7 @@
         "FNumber": 4,
         "ISO": 200,
         "DateTimeOriginal": "2019-02-28T17:17:03.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 56,
         "FocalLengthIn35mmFormat": 84,
         "LensModel": "XF56mmF1.2 R"
@@ -49651,7 +49746,9 @@
           19.4325,
           0
         ],
+        "GPSAltitude": 1130,
         "GPSTimeStamp": "15:17:3",
+        "GPSImgDirection": 165,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2019:02:28",
         "latitude": -2.697405,
@@ -49768,9 +49865,9 @@
       },
       "xmp": {
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-05-30T02:06:40+02:00",
+        "ModifyDate": "2025-06-13T16:16:05+02:00",
         "CreateDate": "2019-02-28T18:25:51",
-        "MetadataDate": "2025-05-30T02:06:40+02:00",
+        "MetadataDate": "2025-06-13T16:16:05+02:00",
         "Rating": 5
       },
       "aux": {
@@ -49788,8 +49885,7 @@
         "Marked": true
       },
       "xmpDM": {
-        "good": true,
-        "pick": 1
+        "pick": 0
       },
       "Iptc4xmpCore": {
         "CreatorContactInfo": {
@@ -49830,6 +49926,7 @@
           0
         ],
         "GPSTimeStamp": "15:25:51",
+        "GPSImgDirection": 180,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2019:02:28",
         "latitude": -2.711309,
@@ -60392,11 +60489,15 @@
           "bridge",
           "castle",
           "chÃ¢teau",
+          "city",
           "forteresse",
           "fortress",
           "green",
           "pont",
-          "vert"
+          "urbain",
+          "urban",
+          "vert",
+          "ville"
         ],
         "DateCreated": "20220816",
         "TimeCreated": "142845",
@@ -60404,18 +60505,16 @@
         "DigitalCreationTime": "142845",
         "Byline": "Nicolas Hoizey",
         "City": "Carcassonne",
-        "Sublocation": "Le Paicherou-Bellevue",
         "State": "Aude",
-        "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The CitÃ© de Carcassonne is a medieval citadel located in the French city of Carcassonne. It is situated on a hill and dominates the banks of the River Aude.\r\rWith its castle and ramparts, the city seems straight out of a medieval fantasy novel."
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:32:28+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-13T16:18:07+02:00",
         "CreateDate": "2022-08-16T14:28:45.1",
-        "MetadataDate": "2024-03-22T17:32:28+01:00",
+        "MetadataDate": "2025-06-13T16:18:07+02:00",
         "Rating": 5
       },
       "aux": {
@@ -60459,11 +60558,15 @@
           "bridge",
           "castle",
           "château",
+          "city",
           "forteresse",
           "fortress",
           "green",
           "pont",
-          "vert"
+          "urbain",
+          "urban",
+          "vert",
+          "ville"
         ]
       },
       "exifEX": {
@@ -60472,9 +60575,10 @@
       "xmpRights": {
         "Marked": true
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "Location": "Le Paicherou-Bellevue",
-        "CountryCode": "FR",
         "CreatorContactInfo": {
           "CiAdrCtry": "France",
           "CiEmailWork": "nicolas@hoizey.com",
@@ -60487,9 +60591,6 @@
           "value": "Photo taken from the banks of the river Aude, with a distant view of the silhouette of the citadel of Carcassonne."
         }
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "ImageDescription": "The Cité de Carcassonne is a medieval citadel located in the French city of Carcassonne. It is situated on a hill and dominates the banks of the River Aude.\n\nWith its castle and ramparts, the city seems straight out of a medieval fantasy novel.",
         "Make": "FUJIFILM",
@@ -60500,7 +60601,7 @@
         "FNumber": 11,
         "ISO": 200,
         "DateTimeOriginal": "2022-08-16T12:28:45.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 26,
         "FocalLengthIn35mmFormat": 39,
         "LensModel": "XF16-80mmF4 R OIS WR"
@@ -60510,22 +60611,23 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           43,
-          12.6991333,
+          12.69912,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           2,
-          21.5331167,
+          21.5331,
           0
         ],
         "GPSTimeStamp": "12:28:55",
         "GPSSpeedRef": "K",
         "GPSSpeed": 0,
+        "GPSImgDirection": 157,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2022:08:16",
-        "latitude": 43.21165222166667,
-        "longitude": 2.358885278333333
+        "latitude": 43.211652,
+        "longitude": 2.358885
       }
     },
     "dimensions": {
@@ -69969,11 +70071,11 @@
         "Firmware": "1.0.1"
       },
       "xmp": {
-        "ModifyDate": "2024-08-13T21:19:54+02:00",
+        "ModifyDate": "2025-06-13T16:00:13+02:00",
         "CreateDate": "2005-09-21T13:31:16",
-        "MetadataDate": "2024-08-13T21:19:54+02:00",
+        "MetadataDate": "2025-06-13T16:00:13+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.4 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "xmpRights": {
         "Marked": true
@@ -70014,17 +70116,18 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           35,
-          14.324895,
+          14.3122108,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           23,
-          57.8474195,
+          57.8442009,
           0
         ],
-        "latitude": 35.23874825,
-        "longitude": 23.96412365833333
+        "GPSImgDirection": 40,
+        "latitude": 35.23853684666667,
+        "longitude": 23.964070015
       }
     },
     "dimensions": {
@@ -70061,7 +70164,13 @@
           "blue",
           "boat",
           "district rÃ©gional de La CanÃ©e",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "mer",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "pier",
           "ponton",
           "quai",
@@ -70114,7 +70223,13 @@
           "blue",
           "boat",
           "district régional de La Canée",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "mer",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "pier",
           "ponton",
           "quai",
@@ -70136,11 +70251,11 @@
         "Firmware": "1.0.1"
       },
       "xmp": {
-        "ModifyDate": "2024-08-13T21:19:54+02:00",
+        "ModifyDate": "2025-06-13T16:00:13+02:00",
         "CreateDate": "2005-09-21T13:51:13",
-        "MetadataDate": "2024-08-13T21:19:54+02:00",
+        "MetadataDate": "2025-06-13T16:00:13+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.4 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "xmpRights": {
         "Marked": true
@@ -70190,6 +70305,7 @@
           57.6165641,
           0
         ],
+        "GPSImgDirection": 175,
         "latitude": 35.22906623,
         "longitude": 23.960276068333332
       }
@@ -70229,11 +70345,15 @@
           "home",
           "house",
           "landscape",
+          "landscape photography",
+          "landscape with people",
           "maison",
           "mer",
           "montagne",
           "mountain",
           "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "sea",
           "village",
           "white",
@@ -70285,11 +70405,15 @@
           "home",
           "house",
           "landscape",
+          "landscape photography",
+          "landscape with people",
           "maison",
           "mer",
           "montagne",
           "mountain",
           "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "sea",
           "village",
           "white",
@@ -70309,11 +70433,11 @@
         "Firmware": "1.0.1"
       },
       "xmp": {
-        "ModifyDate": "2024-08-13T21:19:54+02:00",
+        "ModifyDate": "2025-06-13T16:00:13+02:00",
         "CreateDate": "2005-09-21T15:25:19",
-        "MetadataDate": "2024-08-13T21:19:54+02:00",
+        "MetadataDate": "2025-06-13T16:00:13+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.4 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "xmpRights": {
         "Marked": true
@@ -70363,6 +70487,7 @@
           5.3620701,
           0
         ],
+        "GPSImgDirection": 285,
         "latitude": 35.196597133333334,
         "longitude": 24.089367835
       }
@@ -70401,7 +70526,13 @@
           "district rÃ©gional de La CanÃ©e",
           "hotel",
           "hÃ´tel",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "mer",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "sea",
           "white",
           "ÎÎ»Î»Î¬Î´Î±",
@@ -70451,7 +70582,13 @@
           "district régional de La Canée",
           "hotel",
           "hôtel",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "mer",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "sea",
           "white",
           "Ελλάδα",
@@ -70470,11 +70607,11 @@
         "Firmware": "1.0.1"
       },
       "xmp": {
-        "ModifyDate": "2024-08-13T21:19:54+02:00",
+        "ModifyDate": "2025-06-13T16:00:13+02:00",
         "CreateDate": "2005-09-21T15:31:22",
-        "MetadataDate": "2024-08-13T21:19:54+02:00",
+        "MetadataDate": "2025-06-13T16:00:13+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.4 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "xmpRights": {
         "Marked": true
@@ -70544,6 +70681,7 @@
           4.8793052,
           0
         ],
+        "GPSImgDirection": 335,
         "latitude": 35.19869086666667,
         "longitude": 24.081321753333334
       }
@@ -70651,11 +70789,11 @@
         "Firmware": "1.0.1"
       },
       "xmp": {
-        "ModifyDate": "2024-08-13T21:19:54+02:00",
+        "ModifyDate": "2025-06-13T16:00:13+02:00",
         "CreateDate": "2005-09-21T15:31:34",
-        "MetadataDate": "2024-08-13T21:19:54+02:00",
+        "MetadataDate": "2025-06-13T16:00:13+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.4 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "xmpRights": {
         "Marked": true
@@ -70705,6 +70843,7 @@
           4.8373119,
           0
         ],
+        "GPSImgDirection": 305,
         "latitude": 35.198594701666664,
         "longitude": 24.080621865
       }
@@ -71031,10 +71170,10 @@
         "LateralChromaticAberrationCorrectionAlreadyApplied": true
       },
       "xmp": {
-        "ModifyDate": "2024-08-13T21:19:55+02:00",
+        "ModifyDate": "2025-06-13T16:01:32+02:00",
         "CreateDate": "2005-09-22T13:05:17.1",
-        "MetadataDate": "2024-08-13T21:19:55+02:00",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.4 (Macintosh)",
+        "MetadataDate": "2025-06-13T16:01:32+02:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
         "Label": "Jaune",
         "Rating": 5
       },
@@ -71092,6 +71231,7 @@
           1.034595,
           0
         ],
+        "GPSImgDirection": 333,
         "latitude": 35.516656981666664,
         "longitude": 24.01724325
       }
@@ -76378,9 +76518,9 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2025-05-30T01:54:31+02:00",
+        "ModifyDate": "2025-06-13T15:26:32+02:00",
         "CreateDate": "2013-03-30T16:24:38.73",
-        "MetadataDate": "2025-05-30T01:54:31+02:00",
+        "MetadataDate": "2025-06-13T15:26:32+02:00",
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
@@ -76477,6 +76617,7 @@
           39.7535043,
           0
         ],
+        "GPSImgDirection": 135,
         "latitude": -22.297130361666667,
         "longitude": 166.662558405
       }
@@ -86353,9 +86494,15 @@
           "arbre",
           "beach",
           "eau",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "mer",
           "palm tree",
           "palmier",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "plage",
           "plant",
           "sable",
@@ -86394,9 +86541,15 @@
           "arbre",
           "beach",
           "eau",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "mer",
           "palm tree",
           "palmier",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "plage",
           "plant",
           "sable",
@@ -86408,10 +86561,10 @@
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.2 (Macintosh)",
-        "ModifyDate": "2025-04-18T01:54:38+02:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-13T16:10:43+02:00",
         "CreateDate": "2018-03-02T12:06:51",
-        "MetadataDate": "2025-04-18T01:54:38+02:00",
+        "MetadataDate": "2025-06-13T16:10:43+02:00",
         "Rating": 5
       },
       "aux": {
@@ -86430,8 +86583,7 @@
         "Marked": true
       },
       "xmpDM": {
-        "good": true,
-        "pick": 1
+        "pick": 0
       },
       "Iptc4xmpCore": {
         "CountryCode": "DO",
@@ -86477,6 +86629,7 @@
           0
         ],
         "GPSTimeStamp": "16:6:51",
+        "GPSImgDirection": 244,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2018:03:02",
         "latitude": 19.173226666666668,
@@ -88804,12 +88957,12 @@
         "Caption": "History can be viewed from many angles. That versatility is reflected in the Dutch Open Air Museum. Here you will find buildings, objects and stories of up to two hundred years old.\r\rWhile walking through the green museum park, you will discover that people in the past had about the same questions and problems as we do now. You experience how people lived with each other and with their environment. How they dealt with setbacks, celebrated when things went well and tried to make their lives better."
       },
       "xmp": {
-        "ModifyDate": "2025-05-07T17:40:36+02:00",
+        "ModifyDate": "2025-06-13T16:03:00+02:00",
         "CreateDate": "2003-08-10T12:34:35+02:00",
         "Rating": 5,
-        "MetadataDate": "2025-05-07T17:40:36+02:00",
+        "MetadataDate": "2025-06-13T16:03+02:00",
         "Label": "Bleu",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "xmpRights": {
         "Marked": true,
@@ -88900,6 +89053,7 @@
           54.6901508,
           0
         ],
+        "GPSImgDirection": 327,
         "latitude": 52.00951256,
         "longitude": 5.911502513333334
       }
@@ -89492,9 +89646,9 @@
       },
       "xmp": {
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-05-17T16:10:48+02:00",
+        "ModifyDate": "2025-06-13T16:17:10+02:00",
         "CreateDate": "2019-08-19T11:51:10",
-        "MetadataDate": "2025-05-17T16:10:48+02:00",
+        "MetadataDate": "2025-06-13T16:17:10+02:00",
         "Rating": 5
       },
       "aux": {
@@ -89559,6 +89713,7 @@
           34.8089022,
           0
         ],
+        "GPSImgDirection": 20,
         "latitude": 45.319404946666666,
         "longitude": 6.58014837
       }

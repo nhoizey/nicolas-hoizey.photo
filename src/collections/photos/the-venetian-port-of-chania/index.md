@@ -83,6 +83,7 @@ dimensions:
 geo:
   latitude: 35.516656981666664
   longitude: 24.01724325
+  direction: 333
   country: Grèce
   city: La Canée
   map: true

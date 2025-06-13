@@ -22,9 +22,15 @@ tags:
   - arbre
   - beach
   - eau
+  - landscape
+  - landscape photography
+  - landscape with people
   - mer
   - palm tree
   - palmier
+  - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - plage
   - plant
   - sable
@@ -61,6 +67,7 @@ dimensions:
 geo:
   latitude: 19.173226666666668
   longitude: -69.26981833333333
+  direction: 244
   country: République dominicaine
   map: true
 colors:

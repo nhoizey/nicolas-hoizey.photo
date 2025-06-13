@@ -1,7 +1,7 @@
 ---
 title: Ponte Sant'Angelo
 file: ponte-sant-angelo.jpg
-date: 2017-05-14 09:45:44 +01:00
+date: 2017-05-14 10:45:44 +02:00
 dates:
   iso: "'2017-05-14'"
   human: "'14 May 2017'"
@@ -20,6 +20,7 @@ tags:
   - bateau
   - boat
   - bridge
+  - city
   - eau
   - Europa
   - Europe
@@ -31,6 +32,9 @@ tags:
   - river
   - Roma
   - Rome
+  - urbain
+  - urban
+  - ville
   - water
 settings:
   focal_length:
@@ -59,8 +63,9 @@ dimensions:
   height: 2333
 geo:
   latitude: 41.90217
-  longitude: 12.471513333333334
-  country: Italy
+  longitude: 12.471513
+  direction: 265
+  country: Italie
   city: Rome
   map: true
 colors:

@@ -3,7 +3,7 @@ title: Zig zag
 file: zig-zag.jpg
 alt_text: Blurred photo of luminous points, of which a set represents the shape
   of a staircase
-date: 2009-01-30 22:46:02 +01:00
+date: 2009-01-30 23:46:02 +02:00
 dates:
   iso: "'2009-01-30'"
   human: "'30 January 2009'"
@@ -62,10 +62,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.8607182
-  longitude: 2.3518114
+  latitude: 48.860718
+  longitude: 2.351811
+  direction: 72
   country: France
-  city: Paris
   map: true
 colors:
   vibrant: 227 179 28

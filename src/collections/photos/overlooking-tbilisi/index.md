@@ -1,7 +1,7 @@
 ---
 title: Overlooking Tbilisi
 file: overlooking-tbilisi.jpg
-date: 2018-08-13 12:34:06 +01:00
+date: 2018-08-13 13:34:06 +02:00
 dates:
   iso: "'2018-08-13'"
   human: "'13 August 2018'"
@@ -20,6 +20,7 @@ tags:
   - Caucase
   - Caucasia
   - Caucasus
+  - city
   - Europa
   - Europe
   - fortress
@@ -31,6 +32,9 @@ tags:
   - panoramic
   - panoramique
   - Tbilissi
+  - urbain
+  - urban
+  - ville
   - თბილისი
   - კავკასია
   - ნარიყალა
@@ -61,10 +65,10 @@ dimensions:
   width: 3500
   height: 1464
 geo:
-  latitude: 41.687913333333334
-  longitude: 44.807943333333334
-  country: Georgia
-  city: Tbilisi
+  latitude: 41.687913
+  longitude: 44.807943
+  direction: 340
+  country: Géorgie
   map: true
 colors:
   vibrant: 4 145 210

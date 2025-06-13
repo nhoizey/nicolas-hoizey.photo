@@ -29,10 +29,16 @@ tags:
   - Europa
   - Europe
   - France
+  - landscape
+  - landscape photography
+  - landscape with people
   - lighthouse
   - mer
   - nuage
+  - paysage
+  - paysage avec des humains
   - phare
+  - photographie de paysage
   - Ploumanac'h
   - rive
   - rocher
@@ -69,6 +75,7 @@ dimensions:
 geo:
   latitude: 48.83635
   longitude: -3.483923
+  direction: 20
   country: France
   city: Perros-Guirec
   map: true

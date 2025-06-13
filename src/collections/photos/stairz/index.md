@@ -3,7 +3,7 @@ title: Stairz
 file: stairz.jpg
 alt_text: Photo of the exterior escalator of the Pompidou Center, at night, with
   lights of different colors in the building
-date: 2009-01-30 22:35:21 +01:00
+date: 2009-01-30 23:35:21 +02:00
 dates:
   iso: "'2009-01-30'"
   human: "'30 January 2009'"
@@ -71,10 +71,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.860899185
-  longitude: 2.351757158333333
+  latitude: 48.860899
+  longitude: 2.351757
+  direction: 105
   country: France
-  city: Paris
   map: true
 colors:
   vibrant: 15 152 235

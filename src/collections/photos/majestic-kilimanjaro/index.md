@@ -1,7 +1,7 @@
 ---
 title: Majestic Kilimanjaro
 file: majestic-kilimanjaro.jpg
-date: 2019-02-28 18:17:03 +01:00
+date: 2019-02-28 19:17:03 +02:00
 dates:
   iso: "'2019-02-28'"
   human: "'28 February 2019'"
@@ -30,12 +30,16 @@ tags:
   - Kenya
   - Kilimanjaro
   - landscape
+  - landscape photography
+  - landscape with people
   - montagne
   - Mount Kilimanjaro
   - mountain
   - National Park
   - Parc national d'Amboseli
   - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - piste
   - road
   - route
@@ -76,8 +80,9 @@ dimensions:
 geo:
   latitude: -2.697405
   longitude: 37.323875
+  direction: 165
   country: Kenya
-  city: Amboseli National Park
+  city: Kajiado
   map: true
 colors:
   vibrant: 13 159 216

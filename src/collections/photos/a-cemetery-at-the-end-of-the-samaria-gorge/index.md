@@ -65,8 +65,9 @@ dimensions:
   width: 3300
   height: 2200
 geo:
-  latitude: 35.23874825
-  longitude: 23.96412365833333
+  latitude: 35.23853684666667
+  longitude: 23.964070015
+  direction: 40
   country: Grèce
   city: Agía Rouméli
   map: true

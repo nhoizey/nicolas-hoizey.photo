@@ -1,7 +1,7 @@
 ---
 title: Rua Vítor Cordon
 file: rua-vitor-cordon.jpg
-date: 2016-10-01 08:41:50 +01:00
+date: 2016-10-01 09:41:50 +02:00
 dates:
   iso: "'2016-10-01'"
   human: "'1 October 2016'"
@@ -18,6 +18,7 @@ gear:
       model: EF 24-70mm f/2.8L USM
       short: 24-70mm
 tags:
+  - city
   - Europa
   - Europe
   - Lisboa
@@ -33,6 +34,7 @@ tags:
   - travel
   - urbain
   - urban
+  - ville
   - voyage
 settings:
   focal_length:
@@ -60,7 +62,8 @@ dimensions:
   height: 3500
 geo:
   latitude: 38.707975
-  longitude: -9.142055555
+  longitude: -9.142056
+  direction: 86
   country: Portugal
   city: Lisboa
   map: true
