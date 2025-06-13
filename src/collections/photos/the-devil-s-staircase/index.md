@@ -77,6 +77,7 @@ dimensions:
 geo:
   latitude: 56.660995
   longitude: -4.915597
+  direction: 285
   country: Royaume-Uni
   city: Ballachulish
   map: true

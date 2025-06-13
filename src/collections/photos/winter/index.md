@@ -3,7 +3,7 @@ title: Winter
 file: winter.jpg
 alt_text: A black and white image of a snowy landscape with snow-covered rocks
   in a stream, framed by branches of coniferous trees heavy with snow.
-date: 2014-02-14 11:23:53 +01:00
+date: 2014-02-14 12:23:53 +02:00
 dates:
   iso: "'2014-02-14'"
   human: "'14 February 2014'"
@@ -48,8 +48,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.386998945
-  longitude: 6.569370916666667
+  latitude: 45.386999
+  longitude: 6.569371
+  direction: 148
   country: France
   city: Les Allues
   map: true

@@ -3,7 +3,7 @@ title: Kilchurn Castle
 file: kilchurn-castle.jpg
 alt_text: Ruined castle by a lake with rolling hills in the background under a
   cloudy sky.
-date: 2014-04-30 17:11:41 +01:00
+date: 2014-04-30 18:11:41 +02:00
 dates:
   iso: "'2014-04-30'"
   human: "'30 April 2014'"
@@ -32,7 +32,13 @@ tags:
   - Grande-Bretagne
   - Great Britain
   - Kilchurn Castle
+  - landscape
+  - landscape photography
+  - landscape with people
   - nuage
+  - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - Royaume Uni
   - Royaume-Uni
   - Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
@@ -66,10 +72,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 56.400980555
-  longitude: -5.024969445
-  country: Scotland
-  city: Lochawe
+  latitude: 56.400981
+  longitude: -5.024969
+  direction: 336
+  country: Royaume-Uni
   map: true
 colors:
   vibrant: 211 205 44

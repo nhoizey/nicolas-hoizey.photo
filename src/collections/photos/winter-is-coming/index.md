@@ -2,7 +2,7 @@
 title: Winter is coming…
 file: winter-is-coming.jpg
 alt_text: A wooden cabin in a snowy landscape with mountains in the background.
-date: 2014-02-14 10:11:59 +01:00
+date: 2014-02-14 11:11:59 +02:00
 dates:
   iso: "'2014-02-14'"
   human: "'14 February 2014'"
@@ -47,8 +47,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.38614483166667
-  longitude: 6.570693018333333
+  latitude: 45.386145
+  longitude: 6.570693
+  direction: 65
   country: France
   city: Les Allues
   map: true

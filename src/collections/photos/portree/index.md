@@ -3,7 +3,7 @@ title: Portree
 file: portree.jpg
 alt_text: Coastal village with colorful houses, a harbor with boats, and
   mountains in the background, under a cloudy sky.
-date: 2014-05-01 14:48:18 +01:00
+date: 2014-05-01 15:48:18 +02:00
 dates:
   iso: "'2014-05-01'"
   human: "'1 May 2014'"
@@ -64,6 +64,8 @@ tags:
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
+  - urbain
+  - urban
   - ville
 settings:
   focal_length:
@@ -90,9 +92,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 57.412870831666666
-  longitude: -6.191220243333333
-  country: Scotland
+  latitude: 57.412871
+  longitude: -6.19122
+  direction: 180
+  country: Royaume-Uni
   city: Portree
   map: true
 colors:

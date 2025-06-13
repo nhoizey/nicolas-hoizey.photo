@@ -76,6 +76,7 @@ dimensions:
 geo:
   latitude: 56.567739
   longitude: -4.753867
+  direction: 180
   country: Royaume-Uni
   city: Bridge of Orchy
   map: true

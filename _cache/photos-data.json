@@ -12674,7 +12674,6 @@
         "Byline": "Nicolas Hoizey",
         "City": "Les Allues",
         "State": "Savoie",
-        "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey"
       },
@@ -12689,11 +12688,11 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-25T13:00:02+01:00",
+        "ModifyDate": "2025-06-13T17:22:53+02:00",
         "CreateDate": "2014-02-14T11:12:59.40",
-        "MetadataDate": "2024-03-25T13:00:02+01:00",
+        "MetadataDate": "2025-06-13T17:22:53+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -12724,7 +12723,6 @@
         "pick": 0
       },
       "Iptc4xmpCore": {
-        "CountryCode": "FR",
         "CreatorContactInfo": {
           "CiAdrCtry": "France",
           "CiUrlWork": "https://nicolas-hoizey.photo",
@@ -12746,7 +12744,7 @@
         "FNumber": 11,
         "ISO": 200,
         "DateTimeOriginal": "2014-02-14T09:11:59.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 68,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -12755,17 +12753,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           45,
-          23.1686899,
+          23.1687,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           6,
-          34.2415811,
+          34.24158,
           0
         ],
-        "latitude": 45.38614483166667,
-        "longitude": 6.570693018333333
+        "GPSAltitude": 1490,
+        "GPSImgDirection": 65,
+        "latitude": 45.386145,
+        "longitude": 6.570693
       }
     },
     "dimensions": {
@@ -12799,7 +12799,6 @@
         "Byline": "Nicolas Hoizey",
         "City": "Les Allues",
         "State": "Savoie",
-        "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey"
       },
@@ -12814,11 +12813,11 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-25T11:14:28+01:00",
+        "ModifyDate": "2025-06-13T17:22:53+02:00",
         "CreateDate": "2014-02-14T12:24:53.31",
-        "MetadataDate": "2024-03-25T11:14:28+01:00",
+        "MetadataDate": "2025-06-13T17:22:53+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -12845,8 +12844,10 @@
           "value": "Paternité - Pas d'Utilisation Commerciale - Pas de Modification"
         }
       },
+      "xmpDM": {
+        "pick": 0
+      },
       "Iptc4xmpCore": {
-        "CountryCode": "FR",
         "CreatorContactInfo": {
           "CiAdrCtry": "France",
           "CiUrlWork": "https://nicolas-hoizey.photo",
@@ -12859,9 +12860,6 @@
           "value": "A black and white image of a snowy landscape with snow-covered rocks in a stream, framed by branches of coniferous trees heavy with snow."
         }
       },
-      "xmpDM": {
-        "pick": 0
-      },
       "ifd0": {
         "Make": "Canon",
         "Model": "Canon EOS 5D Mark II"
@@ -12871,7 +12869,7 @@
         "FNumber": 2.8,
         "ISO": 200,
         "DateTimeOriginal": "2014-02-14T10:23:53.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 70,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -12880,17 +12878,18 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           45,
-          23.2199367,
+          23.21994,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           6,
-          34.162255,
+          34.16226,
           0
         ],
-        "latitude": 45.386998945,
-        "longitude": 6.569370916666667
+        "GPSImgDirection": 148,
+        "latitude": 45.386999,
+        "longitude": 6.569371
       }
     },
     "dimensions": {
@@ -13222,7 +13221,13 @@
           "chÃ¢teau",
           "ciel",
           "cloud",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "nuage",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "sky",
           "Ãcosse"
         ],
@@ -13231,18 +13236,17 @@
         "DigitalCreationDate": "20140430",
         "DigitalCreationTime": "181141",
         "Byline": "Nicolas Hoizey",
-        "City": "Lochawe",
-        "State": "Scotland",
+        "State": "Ãcosse",
         "CountryCode": "GB",
-        "Country": "Scotland",
+        "Country": "Royaume-Uni",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Kilchurn Castle is a ruined 15th century castle located at the north-eastern end of Loch Awe in Argyll and Bute, Scotland."
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:25+01:00",
+        "ModifyDate": "2025-06-13T17:24:03+02:00",
         "CreateDate": "2014-04-30T18:11:41",
-        "MetadataDate": "2024-03-22T17:36:25+01:00",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
+        "MetadataDate": "2025-06-13T17:24:03+02:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
         "Rating": 5
       },
       "aux": {
@@ -13289,7 +13293,13 @@
           "château",
           "ciel",
           "cloud",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "nuage",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "sky",
           "Écosse"
         ]
@@ -13329,7 +13339,7 @@
         "FNumber": 2.8,
         "ISO": 200,
         "DateTimeOriginal": "2014-04-30T16:11:41.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 70,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -13338,18 +13348,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           56,
-          24.0588333,
+          24.05886,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           5,
-          1.4981667,
+          1.49814,
           0
         ],
-        "GPSAltitude": 41.4606,
-        "latitude": 56.400980555,
-        "longitude": -5.024969445
+        "GPSAltitude": 41.5,
+        "GPSImgDirection": 336,
+        "latitude": 56.400981,
+        "longitude": -5.024969
       }
     },
     "dimensions": {
@@ -13424,9 +13435,9 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2025-05-30T01:54:48+02:00",
+        "ModifyDate": "2025-06-13T17:37:33+02:00",
         "CreateDate": "2014-04-30T19:08:55.37",
-        "MetadataDate": "2025-05-30T01:54:48+02:00",
+        "MetadataDate": "2025-06-13T17:37:33+02:00",
         "Label": "Vert",
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
@@ -13530,6 +13541,7 @@
           45.23202,
           0
         ],
+        "GPSImgDirection": 180,
         "latitude": 56.567739,
         "longitude": -4.753867
       }
@@ -13607,9 +13619,9 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2025-05-30T01:54:52+02:00",
+        "ModifyDate": "2025-06-13T17:37:33+02:00",
         "CreateDate": "2014-04-30T19:24:17.92",
-        "MetadataDate": "2025-05-30T01:54:52+02:00",
+        "MetadataDate": "2025-06-13T17:37:33+02:00",
         "Rating": 5,
         "Label": "Vert",
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
@@ -13714,6 +13726,7 @@
           54.93582,
           0
         ],
+        "GPSImgDirection": 285,
         "latitude": 56.660995,
         "longitude": -4.915597
       }
@@ -13759,12 +13772,16 @@
           "home",
           "house",
           "landscape",
+          "landscape photography",
+          "landscape with people",
           "maison",
           "mer",
           "montagne",
           "mountain",
           "nuage",
           "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "pont",
           "rail",
           "rocher",
@@ -13779,10 +13796,11 @@
         "DigitalCreationDate": "20140501",
         "DigitalCreationTime": "123023",
         "Byline": "Nicolas Hoizey",
+        "City": "Lochailort",
         "Sublocation": "Loch nan Uamh",
-        "State": "Highland",
+        "State": "Ãcosse",
         "CountryCode": "GB",
-        "Country": "Scotland",
+        "Country": "Royaume-Uni",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Loch nan Uamh Viaduct is a railway viaduct that carries the West Highland Line. \r\rThe viaduct was built by Robert McAlpine, nicknamed \"Concrete Bob\" for his innovative use of mass concrete.\r\rThe viaduct crosses the Allt a' Mhama, or Mama Burn, just before it flows into Loch nan Uamh, a sea loch to the north of the Ardnish peninsula.\r\rIn 1987 Roland Paxton, from Heriot-Watt University, investigated the legend that a horse had fallen into a pier during construction of the Glenfinnan Viaduct in 1898 or 1899. However, after inserting an fisheye camera into boreholes made into the only two piers large enough to accommodate a horse, no animal remains were found. In 1997, on the basis of local hearsay, Paxton investigated Loch nan Uamh viaduct using the same method but found only rubble as well. In 2001, he returned to Loch nan Uamh with radar equipment and found the remains of a horse and cart within the viaduct's central pylon!"
       },
@@ -13797,12 +13815,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-25T12:35:33+01:00",
+        "ModifyDate": "2025-06-13T17:37:49+02:00",
         "CreateDate": "2014-05-01T12:30:23.50",
-        "MetadataDate": "2024-03-25T12:35:33+01:00",
+        "MetadataDate": "2025-06-13T17:37:49+02:00",
         "Label": "Vert",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -13841,12 +13859,16 @@
           "home",
           "house",
           "landscape",
+          "landscape photography",
+          "landscape with people",
           "maison",
           "mer",
           "montagne",
           "mountain",
           "nuage",
           "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "pont",
           "rail",
           "rocher",
@@ -13893,7 +13915,7 @@
         "FNumber": 2.8,
         "ISO": 200,
         "DateTimeOriginal": "2014-05-01T10:30:23.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 67,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -13911,10 +13933,8 @@
           44.81082,
           0
         ],
-        "GPSAltitudeRef": {
-          "0": 1
-        },
-        "GPSAltitude": 18.61,
+        "GPSAltitude": 0,
+        "GPSImgDirection": 120,
         "latitude": 56.895229,
         "longitude": -5.746847
       }
@@ -14367,6 +14387,8 @@
           "pier",
           "sea",
           "sky",
+          "urbain",
+          "urban",
           "ville",
           "Ãcosse"
         ],
@@ -14376,7 +14398,8 @@
         "DigitalCreationTime": "154818",
         "Byline": "Nicolas Hoizey",
         "City": "Portree",
-        "Country": "Scotland",
+        "State": "Ãcosse",
+        "Country": "Royaume-Uni",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Portree is the largest town on the Isle of Skye in the Inner Hebrides of Scotland.\r\rBuilt around the harbour are a famous range of brightly painted buildings featured in a few movies, like the romantic comedy Made of Honor."
       },
@@ -14391,11 +14414,11 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:23+01:00",
+        "ModifyDate": "2025-06-13T17:26:21+02:00",
         "CreateDate": "2014-05-01T15:48:18.80",
-        "MetadataDate": "2024-03-22T17:36:23+01:00",
+        "MetadataDate": "2025-06-13T17:26:21+02:00",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -14456,6 +14479,8 @@
           "pier",
           "sea",
           "sky",
+          "urbain",
+          "urban",
           "ville",
           "Écosse"
         ]
@@ -14494,7 +14519,7 @@
         "FNumber": 11,
         "ISO": 200,
         "DateTimeOriginal": "2014-05-01T13:48:18.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 32,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -14503,17 +14528,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           57,
-          24.7722499,
+          24.77226,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           6,
-          11.4732146,
+          11.4732,
           0
         ],
-        "latitude": 57.412870831666666,
-        "longitude": -6.191220243333333
+        "GPSAltitude": 10,
+        "GPSImgDirection": 180,
+        "latitude": 57.412871,
+        "longitude": -6.19122
       }
     },
     "dimensions": {
@@ -14555,6 +14582,7 @@
           "United Kingdom of Great Britain and Northern Ireland",
           "bleu",
           "blue",
+          "car",
           "ciel",
           "city",
           "cloud",
@@ -14573,6 +14601,8 @@
           "rose",
           "sea",
           "sky",
+          "urbain",
+          "urban",
           "vert",
           "ville",
           "voiture",
@@ -14586,9 +14616,9 @@
         "DigitalCreationTime": "155540",
         "Byline": "Nicolas Hoizey",
         "City": "Portree",
-        "State": "Highland",
+        "State": "Ãcosse",
         "CountryCode": "GB",
-        "Country": "Scotland",
+        "Country": "Royaume-Uni",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "Portree is the largest town on the Isle of Skye in the Inner Hebrides of Scotland.\r\rBuilt around the harbour are a famous range of brightly painted buildings featured in a few movies, like the romantic comedy Made of Honor."
       },
@@ -14603,12 +14633,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-22T17:36:24+01:00",
+        "ModifyDate": "2025-06-13T17:26:21+02:00",
         "CreateDate": "2014-05-01T15:55:40.17",
-        "MetadataDate": "2024-03-22T17:36:24+01:00",
+        "MetadataDate": "2025-06-13T17:26:21+02:00",
         "Label": "Vert",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -14645,6 +14675,7 @@
           "United Kingdom of Great Britain and Northern Ireland",
           "bleu",
           "blue",
+          "car",
           "ciel",
           "city",
           "cloud",
@@ -14663,6 +14694,8 @@
           "rose",
           "sea",
           "sky",
+          "urbain",
+          "urban",
           "vert",
           "ville",
           "voiture",
@@ -14706,7 +14739,7 @@
         "FNumber": 16,
         "ISO": 200,
         "DateTimeOriginal": "2014-05-01T13:55:40.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -14715,21 +14748,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           57,
-          24.7179302,
+          24.71796,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           6,
-          11.5243292,
+          11.52432,
           0
         ],
-        "GPSAltitudeRef": {
-          "0": 1
-        },
-        "GPSAltitude": 2.03,
-        "latitude": 57.411965503333334,
-        "longitude": -6.192072153333333
+        "GPSAltitude": 1,
+        "GPSImgDirection": 153,
+        "latitude": 57.411966,
+        "longitude": -6.192072
       }
     },
     "dimensions": {

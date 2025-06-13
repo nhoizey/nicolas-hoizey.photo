@@ -3,7 +3,7 @@ title: Portree harbour
 file: portree-harbour.jpg
 alt_text: Colorful buildings along a seaside street with parked cars, a stone
   wall, and boats on the water with a mountainous backdrop.
-date: 2014-05-01 14:55:40 +01:00
+date: 2014-05-01 15:55:40 +02:00
 dates:
   iso: "'2014-05-01'"
   human: "'1 May 2014'"
@@ -22,6 +22,7 @@ gear:
 tags:
   - bleu
   - blue
+  - car
   - ciel
   - city
   - cloud
@@ -58,6 +59,8 @@ tags:
   - UK
   - United Kingdom
   - United Kingdom of Great Britain and Northern Ireland
+  - urbain
+  - urban
   - vert
   - ville
   - voiture
@@ -88,9 +91,10 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 57.411965503333334
-  longitude: -6.192072153333333
-  country: Scotland
+  latitude: 57.411966
+  longitude: -6.192072
+  direction: 153
+  country: Royaume-Uni
   city: Portree
   map: true
 colors:

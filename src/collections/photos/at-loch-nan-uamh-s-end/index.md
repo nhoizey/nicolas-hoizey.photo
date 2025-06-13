@@ -4,7 +4,7 @@ file: at-loch-nan-uamh-s-end.jpg
 alt_text: A coastal landscape showing rocky shores in the foreground, a calm
   sea, a viaduct overlooking water mid-scene, mountainous terrain, and cloudy
   skies. A small white building is nestled among trees near the water's edge.
-date: 2014-05-01 11:30:23 +01:00
+date: 2014-05-01 12:30:23 +02:00
 dates:
   iso: "'2014-05-01'"
   human: "'1 May 2014'"
@@ -35,6 +35,8 @@ tags:
   - house
   - Inverness-shire
   - landscape
+  - landscape photography
+  - landscape with people
   - Loch nan Uamh
   - maison
   - mer
@@ -42,6 +44,8 @@ tags:
   - mountain
   - nuage
   - paysage
+  - paysage avec des humains
+  - photographie de paysage
   - pont
   - rail
   - rocher
@@ -83,7 +87,9 @@ dimensions:
 geo:
   latitude: 56.895229
   longitude: -5.746847
-  country: Scotland
+  direction: 120
+  country: Royaume-Uni
+  city: Lochailort
   map: true
 colors:
   vibrant: 187 170 68
