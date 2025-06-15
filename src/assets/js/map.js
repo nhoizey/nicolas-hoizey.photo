@@ -371,15 +371,19 @@ const decodeHTML = (html) => {
 
 							const photoData = window.geoJsonFeatures[currentPhotoIndex];
 
+							const ratio = photoData.properties.width / photoData.properties.height;
+							const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
+							const targetWidth = ratio * targetHeight;
+
 							popup = new mapboxgl.Popup({
 								offset: [0, -20],
 								closeButton: false,
-								maxWidth: "none",
+								maxWidth: `${Math.floor(targetWidth / 2)}px`,
 								className: `autoplay ${photoData.properties.height / photoData.properties.width > 1 ? "portrait" : "landscape"}`,
 							})
 								.setLngLat(photoData.geometry.coordinates)
 								.setHTML(
-									`<a href="${photoData.properties.url}"><img src="/photos/${photoData.properties.slug}/small.jpg" width="${photoData.properties.width}" height="${photoData.properties.height}" alt>${photoData.properties.title}</a>`,
+									`<a href="${photoData.properties.url}"><img src="/photos/${photoData.properties.slug}/small.jpg" width="${targetWidth / 2}" height="${targetHeight / 2}" alt>${photoData.properties.title}</a>`,
 								)
 								.addTo(map);
 
