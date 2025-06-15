@@ -87,6 +87,9 @@ const decodeHTML = (html) => {
 			}
 
 			map.setTerrain({ source: "mapbox-dem", exaggeration: 1.3 });
+			// **********************************************************
+			// Add a layer for clusters circles
+			// **********************************************************
 
 			if (!map.getLayer("clusters")) {
 				map.addLayer({
@@ -185,11 +188,16 @@ const decodeHTML = (html) => {
 					map.getCanvas().style.cursor = "pointer";
 					userInteracting = true;
 				});
+
 				map.on("mouseleave", "clusters", () => {
 					map.getCanvas().style.cursor = "";
 					userInteracting = false;
 				});
 			}
+
+			// **********************************************************
+			// Add a layer for clusters counts
+			// **********************************************************
 
 			if (!map.getLayer("cluster-count")) {
 				map.addLayer({
@@ -206,6 +214,10 @@ const decodeHTML = (html) => {
 					},
 				});
 			}
+
+			// **********************************************************
+			// Add a layer for photos that are not clustered
+			// **********************************************************
 
 			if (!map.getLayer("unclustered-point-photo")) {
 				map.addLayer({
