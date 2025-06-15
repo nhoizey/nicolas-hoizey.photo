@@ -1,7 +1,7 @@
 ---
 title: Fontana di Trevi
 file: fontana-di-trevi.jpg
-date: 2017-05-11 18:14:50 +01:00
+date: 2017-05-11 19:14:50 +02:00
 dates:
   iso: "'2017-05-11'"
   human: "'11 May 2017'"
@@ -17,6 +17,7 @@ gear:
       model: Fujinon XF 10-24mm f/4.0 R OIS
       short: 10-24mm
 tags:
+  - city
   - eau
   - Europa
   - Europe
@@ -32,6 +33,9 @@ tags:
   - Rome
   - statue
   - Trevi Fountain
+  - urbain
+  - urban
+  - ville
   - water
 settings:
   focal_length:
@@ -59,9 +63,10 @@ dimensions:
   width: 3500
   height: 2684
 geo:
-  latitude: 41.90084330333333
-  longitude: 12.483434845
-  country: Italy
+  latitude: 41.900843
+  longitude: 12.483435
+  direction: 340
+  country: Italie
   city: Rome
   map: true
 colors:

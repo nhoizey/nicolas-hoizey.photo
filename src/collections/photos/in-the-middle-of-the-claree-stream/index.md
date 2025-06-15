@@ -76,8 +76,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 45.0581825
-  longitude: 6.524846945
+  latitude: 45.059799913333336
+  longitude: 6.524050695
+  direction: 320
   country: France
   city: Névache
   map: true

@@ -79,6 +79,7 @@ dimensions:
 geo:
   latitude: 48.81469057166667
   longitude: -3.5432375
+  direction: 123
   country: France
   city: Pleumeur-Bodou
 colors:

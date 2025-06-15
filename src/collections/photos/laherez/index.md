@@ -3,7 +3,7 @@ title: Lahérez
 file: laherez.jpg
 alt_text: Coastline with boulders in the water, houses amid trees in the
   background, and a clear blue sky.
-date: 2013-08-23 08:56:01 +01:00
+date: 2013-08-23 09:56:01 +02:00
 dates:
   iso: "'2013-08-23'"
   human: "'23 August 2013'"
@@ -36,9 +36,15 @@ tags:
   - green
   - home
   - house
+  - landscape
+  - landscape photography
+  - landscape with people
   - maison
   - mer
+  - paysage
+  - paysage avec des humains
   - Perros-Guirec
+  - photographie de paysage
   - plant
   - Ploumanac'h
   - rocher
@@ -74,8 +80,9 @@ dimensions:
   width: 3500
   height: 2333
 geo:
-  latitude: 48.832260938333334
-  longitude: -3.4753271249999997
+  latitude: 48.832261
+  longitude: -3.475327
+  direction: 355
   country: France
   city: Perros-Guirec
   map: true

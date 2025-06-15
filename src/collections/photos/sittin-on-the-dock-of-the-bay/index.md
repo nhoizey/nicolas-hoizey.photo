@@ -23,6 +23,7 @@ tags:
   - Ile de France
   - La Seine
   - Paris
+  - pier
   - quai
   - river
   - Seine
@@ -47,6 +48,7 @@ dimensions:
 geo:
   latitude: 48.858189
   longitude: 2.34314
+  direction: 160
   country: France
   map: true
 colors:

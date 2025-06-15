@@ -3,7 +3,7 @@ title: Layered symmetry
 file: layered-symmetry.jpg
 alt_text: Reflective glass facade of a modern building with symmetrical
   architecture and a person visible in the reflection.
-date: 2014-03-18 18:58:24 +01:00
+date: 2014-03-18 19:58:24 +02:00
 dates:
   iso: "'2014-03-18'"
   human: "'18 March 2014'"
@@ -54,8 +54,9 @@ dimensions:
   width: 3500
   height: 2335
 geo:
-  latitude: 48.89270904
-  longitude: 2.2350025733333334
+  latitude: 48.892708999999996
+  longitude: 2.235003
+  direction: 30
   country: France
   city: Puteaux
   map: true

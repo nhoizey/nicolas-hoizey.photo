@@ -12496,8 +12496,14 @@
           "green",
           "home",
           "house",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "maison",
           "mer",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "plant",
           "rocher",
           "rock",
@@ -12515,7 +12521,6 @@
         "Byline": "Nicolas Hoizey",
         "City": "Perros-Guirec",
         "State": "Bretagne",
-        "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "LahÃ©rez is a magnificent place, in the heart of the equally magnificent Landes de Ploumanac'h, near Perros-Guirec, in the CÃ´tes d'Armor, in Brittany.\r\rIt is by walking along the customs path that you can enjoy this type of view on the seaside."
@@ -12531,12 +12536,12 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2024-03-25T10:59:17+01:00",
+        "ModifyDate": "2025-06-15T13:32:58+02:00",
         "CreateDate": "2013-08-23T09:56:01.99",
-        "MetadataDate": "2024-03-25T10:59:17+01:00",
+        "MetadataDate": "2025-06-15T13:32:58+02:00",
         "Rating": 5,
         "Label": "Vert",
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -12572,8 +12577,14 @@
           "green",
           "home",
           "house",
+          "landscape",
+          "landscape photography",
+          "landscape with people",
           "maison",
           "mer",
+          "paysage",
+          "paysage avec des humains",
+          "photographie de paysage",
           "plant",
           "rocher",
           "rock",
@@ -12597,7 +12608,6 @@
         "pick": 0
       },
       "Iptc4xmpCore": {
-        "CountryCode": "FR",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiEmailWork": "nicolas@hoizey.com",
@@ -12620,7 +12630,7 @@
         "FNumber": 16,
         "ISO": 200,
         "DateTimeOriginal": "2013-08-23T07:56:01.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 24,
         "LensModel": "EF24-70mm f/2.8L USM"
       },
@@ -12629,18 +12639,19 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           48,
-          49.9356563,
+          49.93566,
           0
         ],
         "GPSLongitudeRef": "W",
         "GPSLongitude": [
           3,
-          28.5196275,
+          28.51962,
           0
         ],
-        "GPSAltitude": 15.04,
-        "latitude": 48.832260938333334,
-        "longitude": -3.4753271249999997
+        "GPSAltitude": 15,
+        "GPSImgDirection": 355,
+        "latitude": 48.832261,
+        "longitude": -3.475327
       }
     },
     "dimensions": {
@@ -12922,6 +12933,7 @@
           "city",
           "eau",
           "fleuve",
+          "pier",
           "quai",
           "river",
           "urbain",
@@ -12941,12 +12953,12 @@
         "Caption": "Actually shot in Paris, on the dock of the Seine river."
       },
       "xmp": {
-        "ModifyDate": "2024-05-29T23:08:19+02:00",
+        "ModifyDate": "2025-06-15T13:35:26+02:00",
         "CreateDate": "2014-03-14T14:24:29",
-        "MetadataDate": "2024-05-29T23:08:19+02:00",
+        "MetadataDate": "2025-06-15T13:35:26+02:00",
         "Label": "Vert",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.3 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -12974,6 +12986,7 @@
           "city",
           "eau",
           "fleuve",
+          "pier",
           "quai",
           "river",
           "urbain",
@@ -13035,6 +13048,7 @@
           20.5884,
           0
         ],
+        "GPSImgDirection": 160,
         "latitude": 48.858189,
         "longitude": 2.34314
       }
@@ -13075,9 +13089,7 @@
         "DigitalCreationTime": "185824",
         "Byline": "Nicolas Hoizey",
         "City": "Puteaux",
-        "Sublocation": "Defense Nord",
         "State": "Hauts-de-Seine",
-        "CountryCode": "FR",
         "Country": "France",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "These glass panels are located beneath the Grande Arche de La DÃ©fense, Paris, France.\r\rThe Grande Arche was designed by Danish architect Johan Otto von Spreckelsen, and built in the late 1980s.\r\rThese panels help to limit the impact of the strong winds circulating through the corridor created by the many towers of this business district."
@@ -13090,12 +13102,12 @@
         "LateralChromaticAberrationCorrectionAlreadyApplied": true
       },
       "xmp": {
-        "ModifyDate": "2024-03-25T12:26:28+01:00",
+        "ModifyDate": "2025-06-15T13:35:56+02:00",
         "CreateDate": "2014-03-18T18:58:24",
-        "MetadataDate": "2024-03-25T12:26:28+01:00",
+        "MetadataDate": "2025-06-15T13:35:56+02:00",
         "Label": "Vert",
         "Rating": 5,
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)"
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
       "dc": {
         "format": "image/jpeg",
@@ -13136,8 +13148,6 @@
         "pick": 0
       },
       "Iptc4xmpCore": {
-        "Location": "Defense Nord",
-        "CountryCode": "FR",
         "CreatorContactInfo": {
           "CiAdrPcode": 91230,
           "CiEmailWork": "nicolas@hoizey.com",
@@ -13160,7 +13170,7 @@
         "FNumber": 5.6,
         "ISO": 2000,
         "DateTimeOriginal": "2014-03-18T17:58:24.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 32,
         "FocalLengthIn35mmFormat": 66,
         "LensModel": "LUMIX G VARIO 12-32/F3.5-5.6"
@@ -13170,17 +13180,18 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           48,
-          53.5625424,
+          53.56254,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           2,
-          14.1001544,
+          14.10018,
           0
         ],
-        "latitude": 48.89270904,
-        "longitude": 2.2350025733333334
+        "GPSImgDirection": 30,
+        "latitude": 48.892708999999996,
+        "longitude": 2.235003
       }
     },
     "dimensions": {
@@ -29521,11 +29532,15 @@
           "Roma",
           "Rome",
           "Trevi Fountain",
+          "city",
           "eau",
           "fontaine",
           "fontana",
           "fountain",
           "statue",
+          "urbain",
+          "urban",
+          "ville",
           "water"
         ],
         "DateCreated": "20170511",
@@ -29535,7 +29550,8 @@
         "Byline": "Nicolas Hoizey",
         "City": "Rome",
         "Sublocation": "Trevi Fountain",
-        "Country": "Italy",
+        "State": "Rome",
+        "Country": "Italie",
         "CopyrightNotice": "Nicolas Hoizey",
         "Caption": "The Trevi Fountain is a fountain in the Trevi district in Rome, Italy.\r\rStanding 26.3 metres (86 ft) high and 49.15 metres (161.3 ft) wide, it is the largest Baroque fountain in the city and one of the most famous fountains in the world."
       },
@@ -29565,19 +29581,23 @@
           "Roma",
           "Rome",
           "Trevi Fountain",
+          "city",
           "eau",
           "fontaine",
           "fontana",
           "fountain",
           "statue",
+          "urbain",
+          "urban",
+          "ville",
           "water"
         ]
       },
       "xmp": {
-        "CreatorTool": "Adobe Photoshop Lightroom Classic 13.2 (Macintosh)",
-        "ModifyDate": "2024-03-22T17:35:43+01:00",
+        "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
+        "ModifyDate": "2025-06-15T13:38:14+02:00",
         "CreateDate": "2017-05-11T19:14:50",
-        "MetadataDate": "2024-03-22T17:35:43+01:00",
+        "MetadataDate": "2025-06-15T13:38:14+02:00",
         "Label": "Vert",
         "Rating": 5
       },
@@ -29604,8 +29624,7 @@
         }
       },
       "xmpDM": {
-        "good": true,
-        "pick": 1
+        "pick": 0
       },
       "ifd0": {
         "ImageDescription": "The Trevi Fountain is a fountain in the Trevi district in Rome, Italy.\n\nStanding 26.3 metres (86 ft) high and 49.15 metres (161.3 ft) wide, it is the largest Baroque fountain in the city and one of the most famous fountains in the world.",
@@ -29617,7 +29636,7 @@
         "FNumber": 8,
         "ISO": 640,
         "DateTimeOriginal": "2017-05-11T17:14:50.000Z",
-        "OffsetTime": "+01:00",
+        "OffsetTime": "+02:00",
         "FocalLength": 10,
         "FocalLengthIn35mmFormat": 15,
         "LensModel": "XF10-24mmF4 R OIS"
@@ -29627,17 +29646,18 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           41,
-          54.0505982,
+          54.05058,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           12,
-          29.0060907,
+          29.0061,
           0
         ],
-        "latitude": 41.90084330333333,
-        "longitude": 12.483434845
+        "GPSImgDirection": 340,
+        "latitude": 41.900843,
+        "longitude": 12.483435
       }
     },
     "dimensions": {
@@ -62109,9 +62129,9 @@
       "xmp": {
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-05-30T02:14:45+02:00",
+        "ModifyDate": "2025-06-15T19:27:21+02:00",
         "CreateDate": "2023-10-16T10:26:27+02:00",
-        "MetadataDate": "2025-05-30T02:14:45+02:00"
+        "MetadataDate": "2025-06-15T19:27:21+02:00"
       },
       "aux": {
         "FujiRatingAlreadyApplied": true,
@@ -62226,6 +62246,7 @@
         "GPSTimeStamp": "7:55:10",
         "GPSSpeedRef": "K",
         "GPSSpeed": 0,
+        "GPSImgDirection": 310,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2023:10:16",
         "latitude": 45.058814,
@@ -66698,9 +66719,9 @@
       },
       "xmp": {
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-05-30T02:16:22+02:00",
+        "ModifyDate": "2025-06-15T19:27:11+02:00",
         "CreateDate": "2023-10-16T11:55:03+02:00",
-        "MetadataDate": "2025-05-30T02:16:22+02:00",
+        "MetadataDate": "2025-06-15T19:27:11+02:00",
         "Rating": 5
       },
       "aux": {
@@ -66806,26 +66827,23 @@
         "GPSLatitudeRef": "N",
         "GPSLatitude": [
           45,
-          3.49095,
+          3.5879948,
           0
         ],
         "GPSLongitudeRef": "E",
         "GPSLongitude": [
           6,
-          31.4908167,
+          31.4430417,
           0
         ],
-        "GPSAltitudeRef": {
-          "0": 0
-        },
-        "GPSAltitude": 2033,
         "GPSTimeStamp": "9:27:57",
         "GPSSpeedRef": "K",
         "GPSSpeed": 0,
+        "GPSImgDirection": 320,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2023:10:16",
-        "latitude": 45.0581825,
-        "longitude": 6.524846945
+        "latitude": 45.059799913333336,
+        "longitude": 6.524050695
       }
     },
     "dimensions": {
@@ -67102,9 +67120,9 @@
       "xmp": {
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-05-30T02:17:21+02:00",
+        "ModifyDate": "2025-06-15T19:26:25+02:00",
         "CreateDate": "2023-10-16T14:34:06+02:00",
-        "MetadataDate": "2025-05-30T02:17:21+02:00"
+        "MetadataDate": "2025-06-15T19:26:25+02:00"
       },
       "aux": {
         "FujiRatingAlreadyApplied": true,
@@ -67220,6 +67238,7 @@
         "GPSTimeStamp": "12:18:31",
         "GPSSpeedRef": "K",
         "GPSSpeed": 0,
+        "GPSImgDirection": 277,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2023:10:16",
         "latitude": 45.061303725,
@@ -67476,9 +67495,9 @@
       "xmp": {
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-05-30T02:15:08+02:00",
+        "ModifyDate": "2025-06-15T19:27:19+02:00",
         "CreateDate": "2023-10-16T11:22:17+02:00",
-        "MetadataDate": "2025-05-30T02:15:08+02:00"
+        "MetadataDate": "2025-06-15T19:27:19+02:00"
       },
       "aux": {
         "FujiRatingAlreadyApplied": true,
@@ -67611,6 +67630,7 @@
         "GPSTimeStamp": "9:22:55",
         "GPSSpeedRef": "K",
         "GPSSpeed": 0,
+        "GPSImgDirection": 293,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2023:10:16",
         "latitude": 45.05819972166667,
@@ -67694,9 +67714,9 @@
       "xmp": {
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)",
-        "ModifyDate": "2025-05-30T02:16:29+02:00",
+        "ModifyDate": "2025-06-15T19:27:33+02:00",
         "CreateDate": "2023-10-16T12:47:15+02:00",
-        "MetadataDate": "2025-05-30T02:16:29+02:00"
+        "MetadataDate": "2025-06-15T19:27:33+02:00"
       },
       "aux": {
         "FujiRatingAlreadyApplied": true,
@@ -67823,6 +67843,7 @@
         "GPSTimeStamp": "10:10:35",
         "GPSSpeedRef": "K",
         "GPSSpeed": 0,
+        "GPSImgDirection": 290,
         "GPSMapDatum": "WGS-84",
         "GPSDateStamp": "2023:10:16",
         "latitude": 45.060739915,
@@ -94224,9 +94245,9 @@
         "Firmware": "2.0.4"
       },
       "xmp": {
-        "ModifyDate": "2025-06-03T16:52:14+02:00",
+        "ModifyDate": "2025-06-15T13:32:27+02:00",
         "CreateDate": "2013-08-22T10:18:55.49",
-        "MetadataDate": "2025-06-03T16:52:14+02:00",
+        "MetadataDate": "2025-06-15T13:32:27+02:00",
         "Rating": 5,
         "CreatorTool": "Adobe Photoshop Lightroom Classic 14.3.1 (Macintosh)"
       },
@@ -94337,6 +94358,7 @@
           0
         ],
         "GPSAltitude": 9.51,
+        "GPSImgDirection": 123,
         "latitude": 48.81469057166667,
         "longitude": -3.5432375
       }
