@@ -3,6 +3,12 @@ import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import polylabel from "polylabel";
 import GlobeMinimap from "mapbox-gl-globe-minimap";
 
+const TERRAIN_EXAGGERATION = ['interpolate', ['linear'],
+	['zoom'],
+	10, 0.0,
+	14, 1.5];
+const SMALL_VERSION_PIXELS = 900 * 600;
+
 const decodeHTML = (html) => {
 	const txt = document.createElement("textarea");
 	txt.innerHTML = html;
