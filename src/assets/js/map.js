@@ -407,8 +407,8 @@ const decodeHTML = (html) => {
 									photoData.geometry.direction || 180 - Math.random() * 360, // -180 -> 180 degrees
 								curve: 2,
 								// speed: 0.5,
-								duration: 10000,
-								essential: true, // This animation is considered essential with respect to prefers-reduced-motion
+								duration: 15000,
+								essential: true, // This animation is considered essential with respect to &prefers-reduced-motion
 							});
 
 							currentPhotoIndex =
