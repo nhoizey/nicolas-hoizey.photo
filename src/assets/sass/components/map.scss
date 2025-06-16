@@ -59,9 +59,19 @@
     }
   }
 
+  @keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
   .mapboxgl-popup {
     --mapboxgl-popup-width: 220px;
     width: var(--mapboxgl-popup-width);
+    animation: fadein 0.5s;
   }
 
   .mapboxgl-popup.autoplay.portrait {
