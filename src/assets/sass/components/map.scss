@@ -69,22 +69,22 @@
   }
 
   .mapboxgl-popup {
-    --mapboxgl-popup-width: 220px;
-    width: var(--mapboxgl-popup-width);
+    // --mapboxgl-popup-width: 220px;
+    // width: var(--mapboxgl-popup-width);
     animation: fadein 0.5s;
   }
 
   .mapboxgl-popup.autoplay.portrait {
-    --mapboxgl-popup-width: min(300px, 30vw);
+    // --mapboxgl-popup-width: min(300px, 30vw);
   }
 
   .mapboxgl-popup.autoplay.landscape {
-    --mapboxgl-popup-width: min(400px, 30vw);
+    // --mapboxgl-popup-width: min(400px, 30vw);
   }
 
   .mapboxgl-popup-content {
     background-color: colors.$surface;
-    width: calc(var(--mapboxgl-popup-width) + 2px + 2 * spaces.$xxxs);
+    // width: calc(var(--mapboxgl-popup-width) + 2px + 2 * spaces.$xxxs);
 
     img {
       border: 1px solid #fff;
