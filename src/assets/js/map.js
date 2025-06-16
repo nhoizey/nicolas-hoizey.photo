@@ -531,13 +531,6 @@ const decodeHTML = (html) => {
 		// });
 
 		map.on("load", () => {
-			map.setFog({
-				color: "#222222",
-				"horizon-blend": 0.05,
-				"high-color": "#292929",
-				"space-color": "#292929",
-				"star-intensity": 0.2,
-			});
 			addLayers();
 			addControls();
 		});
