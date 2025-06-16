@@ -1,12 +1,17 @@
+import GlobeMinimap from "mapbox-gl-globe-minimap";
 import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
 import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import polylabel from "polylabel";
-import GlobeMinimap from "mapbox-gl-globe-minimap";
 
-const TERRAIN_EXAGGERATION = ['interpolate', ['linear'],
-	['zoom'],
-	10, 0.0,
-	14, 1.5];
+const TERRAIN_EXAGGERATION = [
+	"interpolate",
+	["linear"],
+	["zoom"],
+	10,
+	0.0,
+	14,
+	1.5,
+];
 const SMALL_VERSION_PIXELS = 900 * 600;
 
 const decodeHTML = (html) => {
@@ -377,7 +382,8 @@ const decodeHTML = (html) => {
 
 							const photoData = window.geoJsonFeatures[currentPhotoIndex];
 
-							const ratio = photoData.properties.width / photoData.properties.height;
+							const ratio =
+								photoData.properties.width / photoData.properties.height;
 							const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
 							const targetWidth = ratio * targetHeight;
 
@@ -435,11 +441,11 @@ const decodeHTML = (html) => {
 
 			map.addControl(
 				new GlobeMinimap({
-					globeSize: Math.min(100, window.innerWidth / 10)
+					globeSize: Math.min(100, window.innerWidth / 10),
 				}),
-				"bottom-right"
+				"bottom-right",
 			);
-		}
+		};
 
 		// After the last frame rendered before the map enters an "idle" state.
 		// map.on("idle", () => {
