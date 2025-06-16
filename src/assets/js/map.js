@@ -57,6 +57,7 @@ const decodeHTML = (html) => {
 			cooperativeGestures: true,
 			hash: true,
 			renderWorldCopies: true,
+
 			transformRequest: (url, resourceType) => {
 				// console.log({ url, resourceType });
 				if (url.startsWith("https://nicolas-hoizey.photo")) {
@@ -172,7 +173,7 @@ const decodeHTML = (html) => {
 											if (err) return;
 
 											userInteracting = true;
-											clusterMove = true;
+											// clusterMove = true;
 
 											map.flyTo({
 												center: polylabel([clusterMarkers]),
@@ -209,6 +210,7 @@ const decodeHTML = (html) => {
 					layout: {
 						"text-field": "{point_count_abbreviated}",
 						"text-size": 12,
+						// "text-allow-overlap": true,
 					},
 					paint: {
 						"text-color": "#ffffff",
@@ -229,7 +231,12 @@ const decodeHTML = (html) => {
 					sprite: `${window.location.origin}/ui/thumbnails/sprite`,
 					layout: {
 						"icon-image": "{slug}",
+						"icon-occlusion-opacity": 1,
+
 						"icon-allow-overlap": true,
+						"icon-ignore-placement": false,
+						// "text-allow-overlap": true,
+						// "text-ignore-placement": true,
 					},
 				});
 
@@ -244,7 +251,7 @@ const decodeHTML = (html) => {
 						coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
 					}
 
-					popupOpened = true;
+					// popupOpened = true;
 					const popup = new mapboxgl.Popup()
 						.setLngLat(coordinates)
 						.setHTML(
@@ -260,6 +267,7 @@ const decodeHTML = (html) => {
 					map.getCanvas().style.cursor = "pointer";
 					userInteracting = true;
 				});
+
 				map.on("mouseleave", "unclustered-point-photo", () => {
 					map.getCanvas().style.cursor = "";
 					userInteracting = false;
@@ -344,6 +352,8 @@ const decodeHTML = (html) => {
 								"mapStyle",
 								style.match(/satellite/) ? "Satellite" : "Terrain",
 							);
+							// map.setConfigProperty(style.match(/satellite/) ? "satellite" : "terrain", 'show3dObjects', false);
+							addLayers();
 						},
 					},
 				}),
