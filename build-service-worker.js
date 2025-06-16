@@ -9,7 +9,7 @@ esbuild
 			"process.env.NODE_ENV": '"production"',
 		},
 		platform: "browser",
-		target: "es6",
+		target: "es2020",
 		bundle: true,
 		minify: true,
 		sourcemap: true,
