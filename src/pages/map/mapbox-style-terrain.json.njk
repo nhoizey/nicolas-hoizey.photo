@@ -5,27 +5,35 @@ eleventyExcludeFromCollections: true
 ---
 {
   "version": 8,
-  "name": "Standard",
-  "metadata": {
-    "mapbox:autocomposite": true,
-    "mapbox:uiParadigm": "imports"
-  },
+  "id": "terrain",
+  "name": "Terrain",
+  "owner": "nhoizey",
+  "draft": false,
   "imports": [
     {
       "id": "basemap",
-      "url": "mapbox://styles/mapbox/standard"
+      "url": "mapbox://styles/mapbox/standard",
+      "config": {
+				"font": "DIN Pro",
+				"showLandmarkIcons": true,
+				"showPlaceLabels": true,
+				"show3dObjects": false,
+				"showPedestrianRoads": true,
+				"showRoadsAndTransit": true,
+				"showRoadLabels": false,
+				"showTransitLabels": false,
+				"showPointOfInterestLabels": false
+      }
+    },
+    {
+      "id": "common",
+      "url": "{{ site.url }}/map/mapbox-style-common.json"
     }
   ],
-  "center": [0, 20],
-  "zoom": 2,
   "sources": {},
-  "sprite": "{{ site.url }}/ui/thumbnails/{% if build.env == "build" %}{{ sprites.signature }}/{% endif %}sprite",
-  "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
   "layers": [],
-  "visibility": "public",
+  "sprite": "{{ site.url }}/ui/thumbnails/{% if build.env == "build" %}{{ sprites.signature }}/{% endif %}sprite",
+  "visibility": "private",
   "created": "1970-01-01T00:00:00.000Z",
-  "modified": "1970-01-01T00:00:00.000Z",
-  "owner": "mapbox",
-  "id": "outdoors-v11",
-  "draft": false
+  "modified": "1970-01-01T00:00:00.000Z"
 }
