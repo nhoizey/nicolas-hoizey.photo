@@ -403,9 +403,8 @@ const decodeHTML = (html) => {
 								center: photoData.geometry.coordinates,
 								zoom: 16,
 								pitch: 30 + Math.random() * 30, // 0 (zenith) -> 90 degrees
-								bearing:
+								bearing: photoData.geometry.direction || Math.random() * 360, // 360 degrees starting from North
 								curve: 2,
-									photoData.geometry.direction || Math.random() * 360, // 360 degrees starting from North
 								// speed: 0.5,
 								duration: 15000,
 								essential: true, // This animation is considered essential with respect to &prefers-reduced-motion
