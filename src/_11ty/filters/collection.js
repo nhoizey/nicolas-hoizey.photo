@@ -47,7 +47,7 @@ export const shot_with = (photosCollection, gear) => {
 			}
 			if (pageGear?.lenses !== undefined) {
 				let lenseFound = false;
-				pageGear.lenses.forEach((data, lense) => {
+				pageGear.lenses.forEach((data, _lense) => {
 					if (`${data.brand} ${data.model}` === gear) {
 						lenseFound = true;
 					}

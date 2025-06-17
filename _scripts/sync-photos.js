@@ -467,7 +467,7 @@ SYNC ${photo}`);
 		if (photosData[photo].lqip) {
 			photoYFM.lqip = photosData[photo].lqip;
 		} else {
-			const { data, info } = await sharp(photoPath)
+			const { data, _info } = await sharp(photoPath)
 				.resize({
 					width: 100,
 				})

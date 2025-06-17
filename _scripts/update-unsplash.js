@@ -51,7 +51,7 @@ const syncUnsplash = async () => {
 					if (result.errors) {
 						console.log("error occurred: ", result.errors[0]);
 					} else {
-						const { total, results } = result.response;
+						const { _total, results } = result.response;
 						unsplashPhotos = [...unsplashPhotos, ...results];
 					}
 				});

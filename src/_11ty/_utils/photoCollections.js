@@ -29,7 +29,7 @@ export const getUniquePhotos = (collection) => {
 
 	const distinctPhotosSlugs = [];
 	uniquePhotos = getPhotosInGalleries(collection)
-		.sort((a, b) => {
+		.sort((a, _b) => {
 			// Put travel photos first
 			return a.page.filePathStem.match("/travels/") ? -1 : 1;
 		})

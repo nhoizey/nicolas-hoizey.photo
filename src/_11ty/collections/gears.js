@@ -18,7 +18,7 @@ export const gears = (collection) => {
 				},
 			);
 			if (photoData.gear.lenses?.length > 0) {
-				photoData.gear.lenses.forEach((lenseInfo, lense) => {
+				photoData.gear.lenses.forEach((lenseInfo, _lense) => {
 					gearsCollection.set(`${lenseInfo.brand} ${lenseInfo.model}`, {
 						type: "lense",
 						brand: lenseInfo.brand,

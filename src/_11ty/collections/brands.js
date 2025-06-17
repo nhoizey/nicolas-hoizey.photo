@@ -13,7 +13,7 @@ export const brands = (collection) => {
 			newBrands.push(photoData.gear.camera.brand);
 		}
 		if (photoData.gear?.lenses?.length > 0) {
-			photoData.gear.lenses.forEach((lenseInfo, lense) => {
+			photoData.gear.lenses.forEach((lenseInfo, _lense) => {
 				newBrands.push(lenseInfo.brand);
 			});
 		}

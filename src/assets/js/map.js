@@ -123,7 +123,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 							clusterId,
 							point_count,
 							0,
-							(err, clusterFeatures) => {
+							(_err, clusterFeatures) => {
 								let popupString = "";
 								if (map.getZoom() === maxZoomLevel) {
 									// Show photos from cluster
@@ -318,7 +318,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 				new MapboxStyleSwitcherControl(mapStyles, {
 					defaultStyle: localStorage.getItem("mapStyle") || "Satellite",
 					eventListeners: {
-						onChange: (event, style) => {
+						onChange: (_event, style) => {
 							localStorage.setItem(
 								"mapStyle",
 								style.match(/satellite/) ? "Satellite" : "Terrain",
