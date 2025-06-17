@@ -2,7 +2,7 @@ import sortOrderThenAlpha from "../_utils/sort-order-then-alpha.js";
 
 const galleriesGlob = "src/pages/galleries/**/index.md";
 
-let galleriesList = undefined;
+let galleriesList;
 const getGalleries = (collection) => {
 	if (galleriesList !== undefined) {
 		return galleriesList;

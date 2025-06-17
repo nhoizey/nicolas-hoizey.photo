@@ -2,7 +2,7 @@ import { getUniquePhotos } from "../_utils/photoCollections.js";
 
 const settingsList = ["aperture", "shutter_speed", "iso", "focal_length"];
 
-let statisticsList = undefined;
+let statisticsList;
 const getStatistics = (collection) => {
 	if (statisticsList !== undefined) {
 		return statisticsList;

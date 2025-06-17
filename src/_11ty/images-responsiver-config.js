@@ -67,7 +67,7 @@ const runBeforeHook = (image, document) => {
 };
 
 const runAfterHook = (image, document) => {
-	let caption = undefined;
+	let caption;
 
 	// Extract `title` attribute of the image
 	const title = image.getAttribute("title");

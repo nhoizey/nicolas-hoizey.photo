@@ -12,7 +12,7 @@ export const ignoredSlugs = [
 	"gourmandise",
 ];
 
-let photos = undefined;
+let photos;
 export const getPhotos = (collection) => {
 	if (photos !== undefined) {
 		return photos;
@@ -21,7 +21,7 @@ export const getPhotos = (collection) => {
 	return photos;
 };
 
-let uniquePhotos = undefined;
+let uniquePhotos;
 export const getUniquePhotos = (collection) => {
 	if (uniquePhotos !== undefined) {
 		return uniquePhotos;
@@ -44,7 +44,7 @@ export const getUniquePhotos = (collection) => {
 	return uniquePhotos;
 };
 
-let photosInGalleries = undefined;
+let photosInGalleries;
 export const getPhotosInGalleries = (collection) => {
 	if (photosInGalleries !== undefined) {
 		return photosInGalleries;
@@ -53,7 +53,7 @@ export const getPhotosInGalleries = (collection) => {
 	return photosInGalleries;
 };
 
-let photosInGalleriesSlugs = undefined;
+let photosInGalleriesSlugs;
 export const getPhotosInGalleriesSlugs = (collection) => {
 	if (photosInGalleriesSlugs !== undefined) {
 		return photosInGalleriesSlugs;
@@ -64,7 +64,7 @@ export const getPhotosInGalleriesSlugs = (collection) => {
 	return photosInGalleriesSlugs;
 };
 
-let photosNotInGalleries = undefined;
+let photosNotInGalleries;
 export const getPhotosNotInGalleries = (collection) => {
 	if (photosNotInGalleries !== undefined) {
 		return photosNotInGalleries;
