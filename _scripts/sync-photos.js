@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-// Load .env variables with dotenv
-import {} from "dotenv/config";
-
 import fs from "node:fs";
 import path from "node:path";
+// Load .env variables with dotenv
+// biome-ignore lint/correctness/noUnusedImports: dotenv
+import {} from "dotenv/config";
 import { decodeHTML } from "entities";
 import exifr from "exifr";
 import Fraction from "fraction.js";
@@ -26,6 +26,7 @@ const DIFFS = path.join(SRC, "_temp_diffs");
 const SMALL_VERSION_PIXELS = 900 * 600;
 
 import CLEAN_GEAR from "../src/_data/gear.json" with { type: "json" };
+
 const MISSING_GEAR = { cameras: [], lenses: [] };
 
 import photosData from "../_cache/photos-data.json" with { type: "json" };

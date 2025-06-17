@@ -1,7 +1,7 @@
 {
 	"$schema": "https://biomejs.dev/schemas/2.0.0/schema.json",
 	"files": {
-		"includes": ["**", "!**/_cache", "!**/cache"]
+		"includes": ["**", "!**/_cache", "!**/cache", "!/src/_data/platforms.json"]
 	},
 	"vcs": {
 		"enabled": true,

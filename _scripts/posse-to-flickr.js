@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-// Load .env variables with dotenv
-import {} from "dotenv/config";
-
 import path from "node:path";
 import { argv, exit } from "node:process";
+// Load .env variables with dotenv
+// biome-ignore lint/correctness/noUnusedImports: dotenv
+import {} from "dotenv/config";
 
 import glob from "fast-glob";
 import { createFlickr } from "flickr-sdk";

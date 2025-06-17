@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-// Load .env variables with dotenv
-import {} from "dotenv/config";
-
 import { access, stat } from "node:fs/promises";
 import path from "node:path";
+// Load .env variables with dotenv
+// biome-ignore lint/correctness/noUnusedImports: dotenv
+import {} from "dotenv/config";
 import glob from "fast-glob";
 import { Cluster } from "puppeteer-cluster";
 import puppeteer from "puppeteer-core";

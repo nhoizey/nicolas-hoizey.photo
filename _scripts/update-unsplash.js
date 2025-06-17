@@ -1,12 +1,14 @@
 // Load .env variables with dotenv
-import {} from "dotenv/config";
 
 import fs from "node:fs";
 import path from "node:path";
+// biome-ignore lint/correctness/noUnusedImports: dotenv
+import {} from "dotenv/config";
 import fetch from "node-fetch";
 import { createApi } from "unsplash-js";
 
 const PLATFORMS_FILE = "src/_data/platforms.json";
+
 import platformsData from "../src/_data/platforms.json" with { type: "json" };
 
 const syncUnsplash = async () => {

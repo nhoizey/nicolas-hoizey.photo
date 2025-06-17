@@ -9,6 +9,7 @@ import { readFromCache, writeToCache } from "../src/_utils/cache.js";
 const domain = new URL(pkg.homepage).hostname;
 
 // Load .env variables with dotenv
+// biome-ignore lint/correctness/noUnusedImports: dotenv
 import {} from "dotenv/config";
 
 // Define Cache Location and API Endpoint

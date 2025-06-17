@@ -13,6 +13,7 @@ const allPhotos = glob
 	);
 
 const webmentionsInterestingness = {};
+
 import webmentionsCache from "../../../_cache/webmentions.json" with {
 	type: "json",
 };
