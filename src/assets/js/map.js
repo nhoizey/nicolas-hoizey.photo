@@ -23,6 +23,8 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 	const geoJsonData = await geoJsonResponse.json();
 	window.geoJsonFeatures = geoJsonData.features;
 
+	let popup = null;
+
 	if (mapElement) {
 		mapboxgl.accessToken = window.MAPBOX_ACCESS_TOKEN;
 		const map = new mapboxgl.Map({
@@ -132,7 +134,13 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 										const imageProperties = feature.properties;
 										popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a></p>`;
 									}
-									const popup = new mapboxgl.Popup()
+
+									if (popup) {
+										popup.remove();
+										popup = null;
+									}
+
+									popup = new mapboxgl.Popup()
 										.setLngLat(coordinates)
 										.setHTML(
 											`<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`,
@@ -214,8 +222,9 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 				});
 
 				map.on("click", "unclustered-point-photo", (e) => {
-					const coordinates = e.features[0].geometry.coordinates.slice();
-					const imageProperties = e.features[0].properties;
+					const photoData = e.features[0];
+					const photoProperties = photoData.properties;
+					const coordinates = photoData.geometry.coordinates.slice();
 
 					// Ensure that if the map is zoomed out such that
 					// multiple copies of the feature are visible, the
@@ -224,10 +233,24 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
 					}
 
-					const popup = new mapboxgl.Popup()
+					const ratio =
+						photoProperties.width / photoProperties.height;
+					const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
+					const targetWidth = ratio * targetHeight;
+
+					if (popup) {
+						popup.remove();
+						popup = null;
+					}
+
+					popup = new mapboxgl.Popup({
+						offset: 20,
+						maxWidth: `${Math.floor(targetWidth / 2)}px`,
+						className: `interactive ${photoData.properties.height / photoData.properties.width > 1 ? "portrait" : "landscape"}`,
+					})
 						.setLngLat(coordinates)
 						.setHTML(
-							`<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a>`,
+							`<a href="${photoProperties.url}"><img src="/photos/${photoProperties.slug}/small.jpg" width="${targetWidth / 2}" height="${targetHeight / 2}" alt>${photoProperties.title}</a>`,
 						)
 						.addTo(map);
 					popup.on("close", () => {});
@@ -334,7 +357,6 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 					let currentPhotoIndex =
 						Number.parseInt(localStorage.getItem("currentPhotoIndex"), 10) || 0;
 					let intervalID = null;
-					let popup = null;
 
 					const div = document.createElement("div");
 					div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
@@ -350,21 +372,23 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 							}
 
 							const photoData = window.geoJsonFeatures[currentPhotoIndex];
+							const photoProperties = photoData.properties;
+
 
 							const ratio =
-								photoData.properties.width / photoData.properties.height;
+								photoProperties.width / photoProperties.height;
 							const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
 							const targetWidth = ratio * targetHeight;
 
 							popup = new mapboxgl.Popup({
-								offset: [0, -20],
+								offset: 20,
 								closeButton: false,
 								maxWidth: `${Math.floor(targetWidth / 2)}px`,
-								className: `autoplay ${photoData.properties.height / photoData.properties.width > 1 ? "portrait" : "landscape"}`,
+								className: `autoplay ${photoProperties.height / photoProperties.width > 1 ? "portrait" : "landscape"}`,
 							})
 								.setLngLat(photoData.geometry.coordinates)
 								.setHTML(
-									`<a href="${photoData.properties.url}"><img src="/photos/${photoData.properties.slug}/small.jpg" width="${targetWidth / 2}" height="${targetHeight / 2}" alt>${photoData.properties.title}</a>`,
+									`<a href="${photoProperties.url}"><img src="/photos/${photoProperties.slug}/small.jpg" width="${targetWidth / 2}" height="${targetHeight / 2}" alt>${photoProperties.title}</a>`,
 								)
 								.addTo(map);
 
