@@ -34,7 +34,7 @@ export const tagToHashtag = (tag) => {
 	hashtag = hashtag.replaceAll("'", " ");
 	hashtag = hashtag.replaceAll("&#39;", " ");
 
-	const words = hashtag.replaceAll(/[-\.]/g, " ").split(" ");
+	const words = hashtag.replaceAll(/[-.]/g, " ").split(" ");
 	hashtag = `#${words[0]}${words
 		.slice(1)
 		.map((word) => word.charAt(0).toUpperCase() + word.substr(1))

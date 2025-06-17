@@ -3,11 +3,11 @@ import getPhotoData from "../_11ty/_utils/photo-data.js";
 
 // TODO: use photoCollections
 const isPhotoInGallery = (data) =>
-	data.page.filePathStem.match(/^\/pages\/galleries\/[^\/]+/) &&
+	data.page.filePathStem.match(/^\/pages\/galleries\/[^/]+/) &&
 	!data.page.filePathStem.endsWith("/index");
 
 const isPhotoInPhotos = (data) =>
-	data.page.filePathStem.match(/^\/collections\/photos\/[^\/]+\/index/);
+	data.page.filePathStem.match(/^\/collections\/photos\/[^/]+\/index/);
 
 export const opengraph = {
 	type: (data) => (data.page.url === "/" ? "website" : "article"),
@@ -27,7 +27,7 @@ export const origin = (data) => {
 	if (isPhotoInPhotos(data)) {
 		return getPhotoData(
 			data.page.filePathStem.replace(
-				/^\/collections\/photos\/([^\/]+)\/index$/,
+				/^\/collections\/photos\/([^/]+)\/index$/,
 				"$1",
 			),
 		);

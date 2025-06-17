@@ -9,7 +9,7 @@ const getFilteredCollection = (collection, folder) => {
 		.getFilteredByGlob(`src/${folder}/**/*.md`)
 		.filter(
 			(item) =>
-				!item.filePathStem.match(/^\/[^\/]+\/index$/) &&
+				!item.filePathStem.match(/^\/[^/]+\/index$/) &&
 				(item.page.date <= Date.now() ||
 					process.env.ELEVENTY_RUN_MODE !== "build"),
 		)

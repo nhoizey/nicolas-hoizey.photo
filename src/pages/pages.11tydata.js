@@ -5,7 +5,7 @@ export default {
 				// A layout has been set in the content Front Matter
 				return data.layout;
 			}
-			if (data.page.filePathStem.match(/^\/pages\/galleries\/[^\/]+/)) {
+			if (data.page.filePathStem.match(/^\/pages\/galleries\/[^/]+/)) {
 				if (data.page.filePathStem.endsWith("/index")) {
 					return "galleries";
 				}
@@ -20,7 +20,7 @@ export default {
 				return data.permalink;
 			}
 			const path = data.page.filePathStem.replace(/^\/pages/, "");
-			if (path.match(/^\/galleries\/[^\/]+/) && !path.endsWith("/index")) {
+			if (path.match(/^\/galleries\/[^/]+/) && !path.endsWith("/index")) {
 				return `${path}/index.html`;
 			}
 			return `${path.replace(/^/, "")}.html`;
