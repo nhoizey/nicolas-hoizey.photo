@@ -39,7 +39,6 @@ const syncPixelfed = async () => {
 	const me = await masto.v1.accounts.verifyCredentials();
 
 	let lastCallLength = -1;
-	let statusesIndex = 0;
 	let lastId = null;
 
 	while (lastCallLength !== 0) {
@@ -67,8 +66,6 @@ const syncPixelfed = async () => {
 		lastCallLength = pixelfedPhotos.length;
 
 		if (lastCallLength !== 0) {
-			statusesIndex += lastCallLength;
-
 			for (const photo of pixelfedPhotos) {
 				// console.log(photo.url);
 				lastId = photo.id;
@@ -125,7 +122,6 @@ const syncPixelfed = async () => {
 					}
 				}
 			}
-			// console.log(statusesIndex);
 		}
 	}
 };

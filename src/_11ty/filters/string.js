@@ -28,7 +28,6 @@ export const tagToHashtag = (tag) => {
 	// Use https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize
 	hashtag = hashtag.normalize("NFD");
 	// Remove https://en.wikipedia.org/wiki/Combining_Diacritical_Marks
-	// biome-ignore lint/suspicious/noMisleadingCharacterClass: <explanation>
 	hashtag = hashtag.replace(/[\u0300-\u036f]/gu, "");
 
 	hashtag = hashtag.replaceAll("'", " ");

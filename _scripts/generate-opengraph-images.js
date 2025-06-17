@@ -9,7 +9,7 @@ import glob from "fast-glob";
 import { Cluster } from "puppeteer-cluster";
 import puppeteer from "puppeteer-core";
 
-const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
+// const ONE_DAY_IN_MS = 1000 * 60 * 60 * 24;
 
 (async () => {
 	const cluster = await Cluster.launch({

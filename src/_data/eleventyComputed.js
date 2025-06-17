@@ -16,7 +16,6 @@ export const opengraph = {
 		title: (data) => {
 			return data.page.url === "/" ? pkg.title : data.title;
 		},
-		tagline: (data) => "blop",
 	},
 };
 

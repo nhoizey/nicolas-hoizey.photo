@@ -1,5 +1,3 @@
-import { getUniquePhotos } from "../_utils/photoCollections.js";
-
 export function gallery(...slugs) {
 	if (slugs.length === 0) return "";
 

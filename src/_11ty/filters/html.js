@@ -1,5 +1,4 @@
 import { decodeHTML, encodeHTML } from "entities";
-import { default as truncateHtmlPackage } from "truncate-html";
 
 export const decodeEntities = (content) => {
 	return decodeHTML(content);

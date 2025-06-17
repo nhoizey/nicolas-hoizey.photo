@@ -3,22 +3,7 @@ import GlobeMinimap from "mapbox-gl-globe-minimap";
 import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
 import polylabel from "polylabel";
 
-const TERRAIN_EXAGGERATION = [
-	"interpolate",
-	["linear"],
-	["zoom"],
-	10,
-	0.0,
-	14,
-	1.5,
-];
 const SMALL_VERSION_PIXELS = 900 * 600;
-
-const decodeHTML = (html) => {
-	const txt = document.createElement("textarea");
-	txt.innerHTML = html;
-	return txt.value;
-};
 
 (async (window) => {
 	// Load Mapbox map if necessary
