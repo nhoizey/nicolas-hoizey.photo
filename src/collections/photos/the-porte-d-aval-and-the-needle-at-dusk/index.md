@@ -21,6 +21,8 @@ tags:
   - ciel
   - cliff
   - Côte d'Albâtre
+  - drone
+  - drone photography
   - eau
   - Étretat
   - Europa
