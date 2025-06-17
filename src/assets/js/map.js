@@ -212,6 +212,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 					sprite: `${window.location.origin}/ui/thumbnails/sprite`,
 					layout: {
 						"icon-image": "{slug}",
+						"symbol-z-elevate": true,
 						"icon-occlusion-opacity": 1,
 
 						"icon-allow-overlap": true,
