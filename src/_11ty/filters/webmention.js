@@ -1,11 +1,11 @@
 import glob from "fast-glob";
 import memoize from "fast-memoize";
+import pkg from "../../../package.json" with { type: "json" };
 import { readFromCache } from "../../_utils/cache.js";
 import WEBMENTION_BLOCKLIST from "../webmention-blocklist.json" with {
 	type: "json",
 };
 
-import pkg from "../../../package.json" with { type: "json" };
 const rootUrl = pkg.homepage;
 
 const ownSocialUrls = [

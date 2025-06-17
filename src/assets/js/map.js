@@ -1,6 +1,6 @@
+import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import GlobeMinimap from "mapbox-gl-globe-minimap";
 import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
-import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import polylabel from "polylabel";
 
 const TERRAIN_EXAGGERATION = [

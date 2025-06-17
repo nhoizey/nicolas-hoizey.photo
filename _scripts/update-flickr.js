@@ -4,9 +4,9 @@ import fs from "node:fs";
 import path from "node:path";
 // biome-ignore lint/correctness/noUnusedImports: dotenv
 import {} from "dotenv/config";
+import { createFlickr } from "flickr-sdk";
 import slugify from "../src/_11ty/_utils/slugify.js";
 
-import { createFlickr } from "flickr-sdk";
 const { flickr } = createFlickr(process.env.FLICKR_CONSUMER_KEY);
 
 const PLATFORMS_FILE = "src/_data/platforms.json";

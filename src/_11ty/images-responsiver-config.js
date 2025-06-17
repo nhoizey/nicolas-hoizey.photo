@@ -1,9 +1,9 @@
-import path from "node:path";
-import pkg from "../../package.json" with { type: "json" };
-
 import { readFileSync } from "node:fs";
+import path from "node:path";
 import { imageSize } from "image-size";
 import markdownIt from "markdown-it";
+import pkg from "../../package.json" with { type: "json" };
+
 const md = new markdownIt();
 
 const runBeforeHook = (image, document) => {
