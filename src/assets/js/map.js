@@ -39,10 +39,6 @@ const decodeHTML = (html) => {
 	window.geoJsonFeatures = geoJsonData.features;
 
 	if (mapElement) {
-		let userInteracting = false;
-		let clusterMove = false;
-		let popupOpened = false;
-
 		mapboxgl.accessToken = window.MAPBOX_ACCESS_TOKEN;
 		const map = new mapboxgl.Map({
 			container: mapElementId,
@@ -151,7 +147,6 @@ const decodeHTML = (html) => {
 										const imageProperties = feature.properties;
 										popupString += `<p><a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a></p>`;
 									}
-									popupOpened = true;
 									const popup = new mapboxgl.Popup()
 										.setLngLat(coordinates)
 										.setHTML(
@@ -159,7 +154,6 @@ const decodeHTML = (html) => {
 										)
 										.addTo(map);
 									popup.on("close", () => {
-										popupOpened = false;
 									});
 								} else {
 									// Zoom in cluster
@@ -171,9 +165,6 @@ const decodeHTML = (html) => {
 										.getSource("photos")
 										.getClusterExpansionZoom(clusterId, (err, zoom) => {
 											if (err) return;
-
-											userInteracting = true;
-											// clusterMove = true;
 
 											map.flyTo({
 												center: polylabel([clusterMarkers]),
@@ -188,12 +179,10 @@ const decodeHTML = (html) => {
 
 				map.on("mouseenter", "clusters", () => {
 					map.getCanvas().style.cursor = "pointer";
-					userInteracting = true;
 				});
 
 				map.on("mouseleave", "clusters", () => {
 					map.getCanvas().style.cursor = "";
-					userInteracting = false;
 				});
 			}
 
@@ -251,7 +240,6 @@ const decodeHTML = (html) => {
 						coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
 					}
 
-					// popupOpened = true;
 					const popup = new mapboxgl.Popup()
 						.setLngLat(coordinates)
 						.setHTML(
@@ -259,23 +247,21 @@ const decodeHTML = (html) => {
 						)
 						.addTo(map);
 					popup.on("close", () => {
-						popupOpened = false;
 					});
 				});
 
 				map.on("mouseenter", "unclustered-point-photo", () => {
 					map.getCanvas().style.cursor = "pointer";
-					userInteracting = true;
 				});
 
 				map.on("mouseleave", "unclustered-point-photo", () => {
 					map.getCanvas().style.cursor = "";
-					userInteracting = false;
 				});
 			}
 		};
 
 		const addControls = () => {
+			// Add navigation controls
 			map.addControl(
 				new mapboxgl.NavigationControl({
 					showCompass: true,
@@ -445,89 +431,6 @@ const decodeHTML = (html) => {
 				"bottom-right",
 			);
 		};
-
-		// After the last frame rendered before the map enters an "idle" state.
-		// map.on("idle", () => {
-
-		// 	// Compute new position every… in milliseconds
-		// 	const rotationInterval = 500;
-		// 	// At low zooms, complete a revolution every 5 minutes.
-		// 	const secondsPerRevolution = 5 * 60;
-		// 	// Above zoom level 4, do not rotate.
-		// 	const maxSpinZoom = 4;
-		// 	// Rotate at intermediate speeds between zoom levels 2 and 4.
-		// 	const slowSpinZoom = 2;
-
-		// 	// Respect user preference for reduced motion
-		// 	let animationAllowed = window.matchMedia(
-		// 		"(prefers-reduced-motion: no-preference)",
-		// 	).matches;
-		// 	window
-		// 		.matchMedia("(prefers-reduced-motion)")
-		// 		.addEventListener("change", () => {
-		// 			animationAllowed = window.matchMedia(
-		// 				"(prefers-reduced-motion: no-preference)",
-		// 			).matches;
-		// 		});
-
-		// 	const spinGlobe = (timestamp) => {
-		// 		const zoom = map.getZoom();
-		// 		if (
-		// 			animationAllowed &&
-		// 			!userInteracting &&
-		// 			!popupOpened &&
-		// 			zoom < maxSpinZoom
-		// 		) {
-		// 			let distancePerInterval =
-		// 				(360 / secondsPerRevolution) * (rotationInterval / 1000);
-		// 			if (zoom > slowSpinZoom) {
-		// 				// Slow spinning at higher zooms
-		// 				const zoomDif = (maxSpinZoom - zoom) / (maxSpinZoom - slowSpinZoom);
-		// 				distancePerInterval *= zoomDif;
-		// 			}
-		// 			const center = map.getCenter();
-		// 			center.lng -= distancePerInterval;
-		// 			// Smoothly animate the map over one second.
-		// 			// When this animation is complete, it calls a 'moveend' event.
-		// 			map.easeTo({
-		// 				center,
-		// 				duration: rotationInterval,
-		// 				easing: (n) => n,
-		// 			});
-		// 		}
-		// 		setTimeout(requestAnimationFrame, rotationInterval, spinGlobe);
-		// 	};
-		// 	// TODO: allow activation of spinning with a button
-		// 	requestAnimationFrame(spinGlobe);
-		// });
-
-		// // Pause spinning on interaction
-		// map.on("mousedown", () => {
-		// 	userInteracting = true;
-		// });
-
-		// // Restart spinning the globe when interaction is complete
-		// map.on("mouseup", () => {
-		// 	userInteracting = false;
-		// });
-
-		// // These events account for cases where the mouse has moved
-		// // off the map, so 'mouseup' will not be fired.
-		// map.on("dragend", () => {
-		// 	userInteracting = false;
-		// });
-		// map.on("pitchend", () => {
-		// 	userInteracting = false;
-		// });
-		// map.on("rotateend", () => {
-		// 	userInteracting = false;
-		// });
-		// map.on("moveend", () => {
-		// 	if (userInteracting && clusterMove) {
-		// 		userInteracting = false;
-		// 		clusterMove = false;
-		// 	}
-		// });
 
 		map.on("load", () => {
 			addLayers();
