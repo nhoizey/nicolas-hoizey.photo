@@ -138,8 +138,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 											`<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`,
 										)
 										.addTo(map);
-									popup.on("close", () => {
-									});
+									popup.on("close", () => {});
 								} else {
 									// Zoom in cluster
 									const clusterMarkers = [];
@@ -231,8 +230,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 							`<a href="${imageProperties.url}"><img src="${imageProperties.image}" width="${imageProperties.width}" height="${imageProperties.height}" alt>${imageProperties.title}</a>`,
 						)
 						.addTo(map);
-					popup.on("close", () => {
-					});
+					popup.on("close", () => {});
 				});
 
 				map.on("mouseenter", "unclustered-point-photo", () => {
