@@ -1,8 +1,19 @@
 import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
 import GlobeMinimap from "mapbox-gl-globe-minimap";
+import AnimatedPopup from "mapbox-gl-animated-popup";
 import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
 import polylabel from "polylabel";
 
+const POPUP_OPENING_ANIMATION = {
+	duration: 500,
+	easing: 'easeOutBack',
+	transform: 'scale'
+};
+const POPUP_CLOSING_ANIMATION = {
+	duration: 300,
+	easing: 'easeInBack',
+	transform: 'scale'
+};
 const SMALL_VERSION_PIXELS = 900 * 600;
 
 (async (window) => {
@@ -140,7 +151,10 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 										popup = null;
 									}
 
-									popup = new mapboxgl.Popup()
+									popup = new AnimatedPopup({
+										openingAnimation: POPUP_OPENING_ANIMATION,
+										closingAnimation: POPUP_CLOSING_ANIMATION
+									})
 										.setLngLat(coordinates)
 										.setHTML(
 											`<div class="mapboxgl-popup-photos"><p>${childrenCount} photos:</p>${popupString}</div>`,
@@ -244,7 +258,9 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						popup = null;
 					}
 
-					popup = new mapboxgl.Popup({
+					popup = new AnimatedPopup({
+						openingAnimation: POPUP_OPENING_ANIMATION,
+						closingAnimation: POPUP_CLOSING_ANIMATION,
 						offset: 20,
 						maxWidth: `${Math.floor(targetWidth / 2)}px`,
 						className: `interactive ${photoData.properties.height / photoData.properties.width > 1 ? "portrait" : "landscape"}`,
@@ -381,7 +397,9 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 							const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
 							const targetWidth = ratio * targetHeight;
 
-							popup = new mapboxgl.Popup({
+							popup = new AnimatedPopup({
+								openingAnimation: POPUP_OPENING_ANIMATION,
+								closingAnimation: POPUP_CLOSING_ANIMATION,
 								offset: 20,
 								closeButton: false,
 								maxWidth: `${Math.floor(targetWidth / 2)}px`,
