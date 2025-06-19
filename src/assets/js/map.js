@@ -14,6 +14,8 @@ const POPUP_CLOSING_ANIMATION = {
 	easing: 'easeInBack',
 	transform: 'scale'
 };
+const FLY_INTERVAL = 3000;
+const FLY_SPEED = 0.3;
 const SMALL_VERSION_PIXELS = 900 * 600;
 
 (async (window) => {
@@ -35,6 +37,9 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 	window.geoJsonFeatures = geoJsonData.features;
 
 	let popup = null;
+	let flying = false;
+	let bearing = 0;
+	let pitch = 0;
 
 	if (mapElement) {
 		mapboxgl.accessToken = window.MAPBOX_ACCESS_TOKEN;
@@ -174,7 +179,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 
 											map.flyTo({
 												center: polylabel([clusterMarkers]),
-												zoom: zoom,
+												zoom: zoom + 1,
 												speed: 0.5,
 											});
 										});
@@ -373,29 +378,44 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 					let currentlyPlaying = false;
 					let currentPhotoIndex =
 						Number.parseInt(localStorage.getItem("currentPhotoIndex"), 10) || 0;
-					let intervalID = null;
+					// let intervalID = null;
 
-					const div = document.createElement("div");
-					div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
-					div.innerHTML = `<button class="mapboxgl-ctrl-autoplay"><span class="mapboxgl-ctrl-icon" aria-hidden="true" title="Auto play"></span></button>`;
-					div.addEventListener("contextmenu", (e) => e.preventDefault());
-					div.addEventListener("click", () => {
-						currentlyPlaying = !currentlyPlaying;
+					const flyToNextPhoto = () => {
+						if (popup) {
+							popup.remove();
+							popup = null;
+						}
 
-						const flyToNextPhoto = () => {
+						const photoData = window.geoJsonFeatures[currentPhotoIndex];
+						const photoProperties = photoData.properties;
+
+						const ratio =
+							photoProperties.width / photoProperties.height;
+						const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
+						const targetWidth = ratio * targetHeight;
+
+						bearing = photoData.geometry.direction || (bearing + Math.random() * 60 - 30) % 360; // 360 degrees starting from North
+						pitch = Math.max(0, Math.min(60, pitch + Math.random() * 20 - 10)); // 0 (zenith) -> 90 degrees
+
+						flying = true;
+						map.flyTo({
+							center: photoData.geometry.coordinates,
+							zoom: 16,
+							pitch: pitch,
+							bearing: bearing,
+							curve: 2,
+							speed: FLY_SPEED,
+							// duration: FLY_DURATION,
+							essential: true, // This animation is considered essential with respect to &prefers-reduced-motion
+						});
+
+						map.once("moveend", () => {
+							flying = false;
+
 							if (popup) {
 								popup.remove();
 								popup = null;
 							}
-
-							const photoData = window.geoJsonFeatures[currentPhotoIndex];
-							const photoProperties = photoData.properties;
-
-
-							const ratio =
-								photoProperties.width / photoProperties.height;
-							const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
-							const targetWidth = ratio * targetHeight;
 
 							popup = new AnimatedPopup({
 								openingAnimation: POPUP_OPENING_ANIMATION,
@@ -411,29 +431,27 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 								)
 								.addTo(map);
 
-							map.flyTo({
-								center: photoData.geometry.coordinates,
-								zoom: 16,
-								pitch: 30 + Math.random() * 30, // 0 (zenith) -> 90 degrees
-								bearing: photoData.geometry.direction || Math.random() * 360, // 360 degrees starting from North
-								curve: 2,
-								// speed: 0.5,
-								duration: 15000,
-								essential: true, // This animation is considered essential with respect to &prefers-reduced-motion
-							});
+							if (currentlyPlaying) {
+								setTimeout(flyToNextPhoto, FLY_INTERVAL);
+							}
+						});
 
-							currentPhotoIndex =
-								(currentPhotoIndex + 1) % window.geoJsonFeatures.length;
-							localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
-						};
+						currentPhotoIndex =
+							(currentPhotoIndex + 1) % window.geoJsonFeatures.length;
+						localStorage.setItem("currentPhotoIndex", currentPhotoIndex);
+					};
+
+					const div = document.createElement("div");
+					div.className = "mapboxgl-ctrl mapboxgl-ctrl-group";
+					div.innerHTML = `<button class="mapboxgl-ctrl-autoplay"><span class="mapboxgl-ctrl-icon" aria-hidden="true" title="Auto play"></span></button>`;
+					div.addEventListener("contextmenu", (e) => e.preventDefault());
+					div.addEventListener("click", () => {
+						currentlyPlaying = !currentlyPlaying;
 
 						if (currentlyPlaying) {
 							flyToNextPhoto();
-							intervalID = setInterval(flyToNextPhoto, 15000);
-						} else {
-							clearInterval(intervalID);
-							intervalID = null;
 						}
+
 						div
 							.querySelector("button")
 							.classList.toggle(
@@ -461,6 +479,21 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 		map.on("load", () => {
 			addLayers();
 			addControls();
+		});
+
+		map.on('movestart', () => {
+			console.log('A movestart` event occurred.');
+			if (flying && popup) {
+				popup.remove();
+				popup = null;
+			}
+		});
+
+		map.on('moveend', () => {
+			console.log('A moveend` event occurred.');
+			if (flying) {
+				flying = false;
+			}
 		});
 	}
 })(window);
