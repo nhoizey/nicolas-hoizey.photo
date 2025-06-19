@@ -25,6 +25,7 @@
 
     <p>{% inline_icon 'download' %} <a href="/map/photos.kml">Download the KML file for Google Earth</a>.</p>
   </div>
+  {% block footer %}{% endblock %}
 
   <script type="module" src="{% getBundleFileUrl "js", "map" %}"></script>
   {%- js "map" %}{% renderFile "src/assets/js/map.js" %}{% endjs %}

@@ -144,7 +144,9 @@
           {{ content | safe }}
         {% endblock %}
       </main>
-      {% include 'components/footer.njk' %}
+      {% block footer %}
+        {% include 'components/footer.njk' %}
+      {% endblock %}
     </div>
 
     <div style="display: none" aria-hidden="true" class="reusable-icons">
