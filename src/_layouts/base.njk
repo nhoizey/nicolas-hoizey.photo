@@ -138,7 +138,7 @@
       {% include 'components/logo.njk' %}
       {% include 'components/navigation.njk' %}
     </header>
-    <div class="page">
+    <div class="page {% block pageClasses %}{% endblock %}">
       <main id="main" role="main"{% block styles %}{% endblock %}>
         {% block content %}
           {{ content | safe }}
