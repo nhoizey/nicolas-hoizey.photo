@@ -398,13 +398,18 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 
 						// Ensure the target width does not exceed 40% of the viewport width
 						// This is to prevent the popup from being too large on smaller screens
-						if (targetWidth > window.innerWidth * 0.4) {
-							targetWidth = window.innerWidth * 0.4;
+						if (targetWidth > window.innerWidth * 0.8) {
+							targetWidth = window.innerWidth * 0.8;
 							targetHeight = targetWidth / ratio;
 						}
 
+						// Either use the direction embedded in the photo's metadata, or a random variation from previous bearing
 						bearing = photoData.geometry.direction || (bearing + Math.random() * 60 - 30) % 360; // 360 degrees starting from North
-						pitch = Math.max(0, Math.min(60, pitch + Math.random() * 20 - 10)); // 0 (zenith) -> 90 degrees
+						console.log(`Bearing: ${bearing}`);
+
+						// Use a random pitch variation from previous one, but ensure it stays within 30 to 60 degrees
+						pitch = Math.max(30, Math.min(60, pitch + Math.random() * 20 - 10)); // 0 (zenith) -> 90 degrees
+						console.log(`Pitch: ${pitch}`);
 
 						flying = true;
 						map.flyTo({
@@ -417,6 +422,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 							essential: true, // This animation is considered essential with respect to &prefers-reduced-motion
 						});
 
+						// End of flight when the map has stopped moving
 						map.once("moveend", () => {
 							flying = false;
 
@@ -490,7 +496,6 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 		});
 
 		map.on('movestart', () => {
-			console.log('A movestart` event occurred.');
 			if (flying && popup) {
 				popup.remove();
 				popup = null;
@@ -498,7 +503,6 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 		});
 
 		map.on('moveend', () => {
-			console.log('A moveend` event occurred.');
 			if (flying) {
 				flying = false;
 			}
