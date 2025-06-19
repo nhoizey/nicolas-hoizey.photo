@@ -17,6 +17,12 @@ const POPUP_CLOSING_ANIMATION = {
 
 const FLY_INTERVAL = 3000;
 const FLY_SPEED = 0.3;
+const FLY_TO_PADDING = {
+	top: window.innerHeight * 0.3, // 30% of the viewport height
+	bottom: 0,
+	left: 0,
+	right: 0,
+};
 
 const PITCH_MIN = 30; // Minimum pitch angle
 const PITCH_MAX = 60; // Maximum pitch angle
@@ -399,7 +405,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						const ratio =
 							photoProperties.width / photoProperties.height;
 						// Ensure the target height does not exceed 40% of the viewport height
-						let targetHeight = Math.min(Math.sqrt(SMALL_VERSION_PIXELS / ratio), window.innerHeight * 0.4);
+						let targetHeight = Math.min(Math.sqrt(SMALL_VERSION_PIXELS / ratio), window.innerHeight * 0.5);
 						let targetWidth = ratio * targetHeight;
 
 						// Ensure the target width does not exceed 40% of the viewport width
@@ -420,6 +426,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						flying = true;
 						map.flyTo({
 							center: photoData.geometry.coordinates,
+							padding: FLY_TO_PADDING,
 							zoom: 16,
 							pitch: pitch,
 							bearing: bearing,
