@@ -389,10 +389,19 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						const photoData = window.geoJsonFeatures[currentPhotoIndex];
 						const photoProperties = photoData.properties;
 
+						// Calculate target height and width based on the aspect ratio
 						const ratio =
 							photoProperties.width / photoProperties.height;
-						const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
-						const targetWidth = ratio * targetHeight;
+						// Ensure the target height does not exceed 40% of the viewport height
+						let targetHeight = Math.min(Math.sqrt(SMALL_VERSION_PIXELS / ratio), window.innerHeight * 0.4);
+						let targetWidth = ratio * targetHeight;
+
+						// Ensure the target width does not exceed 40% of the viewport width
+						// This is to prevent the popup from being too large on smaller screens
+						if (targetWidth > window.innerWidth * 0.4) {
+							targetWidth = window.innerWidth * 0.4;
+							targetHeight = targetWidth / ratio;
+						}
 
 						bearing = photoData.geometry.direction || (bearing + Math.random() * 60 - 30) % 360; // 360 degrees starting from North
 						pitch = Math.max(0, Math.min(60, pitch + Math.random() * 20 - 10)); // 0 (zenith) -> 90 degrees
@@ -405,7 +414,6 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 							bearing: bearing,
 							curve: 2,
 							speed: FLY_SPEED,
-							// duration: FLY_DURATION,
 							essential: true, // This animation is considered essential with respect to &prefers-reduced-motion
 						});
 
@@ -422,12 +430,12 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 								closingAnimation: POPUP_CLOSING_ANIMATION,
 								offset: 20,
 								closeButton: false,
-								maxWidth: `${Math.floor(targetWidth / 2)}px`,
+								maxWidth: `${Math.floor(targetWidth)}px`,
 								className: `autoplay ${photoProperties.height / photoProperties.width > 1 ? "portrait" : "landscape"}`,
 							})
 								.setLngLat(photoData.geometry.coordinates)
 								.setHTML(
-									`<a href="${photoProperties.url}"><img src="/photos/${photoProperties.slug}/small.jpg" width="${targetWidth / 2}" height="${targetHeight / 2}" alt>${photoProperties.title}</a>`,
+									`<a href="${photoProperties.url}"><img src="/photos/${photoProperties.slug}/small.jpg" width="${targetWidth}" height="${targetHeight}" alt>${photoProperties.title}</a>`,
 								)
 								.addTo(map);
 
