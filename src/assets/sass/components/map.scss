@@ -66,28 +66,19 @@
     }
   }
 
-  .mapboxgl-popup {
-    // --mapboxgl-popup-width: 220px;
-    // width: var(--mapboxgl-popup-width);
-    // animation-name: fadein;
-    // animation-duration: 0.5s;
-  }
-  .mapboxgl-popup.autoplay {
-    // animation-duration: 3s;
-    // animation-delay: 5s;
+  .mapboxgl-style-list button {
+    padding-inline-start: 1.5em;
+    position: relative;
   }
 
-  .mapboxgl-popup.autoplay.portrait {
-    // --mapboxgl-popup-width: min(300px, 30vw);
-  }
-
-  .mapboxgl-popup.autoplay.landscape {
-    // --mapboxgl-popup-width: min(400px, 30vw);
+  .mapboxgl-style-list .active::after {
+    content: "✔";
+    position: absolute;
+    left: .3em;
   }
 
   .mapboxgl-popup-content {
     background-color: colors.$surface;
-    // width: calc(var(--mapboxgl-popup-width) + 2px + 2 * spaces.$xxxs);
     border-radius: 5px;
 
     img {
