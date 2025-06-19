@@ -81,6 +81,7 @@
   .mapboxgl-popup-content {
     background-color: colors.$surface;
     // width: calc(var(--mapboxgl-popup-width) + 2px + 2 * spaces.$xxxs);
+    border-radius: 5px;
 
     img {
       border: 1px solid #fff;
