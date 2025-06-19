@@ -14,8 +14,14 @@ const POPUP_CLOSING_ANIMATION = {
 	easing: 'easeInBack',
 	transform: 'scale'
 };
+
 const FLY_INTERVAL = 3000;
 const FLY_SPEED = 0.3;
+
+const PITCH_MIN = 30; // Minimum pitch angle
+const PITCH_MAX = 60; // Maximum pitch angle
+const PITCH_STEP = 10; // Step size for pitch angle changes
+
 const SMALL_VERSION_PIXELS = 900 * 600;
 
 (async (window) => {
@@ -39,7 +45,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 	let popup = null;
 	let flying = false;
 	let bearing = 0;
-	let pitch = 0;
+	let pitch = 45; // Start with a default pitch angle
 
 	if (mapElement) {
 		mapboxgl.accessToken = window.MAPBOX_ACCESS_TOKEN;
@@ -179,7 +185,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 
 											map.flyTo({
 												center: polylabel([clusterMarkers]),
-												zoom: zoom + 1,
+												zoom: zoom + 1, // TODO: still doesn't with +1 ???
 												speed: 0.5,
 											});
 										});
@@ -405,11 +411,11 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 
 						// Either use the direction embedded in the photo's metadata, or a random variation from previous bearing
 						bearing = photoData.geometry.direction || (bearing + Math.random() * 60 - 30) % 360; // 360 degrees starting from North
-						console.log(`Bearing: ${bearing}`);
+						// console.log(`Bearing: ${bearing}`);
 
 						// Use a random pitch variation from previous one, but ensure it stays within 30 to 60 degrees
-						pitch = Math.max(30, Math.min(60, pitch + Math.random() * 20 - 10)); // 0 (zenith) -> 90 degrees
-						console.log(`Pitch: ${pitch}`);
+						pitch = Math.max(PITCH_MIN, Math.min(PITCH_MAX, pitch + Math.random() * PITCH_STEP * 2 - PITCH_STEP)); // 0 (zenith) -> 90 degrees
+						// console.log(`Pitch: ${pitch}`);
 
 						flying = true;
 						map.flyTo({
