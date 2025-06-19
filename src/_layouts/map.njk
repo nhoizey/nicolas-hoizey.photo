@@ -8,20 +8,19 @@
 {% block pageClasses %}map{% endblock %}
 
 {% block content %}
-  <div class="map">
-    <div class="header">
-      {% include 'components/breadcrumb.njk' %}
-      <h1>{{ title }}</h1>
-    </div>
+  <div class="header">
+    {% include 'components/breadcrumb.njk' %}
+    <h1>{{ title }}</h1>
+  </div>
 
-    {{ content | safe }}
+  {{ content | safe }}
 
-    <style>{% renderFile "src/assets/sass/components/map.scss" %}</style>
+  <style>{% renderFile "src/assets/sass/components/map.scss" %}</style>
 
-    <div id="map"></div>
-    <noscript>
-      <p>You need JavaScript to see this map.</p>
-    </noscript>
+  <div id="map"></div>
+  <noscript>
+    <p>You need JavaScript to see this map.</p>
+  </noscript>
 
   {% block footer %}{% endblock %}
 

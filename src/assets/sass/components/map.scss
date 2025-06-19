@@ -5,7 +5,9 @@
 @use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 @use '../../../node_modules/mapbox-gl-style-switcher/styles.css';
 
-.map {
+.map main {
+  position: relative;
+
   @media (min-width: breakpoints.$m) {
     // For when the map is bellow the header
     .header {
@@ -24,6 +26,11 @@
 }
 
 #map {
+  position: fixed;
+  width: 100%;
+  height: var(--full-height);
+  z-index: 5;
+
   margin-inline: -(spaces.$m);
   width: 100vw;
 
