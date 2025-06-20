@@ -66,7 +66,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 			maxZoom: maxZoomLevel,
 			scrollZoom: true,
 			attributionControl: false,
-			cooperativeGestures: true,
+			cooperativeGestures: false, // https://docs.mapbox.com/mapbox-gl-js/example/cooperative-gestures/
 			hash: true,
 			renderWorldCopies: true,
 
@@ -138,6 +138,10 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						"circle-stroke-width": 2,
 						"circle-stroke-color": markerStroke,
 					},
+					layout: {
+						"text-allow-overlap": true,
+						"icon-allow-overlap": true,
+					}
 				});
 
 				map.on("click", "clusters", (e) => {
@@ -192,6 +196,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 
 											map.flyTo({
 												center: polylabel([clusterMarkers]),
+												padding: FLY_TO_PADDING,
 												zoom: zoom + 1, // TODO: still doesn't with +1 ???
 												speed: 0.5,
 											});
@@ -223,7 +228,8 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 					layout: {
 						"text-field": "{point_count_abbreviated}",
 						"text-size": 12,
-						// "text-allow-overlap": true,
+						"text-allow-overlap": true,
+						"icon-allow-overlap": true,
 					},
 					paint: {
 						"text-color": "#ffffff",
@@ -246,11 +252,8 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						"icon-image": "{slug}",
 						"symbol-z-elevate": true,
 						"icon-occlusion-opacity": 1,
-
 						"icon-allow-overlap": true,
 						"icon-ignore-placement": false,
-						// "text-allow-overlap": true,
-						// "text-ignore-placement": true,
 					},
 				});
 
