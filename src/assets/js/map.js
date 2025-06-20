@@ -17,6 +17,7 @@ const POPUP_CLOSING_ANIMATION = {
 
 const FLY_INTERVAL = 3000;
 const FLY_SPEED = 0.3;
+// https://docs.mapbox.com/mapbox-gl-js/api/properties/#paddingoptions
 const FLY_TO_PADDING = {
 	top: window.innerHeight * 0.3, // 30% of the viewport height
 	bottom: 0,
