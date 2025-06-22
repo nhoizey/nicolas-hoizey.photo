@@ -49,8 +49,9 @@ dimensions:
   width: 1534
   height: 1023
 geo:
-  latitude: 42.028225
-  longitude: 9.19475
+  latitude: 42.018065
+  longitude: 9.22037
+  direction: 90
   country: France
   city: Ghisoni
   map: true
