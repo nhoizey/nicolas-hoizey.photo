@@ -1,18 +1,18 @@
 import mapboxgl from "mapbox-gl/dist/mapbox-gl.js";
-import GlobeMinimap from "mapbox-gl-globe-minimap";
 import AnimatedPopup from "mapbox-gl-animated-popup";
+import GlobeMinimap from "mapbox-gl-globe-minimap";
 import { MapboxStyleSwitcherControl } from "mapbox-gl-style-switcher";
 import polylabel from "polylabel";
 
 const POPUP_OPENING_ANIMATION = {
 	duration: 500,
-	easing: 'easeOutBack',
-	transform: 'scale'
+	easing: "easeOutBack",
+	transform: "scale",
 };
 const POPUP_CLOSING_ANIMATION = {
 	duration: 300,
-	easing: 'easeInBack',
-	transform: 'scale'
+	easing: "easeInBack",
+	transform: "scale",
 };
 
 const FLY_INTERVAL = 3000;
@@ -141,7 +141,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 					layout: {
 						"text-allow-overlap": true,
 						"icon-allow-overlap": true,
-					}
+					},
 				});
 
 				map.on("click", "clusters", (e) => {
@@ -175,7 +175,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 
 									popup = new AnimatedPopup({
 										openingAnimation: POPUP_OPENING_ANIMATION,
-										closingAnimation: POPUP_CLOSING_ANIMATION
+										closingAnimation: POPUP_CLOSING_ANIMATION,
 									})
 										.setLngLat(coordinates)
 										.setHTML(
@@ -269,8 +269,7 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
 					}
 
-					const ratio =
-						photoProperties.width / photoProperties.height;
+					const ratio = photoProperties.width / photoProperties.height;
 					const targetHeight = Math.sqrt(SMALL_VERSION_PIXELS / ratio);
 					const targetWidth = ratio * targetHeight;
 
@@ -406,10 +405,12 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						const photoProperties = photoData.properties;
 
 						// Calculate target height and width based on the aspect ratio
-						const ratio =
-							photoProperties.width / photoProperties.height;
+						const ratio = photoProperties.width / photoProperties.height;
 						// Ensure the target height does not exceed 40% of the viewport height
-						let targetHeight = Math.min(Math.sqrt(SMALL_VERSION_PIXELS / ratio), window.innerHeight * 0.5);
+						let targetHeight = Math.min(
+							Math.sqrt(SMALL_VERSION_PIXELS / ratio),
+							window.innerHeight * 0.5,
+						);
 						let targetWidth = ratio * targetHeight;
 
 						// Ensure the target width does not exceed 40% of the viewport width
@@ -420,11 +421,19 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 						}
 
 						// Either use the direction embedded in the photo's metadata, or a random variation from previous bearing
-						bearing = photoData.geometry.direction || (bearing + Math.random() * 60 - 30) % 360; // 360 degrees starting from North
+						bearing =
+							photoData.geometry.direction ||
+							(bearing + Math.random() * 60 - 30) % 360; // 360 degrees starting from North
 						// console.log(`Bearing: ${bearing}`);
 
 						// Use a random pitch variation from previous one, but ensure it stays within 30 to 60 degrees
-						pitch = Math.max(PITCH_MIN, Math.min(PITCH_MAX, pitch + Math.random() * PITCH_STEP * 2 - PITCH_STEP)); // 0 (zenith) -> 90 degrees
+						pitch = Math.max(
+							PITCH_MIN,
+							Math.min(
+								PITCH_MAX,
+								pitch + Math.random() * PITCH_STEP * 2 - PITCH_STEP,
+							),
+						); // 0 (zenith) -> 90 degrees
 						// console.log(`Pitch: ${pitch}`);
 
 						flying = true;
@@ -512,14 +521,14 @@ const SMALL_VERSION_PIXELS = 900 * 600;
 			addControls();
 		});
 
-		map.on('movestart', () => {
+		map.on("movestart", () => {
 			if (flying && popup) {
 				popup.remove();
 				popup = null;
 			}
 		});
 
-		map.on('moveend', () => {
+		map.on("moveend", () => {
 			if (flying) {
 				flying = false;
 			}
