@@ -82,6 +82,7 @@ geo:
   direction: 123
   country: France
   city: Pleumeur-Bodou
+  map: true
 colors:
   vibrant: 187 159 68
   darkVibrant: 108 90 27
@@ -90,9 +91,6 @@ colors:
   darkMuted: 68 62 54
   lightMuted: 202 188 162
 lqip: data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAABQDACdASpkAEMAP3GoyFo0rKkqrrgK8pAuCWUA1Mgtji9wO3X0h1MmpGiUenfLS4MQxty1hnl/r5UUSTGZO+H90h4oe6RDI21rNWy1hNhlJLY+OOXFfbm2a9GJH1O53M4n++rMv4DGQdfHAAD+YBS62BHOJ42Ok83nJzvp8sNPAKo9vqzcHo4wxbuZZFqryu7rRX9PHIInz1kqg81K9VvlaYMS148+uog7wARBszzoLdTCzJr467A8HnKeuNqd/NwNlTbzF2dFCSGxCc9X5pDdTZ/k7sAx7nOhwusMjTmAktIoAQVSleEbeyHDsm4opjnpoBiUb2WXvLaG7H20izsrnAUUQd7HvThXgreOaWZZRl4S28tseu7q+32taeQlbFPUI4CTiyGQursAJ8uSWjNiDd2o1c57F56SUaU+BP4oZorzECEVXI7A+/c98PdGC7qJiAAA
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 On the Landrellec peninsula, the coastal path (GR 34) runs through the protected natural site of the Bringwiller moors, offering superb panoramic views stretching from Ile Grande to the Pink Granite coast.

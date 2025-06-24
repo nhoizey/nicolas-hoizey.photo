@@ -88,6 +88,7 @@ geo:
   longitude: -3.4832625
   country: France
   city: Perros-Guirec
+  map: true
 colors:
   vibrant: 188 108 49
   darkVibrant: 19 60 76
@@ -96,9 +97,6 @@ colors:
   darkMuted: 54 76 89
   lightMuted: 167 185 200
 lqip: data:image/webp;base64,UklGRqYBAABXRUJQVlA4IJoBAAAwEACdASpkAEMAP3GqyVw0rTKkKFVeIpAuCUAYkpvK/qfSqu18re/OuvPSoFY4A0P1RBvNUWWqtImTW7KELLul7eCSHmkf+NJ8+dWHmfFnzIat1DtyM4iovJNvyYRY2byLHxiu3i6CkJH+3890tUEMSgMV9xi9/6msePoX6PQRQnzZJ6uwNC9TrQAA/lGbMrpRn5Zrv1y54nJUdQp/40sdkkgltMLUBBZtTCNwKtqzkrfpgGKw21nAFB4o9zPfMaweeer4MBQWi4ykMPTAhKcTpk24VMwoJfAaFjFpPGUJd7RhRH1RSigMGhYYltXCKz7vhtkn8xeo2BCHvoLJl990oL6SZu3YXq0sbUzSgZBa68QVeQIvW2Yy0wokbN7//KZ8lRFmeuTJJ2HwwV44R1BFUH3rrmBb6u+oh/Vi2+1bAA5tvK+Clvlu2ZNt5XXBGk9BkNJwzgeRRPbBoTHN6SEF7NzRN8GiCJ7eVXrSGI4uLaNWV+kDDSc0N6lAW83q67Q82DSgOR35fGPSUO3PbWKjqI6nImH4P+UAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Château de Costaérès is a unique architectural gem nestled on the rocky islet of the same name on Brittany's Côte de Granit Rose. Built in 1896 for the Polish mathematician Bruno Abakanowicz, this neo-medieval manor house is a veritable emblem of the region.

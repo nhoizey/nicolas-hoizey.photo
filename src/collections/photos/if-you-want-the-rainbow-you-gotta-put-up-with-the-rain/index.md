@@ -63,8 +63,6 @@ colors:
   darkMuted: 48 55 80
   lightMuted: 193 185 206
 lqip: data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADQBwCdASpkAEMAP3Gyyl60rrKtqTzJSpAuCWcA1QQl7+imnUx9HUFsUwSOCwNu5QW6p/h31FoJaZJCO/l1Awz1B/0w7KNWQAD+7Zidne9rq46fttXzEAEQaazEF35o8Gp6AMKPEMnidm/00gAfLhxOu1lVBxxY25APY2rfCI0FvZFyOMuexNS675q0eFN7pAWuuyIH1SbkL9M7KrZqXSodcqRAJRwJas3u/N9Z2+tQyn2AAAA=
-missing_data:
-  opengraph: true
 ---
 
 This is a great quote from Dolly Parton.

@@ -67,8 +67,6 @@ colors:
   darkMuted: 90 68 50
   lightMuted: 210 191 191
 lqip: data:image/webp;base64,UklGRkoBAABXRUJQVlA4ID4BAAAQDQCdASpkAEMAP3GuzVs0ryokLNbaSpAuCWUA0yRJIIerrztI8tecH7n9uProU9VM8X5jvgflYknoKcQSwV2yJwtdpX3r0BE+otcPIr+pKy8lzGR+7i1NDHqB1xM5K+kJ4Ih656E+Tx13tFjtBnqCgAD+7Xky/N0yLYGXDwzuOYbhrQCmWPFHNd5WYH40vq4EWQhITQKz0EhQQOfoF8UzIGl1baNkH7iHrmnmyiuZbQ7vXHDfs6N5NNrDSpSE6ARDTACZh4TeW1mDj5cgkpAbL0HRXwwwHW9hKpXpqoKi4ZFxnrgFl+eFx/tlt7RWOCzBbAZ1DEXI1IDjYfyYBQNvTgPbgVDG2TvYmjsNG3Luxfz51j0NK+pxQGW/yjRG9WpVTlQVtXuNZru+9eb621/39lvEiss2Q/H5NmeOYAA=
-missing_data:
-  opengraph: true
 ---
 
 A team of divers have decided to unravel the mystery of coffee, and are ready to dive right into the heart of their subject of study.
