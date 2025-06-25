@@ -17,4 +17,6 @@ The title was “À la manière de…” (which means “In the style of…”),
 - [**Michel Follorou**](https://www.michel-follorou.com/)'s abstract experiments with light, matter and color
 - [**Sébastien Del Grosso**](https://sebastiendelgrosso.myportfolio.com/)'s [Black Series](https://sebastiendelgrosso.myportfolio.com/the-black-series), black and white photos of urban landscapes with intense processing leading to a surreal effect
 
-**Tatsuya Tanaka** being one of these artists, I decided to continue exploring the world of **[HO-scale miniature photography](/galleries/misc/miniature/ho-scale/)**. Here are the 2 new photos I created for this exhibition:
+**10 other Photo Clubs** from our department (Essonne, France) also participated in this exhibition, with other selected artists.
+
+**Tatsuya Tanaka** being one of the artists we selected, I decided to continue exploring the world of **[HO-scale miniature photography](/galleries/misc/miniature/ho-scale/)**. Here are the 2 new photos I created for this exhibition:
