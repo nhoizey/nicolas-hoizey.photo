@@ -1,5 +1,5 @@
 ---
-date: 2025-01-18 10:26:49 +02:00
+date: 2025-01-18 14:00:00 +02:00
 title: 'Exhibition in Draveil: Carte blanche'
 lang: en
 tags: [exhibition, miniature]
