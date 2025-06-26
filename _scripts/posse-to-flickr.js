@@ -166,12 +166,24 @@ const posseToFlickr = async () => {
 		groups.add("37718676651@N01");
 	}
 
+	if (tagsForGroups.has("corse")) {
+		groups.add("765489@N24").add("1038131@N21").add("40862376@N00").add("1091728@N23").add("50098867@N00").add("48479268@N00");
+	}
+
 	if (tagsForGroups.has("charente-maritime")) {
 		groups.add("86348694@N00");
 	}
 
 	if (tagsForGroups.has("ile-de-re")) {
 		groups.add("15935288@N00");
+	}
+
+	if (tagsForGroups.has("sicile")) {
+		groups.add("1091728@N23").add("48479268@N00");
+	}
+
+	if (tagsForGroups.has("crete")) {
+		groups.add("1091728@N23").add("48479268@N00");
 	}
 
 	if (tagsForGroups.has("the-netherlands")) {
