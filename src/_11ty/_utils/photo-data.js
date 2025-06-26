@@ -58,39 +58,45 @@ const getPhotoData = (slug) => {
 		const platforms = platformsData[slug];
 		photoDataCollection.platforms = platforms;
 
+		let flickrFaves = 0;
 		if (platforms.flickr) {
-			interestingness += platforms.flickr.faves;
+			flickrFaves = platforms.flickr.faves;
 		}
 
+		let pixelfedFaves = 0;
+		let pixelfedReblogs = 0;
 		if (platforms.pixelfed) {
-			interestingness += platforms.pixelfed.reduce(
+			pixelfedFaves = platforms.pixelfed.reduce(
 				(accumulator, currentValue) => accumulator + currentValue.faves,
 				0,
 			);
-			interestingness +=
-				5 *
-				platforms.pixelfed.reduce(
+			pixelfedReblogs = platforms.pixelfed.reduce(
 					(accumulator, currentValue) => accumulator + currentValue.reblogs,
 					0,
 				);
 		}
 
+		let mastodonFaves = 0;
+		let mastodonReblogs = 0;
 		if (platforms.mastodon) {
-			interestingness += platforms.mastodon.reduce(
+			mastodonFaves = platforms.mastodon.reduce(
 				(accumulator, currentValue) => accumulator + currentValue.faves,
 				0,
 			);
-			interestingness +=
-				5 *
+			mastodonReblogs =
 				platforms.mastodon.reduce(
 					(accumulator, currentValue) => accumulator + currentValue.reblogs,
 					0,
 				);
 		}
 
+		let unsplashDownloads = 0;
 		if (platforms.unsplash) {
-			interestingness += platforms.unsplash.downloads / 500;
+			unsplashDownloads = platforms.unsplash.downloads;
 		}
+
+		// Super SECRET formula to compute interestingness
+		interestingness += flickrFaves + pixelfedFaves + 5 * pixelfedReblogs + mastodonFaves + 5 * mastodonReblogs + unsplashDownloads / 500;
 	}
 
 	// Add interestingness from webmention likes (not from Flickr)
