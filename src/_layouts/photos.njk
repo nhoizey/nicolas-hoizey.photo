@@ -93,6 +93,10 @@
             {% set latest = photoLinks.pixelfed | first %}
             <li>{% external_icon 'pixelfed' %} Like it <a href="https://pixelfed.social/i/web/post/{{ latest.id }}">on pixelfed</a>, like {{ photoLinks.pixelfed | pixelfedFaves | rough }} others</li>
           {% endif %}
+          {% if photoLinks.mastodon %}
+            {% set latest = photoLinks.mastodon | first %}
+            <li>{% external_icon 'mastodon' %} Like it <a href="{{ env.MASTODON_INSTANCE }}/@nhoizey/{{ latest.id }}">on mastodon</a>, like {{ photoLinks.mastodon | pixelfedFaves | rough }} others</li>
+          {% endif %}
           {% if photoLinks.locationscout %}
             <li>{% external_icon 'locationscout' %} Find where and how to shoot the same <a href="https://www.locationscout.net/{{ photoLinks.locationscout }}">on Locationscout</a></li>
           {% endif %}
