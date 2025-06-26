@@ -50,6 +50,7 @@
 		"flickr": "node ./_scripts/update-flickr.js",
 		"unsplash": "node ./_scripts/update-unsplash.js",
 		"pixelfed": "node ./_scripts/update-pixelfed.js",
+		"mastodon": "node ./_scripts/update-mastodon.js",
 		"generate": "./_scripts/generate-map-images.js && ./_scripts/generate-opengraph-images.js && ./_scripts/generate-photos-sprite.js",
 		"lint": "npx @biomejs/biome check --write"
 	},

@@ -44,6 +44,12 @@ jobs:
           PIXELFED_TOKEN: ${{ secrets.PIXELFED_TOKEN }}
         run: npm run pixelfed >> $GITHUB_STEP_SUMMARY
 
+      - name: Update Mastodon
+        env:
+          PIXELFED_URL: ${{ secrets.MASTODON_INSTANCE }}
+          PIXELFED_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: npm run mastodon >> $GITHUB_STEP_SUMMARY
+
       - name: Update Unsplash
         env:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
