@@ -75,6 +75,19 @@ const getPhotoData = (slug) => {
 				);
 		}
 
+		if (platforms.mastodon) {
+			interestingness += platforms.mastodon.reduce(
+				(accumulator, currentValue) => accumulator + currentValue.faves,
+				0,
+			);
+			interestingness +=
+				5 *
+				platforms.mastodon.reduce(
+					(accumulator, currentValue) => accumulator + currentValue.reblogs,
+					0,
+				);
+		}
+
 		if (platforms.unsplash) {
 			interestingness += platforms.unsplash.downloads / 500;
 		}
