@@ -29,11 +29,11 @@ const syncMastodon = async () => {
 
 		for (const postUrl of posseData[url].toots) {
 			const postId = postUrl.split("/").pop();
-			// console.log(`Fetching post ${postId} from Mastodon...`);
+			console.log(`Fetching post ${postId} from Mastodon...`);
 			let mastodonPost;
 			try {
 				mastodonPost = await masto.v1.statuses.$select(postId).fetch();
-				// console.dir(mastodonPost);
+				console.dir(mastodonPost);
 
 				platformsData[slug].mastodon.push({
 					"id": `${postId}`,
@@ -42,7 +42,7 @@ const syncMastodon = async () => {
 				});
 			} catch (error) {
 				// TODO: if this is a 404, then the post has been deleted, remove it from the posseData
-				// console.dir(error);
+				console.dir(error);
 			}
 		}
 	}
