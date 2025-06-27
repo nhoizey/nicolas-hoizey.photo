@@ -5,7 +5,6 @@ import path from "node:path";
 // biome-ignore lint/correctness/noUnusedImports: dotenv
 import { } from "dotenv/config";
 import { createRestAPIClient } from "masto";
-import slugify from "../src/_11ty/_utils/slugify.js";
 
 const PLATFORMS_FILE = "src/_data/platforms.json";
 
@@ -20,7 +19,7 @@ const syncMastodon = async () => {
 	});
 
 	for (const url in posseData) {
-		const slug = slugify(posseData[url].title);
+		const slug = url.split("/").slice(-2, -1)[0];
 		if (platformsData[slug] !== undefined) {
 			platformsData[slug].mastodon = [];
 		} else {
