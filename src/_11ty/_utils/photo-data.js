@@ -71,9 +71,9 @@ const getPhotoData = (slug) => {
 				0,
 			);
 			pixelfedReblogs = platforms.pixelfed.reduce(
-					(accumulator, currentValue) => accumulator + currentValue.reblogs,
-					0,
-				);
+				(accumulator, currentValue) => accumulator + currentValue.reblogs,
+				0,
+			);
 		}
 
 		let mastodonFaves = 0;
@@ -83,11 +83,10 @@ const getPhotoData = (slug) => {
 				(accumulator, currentValue) => accumulator + currentValue.faves,
 				0,
 			);
-			mastodonReblogs =
-				platforms.mastodon.reduce(
-					(accumulator, currentValue) => accumulator + currentValue.reblogs,
-					0,
-				);
+			mastodonReblogs = platforms.mastodon.reduce(
+				(accumulator, currentValue) => accumulator + currentValue.reblogs,
+				0,
+			);
 		}
 
 		let unsplashDownloads = 0;
@@ -96,7 +95,13 @@ const getPhotoData = (slug) => {
 		}
 
 		// Super SECRET formula to compute interestingness
-		interestingness += flickrFaves + pixelfedFaves + 5 * pixelfedReblogs + mastodonFaves + 5 * mastodonReblogs + unsplashDownloads / 500;
+		interestingness +=
+			flickrFaves +
+			pixelfedFaves +
+			5 * pixelfedReblogs +
+			mastodonFaves +
+			5 * mastodonReblogs +
+			unsplashDownloads / 500;
 	}
 
 	// Add interestingness from webmention likes (not from Flickr)

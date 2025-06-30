@@ -3,13 +3,15 @@
 import fs from "node:fs";
 import path from "node:path";
 // biome-ignore lint/correctness/noUnusedImports: dotenv
-import { } from "dotenv/config";
+import {} from "dotenv/config";
 import { createRestAPIClient } from "masto";
 
 const PLATFORMS_FILE = "src/_data/platforms.json";
 
+import posseData from "../cache/posse-mastodon-photo.json" with {
+	type: "json",
+};
 import platformsData from "../src/_data/platforms.json" with { type: "json" };
-import posseData from "../cache/posse-mastodon-photo.json" with { type: "json" };
 
 const syncMastodon = async () => {
 	const masto = createRestAPIClient({
@@ -35,9 +37,9 @@ const syncMastodon = async () => {
 				console.dir(mastodonPost);
 
 				platformsData[slug].mastodon.push({
-					"id": `${postId}`,
-					"faves": mastodonPost.favouritesCount,
-					"reblogs": mastodonPost.reblogsCount,
+					id: `${postId}`,
+					faves: mastodonPost.favouritesCount,
+					reblogs: mastodonPost.reblogsCount,
 				});
 			} catch (error) {
 				// TODO: if this is a 404, then the post has been deleted, remove it from the posseData
