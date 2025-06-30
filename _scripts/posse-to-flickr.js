@@ -167,7 +167,13 @@ const posseToFlickr = async () => {
 	}
 
 	if (tagsForGroups.has("corse")) {
-		groups.add("765489@N24").add("1038131@N21").add("40862376@N00").add("1091728@N23").add("50098867@N00").add("48479268@N00");
+		groups
+			.add("765489@N24")
+			.add("1038131@N21")
+			.add("40862376@N00")
+			.add("1091728@N23")
+			.add("50098867@N00")
+			.add("48479268@N00");
 	}
 
 	if (tagsForGroups.has("charente-maritime")) {
