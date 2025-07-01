@@ -33,7 +33,7 @@ const syncMastodon = async () => {
 			console.log(`Fetching post ${postId} from Mastodon...`);
 			let mastodonPost;
 			try {
-				mastodonPost = await masto.v1.statuses.$select(postId).fetch();
+				mastodonPost = await masto.v1.statuses.$select(`${postId}`).fetch();
 				console.dir(mastodonPost);
 
 				platformsData[slug].mastodon.push({
