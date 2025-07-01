@@ -79,8 +79,6 @@ colors:
   darkMuted: 51 81 104
   lightMuted: 182 194 206
 lqip: data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAABwCwCdASpkAEMAP3Guy100v7MzKTTcK/AuCWMG+BwCJF3C2qiPDMXcfnBHaQg4Sj5lpqeyop24kbrXoZUEBEvW72Z9LnNdgDSDxcHKljUSRrN0zS2UDllBfn+doy2W2hI3beAAAP7h62Ajz1PZO/uq8WiDmzgL/kjX6V5xmztLoBV1MbnNgqOuMueg2bY3eLmakQ7ncrhuahSKJ+d6qKsmraqEwwfvd3FKcJpLoymPpIDq/t1o5rmFlxIDxG5JFJUipVdDuCoEaQa1rL3AFHXIGqhx6Ld/VWeFhi7ofrL26Lm3n4PFEfFForA2WgYfjqycfRYcLqXzKt6rS4tCUoz4B1bXQhMmbOEsGINB9Rav0lGophjpM1glw9vy6XW9TF8M7UvuB3iQwoJ0jGd6er7AcvUyAA==
-missing_data:
-  opengraph: true
 ---
 
 The Citadel of Calvi stands proudly above the town, a breathtaking backdrop of rich history and heritage.
