@@ -19,7 +19,7 @@ const syncMastodon = async () => {
 		accessToken: process.env.MASTODON_ACCESS_TOKEN,
 		disableVersionCheck: true,
 	});
-	console.dir(masto);
+
 	for (const url in posseData) {
 		const slug = url.split("/").slice(-2, -1)[0];
 		console.log(`Processing ${slug}...`);
