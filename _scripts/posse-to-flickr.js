@@ -162,6 +162,8 @@ const posseToFlickr = async () => {
 		groups.add("66465160@N00");
 	}
 
+	// France
+
 	if (tagsForGroups.has("france")) {
 		groups.add("37718676651@N01");
 	}
@@ -171,9 +173,7 @@ const posseToFlickr = async () => {
 			.add("765489@N24")
 			.add("1038131@N21")
 			.add("40862376@N00")
-			.add("1091728@N23")
-			.add("50098867@N00")
-			.add("48479268@N00");
+			.add("50098867@N00");
 	}
 
 	if (tagsForGroups.has("charente-maritime")) {
@@ -184,13 +184,33 @@ const posseToFlickr = async () => {
 		groups.add("15935288@N00");
 	}
 
-	if (tagsForGroups.has("sicile")) {
-		groups.add("1091728@N23").add("48479268@N00");
+	// Italy
+
+	if (tagsForGroups.has("italie")) {
+		groups.add("1775573@N24").add("3763818@N23").add("26926513@N00");
+	}
+
+	// Greece
+
+	if (tagsForGroups.has("grece")) {
+		groups.add("44124303046@N01").add("652845@N22");
 	}
 
 	if (tagsForGroups.has("crete")) {
-		groups.add("1091728@N23").add("48479268@N00");
+		groups.add("75701747@N00").add("430624@N20").add("638467@N20").add("804527@N24").add("34737449@N00").add("1297881@N22").add("901392@N24");
 	}
+
+	// These are all Mediterranean islands
+
+	if (tagsForGroups.has("crete") || tagsForGroups.has("sicile") || tagsForGroups.has("corse")) {
+		groups.add("1091728@N23").add("48479268@N00").add("974325@N21").add("35828943@N00");
+
+		if (tagsForGroups.has("sea")) {
+			groups.add("99007490@N00").add("61362772@N00").add("83504064@N00");
+		}
+	}
+
+	// The Netherlands
 
 	if (tagsForGroups.has("the-netherlands")) {
 		groups
@@ -209,6 +229,8 @@ const posseToFlickr = async () => {
 	if (tagsForGroups.has("arnhem")) {
 		groups.add("35473874@N00");
 	}
+
+	// Caribbean
 
 	if (tagsForGroups.has("caribbean")) {
 		groups.add("2150860@N23").add("52195003@N00");
