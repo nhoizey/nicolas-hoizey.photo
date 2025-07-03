@@ -46,8 +46,8 @@ jobs:
 
       - name: Update Mastodon
         env:
-          PIXELFED_URL: ${{ secrets.MASTODON_INSTANCE }}
-          PIXELFED_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
         run: npm run mastodon >> $GITHUB_STEP_SUMMARY
 
       - name: Update Unsplash
