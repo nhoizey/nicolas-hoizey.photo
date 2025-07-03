@@ -18,26 +18,22 @@ const syncMastodon = async () => {
 		url: process.env.MASTODON_INSTANCE,
 		accessToken: process.env.MASTODON_ACCESS_TOKEN,
 		disableVersionCheck: true,
-		log: "debug",
+		// log: "debug",
 	});
 
 	for (const url in posseData) {
 		const slug = url.split("/").slice(-2, -1)[0];
-		console.log(`Processing ${slug}...`);
 		if (platformsData[slug] !== undefined) {
 			platformsData[slug].mastodon = [];
 		} else {
 			platformsData[slug] = { mastodon: [] };
 		}
 
-		console.dir(posseData[url].toots);
 		for (const postUrl of posseData[url].toots) {
 			const postId = postUrl.split("/").pop();
-			console.log(`Fetching post ${postId} from Mastodon...`);
 			let mastodonPost;
 			try {
 				mastodonPost = await masto.v1.statuses.$select(`${postId}`).fetch();
-				console.dir(mastodonPost);
 
 				platformsData[slug].mastodon.push({
 					id: `${postId}`,
