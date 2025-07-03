@@ -19,15 +19,17 @@ const syncMastodon = async () => {
 		accessToken: process.env.MASTODON_ACCESS_TOKEN,
 		disableVersionCheck: true,
 	});
-
+	console.dir(masto);
 	for (const url in posseData) {
 		const slug = url.split("/").slice(-2, -1)[0];
+		console.log(`Processing ${slug}...`);
 		if (platformsData[slug] !== undefined) {
 			platformsData[slug].mastodon = [];
 		} else {
 			platformsData[slug] = { mastodon: [] };
 		}
 
+		console.dir(posseData[url].toots);
 		for (const postUrl of posseData[url].toots) {
 			const postId = postUrl.split("/").pop();
 			console.log(`Fetching post ${postId} from Mastodon...`);
