@@ -18,6 +18,7 @@ const syncMastodon = async () => {
 		url: process.env.MASTODON_INSTANCE,
 		accessToken: process.env.MASTODON_ACCESS_TOKEN,
 		disableVersionCheck: true,
+		log: "debug",
 	});
 
 	for (const url in posseData) {
