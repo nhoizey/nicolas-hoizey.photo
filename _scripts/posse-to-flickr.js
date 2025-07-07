@@ -197,13 +197,28 @@ const posseToFlickr = async () => {
 	}
 
 	if (tagsForGroups.has("crete")) {
-		groups.add("75701747@N00").add("430624@N20").add("638467@N20").add("804527@N24").add("34737449@N00").add("1297881@N22").add("901392@N24");
+		groups
+			.add("75701747@N00")
+			.add("430624@N20")
+			.add("638467@N20")
+			.add("804527@N24")
+			.add("34737449@N00")
+			.add("1297881@N22")
+			.add("901392@N24");
 	}
 
 	// These are all Mediterranean islands
 
-	if (tagsForGroups.has("crete") || tagsForGroups.has("sicile") || tagsForGroups.has("corse")) {
-		groups.add("1091728@N23").add("48479268@N00").add("974325@N21").add("35828943@N00");
+	if (
+		tagsForGroups.has("crete") ||
+		tagsForGroups.has("sicile") ||
+		tagsForGroups.has("corse")
+	) {
+		groups
+			.add("1091728@N23")
+			.add("48479268@N00")
+			.add("974325@N21")
+			.add("35828943@N00");
 
 		if (tagsForGroups.has("sea")) {
 			groups.add("99007490@N00").add("61362772@N00").add("83504064@N00");
