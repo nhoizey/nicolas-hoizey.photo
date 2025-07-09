@@ -73,6 +73,7 @@ geo:
   direction: 348
   country: Italie
   city: Milazzo
+  map: true
 colors:
   vibrant: 235 186 13
   darkVibrant: 149 94 26
@@ -81,9 +82,6 @@ colors:
   darkMuted: 79 60 47
   lightMuted: 217 200 181
 lqip: data:image/webp;base64,UklGRo4BAABXRUJQVlA4IIIBAACwDACdASpkAEMAP3GqxVo0rbmwL5WqqzAuCUDPeptun5h+tA1DrR4A3tyKWRcWdh9SX/BWSAeoi5+ezJNhkkamNLVT7n7fsR63vNN8ZfWRNjOqgaImA17praaCz6xTPug5vXjsW16j6/IaDzBnAAD+q03xDeCabIGIw0aQ1ivJivvCptydx5dY3LhiVS4IbP9mrGsebKFfFwA6ml6c0JVEdbBIIONYRBKrweQBilG05ktUbVlJnM0zPaKhdHFlqZJoeJgWnOQ/cPJbdxrJjn2ngQOPt5lqCVOF4QuuSFWgTlnUeVF8Zw7SO6SHPkd+ln0yyRnq85HY8aRYBAqjrCS9tgPHvTJawWfBNJj2iBV8XFjiiPPa6xQyrk2f8OMKiGuEi9usgM51JTlpebkrreebwmHe9pbWa4ztd9GSsDYIdPOvV0zW6d/mH3c51sMRECwwscvd0N1tOEYlVfS8Gjzzs63GnFYTQAvMPtAEdM3QiEt6sz4MaUOk/D6lMUmMrQAAAA==
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 The history of Sicily is vast, rich in history, legends and nostalgic nuances and the castles tell it in their vicissitudes.

@@ -71,6 +71,7 @@ geo:
   direction: 254
   country: Italie
   city: Milazzo
+  map: true
 colors:
   vibrant: 199 150 53
   darkVibrant: 13 81 139
@@ -79,9 +80,6 @@ colors:
   darkMuted: 74 62 56
   lightMuted: 225 215 201
 lqip: data:image/webp;base64,UklGRvwDAABXRUJQVlA4IPADAAAwIwCdASpkAJYAP3Gmx1o0rKi1sBHcyrAuCUAaEk7qs/3aDAARwnJ/a6DxR7z3FNI2yzyeR7sVvn6ZPf6ebsQvIaRHbKTmIEqE9VVOdiplFk+IJ2HNmKGh2fTlgAfklQqC2KDncSdT1VXsnAMLseAy06+gS3wpR+hxQK98w0tdot5fHe4U/6cV8yhQBAa7g2XAd8mEz46mfWdQXtBGbFgxxPEP8KL4caWzvpSdLZVRpzggw5tj29Fz8LbEdEQeO5OyfmSt4GGijgrUy8WCPbnOXTGM5WFprIFW6AWL3Y6Nnxn+PnxUwdpNIZwhW9dkVcfjppFwpb4Q3d0wO+QYHzVmPAILfHzD6IRFCGnpAp8CyWtvlsx8h4nu+sbWix59Ntb1wAD+0i2dZGyd6WuJUsG7EENNBcCpE+lA8YQdk/vrGnH28m+ihU3O5ZvHHgPXypOGdhDecZug5M/LAiB+XPmvCSnz6PHFXkeKPlE7HFAwFZ62XjiF+Q2evqgOM32XbKlgAqkYCKWSpDx0xnwXb1myxenD5a6a2DZU1IinyOLhPfbpkIefgOseGrom90QKMixi8Muh7QApji9A3Z7O9DIjQYfBOJrb3LXx5MXqMayqQDKq1mt+UGsPjO/+ZjYNGHFp4YGwgR/kpX1ZHXIPAU1BLvwqG5Cz51Wm4EzEJXWKIDvVIx49bpVLCNj2aJMxR37Tqruvp7rv9hvDGi1wCyqu1MGurhw37vFBUMqKaPMa0rPyMI+gqVcZrlU7fgrAlq0wNqRa/kQhyurTKzF0zp0svuoG+tfLfpNBHzSHtpHgTHgN7AididO6ksr3aMKOOUlcfnywV++W1BjVuTsQr5Rs2oy/6aRRfyrvudn4ke92aNVuEtK5/UGqz4XzaTcdcHJmYZwSTDzAIuMJ8eJKKxmIczemBGcFIg5O3aLhObvRB5r5ldrg8Nsz+c8VPlWEBxgAAjWoAC5HhR2Ed6+lYgM+MURMH5WryILeylUTMwN9RFaijJZxS/a06GcpUvACH10sxIQcjy0qhnfFiosZvdHX+F3o7lA5l/fgA6TT6a5fEzz8NRNBOHY0bqouFxE8Uslpld614OWbuLzsnuMLsMB1YXrvPZXO5Yr068JpgIvOl85RktLDDOKNzPKcsKgWn8aRnfM6YcqzJJ95EXjoP09Lw4oFT+g4i00XcH1WOa+uOZxRbg440HgQtdzG0TsNVWdHiSQ8cy9m6xqc7LEslCKN+ydG16kYmeBS1YEf6O3IHfsMrkH28dKYguhiAumkYQ3j6NAZnNs3TY2ZOsSK7LwGZAL5iDMWLU5y0sq1Qhevo/ToftNRFwWkIu41UC5KAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 It always feels weird to see French names used in non French speaking countries, I guess it's either “cute” or “classy”.
