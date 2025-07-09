@@ -256,6 +256,22 @@ const posseToFlickr = async () => {
 	}
 
 	/* **************************************************************
+	* Activities groups
+	* **************************************************************/
+
+	if (tagsForGroups.has("track-and-field")) {
+		groups.add("64038540@N00").add("756763@N22").add("1080295@N21");
+	}
+
+	if (tagsForGroups.has("sport")) {
+		groups.add("83901175@N00").add("19315187@N00").add("1193539@N25").add("1310665@N24").add("86171867@N00").add("1660674@N23").add("91749069@N00");
+	}
+
+	if (tagsForGroups.has("sport") && tagsForGroups.has("fujifilm")) {
+		groups.add("2772090@N24");
+	}
+
+	/* **************************************************************
 	 * Natural features groups
 	 * **************************************************************/
 
@@ -604,12 +620,20 @@ const posseToFlickr = async () => {
 		groups.add("4001926@N22");
 	}
 
+	if (tagsForGroups.has("x-h2s")) {
+		groups.add("14831468@N23").add("14856854@N22");
+	}
+
 	if (tagsForGroups.has("fujinon-xf-10-24mm-f-4-0-r-ois")) {
 		groups
 			.add("2077382@N20")
 			.add("2621709@N24")
 			.add("2010873@N23")
 			.add("2654405@N20");
+	}
+
+	if (tagsForGroups.has("fujinon-xf-500mm-f-5-6-r-lm-ois-wr")) {
+		groups.add("14869174@N24");
 	}
 
 	// Mavic
