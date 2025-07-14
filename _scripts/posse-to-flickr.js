@@ -256,15 +256,22 @@ const posseToFlickr = async () => {
 	}
 
 	/* **************************************************************
-	* Activities groups
-	* **************************************************************/
+	 * Activities groups
+	 * **************************************************************/
 
 	if (tagsForGroups.has("track-and-field")) {
 		groups.add("64038540@N00").add("756763@N22").add("1080295@N21");
 	}
 
 	if (tagsForGroups.has("sport")) {
-		groups.add("83901175@N00").add("19315187@N00").add("1193539@N25").add("1310665@N24").add("86171867@N00").add("1660674@N23").add("91749069@N00");
+		groups
+			.add("83901175@N00")
+			.add("19315187@N00")
+			.add("1193539@N25")
+			.add("1310665@N24")
+			.add("86171867@N00")
+			.add("1660674@N23")
+			.add("91749069@N00");
 	}
 
 	if (tagsForGroups.has("sport") && tagsForGroups.has("fujifilm")) {
