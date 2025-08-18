@@ -57,6 +57,7 @@ const posseToFlickr = async () => {
 		if (!flickrSlugs.includes(slugify(item.title))) {
 			photosToPosse.push(item);
 		}
+		return item;
 	});
 
 	photosToPosse.sort((a, b) => {

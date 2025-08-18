@@ -24,6 +24,7 @@ webmentionsCache.webmentions
 			// We already have Flickr data in platforms
 			return false;
 		}
+		return true;
 	})
 	.map((mention) => {
 		// Rewrite photo URLs to use the canonical URL

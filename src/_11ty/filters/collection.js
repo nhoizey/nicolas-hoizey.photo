@@ -90,7 +90,7 @@ export const lenses = (collection, brand) =>
 export const photos_here = (collection, url) =>
 	collection
 		.filter((item) => {
-			const r = new RegExp(`^${url}[^/]+\/$`);
+			const r = new RegExp(`^${url}[^/]+/$`);
 			return r.test(item.page.url);
 		})
 		.sort(chronoSort);
@@ -99,7 +99,7 @@ export const photos_here_and_below = (collection, url) => {
 	const distinctPhotos = [];
 	return collection
 		.filter((item) => {
-			const r = new RegExp(`^${url}[^/]+\/`);
+			const r = new RegExp(`^${url}[^/]+/`);
 			return r.test(item.page.url);
 		})
 		.filter((item) => {
@@ -144,7 +144,7 @@ export const by_popularity = (collection) =>
 
 export const sub_galleries = (collection, url) =>
 	collection.filter((item) => {
-		const r = new RegExp(`^${url}[^/]+\/$`);
+		const r = new RegExp(`^${url}[^/]+/$`);
 		return r.test(item.page.url);
 	});
 
