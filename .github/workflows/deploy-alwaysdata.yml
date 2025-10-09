@@ -10,8 +10,12 @@ on:
 env:
   MAPBOX_ACCESS_TOKEN: ${{ secrets.MAPBOX_ACCESS_TOKEN }}
 
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
