@@ -1,4 +1,4 @@
-name: Build on GitHub Pages
+name: Deploy to Netlify
 
 on:
   push:
@@ -27,11 +27,6 @@ jobs:
 
       - name: Build
         run: npm run build
-
-      # - name: Deploy to gh-pages
-      #   uses: peaceiris/actions-gh-pages@v4
-      #   with:
-      #     deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
