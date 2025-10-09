@@ -34,10 +34,10 @@ jobs:
         uses: shimataro/ssh-key-action@v2
         with:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-          known_hosts: 'useless'
+          known_hosts: ${{ secrets.SSH_HOST }}
 
       - name: Adding Known Hosts
         run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
       - name: Deploy to AlwaysData
-        run: rsync -avz ./_site/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/nhoizey/www/nicolas-hoizey.photo/
+        run: rsync -azh --info=progress2 --stats ./_site/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/nhoizey/www/nicolas-hoizey.photo/
