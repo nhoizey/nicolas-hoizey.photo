@@ -18,9 +18,9 @@ permalink: _headers
 
 {#- Default CSP directives -#}
 {%- set cspScriptSrc -%}'self' data: 'unsafe-eval' 'unsafe-inline'{%- endset -%}
-{%- set cspImgSrc = "'self' nicolas-hoizey.photo nho-photo.netlify.app blob:" -%}
+{%- set cspImgSrc = "'self' nicolas-hoizey.photo blob:" -%}
 {%- set cspObjectSrc = "'self'" -%}
-{%- set cspConnectSrc = "'self' nho-photo.netlify.app" -%}
+{%- set cspConnectSrc = "'self'" -%}
 {%- set cspWorkerSrc = "'self' blob:" -%}
 {%- set cspChildSrc = "blob:" -%}
 {%- set cspFrameAncestors = "'none'" -%} {#- Best default for security -#}

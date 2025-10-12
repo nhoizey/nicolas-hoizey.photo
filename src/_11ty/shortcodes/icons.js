@@ -36,6 +36,7 @@ const ICONS = {
 	download: { name: "download", source: "feather" },
 	feeds: { name: "rss", source: "feather" },
 	mastodon: { name: "mastodon", source: "simple" },
+	alwaysdata: { name: "alwaysdata", source: "simple" },
 };
 
 const inline_iconMemoize = {};

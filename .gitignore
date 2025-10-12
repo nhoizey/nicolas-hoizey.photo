@@ -10,7 +10,4 @@ test-results
 # secret data
 .env
 
-# Local Netlify folder
-.netlify
-
 benchmarks
