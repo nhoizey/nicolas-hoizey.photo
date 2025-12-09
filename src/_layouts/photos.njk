@@ -89,10 +89,10 @@
           {% if photoLinks.unsplash %}
             <li>{% external_icon 'unsplash' %} Like and download it for free <a href="https://unsplash.com/photos/{{ photoLinks.unsplash.id }}">on Unsplash</a>, like {{ photoLinks.unsplash.downloads | rough }} others</li>
           {% endif %}
-          {% if photoLinks.pixelfed %}
+          {# {% if photoLinks.pixelfed %}
             {% set latest = photoLinks.pixelfed | first %}
             <li>{% external_icon 'pixelfed' %} Like it <a href="https://pixelfed.social/i/web/post/{{ latest.id }}">on pixelfed</a>, like {{ photoLinks.pixelfed | pixelfedFaves | rough }} others</li>
-          {% endif %}
+          {% endif %} #}
           {# {% if photoLinks.mastodon %}
             {% set latest = photoLinks.mastodon | first %}
             <li>{% external_icon 'mastodon' %} Like it <a href="https://mamot.fr/@nhoizey/{{ latest.id }}">on mastodon</a>, like {{ photoLinks.mastodon | pixelfedFaves | rough }} others</li>
