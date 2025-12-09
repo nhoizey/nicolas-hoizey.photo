@@ -3,8 +3,8 @@ on:
   schedule:
   # https://crontab.guru/#9_8,14_*_*_*
   # At minute 9 past hour 9 (GMT+2).
-  - cron: '9 7 * * *'
-  workflow_dispatch:
+  # - cron: '9 7 * * *'
+  # workflow_dispatch:
 
 concurrency:
   group: ${{ github.workflow }}
