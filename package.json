@@ -55,7 +55,7 @@
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.2",
-		"@biomejs/biome": "^2.3.10",
+		"@biomejs/biome": "^2.3.11",
 		"@turf/turf": "^7.3.1",
 		"dotenv": "^17.2.3",
 		"download": "^8.0.0",
