@@ -3,8 +3,7 @@
 // @use '../../../node_modules/mapbox-gl/dist/mapbox-gl.css';
 
 #map {
-  width: 300px;
-  height: 200px;
+  aspect-ratio: 3 / 2;
   position: relative;
   background-color: #e4ecc2;
 
