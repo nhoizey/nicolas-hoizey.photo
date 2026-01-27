@@ -75,7 +75,7 @@
     "flickr": {
       "id": "51642604480",
       "faves": 87,
-      "views": 8175,
+      "views": 8176,
       "comments": 4
     },
     "pixelfed": [
@@ -93,7 +93,7 @@
       },
       {
         "id": "115956718615389253",
-        "faves": 7,
+        "faves": 8,
         "reblogs": 2
       }
     ]
@@ -339,7 +339,7 @@
       "id": "om3kEa7YpRg",
       "downloads": 3723,
       "likes": 0,
-      "views": 314528
+      "views": 314558
     },
     "flickr": {
       "id": "28886920106",
@@ -372,7 +372,7 @@
     "flickr": {
       "id": "23057719463",
       "faves": 60,
-      "views": 5357,
+      "views": 5366,
       "comments": 7
     },
     "pixelfed": [
@@ -437,7 +437,7 @@
       "id": "i9ST_o_oaJ0",
       "downloads": 1887,
       "likes": 0,
-      "views": 405242
+      "views": 405271
     },
     "flickr": {
       "id": "39177187902",
@@ -475,14 +475,14 @@
       "id": "0jj1xNsSOBo",
       "downloads": 1174,
       "likes": 0,
-      "views": 78843
+      "views": 78853
     },
     "locationscout": "netherlands/6936-colorful-houses-in-groningen-the-netherlands/12700",
     "flickr": {
       "id": "20526424273",
-      "faves": 483,
-      "views": 23179,
-      "comments": 23
+      "faves": 484,
+      "views": 23197,
+      "comments": 24
     },
     "pixelfed": [
       {
@@ -593,9 +593,9 @@
     },
     "unsplash": {
       "id": "z3v__zzp22U",
-      "downloads": 18483,
+      "downloads": 18488,
       "likes": 0,
-      "views": 2118083
+      "views": 2118359
     },
     "locationscout": "italy/6458-vatican-museum-spiral-staircase-rome/16235",
     "pixelfed": [
@@ -808,13 +808,7 @@
       "views": 3620,
       "comments": 3
     },
-    "mastodon": [
-      {
-        "id": "114750799994008742",
-        "faves": 14,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "faded-blue": {
     "pixelfed": [
@@ -853,7 +847,7 @@
       "id": "-Swg3jOJD8o",
       "downloads": 9122,
       "likes": 0,
-      "views": 1348814
+      "views": 1348881
     },
     "flickr": {
       "id": "23866042168",
@@ -1055,9 +1049,9 @@
   "hong-kong-planet": {
     "unsplash": {
       "id": "fuopjgwxacA",
-      "downloads": 287,
+      "downloads": 289,
       "likes": 0,
-      "views": 6904
+      "views": 6908
     },
     "flickr": {
       "id": "21485169051",
@@ -1082,6 +1076,11 @@
         "id": "114708332813125433",
         "faves": 8,
         "reblogs": 1
+      },
+      {
+        "id": "115961184739047952",
+        "faves": 27,
+        "reblogs": 10
       }
     ]
   },
@@ -1090,7 +1089,7 @@
       "id": "u7r80XS7KoA",
       "downloads": 6976,
       "likes": 0,
-      "views": 590853
+      "views": 590930
     },
     "flickr": {
       "id": "51150387781",
@@ -1110,13 +1109,7 @@
         "reblogs": 4
       }
     ],
-    "mastodon": [
-      {
-        "id": "115253384161872270",
-        "faves": 21,
-        "reblogs": 5
-      }
-    ]
+    "mastodon": []
   },
   "imeri-gramvousa": {
     "flickr": {
@@ -1153,9 +1146,9 @@
   "in-the-starting-blocks-for-the-men-s-110m-hurdles": {
     "unsplash": {
       "id": "-4trKf0Kbow",
-      "downloads": 114679,
+      "downloads": 114731,
       "likes": 0,
-      "views": 15191966
+      "views": 15195800
     },
     "flickr": {
       "id": "28286280058",
@@ -1188,7 +1181,7 @@
       "id": "hfIMkIcIq_k",
       "downloads": 8976,
       "likes": 0,
-      "views": 2592175
+      "views": 2592237
     },
     "locationscout": "hong-kong/1603-man-mo-temple-in-sheung-wan-on-hong-kong-island/2697",
     "flickr": {
@@ -1222,12 +1215,12 @@
       "id": "dTJCyPC5bvc",
       "downloads": 3025,
       "likes": 0,
-      "views": 488104
+      "views": 488150
     },
     "flickr": {
       "id": "33702537825",
       "faves": 104,
-      "views": 39073,
+      "views": 39075,
       "comments": 8
     },
     "pixelfed": [
@@ -1282,7 +1275,7 @@
       "id": "sfWsQ9Ch5ZU",
       "downloads": 305,
       "likes": 0,
-      "views": 61438
+      "views": 61439
     },
     "flickr": {
       "id": "52626150856",
@@ -1362,25 +1355,14 @@
         "reblogs": 4
       }
     ],
-    "mastodon": [
-      {
-        "id": "114358682811163832",
-        "faves": 4,
-        "reblogs": 0
-      },
-      {
-        "id": "115428920088294136",
-        "faves": 5,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "le-petit-poucet": {
     "unsplash": {
       "id": "yBNIf_ny6Ro",
-      "downloads": 16499,
+      "downloads": 16501,
       "likes": 0,
-      "views": 2521784
+      "views": 2522162
     },
     "flickr": {
       "id": "26041704998",
@@ -1413,7 +1395,7 @@
       "id": "14SPxCoVgi4",
       "downloads": 4703,
       "likes": 0,
-      "views": 944964
+      "views": 945014
     },
     "flickr": {
       "id": "44478435995",
@@ -1490,7 +1472,7 @@
     "flickr": {
       "id": "51644515886",
       "faves": 178,
-      "views": 9379,
+      "views": 9380,
       "comments": 15
     },
     "mastodon": [
@@ -1504,9 +1486,9 @@
   "long-strides": {
     "unsplash": {
       "id": "poa-Ycw1W8U",
-      "downloads": 59317,
+      "downloads": 59341,
       "likes": 0,
-      "views": 8392244
+      "views": 8395377
     },
     "flickr": {
       "id": "28286278428",
@@ -1701,7 +1683,7 @@
     "flickr": {
       "id": "33545073172",
       "faves": 240,
-      "views": 11983,
+      "views": 11987,
       "comments": 8
     },
     "pixelfed": [
@@ -1793,7 +1775,7 @@
       "id": "WWHwaxBa9YA",
       "downloads": 2908,
       "likes": 0,
-      "views": 501859
+      "views": 501893
     },
     "flickr": {
       "id": "32112317926",
@@ -1834,9 +1816,9 @@
   "phare-des-baleines": {
     "unsplash": {
       "id": "VU8HxMAP79U",
-      "downloads": 6032,
+      "downloads": 6035,
       "likes": 0,
-      "views": 541076
+      "views": 541233
     },
     "flickr": {
       "id": "36356885164",
@@ -1867,9 +1849,9 @@
   "pigments": {
     "unsplash": {
       "id": "dysl7LZ7bSM",
-      "downloads": 2700,
+      "downloads": 2701,
       "likes": 0,
-      "views": 726040
+      "views": 726203
     },
     "flickr": {
       "id": "18907163221",
@@ -1898,16 +1880,16 @@
       {
         "id": "115883113579897451",
         "faves": 23,
-        "reblogs": 8
+        "reblogs": 6
       }
     ]
   },
   "playa-moron": {
     "unsplash": {
       "id": "ouL9Ccp5KXw",
-      "downloads": 23184,
+      "downloads": 23189,
       "likes": 0,
-      "views": 2271165
+      "views": 2271631
     },
     "flickr": {
       "id": "46957274561",
@@ -1959,18 +1941,7 @@
         "reblogs": 7
       }
     ],
-    "mastodon": [
-      {
-        "id": "114370006744413844",
-        "faves": 12,
-        "reblogs": 0
-      },
-      {
-        "id": "115445907860989035",
-        "faves": 4,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "quietness": {
     "pixelfed": [
@@ -2099,7 +2070,7 @@
     "flickr": {
       "id": "51644515306",
       "faves": 188,
-      "views": 9948,
+      "views": 9971,
       "comments": 9
     },
     "mastodon": [
@@ -2113,9 +2084,9 @@
   "ripe": {
     "unsplash": {
       "id": "sOgCGNT3xks",
-      "downloads": 7813,
+      "downloads": 7814,
       "likes": 0,
-      "views": 1289048
+      "views": 1289412
     },
     "flickr": {
       "id": "28176838603",
@@ -2196,7 +2167,7 @@
     "flickr": {
       "id": "51022199951",
       "faves": 83,
-      "views": 6433,
+      "views": 6434,
       "comments": 10
     },
     "mastodon": [
@@ -2212,7 +2183,7 @@
       "id": "qvS1EArlHIw",
       "downloads": 1878,
       "likes": 0,
-      "views": 209477
+      "views": 209559
     },
     "flickr": {
       "id": "50432944353",
@@ -2277,7 +2248,7 @@
       "id": "wbTiiFqEaHA",
       "downloads": 1461,
       "likes": 0,
-      "views": 224711
+      "views": 224785
     },
     "flickr": {
       "id": "34599265232",
@@ -2310,12 +2281,12 @@
       "id": "TVhGS6YhG_g",
       "downloads": 2175,
       "likes": 0,
-      "views": 406016
+      "views": 406112
     },
     "flickr": {
       "id": "51332549089",
       "faves": 207,
-      "views": 22467,
+      "views": 22468,
       "comments": 12
     },
     "pixelfed": [
@@ -2338,7 +2309,7 @@
     "flickr": {
       "id": "50686975421",
       "faves": 319,
-      "views": 26026,
+      "views": 26027,
       "comments": 28
     },
     "pixelfed": [
@@ -2414,7 +2385,7 @@
     "flickr": {
       "id": "51884834445",
       "faves": 118,
-      "views": 8903,
+      "views": 8905,
       "comments": 8
     },
     "mastodon": [
@@ -2460,9 +2431,9 @@
   "the-blacksmith": {
     "unsplash": {
       "id": "2MuZ23gkFKo",
-      "downloads": 21482,
+      "downloads": 21483,
       "likes": 0,
-      "views": 3274335
+      "views": 3274703
     },
     "flickr": {
       "id": "24680290568",
@@ -2498,9 +2469,9 @@
   "the-flowering-of-the-carnations": {
     "unsplash": {
       "id": "eDsVCQNOZSM",
-      "downloads": 1542,
+      "downloads": 1544,
       "likes": 0,
-      "views": 984322
+      "views": 984377
     },
     "flickr": {
       "id": "35269644666",
@@ -2582,7 +2553,7 @@
     "flickr": {
       "id": "51096570114",
       "faves": 541,
-      "views": 24246,
+      "views": 24247,
       "comments": 29
     },
     "mastodon": [
@@ -2598,7 +2569,7 @@
     "flickr": {
       "id": "17133928795",
       "faves": 195,
-      "views": 11582,
+      "views": 11585,
       "comments": 30
     },
     "pixelfed": [
@@ -2802,7 +2773,7 @@
       "id": "EqasEQO5oZQ",
       "downloads": 891,
       "likes": 0,
-      "views": 152878
+      "views": 152926
     },
     "flickr": {
       "id": "50709526891",
@@ -2835,7 +2806,7 @@
       "id": "cD8v3QR-nEk",
       "downloads": 269,
       "likes": 0,
-      "views": 6604
+      "views": 6605
     },
     "flickr": {
       "id": "37515893964",
@@ -2889,7 +2860,7 @@
     "flickr": {
       "id": "40247629271",
       "faves": 435,
-      "views": 89547,
+      "views": 89548,
       "comments": 43
     },
     "mastodon": [
@@ -2921,7 +2892,7 @@
     "flickr": {
       "id": "51110476345",
       "faves": 72,
-      "views": 7967,
+      "views": 7968,
       "comments": 4
     },
     "mastodon": [
@@ -2936,7 +2907,7 @@
     "flickr": {
       "id": "28286281418",
       "faves": 29,
-      "views": 23881,
+      "views": 23886,
       "comments": 2
     },
     "unsplash": {
@@ -3060,7 +3031,7 @@
     "flickr": {
       "id": "52572250850",
       "faves": 84,
-      "views": 8512,
+      "views": 8513,
       "comments": 8
     },
     "pixelfed": [
@@ -3087,7 +3058,7 @@
     "flickr": {
       "id": "52478780380",
       "faves": 47,
-      "views": 8662,
+      "views": 8665,
       "comments": 3
     },
     "pixelfed": [
@@ -3119,7 +3090,7 @@
     "flickr": {
       "id": "52476925277",
       "faves": 164,
-      "views": 8021,
+      "views": 8022,
       "comments": 8
     },
     "pixelfed": [
@@ -3146,7 +3117,7 @@
     "flickr": {
       "id": "52440672315",
       "faves": 159,
-      "views": 9793,
+      "views": 9795,
       "comments": 20
     },
     "pixelfed": [
@@ -3195,7 +3166,7 @@
     "flickr": {
       "id": "52418844809",
       "faves": 466,
-      "views": 31209,
+      "views": 31210,
       "comments": 40
     },
     "pixelfed": [
@@ -3313,7 +3284,7 @@
     "flickr": {
       "id": "52262397631",
       "faves": 65,
-      "views": 6868,
+      "views": 6871,
       "comments": 4
     },
     "pixelfed": [
@@ -3345,7 +3316,7 @@
     "flickr": {
       "id": "52261401120",
       "faves": 46,
-      "views": 4811,
+      "views": 4812,
       "comments": 2
     },
     "pixelfed": [
@@ -3431,7 +3402,7 @@
     "flickr": {
       "id": "52255647811",
       "faves": 66,
-      "views": 6962,
+      "views": 6963,
       "comments": 9
     },
     "pixelfed": [
@@ -3544,7 +3515,7 @@
     "flickr": {
       "id": "52245678879",
       "faves": 136,
-      "views": 8009,
+      "views": 8026,
       "comments": 12
     },
     "pixelfed": [
@@ -3571,7 +3542,7 @@
     "flickr": {
       "id": "52245678924",
       "faves": 115,
-      "views": 7281,
+      "views": 7300,
       "comments": 7
     },
     "pixelfed": [
@@ -3598,7 +3569,7 @@
     "flickr": {
       "id": "52245393031",
       "faves": 144,
-      "views": 8835,
+      "views": 8836,
       "comments": 13
     },
     "pixelfed": [
@@ -3684,7 +3655,7 @@
     "flickr": {
       "id": "52227948081",
       "faves": 207,
-      "views": 13970,
+      "views": 13971,
       "comments": 20
     },
     "pixelfed": [
@@ -3716,7 +3687,7 @@
     "flickr": {
       "id": "52165602355",
       "faves": 68,
-      "views": 4882,
+      "views": 4883,
       "comments": 5
     },
     "pixelfed": [
@@ -3898,7 +3869,7 @@
     "flickr": {
       "id": "51811370252",
       "faves": 162,
-      "views": 11374,
+      "views": 11375,
       "comments": 14
     },
     "pixelfed": [
@@ -3964,7 +3935,7 @@
     "flickr": {
       "id": "51802923967",
       "faves": 133,
-      "views": 12403,
+      "views": 12404,
       "comments": 18
     },
     "pixelfed": [
@@ -3991,7 +3962,7 @@
     "flickr": {
       "id": "51803884606",
       "faves": 64,
-      "views": 4949,
+      "views": 4950,
       "comments": 6
     },
     "pixelfed": [
@@ -4018,7 +3989,7 @@
     "flickr": {
       "id": "51804000293",
       "faves": 67,
-      "views": 5309,
+      "views": 5310,
       "comments": 16
     },
     "pixelfed": [
@@ -4045,7 +4016,7 @@
     "flickr": {
       "id": "51642605910",
       "faves": 80,
-      "views": 26236,
+      "views": 26239,
       "comments": 5
     },
     "pixelfed": [
@@ -4060,6 +4031,11 @@
         "id": "114709747104529569",
         "faves": 10,
         "reblogs": 1
+      },
+      {
+        "id": "115962393126995324",
+        "faves": 6,
+        "reblogs": 0
       }
     ]
   },
@@ -4138,7 +4114,7 @@
     "flickr": {
       "id": "51422038358",
       "faves": 182,
-      "views": 12842,
+      "views": 12845,
       "comments": 19
     },
     "pixelfed": [
@@ -4342,13 +4318,7 @@
         "reblogs": 5
       }
     ],
-    "mastodon": [
-      {
-        "id": "115321328856801358",
-        "faves": 10,
-        "reblogs": 2
-      }
-    ]
+    "mastodon": []
   },
   "joinville": {
     "flickr": {
@@ -4374,13 +4344,7 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "115316863031508438",
-        "faves": 6,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "pollination": {
     "flickr": {
@@ -4465,13 +4429,7 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "115248925520468240",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "an-evening-on-the-traelhavet-shore": {
     "flickr": {
@@ -4492,13 +4450,7 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "115243254294276990",
-        "faves": 14,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "remains-of-the-frozen-sea": {
     "flickr": {
@@ -4519,13 +4471,7 @@
         "reblogs": 4
       }
     ],
-    "mastodon": [
-      {
-        "id": "115247723722344114",
-        "faves": 15,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "oesterskaer": {
     "flickr": {
@@ -4546,19 +4492,13 @@
         "reblogs": 5
       }
     ],
-    "mastodon": [
-      {
-        "id": "115236394083598296",
-        "faves": 10,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "naesuddens-naturreservat": {
     "flickr": {
       "id": "51149713392",
       "faves": 33,
-      "views": 9651,
+      "views": 9652,
       "comments": 0
     },
     "pixelfed": [
@@ -4573,19 +4513,13 @@
         "reblogs": 4
       }
     ],
-    "mastodon": [
-      {
-        "id": "115237590253377796",
-        "faves": 7,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "panorama-over-traelhavet": {
     "flickr": {
       "id": "51151494805",
       "faves": 73,
-      "views": 21407,
+      "views": 21408,
       "comments": 2
     },
     "pixelfed": [
@@ -4600,13 +4534,7 @@
         "reblogs": 6
       }
     ],
-    "mastodon": [
-      {
-        "id": "115242057486021911",
-        "faves": 7,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "a-long-tailed-tit-in-sweden": {
     "flickr": {
@@ -4632,19 +4560,13 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "115254588055598358",
-        "faves": 9,
-        "reblogs": 2
-      }
-    ]
+    "mastodon": []
   },
   "children-propelling-a-tire": {
     "flickr": {
       "id": "51135785913",
       "faves": 24,
-      "views": 10824,
+      "views": 10825,
       "comments": 1
     },
     "pixelfed": [
@@ -4757,7 +4679,7 @@
     "flickr": {
       "id": "51106606429",
       "faves": 29,
-      "views": 10632,
+      "views": 10635,
       "comments": 0
     },
     "pixelfed": [
@@ -5160,7 +5082,7 @@
     "flickr": {
       "id": "51077674188",
       "faves": 88,
-      "views": 12697,
+      "views": 12698,
       "comments": 7
     },
     "pixelfed": [
@@ -5509,7 +5431,7 @@
     "flickr": {
       "id": "50664754801",
       "faves": 190,
-      "views": 19508,
+      "views": 19509,
       "comments": 15
     },
     "pixelfed": [
@@ -5863,7 +5785,7 @@
     "flickr": {
       "id": "50023658177",
       "faves": 136,
-      "views": 12384,
+      "views": 12385,
       "comments": 3
     },
     "pixelfed": [
@@ -5895,7 +5817,7 @@
     "flickr": {
       "id": "49875816887",
       "faves": 171,
-      "views": 11948,
+      "views": 11949,
       "comments": 9
     },
     "pixelfed": [
@@ -5932,7 +5854,7 @@
     "flickr": {
       "id": "49875507711",
       "faves": 233,
-      "views": 12701,
+      "views": 12702,
       "comments": 11
     },
     "pixelfed": [
@@ -6018,7 +5940,7 @@
     "flickr": {
       "id": "49799394586",
       "faves": 103,
-      "views": 13193,
+      "views": 13194,
       "comments": 4
     },
     "pixelfed": [
@@ -6055,7 +5977,7 @@
     "flickr": {
       "id": "49799394771",
       "faves": 206,
-      "views": 19258,
+      "views": 19259,
       "comments": 22
     },
     "pixelfed": [
@@ -6114,7 +6036,7 @@
     "flickr": {
       "id": "49765135981",
       "faves": 288,
-      "views": 40433,
+      "views": 40436,
       "comments": 15
     },
     "pixelfed": [
@@ -6291,7 +6213,7 @@
     "flickr": {
       "id": "49420483153",
       "faves": 121,
-      "views": 12200,
+      "views": 12201,
       "comments": 14
     },
     "pixelfed": [
@@ -6490,7 +6412,7 @@
     "flickr": {
       "id": "49030809111",
       "faves": 53,
-      "views": 8446,
+      "views": 8448,
       "comments": 2
     },
     "pixelfed": [
@@ -6694,7 +6616,7 @@
     "flickr": {
       "id": "45431850335",
       "faves": 291,
-      "views": 54603,
+      "views": 54606,
       "comments": 20
     },
     "pixelfed": [
@@ -6748,7 +6670,7 @@
     "flickr": {
       "id": "45239379565",
       "faves": 120,
-      "views": 8204,
+      "views": 8205,
       "comments": 17
     },
     "pixelfed": [
@@ -6947,7 +6869,7 @@
     "flickr": {
       "id": "29645299478",
       "faves": 67,
-      "views": 6872,
+      "views": 6873,
       "comments": 2
     },
     "pixelfed": [
@@ -7065,7 +6987,7 @@
     "flickr": {
       "id": "28337241198",
       "faves": 33,
-      "views": 2957,
+      "views": 2958,
       "comments": 4
     },
     "pixelfed": [
@@ -7156,7 +7078,7 @@
     "flickr": {
       "id": "38194699825",
       "faves": 32,
-      "views": 3607,
+      "views": 3608,
       "comments": 2
     },
     "pixelfed": [
@@ -7237,7 +7159,7 @@
     "flickr": {
       "id": "36901577156",
       "faves": 44,
-      "views": 7709,
+      "views": 7710,
       "comments": 4
     },
     "pixelfed": [
@@ -7340,7 +7262,7 @@
     "flickr": {
       "id": "35375323676",
       "faves": 21,
-      "views": 4593,
+      "views": 4594,
       "comments": 1
     },
     "pixelfed": [
@@ -7394,7 +7316,7 @@
     "flickr": {
       "id": "34776202281",
       "faves": 50,
-      "views": 6968,
+      "views": 6969,
       "comments": 9
     },
     "pixelfed": [
@@ -7799,7 +7721,7 @@
     "flickr": {
       "id": "28304272563",
       "faves": 92,
-      "views": 10402,
+      "views": 10410,
       "comments": 6
     },
     "pixelfed": [
@@ -7818,7 +7740,7 @@
       {
         "id": "115922753789055107",
         "faves": 21,
-        "reblogs": 7
+        "reblogs": 6
       }
     ]
   },
@@ -7826,7 +7748,7 @@
     "flickr": {
       "id": "24228537543",
       "faves": 240,
-      "views": 41997,
+      "views": 42009,
       "comments": 14
     },
     "pixelfed": [
@@ -7836,13 +7758,7 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "114732397213325502",
-        "faves": 2,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "curves": {
     "flickr": {
@@ -7949,7 +7865,7 @@
     "flickr": {
       "id": "21145812810",
       "faves": 331,
-      "views": 17724,
+      "views": 17726,
       "comments": 30
     },
     "pixelfed": [
@@ -8064,7 +7980,7 @@
       {
         "id": "115881911498393688",
         "faves": 12,
-        "reblogs": 1
+        "reblogs": 0
       }
     ]
   },
@@ -8195,7 +8111,7 @@
     "flickr": {
       "id": "14420719279",
       "faves": 458,
-      "views": 101795,
+      "views": 101798,
       "comments": 31
     },
     "pixelfed": [
@@ -8222,7 +8138,7 @@
     "flickr": {
       "id": "14464376335",
       "faves": 36,
-      "views": 7815,
+      "views": 7817,
       "comments": 3
     },
     "pixelfed": [
@@ -8249,7 +8165,7 @@
     "flickr": {
       "id": "14453427844",
       "faves": 13,
-      "views": 7705,
+      "views": 7706,
       "comments": 3
     },
     "pixelfed": [
@@ -8313,18 +8229,7 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "114521478914607763",
-        "faves": 3,
-        "reblogs": 0
-      },
-      {
-        "id": "115661079661752345",
-        "faves": 6,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "winter": {
     "flickr": {
@@ -8531,8 +8436,8 @@
   "stairz": {
     "flickr": {
       "id": "3241829519",
-      "faves": 85,
-      "views": 5153,
+      "faves": 86,
+      "views": 5156,
       "comments": 6
     },
     "pixelfed": [
@@ -8745,18 +8650,7 @@
         "reblogs": 4
       }
     ],
-    "mastodon": [
-      {
-        "id": "114371423848878772",
-        "faves": 15,
-        "reblogs": 2
-      },
-      {
-        "id": "115447112348375564",
-        "faves": 9,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "split-level-photography": {
     "flickr": {
@@ -8777,24 +8671,13 @@
         "reblogs": 4
       }
     ],
-    "mastodon": [
-      {
-        "id": "114368594797296451",
-        "faves": 10,
-        "reblogs": 2
-      },
-      {
-        "id": "115441438851797090",
-        "faves": 5,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "while-waiting": {
     "flickr": {
       "id": "15104205129",
       "faves": 441,
-      "views": 69453,
+      "views": 69459,
       "comments": 18
     },
     "pixelfed": [
@@ -8821,7 +8704,7 @@
     "flickr": {
       "id": "14350284830",
       "faves": 252,
-      "views": 80148,
+      "views": 80149,
       "comments": 21
     },
     "pixelfed": [
@@ -8848,7 +8731,7 @@
     "flickr": {
       "id": "14486876234",
       "faves": 249,
-      "views": 57782,
+      "views": 57785,
       "comments": 23
     },
     "pixelfed": [
@@ -9131,7 +9014,7 @@
     "flickr": {
       "id": "44747293171",
       "faves": 39,
-      "views": 6519,
+      "views": 6521,
       "comments": 7
     },
     "pixelfed": [
@@ -9249,7 +9132,7 @@
     "flickr": {
       "id": "38632965290",
       "faves": 387,
-      "views": 52263,
+      "views": 52265,
       "comments": 33
     },
     "pixelfed": [
@@ -9276,7 +9159,7 @@
     "flickr": {
       "id": "26414370488",
       "faves": 93,
-      "views": 10308,
+      "views": 10312,
       "comments": 1
     },
     "pixelfed": [
@@ -9382,24 +9265,13 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "114532803510868268",
-        "faves": 5,
-        "reblogs": 1
-      },
-      {
-        "id": "115684936767722443",
-        "faves": 4,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "aurelien-b-and-w": {
     "flickr": {
       "id": "37967866012",
       "faves": 130,
-      "views": 17477,
+      "views": 17480,
       "comments": 20
     },
     "pixelfed": [
@@ -9409,13 +9281,7 @@
         "reblogs": 7
       }
     ],
-    "mastodon": [
-      {
-        "id": "114733812465270279",
-        "faves": 10,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "egret-at-sunset": {
     "flickr": {
@@ -9550,7 +9416,7 @@
     "flickr": {
       "id": "52867186218",
       "faves": 43,
-      "views": 5779,
+      "views": 5780,
       "comments": 2
     },
     "pixelfed": [
@@ -9582,7 +9448,7 @@
     "flickr": {
       "id": "52861533766",
       "faves": 41,
-      "views": 6387,
+      "views": 6393,
       "comments": 5
     },
     "pixelfed": [
@@ -9614,7 +9480,7 @@
     "flickr": {
       "id": "52859919404",
       "faves": 66,
-      "views": 6878,
+      "views": 6881,
       "comments": 8
     },
     "pixelfed": [
@@ -9774,7 +9640,7 @@
     "flickr": {
       "id": "52933974592",
       "faves": 68,
-      "views": 3744,
+      "views": 3745,
       "comments": 5
     },
     "pixelfed": [
@@ -9811,7 +9677,7 @@
     "flickr": {
       "id": "52973224113",
       "faves": 110,
-      "views": 9077,
+      "views": 9078,
       "comments": 10
     },
     "pixelfed": [
@@ -10178,7 +10044,7 @@
     "flickr": {
       "id": "53371467953",
       "faves": 101,
-      "views": 5133,
+      "views": 5134,
       "comments": 17
     },
     "pixelfed": [
@@ -10205,7 +10071,7 @@
     "flickr": {
       "id": "53430835357",
       "faves": 54,
-      "views": 3745,
+      "views": 3746,
       "comments": 7
     },
     "pixelfed": [
@@ -10337,7 +10203,7 @@
   "misty-mountains": {
     "flickr": {
       "id": "53462830876",
-      "views": 3513,
+      "views": 3514,
       "faves": 87,
       "comments": 12
     },
@@ -10369,7 +10235,7 @@
   "la-main-de-crepin-mountain-peak": {
     "flickr": {
       "id": "53461905018",
-      "views": 3720,
+      "views": 3721,
       "faves": 58,
       "comments": 4
     },
@@ -10636,7 +10502,7 @@
     ],
     "flickr": {
       "id": "53567014662",
-      "views": 4547,
+      "views": 4548,
       "faves": 141,
       "comments": 15
     },
@@ -10722,7 +10588,7 @@
   "the-fontcouverte-cascade-first-tier": {
     "flickr": {
       "id": "53590105018",
-      "views": 1973,
+      "views": 1978,
       "faves": 29,
       "comments": 2
     },
@@ -10754,8 +10620,8 @@
   "the-magnificent-fontcouverte-cascade": {
     "flickr": {
       "id": "53590105098",
-      "views": 2802,
-      "faves": 44,
+      "views": 2809,
+      "faves": 45,
       "comments": 7
     },
     "pixelfed": [
@@ -10819,7 +10685,7 @@
   "waterfall-on-the-chardonnet": {
     "flickr": {
       "id": "53591098118",
-      "views": 2867,
+      "views": 2869,
       "faves": 54,
       "comments": 5
     },
@@ -10851,7 +10717,7 @@
   "ruisseau-du-chardonnet": {
     "flickr": {
       "id": "53590891791",
-      "views": 2495,
+      "views": 2496,
       "faves": 29,
       "comments": 3
     },
@@ -10959,7 +10825,7 @@
     ],
     "flickr": {
       "id": "54214377098",
-      "views": 1652,
+      "views": 1653,
       "faves": 38,
       "comments": 2
     },
@@ -10996,9 +10862,9 @@
     ],
     "unsplash": {
       "id": "7GDh_WBknxU",
-      "downloads": 5245,
+      "downloads": 5246,
       "likes": 0,
-      "views": 928795
+      "views": 928813
     },
     "flickr": {
       "id": "41779681045",
@@ -11054,7 +10920,7 @@
   "in-the-middle-of-the-claree-stream": {
     "flickr": {
       "id": "53618799920",
-      "views": 2339,
+      "views": 2340,
       "faves": 72,
       "comments": 18
     },
@@ -11118,7 +10984,7 @@
   "flowing-claree-in-front-of-la-main-de-crepin": {
     "flickr": {
       "id": "53625830878",
-      "views": 2979,
+      "views": 2981,
       "faves": 66,
       "comments": 6
     },
@@ -11182,7 +11048,7 @@
   "serene-claree": {
     "flickr": {
       "id": "53628293224",
-      "views": 2905,
+      "views": 2906,
       "faves": 57,
       "comments": 6
     },
@@ -11310,7 +11176,7 @@
   "down-to-the-valley": {
     "flickr": {
       "id": "53634336452",
-      "views": 2575,
+      "views": 2586,
       "faves": 84,
       "comments": 9
     },
@@ -11980,7 +11846,7 @@
   "rock-hopping-in-the-dry-samara-river": {
     "flickr": {
       "id": "53863465960",
-      "views": 959,
+      "views": 960,
       "faves": 6,
       "comments": 0
     },
@@ -12017,7 +11883,7 @@
   "steep-descent-through-the-trees": {
     "flickr": {
       "id": "53863465915",
-      "views": 991,
+      "views": 992,
       "faves": 8,
       "comments": 1
     },
@@ -12054,7 +11920,7 @@
   "tamam-restaurant": {
     "flickr": {
       "id": "53921143241",
-      "views": 2117,
+      "views": 2120,
       "faves": 21,
       "comments": 4
     },
@@ -12091,7 +11957,7 @@
   "restaurant-terraces-on-skoufon-street": {
     "flickr": {
       "id": "53920371316",
-      "views": 2207,
+      "views": 2208,
       "faves": 34,
       "comments": 3
     },
@@ -12202,7 +12068,7 @@
   "gerasimou-street": {
     "flickr": {
       "id": "54093281360",
-      "views": 1632,
+      "views": 1633,
       "faves": 42,
       "comments": 1
     },
@@ -12720,7 +12586,7 @@
   "reconstructed-north-entrance-of-the-palace-of-minos-in-knossos": {
     "flickr": {
       "id": "54198124844",
-      "views": 1157,
+      "views": 1158,
       "faves": 29,
       "comments": 5
     },
@@ -12848,7 +12714,7 @@
     ],
     "flickr": {
       "id": "54198328417",
-      "views": 1875,
+      "views": 1876,
       "faves": 43,
       "comments": 3
     },
@@ -13090,7 +12956,7 @@
   "heavy-sky-over-mirabello-bay": {
     "flickr": {
       "id": "54209845071",
-      "views": 1603,
+      "views": 1605,
       "faves": 45,
       "comments": 2
     },
@@ -13235,7 +13101,7 @@
     ],
     "flickr": {
       "id": "54258132489",
-      "views": 1134,
+      "views": 1135,
       "faves": 8,
       "comments": 5
     },
@@ -13267,7 +13133,7 @@
     ],
     "flickr": {
       "id": "54252256485",
-      "views": 9429,
+      "views": 9430,
       "faves": 232,
       "comments": 25
     },
@@ -13299,7 +13165,7 @@
     ],
     "flickr": {
       "id": "54252067008",
-      "views": 1145,
+      "views": 1146,
       "faves": 12,
       "comments": 3
     },
@@ -13395,7 +13261,7 @@
     ],
     "flickr": {
       "id": "54241902319",
-      "views": 1490,
+      "views": 1492,
       "faves": 28,
       "comments": 2
     },
@@ -13664,7 +13530,7 @@
     ],
     "flickr": {
       "id": "54290747269",
-      "views": 2850,
+      "views": 2851,
       "faves": 43,
       "comments": 7
     },
@@ -13749,13 +13615,7 @@
         "reblogs": 9
       }
     ],
-    "mastodon": [
-      {
-        "id": "114166232710592819",
-        "faves": 17,
-        "reblogs": 2
-      }
-    ]
+    "mastodon": []
   },
   "bitting-more-than-it-can-chew": {
     "flickr": {
@@ -13776,13 +13636,7 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "114171893736072813",
-        "faves": 6,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "young-ferns": {
     "flickr": {
@@ -13803,13 +13657,7 @@
         "reblogs": 13
       }
     ],
-    "mastodon": [
-      {
-        "id": "114177557246856843",
-        "faves": 13,
-        "reblogs": 2
-      }
-    ]
+    "mastodon": []
   },
   "crawling-along-the-riverbank-in-search-of-a-foothold": {
     "pixelfed": [
@@ -13826,17 +13674,11 @@
     ],
     "flickr": {
       "id": "54388896200",
-      "views": 6709,
+      "views": 6710,
       "faves": 190,
       "comments": 24
     },
-    "mastodon": [
-      {
-        "id": "114137919602905084",
-        "faves": 16,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "blue-green-stropharia": {
     "pixelfed": [
@@ -13857,13 +13699,7 @@
       "faves": 28,
       "comments": 7
     },
-    "mastodon": [
-      {
-        "id": "114132256634059355",
-        "faves": 14,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "oak-tree-undecided-about-which-direction-to-take": {
     "flickr": {
@@ -13884,13 +13720,7 @@
         "reblogs": 6
       }
     ],
-    "mastodon": [
-      {
-        "id": "114160568652336169",
-        "faves": 12,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "the-next-generation-is-coming": {
     "pixelfed": [
@@ -13911,13 +13741,7 @@
       "faves": 24,
       "comments": 5
     },
-    "mastodon": [
-      {
-        "id": "114149247137861797",
-        "faves": 9,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "the-spider-constellation": {
     "pixelfed": [
@@ -13934,17 +13758,11 @@
     ],
     "flickr": {
       "id": "54384507626",
-      "views": 1039,
+      "views": 1043,
       "faves": 24,
       "comments": 7
     },
-    "mastodon": [
-      {
-        "id": "114143582748601558",
-        "faves": 11,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "young-amethyst-deceiver": {
     "pixelfed": [
@@ -13965,13 +13783,7 @@
       "faves": 48,
       "comments": 9
     },
-    "mastodon": [
-      {
-        "id": "114154906708229466",
-        "faves": 20,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "magnificent-great-egret": {
     "flickr": {
@@ -13992,13 +13804,7 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "114827244337746643",
-        "faves": 22,
-        "reblogs": 9
-      }
-    ]
+    "mastodon": []
   },
   "western-osprey-in-dominican-republic": {
     "flickr": {
@@ -14019,13 +13825,7 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "114824410827606877",
-        "faves": 4,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "majestic-brown-pelican": {
     "flickr": {
@@ -14046,13 +13846,7 @@
         "reblogs": 5
       }
     ],
-    "mastodon": [
-      {
-        "id": "114822993345563805",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "resting-brown-pelican": {
     "flickr": {
@@ -14073,13 +13867,7 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114821583355287339",
-        "faves": 4,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "sanchez-at-the-end-of-samana-bay": {
     "flickr": {
@@ -14100,18 +13888,12 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114818747808764563",
-        "faves": 2,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "playa-carolina-las-terrenas": {
     "flickr": {
       "id": "54399999507",
-      "views": 1414,
+      "views": 1416,
       "faves": 27,
       "comments": 5
     },
@@ -14127,13 +13909,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114817331043997086",
-        "faves": 10,
-        "reblogs": 3
-      }
-    ]
+    "mastodon": []
   },
   "cueva-de-la-arena": {
     "flickr": {
@@ -14154,18 +13930,12 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114844230359350172",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "under-tight-surveillance": {
     "flickr": {
       "id": "54443706777",
-      "views": 2320,
+      "views": 2326,
       "faves": 20,
       "comments": 4
     },
@@ -14181,13 +13951,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114841397085653023",
-        "faves": 5,
-        "reblogs": 2
-      }
-    ]
+    "mastodon": []
   },
   "cueva-de-la-linea": {
     "flickr": {
@@ -14208,13 +13972,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114839979892350190",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "reminiscences-of-the-taino-people": {
     "flickr": {
@@ -14235,18 +13993,12 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114838575146372284",
-        "faves": 1,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "blue-egret-in-the-mangrove": {
     "flickr": {
       "id": "54435864399",
-      "views": 974,
+      "views": 975,
       "faves": 9,
       "comments": 6
     },
@@ -14262,13 +14014,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114835735016118234",
-        "faves": 1,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "los-haitises-national-park-mangrove": {
     "flickr": {
@@ -14289,13 +14035,7 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "114834318622975928",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "los-haitises-national-park": {
     "flickr": {
@@ -14316,13 +14056,7 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "114832906772720292",
-        "faves": 3,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "cueva-san-gabriel": {
     "flickr": {
@@ -14343,13 +14077,7 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "114830073540828033",
-        "faves": 5,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "magnificent-frigatebirds": {
     "flickr": {
@@ -14370,13 +14098,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114828656140560323",
-        "faves": 5,
-        "reblogs": 3
-      }
-    ]
+    "mastodon": []
   },
   "sierra-de-samana-hills": {
     "pixelfed": [
@@ -14397,13 +14119,7 @@
       "faves": 20,
       "comments": 2
     },
-    "mastodon": [
-      {
-        "id": "114893416621737957",
-        "faves": 2,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "sunset-on-the-dominican-republic-s-north-coast": {
     "pixelfed": [
@@ -14420,22 +14136,16 @@
     ],
     "flickr": {
       "id": "54498399520",
-      "views": 6653,
+      "views": 6654,
       "faves": 172,
       "comments": 16
     },
-    "mastodon": [
-      {
-        "id": "114891005869911300",
-        "faves": 9,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "el-limon-samana": {
     "flickr": {
       "id": "54459285915",
-      "views": 6941,
+      "views": 6942,
       "faves": 150,
       "comments": 18
     },
@@ -14451,13 +14161,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114847058181692614",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "beach-of-cueva-de-la-arena": {
     "flickr": {
@@ -14478,13 +14182,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114845641262498572",
-        "faves": 5,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "gentle-waves-at-playa-moron": {
     "flickr": {
@@ -14505,13 +14203,7 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "114852722707263975",
-        "faves": 8,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "playa-las-canas-in-the-distance": {
     "flickr": {
@@ -14532,13 +14224,7 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114849895798123180",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "at-the-back-of-playa-moron": {
     "flickr": {
@@ -14559,18 +14245,12 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "114855558251146860",
-        "faves": 12,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "hello-tiny-floating-creatures": {
     "flickr": {
       "id": "54469251380",
-      "views": 1164,
+      "views": 1167,
       "faves": 34,
       "comments": 2
     },
@@ -14586,13 +14266,7 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114862694810508951",
-        "faves": 7,
-        "reblogs": 2
-      }
-    ]
+    "mastodon": []
   },
   "these-bancas-are-not-banks": {
     "flickr": {
@@ -14613,18 +14287,12 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "114858234788739104",
-        "faves": 4,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "el-limon-waterfalls": {
     "flickr": {
       "id": "54468719890",
-      "views": 944,
+      "views": 945,
       "faves": 15,
       "comments": 1
     },
@@ -14640,18 +14308,12 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114857031182929635",
-        "faves": 8,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "humpback-whale-jump": {
     "flickr": {
       "id": "54470804221",
-      "views": 1153,
+      "views": 1154,
       "faves": 32,
       "comments": 6
     },
@@ -14667,28 +14329,16 @@
         "reblogs": 5
       }
     ],
-    "mastodon": [
-      {
-        "id": "114863897407982066",
-        "faves": 5,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "i-can-also-do-a-fosbury-jump": {
     "flickr": {
       "id": "54472896278",
-      "views": 1308,
+      "views": 1309,
       "faves": 38,
       "comments": 9
     },
-    "mastodon": [
-      {
-        "id": "114868357006109310",
-        "faves": 11,
-        "reblogs": 0
-      }
-    ],
+    "mastodon": [],
     "pixelfed": [
       {
         "id": "861143661962359877",
@@ -14716,13 +14366,7 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114869559329943624",
-        "faves": 4,
-        "reblogs": 2
-      }
-    ]
+    "mastodon": []
   },
   "hispaniolan-woodpecker": {
     "flickr": {
@@ -14743,18 +14387,12 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114875221688779454",
-        "faves": 5,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "attempted-camouflage-on-cayo-vigia": {
     "flickr": {
       "id": "54477183729",
-      "views": 788,
+      "views": 789,
       "faves": 8,
       "comments": 0
     },
@@ -14770,13 +14408,7 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "114874016612349803",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "gray-kingbird": {
     "flickr": {
@@ -14797,13 +14429,7 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "114879676431498656",
-        "faves": 9,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "female-hispaniolan-mango": {
     "flickr": {
@@ -14824,13 +14450,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114880877267599740",
-        "faves": 7,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "bananaquit-on-a-banana-plant": {
     "flickr": {
@@ -14851,19 +14471,13 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114885340807934832",
-        "faves": 4,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "hispaniolan-gracile-anole": {
     "flickr": {
       "id": "54487010370",
-      "views": 1125,
-      "faves": 9,
+      "views": 1137,
+      "faves": 11,
       "comments": 3
     },
     "pixelfed": [
@@ -14878,18 +14492,12 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114886539044602704",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "a-typical-dutch-country-village-from-the-past": {
     "flickr": {
       "id": "54502416882",
-      "views": 808,
+      "views": 809,
       "faves": 7,
       "comments": 1
     },
@@ -14910,18 +14518,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "114467685485719115",
-        "faves": 5,
-        "reblogs": 0
-      },
-      {
-        "id": "115423256598403882",
-        "faves": 7,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "where-has-the-sea-gone": {
     "pixelfed": [
@@ -14943,28 +14540,17 @@
     ],
     "flickr": {
       "id": "54512287406",
-      "views": 978,
+      "views": 979,
       "faves": 14,
       "comments": 1
     },
-    "mastodon": [
-      {
-        "id": "114470520836545852",
-        "faves": 6,
-        "reblogs": 3
-      },
-      {
-        "id": "115424459103389157",
-        "faves": 4,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "cycling-is-the-best-means-of-travelling-on-the-ile-de-re": {
     "flickr": {
       "id": "54517841357",
-      "views": 1446,
-      "faves": 26,
+      "views": 1447,
+      "faves": 27,
       "comments": 2
     },
     "pixelfed": [
@@ -14979,13 +14565,7 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "115209307979566400",
-        "faves": 13,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "la-flotte-pier-and-lighthouse": {
     "flickr": {
@@ -15006,13 +14586,7 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "115213748933153204",
-        "faves": 2,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "vallee-des-belleville": {
     "flickr": {
@@ -15033,13 +14607,7 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "115214951053599875",
-        "faves": 15,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "view-from-mont-de-la-chambre-towards-the-vallee-de-meribel": {
     "flickr": {
@@ -15060,18 +14628,12 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "115219406956337246",
-        "faves": 10,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "a-shy-marmot-in-les-menuires": {
     "flickr": {
       "id": "54535374256",
-      "views": 957,
+      "views": 960,
       "faves": 19,
       "comments": 4
     },
@@ -15087,18 +14649,12 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "115220612604380579",
-        "faves": 8,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "the-porte-d-aval-and-the-needle-of-etretat-from-the-manneporte": {
     "flickr": {
       "id": "54555409231",
-      "views": 1750,
+      "views": 1754,
       "faves": 69,
       "comments": 7
     },
@@ -15114,18 +14670,12 @@
         "reblogs": 1
       }
     ],
-    "mastodon": [
-      {
-        "id": "115270371257248044",
-        "faves": 7,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "chalk-cliffs-of-the-cote-d-albatre": {
     "flickr": {
       "id": "54558228423",
-      "views": 1109,
+      "views": 1111,
       "faves": 23,
       "comments": 4
     },
@@ -15141,18 +14691,12 @@
         "reblogs": 3
       }
     ],
-    "mastodon": [
-      {
-        "id": "115276031396121132",
-        "faves": 9,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "etretat-beach-porte-d-aval-and-needle-seen-from-above-the-porte-d-amont": {
     "flickr": {
       "id": "54557540241",
-      "views": 1176,
+      "views": 1179,
       "faves": 26,
       "comments": 1
     },
@@ -15168,18 +14712,12 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "115271573385646882",
-        "faves": 7,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "european-herring-gull": {
     "flickr": {
       "id": "54562006476",
-      "views": 1109,
+      "views": 1110,
       "faves": 22,
       "comments": 5
     },
@@ -15195,18 +14733,12 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "115277227937531686",
-        "faves": 6,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "above-etretat-and-its-golf-course-along-the-chalk-cliffs": {
     "flickr": {
       "id": "54566497645",
-      "views": 1186,
+      "views": 1188,
       "faves": 13,
       "comments": 4
     },
@@ -15222,18 +14754,12 @@
         "reblogs": 0
       }
     ],
-    "mastodon": [
-      {
-        "id": "115282888637004920",
-        "faves": 6,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "the-needle-and-the-porte-d-aval-seen-through-the-porte-d-amont": {
     "flickr": {
       "id": "54565174765",
-      "views": 1227,
+      "views": 1228,
       "faves": 47,
       "comments": 4
     },
@@ -15249,13 +14775,7 @@
         "reblogs": 8
       }
     ],
-    "mastodon": [
-      {
-        "id": "115281694626262472",
-        "faves": 10,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "the-porte-d-aval-and-the-needle-of-etretat-under-setting-sun": {
     "pixelfed": [
@@ -15272,17 +14792,11 @@
     ],
     "flickr": {
       "id": "54570544831",
-      "views": 1980,
+      "views": 1984,
       "faves": 96,
       "comments": 9
     },
-    "mastodon": [
-      {
-        "id": "115287367302097870",
-        "faves": 19,
-        "reblogs": 5
-      }
-    ]
+    "mastodon": []
   },
   "pointe-de-la-courtine-from-the-manneporte-cliff": {
     "pixelfed": [
@@ -15299,17 +14813,11 @@
     ],
     "flickr": {
       "id": "54575962279",
-      "views": 1396,
-      "faves": 65,
+      "views": 1399,
+      "faves": 67,
       "comments": 8
     },
-    "mastodon": [
-      {
-        "id": "115288548049676723",
-        "faves": 11,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "sunset-at-etretat": {
     "pixelfed": [
@@ -15326,17 +14834,11 @@
     ],
     "flickr": {
       "id": "54578679032",
-      "views": 1174,
+      "views": 1175,
       "faves": 31,
       "comments": 4
     },
-    "mastodon": [
-      {
-        "id": "115293023523120803",
-        "faves": 10,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "the-porte-d-aval-and-the-needle-of-etretat-from-above": {
     "pixelfed": [
@@ -15353,17 +14855,11 @@
     ],
     "flickr": {
       "id": "54582461590",
-      "views": 6195,
+      "views": 6238,
       "faves": 162,
       "comments": 17
     },
-    "mastodon": [
-      {
-        "id": "115294223412016636",
-        "faves": 6,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "overlooking-etretat-and-the-cote-d-albatre-towards-the-north": {
     "pixelfed": [
@@ -15380,17 +14876,11 @@
     ],
     "flickr": {
       "id": "54585378091",
-      "views": 1524,
+      "views": 1525,
       "faves": 31,
       "comments": 4
     },
-    "mastodon": [
-      {
-        "id": "115298689126522512",
-        "faves": 7,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "overlooking-the-cote-d-albatre-towards-the-south-of-etretat": {
     "pixelfed": [
@@ -15407,17 +14897,11 @@
     ],
     "flickr": {
       "id": "54588138423",
-      "views": 1375,
+      "views": 1380,
       "faves": 26,
       "comments": 2
     },
-    "mastodon": [
-      {
-        "id": "115299925513663830",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "the-three-natural-arches-of-etretat": {
     "pixelfed": [
@@ -15434,17 +14918,11 @@
     ],
     "flickr": {
       "id": "54590384951",
-      "views": 1388,
+      "views": 1391,
       "faves": 36,
       "comments": 7
     },
-    "mastodon": [
-      {
-        "id": "115304342152990140",
-        "faves": 17,
-        "reblogs": 3
-      }
-    ]
+    "mastodon": []
   },
   "the-porte-d-aval-and-the-needle-at-dusk": {
     "pixelfed": [
@@ -15461,22 +14939,16 @@
     ],
     "flickr": {
       "id": "54596645591",
-      "views": 2885,
+      "views": 2888,
       "faves": 62,
       "comments": 6
     },
-    "mastodon": [
-      {
-        "id": "115305545731391277",
-        "faves": 14,
-        "reblogs": 2
-      }
-    ]
+    "mastodon": []
   },
   "coffee-scuba-diving": {
     "flickr": {
       "id": "54608142790",
-      "views": 989,
+      "views": 992,
       "faves": 15,
       "comments": 2
     },
@@ -15492,18 +14964,12 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "115407472562370642",
-        "faves": 8,
-        "reblogs": 1
-      }
-    ]
+    "mastodon": []
   },
   "if-you-want-the-rainbow-you-gotta-put-up-with-the-rain": {
     "flickr": {
       "id": "54609418217",
-      "views": 954,
+      "views": 956,
       "faves": 15,
       "comments": 3
     },
@@ -15519,13 +14985,7 @@
         "reblogs": 2
       }
     ],
-    "mastodon": [
-      {
-        "id": "115411935436057572",
-        "faves": 7,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "calvi-marina": {
     "pixelfed": [
@@ -15542,22 +15002,11 @@
     ],
     "flickr": {
       "id": "54614627462",
-      "views": 1029,
+      "views": 1032,
       "faves": 12,
       "comments": 2
     },
-    "mastodon": [
-      {
-        "id": "114742308556528415",
-        "faves": 9,
-        "reblogs": 1
-      },
-      {
-        "id": "115672395268989777",
-        "faves": 5,
-        "reblogs": 0
-      }
-    ]
+    "mastodon": []
   },
   "the-citadel-of-calvi": {
     "pixelfed": [
@@ -15572,21 +15021,10 @@
         "reblogs": 5
       }
     ],
-    "mastodon": [
-      {
-        "id": "114743721560003202",
-        "faves": 11,
-        "reblogs": 2
-      },
-      {
-        "id": "115673596577879948",
-        "faves": 3,
-        "reblogs": 0
-      }
-    ],
+    "mastodon": [],
     "flickr": {
       "id": "54618093611",
-      "views": 1786,
+      "views": 1787,
       "faves": 25,
       "comments": 3
     }
@@ -15595,38 +15033,16 @@
     "mastodon": []
   },
   "a-beautiful-property-along-the-sentier-des-douaniers-in-brittany": {
-    "mastodon": [
-      {
-        "id": "114738058449238203",
-        "faves": 9,
-        "reblogs": 2
-      },
-      {
-        "id": "115775526056782827",
-        "faves": 9,
-        "reblogs": 0
-      }
-    ],
+    "mastodon": [],
     "flickr": {
       "id": "54623975837",
-      "views": 1169,
+      "views": 1170,
       "faves": 9,
       "comments": 0
     }
   },
   "view-of-costaeres-island-from-mean-ruz-lighthouse": {
-    "mastodon": [
-      {
-        "id": "114739475509339386",
-        "faves": 9,
-        "reblogs": 2
-      },
-      {
-        "id": "115791308065275521",
-        "faves": 20,
-        "reblogs": 2
-      }
-    ],
+    "mastodon": [],
     "pixelfed": [
       {
         "id": "877450838259963863",
@@ -15641,24 +15057,13 @@
     ],
     "flickr": {
       "id": "54627597555",
-      "views": 1251,
+      "views": 1253,
       "faves": 23,
       "comments": 5
     }
   },
   "above-ostriconi-beach": {
-    "mastodon": [
-      {
-        "id": "114745138065297962",
-        "faves": 8,
-        "reblogs": 0
-      },
-      {
-        "id": "115678055081024593",
-        "faves": 5,
-        "reblogs": 0
-      }
-    ],
+    "mastodon": [],
     "pixelfed": [
       {
         "id": "876726330307187244",
@@ -15673,24 +15078,13 @@
     ],
     "flickr": {
       "id": "54621093947",
-      "views": 1193,
+      "views": 1194,
       "faves": 16,
       "comments": 3
     }
   },
   "the-castle-of-milazzo": {
-    "mastodon": [
-      {
-        "id": "114781945732785477",
-        "faves": 5,
-        "reblogs": 2
-      },
-      {
-        "id": "115712033508088881",
-        "faves": 8,
-        "reblogs": 0
-      }
-    ],
+    "mastodon": [],
     "pixelfed": [
       {
         "id": "878900597934167835",
@@ -15705,24 +15099,13 @@
     ],
     "flickr": {
       "id": "54629176052",
-      "views": 5682,
+      "views": 5683,
       "faves": 146,
       "comments": 17
     }
   },
   "petit-hotel-in-milazzo-sicily": {
-    "mastodon": [
-      {
-        "id": "114783357308393972",
-        "faves": 11,
-        "reblogs": 1
-      },
-      {
-        "id": "115713235419816167",
-        "faves": 12,
-        "reblogs": 0
-      }
-    ],
+    "mastodon": [],
     "pixelfed": [
       {
         "id": "879263032941050988",
@@ -15737,7 +15120,7 @@
     ],
     "flickr": {
       "id": "54632958930",
-      "views": 1067,
+      "views": 1068,
       "faves": 11,
       "comments": 1
     }
@@ -15745,17 +15128,11 @@
   "pascal-martinot-lagarde-at-the-39th-international-athletics-meeting-of-montgeron": {
     "flickr": {
       "id": "54644527416",
-      "views": 2342,
+      "views": 2344,
       "faves": 29,
       "comments": 4
     },
-    "mastodon": [
-      {
-        "id": "115413153756744434",
-        "faves": 1,
-        "reblogs": 0
-      }
-    ],
+    "mastodon": [],
     "pixelfed": [
       {
         "id": "882162061079786741",
