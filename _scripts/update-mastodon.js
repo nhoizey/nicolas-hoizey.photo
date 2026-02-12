@@ -21,13 +21,9 @@ const syncMastodon = async () => {
 		// log: "debug",
 	});
 
-	for (const url in posseData) {
+	loop: for (const url in posseData) {
 		const slug = url.split("/").slice(-2, -1)[0];
-		if (platformsData[slug] !== undefined) {
-			platformsData[slug].mastodon = [];
-		} else {
-			platformsData[slug] = { mastodon: [] };
-		}
+		const newMastodon = [];
 
 		for (const postUrl of posseData[url].toots) {
 			const postId = postUrl.split("/").pop();
@@ -35,14 +31,33 @@ const syncMastodon = async () => {
 			try {
 				mastodonPost = await masto.v1.statuses.$select(`${postId}`).fetch();
 
-				platformsData[slug].mastodon.push({
+				newMastodon.push({
 					id: `${postId}`,
 					faves: mastodonPost.favouritesCount,
 					reblogs: mastodonPost.reblogsCount,
 				});
 			} catch (error) {
-				// TODO: if this is a 404, then the post has been deleted, remove it from the posseData
-				console.dir(error);
+				switch (error.statusCode) {
+					case 429:
+						// Stop calling the API if there's a "Too many requests" error
+						console.log(`
+Too many request, aborting…`);
+						break loop;
+					case 404:
+						console.log(`
+Missing toot: ${postUrl}`);
+						break;
+					default:
+						console.log('--------------------------------------------');
+						console.dir(error);
+				}
+			}
+
+			if (platformsData[slug] !== undefined) {
+				// Only use new data if there is some, meaning calling the API worked
+				platformsData[slug].mastodon = newMastodon.length > 0 ? newMastodon : platformsData[slug].mastodon;
+			} else {
+				platformsData[slug] = { mastodon: newMastodon };
 			}
 		}
 	}
