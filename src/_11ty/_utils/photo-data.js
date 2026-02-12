@@ -64,19 +64,6 @@ const getPhotoData = (slug) => {
 			flickrFaves = platforms.flickr.faves;
 		}
 
-		let pixelfedFaves = 0;
-		let pixelfedReblogs = 0;
-		if (platforms.pixelfed) {
-			pixelfedFaves = platforms.pixelfed.reduce(
-				(accumulator, currentValue) => accumulator + currentValue.faves,
-				0,
-			);
-			pixelfedReblogs = platforms.pixelfed.reduce(
-				(accumulator, currentValue) => accumulator + currentValue.reblogs,
-				0,
-			);
-		}
-
 		let mastodonFaves = 0;
 		let mastodonReblogs = 0;
 		if (platforms.mastodon) {
@@ -98,8 +85,6 @@ const getPhotoData = (slug) => {
 		// Super SECRET formula to compute interestingness
 		interestingness +=
 			flickrFaves +
-			pixelfedFaves +
-			5 * pixelfedReblogs +
 			mastodonFaves +
 			5 * mastodonReblogs +
 			unsplashDownloads / 500;

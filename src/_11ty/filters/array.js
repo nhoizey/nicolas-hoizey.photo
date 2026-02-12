@@ -1,10 +1,10 @@
 import util from "node:util";
 
-export const pixelfedFaves = (pixelfedData) => {
-	if (!Array.isArray(pixelfedData)) {
+export const mastodonFaves = (mastodonData) => {
+	if (!Array.isArray(mastodonData)) {
 		return 0;
 	}
-	return pixelfedData.reduce(
+	return mastodonData.reduce(
 		(accumulator, currentValue) => accumulator + currentValue.faves,
 		0,
 	);
