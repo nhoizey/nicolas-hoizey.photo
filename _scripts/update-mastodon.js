@@ -48,14 +48,15 @@ Too many request, aborting…`);
 Missing toot: ${postUrl}`);
 						break;
 					default:
-						console.log('--------------------------------------------');
+						console.log("--------------------------------------------");
 						console.dir(error);
 				}
 			}
 
 			if (platformsData[slug] !== undefined) {
 				// Only use new data if there is some, meaning calling the API worked
-				platformsData[slug].mastodon = newMastodon.length > 0 ? newMastodon : platformsData[slug].mastodon;
+				platformsData[slug].mastodon =
+					newMastodon.length > 0 ? newMastodon : platformsData[slug].mastodon;
 			} else {
 				platformsData[slug] = { mastodon: newMastodon };
 			}
