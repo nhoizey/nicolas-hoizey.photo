@@ -4,7 +4,7 @@
 		"ignoreUnknown": true,
 		"includes": [
 			"**",
-			"!**/src/assets/sass",
+			"!**/*.scss",
 			"!**/_cache",
 			"!**/cache",
 			"!**/src/_data/platforms.json"
