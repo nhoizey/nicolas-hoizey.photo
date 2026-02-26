@@ -169,6 +169,18 @@ const posseToFlickr = async () => {
 		groups.add("37718676651@N01");
 	}
 
+	if (tagsForGroups.has("paris")) {
+		groups
+			.add("51527528@N00")
+			.add("75856788@N00")
+			.add("82003896@N00")
+			.add("26904018@N00");
+	}
+
+	if (tagsForGroups.has("montmartre")) {
+		groups.add("65515196@N00");
+	}
+
 	if (tagsForGroups.has("corse")) {
 		groups
 			.add("765489@N24")
@@ -222,7 +234,10 @@ const posseToFlickr = async () => {
 			.add("35828943@N00");
 
 		if (tagsForGroups.has("sea")) {
-			groups.add("99007490@N00").add("61362772@N00").add("83504064@N00");
+			groups
+				.add("99007490@N00")
+				.add("61362772@N00")
+				.add("83504064@N00");
 		}
 	}
 
@@ -261,7 +276,10 @@ const posseToFlickr = async () => {
 	 * **************************************************************/
 
 	if (tagsForGroups.has("track-and-field")) {
-		groups.add("64038540@N00").add("756763@N22").add("1080295@N21");
+		groups
+			.add("64038540@N00")
+			.add("756763@N22")
+			.add("1080295@N21");
 	}
 
 	if (tagsForGroups.has("sport")) {
@@ -632,12 +650,20 @@ const posseToFlickr = async () => {
 		groups.add("14831468@N23").add("14856854@N22");
 	}
 
+	if (tagsForGroups.has("x-e5")) {
+		groups.add("14845073@N21").add("14883180@N24").add("14931384@N22");
+	}
+
 	if (tagsForGroups.has("fujinon-xf-10-24mm-f-4-0-r-ois")) {
 		groups
 			.add("2077382@N20")
 			.add("2621709@N24")
 			.add("2010873@N23")
 			.add("2654405@N20");
+	}
+
+	if (tagsForGroups.has("fujinon-xf-23mm-f-2-8-r-wr")) {
+		groups.add("14919840@N21");
 	}
 
 	if (tagsForGroups.has("fujinon-xf-500mm-f-5-6-r-lm-ois-wr")) {
