@@ -70,6 +70,7 @@ geo:
   latitude: 48.885941945
   longitude: 2.343352778333333
   country: France
+  map: true
 colors:
   vibrant: 184 90 85
   darkVibrant: 49 97 34
@@ -78,13 +79,10 @@ colors:
   darkMuted: 63 111 56
   lightMuted: 175 187 213
 lqip: data:image/webp;base64,UklGRvwAAABXRUJQVlA4IPAAAABwCQCdASpkAEMAP3Gqy1+0q6mnKhLrUpAuCWMG+D8AOPqUS8i8l3XAeUGWnuzyswX2J5CVOe/Thg5tN0f/eSgbXVPnF6oQotpIlrzj+8c2ArIlvMAA/uxSYuIT+rvPBZ0zdGBpqIog6S0TcOs6PUe5DZx3mazTuCZGA0MAL6K9rz3mE5qwOOT5s1Zt2UnnwkD+bmm5dsUbj/j3ObZ96erNIoG2MTyqvby9Il2qogNlIlusuJj0VpdNOY9Dx9fiCS0XM6CA0FAw7hRYpU1JrCxGE4ECdanbUzUwMO71GmTvjDL3u4sjkSW7Mchw7UQgAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 This photo is not original at all, many photographers have already taken it.
 
-But I was there, on the slope in front of the Sacré Chœur on Montmartre hill, so why not try it myself?
+But I was there, on the slope in front of the Sacré-Cœur on Montmartre hill, so why not try it myself?
 
 So no, the building is not collapsing and disappearing under the lawn. It's just a rotation effect, as the building is straight and the lawn is sloped.
