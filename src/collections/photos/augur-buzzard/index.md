@@ -91,4 +91,4 @@ missing_data:
   alt_text: true
 ---
 
-The Augur Buzzard is a large, stocky hawk, which usually perches in full view on the ground on a prominence of ground or on a perch (tree, rock, post,…) and is not shy, so that one can often observe it at leisure.
+The Augur Buzzard is a large, stocky hawk, which usually perches in full view on the ground, on a prominence of ground or on a perch (tree, rock, post,…) and is not shy, so that one can often observe it at leisure.
