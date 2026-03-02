@@ -234,10 +234,7 @@ const posseToFlickr = async () => {
 			.add("35828943@N00");
 
 		if (tagsForGroups.has("sea")) {
-			groups
-				.add("99007490@N00")
-				.add("61362772@N00")
-				.add("83504064@N00");
+			groups.add("99007490@N00").add("61362772@N00").add("83504064@N00");
 		}
 	}
 
@@ -276,10 +273,7 @@ const posseToFlickr = async () => {
 	 * **************************************************************/
 
 	if (tagsForGroups.has("track-and-field")) {
-		groups
-			.add("64038540@N00")
-			.add("756763@N22")
-			.add("1080295@N21");
+		groups.add("64038540@N00").add("756763@N22").add("1080295@N21");
 	}
 
 	if (tagsForGroups.has("sport")) {
