@@ -349,7 +349,7 @@ RewriteRule ^(.*) https://nicolas-hoizey.photo/$1 [QSA,R=301,L]
 
 <IfModule mod_headers.c>
 
-    Header set Content-Security-Policy "upgrade-insecure-requests; base-uri 'self'; img-src 'self' data: res.cloudinary.com i.ytimg.com; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' storage.googleapis.com https://ausi.github.io/respimagelint/; object-src 'self'; connect-src 'self' res.cloudinary.com api.mapbox.com events.mapbox.com; worker-src api.mapbox.com blob:
+    Header set Content-Security-Policy "upgrade-insecure-requests; base-uri 'self'; img-src 'self' data: res.cloudinary.com i.ytimg.com; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' storage.googleapis.com https://ausi.github.io/respimagelint/; object-src 'self'; connect-src 'self' res.cloudinary.com api.mapbox.com events.mapbox.com; worker-src 'self' api.mapbox.com blob:
 
     # `mod_headers` cannot match based on the content-type, however,
     # the `Content-Security-Policy` response header should be send
