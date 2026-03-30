@@ -1,3 +1,7 @@
+---
+permalink: .htaccess
+---
+
 # Inpired by
 # https://github.com/mmistakes/made-mistakes-jekyll/blob/master/.htaccess
 # https://github.com/fvsch/scripts-and-snippets/blob/master/apache/rewrite-well-known.conf
@@ -732,6 +736,21 @@ RewriteRule ^.well-known/(host-meta|webfinger).* https://fed.brid.gy/$0  [redire
 
 # Arborescence virtuelle pour les photos dans le KML
 RewriteRule ^kml/(.*)$ https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,w_300,h_300,c_limit/bo_1px_solid_black/bo_2px_solid_white/https://nicolas-hoizey.photo/$1 [P]
+
+# ----------------------------------------------------------------------
+# Redirect sprites with hash in the URL (for caching)
+# ----------------------------------------------------------------------
+
+RewriteRule ^/ui/thumbnails/(.*)/sprite.png /ui/thumbnails/sprite.png 302
+RewriteRule ^/ui/thumbnails/(.*)/sprite@2x.png /ui/thumbnails/sprite@2x.png 302
+
+# ----------------------------------------------------------------------
+# Redirect photo page to a location in galleries
+# ----------------------------------------------------------------------
+
+{% for photo in collections.unique_photos %}
+RewriteRule ^/photos/{{ photo.page.fileSlug }}/ {{ site.url }}{{ photo.url }} 302
+{%- endfor -%}
 
 # ##############################################################################
 # # HOMAGE TO Terry Pratchett: http://www.gnuterrypratchett.com/               #
