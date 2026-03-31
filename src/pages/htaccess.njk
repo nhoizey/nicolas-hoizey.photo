@@ -743,7 +743,7 @@ RewriteRule ^kml/(.*)$ https://res.cloudinary.com/nho/image/fetch/q_auto,f_auto,
 # ----------------------------------------------------------------------
 
 {% for photo in collections.unique_photos %}
-RewriteRule ^photos/{{ photo.page.fileSlug }}/ {{ site.url }}{{ photo.url }} [L,R=302,NC]
+RewriteRule ^photos/{{ photo.page.fileSlug }}/?$ {{ site.url }}{{ photo.url }} [L,R=302,NC]
 {% endfor %}
 
 # ----------------------------------------------------------------------
