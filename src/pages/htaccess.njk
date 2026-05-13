@@ -72,13 +72,10 @@ permalink: .htaccess
 
 # Allow cross-origin access to the API
 
-<IfModule mod_setenvif.c>
-  <IfModule mod_headers.c>
-      <FilesMatch "^/api/">
-          SetEnvIf Origin ":" IS_CORS
-          Header set Access-Control-Allow-Origin "*" env=IS_CORS
-      </FilesMatch>
-  </IfModule>
+<IfModule mod_headers.c>
+    <FilesMatch "^/api/">
+        Header set Access-Control-Allow-Origin "*"
+    </FilesMatch>
 </IfModule>
 
 # ----------------------------------------------------------------------
