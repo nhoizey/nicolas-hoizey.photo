@@ -64,6 +64,18 @@ permalink: .htaccess
 </IfModule>
 
 # ----------------------------------------------------------------------
+# | Cross-origin API.                                                  |
+# ----------------------------------------------------------------------
+
+# Allow cross-origin access to the API
+
+<IfModule mod_headers.c>
+    <FilesMatch "api/.*$">
+        Header set Access-Control-Allow-Origin "*"
+    </FilesMatch>
+</IfModule>
+
+# ----------------------------------------------------------------------
 # | Cross-origin resource timing                                       |
 # ----------------------------------------------------------------------
 
