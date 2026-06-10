@@ -207,6 +207,10 @@ const generateStats = async () => {
 	document.getElementById("shutter_speeds").append(shutterSpeeds);
 
 	const aperturesPerYear = plot({
+		style: {
+			backgroundColor: '#292929',
+			color: '#f6f5f9'
+		},
 		marginBottom: 50,
 		marginTop: 50,
 		y: { grid: true },
@@ -217,17 +221,20 @@ const generateStats = async () => {
 		marks: [
 			dot(
 				photosData,
-				group({ r: "count", fill: "count" }, { x: "year", y: "aperture" }),
+				group(
+					{
+						r: "count",
+						fill: "count",
+						title: (data, { x, y }) => `${data.length} or ${y} photos with aperture ${data[0].readable_aperture} in ${x}`
+					},
+					{
+						x: "year",
+						y: "aperture",
+						tip: true
+					},
+				),
 			),
 			ruleY([0]),
-			tip(
-				photosData,
-				pointer({
-					x: "year",
-					y: "aperture",
-					title: (d) => `aperture ${d.readable_aperture} in ${d.year}`,
-				}),
-			),
 		],
 	});
 	document.getElementById("apertures_per_year").append(aperturesPerYear);
