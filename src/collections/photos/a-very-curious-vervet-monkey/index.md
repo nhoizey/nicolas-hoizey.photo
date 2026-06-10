@@ -98,6 +98,6 @@ These primates are semi-terrestrial, which means that they can live on the groun
 
 Vervet monkeys are widely distributed on the planet and able to adapt better than most primate species to the proximity of humans. They also come in part to cities, invading plantations. In some places, they are therefore considered a pest and persecuted because they are hunted for their meat.
 
-A Vervet monkey eve, caused a nationwide electrical blackout in Kenya a few years ago! https://time.com/4361370/monkey-kenya-power-blackout/
+A Vervet monkey caused a nationwide electrical blackout in Kenya a few years ago! https://time.com/4361370/monkey-kenya-power-blackout/
 
 Vervet monkeys serve as a primate model for understanding genetic and social behaviors of humans. They have some human-like characteristics, such as hypertension, anxiety, and social and dependent alcohol use.
