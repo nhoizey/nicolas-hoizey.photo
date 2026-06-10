@@ -31,7 +31,6 @@ tags:
   - insectes
   - insects
   - macro
-  - mosquito
   - mouche
   - sauvage
   - white
@@ -67,6 +66,7 @@ geo:
   longitude: 3.702401
   country: France
   city: Venizy
+  map: true
 colors:
   vibrant: 180 116 65
   darkVibrant: 59 34 19
@@ -75,9 +75,6 @@ colors:
   darkMuted: 62 54 52
   lightMuted: 205 185 157
 lqip: data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwCQCdASpkAEMAP3Gwz180raolKhXZApAuCWcAAI+/opsgng8vIz9zTmJ4Nj/7wX4tzK7OPhH83JE0UxBvFAnySorFvEW1Wha7MxPD7BnywCMI8W2+pMqAAP7u5IAHvulGzilLQ5FPOCsoQ8NnGy5Y9W1wK4LIuYCZPED015VVKmwRcUb+N8+NZvWwwUZf35lgOzPI/esZ+jugic4ecMBglBjjSz4WyvUjlyqswBJTbhXu98W/zBOb9FoDDwAAAAA=
-missing_data:
-  map: true
-  opengraph: true
 ---
 
 Is that close enough? 😅
