@@ -19,7 +19,7 @@ import YAML from "yaml";
 import slugify from "../src/_11ty/_utils/slugify.js";
 
 const SRC =
-	"/Users/nicolashoizey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Photographie/_Site web/";
+	"/Users/nhoizey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Photographie/_Site web/";
 const DIST = "./src/collections/photos/";
 const THUMBNAILS = "./_temp/thumbnails/";
 const DIFFS = path.join(SRC, "_temp_diffs");
