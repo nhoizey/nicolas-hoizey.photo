@@ -50,11 +50,11 @@
 		"unsplash": "node ./_scripts/update-unsplash.js",
 		"mastodon": "node ./_scripts/update-mastodon.js",
 		"generate": "./_scripts/generate-map-images.js && ./_scripts/generate-opengraph-images.js && ./_scripts/generate-photos-sprite.js",
-		"lint": "npx @biomejs/biome check --write"
+		"lint": "npx npx @biomejs/biome migrate --write && npx @biomejs/biome check --write"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.6",
-		"@biomejs/biome": "^2.4.16",
+		"@biomejs/biome": "^2.5.0",
 		"@turf/turf": "^7.3.5",
 		"dotenv": "^17.4.2",
 		"download": "^8.0.0",
