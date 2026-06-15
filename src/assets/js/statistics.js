@@ -208,8 +208,8 @@ const generateStats = async () => {
 
 	const aperturesPerYear = plot({
 		style: {
-			backgroundColor: '#292929',
-			color: '#f6f5f9'
+			backgroundColor: "#292929",
+			color: "#f6f5f9",
 		},
 		marginBottom: 50,
 		marginTop: 50,
@@ -225,12 +225,13 @@ const generateStats = async () => {
 					{
 						r: "count",
 						fill: "count",
-						title: (data, { x, y }) => `${data.length} or ${y} photos with aperture ${data[0].readable_aperture} in ${x}`
+						title: (data, { x, y }) =>
+							`${data.length} or ${y} photos with aperture ${data[0].readable_aperture} in ${x}`,
 					},
 					{
 						x: "year",
 						y: "aperture",
-						tip: true
+						tip: true,
 					},
 				),
 			),

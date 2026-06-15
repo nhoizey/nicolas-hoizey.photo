@@ -7,7 +7,9 @@
 			"!**/*.scss",
 			"!**/_cache",
 			"!**/cache",
-			"!**/src/_data/platforms.json"
+			"!**/src/_data/platforms.json",
+			"!**/src/_data/sprites.json",
+			"!**/src/static/ui/thumbnails"
 		]
 	},
 	"vcs": {
