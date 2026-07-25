@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-07-24T06:57:32.254Z",
+  "lastFetched": "2026-07-25T06:53:12.132Z",
   "webmentions": [
     {
       "type": "entry",
@@ -283395,6 +283395,519 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/soft-touch-danger/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/soft-touch-danger/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-113513794052763932",
+      "published": "2026-07-24T12:22:01Z",
+      "wm-received": "2026-07-24T12:22:01Z",
+      "wm-id": 2013703,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hymaho",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/751d269901d1ccc95d00b72c73f0ed55936007e70cdc4c01adae8ebb41259045.jpg",
+        "url": "https://gram.social/Hymaho"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-116964408775142568",
+      "published": "2026-07-24T12:22:01Z",
+      "wm-received": "2026-07-24T12:22:01Z",
+      "wm-id": 2013702,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/116964408775142568",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dineinfr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88f0f27ed349462f71986da283c4a94ce50c9fc90fd02a49677ce40a39262628.jpg",
+        "url": "https://hibipix.com/dineinfr"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#reblogged-by-114734616681203054",
+      "published": "2026-07-24T12:22:03Z",
+      "wm-received": "2026-07-24T12:22:03Z",
+      "wm-id": 2013704,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/116974836527482730/114734616681203054",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TristanKrs",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/19b71a01c20b624a8183b7c527239b7667fee645e762792ea51b9aa20e4ee24f.jpg",
+        "url": "https://mastodon.social/@TristanKrs"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-116974496078169088",
+      "published": "2026-07-24T12:47:55Z",
+      "wm-received": "2026-07-24T12:47:55Z",
+      "wm-id": 2013715,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/116974496078169088",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Magentix",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0e039b447c8ba9303e096cae2b68b4e3973f9d7398371f9b285d672aa4e74a8a.png",
+        "url": "https://tinypub.social/users/magentix"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-116048673527457185",
+      "published": "2026-07-24T12:47:55Z",
+      "wm-received": "2026-07-24T12:47:55Z",
+      "wm-id": 2013714,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/116048673527457185",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-110651355078160221",
+      "published": "2026-07-24T13:48:46Z",
+      "wm-received": "2026-07-24T13:48:46Z",
+      "wm-id": 2013724,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EU tech news",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e4b91d9634d60797ed699fc98339186343e43cbc494f1953e9c08e63b41018d5.jpg",
+        "url": "https://mastodon.social/@eutechnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-116339964934801737",
+      "published": "2026-07-24T13:48:46Z",
+      "wm-received": "2026-07-24T13:48:46Z",
+      "wm-id": 2013723,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/116339964934801737",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marek Jędra",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5cb4d691bba5430ac63d87248c8d7639dbd7b1c3ce9662aba7331f270f865b99.png",
+        "url": "https://pixelfed.de/Jedra"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-111908587131620892",
+      "published": "2026-07-24T15:59:46Z",
+      "wm-received": "2026-07-24T15:59:46Z",
+      "wm-id": 2013742,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/111908587131620892",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eva Viatgera",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8f018c141f1a6b68cda6cb74c34840ab88fa0b1ba5b63c8e1089951f225aa3ef.jpg",
+        "url": "https://gram.social/eviatgera"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-116964422599164244",
+      "published": "2026-07-24T16:24:54Z",
+      "wm-received": "2026-07-24T16:24:54Z",
+      "wm-id": 2013752,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/116964422599164244",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Leeroy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/85728429b936ca18dab325c2d3ab8cba8d809d57a2fff6d9a1a6119bdea044a3.jpg",
+        "url": "https://pixelfed.social/firehound"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-108681660487473614",
+      "published": "2026-07-24T17:23:33Z",
+      "wm-received": "2026-07-24T17:23:33Z",
+      "wm-id": 2013762,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/108681660487473614",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-112555206662590515",
+      "published": "2026-07-24T17:23:37Z",
+      "wm-received": "2026-07-24T17:23:37Z",
+      "wm-id": 2013763,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Angie",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b291d8fe30ec309aa2982c6defd501d77c9aadf4fd57473a2703fef164a24f90.jpg",
+        "url": "https://holos.social/users/angybl658"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-116976073027809938",
+      "published": "2026-07-24T17:23:39Z",
+      "wm-received": "2026-07-24T17:23:39Z",
+      "wm-id": 2013764,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/116976073027809938",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Traveller234",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mastodon.social/@Traveller234"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-116974668188546713",
+      "published": "2026-07-24T17:23:41Z",
+      "wm-received": "2026-07-24T17:23:41Z",
+      "wm-id": 2013765,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/116974668188546713",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "பாRTHIபN",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/294bf0b2da2f34df954e2dc162731a800c3a669cb1382af67db7f100cba06d51.jpg",
+        "url": "https://pixelfed.de/parthipan"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-441319",
+      "published": "2026-07-24T17:23:42Z",
+      "wm-received": "2026-07-24T17:23:42Z",
+      "wm-id": 2013766,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/441319",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#reblogged-by-109546769351149860",
+      "published": "2026-07-24T17:23:43Z",
+      "wm-received": "2026-07-24T17:23:43Z",
+      "wm-id": 2013768,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/116976032545813887/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ira",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/52cb4a2c5059e1051038e80aa48b6903bfc0c4e5d80420bd8f6f5727dd9b90c7.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-114891269374305316",
+      "published": "2026-07-24T17:23:43Z",
+      "wm-received": "2026-07-24T17:23:43Z",
+      "wm-id": 2013767,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "onlyfabrizio",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5319cadce69cd94f66f9df5dd0d7ad1da7590d940e0b0f25ed3b7d09ddcbd9fc.png",
+        "url": "https://photog.social/@onlyfabrizio"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-116933630817016834",
+      "published": "2026-07-24T17:53:48Z",
+      "wm-received": "2026-07-24T17:53:48Z",
+      "wm-id": 2013778,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/116933630817016834",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-112555206662590515",
+      "published": "2026-07-24T17:53:52Z",
+      "wm-received": "2026-07-24T17:53:52Z",
+      "wm-id": 2013779,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-116568504112454513",
+      "published": "2026-07-24T18:19:28Z",
+      "wm-received": "2026-07-24T18:19:28Z",
+      "wm-id": 2013797,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-114304710833651200",
+      "published": "2026-07-24T18:19:31Z",
+      "wm-received": "2026-07-24T18:19:31Z",
+      "wm-id": 2013798,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ant ????????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/33290d16a89e977060ff5768f421b25170e1b0571206a956b7904d947bb06ee4.png",
+        "url": "https://pixelfed.uno/ant58ore"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-113457431276902309",
+      "published": "2026-07-24T18:49:16Z",
+      "wm-received": "2026-07-24T18:49:16Z",
+      "wm-id": 2013802,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/113457431276902309",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-109546769351149860",
+      "published": "2026-07-24T18:49:18Z",
+      "wm-received": "2026-07-24T18:49:18Z",
+      "wm-id": 2013803,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Katel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d132470c68119163637054b4992acd6af3ae9db67a0082726be8e8394a79925d.jpg",
+        "url": "https://mastodon.social/@Kateldepenarbed"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-114046860167168194",
+      "published": "2026-07-24T19:15:55Z",
+      "wm-received": "2026-07-24T19:15:55Z",
+      "wm-id": 2013807,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/114046860167168194",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Irene Tobler",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/939e083fa0cd0bb4ed8072fc83bac5410669abc058d842ed583a8d381b1d4211.gif",
+        "url": "https://troet.cafe/@irenetobler"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-111204036105564752",
+      "published": "2026-07-24T19:47:59Z",
+      "wm-received": "2026-07-24T19:47:59Z",
+      "wm-id": 2013810,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/111204036105564752",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Steve Henderson Fine Art",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/89998981f16cf25a70bb06918ef24c427f11f9ffa5a4766de25e3327c541495c.jpg",
+        "url": "https://mastodon.social/@SteveHendersonFineArt"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#favorited-by-110776267056318720",
+      "published": "2026-07-24T19:47:59Z",
+      "wm-received": "2026-07-24T19:47:59Z",
+      "wm-id": 2013809,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116976032545813887/110776267056318720",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Steve Henderson Fine Art",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/89998981f16cf25a70bb06918ef24c427f11f9ffa5a4766de25e3327c541495c.jpg",
+        "url": "https://mastodon.social/@SteveHendersonFineArt"
+      },
+      "url": "https://mamot.fr/@nhoizey/116976032545813887#reblogged-by-110776267056318720",
+      "published": "2026-07-24T19:48:03Z",
+      "wm-received": "2026-07-24T19:48:03Z",
+      "wm-id": 2013811,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/116976032545813887/110776267056318720",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/flowing-claree-in-front-of-la-main-de-crepin/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Shaun D Bennett",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5b625a6667b74abdc8db8a653bd9fa1f6c104608805ee7d1563c306488e1b262.jpg",
+        "url": "https://mastodon.social/@talldudelifestyle"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-112330915300949067",
+      "published": "2026-07-24T19:48:04Z",
+      "wm-received": "2026-07-24T19:48:04Z",
+      "wm-id": 2013812,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/112330915300949067",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
       "wm-property": "like-of",
       "wm-private": false
     }
