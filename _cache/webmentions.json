@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-07-25T06:53:12.132Z",
+  "lastFetched": "2026-07-26T07:00:37.711Z",
   "webmentions": [
     {
       "type": "entry",
@@ -283905,6 +283905,25 @@
       "wm-received": "2026-07-24T19:48:04Z",
       "wm-id": 2013812,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/112330915300949067",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/116974836527482730#favorited-by-503687",
+      "published": "2026-07-25T14:58:51Z",
+      "wm-received": "2026-07-25T14:58:51Z",
+      "wm-id": 2013938,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116974836527482730/503687",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/a-beautiful-autumn-in-the-claree-valley/",
