@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-07-28T06:59:32.844Z",
+  "lastFetched": "2026-07-29T07:01:32.512Z",
   "webmentions": [
     {
       "type": "entry",
@@ -285637,6 +285637,405 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/lac-de-la-cula/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GoOz",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/380d832886ee513f375311fcc1aa9b091f135884ebd955c804b3f318e53a72f1.jpg",
+        "url": "https://mamot.fr/@GoOz"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-55857",
+      "published": "2026-07-28T12:34:16Z",
+      "wm-received": "2026-07-28T12:34:16Z",
+      "wm-id": 2014643,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/55857",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TealJax",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/45e6af022adf68dc500e1abd26e4e646ae7c22e19b7a58a43f93d346f4911430.png",
+        "url": "https://mastodon.social/@TealJax"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-231006",
+      "published": "2026-07-28T12:34:21Z",
+      "wm-received": "2026-07-28T12:34:21Z",
+      "wm-id": 2014644,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/231006",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-329706",
+      "published": "2026-07-28T12:34:22Z",
+      "wm-received": "2026-07-28T12:34:22Z",
+      "wm-id": 2014645,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TristanKrs",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/19b71a01c20b624a8183b7c527239b7667fee645e762792ea51b9aa20e4ee24f.jpg",
+        "url": "https://mastodon.social/@TristanKrs"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-116974496078169088",
+      "published": "2026-07-28T12:34:29Z",
+      "wm-received": "2026-07-28T12:34:29Z",
+      "wm-id": 2014646,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/116974496078169088",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Daniel Schildt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3086645cd791b96b7a045f8280a426bf4a7fa642b5d05ff3b0268099bae1a1e.jpg",
+        "url": "https://mementomori.social/@autiomaa"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-110802130603050055",
+      "published": "2026-07-28T12:34:30Z",
+      "wm-received": "2026-07-28T12:34:30Z",
+      "wm-id": 2014647,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/110802130603050055",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TealJax",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/45e6af022adf68dc500e1abd26e4e646ae7c22e19b7a58a43f93d346f4911430.png",
+        "url": "https://mastodon.social/@TealJax"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#reblogged-by-231006",
+      "published": "2026-07-28T12:34:34Z",
+      "wm-received": "2026-07-28T12:34:34Z",
+      "wm-id": 2014648,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/116997520791256566/231006",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "alex",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f83119dc9af1f7b0f39bad633fc7e42aae4bbc3d2b405e7e00411e1b5bcf2f36.jpg",
+        "url": "https://toot.meiyerlan.casa/@miln"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-116435177429661785",
+      "published": "2026-07-28T12:59:58Z",
+      "wm-received": "2026-07-28T12:59:58Z",
+      "wm-id": 2014669,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/116435177429661785",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mauro",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5f0776a5813b707bcb5a8543c57a52e75f76799a22600d26431a15c7d086ac67.png",
+        "url": "https://gram.social/maducan"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-114711207672926841",
+      "published": "2026-07-28T13:00:02Z",
+      "wm-received": "2026-07-28T13:00:02Z",
+      "wm-id": 2014670,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/114711207672926841",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dineinfr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88f0f27ed349462f71986da283c4a94ce50c9fc90fd02a49677ce40a39262628.jpg",
+        "url": "https://hibipix.com/dineinfr"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-114734616681203054",
+      "published": "2026-07-28T13:00:03Z",
+      "wm-received": "2026-07-28T13:00:03Z",
+      "wm-id": 2014672,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/114734616681203054",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan Krieger",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2a29c9b799e65dc541f733fe14b44025fd3e8d8fb728d06a8cabb3fc374dd9cb.jpg",
+        "url": "https://metalhead.club/@devmetal"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-109252463150452428",
+      "published": "2026-07-28T13:00:03Z",
+      "wm-received": "2026-07-28T13:00:03Z",
+      "wm-id": 2014671,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/109252463150452428",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "estibensito",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/779df1f9172139c7caa4d829576f95c854375ad6b8361e52ea6f0257bf8dbf4d.jpg",
+        "url": "https://pixelfed.social/estiben_sito"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-114205908073188437",
+      "published": "2026-07-28T13:00:04Z",
+      "wm-received": "2026-07-28T13:00:04Z",
+      "wm-id": 2014673,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/114205908073188437",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#reblogged-by-113840219686050198",
+      "published": "2026-07-28T13:00:07Z",
+      "wm-received": "2026-07-28T13:00:07Z",
+      "wm-id": 2014674,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/116997520791256566/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "pauli ???? ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/141999006af00f24dfb271513b556a803b834e97eb8b1e0583cfbda5ad14cd35.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-114891269374305316",
+      "published": "2026-07-28T13:34:13Z",
+      "wm-received": "2026-07-28T13:34:13Z",
+      "wm-id": 2014677,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-114331409715632221",
+      "published": "2026-07-28T14:09:46Z",
+      "wm-received": "2026-07-28T14:09:46Z",
+      "wm-id": 2014679,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-110795643064737098",
+      "published": "2026-07-28T14:09:50Z",
+      "wm-received": "2026-07-28T14:09:50Z",
+      "wm-id": 2014680,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Samuel ????????????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5a508a727a5be54e138dd2b3a90638a10858d176fab863d505c29d89825b958e.jpg",
+        "url": "https://mastodon.social/@SamyTerje"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-109301674949544721",
+      "published": "2026-07-28T16:21:55Z",
+      "wm-received": "2026-07-28T16:21:55Z",
+      "wm-id": 2014695,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/109301674949544721",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-116013168770614572",
+      "published": "2026-07-28T17:25:41Z",
+      "wm-received": "2026-07-28T17:25:41Z",
+      "wm-id": 2014707,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-112555206662590515",
+      "published": "2026-07-28T18:27:44Z",
+      "wm-received": "2026-07-28T18:27:44Z",
+      "wm-id": 2014722,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eva Viatgera",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8f018c141f1a6b68cda6cb74c34840ab88fa0b1ba5b63c8e1089951f225aa3ef.jpg",
+        "url": "https://gram.social/eviatgera"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-116964422599164244",
+      "published": "2026-07-28T22:13:21Z",
+      "wm-received": "2026-07-28T22:13:21Z",
+      "wm-id": 2014765,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/116964422599164244",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dr. Cassone",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8aaf550b6c7b12a328f10179d603860e499a614f2a92050c358a6f239511fe7d.jpg",
+        "url": "https://m.drcassone.com/@DrCassone"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-115794951628617811",
+      "published": "2026-07-28T22:51:02Z",
+      "wm-received": "2026-07-28T22:51:02Z",
+      "wm-id": 2014772,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/115794951628617811",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d9768ac766c255d472cceee673d08087a94847560bbe8da61d72192a53ac47d8.jpg",
+        "url": "https://pixelfed.social/mdill"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-113866521537388638",
+      "published": "2026-07-28T23:24:45Z",
+      "wm-received": "2026-07-28T23:24:45Z",
+      "wm-id": 2014774,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/113866521537388638",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
       "wm-property": "like-of",
       "wm-private": false
     }
