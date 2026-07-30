@@ -1,6 +1,6 @@
 name: '📸 → 🦣 POSSE photos to Mastodon'
 on:
-  schedule:
+  # schedule:
   # https://crontab.guru/#27_11,16_*_*_*
   # At minute 27 past hour 13 and 18 (GMT+2).
   # - cron: '27 11,16 * * *'
