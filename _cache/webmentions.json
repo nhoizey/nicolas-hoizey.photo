@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-07-29T07:01:32.512Z",
+  "lastFetched": "2026-07-30T06:59:58.376Z",
   "webmentions": [
     {
       "type": "entry",
@@ -286036,6 +286036,291 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/116997520791256566#favorited-by-503687",
+      "published": "2026-07-29T07:24:48Z",
+      "wm-received": "2026-07-29T07:24:48Z",
+      "wm-id": 2014796,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/116997520791256566/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/still-water-of-lac-de-la-cula/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-116568504112454513",
+      "published": "2026-07-29T12:42:21Z",
+      "wm-received": "2026-07-29T12:42:21Z",
+      "wm-id": 2014853,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "pauli ???? ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/141999006af00f24dfb271513b556a803b834e97eb8b1e0583cfbda5ad14cd35.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-114891269374305316",
+      "published": "2026-07-29T12:42:21Z",
+      "wm-received": "2026-07-29T12:42:21Z",
+      "wm-id": 2014852,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hans",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/aed059de16eb3aa0cdfb874ad8c093c7ed0f0320788b38b79fd4eee5e3c374e5.jpg",
+        "url": "https://pixelfed.social/FotoHdH"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-114120567859030477",
+      "published": "2026-07-29T12:42:23Z",
+      "wm-received": "2026-07-29T12:42:23Z",
+      "wm-id": 2014854,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/114120567859030477",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-110651355078160221",
+      "published": "2026-07-29T13:10:57Z",
+      "wm-received": "2026-07-29T13:10:57Z",
+      "wm-id": 2014860,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-113513794052763932",
+      "published": "2026-07-29T13:10:58Z",
+      "wm-received": "2026-07-29T13:10:58Z",
+      "wm-id": 2014861,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-503687",
+      "published": "2026-07-29T13:46:39Z",
+      "wm-received": "2026-07-29T13:46:39Z",
+      "wm-id": 2014862,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-114331409715632221",
+      "published": "2026-07-29T15:57:09Z",
+      "wm-received": "2026-07-29T15:57:09Z",
+      "wm-id": 2014874,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-116013168770614572",
+      "published": "2026-07-29T16:30:27Z",
+      "wm-received": "2026-07-29T16:30:27Z",
+      "wm-id": 2014877,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-109546769351149860",
+      "published": "2026-07-29T17:01:28Z",
+      "wm-received": "2026-07-29T17:01:28Z",
+      "wm-id": 2014880,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "basepair",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/182aee11796889a5a9b3346e8fc8bcc48d1b36cf3bb40622ce2778dfa0d52da0.jpg",
+        "url": "https://vernissage.photos/@basepair"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-116222349191086242",
+      "published": "2026-07-29T17:01:29Z",
+      "wm-received": "2026-07-29T17:01:29Z",
+      "wm-id": 2014881,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/116222349191086242",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#reblogged-by-109546769351149860",
+      "published": "2026-07-29T17:01:48Z",
+      "wm-received": "2026-07-29T17:01:48Z",
+      "wm-id": 2014882,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117003192197028996/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marek Jędra",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5cb4d691bba5430ac63d87248c8d7639dbd7b1c3ce9662aba7331f270f865b99.png",
+        "url": "https://pixelfed.de/Jedra"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-111908587131620892",
+      "published": "2026-07-29T17:36:47Z",
+      "wm-received": "2026-07-29T17:36:47Z",
+      "wm-id": 2014884,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/111908587131620892",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-113906621033686473",
+      "published": "2026-07-29T20:16:54Z",
+      "wm-received": "2026-07-29T20:16:54Z",
+      "wm-id": 2014908,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d9768ac766c255d472cceee673d08087a94847560bbe8da61d72192a53ac47d8.jpg",
+        "url": "https://pixelfed.social/mdill"
+      },
+      "url": "https://mamot.fr/@nhoizey/117003192197028996#favorited-by-113866521537388638",
+      "published": "2026-07-30T01:19:29Z",
+      "wm-received": "2026-07-30T01:19:29Z",
+      "wm-id": 2014935,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117003192197028996/113866521537388638",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/dry-branchs-of-dwarf-juniper/",
       "wm-property": "like-of",
       "wm-private": false
     }
