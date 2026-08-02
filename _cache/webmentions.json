@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-07-31T07:05:54.991Z",
+  "lastFetched": "2026-08-02T06:59:53.469Z",
   "webmentions": [
     {
       "type": "entry",
@@ -286413,6 +286413,25 @@
       "wm-received": "2026-07-30T20:53:33Z",
       "wm-id": 2015004,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117008830700215512/114036742931975491",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/european-larch-trees-dressed-for-autumn/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/european-larch-trees-dressed-for-autumn/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "musicmatze",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/175e6f7f983a7dc377642d0f61749446b088974cdd6f2d9193c7efa57ad0ab1d.png",
+        "url": "https://pixelfed.social/musicmatze"
+      },
+      "url": "https://mamot.fr/@nhoizey/117008830700215512#favorited-by-329315",
+      "published": "2026-08-01T07:54:13Z",
+      "wm-received": "2026-08-01T07:54:13Z",
+      "wm-id": 2015287,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117008830700215512/329315",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/european-larch-trees-dressed-for-autumn/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/european-larch-trees-dressed-for-autumn/",
