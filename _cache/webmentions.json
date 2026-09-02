@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-01T06:26:53.731Z",
+  "lastFetched": "2026-09-02T06:30:37.852Z",
   "webmentions": [
     {
       "type": "entry",
@@ -286777,6 +286777,405 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-path-to-reach-the-sky-is-sometimes-twisted/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/06371140676a45f1b4f80ad8e6277dedb167a76a1557877e1dc0d263b84e9958.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-114891269374305316",
+      "published": "2026-09-01T11:55:17Z",
+      "wm-received": "2026-09-01T11:55:17Z",
+      "wm-id": 2027807,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kirsten",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/19e9411f51a5ec784aecc5294c425ca201f2538aa0cb0e5c4ce0f8c341a448ad.png",
+        "url": "https://ohai.social/@kemmering98"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-115500715793194178",
+      "published": "2026-09-01T11:55:17Z",
+      "wm-received": "2026-09-01T11:55:17Z",
+      "wm-id": 2027806,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/115500715793194178",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Daniele T.",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/117/154/958/997/952/508/original/fefd63600db73c60.webp",
+        "url": "https://vernissage.photos/@dan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-117154958997952508",
+      "published": "2026-09-01T11:55:19Z",
+      "wm-received": "2026-09-01T11:55:19Z",
+      "wm-id": 2027808,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/117154958997952508",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#reblogged-by-111653510624650957",
+      "published": "2026-09-01T11:55:22Z",
+      "wm-received": "2026-09-01T11:55:22Z",
+      "wm-id": 2027809,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117195555888445714/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-114331409715632221",
+      "published": "2026-09-01T12:12:19Z",
+      "wm-received": "2026-09-01T12:12:19Z",
+      "wm-id": 2027814,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ckohtala",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bf00375652383b1a04191605e8046f46c39e686bba6894ccfa4b0f31fe9ff38e.jpg",
+        "url": "https://scholar.social/@ckohtala"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-79796",
+      "published": "2026-09-01T12:22:16Z",
+      "wm-received": "2026-09-01T12:22:16Z",
+      "wm-id": 2027818,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/79796",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dineinfr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88f0f27ed349462f71986da283c4a94ce50c9fc90fd02a49677ce40a39262628.jpg",
+        "url": "https://hibipix.com/dineinfr"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-114734616681203054",
+      "published": "2026-09-01T12:22:16Z",
+      "wm-received": "2026-09-01T12:22:16Z",
+      "wm-id": 2027817,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/114734616681203054",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-109951804609117719",
+      "published": "2026-09-01T12:57:07Z",
+      "wm-received": "2026-09-01T12:57:07Z",
+      "wm-id": 2027824,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mario Eijkemans",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3a3fda6319935ff032dc152fe284d2aacd3d594e35f37d553170e008697e109e.jpg",
+        "url": "https://mastodon.social/@675345456754334566664w"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-116068448617129009",
+      "published": "2026-09-01T12:57:07Z",
+      "wm-received": "2026-09-01T12:57:07Z",
+      "wm-id": 2027823,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/116068448617129009",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-110651355078160221",
+      "published": "2026-09-01T13:22:47Z",
+      "wm-received": "2026-09-01T13:22:47Z",
+      "wm-id": 2027836,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EU tech news",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e4b91d9634d60797ed699fc98339186343e43cbc494f1953e9c08e63b41018d5.jpg",
+        "url": "https://mastodon.social/@eutechnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/117195555888445714#favorited-by-116339964934801737",
+      "published": "2026-09-01T13:57:52Z",
+      "wm-received": "2026-09-01T13:57:52Z",
+      "wm-id": 2027855,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117195555888445714/116339964934801737",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/majestic-larix/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "templarknight ????????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1bd17f1a4d1b9e8809f7996e531caa5ad71b3d9c7162b9f621e9542af7e2dd3b.jpg",
+        "url": "https://ieji.de/@templarknight"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-109614417705314503",
+      "published": "2026-09-01T17:14:42Z",
+      "wm-received": "2026-09-01T17:14:42Z",
+      "wm-id": 2027961,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/109614417705314503",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/06371140676a45f1b4f80ad8e6277dedb167a76a1557877e1dc0d263b84e9958.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-114891269374305316",
+      "published": "2026-09-01T17:14:48Z",
+      "wm-received": "2026-09-01T17:14:48Z",
+      "wm-id": 2027962,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#reblogged-by-111653510624650957",
+      "published": "2026-09-01T17:14:53Z",
+      "wm-received": "2026-09-01T17:14:53Z",
+      "wm-id": 2027963,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117196810417106282/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-116013168770614572",
+      "published": "2026-09-01T17:39:06Z",
+      "wm-received": "2026-09-01T17:39:06Z",
+      "wm-id": 2027988,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-113513794052763932",
+      "published": "2026-09-01T17:39:08Z",
+      "wm-received": "2026-09-01T17:39:08Z",
+      "wm-id": 2027989,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-114307257434206498",
+      "published": "2026-09-01T17:39:18Z",
+      "wm-received": "2026-09-01T17:39:18Z",
+      "wm-id": 2027990,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-113906621033686473",
+      "published": "2026-09-01T18:12:53Z",
+      "wm-received": "2026-09-01T18:12:53Z",
+      "wm-id": 2028004,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-114331409715632221",
+      "published": "2026-09-01T18:12:53Z",
+      "wm-received": "2026-09-01T18:12:53Z",
+      "wm-id": 2028003,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Francien Bergmans",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fc75b341474cdca4d90e6773e705f7ea9d2313895ed8a043add8eb296b4b6186.jpg",
+        "url": "https://mastodon.social/@Francien63"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-116113577084662076",
+      "published": "2026-09-01T18:12:56Z",
+      "wm-received": "2026-09-01T18:12:56Z",
+      "wm-id": 2028005,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/116113577084662076",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-109546769351149860",
+      "published": "2026-09-01T18:41:09Z",
+      "wm-received": "2026-09-01T18:41:09Z",
+      "wm-id": 2028016,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
       "wm-property": "like-of",
       "wm-private": false
     }
