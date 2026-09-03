@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-02T06:30:37.852Z",
+  "lastFetched": "2026-09-03T06:25:49.265Z",
   "webmentions": [
     {
       "type": "entry",
@@ -287176,6 +287176,481 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Blue Hydrangea",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b6f80abb35b9dfa54fd9340735b03ef2facc2ec3b1621583885263dae8b578e7.jpg",
+        "url": "https://thebluehydrangea.org/@thebluehydrangea"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-117034793351087163",
+      "published": "2026-09-02T11:54:27Z",
+      "wm-received": "2026-09-02T11:54:27Z",
+      "wm-id": 2028295,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/117034793351087163",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9a93988b7736a0d5dbf82854474b23c01ef1838741276f5c132316a85f58496f.png",
+        "url": "https://mast.social/@Chris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-116391778365249387",
+      "published": "2026-09-02T11:54:30Z",
+      "wm-received": "2026-09-02T11:54:30Z",
+      "wm-id": 2028296,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/116391778365249387",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#reblogged-by-111653510624650957",
+      "published": "2026-09-02T11:54:33Z",
+      "wm-received": "2026-09-02T11:54:33Z",
+      "wm-id": 2028297,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117201221046795937/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/06371140676a45f1b4f80ad8e6277dedb167a76a1557877e1dc0d263b84e9958.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-114891269374305316",
+      "published": "2026-09-02T12:29:51Z",
+      "wm-received": "2026-09-02T12:29:51Z",
+      "wm-id": 2028330,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8e7d40508cce8c8d33268866fa336271ac4d6c4c1a63788e6ecb88e35cff68dc.jpg",
+        "url": "https://pixelfed.social/Whatthemel"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-114219022051737213",
+      "published": "2026-09-02T12:29:52Z",
+      "wm-received": "2026-09-02T12:29:52Z",
+      "wm-id": 2028331,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/114219022051737213",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-109546769351149860",
+      "published": "2026-09-02T13:05:46Z",
+      "wm-received": "2026-09-02T13:05:46Z",
+      "wm-id": 2028337,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EU tech news",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e4b91d9634d60797ed699fc98339186343e43cbc494f1953e9c08e63b41018d5.jpg",
+        "url": "https://mastodon.social/@eutechnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-116339964934801737",
+      "published": "2026-09-02T13:31:55Z",
+      "wm-received": "2026-09-02T13:31:55Z",
+      "wm-id": 2028349,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/116339964934801737",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117196810417106282#favorited-by-110651355078160221",
+      "published": "2026-09-02T13:31:57Z",
+      "wm-received": "2026-09-02T13:31:57Z",
+      "wm-id": 2028350,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117196810417106282/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-magnificent-fontcouverte-cascade/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-110651355078160221",
+      "published": "2026-09-02T13:59:11Z",
+      "wm-received": "2026-09-02T13:59:11Z",
+      "wm-id": 2028364,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d9768ac766c255d472cceee673d08087a94847560bbe8da61d72192a53ac47d8.jpg",
+        "url": "https://pixelfed.social/mdill"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-113866521537388638",
+      "published": "2026-09-02T13:59:11Z",
+      "wm-received": "2026-09-02T13:59:11Z",
+      "wm-id": 2028363,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/113866521537388638",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mvierma",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/04b3036a870238d5d9ada105ed7aa69b5f91bfe615b2ca6b2fd309ad712b1cad.jpg",
+        "url": "https://gram.social/mvierma"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-116992965921093890",
+      "published": "2026-09-02T17:02:03Z",
+      "wm-received": "2026-09-02T17:02:03Z",
+      "wm-id": 2028508,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/116992965921093890",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "???? :tofu_on_fire:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/aefc4e704e3c2a7332dbf3a97b613c3f99fb0e6206f72030e04be8b4c26b4e03.jpg",
+        "url": "https://hollo.454474.xyz/@aiman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-117162762841936862",
+      "published": "2026-09-02T17:02:04Z",
+      "wm-received": "2026-09-02T17:02:04Z",
+      "wm-id": 2028509,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/117162762841936862",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gwenn",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/300afe330be7a9621fb391327467f4297bce1a38643e912b0c1f46feb963861c.png",
+        "url": "https://mamot.fr/@gboussard"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#reblogged-by-403179",
+      "published": "2026-09-02T17:02:13Z",
+      "wm-received": "2026-09-02T17:02:13Z",
+      "wm-id": 2028510,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117202418834276449/403179",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#reblogged-by-111653510624650957",
+      "published": "2026-09-02T17:02:17Z",
+      "wm-received": "2026-09-02T17:02:17Z",
+      "wm-id": 2028511,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117202418834276449/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "alex",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f83119dc9af1f7b0f39bad633fc7e42aae4bbc3d2b405e7e00411e1b5bcf2f36.jpg",
+        "url": "https://toot.meiyerlan.casa/@miln"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-116435177429661785",
+      "published": "2026-09-02T17:27:10Z",
+      "wm-received": "2026-09-02T17:27:10Z",
+      "wm-id": 2028530,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/116435177429661785",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-109546769351149860",
+      "published": "2026-09-02T17:27:10Z",
+      "wm-received": "2026-09-02T17:27:10Z",
+      "wm-id": 2028529,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gen_Gavi",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8a7ed0b739e1e8150cbf9f6a80beacbd7778b29e2b0cbd7137c0fd02fec28a8e.jpg",
+        "url": "https://mamot.fr/@Gen_G"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#reblogged-by-235366",
+      "published": "2026-09-02T17:27:13Z",
+      "wm-received": "2026-09-02T17:27:13Z",
+      "wm-id": 2028531,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117202418834276449/235366",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#reblogged-by-109546769351149860",
+      "published": "2026-09-02T17:27:17Z",
+      "wm-received": "2026-09-02T17:27:17Z",
+      "wm-id": 2028532,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117202418834276449/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-113513794052763932",
+      "published": "2026-09-02T18:00:07Z",
+      "wm-received": "2026-09-02T18:00:07Z",
+      "wm-id": 2028553,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-117196094204834851",
+      "published": "2026-09-02T18:00:10Z",
+      "wm-received": "2026-09-02T18:00:10Z",
+      "wm-id": 2028554,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#reblogged-by-117196094204834851",
+      "published": "2026-09-02T18:00:11Z",
+      "wm-received": "2026-09-02T18:00:11Z",
+      "wm-id": 2028555,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117202418834276449/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-113513794052763932",
+      "published": "2026-09-02T18:00:15Z",
+      "wm-received": "2026-09-02T18:00:15Z",
+      "wm-id": 2028556,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sfigata",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mamot.fr/@Sfigata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-177781",
+      "published": "2026-09-02T18:33:24Z",
+      "wm-received": "2026-09-02T18:33:24Z",
+      "wm-id": 2028564,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/177781",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-112555206662590515",
+      "published": "2026-09-02T19:06:01Z",
+      "wm-received": "2026-09-02T19:06:01Z",
+      "wm-id": 2028576,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-116415769514877815",
+      "published": "2026-09-02T21:51:14Z",
+      "wm-received": "2026-09-02T21:51:14Z",
+      "wm-id": 2028684,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
       "wm-property": "like-of",
       "wm-private": false
     }
