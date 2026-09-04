@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-03T06:25:49.265Z",
+  "lastFetched": "2026-09-04T06:29:08.815Z",
   "webmentions": [
     {
       "type": "entry",
@@ -287651,6 +287651,557 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Quietexposure",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/511adf468d4013320e6660f5dc1558a084e8aa1965cbc5bb7b0922a921e5a32f.jpg",
+        "url": "https://pixelfed.social/Quietexposure"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-117113031412619996",
+      "published": "2026-09-03T12:09:21Z",
+      "wm-received": "2026-09-03T12:09:21Z",
+      "wm-id": 2028810,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/117113031412619996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wesley Soares",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/762afaeb91b690c585326db70736f777d7b2adfdb9aea4fdfd732aea7b500716.jpg",
+        "url": "https://metapixl.com/wesleysoares"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-111307429073340471",
+      "published": "2026-09-03T12:09:21Z",
+      "wm-received": "2026-09-03T12:09:21Z",
+      "wm-id": 2028809,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/111307429073340471",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cd7444efd8e3a42287e3df08d35ed16f163135d982d8d97f789406b36344fe28.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-114891269374305316",
+      "published": "2026-09-03T12:44:10Z",
+      "wm-received": "2026-09-03T12:44:10Z",
+      "wm-id": 2028816,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-109546769351149860",
+      "published": "2026-09-03T12:44:10Z",
+      "wm-received": "2026-09-03T12:44:10Z",
+      "wm-id": 2028815,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EU tech news",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e4b91d9634d60797ed699fc98339186343e43cbc494f1953e9c08e63b41018d5.jpg",
+        "url": "https://mastodon.social/@eutechnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-116339964934801737",
+      "published": "2026-09-03T13:38:56Z",
+      "wm-received": "2026-09-03T13:38:56Z",
+      "wm-id": 2028821,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/116339964934801737",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "பாRTHIபN",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/294bf0b2da2f34df954e2dc162731a800c3a669cb1382af67db7f100cba06d51.jpg",
+        "url": "https://pixelfed.de/parthipan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-441319",
+      "published": "2026-09-03T16:50:07Z",
+      "wm-received": "2026-09-03T16:50:07Z",
+      "wm-id": 2028842,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/441319",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Emerman",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fde82184cf95c44f57130999babb246d7a89be5fd8f9c0c417ee9439459905e.jpg",
+        "url": "https://mstdn.science/@memerman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-109297728671312390",
+      "published": "2026-09-03T16:50:09Z",
+      "wm-received": "2026-09-03T16:50:09Z",
+      "wm-id": 2028843,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/109297728671312390",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07919de6a1ee4b9017d2abed8fd869ea1b7afdcb574f524f96a7ee6a1a0e9584.jpg",
+        "url": "https://pixelshot.it/Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-116142825191584642",
+      "published": "2026-09-03T16:50:12Z",
+      "wm-received": "2026-09-03T16:50:12Z",
+      "wm-id": 2028844,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/116142825191584642",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#reblogged-by-111653510624650957",
+      "published": "2026-09-03T16:50:14Z",
+      "wm-received": "2026-09-03T16:50:14Z",
+      "wm-id": 2028845,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117208071314733359/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-113513794052763932",
+      "published": "2026-09-03T17:19:08Z",
+      "wm-received": "2026-09-03T17:19:08Z",
+      "wm-id": 2028848,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-111626648801109062",
+      "published": "2026-09-03T17:19:08Z",
+      "wm-received": "2026-09-03T17:19:08Z",
+      "wm-id": 2028847,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pascal Bernheim",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bd1738f2cfac63c24396d786407d62bb768cb1c38bc8a397a38292edbd536133.png",
+        "url": "https://photog.social/@pascal_bernheim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-112196326538211227",
+      "published": "2026-09-03T17:19:16Z",
+      "wm-received": "2026-09-03T17:19:16Z",
+      "wm-id": 2028850,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/112196326538211227",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BFSMan01",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/00efc7706b971bc552e7d996252f4b6fd0ce1ef0246f0bf48faecae9123ab3ff.jpg",
+        "url": "https://mstdn.plus/@MikeF"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-109531250031313060",
+      "published": "2026-09-03T17:19:16Z",
+      "wm-received": "2026-09-03T17:19:16Z",
+      "wm-id": 2028849,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/109531250031313060",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "???? :tofu_on_fire:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/aefc4e704e3c2a7332dbf3a97b613c3f99fb0e6206f72030e04be8b4c26b4e03.jpg",
+        "url": "https://hollo.454474.xyz/@aiman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-117162762841936862",
+      "published": "2026-09-03T17:19:26Z",
+      "wm-received": "2026-09-03T17:19:26Z",
+      "wm-id": 2028851,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/117162762841936862",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-113513794052763932",
+      "published": "2026-09-03T17:19:27Z",
+      "wm-received": "2026-09-03T17:19:27Z",
+      "wm-id": 2028852,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "StephaneHuart",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/456476f58c12b164fad72ce09c42ac7c5dea60a79402257c475743bedce485b3.png",
+        "url": "https://pixelfed.social/StephaneHuart"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-113483787598374474",
+      "published": "2026-09-03T17:47:12Z",
+      "wm-received": "2026-09-03T17:47:12Z",
+      "wm-id": 2028853,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/113483787598374474",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "StephaneHuart",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/456476f58c12b164fad72ce09c42ac7c5dea60a79402257c475743bedce485b3.png",
+        "url": "https://pixelfed.social/StephaneHuart"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-113483787598374474",
+      "published": "2026-09-03T17:47:13Z",
+      "wm-received": "2026-09-03T17:47:13Z",
+      "wm-id": 2028854,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/113483787598374474",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Magdalena",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a743809d1b1a464c1203b3e5d5f32b718c1a548c4fd104e1bcc314b1710e195a.jpg",
+        "url": "https://vernissage.photos/@magda"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-113985459594831931",
+      "published": "2026-09-03T18:12:22Z",
+      "wm-received": "2026-09-03T18:12:22Z",
+      "wm-id": 2028858,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/113985459594831931",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EU tech news",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e4b91d9634d60797ed699fc98339186343e43cbc494f1953e9c08e63b41018d5.jpg",
+        "url": "https://mastodon.social/@eutechnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-116339964934801737",
+      "published": "2026-09-03T18:43:18Z",
+      "wm-received": "2026-09-03T18:43:18Z",
+      "wm-id": 2028865,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/116339964934801737",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-109546769351149860",
+      "published": "2026-09-03T18:43:19Z",
+      "wm-received": "2026-09-03T18:43:19Z",
+      "wm-id": 2028866,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "David Sedlák ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7d94e49d95c909d5f95ac697f2d5f2c32c8ad8f431ddfa637ea0cbc3a72cfe35.jpg",
+        "url": "https://pixelfed.cz/dreedo"
+      },
+      "url": "https://mamot.fr/@nhoizey/117202418834276449#favorited-by-116992012155161291",
+      "published": "2026-09-03T18:43:22Z",
+      "wm-received": "2026-09-03T18:43:22Z",
+      "wm-id": 2028867,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117202418834276449/116992012155161291",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-second-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-116013168770614572",
+      "published": "2026-09-03T19:16:30Z",
+      "wm-received": "2026-09-03T19:16:30Z",
+      "wm-id": 2028868,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-116013168770614572",
+      "published": "2026-09-03T19:16:53Z",
+      "wm-received": "2026-09-03T19:16:53Z",
+      "wm-id": 2028869,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SonntagsFotograf",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/849975127ea8ec3879c659a761961797ba0e508fe9cdffecb9e5897e476e4d57.jpg",
+        "url": "https://vernissage.photos/@bjh"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-114790713965253246",
+      "published": "2026-09-03T19:51:27Z",
+      "wm-received": "2026-09-03T19:51:27Z",
+      "wm-id": 2028873,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/114790713965253246",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Picture(s) of the Day",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e3f55d644ef4713222456d6919969b3676ac3c53b98ae1c33742fe75fcc955f2.jpg",
+        "url": "https://mastodon.social/@picture_of_the_day"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-109726406479141454",
+      "published": "2026-09-03T19:51:28Z",
+      "wm-received": "2026-09-03T19:51:28Z",
+      "wm-id": 2028874,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/109726406479141454",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Picture(s) of the Day",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e3f55d644ef4713222456d6919969b3676ac3c53b98ae1c33742fe75fcc955f2.jpg",
+        "url": "https://mastodon.social/@picture_of_the_day"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#reblogged-by-109726406479141454",
+      "published": "2026-09-03T19:51:30Z",
+      "wm-received": "2026-09-03T19:51:30Z",
+      "wm-id": 2028875,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117208071314733359/109726406479141454",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mary The Knife ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f6b6f66bdc9ab849265021c6692475103606ab92b4c93b4a954a2f3848e415c8.png",
+        "url": "https://mastodon.social/@MaryTheKnife"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-109320600791552348",
+      "published": "2026-09-03T21:12:19Z",
+      "wm-received": "2026-09-03T21:12:19Z",
+      "wm-id": 2028880,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/109320600791552348",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Maïenne Photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cde590ea2f9e1bb62de1050846eb6dcba09cb80f84ee39db48c455025ccec604.gif",
+        "url": "https://mastodonapp.uk/@maienne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-115332863062804147",
+      "published": "2026-09-03T22:06:11Z",
+      "wm-received": "2026-09-03T22:06:11Z",
+      "wm-id": 2028887,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/115332863062804147",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-114331409715632221",
+      "published": "2026-09-03T22:06:16Z",
+      "wm-received": "2026-09-03T22:06:16Z",
+      "wm-id": 2028888,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
       "wm-property": "like-of",
       "wm-private": false
     }
