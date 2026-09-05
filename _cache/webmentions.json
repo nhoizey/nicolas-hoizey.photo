@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-04T06:29:08.815Z",
+  "lastFetched": "2026-09-05T06:22:42.739Z",
   "webmentions": [
     {
       "type": "entry",
@@ -288202,6 +288202,978 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-503687",
+      "published": "2026-09-04T06:40:24Z",
+      "wm-received": "2026-09-04T06:40:24Z",
+      "wm-id": 2028911,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Florens Verschelde",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e82ad1384091fb4d00523b385e820663c719badd3127043a1e24106de5f15a53.jpg",
+        "url": "https://hachyderm.io/@fvsch"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-109874226375202160",
+      "published": "2026-09-04T11:54:36Z",
+      "wm-received": "2026-09-04T11:54:36Z",
+      "wm-id": 2028959,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/109874226375202160",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "@Drenthograaf@gram.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/935a427a0ab3599dc829c617cb8a7af1e25f6ae5f60956d968bb725809a560e9.jpg",
+        "url": "https://gram.social/Drenthograaf"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-113890268758537333",
+      "published": "2026-09-04T11:54:37Z",
+      "wm-received": "2026-09-04T11:54:37Z",
+      "wm-id": 2028960,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/113890268758537333",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-109546769351149860",
+      "published": "2026-09-04T11:54:39Z",
+      "wm-received": "2026-09-04T11:54:39Z",
+      "wm-id": 2028961,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kirsten",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/19e9411f51a5ec784aecc5294c425ca201f2538aa0cb0e5c4ce0f8c341a448ad.png",
+        "url": "https://ohai.social/@kemmering98"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-115500715793194178",
+      "published": "2026-09-04T11:54:40Z",
+      "wm-received": "2026-09-04T11:54:40Z",
+      "wm-id": 2028962,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/115500715793194178",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-114307257434206498",
+      "published": "2026-09-04T11:54:41Z",
+      "wm-received": "2026-09-04T11:54:41Z",
+      "wm-id": 2028964,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Daniel Schildt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3086645cd791b96b7a045f8280a426bf4a7fa642b5d05ff3b0268099bae1a1e.jpg",
+        "url": "https://mementomori.social/@autiomaa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#reblogged-by-110802130603050055",
+      "published": "2026-09-04T11:54:41Z",
+      "wm-received": "2026-09-04T11:54:41Z",
+      "wm-id": 2028963,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117212543232497026/110802130603050055",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dineinfr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88f0f27ed349462f71986da283c4a94ce50c9fc90fd02a49677ce40a39262628.jpg",
+        "url": "https://hibipix.com/dineinfr"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-114734616681203054",
+      "published": "2026-09-04T11:54:43Z",
+      "wm-received": "2026-09-04T11:54:43Z",
+      "wm-id": 2028965,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/114734616681203054",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#reblogged-by-111653510624650957",
+      "published": "2026-09-04T11:54:46Z",
+      "wm-received": "2026-09-04T11:54:46Z",
+      "wm-id": 2028966,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117212543232497026/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/839487e38323f003074442037fc1adf274be8ad4b291c67947fb0f64e97cf4df.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-114891269374305316",
+      "published": "2026-09-04T12:25:07Z",
+      "wm-received": "2026-09-04T12:25:07Z",
+      "wm-id": 2028969,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#reblogged-by-117196094204834851",
+      "published": "2026-09-04T12:25:11Z",
+      "wm-received": "2026-09-04T12:25:11Z",
+      "wm-id": 2028971,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117212543232497026/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Turre",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c6f1e835621a130f0481fdbdbf37a9f0e4cde865293417a06de67f10d9b318d8.jpg",
+        "url": "https://mementomori.social/@Turre"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-113873385797324468",
+      "published": "2026-09-04T12:25:11Z",
+      "wm-received": "2026-09-04T12:25:11Z",
+      "wm-id": 2028970,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/113873385797324468",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#reblogged-by-109546769351149860",
+      "published": "2026-09-04T12:25:15Z",
+      "wm-received": "2026-09-04T12:25:15Z",
+      "wm-id": 2028972,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117212543232497026/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-109951804609117719",
+      "published": "2026-09-04T12:56:40Z",
+      "wm-received": "2026-09-04T12:56:40Z",
+      "wm-id": 2028987,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#reblogged-by-109951804609117719",
+      "published": "2026-09-04T12:56:41Z",
+      "wm-received": "2026-09-04T12:56:41Z",
+      "wm-id": 2028988,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117212543232497026/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#reblogged-by-113840219686050198",
+      "published": "2026-09-04T12:56:42Z",
+      "wm-received": "2026-09-04T12:56:42Z",
+      "wm-id": 2028989,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117212543232497026/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "eobet",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d369a3c2579ab24c1c7d0a8d08425a04c47c67421a819a8b99ceb4eb186d788e.png",
+        "url": "https://oldbytes.space/@eobet"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-109560136930146603",
+      "published": "2026-09-04T13:21:43Z",
+      "wm-received": "2026-09-04T13:21:43Z",
+      "wm-id": 2028996,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/109560136930146603",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Minerva",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/634d0a325243109e12f306e3cec9ecb7da410c6f9f5d83de6071e8c35e0cc013.jpg",
+        "url": "https://pixelfed.social/Pixyguy.26"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-116148934642179149",
+      "published": "2026-09-04T13:21:43Z",
+      "wm-received": "2026-09-04T13:21:43Z",
+      "wm-id": 2028995,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/116148934642179149",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-110651355078160221",
+      "published": "2026-09-04T13:58:04Z",
+      "wm-received": "2026-09-04T13:58:04Z",
+      "wm-id": 2028999,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-113513794052763932",
+      "published": "2026-09-04T16:09:34Z",
+      "wm-received": "2026-09-04T16:09:34Z",
+      "wm-id": 2029023,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Morgan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/82cde6631e2c4b59f58f8837139ef91b68c3fcfaea99dd6cf5cd518b1a5ad7e6.jpg",
+        "url": "https://pixelfed.social/qwyllion"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-113935857654330294",
+      "published": "2026-09-04T16:09:36Z",
+      "wm-received": "2026-09-04T16:09:36Z",
+      "wm-id": 2029024,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/113935857654330294",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Haon",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/56341498482def6c960b58e054c77de5a3765abbe04e91d9d10a53e828d88d8b.jpg",
+        "url": "https://pixelfed.social/Haon"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-117213758999056864",
+      "published": "2026-09-04T16:44:14Z",
+      "wm-received": "2026-09-04T16:44:14Z",
+      "wm-id": 2029027,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/117213758999056864",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wolf-Alexander von Wangenheim",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0ddb50e6f5cc3b97dcfa30c97b4552eb2d381b634c7323ce9d14f52ec3cf49f0.png",
+        "url": "https://mastodon.social/@WolfWangi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-111181920185044720",
+      "published": "2026-09-04T16:44:14Z",
+      "wm-received": "2026-09-04T16:44:14Z",
+      "wm-id": 2029026,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/111181920185044720",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jens ‘twinkelicious’ ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b85436a5eea756d89a6452814ed09b177bac6d4fd2ce839e1a1982f024fb7bf.jpg",
+        "url": "https://pixelfed.social/twinkelicious"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-114087475048243172",
+      "published": "2026-09-04T16:44:22Z",
+      "wm-received": "2026-09-04T16:44:22Z",
+      "wm-id": 2029028,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/114087475048243172",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Emerman",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fde82184cf95c44f57130999babb246d7a89be5fd8f9c0c417ee9439459905e.jpg",
+        "url": "https://mstdn.science/@memerman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-109297728671312390",
+      "published": "2026-09-04T16:44:24Z",
+      "wm-received": "2026-09-04T16:44:24Z",
+      "wm-id": 2029029,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/109297728671312390",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-109546769351149860",
+      "published": "2026-09-04T16:44:26Z",
+      "wm-received": "2026-09-04T16:44:26Z",
+      "wm-id": 2029030,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#reblogged-by-111653510624650957",
+      "published": "2026-09-04T16:44:29Z",
+      "wm-received": "2026-09-04T16:44:29Z",
+      "wm-id": 2029031,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117213730558267290/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#reblogged-by-109546769351149860",
+      "published": "2026-09-04T16:44:37Z",
+      "wm-received": "2026-09-04T16:44:37Z",
+      "wm-id": 2029032,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117213730558267290/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "FredC",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/189b7085f3f9d2363e864c9341832fc75eee63739111352584ad88b3a555ab23.png",
+        "url": "https://pixelfed.fr/fredc"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-114275477194844540",
+      "published": "2026-09-04T17:17:44Z",
+      "wm-received": "2026-09-04T17:17:44Z",
+      "wm-id": 2029041,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/114275477194844540",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-111626648801109062",
+      "published": "2026-09-04T17:17:45Z",
+      "wm-received": "2026-09-04T17:17:45Z",
+      "wm-id": 2029042,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/839487e38323f003074442037fc1adf274be8ad4b291c67947fb0f64e97cf4df.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-114891269374305316",
+      "published": "2026-09-04T17:17:47Z",
+      "wm-received": "2026-09-04T17:17:47Z",
+      "wm-id": 2029043,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-503687",
+      "published": "2026-09-04T17:17:48Z",
+      "wm-received": "2026-09-04T17:17:48Z",
+      "wm-id": 2029044,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-503687",
+      "published": "2026-09-04T17:17:49Z",
+      "wm-received": "2026-09-04T17:17:49Z",
+      "wm-id": 2029045,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lahminewski Lab ⚗️",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/acc7b63b5851e91aa8a92d268619d79951462093cf87c292941c4968a77bb480.png",
+        "url": "https://pixelfed.ch/lahminewski.lab"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-113763352274448237",
+      "published": "2026-09-04T17:53:51Z",
+      "wm-received": "2026-09-04T17:53:51Z",
+      "wm-id": 2029051,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/113763352274448237",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-113906621033686473",
+      "published": "2026-09-04T17:53:52Z",
+      "wm-received": "2026-09-04T17:53:52Z",
+      "wm-id": 2029052,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-113513794052763932",
+      "published": "2026-09-04T17:53:54Z",
+      "wm-received": "2026-09-04T17:53:54Z",
+      "wm-id": 2029053,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "massimodidato",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8104b67f9ce534845f088739dd4f684a4a164cfbcb8746f8ae376fbabe8c3065.jpg",
+        "url": "https://pixelfed.social/maxdid"
+      },
+      "url": "https://pixelfed.social/p/maxdid/1001550468900445480",
+      "published": "2026-09-04T18:03:59+00:00",
+      "wm-received": "2026-09-04T18:26:40Z",
+      "wm-id": 2029077,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117213730558267290/117214087822011747",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "Love how you've captured the meandering path of the Ruisseau du Raisin with that f/8 stopping down the depth nicely against the ridge backdrop."
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EU tech news",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e4b91d9634d60797ed699fc98339186343e43cbc494f1953e9c08e63b41018d5.jpg",
+        "url": "https://mastodon.social/@eutechnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-116339964934801737",
+      "published": "2026-09-04T18:26:47Z",
+      "wm-received": "2026-09-04T18:26:47Z",
+      "wm-id": 2029078,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/116339964934801737",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-116415769514877815",
+      "published": "2026-09-04T18:26:50Z",
+      "wm-received": "2026-09-04T18:26:50Z",
+      "wm-id": 2029079,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-114398726695840867",
+      "published": "2026-09-04T18:26:52Z",
+      "wm-received": "2026-09-04T18:26:52Z",
+      "wm-id": 2029080,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "massimodidato",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8104b67f9ce534845f088739dd4f684a4a164cfbcb8746f8ae376fbabe8c3065.jpg",
+        "url": "https://pixelfed.social/maxdid"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-114110227808472267",
+      "published": "2026-09-04T18:26:53Z",
+      "wm-received": "2026-09-04T18:26:53Z",
+      "wm-id": 2029081,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/114110227808472267",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "massimodidato",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8104b67f9ce534845f088739dd4f684a4a164cfbcb8746f8ae376fbabe8c3065.jpg",
+        "url": "https://pixelfed.social/maxdid"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-114110227808472267",
+      "published": "2026-09-04T18:27:01Z",
+      "wm-received": "2026-09-04T18:27:01Z",
+      "wm-id": 2029082,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/114110227808472267",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "massimodidato",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8104b67f9ce534845f088739dd4f684a4a164cfbcb8746f8ae376fbabe8c3065.jpg",
+        "url": "https://pixelfed.social/maxdid"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-114110227808472267",
+      "published": "2026-09-04T18:27:02Z",
+      "wm-received": "2026-09-04T18:27:02Z",
+      "wm-id": 2029083,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/114110227808472267",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "massimodidato",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8104b67f9ce534845f088739dd4f684a4a164cfbcb8746f8ae376fbabe8c3065.jpg",
+        "url": "https://pixelfed.social/maxdid"
+      },
+      "url": "https://mamot.fr/@nhoizey/117206882285462380#favorited-by-114110227808472267",
+      "published": "2026-09-04T18:27:04Z",
+      "wm-received": "2026-09-04T18:27:04Z",
+      "wm-id": 2029084,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117206882285462380/114110227808472267",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/running-water/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-117196094204834851",
+      "published": "2026-09-04T21:12:30Z",
+      "wm-received": "2026-09-04T21:12:30Z",
+      "wm-id": 2029193,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117208071314733359#favorited-by-110795643064737098",
+      "published": "2026-09-04T21:47:54Z",
+      "wm-received": "2026-09-04T21:47:54Z",
+      "wm-id": 2029206,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117208071314733359/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/alpine-chalet-above-the-claree-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-110795643064737098",
+      "published": "2026-09-04T21:48:01Z",
+      "wm-received": "2026-09-04T21:48:01Z",
+      "wm-id": 2029207,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117201221046795937#favorited-by-110795643064737098",
+      "published": "2026-09-04T21:48:05Z",
+      "wm-received": "2026-09-04T21:48:05Z",
+      "wm-id": 2029208,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117201221046795937/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-fontcouverte-cascade-first-tier/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-114331409715632221",
+      "published": "2026-09-04T22:49:56Z",
+      "wm-received": "2026-09-04T22:49:56Z",
+      "wm-id": 2029224,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-112555206662590515",
+      "published": "2026-09-05T00:17:47Z",
+      "wm-received": "2026-09-05T00:17:47Z",
+      "wm-id": 2029239,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-112555206662590515",
+      "published": "2026-09-05T00:18:01Z",
+      "wm-received": "2026-09-05T00:18:01Z",
+      "wm-id": 2029240,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
       "wm-property": "like-of",
       "wm-private": false
     }
