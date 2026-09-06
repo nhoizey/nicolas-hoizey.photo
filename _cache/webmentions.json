@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-05T06:22:42.739Z",
+  "lastFetched": "2026-09-06T06:23:11.786Z",
   "webmentions": [
     {
       "type": "entry",
@@ -289174,6 +289174,728 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-114398726695840867",
+      "published": "2026-09-05T12:53:59Z",
+      "wm-received": "2026-09-05T12:53:59Z",
+      "wm-id": 2029339,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/568/504/112/454/513/original/91a916bb3e69e773.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-116568504112454513",
+      "published": "2026-09-05T13:16:14Z",
+      "wm-received": "2026-09-05T13:16:14Z",
+      "wm-id": 2029345,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/891/269/374/305/316/original/4148646d674475b8.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-114891269374305316",
+      "published": "2026-09-05T13:48:41Z",
+      "wm-received": "2026-09-05T13:48:41Z",
+      "wm-id": 2029353,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marek Jędra",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5cb4d691bba5430ac63d87248c8d7639dbd7b1c3ce9662aba7331f270f865b99.png",
+        "url": "https://pixelfed.de/Jedra"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-111908587131620892",
+      "published": "2026-09-05T13:52:12Z",
+      "wm-received": "2026-09-05T13:52:12Z",
+      "wm-id": 2029354,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/111908587131620892",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mike",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/454/651/830/963/935/original/ede050c8a4a42a69.jpg",
+        "url": "https://beige.party/@sunumbral"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-113454651830963935",
+      "published": "2026-09-05T14:48:08Z",
+      "wm-received": "2026-09-05T14:48:08Z",
+      "wm-id": 2029368,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/113454651830963935",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bertrand Pa-Ro",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/000/421/471/original/70696a5ecfd6b926.jpg",
+        "url": "https://pixelfed.social/be_paro_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-421471",
+      "published": "2026-09-05T16:51:02Z",
+      "wm-received": "2026-09-05T16:51:02Z",
+      "wm-id": 2029394,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/421471",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/546/769/351/149/860/original/8c0626c886f12a53.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-109546769351149860",
+      "published": "2026-09-05T17:07:03Z",
+      "wm-received": "2026-09-05T17:07:03Z",
+      "wm-id": 2029401,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/013/168/770/614/572/original/dbe5caa171354974.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-116013168770614572",
+      "published": "2026-09-05T17:07:03Z",
+      "wm-received": "2026-09-05T17:07:03Z",
+      "wm-id": 2029400,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Florens Verschelde",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/874/226/375/202/160/original/a6b1ff7fb4388ee6.jpg",
+        "url": "https://hachyderm.io/@fvsch"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-109874226375202160",
+      "published": "2026-09-05T17:52:08Z",
+      "wm-received": "2026-09-05T17:52:08Z",
+      "wm-id": 2029420,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/109874226375202160",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-116568504112454513",
+      "published": "2026-09-05T18:08:37Z",
+      "wm-received": "2026-09-05T18:08:37Z",
+      "wm-id": 2029423,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/000/503/687/original/14aa61d92c83683f.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-503687",
+      "published": "2026-09-05T18:15:49Z",
+      "wm-received": "2026-09-05T18:15:49Z",
+      "wm-id": 2029425,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EU tech news",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e4b91d9634d60797ed699fc98339186343e43cbc494f1953e9c08e63b41018d5.jpg",
+        "url": "https://mastodon.social/@eutechnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-116339964934801737",
+      "published": "2026-09-05T18:38:47Z",
+      "wm-received": "2026-09-05T18:38:47Z",
+      "wm-id": 2029429,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/116339964934801737",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-110651355078160221",
+      "published": "2026-09-05T18:55:16Z",
+      "wm-received": "2026-09-05T18:55:16Z",
+      "wm-id": 2029446,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2fc6e15ba52a464ebd411be59759f88c66f2e62cd5f41a7be80bfc24cbb72187.png",
+        "url": "https://mastodon.social/@Weber_Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-116710499255793226",
+      "published": "2026-09-05T18:55:19Z",
+      "wm-received": "2026-09-05T18:55:19Z",
+      "wm-id": 2029447,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/116710499255793226",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Emerman",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fde82184cf95c44f57130999babb246d7a89be5fd8f9c0c417ee9439459905e.jpg",
+        "url": "https://mstdn.science/@memerman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-109297728671312390",
+      "published": "2026-09-05T18:55:20Z",
+      "wm-received": "2026-09-05T18:55:20Z",
+      "wm-id": 2029448,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/109297728671312390",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Krystyna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5f141d6c2ea284b51aed38766175afec37a500c5d63c6211bdd3e3eb1ad30e66.jpg",
+        "url": "https://toad.social/@krystyna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-112316955161339061",
+      "published": "2026-09-05T18:55:24Z",
+      "wm-received": "2026-09-05T18:55:24Z",
+      "wm-id": 2029449,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/112316955161339061",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/117/196/094/204/834/851/original/ee0f9b985091779a.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#reblogged-by-117196094204834851",
+      "published": "2026-09-05T18:55:25Z",
+      "wm-received": "2026-09-05T18:55:25Z",
+      "wm-id": 2029450,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117219385338370189/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#reblogged-by-111653510624650957",
+      "published": "2026-09-05T18:55:26Z",
+      "wm-received": "2026-09-05T18:55:26Z",
+      "wm-id": 2029451,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117219385338370189/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Leeroy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/85728429b936ca18dab325c2d3ab8cba8d809d57a2fff6d9a1a6119bdea044a3.jpg",
+        "url": "https://pixelfed.social/firehound"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-108681660487473614",
+      "published": "2026-09-05T18:55:27Z",
+      "wm-received": "2026-09-05T18:55:27Z",
+      "wm-id": 2029452,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/108681660487473614",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-110651355078160221",
+      "published": "2026-09-05T19:07:13Z",
+      "wm-received": "2026-09-05T19:07:13Z",
+      "wm-id": 2029467,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Weymouth Expat",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6e0b68277292fdaa5e5754494bdcc537301ab2ff4b63fd911be379308d338fa9.jpg",
+        "url": "https://ohai.social/@AaranHouse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-116099327034979265",
+      "published": "2026-09-05T19:07:15Z",
+      "wm-received": "2026-09-05T19:07:15Z",
+      "wm-id": 2029468,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/116099327034979265",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-114398726695840867",
+      "published": "2026-09-05T19:07:17Z",
+      "wm-received": "2026-09-05T19:07:17Z",
+      "wm-id": 2029469,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Leeroy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/85728429b936ca18dab325c2d3ab8cba8d809d57a2fff6d9a1a6119bdea044a3.jpg",
+        "url": "https://pixelfed.social/firehound"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-108681660487473614",
+      "published": "2026-09-05T19:07:34Z",
+      "wm-received": "2026-09-05T19:07:34Z",
+      "wm-id": 2029470,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/108681660487473614",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-116415769514877815",
+      "published": "2026-09-05T19:19:08Z",
+      "wm-received": "2026-09-05T19:19:08Z",
+      "wm-id": 2029508,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-329706",
+      "published": "2026-09-05T19:19:31Z",
+      "wm-received": "2026-09-05T19:19:31Z",
+      "wm-id": 2029509,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1dd0299b538790dbac8d81515b819d6f11c2f8d8fea8c891d6b7ed5ecd0aecf2.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-114891269374305316",
+      "published": "2026-09-05T19:19:33Z",
+      "wm-received": "2026-09-05T19:19:33Z",
+      "wm-id": 2029510,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-113513794052763932",
+      "published": "2026-09-05T19:45:10Z",
+      "wm-received": "2026-09-05T19:45:10Z",
+      "wm-id": 2029552,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07919de6a1ee4b9017d2abed8fd869ea1b7afdcb574f524f96a7ee6a1a0e9584.jpg",
+        "url": "https://pixelshot.it/Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-116142825191584642",
+      "published": "2026-09-05T19:45:13Z",
+      "wm-received": "2026-09-05T19:45:13Z",
+      "wm-id": 2029553,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/116142825191584642",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-114331409715632221",
+      "published": "2026-09-05T19:45:32Z",
+      "wm-received": "2026-09-05T19:45:32Z",
+      "wm-id": 2029554,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-114331409715632221",
+      "published": "2026-09-05T19:45:46Z",
+      "wm-received": "2026-09-05T19:45:46Z",
+      "wm-id": 2029555,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "☆✭★ คץ☠️ɭเ xD ★✭☆",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/002343731dd99f41d7068b8157e80890e58cb5376ce63528eb90f4e7e2eb5cd8.png",
+        "url": "https://diaspodon.fr/@ayoli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-382236",
+      "published": "2026-09-05T19:51:41Z",
+      "wm-received": "2026-09-05T19:51:41Z",
+      "wm-id": 2029602,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/382236",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#reblogged-by-111653510624650957",
+      "published": "2026-09-05T19:51:48Z",
+      "wm-received": "2026-09-05T19:51:48Z",
+      "wm-id": 2029605,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117218202981279876/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-116013168770614572",
+      "published": "2026-09-05T19:52:52Z",
+      "wm-received": "2026-09-05T19:52:52Z",
+      "wm-id": 2029625,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tywyll Seren",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d9c837fd34f666cb9593aed67517dc44e91abdc1db6fa7a7e92b8ccc6016c782.png",
+        "url": "https://spacey.space/@TywyllSeren"
+      },
+      "url": "https://mamot.fr/@nhoizey/117218202981279876#favorited-by-109337325057027153",
+      "published": "2026-09-05T19:52:59Z",
+      "wm-received": "2026-09-05T19:52:59Z",
+      "wm-id": 2029628,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117218202981279876/109337325057027153",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-raisin/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Xaeseyes",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/460/724/727/129/768/original/16dd347bb9ed0f6d.jpg",
+        "url": "https://mastodon.social/@xaeseyes81"
+      },
+      "url": "https://mamot.fr/@nhoizey/117212543232497026#favorited-by-116460724727129768",
+      "published": "2026-09-05T19:56:09Z",
+      "wm-received": "2026-09-05T19:56:09Z",
+      "wm-id": 2029649,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117212543232497026/116460724727129768",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/down-to-the-valley/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-112555206662590515",
+      "published": "2026-09-05T20:10:28Z",
+      "wm-received": "2026-09-05T20:10:28Z",
+      "wm-id": 2029659,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "massimodidato",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8104b67f9ce534845f088739dd4f684a4a164cfbcb8746f8ae376fbabe8c3065.jpg",
+        "url": "https://pixelfed.social/maxdid"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-114110227808472267",
+      "published": "2026-09-05T20:10:36Z",
+      "wm-received": "2026-09-05T20:10:36Z",
+      "wm-id": 2029660,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/114110227808472267",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Brookie",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d4a1f4230b37f70b53d88c231c312217335b1957533de24a960e8cf3cadff71e.jpg",
+        "url": "https://pixelfed.social/BrookieIrenic"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-113855591730077231",
+      "published": "2026-09-05T22:35:30Z",
+      "wm-received": "2026-09-05T22:35:30Z",
+      "wm-id": 2029717,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/113855591730077231",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
       "wm-property": "like-of",
       "wm-private": false
     }
