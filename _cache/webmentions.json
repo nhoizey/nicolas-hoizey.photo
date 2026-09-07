@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-06T06:23:11.786Z",
+  "lastFetched": "2026-09-07T06:33:22.438Z",
   "webmentions": [
     {
       "type": "entry",
@@ -289896,6 +289896,481 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Magdalena",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a743809d1b1a464c1203b3e5d5f32b718c1a548c4fd104e1bcc314b1710e195a.jpg",
+        "url": "https://vernissage.photos/@magda"
+      },
+      "url": "https://mamot.fr/@nhoizey/117213730558267290#favorited-by-113985459594831931",
+      "published": "2026-09-06T06:41:58Z",
+      "wm-received": "2026-09-06T06:41:58Z",
+      "wm-id": 2029763,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117213730558267290/113985459594831931",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/the-stream-flowing-through-a-grassy-field-in-the-mountains/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117219385338370189#favorited-by-503687",
+      "published": "2026-09-06T08:38:37Z",
+      "wm-received": "2026-09-06T08:38:37Z",
+      "wm-id": 2029792,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117219385338370189/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/oxygen-packed-torrent/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#reblogged-by-111653510624650957",
+      "published": "2026-09-06T11:32:13Z",
+      "wm-received": "2026-09-06T11:32:13Z",
+      "wm-id": 2029831,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117223863716782313/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-113513794052763932",
+      "published": "2026-09-06T11:58:09Z",
+      "wm-received": "2026-09-06T11:58:09Z",
+      "wm-id": 2029833,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07919de6a1ee4b9017d2abed8fd869ea1b7afdcb574f524f96a7ee6a1a0e9584.jpg",
+        "url": "https://pixelshot.it/Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-116142825191584642",
+      "published": "2026-09-06T11:58:10Z",
+      "wm-received": "2026-09-06T11:58:10Z",
+      "wm-id": 2029834,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/116142825191584642",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "RedJ",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b4daa54ba103952e5b58d59c98e8d01e53cf37580c84bb139c318b8d0e989f99.jpg",
+        "url": "https://mastodon.social/@redjleroux"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-116156926971836875",
+      "published": "2026-09-06T12:24:17Z",
+      "wm-received": "2026-09-06T12:24:17Z",
+      "wm-id": 2029838,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/116156926971836875",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-114398726695840867",
+      "published": "2026-09-06T12:24:18Z",
+      "wm-received": "2026-09-06T12:24:18Z",
+      "wm-id": 2029839,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1dd0299b538790dbac8d81515b819d6f11c2f8d8fea8c891d6b7ed5ecd0aecf2.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-114891269374305316",
+      "published": "2026-09-06T12:57:04Z",
+      "wm-received": "2026-09-06T12:57:04Z",
+      "wm-id": 2029849,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-116568504112454513",
+      "published": "2026-09-06T13:23:43Z",
+      "wm-received": "2026-09-06T13:23:43Z",
+      "wm-id": 2029860,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-110651355078160221",
+      "published": "2026-09-06T13:23:48Z",
+      "wm-received": "2026-09-06T13:23:48Z",
+      "wm-id": 2029862,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-116415769514877815",
+      "published": "2026-09-06T14:51:19Z",
+      "wm-received": "2026-09-06T14:51:19Z",
+      "wm-id": 2029879,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "NanoSushi",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e7c085fed9626f856bb6c9bb5f2856e0284a4d09b1a80b607247c45eca7b7f84.png",
+        "url": "https://pixelfed.social/NanoSushi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-114976650618043447",
+      "published": "2026-09-06T16:46:16Z",
+      "wm-received": "2026-09-06T16:46:16Z",
+      "wm-id": 2029897,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/114976650618043447",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-109546769351149860",
+      "published": "2026-09-06T16:46:19Z",
+      "wm-received": "2026-09-06T16:46:19Z",
+      "wm-id": 2029898,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Fjell",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5463196d986866115f414b20b8289733f454c3c22b623c5f2822939e80e053e5.jpg",
+        "url": "https://pixelfed.social/fjellphoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-111320263300854376",
+      "published": "2026-09-06T16:46:20Z",
+      "wm-received": "2026-09-06T16:46:20Z",
+      "wm-id": 2029899,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/111320263300854376",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicole O",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5b33213efbdcb5802bdf25c907daed46cfba070e36d97a9b783dd97b9733d1fc.jpg",
+        "url": "https://pixelfed.social/NicoleO"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-113890979266061258",
+      "published": "2026-09-06T16:46:22Z",
+      "wm-received": "2026-09-06T16:46:22Z",
+      "wm-id": 2029900,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/113890979266061258",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PurpleGengar",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8e31c439aa5c007286e6f669358b704364084490b033a60b538564be63f817b8.png",
+        "url": "https://lgbtqia.space/@Purplegengar25"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-116540212141335351",
+      "published": "2026-09-06T16:46:23Z",
+      "wm-received": "2026-09-06T16:46:23Z",
+      "wm-id": 2029901,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/116540212141335351",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#reblogged-by-111653510624650957",
+      "published": "2026-09-06T16:46:24Z",
+      "wm-received": "2026-09-06T16:46:24Z",
+      "wm-id": 2029902,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117225046303534400/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Traveller234",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ba4877248c9f870326a43ca63fe8654b76443cfb304d8af59c23a6b190a0e8ea.png",
+        "url": "https://mastodon.social/@Traveller234"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-116974668188546713",
+      "published": "2026-09-06T17:21:18Z",
+      "wm-received": "2026-09-06T17:21:18Z",
+      "wm-id": 2029914,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/116974668188546713",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6f64770f87f751cf00a8da495f3bc26c9b4633fa00509a0dcf420b6f73a24103.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-114891269374305316",
+      "published": "2026-09-06T17:21:18Z",
+      "wm-received": "2026-09-06T17:21:18Z",
+      "wm-id": 2029913,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-113513794052763932",
+      "published": "2026-09-06T17:21:22Z",
+      "wm-received": "2026-09-06T17:21:22Z",
+      "wm-id": 2029915,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cris.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/571820183939453eaa8923ef5e6163d4dc23be462421c80a4b6707c46c5569c1.jpg",
+        "url": "https://mastodon.social/@crisverstraeten"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-112705023150264295",
+      "published": "2026-09-06T17:21:23Z",
+      "wm-received": "2026-09-06T17:21:23Z",
+      "wm-id": 2029916,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/112705023150264295",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marek Jędra",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5cb4d691bba5430ac63d87248c8d7639dbd7b1c3ce9662aba7331f270f865b99.png",
+        "url": "https://pixelfed.de/Jedra"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-111908587131620892",
+      "published": "2026-09-06T17:51:11Z",
+      "wm-received": "2026-09-06T17:51:11Z",
+      "wm-id": 2029930,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/111908587131620892",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-114398726695840867",
+      "published": "2026-09-06T17:51:13Z",
+      "wm-received": "2026-09-06T17:51:13Z",
+      "wm-id": 2029931,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-116013168770614572",
+      "published": "2026-09-06T22:14:14Z",
+      "wm-received": "2026-09-06T22:14:14Z",
+      "wm-id": 2029996,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117223863716782313#favorited-by-116013168770614572",
+      "published": "2026-09-06T22:14:15Z",
+      "wm-received": "2026-09-06T22:14:15Z",
+      "wm-id": 2029997,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117223863716782313/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
       "wm-property": "like-of",
       "wm-private": false
     }
