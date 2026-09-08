@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-07T06:33:22.438Z",
+  "lastFetched": "2026-09-08T06:25:40.022Z",
   "webmentions": [
     {
       "type": "entry",
@@ -290371,6 +290371,595 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/wild-water-running-down-the-slope/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-113906621033686473",
+      "published": "2026-09-07T11:49:33Z",
+      "wm-received": "2026-09-07T11:49:33Z",
+      "wm-id": 2030094,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "David Poertner",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/99dece5d8ae60f783ff37810f804caab320add2a9541a1c1d971d1133eb71e88.jpg",
+        "url": "https://pixelfed.social/david.poertner"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-113821295144177275",
+      "published": "2026-09-07T11:49:33Z",
+      "wm-received": "2026-09-07T11:49:33Z",
+      "wm-id": 2030093,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/113821295144177275",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "basepair",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/182aee11796889a5a9b3346e8fc8bcc48d1b36cf3bb40622ce2778dfa0d52da0.jpg",
+        "url": "https://vernissage.photos/@basepair"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-116222349191086242",
+      "published": "2026-09-07T11:49:35Z",
+      "wm-received": "2026-09-07T11:49:35Z",
+      "wm-id": 2030095,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/116222349191086242",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "???? :tofu_on_fire:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/aefc4e704e3c2a7332dbf3a97b613c3f99fb0e6206f72030e04be8b4c26b4e03.jpg",
+        "url": "https://hollo.454474.xyz/@aiman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-117162762841936862",
+      "published": "2026-09-07T11:49:43Z",
+      "wm-received": "2026-09-07T11:49:43Z",
+      "wm-id": 2030096,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/117162762841936862",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-114398726695840867",
+      "published": "2026-09-07T11:49:45Z",
+      "wm-received": "2026-09-07T11:49:45Z",
+      "wm-id": 2030097,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#reblogged-by-111653510624650957",
+      "published": "2026-09-07T11:49:49Z",
+      "wm-received": "2026-09-07T11:49:49Z",
+      "wm-id": 2030098,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117229533616413682/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-109546769351149860",
+      "published": "2026-09-07T12:26:25Z",
+      "wm-received": "2026-09-07T12:26:25Z",
+      "wm-id": 2030102,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trailingdust",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4bbf935432a907d050df892d237ec964f3417e581a063be66d7367f897c0b5c2.jpg",
+        "url": "https://pixelfed.social/trailingdust"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-116124948531942550",
+      "published": "2026-09-07T12:26:25Z",
+      "wm-received": "2026-09-07T12:26:25Z",
+      "wm-id": 2030101,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/116124948531942550",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6f64770f87f751cf00a8da495f3bc26c9b4633fa00509a0dcf420b6f73a24103.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-114891269374305316",
+      "published": "2026-09-07T12:26:26Z",
+      "wm-received": "2026-09-07T12:26:26Z",
+      "wm-id": 2030103,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GoOz",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/380d832886ee513f375311fcc1aa9b091f135884ebd955c804b3f318e53a72f1.jpg",
+        "url": "https://mamot.fr/@GoOz"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-55857",
+      "published": "2026-09-07T12:57:26Z",
+      "wm-received": "2026-09-07T12:57:26Z",
+      "wm-id": 2030111,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/55857",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EU tech news",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e4b91d9634d60797ed699fc98339186343e43cbc494f1953e9c08e63b41018d5.jpg",
+        "url": "https://mastodon.social/@eutechnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-116339964934801737",
+      "published": "2026-09-07T13:26:12Z",
+      "wm-received": "2026-09-07T13:26:12Z",
+      "wm-id": 2030126,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/116339964934801737",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Landsil",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/94f64f6f4c22af4354b03b254bbefd486fe7bcda6102ad5b57f07bdd63c5eb76.png",
+        "url": "https://infosec.exchange/@Landsil"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-109399172831184533",
+      "published": "2026-09-07T13:26:16Z",
+      "wm-received": "2026-09-07T13:26:16Z",
+      "wm-id": 2030127,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/109399172831184533",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-113513794052763932",
+      "published": "2026-09-07T13:57:26Z",
+      "wm-received": "2026-09-07T13:57:26Z",
+      "wm-id": 2030131,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-109951804609117719",
+      "published": "2026-09-07T14:25:21Z",
+      "wm-received": "2026-09-07T14:25:21Z",
+      "wm-id": 2030134,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Leeroy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/85728429b936ca18dab325c2d3ab8cba8d809d57a2fff6d9a1a6119bdea044a3.jpg",
+        "url": "https://pixelfed.social/firehound"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-108681660487473614",
+      "published": "2026-09-07T15:16:00Z",
+      "wm-received": "2026-09-07T15:16:00Z",
+      "wm-id": 2030143,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/108681660487473614",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-110651355078160221",
+      "published": "2026-09-07T15:54:06Z",
+      "wm-received": "2026-09-07T15:54:06Z",
+      "wm-id": 2030154,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-109546769351149860",
+      "published": "2026-09-07T16:55:22Z",
+      "wm-received": "2026-09-07T16:55:22Z",
+      "wm-id": 2030198,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LadyNorris",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e3e556393fe1c9b8522fa3084ef1682e35fd800a5dad3f8ec264a82dc51fdbb3.jpg",
+        "url": "https://mastodon.social/@LadyNorris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-110488287979816435",
+      "published": "2026-09-07T16:55:22Z",
+      "wm-received": "2026-09-07T16:55:22Z",
+      "wm-id": 2030197,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/110488287979816435",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d6fc8c0e23442adfab0e3de1c85378265557cb62eb9aedfa762b254c59debb76.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-114891269374305316",
+      "published": "2026-09-07T16:55:26Z",
+      "wm-received": "2026-09-07T16:55:26Z",
+      "wm-id": 2030199,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#reblogged-by-111653510624650957",
+      "published": "2026-09-07T16:56:59Z",
+      "wm-received": "2026-09-07T16:56:59Z",
+      "wm-id": 2030202,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117230716779135947/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-110651355078160221",
+      "published": "2026-09-07T17:23:19Z",
+      "wm-received": "2026-09-07T17:23:19Z",
+      "wm-id": 2030213,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "A_k",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ce551c80d17b26186af959d072a26e97c03878f2676764bf65439e11de933b36.png",
+        "url": "https://nrw.social/@k_A"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-109267849475209564",
+      "published": "2026-09-07T17:52:20Z",
+      "wm-received": "2026-09-07T17:52:20Z",
+      "wm-id": 2030218,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/109267849475209564",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/513/794/052/763/932/original/9bdf502f43271917.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-113513794052763932",
+      "published": "2026-09-07T18:20:51Z",
+      "wm-received": "2026-09-07T18:20:51Z",
+      "wm-id": 2030221,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-113906621033686473",
+      "published": "2026-09-07T18:20:53Z",
+      "wm-received": "2026-09-07T18:20:53Z",
+      "wm-id": 2030222,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-117196094204834851",
+      "published": "2026-09-07T19:24:48Z",
+      "wm-received": "2026-09-07T19:24:48Z",
+      "wm-id": 2030231,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-109951804609117719",
+      "published": "2026-09-07T19:56:45Z",
+      "wm-received": "2026-09-07T19:56:45Z",
+      "wm-id": 2030233,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-116013168770614572",
+      "published": "2026-09-07T20:57:54Z",
+      "wm-received": "2026-09-07T20:57:54Z",
+      "wm-id": 2030242,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "J",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1fee6779010a5918c2f7e2fec935c87a0c91f98e00348594ffc061c89564e4d2.jpg",
+        "url": "https://pixelfed.dk/Brask"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-114036742931975491",
+      "published": "2026-09-07T20:57:54Z",
+      "wm-received": "2026-09-07T20:57:54Z",
+      "wm-id": 2030241,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/114036742931975491",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "J",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1fee6779010a5918c2f7e2fec935c87a0c91f98e00348594ffc061c89564e4d2.jpg",
+        "url": "https://pixelfed.dk/Brask"
+      },
+      "url": "https://mamot.fr/@nhoizey/117225046303534400#favorited-by-114036742931975491",
+      "published": "2026-09-07T21:37:38Z",
+      "wm-received": "2026-09-07T21:37:38Z",
+      "wm-id": 2030250,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117225046303534400/114036742931975491",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/one-does-not-simply-walk-into-mordor/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-116013168770614572",
+      "published": "2026-09-07T21:38:04Z",
+      "wm-received": "2026-09-07T21:38:04Z",
+      "wm-id": 2030251,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-110795643064737098",
+      "published": "2026-09-08T06:05:48Z",
+      "wm-received": "2026-09-08T06:05:48Z",
+      "wm-id": 2030290,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
       "wm-property": "like-of",
       "wm-private": false
     }
