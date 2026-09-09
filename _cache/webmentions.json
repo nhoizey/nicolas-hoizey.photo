@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-08T06:25:40.022Z",
+  "lastFetched": "2026-09-09T06:26:18.132Z",
   "webmentions": [
     {
       "type": "entry",
@@ -290960,6 +290960,500 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117229533616413682#favorited-by-114331409715632221",
+      "published": "2026-09-08T11:25:22Z",
+      "wm-received": "2026-09-08T11:25:22Z",
+      "wm-id": 2030326,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117229533616413682/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/there-was-once-a-glacier-here/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-114331409715632221",
+      "published": "2026-09-08T11:25:22Z",
+      "wm-received": "2026-09-08T11:25:22Z",
+      "wm-id": 2030325,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Shaun D Bennett",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5b625a6667b74abdc8db8a653bd9fa1f6c104608805ee7d1563c306488e1b262.jpg",
+        "url": "https://mastodon.social/@talldudelifestyle"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-112330915300949067",
+      "published": "2026-09-08T11:57:57Z",
+      "wm-received": "2026-09-08T11:57:57Z",
+      "wm-id": 2030337,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/112330915300949067",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d6fc8c0e23442adfab0e3de1c85378265557cb62eb9aedfa762b254c59debb76.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-114891269374305316",
+      "published": "2026-09-08T11:57:57Z",
+      "wm-received": "2026-09-08T11:57:57Z",
+      "wm-id": 2030336,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "????Eris_of_Dystopia????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3ca938eb9bbf41bdaf4421bb280ff97cb4be5c9bdf34325df70c867aef9bc502.jpg",
+        "url": "https://cyberplace.social/@notkawaii_irl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-116605781832401876",
+      "published": "2026-09-08T11:58:00Z",
+      "wm-received": "2026-09-08T11:58:00Z",
+      "wm-id": 2030338,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/116605781832401876",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "????Eris_of_Dystopia????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3ca938eb9bbf41bdaf4421bb280ff97cb4be5c9bdf34325df70c867aef9bc502.jpg",
+        "url": "https://cyberplace.social/@notkawaii_irl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#reblogged-by-116605781832401876",
+      "published": "2026-09-08T11:58:02Z",
+      "wm-received": "2026-09-08T11:58:02Z",
+      "wm-id": 2030339,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117235195951544570/116605781832401876",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#reblogged-by-111653510624650957",
+      "published": "2026-09-08T11:58:16Z",
+      "wm-received": "2026-09-08T11:58:16Z",
+      "wm-id": 2030340,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117235195951544570/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-114398726695840867",
+      "published": "2026-09-08T12:26:57Z",
+      "wm-received": "2026-09-08T12:26:57Z",
+      "wm-id": 2030343,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-113906621033686473",
+      "published": "2026-09-08T12:30:30Z",
+      "wm-received": "2026-09-08T12:30:30Z",
+      "wm-id": 2030344,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-109951804609117719",
+      "published": "2026-09-08T12:58:24Z",
+      "wm-received": "2026-09-08T12:58:24Z",
+      "wm-id": 2030347,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-109546769351149860",
+      "published": "2026-09-08T12:58:24Z",
+      "wm-received": "2026-09-08T12:58:24Z",
+      "wm-id": 2030346,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-116568504112454513",
+      "published": "2026-09-08T14:02:00Z",
+      "wm-received": "2026-09-08T14:02:00Z",
+      "wm-id": 2030352,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Magdalena",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a743809d1b1a464c1203b3e5d5f32b718c1a548c4fd104e1bcc314b1710e195a.jpg",
+        "url": "https://vernissage.photos/@magda"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-113985459594831931",
+      "published": "2026-09-08T15:05:58Z",
+      "wm-received": "2026-09-08T15:05:58Z",
+      "wm-id": 2030381,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/113985459594831931",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-114331409715632221",
+      "published": "2026-09-08T15:44:08Z",
+      "wm-received": "2026-09-08T15:44:08Z",
+      "wm-id": 2030390,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "rmCREATIVEstudio",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/27fae7fe4405cc7ae8aeca158034bc5eedad14542bbe940f3d1892f7f5cf3eb2.png",
+        "url": "https://mastodon.social/@rmCREATIVEstudio"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#favorited-by-117210267343295086",
+      "published": "2026-09-08T16:49:05Z",
+      "wm-received": "2026-09-08T16:49:05Z",
+      "wm-id": 2030401,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117236388622533436/117210267343295086",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#reblogged-by-111653510624650957",
+      "published": "2026-09-08T16:49:05Z",
+      "wm-received": "2026-09-08T16:49:05Z",
+      "wm-id": 2030400,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117236388622533436/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#favorited-by-113513794052763932",
+      "published": "2026-09-08T17:23:30Z",
+      "wm-received": "2026-09-08T17:23:30Z",
+      "wm-id": 2030409,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117236388622533436/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#favorited-by-114398726695840867",
+      "published": "2026-09-08T17:23:30Z",
+      "wm-received": "2026-09-08T17:23:30Z",
+      "wm-id": 2030408,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117236388622533436/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Frank Dittbrenner",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c62cad319dc3c2dd486f2ccdc4e1d1f02646934dabaa3fa4c76992fc3c9b923d.jpg",
+        "url": "https://pixelfed.social/frankpics"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#favorited-by-116394132810343348",
+      "published": "2026-09-08T17:23:32Z",
+      "wm-received": "2026-09-08T17:23:32Z",
+      "wm-id": 2030410,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117236388622533436/116394132810343348",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-113513794052763932",
+      "published": "2026-09-08T17:23:37Z",
+      "wm-received": "2026-09-08T17:23:37Z",
+      "wm-id": 2030411,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d6fc8c0e23442adfab0e3de1c85378265557cb62eb9aedfa762b254c59debb76.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#favorited-by-114891269374305316",
+      "published": "2026-09-08T18:28:25Z",
+      "wm-received": "2026-09-08T18:28:25Z",
+      "wm-id": 2030418,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117236388622533436/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#favorited-by-114304710833651200",
+      "published": "2026-09-08T20:25:36Z",
+      "wm-received": "2026-09-08T20:25:36Z",
+      "wm-id": 2030435,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117236388622533436/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117230716779135947#favorited-by-114304710833651200",
+      "published": "2026-09-08T20:25:37Z",
+      "wm-received": "2026-09-08T20:25:37Z",
+      "wm-id": 2030436,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117230716779135947/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/gentiana-delphinensis/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#favorited-by-503687",
+      "published": "2026-09-08T20:58:11Z",
+      "wm-received": "2026-09-08T20:58:11Z",
+      "wm-id": 2030440,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117236388622533436/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117235195951544570#favorited-by-503687",
+      "published": "2026-09-08T20:58:14Z",
+      "wm-received": "2026-09-08T20:58:14Z",
+      "wm-id": 2030441,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117235195951544570/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/ruisseau-du-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Blue Appaloosa",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5195991bfc21d22c27e8f4cd112cacc925a889b35519a0d0b44d8322c1741f4d.png",
+        "url": "https://sunny.garden/@BlueAppaloosa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117236388622533436#favorited-by-109356636344805091",
+      "published": "2026-09-09T03:33:30Z",
+      "wm-received": "2026-09-09T03:33:30Z",
+      "wm-id": 2030478,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117236388622533436/109356636344805091",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/robber-fly/",
       "wm-property": "like-of",
       "wm-private": false
     }
