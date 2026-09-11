@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-10T06:26:07.839Z",
+  "lastFetched": "2026-09-11T06:25:12.731Z",
   "webmentions": [
     {
       "type": "entry",
@@ -292252,6 +292252,291 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/oak-jays-love-to-shell-their-own-peanuts/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/oak-jays-love-to-shell-their-own-peanuts/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "M",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/636f1c62d9295457fa75de824807c667d2741e629bf6f1ab559bad0f64ed0419.jpg",
+        "url": "https://pixelfed.social/Shaknataf"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-114571149960373091",
+      "published": "2026-09-10T11:56:10Z",
+      "wm-received": "2026-09-10T11:56:10Z",
+      "wm-id": 2030878,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/114571149960373091",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Malvan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef5373d6d7ab42848ff08b6cfdc46571780961c0c902080ad3266a751612fc98.jpg",
+        "url": "https://mastodonsweden.se/@malveus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-109591746589098359",
+      "published": "2026-09-10T11:56:10Z",
+      "wm-received": "2026-09-10T11:56:10Z",
+      "wm-id": 2030877,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/109591746589098359",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#reblogged-by-111653510624650957",
+      "published": "2026-09-10T11:56:12Z",
+      "wm-received": "2026-09-10T11:56:12Z",
+      "wm-id": 2030879,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117246517537401365/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#reblogged-by-117196094204834851",
+      "published": "2026-09-10T11:56:13Z",
+      "wm-received": "2026-09-10T11:56:13Z",
+      "wm-id": 2030880,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117246517537401365/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-109546769351149860",
+      "published": "2026-09-10T11:57:36Z",
+      "wm-received": "2026-09-10T11:57:36Z",
+      "wm-id": 2030881,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Farhad A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1fc30714bce7c75451f07a1222178b368939a28ecb88de0cf9786902f322e732.jpg",
+        "url": "https://todon.eu/@faab64"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-116318641338005710",
+      "published": "2026-09-10T12:25:08Z",
+      "wm-received": "2026-09-10T12:25:08Z",
+      "wm-id": 2030885,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/116318641338005710",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Art 013",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17e02794e77d52abbd20e976371a35e6c41220adb996dec3868ecffec8c45d7d.jpg",
+        "url": "https://mastodon.social/@theart013"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-116041951257447959",
+      "published": "2026-09-10T13:23:18Z",
+      "wm-received": "2026-09-10T13:23:18Z",
+      "wm-id": 2030889,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/116041951257447959",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mtze",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4cffb993776971c19bbe12cc99ba229697fc8b87803dfad3e63dc32031e151ad.jpg",
+        "url": "https://pixelfed.de/Mtze"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-108982204786349169",
+      "published": "2026-09-10T13:23:18Z",
+      "wm-received": "2026-09-10T13:23:18Z",
+      "wm-id": 2030888,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/108982204786349169",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-114398726695840867",
+      "published": "2026-09-10T13:53:44Z",
+      "wm-received": "2026-09-10T13:53:44Z",
+      "wm-id": 2030890,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d6fc8c0e23442adfab0e3de1c85378265557cb62eb9aedfa762b254c59debb76.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-114891269374305316",
+      "published": "2026-09-10T15:30:28Z",
+      "wm-received": "2026-09-10T15:30:28Z",
+      "wm-id": 2030905,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/513/794/052/763/932/original/9bdf502f43271917.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-113513794052763932",
+      "published": "2026-09-10T16:06:53Z",
+      "wm-received": "2026-09-10T16:06:53Z",
+      "wm-id": 2030908,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Andy P",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c8563cda798426c3cc8b108caceb4ca498ef0378fc2663a5e1d59fc6d4b507cf.jpg",
+        "url": "https://mastodon.art/@otterlove"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-109326658815966219",
+      "published": "2026-09-10T16:06:53Z",
+      "wm-received": "2026-09-10T16:06:53Z",
+      "wm-id": 2030907,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/109326658815966219",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Charlie",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5dec823c9bc5d8d9f9dedfb7aefaaacc92eac97730b76e8182d934414a35e291.jpg",
+        "url": "https://mastodon.social/@gazeshift"
+      },
+      "url": "https://mamot.fr/@nhoizey/117240856339511711#favorited-by-257370",
+      "published": "2026-09-10T16:07:02Z",
+      "wm-received": "2026-09-10T16:07:02Z",
+      "wm-id": 2030909,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117240856339511711/257370",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/waterfall-on-the-chardonnet/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/provence-alpes-cote-d-azur/hautes-alpes/vallee-de-la-claree/waterfall-on-the-chardonnet/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-116568504112454513",
+      "published": "2026-09-10T16:31:59Z",
+      "wm-received": "2026-09-10T16:31:59Z",
+      "wm-id": 2030912,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jens",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/57b5741f7b73ebe3cd75c1e95a2b66ffcd119881d474b2d6b435766494be7937.jpg",
+        "url": "https://pixelfed.de/Wartenberg"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-115962117032566424",
+      "published": "2026-09-10T17:32:10Z",
+      "wm-received": "2026-09-10T17:32:10Z",
+      "wm-id": 2030918,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/115962117032566424",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
       "wm-property": "like-of",
       "wm-private": false
     }
