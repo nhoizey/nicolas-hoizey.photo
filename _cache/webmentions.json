@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-11T06:25:12.731Z",
+  "lastFetched": "2026-09-12T06:23:08.227Z",
   "webmentions": [
     {
       "type": "entry",
@@ -292534,6 +292534,975 @@
       "wm-received": "2026-09-10T17:32:10Z",
       "wm-id": 2030918,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/115962117032566424",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jordi Mallol i Comas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1b61d4eb8306d08436f2b4d6700c5c591a216c0c95c9a565f6e55385fb131f44.jpg",
+        "url": "https://mastodont.cat/@gatillepis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-115209162045956133",
+      "published": "2026-09-11T07:13:18Z",
+      "wm-received": "2026-09-11T07:13:18Z",
+      "wm-id": 2031022,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/115209162045956133",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Richard Hofstede",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4439c64f035f9190eab6f1a9f3feefcaa1158142a3289767ecfd1cec26377a2d.jpg",
+        "url": "https://mastodon.social/@RichardFoundItArt"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-117212530731406800",
+      "published": "2026-09-11T07:13:19Z",
+      "wm-received": "2026-09-11T07:13:19Z",
+      "wm-id": 2031023,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/117212530731406800",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SusanneBonn",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fbf5bac6b22e28b6fb7c2b44677255f1d2dcd1d72c1f764540d8ab212255853c.jpg",
+        "url": "https://hessen.social/@SusanneBonn"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-109252533419018025",
+      "published": "2026-09-11T07:13:21Z",
+      "wm-received": "2026-09-11T07:13:21Z",
+      "wm-id": 2031024,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/109252533419018025",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-111653510624650957",
+      "published": "2026-09-11T07:13:22Z",
+      "wm-received": "2026-09-11T07:13:22Z",
+      "wm-id": 2031025,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-114885990175534748",
+      "published": "2026-09-11T07:34:26Z",
+      "wm-received": "2026-09-11T07:34:26Z",
+      "wm-id": 2031027,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-114304710833651200",
+      "published": "2026-09-11T08:02:05Z",
+      "wm-received": "2026-09-11T08:02:05Z",
+      "wm-id": 2031032,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marc :antifa:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9dab666ac57818e1c1377f65a59f23f2549cb5b3ba613a6a9b1b83c8e7b2f933.jpg",
+        "url": "https://mastodon.pub.solar/@marc"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-111857800129199565",
+      "published": "2026-09-11T08:02:05Z",
+      "wm-received": "2026-09-11T08:02:05Z",
+      "wm-id": 2031031,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/111857800129199565",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Yakyu Night Owl",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/98e26bc4ede71cf3dc22b6bdeee4e70690a10c67f40a16213aaad57f35b8afd0.jpg",
+        "url": "https://mastodon.world/@YakyuNightOwl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-109367361755097514",
+      "published": "2026-09-11T08:02:10Z",
+      "wm-received": "2026-09-11T08:02:10Z",
+      "wm-id": 2031033,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/109367361755097514",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mariop",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6677a60e8f56b71368244bccedbdabafdef7a6e47d50f0b876b58f6936177707.jpg",
+        "url": "https://hachyderm.io/@mariop"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-109380769241668482",
+      "published": "2026-09-11T08:02:11Z",
+      "wm-received": "2026-09-11T08:02:11Z",
+      "wm-id": 2031034,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/109380769241668482",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "decibyte",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/dd22256eae120fe2eb558073acfe8e8ea232052a3b745efa1b9f7a25d8005166.png",
+        "url": "https://social.data.coop/@decibyte"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-108271170489164264",
+      "published": "2026-09-11T08:02:12Z",
+      "wm-received": "2026-09-11T08:02:12Z",
+      "wm-id": 2031035,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/108271170489164264",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matúš Chochlík",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b0dd652858d3bac36db61a9a9e3bc296cd08d22602001435bdc7423dcf457bcd.jpg",
+        "url": "https://mastodon.online/@matus_chochlik"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-108197874217409616",
+      "published": "2026-09-11T08:02:14Z",
+      "wm-received": "2026-09-11T08:02:14Z",
+      "wm-id": 2031036,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/108197874217409616",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cory Doctorow",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8a2e454e0cf029f822d1c7bfa71ef2fa15c1d83172d0b67433400c0086f17892.png",
+        "url": "https://mamot.fr/@pluralistic"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-303320",
+      "published": "2026-09-11T08:02:15Z",
+      "wm-received": "2026-09-11T08:02:15Z",
+      "wm-id": 2031037,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/303320",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d6fc8c0e23442adfab0e3de1c85378265557cb62eb9aedfa762b254c59debb76.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-114891269374305316",
+      "published": "2026-09-11T08:29:53Z",
+      "wm-received": "2026-09-11T08:29:53Z",
+      "wm-id": 2031045,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Arthur Dent",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e724b1273baa21b72d9e3e2e4508f0ee51a2c31c63778f8a0d2492d0a8e90156.jpg",
+        "url": "https://mastodon.social/@adamsfan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-108344688061614674",
+      "published": "2026-09-11T08:29:53Z",
+      "wm-received": "2026-09-11T08:29:53Z",
+      "wm-id": 2031044,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/108344688061614674",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mindavi",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7de63bfcbf88e42203d7f3a67bff430cc9bb1beed53387a598669441a5f54dfc.png",
+        "url": "https://fosstodon.org/@mindavi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-111495770791036639",
+      "published": "2026-09-11T08:29:55Z",
+      "wm-received": "2026-09-11T08:29:55Z",
+      "wm-id": 2031046,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/111495770791036639",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HypeBot ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/648aa442063651b9d75318ffc9b3d7a00c3be5f993e58482fe5d5a9aed119147.png",
+        "url": "https://social.ketupat.me/@hype"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-112084084768675996",
+      "published": "2026-09-11T08:29:56Z",
+      "wm-received": "2026-09-11T08:29:56Z",
+      "wm-id": 2031047,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/112084084768675996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "J A Clarke",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4b26e4b85aac3d998caa27cf043f7e1eb20a487b2868b1af96b29cd9b2d777e4.jpg",
+        "url": "https://wandering.shop/@jaclarke"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-116513952181949486",
+      "published": "2026-09-11T09:05:47Z",
+      "wm-received": "2026-09-11T09:05:47Z",
+      "wm-id": 2031052,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/116513952181949486",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Feuersprotte",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8b65919d8047bb3ad7e026380559ac75ccdcef66491f2245e371ebb677d56ccc.jpg",
+        "url": "https://norden.social/@Feuersprotte"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-115725327432560353",
+      "published": "2026-09-11T09:05:49Z",
+      "wm-received": "2026-09-11T09:05:49Z",
+      "wm-id": 2031053,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/115725327432560353",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LiquorVicar",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6b1ca6eb91f1d738c940c7356fc9237586d41ddce6fa6c98b1aeddef1fad254b.jpg",
+        "url": "https://mastodon.social/@LiquorVicar"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-110660664114673112",
+      "published": "2026-09-11T09:05:53Z",
+      "wm-received": "2026-09-11T09:05:53Z",
+      "wm-id": 2031054,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/110660664114673112",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://mamot.fr/avatars/original/missing.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-113840219686050198",
+      "published": "2026-09-11T09:05:54Z",
+      "wm-received": "2026-09-11T09:05:54Z",
+      "wm-id": 2031055,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bird.",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/117/251/803/925/215/500/original/7da44c47b283b41a.png",
+        "url": "https://catodon.rocks/@bird"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-117251803925215500",
+      "published": "2026-09-11T10:15:23Z",
+      "wm-received": "2026-09-11T10:15:23Z",
+      "wm-id": 2031058,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/117251803925215500",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dinahgal",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mastodon.social/@dinahgal"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-114477157254340878",
+      "published": "2026-09-11T10:15:24Z",
+      "wm-received": "2026-09-11T10:15:24Z",
+      "wm-id": 2031059,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/114477157254340878",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "WendyB",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e11faa91eeee8f4793772907eb894edd30c6dd26930faa4d0a3adc488ac3fffd.jpg",
+        "url": "https://pixelfed.social/wendinoakland"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-114009017442195182",
+      "published": "2026-09-11T10:15:29Z",
+      "wm-received": "2026-09-11T10:15:29Z",
+      "wm-id": 2031060,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/114009017442195182",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jens",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/57b5741f7b73ebe3cd75c1e95a2b66ffcd119881d474b2d6b435766494be7937.jpg",
+        "url": "https://pixelfed.de/Wartenberg"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-115962117032566424",
+      "published": "2026-09-11T10:15:32Z",
+      "wm-received": "2026-09-11T10:15:32Z",
+      "wm-id": 2031061,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/115962117032566424",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bird.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07d9c4c1d7873ee85d278be096e9355a9eb602842278391d8578b71ed2928839.png",
+        "url": "https://catodon.rocks/@bird"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-117251803925215500",
+      "published": "2026-09-11T10:15:46Z",
+      "wm-received": "2026-09-11T10:15:46Z",
+      "wm-id": 2031062,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/117251803925215500",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "sleepingexplorer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b16bfb5ff8c12a6e3ee95d7c2d74ca1bd8df3130488f484528f3f5d22f990f94.png",
+        "url": "https://mastodon.social/@sleepingexplorer"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-111488811122544233",
+      "published": "2026-09-11T10:50:47Z",
+      "wm-received": "2026-09-11T10:50:47Z",
+      "wm-id": 2031066,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/111488811122544233",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-117196094204834851",
+      "published": "2026-09-11T10:50:47Z",
+      "wm-received": "2026-09-11T10:50:47Z",
+      "wm-id": 2031065,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Zhi Zhu ????️",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/28641153b4cf546b783602e7a34b46f1660e707f43242b6f583bd5422a6c04eb.jpg",
+        "url": "https://newsie.social/@ZhiZhu"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-109530190279925414",
+      "published": "2026-09-11T10:50:50Z",
+      "wm-received": "2026-09-11T10:50:50Z",
+      "wm-id": 2031067,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/109530190279925414",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mtc_uk",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/865/079/347/960/660/original/61623d6ddc66238b.jpeg",
+        "url": "https://mastodonapp.uk/@mtconleyuk"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-109865079347960660",
+      "published": "2026-09-11T11:18:14Z",
+      "wm-received": "2026-09-11T11:18:14Z",
+      "wm-id": 2031132,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/109865079347960660",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Todd Miller",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/393/577/953/530/270/original/19af70096869a39e.png",
+        "url": "https://mas.to/@tmiller"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-114393577953530270",
+      "published": "2026-09-11T11:49:02Z",
+      "wm-received": "2026-09-11T11:49:02Z",
+      "wm-id": 2031135,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/114393577953530270",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jeff Bradberry",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3d2614130be72384aedb422cac16b14d27c7f2d23bae2a1dabeabe8abc234a5a.jpg",
+        "url": "https://hachyderm.io/@jeffbradberry"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-114649624305469620",
+      "published": "2026-09-11T12:26:20Z",
+      "wm-received": "2026-09-11T12:26:20Z",
+      "wm-id": 2031136,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/114649624305469620",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jeremy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/de1aa9834cc606201cd16f41913d531324375acbe6dba7c14278b07d4356073b.jpg",
+        "url": "https://pixelfed.social/TekellJ"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-110973859976771329",
+      "published": "2026-09-11T12:26:21Z",
+      "wm-received": "2026-09-11T12:26:21Z",
+      "wm-id": 2031137,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/110973859976771329",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Davinatrent",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mstdn.social/@Davinatrent"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-116313250849911949",
+      "published": "2026-09-11T12:26:25Z",
+      "wm-received": "2026-09-11T12:26:25Z",
+      "wm-id": 2031138,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/116313250849911949",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-110651355078160221",
+      "published": "2026-09-11T14:28:23Z",
+      "wm-received": "2026-09-11T14:28:23Z",
+      "wm-id": 2031158,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "New Here",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mastodon.social/@JustFiguringThingsOut"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-115869972497059428",
+      "published": "2026-09-11T16:27:33Z",
+      "wm-received": "2026-09-11T16:27:33Z",
+      "wm-id": 2031179,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/115869972497059428",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ThierryL",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/259/713/525/655/725/original/99ac327a8d13f946.jpeg",
+        "url": "https://troet.cafe/@KrankerFlegel"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-109259713525655725",
+      "published": "2026-09-11T16:55:50Z",
+      "wm-received": "2026-09-11T16:55:50Z",
+      "wm-id": 2031180,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/109259713525655725",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-111626648801109062",
+      "published": "2026-09-11T16:55:51Z",
+      "wm-received": "2026-09-11T16:55:51Z",
+      "wm-id": 2031181,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mcl2k6",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b652ea1e5a75fc138592ca56f4ff0117b52bdd19dfb01e072a1b8344f034f75.jpg",
+        "url": "https://indieweb.social/@mcl2k6"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-109391470899356308",
+      "published": "2026-09-11T16:55:52Z",
+      "wm-received": "2026-09-11T16:55:52Z",
+      "wm-id": 2031182,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/109391470899356308",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d6fc8c0e23442adfab0e3de1c85378265557cb62eb9aedfa762b254c59debb76.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-114891269374305316",
+      "published": "2026-09-11T16:55:53Z",
+      "wm-received": "2026-09-11T16:55:53Z",
+      "wm-id": 2031183,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mcl2k6",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b652ea1e5a75fc138592ca56f4ff0117b52bdd19dfb01e072a1b8344f034f75.jpg",
+        "url": "https://indieweb.social/@mcl2k6"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#reblogged-by-109391470899356308",
+      "published": "2026-09-11T16:55:55Z",
+      "wm-received": "2026-09-11T16:55:55Z",
+      "wm-id": 2031184,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117253369443269149/109391470899356308",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#reblogged-by-111653510624650957",
+      "published": "2026-09-11T16:56:01Z",
+      "wm-received": "2026-09-11T16:56:01Z",
+      "wm-id": 2031185,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117253369443269149/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handslive",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/99b0b1a9e4dfc0b5b4b698f097192a1ebee408b1160891d3febc871321f26e1d.jpg",
+        "url": "https://mstdn.ca/@handslive"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-111523470323820239",
+      "published": "2026-09-11T17:22:17Z",
+      "wm-received": "2026-09-11T17:22:17Z",
+      "wm-id": 2031188,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/111523470323820239",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lea Rosema",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7c831ef20e2c7a93705007b56a71c1bcf4418386493fa60533221bd4419bdd32.jpg",
+        "url": "https://lea.lgbt/@lea"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-109966669843046109",
+      "published": "2026-09-11T17:22:22Z",
+      "wm-received": "2026-09-11T17:22:22Z",
+      "wm-id": 2031189,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/109966669843046109",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handslive",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/99b0b1a9e4dfc0b5b4b698f097192a1ebee408b1160891d3febc871321f26e1d.jpg",
+        "url": "https://mstdn.ca/@handslive"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#reblogged-by-111523470323820239",
+      "published": "2026-09-11T17:22:23Z",
+      "wm-received": "2026-09-11T17:22:23Z",
+      "wm-id": 2031190,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117251122446222574/111523470323820239",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-109546769351149860",
+      "published": "2026-09-11T17:51:58Z",
+      "wm-received": "2026-09-11T17:51:58Z",
+      "wm-id": 2031193,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/513/794/052/763/932/original/9bdf502f43271917.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-113513794052763932",
+      "published": "2026-09-11T18:57:54Z",
+      "wm-received": "2026-09-11T18:57:54Z",
+      "wm-id": 2031202,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-113513794052763932",
+      "published": "2026-09-11T18:57:56Z",
+      "wm-received": "2026-09-11T18:57:56Z",
+      "wm-id": 2031203,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "heckj",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5bf8f5038a2ad40badd12dde9eb1a0fe7bb9d20d7159e1940653ef9eac2daa62.png",
+        "url": "https://mastodon.social/@heckj"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-109373204366328187",
+      "published": "2026-09-11T20:54:06Z",
+      "wm-received": "2026-09-11T20:54:06Z",
+      "wm-id": 2031226,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/109373204366328187",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-110651355078160221",
+      "published": "2026-09-11T22:32:49Z",
+      "wm-received": "2026-09-11T22:32:49Z",
+      "wm-id": 2031240,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-112555206662590515",
+      "published": "2026-09-12T00:09:37Z",
+      "wm-received": "2026-09-12T00:09:37Z",
+      "wm-id": 2031244,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jendefer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5b30c761c3153f287b366677d25b497ae3008ee366ce8e9ec39260de23cef770.png",
+        "url": "https://dice.camp/@jendefer"
+      },
+      "url": "https://mamot.fr/@nhoizey/117246517537401365#favorited-by-111075743925421707",
+      "published": "2026-09-12T01:52:56Z",
+      "wm-received": "2026-09-12T01:52:56Z",
+      "wm-id": 2031250,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117246517537401365/111075743925421707",
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
