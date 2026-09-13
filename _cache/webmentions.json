@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-12T06:23:08.227Z",
+  "lastFetched": "2026-09-13T06:28:02.478Z",
   "webmentions": [
     {
       "type": "entry",
@@ -293506,6 +293506,671 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/male-european-green-woodpecker-in-the-grass/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-110795643064737098",
+      "published": "2026-09-12T07:07:38Z",
+      "wm-received": "2026-09-12T07:07:38Z",
+      "wm-id": 2031269,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117253369443269149#favorited-by-114304710833651200",
+      "published": "2026-09-12T07:38:26Z",
+      "wm-received": "2026-09-12T07:38:26Z",
+      "wm-id": 2031277,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117253369443269149/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/cds-are-cool-again/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117257837645613852#reblogged-by-111653510624650957",
+      "published": "2026-09-12T11:42:54Z",
+      "wm-received": "2026-09-12T11:42:54Z",
+      "wm-id": 2031373,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117257837645613852/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117257837645613852#favorited-by-114304710833651200",
+      "published": "2026-09-12T12:11:53Z",
+      "wm-received": "2026-09-12T12:11:53Z",
+      "wm-id": 2031385,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117257837645613852/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117257837645613852#favorited-by-114398726695840867",
+      "published": "2026-09-12T13:17:32Z",
+      "wm-received": "2026-09-12T13:17:32Z",
+      "wm-id": 2031414,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117257837645613852/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117257837645613852#favorited-by-110651355078160221",
+      "published": "2026-09-12T14:14:44Z",
+      "wm-received": "2026-09-12T14:14:44Z",
+      "wm-id": 2031438,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117257837645613852/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mésange sans tête v6.1",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2cb3555a287e9151aea79af8c42aedf32bcd168f8ba0f18a9533de7366bb876d.jpg",
+        "url": "https://mstdn.nrkn.fr/@vl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-357684",
+      "published": "2026-09-12T16:46:15Z",
+      "wm-received": "2026-09-12T16:46:15Z",
+      "wm-id": 2031490,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/357684",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-110795643064737098",
+      "published": "2026-09-12T16:46:15Z",
+      "wm-received": "2026-09-12T16:46:15Z",
+      "wm-id": 2031489,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra A. Bauer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8dc6dc9257f9fb62905a6c6dc0f61d56565e5a27ea2efd3387bbe44e46a957c1.jpg",
+        "url": "https://literatur.social/@writingwoman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-268037",
+      "published": "2026-09-12T16:46:26Z",
+      "wm-received": "2026-09-12T16:46:26Z",
+      "wm-id": 2031491,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/268037",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra A. Bauer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8dc6dc9257f9fb62905a6c6dc0f61d56565e5a27ea2efd3387bbe44e46a957c1.jpg",
+        "url": "https://literatur.social/@writingwoman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-268037",
+      "published": "2026-09-12T16:46:27Z",
+      "wm-received": "2026-09-12T16:46:27Z",
+      "wm-id": 2031492,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/268037",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sally Strange",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/38d6fb67e83fe1564c42947436927d17f50648f345167579e898d99ac29b743d.png",
+        "url": "https://eldritch.cafe/@SallyStrange"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-125048",
+      "published": "2026-09-12T16:47:08Z",
+      "wm-received": "2026-09-12T16:47:08Z",
+      "wm-id": 2031493,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/125048",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-111653510624650957",
+      "published": "2026-09-12T16:47:16Z",
+      "wm-received": "2026-09-12T16:47:16Z",
+      "wm-id": 2031494,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sally Strange",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/38d6fb67e83fe1564c42947436927d17f50648f345167579e898d99ac29b743d.png",
+        "url": "https://eldritch.cafe/@SallyStrange"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-125048",
+      "published": "2026-09-12T16:48:24Z",
+      "wm-received": "2026-09-12T16:48:24Z",
+      "wm-id": 2031495,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/125048",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-329706",
+      "published": "2026-09-12T16:50:19Z",
+      "wm-received": "2026-09-12T16:50:19Z",
+      "wm-id": 2031497,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "katch wreck",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7284b53ed85c3780946d69022846e65090f8ed610ab86b2d6dd001ccf903cf42.jpg",
+        "url": "https://mastodon.social/@katchwreck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-109571278203722114",
+      "published": "2026-09-12T16:50:19Z",
+      "wm-received": "2026-09-12T16:50:19Z",
+      "wm-id": 2031496,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/109571278203722114",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "katch wreck",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7284b53ed85c3780946d69022846e65090f8ed610ab86b2d6dd001ccf903cf42.jpg",
+        "url": "https://mastodon.social/@katchwreck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-109571278203722114",
+      "published": "2026-09-12T16:50:20Z",
+      "wm-received": "2026-09-12T16:50:20Z",
+      "wm-id": 2031498,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/109571278203722114",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Florian Judith",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6b336b8e5d8d700c7a425477c106babb4bdb0d73dbdec0861c5d88503ff302f0.jpg",
+        "url": "https://oc.todon.fr/@Florian"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-585",
+      "published": "2026-09-12T16:50:25Z",
+      "wm-received": "2026-09-12T16:50:25Z",
+      "wm-id": 2031499,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/585",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tim H",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/272ddace0ba3fb2d87fc7aa39dd9705ae5da45d954eaa50df92492134bd1d742.jpg",
+        "url": "https://mastodon.world/@timhopper"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-111546854049458681",
+      "published": "2026-09-12T17:17:18Z",
+      "wm-received": "2026-09-12T17:17:18Z",
+      "wm-id": 2031514,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/111546854049458681",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Masayuki60 ???????????? ???????? ????????????????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/25c38f0000f803272accdbe8c4e47a22320fb95fbba09b480bea10acd7fc7d65.jpg",
+        "url": "https://pixelfed.social/masayuki60"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-112747868087948383",
+      "published": "2026-09-12T17:17:22Z",
+      "wm-received": "2026-09-12T17:17:22Z",
+      "wm-id": 2031515,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/112747868087948383",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "curious monkey ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/dd5682c9c8426a0ecb5e47b1336463ca64bb6d7634c4278201baef69133b09b6.jpg",
+        "url": "https://mastodon.world/@dotomnivorous"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-117083469782893319",
+      "published": "2026-09-12T17:17:25Z",
+      "wm-received": "2026-09-12T17:17:25Z",
+      "wm-id": 2031516,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/117083469782893319",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "curious monkey ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/dd5682c9c8426a0ecb5e47b1336463ca64bb6d7634c4278201baef69133b09b6.jpg",
+        "url": "https://mastodon.world/@dotomnivorous"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-117083469782893319",
+      "published": "2026-09-12T17:17:34Z",
+      "wm-received": "2026-09-12T17:17:34Z",
+      "wm-id": 2031517,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/117083469782893319",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07919de6a1ee4b9017d2abed8fd869ea1b7afdcb574f524f96a7ee6a1a0e9584.jpg",
+        "url": "https://pixelshot.it/Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-116142825191584642",
+      "published": "2026-09-12T17:17:35Z",
+      "wm-received": "2026-09-12T17:17:35Z",
+      "wm-id": 2031518,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/116142825191584642",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-113840219686050198",
+      "published": "2026-09-12T17:17:38Z",
+      "wm-received": "2026-09-12T17:17:38Z",
+      "wm-id": 2031519,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Harold S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/489868775e0f35b1a191ae4ba5578412e0cb5ff27b932031dd9c1727fb0a06b6.jpg",
+        "url": "https://sfba.social/@oldredsubby"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-109341327903651308",
+      "published": "2026-09-12T17:47:07Z",
+      "wm-received": "2026-09-12T17:47:07Z",
+      "wm-id": 2031535,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/109341327903651308",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Adrian Kentleton",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ca888c4b33ee6cefed6de84a35e3939d01ae747df5c6bfbd489da974de2a6a06.jpg",
+        "url": "https://mastodon.scot/@adrian_k"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-115844003798444961",
+      "published": "2026-09-12T17:47:07Z",
+      "wm-received": "2026-09-12T17:47:07Z",
+      "wm-id": 2031534,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/115844003798444961",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-113513794052763932",
+      "published": "2026-09-12T17:47:13Z",
+      "wm-received": "2026-09-12T17:47:13Z",
+      "wm-id": 2031536,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Harold S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/489868775e0f35b1a191ae4ba5578412e0cb5ff27b932031dd9c1727fb0a06b6.jpg",
+        "url": "https://sfba.social/@oldredsubby"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-109341327903651308",
+      "published": "2026-09-12T17:47:21Z",
+      "wm-received": "2026-09-12T17:47:21Z",
+      "wm-id": 2031537,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/109341327903651308",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MxBikil is Spoopy???? and Gay!❄️",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/13173ac398f950091b823bbd44a9f6daa58d1f5ee5131b573aab3c86d6bc6d74.png",
+        "url": "https://mastoart.social/@Bikil"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-115668312822164687",
+      "published": "2026-09-12T17:47:23Z",
+      "wm-received": "2026-09-12T17:47:23Z",
+      "wm-id": 2031539,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/115668312822164687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HypeBot ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/648aa442063651b9d75318ffc9b3d7a00c3be5f993e58482fe5d5a9aed119147.png",
+        "url": "https://social.ketupat.me/@hype"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-112084084768675996",
+      "published": "2026-09-12T17:47:23Z",
+      "wm-received": "2026-09-12T17:47:23Z",
+      "wm-id": 2031538,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/112084084768675996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-109322251141889536",
+      "published": "2026-09-12T18:17:43Z",
+      "wm-received": "2026-09-12T18:17:43Z",
+      "wm-id": 2031545,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SusanneBonn",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fbf5bac6b22e28b6fb7c2b44677255f1d2dcd1d72c1f764540d8ab212255853c.jpg",
+        "url": "https://hessen.social/@SusanneBonn"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-109252533419018025",
+      "published": "2026-09-12T18:17:44Z",
+      "wm-received": "2026-09-12T18:17:44Z",
+      "wm-id": 2031546,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/109252533419018025",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jldeloatch",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f3822b1aa71100cc1af14b6c63ec180dbbb95bedb70d219668d7d0d6aa23c67d.png",
+        "url": "https://sfba.social/@jldeloatch"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-109550570777465179",
+      "published": "2026-09-12T18:17:49Z",
+      "wm-received": "2026-09-12T18:17:49Z",
+      "wm-id": 2031547,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/109550570777465179",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Micdan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/face782f54fd260844e95f2afe9f76ce64a9eb68a32c914f594aaf62b079bbed.png",
+        "url": "https://mstdn.social/@micdan5boringtoots"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-117250346249009142",
+      "published": "2026-09-12T18:46:37Z",
+      "wm-received": "2026-09-12T18:46:37Z",
+      "wm-id": 2031551,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/117250346249009142",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Christy Marx Rambling Writer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/637ee8e1c8099ee01ad5276923cd673d2296e26e98ef59bb856c2d9dd4595ae8.jpg",
+        "url": "https://beige.party/@christymarx"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#reblogged-by-112899946840204910",
+      "published": "2026-09-12T19:14:19Z",
+      "wm-received": "2026-09-12T19:14:19Z",
+      "wm-id": 2031552,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117259021894097413/112899946840204910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-114307257434206498",
+      "published": "2026-09-13T04:50:45Z",
+      "wm-received": "2026-09-13T04:50:45Z",
+      "wm-id": 2031606,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
       "wm-property": "like-of",
       "wm-private": false
     }
