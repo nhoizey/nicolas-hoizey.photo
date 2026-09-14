@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-13T06:28:02.478Z",
+  "lastFetched": "2026-09-14T06:33:46.978Z",
   "webmentions": [
     {
       "type": "entry",
@@ -294171,6 +294171,1106 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Malvan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef5373d6d7ab42848ff08b6cfdc46571780961c0c902080ad3266a751612fc98.jpg",
+        "url": "https://mastodonsweden.se/@malveus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-109591746589098359",
+      "published": "2026-09-13T11:40:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T11:40:19Z",
+      "wm-id": 2031644,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/109591746589098359",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "AFT",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/56341498482def6c960b58e054c77de5a3765abbe04e91d9d10a53e828d88d8b.jpg",
+        "url": "https://pixelfed.social/aft"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-117176976826582559",
+      "published": "2026-09-13T11:40:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T11:40:19Z",
+      "wm-id": 2031643,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/117176976826582559",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-111626648801109062",
+      "published": "2026-09-13T11:40:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T11:40:20Z",
+      "wm-id": 2031646,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "proudprout",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/133ba763564059632eb31258a9e3387a145449abfc657f8445b5a6e70fe5432b.jpg",
+        "url": "https://piaille.fr/@proudprout"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-114780313054579225",
+      "published": "2026-09-13T11:40:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T11:40:20Z",
+      "wm-id": 2031645,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/114780313054579225",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d6fc8c0e23442adfab0e3de1c85378265557cb62eb9aedfa762b254c59debb76.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-114891269374305316",
+      "published": "2026-09-13T12:15:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T12:15:36Z",
+      "wm-id": 2031647,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ducky van DuckDuck",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5c919c45a3d16455624cd6e3c38fe8395db2be2076529e7f92fedb53d1b529bb.jpg",
+        "url": "https://pixelfed.social/heschy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-110745906974137972",
+      "published": "2026-09-13T12:15:39Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T12:15:39Z",
+      "wm-id": 2031648,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/110745906974137972",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jens",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/57b5741f7b73ebe3cd75c1e95a2b66ffcd119881d474b2d6b435766494be7937.jpg",
+        "url": "https://pixelfed.de/Wartenberg"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-115962117032566424",
+      "published": "2026-09-13T13:17:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T13:17:52Z",
+      "wm-id": 2031654,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/115962117032566424",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-114331409715632221",
+      "published": "2026-09-13T13:52:01Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T13:52:01Z",
+      "wm-id": 2031666,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bernard Laguerre",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/457196d5eb303c3fc904e3d557cf7eb37bc2b722a2c953403272e05f6685521e.jpg",
+        "url": "https://mastodon.social/@Aldor75"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-113873691736135387",
+      "published": "2026-09-13T14:26:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T14:26:20Z",
+      "wm-id": 2031673,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/113873691736135387",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-110651355078160221",
+      "published": "2026-09-13T15:01:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T15:01:22Z",
+      "wm-id": 2031685,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-113513794052763932",
+      "published": "2026-09-13T16:15:58Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T16:15:58Z",
+      "wm-id": 2031716,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "decibyte",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/dd22256eae120fe2eb558073acfe8e8ea232052a3b745efa1b9f7a25d8005166.png",
+        "url": "https://social.data.coop/@decibyte"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-108271170489164264",
+      "published": "2026-09-13T16:15:58Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T16:15:58Z",
+      "wm-id": 2031715,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/108271170489164264",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LisaLaCritzel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5faad81f586060c985ef4a4b3f48ba75f6f7db316d7be8d0005d64e379fa1c8d.jpg",
+        "url": "https://mastodon.social/@LisaLaCritzel"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-116880294477818266",
+      "published": "2026-09-13T16:51:39Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T16:51:39Z",
+      "wm-id": 2031728,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/116880294477818266",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "scattershot",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0c9f3fbc907af9aeca46375ed8d9faef88f87c523dbea5e7629b3aa27dd4a84f.jpg",
+        "url": "https://merveilles.town/@scattershot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-110560028641312996",
+      "published": "2026-09-13T16:51:40Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T16:51:40Z",
+      "wm-id": 2031729,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/110560028641312996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-113513794052763932",
+      "published": "2026-09-13T16:51:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T16:51:42Z",
+      "wm-id": 2031730,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jean Gautier",
+        "photo": "https://static.mamot.fr/accounts/avatars/000/189/032/original/0b0c64c9e7c90c6b.jpeg",
+        "url": "https://mamot.fr/@Neoresistant"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-189032",
+      "published": "2026-09-13T16:51:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T16:51:44Z",
+      "wm-id": 2031731,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/189032",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MissConstrue",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3ce0abe78e09d9ffc6325f06c4650b667e856d1cbd4418e7abd2fbbc6a2ea3d7.jpg",
+        "url": "https://mefi.social/@MissConstrue"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-109736699168010786",
+      "published": "2026-09-13T17:28:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:28:14Z",
+      "wm-id": 2031740,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/109736699168010786",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "laen ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c3cd4358b6dca838a67112c9a6e3a6e2de5b98f23e2150cffdd87b1d914c3d82.jpg",
+        "url": "https://sunny.garden/@moonrabbit"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-112727981313305675",
+      "published": "2026-09-13T17:28:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:28:14Z",
+      "wm-id": 2031739,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/112727981313305675",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mr. Bill",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/193bee5e9e42ab7684b1cbb2e4ad24dfbaebec926dfdf29f8a8090da1cbe8829.jpg",
+        "url": "https://hostux.social/@bmacDonald94"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-109422583000743834",
+      "published": "2026-09-13T17:28:17Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:28:17Z",
+      "wm-id": 2031742,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/109422583000743834",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "J. Paweł Pełech",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffcb20dcaee58a8c1fbe7cfae60661f41dd972e874a52255fe2db0b4a3de3ef0.jpg",
+        "url": "https://social.vivaldi.net/@peplech"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-117073331365721419",
+      "published": "2026-09-13T17:28:17Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:28:17Z",
+      "wm-id": 2031741,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/117073331365721419",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Elyastorah",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/930b3540fd71bf1814f539593d87dd318a760dd5454c4aafdd062a7ccbe60af5.jpg",
+        "url": "https://ruhr.social/@Elyastorah"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-109381408637075712",
+      "published": "2026-09-13T17:28:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:28:19Z",
+      "wm-id": 2031743,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/109381408637075712",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "clew",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6c0c4c66c9c49a3ae011c3391b7900525e0d7e44957d5612de7ae9e04744c5f3.png",
+        "url": "https://ecoevo.social/@clew"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-113841667150228283",
+      "published": "2026-09-13T17:28:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:28:20Z",
+      "wm-id": 2031744,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/113841667150228283",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Simon",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b46297abbca7a6a2d1439049c89593daacc7d98c0dfbc8a5193aff1c37302b31.jpg",
+        "url": "https://mastodon.social/@thesijames"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-109376715510399668",
+      "published": "2026-09-13T17:28:24Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:28:24Z",
+      "wm-id": 2031745,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/109376715510399668",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "hawaiianeye797 (Craig F)",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b6ce85212b3d447210fa551896586a673058f9c266b39c21ddfcb92ca2b4ae9d.jpg",
+        "url": "https://mastodon.online/@hawaiianeye797"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-109281599352296455",
+      "published": "2026-09-13T17:28:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:28:52Z",
+      "wm-id": 2031746,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/109281599352296455",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nature & Wildlife Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@nature"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-111656057582511475",
+      "published": "2026-09-13T17:31:23Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:31:23Z",
+      "wm-id": 2031748,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/111656057582511475",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ms. Que Banh",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6d89217e2357198ffd2b27338778d19261eb67c52b5beea1d0770825ab2e0fff.jpg",
+        "url": "https://beige.party/@PhoenixSerenity"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-112605944981612833",
+      "published": "2026-09-13T17:31:56Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:31:56Z",
+      "wm-id": 2031749,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/112605944981612833",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Socialist Amber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/010ff13938f7013d7e28a2aef024ca12b96dbb6111f68709d01037e1044b65e5.jpg",
+        "url": "https://hear-me.social/@amber"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-117220379303526845",
+      "published": "2026-09-13T17:34:27Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:34:27Z",
+      "wm-id": 2031750,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/117220379303526845",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-111653510624650957",
+      "published": "2026-09-13T17:34:29Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:34:29Z",
+      "wm-id": 2031751,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mr. Bill",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/193bee5e9e42ab7684b1cbb2e4ad24dfbaebec926dfdf29f8a8090da1cbe8829.jpg",
+        "url": "https://hostux.social/@bmacDonald94"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-109422583000743834",
+      "published": "2026-09-13T17:34:30Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:34:30Z",
+      "wm-id": 2031752,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/109422583000743834",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Magdalena",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/985/459/594/831/931/original/e73c2dd7c0eec7f5.jpg",
+        "url": "https://vernissage.photos/@magda"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-113985459594831931",
+      "published": "2026-09-13T17:34:32Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:34:32Z",
+      "wm-id": 2031753,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/113985459594831931",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HypeBot ????",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/648aa442063651b9d75318ffc9b3d7a00c3be5f993e58482fe5d5a9aed119147.png",
+        "url": "https://social.ketupat.me/@hype"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-112084084768675996",
+      "published": "2026-09-13T17:36:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:36:14Z",
+      "wm-id": 2031754,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/112084084768675996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Socialist Amber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/010ff13938f7013d7e28a2aef024ca12b96dbb6111f68709d01037e1044b65e5.jpg",
+        "url": "https://hear-me.social/@amber"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-117220379303526845",
+      "published": "2026-09-13T17:44:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:44:10Z",
+      "wm-id": 2031756,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/117220379303526845",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "enpassantparla",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3554500a64cedf9c16c4165be06970b9964c24876fdec6f363f0841a280e9617.jpg",
+        "url": "https://mastodon.social/@enpassantparla"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-108231908101441004",
+      "published": "2026-09-13T17:44:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T17:44:11Z",
+      "wm-id": 2031757,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/108231908101441004",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Guanche",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e757954d6715376b01c6f8b8e6fdd8701309b50f35c19e60e4da219d94870090.jpg",
+        "url": "https://mastodon.social/@guanche"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-115348843538690851",
+      "published": "2026-09-13T18:04:50Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:04:50Z",
+      "wm-id": 2031760,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/115348843538690851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mad Argon :qurio:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/11b4eee305e00e8a2e3433cd35e36a3a14f3d1a5d2ee0129f032dd3ede5c10de.png",
+        "url": "https://is-a.cat/@madargon"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-108675432062616256",
+      "published": "2026-09-13T18:04:51Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:04:51Z",
+      "wm-id": 2031761,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/108675432062616256",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Prairie_Dog",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/192131e9d819fae6cb7ac3f30b4f09c19875820d17fed795927e8f004524bc62.jpg",
+        "url": "https://universeodon.com/@digitalrodent"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-109367580154964110",
+      "published": "2026-09-13T18:04:56Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:04:56Z",
+      "wm-id": 2031762,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/109367580154964110",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ZPeteris",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b509cb725b513a35883a0578f92c0f2100e2b9be5e55a53a1501d28ae3fb56b4.jpg",
+        "url": "https://lgbtqia.space/@zpeteris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-109851421171757533",
+      "published": "2026-09-13T18:05:00Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:05:00Z",
+      "wm-id": 2031763,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/109851421171757533",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/546/769/351/149/860/original/8c0626c886f12a53.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-109546769351149860",
+      "published": "2026-09-13T18:05:06Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:05:06Z",
+      "wm-id": 2031764,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-113840219686050198",
+      "published": "2026-09-13T18:05:08Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:05:08Z",
+      "wm-id": 2031765,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Prairie_Dog",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/192131e9d819fae6cb7ac3f30b4f09c19875820d17fed795927e8f004524bc62.jpg",
+        "url": "https://universeodon.com/@digitalrodent"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#reblogged-by-109367580154964110",
+      "published": "2026-09-13T18:05:09Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:05:09Z",
+      "wm-id": 2031766,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117264685787770952/109367580154964110",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "RAK",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/dc962804b05a4958c7773a16888efa9121c2c31ae78e6e3d6447193c3c4caf11.png",
+        "url": "https://techhub.social/@raktheundead"
+      },
+      "url": "https://mamot.fr/@nhoizey/117251122446222574#favorited-by-116762442107662129",
+      "published": "2026-09-13T18:05:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:05:14Z",
+      "wm-id": 2031767,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117251122446222574/116762442107662129",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/common-starling-on-a-branch/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gonny",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9da1b8e1e09bf5f89b581873b9beff4603e15c0ddfd2b03cfda699ce2c88b7f.jpg",
+        "url": "https://pixelfed.social/gonny.veldman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-114727091628528332",
+      "published": "2026-09-13T18:35:02Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:35:02Z",
+      "wm-id": 2031775,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/114727091628528332",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-114331409715632221",
+      "published": "2026-09-13T18:35:02Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:35:02Z",
+      "wm-id": 2031774,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nando161",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b587a116fd5f24c063fac9c67f387e2fc04f6f09146fc8d05dc3649c53208606.jpg",
+        "url": "https://partyon.xyz/@nando161"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-113784619142662587",
+      "published": "2026-09-13T18:35:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:35:05Z",
+      "wm-id": 2031776,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/113784619142662587",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Swamp Lark",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3a1b50a757ebbbeb7cd023a51e3f2d685bf95d2cb39e5fda522420cc60e8777f.jpg",
+        "url": "https://mstdn.social/@semperdg"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-116685813239024718",
+      "published": "2026-09-13T18:38:39Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T18:38:39Z",
+      "wm-id": 2031777,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/116685813239024718",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "France Pasquale ???? ???? :antifa: :no_ai:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/04573bd94566e3b4578be813caa97c13e0b5177a6be41da25addad7db412977f.png",
+        "url": "https://piaille.fr/@pasqualeberesti"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-109303201058582675",
+      "published": "2026-09-13T19:07:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T19:07:42Z",
+      "wm-id": 2031784,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/109303201058582675",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d6fc8c0e23442adfab0e3de1c85378265557cb62eb9aedfa762b254c59debb76.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-114891269374305316",
+      "published": "2026-09-13T19:07:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T19:07:44Z",
+      "wm-id": 2031785,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rebekka Rubinstein - Bekka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f3c7044c0bc858a8804323a66fd0f4c1b1822f7f99eea57f0517dd4908f63dc4.jpg",
+        "url": "https://pixelfed.social/bekkarubinbooks"
+      },
+      "url": "https://mamot.fr/@nhoizey/117257837645613852#favorited-by-116749688962904937",
+      "published": "2026-09-13T19:07:47Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T19:07:47Z",
+      "wm-id": 2031786,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117257837645613852/116749688962904937",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/the-great-cinemascope-car-chase/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "noname98571@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6732e26c7093b806340abd928e41770ef21662a313c34bf7c5a8f4c412191b89.jpg",
+        "url": "https://pixelfed.social/noname98571"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-113944112501758265",
+      "published": "2026-09-13T19:41:27Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T19:41:27Z",
+      "wm-id": 2031789,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/113944112501758265",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Iron Bug",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e2566eed63d9a39600c805b980eaf62056a0c671ebc8bf625de31e8dc6b4ee4c.jpg",
+        "url": "https://friendica.ironbug.org/profile/iron_bug"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-283652",
+      "published": "2026-09-13T20:11:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T20:11:36Z",
+      "wm-id": 2031791,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/283652",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LadyNorris",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e3e556393fe1c9b8522fa3084ef1682e35fd800a5dad3f8ec264a82dc51fdbb3.jpg",
+        "url": "https://mastodon.art/@LadyNorris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-110618769726695105",
+      "published": "2026-09-13T21:13:17Z",
+      "published_ts": null,
+      "wm-received": "2026-09-13T21:13:17Z",
+      "wm-id": 2031810,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/110618769726695105",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LoJee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b8d60e74dbc785ec7997066922adb07ee956d0a3575a475b065be1aa7d031b5e.jpg",
+        "url": "https://mastodon.de/@Lojie"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-112231919080948967",
+      "published": "2026-09-14T00:30:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T00:30:13Z",
+      "wm-id": 2031844,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/112231919080948967",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "むくどり🍉",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b22e2892f06c4bca1c79bd57294409a0be64da14f0e0d1d2bdcd8d0e36af7f9e.jpg",
+        "url": "https://fedibird.com/@muku_dori_dou"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-111379700756331309",
+      "published": "2026-09-14T01:21:41Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T01:21:41Z",
+      "wm-id": 2031855,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/111379700756331309",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-112555206662590515",
+      "published": "2026-09-14T02:22:15Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T02:22:15Z",
+      "wm-id": 2031867,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117263500241234007#favorited-by-112555206662590515",
+      "published": "2026-09-14T02:52:35Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T02:52:35Z",
+      "wm-id": 2031871,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117263500241234007/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
       "wm-property": "like-of",
       "wm-private": false
     }
