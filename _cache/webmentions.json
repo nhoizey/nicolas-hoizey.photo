@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-14T06:33:46.978Z",
+  "lastFetched": "2026-09-15T06:27:11.722Z",
   "webmentions": [
     {
       "type": "entry",
@@ -295271,6 +295271,726 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/great-tit-on-a-chaenomeles-speciosa/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Imladris",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7b0089f4e75e6514b25f248eb0bf9a3d82d568a0d8a4d554e6bcabd9d1a48057.jpg",
+        "url": "https://mastodon.art/@imladris_images"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-111598569971892211",
+      "published": "2026-09-14T07:02:29Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T07:02:29Z",
+      "wm-id": 2031925,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/111598569971892211",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "RM 🏳️‍🌈",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e8904d0259df7c7721f1470a2dee5645f9b74be48c549e64d7478a408b2c589b.jpg",
+        "url": "https://pixelfed.social/TokyoCityUrbex"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-113831980240210389",
+      "published": "2026-09-14T11:45:21Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T11:45:21Z",
+      "wm-id": 2031993,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/113831980240210389",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ria Prilutski",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/79b73802407a86ab527e81eb89aa2c7091e8b409cf11a74646de6be468117215.png",
+        "url": "https://mastodon.social/@ria_prilutski"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-116471723573731429",
+      "published": "2026-09-14T11:45:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T11:45:22Z",
+      "wm-id": 2031995,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/116471723573731429",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#reblogged-by-111653510624650957",
+      "published": "2026-09-14T11:45:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T11:45:22Z",
+      "wm-id": 2031994,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117269172455352511/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nature & Wildlife Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@nature"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#reblogged-by-111656057582511475",
+      "published": "2026-09-14T11:45:23Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T11:45:23Z",
+      "wm-id": 2031996,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117269172455352511/111656057582511475",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/345f242958d71ce1ca040954cc4e025302905b9a0384e36e16d5d4242e664811.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-114891269374305316",
+      "published": "2026-09-14T12:19:56Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:19:56Z",
+      "wm-id": 2032005,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-114331409715632221",
+      "published": "2026-09-14T12:20:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:20:25Z",
+      "wm-id": 2032006,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07919de6a1ee4b9017d2abed8fd869ea1b7afdcb574f524f96a7ee6a1a0e9584.jpg",
+        "url": "https://pixelshot.it/Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-116142825191584642",
+      "published": "2026-09-14T12:20:26Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:20:26Z",
+      "wm-id": 2032007,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/116142825191584642",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "wandern",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://dibbelabb.es/@wandern"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#reblogged-by-113788160334112509",
+      "published": "2026-09-14T12:20:32Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:20:32Z",
+      "wm-id": 2032008,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117269172455352511/113788160334112509",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "花丸 / Hanamaru",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9c31b8c88c3cd4b1c60dc1825c5d9d9fc48cdf7f85166b0e10a2311d682e897a.jpg",
+        "url": "https://mstdn.tokyocameraclub.com/@chibana"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-115286723385582499",
+      "published": "2026-09-14T12:20:55Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:20:55Z",
+      "wm-id": 2032010,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/115286723385582499",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-114398726695840867",
+      "published": "2026-09-14T12:20:55Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:20:55Z",
+      "wm-id": 2032009,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-116568504112454513",
+      "published": "2026-09-14T12:51:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:51:13Z",
+      "wm-id": 2032015,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-109546769351149860",
+      "published": "2026-09-14T12:51:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:51:13Z",
+      "wm-id": 2032014,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-114885990175534748",
+      "published": "2026-09-14T12:51:21Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:51:21Z",
+      "wm-id": 2032017,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Art 013",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17e02794e77d52abbd20e976371a35e6c41220adb996dec3868ecffec8c45d7d.jpg",
+        "url": "https://mastodon.social/@theart013"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-116041951257447959",
+      "published": "2026-09-14T12:51:21Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T12:51:21Z",
+      "wm-id": 2032016,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/116041951257447959",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tokergraphy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2d6a1330013bea00748b1f133f0eab3084fd4fa4ec89e4e6dbf0a949f7915fc8.jpg",
+        "url": "https://pixelfed.social/TokerGraphy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-117269552182135770",
+      "published": "2026-09-14T13:22:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T13:22:38Z",
+      "wm-id": 2032021,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/117269552182135770",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-110651355078160221",
+      "published": "2026-09-14T13:57:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T13:57:19Z",
+      "wm-id": 2032023,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-111626648801109062",
+      "published": "2026-09-14T17:03:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T17:03:25Z",
+      "wm-id": 2032112,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/345f242958d71ce1ca040954cc4e025302905b9a0384e36e16d5d4242e664811.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-114891269374305316",
+      "published": "2026-09-14T17:03:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T17:03:25Z",
+      "wm-id": 2032111,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-329706",
+      "published": "2026-09-14T17:03:26Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T17:03:26Z",
+      "wm-id": 2032113,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HB",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/de21e6151a360110aa58661a3cd846a0c6b466753944dd421ddeff7fefc62512.jpg",
+        "url": "https://pixelfed.social/h2theannah"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-117270388357551764",
+      "published": "2026-09-14T17:03:28Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T17:03:28Z",
+      "wm-id": 2032114,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/117270388357551764",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Helle",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/23e72da454c86caf261794a8827472310c9dc14a3b5699a5ec448bb8094325b2.jpg",
+        "url": "https://pixelfed.dk/hellebelle"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-114039055546657373",
+      "published": "2026-09-14T17:03:31Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T17:03:31Z",
+      "wm-id": 2032115,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/114039055546657373",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nature & Wildlife Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@nature"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#reblogged-by-111656057582511475",
+      "published": "2026-09-14T17:03:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T17:03:49Z",
+      "wm-id": 2032116,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117270356381746226/111656057582511475",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-113513794052763932",
+      "published": "2026-09-14T17:03:54Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T17:03:54Z",
+      "wm-id": 2032117,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#reblogged-by-111653510624650957",
+      "published": "2026-09-14T17:04:39Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T17:04:39Z",
+      "wm-id": 2032118,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117270356381746226/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-116568504112454513",
+      "published": "2026-09-14T18:12:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T18:12:36Z",
+      "wm-id": 2032129,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Maximus der Barmherzige,",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ecd5507eea8555bb58176f9f2c2f4990c571fec646f2014c1d0073646c0aff57.jpg",
+        "url": "https://ieji.de/@johnschneee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-115340186032265370",
+      "published": "2026-09-14T18:22:28Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T18:22:28Z",
+      "wm-id": 2032144,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/115340186032265370",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mark Wollschlager",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/384/996/549/396/275/original/9745abce7b1e59ce.png",
+        "url": "https://universeodon.com/@markwoll"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-109384996549396275",
+      "published": "2026-09-14T18:34:35Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T18:34:35Z",
+      "wm-id": 2032146,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/109384996549396275",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-113513794052763932",
+      "published": "2026-09-14T18:34:37Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T18:34:37Z",
+      "wm-id": 2032147,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mark Wollschlager",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3057095f4b872f3353f50b7a94ffc78f973b669101b9b978a175f1220712134c.png",
+        "url": "https://universeodon.com/@markwoll"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#reblogged-by-109384996549396275",
+      "published": "2026-09-14T18:34:48Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T18:34:48Z",
+      "wm-id": 2032148,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117270356381746226/109384996549396275",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Guanche",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e757954d6715376b01c6f8b8e6fdd8701309b50f35c19e60e4da219d94870090.jpg",
+        "url": "https://mastodon.social/@guanche"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-115348843538690851",
+      "published": "2026-09-14T19:17:54Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T19:17:54Z",
+      "wm-id": 2032157,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/115348843538690851",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arkhi",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/007d48102f5270247d673a9c51e32262f209a444c555cd13225e648ea2734ce1.jpg",
+        "url": "https://mamot.fr/@arkhi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117259021894097413#favorited-by-59598",
+      "published": "2026-09-14T21:35:59Z",
+      "published_ts": null,
+      "wm-received": "2026-09-14T21:35:59Z",
+      "wm-id": 2032187,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117259021894097413/59598",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/ring-necked-parakeet-profile/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-112555206662590515",
+      "published": "2026-09-15T00:18:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T00:18:22Z",
+      "wm-id": 2032223,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117269172455352511#favorited-by-112555206662590515",
+      "published": "2026-09-15T00:18:23Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T00:18:23Z",
+      "wm-id": 2032224,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117269172455352511/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/bitting-more-than-it-can-chew/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/304/710/833/651/200/original/5877152aa5338fd9.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117270356381746226#favorited-by-114304710833651200",
+      "published": "2026-09-15T06:20:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T06:20:16Z",
+      "wm-id": 2032256,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117270356381746226/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/like-a-castaway-on-a-makeshift-raft/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117264685787770952#favorited-by-114304710833651200",
+      "published": "2026-09-15T06:20:27Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T06:20:27Z",
+      "wm-id": 2032257,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117264685787770952/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
       "wm-property": "like-of",
       "wm-private": false
     }
