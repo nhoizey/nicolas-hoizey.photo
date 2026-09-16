@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-15T06:27:11.722Z",
+  "lastFetched": "2026-09-16T06:26:18.083Z",
   "webmentions": [
     {
       "type": "entry",
@@ -295991,6 +295991,646 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/landscapes/nature/young-ferns/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "NovaNaturalist🇨🇦🇩🇰🇬🇱🇺🇦",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/732486cee75b18022a124a712820359c786adcc5cf9c406b11baa54ef9c66356.png",
+        "url": "https://cosocial.ca/@NovaNaturalist"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-116312649435451998",
+      "published": "2026-09-15T11:54:07Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T11:54:07Z",
+      "wm-id": 2032340,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/116312649435451998",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nangpa 🇳🇴",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fbef5a8d2058b09ff996682a8ddcc8d756dc5db4d89d4a16691287023e711b4d.jpg",
+        "url": "https://oslo.town/@Nangpa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-111558673181531784",
+      "published": "2026-09-15T11:54:07Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T11:54:07Z",
+      "wm-id": 2032339,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/111558673181531784",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matthieu🔞",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/26de0c4c85ead27064d0f9ff11fc9256cdcb9323e0e924a838d33b8486bc6877.jpg",
+        "url": "https://mastodon.social/@Matthieupierreblanche"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-111736708977709205",
+      "published": "2026-09-15T11:54:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T11:54:10Z",
+      "wm-id": 2032341,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/111736708977709205",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nature & Wildlife Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@nature"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#reblogged-by-111656057582511475",
+      "published": "2026-09-15T11:54:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T11:54:25Z",
+      "wm-id": 2032343,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117274831373435631/111656057582511475",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#reblogged-by-111653510624650957",
+      "published": "2026-09-15T11:54:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T11:54:25Z",
+      "wm-id": 2032342,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117274831373435631/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CannonGoBoom",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1bd2f6a2208521d1953611fe3a1dc8c8d709800092b1412382c52aefaca81398.jpg",
+        "url": "https://pixelfed.social/CannonGoBoom"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-113904621075713713",
+      "published": "2026-09-15T12:20:24Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T12:20:24Z",
+      "wm-id": 2032352,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/113904621075713713",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-109546769351149860",
+      "published": "2026-09-15T13:19:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T13:19:25Z",
+      "wm-id": 2032363,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-110651355078160221",
+      "published": "2026-09-15T13:50:12Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T13:50:12Z",
+      "wm-id": 2032380,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arkhi",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/007d48102f5270247d673a9c51e32262f209a444c555cd13225e648ea2734ce1.jpg",
+        "url": "https://mamot.fr/@arkhi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-59598",
+      "published": "2026-09-15T16:56:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T16:56:44Z",
+      "wm-id": 2032429,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/59598",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TristanKrs",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7e2f279a7939645741bb8f2a04befa24deea508a2e4c228e3a24582c5067b597.jpg",
+        "url": "https://gram.social/TristanKrs"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-116991827368289855",
+      "published": "2026-09-15T16:56:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T16:56:44Z",
+      "wm-id": 2032428,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/116991827368289855",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tsc67",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c29dc3fe3508df64c0edc98280f5df79e3b170175035d8897140aabc01531d3e.png",
+        "url": "https://cosocial.ca/@chris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-115409886547921385",
+      "published": "2026-09-15T16:56:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T16:56:44Z",
+      "wm-id": 2032427,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/115409886547921385",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Alan Cummings",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/366b003d9d9e96702a7821bbc0a92ae5b3656fe6b774d1561e30cd66f4860dbe.jpg",
+        "url": "https://social.vivaldi.net/@acsync"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#reblogged-by-116336778938021105",
+      "published": "2026-09-15T16:56:47Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T16:56:47Z",
+      "wm-id": 2032432,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117276021941784030/116336778938021105",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#reblogged-by-111653510624650957",
+      "published": "2026-09-15T16:56:47Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T16:56:47Z",
+      "wm-id": 2032431,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117276021941784030/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Guanche",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e757954d6715376b01c6f8b8e6fdd8701309b50f35c19e60e4da219d94870090.jpg",
+        "url": "https://mastodon.social/@guanche"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-115348843538690851",
+      "published": "2026-09-15T16:56:47Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T16:56:47Z",
+      "wm-id": 2032430,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/115348843538690851",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nature & Wildlife Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@nature"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#reblogged-by-111656057582511475",
+      "published": "2026-09-15T16:56:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T16:56:49Z",
+      "wm-id": 2032433,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117276021941784030/111656057582511475",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-113513794052763932",
+      "published": "2026-09-15T16:56:50Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T16:56:50Z",
+      "wm-id": 2032434,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/398/726/695/840/867/original/43db5329deda103e.jpeg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-114398726695840867",
+      "published": "2026-09-15T17:23:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:23:11Z",
+      "wm-id": 2032453,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-109546769351149860",
+      "published": "2026-09-15T17:23:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:23:16Z",
+      "wm-id": 2032454,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jordi Mallol i Comas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1b61d4eb8306d08436f2b4d6700c5c591a216c0c95c9a565f6e55385fb131f44.jpg",
+        "url": "https://mastodont.cat/@gatillepis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-115209162045956133",
+      "published": "2026-09-15T17:23:18Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:23:18Z",
+      "wm-id": 2032455,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/115209162045956133",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Olya",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/97e4234eb256cc53da654d359279a5a86c84e00357650d788597a60771b48e87.png",
+        "url": "https://pixelfed.social/ne_zyablik"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-115059930803306474",
+      "published": "2026-09-15T17:23:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:23:19Z",
+      "wm-id": 2032456,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/115059930803306474",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-114304710833651200",
+      "published": "2026-09-15T17:56:01Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:56:01Z",
+      "wm-id": 2032464,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Neil Campbell",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7303744478c534831176f496663dbcc4c7952783336a27b836d33c69e7e24077.jpg",
+        "url": "https://mastodon.world/@Neil_Campbell"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-112916214297417748",
+      "published": "2026-09-15T17:56:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:56:10Z",
+      "wm-id": 2032466,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/112916214297417748",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-112555206662590515",
+      "published": "2026-09-15T17:56:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:56:10Z",
+      "wm-id": 2032465,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-113513794052763932",
+      "published": "2026-09-15T17:56:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:56:11Z",
+      "wm-id": 2032467,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-112555206662590515",
+      "published": "2026-09-15T17:56:17Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T17:56:17Z",
+      "wm-id": 2032468,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "msh2",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f598cab2c61577276dc533df7e7ce8c60b5aa6d2363a06d3cc54db188f5161dc.jpg",
+        "url": "https://pixelfed.com/mshartman2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-117259039253711389",
+      "published": "2026-09-15T18:53:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T18:53:38Z",
+      "wm-id": 2032472,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/117259039253711389",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Heather",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3a20b6fa4d9dd272272ff1e2eca74f19298386d3eda2c540e7f6dbe9cc313e8d.jpg",
+        "url": "https://mastodon.scot/@callunavulgaris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-109321327230374239",
+      "published": "2026-09-15T18:53:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T18:53:38Z",
+      "wm-id": 2032471,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/109321327230374239",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jenny",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bd4e59b3033b6d66ae76c9f62d388ac567a21cb07e946bd02cbdc00c5978736c.jpg",
+        "url": "https://pixelfed.social/J.nny"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-114603088239140389",
+      "published": "2026-09-15T18:53:39Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T18:53:39Z",
+      "wm-id": 2032473,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/114603088239140389",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "msh2",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f598cab2c61577276dc533df7e7ce8c60b5aa6d2363a06d3cc54db188f5161dc.jpg",
+        "url": "https://pixelfed.com/mshartman2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-117259039253711389",
+      "published": "2026-09-15T18:53:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T18:53:42Z",
+      "wm-id": 2032474,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/117259039253711389",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/345f242958d71ce1ca040954cc4e025302905b9a0384e36e16d5d4242e664811.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-114891269374305316",
+      "published": "2026-09-15T19:22:54Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T19:22:54Z",
+      "wm-id": 2032477,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gonny",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9da1b8e1e09bf5f89b581873b9beff4603e15c0ddfd2b03cfda699ce2c88b7f.jpg",
+        "url": "https://pixelfed.social/gonny.veldman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117274831373435631#favorited-by-114727091628528332",
+      "published": "2026-09-15T19:23:03Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T19:23:03Z",
+      "wm-id": 2032478,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117274831373435631/114727091628528332",
+      "wm-target": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/oak-tree-undecided-about-which-direction-to-take/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117276021941784030#favorited-by-503687",
+      "published": "2026-09-15T21:42:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-15T21:42:10Z",
+      "wm-id": 2032508,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117276021941784030/503687",
+      "wm-target": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/young-amethyst-deceiver/",
       "wm-property": "like-of",
       "wm-private": false
     }
