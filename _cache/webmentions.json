@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-17T06:26:49.280Z",
+  "lastFetched": "2026-09-18T06:25:57.935Z",
   "webmentions": [
     {
       "type": "entry",
@@ -297623,6 +297623,566 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "sleepfreeparent",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/668e941695cd0c280effb7e80b3cd89121915abdcc0a2cb4076a8c219b5be582.png",
+        "url": "https://kolektiva.social/@sleepfreeparent"
+      },
+      "url": "https://mamot.fr/@nhoizey/117281681349159749#favorited-by-109521368738106894",
+      "published": "2026-09-17T06:27:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T06:27:44Z",
+      "wm-id": 2033018,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117281681349159749/109521368738106894",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nature & Wildlife Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@nature"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#reblogged-by-111656057582511475",
+      "published": "2026-09-17T11:39:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T11:39:05Z",
+      "wm-id": 2033123,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117286157746199659/111656057582511475",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#reblogged-by-111653510624650957",
+      "published": "2026-09-17T11:39:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T11:39:05Z",
+      "wm-id": 2033122,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117286157746199659/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-109951804609117719",
+      "published": "2026-09-17T12:06:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T12:06:44Z",
+      "wm-id": 2033135,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gonny",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9da1b8e1e09bf5f89b581873b9beff4603e15c0ddfd2b03cfda699ce2c88b7f.jpg",
+        "url": "https://pixelfed.social/gonny.veldman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-114727091628528332",
+      "published": "2026-09-17T12:06:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T12:06:44Z",
+      "wm-id": 2033134,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/114727091628528332",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "AlexGoesPhotography",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/008c56e893d6be09757c0c14878a923a79f255b9fb41ca7c4643aa23cfb42867.png",
+        "url": "https://photog.social/@alexgoesphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-117234654638727511",
+      "published": "2026-09-17T12:06:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T12:06:49Z",
+      "wm-id": 2033136,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/117234654638727511",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/546/769/351/149/860/original/8c0626c886f12a53.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-109546769351149860",
+      "published": "2026-09-17T12:37:37Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T12:37:37Z",
+      "wm-id": 2033140,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117281681349159749#favorited-by-110651355078160221",
+      "published": "2026-09-17T13:41:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T13:41:49Z",
+      "wm-id": 2033154,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117281681349159749/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-110651355078160221",
+      "published": "2026-09-17T13:41:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T13:41:49Z",
+      "wm-id": 2033153,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CannonGoBoom",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1bd2f6a2208521d1953611fe3a1dc8c8d709800092b1412382c52aefaca81398.jpg",
+        "url": "https://pixelfed.social/CannonGoBoom"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-113904621075713713",
+      "published": "2026-09-17T14:16:28Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T14:16:28Z",
+      "wm-id": 2033161,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/113904621075713713",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#reblogged-by-111653510624650957",
+      "published": "2026-09-17T16:43:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T16:43:46Z",
+      "wm-id": 2033190,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117287345780313063/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PurpleGengar",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8e31c439aa5c007286e6f669358b704364084490b033a60b538564be63f817b8.png",
+        "url": "https://lgbtqia.space/@Purplegengar25"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-116540212141335351",
+      "published": "2026-09-17T16:43:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T16:43:46Z",
+      "wm-id": 2033189,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/116540212141335351",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nature & Wildlife Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@nature"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#reblogged-by-111656057582511475",
+      "published": "2026-09-17T16:43:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T16:43:46Z",
+      "wm-id": 2033188,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117287345780313063/111656057582511475",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "msh2",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f598cab2c61577276dc533df7e7ce8c60b5aa6d2363a06d3cc54db188f5161dc.jpg",
+        "url": "https://pixelfed.com/mshartman2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117281681349159749#favorited-by-117259039253711389",
+      "published": "2026-09-17T16:43:51Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T16:43:51Z",
+      "wm-id": 2033193,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117281681349159749/117259039253711389",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "msh2",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f598cab2c61577276dc533df7e7ce8c60b5aa6d2363a06d3cc54db188f5161dc.jpg",
+        "url": "https://pixelfed.com/mshartman2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117280495049310349#favorited-by-117259039253711389",
+      "published": "2026-09-17T16:43:51Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T16:43:51Z",
+      "wm-id": 2033192,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117280495049310349/117259039253711389",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-next-generation-is-coming/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-next-generation-is-coming/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "msh2",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f598cab2c61577276dc533df7e7ce8c60b5aa6d2363a06d3cc54db188f5161dc.jpg",
+        "url": "https://pixelfed.com/mshartman2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-117259039253711389",
+      "published": "2026-09-17T16:43:51Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T16:43:51Z",
+      "wm-id": 2033191,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/117259039253711389",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-113513794052763932",
+      "published": "2026-09-17T17:17:03Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:17:03Z",
+      "wm-id": 2033198,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gonny",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9da1b8e1e09bf5f89b581873b9beff4603e15c0ddfd2b03cfda699ce2c88b7f.jpg",
+        "url": "https://pixelfed.social/gonny.veldman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-114727091628528332",
+      "published": "2026-09-17T17:17:03Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:17:03Z",
+      "wm-id": 2033197,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/114727091628528332",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/345f242958d71ce1ca040954cc4e025302905b9a0384e36e16d5d4242e664811.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-114891269374305316",
+      "published": "2026-09-17T17:17:03Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:17:03Z",
+      "wm-id": 2033196,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/546/769/351/149/860/original/8c0626c886f12a53.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-109546769351149860",
+      "published": "2026-09-17T17:17:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:17:13Z",
+      "wm-id": 2033199,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pro x Noia",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cbe7018607849861de7dabc5eac60b3663cb6c77a7cede1441b1f481fd95f37b.jpg",
+        "url": "https://pixelfed.social/Proxnoia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-111023777070662067",
+      "published": "2026-09-17T17:17:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:17:14Z",
+      "wm-id": 2033200,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/111023777070662067",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-113513794052763932",
+      "published": "2026-09-17T17:17:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:17:16Z",
+      "wm-id": 2033201,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Guanche",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e757954d6715376b01c6f8b8e6fdd8701309b50f35c19e60e4da219d94870090.jpg",
+        "url": "https://mastodon.social/@guanche"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-115348843538690851",
+      "published": "2026-09-17T17:17:17Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:17:17Z",
+      "wm-id": 2033202,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/115348843538690851",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-110795643064737098",
+      "published": "2026-09-17T17:43:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:43:36Z",
+      "wm-id": 2033211,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vincent de Waleffe",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6cd74eecbab6bc8dc799749939f677afc1f6788f3082c2a22eaf5edf66825efa.jpg",
+        "url": "https://pixelfed.fr/Vindwa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-114379521139960377",
+      "published": "2026-09-17T17:43:37Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T17:43:37Z",
+      "wm-id": 2033212,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/114379521139960377",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117286157746199659#favorited-by-110795643064737098",
+      "published": "2026-09-17T18:10:31Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T18:10:31Z",
+      "wm-id": 2033219,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117286157746199659/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/crawling-along-the-riverbank-in-search-of-a-foothold/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-114398726695840867",
+      "published": "2026-09-17T18:36:21Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T18:36:21Z",
+      "wm-id": 2033225,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Christian \"Schepp\" Schaefer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3829f676c9cdd996595c6f1852d595f2edf2fbc599423eb30604b2a2eeea65ad.jpg",
+        "url": "https://mastodon.social/@Schepp"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-118620",
+      "published": "2026-09-17T19:10:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-17T19:10:38Z",
+      "wm-id": 2033232,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/118620",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
       "wm-property": "like-of",
       "wm-private": false
     }
