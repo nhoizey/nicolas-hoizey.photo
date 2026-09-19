@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-18T06:25:57.935Z",
+  "lastFetched": "2026-09-19T06:23:33.026Z",
   "webmentions": [
     {
       "type": "entry",
@@ -298184,6 +298184,406 @@
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#reblogged-by-111653510624650957",
+      "published": "2026-09-18T11:40:04Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T11:40:04Z",
+      "wm-id": 2033393,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117291815339648032/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trailingdust",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4bbf935432a907d050df892d237ec964f3417e581a063be66d7367f897c0b5c2.jpg",
+        "url": "https://pixelfed.social/trailingdust"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-116124948531942550",
+      "published": "2026-09-18T11:40:04Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T11:40:04Z",
+      "wm-id": 2033392,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/116124948531942550",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-113513794052763932",
+      "published": "2026-09-18T11:40:04Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T11:40:04Z",
+      "wm-id": 2033391,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-114398726695840867",
+      "published": "2026-09-18T12:09:37Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T12:09:37Z",
+      "wm-id": 2033396,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LadyNorris",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/110/488/287/979/816/435/original/084b8e373962241a.jpg",
+        "url": "https://mastodon.social/@LadyNorris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-110488287979816435",
+      "published": "2026-09-18T12:09:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T12:09:42Z",
+      "wm-id": 2033399,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/110488287979816435",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e48c000861d2cb6ac564734774a6ff1da7cb86aa7d6ea41aefb8b5706ec87699.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-114891269374305316",
+      "published": "2026-09-18T12:09:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T12:09:42Z",
+      "wm-id": 2033398,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-114331409715632221",
+      "published": "2026-09-18T12:09:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T12:09:42Z",
+      "wm-id": 2033397,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-109546769351149860",
+      "published": "2026-09-18T12:42:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T12:42:10Z",
+      "wm-id": 2033403,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-110651355078160221",
+      "published": "2026-09-18T14:14:29Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T14:14:29Z",
+      "wm-id": 2033417,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#favorited-by-109322251141889536",
+      "published": "2026-09-18T16:59:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T16:59:19Z",
+      "wm-id": 2033457,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117293003563757728/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#reblogged-by-111653510624650957",
+      "published": "2026-09-18T17:00:06Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T17:00:06Z",
+      "wm-id": 2033459,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117293003563757728/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "glykou@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/92633c09a7f000cacd317301eba79546c42efeee222416b858d04c37531d9a9a.jpg",
+        "url": "https://pixelfed.social/glykou"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#favorited-by-117273604356275079",
+      "published": "2026-09-18T17:00:06Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T17:00:06Z",
+      "wm-id": 2033458,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117293003563757728/117273604356275079",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ratt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c89b2de9521c99b7f0266c3400a00f646508882f3125483b46f7f289a3418fbf.jpg",
+        "url": "https://pixelfed.social/ArtByRafe"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#favorited-by-117119933129934142",
+      "published": "2026-09-18T17:32:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T17:32:16Z",
+      "wm-id": 2033464,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117293003563757728/117119933129934142",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e48c000861d2cb6ac564734774a6ff1da7cb86aa7d6ea41aefb8b5706ec87699.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#favorited-by-114891269374305316",
+      "published": "2026-09-18T17:32:18Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T17:32:18Z",
+      "wm-id": 2033465,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117293003563757728/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#favorited-by-114398726695840867",
+      "published": "2026-09-18T17:58:58Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T17:58:58Z",
+      "wm-id": 2033472,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117293003563757728/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#favorited-by-113513794052763932",
+      "published": "2026-09-18T17:58:59Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T17:58:59Z",
+      "wm-id": 2033473,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117293003563757728/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rebekka Rubinstein - Bekka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f3c7044c0bc858a8804323a66fd0f4c1b1822f7f99eea57f0517dd4908f63dc4.jpg",
+        "url": "https://pixelfed.social/bekkarubinbooks"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#favorited-by-116749688962904937",
+      "published": "2026-09-18T18:55:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T18:55:52Z",
+      "wm-id": 2033485,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117293003563757728/116749688962904937",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Insp. Méndez, Photographe.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8e9da0cb8eca4c24febcfb5f025e027a1b136d8993d8993a507238bc639f335f.jpg",
+        "url": "https://piaille.fr/@Ricardo"
+      },
+      "url": "https://mamot.fr/@nhoizey/117287345780313063#favorited-by-111076724360251108",
+      "published": "2026-09-18T18:55:56Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T18:55:56Z",
+      "wm-id": 2033486,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117287345780313063/111076724360251108",
+      "wm-target": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/blue-green-stropharia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117291815339648032#favorited-by-114304710833651200",
+      "published": "2026-09-18T21:05:48Z",
+      "published_ts": null,
+      "wm-received": "2026-09-18T21:05:48Z",
+      "wm-id": 2033497,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117291815339648032/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bivouac-in-champignac/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kitsuneko",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/97e4481b3994a3bc4197282b27e743c4c8fea77e0e61e14ddd2bfd77e5469d2e.jpg",
+        "url": "https://sakurajima.moe/@Kitsuneko"
+      },
+      "url": "https://mamot.fr/@nhoizey/117281681349159749#reblogged-by-116901865220128753",
+      "published": "2026-09-19T04:34:04Z",
+      "published_ts": null,
+      "wm-received": "2026-09-19T04:34:04Z",
+      "wm-id": 2033539,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117281681349159749/116901865220128753",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-spider-constellation/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
