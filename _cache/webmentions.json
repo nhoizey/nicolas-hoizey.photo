@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-20T06:23:46.534Z",
+  "lastFetched": "2026-09-21T06:34:26.071Z",
   "webmentions": [
     {
       "type": "entry",
@@ -299027,6 +299027,286 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/the-restoration-team/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/the-restoration-team/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117298661050663512#favorited-by-503687",
+      "published": "2026-09-20T06:53:21Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T06:53:21Z",
+      "wm-id": 2033781,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117298661050663512/503687",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-mess-of-connectors/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-mess-of-connectors/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/653/510/624/650/957/original/12c598095b97e902.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117303136570069787#reblogged-by-111653510624650957",
+      "published": "2026-09-20T11:48:35Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T11:48:35Z",
+      "wm-id": 2033808,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117303136570069787/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "France Pasquale 📷 🦻 :antifa: :no_ai:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/04573bd94566e3b4578be813caa97c13e0b5177a6be41da25addad7db412977f.png",
+        "url": "https://piaille.fr/@pasqualeberesti"
+      },
+      "url": "https://mamot.fr/@nhoizey/117303136570069787#favorited-by-109303201058582675",
+      "published": "2026-09-20T11:48:35Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T11:48:35Z",
+      "wm-id": 2033807,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117303136570069787/109303201058582675",
+      "wm-target": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117303136570069787#favorited-by-329706",
+      "published": "2026-09-20T11:48:35Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T11:48:35Z",
+      "wm-id": 2033806,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117303136570069787/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fa0a91da703d237c8fe20c5aa4573df0561f709cead6e73ac0579f5716ff9e4.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117303136570069787#favorited-by-114891269374305316",
+      "published": "2026-09-20T12:17:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T12:17:19Z",
+      "wm-id": 2033814,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117303136570069787/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117303136570069787#favorited-by-114398726695840867",
+      "published": "2026-09-20T12:17:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T12:17:19Z",
+      "wm-id": 2033813,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117303136570069787/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117303136570069787#favorited-by-110651355078160221",
+      "published": "2026-09-20T14:39:18Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T14:39:18Z",
+      "wm-id": 2033823,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117303136570069787/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jonathan Schofield",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8daee2e43ad5db5086664e27fc4d6189ae1546a92801fbd0ce6e3e5f384f3f58.jpg",
+        "url": "https://mastodon.social/@urlyman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#favorited-by-109331285584394677",
+      "published": "2026-09-20T16:37:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T16:37:14Z",
+      "wm-id": 2033848,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117304323505986298/109331285584394677",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#favorited-by-329706",
+      "published": "2026-09-20T16:37:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T16:37:14Z",
+      "wm-id": 2033847,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117304323505986298/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#reblogged-by-329706",
+      "published": "2026-09-20T16:37:28Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T16:37:28Z",
+      "wm-id": 2033849,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117304323505986298/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/653/510/624/650/957/original/12c598095b97e902.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#reblogged-by-111653510624650957",
+      "published": "2026-09-20T16:37:30Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T16:37:30Z",
+      "wm-id": 2033850,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117304323505986298/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fa0a91da703d237c8fe20c5aa4573df0561f709cead6e73ac0579f5716ff9e4.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#favorited-by-114891269374305316",
+      "published": "2026-09-20T17:11:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T17:11:10Z",
+      "wm-id": 2033856,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117304323505986298/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#favorited-by-113513794052763932",
+      "published": "2026-09-20T17:11:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T17:11:10Z",
+      "wm-id": 2033855,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117304323505986298/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#favorited-by-114398726695840867",
+      "published": "2026-09-20T17:39:17Z",
+      "published_ts": null,
+      "wm-received": "2026-09-20T17:39:17Z",
+      "wm-id": 2033861,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117304323505986298/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
       "wm-property": "like-of",
       "wm-private": false
     }
