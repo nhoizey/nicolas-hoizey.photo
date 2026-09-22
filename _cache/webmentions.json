@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-21T06:34:26.071Z",
+  "lastFetched": "2026-09-22T06:26:03.937Z",
   "webmentions": [
     {
       "type": "entry",
@@ -299307,6 +299307,266 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#favorited-by-114304710833651200",
+      "published": "2026-09-21T06:54:00Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T06:54:00Z",
+      "wm-id": 2033962,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117304323505986298/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117298661050663512#favorited-by-114304710833651200",
+      "published": "2026-09-21T06:54:08Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T06:54:08Z",
+      "wm-id": 2033963,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117298661050663512/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-mess-of-connectors/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-mess-of-connectors/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/304/710/833/651/200/original/5877152aa5338fd9.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117293003563757728#favorited-by-114304710833651200",
+      "published": "2026-09-21T06:54:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T06:54:13Z",
+      "wm-id": 2033965,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117293003563757728/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/climbing-mount-goosefish/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117297473684666938#favorited-by-114304710833651200",
+      "published": "2026-09-21T06:54:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T06:54:13Z",
+      "wm-id": 2033964,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117297473684666938/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-restoration-team/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-restoration-team/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117303136570069787#favorited-by-114304710833651200",
+      "published": "2026-09-21T06:54:40Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T06:54:40Z",
+      "wm-id": 2033966,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117303136570069787/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/summer-activities/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Moko",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9c5f791e9c298a7fc9cf21bbbf9f87a1e9b51d9c6329d864f78fe12d63744cba.png",
+        "url": "https://mamot.fr/@zemoko"
+      },
+      "url": "https://mamot.fr/@nhoizey/117308809090302250#favorited-by-244880",
+      "published": "2026-09-21T11:59:02Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T11:59:02Z",
+      "wm-id": 2034010,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117308809090302250/244880",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/568/504/112/454/513/original/91a916bb3e69e773.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117308809090302250#favorited-by-116568504112454513",
+      "published": "2026-09-21T11:59:02Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T11:59:02Z",
+      "wm-id": 2034009,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117308809090302250/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117308809090302250#reblogged-by-111653510624650957",
+      "published": "2026-09-21T11:59:03Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T11:59:03Z",
+      "wm-id": 2034011,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117308809090302250/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117308809090302250#favorited-by-114398726695840867",
+      "published": "2026-09-21T12:30:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T12:30:11Z",
+      "wm-id": 2034020,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117308809090302250/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fa0a91da703d237c8fe20c5aa4573df0561f709cead6e73ac0579f5716ff9e4.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117308809090302250#favorited-by-114891269374305316",
+      "published": "2026-09-21T13:25:37Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T13:25:37Z",
+      "wm-id": 2034035,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117308809090302250/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117304323505986298#favorited-by-110651355078160221",
+      "published": "2026-09-21T13:26:06Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T13:26:06Z",
+      "wm-id": 2034036,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117304323505986298/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/cutlery-skate-park/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117308809090302250#favorited-by-110651355078160221",
+      "published": "2026-09-21T13:56:10Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T13:56:10Z",
+      "wm-id": 2034041,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117308809090302250/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ToyframePics",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/115/147/689/804/150/810/original/e00b6d416c4f68c3.png",
+        "url": "https://pixelfed.social/ToyframePics"
+      },
+      "url": "https://mamot.fr/@nhoizey/117308809090302250#favorited-by-115147689804150810",
+      "published": "2026-09-21T15:35:26Z",
+      "published_ts": null,
+      "wm-received": "2026-09-21T15:35:26Z",
+      "wm-id": 2034079,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117308809090302250/115147689804150810",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-school-builders/",
       "wm-property": "like-of",
       "wm-private": false
     }
