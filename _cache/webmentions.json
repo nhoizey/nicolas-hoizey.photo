@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-22T06:26:03.937Z",
+  "lastFetched": "2026-09-24T06:26:43.144Z",
   "webmentions": [
     {
       "type": "entry",
@@ -299567,6 +299567,1122 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/old-school-builders/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/old-school-builders/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "aphera",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/79e5467540b4f865301516a0d936aaf159d460e6731870d847bc39557bb6d764.jpg",
+        "url": "https://mastodon.social/@aphera"
+      },
+      "url": "https://mastodon.social/@aphera/117313542580155543",
+      "published": "2026-09-22T07:36:40+00:00",
+      "published_ts": 1790062600,
+      "wm-received": "2026-09-23T18:48:20Z",
+      "wm-id": 2034836,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117313494362220408/117313542739965745",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/groningen/colourful-netherlands/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> Ah. So mostly exif data, and name/extended for export? Less about browsing or both?</p>\n<a class=\"u-mention\" href=\"https://www.iptc.org/std/photometadata/specification/IPTC-PhotoMetadata-2025.1.html#extended-description-accessibility\"></a>",
+        "text": "@nhoizey Ah. So mostly exif data, and name/extended for export? Less about browsing or both?"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/groningen/colourful-netherlands/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/68e6f1617572bd4c2158727e6c1693ec1d0ab76e3f29f51d93c5895ee2c8e6b0.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/117313548161341994",
+      "published": "2026-09-22T07:38:05+00:00",
+      "published_ts": 1790062685,
+      "wm-received": "2026-09-23T18:48:20Z",
+      "wm-id": 2034835,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117313494362220408/117313548161341994",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/groningen/colourful-netherlands/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@aphera\" class=\"u-url\">@<span>aphera</span></a></span> both, I also sometimes search for photos with titles, captions and tags, but they are already stored in folders per year/month/date</p>\n<a class=\"u-mention\" href=\"https://www.iptc.org/std/photometadata/specification/IPTC-PhotoMetadata-2025.1.html#extended-description-accessibility\"></a>",
+        "text": "@aphera both, I also sometimes search for photos with titles, captions and tags, but they are already stored in folders per year/month/date"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/groningen/colourful-netherlands/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Delphine M.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/18d646f918026bbb6d7bc13343d0194b8a116e52fc8db34197e4bc0aeecb19b4.png",
+        "url": "https://framapiaf.org/@DelphineM"
+      },
+      "url": "https://framapiaf.org/@DelphineM/117321793790204138",
+      "published": "2026-09-23T18:35:03+00:00",
+      "published_ts": 1790188503,
+      "wm-received": "2026-09-23T18:47:02Z",
+      "wm-id": 2034792,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117320134399442803/117321793876310023",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> So cute</p>",
+        "text": "@nhoizey So cute"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/68e6f1617572bd4c2158727e6c1693ec1d0ab76e3f29f51d93c5895ee2c8e6b0.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321800628569798",
+      "published": "2026-09-23T18:36:48+00:00",
+      "published_ts": 1790188608,
+      "wm-received": "2026-09-23T18:47:05Z",
+      "wm-id": 2034794,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117320134399442803/117321800628569798",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://framapiaf.org/@DelphineM\" class=\"u-url\">@<span>DelphineM</span></a></span> 😊</p>",
+        "text": "@DelphineM 😊"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-329706",
+      "published": "2026-09-23T18:46:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:46:49Z",
+      "wm-id": 2034789,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fa0a91da703d237c8fe20c5aa4573df0561f709cead6e73ac0579f5716ff9e4.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-114891269374305316",
+      "published": "2026-09-23T18:46:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:46:49Z",
+      "wm-id": 2034788,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-114398726695840867",
+      "published": "2026-09-23T18:46:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:46:49Z",
+      "wm-id": 2034787,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#reblogged-by-111653510624650957",
+      "published": "2026-09-23T18:46:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:46:52Z",
+      "wm-id": 2034791,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117321327652632495/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Traveller234",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/653375005bf50b7a2bc5f80781b346645d92572813aacf2add47d70c9c769987.jpg",
+        "url": "https://mastodon.social/@Traveller234"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-116974668188546713",
+      "published": "2026-09-23T18:46:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:46:52Z",
+      "wm-id": 2034790,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/116974668188546713",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-112555206662590515",
+      "published": "2026-09-23T18:47:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:05Z",
+      "wm-id": 2034793,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Fabiano Cerqueira 🖖",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58694eed986539e1194ed0a0f9d89c6a800f9e89aabfa3de655f8d38f5615001.jpg",
+        "url": "https://mastodon.social/@fabianocerqueira"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-109347725698343969",
+      "published": "2026-09-23T18:47:09Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:09Z",
+      "wm-id": 2034796,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/109347725698343969",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Delphine M.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/18d646f918026bbb6d7bc13343d0194b8a116e52fc8db34197e4bc0aeecb19b4.png",
+        "url": "https://framapiaf.org/@DelphineM"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-16731",
+      "published": "2026-09-23T18:47:09Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:09Z",
+      "wm-id": 2034795,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/16731",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Angelika Wienert",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9741c1caaa87df521c342fb2ca1816e7a0e69cd10511bf25cdf348c178dbd936.jpg",
+        "url": "https://nrw.social/@haiku_shelf"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-109331025946578107",
+      "published": "2026-09-23T18:47:18Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:18Z",
+      "wm-id": 2034797,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/109331025946578107",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-110651355078160221",
+      "published": "2026-09-23T18:47:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:25Z",
+      "wm-id": 2034798,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "cm5",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bc1bfaf4d762b14ffc49a8810b79e167dba5f465f6465dc3d44078012784b047.png",
+        "url": "https://mas.to/@cm5"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-111224743821002834",
+      "published": "2026-09-23T18:47:26Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:26Z",
+      "wm-id": 2034799,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/111224743821002834",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-114398726695840867",
+      "published": "2026-09-23T18:47:29Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:29Z",
+      "wm-id": 2034800,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dans l'oeil du Pierrot",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d2223373323510f722e7f4d68767b3dc6af360dd0bd9662ebeb066c1b4234738.jpg",
+        "url": "https://pixelfed.fr/dansloeildupierrot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-113910665287264506",
+      "published": "2026-09-23T18:47:37Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:37Z",
+      "wm-id": 2034801,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/113910665287264506",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-114646450789715986",
+      "published": "2026-09-23T18:47:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:42Z",
+      "wm-id": 2034802,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mighty Orbot",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b781cad56686e56d2898eb517a2784eb363053ec7f06b289b455870abf965901.png",
+        "url": "https://retro.pizza/@mighty_orbot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-109366338910734399",
+      "published": "2026-09-23T18:47:43Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:43Z",
+      "wm-id": 2034803,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/109366338910734399",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pep",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c3a212c0943cdce9dd3ac62e3ba83bbc4d87f3121929897eaab726054a92bd82.jpg",
+        "url": "https://mstdn.nrkn.fr/@Pep"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-70427",
+      "published": "2026-09-23T18:47:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:49Z",
+      "wm-id": 2034805,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/70427",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lea Rosema",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7c831ef20e2c7a93705007b56a71c1bcf4418386493fa60533221bd4419bdd32.jpg",
+        "url": "https://lea.lgbt/@lea"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-109966669843046109",
+      "published": "2026-09-23T18:47:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:49Z",
+      "wm-id": 2034804,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/109966669843046109",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mike",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cb6c4a7b3b7a90afbc88ab6a9ff623c38b6ce1298f2ec8c36b7a605b5bb1e42c.jpg",
+        "url": "https://beige.party/@sunumbral"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-113454651830963935",
+      "published": "2026-09-23T18:47:50Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:50Z",
+      "wm-id": 2034806,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/113454651830963935",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fa0a91da703d237c8fe20c5aa4573df0561f709cead6e73ac0579f5716ff9e4.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-114891269374305316",
+      "published": "2026-09-23T18:47:51Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:51Z",
+      "wm-id": 2034807,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://static.mamot.fr/accounts/avatars/000/329/706/original/80d4d4824823b17e.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-329706",
+      "published": "2026-09-23T18:47:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:52Z",
+      "wm-id": 2034809,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Not Rappaport",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/26aae81f0d3b6711a047643129e96914b9c395e560795b9bb9bd4d5426568c8c.jpg",
+        "url": "https://mindly.social/@NotRappaport"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-109408092962000852",
+      "published": "2026-09-23T18:47:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:52Z",
+      "wm-id": 2034808,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/109408092962000852",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lea Rosema",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7c831ef20e2c7a93705007b56a71c1bcf4418386493fa60533221bd4419bdd32.jpg",
+        "url": "https://lea.lgbt/@lea"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#reblogged-by-109966669843046109",
+      "published": "2026-09-23T18:47:53Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:53Z",
+      "wm-id": 2034812,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117320134399442803/109966669843046109",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#reblogged-by-113840219686050198",
+      "published": "2026-09-23T18:47:53Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:53Z",
+      "wm-id": 2034811,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117320134399442803/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Björn Berkholz",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4c9692f23fdbffc3812a2d518a9f72e439ae5c892c3e348c0ca638696c120c83.png",
+        "url": "https://troet.cafe/@Bberkholz"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#reblogged-by-113639956259459350",
+      "published": "2026-09-23T18:47:53Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:53Z",
+      "wm-id": 2034810,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117320134399442803/113639956259459350",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#reblogged-by-111653510624650957",
+      "published": "2026-09-23T18:47:55Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:55Z",
+      "wm-id": 2034814,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117320134399442803/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mike",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cb6c4a7b3b7a90afbc88ab6a9ff623c38b6ce1298f2ec8c36b7a605b5bb1e42c.jpg",
+        "url": "https://beige.party/@sunumbral"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#reblogged-by-113454651830963935",
+      "published": "2026-09-23T18:47:55Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:47:55Z",
+      "wm-id": 2034813,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117320134399442803/113454651830963935",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117315660610622090#favorited-by-329706",
+      "published": "2026-09-23T18:48:03Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:03Z",
+      "wm-id": 2034820,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117315660610622090/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117315660610622090#favorited-by-109546769351149860",
+      "published": "2026-09-23T18:48:03Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:03Z",
+      "wm-id": 2034819,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117315660610622090/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Erika",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/007c9f1c966942e63f48fb8c4c588c4f7e951feda1be234e7cdda254e12a3fe5.jpg",
+        "url": "https://pixelfed.social/Erika.E"
+      },
+      "url": "https://mamot.fr/@nhoizey/117315660610622090#favorited-by-113186092102992517",
+      "published": "2026-09-23T18:48:03Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:03Z",
+      "wm-id": 2034818,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117315660610622090/113186092102992517",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hans",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/276476aca3dbccb6b1b7a3cfd4474ea35641fbf9aa7fe23c4aff05d6ee01c434.jpg",
+        "url": "https://pixelfed.social/JeeWee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117315660610622090#favorited-by-114372221090826487",
+      "published": "2026-09-23T18:48:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:05Z",
+      "wm-id": 2034822,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117315660610622090/114372221090826487",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117315660610622090#favorited-by-113513794052763932",
+      "published": "2026-09-23T18:48:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:05Z",
+      "wm-id": 2034821,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117315660610622090/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117315660610622090#reblogged-by-111653510624650957",
+      "published": "2026-09-23T18:48:06Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:06Z",
+      "wm-id": 2034823,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117315660610622090/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-110651355078160221",
+      "published": "2026-09-23T18:48:09Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:09Z",
+      "wm-id": 2034825,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-114646450789715986",
+      "published": "2026-09-23T18:48:09Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:09Z",
+      "wm-id": 2034824,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fa0a91da703d237c8fe20c5aa4573df0561f709cead6e73ac0579f5716ff9e4.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-114891269374305316",
+      "published": "2026-09-23T18:48:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:11Z",
+      "wm-id": 2034828,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mighty Orbot",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b781cad56686e56d2898eb517a2784eb363053ec7f06b289b455870abf965901.png",
+        "url": "https://retro.pizza/@mighty_orbot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-109366338910734399",
+      "published": "2026-09-23T18:48:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:11Z",
+      "wm-id": 2034827,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/109366338910734399",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-503687",
+      "published": "2026-09-23T18:48:12Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:12Z",
+      "wm-id": 2034829,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mike",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cb6c4a7b3b7a90afbc88ab6a9ff623c38b6ce1298f2ec8c36b7a605b5bb1e42c.jpg",
+        "url": "https://beige.party/@sunumbral"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-113454651830963935",
+      "published": "2026-09-23T18:48:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:13Z",
+      "wm-id": 2034830,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/113454651830963935",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-114398726695840867",
+      "published": "2026-09-23T18:48:15Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:15Z",
+      "wm-id": 2034832,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-329706",
+      "published": "2026-09-23T18:48:15Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:15Z",
+      "wm-id": 2034831,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#reblogged-by-111653510624650957",
+      "published": "2026-09-23T18:48:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:16Z",
+      "wm-id": 2034834,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117314468338157659/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mike",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cb6c4a7b3b7a90afbc88ab6a9ff623c38b6ce1298f2ec8c36b7a605b5bb1e42c.jpg",
+        "url": "https://beige.party/@sunumbral"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#reblogged-by-113454651830963935",
+      "published": "2026-09-23T18:48:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:16Z",
+      "wm-id": 2034833,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117314468338157659/113454651830963935",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LaPaFor",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/683c36066f56a14dec6bf95040f59d70be946fcb382d1aa0d4845a73fcf944d9.png",
+        "url": "https://pixelfed.social/LaPaFor"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-116647574973112627",
+      "published": "2026-09-23T18:48:24Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:24Z",
+      "wm-id": 2034837,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/116647574973112627",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/112/555/206/662/590/515/original/6ce094d2fb1e334b.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-112555206662590515",
+      "published": "2026-09-23T18:48:29Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T18:48:29Z",
+      "wm-id": 2034838,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bumblebee 🐝",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7aa966deb8ddf6064d65e6f72900dd0239d449892b8f358ae5ef1c2d4c33c305.jpg",
+        "url": "https://mamot.fr/@bumblebee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#reblogged-by-10585",
+      "published": "2026-09-23T20:10:55Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T20:10:55Z",
+      "wm-id": 2034844,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117321327652632495/10585",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Wolfhood",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5dda1a72f32333829ba60f93dbec9fb1e230654542c8ef6bf601dacbb2cb03c7.png",
+        "url": "https://social.badabam.net/profile/kalon33"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-108204786054071341",
+      "published": "2026-09-23T20:40:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T20:40:36Z",
+      "wm-id": 2034846,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/108204786054071341",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-110651355078160221",
+      "published": "2026-09-23T22:24:30Z",
+      "published_ts": null,
+      "wm-received": "2026-09-23T22:24:30Z",
+      "wm-id": 2035108,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117321327652632495#favorited-by-114304710833651200",
+      "published": "2026-09-24T04:29:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T04:29:25Z",
+      "wm-id": 2035156,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117321327652632495/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/haute-couture-demands-preparation/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117320134399442803#favorited-by-114304710833651200",
+      "published": "2026-09-24T04:29:26Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T04:29:26Z",
+      "wm-id": 2035158,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117320134399442803/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/hurrah-for-the-winners/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117315660610622090#favorited-by-114304710833651200",
+      "published": "2026-09-24T04:29:26Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T04:29:26Z",
+      "wm-id": 2035157,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117315660610622090/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/old-camera-maintenance/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117314468338157659#favorited-by-114304710833651200",
+      "published": "2026-09-24T04:29:29Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T04:29:29Z",
+      "wm-id": 2035159,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117314468338157659/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
       "wm-property": "like-of",
       "wm-private": false
     }
