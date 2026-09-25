@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-24T06:26:43.144Z",
+  "lastFetched": "2026-09-25T06:27:23.382Z",
   "webmentions": [
     {
       "type": "entry",
@@ -300683,6 +300683,246 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/ho-scale/donut-looting/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trailingdust",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4bbf935432a907d050df892d237ec964f3417e581a063be66d7367f897c0b5c2.jpg",
+        "url": "https://pixelfed.social/trailingdust"
+      },
+      "url": "https://mamot.fr/@nhoizey/117325796563705604#favorited-by-116124948531942550",
+      "published": "2026-09-24T11:41:31Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T11:41:31Z",
+      "wm-id": 2035226,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117325796563705604/116124948531942550",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nightskiier",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9c6b9e6c151c74cd95d68b58f5fd48e82b4b853b7add1d6cde5212c00a5423df.png",
+        "url": "https://mastodon.social/@nightskiier"
+      },
+      "url": "https://mamot.fr/@nhoizey/117325796563705604#favorited-by-117275081622631853",
+      "published": "2026-09-24T11:41:32Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T11:41:32Z",
+      "wm-id": 2035227,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117325796563705604/117275081622631853",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/653/510/624/650/957/original/12c598095b97e902.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117325796563705604#reblogged-by-111653510624650957",
+      "published": "2026-09-24T11:41:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T11:41:36Z",
+      "wm-id": 2035229,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117325796563705604/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117325796563705604#favorited-by-329706",
+      "published": "2026-09-24T11:41:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T11:41:36Z",
+      "wm-id": 2035228,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117325796563705604/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Alexf24",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24498638ebf25354bcdec2cbd41c8adc5dd3b112da92580fc4e438f4ddb2a402.jpg",
+        "url": "https://mstdn.social/@alexf24"
+      },
+      "url": "https://mamot.fr/@nhoizey/117325796563705604#favorited-by-109339072577972502",
+      "published": "2026-09-24T12:13:12Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T12:13:12Z",
+      "wm-id": 2035233,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117325796563705604/109339072577972502",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0cd6bb52d4c32bf18458106f523fdcd889423996f309fafdbd12e26c03feb721.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117325796563705604#favorited-by-114891269374305316",
+      "published": "2026-09-24T12:13:12Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T12:13:12Z",
+      "wm-id": 2035232,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117325796563705604/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117325796563705604#favorited-by-114398726695840867",
+      "published": "2026-09-24T12:42:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T12:42:42Z",
+      "wm-id": 2035235,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117325796563705604/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07919de6a1ee4b9017d2abed8fd869ea1b7afdcb574f524f96a7ee6a1a0e9584.jpg",
+        "url": "https://pixelshot.it/Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117326988095086156#favorited-by-116142825191584642",
+      "published": "2026-09-24T16:41:06Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T16:41:06Z",
+      "wm-id": 2035278,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117326988095086156/116142825191584642",
+      "wm-target": "https://nicolas-hoizey.photo/photos/if-you-want-the-rainbow-you-gotta-put-up-with-the-rain/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/if-you-want-the-rainbow-you-gotta-put-up-with-the-rain/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117326988095086156#reblogged-by-111653510624650957",
+      "published": "2026-09-24T16:41:06Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T16:41:06Z",
+      "wm-id": 2035277,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117326988095086156/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/if-you-want-the-rainbow-you-gotta-put-up-with-the-rain/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/if-you-want-the-rainbow-you-gotta-put-up-with-the-rain/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117325796563705604#favorited-by-113513794052763932",
+      "published": "2026-09-24T17:16:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T17:16:20Z",
+      "wm-id": 2035282,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117325796563705604/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coffee-scuba-diving/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0cd6bb52d4c32bf18458106f523fdcd889423996f309fafdbd12e26c03feb721.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117326988095086156#favorited-by-114891269374305316",
+      "published": "2026-09-24T17:16:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T17:16:20Z",
+      "wm-id": 2035281,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117326988095086156/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/if-you-want-the-rainbow-you-gotta-put-up-with-the-rain/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/if-you-want-the-rainbow-you-gotta-put-up-with-the-rain/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vicente",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cd8bcc674165561d35659d301fa37ec697328fb5201ea8d7c580c8b076cf69db.jpg",
+        "url": "https://pixelfed.social/Figna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117326988095086156#favorited-by-113959391229360953",
+      "published": "2026-09-24T17:52:40Z",
+      "published_ts": null,
+      "wm-received": "2026-09-24T17:52:40Z",
+      "wm-id": 2035286,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117326988095086156/113959391229360953",
+      "wm-target": "https://nicolas-hoizey.photo/photos/if-you-want-the-rainbow-you-gotta-put-up-with-the-rain/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/if-you-want-the-rainbow-you-gotta-put-up-with-the-rain/",
       "wm-property": "like-of",
       "wm-private": false
     }
