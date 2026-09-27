@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-26T06:24:15.983Z",
+  "lastFetched": "2026-09-27T06:25:31.394Z",
   "webmentions": [
     {
       "type": "entry",
@@ -301323,6 +301323,1753 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/red-is-everywhere-in-montmartre/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/red-is-everywhere-in-montmartre/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Whiskers 🇦🇺",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a441bd126e261d5c1210e7454c3e1db9611248d184eaaab0670af0d62f81a6b2.jpg",
+        "url": "https://aus.social/@ecoscore"
+      },
+      "url": "https://aus.social/@ecoscore/117337133487343254",
+      "published": "2026-09-26T11:36:09+00:00",
+      "published_ts": 1790422569,
+      "wm-received": "2026-09-26T11:49:55Z",
+      "wm-id": 2035681,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117337112979882598/117337133591490237",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> Nice to see something leaning to the left in <a href=\"https://aus.social/tags/Europe\">#<span>Europe</span></a> 👍</p>\n<a class=\"p-category\" href=\"https://mamot.fr/tags/europe\">europe</a>",
+        "text": "@nhoizey Nice to see something leaning to the left in #Europe 👍\neurope"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07919de6a1ee4b9017d2abed8fd869ea1b7afdcb574f524f96a7ee6a1a0e9584.jpg",
+        "url": "https://pixelshot.it/Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-116142825191584642",
+      "published": "2026-09-26T11:49:55Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T11:49:55Z",
+      "wm-id": 2035682,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/116142825191584642",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-114331409715632221",
+      "published": "2026-09-26T11:49:55Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T11:49:55Z",
+      "wm-id": 2035680,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nightskiier",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9c6b9e6c151c74cd95d68b58f5fd48e82b4b853b7add1d6cde5212c00a5423df.png",
+        "url": "https://mastodon.social/@nightskiier"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-117275081622631853",
+      "published": "2026-09-26T11:49:58Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T11:49:58Z",
+      "wm-id": 2035684,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/117275081622631853",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Zeller",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/80eae0fb0f0c3d310c994a2b6078dfb1aa0981ae5e5d6ab79629e00aea5147f1.jpg",
+        "url": "https://pixelfed.judesign.vision/gozella"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109388295723344287",
+      "published": "2026-09-26T11:49:58Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T11:49:58Z",
+      "wm-id": 2035683,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109388295723344287",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-111653510624650957",
+      "published": "2026-09-26T11:50:00Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T11:50:00Z",
+      "wm-id": 2035686,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nightskiier",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pixelfed.social/nightskiier"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-115924701448701929",
+      "published": "2026-09-26T11:50:00Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T11:50:00Z",
+      "wm-id": 2035685,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/115924701448701929",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wesley Soares",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/762afaeb91b690c585326db70736f777d7b2adfdb9aea4fdfd732aea7b500716.jpg",
+        "url": "https://metapixl.com/wesleysoares"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-111307429073340471",
+      "published": "2026-09-26T12:27:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:20Z",
+      "wm-id": 2035705,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/111307429073340471",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Aziz Ctr 🌈🐘🍉",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/46e23ecacacd18ee952c2064b2238d0945c639510d7175b25c6ccb63b2ea2370.png",
+        "url": "https://poils.pachyderme.net/@cadmos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-28660",
+      "published": "2026-09-26T12:27:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:20Z",
+      "wm-id": 2035704,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/28660",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-116568504112454513",
+      "published": "2026-09-26T12:27:24Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:24Z",
+      "wm-id": 2035707,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Constantino-Bodin",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/80b4025210ef7c029f3def3a841046afb0c362af266655423154145211664252.png",
+        "url": "https://aleph.land/@MartinShadok"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-45478",
+      "published": "2026-09-26T12:27:24Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:24Z",
+      "wm-id": 2035706,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/45478",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cdrik ⏚🌻",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9ebe571ff3c25865274e586f3cce309ad51779a2a83fb11f796ed9260d8d00e.png",
+        "url": "https://framapiaf.org/@Bristow_69"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-15335",
+      "published": "2026-09-26T12:27:34Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:34Z",
+      "wm-id": 2035708,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/15335",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0cd6bb52d4c32bf18458106f523fdcd889423996f309fafdbd12e26c03feb721.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-114891269374305316",
+      "published": "2026-09-26T12:27:35Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:35Z",
+      "wm-id": 2035709,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carlton Gibson",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef970e45991259db42ad12e12a9dace2f1e95b20788b3bf34b03fac880e2ef71.jpg",
+        "url": "https://chaos.social/@carlton"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-114658135489998084",
+      "published": "2026-09-26T12:27:43Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:43Z",
+      "wm-id": 2035710,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/114658135489998084",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cécé",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/02e3714601eb275f33be7ca7df506d3d43a4e8a666a32bb513ad7977d030c8ef.jpg",
+        "url": "https://mamot.fr/@ccll"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-114095118406660202",
+      "published": "2026-09-26T12:27:44Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:44Z",
+      "wm-id": 2035711,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/114095118406660202",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pffff...",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/31303ac6d263c76613fb59bc1727197cae27091797fcf3b7118a825c7f201791.png",
+        "url": "https://mamot.fr/@1HommeAzerty"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-31232",
+      "published": "2026-09-26T12:27:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:46Z",
+      "wm-id": 2035713,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/31232",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-113840219686050198",
+      "published": "2026-09-26T12:27:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:46Z",
+      "wm-id": 2035712,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "clwb",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7914545a4685f3b3ce5bdad3b64443f7daaf218ce9080598b7fa1e6dbb1944f2.png",
+        "url": "https://pouet.chapril.org/@clwb"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-117191198437124623",
+      "published": "2026-09-26T12:27:47Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:47Z",
+      "wm-id": 2035714,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/117191198437124623",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Irène Langlet",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/284/935/052/492/533/original/89c9d45539a7a23a.png",
+        "url": "https://piaille.fr/@iLangle"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-109284935052492533",
+      "published": "2026-09-26T12:27:48Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:48Z",
+      "wm-id": 2035715,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/109284935052492533",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mathieu Triclot",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5d0e28fa06ae43cb4b6bf8f261850e895c3bb84c445b9a68d19dfb1976bc9889.jpg",
+        "url": "https://aleph.land/@mtriclot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-1579",
+      "published": "2026-09-26T12:27:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:49Z",
+      "wm-id": 2035717,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/1579",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thomas Citharel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e064ffcc1af7395c9882b2003bfca5c397c1bfd77e0505fd25091d753b61ab78.jpg",
+        "url": "https://framapiaf.org/@tcit"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-12794",
+      "published": "2026-09-26T12:27:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:49Z",
+      "wm-id": 2035716,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/12794",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-117196094204834851",
+      "published": "2026-09-26T12:27:50Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:27:50Z",
+      "wm-id": 2035718,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Qana 🌻 influenceuse couette",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c8b5cde22a89029a1c7349d3c4106485c4346b251fdb01570bba97c581f4db9a.png",
+        "url": "https://piaille.fr/@qana_sucre"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-113951139523741159",
+      "published": "2026-09-26T12:52:34Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:34Z",
+      "wm-id": 2035724,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/113951139523741159",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nya",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4b21a15f67185e471e59fc1e895bdc2c888ce83de90331d010b5d27ebb56d247.png",
+        "url": "https://piaille.fr/@drnya91"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109609196904520261",
+      "published": "2026-09-26T12:52:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:36Z",
+      "wm-id": 2035726,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109609196904520261",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Phil Betts",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/285/368/359/782/327/original/f6821cfe1901dbf4.png",
+        "url": "https://mastodon.social/@philbetts"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109285368359782327",
+      "published": "2026-09-26T12:52:37Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:37Z",
+      "wm-id": 2035727,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109285368359782327",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ambraven :verifinking:​",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/09f5ffbe62baef91da9547392362d0f23c9a555a288c8b21032f90e95c29dadf.png",
+        "url": "https://social.mochi.academy/@Ambraven"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-80978",
+      "published": "2026-09-26T12:52:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:38Z",
+      "wm-id": 2035728,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/80978",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Josh Summer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/84025f937c20c46adfd481161cd2766a117e561eb75ee2c811c13c4b794fd7ed.png",
+        "url": "https://gayfr.social/@JoshSummer"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-117321112111478782",
+      "published": "2026-09-26T12:52:41Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:41Z",
+      "wm-id": 2035730,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/117321112111478782",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nya",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4b21a15f67185e471e59fc1e895bdc2c888ce83de90331d010b5d27ebb56d247.png",
+        "url": "https://piaille.fr/@drnya91"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-109609196904520261",
+      "published": "2026-09-26T12:52:41Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:41Z",
+      "wm-id": 2035729,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/109609196904520261",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Karlito Tronti",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d311e72e0902f7d5fdcb6d1fc9d8784628077a37282561d1808cf1d548f09af1.jpg",
+        "url": "https://masto.bike/@Enki1789"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109371639861293711",
+      "published": "2026-09-26T12:52:42Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:42Z",
+      "wm-id": 2035731,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109371639861293711",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peperlito",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/48a9fd3ac29486624e2e4dec2ea5c4d18b076f272eb261708cbb5a1066a42cd7.jpg",
+        "url": "https://boitam.eu/@Peperlito"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-108193957612931822",
+      "published": "2026-09-26T12:52:45Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:45Z",
+      "wm-id": 2035732,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/108193957612931822",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "kazé",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1338ed1510d3dc3fa79678ce38adee80d674aad1af5d1d9be403f1b6fb68b7a3.png",
+        "url": "https://mastodon.social/@fabi1cazenave"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-4323",
+      "published": "2026-09-26T12:52:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:46Z",
+      "wm-id": 2035734,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/4323",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Phil Betts",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b1653abe089346271404f3197569f4e2e5bd910d8e12884654e765148464fefe.png",
+        "url": "https://mastodon.social/@philbetts"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-109285368359782327",
+      "published": "2026-09-26T12:52:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:46Z",
+      "wm-id": 2035733,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/109285368359782327",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Blobinette Frétillante",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9ae802b7df7edf942ccf7275c1dadc8d33df767a3a8cbf8410bf7e19c9abcaec.png",
+        "url": "https://mas.to/@Joannanewsomsuperfan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-109261505255553050",
+      "published": "2026-09-26T12:52:47Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:47Z",
+      "wm-id": 2035735,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/109261505255553050",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Abie",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0a0136f8af2755ed7a3e20ae761128a54f40852485c3719f44ae2feeb875e115.jpg",
+        "url": "https://eldritch.cafe/@temptoetiam"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-113380333993783195",
+      "published": "2026-09-26T12:52:48Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:48Z",
+      "wm-id": 2035736,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/113380333993783195",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nathan Boiron",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ae964fad5bda2d5f51797aefbb0a11245b17d477d55c0406b8aa122e50b30ba2.png",
+        "url": "https://phpc.social/@mopolo"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-110067521545339404",
+      "published": "2026-09-26T12:52:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T12:52:49Z",
+      "wm-id": 2035737,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/110067521545339404",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Conrad",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f545c4547a1171db264c9b75427277090ee22c484835610deff25a1a442fb27c.jpg",
+        "url": "https://mastodon.social/@Peanuts69"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-115078114082417946",
+      "published": "2026-09-26T13:29:04Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:04Z",
+      "wm-id": 2035760,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/115078114082417946",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-110651355078160221",
+      "published": "2026-09-26T13:29:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:05Z",
+      "wm-id": 2035762,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Satu Elisa Schaeffer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f8232f4dd5cbf444a9c9c8a7837e5a827f045533854b2b1fb2268fd132973af7.jpg",
+        "url": "https://mastodon.social/@satuelisa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-61521",
+      "published": "2026-09-26T13:29:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:05Z",
+      "wm-id": 2035761,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/61521",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Edwin G. :mapleleafroundel:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f5ace763fa72da40b247a8abe06261a2a6286b9e2caa2d915cfbaeba4f8b3be9.png",
+        "url": "https://mstdn.moimeme.ca/@EdwinG"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-112911039402486563",
+      "published": "2026-09-26T13:29:08Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:08Z",
+      "wm-id": 2035764,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/112911039402486563",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vincent de Waleffe",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6cd74eecbab6bc8dc799749939f677afc1f6788f3082c2a22eaf5edf66825efa.jpg",
+        "url": "https://pixelfed.fr/Vindwa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-114379521139960377",
+      "published": "2026-09-26T13:29:08Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:08Z",
+      "wm-id": 2035763,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/114379521139960377",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Edith Mair 🇺🇦",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5b9d0e3322f093fb5dba19c4a3c4c278aa73310ca53d7468c152f439147cd30a.jpg",
+        "url": "https://social.tchncs.de/@edithmair1"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-471185",
+      "published": "2026-09-26T13:29:09Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:09Z",
+      "wm-id": 2035765,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/471185",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lyons",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1d6dee851b256e42b58037cd0555514bed3cfb3af4fb44c645e1a6e5cd731702.png",
+        "url": "https://mastodon.social/@lyonsinbeta"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-108212289244806557",
+      "published": "2026-09-26T13:29:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:11Z",
+      "wm-id": 2035768,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/108212289244806557",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gwenola Wagon",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/833/258/882/554/614/original/7817c3dfa5584399.jpeg",
+        "url": "https://mastodon.social/@Gwenola_Wagon"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-113833258882554614",
+      "published": "2026-09-26T13:29:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:11Z",
+      "wm-id": 2035767,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/113833258882554614",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-114398726695840867",
+      "published": "2026-09-26T13:29:11Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:11Z",
+      "wm-id": 2035766,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "liebach",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1dd578415beb7a2a34fc4723d5fc5e221084696fab341d10d62ef489f26a36b9.jpg",
+        "url": "https://mastodon.art/@liebach"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-115106537734735155",
+      "published": "2026-09-26T13:29:12Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:12Z",
+      "wm-id": 2035769,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/115106537734735155",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Edwin G. :mapleleafroundel:",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/112/911/039/402/486/563/original/664cb878172248cc.png",
+        "url": "https://mstdn.moimeme.ca/@EdwinG"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-112911039402486563",
+      "published": "2026-09-26T13:29:15Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:15Z",
+      "wm-id": 2035770,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/112911039402486563",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HypeBot 🔥",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/648aa442063651b9d75318ffc9b3d7a00c3be5f993e58482fe5d5a9aed119147.png",
+        "url": "https://social.ketupat.me/@hype"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-112084084768675996",
+      "published": "2026-09-26T13:29:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:16Z",
+      "wm-id": 2035772,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/112084084768675996",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "et al",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/95830a98b4b91f79ab45d1f3424537cc2e9e2a6967c79667c086d15793764aea.jpg",
+        "url": "https://digitalcourage.social/@glueckstein"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-109528464469868886",
+      "published": "2026-09-26T13:29:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:29:16Z",
+      "wm-id": 2035771,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/109528464469868886",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jon Lord",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9ddc0b9032fa39f93fdf620e5f2e009f871301b6a85847880c1fbd7c86d96cc0.jpg",
+        "url": "https://mastodon.world/@jonlord"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-111335975901436854",
+      "published": "2026-09-26T13:58:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:58:13Z",
+      "wm-id": 2035785,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/111335975901436854",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mikey!",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6d9a4cf0f9a79eee6bd692a4b491c428aad7180031e9499e8297db7b70690833.jpg",
+        "url": "https://ottawa.place/@mWare"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-116270648669742077",
+      "published": "2026-09-26T13:58:15Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:58:15Z",
+      "wm-id": 2035786,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/116270648669742077",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "aprilfollies",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b37e48f1aab68fe7f0b7beccf549bc536bc9ad5f315d4317f81559bc7e88f067.jpg",
+        "url": "https://mastodon.online/@aprilfollies"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109302450079604242",
+      "published": "2026-09-26T13:58:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T13:58:16Z",
+      "wm-id": 2035787,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109302450079604242",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "geantvertvert (greenman)",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/411/459/656/930/274/original/8e8cb364d4b5566c.png",
+        "url": "https://fosstodon.org/@greenman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109411459656930274",
+      "published": "2026-09-26T14:22:47Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T14:22:47Z",
+      "wm-id": 2035800,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109411459656930274",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marc Honnorat 🗿",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9bd21e1ee013ba017ee5a5a487306b990ddf9198cbf25dddc5d3f5cb569c56c7.jpg",
+        "url": "https://mamot.fr/@Mhon"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-24206",
+      "published": "2026-09-26T14:22:47Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T14:22:47Z",
+      "wm-id": 2035799,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/24206",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LordOfSloth",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://ieji.de/@LordOfSloth"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-117110487900542496",
+      "published": "2026-09-26T14:47:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T14:47:20Z",
+      "wm-id": 2035834,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/117110487900542496",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nerdboi",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mastodon.social/@nerdboiii"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-117337801059433009",
+      "published": "2026-09-26T14:47:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T14:47:20Z",
+      "wm-id": 2035833,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/117337801059433009",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wesley Soares",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2732b1a0235af8dfd395f53157d11b65ef8b8abbe37792455ee6619b92581b9e.png",
+        "url": "https://hachyderm.io/@wesley_soares"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-117071230977240348",
+      "published": "2026-09-26T15:52:06Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T15:52:06Z",
+      "wm-id": 2035866,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/117071230977240348",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "muddle 🥣",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6c4ff6ee28ab7c0764f2a92743ab9e10c3fea42db8d2b35bf005ff29e459ad9d.png",
+        "url": "https://infosec.exchange/@muddle"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-116095546099138170",
+      "published": "2026-09-26T15:52:07Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T15:52:07Z",
+      "wm-id": 2035868,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/116095546099138170",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "muddle 🥣",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6c4ff6ee28ab7c0764f2a92743ab9e10c3fea42db8d2b35bf005ff29e459ad9d.png",
+        "url": "https://infosec.exchange/@muddle"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-116095546099138170",
+      "published": "2026-09-26T15:52:07Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T15:52:07Z",
+      "wm-id": 2035867,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/116095546099138170",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Athenenoctua",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bba8069c36f5b99a9c91d0152b51bf67fa4ac4a2a82cd802074aace203e127ba.jpg",
+        "url": "https://mastodon.gougere.fr/@Athenenoctua"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109349831875979181",
+      "published": "2026-09-26T16:18:30Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:18:30Z",
+      "wm-id": 2035873,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109349831875979181",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://pixelfed.social/p/arcturus/1009500817005830759",
+      "published": "2026-09-26T16:35:50+00:00",
+      "published_ts": 1790440550,
+      "wm-received": "2026-09-26T16:48:33Z",
+      "wm-id": 2035877,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117338305509106971/117338312673794018",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "Fantastic view!"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "பாRTHIபN",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/294bf0b2da2f34df954e2dc162731a800c3a669cb1382af67db7f100cba06d51.jpg",
+        "url": "https://pixelfed.de/parthipan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-441319",
+      "published": "2026-09-26T16:48:33Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:48:33Z",
+      "wm-id": 2035878,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/441319",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "NanoSushi",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3a6d49913152b41e8ede0c764c05223dbb4cc864d38dbd909d0a600647bd95b6.jpg",
+        "url": "https://pixelfed.social/NanoSushi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-114976650618043447",
+      "published": "2026-09-26T16:48:33Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:48:33Z",
+      "wm-id": 2035876,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/114976650618043447",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#reblogged-by-111653510624650957",
+      "published": "2026-09-26T16:48:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:48:36Z",
+      "wm-id": 2035881,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117338305509106971/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "david",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9276fa37c2bd4cbecd7328305657f9856c71352f9dbedff87ef63bdf9ae923f4.png",
+        "url": "https://piaille.fr/@davidou"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-110361645942779875",
+      "published": "2026-09-26T16:48:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:48:36Z",
+      "wm-id": 2035880,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/110361645942779875",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-113513794052763932",
+      "published": "2026-09-26T16:48:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:48:36Z",
+      "wm-id": 2035879,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jaker",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f186a3486dcbb6273565b0c3d2fd0089f1c4a9f701930dd51e069065ffd73969.jpg",
+        "url": "https://c.im/@jaker"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-115311504961894933",
+      "published": "2026-09-26T16:48:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:48:38Z",
+      "wm-id": 2035883,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/115311504961894933",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "David Blanchet",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7ae4b0b5fb033a89feb2d269c75deeb035e6aa9fb43d81c333d2e22b24d8988e.jpg",
+        "url": "https://piaille.fr/@dblanchet"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-110850257341289556",
+      "published": "2026-09-26T16:48:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:48:38Z",
+      "wm-id": 2035882,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/110850257341289556",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jaker",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f186a3486dcbb6273565b0c3d2fd0089f1c4a9f701930dd51e069065ffd73969.jpg",
+        "url": "https://c.im/@jaker"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-115311504961894933",
+      "published": "2026-09-26T16:48:39Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T16:48:39Z",
+      "wm-id": 2035884,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/115311504961894933",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tend2wobble",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/361/059/352/035/874/original/897df88fff846854.jpeg",
+        "url": "https://toad.social/@tend2wobble"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109361059352035874",
+      "published": "2026-09-26T17:21:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T17:21:16Z",
+      "wm-id": 2035895,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109361059352035874",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tend2wobble",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4ffec27cebeba7ec3d92a0a48eaf36ec566e75d188eb676236e3e58e2d9dd658.jpg",
+        "url": "https://toad.social/@tend2wobble"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-109361059352035874",
+      "published": "2026-09-26T17:21:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T17:21:16Z",
+      "wm-id": 2035894,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/109361059352035874",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Olya",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/97e4234eb256cc53da654d359279a5a86c84e00357650d788597a60771b48e87.png",
+        "url": "https://pixelfed.social/ne_zyablik"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-115059930803306474",
+      "published": "2026-09-26T17:21:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T17:21:38Z",
+      "wm-id": 2035896,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/115059930803306474",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "John Purcell",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/117/212/996/610/747/111/original/e5845126575ba2ed.jpg",
+        "url": "https://gram.social/araximanther"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-117212996610747111",
+      "published": "2026-09-26T17:47:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T17:47:22Z",
+      "wm-id": 2035899,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/117212996610747111",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Aymeric",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/220c80b28a459ee062122359ee3935ea055ee1316fa275eaa2e3c47ccfb6da27.png",
+        "url": "https://pixelfed.social/Mimi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-113876042729696950",
+      "published": "2026-09-26T17:47:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T17:47:22Z",
+      "wm-id": 2035898,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/113876042729696950",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-116415769514877815",
+      "published": "2026-09-26T18:18:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T18:18:20Z",
+      "wm-id": 2035902,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-116415769514877815",
+      "published": "2026-09-26T18:18:21Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T18:18:21Z",
+      "wm-id": 2035903,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ryan y Ddraig",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/833/113/192/239/439/original/60b557915872277e.png",
+        "url": "https://mastodonapp.uk/@RyanE"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-113833113192239439",
+      "published": "2026-09-26T18:18:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T18:18:22Z",
+      "wm-id": 2035904,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/113833113192239439",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Susanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6e437d6aca6734e0f1be8dfb7a8c15b9a8793525fc08b72f6cf9699f164cdb61.jpg",
+        "url": "https://zirk.us/@SusanneDoering"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-111233351642823569",
+      "published": "2026-09-26T18:45:29Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T18:45:29Z",
+      "wm-id": 2035908,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/111233351642823569",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-112555206662590515",
+      "published": "2026-09-26T18:45:29Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T18:45:29Z",
+      "wm-id": 2035907,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EngelMichelman Antifaschist",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b1a5940fd487deeb27764e978b868e3c596b3cd952d84422d41e526680e226e8.png",
+        "url": "https://digitalcourage.social/@EngelMichelmann"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#reblogged-by-108210771365837187",
+      "published": "2026-09-26T19:24:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T19:24:20Z",
+      "wm-id": 2035917,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117337112979882598/108210771365837187",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "EngelMichelman Antifaschist",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b1a5940fd487deeb27764e978b868e3c596b3cd952d84422d41e526680e226e8.png",
+        "url": "https://digitalcourage.social/@EngelMichelmann"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-108210771365837187",
+      "published": "2026-09-26T19:24:21Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T19:24:21Z",
+      "wm-id": 2035918,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/108210771365837187",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-114331409715632221",
+      "published": "2026-09-26T20:44:30Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T20:44:30Z",
+      "wm-id": 2035934,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Leeroy",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/108/681/660/487/473/614/original/e314faaaf48bf6ec.jpg",
+        "url": "https://pixelfed.social/firehound"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-108681660487473614",
+      "published": "2026-09-26T20:44:33Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T20:44:33Z",
+      "wm-id": 2035935,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/108681660487473614",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mandelbroccoli",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/81dc4ac3b6fc00c288caf3de4a1e52b724dd7ab8a57841795d0ba2ccd65285a8.jpg",
+        "url": "https://cupoftea.social/@mandelbroccoli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-112183754261267085",
+      "published": "2026-09-26T22:12:48Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T22:12:48Z",
+      "wm-id": 2035945,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/112183754261267085",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mandelbroccoli",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/81dc4ac3b6fc00c288caf3de4a1e52b724dd7ab8a57841795d0ba2ccd65285a8.jpg",
+        "url": "https://cupoftea.social/@mandelbroccoli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#reblogged-by-112183754261267085",
+      "published": "2026-09-26T22:12:50Z",
+      "published_ts": null,
+      "wm-received": "2026-09-26T22:12:50Z",
+      "wm-id": 2035946,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117338305509106971/112183754261267085",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michaël Buffet",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/12e98774527f6b37788d4c509f552526cea68df787dc17524be4de5ebe42c8dc.jpg",
+        "url": "https://pixel.kjz.ca/mbuffet"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-113607045827587613",
+      "published": "2026-09-27T00:53:30Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T00:53:30Z",
+      "wm-id": 2035954,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/113607045827587613",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ken Butler",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/115/030/930/560/602/000/original/8ae535e2f5e6ebca.jpeg",
+        "url": "https://cupoftea.social/@nxskok"
+      },
+      "url": "https://mamot.fr/@nhoizey/117338305509106971#favorited-by-115030930560602000",
+      "published": "2026-09-27T02:26:45Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T02:26:45Z",
+      "wm-id": 2035962,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117338305509106971/115030930560602000",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Will Browar 👨🏻‍💻",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7719d95b97f1d033c73b29249015bc3eb43252475bf5a9b9db59061fd7c0f50d.jpg",
+        "url": "https://hachyderm.io/@wbrowar"
+      },
+      "url": "https://mamot.fr/@nhoizey/117337112979882598#favorited-by-109778596975374496",
+      "published": "2026-09-27T02:26:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T02:26:46Z",
+      "wm-id": 2035963,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117337112979882598/109778596975374496",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
       "wm-property": "like-of",
       "wm-private": false
     }
