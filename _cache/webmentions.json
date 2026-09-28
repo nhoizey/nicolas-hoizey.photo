@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-27T06:25:31.394Z",
+  "lastFetched": "2026-09-28T06:37:08.630Z",
   "webmentions": [
     {
       "type": "entry",
@@ -303070,6 +303070,406 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/the-sinking-building/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "redpulpo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d935f8fb6e6b49d830ac0f4c9b74bf56eadb96904f136fd52dbb2604dafa222c.jpg",
+        "url": "https://pixelfed.social/redpulpo"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-114250375254851586",
+      "published": "2026-09-27T11:40:17Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T11:40:17Z",
+      "wm-id": 2036149,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/114250375254851586",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#reblogged-by-111653510624650957",
+      "published": "2026-09-27T11:40:17Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T11:40:17Z",
+      "wm-id": 2036148,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117342779202509183/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Patrick H. Lauke",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/71467e7fc6cb595b66835765e7e269ec1e43784f5ebb77d98fa0dc3a3ab1fc76.jpg",
+        "url": "https://mastodon.social/@patrick_h_lauke"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-109286202444729132",
+      "published": "2026-09-27T12:06:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T12:06:46Z",
+      "wm-id": 2036151,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/109286202444729132",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-111626648801109062",
+      "published": "2026-09-27T12:06:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T12:06:46Z",
+      "wm-id": 2036150,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Indiefotog",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f7191d9ec3d42e54774dd24231e14f3e82a241f28a83f5ceaba095d99d15f98a.jpg",
+        "url": "https://mastodon.social/@Indiefotog"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-116335344662463692",
+      "published": "2026-09-27T12:06:51Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T12:06:51Z",
+      "wm-id": 2036152,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/116335344662463692",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-114331409715632221",
+      "published": "2026-09-27T12:06:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T12:06:52Z",
+      "wm-id": 2036153,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-113513794052763932",
+      "published": "2026-09-27T13:45:07Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T13:45:07Z",
+      "wm-id": 2036171,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-110651355078160221",
+      "published": "2026-09-27T14:20:23Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T14:20:23Z",
+      "wm-id": 2036175,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-109951804609117719",
+      "published": "2026-09-27T14:20:23Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T14:20:23Z",
+      "wm-id": 2036174,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0cd6bb52d4c32bf18458106f523fdcd889423996f309fafdbd12e26c03feb721.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-114891269374305316",
+      "published": "2026-09-27T14:51:45Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T14:51:45Z",
+      "wm-id": 2036183,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117342779202509183#favorited-by-117196094204834851",
+      "published": "2026-09-27T15:26:58Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T15:26:58Z",
+      "wm-id": 2036196,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117342779202509183/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/one-last-night-on-the-gr20-trail-at-i-paliri-refuge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#favorited-by-329706",
+      "published": "2026-09-27T17:06:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T17:06:05Z",
+      "wm-id": 2036217,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117343969703432510/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ecaac457534fe55c6eabfe9148ddb11e932859824005434837507b45f1254d7e.png",
+        "url": "https://pixelfed.social/Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#favorited-by-117281492971581004",
+      "published": "2026-09-27T17:06:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T17:06:05Z",
+      "wm-id": 2036216,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117343969703432510/117281492971581004",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#favorited-by-113513794052763932",
+      "published": "2026-09-27T17:06:05Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T17:06:05Z",
+      "wm-id": 2036215,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117343969703432510/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#reblogged-by-111653510624650957",
+      "published": "2026-09-27T17:06:08Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T17:06:08Z",
+      "wm-id": 2036218,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117343969703432510/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0cd6bb52d4c32bf18458106f523fdcd889423996f309fafdbd12e26c03feb721.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#favorited-by-114891269374305316",
+      "published": "2026-09-27T17:35:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T17:35:49Z",
+      "wm-id": 2036229,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117343969703432510/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#favorited-by-109546769351149860",
+      "published": "2026-09-27T18:08:32Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T18:08:32Z",
+      "wm-id": 2036234,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117343969703432510/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#favorited-by-113906621033686473",
+      "published": "2026-09-27T18:43:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T18:43:20Z",
+      "wm-id": 2036241,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117343969703432510/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#favorited-by-112555206662590515",
+      "published": "2026-09-27T21:40:40Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T21:40:40Z",
+      "wm-id": 2036261,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117343969703432510/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117343969703432510#favorited-by-114331409715632221",
+      "published": "2026-09-27T22:09:58Z",
+      "published_ts": null,
+      "wm-received": "2026-09-27T22:09:58Z",
+      "wm-id": 2036265,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117343969703432510/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
       "wm-property": "like-of",
       "wm-private": false
     }
