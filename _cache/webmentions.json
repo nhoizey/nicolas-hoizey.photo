@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-28T06:37:08.630Z",
+  "lastFetched": "2026-09-29T06:27:24.873Z",
   "webmentions": [
     {
       "type": "entry",
@@ -303470,6 +303470,206 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/a-typical-dutch-country-village-from-the-past/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#reblogged-by-111653510624650957",
+      "published": "2026-09-28T11:58:20Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T11:58:20Z",
+      "wm-id": 2036357,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117348519751757529/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#favorited-by-114398726695840867",
+      "published": "2026-09-28T12:30:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T12:30:49Z",
+      "wm-id": 2036360,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117348519751757529/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0cd6bb52d4c32bf18458106f523fdcd889423996f309fafdbd12e26c03feb721.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#favorited-by-114891269374305316",
+      "published": "2026-09-28T12:30:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T12:30:49Z",
+      "wm-id": 2036359,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117348519751757529/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/546/769/351/149/860/original/8c0626c886f12a53.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#favorited-by-109546769351149860",
+      "published": "2026-09-28T12:30:50Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T12:30:50Z",
+      "wm-id": 2036361,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117348519751757529/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Le Général Midi (can't donate)",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/54ac77eb3b40d399b20c1bbdbd453fa739d9d1b42c087d1dacea5c472b0c6a7d.png",
+        "url": "https://musician.social/@legeneralmidi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#favorited-by-115787920236908255",
+      "published": "2026-09-28T12:30:52Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T12:30:52Z",
+      "wm-id": 2036362,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117348519751757529/115787920236908255",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mésange sans tête v6.1",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2cb3555a287e9151aea79af8c42aedf32bcd168f8ba0f18a9533de7366bb876d.jpg",
+        "url": "https://mstdn.nrkn.fr/@vl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#favorited-by-357684",
+      "published": "2026-09-28T12:30:53Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T12:30:53Z",
+      "wm-id": 2036363,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117348519751757529/357684",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117331460653094920#favorited-by-114646450789715986",
+      "published": "2026-09-28T12:30:56Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T12:30:56Z",
+      "wm-id": 2036364,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117331460653094920/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/photos/pascal-martinot-lagarde-at-the-39th-international-athletics-meeting-of-montgeron/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/pascal-martinot-lagarde-at-the-39th-international-athletics-meeting-of-montgeron/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#favorited-by-110651355078160221",
+      "published": "2026-09-28T14:06:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T14:06:14Z",
+      "wm-id": 2036381,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117348519751757529/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vincent de Waleffe",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6cd74eecbab6bc8dc799749939f677afc1f6788f3082c2a22eaf5edf66825efa.jpg",
+        "url": "https://pixelfed.fr/Vindwa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#favorited-by-114379521139960377",
+      "published": "2026-09-28T14:31:35Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T14:31:35Z",
+      "wm-id": 2036384,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117348519751757529/114379521139960377",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tokergraphy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2d6a1330013bea00748b1f133f0eab3084fd4fa4ec89e4e6dbf0a949f7915fc8.jpg",
+        "url": "https://pixelfed.social/TokerGraphy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117348519751757529#favorited-by-117269552182135770",
+      "published": "2026-09-28T17:06:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-28T17:06:36Z",
+      "wm-id": 2036415,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117348519751757529/117269552182135770",
+      "wm-target": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/where-has-the-sea-gone/",
       "wm-property": "like-of",
       "wm-private": false
     }
