@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-09-30T06:28:21.093Z",
+  "lastFetched": "2026-10-01T06:28:49.008Z",
   "webmentions": [
     {
       "type": "entry",
@@ -304274,6 +304274,566 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/corsica/into-limbo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Shaun D Bennett",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5b625a6667b74abdc8db8a653bd9fa1f6c104608805ee7d1563c306488e1b262.jpg",
+        "url": "https://mastodon.social/@talldudelifestyle"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-112330915300949067",
+      "published": "2026-09-30T11:51:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T11:51:13Z",
+      "wm-id": 2036835,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/112330915300949067",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SzFeri",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0b361a701b78bd85c6098bbf4bbd1ec06101e86e0f764bd812e56ecaa24ced19.jpg",
+        "url": "https://pixelfed.social/SzFeri"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-117359791554380274",
+      "published": "2026-09-30T11:51:13Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T11:51:13Z",
+      "wm-id": 2036834,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/117359791554380274",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-114398726695840867",
+      "published": "2026-09-30T11:51:14Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T11:51:14Z",
+      "wm-id": 2036836,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/653/510/624/650/957/original/12c598095b97e902.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#reblogged-by-111653510624650957",
+      "published": "2026-09-30T11:51:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T11:51:16Z",
+      "wm-id": 2036838,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117359773039602395/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Khalid ⚡",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d0d062c229426e3ca7f6e06b329c4e09c50ac702f62a4b29accb30075594935c.png",
+        "url": "https://mastodon.social/@khalidabuhakmeh"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-109246258669325217",
+      "published": "2026-09-30T11:51:16Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T11:51:16Z",
+      "wm-id": 2036837,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/109246258669325217",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cris.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/571820183939453eaa8923ef5e6163d4dc23be462421c80a4b6707c46c5569c1.jpg",
+        "url": "https://mastodon.social/@crisverstraeten"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-112705023150264295",
+      "published": "2026-09-30T12:59:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T12:59:22Z",
+      "wm-id": 2036849,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/112705023150264295",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-109546769351149860",
+      "published": "2026-09-30T12:59:22Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T12:59:22Z",
+      "wm-id": 2036848,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lou 🇬🇱",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/21bfc653d72c759899e283e406e168bae8f903988111aa96dbadeb7c2865e1f8.jpg",
+        "url": "https://framapiaf.org/@houbahoubahop"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-352436",
+      "published": "2026-09-30T12:59:25Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T12:59:25Z",
+      "wm-id": 2036850,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/352436",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-114331409715632221",
+      "published": "2026-09-30T13:30:59Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T13:30:59Z",
+      "wm-id": 2036860,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Morgan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/82cde6631e2c4b59f58f8837139ef91b68c3fcfaea99dd6cf5cd518b1a5ad7e6.jpg",
+        "url": "https://pixelfed.social/qwyllion"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-113935857654330294",
+      "published": "2026-09-30T15:43:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T15:43:46Z",
+      "wm-id": 2036872,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/113935857654330294",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-109951804609117719",
+      "published": "2026-09-30T15:43:46Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T15:43:46Z",
+      "wm-id": 2036871,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "mau.photo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/233aab2a75c7489b457af96c74d75b9b916efeaf47fe272004b14565b7f5180c.jpg",
+        "url": "https://vernissage.photos/@MauPhoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-114304710833651200",
+      "published": "2026-09-30T15:43:48Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T15:43:48Z",
+      "wm-id": 2036873,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/114304710833651200",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#reblogged-by-109951804609117719",
+      "published": "2026-09-30T15:43:49Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T15:43:49Z",
+      "wm-id": 2036874,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117359773039602395/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#reblogged-by-111653510624650957",
+      "published": "2026-09-30T16:47:34Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T16:47:34Z",
+      "wm-id": 2036880,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117360969713737042/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jonathan Mull",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6560bbf79206809dd92d86b79df4d05917e9b9679484c6e0408609aca048e1da.jpg",
+        "url": "https://mastodon.social/@JonathanCMull"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#reblogged-by-109547940991858507",
+      "published": "2026-09-30T16:47:34Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T16:47:34Z",
+      "wm-id": 2036879,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117360969713737042/109547940991858507",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-113513794052763932",
+      "published": "2026-09-30T16:47:34Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T16:47:34Z",
+      "wm-id": 2036878,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mauro",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5f0776a5813b707bcb5a8543c57a52e75f76799a22600d26431a15c7d086ac67.png",
+        "url": "https://gram.social/maducan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-114711207672926841",
+      "published": "2026-09-30T17:19:33Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T17:19:33Z",
+      "wm-id": 2036884,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/114711207672926841",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trailingdust",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4bbf935432a907d050df892d237ec964f3417e581a063be66d7367f897c0b5c2.jpg",
+        "url": "https://pixelfed.social/trailingdust"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-116124948531942550",
+      "published": "2026-09-30T17:19:34Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T17:19:34Z",
+      "wm-id": 2036885,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/116124948531942550",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jordi Mallol i Comas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1b61d4eb8306d08436f2b4d6700c5c591a216c0c95c9a565f6e55385fb131f44.jpg",
+        "url": "https://mastodont.cat/@gatillepis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-115209162045956133",
+      "published": "2026-09-30T17:19:35Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T17:19:35Z",
+      "wm-id": 2036886,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/115209162045956133",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jon Lord",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9ddc0b9032fa39f93fdf620e5f2e009f871301b6a85847880c1fbd7c86d96cc0.jpg",
+        "url": "https://mastodon.world/@jonlord"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-111335975901436854",
+      "published": "2026-09-30T17:19:36Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T17:19:36Z",
+      "wm-id": 2036887,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/111335975901436854",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jon Lord",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9ddc0b9032fa39f93fdf620e5f2e009f871301b6a85847880c1fbd7c86d96cc0.jpg",
+        "url": "https://mastodon.world/@jonlord"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-111335975901436854",
+      "published": "2026-09-30T17:19:38Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T17:19:38Z",
+      "wm-id": 2036888,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/111335975901436854",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/43429fc17007f7fbb22e4540826b3d1a68bfa59c263e914a2996857f86206e30.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-114891269374305316",
+      "published": "2026-09-30T17:56:34Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T17:56:34Z",
+      "wm-id": 2036889,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-109546769351149860",
+      "published": "2026-09-30T19:05:39Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T19:05:39Z",
+      "wm-id": 2036950,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-113906621033686473",
+      "published": "2026-09-30T19:05:39Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T19:05:39Z",
+      "wm-id": 2036949,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-109322251141889536",
+      "published": "2026-09-30T20:03:09Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T20:03:09Z",
+      "wm-id": 2036960,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-116013168770614572",
+      "published": "2026-09-30T21:29:19Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T21:29:19Z",
+      "wm-id": 2036970,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/013/168/770/614/572/original/dbe5caa171354974.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-116013168770614572",
+      "published": "2026-09-30T21:56:21Z",
+      "published_ts": null,
+      "wm-received": "2026-09-30T21:56:21Z",
+      "wm-id": 2036973,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117359773039602395#favorited-by-110795643064737098",
+      "published": "2026-10-01T05:23:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T05:23:39Z",
+      "wm-id": 2036993,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117359773039602395/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
       "wm-property": "like-of",
       "wm-private": false
     }
