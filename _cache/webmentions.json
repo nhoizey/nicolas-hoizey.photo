@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-01T06:28:49.008Z",
+  "lastFetched": "2026-10-02T06:26:58.642Z",
   "webmentions": [
     {
       "type": "entry",
@@ -304834,6 +304834,266 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/would-you-like-some-bedouin-tea/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "formuchdeliberation",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/307/034/471/651/733/original/7353105c0c75a295.jpg",
+        "url": "https://mastodon.world/@formuchdeliberation"
+      },
+      "url": "https://mamot.fr/@nhoizey/117365439548523804#favorited-by-111307034471651733",
+      "published": "2026-10-01T11:49:32Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T11:49:32Z",
+      "wm-id": 2037038,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117365439548523804/111307034471651733",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/653/510/624/650/957/original/12c598095b97e902.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117365439548523804#reblogged-by-111653510624650957",
+      "published": "2026-10-01T11:49:33Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T11:49:33Z",
+      "wm-id": 2037039,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117365439548523804/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117365439548523804#favorited-by-329706",
+      "published": "2026-10-01T12:15:41Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T12:15:41Z",
+      "wm-id": 2037041,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117365439548523804/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tokergraphy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2d6a1330013bea00748b1f133f0eab3084fd4fa4ec89e4e6dbf0a949f7915fc8.jpg",
+        "url": "https://pixelfed.social/TokerGraphy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117365439548523804#favorited-by-117269552182135770",
+      "published": "2026-10-01T12:50:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T12:50:55Z",
+      "wm-id": 2037045,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117365439548523804/117269552182135770",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117360969713737042#favorited-by-110651355078160221",
+      "published": "2026-10-01T13:24:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T13:24:14Z",
+      "wm-id": 2037053,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117360969713737042/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/eastern-desert-perspective/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117365439548523804#favorited-by-113513794052763932",
+      "published": "2026-10-01T16:08:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T16:08:14Z",
+      "wm-id": 2037100,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117365439548523804/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/eastern-desert/different-means-of-locomotion/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/653/510/624/650/957/original/12c598095b97e902.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117366623894345632#reblogged-by-111653510624650957",
+      "published": "2026-10-01T16:40:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T16:40:06Z",
+      "wm-id": 2037102,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117366623894345632/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kool Mo Di",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/294/825/508/055/430/original/acd16f6f08c80732.png",
+        "url": "https://mas.to/@kmck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117366623894345632#favorited-by-109294825508055430",
+      "published": "2026-10-01T16:40:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T16:40:06Z",
+      "wm-id": 2037101,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117366623894345632/109294825508055430",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117366623894345632#favorited-by-111626648801109062",
+      "published": "2026-10-01T17:06:38Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T17:06:38Z",
+      "wm-id": 2037104,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117366623894345632/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117366623894345632#favorited-by-113513794052763932",
+      "published": "2026-10-01T17:31:45Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T17:31:45Z",
+      "wm-id": 2037106,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117366623894345632/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117366623894345632#favorited-by-114398726695840867",
+      "published": "2026-10-01T17:56:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T17:56:54Z",
+      "wm-id": 2037117,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117366623894345632/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bluejay",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f8ba87131ff85277d9bbc3c60d5dbad58e942a55b8977a59cc378205f3303472.jpg",
+        "url": "https://ohai.social/@bluejay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117366623894345632#favorited-by-114008985146638910",
+      "published": "2026-10-01T17:56:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T17:56:54Z",
+      "wm-id": 2037116,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117366623894345632/114008985146638910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117366623894345632#favorited-by-110651355078160221",
+      "published": "2026-10-01T22:23:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-01T22:23:20Z",
+      "wm-id": 2037172,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117366623894345632/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
       "wm-property": "like-of",
       "wm-private": false
     }
