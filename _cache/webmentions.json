@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-02T06:26:58.642Z",
+  "lastFetched": "2026-10-03T06:27:13.265Z",
   "webmentions": [
     {
       "type": "entry",
@@ -305094,6 +305094,446 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/split-level-photography/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jordi Mallol i Comas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1b61d4eb8306d08436f2b4d6700c5c591a216c0c95c9a565f6e55385fb131f44.jpg",
+        "url": "https://mastodont.cat/@gatillepis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#favorited-by-115209162045956133",
+      "published": "2026-10-02T12:08:01Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T12:08:01Z",
+      "wm-id": 2037320,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117371104095927396/115209162045956133",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#reblogged-by-111653510624650957",
+      "published": "2026-10-02T12:08:03Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T12:08:03Z",
+      "wm-id": 2037322,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117371104095927396/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "gismork",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e0cf0fa793c2dc3491951cc6b9d6b4e91bb3e780b077a48c9ae1bdf9ef852db0.jpg",
+        "url": "https://mastodon.social/@gismork"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#reblogged-by-110893180245962228",
+      "published": "2026-10-02T12:08:03Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T12:08:03Z",
+      "wm-id": 2037321,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117371104095927396/110893180245962228",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#favorited-by-109546769351149860",
+      "published": "2026-10-02T12:42:43Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T12:42:43Z",
+      "wm-id": 2037325,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117371104095927396/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Samuel 🚴🏼🍻",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5a508a727a5be54e138dd2b3a90638a10858d176fab863d505c29d89825b958e.jpg",
+        "url": "https://mastodon.social/@SamyTerje"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#favorited-by-109301674949544721",
+      "published": "2026-10-02T13:51:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T13:51:06Z",
+      "wm-id": 2037342,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117371104095927396/109301674949544721",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#favorited-by-110651355078160221",
+      "published": "2026-10-02T13:51:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T13:51:10Z",
+      "wm-id": 2037344,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117371104095927396/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/43429fc17007f7fbb22e4540826b3d1a68bfa59c263e914a2996857f86206e30.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#favorited-by-114891269374305316",
+      "published": "2026-10-02T13:51:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T13:51:13Z",
+      "wm-id": 2037345,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117371104095927396/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pinpin",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2a59b73fefac473e8d09b576193759c068e9fde353244ad2557d52d99d2ce9ba.jpg",
+        "url": "https://bdx.town/users/pinpin"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#reblogged-by-114395237069909286",
+      "published": "2026-10-02T14:25:48Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T14:25:48Z",
+      "wm-id": 2037349,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117371104095927396/114395237069909286",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/513/794/052/763/932/original/9bdf502f43271917.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117371104095927396#favorited-by-113513794052763932",
+      "published": "2026-10-02T16:18:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T16:18:54Z",
+      "wm-id": 2037367,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117371104095927396/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/egypt/red-sea/plongee-en-contre-plongee/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/43429fc17007f7fbb22e4540826b3d1a68bfa59c263e914a2996857f86206e30.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-114891269374305316",
+      "published": "2026-10-02T16:53:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T16:53:20Z",
+      "wm-id": 2037372,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "josé fernandes",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bfbb5029567cee7f70fd14e526cf87b94181d2a6358d6b05f7527f1feec68596.jpg",
+        "url": "https://pixelfed.social/Jose_JD27"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-117313021460575804",
+      "published": "2026-10-02T16:53:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T16:53:21Z",
+      "wm-id": 2037373,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/117313021460575804",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#reblogged-by-111653510624650957",
+      "published": "2026-10-02T16:53:23Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T16:53:23Z",
+      "wm-id": 2037375,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117372296002964203/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-116568504112454513",
+      "published": "2026-10-02T16:53:23Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T16:53:23Z",
+      "wm-id": 2037374,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-116013168770614572",
+      "published": "2026-10-02T16:53:45Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T16:53:45Z",
+      "wm-id": 2037377,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-113513794052763932",
+      "published": "2026-10-02T17:29:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T17:29:06Z",
+      "wm-id": 2037394,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "J. Paweł Pełech",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/192f897fb3831b0a77b758f05718b584e003c6c33a557b19f34a234a00c2dea4.png",
+        "url": "https://mastodon.com.pl/@peplech"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-117279136973446423",
+      "published": "2026-10-02T17:29:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T17:29:08Z",
+      "wm-id": 2037395,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/117279136973446423",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "basepair",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/182aee11796889a5a9b3346e8fc8bcc48d1b36cf3bb40622ce2778dfa0d52da0.jpg",
+        "url": "https://vernissage.photos/@basepair"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-116222349191086242",
+      "published": "2026-10-02T17:29:09Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T17:29:09Z",
+      "wm-id": 2037396,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/116222349191086242",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Erika",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/007c9f1c966942e63f48fb8c4c588c4f7e951feda1be234e7cdda254e12a3fe5.jpg",
+        "url": "https://pixelfed.social/Erika.E"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-113186092102992517",
+      "published": "2026-10-02T18:27:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T18:27:30Z",
+      "wm-id": 2037407,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/113186092102992517",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-113906621033686473",
+      "published": "2026-10-02T18:27:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T18:27:30Z",
+      "wm-id": 2037406,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mike 🐧 :emacs:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/acd914f06d2162d6644cf036e4cf3126a5c9e98f80f50c74a07aa539d4b1b670.png",
+        "url": "https://fosstodon.org/@mw"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-378034",
+      "published": "2026-10-02T19:26:26Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T19:26:26Z",
+      "wm-id": 2037419,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/378034",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-110795643064737098",
+      "published": "2026-10-02T19:26:26Z",
+      "published_ts": null,
+      "wm-received": "2026-10-02T19:26:26Z",
+      "wm-id": 2037418,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sylvain Comte",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a9f114f362dd95c32ad9033b1532264e5a73d6d4b8019510bf58c47b89e517d5.jpg",
+        "url": "https://pixelfed.fr/sycom"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-117374781362380643",
+      "published": "2026-10-03T03:15:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T03:15:57Z",
+      "wm-id": 2037505,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/117374781362380643",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
       "wm-property": "like-of",
       "wm-private": false
     }
