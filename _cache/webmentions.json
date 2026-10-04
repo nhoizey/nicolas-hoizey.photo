@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-03T06:27:13.265Z",
+  "lastFetched": "2026-10-04T08:07:54.346Z",
   "webmentions": [
     {
       "type": "entry",
@@ -305534,6 +305534,266 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pierre Lecourt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/69fba41b82bacefc2eda736f02f30ac6f4d525d5aa6f3a9c66afaa64fe94d0c4.jpg",
+        "url": "https://oisaur.com/@PierreLecourt"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-109320153822437869",
+      "published": "2026-10-03T13:15:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T13:15:56Z",
+      "wm-id": 2037600,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/109320153822437869",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#reblogged-by-111653510624650957",
+      "published": "2026-10-03T13:15:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T13:15:57Z",
+      "wm-id": 2037601,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117377064390445954/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/891/269/374/305/316/original/8b65d973045bf06a.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-114891269374305316",
+      "published": "2026-10-03T13:44:43Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T13:44:43Z",
+      "wm-id": 2037612,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-116568504112454513",
+      "published": "2026-10-03T13:44:43Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T13:44:43Z",
+      "wm-id": 2037611,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117372296002964203#favorited-by-110651355078160221",
+      "published": "2026-10-03T13:44:44Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T13:44:44Z",
+      "wm-id": 2037613,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117372296002964203/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/seine-maritime/wood-pier-in-sunset/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "philclark.art",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fe10db02b90300689d4392be9e627d6ee91ae17cff8af941c198fac474cb5703.jpg",
+        "url": "https://pixelfed.art/philclark.art"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-114620328095896543",
+      "published": "2026-10-03T14:16:46Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T14:16:46Z",
+      "wm-id": 2037629,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/114620328095896543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-109951804609117719",
+      "published": "2026-10-03T14:16:46Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T14:16:46Z",
+      "wm-id": 2037628,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-110651355078160221",
+      "published": "2026-10-03T14:16:46Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T14:16:46Z",
+      "wm-id": 2037627,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#reblogged-by-109951804609117719",
+      "published": "2026-10-03T14:16:49Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T14:16:49Z",
+      "wm-id": 2037630,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117377064390445954/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tokergraphy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2d6a1330013bea00748b1f133f0eab3084fd4fa4ec89e4e6dbf0a949f7915fc8.jpg",
+        "url": "https://pixelfed.social/TokerGraphy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-117269552182135770",
+      "published": "2026-10-03T15:19:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T15:19:06Z",
+      "wm-id": 2037642,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/117269552182135770",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chisato Ohori",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/dcd14ad0440a45c441811b7f703c8a3226c20d17ce46ef7c277711c3fb5d561b.jpg",
+        "url": "https://mastodon.social/@chisatoohori"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-116789400242118447",
+      "published": "2026-10-03T16:17:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T16:17:28Z",
+      "wm-id": 2037658,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/116789400242118447",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/513/794/052/763/932/original/9bdf502f43271917.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-113513794052763932",
+      "published": "2026-10-03T17:45:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T17:45:28Z",
+      "wm-id": 2037686,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "virtualmarc",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ec50b7b4311197923058700d1bc497cfc20a37ff12b98f8b874eeb1167b33d11.png",
+        "url": "https://myimg.social/virtualmarc"
+      },
+      "url": "https://mamot.fr/@nhoizey/117377064390445954#favorited-by-113493448176839008",
+      "published": "2026-10-03T18:16:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-03T18:16:08Z",
+      "wm-id": 2037690,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117377064390445954/113493448176839008",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
       "wm-property": "like-of",
       "wm-private": false
     }
