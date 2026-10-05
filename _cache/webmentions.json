@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-04T08:07:54.346Z",
+  "lastFetched": "2026-10-05T06:39:51.281Z",
   "webmentions": [
     {
       "type": "entry",
@@ -305794,6 +305794,206 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/normandie/orne/gorges-de-saint-aubert/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-329706",
+      "published": "2026-10-04T13:51:44Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:44Z",
+      "wm-id": 2037806,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-113906621033686473",
+      "published": "2026-10-04T13:51:44Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:44Z",
+      "wm-id": 2037805,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-113513794052763932",
+      "published": "2026-10-04T13:51:44Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:44Z",
+      "wm-id": 2037804,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-110651355078160221",
+      "published": "2026-10-04T13:51:47Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:47Z",
+      "wm-id": 2037809,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-109546769351149860",
+      "published": "2026-10-04T13:51:47Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:47Z",
+      "wm-id": 2037808,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Th0mms3n",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9199c2a51b45773003d812644f1d00ddedb5c04579bdba1320e1262a213f1889.jpg",
+        "url": "https://pix.zeroes.ca/Th0mms3n"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-114403833621068820",
+      "published": "2026-10-04T13:51:47Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:47Z",
+      "wm-id": 2037807,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/114403833621068820",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-114398726695840867",
+      "published": "2026-10-04T13:51:48Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:48Z",
+      "wm-id": 2037810,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#reblogged-by-111653510624650957",
+      "published": "2026-10-04T13:51:50Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:50Z",
+      "wm-id": 2037811,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117382858122251667/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hana from Gaza🇵🇸🍉",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/932e36efeb8052d439311c3ab9f546891ded297ca6f5bed020a278426e08caeb.jpg",
+        "url": "https://mastodon.social/@hanafamily1234"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-116952456679998065",
+      "published": "2026-10-04T13:51:52Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T13:51:52Z",
+      "wm-id": 2037812,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/116952456679998065",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tokergraphy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2d6a1330013bea00748b1f133f0eab3084fd4fa4ec89e4e6dbf0a949f7915fc8.jpg",
+        "url": "https://pixelfed.social/TokerGraphy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117382858122251667#favorited-by-117269552182135770",
+      "published": "2026-10-04T14:20:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-04T14:20:14Z",
+      "wm-id": 2037817,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117382858122251667/117269552182135770",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
       "wm-property": "like-of",
       "wm-private": false
     }
