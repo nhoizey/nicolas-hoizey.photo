@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-05T06:39:51.281Z",
+  "lastFetched": "2026-10-06T06:27:29.081Z",
   "webmentions": [
     {
       "type": "entry",
@@ -305994,6 +305994,434 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-walls-of-the-alcazar-of-seville/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#reblogged-by-111653510624650957",
+      "published": "2026-10-05T11:37:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T11:37:22Z",
+      "wm-id": 2037985,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117388092085409936/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hello Thalia",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/11cce1caf15c4094c8df480d53d1df95e16c05cecfa21b92d36971f464b76d59.jpg",
+        "url": "https://mastodon.social/@hellothalia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#favorited-by-117365664827660447",
+      "published": "2026-10-05T12:13:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T12:13:10Z",
+      "wm-id": 2037996,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117388092085409936/117365664827660447",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#favorited-by-114891269374305316",
+      "published": "2026-10-05T12:13:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T12:13:10Z",
+      "wm-id": 2037995,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117388092085409936/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tokergraphy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2d6a1330013bea00748b1f133f0eab3084fd4fa4ec89e4e6dbf0a949f7915fc8.jpg",
+        "url": "https://pixelfed.social/TokerGraphy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#favorited-by-117269552182135770",
+      "published": "2026-10-05T12:13:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T12:13:10Z",
+      "wm-id": 2037994,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117388092085409936/117269552182135770",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#favorited-by-114398726695840867",
+      "published": "2026-10-05T12:45:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T12:45:20Z",
+      "wm-id": 2038001,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117388092085409936/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chisato Ohori",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/dcd14ad0440a45c441811b7f703c8a3226c20d17ce46ef7c277711c3fb5d561b.jpg",
+        "url": "https://mastodon.social/@chisatoohori"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#favorited-by-116789400242118447",
+      "published": "2026-10-05T15:20:17Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T15:20:17Z",
+      "wm-id": 2038023,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117388092085409936/116789400242118447",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "YannC",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddc4d868b7244311831c10f961c7c373a68c51362a6da646865d5687c94c0fe3.jpg",
+        "url": "https://piaille.fr/@YannC"
+      },
+      "url": "https://piaille.fr/@YannC/117389290382533351",
+      "published": "2026-10-05T16:40:20+00:00",
+      "published_ts": 1791218420,
+      "wm-received": "2026-10-05T16:52:53Z",
+      "wm-id": 2038036,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117389285561786180/117389290423697789",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> je l’ai reconnue tout de suite ! (mon père avait le 33t de la BO)</p>",
+        "text": "@nhoizey je l’ai reconnue tout de suite ! (mon père avait le 33t de la BO)"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#favorited-by-114891269374305316",
+      "published": "2026-10-05T16:52:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T16:52:53Z",
+      "wm-id": 2038038,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117389285561786180/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#favorited-by-109546769351149860",
+      "published": "2026-10-05T16:52:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T16:52:53Z",
+      "wm-id": 2038037,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117389285561786180/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#reblogged-by-111653510624650957",
+      "published": "2026-10-05T16:52:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T16:52:56Z",
+      "wm-id": 2038041,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117389285561786180/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "YannC",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddc4d868b7244311831c10f961c7c373a68c51362a6da646865d5687c94c0fe3.jpg",
+        "url": "https://piaille.fr/@YannC"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#reblogged-by-114619459472158947",
+      "published": "2026-10-05T16:52:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T16:52:56Z",
+      "wm-id": 2038040,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117389285561786180/114619459472158947",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#reblogged-by-109546769351149860",
+      "published": "2026-10-05T16:52:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T16:52:56Z",
+      "wm-id": 2038039,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117389285561786180/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#favorited-by-110795643064737098",
+      "published": "2026-10-05T16:52:59Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T16:52:59Z",
+      "wm-id": 2038042,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117388092085409936/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://static.mamot.fr/accounts/avatars/000/262/395/original/d5f3fbfbc4ae9e30.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389341523726992",
+      "published": "2026-10-05T16:53:20+00:00",
+      "published_ts": 1791219200,
+      "wm-received": "2026-10-05T18:23:56Z",
+      "wm-id": 2038050,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117389285561786180/117389341523726992",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://piaille.fr/@YannC\" class=\"u-url\">@<span>YannC</span></a></span> une excellente BO en plus, j’adore !</p>",
+        "text": "@YannC une excellente BO en plus, j’adore !"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cris.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/571820183939453eaa8923ef5e6163d4dc23be462421c80a4b6707c46c5569c1.jpg",
+        "url": "https://mastodon.social/@crisverstraeten"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#favorited-by-112705023150264295",
+      "published": "2026-10-05T17:23:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T17:23:53Z",
+      "wm-id": 2038044,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117389285561786180/112705023150264295",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#favorited-by-113513794052763932",
+      "published": "2026-10-05T17:23:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T17:23:55Z",
+      "wm-id": 2038045,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117389285561786180/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#favorited-by-113513794052763932",
+      "published": "2026-10-05T17:55:05Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T17:55:05Z",
+      "wm-id": 2038047,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117388092085409936/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/398/726/695/840/867/original/43db5329deda103e.jpeg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#favorited-by-114398726695840867",
+      "published": "2026-10-05T18:23:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T18:23:56Z",
+      "wm-id": 2038049,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117389285561786180/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#favorited-by-114331409715632221",
+      "published": "2026-10-05T18:23:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T18:23:57Z",
+      "wm-id": 2038051,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117389285561786180/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#favorited-by-113906621033686473",
+      "published": "2026-10-05T19:27:00Z",
+      "published_ts": null,
+      "wm-received": "2026-10-05T19:27:00Z",
+      "wm-id": 2038061,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117389285561786180/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117388092085409936#favorited-by-110651355078160221",
+      "published": "2026-10-06T03:09:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T03:09:28Z",
+      "wm-id": 2038130,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117388092085409936/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
       "wm-property": "like-of",
       "wm-private": false
     }
