@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-06T06:27:29.081Z",
+  "lastFetched": "2026-10-07T06:26:58.905Z",
   "webmentions": [
     {
       "type": "entry",
@@ -306422,6 +306422,366 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/the-plaza-de-toros-de-ronda/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117393753084544191#reblogged-by-111653510624650957",
+      "published": "2026-10-06T11:46:41Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T11:46:41Z",
+      "wm-id": 2038201,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117393753084544191/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nightskiier",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cca01fc300684238d0c1e1aa3392a2290685a4978e2023c1538c4d0937013e90.jpg",
+        "url": "https://pixelfed.social/nightskiier"
+      },
+      "url": "https://mamot.fr/@nhoizey/117393753084544191#favorited-by-115924701448701929",
+      "published": "2026-10-06T11:46:41Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T11:46:41Z",
+      "wm-id": 2038200,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117393753084544191/115924701448701929",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/951/804/609/117/719/original/dfea272a1ce74f5b.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117393753084544191#favorited-by-109951804609117719",
+      "published": "2026-10-06T12:19:29Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T12:19:29Z",
+      "wm-id": 2038204,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117393753084544191/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117393753084544191#favorited-by-109546769351149860",
+      "published": "2026-10-06T12:19:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T12:19:30Z",
+      "wm-id": 2038206,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117393753084544191/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/626/648/801/109/062/original/67259499ebfa56d4.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117393753084544191#favorited-by-111626648801109062",
+      "published": "2026-10-06T12:19:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T12:19:30Z",
+      "wm-id": 2038205,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117393753084544191/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117393753084544191#favorited-by-114891269374305316",
+      "published": "2026-10-06T14:29:45Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T14:29:45Z",
+      "wm-id": 2038235,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117393753084544191/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-109546769351149860",
+      "published": "2026-10-06T16:45:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T16:45:06Z",
+      "wm-id": 2038252,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "J. Paweł Pełech",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/488aa9145b3c8e181ed4e5810cf412d3aac30d51570d513c651a76012f9ac3e9.jpg",
+        "url": "https://pixelfed.social/peplech"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-117280655850131181",
+      "published": "2026-10-06T16:45:07Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T16:45:07Z",
+      "wm-id": 2038253,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/117280655850131181",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#reblogged-by-111653510624650957",
+      "published": "2026-10-06T16:45:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T16:45:08Z",
+      "wm-id": 2038254,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117394947426297764/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-109322251141889536",
+      "published": "2026-10-06T17:18:48Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T17:18:48Z",
+      "wm-id": 2038257,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-113513794052763932",
+      "published": "2026-10-06T17:18:48Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T17:18:48Z",
+      "wm-id": 2038256,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Barr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/efa35766c3ae286d09d5117b2f0ab70d39887370eb4f96704de0d78c158318a2.png",
+        "url": "https://pixelfed.social/byay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-113895766041612579",
+      "published": "2026-10-06T17:18:48Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T17:18:48Z",
+      "wm-id": 2038255,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/113895766041612579",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Svanni :awesome:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bce6082490055b39b4bc3e04de0cb54546c6040bc77d64373f5fe1aa2a891138.png",
+        "url": "https://ieji.de/@Svanni"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-117368872208544943",
+      "published": "2026-10-06T17:18:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T17:18:51Z",
+      "wm-id": 2038259,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/117368872208544943",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Emerman",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0fde82184cf95c44f57130999babb246d7a89be5fd8f9c0c417ee9439459905e.jpg",
+        "url": "https://mstdn.science/@memerman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-109297728671312390",
+      "published": "2026-10-06T17:18:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T17:18:51Z",
+      "wm-id": 2038258,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/109297728671312390",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117393753084544191#favorited-by-113513794052763932",
+      "published": "2026-10-06T17:18:52Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T17:18:52Z",
+      "wm-id": 2038260,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117393753084544191/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-112555206662590515",
+      "published": "2026-10-06T19:53:04Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T19:53:04Z",
+      "wm-id": 2038265,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117394947426297764#favorited-by-114331409715632221",
+      "published": "2026-10-06T20:27:02Z",
+      "published_ts": null,
+      "wm-received": "2026-10-06T20:27:02Z",
+      "wm-id": 2038269,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117394947426297764/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/the-netherlands/arnhem/don-t-fear-the-light/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Samwise",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ee4911584308892ff8636a6a66f91a9773c333ecd683ee4cd4dab21401e1a97b.jpg",
+        "url": "https://pixelfed.de/Samamilne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117393753084544191#favorited-by-117397917750982911",
+      "published": "2026-10-07T05:39:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T05:39:15Z",
+      "wm-id": 2038313,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117393753084544191/117397917750982911",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
       "wm-property": "like-of",
       "wm-private": false
     }
