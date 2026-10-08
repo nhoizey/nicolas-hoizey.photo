@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-07T06:26:58.905Z",
+  "lastFetched": "2026-10-08T06:28:52.513Z",
   "webmentions": [
     {
       "type": "entry",
@@ -306782,6 +306782,489 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/far-west-cowboys-from-the-movies/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117389285561786180#favorited-by-110651355078160221",
+      "published": "2026-10-07T10:29:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T10:29:28Z",
+      "wm-id": 2038350,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117389285561786180/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/spain/andalusia/the-arch-from-once-upon-a-time-in-the-west-in-texas-hollywood/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Singularity",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b22b1bd9991c8e00180df20d68801ca7f7851f498235609cf6c1cff29a3e01ae.png",
+        "url": "https://mostr.pub/users/70991b90ef540a895ddfcdd41168537f0a3c3a0153ea933086027a6042d41f05"
+      },
+      "url": "https://mostr.pub/objects/14635bb4004af492bfbe15de897264e2433154c6a3a2015588a0329998596197",
+      "published": "2026-10-07T11:48:49+00:00",
+      "published_ts": 1791373729,
+      "wm-received": "2026-10-07T11:59:34Z",
+      "wm-id": 2038354,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117399416863837143/117399469387485344",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "That camera pointing back at us gives the huge white space a surprisingly personal feel."
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117399416863837143#reblogged-by-111653510624650957",
+      "published": "2026-10-07T11:59:34Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T11:59:34Z",
+      "wm-id": 2038353,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117399416863837143/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tokergraphy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2d6a1330013bea00748b1f133f0eab3084fd4fa4ec89e4e6dbf0a949f7915fc8.jpg",
+        "url": "https://pixelfed.social/TokerGraphy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117399416863837143#favorited-by-117269552182135770",
+      "published": "2026-10-07T13:01:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T13:01:14Z",
+      "wm-id": 2038365,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117399416863837143/117269552182135770",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117399416863837143#favorited-by-111626648801109062",
+      "published": "2026-10-07T13:01:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T13:01:15Z",
+      "wm-id": 2038366,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117399416863837143/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mauro",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5f0776a5813b707bcb5a8543c57a52e75f76799a22600d26431a15c7d086ac67.png",
+        "url": "https://gram.social/maducan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117399416863837143#favorited-by-114711207672926841",
+      "published": "2026-10-07T14:35:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T14:35:16Z",
+      "wm-id": 2038379,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117399416863837143/114711207672926841",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117399416863837143#favorited-by-114891269374305316",
+      "published": "2026-10-07T15:39:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T15:39:51Z",
+      "wm-id": 2038385,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117399416863837143/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PurpleGengar",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8e31c439aa5c007286e6f669358b704364084490b033a60b538564be63f817b8.png",
+        "url": "https://lgbtqia.space/@Purplegengar25"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-116540212141335351",
+      "published": "2026-10-07T16:41:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T16:41:55Z",
+      "wm-id": 2038392,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/116540212141335351",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lizette",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0bdd45a0d2cd40ebbf44ed5c1b37b7d0e5147d40ed2b92d931ab569a5cd10765.png",
+        "url": "https://mastodon.social/@Lizette603_23"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#reblogged-by-110469325972438110",
+      "published": "2026-10-07T16:41:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T16:41:57Z",
+      "wm-id": 2038393,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117400609637639643/110469325972438110",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#reblogged-by-111653510624650957",
+      "published": "2026-10-07T16:41:58Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T16:41:58Z",
+      "wm-id": 2038394,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117400609637639643/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117399416863837143#favorited-by-113513794052763932",
+      "published": "2026-10-07T16:42:02Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T16:42:02Z",
+      "wm-id": 2038395,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117399416863837143/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-109546769351149860",
+      "published": "2026-10-07T17:07:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T17:07:20Z",
+      "wm-id": 2038399,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "/madonius",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cedfcbfe99c3e657aeb67f898c22cd71fb917e18f80d93f949491b5dc7172010.png",
+        "url": "https://chaos.social/@madonius"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-144675",
+      "published": "2026-10-07T17:07:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T17:07:20Z",
+      "wm-id": 2038398,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/144675",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin L. Martens",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4c8cb8d70a2f41f640d5e9ffdb4d2be73451e3c87407e3d4be6292f36ab1e733.jpg",
+        "url": "https://mastodon.social/@mlmartens"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-109269926280125330",
+      "published": "2026-10-07T17:07:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T17:07:21Z",
+      "wm-id": 2038401,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/109269926280125330",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tokergraphy",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/117/269/552/182/135/770/original/55d1a5eb5a94a586.jpg",
+        "url": "https://pixelfed.social/TokerGraphy"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-117269552182135770",
+      "published": "2026-10-07T17:07:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T17:07:21Z",
+      "wm-id": 2038400,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/117269552182135770",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-114891269374305316",
+      "published": "2026-10-07T17:37:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T17:37:08Z",
+      "wm-id": 2038405,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lou 🇬🇱",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/21bfc653d72c759899e283e406e168bae8f903988111aa96dbadeb7c2865e1f8.jpg",
+        "url": "https://framapiaf.org/@houbahoubahop"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-352436",
+      "published": "2026-10-07T17:37:09Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T17:37:09Z",
+      "wm-id": 2038406,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/352436",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nando161",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b587a116fd5f24c063fac9c67f387e2fc04f6f09146fc8d05dc3649c53208606.jpg",
+        "url": "https://partyon.xyz/@nando161"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-113784619142662587",
+      "published": "2026-10-07T20:17:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T20:17:55Z",
+      "wm-id": 2038430,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/113784619142662587",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-114331409715632221",
+      "published": "2026-10-07T20:17:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T20:17:55Z",
+      "wm-id": 2038429,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Orión",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/272fb949cd879fe9c9336743ba6f39f776dce9c21fb0f213552b95ca78357514.jpg",
+        "url": "https://mastodon.social/@orionmmar"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-115053708016475183",
+      "published": "2026-10-07T23:06:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T23:06:20Z",
+      "wm-id": 2038460,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/115053708016475183",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ri2501",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5ae59158675f1081caecb9e7e9cdbad0659f212ce33adf3e8fc79e2e62beccef.jpg",
+        "url": "https://pixelfed.social/ri2501"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-117402058809242463",
+      "published": "2026-10-07T23:06:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-07T23:06:20Z",
+      "wm-id": 2038459,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/117402058809242463",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Beachbum",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f25f4ba629c032492a096c89baec8d080354231256cb34858164449c61c91082.png",
+        "url": "https://mastodon.sdf.org/@Beachbum"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#reblogged-by-109524651225232363",
+      "published": "2026-10-08T02:03:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T02:03:25Z",
+      "wm-id": 2038476,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117400609637639643/109524651225232363",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GailWaldby@bsky.social❌👑",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9aab1b0d9b2a86ea11cf9ce35da4c4099d7e6a540b42c125137b2bdd07020f2f.png",
+        "url": "https://mastodon.social/@gwaldby"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-109382831175409359",
+      "published": "2026-10-08T02:32:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T02:32:51Z",
+      "wm-id": 2038477,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/109382831175409359",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-112555206662590515",
+      "published": "2026-10-08T02:57:50Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T02:57:50Z",
+      "wm-id": 2038478,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
       "wm-property": "like-of",
       "wm-private": false
     }
