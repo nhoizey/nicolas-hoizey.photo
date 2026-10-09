@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-08T06:28:52.513Z",
+  "lastFetched": "2026-10-09T06:27:55.651Z",
   "webmentions": [
     {
       "type": "entry",
@@ -307265,6 +307265,546 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-113513794052763932",
+      "published": "2026-10-08T12:25:37Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T12:25:37Z",
+      "wm-id": 2038522,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-109546769351149860",
+      "published": "2026-10-08T12:25:37Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T12:25:37Z",
+      "wm-id": 2038521,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/568/504/112/454/513/original/91a916bb3e69e773.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-116568504112454513",
+      "published": "2026-10-08T12:55:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T12:55:28Z",
+      "wm-id": 2038536,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-114891269374305316",
+      "published": "2026-10-08T12:55:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T12:55:28Z",
+      "wm-id": 2038535,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-114331409715632221",
+      "published": "2026-10-08T14:01:31Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T14:01:31Z",
+      "wm-id": 2038555,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-113906621033686473",
+      "published": "2026-10-08T14:33:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T14:33:21Z",
+      "wm-id": 2038563,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-109322251141889536",
+      "published": "2026-10-08T14:33:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T14:33:21Z",
+      "wm-id": 2038562,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-110651355078160221",
+      "published": "2026-10-08T14:33:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T14:33:21Z",
+      "wm-id": 2038561,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117399416863837143#favorited-by-110795643064737098",
+      "published": "2026-10-08T16:37:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T16:37:54Z",
+      "wm-id": 2038588,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117399416863837143/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/portraits/outdoor/lost-in-white-space/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117400609637639643#favorited-by-110795643064737098",
+      "published": "2026-10-08T16:37:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T16:37:55Z",
+      "wm-id": 2038589,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117400609637639643/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/steep-descent-through-the-trees/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kenneth Karlsson 🇩🇰",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/387670ca155e81075f0b9c3e18604e4ac8b84ba9967aa707642d78366b269ddf.jpg",
+        "url": "https://pixelfed.social/kennethk"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-117005056201439100",
+      "published": "2026-10-08T17:02:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T17:02:21Z",
+      "wm-id": 2038599,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/117005056201439100",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-113513794052763932",
+      "published": "2026-10-08T17:02:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T17:02:21Z",
+      "wm-id": 2038598,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Silvia Weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/07919de6a1ee4b9017d2abed8fd869ea1b7afdcb574f524f96a7ee6a1a0e9584.jpg",
+        "url": "https://pixelshot.it/Silvia"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-116142825191584642",
+      "published": "2026-10-08T17:02:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T17:02:21Z",
+      "wm-id": 2038597,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/116142825191584642",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-114891269374305316",
+      "published": "2026-10-08T17:02:23Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T17:02:23Z",
+      "wm-id": 2038600,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "George Fleris",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f5d7ef97e7519a7ef0763eba34779675f56e516def76427daa641d0bc2d685b6.png",
+        "url": "https://mastodon.social/@georgefleris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-117242273301869736",
+      "published": "2026-10-08T17:02:24Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T17:02:24Z",
+      "wm-id": 2038602,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/117242273301869736",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ernst Grabowsky",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/80a0d8b2a872fc2515ad17ad82339f2ecc17bf63f8c2bee2de29dd6dd72cf339.png",
+        "url": "https://mastodon.art/@Ernst_Grabowsky"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-111318983967400993",
+      "published": "2026-10-08T17:02:24Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T17:02:24Z",
+      "wm-id": 2038601,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/111318983967400993",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#reblogged-by-111653510624650957",
+      "published": "2026-10-08T17:02:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T17:02:25Z",
+      "wm-id": 2038603,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117406279978501151/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-109546769351149860",
+      "published": "2026-10-08T17:33:46Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T17:33:46Z",
+      "wm-id": 2038606,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jessica Leuchter",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7778297737cfba298ffca6ea04511787e10b5a1bc4cc68bd1b84ef4a3c91c104.jpg",
+        "url": "https://gram.social/jessica_photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-117037978448038952",
+      "published": "2026-10-08T18:07:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T18:07:21Z",
+      "wm-id": 2038628,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/117037978448038952",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-114331409715632221",
+      "published": "2026-10-08T18:36:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T18:36:57Z",
+      "wm-id": 2038632,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-116568504112454513",
+      "published": "2026-10-08T18:36:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T18:36:57Z",
+      "wm-id": 2038631,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-109322251141889536",
+      "published": "2026-10-08T19:31:59Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T19:31:59Z",
+      "wm-id": 2038645,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-112555206662590515",
+      "published": "2026-10-08T20:30:42Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T20:30:42Z",
+      "wm-id": 2038665,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-110651355078160221",
+      "published": "2026-10-08T21:00:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T21:00:54Z",
+      "wm-id": 2038673,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-112555206662590515",
+      "published": "2026-10-08T21:01:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T21:01:28Z",
+      "wm-id": 2038674,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Martin Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117405082132513175#favorited-by-503687",
+      "published": "2026-10-08T23:11:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-08T23:11:25Z",
+      "wm-id": 2038755,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117405082132513175/503687",
+      "wm-target": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/rock-hopping-in-the-dry-samara-river/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-110795643064737098",
+      "published": "2026-10-09T06:22:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T06:22:57Z",
+      "wm-id": 2038810,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
       "wm-property": "like-of",
       "wm-private": false
     }
