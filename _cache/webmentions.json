@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-09T06:27:55.651Z",
+  "lastFetched": "2026-10-10T06:25:29.948Z",
   "webmentions": [
     {
       "type": "entry",
@@ -307805,6 +307805,406 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "polar63",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1fdd05aca92dd67255bceac68ae8076ef56db88efb5a1d1af756e65e540af156.jpg",
+        "url": "https://pixelfed.de/polar63"
+      },
+      "url": "https://mamot.fr/@nhoizey/117406279978501151#favorited-by-116720134949195709",
+      "published": "2026-10-09T07:25:35Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T07:25:35Z",
+      "wm-id": 2038822,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117406279978501151/116720134949195709",
+      "wm-target": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/approaching-the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rafał",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/117/407/400/097/125/146/original/6bfeb34799259c71.jpg",
+        "url": "https://pixelfed.social/Photographyblog"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-117407400097125146",
+      "published": "2026-10-09T12:05:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T12:05:21Z",
+      "wm-id": 2038838,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/117407400097125146",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-114331409715632221",
+      "published": "2026-10-09T12:05:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T12:05:21Z",
+      "wm-id": 2038837,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/546/769/351/149/860/original/8c0626c886f12a53.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-109546769351149860",
+      "published": "2026-10-09T12:05:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T12:05:22Z",
+      "wm-id": 2038840,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michal",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b5878491069499f111bfd15a28647cdf1a173ea1edcc7ad1cd8c8ea45014c99b.jpg",
+        "url": "https://pixelfed.social/Michal1570PL"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-114530596063379917",
+      "published": "2026-10-09T12:05:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T12:05:22Z",
+      "wm-id": 2038839,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/114530596063379917",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#reblogged-by-117196094204834851",
+      "published": "2026-10-09T12:05:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T12:05:25Z",
+      "wm-id": 2038842,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117410743736825383/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-114891269374305316",
+      "published": "2026-10-09T12:05:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T12:05:25Z",
+      "wm-id": 2038841,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/653/510/624/650/957/original/12c598095b97e902.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#reblogged-by-111653510624650957",
+      "published": "2026-10-09T12:05:29Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T12:05:29Z",
+      "wm-id": 2038843,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117410743736825383/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-113513794052763932",
+      "published": "2026-10-09T12:59:23Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T12:59:23Z",
+      "wm-id": 2038940,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ba_Dang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef4851f82d9ece4fa125a51a308ae8bf690f449076bc63f2b2208809e69d420a.png",
+        "url": "https://jasette.facil.services/@Ba_Dang"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-115447210648718906",
+      "published": "2026-10-09T13:37:04Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T13:37:04Z",
+      "wm-id": 2038953,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/115447210648718906",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-110651355078160221",
+      "published": "2026-10-09T13:37:05Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T13:37:05Z",
+      "wm-id": 2038954,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117411928467835350#reblogged-by-111653510624650957",
+      "published": "2026-10-09T16:53:05Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T16:53:05Z",
+      "wm-id": 2039005,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117411928467835350/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117411928467835350#favorited-by-114891269374305316",
+      "published": "2026-10-09T17:27:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T17:27:15Z",
+      "wm-id": 2039013,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117411928467835350/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rafał",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7dd863ea9772224b4c06cfe9aae1aabbadfbdd88beaa02074d7dafea5cca8e84.jpg",
+        "url": "https://pixelfed.social/Photographyblog"
+      },
+      "url": "https://mamot.fr/@nhoizey/117411928467835350#favorited-by-117407400097125146",
+      "published": "2026-10-09T17:27:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T17:27:15Z",
+      "wm-id": 2039012,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117411928467835350/117407400097125146",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lou 🇬🇱",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/21bfc653d72c759899e283e406e168bae8f903988111aa96dbadeb7c2865e1f8.jpg",
+        "url": "https://framapiaf.org/@houbahoubahop"
+      },
+      "url": "https://mamot.fr/@nhoizey/117411928467835350#favorited-by-352436",
+      "published": "2026-10-09T17:27:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T17:27:16Z",
+      "wm-id": 2039014,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117411928467835350/352436",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117411928467835350#favorited-by-113513794052763932",
+      "published": "2026-10-09T17:51:59Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T17:51:59Z",
+      "wm-id": 2039021,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117411928467835350/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117411928467835350#favorited-by-109546769351149860",
+      "published": "2026-10-09T19:53:27Z",
+      "published_ts": null,
+      "wm-received": "2026-10-09T19:53:27Z",
+      "wm-id": 2039046,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117411928467835350/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117411928467835350#favorited-by-110651355078160221",
+      "published": "2026-10-10T00:26:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T00:26:15Z",
+      "wm-id": 2039097,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117411928467835350/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117411928467835350#favorited-by-112555206662590515",
+      "published": "2026-10-10T00:26:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T00:26:15Z",
+      "wm-id": 2039096,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117411928467835350/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-cemetery-at-the-end-of-the-samaria-gorge/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117410743736825383#favorited-by-112555206662590515",
+      "published": "2026-10-10T00:55:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T00:55:57Z",
+      "wm-id": 2039109,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117410743736825383/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
       "wm-property": "like-of",
       "wm-private": false
     }
