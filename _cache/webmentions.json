@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-10T06:25:29.948Z",
+  "lastFetched": "2026-10-11T06:25:49.380Z",
   "webmentions": [
     {
       "type": "entry",
@@ -308205,6 +308205,186 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/the-iron-gates-of-samaria/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MauroGata@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/00c9cf5c8e12c8529ec96c8aee514529b4260c5e16e53fd0004a70c7d79f2cda.jpg",
+        "url": "https://pixelfed.social/MauroGata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#favorited-by-111611754307293477",
+      "published": "2026-10-10T13:24:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T13:24:16Z",
+      "wm-id": 2039251,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117416750223782729/111611754307293477",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "roarrrr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7f58c916886de25f79f57685524181db315724402fe57583549d85d8dd9176f.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#favorited-by-114891269374305316",
+      "published": "2026-10-10T13:24:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T13:24:16Z",
+      "wm-id": 2039250,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117416750223782729/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Grannybeelee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/89f76d969e767226c41cd637d5c33e6e1330fb77d2611ec85bbf0f76b73b9037.jpg",
+        "url": "https://pixelfed.social/Grannybeelee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#favorited-by-113844563387486864",
+      "published": "2026-10-10T13:24:17Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T13:24:17Z",
+      "wm-id": 2039252,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117416750223782729/113844563387486864",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rafał",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7dd863ea9772224b4c06cfe9aae1aabbadfbdd88beaa02074d7dafea5cca8e84.jpg",
+        "url": "https://pixelfed.social/Photographyblog"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#favorited-by-117407400097125146",
+      "published": "2026-10-10T13:24:18Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T13:24:18Z",
+      "wm-id": 2039253,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117416750223782729/117407400097125146",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#reblogged-by-111653510624650957",
+      "published": "2026-10-10T13:24:19Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T13:24:19Z",
+      "wm-id": 2039254,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117416750223782729/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#favorited-by-116415769514877815",
+      "published": "2026-10-10T14:22:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T14:22:56Z",
+      "wm-id": 2039260,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117416750223782729/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#favorited-by-110651355078160221",
+      "published": "2026-10-10T14:55:19Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T14:55:19Z",
+      "wm-id": 2039263,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117416750223782729/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#favorited-by-113513794052763932",
+      "published": "2026-10-10T15:57:49Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T15:57:49Z",
+      "wm-id": 2039270,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117416750223782729/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ilaria",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0526a2a0994d64e408003dbb1ac8d381bf39403dde0940c0e3e159d0414900b8.png",
+        "url": "https://mastodon.social/@restare_qui"
+      },
+      "url": "https://mamot.fr/@nhoizey/117416750223782729#favorited-by-117388203718977788",
+      "published": "2026-10-10T18:29:27Z",
+      "published_ts": null,
+      "wm-received": "2026-10-10T18:29:27Z",
+      "wm-id": 2039287,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117416750223782729/117388203718977788",
+      "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
       "wm-property": "like-of",
       "wm-private": false
     }
