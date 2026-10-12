@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-11T06:25:49.380Z",
+  "lastFetched": "2026-10-12T06:40:08.559Z",
   "webmentions": [
     {
       "type": "entry",
@@ -308385,6 +308385,346 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/this-won-t-be-enough-to-sail-to-gavdos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117422059329523689#reblogged-by-111653510624650957",
+      "published": "2026-10-11T11:36:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T11:36:25Z",
+      "wm-id": 2039403,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117422059329523689/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117422059329523689#favorited-by-114891269374305316",
+      "published": "2026-10-11T12:31:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T12:31:39Z",
+      "wm-id": 2039417,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117422059329523689/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117422059329523689#favorited-by-109546769351149860",
+      "published": "2026-10-11T13:31:03Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T13:31:03Z",
+      "wm-id": 2039428,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117422059329523689/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117422059329523689#favorited-by-110651355078160221",
+      "published": "2026-10-11T13:56:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T13:56:57Z",
+      "wm-id": 2039429,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117422059329523689/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117422059329523689#favorited-by-116013168770614572",
+      "published": "2026-10-11T14:21:31Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T14:21:31Z",
+      "wm-id": 2039436,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117422059329523689/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117422059329523689#favorited-by-113513794052763932",
+      "published": "2026-10-11T14:46:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T14:46:39Z",
+      "wm-id": 2039437,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117422059329523689/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-accessible-only-by-boat-or-on-foot/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#reblogged-by-109546769351149860",
+      "published": "2026-10-11T16:39:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T16:39:53Z",
+      "wm-id": 2039452,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117423250180203433/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-109546769351149860",
+      "published": "2026-10-11T16:39:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T16:39:53Z",
+      "wm-id": 2039451,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#reblogged-by-111653510624650957",
+      "published": "2026-10-11T16:39:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T16:39:55Z",
+      "wm-id": 2039453,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117423250180203433/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Florens Verschelde",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/874/226/375/202/160/original/a6b1ff7fb4388ee6.jpg",
+        "url": "https://hachyderm.io/@fvsch"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-109874226375202160",
+      "published": "2026-10-11T17:08:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T17:08:30Z",
+      "wm-id": 2039460,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/109874226375202160",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-114885990175534748",
+      "published": "2026-10-11T17:08:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T17:08:30Z",
+      "wm-id": 2039459,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/513/794/052/763/932/original/9bdf502f43271917.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-113513794052763932",
+      "published": "2026-10-11T17:08:35Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T17:08:35Z",
+      "wm-id": 2039461,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/415/769/514/877/815/original/ee3a9fb492f71366.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-116415769514877815",
+      "published": "2026-10-11T17:08:36Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T17:08:36Z",
+      "wm-id": 2039462,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/891/269/374/305/316/original/ec2b81a31d59b9fb.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-114891269374305316",
+      "published": "2026-10-11T17:35:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T17:35:56Z",
+      "wm-id": 2039473,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/110/651/355/078/160/221/original/deed0a4ecc6d9924.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-110651355078160221",
+      "published": "2026-10-11T18:08:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T18:08:57Z",
+      "wm-id": 2039481,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lou 🇬🇱",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/000/352/436/original/5437e29c161f7b1f.jpg",
+        "url": "https://framapiaf.org/@houbahoubahop"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-352436",
+      "published": "2026-10-11T20:29:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-11T20:29:20Z",
+      "wm-id": 2039543,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/352436",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-112555206662590515",
+      "published": "2026-10-12T02:12:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T02:12:10Z",
+      "wm-id": 2039644,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
       "wm-property": "like-of",
       "wm-private": false
     }
