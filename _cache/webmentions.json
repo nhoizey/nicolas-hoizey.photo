@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-12T06:40:08.559Z",
+  "lastFetched": "2026-10-13T06:30:35.238Z",
   "webmentions": [
     {
       "type": "entry",
@@ -308725,6 +308725,530 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-114885990175534748",
+      "published": "2026-10-12T12:04:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:04:22Z",
+      "wm-id": 2039731,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-114331409715632221",
+      "published": "2026-10-12T12:04:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:04:22Z",
+      "wm-id": 2039730,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-114891269374305316",
+      "published": "2026-10-12T12:04:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:04:22Z",
+      "wm-id": 2039729,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-116415769514877815",
+      "published": "2026-10-12T12:04:24Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:04:24Z",
+      "wm-id": 2039732,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-113513794052763932",
+      "published": "2026-10-12T12:04:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:04:25Z",
+      "wm-id": 2039733,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Quietexposure",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/511adf468d4013320e6660f5dc1558a084e8aa1965cbc5bb7b0922a921e5a32f.jpg",
+        "url": "https://pixelfed.social/Quietexposure"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-117113031412619996",
+      "published": "2026-10-12T12:04:26Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:04:26Z",
+      "wm-id": 2039734,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/117113031412619996",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#reblogged-by-111653510624650957",
+      "published": "2026-10-12T12:04:27Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:04:27Z",
+      "wm-id": 2039735,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117427735638120293/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bluejay",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/008/985/146/638/910/original/c6c30300fa0ff1f5.jpg",
+        "url": "https://ohai.social/@bluejay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#reblogged-by-114008985146638910",
+      "published": "2026-10-12T12:29:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:29:51Z",
+      "wm-id": 2039747,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117427735638120293/114008985146638910",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bluejay",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f8ba87131ff85277d9bbc3c60d5dbad58e942a55b8977a59cc378205f3303472.jpg",
+        "url": "https://ohai.social/@bluejay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-114008985146638910",
+      "published": "2026-10-12T12:29:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:29:51Z",
+      "wm-id": 2039746,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/114008985146638910",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ilaria",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/117/388/203/718/977/788/original/21a30009fd5af22d.png",
+        "url": "https://mastodon.social/@restare_qui"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-117388203718977788",
+      "published": "2026-10-12T12:29:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:29:51Z",
+      "wm-id": 2039745,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/117388203718977788",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan F. Wirth",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/110/950/975/400/768/974/original/e51090341295956e.jpg",
+        "url": "https://biologists.social/@stefanfwirth"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-110950975400768974",
+      "published": "2026-10-12T12:57:33Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:57:33Z",
+      "wm-id": 2039761,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/110950975400768974",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Stefan F. Wirth",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/110/950/975/400/768/974/original/e51090341295956e.jpg",
+        "url": "https://biologists.social/@stefanfwirth"
+      },
+      "url": "https://mamot.fr/@nhoizey/117423250180203433#favorited-by-110950975400768974",
+      "published": "2026-10-12T12:57:37Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T12:57:37Z",
+      "wm-id": 2039762,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117423250180203433/110950975400768974",
+      "wm-target": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/nikolas-room-in-loutro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/110/651/355/078/160/221/original/deed0a4ecc6d9924.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-110651355078160221",
+      "published": "2026-10-12T14:04:11Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T14:04:11Z",
+      "wm-id": 2039784,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TEI :vivaldi_red:",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/117/428/236/559/866/538/original/5383d699ca43d53e.jpeg",
+        "url": "https://social.vivaldi.net/@teiworks"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-117428236559866538",
+      "published": "2026-10-12T14:04:11Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T14:04:11Z",
+      "wm-id": 2039783,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/117428236559866538",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-109546769351149860",
+      "published": "2026-10-12T14:33:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T14:33:55Z",
+      "wm-id": 2039790,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/013/168/770/614/572/original/dbe5caa171354974.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117427735638120293#favorited-by-116013168770614572",
+      "published": "2026-10-12T16:32:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T16:32:13Z",
+      "wm-id": 2039829,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117427735638120293/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/loutro-seafront/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@MarSolRivas/117428990082608200",
+      "published": "2026-10-12T16:56:29+00:00",
+      "published_ts": 1791824189,
+      "wm-received": "2026-10-12T16:57:14Z",
+      "wm-id": 2039839,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117428917450205079/117428990082608200",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> <a href=\"https://mamot.fr/tags/WeirdCarMastodon\">#<span>WeirdCarMastodon</span></a> 😄</p>\n  <a class=\"p-category\" href=\"https://mamot.fr/tags/weirdcarmastodon\">weirdcarmastodon</a>",
+        "text": "@nhoizey #WeirdCarMastodon 😄\n  weirdcarmastodon"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hana from Gaza🇵🇸🍉",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/952/456/679/998/065/original/fefc8a4a01a66cde.jpg",
+        "url": "https://mastodon.social/@hanafamily1234"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#favorited-by-116952456679998065",
+      "published": "2026-10-12T16:57:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T16:57:14Z",
+      "wm-id": 2039840,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117428917450205079/116952456679998065",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://static.mamot.fr/accounts/avatars/000/329/706/original/80d4d4824823b17e.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#favorited-by-329706",
+      "published": "2026-10-12T16:57:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T16:57:14Z",
+      "wm-id": 2039838,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117428917450205079/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Photography Channel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53dcc6ece2e0abd79a8aa637b9109d33bab0fa02e6536db85fd6c18ebc662722.png",
+        "url": "https://newsmast.community/@photography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#reblogged-by-111653510624650957",
+      "published": "2026-10-12T16:57:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T16:57:22Z",
+      "wm-id": 2039842,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117428917450205079/111653510624650957",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/113/513/794/052/763/932/original/9bdf502f43271917.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#favorited-by-113513794052763932",
+      "published": "2026-10-12T16:57:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T16:57:22Z",
+      "wm-id": 2039841,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117428917450205079/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/546/769/351/149/860/original/8c0626c886f12a53.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#favorited-by-109546769351149860",
+      "published": "2026-10-12T17:28:33Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T17:28:33Z",
+      "wm-id": 2039851,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117428917450205079/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Emanuel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/802c6b614df0d406cc2228826953b1789f95aa55b98ad4fff38be38f85d8b3bf.jpg",
+        "url": "https://vernissage.photos/@hiebeler05"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#favorited-by-116928433440829307",
+      "published": "2026-10-12T17:28:33Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T17:28:33Z",
+      "wm-id": 2039850,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117428917450205079/116928433440829307",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/114/891/269/374/305/316/original/ec2b81a31d59b9fb.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#favorited-by-114891269374305316",
+      "published": "2026-10-12T17:28:34Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T17:28:34Z",
+      "wm-id": 2039852,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117428917450205079/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#favorited-by-112555206662590515",
+      "published": "2026-10-12T19:35:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T19:35:30Z",
+      "wm-id": 2039926,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117428917450205079/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/110/651/355/078/160/221/original/deed0a4ecc6d9924.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117428917450205079#favorited-by-110651355078160221",
+      "published": "2026-10-12T20:54:46Z",
+      "published_ts": null,
+      "wm-received": "2026-10-12T20:54:46Z",
+      "wm-id": 2039949,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117428917450205079/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/when-is-a-car-too-rusty/",
       "wm-property": "like-of",
       "wm-private": false
     }
