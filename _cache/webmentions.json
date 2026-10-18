@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-17T06:22:28.156Z",
+  "lastFetched": "2026-10-18T06:22:52.435Z",
   "webmentions": [
     {
       "type": "entry",
@@ -311449,6 +311449,346 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/gerasimou-street/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/gerasimou-street/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117440246006185408#favorited-by-116415769514877815",
+      "published": "2026-10-17T08:43:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T08:43:15Z",
+      "wm-id": 2041461,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117440246006185408/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/restaurant-terraces-on-skoufon-street/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/restaurant-terraces-on-skoufon-street/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-113513794052763932",
+      "published": "2026-10-17T11:50:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T11:50:30Z",
+      "wm-id": 2041478,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-114891269374305316",
+      "published": "2026-10-17T11:50:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T11:50:30Z",
+      "wm-id": 2041477,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-114307257434206498",
+      "published": "2026-10-17T11:50:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T11:50:30Z",
+      "wm-id": 2041476,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Arniedunn",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8dba3aff93c9927bdefc67083354e5df6efa56ec49eefecc7d44c768530aaf48.png",
+        "url": "https://mastodon.social/@arniedunn"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-116357003890249542",
+      "published": "2026-10-17T11:50:33Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T11:50:33Z",
+      "wm-id": 2041479,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/116357003890249542",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "J. Paweł Pełech",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/488aa9145b3c8e181ed4e5810cf412d3aac30d51570d513c651a76012f9ac3e9.jpg",
+        "url": "https://pixelfed.social/peplech"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-117280655850131181",
+      "published": "2026-10-17T12:16:32Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T12:16:32Z",
+      "wm-id": 2041485,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/117280655850131181",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-109546769351149860",
+      "published": "2026-10-17T12:41:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T12:41:54Z",
+      "wm-id": 2041489,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Minerva",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/634d0a325243109e12f306e3cec9ecb7da410c6f9f5d83de6071e8c35e0cc013.jpg",
+        "url": "https://pixelfed.social/Pixyguy.26"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-116148934642179149",
+      "published": "2026-10-17T12:41:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T12:41:54Z",
+      "wm-id": 2041488,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/116148934642179149",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-110651355078160221",
+      "published": "2026-10-17T14:39:45Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T14:39:45Z",
+      "wm-id": 2041526,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117457707398790331#favorited-by-114891269374305316",
+      "published": "2026-10-17T19:04:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T19:04:39Z",
+      "wm-id": 2041650,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117457707398790331/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-112555206662590515",
+      "published": "2026-10-17T19:04:49Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T19:04:49Z",
+      "wm-id": 2041651,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117457707398790331#favorited-by-112555206662590515",
+      "published": "2026-10-17T19:04:52Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T19:04:52Z",
+      "wm-id": 2041652,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117457707398790331/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117456022944943893#favorited-by-117196094204834851",
+      "published": "2026-10-17T19:04:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T19:04:57Z",
+      "wm-id": 2041653,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117456022944943893/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/balos-lagoon/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117457707398790331#favorited-by-114331409715632221",
+      "published": "2026-10-17T19:29:09Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T19:29:09Z",
+      "wm-id": 2041660,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117457707398790331/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117457707398790331#favorited-by-503687",
+      "published": "2026-10-17T20:52:43Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T20:52:43Z",
+      "wm-id": 2041693,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117457707398790331/503687",
+      "wm-target": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117457707398790331#favorited-by-110651355078160221",
+      "published": "2026-10-17T21:23:02Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T21:23:02Z",
+      "wm-id": 2041701,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117457707398790331/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117457707398790331#favorited-by-116568504112454513",
+      "published": "2026-10-17T22:14:37Z",
+      "published_ts": null,
+      "wm-received": "2026-10-17T22:14:37Z",
+      "wm-id": 2041714,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117457707398790331/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
       "wm-property": "like-of",
       "wm-private": false
     }
