@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-18T06:22:52.435Z",
+  "lastFetched": "2026-10-19T06:33:22.804Z",
   "webmentions": [
     {
       "type": "entry",
@@ -311789,6 +311789,466 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/to-freedom-in-falasarna/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-114891269374305316",
+      "published": "2026-10-18T11:49:36Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T11:49:36Z",
+      "wm-id": 2041839,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-329706",
+      "published": "2026-10-18T11:49:37Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T11:49:37Z",
+      "wm-id": 2041840,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4123d62931cf82361a500ef63382c9c1d78d3093582996dee42bcd0077da0780.png",
+        "url": "https://hubzilla.simon-a.info/channel/anna"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-117196094204834851",
+      "published": "2026-10-18T11:49:38Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T11:49:38Z",
+      "wm-id": 2041841,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/117196094204834851",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Brewinman",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1174d0118ebedfbe6f16aabb7751dac20dcc336abe9eff3822751a4610122563.jpg",
+        "url": "https://newsie.social/@brewinman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#reblogged-by-113676178383668382",
+      "published": "2026-10-18T11:49:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T11:49:39Z",
+      "wm-id": 2041843,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117461684863510185/113676178383668382",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-109546769351149860",
+      "published": "2026-10-18T11:49:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T11:49:39Z",
+      "wm-id": 2041842,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JJHP3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/48229a59e25bddedbe0a1ea4fa56d8545b461f0f93c65c246ac405f03116e497.jpg",
+        "url": "https://mastodon.world/@JJHP3"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-109418398950016934",
+      "published": "2026-10-18T12:25:24Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T12:25:24Z",
+      "wm-id": 2041856,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/109418398950016934",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kevin C. Tofel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/357a487cf20d647d3e2e487c244773c8bb97dab30faf400e9c7ca8d609c41a74.jpg",
+        "url": "https://hachyderm.io/@kevinctofel"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-109407380532599609",
+      "published": "2026-10-18T13:58:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T13:58:20Z",
+      "wm-id": 2041880,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/109407380532599609",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-110651355078160221",
+      "published": "2026-10-18T13:58:22Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T13:58:22Z",
+      "wm-id": 2041881,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-110795643064737098",
+      "published": "2026-10-18T15:18:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T15:18:28Z",
+      "wm-id": 2041893,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-113513794052763932",
+      "published": "2026-10-18T15:54:05Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T15:54:05Z",
+      "wm-id": 2041902,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Snowgaze ❄️:cravo: :ai_free:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2bec23748c4e767cf18c8086450a79bfa852a363f79a6b56f53d47eb505f99f3.jpg",
+        "url": "https://masto.pt/@snowgaze"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-109264785403181972",
+      "published": "2026-10-18T16:52:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T16:52:10Z",
+      "wm-id": 2041922,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/109264785403181972",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-114331409715632221",
+      "published": "2026-10-18T16:52:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T16:52:10Z",
+      "wm-id": 2041921,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-113513794052763932",
+      "published": "2026-10-18T16:52:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T16:52:10Z",
+      "wm-id": 2041920,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Harold S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cd4d78bf06283e0ffa1a1f65d905fcbc221f666fa9a8581d2c409232c2f92f5e.jpg",
+        "url": "https://pixelfed.social/Haroldjr2084"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-116635055215917902",
+      "published": "2026-10-18T16:52:12Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T16:52:12Z",
+      "wm-id": 2041923,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/116635055215917902",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jarrett Photography",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4aaba9e752a72e6709040ea4710868520795d3ea8a0d3e637d76677bb9242f85.jpg",
+        "url": "https://pixelfed.social/JarrettPhotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-117404477101554662",
+      "published": "2026-10-18T16:52:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T16:52:13Z",
+      "wm-id": 2041924,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/117404477101554662",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117461684863510185#favorited-by-114331409715632221",
+      "published": "2026-10-18T16:52:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T16:52:14Z",
+      "wm-id": 2041925,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117461684863510185/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/greece/crete/the-platanos-agricultural-lowlands/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-114891269374305316",
+      "published": "2026-10-18T17:23:40Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T17:23:40Z",
+      "wm-id": 2041936,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-110651355078160221",
+      "published": "2026-10-18T17:23:40Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T17:23:40Z",
+      "wm-id": 2041935,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-116415769514877815",
+      "published": "2026-10-18T17:58:41Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T17:58:41Z",
+      "wm-id": 2041938,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MauroGata@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/00c9cf5c8e12c8529ec96c8aee514529b4260c5e16e53fd0004a70c7d79f2cda.jpg",
+        "url": "https://pixelfed.social/MauroGata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-111611754307293477",
+      "published": "2026-10-18T18:29:09Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T18:29:09Z",
+      "wm-id": 2041948,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/111611754307293477",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-109546769351149860",
+      "published": "2026-10-18T19:03:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T19:03:53Z",
+      "wm-id": 2041953,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-112555206662590515",
+      "published": "2026-10-18T20:06:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T20:06:57Z",
+      "wm-id": 2041959,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Harold S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/489868775e0f35b1a191ae4ba5578412e0cb5ff27b932031dd9c1727fb0a06b6.jpg",
+        "url": "https://sfba.social/@oldredsubby"
+      },
+      "url": "https://mamot.fr/@nhoizey/117462874932458416#favorited-by-109341327903651308",
+      "published": "2026-10-18T20:38:58Z",
+      "published_ts": null,
+      "wm-received": "2026-10-18T20:38:58Z",
+      "wm-id": 2041961,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117462874932458416/109341327903651308",
+      "wm-target": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
       "wm-property": "like-of",
       "wm-private": false
     }
