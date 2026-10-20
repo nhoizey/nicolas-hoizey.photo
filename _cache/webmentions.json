@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-19T06:33:22.804Z",
+  "lastFetched": "2026-10-20T06:24:45.404Z",
   "webmentions": [
     {
       "type": "entry",
@@ -312250,6 +312250,294 @@
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/good-luck-with-that/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117467363327077886#favorited-by-110651355078160221",
+      "published": "2026-10-19T13:43:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T13:43:13Z",
+      "wm-id": 2042151,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117467363327077886/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/chrysoskalitissa-monastery/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/chrysoskalitissa-monastery/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117467363327077886#favorited-by-114891269374305316",
+      "published": "2026-10-19T15:47:52Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T15:47:52Z",
+      "wm-id": 2042169,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117467363327077886/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/chrysoskalitissa-monastery/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/chrysoskalitissa-monastery/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117467363327077886#favorited-by-113513794052763932",
+      "published": "2026-10-19T16:13:49Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T16:13:49Z",
+      "wm-id": 2042175,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117467363327077886/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/chrysoskalitissa-monastery/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/chrysoskalitissa-monastery/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Julien W.",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/302/219/269/556/376/original/dab93860acde3434.jpg",
+        "url": "https://pouet.chapril.org/@julienw"
+      },
+      "url": "https://pouet.chapril.org/@julienw/117468589308281800",
+      "published": "2026-10-19T16:47:05+00:00",
+      "published_ts": 1792428425,
+      "wm-received": "2026-10-19T16:49:15Z",
+      "wm-id": 2042186,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117468555341861740/117468589410773852",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> ça rappelle des choses similaires en malaisie (mais pas chrétiennes bien sûr)</p>",
+        "text": "@nhoizey ça rappelle des choses similaires en malaisie (mais pas chrétiennes bien sûr)"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#favorited-by-109546769351149860",
+      "published": "2026-10-19T16:49:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T16:49:15Z",
+      "wm-id": 2042187,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117468555341861740/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#favorited-by-329706",
+      "published": "2026-10-19T16:49:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T16:49:15Z",
+      "wm-id": 2042185,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117468555341861740/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#favorited-by-114891269374305316",
+      "published": "2026-10-19T16:49:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T16:49:16Z",
+      "wm-id": 2042188,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117468555341861740/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Aeon",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8f14237613b242afaeca7e7e3c5f640e4a34a4d8abcdbc02e8953bc144fc8fc4.jpg",
+        "url": "https://mastodon.social/@rico1963"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#favorited-by-116347617418192787",
+      "published": "2026-10-19T17:17:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T17:17:54Z",
+      "wm-id": 2042190,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117468555341861740/116347617418192787",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#favorited-by-111626648801109062",
+      "published": "2026-10-19T17:17:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T17:17:54Z",
+      "wm-id": 2042189,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117468555341861740/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#favorited-by-113513794052763932",
+      "published": "2026-10-19T17:20:18Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T17:20:18Z",
+      "wm-id": 2042191,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117468555341861740/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#favorited-by-109951804609117719",
+      "published": "2026-10-19T17:54:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T17:54:28Z",
+      "wm-id": 2042196,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117468555341861740/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://social.lol/@tylersticka/117469566117989740",
+      "published": "2026-10-19T20:55:30+00:00",
+      "published_ts": 1792443330,
+      "wm-received": "2026-10-19T21:14:30Z",
+      "wm-id": 2042261,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117468555341861740/117469566216861867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> Beautiful!</p>",
+        "text": "@nhoizey Beautiful!"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#favorited-by-110651355078160221",
+      "published": "2026-10-19T21:14:33Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T21:14:33Z",
+      "wm-id": 2042263,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117468555341861740/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117468555341861740#reblogged-by-110651355078160221",
+      "published": "2026-10-19T21:14:33Z",
+      "published_ts": null,
+      "wm-received": "2026-10-19T21:14:33Z",
+      "wm-id": 2042262,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117468555341861740/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
