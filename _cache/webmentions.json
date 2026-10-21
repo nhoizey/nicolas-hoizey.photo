@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-20T06:24:45.404Z",
+  "lastFetched": "2026-10-21T06:25:30.991Z",
   "webmentions": [
     {
       "type": "entry",
@@ -312538,6 +312538,206 @@
       "wm-protocol": "webmention",
       "repost-of": "https://nicolas-hoizey.photo/photos/agia-sofia-cave/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "⚓️ k_lavande",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/13114be5a7728907442250f0b44f5a142596c737de2e5f5571b52c4e66f0a009.jpg",
+        "url": "https://pixelfed.de/Dagobert1"
+      },
+      "url": "https://mamot.fr/@nhoizey/117473021470316111#favorited-by-113842513093367445",
+      "published": "2026-10-20T11:51:01Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T11:51:01Z",
+      "wm-id": 2042387,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117473021470316111/113842513093367445",
+      "wm-target": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117473021470316111#favorited-by-329706",
+      "published": "2026-10-20T11:51:01Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T11:51:01Z",
+      "wm-id": 2042386,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117473021470316111/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117473021470316111#favorited-by-110651355078160221",
+      "published": "2026-10-20T13:29:44Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T13:29:44Z",
+      "wm-id": 2042405,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117473021470316111/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MauroGata@pixelfed.social",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/611/754/307/293/477/original/a27edbb17777c3d1.jpg",
+        "url": "https://pixelfed.social/MauroGata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117473021470316111#favorited-by-111611754307293477",
+      "published": "2026-10-20T14:29:40Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T14:29:40Z",
+      "wm-id": 2042416,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117473021470316111/111611754307293477",
+      "wm-target": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117473021470316111#favorited-by-114891269374305316",
+      "published": "2026-10-20T14:59:59Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T14:59:59Z",
+      "wm-id": 2042421,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117473021470316111/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117474210176720594#favorited-by-113513794052763932",
+      "published": "2026-10-20T17:37:12Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T17:37:12Z",
+      "wm-id": 2042468,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117474210176720594/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117474210176720594#favorited-by-114331409715632221",
+      "published": "2026-10-20T17:37:12Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T17:37:12Z",
+      "wm-id": 2042467,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117474210176720594/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117473021470316111#favorited-by-113513794052763932",
+      "published": "2026-10-20T17:37:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T17:37:14Z",
+      "wm-id": 2042469,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117473021470316111/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/fishing-nets-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Alex W",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ab0dca4265e875cba69c1a71364b898d86e682ad9df41a2ba6b04040b8bc3f95.jpg",
+        "url": "https://pixelfed.social/ShoulderSeason"
+      },
+      "url": "https://mamot.fr/@nhoizey/117474210176720594#favorited-by-114419693717617275",
+      "published": "2026-10-20T18:11:23Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T18:11:23Z",
+      "wm-id": 2042472,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117474210176720594/114419693717617275",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117474210176720594#favorited-by-114891269374305316",
+      "published": "2026-10-20T19:10:32Z",
+      "published_ts": null,
+      "wm-received": "2026-10-20T19:10:32Z",
+      "wm-id": 2042488,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117474210176720594/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
