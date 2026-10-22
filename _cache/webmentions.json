@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-21T06:25:30.991Z",
+  "lastFetched": "2026-10-22T06:25:03.843Z",
   "webmentions": [
     {
       "type": "entry",
@@ -312737,6 +312737,206 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/the-messara-plain-in-crete/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117478691859840538#favorited-by-111626648801109062",
+      "published": "2026-10-21T12:35:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-21T12:35:57Z",
+      "wm-id": 2042963,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117478691859840538/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/photos/saint-irene-church-of-embaros/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/saint-irene-church-of-embaros/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117478691859840538#favorited-by-110651355078160221",
+      "published": "2026-10-21T13:36:38Z",
+      "published_ts": null,
+      "wm-received": "2026-10-21T13:36:38Z",
+      "wm-id": 2042967,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117478691859840538/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/saint-irene-church-of-embaros/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/saint-irene-church-of-embaros/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ms. Que Banh",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0f6fc451187b067e718bda02bab211306d6be81b2344d785d84329b1d72afff2.jpg",
+        "url": "https://beige.party/@PhoenixSerenity"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#reblogged-by-112605944981612833",
+      "published": "2026-10-21T17:07:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-21T17:07:08Z",
+      "wm-id": 2042994,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117479874763443899/112605944981612833",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "magrat",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1b43b2aabbe6ad3a1104a3318e0895b98ee6624e02703eff99ba4fd56a9619a0.jpg",
+        "url": "https://fedi.aiga.rocks/@magrat"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-114731764158121663",
+      "published": "2026-10-21T17:07:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-21T17:07:08Z",
+      "wm-id": 2042993,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/114731764158121663",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-116415769514877815",
+      "published": "2026-10-21T17:07:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-21T17:07:08Z",
+      "wm-id": 2042992,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "0gust1",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3dbd3ed9bda680063d6fd737c6c230ffd3bb3fdb785ca4b8d8ca6c03937fd6de.png",
+        "url": "https://merveilles.town/@0gust1"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-163764",
+      "published": "2026-10-21T18:05:32Z",
+      "published_ts": null,
+      "wm-received": "2026-10-21T18:05:32Z",
+      "wm-id": 2042995,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/163764",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Darko Rohr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0c8c69deaca1b1e042b517cd9ac355fe8214263e99819210741db493372b2aa0.jpg",
+        "url": "https://epsilon.social/@Darko_Rohr"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-117480138641519636",
+      "published": "2026-10-21T18:05:59Z",
+      "published_ts": null,
+      "wm-received": "2026-10-21T18:05:59Z",
+      "wm-id": 2042996,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/117480138641519636",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-110651355078160221",
+      "published": "2026-10-21T22:50:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-21T22:50:08Z",
+      "wm-id": 2043023,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-114307257434206498",
+      "published": "2026-10-22T04:58:46Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T04:58:46Z",
+      "wm-id": 2043079,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-113513794052763932",
+      "published": "2026-10-22T05:32:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T05:32:15Z",
+      "wm-id": 2043083,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
       "wm-property": "like-of",
       "wm-private": false
     }
