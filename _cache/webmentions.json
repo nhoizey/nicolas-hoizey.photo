@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-22T06:25:03.843Z",
+  "lastFetched": "2026-10-23T06:26:29.437Z",
   "webmentions": [
     {
       "type": "entry",
@@ -312937,6 +312937,406 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-503687",
+      "published": "2026-10-22T08:00:01Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T08:00:01Z",
+      "wm-id": 2043108,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/503687",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-114331409715632221",
+      "published": "2026-10-22T11:39:17Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T11:39:17Z",
+      "wm-id": 2043150,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "basepair",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/182aee11796889a5a9b3346e8fc8bcc48d1b36cf3bb40622ce2778dfa0d52da0.jpg",
+        "url": "https://vernissage.photos/@basepair"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-116222349191086242",
+      "published": "2026-10-22T11:39:18Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T11:39:18Z",
+      "wm-id": 2043151,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/116222349191086242",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thijs Lucas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b9b1d24bc58cfce5eed887a49fa3fbfa993addc425e53a4eac73ea17e626f974.jpg",
+        "url": "https://pixel.tchncs.de/Thijs_Lucas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-113856560557033345",
+      "published": "2026-10-22T12:04:50Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T12:04:50Z",
+      "wm-id": 2043162,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/113856560557033345",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trailingdust",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4bbf935432a907d050df892d237ec964f3417e581a063be66d7367f897c0b5c2.jpg",
+        "url": "https://pixelfed.social/trailingdust"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-116124948531942550",
+      "published": "2026-10-22T12:04:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T12:04:51Z",
+      "wm-id": 2043164,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/116124948531942550",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-114891269374305316",
+      "published": "2026-10-22T12:04:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T12:04:51Z",
+      "wm-id": 2043163,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MauroGata@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/00c9cf5c8e12c8529ec96c8aee514529b4260c5e16e53fd0004a70c7d79f2cda.jpg",
+        "url": "https://pixelfed.social/MauroGata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-111611754307293477",
+      "published": "2026-10-22T13:03:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T13:03:13Z",
+      "wm-id": 2043178,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/111611754307293477",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-110795643064737098",
+      "published": "2026-10-22T13:03:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T13:03:16Z",
+      "wm-id": 2043179,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paul Knightly",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/09de3c107e45390e95bd379cb626b55d47dfe53fdbfbfcff9f4d354476fc6639.jpg",
+        "url": "https://mstdn.social/@paulknightly"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-109292554645494734",
+      "published": "2026-10-22T13:03:17Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T13:03:17Z",
+      "wm-id": 2043180,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/109292554645494734",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-110651355078160221",
+      "published": "2026-10-22T13:35:02Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T13:35:02Z",
+      "wm-id": 2043193,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-110795643064737098",
+      "published": "2026-10-22T13:35:04Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T13:35:04Z",
+      "wm-id": 2043194,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117478691859840538#favorited-by-110795643064737098",
+      "published": "2026-10-22T13:35:07Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T13:35:07Z",
+      "wm-id": 2043195,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117478691859840538/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/saint-irene-church-of-embaros/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/saint-irene-church-of-embaros/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117485540530638063#favorited-by-114891269374305316",
+      "published": "2026-10-22T16:59:50Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T16:59:50Z",
+      "wm-id": 2043247,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117485540530638063/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Daniel Schildt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/60562eecf3f5be3d3f07d8cff972173d54e3c4028aa7aecb16f22d6bdecc9505.png",
+        "url": "https://mementomori.social/@autiomaa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117485540530638063#favorited-by-110802130603050055",
+      "published": "2026-10-22T16:59:50Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T16:59:50Z",
+      "wm-id": 2043246,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117485540530638063/110802130603050055",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thijs Lucas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b9b1d24bc58cfce5eed887a49fa3fbfa993addc425e53a4eac73ea17e626f974.jpg",
+        "url": "https://pixel.tchncs.de/Thijs_Lucas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117485540530638063#favorited-by-113856560557033345",
+      "published": "2026-10-22T17:31:34Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T17:31:34Z",
+      "wm-id": 2043256,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117485540530638063/113856560557033345",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117485540530638063#favorited-by-113513794052763932",
+      "published": "2026-10-22T17:31:37Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T17:31:37Z",
+      "wm-id": 2043257,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117485540530638063/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117485540530638063#favorited-by-114307257434206498",
+      "published": "2026-10-22T17:31:38Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T17:31:38Z",
+      "wm-id": 2043258,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117485540530638063/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-113513794052763932",
+      "published": "2026-10-22T17:31:45Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T17:31:45Z",
+      "wm-id": 2043259,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Leeroy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/85728429b936ca18dab325c2d3ab8cba8d809d57a2fff6d9a1a6119bdea044a3.jpg",
+        "url": "https://pixelfed.social/firehound"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-108681660487473614",
+      "published": "2026-10-22T18:39:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-22T18:39:51Z",
+      "wm-id": 2043273,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/108681660487473614",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "funkenstich@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9952f5a139503b0786014de8657fc63c9919bb69a8e96384084ababf4a265366.jpg",
+        "url": "https://pixelfed.social/funkenstich"
+      },
+      "url": "https://mamot.fr/@nhoizey/117484350406328732#favorited-by-115181769080087283",
+      "published": "2026-10-23T03:54:12Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T03:54:12Z",
+      "wm-id": 2043362,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117484350406328732/115181769080087283",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
       "wm-property": "like-of",
       "wm-private": false
     }
