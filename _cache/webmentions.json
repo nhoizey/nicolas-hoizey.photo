@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-23T06:26:29.437Z",
+  "lastFetched": "2026-10-24T06:22:58.821Z",
   "webmentions": [
     {
       "type": "entry",
@@ -313337,6 +313337,306 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/the-new-municipal-cemetery-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117485540530638063#favorited-by-114331409715632221",
+      "published": "2026-10-23T11:36:48Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T11:36:48Z",
+      "wm-id": 2043483,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117485540530638063/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-gulf-of-sitia/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117490012552899832#favorited-by-113906621033686473",
+      "published": "2026-10-23T12:12:18Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T12:12:18Z",
+      "wm-id": 2043496,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117490012552899832/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117490012552899832#favorited-by-114891269374305316",
+      "published": "2026-10-23T12:12:18Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T12:12:18Z",
+      "wm-id": 2043495,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117490012552899832/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trailingdust",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4bbf935432a907d050df892d237ec964f3417e581a063be66d7367f897c0b5c2.jpg",
+        "url": "https://pixelfed.social/trailingdust"
+      },
+      "url": "https://mamot.fr/@nhoizey/117490012552899832#favorited-by-116124948531942550",
+      "published": "2026-10-23T12:47:29Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T12:47:29Z",
+      "wm-id": 2043505,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117490012552899832/116124948531942550",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117490012552899832#favorited-by-110651355078160221",
+      "published": "2026-10-23T13:20:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T13:20:10Z",
+      "wm-id": 2043511,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117490012552899832/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rafał",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7dd863ea9772224b4c06cfe9aae1aabbadfbdd88beaa02074d7dafea5cca8e84.jpg",
+        "url": "https://pixelfed.social/Photographyblog"
+      },
+      "url": "https://mamot.fr/@nhoizey/117490012552899832#favorited-by-117407400097125146",
+      "published": "2026-10-23T13:20:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T13:20:10Z",
+      "wm-id": 2043510,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117490012552899832/117407400097125146",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117490012552899832#favorited-by-113513794052763932",
+      "published": "2026-10-23T16:08:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T16:08:21Z",
+      "wm-id": 2043535,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117490012552899832/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117490012552899832#favorited-by-114331409715632221",
+      "published": "2026-10-23T16:40:44Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T16:40:44Z",
+      "wm-id": 2043543,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117490012552899832/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-114885990175534748",
+      "published": "2026-10-23T17:15:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T17:15:39Z",
+      "wm-id": 2043559,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet the bunny <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f34e2298c64ca77fcefa824b6b3aaa1702265a063118964ea98ba98ee324cbd1.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-114891269374305316",
+      "published": "2026-10-23T17:44:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T17:44:14Z",
+      "wm-id": 2043561,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rafał",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7dd863ea9772224b4c06cfe9aae1aabbadfbdd88beaa02074d7dafea5cca8e84.jpg",
+        "url": "https://pixelfed.social/Photographyblog"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-117407400097125146",
+      "published": "2026-10-23T17:44:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T17:44:15Z",
+      "wm-id": 2043562,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/117407400097125146",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-113513794052763932",
+      "published": "2026-10-23T18:19:11Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T18:19:11Z",
+      "wm-id": 2043564,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-112555206662590515",
+      "published": "2026-10-23T19:17:37Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T19:17:37Z",
+      "wm-id": 2043585,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-109546769351149860",
+      "published": "2026-10-23T19:47:31Z",
+      "published_ts": null,
+      "wm-received": "2026-10-23T19:47:31Z",
+      "wm-id": 2043588,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-110651355078160221",
+      "published": "2026-10-24T03:54:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T03:54:20Z",
+      "wm-id": 2043669,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
       "wm-property": "like-of",
       "wm-private": false
     }
