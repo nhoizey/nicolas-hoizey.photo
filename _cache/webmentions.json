@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-24T06:22:58.821Z",
+  "lastFetched": "2026-10-25T06:23:01.034Z",
   "webmentions": [
     {
       "type": "entry",
@@ -313637,6 +313637,994 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-329706",
+      "published": "2026-10-24T11:35:03Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T11:35:03Z",
+      "wm-id": 2043743,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-111626648801109062",
+      "published": "2026-10-24T12:08:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T12:08:25Z",
+      "wm-id": 2043751,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3be8006654f7298a2ba36cbf45169feee4131516eb3b3ce66e1bd955a881133d.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-114891269374305316",
+      "published": "2026-10-24T12:08:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T12:08:30Z",
+      "wm-id": 2043753,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-116013168770614572",
+      "published": "2026-10-24T12:08:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T12:08:30Z",
+      "wm-id": 2043752,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-109546769351149860",
+      "published": "2026-10-24T12:08:41Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T12:08:41Z",
+      "wm-id": 2043754,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-114331409715632221",
+      "published": "2026-10-24T13:08:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T13:08:56Z",
+      "wm-id": 2043761,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dave",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ba1ebf541bd7ebb1c8047fa16a4ae7546a63644c329dd79281fcaef6fdb67495.jpg",
+        "url": "https://pixelfed.social/davewalker5"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-115057308109848244",
+      "published": "2026-10-24T13:08:58Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T13:08:58Z",
+      "wm-id": 2043762,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/115057308109848244",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-114331409715632221",
+      "published": "2026-10-24T13:09:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T13:09:10Z",
+      "wm-id": 2043763,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MauroGata@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/00c9cf5c8e12c8529ec96c8aee514529b4260c5e16e53fd0004a70c7d79f2cda.jpg",
+        "url": "https://pixelfed.social/MauroGata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-111611754307293477",
+      "published": "2026-10-24T13:40:04Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T13:40:04Z",
+      "wm-id": 2043773,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/111611754307293477",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-110651355078160221",
+      "published": "2026-10-24T14:15:58Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T14:15:58Z",
+      "wm-id": 2043781,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-113906621033686473",
+      "published": "2026-10-24T15:16:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T15:16:21Z",
+      "wm-id": 2043789,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117491204114724303#favorited-by-117496695550768460",
+      "published": "2026-10-24T16:10:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T16:10:39Z",
+      "wm-id": 2043810,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117491204114724303/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/vai-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-117496695550768460",
+      "published": "2026-10-24T16:10:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T16:10:39Z",
+      "wm-id": 2043809,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hana From Gaza🇵🇸🍉",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1df3cc5d11f5d8330e683967bbb7294109714876426146ea7e863af753c1c9f3.jpg",
+        "url": "https://mastodon.world/@hanasamour1234"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-117183796132494455",
+      "published": "2026-10-24T16:39:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T16:39:13Z",
+      "wm-id": 2043823,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/117183796132494455",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "sandra@AthENA_ErganAI",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c3cd4489ff1f6a4bcec4f7284fdccc8a4edebe7b549393c020552fa26d7e6315.jpg",
+        "url": "https://masto.pt/@Sana"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-109267596353339204",
+      "published": "2026-10-24T16:39:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T16:39:13Z",
+      "wm-id": 2043822,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/109267596353339204",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-113513794052763932",
+      "published": "2026-10-24T16:39:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T16:39:13Z",
+      "wm-id": 2043821,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117495664001775173#favorited-by-113513794052763932",
+      "published": "2026-10-24T16:39:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T16:39:16Z",
+      "wm-id": 2043824,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117495664001775173/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reconstructed-north-entrance-of-the-palace-of-minos-in-knossos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bob Tregilus",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/09dae1c08c82ba74184e14be9ab94d43964e8b828fc85549c0e57ab60e853c95.jpg",
+        "url": "https://mastoart.social/@elaterite"
+      },
+      "url": "https://mastoart.social/@elaterite/117496982654989750",
+      "published": "2026-10-24T17:07:53+00:00",
+      "published_ts": 1792861673,
+      "wm-received": "2026-10-24T17:12:44Z",
+      "wm-id": 2043826,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117496850781396093/117496983527583611",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> Very nice!</p>",
+        "text": "@nhoizey Very nice!"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/68e6f1617572bd4c2158727e6c1693ec1d0ab76e3f29f51d93c5895ee2c8e6b0.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496999389391172",
+      "published": "2026-10-24T17:12:09+00:00",
+      "published_ts": 1792861929,
+      "wm-received": "2026-10-24T17:12:44Z",
+      "wm-id": 2043827,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117496850781396093/117496999389391172",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastoart.social/@elaterite\" class=\"u-url\">@<span>elaterite</span></a></span> thanks 🙏</p>",
+        "text": "@elaterite thanks 🙏"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris Bond",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9f3620b1f4b7388a4b8ccacb14543c35e9e6f313cb3311a86815f913f5eb6c3c.jpg",
+        "url": "https://mastodon.social/@Vibracobra23"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-109315666822449964",
+      "published": "2026-10-24T17:12:46Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:12:46Z",
+      "wm-id": 2043828,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/109315666822449964",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bob Tregilus",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/09dae1c08c82ba74184e14be9ab94d43964e8b828fc85549c0e57ab60e853c95.jpg",
+        "url": "https://mastoart.social/@elaterite"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-114418257918971781",
+      "published": "2026-10-24T17:12:50Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:12:50Z",
+      "wm-id": 2043829,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/114418257918971781",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-113906621033686473",
+      "published": "2026-10-24T17:12:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:12:53Z",
+      "wm-id": 2043830,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Traveller234",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c894f764437228825a8bda933c98ad4fbe919596ac6572a20a33a21fd0e56a6c.jpg",
+        "url": "https://mastodon.social/@Traveller234"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-116974668188546713",
+      "published": "2026-10-24T17:12:58Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:12:58Z",
+      "wm-id": 2043832,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/116974668188546713",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "basepair",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/182aee11796889a5a9b3346e8fc8bcc48d1b36cf3bb40622ce2778dfa0d52da0.jpg",
+        "url": "https://vernissage.photos/@basepair"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-116222349191086242",
+      "published": "2026-10-24T17:12:58Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:12:58Z",
+      "wm-id": 2043831,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/116222349191086242",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-114885990175534748",
+      "published": "2026-10-24T17:12:59Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:12:59Z",
+      "wm-id": 2043833,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "basepair",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/182aee11796889a5a9b3346e8fc8bcc48d1b36cf3bb40622ce2778dfa0d52da0.jpg",
+        "url": "https://vernissage.photos/@basepair"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#reblogged-by-116222349191086242",
+      "published": "2026-10-24T17:13:00Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:13:00Z",
+      "wm-id": 2043835,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117496850781396093/116222349191086242",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bob Tregilus",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/09dae1c08c82ba74184e14be9ab94d43964e8b828fc85549c0e57ab60e853c95.jpg",
+        "url": "https://mastoart.social/@elaterite"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#reblogged-by-114418257918971781",
+      "published": "2026-10-24T17:13:00Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:13:00Z",
+      "wm-id": 2043834,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117496850781396093/114418257918971781",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "oldfartjmb says FREE PALESTINE",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e33b4439da1ed7b91ee63379e0efd8c00abeeb5ee2a2fc9a0a00a86e5df5f6f4.png",
+        "url": "https://mastodon.online/@johnb48"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-109315794324304015",
+      "published": "2026-10-24T17:48:04Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:04Z",
+      "wm-id": 2043841,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/109315794324304015",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mal Kontent",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c13e48d901cb2652ce4daf148d0f68d18258cd8fb6ffd409cccaf155809e4c8c.png",
+        "url": "https://mementomori.social/@hellhound"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-117191348050901000",
+      "published": "2026-10-24T17:48:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:06Z",
+      "wm-id": 2043842,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/117191348050901000",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bill West",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4dba7cbca54c1c786fb4e8b864fbeead85d2da425fcb31634251f9dff9d86a2f.jpg",
+        "url": "https://mountains.social/@wwest4"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-112818213424001309",
+      "published": "2026-10-24T17:48:07Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:07Z",
+      "wm-id": 2043843,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/112818213424001309",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Plutarch",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/45fe7d026c665fcc582b9a24d33f7cec45bd81ec82ce16864c30e13153b0ea61.jpg",
+        "url": "https://gotosocial.plutar.ch/@plutarch"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-116293656146622228",
+      "published": "2026-10-24T17:48:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:10Z",
+      "wm-id": 2043845,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/116293656146622228",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jdunwin",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/390f76adf9bf839a7046fbc2441c3b888b35faaf70bc384080fa37d1ecbea6d9.jpg",
+        "url": "https://mastodon.social/@jdunwin"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-115050600877778445",
+      "published": "2026-10-24T17:48:10Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:10Z",
+      "wm-id": 2043844,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/115050600877778445",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3be8006654f7298a2ba36cbf45169feee4131516eb3b3ce66e1bd955a881133d.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-114891269374305316",
+      "published": "2026-10-24T17:48:12Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:12Z",
+      "wm-id": 2043846,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Meyltje ∞ 🍋 🏳️‍🌈",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/66758429b7ddcc06cec2e412a0568ee3a98463b0d356428e28ffbc23506484a6.jpg",
+        "url": "https://beige.party/@meyltje"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-114448951480957941",
+      "published": "2026-10-24T17:48:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:13Z",
+      "wm-id": 2043847,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/114448951480957941",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Plutarch",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/45fe7d026c665fcc582b9a24d33f7cec45bd81ec82ce16864c30e13153b0ea61.jpg",
+        "url": "https://gotosocial.plutar.ch/@plutarch"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#reblogged-by-116293656146622228",
+      "published": "2026-10-24T17:48:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:16Z",
+      "wm-id": 2043848,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117496850781396093/116293656146622228",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#reblogged-by-113840219686050198",
+      "published": "2026-10-24T17:48:17Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:17Z",
+      "wm-id": 2043849,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117496850781396093/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bill West",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4dba7cbca54c1c786fb4e8b864fbeead85d2da425fcb31634251f9dff9d86a2f.jpg",
+        "url": "https://mountains.social/@wwest4"
+      },
+      "url": "https://mamot.fr/@nhoizey/117479874763443899#favorited-by-112818213424001309",
+      "published": "2026-10-24T17:48:21Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T17:48:21Z",
+      "wm-id": 2043850,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117479874763443899/112818213424001309",
+      "wm-target": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/taking-the-road-less-traveled/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "somcak",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/975b75f385d553185c1c75fcf8022ed6757947944d752aec2e540c5a2bb340aa.jpg",
+        "url": "https://beige.party/@somcak"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-112241516935585845",
+      "published": "2026-10-24T18:21:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T18:21:06Z",
+      "wm-id": 2043857,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/112241516935585845",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-116568504112454513",
+      "published": "2026-10-24T18:21:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T18:21:06Z",
+      "wm-id": 2043856,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lenora",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/925cc81aa29e7a8bfe10ce3358022450abe4a32ebc03c69e5e4a420b78f10a1c.png",
+        "url": "https://mastodon.social/@FaithinBones"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-110346264944660838",
+      "published": "2026-10-24T18:21:12Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T18:21:12Z",
+      "wm-id": 2043858,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/110346264944660838",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cognissart",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/df3bbbcfb075849e72813ef141566393f6261658b7f8438f08355f26ef590f18.jpg",
+        "url": "https://mastoart.social/@Cognissart"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-115428845981974916",
+      "published": "2026-10-24T18:51:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T18:51:28Z",
+      "wm-id": 2043862,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/115428845981974916",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dave",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ba1ebf541bd7ebb1c8047fa16a4ae7546a63644c329dd79281fcaef6fdb67495.jpg",
+        "url": "https://pixelfed.social/davewalker5"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-115057308109848244",
+      "published": "2026-10-24T18:51:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T18:51:28Z",
+      "wm-id": 2043861,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/115057308109848244",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dorothea",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a6a288517a621b00225a9184a2bd06848ac27183c6b2ac8d367b5edbea391555.jpg",
+        "url": "https://en.osm.town/@Dorothea"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-109534554865497592",
+      "published": "2026-10-24T19:51:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T19:51:28Z",
+      "wm-id": 2043870,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/109534554865497592",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Andreas Freise",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/05a869710c49d41c96323526f3961339cc9adbe2d0ab0eaec8219dce9f868c4a.png",
+        "url": "https://mastodon.nl/@gwoptics"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-109496245552137922",
+      "published": "2026-10-24T20:25:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T20:25:14Z",
+      "wm-id": 2043872,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/109496245552137922",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ali",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d0518adab3372a5557a37f2a70ca38f0a9039422d3d3dd46f24615b6356a04b2.png",
+        "url": "https://river.geek.nz/@Ali"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-114335803693404245",
+      "published": "2026-10-24T21:36:40Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T21:36:40Z",
+      "wm-id": 2043882,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/114335803693404245",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ChrisR",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f1b7441edbfc514cff170698a834f4999a5cadbef7c379d0557a03ae71c7a7a2.jpg",
+        "url": "https://mastodon.scot/@carusb"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-113488647416917967",
+      "published": "2026-10-24T22:12:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-24T22:12:14Z",
+      "wm-id": 2043889,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/113488647416917967",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Socially Distant",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c670c7ad89cc4bbe99b54413850502a6a59b7f9730f137338f9eff723a6139d5.jpg",
+        "url": "https://mastodon.social/@ranggie4"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-115919646068353511",
+      "published": "2026-10-25T03:50:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T03:50:14Z",
+      "wm-id": 2043930,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/115919646068353511",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "photomac",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/907760adbf447f022f27563705983df40919ed2c1d0cb435f59be0b29ede804f.png",
+        "url": "https://mas.to/@photomac"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#reblogged-by-109390058681412997",
+      "published": "2026-10-25T05:14:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T05:14:51Z",
+      "wm-id": 2043935,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117496850781396093/109390058681412997",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "kernpanik 🐾 🕊️ ☮ 🖖",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0801a6f7f0aa1a18df7942f14d0441c57e51e51ea3cc10b4b18a1401184ed695.png",
+        "url": "https://chaos.social/@kernpanik"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-82619",
+      "published": "2026-10-25T05:41:50Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T05:41:50Z",
+      "wm-id": 2043936,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/82619",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
       "wm-property": "like-of",
       "wm-private": false
     }
