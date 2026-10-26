@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-25T06:23:01.034Z",
+  "lastFetched": "2026-10-26T06:33:21.461Z",
   "webmentions": [
     {
       "type": "entry",
@@ -314625,6 +314625,386 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Scotty",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f6107c8e2cbaf510c2966e2100a93d52f73fefdc9a9e633db0eb16e0c91c1d48.png",
+        "url": "https://mastodon.scot/@scozmos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-115235997088335513",
+      "published": "2026-10-25T07:53:07Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T07:53:07Z",
+      "wm-id": 2043941,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/115235997088335513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-110795643064737098",
+      "published": "2026-10-25T08:25:35Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T08:25:35Z",
+      "wm-id": 2043954,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117501326850103698#favorited-by-113513794052763932",
+      "published": "2026-10-25T11:44:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T11:44:54Z",
+      "wm-id": 2044064,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117501326850103698/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3be8006654f7298a2ba36cbf45169feee4131516eb3b3ce66e1bd955a881133d.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117501326850103698#favorited-by-114891269374305316",
+      "published": "2026-10-25T11:44:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T11:44:54Z",
+      "wm-id": 2044063,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117501326850103698/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Blue",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/78ab25f39f6c8efdf8299fb12a91783ee33b10d248d907998d4f7880b108bebd.jpg",
+        "url": "https://social.tchncs.de/@BlueNotes"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-112762274614873931",
+      "published": "2026-10-25T12:12:02Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T12:12:02Z",
+      "wm-id": 2044071,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/112762274614873931",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Francien Bergmans",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fc75b341474cdca4d90e6773e705f7ea9d2313895ed8a043add8eb296b4b6186.jpg",
+        "url": "https://mastodon.social/@Francien63"
+      },
+      "url": "https://mamot.fr/@nhoizey/117501326850103698#favorited-by-116113577084662076",
+      "published": "2026-10-25T12:12:02Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T12:12:02Z",
+      "wm-id": 2044070,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117501326850103698/116113577084662076",
+      "wm-target": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Blue",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/78ab25f39f6c8efdf8299fb12a91783ee33b10d248d907998d4f7880b108bebd.jpg",
+        "url": "https://social.tchncs.de/@BlueNotes"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#reblogged-by-112762274614873931",
+      "published": "2026-10-25T12:12:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T12:12:08Z",
+      "wm-id": 2044072,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117496850781396093/112762274614873931",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117501326850103698#favorited-by-110651355078160221",
+      "published": "2026-10-25T13:22:47Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T13:22:47Z",
+      "wm-id": 2044085,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117501326850103698/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117501326850103698#favorited-by-113906621033686473",
+      "published": "2026-10-25T15:49:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T15:49:25Z",
+      "wm-id": 2044100,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117501326850103698/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/poolside-chill/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/640053afa6d787cbc709a792fac0ed630072ca8c8f0052fa8e9472a596ef7c37.jpg",
+        "url": "https://pixelfed.de/stjowe"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-115216297472097443",
+      "published": "2026-10-25T16:45:02Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T16:45:02Z",
+      "wm-id": 2044110,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/115216297472097443",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "funkenstich@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9952f5a139503b0786014de8657fc63c9919bb69a8e96384084ababf4a265366.jpg",
+        "url": "https://pixelfed.social/funkenstich"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-115181769080087283",
+      "published": "2026-10-25T16:45:02Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T16:45:02Z",
+      "wm-id": 2044109,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/115181769080087283",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "piet <3",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3be8006654f7298a2ba36cbf45169feee4131516eb3b3ce66e1bd955a881133d.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-114891269374305316",
+      "published": "2026-10-25T16:45:07Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T16:45:07Z",
+      "wm-id": 2044111,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-116568504112454513",
+      "published": "2026-10-25T16:45:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T16:45:08Z",
+      "wm-id": 2044112,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/640053afa6d787cbc709a792fac0ed630072ca8c8f0052fa8e9472a596ef7c37.jpg",
+        "url": "https://pixelfed.de/stjowe"
+      },
+      "url": "https://mamot.fr/@nhoizey/117496850781396093#favorited-by-115216297472097443",
+      "published": "2026-10-25T16:45:17Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T16:45:17Z",
+      "wm-id": 2044113,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117496850781396093/115216297472097443",
+      "wm-target": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/three-aisled-domed-church-of-panagia-kera/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan weber",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/640053afa6d787cbc709a792fac0ed630072ca8c8f0052fa8e9472a596ef7c37.jpg",
+        "url": "https://pixelfed.de/stjowe"
+      },
+      "url": "https://mamot.fr/@nhoizey/117490012552899832#favorited-by-115216297472097443",
+      "published": "2026-10-25T16:45:52Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T16:45:52Z",
+      "wm-id": 2044114,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117490012552899832/115216297472097443",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-sitia-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MauroGata@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/00c9cf5c8e12c8529ec96c8aee514529b4260c5e16e53fd0004a70c7d79f2cda.jpg",
+        "url": "https://pixelfed.social/MauroGata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-111611754307293477",
+      "published": "2026-10-25T17:19:18Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T17:19:18Z",
+      "wm-id": 2044121,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/111611754307293477",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-114331409715632221",
+      "published": "2026-10-25T18:15:09Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T18:15:09Z",
+      "wm-id": 2044142,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-109951804609117719",
+      "published": "2026-10-25T18:44:41Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T18:44:41Z",
+      "wm-id": 2044147,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-113513794052763932",
+      "published": "2026-10-25T19:11:19Z",
+      "published_ts": null,
+      "wm-received": "2026-10-25T19:11:19Z",
+      "wm-id": 2044149,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
       "wm-property": "like-of",
       "wm-private": false
     }
