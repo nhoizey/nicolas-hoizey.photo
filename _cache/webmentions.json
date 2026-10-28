@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-26T06:33:21.461Z",
+  "lastFetched": "2026-10-28T06:18:52.704Z",
   "webmentions": [
     {
       "type": "entry",
@@ -315002,6 +315002,446 @@
       "wm-received": "2026-10-25T19:11:19Z",
       "wm-id": 2044149,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-110795643064737098",
+      "published": "2026-10-28T02:52:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:52:39Z",
+      "wm-id": 2044588,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-112555206662590515",
+      "published": "2026-10-28T02:52:39Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:52:39Z",
+      "wm-id": 2044587,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "n1k0",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/094d9a54baac0ebe9dc0c3190e2bbb46a98a2be73b77604afed222a60552791f.png",
+        "url": "https://mamot.fr/@n1k0"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-17784",
+      "published": "2026-10-28T02:52:48Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:52:48Z",
+      "wm-id": 2044590,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/17784",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-109546769351149860",
+      "published": "2026-10-28T02:52:48Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:52:48Z",
+      "wm-id": 2044589,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thanh",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fa5d61f04c0747495d1f95c7672932923de0a20023db678bacbbac20d06ad034.jpg",
+        "url": "https://mamot.fr/@Thanh"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-11432",
+      "published": "2026-10-28T02:52:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:52:54Z",
+      "wm-id": 2044591,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/11432",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-114891269374305316",
+      "published": "2026-10-28T02:52:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:52:55Z",
+      "wm-id": 2044592,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-329706",
+      "published": "2026-10-28T02:52:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:52:57Z",
+      "wm-id": 2044593,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TristanKrs",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/19b71a01c20b624a8183b7c527239b7667fee645e762792ea51b9aa20e4ee24f.jpg",
+        "url": "https://mastodon.social/@TristanKrs"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-116974496078169088",
+      "published": "2026-10-28T02:52:58Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:52:58Z",
+      "wm-id": 2044594,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/116974496078169088",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117512665447500487#favorited-by-114885990175534748",
+      "published": "2026-10-28T02:53:07Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:07Z",
+      "wm-id": 2044595,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117512665447500487/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/agia-triada-cathedral/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-110651355078160221",
+      "published": "2026-10-28T02:53:19Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:19Z",
+      "wm-id": 2044596,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-114646450789715986",
+      "published": "2026-10-28T02:53:27Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:27Z",
+      "wm-id": 2044598,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-113513794052763932",
+      "published": "2026-10-28T02:53:27Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:27Z",
+      "wm-id": 2044597,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-114331409715632221",
+      "published": "2026-10-28T02:53:28Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:28Z",
+      "wm-id": 2044599,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-114891269374305316",
+      "published": "2026-10-28T02:53:29Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:29Z",
+      "wm-id": 2044601,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "0gust1",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3dbd3ed9bda680063d6fd737c6c230ffd3bb3fdb785ca4b8d8ca6c03937fd6de.png",
+        "url": "https://merveilles.town/@0gust1"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-163764",
+      "published": "2026-10-28T02:53:29Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:29Z",
+      "wm-id": 2044600,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/163764",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Noisette Dor",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d4938a7163de010b460afc8b749a269a752f67dd0d7e618ecc19a867b7473df7.jpg",
+        "url": "https://mastodon.social/@NoisetteDor"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-113877092069275088",
+      "published": "2026-10-28T02:53:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:30Z",
+      "wm-id": 2044603,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/113877092069275088",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thijs Lucas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b9b1d24bc58cfce5eed887a49fa3fbfa993addc425e53a4eac73ea17e626f974.jpg",
+        "url": "https://pixel.tchncs.de/Thijs_Lucas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-113856560557033345",
+      "published": "2026-10-28T02:53:30Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:30Z",
+      "wm-id": 2044602,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/113856560557033345",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Daniel Schildt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/60562eecf3f5be3d3f07d8cff972173d54e3c4028aa7aecb16f22d6bdecc9505.png",
+        "url": "https://mementomori.social/@autiomaa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-110802130603050055",
+      "published": "2026-10-28T02:53:31Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:31Z",
+      "wm-id": 2044605,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/110802130603050055",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dr. Juande Santander-Vela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e98ba51ae256fa749021b69c0ba50c5298e4ab38118fc7ea9c83908614bf27dc.jpg",
+        "url": "https://mathstodon.xyz/@juandesant"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-114777735666307997",
+      "published": "2026-10-28T02:53:31Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:31Z",
+      "wm-id": 2044604,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/114777735666307997",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-109322251141889536",
+      "published": "2026-10-28T02:53:32Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:32Z",
+      "wm-id": 2044606,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117507017759899436#favorited-by-329706",
+      "published": "2026-10-28T02:53:33Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:33Z",
+      "wm-id": 2044607,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117507017759899436/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-small-boat-on-lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117502513955353037#favorited-by-110651355078160221",
+      "published": "2026-10-28T02:53:34Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T02:53:34Z",
+      "wm-id": 2044608,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117502513955353037/110651355078160221",
       "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
