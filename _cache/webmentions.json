@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-28T06:18:52.704Z",
+  "lastFetched": "2026-10-29T06:19:02.772Z",
   "webmentions": [
     {
       "type": "entry",
@@ -315445,6 +315445,626 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/reflecting-on-the-pool/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-109546769351149860",
+      "published": "2026-10-28T11:37:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T11:37:54Z",
+      "wm-id": 2044670,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sean",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/74dd55bd9def023ce016cbeb6d6ad9cc447b161cbd0b6be9eb43e6f33fccc0d6.png",
+        "url": "https://mstdn.ca/@seanb"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-109322270571243643",
+      "published": "2026-10-28T11:37:59Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T11:37:59Z",
+      "wm-id": 2044671,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/109322270571243643",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-329706",
+      "published": "2026-10-28T12:10:54Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T12:10:54Z",
+      "wm-id": 2044675,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-114891269374305316",
+      "published": "2026-10-28T13:44:19Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T13:44:19Z",
+      "wm-id": 2044692,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-110651355078160221",
+      "published": "2026-10-28T14:12:56Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T14:12:56Z",
+      "wm-id": 2044694,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "France Pasquale 📷 🦻 :antifa: :no_ai:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/04573bd94566e3b4578be813caa97c13e0b5177a6be41da25addad7db412977f.png",
+        "url": "https://piaille.fr/@pasqualeberesti"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-109303201058582675",
+      "published": "2026-10-28T16:07:25Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T16:07:25Z",
+      "wm-id": 2044728,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/109303201058582675",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-113513794052763932",
+      "published": "2026-10-28T17:12:09Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:09Z",
+      "wm-id": 2044739,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "0gust1",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3dbd3ed9bda680063d6fd737c6c230ffd3bb3fdb785ca4b8d8ca6c03937fd6de.png",
+        "url": "https://merveilles.town/@0gust1"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-163764",
+      "published": "2026-10-28T17:12:09Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:09Z",
+      "wm-id": 2044738,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/163764",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-109322251141889536",
+      "published": "2026-10-28T17:12:09Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:09Z",
+      "wm-id": 2044737,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Samuel 🚴🏼🍻",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5a508a727a5be54e138dd2b3a90638a10858d176fab863d505c29d89825b958e.jpg",
+        "url": "https://mastodon.social/@SamyTerje"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-109301674949544721",
+      "published": "2026-10-28T17:12:12Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:12Z",
+      "wm-id": 2044740,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/109301674949544721",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-109546769351149860",
+      "published": "2026-10-28T17:12:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:13Z",
+      "wm-id": 2044742,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Gstettner",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/75a082a7d818dbb6fcc9c393ae2da2d3b4466fba46b03897f100eb2dce5463b1.jpg",
+        "url": "https://mastodon.social/@joegste"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-116578003812000635",
+      "published": "2026-10-28T17:12:13Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:13Z",
+      "wm-id": 2044741,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/116578003812000635",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "estibensito",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/249f5987bcb53b847267be0a1141c2ed034bf526d213db6f6bed895697a103a5.jpg",
+        "url": "https://pixelfed.social/estiben_sito"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-114205908073188437",
+      "published": "2026-10-28T17:12:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:15Z",
+      "wm-id": 2044744,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/114205908073188437",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "0gust1",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3dbd3ed9bda680063d6fd737c6c230ffd3bb3fdb785ca4b8d8ca6c03937fd6de.png",
+        "url": "https://merveilles.town/@0gust1"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#reblogged-by-163764",
+      "published": "2026-10-28T17:12:15Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:15Z",
+      "wm-id": 2044743,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117519504276303126/163764",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-113513794052763932",
+      "published": "2026-10-28T17:12:16Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:12:16Z",
+      "wm-id": 2044745,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "L'Olive",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c9a363c11755b1783e45fff691ca29857bd6e52398765d863aa926103af2a57f.jpg",
+        "url": "https://mastodon.social/@lolive_xyz"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-115612527330508122",
+      "published": "2026-10-28T17:41:06Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:41:06Z",
+      "wm-id": 2044748,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/115612527330508122",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "t s r o n o",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0295abee443a3a092bbeaf232b9adafcc15166335aa9a3293a716eb9e937f9c3.jpg",
+        "url": "https://mastodon.social/@tsrono"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-108205759385564399",
+      "published": "2026-10-28T17:41:11Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:41:11Z",
+      "wm-id": 2044749,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/108205759385564399",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kenneth Karlsson 🇩🇰",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/387670ca155e81075f0b9c3e18604e4ac8b84ba9967aa707642d78366b269ddf.jpg",
+        "url": "https://pixelfed.social/kennethk"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-117005056201439100",
+      "published": "2026-10-28T17:41:12Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:41:12Z",
+      "wm-id": 2044750,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/117005056201439100",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-116568504112454513",
+      "published": "2026-10-28T17:41:14Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T17:41:14Z",
+      "wm-id": 2044751,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-114891269374305316",
+      "published": "2026-10-28T18:14:27Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T18:14:27Z",
+      "wm-id": 2044755,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "rons_fotografie",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/308596e609d8d7c4023996369e69882f2f53b94f4d2e080bbbc32653ac5ea54c.jpg",
+        "url": "https://pixelfed.de/rons_fotografie"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-115758223296497768",
+      "published": "2026-10-28T18:43:40Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T18:43:40Z",
+      "wm-id": 2044761,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/115758223296497768",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-110651355078160221",
+      "published": "2026-10-28T18:43:40Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T18:43:40Z",
+      "wm-id": 2044760,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MauroGata@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/00c9cf5c8e12c8529ec96c8aee514529b4260c5e16e53fd0004a70c7d79f2cda.jpg",
+        "url": "https://pixelfed.social/MauroGata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-111611754307293477",
+      "published": "2026-10-28T18:43:40Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T18:43:40Z",
+      "wm-id": 2044759,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/111611754307293477",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-114307257434206498",
+      "published": "2026-10-28T19:17:26Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T19:17:26Z",
+      "wm-id": 2044766,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-112555206662590515",
+      "published": "2026-10-28T22:34:35Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T22:34:35Z",
+      "wm-id": 2044799,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Josh Summer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/cb4c983a46032278a0ab98a4a32e8e8a1330ab032678bafd5690329e60a72ba6.png",
+        "url": "https://gayfr.social/@JoshSummer"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-117321112111478782",
+      "published": "2026-10-28T23:03:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T23:03:53Z",
+      "wm-id": 2044802,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/117321112111478782",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-112555206662590515",
+      "published": "2026-10-28T23:03:59Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T23:03:59Z",
+      "wm-id": 2044803,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Norry Nowt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/28b4822ba7976d9f9a2ca9d7314df17b5afa70b6367b2df0da6bad4ceaadea8a.jpg",
+        "url": "https://social.linux.pizza/@harrysentonbury"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-364073",
+      "published": "2026-10-28T23:32:36Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T23:32:36Z",
+      "wm-id": 2044817,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/364073",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "FriendlyWeirdo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a53ddb4f04ed04e4897879e1cc9e407f3166fffa8a2883a7e7e8abc1cdea3bf2.jpg",
+        "url": "https://pixelfed.social/Weird_Willow"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-114133606212181460",
+      "published": "2026-10-28T23:32:37Z",
+      "published_ts": null,
+      "wm-received": "2026-10-28T23:32:37Z",
+      "wm-id": 2044818,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/114133606212181460",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Meanwhile, on Earth One",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d7e1ad25ee3cf397e6bcda8f0f3b6025bfc3b5b1371ff32ff7c289f2be86b46f.jpg",
+        "url": "https://sfba.social/@Meanwhile_on_earth_One"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-109468742752740474",
+      "published": "2026-10-29T01:14:55Z",
+      "published_ts": null,
+      "wm-received": "2026-10-29T01:14:55Z",
+      "wm-id": 2044835,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/109468742752740474",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-116013168770614572",
+      "published": "2026-10-29T02:38:00Z",
+      "published_ts": null,
+      "wm-received": "2026-10-29T02:38:00Z",
+      "wm-id": 2044843,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
       "wm-property": "like-of",
       "wm-private": false
     }
