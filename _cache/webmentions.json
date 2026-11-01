@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-10-31T06:14:02.577Z",
+  "lastFetched": "2026-11-01T06:15:24.251Z",
   "webmentions": [
     {
       "type": "entry",
@@ -316829,6 +316829,266 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-114891269374305316",
+      "published": "2026-10-31T13:09:44Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T13:09:44Z",
+      "wm-id": 2045754,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Oskarfoto",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8a6cb6a947ec0cfe99f18ada34354f4d09d481f8b6310e5ec6019ea10f940f23.jpg",
+        "url": "https://pixelfed.de/oskarfoto"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-117535638519593115",
+      "published": "2026-10-31T13:09:44Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T13:09:44Z",
+      "wm-id": 2045753,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/117535638519593115",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-113906621033686473",
+      "published": "2026-10-31T13:09:45Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T13:09:45Z",
+      "wm-id": 2045755,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-110651355078160221",
+      "published": "2026-10-31T14:35:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T14:35:20Z",
+      "wm-id": 2045766,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-113513794052763932",
+      "published": "2026-10-31T15:31:08Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T15:31:08Z",
+      "wm-id": 2045772,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mark Chick",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/99b8ace1e94acaced2c527514ed2ad24c62d579358a469cf62939e7ad7a7ecd8.jpg",
+        "url": "https://social.vivaldi.net/@DurableAce"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-114014863123337988",
+      "published": "2026-10-31T16:02:20Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T16:02:20Z",
+      "wm-id": 2045793,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/114014863123337988",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-110795643064737098",
+      "published": "2026-10-31T18:36:24Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T18:36:24Z",
+      "wm-id": 2045887,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Olivia",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/89fae70d13a202316dd53e8d5bb6643c36ca89affb87fdde770736388532e418.jpg",
+        "url": "https://pixelfed.social/Olivia1690"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-117524514135625733",
+      "published": "2026-10-31T19:54:52Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T19:54:52Z",
+      "wm-id": 2045920,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/117524514135625733",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Olivia",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/89fae70d13a202316dd53e8d5bb6643c36ca89affb87fdde770736388532e418.jpg",
+        "url": "https://pixelfed.social/Olivia1690"
+      },
+      "url": "https://mamot.fr/@nhoizey/117529629496877273#favorited-by-117524514135625733",
+      "published": "2026-10-31T19:54:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T19:54:53Z",
+      "wm-id": 2045922,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117529629496877273/117524514135625733",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-paleontological-museum/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Olivia",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/89fae70d13a202316dd53e8d5bb6643c36ca89affb87fdde770736388532e418.jpg",
+        "url": "https://pixelfed.social/Olivia1690"
+      },
+      "url": "https://mamot.fr/@nhoizey/117530812703068876#favorited-by-117524514135625733",
+      "published": "2026-10-31T19:54:53Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T19:54:53Z",
+      "wm-id": 2045921,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117530812703068876/117524514135625733",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-bistro/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/the-miniature-bistro/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Olivia",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/89fae70d13a202316dd53e8d5bb6643c36ca89affb87fdde770736388532e418.jpg",
+        "url": "https://pixelfed.social/Olivia1690"
+      },
+      "url": "https://mamot.fr/@nhoizey/117519504276303126#favorited-by-117524514135625733",
+      "published": "2026-10-31T19:54:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T19:54:57Z",
+      "wm-id": 2045924,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117519504276303126/117524514135625733",
+      "wm-target": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/heavy-sky-over-mirabello-bay/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Olivia",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/89fae70d13a202316dd53e8d5bb6643c36ca89affb87fdde770736388532e418.jpg",
+        "url": "https://pixelfed.social/Olivia1690"
+      },
+      "url": "https://mamot.fr/@nhoizey/117518304385676714#favorited-by-117524514135625733",
+      "published": "2026-10-31T19:54:57Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T19:54:57Z",
+      "wm-id": 2045923,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117518304385676714/117524514135625733",
+      "wm-target": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/lake-voulismeni/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "tonal buoy opacity",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2ccf8a99a52e832bd64a08b2084ff4c2bcd39f18fc9c0c0978914326a78e377.jpg",
+        "url": "https://pixey.org/tonalbuoycity"
+      },
+      "url": "https://mamot.fr/@nhoizey/117535292048641404#favorited-by-110452340498244089",
+      "published": "2026-10-31T20:55:51Z",
+      "published_ts": null,
+      "wm-received": "2026-10-31T20:55:51Z",
+      "wm-id": 2045946,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117535292048641404/110452340498244089",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
       "wm-property": "like-of",
       "wm-private": false
     }
