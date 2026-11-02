@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-01T06:15:24.251Z",
+  "lastFetched": "2026-11-02T06:22:00.839Z",
   "webmentions": [
     {
       "type": "entry",
@@ -317089,6 +317089,270 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/brussels/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/brussels/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "RM 🟡🟣🟡",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e8904d0259df7c7721f1470a2dee5645f9b74be48c549e64d7478a408b2c589b.jpg",
+        "url": "https://pixelfed.social/TokyoCityUrbex"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-113831980240210389",
+      "published": "2026-11-01T11:37:01Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T11:37:01Z",
+      "wm-id": 2046067,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/113831980240210389",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Delphine M.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/18d646f918026bbb6d7bc13343d0194b8a116e52fc8db34197e4bc0aeecb19b4.png",
+        "url": "https://framapiaf.org/@DelphineM"
+      },
+      "url": "https://framapiaf.org/@DelphineM/117541055015459090",
+      "published": "2026-11-01T11:56:04+00:00",
+      "published_ts": 1793534164,
+      "wm-received": "2026-11-01T12:10:49Z",
+      "wm-id": 2046070,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117540952869654600/117541069813298088",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> Tu ne seras as étonné d'apprendre que j'aime beaucoup</p>",
+        "text": "@nhoizey Tu ne seras as étonné d'apprendre que j'aime beaucoup"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Quietexposure",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/511adf468d4013320e6660f5dc1558a084e8aa1965cbc5bb7b0922a921e5a32f.jpg",
+        "url": "https://pixelfed.social/Quietexposure"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-117113031412619996",
+      "published": "2026-11-01T12:10:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T12:10:49Z",
+      "wm-id": 2046071,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/117113031412619996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Delphine M.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/18d646f918026bbb6d7bc13343d0194b8a116e52fc8db34197e4bc0aeecb19b4.png",
+        "url": "https://framapiaf.org/@DelphineM"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-16731",
+      "published": "2026-11-01T12:10:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T12:10:49Z",
+      "wm-id": 2046069,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/16731",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-113513794052763932",
+      "published": "2026-11-01T12:40:01Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T12:40:01Z",
+      "wm-id": 2046079,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-114891269374305316",
+      "published": "2026-11-01T13:39:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T13:39:50Z",
+      "wm-id": 2046091,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Minerva",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/634d0a325243109e12f306e3cec9ecb7da410c6f9f5d83de6071e8c35e0cc013.jpg",
+        "url": "https://pixelfed.social/Pixyguy.26"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-116148934642179149",
+      "published": "2026-11-01T13:39:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T13:39:50Z",
+      "wm-id": 2046090,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/116148934642179149",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wesley Soares",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/762afaeb91b690c585326db70736f777d7b2adfdb9aea4fdfd732aea7b500716.jpg",
+        "url": "https://metapixl.com/wesleysoares"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-111307429073340471",
+      "published": "2026-11-01T15:05:56Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T15:05:56Z",
+      "wm-id": 2046112,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/111307429073340471",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-110651355078160221",
+      "published": "2026-11-01T15:32:13Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T15:32:13Z",
+      "wm-id": 2046119,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lecahieraspirales",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9f3f5758040a0833a44c47f8bf67c00df4b79922df8a1b5f5b61aa991ea6e33f.jpg",
+        "url": "https://mastodon.social/@Lecarnetaspirales"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-116891171860967228",
+      "published": "2026-11-01T15:57:35Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T15:57:35Z",
+      "wm-id": 2046126,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/116891171860967228",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Victor",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2d4c86ff1b68d74261d86849ae66767e842c3d36d4557de263ea30b908a6a3d7.png",
+        "url": "https://typo.social/@victor"
+      },
+      "url": "https://mamot.fr/@nhoizey/117542134665207329#favorited-by-114977770135245105",
+      "published": "2026-11-01T17:22:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T17:22:41Z",
+      "wm-id": 2046165,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117542134665207329/114977770135245105",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Adrianna",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/209f09e2be60cc74772dea0df20854539b0ab2ff82e1263174d741847eeb8b09.jpg",
+        "url": "https://pixelfed.social/Adriamichelle"
+      },
+      "url": "https://mamot.fr/@nhoizey/117523967712449777#favorited-by-117543658636305168",
+      "published": "2026-11-01T23:07:29Z",
+      "published_ts": null,
+      "wm-received": "2026-11-01T23:07:29Z",
+      "wm-id": 2046226,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117523967712449777/117543658636305168",
+      "wm-target": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-elounda-s-harbour/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/traditional-greek-kaikia-in-elounda-s-harbour/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117540952869654600#favorited-by-117496695550768460",
+      "published": "2026-11-02T00:10:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T00:10:08Z",
+      "wm-id": 2046242,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117540952869654600/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
       "wm-property": "like-of",
       "wm-private": false
     }
