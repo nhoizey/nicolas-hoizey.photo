@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-02T06:22:00.839Z",
+  "lastFetched": "2026-11-03T06:17:00.584Z",
   "webmentions": [
     {
       "type": "entry",
@@ -317353,6 +317353,310 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/stop-this/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-109322251141889536",
+      "published": "2026-11-02T11:54:03Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T11:54:03Z",
+      "wm-id": 2046464,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-329706",
+      "published": "2026-11-02T11:54:03Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T11:54:03Z",
+      "wm-id": 2046463,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-113906621033686473",
+      "published": "2026-11-02T11:54:05Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T11:54:05Z",
+      "wm-id": 2046465,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-114891269374305316",
+      "published": "2026-11-02T12:20:12Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T12:20:12Z",
+      "wm-id": 2046466,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-114331409715632221",
+      "published": "2026-11-02T12:20:38Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T12:20:38Z",
+      "wm-id": 2046467,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Moko",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9c5f791e9c298a7fc9cf21bbbf9f87a1e9b51d9c6329d864f78fe12d63744cba.png",
+        "url": "https://mamot.fr/@zemoko"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-244880",
+      "published": "2026-11-02T12:53:38Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T12:53:38Z",
+      "wm-id": 2046476,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/244880",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-113513794052763932",
+      "published": "2026-11-02T13:28:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T13:28:22Z",
+      "wm-id": 2046496,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-117496695550768460",
+      "published": "2026-11-02T13:28:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T13:28:22Z",
+      "wm-id": 2046495,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "I_was_saying_boo_urns",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/80f3866886131f2b9400a0d9e62ccb0420d4a1cc5d17bd085e126c1b85896d48.png",
+        "url": "https://pixelfed.social/BooUrns"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-114380965762507724",
+      "published": "2026-11-02T14:28:25Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T14:28:25Z",
+      "wm-id": 2046522,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/114380965762507724",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-114398726695840867",
+      "published": "2026-11-02T14:28:26Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T14:28:26Z",
+      "wm-id": 2046523,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-110651355078160221",
+      "published": "2026-11-02T14:54:29Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T14:54:29Z",
+      "wm-id": 2046528,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vincent de Waleffe",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6cd74eecbab6bc8dc799749939f677afc1f6788f3082c2a22eaf5edf66825efa.jpg",
+        "url": "https://pixelfed.fr/Vindwa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117546617944934209#favorited-by-114379521139960377",
+      "published": "2026-11-02T17:51:15Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T17:51:15Z",
+      "wm-id": 2046591,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117546617944934209/114379521139960377",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/palazzo-cavalli-franchetti/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Xeration.com",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e1f063bf40cf90a748e212a52a4139a7c789cfea78b886c228c38c63e5fb1309.png",
+        "url": "https://mastodon.social/@xeration"
+      },
+      "url": "https://mastodon.social/@xeration/117549302730507212",
+      "published": "2026-11-02T22:53:34+00:00",
+      "published_ts": 1793660014,
+      "wm-received": "2026-11-02T23:02:29Z",
+      "wm-id": 2046689,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117542134665207329/117549303291473842",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> dusty champagne bottles in a cellar look like little sleeping soldiers. that layer of dust is half the story</p>",
+        "text": "@nhoizey dusty champagne bottles in a cellar look like little sleeping soldiers. that layer of dust is half the story"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Xeration.com",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e1f063bf40cf90a748e212a52a4139a7c789cfea78b886c228c38c63e5fb1309.png",
+        "url": "https://mastodon.social/@xeration"
+      },
+      "url": "https://mamot.fr/@nhoizey/117542134665207329#reblogged-by-117496102242519231",
+      "published": "2026-11-02T23:02:01Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T23:02:01Z",
+      "wm-id": 2046688,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117542134665207329/117496102242519231",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Xeration.com",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e1f063bf40cf90a748e212a52a4139a7c789cfea78b886c228c38c63e5fb1309.png",
+        "url": "https://mastodon.social/@xeration"
+      },
+      "url": "https://mamot.fr/@nhoizey/117542134665207329#favorited-by-117496102242519231",
+      "published": "2026-11-02T23:02:01Z",
+      "published_ts": null,
+      "wm-received": "2026-11-02T23:02:01Z",
+      "wm-id": 2046687,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117542134665207329/117496102242519231",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
       "wm-property": "like-of",
       "wm-private": false
     }
