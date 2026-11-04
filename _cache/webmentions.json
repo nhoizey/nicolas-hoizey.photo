@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-03T06:17:00.584Z",
+  "lastFetched": "2026-11-04T06:16:36.041Z",
   "webmentions": [
     {
       "type": "entry",
@@ -317657,6 +317657,626 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/misc/still-life/bacchus-dream/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Antoine",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/42e1c40cf850c9285ac3d2fd122e3152f8bfe5da32302015058f8640a6facb65.gif",
+        "url": "https://indieweb.social/@villapirorum"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-113398547428803763",
+      "published": "2026-11-03T11:48:07Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T11:48:07Z",
+      "wm-id": 2046802,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/113398547428803763",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Quietexposure",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/511adf468d4013320e6660f5dc1558a084e8aa1965cbc5bb7b0922a921e5a32f.jpg",
+        "url": "https://pixelfed.social/Quietexposure"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-117113031412619996",
+      "published": "2026-11-03T12:21:53Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T12:21:53Z",
+      "wm-id": 2046806,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/117113031412619996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-114398726695840867",
+      "published": "2026-11-03T12:21:54Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T12:21:54Z",
+      "wm-id": 2046807,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-113513794052763932",
+      "published": "2026-11-03T12:54:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T12:54:42Z",
+      "wm-id": 2046810,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-109322251141889536",
+      "published": "2026-11-03T12:54:48Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T12:54:48Z",
+      "wm-id": 2046811,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-114885990175534748",
+      "published": "2026-11-03T12:54:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T12:54:50Z",
+      "wm-id": 2046813,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-114891269374305316",
+      "published": "2026-11-03T12:54:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T12:54:50Z",
+      "wm-id": 2046812,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Rick Gaehl",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6d603081273084282d96b4b4128147b3cc37f3f9e9e14f99270059abe01f3320.png",
+        "url": "https://mstdn.social/@RickGaehl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-108891854352312326",
+      "published": "2026-11-03T13:26:26Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T13:26:26Z",
+      "wm-id": 2046820,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/108891854352312326",
+      "wm-target": "https://nicolas-hoizey.photo/photos/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#reblogged-by-109546769351149860",
+      "published": "2026-11-03T13:31:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T13:31:06Z",
+      "wm-id": 2046821,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117552281030984345/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-109546769351149860",
+      "published": "2026-11-03T13:38:16Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T13:38:16Z",
+      "wm-id": 2046822,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Laura Cochran",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0b8b17508695fa0d0d6698da12f5cc484d463ae34a738c025496a2ca0fb3a899.png",
+        "url": "https://universeodon.com/@lacochran"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-109406592803454049",
+      "published": "2026-11-03T13:54:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T13:54:42Z",
+      "wm-id": 2046823,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/109406592803454049",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-110651355078160221",
+      "published": "2026-11-03T15:04:32Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T15:04:32Z",
+      "wm-id": 2046845,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-109546769351149860",
+      "published": "2026-11-03T16:56:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T16:56:06Z",
+      "wm-id": 2046862,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Handlung(s)Reisender 🍏",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/37ed0f35caee12346439b7aba147ddaf82895042ae1aa56599104566e449ba08.jpg",
+        "url": "https://mastodon.social/@Gerwin_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-116415769514877815",
+      "published": "2026-11-03T16:56:07Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T16:56:07Z",
+      "wm-id": 2046864,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/116415769514877815",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-114307257434206498",
+      "published": "2026-11-03T16:56:07Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T16:56:07Z",
+      "wm-id": 2046863,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-114891269374305316",
+      "published": "2026-11-03T16:56:09Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T16:56:09Z",
+      "wm-id": 2046865,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-113513794052763932",
+      "published": "2026-11-03T16:56:32Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T16:56:32Z",
+      "wm-id": 2046866,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-329706",
+      "published": "2026-11-03T16:58:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T16:58:06Z",
+      "wm-id": 2046867,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HTH 📎",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9e92dd399e80ef4cb681abd3d1865689c9e3dc5a74ffaf5a2280e02acf3495f.png",
+        "url": "https://mastoart.social/@Collage1956"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-115826761777032125",
+      "published": "2026-11-03T16:58:07Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T16:58:07Z",
+      "wm-id": 2046869,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/115826761777032125",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sebastian Lasse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a655931c508990ce66c59f7c4aee485382d6781a64062726b8feb3c35e3639fb.png",
+        "url": "https://digitalcourage.social/@sl007"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-475910",
+      "published": "2026-11-03T16:58:07Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T16:58:07Z",
+      "wm-id": 2046868,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/475910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Lœuillet",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7f12110128f47b5e40e696fb5bcc47d45ccf0ce96a97da86347cbfc7328f0a7b.jpg",
+        "url": "https://piaille.fr/@nicosomb"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-109270476175936158",
+      "published": "2026-11-03T17:31:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T17:31:41Z",
+      "wm-id": 2046875,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/109270476175936158",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "I_was_saying_boo_urns",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/80f3866886131f2b9400a0d9e62ccb0420d4a1cc5d17bd085e126c1b85896d48.png",
+        "url": "https://pixelfed.social/BooUrns"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-114380965762507724",
+      "published": "2026-11-03T17:31:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T17:31:41Z",
+      "wm-id": 2046874,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/114380965762507724",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "I_was_saying_boo_urns",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/80f3866886131f2b9400a0d9e62ccb0420d4a1cc5d17bd085e126c1b85896d48.png",
+        "url": "https://pixelfed.social/BooUrns"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-114380965762507724",
+      "published": "2026-11-03T18:05:13Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T18:05:13Z",
+      "wm-id": 2046880,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/114380965762507724",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-110651355078160221",
+      "published": "2026-11-03T19:31:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T19:31:50Z",
+      "wm-id": 2046897,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-112555206662590515",
+      "published": "2026-11-03T19:54:04Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T19:54:04Z",
+      "wm-id": 2046899,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Francien Bergmans",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fc75b341474cdca4d90e6773e705f7ea9d2313895ed8a043add8eb296b4b6186.jpg",
+        "url": "https://mastodon.social/@Francien63"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-116113577084662076",
+      "published": "2026-11-03T19:54:04Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T19:54:04Z",
+      "wm-id": 2046898,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/116113577084662076",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SzFeri",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0b361a701b78bd85c6098bbf4bbd1ec06101e86e0f764bd812e56ecaa24ced19.jpg",
+        "url": "https://pixelfed.social/SzFeri"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-117359791554380274",
+      "published": "2026-11-03T20:19:54Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T20:19:54Z",
+      "wm-id": 2046904,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/117359791554380274",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Denise Silva",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/52a26491f4b4bc3cb9d765e714390be7969233b8909962da9b81091d0a604c8d.jpg",
+        "url": "https://pixelfed.social/denisesilvaart"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-117531290574583602",
+      "published": "2026-11-03T20:19:54Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T20:19:54Z",
+      "wm-id": 2046903,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/117531290574583602",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117552281030984345#favorited-by-112555206662590515",
+      "published": "2026-11-03T20:19:55Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T20:19:55Z",
+      "wm-id": 2046905,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117552281030984345/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/a-peaceful-canal-in-venice/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hrafn van Es (Ravi) they/he",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8c3a38c72cb491c35678ae9942ac342550a77b06c712ee27fcaf0fa7a330dffe.jpg",
+        "url": "https://pixelfed.social/Ravimakes"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-113895506415970876",
+      "published": "2026-11-03T20:54:55Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T20:54:55Z",
+      "wm-id": 2046911,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/113895506415970876",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cocoon",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/838551867986895e5cd043cc0b2ae6d885d3148d5d69e8a453bea281dcf8616b.jpg",
+        "url": "https://pixelfed.social/cocoon"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-114109864830710267",
+      "published": "2026-11-03T22:32:17Z",
+      "published_ts": null,
+      "wm-received": "2026-11-03T22:32:17Z",
+      "wm-id": 2046916,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/114109864830710267",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
       "wm-property": "like-of",
       "wm-private": false
     }
