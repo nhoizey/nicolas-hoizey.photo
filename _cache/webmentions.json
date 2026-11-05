@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-04T06:16:36.041Z",
+  "lastFetched": "2026-11-05T06:16:46.002Z",
   "webmentions": [
     {
       "type": "entry",
@@ -318277,6 +318277,286 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gabriel A.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e6ea7afea0be70ffb9d4c3788e4519ed327e78daa6fe5672050e60459e0c84b0.png",
+        "url": "https://pixelfed.social/gabisim"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-116013168770614572",
+      "published": "2026-11-04T06:45:30Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T06:45:30Z",
+      "wm-id": 2046989,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/116013168770614572",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "@photonpoet",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8fe02b631291dc25e098ecf5e5227df94e32ea9b79be3bdd0a1afc64e0da8155.jpg",
+        "url": "https://pixelfed.social/photonpoet"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-113384622897542222",
+      "published": "2026-11-04T09:16:56Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T09:16:56Z",
+      "wm-id": 2047539,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/113384622897542222",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-114891269374305316",
+      "published": "2026-11-04T12:14:32Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T12:14:32Z",
+      "wm-id": 2047582,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glitz",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6b95ed89097ebb23a7ce83d8d8a1ada4f542656f6427684c7fe272fc75ff1f0d.jpg",
+        "url": "https://mastodon.social/@Ponderingzaneq"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-117558055509441367",
+      "published": "2026-11-04T12:14:32Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T12:14:32Z",
+      "wm-id": 2047581,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/117558055509441367",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Quietexposure",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/511adf468d4013320e6660f5dc1558a084e8aa1965cbc5bb7b0922a921e5a32f.jpg",
+        "url": "https://pixelfed.social/Quietexposure"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-117113031412619996",
+      "published": "2026-11-04T12:14:33Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T12:14:33Z",
+      "wm-id": 2047583,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/117113031412619996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Patrick H. Lauke",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/71467e7fc6cb595b66835765e7e269ec1e43784f5ebb77d98fa0dc3a3ab1fc76.jpg",
+        "url": "https://mastodon.social/@patrick_h_lauke"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-109286202444729132",
+      "published": "2026-11-04T12:14:57Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T12:14:57Z",
+      "wm-id": 2047584,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/109286202444729132",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Franco Gr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7279e4ea77b268b9ac9983e0c5274e9e22ebae930a8c5e629ddf0f0271b20628.jpg",
+        "url": "https://mastodon.social/@frngr"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-109554",
+      "published": "2026-11-04T12:43:00Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T12:43:00Z",
+      "wm-id": 2047588,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/109554",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thijs Lucas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b9b1d24bc58cfce5eed887a49fa3fbfa993addc425e53a4eac73ea17e626f974.jpg",
+        "url": "https://pixel.tchncs.de/Thijs_Lucas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-113856560557033345",
+      "published": "2026-11-04T13:08:32Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T13:08:32Z",
+      "wm-id": 2047590,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/113856560557033345",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "I_was_saying_boo_urns",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/80f3866886131f2b9400a0d9e62ccb0420d4a1cc5d17bd085e126c1b85896d48.png",
+        "url": "https://pixelfed.social/BooUrns"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-114380965762507724",
+      "published": "2026-11-04T13:39:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T13:39:19Z",
+      "wm-id": 2047597,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/114380965762507724",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Riddles😎🏳️‍🌈😂",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6df9cdafbe8fb847e3e15219c725dbc6075ea60e6c24a5240387f2e715549efb.png",
+        "url": "https://c.im/@RIDDLES"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#reblogged-by-109328520946747912",
+      "published": "2026-11-04T14:46:43Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T14:46:43Z",
+      "wm-id": 2047611,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117557941960951370/109328520946747912",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hypolite Petovan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5665712d11e02d577e773d7810a050a5e9349b4de4d5f365839e2e23948cd210.png",
+        "url": "https://friendica.mrpetovan.com/profile/hypolite"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-2758",
+      "published": "2026-11-04T15:41:11Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T15:41:11Z",
+      "wm-id": 2047614,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/2758",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Uwe",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3a9dec12afd0dd39639fab575d2b3736d5fa5632d6c18bb3aeb5eb80fd1afdc8.jpg",
+        "url": "https://pixelfed.social/uweundsmilla"
+      },
+      "url": "https://mamot.fr/@nhoizey/117553462355892609#favorited-by-115362103101203925",
+      "published": "2026-11-04T16:10:13Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T16:10:13Z",
+      "wm-id": 2047633,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117553462355892609/115362103101203925",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-114307257434206498",
+      "published": "2026-11-04T16:38:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T16:38:08Z",
+      "wm-id": 2047635,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117557941960951370#favorited-by-113513794052763932",
+      "published": "2026-11-04T17:36:57Z",
+      "published_ts": null,
+      "wm-received": "2026-11-04T17:36:57Z",
+      "wm-id": 2047645,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117557941960951370/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/primary-colours-of-burano/",
       "wm-property": "like-of",
       "wm-private": false
     }
