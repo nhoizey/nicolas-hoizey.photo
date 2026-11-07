@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-06T06:17:27.598Z",
+  "lastFetched": "2026-11-07T06:14:06.514Z",
   "webmentions": [
     {
       "type": "entry",
@@ -319257,6 +319257,306 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-window-in-burano/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-window-in-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117564782461925614#favorited-by-114307257434206498",
+      "published": "2026-11-06T06:50:07Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T06:50:07Z",
+      "wm-id": 2048220,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117564782461925614/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-window-in-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/colourful-window-in-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "I am PJ 🇵🇹 :an: :oc: :nonazis:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b55382bd0ec50e41c062458dec5aee2393fa900c62a7a611364d591c08155734.png",
+        "url": "https://social.taker.fr/@TheForeignAgent"
+      },
+      "url": "https://mamot.fr/@nhoizey/117563602201425776#reblogged-by-92204",
+      "published": "2026-11-06T09:15:35Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T09:15:35Z",
+      "wm-id": 2048270,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117563602201425776/92204",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/another-colourful-window-in-burano/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/another-colourful-window-in-burano/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisHideOut",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2e7b957c1a2e0e8e854a48b9834fcc37c961feb7580381a8a0a80fee392fa7e6.jpg",
+        "url": "https://loma.ml/profile/guettishideout"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-117466673888221910",
+      "published": "2026-11-06T11:44:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T11:44:42Z",
+      "wm-id": 2048301,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/117466673888221910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-329706",
+      "published": "2026-11-06T11:44:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T11:44:42Z",
+      "wm-id": 2048300,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dona maimai",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fe7f7ce47c0e87cfb9d5c7175e94f929faa0992337ba152af0c782d688b01d20.jpg",
+        "url": "https://bolha.one/@maiarar"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-113917921710138969",
+      "published": "2026-11-06T11:44:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T11:44:42Z",
+      "wm-id": 2048299,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/113917921710138969",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Quietexposure",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/511adf468d4013320e6660f5dc1558a084e8aa1965cbc5bb7b0922a921e5a32f.jpg",
+        "url": "https://pixelfed.social/Quietexposure"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-117113031412619996",
+      "published": "2026-11-06T11:44:44Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T11:44:44Z",
+      "wm-id": 2048302,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/117113031412619996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-113513794052763932",
+      "published": "2026-11-06T12:20:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T12:20:08Z",
+      "wm-id": 2048307,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-109546769351149860",
+      "published": "2026-11-06T12:20:09Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T12:20:09Z",
+      "wm-id": 2048308,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ollie Boermans",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5d35ee73c0d3f5114ab5319d45c37cb979c9ab5f4e5fb98f918a40b0a09d6745.png",
+        "url": "https://mastodon.social/@ollicle"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-106543",
+      "published": "2026-11-06T12:20:11Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T12:20:11Z",
+      "wm-id": 2048309,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/106543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-117496695550768460",
+      "published": "2026-11-06T13:45:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T13:45:06Z",
+      "wm-id": 2048333,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-110651355078160221",
+      "published": "2026-11-06T15:05:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T15:05:51Z",
+      "wm-id": 2048382,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PFotoherbst.net",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3d09ef1fe5c15c8afa62a0abb5686e1c843c8490747bf108664f86ea67a06cbd.png",
+        "url": "https://mastodon.social/@PFotoherbst"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-117570052137483371",
+      "published": "2026-11-06T15:06:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T15:06:21Z",
+      "wm-id": 2048383,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/117570052137483371",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "klu9 on ohai",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/10ee0598ff3387c963ecfa4dfbaed431b53214f1169a90c659484ed9974ffe43.png",
+        "url": "https://ohai.social/@klu9"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#reblogged-by-114571460371144149",
+      "published": "2026-11-06T16:39:25Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T16:39:25Z",
+      "wm-id": 2048419,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117569266300529121/114571460371144149",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "klu9 on ohai",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/10ee0598ff3387c963ecfa4dfbaed431b53214f1169a90c659484ed9974ffe43.png",
+        "url": "https://ohai.social/@klu9"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-114571460371144149",
+      "published": "2026-11-06T16:39:25Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T16:39:25Z",
+      "wm-id": 2048418,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/114571460371144149",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "みやくモード",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e417eeb0e7a32fbaba6c71da1d3c832142ca01d4c605ce35013758014242b4d4.png",
+        "url": "https://social.miyaku.media/@ryan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117569266300529121#favorited-by-114098878760185832",
+      "published": "2026-11-06T16:39:25Z",
+      "published_ts": null,
+      "wm-received": "2026-11-06T16:39:25Z",
+      "wm-id": 2048417,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117569266300529121/114098878760185832",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
       "wm-property": "like-of",
       "wm-private": false
     }
