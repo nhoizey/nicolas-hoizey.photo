@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-07T06:14:06.514Z",
+  "lastFetched": "2026-11-08T06:14:43.418Z",
   "webmentions": [
     {
       "type": "entry",
@@ -319557,6 +319557,946 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/tone-on-tone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-116568504112454513",
+      "published": "2026-11-07T11:46:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T11:46:18Z",
+      "wm-id": 2048836,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michel Teko",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/44585cb45c96af543af8c8173c27b2a95ff51eabd953679d72c99e54433912e1.jpg",
+        "url": "https://mastodon.social/@milubo"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109247106685220534",
+      "published": "2026-11-07T11:46:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T11:46:18Z",
+      "wm-id": 2048835,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109247106685220534",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HTH 📎",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9e92dd399e80ef4cb681abd3d1865689c9e3dc5a74ffaf5a2280e02acf3495f.png",
+        "url": "https://mastoart.social/@Collage1956"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-115826761777032125",
+      "published": "2026-11-07T11:46:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T11:46:18Z",
+      "wm-id": 2048834,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/115826761777032125",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "France Jor☝️:blob_disapproval:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/798811d242641903acbce58de2f4c4859ba57443cb436afe9b55b3210d9ba7c3.png",
+        "url": "https://eldritch.cafe/@jor"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-109479298964788086",
+      "published": "2026-11-07T11:46:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T11:46:21Z",
+      "wm-id": 2048838,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/109479298964788086",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Curliness162",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mastodon.social/@curliness162"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-117569297711975139",
+      "published": "2026-11-07T11:46:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T11:46:21Z",
+      "wm-id": 2048837,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/117569297711975139",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PixlLotta",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/47557b040340de9ac98c10b6c4f0950b85b92a597d8855e9148fcc53457dd254.jpg",
+        "url": "https://troet.cafe/@ShutterRatata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-110858420973948775",
+      "published": "2026-11-07T12:15:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:15:18Z",
+      "wm-id": 2048845,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/110858420973948775",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Fred de CLX",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9ca80df9fbd92a3b3b1907fa7ec83f6d6c199b9136272274782065b2d51c9f9f.png",
+        "url": "https://mamot.fr/@fred_clx2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-6005",
+      "published": "2026-11-07T12:15:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:15:18Z",
+      "wm-id": 2048844,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/6005",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "gwendolenau",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b7f375d5713c4fb7f9e98c38b0c0b303a7aa6cec845624f48ca63858ef9e5d6a.jpg",
+        "url": "https://mstdn.social/@gwendolenau"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-110490519630106150",
+      "published": "2026-11-07T12:15:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:15:18Z",
+      "wm-id": 2048843,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/110490519630106150",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Beverley",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/747c80d7665d4b31480f1b8269f435e6c7b43bf9f4c17814fe58315b17196b88.jpg",
+        "url": "https://mas.to/@TalktoBeverley"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109367071085744005",
+      "published": "2026-11-07T12:45:31Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:45:31Z",
+      "wm-id": 2048860,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109367071085744005",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Heather",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3a20b6fa4d9dd272272ff1e2eca74f19298386d3eda2c540e7f6dbe9cc313e8d.jpg",
+        "url": "https://mastodon.scot/@callunavulgaris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109321327230374239",
+      "published": "2026-11-07T12:45:31Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:45:31Z",
+      "wm-id": 2048859,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109321327230374239",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wildbird",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/062/778/576/414/759/original/9f843f1e60f0b72a.webp",
+        "url": "https://mastodon.social/@webidebi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-116062778576414759",
+      "published": "2026-11-07T12:45:33Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:45:33Z",
+      "wm-id": 2048861,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/116062778576414759",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jay S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b0e1a1b1330d8777f00d5a44af89186499a9efce8e69f500c8617f711612f333.png",
+        "url": "https://mastodon.social/@summetj"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-109650763021845045",
+      "published": "2026-11-07T12:45:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:45:49Z",
+      "wm-id": 2048862,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/109650763021845045",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "David Phd",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2dd67cfe9ebdc7af800e9ec4d948c3d8d5dead2a8d6076353f9e14909eb0ccf3.jpg",
+        "url": "https://mas.to/@cmsdengl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-109380433807967859",
+      "published": "2026-11-07T12:45:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:45:50Z",
+      "wm-id": 2048864,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/109380433807967859",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-114646450789715986",
+      "published": "2026-11-07T12:45:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:45:50Z",
+      "wm-id": 2048863,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-114646450789715986",
+      "published": "2026-11-07T12:45:52Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:45:52Z",
+      "wm-id": 2048866,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wildbird",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/116/062/778/576/414/759/original/9f843f1e60f0b72a.webp",
+        "url": "https://mastodon.social/@webidebi"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-116062778576414759",
+      "published": "2026-11-07T12:45:52Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T12:45:52Z",
+      "wm-id": 2048865,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/116062778576414759",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Phillyinflorida",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/406/257/196/774/203/original/4f8b56f07a094ef7.jpg",
+        "url": "https://universeodon.com/@blwinnemore"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109406257196774203",
+      "published": "2026-11-07T13:19:16Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:16Z",
+      "wm-id": 2048882,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109406257196774203",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-114891269374305316",
+      "published": "2026-11-07T13:19:16Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:16Z",
+      "wm-id": 2048881,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dan Wolfstone",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2410f10386c97577502f1851943c9199aa23392a7accfd8b2d5eae6d3de764d.jpg",
+        "url": "https://mstdn.social/@danwolfstone"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-111415753115111673",
+      "published": "2026-11-07T13:19:16Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:16Z",
+      "wm-id": 2048880,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/111415753115111673",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Laura Perry",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/68b7db2113bae74fe4522ee945425b7a68383b2072808975c0874b8d2a2ef802.jpg",
+        "url": "https://pagan.plus/@TheTempleMom"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109852033968640489",
+      "published": "2026-11-07T13:19:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:19Z",
+      "wm-id": 2048884,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109852033968640489",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "aprilfollies",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b37e48f1aab68fe7f0b7beccf549bc536bc9ad5f315d4317f81559bc7e88f067.jpg",
+        "url": "https://mastodon.online/@aprilfollies"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109302450079604242",
+      "published": "2026-11-07T13:19:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:19Z",
+      "wm-id": 2048883,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109302450079604242",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Zeke 🇨🇦 Vote Green",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0f5be7dfec6a508f83d88cfb3cb6ee30967c21703bffccafcc9a26a3d16b6964.png",
+        "url": "https://climatejustice.social/@mediocratese"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109399264330953783",
+      "published": "2026-11-07T13:19:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:21Z",
+      "wm-id": 2048885,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109399264330953783",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HypeBot 🔥",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/648aa442063651b9d75318ffc9b3d7a00c3be5f993e58482fe5d5a9aed119147.png",
+        "url": "https://social.ketupat.me/@hype"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-112084084768675996",
+      "published": "2026-11-07T13:19:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:22Z",
+      "wm-id": 2048886,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/112084084768675996",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Laura Perry",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/68b7db2113bae74fe4522ee945425b7a68383b2072808975c0874b8d2a2ef802.jpg",
+        "url": "https://pagan.plus/@TheTempleMom"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-109852033968640489",
+      "published": "2026-11-07T13:19:24Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:24Z",
+      "wm-id": 2048888,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/109852033968640489",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Phillyinflorida",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8b619aa3999dfd98445de94983e886369244cc19d3598daab200afb0b0f8c273.jpg",
+        "url": "https://universeodon.com/@blwinnemore"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-109406257196774203",
+      "published": "2026-11-07T13:19:24Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:24Z",
+      "wm-id": 2048887,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/109406257196774203",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Deborah Preuss, pcc 🇨🇦",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6b372cb3d4a0153b3bcc220e92108b852cf9ce511635d50b0876a138e59a5b01.png",
+        "url": "https://cosocial.ca/@deborahh"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-112765848798244667",
+      "published": "2026-11-07T13:19:25Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:25Z",
+      "wm-id": 2048889,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/112765848798244667",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-113840219686050198",
+      "published": "2026-11-07T13:19:26Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:19:26Z",
+      "wm-id": 2048890,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "robloblaw",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b839ba0cef2299b13c4910bea0529497c055268c6b41628da53d08e19f83c3cc.png",
+        "url": "https://mastodon.social/@robloblaw"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-112540411177275028",
+      "published": "2026-11-07T13:47:00Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:47:00Z",
+      "wm-id": 2048896,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/112540411177275028",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "David, a Bostonian in Tokyo.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7534075d378a0fa011424281888ab82910ef2674d3a1734156dd815ab878732f.jpg",
+        "url": "https://mastodon.mit.edu/@djl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-111004646442346471",
+      "published": "2026-11-07T13:47:00Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:47:00Z",
+      "wm-id": 2048895,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/111004646442346471",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": ":neuro: Pixy's Journey :nonbinary_heart:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/44f38830a1cfcc904baa46ede8f950cfbac1b4517b4df09ea9288285d69d9a4b.gif",
+        "url": "https://beige.party/@PixysJourney"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-111389679897061969",
+      "published": "2026-11-07T13:47:00Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:47:00Z",
+      "wm-id": 2048894,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/111389679897061969",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-114331409715632221",
+      "published": "2026-11-07T13:47:03Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:47:03Z",
+      "wm-id": 2048897,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SgRsKull",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f574441d276ae8c4269499ba512e89b72e717576b60577b72087985e9586abff.jpg",
+        "url": "https://pagan.plus/@crookedpathwitch"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-112747084785654849",
+      "published": "2026-11-07T13:47:04Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T13:47:04Z",
+      "wm-id": 2048898,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/112747084785654849",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Where To Begin",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0386d8068e63917955518c524c0c0d44b6caa5b2886038b5f011223ba8ef5489.png",
+        "url": "https://mastodon.social/@Startingtheconversation"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-117573757470001931",
+      "published": "2026-11-07T14:25:15Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T14:25:15Z",
+      "wm-id": 2048911,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/117573757470001931",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mastodon.social/@bigsog25"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-116885724940224126",
+      "published": "2026-11-07T14:25:15Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T14:25:15Z",
+      "wm-id": 2048910,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/116885724940224126",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Meyltje ∞ 🍋 🏳️‍🌈",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/66758429b7ddcc06cec2e412a0568ee3a98463b0d356428e28ffbc23506484a6.jpg",
+        "url": "https://beige.party/@meyltje"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-114448951480957941",
+      "published": "2026-11-07T14:25:16Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T14:25:16Z",
+      "wm-id": 2048912,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/114448951480957941",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-110651355078160221",
+      "published": "2026-11-07T15:24:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T15:24:22Z",
+      "wm-id": 2048939,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "don",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d620bd5cbe3e654538264856eb3a3db508d4454597905ca7c99e5b3922a0043b.jpg",
+        "url": "https://mastodon.online/@donlamb_1"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-108198855747025801",
+      "published": "2026-11-07T15:24:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T15:24:22Z",
+      "wm-id": 2048938,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/108198855747025801",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-114307257434206498",
+      "published": "2026-11-07T15:58:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T15:58:18Z",
+      "wm-id": 2048948,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "E r o q",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d683720a24de2f8bd3fd14d632ac6d1eb750e8c5cf9c9412bedc335774cf09f8.png",
+        "url": "https://infosec.exchange/@onuSBonus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-117430676977235148",
+      "published": "2026-11-07T15:58:20Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T15:58:20Z",
+      "wm-id": 2048950,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/117430676977235148",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hamish Buchanan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0ca3b82e0db64864843c2a66f0c15fd442a33271c93695f2e5dcf2e6a8409b6c.jpg",
+        "url": "https://mstdn.ca/@hamishb"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109678565973357443",
+      "published": "2026-11-07T15:58:20Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T15:58:20Z",
+      "wm-id": 2048949,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109678565973357443",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "E r o q",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d683720a24de2f8bd3fd14d632ac6d1eb750e8c5cf9c9412bedc335774cf09f8.png",
+        "url": "https://infosec.exchange/@onuSBonus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-117430676977235148",
+      "published": "2026-11-07T15:58:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T15:58:22Z",
+      "wm-id": 2048951,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/117430676977235148",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gitte Herden :autism: 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0316c714b54aef2052a0be688513a37ffd56f06f780a28a8970dd72567918d9d.png",
+        "url": "https://tyrol.social/@Gittegrafie"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109264030815424135",
+      "published": "2026-11-07T16:23:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T16:23:50Z",
+      "wm-id": 2048963,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109264030815424135",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gitte Herden :autism: 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0316c714b54aef2052a0be688513a37ffd56f06f780a28a8970dd72567918d9d.png",
+        "url": "https://tyrol.social/@Gittegrafie"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#reblogged-by-109264030815424135",
+      "published": "2026-11-07T16:23:53Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T16:23:53Z",
+      "wm-id": 2048964,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117574929266121819/109264030815424135",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Moss Wizard",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/61e59ba39d2004fea53a7e75d1b096a3e237ea8c03033311ea3d4c739aebdaa2.png",
+        "url": "https://beige.party/@Moss"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-113015492886263754",
+      "published": "2026-11-07T16:57:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T16:57:14Z",
+      "wm-id": 2049010,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/113015492886263754",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-113513794052763932",
+      "published": "2026-11-07T16:57:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T16:57:14Z",
+      "wm-id": 2049009,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bob Horowitz",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ee093ffe45d01d0b7df862a7fdc3da633e4165716163c0d7fcf80809f0f2849a.jpg",
+        "url": "https://sfba.social/@BobHorowitz"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-109368441288769065",
+      "published": "2026-11-07T20:03:55Z",
+      "published_ts": null,
+      "wm-received": "2026-11-07T20:03:55Z",
+      "wm-id": 2049057,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/109368441288769065",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "NYSloth",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d084e5ac09cb4c32a945a95f3f102954fcea2fa964d4a2efe81ac553a036d3fa.jpg",
+        "url": "https://sunny.garden/@NYSloth"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-117349721584820981",
+      "published": "2026-11-08T00:34:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T00:34:22Z",
+      "wm-id": 2049092,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/117349721584820981",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
       "wm-property": "like-of",
       "wm-private": false
     }
