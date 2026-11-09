@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-08T06:14:43.418Z",
+  "lastFetched": "2026-11-09T06:22:29.054Z",
   "webmentions": [
     {
       "type": "entry",
@@ -320497,6 +320497,309 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "M.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5fe1b92e26a4ec2bcc84ff3dc63175ddc3570096b7c132e99be98723397cc305.jpg",
+        "url": "https://pixelfed.social/nikeshlmc"
+      },
+      "url": "https://pixelfed.social/p/nikeshlmc/1025008088237142559",
+      "published": "2026-11-08T11:36:11+00:00",
+      "published_ts": 1794137771,
+      "wm-received": "2026-11-08T11:45:41Z",
+      "wm-id": 2049231,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117580589560547006/117580613325427663",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "Camouflage 🫣"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "M.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/5fe1b92e26a4ec2bcc84ff3dc63175ddc3570096b7c132e99be98723397cc305.jpg",
+        "url": "https://pixelfed.social/nikeshlmc"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-117580613131601401",
+      "published": "2026-11-08T11:45:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T11:45:41Z",
+      "wm-id": 2049233,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/117580613131601401",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Oliver Švob",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bbf2c20a6ab6b7c81d0f5071eef36a05d7a06aca612130e11a0831a432fa9a46.jpg",
+        "url": "https://pixelfed.social/malioli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-117516461113454605",
+      "published": "2026-11-08T11:45:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T11:45:41Z",
+      "wm-id": 2049232,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/117516461113454605",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "@eevisritu",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8970fb5fd46f94e6a319f1b509504e81ea208a325e5d406506572c07186e0e37.jpg",
+        "url": "https://pixelfed.social/Eeva-Riitta"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-114352139845327777",
+      "published": "2026-11-08T11:45:43Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T11:45:43Z",
+      "wm-id": 2049235,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/114352139845327777",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-329706",
+      "published": "2026-11-08T11:45:43Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T11:45:43Z",
+      "wm-id": 2049234,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Fabrice B.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/83a3ead3fc70751e8317fb365f8ef994d442028c78ce6495383aeb40252a3f57.jpg",
+        "url": "https://piaille.fr/@la__meute"
+      },
+      "url": "https://mamot.fr/@nhoizey/117563602201425776#favorited-by-115753108907908937",
+      "published": "2026-11-08T11:45:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T11:45:49Z",
+      "wm-id": 2049236,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117563602201425776/115753108907908937",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/another-colourful-window-in-burano/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/italy/venice/burano/another-colourful-window-in-burano/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "பாRTHIபN",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/294bf0b2da2f34df954e2dc162731a800c3a669cb1382af67db7f100cba06d51.jpg",
+        "url": "https://pixelfed.de/parthipan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-441319",
+      "published": "2026-11-08T12:11:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T12:11:51Z",
+      "wm-id": 2049241,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/441319",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vincent de Waleffe",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6cd74eecbab6bc8dc799749939f677afc1f6788f3082c2a22eaf5edf66825efa.jpg",
+        "url": "https://pixelfed.fr/Vindwa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-114379521139960377",
+      "published": "2026-11-08T12:11:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T12:11:51Z",
+      "wm-id": 2049240,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/114379521139960377",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ddadc3387318b629710cbbefc336ee38937d424ebbcecd89f9832f11a46cdcc9.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-114891269374305316",
+      "published": "2026-11-08T12:11:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T12:11:51Z",
+      "wm-id": 2049239,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "@eevisritu",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8970fb5fd46f94e6a319f1b509504e81ea208a325e5d406506572c07186e0e37.jpg",
+        "url": "https://pixelfed.social/Eeva-Riitta"
+      },
+      "url": "https://mamot.fr/@nhoizey/117574929266121819#favorited-by-114352139845327777",
+      "published": "2026-11-08T12:11:54Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T12:11:54Z",
+      "wm-id": 2049242,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117574929266121819/114352139845327777",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/fluorescent-jellyfishes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Leeroy",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/85728429b936ca18dab325c2d3ab8cba8d809d57a2fff6d9a1a6119bdea044a3.jpg",
+        "url": "https://pixelfed.social/firehound"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-108681660487473614",
+      "published": "2026-11-08T12:39:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T12:39:08Z",
+      "wm-id": 2049248,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/108681660487473614",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-116568504112454513",
+      "published": "2026-11-08T13:02:37Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T13:02:37Z",
+      "wm-id": 2049250,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-110651355078160221",
+      "published": "2026-11-08T15:34:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T15:34:51Z",
+      "wm-id": 2049291,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-113513794052763932",
+      "published": "2026-11-08T16:08:52Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T16:08:52Z",
+      "wm-id": 2049304,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Delphine M. ✊",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/18d646f918026bbb6d7bc13343d0194b8a116e52fc8db34197e4bc0aeecb19b4.png",
+        "url": "https://framapiaf.org/@DelphineM"
+      },
+      "url": "https://mamot.fr/@nhoizey/117580589560547006#favorited-by-16731",
+      "published": "2026-11-08T17:39:29Z",
+      "published_ts": null,
+      "wm-received": "2026-11-08T17:39:29Z",
+      "wm-id": 2049318,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117580589560547006/16731",
+      "wm-target": "https://nicolas-hoizey.photo/photos/mud-lover/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
       "wm-property": "like-of",
       "wm-private": false
     }
