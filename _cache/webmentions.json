@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-09T06:22:29.054Z",
+  "lastFetched": "2026-11-11T06:16:40.717Z",
   "webmentions": [
     {
       "type": "entry",
@@ -320801,6 +320801,1246 @@
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/mud-lover/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-110651355078160221",
+      "published": "2026-11-10T22:50:12Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:12Z",
+      "wm-id": 2049958,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Küstentröte",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9f318807de2ca0b3d304ee6146f1e08b8e6fa6071c7d0d9c25571e1e74064dde.jpg",
+        "url": "https://troet.cafe/@Kuestentroete"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-109774058800464373",
+      "published": "2026-11-10T22:50:12Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:12Z",
+      "wm-id": 2049957,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/109774058800464373",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-503687",
+      "published": "2026-11-10T22:50:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:14Z",
+      "wm-id": 2049959,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Laney BK :mastodon:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f7472e87f2aa48cb4249d016e0d9fdcd15a35b142da9c093304ce6fe47a61c21.png",
+        "url": "https://mastodon.social/@NyakoKitty"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-112395488510615975",
+      "published": "2026-11-10T22:50:35Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:35Z",
+      "wm-id": 2049960,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/112395488510615975",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2743f4490d4ec9835ac1e9e780e97570a0442a05e7be7e5e29dc1d0dbf95956.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-114891269374305316",
+      "published": "2026-11-10T22:50:37Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:37Z",
+      "wm-id": 2049961,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-113513794052763932",
+      "published": "2026-11-10T22:50:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:49Z",
+      "wm-id": 2049963,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kristof Zerbe",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ea38e1ed14c0b7c4ac39c23d6888b5df38cbf4942302607c06588686cb1d157e.png",
+        "url": "https://indieweb.social/@kiko"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-109337235112626763",
+      "published": "2026-11-10T22:50:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:49Z",
+      "wm-id": 2049962,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/109337235112626763",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CosmicGoat@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/c87fd0bd214b1942520a906c389c94a8904229f6552dfaf0182d008788576669.png",
+        "url": "https://pixelfed.social/CosmicGoat"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-114040452948400543",
+      "published": "2026-11-10T22:50:56Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:56Z",
+      "wm-id": 2049966,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/114040452948400543",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-114646450789715986",
+      "published": "2026-11-10T22:50:56Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:56Z",
+      "wm-id": 2049965,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-114885990175534748",
+      "published": "2026-11-10T22:50:56Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:56Z",
+      "wm-id": 2049964,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "𝕋𝕠𝕞",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/26630360b8749e1bfa533d7cafe93dca76c014b21fe30515fba622a68eac0c0d.jpg",
+        "url": "https://mastodon.social/@tombzz"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-111904505261364625",
+      "published": "2026-11-10T22:50:59Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:59Z",
+      "wm-id": 2049969,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/111904505261364625",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-109546769351149860",
+      "published": "2026-11-10T22:50:59Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:59Z",
+      "wm-id": 2049968,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-329706",
+      "published": "2026-11-10T22:50:59Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:50:59Z",
+      "wm-id": 2049967,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jens",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/57b5741f7b73ebe3cd75c1e95a2b66ffcd119881d474b2d6b435766494be7937.jpg",
+        "url": "https://pixelfed.de/Wartenberg"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-115962117032566424",
+      "published": "2026-11-10T22:51:00Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:00Z",
+      "wm-id": 2049970,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/115962117032566424",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "HTH 📎",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9e92dd399e80ef4cb681abd3d1865689c9e3dc5a74ffaf5a2280e02acf3495f.png",
+        "url": "https://mastoart.social/@Collage1956"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#favorited-by-115826761777032125",
+      "published": "2026-11-10T22:51:01Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:01Z",
+      "wm-id": 2049971,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117591916036460794/115826761777032125",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://mamot.fr/avatars/original/missing.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117591916036460794#reblogged-by-113840219686050198",
+      "published": "2026-11-10T22:51:02Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:02Z",
+      "wm-id": 2049972,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117591916036460794/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/colorful-feathers/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "~meoralis~",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d8f790189f2bba2271539fa673e1ff59fdd3aacc2bfe77176474bda31ca7e4fb.jpg",
+        "url": "https://pixelfed.social/meoralis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-113838521590072841",
+      "published": "2026-11-10T22:51:10Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:10Z",
+      "wm-id": 2049975,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/113838521590072841",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hrafn van Es (Ravi) they/he",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8c3a38c72cb491c35678ae9942ac342550a77b06c712ee27fcaf0fa7a330dffe.jpg",
+        "url": "https://pixelfed.social/Ravimakes"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-113895506415970876",
+      "published": "2026-11-10T22:51:10Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:10Z",
+      "wm-id": 2049974,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/113895506415970876",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Abbie",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/be23f18dce001a750e6976c54ecd5c9928e785e90d01b38d3965ca3686a7a1ee.jpg",
+        "url": "https://pixelfed.social/A_Kiki"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-114085969429800409",
+      "published": "2026-11-10T22:51:10Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:10Z",
+      "wm-id": 2049973,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/114085969429800409",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Manuel Ybarra",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/01f4a813911651fd6e85d9f39edbe377243b3a9a47650dc1c5aca0a1e30df4b5.jpg",
+        "url": "https://pixelfed.social/Manuel11yba"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-117149357427433185",
+      "published": "2026-11-10T22:51:12Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:12Z",
+      "wm-id": 2049978,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/117149357427433185",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-112555206662590515",
+      "published": "2026-11-10T22:51:12Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:12Z",
+      "wm-id": 2049977,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-114307257434206498",
+      "published": "2026-11-10T22:51:12Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:12Z",
+      "wm-id": 2049976,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jens",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/57b5741f7b73ebe3cd75c1e95a2b66ffcd119881d474b2d6b435766494be7937.jpg",
+        "url": "https://pixelfed.de/Wartenberg"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-115962117032566424",
+      "published": "2026-11-10T22:51:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:14Z",
+      "wm-id": 2049980,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/115962117032566424",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-117496695550768460",
+      "published": "2026-11-10T22:51:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:14Z",
+      "wm-id": 2049979,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-113513794052763932",
+      "published": "2026-11-10T22:51:15Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:15Z",
+      "wm-id": 2049981,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2743f4490d4ec9835ac1e9e780e97570a0442a05e7be7e5e29dc1d0dbf95956.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-114891269374305316",
+      "published": "2026-11-10T22:51:16Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:16Z",
+      "wm-id": 2049982,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "ICareAboutTheWorld",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24670ee8cb8cb2178737d9186ff1e61b1da41a7b8fcc6c7e5bcd6b217e8a1453.png",
+        "url": "https://mas.to/@ICareAboutTheWorld"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-109322251141889536",
+      "published": "2026-11-10T22:51:17Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:17Z",
+      "wm-id": 2049984,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/109322251141889536",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-114398726695840867",
+      "published": "2026-11-10T22:51:17Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:17Z",
+      "wm-id": 2049983,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "David",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/06c7fb534f408ba54e2902c8fd0fea88f00299bac82da3cb4fcc5eaeaafe2a0e.jpg",
+        "url": "https://pixelfed.social/derelict_arch"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-115147228277873158",
+      "published": "2026-11-10T22:51:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:18Z",
+      "wm-id": 2049987,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/115147228277873158",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jon Lord",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9ddc0b9032fa39f93fdf620e5f2e009f871301b6a85847880c1fbd7c86d96cc0.jpg",
+        "url": "https://mastodon.world/@jonlord"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-111335975901436854",
+      "published": "2026-11-10T22:51:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:18Z",
+      "wm-id": 2049986,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/111335975901436854",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Balletlover",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/17089ff8d3c45a25e446b9313927b5303e72b3d17ed306c3955f054b16515832.jpg",
+        "url": "https://pixelfed.social/danceismypassion2"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-114885990175534748",
+      "published": "2026-11-10T22:51:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:18Z",
+      "wm-id": 2049985,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/114885990175534748",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kevin Russell",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/83c40372d3a7103da341f0c60d201aff89409babca929f9d269791b05f804ff4.jpg",
+        "url": "https://mstdn.social/@kevinrns"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-109565561019881683",
+      "published": "2026-11-10T22:51:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:19Z",
+      "wm-id": 2049988,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/109565561019881683",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-329706",
+      "published": "2026-11-10T22:51:20Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:20Z",
+      "wm-id": 2049989,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Scotty",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f6107c8e2cbaf510c2966e2100a93d52f73fefdc9a9e633db0eb16e0c91c1d48.png",
+        "url": "https://mastodon.scot/@scozmos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#favorited-by-115235997088335513",
+      "published": "2026-11-10T22:51:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:21Z",
+      "wm-id": 2049990,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117587434388521735/115235997088335513",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kevin Russell",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/83c40372d3a7103da341f0c60d201aff89409babca929f9d269791b05f804ff4.jpg",
+        "url": "https://mstdn.social/@kevinrns"
+      },
+      "url": "https://mamot.fr/@nhoizey/117587434388521735#reblogged-by-109565561019881683",
+      "published": "2026-11-10T22:51:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:22Z",
+      "wm-id": 2049991,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117587434388521735/109565561019881683",
+      "wm-target": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/coco/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-117496695550768460",
+      "published": "2026-11-10T22:51:26Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:26Z",
+      "wm-id": 2049993,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-503687",
+      "published": "2026-11-10T22:51:26Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:26Z",
+      "wm-id": 2049992,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-113513794052763932",
+      "published": "2026-11-10T22:51:27Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:27Z",
+      "wm-id": 2049994,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Riddles😎🏳️‍🌈😂",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/acc6f9c8544d202fcf329afe00bfce3cb05ff6b624ba61aa29c79cc99263c3d4.png",
+        "url": "https://c.im/@RIDDLES"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-109328520946747912",
+      "published": "2026-11-10T22:51:29Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:29Z",
+      "wm-id": 2049996,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/109328520946747912",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BurnoutDV",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/622750b97f1cb7f0a26c31f71bc284973fd9d80bc48dac7ede4ceafbb42fa1c3.jpg",
+        "url": "https://pixelfed.social/BurnoutDV"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-114020660088324276",
+      "published": "2026-11-10T22:51:29Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:29Z",
+      "wm-id": 2049995,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/114020660088324276",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-110651355078160221",
+      "published": "2026-11-10T22:51:30Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:30Z",
+      "wm-id": 2049997,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "violaeuphonium",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/92660a62a426b4ef898ace37669ddfda7c894bd9e470d6fb0668ea5325f1a8ef.png",
+        "url": "https://biodiversity.social/@violaeuphonium"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-117489456021921873",
+      "published": "2026-11-10T22:51:31Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:31Z",
+      "wm-id": 2049998,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/117489456021921873",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "The Art 013",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/92cf0127760a214be40893494bb296c63f77322fb9f95d9db360913d65439474.png",
+        "url": "https://mastodon.social/@theart013"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-116041951257447959",
+      "published": "2026-11-10T22:51:32Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:32Z",
+      "wm-id": 2049999,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/116041951257447959",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Darko Rohr",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0c8c69deaca1b1e042b517cd9ac355fe8214263e99819210741db493372b2aa0.jpg",
+        "url": "https://epsilon.social/@Darko_Rohr"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-117480138641519636",
+      "published": "2026-11-10T22:51:33Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:33Z",
+      "wm-id": 2050000,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/117480138641519636",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Anja",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a1510a525d3e254d0113066d941719741d9e595657ee29cd00af57e851d883b5.jpg",
+        "url": "https://pixelfed.de/Schreibmamsell"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-113907015009556921",
+      "published": "2026-11-10T22:51:34Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:34Z",
+      "wm-id": 2050001,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/113907015009556921",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "FlanFlinger",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/fa0064b930def7d03584cac477324dabe9bb3a1e7d8d06dc287017487cc82635.jpg",
+        "url": "https://mastodon.social/@FlanFlinger"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-110905087136104934",
+      "published": "2026-11-10T22:51:35Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:35Z",
+      "wm-id": 2050002,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/110905087136104934",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jon Lord",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9ddc0b9032fa39f93fdf620e5f2e009f871301b6a85847880c1fbd7c86d96cc0.jpg",
+        "url": "https://mastodon.world/@jonlord"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-111335975901436854",
+      "published": "2026-11-10T22:51:36Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:36Z",
+      "wm-id": 2050003,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/111335975901436854",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Glorya_Johanne",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/430acd3c1ec5508d9dcc5ae6e20ee6eff0ef7c20983410ddc9c4cd0079bfc1c7.jpg",
+        "url": "https://pixelfed.social/Glorya.Johanne"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-116568504112454513",
+      "published": "2026-11-10T22:51:37Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:37Z",
+      "wm-id": 2050004,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/116568504112454513",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BirdBrainer News",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/52d6e6b2a2c726a6b4573387deeac5feb1f7f95157202bf0a31b1eb2782dba4c.jpg",
+        "url": "https://mastodon.social/@bbappnews"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-116263429538624908",
+      "published": "2026-11-10T22:51:38Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:38Z",
+      "wm-id": 2050005,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/116263429538624908",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jens",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/57b5741f7b73ebe3cd75c1e95a2b66ffcd119881d474b2d6b435766494be7937.jpg",
+        "url": "https://pixelfed.de/Wartenberg"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-115962117032566424",
+      "published": "2026-11-10T22:51:40Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:40Z",
+      "wm-id": 2050007,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/115962117032566424",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Brendan Casey 🇮🇪🥦🚴🇪🇺",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7a471ab2ff1dd1d24c3c4593949f2fed568a384b66bcafda1901e79021acfb12.jpg",
+        "url": "https://pixelfed.social/scarface9toes"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-114055134457460186",
+      "published": "2026-11-10T22:51:40Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:40Z",
+      "wm-id": 2050006,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/114055134457460186",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Oliver Švob",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bbf2c20a6ab6b7c81d0f5071eef36a05d7a06aca612130e11a0831a432fa9a46.jpg",
+        "url": "https://pixelfed.social/malioli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-117516461113454605",
+      "published": "2026-11-10T22:51:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:42Z",
+      "wm-id": 2050009,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/117516461113454605",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-114331409715632221",
+      "published": "2026-11-10T22:51:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:42Z",
+      "wm-id": 2050008,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-329706",
+      "published": "2026-11-10T22:51:44Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:44Z",
+      "wm-id": 2050011,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Del Jones",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9a71de33ce69e10d772779ffa0f95f0b6e220bf792e08d3dde2159a37ece4844.png",
+        "url": "https://mastodon.social/@deljones"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-112430622185703269",
+      "published": "2026-11-10T22:51:44Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:44Z",
+      "wm-id": 2050010,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/112430622185703269",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "malioli",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/951a698bfa2e22dd2296a696102c00dc6eb1e93d9175d2564855ce6d9b4f62a4.jpg",
+        "url": "https://mastodon.social/@malioli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-117493685657846750",
+      "published": "2026-11-10T22:51:45Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:45Z",
+      "wm-id": 2050012,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/117493685657846750",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2743f4490d4ec9835ac1e9e780e97570a0442a05e7be7e5e29dc1d0dbf95956.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-114891269374305316",
+      "published": "2026-11-10T22:51:46Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:46Z",
+      "wm-id": 2050013,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "RM 🟡🟣🟡",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e8904d0259df7c7721f1470a2dee5645f9b74be48c549e64d7478a408b2c589b.jpg",
+        "url": "https://pixelfed.social/TokyoCityUrbex"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-113831980240210389",
+      "published": "2026-11-10T22:51:47Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:47Z",
+      "wm-id": 2050014,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/113831980240210389",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Scout Votes Early",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/db00af06efa9da86e2bd0d3927743a7c67fc9bda0888fded0c44fcc20137dc30.jpg",
+        "url": "https://sfba.social/@ScruffyJunco"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#favorited-by-110442665084157696",
+      "published": "2026-11-10T22:51:48Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:48Z",
+      "wm-id": 2050015,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117586251005210001/110442665084157696",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Riddles😎🏳️‍🌈😂",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/acc6f9c8544d202fcf329afe00bfce3cb05ff6b624ba61aa29c79cc99263c3d4.png",
+        "url": "https://c.im/@RIDDLES"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#reblogged-by-109328520946747912",
+      "published": "2026-11-10T22:51:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:49Z",
+      "wm-id": 2050016,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117586251005210001/109328520946747912",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "trending_bot",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://pataterie.ca/@trending_bot"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#reblogged-by-113840219686050198",
+      "published": "2026-11-10T22:51:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:50Z",
+      "wm-id": 2050017,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117586251005210001/113840219686050198",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117586251005210001#reblogged-by-329706",
+      "published": "2026-11-10T22:51:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-10T22:51:51Z",
+      "wm-id": 2050018,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117586251005210001/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/birds/toucan-toco/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
