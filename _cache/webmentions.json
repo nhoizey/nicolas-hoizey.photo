@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-14T06:14:11.583Z",
+  "lastFetched": "2026-11-15T06:15:13.257Z",
   "webmentions": [
     {
       "type": "entry",
@@ -323328,6 +323328,446 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/canada/quebec/curves/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/canada/quebec/curves/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LarsenTech",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b5450d3022e0d07dede65b6adb06fee8a52c857a0d24dcec7b6f55b61ea3fdb7.jpg",
+        "url": "https://social.linux.pizza/@T3chD0g"
+      },
+      "url": "https://mamot.fr/@nhoizey/117610081754730250#favorited-by-109344498793685453",
+      "published": "2026-11-14T08:16:43Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T08:16:43Z",
+      "wm-id": 2050952,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117610081754730250/109344498793685453",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/larva-of-tenthredo-marginella/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/larva-of-tenthredo-marginella/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117610081754730250#favorited-by-110795643064737098",
+      "published": "2026-11-14T08:16:43Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T08:16:43Z",
+      "wm-id": 2050951,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117610081754730250/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/larva-of-tenthredo-marginella/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/larva-of-tenthredo-marginella/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pixaster",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/57974985e04254e9a73217e5dbf73ede322a984364985e63558db08117c92067.png",
+        "url": "https://vernissage.photos/@pixaster"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-116700061598968671",
+      "published": "2026-11-14T11:48:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T11:48:21Z",
+      "wm-id": 2050960,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/116700061598968671",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Natascha Wildlife & Nature",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a27b74346763be60869369020ff1bedbb800c5e52ba9e6ead565e63629937407.png",
+        "url": "https://pixelfed.social/Natti23"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-117580313245586738",
+      "published": "2026-11-14T11:48:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T11:48:21Z",
+      "wm-id": 2050959,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/117580313245586738",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0de06fbea9fecf9fa944c1060829178c9b60e83b0121bfb6cef6a8d434a5a738.jpg",
+        "url": "https://gram.social/behindthelens"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-115544719892433097",
+      "published": "2026-11-14T11:48:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T11:48:21Z",
+      "wm-id": 2050958,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/115544719892433097",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "n1k0",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/094d9a54baac0ebe9dc0c3190e2bbb46a98a2be73b77604afed222a60552791f.png",
+        "url": "https://mamot.fr/@n1k0"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-17784",
+      "published": "2026-11-14T12:14:46Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:14:46Z",
+      "wm-id": 2050964,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/17784",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-109546769351149860",
+      "published": "2026-11-14T12:14:46Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:14:46Z",
+      "wm-id": 2050963,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-114891269374305316",
+      "published": "2026-11-14T12:14:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:14:49Z",
+      "wm-id": 2050965,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-329706",
+      "published": "2026-11-14T12:15:10Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:15:10Z",
+      "wm-id": 2050967,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-503687",
+      "published": "2026-11-14T12:15:10Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:15:10Z",
+      "wm-id": 2050966,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/503687",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "AntoniaV@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3a22aebf269f7b02338dd7d98025f42403a464fd192bbffaefe5fa8ada09e956.jpg",
+        "url": "https://pixelfed.social/AntoniaV"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-117509399204914477",
+      "published": "2026-11-14T12:15:11Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:15:11Z",
+      "wm-id": 2050969,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/117509399204914477",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris Burnell",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/109/324/324/125/301/761/original/168b98e409656948.webp",
+        "url": "https://fediverse.repc.co/@chrisburnell"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-109324324125301761",
+      "published": "2026-11-14T12:15:11Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:15:11Z",
+      "wm-id": 2050968,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/109324324125301761",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ecaac457534fe55c6eabfe9148ddb11e932859824005434837507b45f1254d7e.png",
+        "url": "https://pixelfed.social/Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-117281492971581004",
+      "published": "2026-11-14T12:42:09Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:42:09Z",
+      "wm-id": 2050971,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/117281492971581004",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Myotis Myotis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/708da73d081b6eaea3901803eddc3081d25a3eb4b86ddb8c9268bd17c18a2650.jpg",
+        "url": "https://pixelfed.social/Myotis"
+      },
+      "url": "https://mamot.fr/@nhoizey/117610081754730250#favorited-by-503687",
+      "published": "2026-11-14T12:42:15Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T12:42:15Z",
+      "wm-id": 2050972,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117610081754730250/503687",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/larva-of-tenthredo-marginella/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/arthropods/insects/larva-of-tenthredo-marginella/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thorsten Zobel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7f305f752227cdc143e15b1ca61017582889f3a7e50d15d7d5b7938527d168c6.jpg",
+        "url": "https://hessen.social/@Gugel"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-110482378432173549",
+      "published": "2026-11-14T13:50:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T13:50:42Z",
+      "wm-id": 2050987,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/110482378432173549",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-114331409715632221",
+      "published": "2026-11-14T14:25:20Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T14:25:20Z",
+      "wm-id": 2050994,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117608901150866026#favorited-by-114331409715632221",
+      "published": "2026-11-14T14:25:25Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T14:25:25Z",
+      "wm-id": 2050995,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117608901150866026/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/north-america/canada/quebec/curves/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/north-america/canada/quebec/curves/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "RedJ",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b4daa54ba103952e5b58d59c98e8d01e53cf37580c84bb139c318b8d0e989f99.jpg",
+        "url": "https://mastodon.social/@redjleroux"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-116156926971836875",
+      "published": "2026-11-14T14:51:56Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T14:51:56Z",
+      "wm-id": 2051005,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/116156926971836875",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SF Photographer",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a5be6a98281abe121b8c58927aad19e71ae1f1a8bc46b5fc2161fc7d74c3a21e.jpg",
+        "url": "https://pixelfed.social/SF_Photographer"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-114202463679723466",
+      "published": "2026-11-14T14:51:58Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T14:51:58Z",
+      "wm-id": 2051006,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/114202463679723466",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-110651355078160221",
+      "published": "2026-11-14T14:52:00Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T14:52:00Z",
+      "wm-id": 2051007,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ojārs Kapteinis",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d925012d8d8bbfd462a5901878b47e8fa1ea33b85242dd70dcdfbcefb4636022.png",
+        "url": "https://pixel.kapteinis.lv/ojars"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-110795643064737098",
+      "published": "2026-11-14T15:30:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T15:30:50Z",
+      "wm-id": 2051009,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/110795643064737098",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117614563545194431#favorited-by-113513794052763932",
+      "published": "2026-11-14T17:04:58Z",
+      "published_ts": null,
+      "wm-received": "2026-11-14T17:04:58Z",
+      "wm-id": 2051017,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117614563545194431/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/frost/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/frost/",
       "wm-property": "like-of",
       "wm-private": false
     }
