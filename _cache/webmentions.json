@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-16T06:25:21.629Z",
+  "lastFetched": "2026-11-17T06:16:29.002Z",
   "webmentions": [
     {
       "type": "entry",
@@ -324212,6 +324212,146 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "SongyiH",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/554935bffd0037f323837d8c6d90ea80d98cd4abe891735268e2d7bd277f7204.jpg",
+        "url": "https://cooltopia.co/profile/songyih"
+      },
+      "url": "https://mamot.fr/@nhoizey/117620224852838501#favorited-by-117625928311515097",
+      "published": "2026-11-16T11:42:33Z",
+      "published_ts": null,
+      "wm-received": "2026-11-16T11:42:33Z",
+      "wm-id": 2051471,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117620224852838501/117625928311515097",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/paris/stairz/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Angela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b3b5ddcbd25e8fa3bc20065be9c22270c3b294e6722acbc3dab22b80c7bc6cf0.png",
+        "url": "https://mastodon.social/@alekairos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117625897098097565#favorited-by-116912990251670932",
+      "published": "2026-11-16T12:17:58Z",
+      "published_ts": null,
+      "wm-received": "2026-11-16T12:17:58Z",
+      "wm-id": 2051500,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117625897098097565/116912990251670932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Autor Martin Schemm",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6bdeec0487c1cba6a86dd221e23fb21f07335fbbccdc297f03fa47c615e8cd28.jpg",
+        "url": "https://mastodon.social/@martinschemm"
+      },
+      "url": "https://mamot.fr/@nhoizey/117625897098097565#favorited-by-113944710912029095",
+      "published": "2026-11-16T12:17:58Z",
+      "published_ts": null,
+      "wm-received": "2026-11-16T12:17:58Z",
+      "wm-id": 2051499,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117625897098097565/113944710912029095",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117625897098097565#favorited-by-109546769351149860",
+      "published": "2026-11-16T12:18:02Z",
+      "published_ts": null,
+      "wm-received": "2026-11-16T12:18:02Z",
+      "wm-id": 2051501,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117625897098097565/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117625897098097565#favorited-by-110651355078160221",
+      "published": "2026-11-16T14:25:43Z",
+      "published_ts": null,
+      "wm-received": "2026-11-16T14:25:43Z",
+      "wm-id": 2051534,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117625897098097565/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117625897098097565#favorited-by-113906621033686473",
+      "published": "2026-11-16T16:01:33Z",
+      "published_ts": null,
+      "wm-received": "2026-11-16T16:01:33Z",
+      "wm-id": 2051555,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117625897098097565/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "FurryAges",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29512069e59081f6391b72b66bb8a16aaee9e6c902545f07f13494753090cbca.png",
+        "url": "https://mstdn.social/@FurryAges"
+      },
+      "url": "https://mamot.fr/@nhoizey/117625897098097565#favorited-by-114375118060219025",
+      "published": "2026-11-16T18:15:01Z",
+      "published_ts": null,
+      "wm-received": "2026-11-16T18:15:01Z",
+      "wm-id": 2051624,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117625897098097565/114375118060219025",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
       "wm-property": "like-of",
       "wm-private": false
     }
