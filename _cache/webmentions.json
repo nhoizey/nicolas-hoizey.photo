@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-17T06:16:29.002Z",
+  "lastFetched": "2026-11-19T06:16:50.061Z",
   "webmentions": [
     {
       "type": "entry",
@@ -324349,6 +324349,926 @@
       "wm-received": "2026-11-16T18:15:01Z",
       "wm-id": 2051624,
       "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117625897098097565/114375118060219025",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "D.K. MacKinnon 🇨🇦📸🍁",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/53a0d10cdc5819f866e023217387283d8c1494b6f3ab5171f5d6ef7790399b1b.jpg",
+        "url": "https://ottawa.place/@dkmackinnon"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-116278759079005829",
+      "published": "2026-11-19T02:52:45Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:52:45Z",
+      "wm-id": 2055633,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/116278759079005829",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra van Cronenburg",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/56682a9ffea478d677cd464bb1610b2b3c7d9d40499d1543dfc7bc41feec993f.jpg",
+        "url": "https://mastodon.online/@NatureMC"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-108203545721274254",
+      "published": "2026-11-19T02:52:46Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:52:46Z",
+      "wm-id": 2055635,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/108203545721274254",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ba_Dang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef4851f82d9ece4fa125a51a308ae8bf690f449076bc63f2b2208809e69d420a.png",
+        "url": "https://jasette.facil.services/@Ba_Dang"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-115447210648718906",
+      "published": "2026-11-19T02:52:46Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:52:46Z",
+      "wm-id": 2055634,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/115447210648718906",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-114398726695840867",
+      "published": "2026-11-19T02:52:48Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:52:48Z",
+      "wm-id": 2055636,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-114331409715632221",
+      "published": "2026-11-19T02:52:52Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:52:52Z",
+      "wm-id": 2055638,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Erika",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/007c9f1c966942e63f48fb8c4c588c4f7e951feda1be234e7cdda254e12a3fe5.jpg",
+        "url": "https://pixelfed.social/Erika.E"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-113186092102992517",
+      "published": "2026-11-19T02:52:52Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:52:52Z",
+      "wm-id": 2055637,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/113186092102992517",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GoOz",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/380d832886ee513f375311fcc1aa9b091f135884ebd955c804b3f318e53a72f1.jpg",
+        "url": "https://mamot.fr/@GoOz"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-55857",
+      "published": "2026-11-19T02:52:57Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:52:57Z",
+      "wm-id": 2055640,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/55857",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-114891269374305316",
+      "published": "2026-11-19T02:52:57Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:52:57Z",
+      "wm-id": 2055639,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-109546769351149860",
+      "published": "2026-11-19T02:53:03Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:03Z",
+      "wm-id": 2055641,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra van Cronenburg",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/56682a9ffea478d677cd464bb1610b2b3c7d9d40499d1543dfc7bc41feec993f.jpg",
+        "url": "https://mastodon.online/@NatureMC"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#reblogged-by-108203545721274254",
+      "published": "2026-11-19T02:53:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:22Z",
+      "wm-id": 2055642,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117637213411815731/108203545721274254",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ba_Dang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef4851f82d9ece4fa125a51a308ae8bf690f449076bc63f2b2208809e69d420a.png",
+        "url": "https://jasette.facil.services/@Ba_Dang"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#reblogged-by-115447210648718906",
+      "published": "2026-11-19T02:53:23Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:23Z",
+      "wm-id": 2055643,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117637213411815731/115447210648718906",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ricós",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/92e26450f1ec139630cd0c8f61b8434e3d06f1c3bb82bf098420a378ecb5883d.jpg",
+        "url": "https://mastoart.social/@enriquericos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-115124285211925383",
+      "published": "2026-11-19T02:53:26Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:26Z",
+      "wm-id": 2055644,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/115124285211925383",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Knordstrom",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b71cf01c2bded696758e29558be80041556a38410419b22032cacecd4624e4b0.jpg",
+        "url": "https://techhub.social/@knordstrom"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-109377633805901024",
+      "published": "2026-11-19T02:53:27Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:27Z",
+      "wm-id": 2055645,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/109377633805901024",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra van Cronenburg",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/56682a9ffea478d677cd464bb1610b2b3c7d9d40499d1543dfc7bc41feec993f.jpg",
+        "url": "https://mastodon.online/@NatureMC"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-108203545721274254",
+      "published": "2026-11-19T02:53:28Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:28Z",
+      "wm-id": 2055646,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/108203545721274254",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "NYSloth",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d084e5ac09cb4c32a945a95f3f102954fcea2fa964d4a2efe81ac553a036d3fa.jpg",
+        "url": "https://sunny.garden/@NYSloth"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-117349721584820981",
+      "published": "2026-11-19T02:53:33Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:33Z",
+      "wm-id": 2055647,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/117349721584820981",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-117496695550768460",
+      "published": "2026-11-19T02:53:34Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:34Z",
+      "wm-id": 2055648,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Alb_",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b9cf12f39791ff9a307448045a673e6474eb0da2e1f4974e1e02e8bf58cd969c.jpg",
+        "url": "https://mastodon.social/@Alb_"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-112101623205648848",
+      "published": "2026-11-19T02:53:36Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:36Z",
+      "wm-id": 2055649,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/112101623205648848",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sfigata",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mamot.fr/@Sfigata"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-177781",
+      "published": "2026-11-19T02:53:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:39Z",
+      "wm-id": 2055650,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/177781",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bob Tregilus",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/09dae1c08c82ba74184e14be9ab94d43964e8b828fc85549c0e57ab60e853c95.jpg",
+        "url": "https://mastoart.social/@elaterite"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-114418257918971781",
+      "published": "2026-11-19T02:53:58Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:58Z",
+      "wm-id": 2055652,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/114418257918971781",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Vincent de Waleffe",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6cd74eecbab6bc8dc799749939f677afc1f6788f3082c2a22eaf5edf66825efa.jpg",
+        "url": "https://pixelfed.fr/Vindwa"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-114379521139960377",
+      "published": "2026-11-19T02:53:58Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:53:58Z",
+      "wm-id": 2055651,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/114379521139960377",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bluejay",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f8ba87131ff85277d9bbc3c60d5dbad58e942a55b8977a59cc378205f3303472.jpg",
+        "url": "https://ohai.social/@bluejay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-114008985146638910",
+      "published": "2026-11-19T02:54:03Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:03Z",
+      "wm-id": 2055655,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/114008985146638910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-111626648801109062",
+      "published": "2026-11-19T02:54:03Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:03Z",
+      "wm-id": 2055654,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-113513794052763932",
+      "published": "2026-11-19T02:54:03Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:03Z",
+      "wm-id": 2055653,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-109546769351149860",
+      "published": "2026-11-19T02:54:04Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:04Z",
+      "wm-id": 2055657,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "estibensito",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/249f5987bcb53b847267be0a1141c2ed034bf526d213db6f6bed895697a103a5.jpg",
+        "url": "https://pixelfed.social/estiben_sito"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-114205908073188437",
+      "published": "2026-11-19T02:54:04Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:04Z",
+      "wm-id": 2055656,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/114205908073188437",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bill Minarik",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/063dd6cc2f64c42bf9d0891e63af4057a1aca420538075f7b2b4efbe76146551.jpg",
+        "url": "https://fosstodon.org/@silicatefondue"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#reblogged-by-109473224588132491",
+      "published": "2026-11-19T02:54:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:06Z",
+      "wm-id": 2055660,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117632731064512402/109473224588132491",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#favorited-by-114891269374305316",
+      "published": "2026-11-19T02:54:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:06Z",
+      "wm-id": 2055659,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117632731064512402/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ricós",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/92e26450f1ec139630cd0c8f61b8434e3d06f1c3bb82bf098420a378ecb5883d.jpg",
+        "url": "https://mastoart.social/@enriquericos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#reblogged-by-115124285211925383",
+      "published": "2026-11-19T02:54:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:06Z",
+      "wm-id": 2055658,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117632731064512402/115124285211925383",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Petra van Cronenburg",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/56682a9ffea478d677cd464bb1610b2b3c7d9d40499d1543dfc7bc41feec993f.jpg",
+        "url": "https://mastodon.online/@NatureMC"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#reblogged-by-108203545721274254",
+      "published": "2026-11-19T02:54:07Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:07Z",
+      "wm-id": 2055661,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117632731064512402/108203545721274254",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bluejay",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f8ba87131ff85277d9bbc3c60d5dbad58e942a55b8977a59cc378205f3303472.jpg",
+        "url": "https://ohai.social/@bluejay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#reblogged-by-114008985146638910",
+      "published": "2026-11-19T02:54:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:08Z",
+      "wm-id": 2055664,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117632731064512402/114008985146638910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#reblogged-by-111626648801109062",
+      "published": "2026-11-19T02:54:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:08Z",
+      "wm-id": 2055663,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117632731064512402/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "NYSloth",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d084e5ac09cb4c32a945a95f3f102954fcea2fa964d4a2efe81ac553a036d3fa.jpg",
+        "url": "https://sunny.garden/@NYSloth"
+      },
+      "url": "https://mamot.fr/@nhoizey/117632731064512402#reblogged-by-117349721584820981",
+      "published": "2026-11-19T02:54:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:08Z",
+      "wm-id": 2055662,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117632731064512402/117349721584820981",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/animals/marine-animals/look-at-me-in-the-eye/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-113513794052763932",
+      "published": "2026-11-19T02:54:11Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:11Z",
+      "wm-id": 2055667,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-117496695550768460",
+      "published": "2026-11-19T02:54:11Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:11Z",
+      "wm-id": 2055666,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-114398726695840867",
+      "published": "2026-11-19T02:54:11Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:11Z",
+      "wm-id": 2055665,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-110651355078160221",
+      "published": "2026-11-19T02:54:12Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:12Z",
+      "wm-id": 2055668,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "jeeppler",
+        "photo": "https://avatars.webmention.io/mamot.fr/db1d635fb4356e493a52ae26f48c9f875d733a757cb82141ea43b0221d79f2d5.png",
+        "url": "https://mastodon.social/@jeeppler"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-116735708265024823",
+      "published": "2026-11-19T02:54:13Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:13Z",
+      "wm-id": 2055669,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/116735708265024823",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Joe Steinbring 📷",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a362e95e7f6774315a0f1393411db4ddcd4e20d5d090f2aaa846e076128728a4.png",
+        "url": "https://pixelfed.social/steinbring"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-109951804609117719",
+      "published": "2026-11-19T02:54:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:14Z",
+      "wm-id": 2055670,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/109951804609117719",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "inkedpath",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3218e10691fe50be304e3c8c7cadc58d444f68425c8704483fb4cd26ecff1b58.png",
+        "url": "https://mastodon.social/@inkedpath"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-116493684697335331",
+      "published": "2026-11-19T02:54:15Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:15Z",
+      "wm-id": 2055671,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/116493684697335331",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Autor Martin Schemm",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/6bdeec0487c1cba6a86dd221e23fb21f07335fbbccdc297f03fa47c615e8cd28.jpg",
+        "url": "https://mastodon.social/@martinschemm"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-113944710912029095",
+      "published": "2026-11-19T02:54:16Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:16Z",
+      "wm-id": 2055672,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/113944710912029095",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ecaac457534fe55c6eabfe9148ddb11e932859824005434837507b45f1254d7e.png",
+        "url": "https://pixelfed.social/Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-117281492971581004",
+      "published": "2026-11-19T02:54:17Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:17Z",
+      "wm-id": 2055673,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/117281492971581004",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-114646450789715986",
+      "published": "2026-11-19T02:54:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:18Z",
+      "wm-id": 2055674,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-114891269374305316",
+      "published": "2026-11-19T02:54:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:19Z",
+      "wm-id": 2055675,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-109546769351149860",
+      "published": "2026-11-19T02:54:20Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:20Z",
+      "wm-id": 2055676,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Benjamin Börries",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7bf828eea7afb28f4c3a8780601392c64c3d83caae1143cf7902c63a44ba87fc.jpg",
+        "url": "https://pixelfed.social/der-bildermacher"
+      },
+      "url": "https://mamot.fr/@nhoizey/117631550616761763#favorited-by-117631551889936910",
+      "published": "2026-11-19T02:54:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:21Z",
+      "wm-id": 2055677,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117631550616761763/117631551889936910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/japanese-zen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117625897098097565#favorited-by-114398726695840867",
+      "published": "2026-11-19T02:54:23Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T02:54:23Z",
+      "wm-id": 2055678,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117625897098097565/114398726695840867",
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
