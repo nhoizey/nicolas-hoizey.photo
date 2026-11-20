@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-19T06:16:50.061Z",
+  "lastFetched": "2026-11-20T06:16:56.263Z",
   "webmentions": [
     {
       "type": "entry",
@@ -325272,6 +325272,126 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/ile-de-france/hauts-de-seine/boulogne-billancourt/sakura/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117642876253428128#favorited-by-109546769351149860",
+      "published": "2026-11-19T11:54:35Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T11:54:35Z",
+      "wm-id": 2055742,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117642876253428128/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Wilfried Strang",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b617d95a03f2834bba04f2e32a35b335bfa40c77f8f1832659ebad11bf35090a.jpg",
+        "url": "https://mastodon.social/@Strangphotography"
+      },
+      "url": "https://mamot.fr/@nhoizey/117642876253428128#favorited-by-114398726695840867",
+      "published": "2026-11-19T14:34:45Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T14:34:45Z",
+      "wm-id": 2055762,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117642876253428128/114398726695840867",
+      "wm-target": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117642876253428128#favorited-by-110651355078160221",
+      "published": "2026-11-19T15:05:47Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T15:05:47Z",
+      "wm-id": 2055769,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117642876253428128/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117642876253428128#favorited-by-113513794052763932",
+      "published": "2026-11-19T15:38:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T15:38:14Z",
+      "wm-id": 2055773,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117642876253428128/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "⚓️ k_lavande",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/13114be5a7728907442250f0b44f5a142596c737de2e5f5571b52c4e66f0a009.jpg",
+        "url": "https://pixelfed.de/Dagobert1"
+      },
+      "url": "https://mamot.fr/@nhoizey/117642876253428128#favorited-by-113842513093367445",
+      "published": "2026-11-19T16:12:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-19T16:12:21Z",
+      "wm-id": 2055774,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117642876253428128/113842513093367445",
+      "wm-target": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/calvi-marina/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117637213411815731#favorited-by-117496695550768460",
+      "published": "2026-11-20T05:50:27Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T05:50:27Z",
+      "wm-id": 2055958,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117637213411815731/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
       "wm-property": "like-of",
       "wm-private": false
     }
