@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-20T06:16:56.263Z",
+  "lastFetched": "2026-11-21T06:14:34.028Z",
   "webmentions": [
     {
       "type": "entry",
@@ -325392,6 +325392,586 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/bretagne/finistere/along-the-shore/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Angela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b3b5ddcbd25e8fa3bc20065be9c22270c3b294e6722acbc3dab22b80c7bc6cf0.png",
+        "url": "https://mastodon.social/@alekairos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-116912990251670932",
+      "published": "2026-11-20T12:44:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T12:44:41Z",
+      "wm-id": 2056012,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/116912990251670932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "David, a Bostonian in Tokyo.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7534075d378a0fa011424281888ab82910ef2674d3a1734156dd815ab878732f.jpg",
+        "url": "https://mastodon.mit.edu/@djl"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-111004646442346471",
+      "published": "2026-11-20T12:44:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T12:44:41Z",
+      "wm-id": 2056011,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/111004646442346471",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gareth Kitchener ",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/21811ac698e62d46580dc033cff9a8eb8eba6dc55fe230b2487b3254cfe3dc98.png",
+        "url": "https://cupoftea.social/@lefthandbass59"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-116354580861709264",
+      "published": "2026-11-20T13:16:37Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T13:16:37Z",
+      "wm-id": 2056024,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/116354580861709264",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-114891269374305316",
+      "published": "2026-11-20T13:16:38Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T13:16:38Z",
+      "wm-id": 2056025,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-110651355078160221",
+      "published": "2026-11-20T15:00:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T15:00:19Z",
+      "wm-id": 2056058,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Uli",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f9550a19aa160dd80d2610d317e5d033ebb07594bcd656defb4835a1f1e6fc7b.png",
+        "url": "https://kirche.social/@infoleck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-184572",
+      "published": "2026-11-20T15:00:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T15:00:19Z",
+      "wm-id": 2056057,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/184572",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-109546769351149860",
+      "published": "2026-11-20T15:00:20Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T15:00:20Z",
+      "wm-id": 2056059,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#reblogged-by-109546769351149860",
+      "published": "2026-11-20T15:00:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T15:00:21Z",
+      "wm-id": 2056060,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117648537814048169/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#reblogged-by-109546769351149860",
+      "published": "2026-11-20T16:47:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T16:47:42Z",
+      "wm-id": 2056119,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117649719395695185/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-109546769351149860",
+      "published": "2026-11-20T16:47:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T16:47:42Z",
+      "wm-id": 2056118,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-113513794052763932",
+      "published": "2026-11-20T16:47:43Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T16:47:43Z",
+      "wm-id": 2056121,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "William Dunigan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3843cc6824d90c086b894901c1a3539d02b303d7dd56fec5a482a7f01cf269c6.png",
+        "url": "https://mastodon.social/@williamdunigan"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-116913320692457450",
+      "published": "2026-11-20T16:47:43Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T16:47:43Z",
+      "wm-id": 2056120,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/116913320692457450",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-114891269374305316",
+      "published": "2026-11-20T17:19:24Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T17:19:24Z",
+      "wm-id": 2056135,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-114307257434206498",
+      "published": "2026-11-20T17:50:37Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T17:50:37Z",
+      "wm-id": 2056141,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-114307257434206498",
+      "published": "2026-11-20T17:50:37Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T17:50:37Z",
+      "wm-id": 2056140,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Oliver Švob",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bbf2c20a6ab6b7c81d0f5071eef36a05d7a06aca612130e11a0831a432fa9a46.jpg",
+        "url": "https://pixelfed.social/malioli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-117516461113454605",
+      "published": "2026-11-20T18:45:09Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T18:45:09Z",
+      "wm-id": 2056153,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/117516461113454605",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-117496695550768460",
+      "published": "2026-11-20T19:17:52Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T19:17:52Z",
+      "wm-id": 2056160,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-117496695550768460",
+      "published": "2026-11-20T19:17:52Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T19:17:52Z",
+      "wm-id": 2056159,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael K",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/24ee0188e0b31de2bce1a43f9edb3c07e22560332dc4c25f6663593bda24304a.jpg",
+        "url": "https://icosahedron.website/@nifta"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#reblogged-by-109389987537750223",
+      "published": "2026-11-20T19:17:52Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T19:17:52Z",
+      "wm-id": 2056158,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117648537814048169/109389987537750223",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sam",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ffae6af360014cc7ed737ab8552bf2fe537851414c62b05bd6bce2da9fc7bb34.jpg",
+        "url": "https://kind.social/@imherzen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-113906621033686473",
+      "published": "2026-11-20T21:33:35Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T21:33:35Z",
+      "wm-id": 2056202,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/113906621033686473",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-114646450789715986",
+      "published": "2026-11-20T21:33:35Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T21:33:35Z",
+      "wm-id": 2056201,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "XCondE",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9fc7a87a7209c7b983e98a9b39a7259987568fc7fb357655346edbaee52d753b.jpg",
+        "url": "https://social.chinwag.org/@xconde"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-112301167191563534",
+      "published": "2026-11-20T22:07:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T22:07:22Z",
+      "wm-id": 2056223,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/112301167191563534",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-110651355078160221",
+      "published": "2026-11-20T22:42:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T22:42:22Z",
+      "wm-id": 2056243,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Oliver",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/9372aa9ac6c7c70324e43b98e3bfa94b814035a91c1b6bbb85a4ce1f9c24fad2.png",
+        "url": "https://mastodon.social/@olly86"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-114593286207477175",
+      "published": "2026-11-20T23:11:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-20T23:11:22Z",
+      "wm-id": 2056245,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/114593286207477175",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Colin from Edinburgh.",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/8ffc3444056a106184cd5acd3f4b85d68076fa59c4139d157dd031026c6fa0e5.jpg",
+        "url": "https://mastodon.social/@photoncollector"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-237814",
+      "published": "2026-11-21T00:30:47Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T00:30:47Z",
+      "wm-id": 2056252,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/237814",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Harold S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/489868775e0f35b1a191ae4ba5578412e0cb5ff27b932031dd9c1727fb0a06b6.jpg",
+        "url": "https://sfba.social/@oldredsubby"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-109341327903651308",
+      "published": "2026-11-21T00:30:47Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T00:30:47Z",
+      "wm-id": 2056251,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/109341327903651308",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Harold S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/489868775e0f35b1a191ae4ba5578412e0cb5ff27b932031dd9c1727fb0a06b6.jpg",
+        "url": "https://sfba.social/@oldredsubby"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#reblogged-by-109341327903651308",
+      "published": "2026-11-21T00:30:48Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T00:30:48Z",
+      "wm-id": 2056253,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117649719395695185/109341327903651308",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-112555206662590515",
+      "published": "2026-11-21T03:58:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T03:58:51Z",
+      "wm-id": 2056265,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MigsGarden",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b2f2f851e0389fee326a2b99a2abc330864ad70a74d5886b9afd1a63214e7f00.jpg",
+        "url": "https://pixelfed.social/MigsGarden"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-112555206662590515",
+      "published": "2026-11-21T03:58:53Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T03:58:53Z",
+      "wm-id": 2056266,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/112555206662590515",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
       "wm-property": "like-of",
       "wm-private": false
     }
