@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-21T06:14:34.028Z",
+  "lastFetched": "2026-11-22T06:15:48.652Z",
   "webmentions": [
     {
       "type": "entry",
@@ -325972,6 +325972,286 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "n1k0",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/094d9a54baac0ebe9dc0c3190e2bbb46a98a2be73b77604afed222a60552791f.png",
+        "url": "https://mamot.fr/@n1k0"
+      },
+      "url": "https://mamot.fr/@nhoizey/117654199663156846#favorited-by-17784",
+      "published": "2026-11-21T12:02:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T12:02:39Z",
+      "wm-id": 2056307,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117654199663156846/17784",
+      "wm-target": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117654199663156846#favorited-by-114891269374305316",
+      "published": "2026-11-21T12:02:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T12:02:39Z",
+      "wm-id": 2056306,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117654199663156846/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Putter",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4466482f82125cc5fef2c33e42b108b2b692b6842c49e3159132192f5cb16eb4.jpg",
+        "url": "https://mastodon-belgium.be/@Putter"
+      },
+      "url": "https://mamot.fr/@nhoizey/117648537814048169#favorited-by-109326539103413895",
+      "published": "2026-11-21T12:02:46Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T12:02:46Z",
+      "wm-id": 2056309,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117648537814048169/109326539103413895",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-citadel-of-calvi/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Putter",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/4466482f82125cc5fef2c33e42b108b2b692b6842c49e3159132192f5cb16eb4.jpg",
+        "url": "https://mastodon-belgium.be/@Putter"
+      },
+      "url": "https://mamot.fr/@nhoizey/117649719395695185#favorited-by-109326539103413895",
+      "published": "2026-11-21T12:02:46Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T12:02:46Z",
+      "wm-id": 2056308,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117649719395695185/109326539103413895",
+      "wm-target": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/above-ostriconi-beach/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117654199663156846#favorited-by-113513794052763932",
+      "published": "2026-11-21T13:03:59Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T13:03:59Z",
+      "wm-id": 2056312,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117654199663156846/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bluejay",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f8ba87131ff85277d9bbc3c60d5dbad58e942a55b8977a59cc378205f3303472.jpg",
+        "url": "https://ohai.social/@bluejay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117654199663156846#favorited-by-114008985146638910",
+      "published": "2026-11-21T13:59:36Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T13:59:36Z",
+      "wm-id": 2056314,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117654199663156846/114008985146638910",
+      "wm-target": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117654199663156846#favorited-by-110651355078160221",
+      "published": "2026-11-21T15:57:17Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T15:57:17Z",
+      "wm-id": 2056340,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117654199663156846/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/welcome/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Pasquale 2027 📷 🦻:antifa: :no_ai:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/04573bd94566e3b4578be813caa97c13e0b5177a6be41da25addad7db412977f.png",
+        "url": "https://piaille.fr/@pasqualeberesti"
+      },
+      "url": "https://mamot.fr/@nhoizey/117655381162939814#favorited-by-109303201058582675",
+      "published": "2026-11-21T16:55:55Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T16:55:55Z",
+      "wm-id": 2056344,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117655381162939814/109303201058582675",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Miroslav Kubal",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f5c60a2a21c311a3a3a1a961d5e25b060dc7a0957e3513028c0258c49dcdf62b.jpg",
+        "url": "https://mastodon.social/@miroslavkubal"
+      },
+      "url": "https://mamot.fr/@nhoizey/117655381162939814#favorited-by-117564845447415954",
+      "published": "2026-11-21T17:22:35Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T17:22:35Z",
+      "wm-id": 2056346,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117655381162939814/117564845447415954",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117655381162939814#favorited-by-114891269374305316",
+      "published": "2026-11-21T17:22:36Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T17:22:36Z",
+      "wm-id": 2056347,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117655381162939814/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117655381162939814#favorited-by-113513794052763932",
+      "published": "2026-11-21T17:22:37Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T17:22:37Z",
+      "wm-id": 2056349,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117655381162939814/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Donnie",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7fa93b146acc1a83ae184ae6e5eb8419e51cd9c23f19dcc3245d56e495c4533b.jpg",
+        "url": "https://infosec.exchange/@macbraughton"
+      },
+      "url": "https://mamot.fr/@nhoizey/117655381162939814#favorited-by-109293115077240750",
+      "published": "2026-11-21T17:22:37Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T17:22:37Z",
+      "wm-id": 2056348,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117655381162939814/109293115077240750",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117655381162939814#favorited-by-109546769351149860",
+      "published": "2026-11-21T19:03:34Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T19:03:34Z",
+      "wm-id": 2056372,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117655381162939814/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mia jordan",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a7309b860a2afa1e9971a1e5ab76efe83792f074849febc8e41969759b0c89fa.jpg",
+        "url": "https://pixelfed.social/mia4743"
+      },
+      "url": "https://mamot.fr/@nhoizey/117655381162939814#favorited-by-117462498696005609",
+      "published": "2026-11-21T22:44:33Z",
+      "published_ts": null,
+      "wm-received": "2026-11-21T22:44:33Z",
+      "wm-id": 2056402,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117655381162939814/117462498696005609",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
       "wm-property": "like-of",
       "wm-private": false
     }
