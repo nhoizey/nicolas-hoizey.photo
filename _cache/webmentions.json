@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-22T06:15:48.652Z",
+  "lastFetched": "2026-11-23T06:23:04.814Z",
   "webmentions": [
     {
       "type": "entry",
@@ -326252,6 +326252,246 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/europe/france/nouvelle-aquitaine/gironde/night-mirror/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Peter Kevin Contreras",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/58ba1064f9b8678e6e429c442979f8ea37fd829bdd23200e93adb3a4cc27f0ad.jpg",
+        "url": "https://pixelfed.social/decarbonization"
+      },
+      "url": "https://mamot.fr/@nhoizey/117659860742445042#favorited-by-114331409715632221",
+      "published": "2026-11-22T12:04:32Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T12:04:32Z",
+      "wm-id": 2056514,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117659860742445042/114331409715632221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117659860742445042#favorited-by-114891269374305316",
+      "published": "2026-11-22T12:40:20Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T12:40:20Z",
+      "wm-id": 2056522,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117659860742445042/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117659860742445042#favorited-by-113513794052763932",
+      "published": "2026-11-22T14:06:47Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T14:06:47Z",
+      "wm-id": 2056533,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117659860742445042/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117659860742445042#favorited-by-109546769351149860",
+      "published": "2026-11-22T14:35:55Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T14:35:55Z",
+      "wm-id": 2056538,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117659860742445042/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117659860742445042#favorited-by-110651355078160221",
+      "published": "2026-11-22T15:01:28Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T15:01:28Z",
+      "wm-id": 2056544,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117659860742445042/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/a-riad-in-taroudant-morocco/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Salim Medjellekh",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b9d84acfed69ed24f505f2c889637ccd383df26b8d9643f203dc485bca994af1.jpg",
+        "url": "https://pixelfed.social/smartmedj"
+      },
+      "url": "https://mamot.fr/@nhoizey/117661041132318627#favorited-by-113936216856804021",
+      "published": "2026-11-22T17:03:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T17:03:39Z",
+      "wm-id": 2056625,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117661041132318627/113936216856804021",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Benjamin Börries",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7bf828eea7afb28f4c3a8780601392c64c3d83caae1143cf7902c63a44ba87fc.jpg",
+        "url": "https://pixelfed.social/der-bildermacher"
+      },
+      "url": "https://mamot.fr/@nhoizey/117661041132318627#favorited-by-117631551889936910",
+      "published": "2026-11-22T17:03:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T17:03:39Z",
+      "wm-id": 2056624,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117661041132318627/117631551889936910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117661041132318627#favorited-by-113513794052763932",
+      "published": "2026-11-22T17:03:40Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T17:03:40Z",
+      "wm-id": 2056627,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117661041132318627/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117661041132318627#favorited-by-114891269374305316",
+      "published": "2026-11-22T17:03:40Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T17:03:40Z",
+      "wm-id": 2056626,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117661041132318627/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117661041132318627#favorited-by-329706",
+      "published": "2026-11-22T17:03:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T17:03:42Z",
+      "wm-id": 2056628,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117661041132318627/329706",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sitzpinkler",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/41d7633e58235698cbde4d3d78d12777df7c84ceebc22b46b946c850a0d13614.jpg",
+        "url": "https://pixelfed.au/Sitzpinkler"
+      },
+      "url": "https://mamot.fr/@nhoizey/117661041132318627#favorited-by-117496669887041415",
+      "published": "2026-11-22T17:57:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T17:57:08Z",
+      "wm-id": 2056637,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117661041132318627/117496669887041415",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "[🤬🟥🐼]",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/66fc814c132118d57e83c72fe9d4635930607ca080ef452953db158d1154243c.jpg",
+        "url": "https://pixelfed.social/angryredpanda"
+      },
+      "url": "https://mamot.fr/@nhoizey/117661041132318627#favorited-by-113824470915599694",
+      "published": "2026-11-22T21:34:40Z",
+      "published_ts": null,
+      "wm-received": "2026-11-22T21:34:40Z",
+      "wm-id": 2056670,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117661041132318627/113824470915599694",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
       "wm-property": "like-of",
       "wm-private": false
     }
