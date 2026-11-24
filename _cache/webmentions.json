@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-23T06:23:04.814Z",
+  "lastFetched": "2026-11-24T06:16:43.744Z",
   "webmentions": [
     {
       "type": "entry",
@@ -326492,6 +326492,186 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/moroccan-women-picking-wheat/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "emmagene :heart_transgender:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7bd82c34c40b9c8903f862650eba9b70f8ce0615990bdaaf6781a9249abef3e1.png",
+        "url": "https://social.lol/@emma"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#reblogged-by-117568558435272367",
+      "published": "2026-11-23T11:35:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T11:35:51Z",
+      "wm-id": 2056792,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117665527173022376/117568558435272367",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "emmagene :heart_transgender:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/7bd82c34c40b9c8903f862650eba9b70f8ce0615990bdaaf6781a9249abef3e1.png",
+        "url": "https://social.lol/@emma"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#favorited-by-117568558435272367",
+      "published": "2026-11-23T11:35:51Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T11:35:51Z",
+      "wm-id": 2056791,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117665527173022376/117568558435272367",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "malioli",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/951a698bfa2e22dd2296a696102c00dc6eb1e93d9175d2564855ce6d9b4f62a4.jpg",
+        "url": "https://mastodon.social/@malioli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#favorited-by-117493685657846750",
+      "published": "2026-11-23T12:04:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T12:04:19Z",
+      "wm-id": 2056799,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117665527173022376/117493685657846750",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Oliver Švob",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bbf2c20a6ab6b7c81d0f5071eef36a05d7a06aca612130e11a0831a432fa9a46.jpg",
+        "url": "https://pixelfed.social/malioli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#favorited-by-117516461113454605",
+      "published": "2026-11-23T12:04:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T12:04:19Z",
+      "wm-id": 2056798,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117665527173022376/117516461113454605",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Yves Van Goethem :firefox:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/319f4ea5015f348f09db74d1bc9571eee24d86eeef24b31a5528698d2744c538.jpg",
+        "url": "https://indieweb.social/@yvg"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#favorited-by-109279257265079449",
+      "published": "2026-11-23T12:04:19Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T12:04:19Z",
+      "wm-id": 2056797,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117665527173022376/109279257265079449",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#favorited-by-329706",
+      "published": "2026-11-23T12:42:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T12:42:21Z",
+      "wm-id": 2056805,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117665527173022376/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#favorited-by-114891269374305316",
+      "published": "2026-11-23T12:42:21Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T12:42:21Z",
+      "wm-id": 2056804,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117665527173022376/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#favorited-by-110651355078160221",
+      "published": "2026-11-23T14:39:28Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T14:39:28Z",
+      "wm-id": 2056818,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117665527173022376/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117665527173022376#favorited-by-113513794052763932",
+      "published": "2026-11-23T16:46:36Z",
+      "published_ts": null,
+      "wm-received": "2026-11-23T16:46:36Z",
+      "wm-id": 2056842,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117665527173022376/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
       "wm-property": "like-of",
       "wm-private": false
     }
