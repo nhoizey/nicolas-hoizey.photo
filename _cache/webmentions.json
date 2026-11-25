@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-24T06:16:43.744Z",
+  "lastFetched": "2026-11-25T06:16:51.198Z",
   "webmentions": [
     {
       "type": "entry",
@@ -326672,6 +326672,350 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/inoummar-agadir-s-lamine/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Angela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b3b5ddcbd25e8fa3bc20065be9c22270c3b294e6722acbc3dab22b80c7bc6cf0.png",
+        "url": "https://mastodon.social/@alekairos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117671187268873323#favorited-by-116912990251670932",
+      "published": "2026-11-24T12:43:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T12:43:08Z",
+      "wm-id": 2057122,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117671187268873323/116912990251670932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "60Clemens",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/910afb7d991032eead0af5cc37391237c0f646f0c902ca026fef020a55ed74b2.png",
+        "url": "https://mastodon.social/@60Clemens"
+      },
+      "url": "https://mamot.fr/@nhoizey/117671187268873323#favorited-by-117395843502694317",
+      "published": "2026-11-24T12:43:08Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T12:43:08Z",
+      "wm-id": 2057121,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117671187268873323/117395843502694317",
+      "wm-target": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GuettisKnippse",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/29d8bec261fbd6cf10cbf4c1e4b1930709d5f5a848228c4b809831fce57c8021.png",
+        "url": "https://federation.network/@GuettisKnippse"
+      },
+      "url": "https://mamot.fr/@nhoizey/117671187268873323#favorited-by-111626648801109062",
+      "published": "2026-11-24T13:19:26Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T13:19:26Z",
+      "wm-id": 2057128,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117671187268873323/111626648801109062",
+      "wm-target": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "βrυɲϋs ☠️ :antifa: :anar:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d90b1bf38a1a4f8f72a877976b6ca197ce9578adbdfdeb465080b56c8c167240.jpg",
+        "url": "https://mamot.fr/@brunus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117671187268873323#favorited-by-241911",
+      "published": "2026-11-24T13:48:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T13:48:39Z",
+      "wm-id": 2057132,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117671187268873323/241911",
+      "wm-target": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117671187268873323#favorited-by-109546769351149860",
+      "published": "2026-11-24T13:48:40Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T13:48:40Z",
+      "wm-id": 2057133,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117671187268873323/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "βrυɲϋs ☠️ :antifa: :anar:",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d90b1bf38a1a4f8f72a877976b6ca197ce9578adbdfdeb465080b56c8c167240.jpg",
+        "url": "https://mamot.fr/@brunus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117671187268873323#reblogged-by-241911",
+      "published": "2026-11-24T13:48:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T13:48:41Z",
+      "wm-id": 2057134,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117671187268873323/241911",
+      "wm-target": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "𝔼𝕣𝕣𝟜𝟘𝟜",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ba7dbf7177853bc074c27a2677bcbfacd52844629981da85b18c405ed6fb9a34.png",
+        "url": "https://wow.err404.numericore.com/users/err404"
+      },
+      "url": "https://mamot.fr/@nhoizey/117671187268873323#reblogged-by-115179577871063140",
+      "published": "2026-11-24T14:13:50Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T14:13:50Z",
+      "wm-id": 2057141,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117671187268873323/115179577871063140",
+      "wm-target": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-109546769351149860",
+      "published": "2026-11-24T16:57:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T16:57:39Z",
+      "wm-id": 2057176,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Miroslav Kubal",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f5c60a2a21c311a3a3a1a961d5e25b060dc7a0957e3513028c0258c49dcdf62b.jpg",
+        "url": "https://mastodon.social/@miroslavkubal"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-117564845447415954",
+      "published": "2026-11-24T16:57:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T16:57:39Z",
+      "wm-id": 2057175,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/117564845447415954",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "basepair",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/182aee11796889a5a9b3346e8fc8bcc48d1b36cf3bb40622ce2778dfa0d52da0.jpg",
+        "url": "https://vernissage.photos/@basepair"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-116222349191086242",
+      "published": "2026-11-24T16:57:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T16:57:39Z",
+      "wm-id": 2057174,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/116222349191086242",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eduardo Palomino",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2c018d91348bb158e9386de9e600a2c60591e7250090d18946bdca2f93431e50.jpg",
+        "url": "https://luzeed.org/edopalomino"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-114671255791651983",
+      "published": "2026-11-24T16:57:40Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T16:57:40Z",
+      "wm-id": 2057177,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/114671255791651983",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Chris Ruppel",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/be8e87d490593016c90f745c644f82b50f3c2699eacca0e2c1e2aac9b87dbee8.jpg",
+        "url": "https://mastodon.social/@rupl"
+      },
+      "url": "https://mastodon.social/@rupl/117672534807840778",
+      "published": "2026-11-24T17:13:07+00:00",
+      "published_ts": 1795540387,
+      "wm-received": "2026-11-24T17:34:45Z",
+      "wm-id": 2057194,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117672367866253210/117672535305559771",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mamot.fr/@nhoizey\" class=\"u-url\">@<span>nhoizey</span></a></span> this looks like a totally sick Assassins Creed challenge!</p>",
+        "text": "@nhoizey this looks like a totally sick Assassins Creed challenge!"
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Hugo",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/1889c0c8dfecc8e45f72bf09380151e240530fe683d9fcf1e1ee6cab5d575b26.png",
+        "url": "https://troet.cafe/@Hugo_h"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-112184895818720147",
+      "published": "2026-11-24T17:34:45Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T17:34:45Z",
+      "wm-id": 2057195,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/112184895818720147",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Harold S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/489868775e0f35b1a191ae4ba5578412e0cb5ff27b932031dd9c1727fb0a06b6.jpg",
+        "url": "https://sfba.social/@oldredsubby"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#reblogged-by-109341327903651308",
+      "published": "2026-11-24T19:35:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T19:35:22Z",
+      "wm-id": 2057223,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117672367866253210/109341327903651308",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Harold S",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/489868775e0f35b1a191ae4ba5578412e0cb5ff27b932031dd9c1727fb0a06b6.jpg",
+        "url": "https://sfba.social/@oldredsubby"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-109341327903651308",
+      "published": "2026-11-24T19:35:22Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T19:35:22Z",
+      "wm-id": 2057222,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/109341327903651308",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "hufnagel 🏳️‍🌈 🐧🔆",
+        "photo": "https://static.mamot.fr/cache/accounts/avatars/111/693/856/374/065/608/original/136f88b6d6cb6b67.png",
+        "url": "https://mastodon.de/@Hufnagel"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-111693856374065608",
+      "published": "2026-11-24T20:04:10Z",
+      "published_ts": null,
+      "wm-received": "2026-11-24T20:04:10Z",
+      "wm-id": 2057226,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/111693856374065608",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-110651355078160221",
+      "published": "2026-11-25T05:47:34Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T05:47:34Z",
+      "wm-id": 2057385,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
       "wm-property": "like-of",
       "wm-private": false
     }
