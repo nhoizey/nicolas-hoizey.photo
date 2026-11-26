@@ -5,7 +5,7 @@ alt_text: A large vintage camera is depicted, surrounded by miniature figures
   who are climbing ladders, performing maintenance, and taking photos. The scene
   combines elements of photography and creativity, showcasing the interaction
   between the miniatures and the camera.
-date: 2025-01-07 19:29:37 +01:00
+date: 2025-01-07 20:29:37 +02:00
 dates:
   iso: "'2025-01-07'"
   human: "'7 January 2025'"
@@ -71,6 +71,6 @@ lqip: data:image/webp;base64,UklGRiQBAABXRUJQVlA4IBgBAAAQDQCdASpkAEIAP3Gq0Fk0ris
 
 The Nettar series from Zeiss Ikon was a successful range of self-mounting folding cameras for 120 mm film. This Nettar S 515/2 version released in the early 1930s produces 6×9 cm images and features a self-timer (hence the “S”). It also features a brilliant viewfinder on the lens body and a pop-up viewfinder on the camera body.
 
-After nearly a century, there's no doubt that this compact camera (when folded) has been everywhere: at the beach, camping, in an airport, on a shelf for a while, in a camera bag, and the list goes on! Dust and other small particles can easily get into the mechanism through the tiny gaps around dials, plates, lens mechanisms, etc. These dust and particles can penetrate into the mechanism and cause damage to the camera. This dust and particles can penetrate mechanisms and start to prevent parts from working.
+After nearly a century, there's no doubt that this compact camera (when folded) has been everywhere: at the beach, camping, in an airport, on a shelf for a while, in a camera bag, and the list goes on! Dust and other small particles can easily get into the mechanism through the tiny gaps around dials, plates, lens mechanisms, etc. and cause damage to the camera, preventing parts from working.
 
 It's time for a thorough cleaning!
