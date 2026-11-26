@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-25T06:16:51.198Z",
+  "lastFetched": "2026-11-26T06:16:48.017Z",
   "webmentions": [
     {
       "type": "entry",
@@ -327016,6 +327016,246 @@
       "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LadyNorris",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/e3e556393fe1c9b8522fa3084ef1682e35fd800a5dad3f8ec264a82dc51fdbb3.jpg",
+        "url": "https://mastodon.art/@LadyNorris"
+      },
+      "url": "https://mamot.fr/@nhoizey/117676848950355123#favorited-by-110618769726695105",
+      "published": "2026-11-25T11:58:41Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T11:58:41Z",
+      "wm-id": 2057446,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117676848950355123/110618769726695105",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-moroccan-high-atlas/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-moroccan-high-atlas/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "0xThylacine",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0520995fdba00f8e2f89d20658bd301086d2a115ff05d4df42e70f1872413a3a.jpg",
+        "url": "https://photog.social/@0xThylacine"
+      },
+      "url": "https://mamot.fr/@nhoizey/117676848950355123#favorited-by-109327761694998173",
+      "published": "2026-11-25T13:05:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T13:05:39Z",
+      "wm-id": 2057455,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117676848950355123/109327761694998173",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-moroccan-high-atlas/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-moroccan-high-atlas/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Oliver Švob",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/bbf2c20a6ab6b7c81d0f5071eef36a05d7a06aca612130e11a0831a432fa9a46.jpg",
+        "url": "https://pixelfed.social/malioli"
+      },
+      "url": "https://mamot.fr/@nhoizey/117676848950355123#favorited-by-117516461113454605",
+      "published": "2026-11-25T15:47:23Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T15:47:23Z",
+      "wm-id": 2057484,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117676848950355123/117516461113454605",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-moroccan-high-atlas/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-moroccan-high-atlas/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0de06fbea9fecf9fa944c1060829178c9b60e83b0121bfb6cef6a8d434a5a738.jpg",
+        "url": "https://gram.social/behindthelens"
+      },
+      "url": "https://mamot.fr/@nhoizey/117678033276542143#favorited-by-115544719892433097",
+      "published": "2026-11-25T16:54:28Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T16:54:28Z",
+      "wm-id": 2057495,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117678033276542143/115544719892433097",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0de06fbea9fecf9fa944c1060829178c9b60e83b0121bfb6cef6a8d434a5a738.jpg",
+        "url": "https://gram.social/behindthelens"
+      },
+      "url": "https://mamot.fr/@nhoizey/117676848950355123#favorited-by-115544719892433097",
+      "published": "2026-11-25T16:54:29Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T16:54:29Z",
+      "wm-id": 2057496,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117676848950355123/115544719892433097",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-moroccan-high-atlas/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-moroccan-high-atlas/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0de06fbea9fecf9fa944c1060829178c9b60e83b0121bfb6cef6a8d434a5a738.jpg",
+        "url": "https://gram.social/behindthelens"
+      },
+      "url": "https://mamot.fr/@nhoizey/117672367866253210#favorited-by-115544719892433097",
+      "published": "2026-11-25T16:54:30Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T16:54:30Z",
+      "wm-id": 2057497,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117672367866253210/115544719892433097",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/travels/africa/morocco/inoummar-agadir/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ela",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/0de06fbea9fecf9fa944c1060829178c9b60e83b0121bfb6cef6a8d434a5a738.jpg",
+        "url": "https://gram.social/behindthelens"
+      },
+      "url": "https://mamot.fr/@nhoizey/117671187268873323#favorited-by-115544719892433097",
+      "published": "2026-11-25T16:54:31Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T16:54:31Z",
+      "wm-id": 2057498,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117671187268873323/115544719892433097",
+      "wm-target": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/asif-oussaka/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Thijs Lucas",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/b9b1d24bc58cfce5eed887a49fa3fbfa993addc425e53a4eac73ea17e626f974.jpg",
+        "url": "https://pixel.tchncs.de/Thijs_Lucas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117678033276542143#favorited-by-113856560557033345",
+      "published": "2026-11-25T17:33:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T17:33:42Z",
+      "wm-id": 2057505,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117678033276542143/113856560557033345",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117678033276542143#favorited-by-113513794052763932",
+      "published": "2026-11-25T17:33:42Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T17:33:42Z",
+      "wm-id": 2057504,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117678033276542143/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bluejay",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f8ba87131ff85277d9bbc3c60d5dbad58e942a55b8977a59cc378205f3303472.jpg",
+        "url": "https://ohai.social/@bluejay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117678033276542143#favorited-by-114008985146638910",
+      "published": "2026-11-25T17:59:46Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T17:59:46Z",
+      "wm-id": 2057508,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117678033276542143/114008985146638910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bluejay",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/f8ba87131ff85277d9bbc3c60d5dbad58e942a55b8977a59cc378205f3303472.jpg",
+        "url": "https://ohai.social/@bluejay"
+      },
+      "url": "https://mamot.fr/@nhoizey/117678033276542143#reblogged-by-114008985146638910",
+      "published": "2026-11-25T17:59:47Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T17:59:47Z",
+      "wm-id": 2057509,
+      "wm-source": "https://brid.gy/repost/mastodon/@nhoizey@mamot.fr/117678033276542143/114008985146638910",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117678033276542143#favorited-by-114891269374305316",
+      "published": "2026-11-25T19:03:04Z",
+      "published_ts": null,
+      "wm-received": "2026-11-25T19:03:04Z",
+      "wm-id": 2057524,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117678033276542143/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
       "wm-property": "like-of",
       "wm-private": false
     }
