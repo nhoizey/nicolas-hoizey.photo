@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-11-27T06:17:00.003Z",
+  "lastFetched": "2026-11-28T06:15:07.011Z",
   "webmentions": [
     {
       "type": "entry",
@@ -327536,6 +327536,334 @@
       "wm-target": "https://nicolas-hoizey.photo/photos/the-castle-of-milazzo/",
       "wm-protocol": "webmention",
       "like-of": "https://nicolas-hoizey.photo/photos/the-castle-of-milazzo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117688174008119848#favorited-by-114891269374305316",
+      "published": "2026-11-27T12:05:49Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T12:05:49Z",
+      "wm-id": 2057860,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117688174008119848/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brahman-cows-in-costa-rica/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brahman-cows-in-costa-rica/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117682511515139752#favorited-by-117496695550768460",
+      "published": "2026-11-27T12:35:39Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T12:35:39Z",
+      "wm-id": 2057865,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117682511515139752/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/photos/the-castle-of-milazzo/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/the-castle-of-milazzo/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "DeeTeaTee",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/ef528015cc66f55028be0c5cf6c56aac2d5790b2298a643a992f9f6c5cd24e56.png",
+        "url": "https://pixelfed.social/DeeTeaTee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117678033276542143#favorited-by-117496695550768460",
+      "published": "2026-11-27T12:36:18Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T12:36:18Z",
+      "wm-id": 2057866,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117678033276542143/117496695550768460",
+      "wm-target": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/galleries/misc/miniature/let-s-ride/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tyler Sticka",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a3e8f10c9190a71c8b5813cb592445962f91252468058abbac98ecff88025553.png",
+        "url": "https://social.lol/@tylersticka"
+      },
+      "url": "https://mamot.fr/@nhoizey/117689356178431801#favorited-by-110651355078160221",
+      "published": "2026-11-27T16:38:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T16:38:14Z",
+      "wm-id": 2057901,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117689356178431801/110651355078160221",
+      "wm-target": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117689356178431801#favorited-by-114307257434206498",
+      "published": "2026-11-27T16:38:14Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T16:38:14Z",
+      "wm-id": 2057900,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117689356178431801/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Bäume verschenken im Regenwald",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/d4b63e370e8950c9174efaebcae6c2b88452dc1c2f94cfb623b481dc084efa4a.jpg",
+        "url": "https://social.tchncs.de/@PlantacionesEdelman"
+      },
+      "url": "https://mamot.fr/@nhoizey/117689356178431801#favorited-by-359288",
+      "published": "2026-11-27T17:08:58Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T17:08:58Z",
+      "wm-id": 2057908,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117689356178431801/359288",
+      "wm-target": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "playdoh kitchen",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/a22aaa1865c9520c6314ced058c7fa982a5eda567ef2b22b3bd3ce37cffc746c.jpg",
+        "url": "https://pixelfed.social/flaps015"
+      },
+      "url": "https://mamot.fr/@nhoizey/117689356178431801#favorited-by-114891269374305316",
+      "published": "2026-11-27T17:08:58Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T17:08:58Z",
+      "wm-id": 2057907,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117689356178431801/114891269374305316",
+      "wm-target": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G.Matthias Schüler - gmsfotos",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2b294f2bf55b095a18c51dfce1e93c14caa144874c54a47cd5a4b20e6ba9cc8a.jpg",
+        "url": "https://kirche.social/@gmsfotos"
+      },
+      "url": "https://mamot.fr/@nhoizey/117689356178431801#favorited-by-109546769351149860",
+      "published": "2026-11-27T17:08:59Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T17:08:59Z",
+      "wm-id": 2057909,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117689356178431801/109546769351149860",
+      "wm-target": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sol R. ⛅",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/198355571dd89d9ae69a3e197699591f3eb0a41a02dc76220c3e189a7c30fd3a.jpg",
+        "url": "https://mamot.fr/@MarSolRivas"
+      },
+      "url": "https://mamot.fr/@nhoizey/117689356178431801#favorited-by-329706",
+      "published": "2026-11-27T17:09:01Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T17:09:01Z",
+      "wm-id": 2057911,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117689356178431801/329706",
+      "wm-target": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117689356178431801#favorited-by-113513794052763932",
+      "published": "2026-11-27T17:09:01Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T17:09:01Z",
+      "wm-id": 2057910,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117689356178431801/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lee from Colorado",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3eebb0e21fe7e181293ad94fde6749ddef0d68b374db6be1118c24b3c10221aa.jpg",
+        "url": "https://mstdn.social/@colo_lee"
+      },
+      "url": "https://mamot.fr/@nhoizey/117689356178431801#favorited-by-113069490426254653",
+      "published": "2026-11-27T17:09:05Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T17:09:05Z",
+      "wm-id": 2057912,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117689356178431801/113069490426254653",
+      "wm-target": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/costa-rican-chondrodesmus/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "dick van de bunt",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/3f83b18a8ec6f9675abb34f4e4ee4fe8e6267b70db023d9a1f02b594b5f59046.jpg",
+        "url": "https://pixelfed.social/d_ck"
+      },
+      "url": "https://mamot.fr/@nhoizey/117688174008119848#favorited-by-114307257434206498",
+      "published": "2026-11-27T17:09:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T17:09:06Z",
+      "wm-id": 2057914,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117688174008119848/114307257434206498",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brahman-cows-in-costa-rica/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brahman-cows-in-costa-rica/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "arcturus@pixelfed.social",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/2f027161f557520e166dbd694661ec04e8b36183b988d6c8df505aa9d948d88d.jpg",
+        "url": "https://pixelfed.social/arcturus"
+      },
+      "url": "https://mamot.fr/@nhoizey/117688174008119848#favorited-by-113513794052763932",
+      "published": "2026-11-27T17:09:06Z",
+      "published_ts": null,
+      "wm-received": "2026-11-27T17:09:06Z",
+      "wm-id": 2057913,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117688174008119848/113513794052763932",
+      "wm-target": "https://nicolas-hoizey.photo/photos/brahman-cows-in-costa-rica/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/brahman-cows-in-costa-rica/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://social.ewenbell.com/objects/8d052e97-45af-4f95-87c8-ba8be06e7acb",
+      "published": "2026-11-28T00:29:40+00:00",
+      "published_ts": 1795825780,
+      "wm-received": "2026-11-28T00:56:23Z",
+      "wm-id": 2057980,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117691180571578735/117691238460682948",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bali-mynah/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<span class=\"h-card\"><a class=\"u-url\" href=\"https://mamot.fr/@nhoizey\">@<span>nhoizey</span></a></span> <br /><br />Yes that is correct. Even here there are only two known places to see them in the wild. There's been a program to reintroduce a dozen into the wild. They're much loved by the locals where I saw them. Such playful birds. <br /><br />I fly home today though. Bali is really special and while it's a little too popular for my liking, the upside is lots of great hotels and places to eat. I've been shooting around Ubud, not the coastal areas.",
+        "text": "@nhoizey \n\nYes that is correct. Even here there are only two known places to see them in the wild. There's been a program to reintroduce a dozen into the wild. They're much loved by the locals where I saw them. Such playful birds. \n\nI fly home today though. Bali is really special and while it's a little too popular for my liking, the upside is lots of great hotels and places to eat. I've been shooting around Ubud, not the coastal areas."
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/bali-mynah/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nicolas Hoizey",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/68e6f1617572bd4c2158727e6c1693ec1d0ab76e3f29f51d93c5895ee2c8e6b0.jpg",
+        "url": "https://mamot.fr/@nhoizey"
+      },
+      "url": "https://mamot.fr/@nhoizey/117691253513550872",
+      "published": "2026-11-28T00:33:31+00:00",
+      "published_ts": 1795826011,
+      "wm-received": "2026-11-28T00:56:23Z",
+      "wm-id": 2057981,
+      "wm-source": "https://brid.gy/comment/mastodon/@nhoizey@mamot.fr/117691180571578735/117691253513550872",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bali-mynah/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://social.ewenbell.com/users/ewen\" class=\"u-url\">@<span>ewen</span></a></span> ok, I hope the reintroduction will be successful, I didn’t know there are only a few of them left.</p>",
+        "text": "@ewen ok, I hope the reintroduction will be successful, I didn’t know there are only a few of them left."
+      },
+      "in-reply-to": "https://nicolas-hoizey.photo/photos/bali-mynah/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ewen Bell 📸",
+        "photo": "https://avatars.webmention.io/static.mamot.fr/88a6aa80a1cc01b8467ce9372eb172cbdc715fe7f1a5bd04ff3666d2c5ed4811.jpg",
+        "url": "https://social.ewenbell.com/users/ewen"
+      },
+      "url": "https://mamot.fr/@nhoizey/117691180571578735#favorited-by-114646450789715986",
+      "published": "2026-11-28T00:56:24Z",
+      "published_ts": null,
+      "wm-received": "2026-11-28T00:56:24Z",
+      "wm-id": 2057982,
+      "wm-source": "https://brid.gy/like/mastodon/@nhoizey@mamot.fr/117691180571578735/114646450789715986",
+      "wm-target": "https://nicolas-hoizey.photo/photos/bali-mynah/",
+      "wm-protocol": "webmention",
+      "like-of": "https://nicolas-hoizey.photo/photos/bali-mynah/",
       "wm-property": "like-of",
       "wm-private": false
     }
